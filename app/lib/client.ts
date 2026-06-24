@@ -11,15 +11,42 @@ import { SYSTEM_PROMPT, buildUserPrompt, slugify } from "./prompt";
 export function extractJson(text: string): unknown {
   if (!text) throw new Error("Empty model response");
   let t = text.trim();
-  // strip code fences
-  const fence = t.match(/```(?:json)?\s*([\s\S]*?)```/i);
-  if (fence) t = fence[1].trim();
+
+  // Strip a wrapping code fence ONLY when the WHOLE response starts with one.
+  // We must NOT use a global ``` match here: the article's contentMarkdown can
+  // itself contain ```html / ```css blocks (e.g. a sample CSS with `body { ... }`),
+  // and a global match would extract that inner block and then JSON.parse the CSS —
+  // which fails with "Expected property name or '}'".
+  if (t.startsWith("```")) {
+    t = t
+      .replace(/^```(?:json)?\s*\n?/i, "")
+      .replace(/\n?```\s*$/i, "")
+      .trim();
+  }
+
   // find the outermost { ... }
   const start = t.indexOf("{");
   const end = t.lastIndexOf("}");
-  if (start === -1 || end === -1 || end <= start) throw new Error("No JSON object found in response");
+  if (start === -1 || end === -1 || end <= start) {
+    console.error("[blog-automation] extractJson: no JSON object found. Raw response:\n", text);
+    throw new Error("No JSON object found in response");
+  }
   const slice = t.slice(start, end + 1);
-  return JSON.parse(slice);
+  try {
+    return JSON.parse(slice);
+  } catch (err) {
+    const pos = err instanceof Error ? (err.message.match(/position (\d+)/)?.[1] ?? null) : null;
+    const around = pos ? slice.slice(Math.max(0, +pos - 60), +pos + 60) : slice.slice(0, 200);
+    console.error(
+      "[blog-automation] extractJson: JSON.parse failed:",
+      err instanceof Error ? err.message : err,
+      "\n--- context around the error ---\n",
+      around,
+      "\n--- full slice that failed to parse ---\n",
+      slice
+    );
+    throw new Error(`Could not parse model JSON: ${err instanceof Error ? err.message : "unknown error"}`);
+  }
 }
 
 /** Coerce + sanitize the model output into a safe GeneratedArticle. */
@@ -142,7 +169,15 @@ export async function generateArticle(settings: Settings, row: KeywordRow): Prom
   const data = (await res.json()) as { text?: string; error?: string };
   if (!res.ok || data.error) throw new Error(data.error || `Generation failed (${res.status})`);
 
-  const article = normalizeArticle(extractJson(data.text || ""), row);
+  let parsed: unknown;
+  try {
+    parsed = extractJson(data.text || "");
+  } catch (err) {
+    // Surface the exact failing response so it can be debugged from the console.
+    console.error(`[blog-automation] Failed to parse article for "${row.keyword}". Raw model text:\n`, data.text);
+    throw err;
+  }
+  const article = normalizeArticle(parsed, row);
   if (!article.contentMarkdown) throw new Error("Model returned no article body");
   if (article.faqs.length < 10) {
     // Not fatal — but flag it so the user knows. We still publish what we got.
