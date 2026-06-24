@@ -69,7 +69,10 @@ export function parseWorkbook(buf: ArrayBuffer): ParseResult {
       row.id = `${i}-${norm(row.keyword).slice(0, 40) || "row"}`;
       return row;
     })
-    .filter((r) => r.keyword); // drop empty rows
+    // Drop empty rows AND any stray header-label row (some sheets repeat the
+    // "Keyword" header as a data row) — a real target keyword is never literally
+    // "keyword"/"keywords"/"target keyword".
+    .filter((r) => r.keyword && !["keyword", "keywords", "targetkeyword"].includes(norm(r.keyword)));
 
   return { rows, headers };
 }

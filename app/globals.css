@@ -29,6 +29,11 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  /* Never allow horizontal scroll on mobile — a stray wide child (e.g. a long
+     unbreakable filename) must clip, not shift the whole layout sideways.
+     `clip` avoids creating a scroll container, so sticky/position stay intact. */
+  overflow-x: clip;
+  max-width: 100%;
 }
 
 * {

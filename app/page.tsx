@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { KeywordRow, RowResult, Settings, StoredBlog, TaxonomyItem } from "./lib/types";
+import type { KeywordRow, RowResult, Settings, StoredBlog, TaxonomyItem, TemplateItem } from "./lib/types";
 import {
   DEFAULT_SETTINGS,
   clearSheet as clearSheetStorage,
@@ -18,7 +18,7 @@ import { clearAllBlogs, deleteBlog, getAllBlogs, saveBlog } from "./lib/db";
 import { exportToExcel, parseWorkbook } from "./lib/excel";
 import { connectArticle, fetchTaxonomy, generateArticle, publishArticle, setArticleCover } from "./lib/client";
 import { PROVIDER_LABELS } from "./lib/models";
-import SettingsPanel, { TaxonomySelect } from "./components/SettingsPanel";
+import SettingsPanel, { TaxonomySelect, TemplateMultiSelect } from "./components/SettingsPanel";
 import KeywordTable from "./components/KeywordTable";
 import Sidebar, { type View } from "./components/Sidebar";
 import BlogLibrary from "./components/BlogLibrary";
@@ -40,6 +40,7 @@ export default function Home() {
 
   const [categories, setCategories] = useState<TaxonomyItem[]>([]);
   const [authors, setAuthors] = useState<TaxonomyItem[]>([]);
+  const [templates, setTemplates] = useState<TemplateItem[]>([]);
   const [taxonomyLoading, setTaxonomyLoading] = useState(false);
   const [taxonomyError, setTaxonomyError] = useState("");
 
@@ -71,9 +72,10 @@ export default function Home() {
     setTaxonomyLoading(true);
     setTaxonomyError("");
     try {
-      const { categories: cats, authors: auths } = await fetchTaxonomy(s);
+      const { categories: cats, authors: auths, templates: tpls } = await fetchTaxonomy(s);
       setCategories(cats);
       setAuthors(auths);
+      setTemplates(tpls);
     } catch (e) {
       setTaxonomyError(e instanceof Error ? e.message : "Failed to load categories/authors");
     } finally {
@@ -239,6 +241,8 @@ export default function Home() {
             categoryName: settings.defaultCategoryName,
             authorId: settings.defaultAuthorId,
             authorName: settings.defaultAuthorName,
+            templateIds: settings.defaultTemplateIds,
+            templateNames: settings.defaultTemplateNames,
             createdAt: new Date().toISOString(),
           });
           await refreshBlogs();
@@ -285,20 +289,36 @@ export default function Home() {
     addLog("🗑️ Cleared the entire blog library.");
   }
 
-  async function handleConnect(blogId: string, category: TaxonomyItem | null, author: TaxonomyItem | null) {
+  async function handleConnect(
+    blogId: string,
+    category: TaxonomyItem | null,
+    author: TaxonomyItem | null,
+    linkedTemplates: TemplateItem[]
+  ) {
     const blog = blogs.find((b) => b.id === blogId);
     if (!blog?.documentId) throw new Error("This blog has no Strapi document id yet — publish it first.");
-    const result = await connectArticle(settings, blog.documentId, category?.documentId, author?.documentId);
+    const templateIds = linkedTemplates.map((t) => t.documentId);
+    const result = await connectArticle(
+      settings,
+      blog.documentId,
+      category?.documentId,
+      author?.documentId,
+      // Always send the array (even []) so de-selecting clears the relation.
+      templateIds
+    );
     await saveBlog({
       ...blog,
       categoryId: category?.documentId,
       categoryName: category?.name,
       authorId: author?.documentId,
       authorName: author?.name,
+      templateIds,
+      templateNames: linkedTemplates.map((t) => t.name),
     });
     await refreshBlogs();
+    const tplLabel = linkedTemplates.length ? `${linkedTemplates.length} template${linkedTemplates.length > 1 ? "s" : ""}` : "no templates";
     addLog(
-      `🔗 Connected "${blog.article.title}" → ${author?.name || "no author"} · ${category?.name || "no category"}` +
+      `🔗 Connected "${blog.article.title}" → ${author?.name || "no author"} · ${category?.name || "no category"} · ${tplLabel}` +
         (result.publishState === "draft" ? " (saved as draft — add the CMS update endpoint to publish)." : ".")
     );
   }
@@ -355,33 +375,36 @@ export default function Home() {
         totalKeywords={stats.total}
       />
 
-      <div className="ml-60">
+      {/* lg+: offset by the fixed rail. Below lg: full width + bottom padding so
+          content clears the fixed bottom tab bar (plus iOS safe-area inset). */}
+      <div className="lg:ml-60 pb-[calc(5rem+env(safe-area-inset-bottom))] lg:pb-0">
         {/* Header */}
         <header
-          className="sticky top-0 z-20 backdrop-blur border-b"
-          style={{ borderColor: "var(--border)", background: "color-mix(in srgb, var(--bg) 85%, transparent)" }}
+          className="sticky top-0 z-30 backdrop-blur-xl border-b"
+          style={{ borderColor: "var(--border)", background: "color-mix(in srgb, var(--bg) 92%, transparent)" }}
         >
-          <div className="px-7 py-4 flex items-center justify-between gap-4 flex-wrap">
-            <div>
-              <h1 className="text-lg font-semibold leading-tight">{head.title}</h1>
-              <p className="text-[11px] text-[var(--muted)]">{head.sub}</p>
+          <div className="px-4 sm:px-7 py-3 sm:py-4 flex items-center justify-between gap-3">
+            <div className="min-w-0">
+              <h1 className="text-base sm:text-lg font-semibold leading-tight truncate">{head.title}</h1>
+              <p className="text-[11px] text-[var(--muted)] hidden sm:block">{head.sub}</p>
             </div>
             {view === "generate" && hasRows && (
-              <div className="flex items-center gap-2 flex-wrap">
+              <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
                 <Stat label="Done" value={stats.done} color="var(--green)" />
                 <Stat label="Errors" value={stats.error} color="var(--red)" />
                 <button
-                  className="btn btn-ghost"
+                  className="btn btn-ghost px-2.5 sm:px-4"
                   onClick={() => exportToExcel(rows, results, settings.siteUrl, settings.blogPathPrefix)}
+                  title="Export to Excel"
                 >
-                  ⬇ Export Excel
+                  ⬇<span className="hidden sm:inline ml-1">Export Excel</span>
                 </button>
               </div>
             )}
           </div>
         </header>
 
-        <main className="px-7 py-6 w-full">
+        <main className="px-4 sm:px-7 py-5 sm:py-6 w-full">
           {/* ── GENERATE ───────────────────────────────────────────── */}
           {view === "generate" && (
             <div className="space-y-6">
@@ -389,59 +412,65 @@ export default function Home() {
 
               {hasRows && (
                 <div className="card p-5 space-y-4">
-                  {/* Status chips + generate actions */}
-                  <div className="flex items-center justify-between gap-4 flex-wrap">
-                    <div className="flex items-center gap-2 flex-wrap">
-                      <span
-                        className="w-8 h-8 rounded-lg grid place-items-center text-white shrink-0"
-                        style={{ background: "linear-gradient(135deg,var(--accent),#9d5cff)" }}
-                      >
-                        ✍
-                      </span>
-                      <span className="text-sm text-[var(--muted)]">Writing with</span>
-                      <span className="pill" style={{ background: "var(--panel-2)", color: "var(--text)" }}>
-                        {PROVIDER_LABELS[provider]}
-                      </span>
-                      <span
-                        className="pill font-mono"
-                        style={{ background: "rgba(108,99,255,0.14)", color: "var(--accent-2)" }}
-                      >
-                        {settings.models[provider] || "—"}
-                      </span>
-                      <span
-                        className="pill"
-                        style={{
-                          background: settings.autoPublish ? "rgba(46,204,113,0.14)" : "rgba(245,166,35,0.14)",
-                          color: settings.autoPublish ? "var(--green)" : "var(--amber)",
-                        }}
-                      >
-                        ● auto-publish {settings.autoPublish ? "ON" : "OFF"}
-                      </span>
-                      <span className="pill" style={{ background: "var(--panel-2)", color: "var(--muted)" }}>
-                        {selected.size} selected
-                      </span>
+                  {/* Writer header — provider, model & batch status */}
+                  <div className="flex items-center gap-3">
+                    <span
+                      className="w-11 h-11 rounded-2xl grid place-items-center text-white shrink-0 text-xl shadow-lg"
+                      style={{ background: "linear-gradient(135deg,var(--accent),#9d5cff)", boxShadow: "0 6px 18px rgba(108,99,255,0.35)" }}
+                    >
+                      ✍
+                    </span>
+                    <div className="min-w-0 flex-1">
+                      <div className="flex items-center gap-2 flex-wrap">
+                        <span className="text-[15px] font-semibold leading-none">{PROVIDER_LABELS[provider]}</span>
+                        <span
+                          className="pill font-mono"
+                          style={{ background: "rgba(108,99,255,0.14)", color: "var(--accent-2)" }}
+                        >
+                          {settings.models[provider] || "—"}
+                        </span>
+                      </div>
+                      <div className="flex items-center gap-2 mt-1.5 text-[11px] text-[var(--muted)]">
+                        <span className="inline-flex items-center gap-1.5">
+                          <span
+                            className="w-1.5 h-1.5 rounded-full"
+                            style={{ background: settings.autoPublish ? "var(--green)" : "var(--amber)" }}
+                          />
+                          auto-publish {settings.autoPublish ? "ON" : "OFF"}
+                        </span>
+                        <span className="opacity-40">·</span>
+                        <span>
+                          <span className="text-[var(--text)] font-medium">{selected.size}</span> selected
+                        </span>
+                      </div>
                     </div>
-                    <div className="flex items-center gap-2 flex-wrap">
-                      {running ? (
-                        <button className="btn btn-danger" onClick={() => (stopRef.current = true)}>
-                          ■ Stop
+                  </div>
+
+                  {/* Generate actions */}
+                  <div className="flex items-center gap-2.5 flex-wrap">
+                    {running ? (
+                      <button className="btn btn-danger w-full" onClick={() => (stopRef.current = true)}>
+                        ■ Stop generating
+                      </button>
+                    ) : (
+                      <>
+                        <button
+                          className="btn btn-ghost flex-1 sm:flex-none"
+                          disabled={!selected.size}
+                          onClick={() => run(selectedPendingIds())}
+                        >
+                          Generate Selected ({selectedPendingIds().length})
                         </button>
-                      ) : (
-                        <>
-                          <button className="btn btn-ghost" disabled={!selected.size} onClick={() => run(selectedPendingIds())}>
-                            Generate Selected ({selectedPendingIds().length})
-                          </button>
-                          <button
-                            className="btn btn-primary"
-                            disabled={!allSelected || allPendingIds().length === 0}
-                            title={!allSelected ? "Select all keywords to generate the whole sheet" : undefined}
-                            onClick={() => run(allPendingIds())}
-                          >
-                            ⚡ Generate All ({allPendingIds().length})
-                          </button>
-                        </>
-                      )}
-                    </div>
+                        <button
+                          className="btn btn-primary flex-1 sm:flex-none"
+                          disabled={!allSelected || allPendingIds().length === 0}
+                          title={!allSelected ? "Select all keywords to generate the whole sheet" : undefined}
+                          onClick={() => run(allPendingIds())}
+                        >
+                          ⚡ Generate All ({allPendingIds().length})
+                        </button>
+                      </>
+                    )}
                   </div>
 
                   {/* Author + category applied to EVERY blog in this batch */}
@@ -480,6 +509,21 @@ export default function Home() {
                           updateSettings({ ...settings, defaultCategoryId: i?.documentId, defaultCategoryName: i?.name })
                         }
                         emptyHint="No categories — create one in Strapi, then ↻ Reload."
+                      />
+                    </div>
+                    <div className="mt-4">
+                      <TemplateMultiSelect
+                        label="Linked Templates (Create-a-surprise CTA)"
+                        items={templates}
+                        selectedIds={settings.defaultTemplateIds || []}
+                        onChange={(ids, items) =>
+                          updateSettings({
+                            ...settings,
+                            defaultTemplateIds: ids,
+                            defaultTemplateNames: items.map((i) => i.name),
+                          })
+                        }
+                        emptyHint="No templates — create them in Strapi → Content Manager → Template, then ↻ Reload."
                       />
                     </div>
                   </div>
@@ -527,6 +571,7 @@ export default function Home() {
                 onDelete={handleDeleteBlog}
                 categories={categories}
                 authors={authors}
+                templates={templates}
                 onConnect={handleConnect}
                 onSaveCover={handleSaveCover}
               />
@@ -547,6 +592,7 @@ export default function Home() {
                 onChange={updateSettings}
                 categories={categories}
                 authors={authors}
+                templates={templates}
                 taxonomyLoading={taxonomyLoading}
                 taxonomyError={taxonomyError}
                 onReloadTaxonomy={() => loadTaxonomy(settings)}
@@ -566,6 +612,7 @@ export default function Home() {
             onDelete={handleDeleteBlog}
             categories={categories}
             authors={authors}
+            templates={templates}
             onConnect={handleConnect}
             onSaveCover={handleSaveCover}
           />
@@ -577,9 +624,9 @@ export default function Home() {
 
 function Stat({ label, value, color }: { label: string; value: number; color?: string }) {
   return (
-    <div className="px-3 py-1.5 rounded-lg bg-[var(--panel-2)] border" style={{ borderColor: "var(--border)" }}>
-      <span className="text-xs text-[var(--muted)]">{label} </span>
-      <span className="text-sm font-semibold" style={{ color: color || "var(--text)" }}>
+    <div className="px-2.5 py-1 rounded-lg bg-[var(--panel-2)] border flex items-center gap-1" style={{ borderColor: "var(--border)" }}>
+      <span className="text-[11px] text-[var(--muted)]">{label}</span>
+      <span className="text-sm font-bold" style={{ color: color || "var(--text)" }}>
         {value}
       </span>
     </div>
@@ -612,16 +659,16 @@ function UploadZone({
       className="card p-4 flex items-center justify-between gap-4 flex-wrap transition-colors"
       style={{ borderColor: drag ? "var(--accent)" : "var(--border)" }}
     >
-      <div className="flex items-center gap-3">
-        <div className="w-10 h-10 rounded-lg grid place-items-center bg-[var(--panel-2)]">📊</div>
-        <div>
-          <p className="text-sm font-medium">{fileName ? fileName : "Upload your keyword sheet"}</p>
-          <p className="text-xs text-[var(--muted)]">
+      <div className="flex items-center gap-3 min-w-0 flex-1">
+        <div className="w-10 h-10 rounded-lg grid place-items-center bg-[var(--panel-2)] shrink-0">📊</div>
+        <div className="min-w-0">
+          <p className="text-sm font-medium truncate">{fileName ? fileName : "Upload your keyword sheet"}</p>
+          <p className="text-xs text-[var(--muted)] line-clamp-2 sm:line-clamp-none">
             .xlsx / .csv — columns: Keyword, Strategy / Intent Cluster, Search Volume, Ranking Difficulty, Asset Type…
           </p>
         </div>
       </div>
-      <div className="flex items-center gap-2">
+      <div className="flex items-center gap-2 shrink-0">
         {onClear && (
           <button className="btn btn-danger" onClick={onClear}>
             Clear

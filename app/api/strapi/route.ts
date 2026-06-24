@@ -1,4 +1,4 @@
-import type { GeneratedArticle, StrapiPublishBody, TaxonomyItem } from "@/app/lib/types";
+import type { GeneratedArticle, StrapiPublishBody, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 
 // Publish a generated article to Strapi. Tries the custom create-and-publish
 // endpoint first (instant publish → fires the revalidate webhook). Falls back to
@@ -7,8 +7,8 @@ import type { GeneratedArticle, StrapiPublishBody, TaxonomyItem } from "@/app/li
 export const runtime = "nodejs";
 export const maxDuration = 120;
 
-// GET → fetch the Strapi categories + authors so the studio can let the user pick
-// which one to connect an article to. Token comes via the x-strapi-token header.
+// GET → fetch the Strapi categories + authors + templates so the studio can let
+// the user pick what to connect/link an article to. Token via x-strapi-token.
 export async function GET(req: Request) {
   const url = new URL(req.url);
   const strapiUrl = url.searchParams.get("strapiUrl") || "";
@@ -20,14 +20,39 @@ export async function GET(req: Request) {
   if (strapiToken) headers.Authorization = `Bearer ${strapiToken}`;
 
   try {
-    const [categories, authors] = await Promise.all([
+    const [categories, authors, templates] = await Promise.all([
       fetchTaxonomy(`${base}/api/categories?pagination[pageSize]=200&sort=name:asc`, headers),
       fetchTaxonomy(`${base}/api/authors?pagination[pageSize]=200&sort=name:asc`, headers),
+      // Templates are optional — if the collection isn't present, degrade to [].
+      fetchTemplates(`${base}/api/templates?pagination[pageSize]=200&sort=order:asc`, headers).catch(() => []),
     ]);
-    return json({ categories, authors });
+    return json({ categories, authors, templates });
   } catch (err) {
     return json({ error: err instanceof Error ? err.message : "Failed to load taxonomy" }, 502);
   }
+}
+
+async function fetchTemplates(url: string, headers: Record<string, string>): Promise<TemplateItem[]> {
+  const res = await fetch(url, { headers });
+  const data = await res.json().catch(() => null);
+  if (!res.ok) {
+    const d = data as { error?: { message?: string } } | null;
+    throw new Error(`Strapi ${res.status}: ${d?.error?.message || res.statusText}`);
+  }
+  const list = (data as { data?: unknown[] })?.data || [];
+  return list
+    .map((raw) => {
+      const o = raw as Record<string, unknown>;
+      const attrs = (o.attributes as Record<string, unknown>) || o;
+      return {
+        documentId: String(o.documentId ?? o.id ?? ""),
+        name: String(attrs.title ?? attrs.name ?? ""),
+        url: attrs.url ? String(attrs.url) : undefined,
+        emoji: attrs.emoji ? String(attrs.emoji) : undefined,
+        category: attrs.category ? String(attrs.category) : undefined,
+      } as TemplateItem;
+    })
+    .filter((t) => t.documentId && t.name);
 }
 
 async function fetchTaxonomy(url: string, headers: Record<string, string>): Promise<TaxonomyItem[]> {
@@ -60,14 +85,14 @@ export async function POST(req: Request) {
     return json({ error: "Invalid JSON body" }, 400);
   }
 
-  const { strapiUrl, strapiToken, autoPublish, article, categoryId, authorId } = body;
+  const { strapiUrl, strapiToken, autoPublish, article, categoryId, authorId, templateIds } = body;
   if (!strapiUrl || !article) return json({ error: "Missing strapiUrl or article" }, 400);
 
   const base = strapiUrl.replace(/\/+$/, "");
   const headers: Record<string, string> = { "Content-Type": "application/json" };
   if (strapiToken) headers.Authorization = `Bearer ${strapiToken}`;
 
-  const data = toStrapiData(article, categoryId, authorId);
+  const data = toStrapiData(article, categoryId, authorId, templateIds);
 
   // Strapi rejects duplicate slugs (uid is unique). Retry with a numeric suffix.
   let lastErr = "";
@@ -144,7 +169,7 @@ async function tryPost(url: string, headers: Record<string, string>, payload: un
 }
 
 /** Map our GeneratedArticle to the Strapi Article content-type shape. */
-function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: string) {
+function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: string, templateIds?: string[]) {
   return {
     title: a.title,
     slug: a.slug,
@@ -158,6 +183,8 @@ function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: strin
     // Connect the manyToOne relations by documentId (v5 accepts the id directly).
     category: categoryId || undefined,
     author: authorId || undefined,
+    // Link the manyToMany templates by documentId (array = the full set).
+    relatedTemplates: templateIds?.length ? templateIds : undefined,
     seo: {
       metaTitle: a.metaTitle || a.title,
       metaDescription: a.metaDescription || a.excerpt,

@@ -70,6 +70,20 @@ export interface TaxonomyItem {
   slug?: string;
 }
 
+/** A Strapi Template entry the user can link to an article (manyToMany relatedTemplates). */
+export interface TemplateItem {
+  /** Strapi v5 documentId — used to connect the relation. */
+  documentId: string;
+  /** Display name (Template.title). */
+  name: string;
+  /** Path or URL the template card links to, e.g. "/birthday-gf". */
+  url?: string;
+  /** Emoji icon shown in the picker, e.g. "🎂". */
+  emoji?: string;
+  /** Grouping label, e.g. "Birthday". */
+  category?: string;
+}
+
 /** A fully generated blog persisted in IndexedDB so the user can browse / view / delete it later. */
 export interface StoredBlog {
   /** Same id as the source KeywordRow (stable, dedupes re-generation). */
@@ -88,6 +102,9 @@ export interface StoredBlog {
   /** Connected Strapi author (documentId + name for display). */
   authorId?: string;
   authorName?: string;
+  /** Linked Strapi templates (documentIds + names for display) — relatedTemplates. */
+  templateIds?: string[];
+  templateNames?: string[];
   /** ISO timestamp. */
   createdAt: string;
 }
@@ -114,6 +131,9 @@ export interface Settings {
   defaultCategoryName?: string;
   defaultAuthorId?: string;
   defaultAuthorName?: string;
+  // default Strapi templates linked to every generated article (documentIds + names)
+  defaultTemplateIds?: string[];
+  defaultTemplateNames?: string[];
 }
 
 export interface GenerateRequestBody {
@@ -132,6 +152,8 @@ export interface StrapiPublishBody {
   /** Strapi documentIds to connect the category / author relations. */
   categoryId?: string;
   authorId?: string;
+  /** Strapi template documentIds to link (relatedTemplates manyToMany). */
+  templateIds?: string[];
 }
 
 export interface StrapiConnectBody {
@@ -140,6 +162,8 @@ export interface StrapiConnectBody {
   documentId: string;
   categoryId?: string;
   authorId?: string;
+  /** Replace the article's linked templates (relatedTemplates). [] clears them. */
+  templateIds?: string[];
   /** Set the article's external cover image URL (S3/CDN). */
   coverImageUrl?: string;
   /** Set the SEO component's external OG image URL (S3/CDN). */

@@ -2,9 +2,9 @@
 
 import { useMemo, useRef, useState } from "react";
 import { marked } from "marked";
-import type { StoredBlog, TaxonomyItem } from "@/app/lib/types";
+import type { StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
-import { TaxonomySelect } from "./SettingsPanel";
+import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
 
 type Tab = "article" | "faqs" | "schema" | "seo";
 
@@ -39,6 +39,7 @@ export default function BlogViewer({
   backLabel = "← Back to library",
   categories = [],
   authors = [],
+  templates = [],
   onConnect,
   onSaveCover,
 }: {
@@ -48,7 +49,13 @@ export default function BlogViewer({
   backLabel?: string;
   categories?: TaxonomyItem[];
   authors?: TaxonomyItem[];
-  onConnect?: (blogId: string, category: TaxonomyItem | null, author: TaxonomyItem | null) => Promise<void>;
+  templates?: TemplateItem[];
+  onConnect?: (
+    blogId: string,
+    category: TaxonomyItem | null,
+    author: TaxonomyItem | null,
+    templates: TemplateItem[]
+  ) => Promise<void>;
   /** Persist an external cover image URL (S3/CDN) onto the published article. */
   onSaveCover?: (blogId: string, coverImageUrl: string) => Promise<void>;
 }) {
@@ -57,6 +64,7 @@ export default function BlogViewer({
 
   const [catId, setCatId] = useState<string | undefined>(blog.categoryId);
   const [authId, setAuthId] = useState<string | undefined>(blog.authorId);
+  const [templateIds, setTemplateIds] = useState<string[]>(blog.templateIds || []);
   const [connectState, setConnectState] = useState<{ loading: boolean; msg: string; ok?: boolean }>({
     loading: false,
     msg: "",
@@ -68,7 +76,8 @@ export default function BlogViewer({
     try {
       const cat = categories.find((c) => c.documentId === catId) || null;
       const auth = authors.find((x) => x.documentId === authId) || null;
-      await onConnect(blog.id, cat, auth);
+      const tpls = templates.filter((t) => templateIds.includes(t.documentId));
+      await onConnect(blog.id, cat, auth, tpls);
       setConnectState({ loading: false, ok: true, msg: "Connected ✓ saved to the CMS." });
     } catch (e) {
       setConnectState({ loading: false, ok: false, msg: e instanceof Error ? e.message : "Connect failed" });
@@ -150,11 +159,11 @@ export default function BlogViewer({
   return (
     <div className="space-y-5">
       {/* Top bar */}
-      <div className="flex items-center justify-between gap-3 flex-wrap">
+      <div className="flex items-center justify-between gap-2 flex-wrap">
         <button className="btn btn-ghost" onClick={onBack}>
           {backLabel}
         </button>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 flex-wrap justify-end">
           <CopyBtn text={coverPrompt} label="🖼 Copy Image Prompt" />
           <CopyBtn text={a.contentMarkdown || ""} label="Copy Markdown" />
           <button className="btn btn-danger" onClick={() => onDelete(blog.id)}>
@@ -194,13 +203,15 @@ export default function BlogViewer({
         <p className="text-sm text-[var(--muted)] mb-3">{a.excerpt}</p>
         <div className="flex items-center gap-2 flex-wrap text-xs">
           <span className="text-[var(--muted)]">Slug:</span>
-          <code className="text-[var(--accent-2)]">{a.slug}</code>
+          <code className="text-[var(--accent-2)] break-all">{a.slug}</code>
+          <CopyBtn text={a.slug} label="Copy slug" />
           {a.canonicalURL && (
             <>
-              <span className="text-[var(--muted)]">·</span>
-              <a href={a.canonicalURL} target="_blank" rel="noreferrer" className="text-[var(--blue)] hover:underline truncate max-w-[320px]">
+              <span className="text-[var(--muted)] hidden sm:inline">·</span>
+              <a href={a.canonicalURL} target="_blank" rel="noreferrer" className="text-[var(--blue)] hover:underline truncate max-w-full sm:max-w-[320px]">
                 {a.canonicalURL}
               </a>
+              <CopyBtn text={a.canonicalURL} label="Copy URL" />
             </>
           )}
         </div>
@@ -221,11 +232,14 @@ export default function BlogViewer({
           <div className="flex items-center justify-between mb-1 flex-wrap gap-2">
             <h3 className="text-sm font-semibold">Connect to CMS</h3>
             <div className="text-xs text-[var(--muted)]">
-              {blog.categoryName || blog.authorName ? (
+              {blog.categoryName || blog.authorName || blog.templateIds?.length ? (
                 <>
                   Currently:{" "}
                   <span className="text-[var(--text)]">{blog.authorName || "no author"}</span> ·{" "}
-                  <span className="text-[var(--text)]">{blog.categoryName || "no category"}</span>
+                  <span className="text-[var(--text)]">{blog.categoryName || "no category"}</span> ·{" "}
+                  <span className="text-[var(--text)]">
+                    {blog.templateIds?.length ? `${blog.templateIds.length} template${blog.templateIds.length > 1 ? "s" : ""}` : "no templates"}
+                  </span>
                 </>
               ) : (
                 "Not connected yet"
@@ -251,6 +265,22 @@ export default function BlogViewer({
               emptyHint="No categories found — create one in Strapi."
             />
           </div>
+
+          {/* Linked templates (relatedTemplates) — powers the "Create a surprise" CTA */}
+          <div className="mt-4">
+            <TemplateMultiSelect
+              label="Linked Templates (Create-a-surprise CTA)"
+              items={templates}
+              selectedIds={templateIds}
+              onChange={(ids) => setTemplateIds(ids)}
+              emptyHint="No templates found — create them in Strapi → Content Manager → Template."
+            />
+            <p className="text-[11px] text-[var(--muted)] mt-1.5">
+              These template(s) appear in this post&apos;s “Create a surprise” card. None = show all templates; one =
+              link straight to it; several = open a focused picker.
+            </p>
+          </div>
+
           <div className="flex items-center gap-3 mt-4">
             <button
               className="btn btn-primary"

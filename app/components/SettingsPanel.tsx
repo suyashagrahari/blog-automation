@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Provider, Settings, TaxonomyItem } from "@/app/lib/types";
+import type { Provider, Settings, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { KEY_HELP, MODELS, PROVIDER_LABELS } from "@/app/lib/models";
 
 const PROVIDERS: Provider[] = ["openai", "gemini", "anthropic"];
@@ -12,6 +12,7 @@ export default function SettingsPanel({
   onChange,
   categories,
   authors,
+  templates,
   taxonomyLoading,
   taxonomyError,
   onReloadTaxonomy,
@@ -20,6 +21,7 @@ export default function SettingsPanel({
   onChange: (s: Settings) => void;
   categories: TaxonomyItem[];
   authors: TaxonomyItem[];
+  templates: TemplateItem[];
   taxonomyLoading: boolean;
   taxonomyError: string;
   onReloadTaxonomy: () => void;
@@ -239,6 +241,22 @@ export default function SettingsPanel({
               emptyHint="No categories found — create one in Strapi → Content Manager → Category."
             />
           </div>
+
+          <div className="mt-4">
+            <TemplateMultiSelect
+              label="Default Linked Templates (Create-a-surprise CTA)"
+              items={templates}
+              selectedIds={settings.defaultTemplateIds || []}
+              onChange={(ids, items) =>
+                set({ defaultTemplateIds: ids, defaultTemplateNames: items.map((i) => i.name) })
+              }
+              emptyHint="No templates found — create them in Strapi → Content Manager → Template, then ↻ Reload."
+            />
+            <p className="text-[11px] text-[var(--muted)] mt-1.5">
+              Linked templates power the blog&apos;s “Create a surprise” card. Pick none to let the post show all
+              templates; pick one to send readers straight to it; pick several to open a focused picker.
+            </p>
+          </div>
         </div>
       </section>
     </div>
@@ -279,6 +297,84 @@ export function TaxonomySelect({
         ))}
       </select>
       {items.length === 0 && emptyHint && <p className="text-[11px] text-[var(--muted)] mt-1">{emptyHint}</p>}
+    </div>
+  );
+}
+
+/**
+ * Multi-select chip list for linking Strapi templates (the manyToMany
+ * relatedTemplates relation). Click a chip to toggle it; `onChange` returns both
+ * the selected documentIds and the matching items (so callers can store names).
+ */
+export function TemplateMultiSelect({
+  label,
+  items,
+  selectedIds,
+  onChange,
+  emptyHint,
+}: {
+  label: string;
+  items: TemplateItem[];
+  selectedIds: string[];
+  onChange: (ids: string[], items: TemplateItem[]) => void;
+  emptyHint?: string;
+}) {
+  const selected = new Set(selectedIds);
+  const emit = (next: Set<string>) => {
+    const chosen = items.filter((i) => next.has(i.documentId));
+    onChange(chosen.map((i) => i.documentId), chosen);
+  };
+  const toggle = (id: string) => {
+    const next = new Set(selected);
+    if (next.has(id)) next.delete(id);
+    else next.add(id);
+    emit(next);
+  };
+
+  return (
+    <div>
+      <div className="flex items-center justify-between">
+        <label className="label">{label}</label>
+        {selectedIds.length > 0 && (
+          <button
+            type="button"
+            className="text-[11px] text-[var(--blue)] hover:underline"
+            onClick={() => onChange([], [])}
+          >
+            Clear ({selectedIds.length})
+          </button>
+        )}
+      </div>
+      {items.length === 0 ? (
+        emptyHint && <p className="text-[11px] text-[var(--muted)] mt-1">{emptyHint}</p>
+      ) : (
+        <div
+          className="flex flex-wrap gap-2 mt-1 max-h-44 overflow-y-auto rounded-lg p-2"
+          style={{ background: "var(--bg)", border: "1px solid var(--border)" }}
+        >
+          {items.map((i) => {
+            const on = selected.has(i.documentId);
+            return (
+              <button
+                key={i.documentId}
+                type="button"
+                onClick={() => toggle(i.documentId)}
+                className="pill transition-colors"
+                title={i.url || i.name}
+                style={{
+                  background: on ? "rgba(108,99,255,0.18)" : "var(--panel-2)",
+                  color: on ? "var(--accent-2)" : "var(--muted)",
+                  border: on ? "1px solid var(--accent)" : "1px solid var(--border)",
+                }}
+              >
+                {on ? "✓ " : ""}
+                {i.emoji ? `${i.emoji} ` : ""}
+                {i.name}
+              </button>
+            );
+          })}
+        </div>
+      )}
     </div>
   );
 }

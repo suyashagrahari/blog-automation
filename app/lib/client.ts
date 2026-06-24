@@ -1,4 +1,4 @@
-import type { GeneratedArticle, KeywordRow, Settings, TaxonomyItem } from "./types";
+import type { GeneratedArticle, KeywordRow, Settings, TaxonomyItem, TemplateItem } from "./types";
 import { SYSTEM_PROMPT, buildUserPrompt, slugify } from "./prompt";
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -204,6 +204,7 @@ export async function publishArticle(settings: Settings, article: GeneratedArtic
       article,
       categoryId: settings.defaultCategoryId || undefined,
       authorId: settings.defaultAuthorId || undefined,
+      templateIds: settings.defaultTemplateIds?.length ? settings.defaultTemplateIds : undefined,
     }),
   });
   const data = (await res.json()) as { documentId?: string; publishState?: "published" | "draft"; error?: string };
@@ -211,25 +212,35 @@ export async function publishArticle(settings: Settings, article: GeneratedArtic
   return { documentId: data.documentId, publishState: data.publishState || "draft" };
 }
 
-/** Fetch the Strapi categories + authors (for the connect dropdowns). */
+/** Fetch the Strapi categories + authors + templates (for the connect dropdowns). */
 export async function fetchTaxonomy(
   settings: Settings
-): Promise<{ categories: TaxonomyItem[]; authors: TaxonomyItem[] }> {
-  if (!settings.strapiUrl) return { categories: [], authors: [] };
+): Promise<{ categories: TaxonomyItem[]; authors: TaxonomyItem[]; templates: TemplateItem[] }> {
+  if (!settings.strapiUrl) return { categories: [], authors: [], templates: [] };
   const res = await fetch(`/api/strapi?strapiUrl=${encodeURIComponent(settings.strapiUrl)}`, {
     headers: settings.strapiToken ? { "x-strapi-token": settings.strapiToken } : {},
   });
-  const data = (await res.json()) as { categories?: TaxonomyItem[]; authors?: TaxonomyItem[]; error?: string };
+  const data = (await res.json()) as {
+    categories?: TaxonomyItem[];
+    authors?: TaxonomyItem[];
+    templates?: TemplateItem[];
+    error?: string;
+  };
   if (!res.ok || data.error) throw new Error(data.error || `Failed to load categories (${res.status})`);
-  return { categories: data.categories || [], authors: data.authors || [] };
+  return { categories: data.categories || [], authors: data.authors || [], templates: data.templates || [] };
 }
 
-/** Connect / change an existing article's category + author. Throws on failure. */
+/**
+ * Connect / change an existing article's category + author + linked templates.
+ * Pass `templateIds` ([] clears all links) to update the relatedTemplates relation;
+ * omit it (undefined) to leave the templates untouched. Throws on failure.
+ */
 export async function connectArticle(
   settings: Settings,
   documentId: string,
   categoryId?: string,
-  authorId?: string
+  authorId?: string,
+  templateIds?: string[]
 ): Promise<{ publishState: "published" | "draft" }> {
   const res = await fetch("/api/strapi/connect", {
     method: "POST",
@@ -240,6 +251,7 @@ export async function connectArticle(
       documentId,
       categoryId,
       authorId,
+      templateIds,
     }),
   });
   const data = (await res.json()) as { ok?: boolean; publishState?: "published" | "draft"; error?: string };

@@ -68,10 +68,125 @@ export default function KeywordTable({
   onView?: (id: string) => void;
 }) {
   const allSelected = rows.length > 0 && rows.every((r) => selected.has(r.id));
+  const selectedCount = rows.filter((r) => selected.has(r.id) || (results[r.id]?.status === "done")).length;
 
   return (
-    <div className="card overflow-hidden">
-      <div className="overflow-x-auto">
+    <>
+      {/* ── Mobile / tablet: card list (phone-app style) ─────────────────── */}
+      <div className="lg:hidden space-y-2.5">
+        {/* Select-all bar */}
+        <div className="card px-4 py-3 flex items-center justify-between">
+          <label className="flex items-center gap-2.5 text-sm font-medium cursor-pointer select-none">
+            <input
+              type="checkbox"
+              checked={allSelected}
+              onChange={onToggleAll}
+              className="accent-[var(--accent)] w-[18px] h-[18px]"
+            />
+            Select all
+          </label>
+          <span className="pill" style={{ background: "var(--panel-2)", color: "var(--muted)" }}>
+            {selectedCount}/{rows.length}
+          </span>
+        </div>
+
+        {rows.map((r, i) => {
+          const res = results[r.id] || { status: "pending" as RowStatus };
+          const isCurrent = currentId === r.id;
+          const status: RowStatus = res.status || "pending";
+          const isDone = status === "done";
+          const clickable = isDone && !!onView;
+          return (
+            <div
+              key={r.id}
+              onClick={clickable ? () => onView!(r.id) : undefined}
+              className={`rounded-2xl border p-4 transition-all ${clickable ? "cursor-pointer active:scale-[0.985]" : ""}`}
+              style={{
+                borderColor: isCurrent ? "var(--accent)" : isDone ? "rgba(46,204,113,0.35)" : "var(--border)",
+                background: isCurrent
+                  ? "rgba(108,99,255,0.08)"
+                  : "linear-gradient(180deg, var(--panel), color-mix(in srgb, var(--panel) 90%, #000))",
+                boxShadow: "0 2px 12px rgba(0,0,0,0.2)",
+              }}
+            >
+              {/* Top row: select · index · status */}
+              <div className="flex items-center gap-2.5">
+                <input
+                  type="checkbox"
+                  checked={isDone || selected.has(r.id)}
+                  disabled={isDone}
+                  onClick={(e) => e.stopPropagation()}
+                  onChange={() => !isDone && onToggle(r.id)}
+                  title={isDone ? "Already generated — locked" : undefined}
+                  className={`w-5 h-5 shrink-0 ${
+                    isDone ? "accent-[var(--green)] cursor-not-allowed" : "accent-[var(--accent)]"
+                  }`}
+                />
+                <span
+                  className="text-[11px] font-mono px-2 py-0.5 rounded-md shrink-0"
+                  style={{ background: "var(--panel-2)", color: "var(--muted)" }}
+                >
+                  #{i + 1}
+                </span>
+                <span className="flex-1" />
+                <StatusPill status={status} spin={status === "generating" || status === "publishing"} />
+              </div>
+
+              {/* Keyword */}
+              <p className="mt-3 text-[15px] font-semibold leading-snug text-[var(--text)] break-words">
+                {r.keyword}
+              </p>
+
+              {(r.strategy || r.searchVolume || r.difficulty || r.assetType) && (
+                <div className="flex flex-wrap gap-1.5 mt-2.5">
+                  <MetaChip label="Intent" value={r.strategy} />
+                  <MetaChip label="Vol" value={r.searchVolume} />
+                  <MetaChip label="Diff" value={r.difficulty} />
+                  <MetaChip label="Asset" value={r.assetType} />
+                </div>
+              )}
+
+              {status === "error" && res.error && (
+                <p className="text-[11px] text-[var(--red)] mt-2.5 break-words" title={res.error}>
+                  {res.error}
+                </p>
+              )}
+              {status === "done" && res.publishState === "draft" && (
+                <p className="text-[11px] text-[var(--amber)] mt-2.5">saved as draft</p>
+              )}
+
+              {(res.slug || res.coverImageQuery) && (
+                <div className="mt-3 pt-3 border-t space-y-1.5" style={{ borderColor: "var(--border-soft)" }}>
+                  {res.slug && (
+                    <div className="flex items-center gap-1.5">
+                      <span className="text-[10px] uppercase tracking-wide text-[var(--muted)] w-12 shrink-0">Slug</span>
+                      <code className="text-xs text-[var(--accent-2)] truncate flex-1">{res.slug}</code>
+                      <Copy text={res.slug} />
+                    </div>
+                  )}
+                  {res.coverImageQuery && (
+                    <div className="flex items-center gap-1.5">
+                      <span className="text-[10px] uppercase tracking-wide text-[var(--muted)] w-12 shrink-0">Cover</span>
+                      <span className="text-xs text-[var(--text)] truncate flex-1">{res.coverImageQuery}</span>
+                      <Copy text={res.coverImageQuery} />
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {clickable && (
+                <div className="mt-3 flex items-center gap-1.5 text-[12px] font-semibold text-[var(--accent-2)]">
+                  Open full blog <span aria-hidden>→</span>
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+
+      {/* ── Desktop: table (lg and up) ───────────────────────────────────── */}
+      <div className="card overflow-hidden hidden lg:block">
+        <div className="overflow-x-auto">
         <table className="w-full text-sm border-collapse">
           <thead>
             <tr className="text-left text-[11px] uppercase tracking-wide text-[var(--muted)] bg-[var(--panel-2)]">
@@ -178,6 +293,20 @@ export default function KeywordTable({
           </tbody>
         </table>
       </div>
-    </div>
+      </div>
+    </>
+  );
+}
+
+function MetaChip({ label, value }: { label: string; value?: string }) {
+  if (!value) return null;
+  return (
+    <span
+      className="inline-flex items-center gap-1 text-[10px] rounded-md px-1.5 py-0.5 max-w-full"
+      style={{ background: "var(--panel-2)", color: "var(--muted)" }}
+    >
+      <span className="opacity-60">{label}</span>
+      <span className="text-[var(--text)] truncate">{value}</span>
+    </span>
   );
 }
