@@ -115,11 +115,19 @@ export default function KeywordTable({
                   }}
                 >
                   <td className="px-3 py-3" onClick={(e) => e.stopPropagation()}>
+                    {/* Generated (done) rows are locked-checked in green: they're
+                        finished, so they can't be unselected/regenerated here. */}
                     <input
                       type="checkbox"
-                      checked={selected.has(r.id)}
-                      onChange={() => onToggle(r.id)}
-                      className="accent-[var(--accent)] w-4 h-4 align-middle"
+                      checked={isDone || selected.has(r.id)}
+                      disabled={isDone}
+                      onChange={() => !isDone && onToggle(r.id)}
+                      title={isDone ? "Already generated — locked" : undefined}
+                      className={`w-4 h-4 align-middle ${
+                        isDone
+                          ? "accent-[var(--green)] cursor-not-allowed opacity-100"
+                          : "accent-[var(--accent)]"
+                      }`}
                     />
                   </td>
                   <td className="px-3 py-3 text-[var(--muted)]">{i + 1}</td>
