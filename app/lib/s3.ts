@@ -70,7 +70,10 @@ const getPublicUrl = (key: string): string => {
  * slots. Returns the optimized WebP buffer.
  */
 export const compressImage = async (buffer: Buffer): Promise<Buffer> =>
-  sharp(buffer)
+  // Defensive copy: if `buffer` is backed by a SharedArrayBuffer (as happens on
+  // Vercel's runtime for File.arrayBuffer()), sharp throws "input must be
+  // ArrayBuffer". Re-wrapping in a fresh Uint8Array guarantees normal memory.
+  sharp(Buffer.from(new Uint8Array(buffer)))
     .rotate()
     .resize({ width: 1600, height: 1600, fit: "inside", withoutEnlargement: true })
     .webp({ quality: 80, effort: 4 })

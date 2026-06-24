@@ -33,7 +33,11 @@ export async function POST(req: Request) {
   const folder = typeof form.get("folder") === "string" ? (form.get("folder") as string) : "blog";
 
   try {
-    const buffer = Buffer.from(await file.arrayBuffer());
+    // Wrapping the ArrayBuffer in a Uint8Array first forces Buffer.from to COPY
+    // the bytes into a freshly-allocated (non-shared) Buffer. On Vercel's Node
+    // runtime file.arrayBuffer() is backed by a SharedArrayBuffer, which sharp
+    // rejects with: input argument must be ArrayBuffer. The copy fixes that.
+    const buffer = Buffer.from(new Uint8Array(await file.arrayBuffer()));
     const mime = file.type || "image/png";
     const uploaded = await uploadBlogImage(buffer, mime, folder);
     return json({ ok: true, ...uploaded });
