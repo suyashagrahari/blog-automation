@@ -1,6 +1,39 @@
 import type { KeywordRow } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
+// REAL SubhSandesh template/landing pages. The model MUST only link to URLs from
+// this list (plus the site root + /templates) so every internal link in a blog
+// actually resolves — never an invented/404 slug. Keep in sync with the live
+// routes under client/app/(templates)/.
+// ─────────────────────────────────────────────────────────────────────────────
+export const SITE_ROOT = "https://subhsandesh.in";
+
+export const TEMPLATE_LINKS: { url: string; what: string }[] = [
+  { url: `${SITE_ROOT}/templates`, what: "Browse all SubhSandesh templates (every occasion)" },
+  { url: `${SITE_ROOT}/birthday-gf`, what: "Birthday surprise page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/birthday-bestfriend`, what: "Birthday page for a best friend" },
+  { url: `${SITE_ROOT}/birthday-friend`, what: "Birthday page for a friend" },
+  { url: `${SITE_ROOT}/birthday-parents`, what: "Birthday page for parents (mom/dad)" },
+  { url: `${SITE_ROOT}/anniversary-gf`, what: "Anniversary page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/anniversary-parents`, what: "Anniversary page for parents" },
+  { url: `${SITE_ROOT}/love-gf`, what: "Romantic 'I love you' page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/darling`, what: "Dark, dramatic romantic page for a partner" },
+  { url: `${SITE_ROOT}/valentine-gf`, what: "Valentine's Day page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/valentine-bestfriend`, what: "Valentine's Day page for a best friend" },
+  { url: `${SITE_ROOT}/missyou-gf`, what: "'I miss you' page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/missyou-bestfriend`, what: "'I miss you' page for a best friend" },
+  { url: `${SITE_ROOT}/sorry-gf`, what: "Apology / 'I'm sorry' page for a girlfriend/partner" },
+  { url: `${SITE_ROOT}/sorry-friend`, what: "Apology / 'I'm sorry' page for a friend" },
+  { url: `${SITE_ROOT}/wedding-shaadi`, what: "Hindu wedding (shaadi) invitation page" },
+  { url: `${SITE_ROOT}/christian-wedding`, what: "Christian wedding invitation page" },
+  { url: `${SITE_ROOT}/christian-wedding-2`, what: "Christian wedding invitation page (alternate style)" },
+  { url: `${SITE_ROOT}/shaadi-card`, what: "Animated shaadi/wedding invitation card" },
+  { url: `${SITE_ROOT}/reception`, what: "Wedding reception invitation page" },
+  { url: `${SITE_ROOT}/holi`, what: "Holi festival greeting page" },
+  { url: `${SITE_ROOT}/eid-mubarak`, what: "Eid Mubarak greeting page" },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
 // The brain of the studio. A senior SEO + GEO + AEO content strategist prompt
 // that turns ONE keyword row into a complete, schema-ready article as strict JSON.
 //
@@ -45,6 +78,13 @@ NON-NEGOTIABLE RULES:
 4. E-E-A-T: demonstrate Experience, Expertise, Authoritativeness, Trust. Use concrete examples, real numbers, practical steps, and first-hand-sounding tips — as the SubhSandesh team who has helped thousands create these pages.
 5. The article body MUST be AT LEAST 2000 words (target 2000–2800) of genuinely valuable Markdown. Never go under 2000 words — expand with examples, step-by-step detail, comparisons, and FAQs woven into the body rather than padding with fluff.
 6. BRAND INTEGRATION: weave SubhSandesh in naturally 2–4 times where it truly helps the reader (how it makes the task easy / fast / beautiful), plus ONE soft, benefit-led call-to-action near the end (e.g. "Ready to make their day? Create your free SubhSandesh page in minutes and share the link."). Never keyword-stuff the brand, never sound like an ad, and never mention competitors.
+7. INTERNAL LINKS (CRITICAL): use REAL, FULL absolute SubhSandesh links inside the contentMarkdown as natural Markdown links — e.g. "[a heartfelt birthday surprise page](https://subhsandesh.in/birthday-gf)". You will be given a list of the ONLY valid SubhSandesh URLs in the user message. RULES:
+   - ONLY use URLs from that provided list. NEVER invent, guess, or modify a slug — an invented URL is a broken 404 and is forbidden.
+   - Place 2–4 of the MOST RELEVANT template links in the body where they genuinely help (link the descriptive anchor text, not a bare URL), and ALWAYS include the "Browse all templates" link (https://subhsandesh.in/templates) at least once, ideally near the closing CTA.
+   - Pick links by relevance to the keyword's occasion/relationship (e.g. a girlfriend-birthday keyword → link the birthday-gf page; a wedding keyword → link the wedding/shaadi pages).
+   - Anchor text must be descriptive and human (never "click here").
+8. FAQs MUST MENTION SUBHSANDESH: among the ≥10 FAQs, at least 2–3 questions should naturally relate to SubhSandesh and answer with the brand — e.g. "How can I make a [occasion] page online for free?", "Where can I create a shareable [occasion] surprise?", "Is SubhSandesh free to use?" — answered helpfully (and, where natural, linking https://subhsandesh.in/templates). Keep them genuinely useful, not ads.
+9. NO CODE — WRITE FOR HUMANS, NOT DEVELOPERS: the contentMarkdown is a normal, readable blog article for everyday people. ABSOLUTELY NO code of any kind: no code blocks or fenced blocks (no \`\`\` of any kind), no inline code/backticks, no HTML/CSS/JavaScript, no programming snippets, no JSON/YAML examples, and no "copy this code" sections. Even when the keyword sounds technical (e.g. "build/create a page"), explain it as simple human steps a non-technical person follows on SubhSandesh — NOT as code. The ONLY place structured/technical data belongs is the separate "structuredData" JSON-LD field; the article body itself stays plain prose Markdown (headings, paragraphs, bullet/numbered lists, one table, bold). This keeps the article human and also keeps the response valid JSON.
 
 CONTENT STRUCTURE (the contentMarkdown field) MUST follow this skeleton:
 - An H1 is NOT included (the CMS renders the title separately). Start the body directly.
@@ -120,6 +160,7 @@ export function buildUserPrompt(
     .filter(([, v]) => v && String(v).trim())
     .map(([k, v]) => `- ${k}: ${v}`)
     .join("\n");
+  const templateLinkList = TEMPLATE_LINKS.map((t) => `- ${t.url} — ${t.what}`).join("\n");
 
   return `Write the complete article for SubhSandesh (https://subhsandesh.in) for the following target keyword. Remember your mission: grow SubhSandesh's traffic from Google + AI answer engines, help the reader plan their surprise/celebration, and naturally guide them to create their page on SubhSandesh.
 
@@ -140,7 +181,10 @@ INTERPRETATION GUIDE:
 
 CANONICAL URL: set "canonicalURL" to "${canonicalBase}/" + your chosen slug (no trailing slash). Example: "${canonicalBase}/${slugifyExample(row.keyword)}".
 
-Remember: write as the SubhSandesh team in a warm human voice, weave SubhSandesh in naturally (2–4 times) with one soft CTA near the end, at least 10 FAQs, at least one Markdown table, AT LEAST 2000 words (count them — never fewer), answer-first opening, a populated "structuredData" array (always an Article object with publisher/author "SubhSandesh"; add a HowTo object for how-to intents), and return ONLY the JSON object.`;
+VALID SUBHSANDESH LINKS — use ONLY these exact URLs for internal links in the body (never invent or alter a slug). Pick the 2–4 most relevant to this keyword's occasion/relationship, embed them as natural Markdown links, and always include the "Browse all templates" link:
+${templateLinkList}
+
+Remember: write as the SubhSandesh team in a warm human voice; weave SubhSandesh in naturally (2–4 times) with one soft CTA near the end; embed 2–4 RELEVANT internal links from the VALID SUBHSANDESH LINKS list above (real full https://subhsandesh.in/... URLs only — never invented) plus the Browse-all-templates link; at least 10 FAQs with 2–3 of them naturally featuring SubhSandesh; at least one Markdown table; NO code/code blocks/backticks/HTML anywhere in the body (plain human prose only); AT LEAST 2000 words (count them — never fewer); answer-first opening; a populated "structuredData" array (always an Article object with publisher/author "SubhSandesh"; add a HowTo object for how-to intents); and return ONLY the JSON object.`;
 }
 
 function slugifyExample(s: string): string {
