@@ -246,3 +246,43 @@ export async function connectArticle(
   if (!res.ok || data.error) throw new Error(data.error || `Connect failed (${res.status})`);
   return { publishState: data.publishState || "published" };
 }
+
+/**
+ * Upload a cover image file to S3 (compressed server-side) and return its public
+ * URL. Used by the blog viewer's "Cover Image" panel.
+ */
+export async function uploadCoverImage(file: File): Promise<string> {
+  const fd = new FormData();
+  fd.append("file", file);
+  fd.append("folder", "blog");
+  const res = await fetch("/api/upload-image", { method: "POST", body: fd });
+  const data = (await res.json()) as { ok?: boolean; url?: string; error?: string };
+  if (!res.ok || data.error || !data.url) {
+    throw new Error(data.error || `Image upload failed (${res.status})`);
+  }
+  return data.url;
+}
+
+/**
+ * Save an external cover image URL (S3/CDN) onto an already-published article in
+ * Strapi. Republishes so the live site revalidates.
+ */
+export async function setArticleCover(
+  settings: Settings,
+  documentId: string,
+  coverImageUrl: string
+): Promise<{ publishState: "published" | "draft" }> {
+  const res = await fetch("/api/strapi/connect", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      strapiUrl: settings.strapiUrl,
+      strapiToken: settings.strapiToken,
+      documentId,
+      coverImageUrl,
+    }),
+  });
+  const data = (await res.json()) as { ok?: boolean; publishState?: "published" | "draft"; error?: string };
+  if (!res.ok || data.error) throw new Error(data.error || `Saving cover image failed (${res.status})`);
+  return { publishState: data.publishState || "published" };
+}

@@ -1,8 +1,9 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { marked } from "marked";
 import type { StoredBlog, TaxonomyItem } from "@/app/lib/types";
+import { uploadCoverImage } from "@/app/lib/client";
 import { TaxonomySelect } from "./SettingsPanel";
 
 type Tab = "article" | "faqs" | "schema" | "seo";
@@ -39,6 +40,7 @@ export default function BlogViewer({
   categories = [],
   authors = [],
   onConnect,
+  onSaveCover,
 }: {
   blog: StoredBlog;
   onBack: () => void;
@@ -47,6 +49,8 @@ export default function BlogViewer({
   categories?: TaxonomyItem[];
   authors?: TaxonomyItem[];
   onConnect?: (blogId: string, category: TaxonomyItem | null, author: TaxonomyItem | null) => Promise<void>;
+  /** Persist an external cover image URL (S3/CDN) onto the published article. */
+  onSaveCover?: (blogId: string, coverImageUrl: string) => Promise<void>;
 }) {
   const [tab, setTab] = useState<Tab>("article");
   const a = blog.article;
@@ -68,6 +72,58 @@ export default function BlogViewer({
       setConnectState({ loading: false, ok: true, msg: "Connected ✓ saved to the CMS." });
     } catch (e) {
       setConnectState({ loading: false, ok: false, msg: e instanceof Error ? e.message : "Connect failed" });
+    }
+  }
+
+  // ── Cover image: upload (compress → S3) or paste a URL, then save to the CMS ──
+  const [cover, setCover] = useState<string>(blog.coverImageUrl || a.coverImageUrl || "");
+  const [coverUrlInput, setCoverUrlInput] = useState("");
+  const [coverState, setCoverState] = useState<{ loading: boolean; msg: string; ok?: boolean }>({
+    loading: false,
+    msg: "",
+  });
+  const fileRef = useRef<HTMLInputElement>(null);
+
+  async function handleCoverFile(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // allow re-selecting the same file
+    if (!file) return;
+    setCoverState({ loading: true, msg: "Compressing & uploading to S3…" });
+    try {
+      const url = await uploadCoverImage(file);
+      setCover(url);
+      setCoverUrlInput("");
+      // Auto-save to the CMS if the post is already in Strapi; otherwise just hold it.
+      if (onSaveCover && blog.documentId) {
+        await onSaveCover(blog.id, url);
+        setCoverState({ loading: false, ok: true, msg: "Uploaded & saved ✓ — live on the blog." });
+      } else {
+        setCoverState({ loading: false, ok: true, msg: "Uploaded ✓ — publish the post to attach it." });
+      }
+    } catch (err) {
+      setCoverState({ loading: false, ok: false, msg: err instanceof Error ? err.message : "Upload failed" });
+    }
+  }
+
+  async function saveCover(url: string) {
+    const clean = url.trim();
+    if (!clean) {
+      setCoverState({ loading: false, ok: false, msg: "Upload an image or paste a URL first." });
+      return;
+    }
+    if (!onSaveCover || !blog.documentId) {
+      setCover(clean);
+      setCoverState({ loading: false, ok: false, msg: "Publish this post first, then save the cover." });
+      return;
+    }
+    setCoverState({ loading: true, msg: "Saving to CMS…" });
+    try {
+      await onSaveCover(blog.id, clean);
+      setCover(clean);
+      setCoverUrlInput("");
+      setCoverState({ loading: false, ok: true, msg: "Saved ✓ — it's live on the blog." });
+    } catch (err) {
+      setCoverState({ loading: false, ok: false, msg: err instanceof Error ? err.message : "Save failed" });
     }
   }
 
@@ -215,6 +271,82 @@ export default function BlogViewer({
               </span>
             )}
           </div>
+        </div>
+      )}
+
+      {/* Cover image — upload (compressed → S3) or paste an S3/CDN URL */}
+      {onSaveCover && (
+        <div className="card p-5">
+          <div className="flex items-center justify-between mb-1 flex-wrap gap-2">
+            <h3 className="text-sm font-semibold">Cover Image</h3>
+            <span className="text-xs text-[var(--muted)]">
+              {cover ? "Cover set" : "No cover yet"}
+            </span>
+          </div>
+          <p className="text-xs text-[var(--muted)] mb-4">
+            Upload the image you generated (e.g. from ChatGPT) — it&apos;s compressed and uploaded to S3, then
+            saved as this post&apos;s cover. Or paste an existing S3/image URL. The site shows this instead of any
+            Strapi media.
+          </p>
+
+          {cover && (
+            <div className="mb-4 overflow-hidden rounded-lg border" style={{ borderColor: "var(--border)" }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={cover} alt="Cover preview" className="w-full max-h-64 object-cover" />
+              <div className="flex items-center gap-2 px-3 py-2 text-xs" style={{ background: "var(--panel-2)" }}>
+                <a href={cover} target="_blank" rel="noreferrer" className="text-[var(--blue)] hover:underline truncate flex-1">
+                  {cover}
+                </a>
+                <CopyBtn text={cover} label="Copy URL" />
+              </div>
+            </div>
+          )}
+
+          <input
+            ref={fileRef}
+            type="file"
+            accept="image/*"
+            onChange={handleCoverFile}
+            className="hidden"
+          />
+          <div className="flex flex-wrap items-center gap-3">
+            <button
+              type="button"
+              className="btn btn-primary"
+              onClick={() => fileRef.current?.click()}
+              disabled={coverState.loading}
+            >
+              {coverState.loading ? "Working…" : cover ? "↻ Replace image" : "⬆ Upload image"}
+            </button>
+            <span className="text-xs text-[var(--muted)]">or</span>
+            <input
+              type="url"
+              value={coverUrlInput}
+              onChange={(e) => setCoverUrlInput(e.target.value)}
+              placeholder="Paste an S3 / image URL…"
+              className="flex-1 min-w-[200px] rounded-md px-3 py-2 text-sm bg-[var(--panel-2)] border outline-none focus:border-[var(--accent)]"
+              style={{ borderColor: "var(--border)", color: "var(--text)" }}
+            />
+            <button
+              type="button"
+              className="btn btn-ghost"
+              onClick={() => saveCover(coverUrlInput || cover)}
+              disabled={coverState.loading || (!coverUrlInput.trim() && !cover)}
+            >
+              Save to CMS
+            </button>
+          </div>
+
+          {!blog.documentId && (
+            <p className="text-xs mt-3" style={{ color: "var(--amber)" }}>
+              No Strapi document id yet — publish this article first, then the cover saves to the live post.
+            </p>
+          )}
+          {coverState.msg && (
+            <p className="text-xs mt-3" style={{ color: coverState.ok ? "var(--green)" : "var(--amber)" }}>
+              {coverState.msg}
+            </p>
+          )}
         </div>
       )}
 

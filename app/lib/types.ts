@@ -54,6 +54,8 @@ export interface GeneratedArticle {
   faqs: { question: string; answer: string }[]; // ≥ 10
   coverImageQuery: string; // short 3-7 word search query (table / Excel / stock search)
   coverImagePrompt: string; // rich 3-4 sentence prompt for an AI image generator
+  /** Public S3/CDN URL of an uploaded + compressed cover image (set in the viewer). */
+  coverImageUrl?: string;
   contentMarkdown: string; // full article body in Markdown
   readingTime?: number;
   /** JSON-LD blocks (Article, FAQPage, HowTo, …) injected into seo.structuredData for GEO/AEO. */
@@ -78,6 +80,8 @@ export interface StoredBlog {
   model: string;
   publishState?: "published" | "draft";
   documentId?: string;
+  /** Public S3/CDN URL of the uploaded cover image (also pushed to Strapi coverImageUrl). */
+  coverImageUrl?: string;
   /** Connected Strapi category (documentId + name for display). */
   categoryId?: string;
   categoryName?: string;
@@ -136,4 +140,8 @@ export interface StrapiConnectBody {
   documentId: string;
   categoryId?: string;
   authorId?: string;
+  /** Set the article's external cover image URL (S3/CDN). */
+  coverImageUrl?: string;
+  /** Set the SEO component's external OG image URL (S3/CDN). */
+  metaImageUrl?: string;
 }

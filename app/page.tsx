@@ -16,7 +16,7 @@ import {
 } from "./lib/storage";
 import { clearAllBlogs, deleteBlog, getAllBlogs, saveBlog } from "./lib/db";
 import { exportToExcel, parseWorkbook } from "./lib/excel";
-import { connectArticle, fetchTaxonomy, generateArticle, publishArticle } from "./lib/client";
+import { connectArticle, fetchTaxonomy, generateArticle, publishArticle, setArticleCover } from "./lib/client";
 import { PROVIDER_LABELS } from "./lib/models";
 import SettingsPanel, { TaxonomySelect } from "./components/SettingsPanel";
 import KeywordTable from "./components/KeywordTable";
@@ -303,6 +303,22 @@ export default function Home() {
     );
   }
 
+  async function handleSaveCover(blogId: string, coverImageUrl: string) {
+    const blog = blogs.find((b) => b.id === blogId);
+    if (!blog?.documentId) throw new Error("This blog has no Strapi document id yet — publish it first.");
+    const result = await setArticleCover(settings, blog.documentId, coverImageUrl);
+    await saveBlog({
+      ...blog,
+      coverImageUrl,
+      article: { ...blog.article, coverImageUrl },
+    });
+    await refreshBlogs();
+    addLog(
+      `🖼 Cover image saved for "${blog.article.title}"` +
+        (result.publishState === "draft" ? " (saved as draft — add the CMS update endpoint to publish)." : " — live on the blog.")
+    );
+  }
+
   const selectedPendingIds = () =>
     rows.filter((r) => selected.has(r.id) && results[r.id]?.status !== "done").map((r) => r.id);
   const allPendingIds = () => rows.filter((r) => results[r.id]?.status !== "done").map((r) => r.id);
@@ -512,6 +528,7 @@ export default function Home() {
                 categories={categories}
                 authors={authors}
                 onConnect={handleConnect}
+                onSaveCover={handleSaveCover}
               />
             ) : (
               <BlogLibrary
@@ -550,6 +567,7 @@ export default function Home() {
             categories={categories}
             authors={authors}
             onConnect={handleConnect}
+            onSaveCover={handleSaveCover}
           />
         )}
       </Modal>

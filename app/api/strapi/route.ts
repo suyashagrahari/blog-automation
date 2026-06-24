@@ -153,6 +153,8 @@ function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: strin
     tags: a.tags?.length ? a.tags : undefined,
     keyTakeaways: a.keyTakeaways?.length ? a.keyTakeaways : undefined,
     featured: false,
+    // External S3/CDN cover image (set in the viewer before re-publishing).
+    coverImageUrl: a.coverImageUrl || undefined,
     // Connect the manyToOne relations by documentId (v5 accepts the id directly).
     category: categoryId || undefined,
     author: authorId || undefined,
@@ -162,6 +164,8 @@ function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: strin
       canonicalURL: a.canonicalURL || undefined,
       keywords: a.keywords || undefined,
       ogType: a.ogType || "article",
+      // Mirror the cover to the OG image so social shares get the same picture.
+      metaImageUrl: a.coverImageUrl || undefined,
       structuredData: a.structuredData?.length ? a.structuredData : undefined,
     },
     faqs: (a.faqs || []).map((f) => ({ question: f.question, answer: f.answer })),

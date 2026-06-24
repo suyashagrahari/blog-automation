@@ -15,7 +15,7 @@ export async function POST(req: Request) {
     return json({ error: "Invalid JSON body" }, 400);
   }
 
-  const { strapiUrl, strapiToken, documentId, categoryId, authorId } = body;
+  const { strapiUrl, strapiToken, documentId, categoryId, authorId, coverImageUrl } = body;
   if (!strapiUrl || !documentId) return json({ error: "Missing strapiUrl or documentId" }, 400);
 
   const base = strapiUrl.replace(/\/+$/, "");
@@ -26,6 +26,10 @@ export async function POST(req: Request) {
   const data: Record<string, unknown> = {};
   if (categoryId !== undefined) data.category = categoryId || null;
   if (authorId !== undefined) data.author = authorId || null;
+  // coverImageUrl is a top-level scalar so it's safe to patch on its own. We do
+  // NOT touch `seo` here — a partial component update would wipe the other SEO
+  // fields, and the site's OG image already falls back to the cover image.
+  if (coverImageUrl !== undefined) data.coverImageUrl = coverImageUrl || null;
   const payload = { data };
 
   // 1) custom update-and-publish endpoint
