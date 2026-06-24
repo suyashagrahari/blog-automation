@@ -81,8 +81,10 @@ export async function POST(req: Request) {
       if (custom.ok) {
         return json({ documentId: custom.documentId, publishState: "published", slug });
       }
-      // 404 => endpoint not installed; anything else with a slug conflict => retry
-      if (custom.status === 404) {
+      // 404/405 => custom endpoint not installed on this Strapi (405 happens when
+      // POST /articles/automation falls back to the core /articles/:id route, which
+      // only allows GET/PUT/DELETE). Either way, degrade to a standard draft create.
+      if (custom.status === 404 || custom.status === 405) {
         // fall through to standard create (draft)
         const draft = await tryPost(`${base}/api/articles`, headers, payload);
         if (draft.ok) return json({ documentId: draft.documentId, publishState: "draft", slug });

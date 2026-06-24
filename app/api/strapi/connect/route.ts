@@ -31,7 +31,8 @@ export async function POST(req: Request) {
   // 1) custom update-and-publish endpoint
   const custom = await tryPut(`${base}/api/articles/automation/${documentId}`, headers, payload);
   if (custom.ok) return json({ ok: true, publishState: "published" });
-  if (custom.status !== 404) return json({ error: custom.error }, 502);
+  // 404/405 => custom endpoint not installed; fall back to the standard REST update.
+  if (custom.status !== 404 && custom.status !== 405) return json({ error: custom.error }, 502);
 
   // 2) fallback: standard REST update (updates the entry; may stay a draft)
   const std = await tryPut(`${base}/api/articles/${documentId}`, headers, payload);
