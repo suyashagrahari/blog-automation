@@ -69,15 +69,28 @@ const getPublicUrl = (key: string): string => {
  * ChatGPT/DALL·E PNG to a few hundred KB while staying crisp on retina blog hero
  * slots. Returns the optimized WebP buffer.
  */
-export const compressImage = async (buffer: Buffer): Promise<Buffer> =>
+export const compressImage = async (buffer: Buffer): Promise<Buffer> => {
   // Defensive copy: if `buffer` is backed by a SharedArrayBuffer (as happens on
   // Vercel's runtime for File.arrayBuffer()), sharp throws "input must be
   // ArrayBuffer". Re-wrapping in a fresh Uint8Array guarantees normal memory.
-  sharp(Buffer.from(new Uint8Array(buffer)))
+  const safe = Buffer.from(new Uint8Array(buffer));
+  console.log("[s3.compressImage] • in", {
+    inLen: buffer?.length,
+    safeLen: safe.length,
+    inBackingShared:
+      typeof SharedArrayBuffer !== "undefined" &&
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      ((buffer as any)?.buffer instanceof SharedArrayBuffer),
+    safeBacking: safe.buffer?.constructor?.name,
+  });
+  const out = await sharp(safe)
     .rotate()
     .resize({ width: 1600, height: 1600, fit: "inside", withoutEnlargement: true })
     .webp({ quality: 80, effort: 4 })
     .toBuffer();
+  console.log("[s3.compressImage] ✓ out", { outLen: out.length });
+  return out;
+};
 
 export interface UploadedImage {
   url: string;
@@ -107,6 +120,7 @@ export const uploadBlogImage = async (
     throw new Error("Image is too large. Max supported size is 15MB.");
   }
 
+  console.log("[s3.uploadBlogImage] • compressing", { mime, bytes: buffer.length, bucket: ENV.bucket, region: ENV.region });
   const optimized = await compressImage(buffer);
 
   const monthPath = new Date().toISOString().slice(0, 7).replace("-", "/");
@@ -115,15 +129,31 @@ export const uploadBlogImage = async (
   const safePrefix = sanitizeSegment(ENV.uploadPrefix);
   const key = `${safePrefix}/${safeFolder}/${monthPath}/${Date.now()}-${randomPart}.webp`;
 
-  await s3.send(
-    new PutObjectCommand({
-      Bucket: ENV.bucket,
-      Key: key,
-      Body: optimized,
-      ContentType: "image/webp",
-      CacheControl: "public, max-age=31536000, immutable",
-    })
-  );
+  console.log("[s3.uploadBlogImage] • → S3 PutObject", { key, size: optimized.length });
+  try {
+    await s3.send(
+      new PutObjectCommand({
+        Bucket: ENV.bucket,
+        Key: key,
+        Body: optimized,
+        ContentType: "image/webp",
+        CacheControl: "public, max-age=31536000, immutable",
+      })
+    );
+  } catch (err) {
+    // Surface S3 SDK errors (AccessDenied, NoSuchBucket, signature, region…)
+    // with their AWS error name so the real cause is obvious in the logs.
+    const e = err as { name?: string; Code?: string; $metadata?: { httpStatusCode?: number } };
+    console.error("[s3.uploadBlogImage] ✖ S3 PutObject failed", {
+      name: e?.name,
+      code: e?.Code,
+      httpStatusCode: e?.$metadata?.httpStatusCode,
+      message: err instanceof Error ? err.message : String(err),
+    });
+    throw new Error(`S3 upload failed (${e?.name || e?.Code || "unknown"}): ${err instanceof Error ? err.message : String(err)}`);
+  }
 
-  return { url: getPublicUrl(key), key, size: optimized.length, contentType: "image/webp" };
+  const url = getPublicUrl(key);
+  console.log("[s3.uploadBlogImage] ✓ done", { url });
+  return { url, key, size: optimized.length, contentType: "image/webp" };
 };
