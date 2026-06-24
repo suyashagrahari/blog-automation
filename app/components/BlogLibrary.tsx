@@ -55,10 +55,23 @@ export default function BlogLibrary({
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
         {blogs.map((b) => {
           const a = b.article;
+          const hasCover = !!(b.coverImageUrl || a.coverImageUrl);
           return (
-            <div key={b.id} className="card p-5 flex flex-col group hover:border-[var(--accent)] transition-colors">
+            <div key={b.id} className="card p-5 flex flex-col group hover:border-[var(--accent)] transition-colors relative">
+              {/* Cover-uploaded marker (top-right) */}
+              <span
+                className="absolute top-3 right-3 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold"
+                title={hasCover ? "Cover image uploaded" : "No cover image yet"}
+                style={
+                  hasCover
+                    ? { background: "rgba(46,204,113,0.16)", color: "var(--green)", border: "1px solid rgba(46,204,113,0.35)" }
+                    : { background: "var(--panel-2)", color: "var(--muted)", border: "1px solid var(--border)" }
+                }
+              >
+                {hasCover ? "✓ Cover" : "No cover"}
+              </span>
               <button onClick={() => onOpen(b.id)} className="text-left flex-1">
-                <div className="flex items-center gap-2 mb-2 flex-wrap">
+                <div className="flex items-center gap-2 mb-2 flex-wrap pr-20">
                   {b.publishState && (
                     <span
                       className="pill"
