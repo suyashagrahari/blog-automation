@@ -1,6 +1,10 @@
 "use client";
 
+import { useMemo, useState } from "react";
 import type { StoredBlog } from "@/app/lib/types";
+
+type SortKey = "newest" | "oldest";
+type StatusFilter = "all" | "published" | "draft";
 
 function fmt(iso: string): string {
   try {
@@ -21,6 +25,23 @@ export default function BlogLibrary({
   onDelete: (id: string) => void;
   onClearAll: () => void;
 }) {
+  const [sort, setSort] = useState<SortKey>("newest");
+  const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
+
+  const visible = useMemo(() => {
+    const filtered = blogs.filter((b) => {
+      if (statusFilter === "all") return true;
+      if (statusFilter === "draft") return b.publishState !== "published";
+      return b.publishState === "published";
+    });
+    // Sort by creation time (createdAt ISO). Fall back to 0 for malformed dates.
+    const ts = (b: StoredBlog) => {
+      const t = Date.parse(b.createdAt);
+      return Number.isNaN(t) ? 0 : t;
+    };
+    return [...filtered].sort((a, b) => (sort === "newest" ? ts(b) - ts(a) : ts(a) - ts(b)));
+  }, [blogs, sort, statusFilter]);
+
   if (blogs.length === 0) {
     return (
       <div className="card p-16 text-center">
@@ -40,7 +61,11 @@ export default function BlogLibrary({
       <div className="flex items-center justify-between gap-3 flex-wrap">
         <div>
           <h2 className="text-lg font-semibold">Blog Library</h2>
-          <p className="text-xs text-[var(--muted)]">{blogs.length} saved locally in IndexedDB — click any card to read it.</p>
+          <p className="text-xs text-[var(--muted)]">
+            {visible.length === blogs.length
+              ? `${blogs.length} saved locally in IndexedDB — click any card to read it.`
+              : `Showing ${visible.length} of ${blogs.length} saved blogs.`}
+          </p>
         </div>
         <button
           className="btn btn-danger"
@@ -52,8 +77,50 @@ export default function BlogLibrary({
         </button>
       </div>
 
+      {/* Sort + filter controls */}
+      <div className="flex items-center gap-2 flex-wrap">
+        <div className="flex items-center gap-1.5">
+          <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">Sort</span>
+          <select
+            className="field w-auto py-1.5 text-xs"
+            value={sort}
+            onChange={(e) => setSort(e.target.value as SortKey)}
+          >
+            <option value="newest">Newest first</option>
+            <option value="oldest">Oldest first</option>
+          </select>
+        </div>
+        <div className="flex items-center gap-1.5">
+          <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">Show</span>
+          <div className="flex items-center gap-1 rounded-lg p-0.5" style={{ background: "var(--panel-2)", border: "1px solid var(--border)" }}>
+            {(["all", "published", "draft"] as StatusFilter[]).map((f) => {
+              const on = statusFilter === f;
+              return (
+                <button
+                  key={f}
+                  type="button"
+                  onClick={() => setStatusFilter(f)}
+                  className="px-2.5 py-1 rounded-md text-xs font-medium capitalize transition-colors"
+                  style={{
+                    background: on ? "var(--accent)" : "transparent",
+                    color: on ? "#fff" : "var(--muted)",
+                  }}
+                >
+                  {f}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+
+      {visible.length === 0 ? (
+        <div className="card p-10 text-center text-sm text-[var(--muted)]">
+          No blogs match this filter.
+        </div>
+      ) : (
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-        {blogs.map((b) => {
+        {visible.map((b) => {
           const a = b.article;
           const hasCover = !!(b.coverImageUrl || a.coverImageUrl);
           return (
@@ -111,6 +178,7 @@ export default function BlogLibrary({
           );
         })}
       </div>
+      )}
     </div>
   );
 }
