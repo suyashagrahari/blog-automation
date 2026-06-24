@@ -87,7 +87,7 @@ export default function BlogViewer({
   // Older blogs may predate coverImagePrompt — synthesize a good one on the fly.
   const coverPrompt =
     a.coverImagePrompt ||
-    `A high-quality, photorealistic blog cover image depicting ${a.coverImageQuery || a.title}. Warm, inviting mood with soft natural lighting and a modern color palette. Cinematic composition with shallow depth of field and clean negative space for a title overlay, 16:9. No text in the image.`;
+    `A high-quality, photorealistic blog cover image depicting ${a.coverImageQuery || a.title}. Warm, inviting mood with soft natural lighting and a modern color palette. Cinematic composition with shallow depth of field and clean negative space for a title overlay, 16:9. No text in the image except a small, subtle "subhsandesh.in" watermark in the bottom-right corner.`;
 
   const words = (a.contentMarkdown || "").trim().split(/\s+/).filter(Boolean).length;
 

@@ -315,6 +315,7 @@ export default function Home() {
 
   const provider = settings.activeProvider;
   const hasRows = rows.length > 0;
+  const allSelected = hasRows && rows.every((r) => selected.has(r.id));
   const viewingBlog = viewingId ? blogs.find((b) => b.id === viewingId) || null : null;
   const modalBlog = modalId ? blogs.find((b) => b.id === modalId) || null : null;
 
@@ -414,7 +415,12 @@ export default function Home() {
                           <button className="btn btn-ghost" disabled={!selected.size} onClick={() => run(selectedPendingIds())}>
                             Generate Selected ({selectedPendingIds().length})
                           </button>
-                          <button className="btn btn-primary" onClick={() => run(allPendingIds())}>
+                          <button
+                            className="btn btn-primary"
+                            disabled={!allSelected || allPendingIds().length === 0}
+                            title={!allSelected ? "Select all keywords to generate the whole sheet" : undefined}
+                            onClick={() => run(allPendingIds())}
+                          >
                             ⚡ Generate All ({allPendingIds().length})
                           </button>
                         </>

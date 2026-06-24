@@ -66,7 +66,7 @@ export function normalizeArticle(raw: unknown, row: KeywordRow): GeneratedArticl
     coverImageQuery: str(o.coverImageQuery) || row.keyword,
     coverImagePrompt:
       str(o.coverImagePrompt) ||
-      `A high-quality, photorealistic blog cover image depicting ${str(o.coverImageQuery) || row.keyword}. Warm, inviting mood with soft natural lighting and a tasteful, modern color palette. Cinematic composition with shallow depth of field and clean negative space for a title overlay, 16:9 aspect ratio. No text or words in the image.`,
+      `A high-quality, photorealistic blog cover image depicting ${str(o.coverImageQuery) || row.keyword}. Warm, inviting mood with soft natural lighting and a tasteful, modern color palette. Cinematic composition with shallow depth of field and clean negative space for a title overlay, 16:9 aspect ratio. No text or words in the image except a small, subtle "subhsandesh.in" watermark in the bottom-right corner.`,
     contentMarkdown: str(o.contentMarkdown),
     readingTime: typeof o.readingTime === "number" ? o.readingTime : undefined,
     structuredData: modelLd,
