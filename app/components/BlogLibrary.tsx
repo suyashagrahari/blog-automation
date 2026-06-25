@@ -25,8 +25,25 @@ function coverPromptFor(b: StoredBlog): string {
 }
 
 /** Tiny copy-to-clipboard button with transient "Copied!" feedback. */
-function CopyBtn({ text, label = "Copy", className }: { text: string; label?: string; className?: string }) {
+function CopyBtn({
+  text,
+  label = "Copy",
+  copiedLabel = "✓ Copied",
+  className,
+  style,
+}: {
+  text: string;
+  label?: string;
+  copiedLabel?: string;
+  className?: string;
+  style?: React.CSSProperties;
+}) {
   const [done, setDone] = useState(false);
+  const greenStyle: React.CSSProperties = {
+    background: "rgba(46,204,113,0.16)",
+    border: "1px solid rgba(46,204,113,0.45)",
+    color: "var(--green)",
+  };
   return (
     <button
       type="button"
@@ -41,9 +58,10 @@ function CopyBtn({ text, label = "Copy", className }: { text: string; label?: st
         }
       }}
       className={className ?? "btn btn-ghost text-[11px] py-1 px-2"}
+      style={done && style ? { ...style, ...greenStyle } : style}
       title={`Copy ${label.toLowerCase()}`}
     >
-      {done ? "✓ Copied" : label}
+      {done ? copiedLabel : label}
     </button>
   );
 }
@@ -188,18 +206,25 @@ export default function BlogLibrary({
           const prompt = coverPromptFor(b);
           return (
             <div key={b.id} className="card p-5 flex flex-col group hover:border-[var(--accent)] transition-colors relative">
-              {/* Cover-uploaded marker (top-right) — green check when a cover exists */}
-              <span
-                className="absolute top-3 right-3 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-semibold"
+              {/* Cover indicator (top-right) — read-only checkbox, auto-checked only when a cover exists */}
+              <div
+                className="absolute top-3 right-3 inline-flex items-center gap-1.5 select-none pointer-events-none"
                 title={hasCover ? "Cover image uploaded" : "No cover image yet"}
-                style={
-                  hasCover
-                    ? { background: "rgba(46,204,113,0.16)", color: "var(--green)", border: "1px solid rgba(46,204,113,0.35)" }
-                    : { background: "var(--panel-2)", color: "var(--muted)", border: "1px solid var(--border)" }
-                }
               >
-                {hasCover ? "✓ Cover" : "No cover"}
-              </span>
+                <span className="text-[10px] font-semibold uppercase tracking-wide" style={{ color: hasCover ? "var(--green)" : "var(--muted)" }}>
+                  Cover
+                </span>
+                <span
+                  className="inline-flex h-4 w-4 items-center justify-center rounded-md text-[10px] font-bold transition-colors"
+                  style={
+                    hasCover
+                      ? { background: "var(--green)", color: "#08130c", border: "1px solid var(--green)" }
+                      : { background: "transparent", color: "transparent", border: "1.5px solid var(--border)" }
+                  }
+                >
+                  {hasCover ? "✓" : ""}
+                </span>
+              </div>
               <button onClick={() => onOpen(b.id)} className="text-left">
                 <div className="flex items-center gap-2 mb-2 flex-wrap pr-20">
                   {b.publishState && (
@@ -219,21 +244,22 @@ export default function BlogLibrary({
                 <p className="text-xs text-[var(--muted)] line-clamp-2 mb-3">{a.excerpt}</p>
               </button>
 
-              {/* ── Image prompt: copy it out to your AI image generator ── */}
-              <div className="rounded-xl p-3 mb-3" style={{ background: "var(--panel-2)", border: "1px solid var(--border-soft)" }}>
-                <div className="flex items-center justify-between gap-2 mb-1.5">
-                  <span className="text-[10px] font-semibold uppercase tracking-wide text-[var(--muted)]">🎨 Image prompt</span>
-                  <CopyBtn text={prompt} label="Copy prompt" />
-                </div>
-                <p className="text-[11px] leading-relaxed text-[var(--muted)] line-clamp-3">{prompt}</p>
-                {a.coverImageQuery && (
-                  <div className="flex items-center justify-between gap-2 mt-2 pt-2 border-t" style={{ borderColor: "var(--border-soft)" }}>
-                    <span className="text-[11px] text-[var(--text)] truncate" title={a.coverImageQuery}>
-                      🔎 {a.coverImageQuery}
-                    </span>
-                    <CopyBtn text={a.coverImageQuery} label="Copy query" />
-                  </div>
-                )}
+              {/* ── Image prompt: copy out to your AI image generator (prompt text hidden) ── */}
+              <div className="grid grid-cols-2 gap-2 mb-3">
+                <CopyBtn
+                  text={prompt}
+                  label="🎨 Copy prompt"
+                  copiedLabel="✓ Prompt copied"
+                  className="rounded-xl py-2.5 text-xs font-semibold transition-colors"
+                  style={{ background: "var(--panel-2)", border: "1px solid var(--border)", color: "var(--text)" }}
+                />
+                <CopyBtn
+                  text={a.coverImageQuery || prompt}
+                  label="🔎 Copy query"
+                  copiedLabel="✓ Query copied"
+                  className="rounded-xl py-2.5 text-xs font-semibold transition-colors"
+                  style={{ background: "var(--panel-2)", border: "1px solid var(--border)", color: "var(--text)" }}
+                />
               </div>
 
               {/* ── Cover upload / preview ── */}
