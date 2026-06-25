@@ -186,7 +186,6 @@ function CardConnect({
     templates: TemplateItem[],
   ) => Promise<void>;
 }) {
-  const [open, setOpen] = useState(false);
   const [catId, setCatId] = useState<string | undefined>(blog.categoryId);
   const [authId, setAuthId] = useState<string | undefined>(blog.authorId);
   const [tplIds, setTplIds] = useState<string[]>(blog.templateIds || []);
@@ -205,66 +204,44 @@ function CardConnect({
     }
   }
 
-  const tplCount = blog.templateIds?.length || 0;
-
   return (
-    <div className="mb-3 rounded-xl" style={{ background: "var(--panel-2)", border: "1px solid var(--border-soft)" }}>
-      <button
-        type="button"
-        onClick={() => setOpen((v) => !v)}
-        className="w-full flex items-center justify-between gap-2 px-3 py-2.5 text-left"
-      >
-        <span className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide text-[var(--muted)]">
-          🔗 Connect
-        </span>
-        <span className="flex items-center gap-1.5 min-w-0">
-          <span className="text-[11px] text-[var(--text)] truncate max-w-[150px]">
-            {blog.authorName || blog.categoryName || tplCount
-              ? [blog.authorName, blog.categoryName, tplCount ? `${tplCount} tpl` : null].filter(Boolean).join(" · ")
-              : "not connected"}
+    <div className="mb-3 rounded-xl p-3 space-y-3" style={{ background: "var(--panel-2)", border: "1px solid var(--border-soft)" }}>
+      <span className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide text-[var(--muted)]">
+        🔗 Connect
+      </span>
+      <TaxonomySelect
+        label="Author"
+        items={authors}
+        valueId={authId}
+        onSelect={(i) => setAuthId(i?.documentId)}
+        emptyHint="No authors found — create one in Strapi."
+      />
+      <TaxonomySelect
+        label="Category"
+        items={categories}
+        valueId={catId}
+        onSelect={(i) => setCatId(i?.documentId)}
+        emptyHint="No categories found — create one in Strapi."
+      />
+      <TemplateDropdown
+        label="Linked templates"
+        items={templates}
+        selectedIds={tplIds}
+        onChange={(ids) => setTplIds(ids)}
+        emptyHint="No templates found — create them in Strapi → Content Manager → Template."
+      />
+      <div className="flex items-center gap-2">
+        <button type="button" className="btn btn-primary text-xs py-1.5 px-3" disabled={state.loading} onClick={save}>
+          {state.loading ? "Saving…" : "Save connection"}
+        </button>
+        {state.msg && (
+          <span className="text-[10px]" style={{ color: state.ok ? "var(--green)" : state.loading ? "var(--muted)" : "var(--red)" }}>
+            {state.msg}
           </span>
-          <span className="text-[var(--muted)] text-xs shrink-0">{open ? "▲" : "▼"}</span>
-        </span>
-      </button>
-      {open && (
-        <div className="px-3 pb-3 space-y-3 border-t" style={{ borderColor: "var(--border-soft)" }}>
-          <div className="pt-3 space-y-3">
-            <TaxonomySelect
-              label="Author"
-              items={authors}
-              valueId={authId}
-              onSelect={(i) => setAuthId(i?.documentId)}
-              emptyHint="No authors found — create one in Strapi."
-            />
-            <TaxonomySelect
-              label="Category"
-              items={categories}
-              valueId={catId}
-              onSelect={(i) => setCatId(i?.documentId)}
-              emptyHint="No categories found — create one in Strapi."
-            />
-            <TemplateDropdown
-              label="Linked templates"
-              items={templates}
-              selectedIds={tplIds}
-              onChange={(ids) => setTplIds(ids)}
-              emptyHint="No templates found — create them in Strapi → Content Manager → Template."
-            />
-          </div>
-          <div className="flex items-center gap-2">
-            <button type="button" className="btn btn-primary text-xs py-1.5 px-3" disabled={state.loading} onClick={save}>
-              {state.loading ? "Saving…" : "Save connection"}
-            </button>
-            {state.msg && (
-              <span className="text-[10px]" style={{ color: state.ok ? "var(--green)" : state.loading ? "var(--muted)" : "var(--red)" }}>
-                {state.msg}
-              </span>
-            )}
-          </div>
-          {!blog.documentId && (
-            <p className="text-[10px] text-[var(--amber)]">Publish this blog first to save connections in Strapi.</p>
-          )}
-        </div>
+        )}
+      </div>
+      {!blog.documentId && (
+        <p className="text-[10px] text-[var(--amber)]">Publish this blog first to save connections in Strapi.</p>
       )}
     </div>
   );
