@@ -365,6 +365,27 @@ export default function Home() {
     );
   }
 
+  // Library upload: image already on S3 (uploaded in the card). Persist locally
+  // always; push to Strapi only when the blog is already published.
+  async function handleLibrarySaveCover(blogId: string, coverImageUrl: string) {
+    const blog = blogs.find((b) => b.id === blogId);
+    if (!blog) return;
+    if (blog.documentId) {
+      try {
+        await setArticleCover(settings, blog.documentId, coverImageUrl);
+      } catch {
+        /* keep the local copy even if the CMS push fails */
+      }
+    }
+    await saveBlog({
+      ...blog,
+      coverImageUrl,
+      article: { ...blog.article, coverImageUrl },
+    });
+    await refreshBlogs();
+    addLog(`🖼 Cover image saved for "${blog.article.title}"${blog.documentId ? " — live on the blog." : " (publish to attach it)."}`);
+  }
+
   const selectedPendingIds = () =>
     rows.filter((r) => selected.has(r.id) && results[r.id]?.status !== "done").map((r) => r.id);
   const allPendingIds = () => rows.filter((r) => results[r.id]?.status !== "done").map((r) => r.id);
@@ -607,6 +628,7 @@ export default function Home() {
                 onOpen={(id) => setViewingId(id)}
                 onDelete={handleDeleteBlog}
                 onClearAll={handleClearAllBlogs}
+                onSaveCover={handleLibrarySaveCover}
               />
             ))}
 
