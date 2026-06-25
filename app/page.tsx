@@ -629,6 +629,10 @@ export default function Home() {
                 onDelete={handleDeleteBlog}
                 onClearAll={handleClearAllBlogs}
                 onSaveCover={handleLibrarySaveCover}
+                categories={categories}
+                authors={authors}
+                templates={templates}
+                onConnect={handleConnect}
               />
             ))}
 

@@ -1,8 +1,9 @@
 "use client";
 
 import { useMemo, useRef, useState } from "react";
-import type { StoredBlog } from "@/app/lib/types";
+import type { StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
+import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
 
 type SortKey = "newest" | "oldest";
 type StatusFilter = "all" | "published" | "draft";
@@ -66,12 +67,123 @@ function CopyBtn({
   );
 }
 
+/**
+ * Per-card "Connect" panel — pick author / category / linked templates and save
+ * them to Strapi via the same onConnect handler the viewer uses. Local state is
+ * seeded from the blog so edits are non-destructive until "Save" is clicked.
+ */
+function CardConnect({
+  blog,
+  categories,
+  authors,
+  templates,
+  onConnect,
+}: {
+  blog: StoredBlog;
+  categories: TaxonomyItem[];
+  authors: TaxonomyItem[];
+  templates: TemplateItem[];
+  onConnect: (
+    blogId: string,
+    category: TaxonomyItem | null,
+    author: TaxonomyItem | null,
+    templates: TemplateItem[],
+  ) => Promise<void>;
+}) {
+  const [open, setOpen] = useState(false);
+  const [catId, setCatId] = useState<string | undefined>(blog.categoryId);
+  const [authId, setAuthId] = useState<string | undefined>(blog.authorId);
+  const [tplIds, setTplIds] = useState<string[]>(blog.templateIds || []);
+  const [state, setState] = useState<{ loading: boolean; ok?: boolean; msg: string }>({ loading: false, msg: "" });
+
+  async function save() {
+    setState({ loading: true, msg: "Saving to CMS…" });
+    try {
+      const cat = categories.find((c) => c.documentId === catId) || null;
+      const auth = authors.find((x) => x.documentId === authId) || null;
+      const tpls = templates.filter((t) => tplIds.includes(t.documentId));
+      await onConnect(blog.id, cat, auth, tpls);
+      setState({ loading: false, ok: true, msg: "Saved ✓ — connected in the CMS." });
+    } catch (e) {
+      setState({ loading: false, ok: false, msg: e instanceof Error ? e.message : "Save failed" });
+    }
+  }
+
+  const tplCount = blog.templateIds?.length || 0;
+
+  return (
+    <div className="mb-3 rounded-xl" style={{ background: "var(--panel-2)", border: "1px solid var(--border-soft)" }}>
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        className="w-full flex items-center justify-between gap-2 px-3 py-2.5 text-left"
+      >
+        <span className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide text-[var(--muted)]">
+          🔗 Connect
+        </span>
+        <span className="flex items-center gap-1.5 min-w-0">
+          <span className="text-[11px] text-[var(--text)] truncate max-w-[150px]">
+            {blog.authorName || blog.categoryName || tplCount
+              ? [blog.authorName, blog.categoryName, tplCount ? `${tplCount} tpl` : null].filter(Boolean).join(" · ")
+              : "not connected"}
+          </span>
+          <span className="text-[var(--muted)] text-xs shrink-0">{open ? "▲" : "▼"}</span>
+        </span>
+      </button>
+      {open && (
+        <div className="px-3 pb-3 space-y-3 border-t" style={{ borderColor: "var(--border-soft)" }}>
+          <div className="pt-3 space-y-3">
+            <TaxonomySelect
+              label="Author"
+              items={authors}
+              valueId={authId}
+              onSelect={(i) => setAuthId(i?.documentId)}
+              emptyHint="No authors found — create one in Strapi."
+            />
+            <TaxonomySelect
+              label="Category"
+              items={categories}
+              valueId={catId}
+              onSelect={(i) => setCatId(i?.documentId)}
+              emptyHint="No categories found — create one in Strapi."
+            />
+            <TemplateMultiSelect
+              label="Linked templates"
+              items={templates}
+              selectedIds={tplIds}
+              onChange={(ids) => setTplIds(ids)}
+              emptyHint="No templates found — create them in Strapi → Content Manager → Template."
+            />
+          </div>
+          <div className="flex items-center gap-2">
+            <button type="button" className="btn btn-primary text-xs py-1.5 px-3" disabled={state.loading} onClick={save}>
+              {state.loading ? "Saving…" : "Save connection"}
+            </button>
+            {state.msg && (
+              <span className="text-[10px]" style={{ color: state.ok ? "var(--green)" : state.loading ? "var(--muted)" : "var(--red)" }}>
+                {state.msg}
+              </span>
+            )}
+          </div>
+          {!blog.documentId && (
+            <p className="text-[10px] text-[var(--amber)]">Publish this blog first to save connections in Strapi.</p>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function BlogLibrary({
   blogs,
   onOpen,
   onDelete,
   onClearAll,
   onSaveCover,
+  categories = [],
+  authors = [],
+  templates = [],
+  onConnect,
 }: {
   blogs: StoredBlog[];
   onOpen: (id: string) => void;
@@ -79,6 +191,16 @@ export default function BlogLibrary({
   onClearAll: () => void;
   /** Persist an uploaded cover URL (locally + to Strapi if published). */
   onSaveCover?: (blogId: string, coverImageUrl: string) => Promise<void>;
+  categories?: TaxonomyItem[];
+  authors?: TaxonomyItem[];
+  templates?: TemplateItem[];
+  /** Connect author / category / templates to a blog in Strapi. */
+  onConnect?: (
+    blogId: string,
+    category: TaxonomyItem | null,
+    author: TaxonomyItem | null,
+    templates: TemplateItem[],
+  ) => Promise<void>;
 }) {
   const [sort, setSort] = useState<SortKey>("newest");
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
@@ -306,6 +428,17 @@ export default function BlogLibrary({
                   </p>
                 )}
               </div>
+
+              {/* ── Connect: author / category / linked templates ── */}
+              {onConnect && (
+                <CardConnect
+                  blog={b}
+                  categories={categories}
+                  authors={authors}
+                  templates={templates}
+                  onConnect={onConnect}
+                />
+              )}
 
               <div className="flex items-center justify-between gap-2 pt-3 border-t mt-auto" style={{ borderColor: "var(--border-soft)" }}>
                 <div className="flex items-center gap-2 text-[10px] text-[var(--muted)]">
