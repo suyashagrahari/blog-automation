@@ -3,7 +3,7 @@
 import { useMemo, useRef, useState } from "react";
 import type { StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
-import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
+import { TaxonomySelect } from "./SettingsPanel";
 
 type SortKey = "newest" | "oldest";
 type StatusFilter = "all" | "published" | "draft";
@@ -64,6 +64,102 @@ function CopyBtn({
     >
       {done ? copiedLabel : label}
     </button>
+  );
+}
+
+/**
+ * Dropdown-style multi-select for linked templates — looks like the Author /
+ * Category <select> (a closed field showing the summary + chevron), but opens a
+ * checkable list so multiple templates can be linked (manyToMany relatedTemplates).
+ */
+function TemplateDropdown({
+  label,
+  items,
+  selectedIds,
+  onChange,
+  emptyHint,
+}: {
+  label: string;
+  items: TemplateItem[];
+  selectedIds: string[];
+  onChange: (ids: string[]) => void;
+  emptyHint?: string;
+}) {
+  const [open, setOpen] = useState(false);
+  const selected = new Set(selectedIds);
+  const toggle = (id: string) => {
+    const next = new Set(selected);
+    if (next.has(id)) next.delete(id);
+    else next.add(id);
+    onChange([...next]);
+  };
+  const summary =
+    selectedIds.length === 0
+      ? "— None —"
+      : items.filter((i) => selected.has(i.documentId)).map((i) => i.name).join(", ");
+
+  return (
+    <div>
+      <div className="flex items-center justify-between">
+        <label className="label">{label}</label>
+        {selectedIds.length > 0 && (
+          <button type="button" className="text-[11px] text-[var(--blue)] hover:underline" onClick={() => onChange([])}>
+            Clear ({selectedIds.length})
+          </button>
+        )}
+      </div>
+      <div className="relative">
+        <button
+          type="button"
+          className="field flex items-center justify-between gap-2 w-full text-left"
+          onClick={() => setOpen((v) => !v)}
+        >
+          <span className="truncate" style={{ color: selectedIds.length ? "var(--text)" : "var(--muted)" }}>
+            {summary}
+          </span>
+          <span className="shrink-0 text-[var(--muted)] text-xs">{open ? "▲" : "▼"}</span>
+        </button>
+        {open && (
+          <>
+            {/* click-away backdrop */}
+            <div className="fixed inset-0 z-10" onClick={() => setOpen(false)} />
+            <div
+              className="absolute left-0 right-0 z-20 mt-1 max-h-56 overflow-y-auto rounded-lg p-1"
+              style={{ background: "var(--panel)", border: "1px solid var(--border)", boxShadow: "0 10px 30px rgba(0,0,0,0.4)" }}
+            >
+              {items.length === 0 ? (
+                <p className="text-[11px] text-[var(--muted)] p-2">{emptyHint || "No templates found."}</p>
+              ) : (
+                items.map((i) => {
+                  const on = selected.has(i.documentId);
+                  return (
+                    <button
+                      key={i.documentId}
+                      type="button"
+                      onClick={() => toggle(i.documentId)}
+                      className="w-full flex items-center gap-2 px-2 py-1.5 rounded-md text-left text-sm transition-colors"
+                      style={{ background: on ? "rgba(108,99,255,0.14)" : "transparent", color: on ? "var(--accent-2)" : "var(--text)" }}
+                      title={i.url || i.name}
+                    >
+                      <span
+                        className="inline-flex h-4 w-4 shrink-0 items-center justify-center rounded text-[10px] font-bold"
+                        style={on ? { background: "var(--accent)", color: "#fff" } : { border: "1.5px solid var(--border)" }}
+                      >
+                        {on ? "✓" : ""}
+                      </span>
+                      <span className="truncate">
+                        {i.emoji ? `${i.emoji} ` : ""}
+                        {i.name}
+                      </span>
+                    </button>
+                  );
+                })
+              )}
+            </div>
+          </>
+        )}
+      </div>
+    </div>
   );
 }
 
@@ -147,7 +243,7 @@ function CardConnect({
               onSelect={(i) => setCatId(i?.documentId)}
               emptyHint="No categories found — create one in Strapi."
             />
-            <TemplateMultiSelect
+            <TemplateDropdown
               label="Linked templates"
               items={templates}
               selectedIds={tplIds}
