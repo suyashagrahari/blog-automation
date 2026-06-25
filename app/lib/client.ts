@@ -49,6 +49,56 @@ export function extractJson(text: string): unknown {
   }
 }
 
+/**
+ * Clean the article body before it's saved/published. Belt-and-suspenders for the
+ * prompt rules: (1) strip heading-level labels the model sometimes writes into the
+ * heading TEXT ("### H3: Title" → "### Title", "**H3: Title**" → "### Title"), and
+ * (2) remove any FAQ / Q&A section from the body — FAQs render from the separate
+ * `faqs` field, so a body FAQ section would show up twice.
+ */
+export function sanitizeBody(md: string): string {
+  if (!md) return md;
+  let text = md;
+
+  // 1a) Drop level labels from real Markdown headings: "### H3: Title" → "### Title".
+  text = text.replace(/^(#{1,6}[ \t]+)(?:H[1-6]|Heading[ \t]*[1-6]|Section)[ \t]*[:.)\-–—][ \t]*/gim, "$1");
+  // 1b) Convert bold pseudo-headings carrying a level label into real headings.
+  text = text.replace(
+    /^[ \t]*\*\*[ \t]*H([1-6])[ \t]*[:.)\-–—][ \t]*(.+?)[ \t]*\*\*[ \t]*$/gim,
+    (_m, lvl: string, title: string) => `${"#".repeat(Math.min(6, Math.max(1, Number(lvl))))} ${title.trim()}`
+  );
+
+  // 2) Remove a FAQ / Q&A section if one leaked into the body.
+  const lines = text.split("\n");
+  const isHeading = (l: string) => /^#{1,6}[ \t]+/.test(l);
+  const headingLevel = (l: string) => l.match(/^(#{1,6})[ \t]+/)?.[1].length ?? 0;
+  const faqStartRe = /^[ \t]*(?:#{1,6}[ \t]+|\*\*[ \t]*)?(?:FAQs?|Frequently Asked Questions)\b/i;
+  const faqOnlyLineRe = /^[ \t]*(?:FAQs?|Frequently Asked Questions)(?:[ \t]*\(.*\))?[ \t:]*$/i;
+
+  let start = -1;
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i];
+    if (faqStartRe.test(l) && (isHeading(l) || /^[ \t]*\*\*/.test(l) || faqOnlyLineRe.test(l))) {
+      start = i;
+      break;
+    }
+  }
+  if (start !== -1) {
+    const startLevel = isHeading(lines[start]) ? headingLevel(lines[start]) : 99;
+    let end = lines.length;
+    for (let j = start + 1; j < lines.length; j++) {
+      if (isHeading(lines[j]) && headingLevel(lines[j]) <= startLevel) {
+        end = j;
+        break;
+      }
+    }
+    lines.splice(start, end - start);
+    text = lines.join("\n");
+  }
+
+  return text.replace(/\n{3,}/g, "\n\n").trim();
+}
+
 /** Coerce + sanitize the model output into a safe GeneratedArticle. */
 export function normalizeArticle(raw: unknown, row: KeywordRow): GeneratedArticle {
   const o = (raw || {}) as Record<string, unknown>;
@@ -94,7 +144,7 @@ export function normalizeArticle(raw: unknown, row: KeywordRow): GeneratedArticl
     coverImagePrompt:
       str(o.coverImagePrompt) ||
       `A high-quality, photorealistic blog cover image depicting ${str(o.coverImageQuery) || row.keyword}. Warm, inviting mood with soft natural lighting and a tasteful, modern color palette. Cinematic composition with shallow depth of field and clean negative space for a title overlay, 16:9 aspect ratio. No text or words in the image except a small, subtle "subhsandesh.in" watermark in the bottom-right corner.`,
-    contentMarkdown: str(o.contentMarkdown),
+    contentMarkdown: sanitizeBody(str(o.contentMarkdown)),
     readingTime: typeof o.readingTime === "number" ? o.readingTime : undefined,
     structuredData: modelLd,
   };
