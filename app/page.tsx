@@ -161,6 +161,9 @@ export default function Home() {
     return next;
   };
 
+  // How many blogs to generate+publish concurrently per batch.
+  const BATCH_SIZE = 5;
+
   async function run(ids: string[]) {
     if (running) return;
     const provider = settings.activeProvider;
@@ -176,27 +179,38 @@ export default function Home() {
 
     stopRef.current = false;
     setRunning(true);
-    addLog(`🚀 Starting batch of ${ids.length} with ${PROVIDER_LABELS[provider]} · ${settings.models[provider]}.`);
+    const batchCount = Math.ceil(ids.length / BATCH_SIZE);
+    addLog(
+      `🚀 Starting ${ids.length} blog${ids.length > 1 ? "s" : ""} with ${PROVIDER_LABELS[provider]} · ${settings.models[provider]} ` +
+        `— ${batchCount} batch${batchCount > 1 ? "es" : ""} of up to ${BATCH_SIZE} at a time.`
+    );
 
-    let working = { ...results };
-    for (const id of ids) working = setRowStatus(working, id, { status: "queued", error: undefined });
+    // Single mutable accumulator so concurrent tasks never clobber each other's
+    // status writes. JS is single-threaded, so each patch() runs atomically
+    // (no await inside it) — only generate/publish I/O happens in parallel.
+    let acc = { ...results };
+    const patch = (id: string, p: Partial<RowResult>) => {
+      acc = setRowStatus(acc, id, p);
+    };
+
+    for (const id of ids) patch(id, { status: "queued", error: undefined });
+    setCurrentId(null); // no single "current" row when running in parallel
 
     let okCount = 0;
-    for (const id of ids) {
-      if (stopRef.current) {
-        addLog("⏸️ Stopped by user.");
-        break;
-      }
+
+    // Generate + (optionally) publish a single blog. Never throws — failures are
+    // captured as an "error" status so one bad blog can't reject the whole batch.
+    const processOne = async (id: string) => {
+      if (stopRef.current) return;
       const row = rows.find((r) => r.id === id);
-      if (!row) continue;
-      setCurrentId(id);
+      if (!row) return;
 
       try {
-        working = setRowStatus(working, id, { status: "generating", error: undefined });
+        patch(id, { status: "generating", error: undefined });
         addLog(`✍️ Writing: "${row.keyword}"…`);
         const article = await generateArticle(settings, row);
 
-        working = setRowStatus(working, id, {
+        patch(id, {
           status: settings.autoPublish ? "publishing" : "done",
           slug: article.slug,
           coverImageQuery: article.coverImageQuery,
@@ -211,7 +225,7 @@ export default function Home() {
           const pub = await publishArticle(settings, article);
           publishState = pub.publishState;
           documentId = pub.documentId;
-          working = setRowStatus(working, id, {
+          patch(id, {
             status: "done",
             publishState: pub.publishState,
             documentId: pub.documentId,
@@ -223,7 +237,7 @@ export default function Home() {
               : `📝 Saved "${article.title}" as DRAFT (add the CMS endpoint + restart to auto-publish).`
           );
         } else {
-          working = setRowStatus(working, id, { status: "done", finishedAt: new Date().toISOString() });
+          patch(id, { status: "done", finishedAt: new Date().toISOString() });
           addLog(`✅ Generated "${article.title}" (not published — auto-publish off).`);
         }
 
@@ -245,7 +259,6 @@ export default function Home() {
             templateNames: settings.defaultTemplateNames,
             createdAt: new Date().toISOString(),
           });
-          await refreshBlogs();
         } catch (dbErr) {
           addLog(`⚠️ Saved to CMS but couldn't store locally: ${dbErr instanceof Error ? dbErr.message : "IndexedDB error"}`);
         }
@@ -253,14 +266,27 @@ export default function Home() {
         okCount++;
       } catch (e) {
         const msg = e instanceof Error ? e.message : "unknown error";
-        working = setRowStatus(working, id, { status: "error", error: msg });
+        patch(id, { status: "error", error: msg });
         addLog(`❌ "${row.keyword}" failed: ${msg}`);
       }
+    };
+
+    // Process the selection in chunks of BATCH_SIZE. Each chunk runs all its
+    // blogs in parallel; we wait for the whole chunk before starting the next.
+    for (let i = 0; i < ids.length; i += BATCH_SIZE) {
+      if (stopRef.current) {
+        addLog("⏸️ Stopped by user.");
+        break;
+      }
+      const chunk = ids.slice(i, i + BATCH_SIZE);
+      addLog(`📦 Batch ${i / BATCH_SIZE + 1}/${batchCount} — processing ${chunk.length} in parallel…`);
+      await Promise.all(chunk.map(processOne));
+      await refreshBlogs(); // reflect this batch's saved blogs in the Library
     }
 
     setCurrentId(null);
     setRunning(false);
-    addLog(`🏁 Batch finished — ${okCount}/${ids.length} succeeded.`);
+    addLog(`🏁 Finished — ${okCount}/${ids.length} succeeded.`);
   }
 
   // ── view a generated blog from the keyword table (centered modal) ──────────────

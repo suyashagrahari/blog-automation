@@ -93,6 +93,18 @@ async function callGemini(model: string, apiKey: string, system: string, user: s
 
 // ── Anthropic Claude (Messages) ─────────────────────────────────────────────
 async function callAnthropic(model: string, apiKey: string, system: string, user: string): Promise<string> {
+  // Opus 4.7/4.8, Fable 5, and Mythos 5 REMOVED the sampling params — sending
+  // temperature/top_p/top_k returns a 400. Only send temperature to models that
+  // still accept it (Sonnet 4.x, Haiku 4.x, Opus 4.6 and older).
+  const rejectsSampling = /opus-4-(7|8)|fable|mythos/i.test(model);
+  const payload: Record<string, unknown> = {
+    model,
+    max_tokens: 16384,
+    system: `${system}\n\nIMPORTANT: respond with ONLY the raw JSON object, no prose, no markdown code fences.`,
+    messages: [{ role: "user", content: user }],
+  };
+  if (!rejectsSampling) payload.temperature = 0.7;
+
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -100,13 +112,7 @@ async function callAnthropic(model: string, apiKey: string, system: string, user
       "x-api-key": apiKey,
       "anthropic-version": "2023-06-01",
     },
-    body: JSON.stringify({
-      model,
-      max_tokens: 16384,
-      temperature: 0.7,
-      system: `${system}\n\nIMPORTANT: respond with ONLY the raw JSON object, no prose, no markdown code fences.`,
-      messages: [{ role: "user", content: user }],
-    }),
+    body: JSON.stringify(payload),
   });
   const data = await res.json();
   if (!res.ok) {
