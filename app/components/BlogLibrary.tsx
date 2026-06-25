@@ -400,17 +400,15 @@ export default function BlogLibrary({
 
       {/* Sort + filter controls */}
       <div className="flex items-center gap-x-4 gap-y-2 flex-wrap">
-        <div className="flex items-center gap-1.5">
-          <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">Sort</span>
-          <select
-            className="field w-auto py-1.5 text-xs"
-            value={sort}
-            onChange={(e) => setSort(e.target.value as SortKey)}
-          >
-            <option value="newest">Newest first</option>
-            <option value="oldest">Oldest first</option>
-          </select>
-        </div>
+        <Segmented<SortKey>
+          label="Sort"
+          value={sort}
+          onChange={setSort}
+          options={[
+            { value: "newest", label: "Newest" },
+            { value: "oldest", label: "Oldest" },
+          ]}
+        />
         <Segmented<StatusFilter>
           label="Show"
           value={statusFilter}
