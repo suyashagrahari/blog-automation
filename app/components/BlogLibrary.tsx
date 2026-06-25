@@ -7,6 +7,43 @@ import { TaxonomySelect } from "./SettingsPanel";
 
 type SortKey = "newest" | "oldest";
 type StatusFilter = "all" | "published" | "draft";
+type CoverFilter = "all" | "with" | "without";
+type TemplateFilter = "all" | "linked" | "none";
+
+/** A compact segmented pill control (used for the toolbar filters). */
+function Segmented<T extends string>({
+  label,
+  value,
+  options,
+  onChange,
+}: {
+  label: string;
+  value: T;
+  options: { value: T; label: string }[];
+  onChange: (v: T) => void;
+}) {
+  return (
+    <div className="flex items-center gap-1.5">
+      <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">{label}</span>
+      <div className="flex items-center gap-1 rounded-lg p-0.5" style={{ background: "var(--panel-2)", border: "1px solid var(--border)" }}>
+        {options.map((o) => {
+          const on = value === o.value;
+          return (
+            <button
+              key={o.value}
+              type="button"
+              onClick={() => onChange(o.value)}
+              className="px-2.5 py-1 rounded-md text-xs font-medium transition-colors whitespace-nowrap"
+              style={{ background: on ? "var(--accent)" : "transparent", color: on ? "#fff" : "var(--muted)" }}
+            >
+              {o.label}
+            </button>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
 
 function fmt(iso: string): string {
   try {
@@ -277,6 +314,8 @@ export default function BlogLibrary({
 }) {
   const [sort, setSort] = useState<SortKey>("newest");
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
+  const [coverFilter, setCoverFilter] = useState<CoverFilter>("all");
+  const [templateFilter, setTemplateFilter] = useState<TemplateFilter>("all");
   // Per-card upload state, keyed by blog id.
   const [uploads, setUploads] = useState<Record<string, { loading: boolean; ok?: boolean; msg: string }>>({});
   const fileRefs = useRef<Record<string, HTMLInputElement | null>>({});
@@ -303,9 +342,18 @@ export default function BlogLibrary({
 
   const visible = useMemo(() => {
     const filtered = blogs.filter((b) => {
-      if (statusFilter === "all") return true;
-      if (statusFilter === "draft") return b.publishState !== "published";
-      return b.publishState === "published";
+      // status
+      if (statusFilter === "draft" && b.publishState === "published") return false;
+      if (statusFilter === "published" && b.publishState !== "published") return false;
+      // cover
+      const hasCover = !!(b.coverImageUrl || b.article.coverImageUrl);
+      if (coverFilter === "with" && !hasCover) return false;
+      if (coverFilter === "without" && hasCover) return false;
+      // linked templates
+      const hasTpl = (b.templateIds?.length || 0) > 0;
+      if (templateFilter === "linked" && !hasTpl) return false;
+      if (templateFilter === "none" && hasTpl) return false;
+      return true;
     });
     // Sort by creation time (createdAt ISO). Fall back to 0 for malformed dates.
     const ts = (b: StoredBlog) => {
@@ -313,7 +361,7 @@ export default function BlogLibrary({
       return Number.isNaN(t) ? 0 : t;
     };
     return [...filtered].sort((a, b) => (sort === "newest" ? ts(b) - ts(a) : ts(a) - ts(b)));
-  }, [blogs, sort, statusFilter]);
+  }, [blogs, sort, statusFilter, coverFilter, templateFilter]);
 
   if (blogs.length === 0) {
     return (
@@ -351,7 +399,7 @@ export default function BlogLibrary({
       </div>
 
       {/* Sort + filter controls */}
-      <div className="flex items-center gap-2 flex-wrap">
+      <div className="flex items-center gap-x-4 gap-y-2 flex-wrap">
         <div className="flex items-center gap-1.5">
           <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">Sort</span>
           <select
@@ -363,28 +411,36 @@ export default function BlogLibrary({
             <option value="oldest">Oldest first</option>
           </select>
         </div>
-        <div className="flex items-center gap-1.5">
-          <span className="text-[11px] text-[var(--muted)] uppercase tracking-wide">Show</span>
-          <div className="flex items-center gap-1 rounded-lg p-0.5" style={{ background: "var(--panel-2)", border: "1px solid var(--border)" }}>
-            {(["all", "published", "draft"] as StatusFilter[]).map((f) => {
-              const on = statusFilter === f;
-              return (
-                <button
-                  key={f}
-                  type="button"
-                  onClick={() => setStatusFilter(f)}
-                  className="px-2.5 py-1 rounded-md text-xs font-medium capitalize transition-colors"
-                  style={{
-                    background: on ? "var(--accent)" : "transparent",
-                    color: on ? "#fff" : "var(--muted)",
-                  }}
-                >
-                  {f}
-                </button>
-              );
-            })}
-          </div>
-        </div>
+        <Segmented<StatusFilter>
+          label="Show"
+          value={statusFilter}
+          onChange={setStatusFilter}
+          options={[
+            { value: "all", label: "All" },
+            { value: "published", label: "Published" },
+            { value: "draft", label: "Draft" },
+          ]}
+        />
+        <Segmented<CoverFilter>
+          label="Cover"
+          value={coverFilter}
+          onChange={setCoverFilter}
+          options={[
+            { value: "all", label: "All" },
+            { value: "with", label: "With" },
+            { value: "without", label: "Without" },
+          ]}
+        />
+        <Segmented<TemplateFilter>
+          label="Template"
+          value={templateFilter}
+          onChange={setTemplateFilter}
+          options={[
+            { value: "all", label: "All" },
+            { value: "linked", label: "Linked" },
+            { value: "none", label: "None" },
+          ]}
+        />
       </div>
 
       {visible.length === 0 ? (
