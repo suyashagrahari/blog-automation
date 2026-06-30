@@ -241,8 +241,12 @@ export interface PublishResult {
   publishState: "published" | "draft";
 }
 
-/** Publish (or draft) the article to Strapi, connecting the default category/author. Throws on failure. */
-export async function publishArticle(settings: Settings, article: GeneratedArticle): Promise<PublishResult> {
+/** Publish (or draft) the article to Strapi, connecting the project's default category/author/templates. Throws on failure. */
+export async function publishArticle(
+  settings: Settings,
+  article: GeneratedArticle,
+  links?: { categoryId?: string; authorId?: string; templateIds?: string[] }
+): Promise<PublishResult> {
   if (!settings.strapiUrl) throw new Error("Strapi URL not set");
   const res = await fetch("/api/strapi", {
     method: "POST",
@@ -252,9 +256,9 @@ export async function publishArticle(settings: Settings, article: GeneratedArtic
       strapiToken: settings.strapiToken,
       autoPublish: settings.autoPublish,
       article,
-      categoryId: settings.defaultCategoryId || undefined,
-      authorId: settings.defaultAuthorId || undefined,
-      templateIds: settings.defaultTemplateIds?.length ? settings.defaultTemplateIds : undefined,
+      categoryId: links?.categoryId || undefined,
+      authorId: links?.authorId || undefined,
+      templateIds: links?.templateIds?.length ? links.templateIds : undefined,
     }),
   });
   const data = (await res.json()) as { documentId?: string; publishState?: "published" | "draft"; error?: string };

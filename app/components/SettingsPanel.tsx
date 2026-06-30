@@ -10,21 +10,9 @@ const CUSTOM = "__custom__";
 export default function SettingsPanel({
   settings,
   onChange,
-  categories,
-  authors,
-  templates,
-  taxonomyLoading,
-  taxonomyError,
-  onReloadTaxonomy,
 }: {
   settings: Settings;
   onChange: (s: Settings) => void;
-  categories: TaxonomyItem[];
-  authors: TaxonomyItem[];
-  templates: TemplateItem[];
-  taxonomyLoading: boolean;
-  taxonomyError: string;
-  onReloadTaxonomy: () => void;
 }) {
   const [testState, setTestState] = useState<{ loading: boolean; msg: string; ok?: boolean }>({
     loading: false,
@@ -205,59 +193,10 @@ export default function SettingsPanel({
           )}
         </div>
 
-        {/* Default author + category — connected to EVERY generated article */}
-        <div className="mt-6 pt-5 border-t" style={{ borderColor: "var(--border)" }}>
-          <div className="flex items-center justify-between mb-1">
-            <h4 className="text-sm font-semibold">Default Author &amp; Category</h4>
-            <button
-              type="button"
-              className="text-xs text-[var(--blue)] hover:underline disabled:opacity-50"
-              onClick={onReloadTaxonomy}
-              disabled={taxonomyLoading}
-            >
-              {taxonomyLoading ? "Loading…" : "↻ Reload from Strapi"}
-            </button>
-          </div>
-          <p className="text-xs text-[var(--muted)] mb-4">
-            Every article you generate is automatically connected to this author and category. You can still override
-            either one per-article from the blog modal.
-          </p>
-
-          {taxonomyError && <p className="text-xs mb-3" style={{ color: "var(--amber)" }}>{taxonomyError}</p>}
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <TaxonomySelect
-              label="Default Author"
-              items={authors}
-              valueId={settings.defaultAuthorId}
-              onSelect={(item) => set({ defaultAuthorId: item?.documentId, defaultAuthorName: item?.name })}
-              emptyHint="No authors found — create one in Strapi → Content Manager → Author."
-            />
-            <TaxonomySelect
-              label="Default Category"
-              items={categories}
-              valueId={settings.defaultCategoryId}
-              onSelect={(item) => set({ defaultCategoryId: item?.documentId, defaultCategoryName: item?.name })}
-              emptyHint="No categories found — create one in Strapi → Content Manager → Category."
-            />
-          </div>
-
-          <div className="mt-4">
-            <TemplateMultiSelect
-              label="Default Linked Templates (Create-a-surprise CTA)"
-              items={templates}
-              selectedIds={settings.defaultTemplateIds || []}
-              onChange={(ids, items) =>
-                set({ defaultTemplateIds: ids, defaultTemplateNames: items.map((i) => i.name) })
-              }
-              emptyHint="No templates found — create them in Strapi → Content Manager → Template, then ↻ Reload."
-            />
-            <p className="text-[11px] text-[var(--muted)] mt-1.5">
-              Linked templates power the blog&apos;s “Create a surprise” card. Pick none to let the post show all
-              templates; pick one to send readers straight to it; pick several to open a focused picker.
-            </p>
-          </div>
-        </div>
+        <p className="text-[11px] text-[var(--muted)] mt-4 pt-4 border-t" style={{ borderColor: "var(--border)" }}>
+          The default Author, Category &amp; linked Templates every article connects to are set <em>per project</em> on
+          the Generate tab — so each project can publish to a different author/category.
+        </p>
       </section>
     </div>
   );

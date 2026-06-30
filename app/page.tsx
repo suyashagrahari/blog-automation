@@ -1,20 +1,50 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import type { KeywordRow, RowResult, Settings, StoredBlog, TaxonomyItem, TemplateItem } from "./lib/types";
+import type {
+  KeywordRow,
+  Project,
+  ProjectDefaults,
+  RowResult,
+  Settings,
+  StoredBlog,
+  TaxonomyItem,
+  TemplateItem,
+} from "./lib/types";
 import {
   DEFAULT_SETTINGS,
   clearSheet as clearSheetStorage,
+  loadActiveProjectId,
   loadFileName,
   loadResults,
   loadRows,
   loadSettings,
+  saveActiveProjectId,
   saveFileName,
   saveResults,
   saveRows,
   saveSettings,
 } from "./lib/storage";
-import { clearAllBlogs, deleteBlog, getAllBlogs, saveBlog } from "./lib/db";
+import {
+  blogKey,
+  countBlogsByProject,
+  deleteBlog,
+  deleteBlogsByProject,
+  deleteProject,
+  getAllProjects,
+  getBlogsByProject,
+  getProject,
+  saveBlog,
+  saveProject,
+} from "./lib/db";
+import {
+  createProject,
+  downloadProjectExport,
+  importProject,
+  migrateLegacyData,
+  parseProjectFile,
+  updateProject,
+} from "./lib/projects";
 import { exportToExcel, parseWorkbook } from "./lib/excel";
 import { connectArticle, fetchTaxonomy, generateArticle, publishArticle, setArticleCover } from "./lib/client";
 import { PROVIDER_LABELS } from "./lib/models";
@@ -23,20 +53,35 @@ import KeywordTable from "./components/KeywordTable";
 import Sidebar, { type View } from "./components/Sidebar";
 import BlogLibrary from "./components/BlogLibrary";
 import BlogViewer from "./components/BlogViewer";
+import ProjectsScreen from "./components/ProjectsScreen";
 import Modal from "./components/Modal";
 
 export default function Home() {
   const [mounted, setMounted] = useState(false);
   const [settings, setSettings] = useState<Settings>(DEFAULT_SETTINGS);
+
+  // ── projects ────────────────────────────────────────────────────────────────
+  const [projects, setProjects] = useState<Project[]>([]);
+  const [counts, setCounts] = useState<Record<string, number>>({});
+  const [activeProjectId, setActiveProjectId] = useState<string | null>(null);
+  const [activeProject, setActiveProject] = useState<Project | null>(null);
+  // Stable handle to the active project id for use inside async generation tasks.
+  const pidRef = useRef<string | null>(null);
+  useEffect(() => {
+    pidRef.current = activeProjectId;
+  }, [activeProjectId]);
+
+  // ── active project's sheet ───────────────────────────────────────────────────
   const [rows, setRows] = useState<KeywordRow[]>([]);
   const [results, setResults] = useState<Record<string, RowResult>>({});
   const [fileName, setFileName] = useState("");
   const [selected, setSelected] = useState<Set<string>>(new Set());
 
   const [view, setView] = useState<View>("generate");
+  const [settingsOpen, setSettingsOpen] = useState(false); // global Settings screen
   const [blogs, setBlogs] = useState<StoredBlog[]>([]);
-  const [viewingId, setViewingId] = useState<string | null>(null);
-  const [modalId, setModalId] = useState<string | null>(null);
+  const [viewingId, setViewingId] = useState<string | null>(null); // store id
+  const [modalId, setModalId] = useState<string | null>(null); // store id
 
   const [categories, setCategories] = useState<TaxonomyItem[]>([]);
   const [authors, setAuthors] = useState<TaxonomyItem[]>([]);
@@ -51,22 +96,99 @@ export default function Home() {
 
   // ── hydrate ────────────────────────────────────────────────────────────────
   useEffect(() => {
-    const s = loadSettings();
-    setSettings(s);
-    const r = loadRows();
-    setRows(r);
-    setResults(loadResults());
-    setFileName(loadFileName());
-    setSelected(new Set(r.map((x) => x.id)));
-    const hasKey = s.keys.openai || s.keys.gemini || s.keys.anthropic;
-    if (!hasKey) setView("settings");
-    getAllBlogs().then(setBlogs);
-    if (s.strapiUrl) loadTaxonomy(s);
-    setMounted(true);
+    (async () => {
+      const s = loadSettings();
+      setSettings(s);
+      if (s.strapiUrl) loadTaxonomy(s);
+      await migrateLegacyData(); // fold any pre-project data into a first project
+      const ps = await refreshProjects();
+      const savedId = loadActiveProjectId();
+      if (savedId && ps.some((p) => p.id === savedId)) {
+        await openProject(savedId, s);
+      }
+      setMounted(true);
+    })();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const refreshBlogs = useCallback(() => getAllBlogs().then(setBlogs), []);
+  // ── projects: list + per-project blog counts ───────────────────────────────────
+  const refreshProjects = useCallback(async (): Promise<Project[]> => {
+    const ps = await getAllProjects();
+    setProjects(ps);
+    const entries = await Promise.all(ps.map(async (p) => [p.id, await countBlogsByProject(p.id)] as const));
+    setCounts(Object.fromEntries(entries));
+    return ps;
+  }, []);
+
+  const refreshBlogs = useCallback(async (pid = pidRef.current) => {
+    if (!pid) return;
+    setBlogs(await getBlogsByProject(pid));
+  }, []);
+
+  // Open a project: load its sheet, blogs, and pick a sensible starting view.
+  async function openProject(id: string, s: Settings = settings) {
+    const p = await getProject(id);
+    if (!p) return;
+    setActiveProjectId(id);
+    setActiveProject(p);
+    pidRef.current = id;
+    saveActiveProjectId(id);
+
+    const r = loadRows(id);
+    setRows(r);
+    setResults(loadResults(id));
+    setFileName(loadFileName(id));
+    setSelected(new Set(r.map((x) => x.id)));
+    setBlogs(await getBlogsByProject(id));
+    setViewingId(null);
+    setModalId(null);
+
+    const hasKey = s.keys.openai || s.keys.gemini || s.keys.anthropic;
+    setView("generate");
+    setSettingsOpen(!hasKey); // nudge new users to add a key first
+  }
+
+  function backToProjects() {
+    setActiveProjectId(null);
+    setActiveProject(null);
+    pidRef.current = null;
+    saveActiveProjectId(null);
+    setSettingsOpen(false);
+    setViewingId(null);
+    setModalId(null);
+    refreshProjects();
+  }
+
+  // ── project CRUD wiring (Projects screen) ──────────────────────────────────────
+  async function handleCreateProject(input: { name: string; description?: string; type?: string }) {
+    const p = await createProject(input);
+    await refreshProjects();
+    await openProject(p.id);
+  }
+  async function handleUpdateProject(project: Project, patch: Partial<Project>) {
+    await updateProject(project, patch);
+    await refreshProjects();
+  }
+  async function handleDeleteProject(id: string) {
+    await deleteProject(id);
+    if (activeProjectId === id) backToProjects();
+    await refreshProjects();
+  }
+  async function handleImportProject(file: File) {
+    const data = await parseProjectFile(file);
+    await importProject(data);
+    await refreshProjects();
+  }
+
+  // Update the active project's default Strapi links (optimistic + persist).
+  const updateProjectDefaults = useCallback((patch: Partial<ProjectDefaults>) => {
+    setActiveProject((prev) => {
+      if (!prev) return prev;
+      const next: Project = { ...prev, ...patch, updatedAt: new Date().toISOString() };
+      saveProject(next);
+      return next;
+    });
+  }, []);
 
   async function loadTaxonomy(s: Settings) {
     setTaxonomyLoading(true);
@@ -90,7 +212,7 @@ export default function Home() {
   };
   const updateResults = useCallback((next: Record<string, RowResult>) => {
     setResults(next);
-    saveResults(next);
+    if (pidRef.current) saveResults(pidRef.current, next);
   }, []);
 
   const addLog = (msg: string) =>
@@ -112,6 +234,8 @@ export default function Home() {
 
   // ── file upload ─────────────────────────────────────────────────────────────
   async function handleFile(file: File) {
+    const pid = pidRef.current;
+    if (!pid) return;
     try {
       const buf = await file.arrayBuffer();
       const { rows: parsed } = parseWorkbook(buf);
@@ -120,13 +244,13 @@ export default function Home() {
         return;
       }
       setRows(parsed);
-      saveRows(parsed);
+      saveRows(pid, parsed);
       const fresh: Record<string, RowResult> = {};
       for (const r of parsed) fresh[r.id] = { status: "pending" };
       updateResults(fresh);
       setSelected(new Set(parsed.map((r) => r.id)));
       setFileName(file.name);
-      saveFileName(file.name);
+      saveFileName(pid, file.name);
       addLog(`📥 Loaded ${parsed.length} keywords from "${file.name}".`);
     } catch (e) {
       addLog(`❌ Failed to parse sheet: ${e instanceof Error ? e.message : "unknown error"}`);
@@ -134,8 +258,10 @@ export default function Home() {
   }
 
   function clearSheet() {
+    const pid = pidRef.current;
+    if (!pid) return;
     if (!confirm("Clear the loaded sheet and all generation progress? (Saved blogs in the Library are kept.)")) return;
-    clearSheetStorage();
+    clearSheetStorage(pid);
     setRows([]);
     setResults({});
     setSelected(new Set());
@@ -166,10 +292,13 @@ export default function Home() {
 
   async function run(ids: string[]) {
     if (running) return;
+    const pid = pidRef.current;
+    const project = activeProject;
+    if (!pid || !project) return;
     const provider = settings.activeProvider;
     if (!settings.keys[provider]) {
       addLog(`❌ Add an API key for ${PROVIDER_LABELS[provider]} first.`);
-      setView("settings");
+      setSettingsOpen(true);
       return;
     }
     if (!ids.length) {
@@ -222,7 +351,11 @@ export default function Home() {
 
         if (settings.autoPublish) {
           addLog(`📤 Publishing "${article.title}" to Strapi…`);
-          const pub = await publishArticle(settings, article);
+          const pub = await publishArticle(settings, article, {
+            categoryId: project.defaultCategoryId,
+            authorId: project.defaultAuthorId,
+            templateIds: project.defaultTemplateIds,
+          });
           publishState = pub.publishState;
           documentId = pub.documentId;
           patch(id, {
@@ -244,19 +377,21 @@ export default function Home() {
         // Persist the full article to IndexedDB so it shows up in the Library.
         try {
           await saveBlog({
-            id,
+            id: blogKey(pid, id),
+            projectId: pid,
+            rowId: id,
             keyword: row.keyword,
             article,
             provider,
             model: settings.models[provider],
             publishState,
             documentId,
-            categoryId: settings.defaultCategoryId,
-            categoryName: settings.defaultCategoryName,
-            authorId: settings.defaultAuthorId,
-            authorName: settings.defaultAuthorName,
-            templateIds: settings.defaultTemplateIds,
-            templateNames: settings.defaultTemplateNames,
+            categoryId: project.defaultCategoryId,
+            categoryName: project.defaultCategoryName,
+            authorId: project.defaultAuthorId,
+            authorName: project.defaultAuthorName,
+            templateIds: project.defaultTemplateIds,
+            templateNames: project.defaultTemplateNames,
             createdAt: new Date().toISOString(),
           });
         } catch (dbErr) {
@@ -281,7 +416,7 @@ export default function Home() {
       const chunk = ids.slice(i, i + BATCH_SIZE);
       addLog(`📦 Batch ${i / BATCH_SIZE + 1}/${batchCount} — processing ${chunk.length} in parallel…`);
       await Promise.all(chunk.map(processOne));
-      await refreshBlogs(); // reflect this batch's saved blogs in the Library
+      await refreshBlogs(pid); // reflect this batch's saved blogs in the Library
     }
 
     setCurrentId(null);
@@ -290,13 +425,13 @@ export default function Home() {
   }
 
   // ── view a generated blog from the keyword table (centered modal) ──────────────
-  function openBlogModal(id: string) {
-    const blog = blogs.find((b) => b.id === id);
+  function openBlogModal(rowId: string) {
+    const blog = blogs.find((b) => b.rowId === rowId);
     if (!blog) {
       addLog("ℹ️ No stored content for this row — re-generate it to view the full blog.");
       return;
     }
-    setModalId(id);
+    setModalId(blog.id);
   }
 
   // ── library actions ──────────────────────────────────────────────────────────
@@ -309,10 +444,12 @@ export default function Home() {
     addLog("🗑️ Deleted a blog from the library.");
   }
   async function handleClearAllBlogs() {
-    await clearAllBlogs();
-    await refreshBlogs();
+    const pid = pidRef.current;
+    if (!pid) return;
+    await deleteBlogsByProject(pid);
+    await refreshBlogs(pid);
     setViewingId(null);
-    addLog("🗑️ Cleared the entire blog library.");
+    addLog("🗑️ Cleared this project's blog library.");
   }
 
   async function handleConnect(
@@ -397,6 +534,7 @@ export default function Home() {
   }
 
   const provider = settings.activeProvider;
+  const inProject = activeProjectId !== null;
   const hasRows = rows.length > 0;
   const allSelected = hasRows && rows.every((r) => selected.has(r.id));
   const viewingBlog = viewingId ? blogs.find((b) => b.id === viewingId) || null : null;
@@ -405,18 +543,26 @@ export default function Home() {
   const TITLES: Record<View, { title: string; sub: string }> = {
     generate: { title: "Generate", sub: "Upload keywords, then write & publish SEO/GEO/AEO blogs one by one." },
     library: { title: "Library", sub: "Every blog you've generated, stored locally in your browser." },
-    settings: { title: "Settings", sub: "API keys, model selection per provider, and your Strapi connection." },
   };
-  const head = TITLES[view];
+  const head = settingsOpen
+    ? { title: "Settings", sub: "API keys, models & your Strapi connection — shared across every project." }
+    : inProject
+    ? { title: activeProject?.name || TITLES[view].title, sub: TITLES[view].sub }
+    : { title: "Projects", sub: "One workspace per blog initiative — its own sheet, library & Strapi links." };
 
   return (
     <div className="min-h-screen">
       <Sidebar
-        active={view}
+        view={view}
         onNavigate={(v) => {
+          setSettingsOpen(false);
           setView(v);
           if (v !== "library") setViewingId(null);
         }}
+        projectName={inProject ? activeProject?.name ?? "" : null}
+        onBackToProjects={backToProjects}
+        settingsActive={settingsOpen}
+        onOpenSettings={() => setSettingsOpen(true)}
         blogCount={blogs.length}
         doneCount={stats.done}
         totalKeywords={stats.total}
@@ -435,7 +581,7 @@ export default function Home() {
               <h1 className="text-base sm:text-lg font-semibold leading-tight truncate">{head.title}</h1>
               <p className="text-[11px] text-[var(--muted)] hidden sm:block">{head.sub}</p>
             </div>
-            {view === "generate" && hasRows && (
+            {inProject && !settingsOpen && view === "generate" && hasRows && (
               <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
                 <Stat label="Done" value={stats.done} color="var(--green)" />
                 <Stat label="Errors" value={stats.error} color="var(--red)" />
@@ -452,8 +598,22 @@ export default function Home() {
         </header>
 
         <main className="px-4 sm:px-7 py-5 sm:py-6 w-full">
+          {/* ── PROJECTS (no project open) ──────────────────────────── */}
+          {!inProject && !settingsOpen && (
+            <ProjectsScreen
+              projects={projects}
+              counts={counts}
+              onOpen={(id) => openProject(id)}
+              onCreate={handleCreateProject}
+              onUpdate={handleUpdateProject}
+              onDelete={handleDeleteProject}
+              onExport={(id) => downloadProjectExport(id)}
+              onImport={handleImportProject}
+            />
+          )}
+
           {/* ── GENERATE ───────────────────────────────────────────── */}
-          {view === "generate" && (
+          {inProject && !settingsOpen && view === "generate" && (
             <div className="space-y-6">
               <UploadZone fileName={fileName} onFile={handleFile} onClear={hasRows ? clearSheet : undefined} />
 
@@ -520,7 +680,7 @@ export default function Home() {
                     )}
                   </div>
 
-                  {/* Author + category applied to EVERY blog in this batch */}
+                  {/* Author + category applied to EVERY blog in this batch (per-project) */}
                   <div
                     className="rounded-xl p-4"
                     style={{ background: "var(--panel-2)", border: "1px solid var(--border-soft)" }}
@@ -538,22 +698,27 @@ export default function Home() {
                         {taxonomyLoading ? "Loading…" : "↻ Reload from Strapi"}
                       </button>
                     </div>
+                    {taxonomyError && (
+                      <p className="text-xs mb-3" style={{ color: "var(--amber)" }}>
+                        {taxonomyError}
+                      </p>
+                    )}
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       <TaxonomySelect
                         label="Author"
                         items={authors}
-                        valueId={settings.defaultAuthorId}
+                        valueId={activeProject?.defaultAuthorId}
                         onSelect={(i) =>
-                          updateSettings({ ...settings, defaultAuthorId: i?.documentId, defaultAuthorName: i?.name })
+                          updateProjectDefaults({ defaultAuthorId: i?.documentId, defaultAuthorName: i?.name })
                         }
                         emptyHint="No authors — create one in Strapi, then ↻ Reload."
                       />
                       <TaxonomySelect
                         label="Category"
                         items={categories}
-                        valueId={settings.defaultCategoryId}
+                        valueId={activeProject?.defaultCategoryId}
                         onSelect={(i) =>
-                          updateSettings({ ...settings, defaultCategoryId: i?.documentId, defaultCategoryName: i?.name })
+                          updateProjectDefaults({ defaultCategoryId: i?.documentId, defaultCategoryName: i?.name })
                         }
                         emptyHint="No categories — create one in Strapi, then ↻ Reload."
                       />
@@ -562,10 +727,9 @@ export default function Home() {
                       <TemplateMultiSelect
                         label="Linked Templates (Create-a-surprise CTA)"
                         items={templates}
-                        selectedIds={settings.defaultTemplateIds || []}
+                        selectedIds={activeProject?.defaultTemplateIds || []}
                         onChange={(ids, items) =>
-                          updateSettings({
-                            ...settings,
+                          updateProjectDefaults({
                             defaultTemplateIds: ids,
                             defaultTemplateNames: items.map((i) => i.name),
                           })
@@ -610,7 +774,7 @@ export default function Home() {
           )}
 
           {/* ── LIBRARY ────────────────────────────────────────────── */}
-          {view === "library" &&
+          {inProject && !settingsOpen && view === "library" &&
             (viewingBlog ? (
               <BlogViewer
                 blog={viewingBlog}
@@ -636,19 +800,10 @@ export default function Home() {
               />
             ))}
 
-          {/* ── SETTINGS ───────────────────────────────────────────── */}
-          {view === "settings" && (
+          {/* ── SETTINGS (global — shared across every project) ─────── */}
+          {settingsOpen && (
             <div className="card p-6">
-              <SettingsPanel
-                settings={settings}
-                onChange={updateSettings}
-                categories={categories}
-                authors={authors}
-                templates={templates}
-                taxonomyLoading={taxonomyLoading}
-                taxonomyError={taxonomyError}
-                onReloadTaxonomy={() => loadTaxonomy(settings)}
-              />
+              <SettingsPanel settings={settings} onChange={updateSettings} />
             </div>
           )}
         </main>

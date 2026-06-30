@@ -86,8 +86,16 @@ export interface TemplateItem {
 
 /** A fully generated blog persisted in IndexedDB so the user can browse / view / delete it later. */
 export interface StoredBlog {
-  /** Same id as the source KeywordRow (stable, dedupes re-generation). */
+  /**
+   * Globally-unique IndexedDB store key — `${projectId}::${rowId}`. Two projects
+   * can each hold a keyword whose row id collides, so the primary key namespaces
+   * by project while `rowId` keeps the link back to the keyword row.
+   */
   id: string;
+  /** Owning project's id (indexed) — scopes every query to one project. */
+  projectId: string;
+  /** The source KeywordRow id (stable within a project; dedupes re-generation). */
+  rowId: string;
   keyword: string;
   article: GeneratedArticle;
   provider: Provider;
@@ -109,6 +117,51 @@ export interface StoredBlog {
   createdAt: string;
 }
 
+/**
+ * The default Strapi links a project connects every generated article to. These
+ * live per-project (different projects publish to different authors/categories),
+ * while API keys + the Strapi connection stay global in Settings.
+ */
+export interface ProjectDefaults {
+  defaultCategoryId?: string;
+  defaultCategoryName?: string;
+  defaultAuthorId?: string;
+  defaultAuthorName?: string;
+  defaultTemplateIds?: string[];
+  defaultTemplateNames?: string[];
+}
+
+/**
+ * A workspace. Each project owns its own keyword sheet, generated-blog library,
+ * and default Strapi links — fully isolated from every other project. Persisted
+ * in IndexedDB; the sheet (rows/results/fileName) is namespaced in localStorage.
+ */
+export interface Project extends ProjectDefaults {
+  id: string;
+  name: string;
+  /** Optional free-text description. */
+  description?: string;
+  /** Optional free-text label/tag shown on the card (does not change behavior). */
+  type?: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
+/** The self-contained payload written by "Export" / read by "Import" (single JSON file). */
+export interface ProjectExport {
+  /** Magic marker so Import can reject unrelated JSON. */
+  kind: "blog-automation/project";
+  version: 1;
+  exportedAt: string;
+  project: Project;
+  /** The keyword sheet at export time. */
+  fileName: string;
+  rows: KeywordRow[];
+  results: Record<string, RowResult>;
+  /** Every generated blog belonging to the project (full article content). */
+  blogs: StoredBlog[];
+}
+
 /** Persisted settings (localStorage). API keys never leave the browser except to our own /api routes. */
 export interface Settings {
   // API keys per provider
@@ -126,14 +179,6 @@ export interface Settings {
   blogPathPrefix: string;
   // auto-publish to strapi after each generation
   autoPublish: boolean;
-  // default Strapi category/author every generated article is connected to (documentId + name)
-  defaultCategoryId?: string;
-  defaultCategoryName?: string;
-  defaultAuthorId?: string;
-  defaultAuthorName?: string;
-  // default Strapi templates linked to every generated article (documentIds + names)
-  defaultTemplateIds?: string[];
-  defaultTemplateNames?: string[];
 }
 
 export interface GenerateRequestBody {
