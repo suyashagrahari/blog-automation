@@ -6,6 +6,11 @@ import type { GenerateRequestBody } from "@/app/lib/types";
 export const runtime = "nodejs";
 export const maxDuration = 300;
 
+// A 2000+ word article PLUS ≥50 self-contained FAQs PLUS JSON-LD is a large JSON
+// payload. 16k tokens truncated it (cut-off FAQs / invalid JSON), so give every
+// provider generous headroom. These sit comfortably under each model's output cap.
+const MAX_OUTPUT_TOKENS = 32000;
+
 export async function POST(req: Request) {
   let body: GenerateRequestBody;
   try {
@@ -51,8 +56,14 @@ async function callOpenAI(model: string, apiKey: string, system: string, user: s
     ],
     response_format: { type: "json_object" },
   };
-  // Reasoning models reject custom temperature; classic models like a bit of warmth.
-  if (!isReasoning) payload.temperature = 0.7;
+  // Reasoning models reject custom temperature and use max_completion_tokens;
+  // classic models like a bit of warmth and use max_tokens.
+  if (isReasoning) {
+    payload.max_completion_tokens = MAX_OUTPUT_TOKENS;
+  } else {
+    payload.temperature = 0.7;
+    payload.max_tokens = MAX_OUTPUT_TOKENS;
+  }
 
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
@@ -78,7 +89,7 @@ async function callGemini(model: string, apiKey: string, system: string, user: s
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: system }] },
       contents: [{ role: "user", parts: [{ text: user }] }],
-      generationConfig: { responseMimeType: "application/json", temperature: 0.7, maxOutputTokens: 16384 },
+      generationConfig: { responseMimeType: "application/json", temperature: 0.7, maxOutputTokens: MAX_OUTPUT_TOKENS },
     }),
   });
   const data = await res.json();
@@ -99,7 +110,7 @@ async function callAnthropic(model: string, apiKey: string, system: string, user
   const rejectsSampling = /opus-4-(7|8)|fable|mythos/i.test(model);
   const payload: Record<string, unknown> = {
     model,
-    max_tokens: 16384,
+    max_tokens: MAX_OUTPUT_TOKENS,
     system: `${system}\n\nIMPORTANT: respond with ONLY the raw JSON object, no prose, no markdown code fences.`,
     messages: [{ role: "user", content: user }],
   };

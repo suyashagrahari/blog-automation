@@ -51,7 +51,7 @@ export interface GeneratedArticle {
   ogType?: string;
   tags: string[];
   keyTakeaways: string[];
-  faqs: { question: string; answer: string }[]; // ≥ 10
+  faqs: { question: string; answer: string }[]; // ≥ 50
   coverImageQuery: string; // short 3-7 word search query (table / Excel / stock search)
   coverImagePrompt: string; // rich 3-4 sentence prompt for an AI image generator
   /** Public S3/CDN URL of an uploaded + compressed cover image (set in the viewer). */
