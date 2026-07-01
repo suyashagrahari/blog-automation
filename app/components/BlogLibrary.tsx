@@ -3,6 +3,7 @@
 import { useMemo, useRef, useState } from "react";
 import type { StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
+import { SITE_ROOT } from "@/app/lib/prompt";
 import { TaxonomySelect } from "./SettingsPanel";
 
 type SortKey = "newest" | "oldest";
@@ -453,6 +454,9 @@ export default function BlogLibrary({
           const hasCover = !!coverUrl;
           const up = uploads[b.id];
           const prompt = coverPromptFor(b);
+          // Public blog URL: prefer the model's canonical URL, else fall back to
+          // SITE_ROOT + slug so the button is always copy-able.
+          const blogUrl = (a.canonicalURL || `${SITE_ROOT}/${a.slug}`).replace(/\/+$/, "");
           return (
             <div key={b.id} className="card p-5 flex flex-col group hover:border-[var(--accent)] transition-colors relative">
               {/* Cover indicator (top-right) — read-only checkbox, auto-checked only when a cover exists */}
@@ -494,7 +498,7 @@ export default function BlogLibrary({
               </button>
 
               {/* ── Image prompt: copy out to your AI image generator (prompt text hidden) ── */}
-              <div className="grid grid-cols-2 gap-2 mb-3">
+              <div className="grid grid-cols-2 gap-2 mb-2">
                 <CopyBtn
                   text={prompt}
                   label="🎨 Copy prompt"
@@ -507,6 +511,17 @@ export default function BlogLibrary({
                   label="🔎 Copy query"
                   copiedLabel="✓ Query copied"
                   className="rounded-xl py-2.5 text-xs font-semibold transition-colors"
+                  style={{ background: "var(--panel-2)", border: "1px solid var(--border)", color: "var(--text)" }}
+                />
+              </div>
+
+              {/* ── Public blog URL: copy the live/canonical link to share or open ── */}
+              <div className="mb-3">
+                <CopyBtn
+                  text={blogUrl}
+                  label="🔗 Copy URL"
+                  copiedLabel="✓ URL copied"
+                  className="w-full rounded-xl py-2.5 text-xs font-semibold transition-colors"
                   style={{ background: "var(--panel-2)", border: "1px solid var(--border)", color: "var(--text)" }}
                 />
               </div>
