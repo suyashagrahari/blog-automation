@@ -229,9 +229,9 @@ export async function generateArticle(settings: Settings, row: KeywordRow): Prom
   }
   const article = normalizeArticle(parsed, row);
   if (!article.contentMarkdown) throw new Error("Model returned no article body");
-  if (article.faqs.length < 50) {
+  if (article.faqs.length < 60) {
     // Not fatal — but flag it so the user knows. We still publish what we got.
-    console.warn(`Only ${article.faqs.length} FAQs generated for "${row.keyword}" (expected ≥ 50)`);
+    console.warn(`Only ${article.faqs.length} FAQs generated for "${row.keyword}" (expected ≥ 60)`);
   }
   return article;
 }
