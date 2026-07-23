@@ -22,6 +22,7 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/valentine-bestfriend`, what: "Valentine's Day page for a best friend" },
   { url: `${SITE_ROOT}/missyou-gf`, what: "'I miss you' page for a girlfriend/partner" },
   { url: `${SITE_ROOT}/missyou-bestfriend`, what: "'I miss you' page for a best friend" },
+  { url: `${SITE_ROOT}/apology-dashboard`, what: "All-in-one apology / 'I'm sorry' page — the flagship, beautifully-animated make-up-and-say-sorry experience for anyone (partner, friend, family)" },
   { url: `${SITE_ROOT}/sorry-gf`, what: "Apology / 'I'm sorry' page for a girlfriend/partner" },
   { url: `${SITE_ROOT}/sorry-friend`, what: "Apology / 'I'm sorry' page for a friend" },
   { url: `${SITE_ROOT}/wedding-shaadi`, what: "Hindu wedding (shaadi) invitation page" },

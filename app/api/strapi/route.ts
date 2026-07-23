@@ -26,7 +26,7 @@ export async function GET(req: Request) {
       // Templates are optional — if the collection isn't present, degrade to [].
       fetchTemplates(`${base}/api/templates?pagination[pageSize]=200&sort=order:asc`, headers).catch(() => []),
     ]);
-    return json({ categories, authors, templates });
+    return json({ categories: pinFirst(categories, PINNED_CATEGORY_SLUGS), authors, templates });
   } catch (err) {
     return json({ error: err instanceof Error ? err.message : "Failed to load taxonomy" }, 502);
   }
@@ -53,6 +53,20 @@ async function fetchTemplates(url: string, headers: Record<string, string>): Pro
       } as TemplateItem;
     })
     .filter((t) => t.documentId && t.name);
+}
+
+// Categories that should always float to the top of the picker, in this order,
+// regardless of the alphabetical Strapi sort. Match by slug (falls back to name).
+const PINNED_CATEGORY_SLUGS = ["say-sorry-beautifully"];
+
+/** Move pinned items to the front (in `pinned` order); everything else keeps its order. */
+function pinFirst(items: TaxonomyItem[], pinned: string[]): TaxonomyItem[] {
+  const rank = (t: TaxonomyItem) => {
+    const key = (t.slug || t.name || "").toLowerCase();
+    const i = pinned.indexOf(key);
+    return i === -1 ? pinned.length : i;
+  };
+  return [...items].sort((a, b) => rank(a) - rank(b));
 }
 
 async function fetchTaxonomy(url: string, headers: Record<string, string>): Promise<TaxonomyItem[]> {
