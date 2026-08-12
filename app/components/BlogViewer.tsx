@@ -4,6 +4,7 @@ import { useMemo, useRef, useState } from "react";
 import { marked } from "marked";
 import type { BatchMeta, StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
+import { buildPageGraph, serialisePageGraph } from "@/app/lib/pageGraph";
 import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
 
 type Tab = "article" | "faqs" | "schema" | "seo" | "audit";
@@ -161,6 +162,11 @@ export default function BlogViewer({
     [a.structuredData]
   );
 
+  // The complete graph the live page emits — most of it is derived at render time
+  // from the article's own fields, so seo.structuredData alone under-reports it.
+  const graphNodes = useMemo(() => buildPageGraph(a), [a]);
+  const graphJson = useMemo(() => serialisePageGraph(graphNodes), [graphNodes]);
+
   // Older blogs may predate coverImagePrompt — synthesize a good one on the fly.
   const coverPrompt =
     a.coverImagePrompt ||
@@ -210,7 +216,7 @@ export default function BlogViewer({
             {a.faqs.length} FAQs
           </span>
           <span className="pill" style={{ background: "var(--panel-2)", color: "var(--muted)" }}>
-            {(a.structuredData?.length || 0)} JSON-LD
+            {graphNodes.length} JSON-LD
           </span>
         </div>
         <h1 className="text-2xl font-bold leading-tight mb-2">{a.title}</h1>
@@ -452,16 +458,55 @@ export default function BlogViewer({
       )}
 
       {tab === "schema" && (
-        <div className="card p-5">
-          <div className="flex items-center justify-between mb-3">
-            <p className="text-sm text-[var(--muted)]">
-              JSON-LD injected into Strapi&apos;s <code className="text-[var(--accent-2)]">seo.structuredData</code> — powers Google rich results & AI citations.
+        <div className="space-y-4">
+          <div className="card p-5">
+            <div className="flex items-center justify-between mb-1 gap-3">
+              <p className="text-sm text-[var(--muted)]">
+                The complete <code className="text-[var(--accent-2)]">@graph</code> the live page emits — {graphNodes.length} nodes.
+              </p>
+              <CopyBtn text={graphJson} label="Copy full graph" />
+            </div>
+            <p className="text-xs text-[var(--muted)] mb-3">
+              Most nodes are built at render time from the article&apos;s own fields and the Strapi author
+              record, so they are not stored in <code>seo.structuredData</code>. Storing them there would be
+              a no-op — the site skips any block whose type it already builds, because two BlogPosting or
+              two FAQPage nodes on one page conflict.
             </p>
-            <CopyBtn text={schemaJson} label="Copy JSON-LD" />
+            <div className="flex flex-wrap gap-1.5 mb-3">
+              {graphNodes.map((n, i) => (
+                <span
+                  key={i}
+                  className="text-[11px] px-2 py-0.5 rounded-full font-mono"
+                  style={
+                    n.origin === "batch"
+                      ? { background: "rgba(124,106,255,0.16)", border: "1px solid rgba(124,106,255,0.5)", color: "var(--accent-2)" }
+                      : { background: "rgba(255,255,255,0.04)", border: "1px solid var(--border)", color: "var(--muted)" }
+                  }
+                  title={n.origin === "batch" ? "Contributed by this batch file" : "Derived by the site at render time"}
+                >
+                  {n.type}
+                </span>
+              ))}
+            </div>
+            <p className="text-[11px] text-[var(--muted)] mb-3">
+              <span className="text-[var(--accent-2)]">Highlighted</span> = contributed by this batch file · plain = derived by the site
+            </p>
+            <pre className="font-mono text-xs overflow-x-auto p-4 rounded-lg" style={{ background: "#0e0f17", border: "1px solid var(--border)" }}>
+              {graphJson}
+            </pre>
           </div>
-          <pre className="font-mono text-xs overflow-x-auto p-4 rounded-lg" style={{ background: "#0e0f17", border: "1px solid var(--border)" }}>
-            {schemaJson}
-          </pre>
+
+          <div className="card p-5">
+            <div className="flex items-center justify-between mb-3 gap-3">
+              <p className="text-sm text-[var(--muted)]">
+                Stored in <code className="text-[var(--accent-2)]">seo.structuredData</code> — only what the site cannot derive.
+              </p>
+              <CopyBtn text={schemaJson} label="Copy JSON-LD" />
+            </div>
+            <pre className="font-mono text-xs overflow-x-auto p-4 rounded-lg" style={{ background: "#0e0f17", border: "1px solid var(--border)" }}>
+              {schemaJson}
+            </pre>
+          </div>
         </div>
       )}
 
