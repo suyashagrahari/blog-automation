@@ -116,20 +116,27 @@ worse fit.
 
 ---
 
-## Block 6 — FAQ (~200 words)
+## Block 6 — FAQ (~200 words) — **never inside `contentMarkdown`**
 
-```markdown
-## Frequently asked questions
+The FAQs live in **exactly two places**: the `faqs` array of the batch JSON, and
+the FAQPage JSON-LD in `structuredData`. They must match each other exactly.
 
-### [Question in natural spoken phrasing]
-```
+**Do not write an FAQ section into `contentMarkdown`.** Strapi renders the `faqs`
+component as its own section on the published page. A `## Frequently asked
+questions` heading in the body means the reader sees every question twice, and
+the duplicated text competes with itself for the same snippet.
 
 - **8–12 questions.**
 - Phrase them as a person would type or speak them, not as keyword strings.
 - Answer in 2–3 sentences, answer-first.
 - Pull questions from the Phase 2 fan-out analysis and People Also Ask.
-- The FAQs also go into the `faqs` array of the batch JSON, and the FAQPage
-  JSON-LD must match the visible text **exactly**.
+
+If a question is important enough to deserve real estate in the body, it is
+important enough to be a proper H2 with a fuller answer — promote it and drop it
+from the FAQ list. Do not do both.
+
+Because the FAQs no longer count toward the body, **write the body to length on
+its own**: 1,500–1,800 words in `contentMarkdown`, excluding FAQs.
 
 ---
 

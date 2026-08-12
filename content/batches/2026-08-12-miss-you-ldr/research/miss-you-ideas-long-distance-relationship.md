@@ -66,22 +66,42 @@ physical-gift upsell.
 
 ## Phase 3 — Sources
 
-All four fetched and verified to contain the claimed fact. Zero competitor
+All five fetched and verified to contain the claimed fact. Zero competitor
 citations; zero Wikipedia links.
 
 | Source | Verified fact | Published |
 |---|---|---|
 | [Cornell Chronicle](https://news.cornell.edu/stories/2013/08/new-media-allows-requited-love-know-no-distance) on Jiang & Hancock, *Journal of Communication* | 876 diaries, 3,024 interactions, 3.45 interactions/day average. Long-distance couples reported fewer daily interactions but greater intimacy, strongest in text-based, asynchronous and mobile media. | Aug 2013 (study Jun 2013) |
 | [Pew Research Center — Couples, the Internet, and Social Media](https://www.pewresearch.org/internet/2014/02/11/couples-the-internet-and-social-media/) | 41% of 18–29-year-olds in serious relationships have felt closer to a partner because of online or text conversations; 42% say a partner was distracted by a phone while together. | 11 Feb 2014 |
+| [UT Austin — Kumar & Epley, *Journal of Experimental Psychology*](https://news.utexas.edu/2020/09/11/phone-calls-create-stronger-bonds-than-text-based-communications/) | Across experiments (one with 200 participants reconnecting with an old friend), people felt significantly more connected after voice contact than after email or text, and the awkwardness they predicted did not occur. | 11 Sep 2020 |
 | [Business Standard, reporting MEA data tabled in Rajya Sabha](https://www.business-standard.com/external-affairs-defence-security/news/over-1-3-mn-indian-students-pursuing-higher-studies-abroad-in-2024-govt-124080101441_1.html) | 13,35,878 Indian students studying abroad in 2024, across 108 countries (2023: 13,18,955; 2022: 9,07,404). | 1 Aug 2024 |
 | [Department of Posts — Citizens' Charter](https://www.indiapost.gov.in/documents/CitizenCharter2021.pdf) | Speed Post: local 1–2 days, metro–metro 1–3, state capital to state capital 1–4, rest of country 4–5. International EMS: USA 4–7, UK 2–6, Canada 5–9, UAE 4–8, Singapore 3–6. Customs examination excluded. | 2021 charter |
 
-**Dropped rather than cited from memory:** Bailenson's "Nonverbal Overload"
-(Zoom fatigue) — Stanford News returned HTTP 403 and the APA *Technology, Mind
-and Behavior* article 404, so the video-call-fatigue argument was left out of the
-objection section. TRAI's June 2025 subscription press release was fetched but is
-a scanned PDF the indexer could not parse, and the statistic failed the "would it
-stay without the link" test anyway.
+**Dropped rather than cited from memory** — do not retry these blindly:
+
+- Bailenson, "Nonverbal Overload" (Zoom fatigue). Stanford News 403, APA
+  *Technology, Mind and Behavior* 404. The Kumar & Epley source now covers the
+  voice-versus-text argument, so this is no longer needed.
+- Stafford & Merolla (2007), "Idealization, reunions, and stability in
+  long-distance dating relationships". SAGE 403; the Semantic Scholar abstract is
+  elided by the publisher. Its post-reunion instability finding would have
+  strengthened the nuance section but could not be verified.
+- TRAI June 2025 subscription press release — fetched, but a scanned PDF the
+  indexer could not parse, and the statistic failed the "would it stay without the
+  link" test anyway.
+
+## Phase 8 — Audit remediation
+
+Two of the three original failures were closed by the fix pass: a fifth verified
+source (Kumar & Epley) was added, and the platform-wide caveat on the 11.7 figure
+now appears in the body next to the claim. The India Post charter-version failure
+remains open and structural.
+
+The FAQ block was also moved out of `contentMarkdown` into `article.faqs` alone —
+Strapi renders that component itself, so keeping both duplicated every question on
+the page. Removing it cost 443 words, rebuilt with a new "How often should you
+send something?" H2 (promoted from two FAQ entries that deserved fuller answers),
+the Kumar & Epley finding, and the 11.7 caveat. Body: 1,799 → 1,622 words.
 
 ---
 

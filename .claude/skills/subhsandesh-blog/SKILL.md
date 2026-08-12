@@ -162,12 +162,41 @@ Write, per keyword:
 
 Then create or update `content/batches/<batchId>/batch.json`.
 
+**FAQs go in `article.faqs` and the FAQPage JSON-LD only — never inside
+`contentMarkdown`.** Strapi renders the `faqs` component as its own section, so an
+FAQ heading in the body shows every question to the reader twice. This also means
+the body must reach 1,500–1,800 words on its own, without the FAQs counting.
+
 **Check the slug isn't taken before settling on it.** There are ~834 articles
 live; a colliding slug is locked out of publishing:
 
 ```
 https://strapi.subhsandesh.in/api/articles?fields[0]=slug&filters[slug][$eq]=<slug>
 ```
+
+### Phase 8 — Remediate the audit (BLOCKING if anything is fixable)
+
+An honest audit is the start of the work, not the end of it. A post must not ship
+with fixable weaknesses recorded as though they were facts of life.
+
+For every blog whose `auditReport.failed` is non-empty, spawn one
+**`blog-audit-remediator`** subagent — in parallel across blogs, since each edits
+only its own file. Give it the blog JSON path, the research brief path, and
+`references/audit-remediation.md`. Do not run this pass yourself: its value comes
+from a reader with no attachment to the draft's phrasing.
+
+The remediator classifies each failure as **fixable** (more work closes it) or
+**structural** (the data or source does not exist today). Fixable ones get fixed
+in the file. Structural ones stay in `failed`, with a `why` naming the blocker and
+the condition that would close it — "n=106 is too small for a per-template rate;
+re-query above ~500 pages" — never a restatement of the checklist item.
+
+Because fixing one item routinely breaks another (word count is the usual
+casualty), the remediator re-runs the **entire** checklist and the schema
+validator, then rewrites `honestAssessment` to describe the post as it now stands.
+
+Report what it fixed and what it deliberately left open. **A remaining failure is
+an acceptable outcome; a silently deleted one is not.**
 
 ---
 
@@ -180,7 +209,9 @@ https://strapi.subhsandesh.in/api/articles?fields[0]=slug&filters[slug][$eq]=<sl
 5. **One subagent per keyword, at most 6 concurrent.** Each runs Phases 1–7 for
    its own keyword and writes its own files. Never let two subagents write the
    same file.
-6. Write `batch.json`, commit, push.
+6. **Then one `blog-audit-remediator` per blog with failures** (Phase 8), again in
+   parallel — each edits only its own JSON. Wait for all of them before committing.
+7. Write `batch.json`, commit, push.
 7. Report a table: slug, words, FAQ count, chosen category and templates, audit
    failures, and the one-line honest assessment per post.
 8. The user opens the Vercel deployment → **Batches** → reviews → ticks →
@@ -199,3 +230,5 @@ A typical batch is 2–4 keywords, so they usually all run at once.
 - Pad word count to hit a number.
 - Claim a post will rank.
 - Silently fix a failed checklist item instead of reporting it.
+- Ship a fixable audit failure unaddressed, or delete one to flatter the count.
+- Put FAQs inside `contentMarkdown`.

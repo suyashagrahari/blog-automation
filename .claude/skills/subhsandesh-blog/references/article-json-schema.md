@@ -126,10 +126,10 @@ content/batches/<batchId>/
 | `ogType` | string? | `"article"`. |
 | `tags` | string[] | 3–6 lowercase tags. |
 | `keyTakeaways` | string[] | 3–5 standalone claims, numbers where possible. Renders as the TL;DR callout. |
-| `faqs` | `{question, answer}[]` | **8–12 entries.** Entries missing either field are dropped. |
+| `faqs` | `{question, answer}[]` | **8–12 entries.** Entries missing either field are dropped. This is the **only** place FAQs belong — never write an FAQ section into `contentMarkdown`, or Strapi shows them twice. |
 | `coverImageQuery` | string | 3–7 words for a stock search. |
 | `coverImagePrompt` | string | 3–4 sentences for an image generator. |
-| `contentMarkdown` | string | 1,200–1,800 words. |
+| `contentMarkdown` | string | 1,500–1,800 words, FAQs excluded (they are not in the body). Note `wordCount()` in `app/lib/batches.ts` — what the studio displays — reads higher than this plain split, because it strips link and table punctuation and counts bare URLs and table cells as tokens. |
 | `readingTime` | number? | Minutes. Omit and Strapi computes it. |
 | `structuredData` | object[] | **Array**, not a single object. Must include Article + FAQPage. |
 
@@ -169,9 +169,13 @@ for (const f of (await readdir(dir)).filter(n => n.endsWith(".json"))) {
   if ((a.metaDescription ?? "").length > 170) problems.push("metaDescription > 170");
   if ((a.excerpt ?? "").length > 300) problems.push("excerpt > 300");
   if (!Array.isArray(a.faqs) || a.faqs.length < 8) problems.push(`faqs = ${a.faqs?.length ?? 0}, want 8-12`);
+  if (/^##+\s*(frequently asked|faqs?)\b/im.test(a.contentMarkdown ?? "")) problems.push("FAQ section inside contentMarkdown — belongs in article.faqs only");
   if (!Array.isArray(a.structuredData)) problems.push("structuredData must be an array");
+  const ld = (a.structuredData ?? []).find((s) => s["@type"] === "FAQPage");
+  const ldQ = JSON.stringify((ld?.mainEntity ?? []).map((q) => q.name));
+  if (ldQ !== JSON.stringify((a.faqs ?? []).map((q) => q.question))) problems.push("FAQPage JSON-LD does not match article.faqs");
   const words = (a.contentMarkdown ?? "").split(/\s+/).filter(Boolean).length;
-  if (words < 1200 || words > 1800) problems.push(`${words} words, want 1200-1800`);
+  if (words < 1500 || words > 1800) problems.push(`${words} words, want 1500-1800`);
   console.log(problems.length ? `✖ ${f}: ${problems.join("; ")}` : `✔ ${f} (${words} words)`);
 }' content/batches/<batchId>/blogs
 ```

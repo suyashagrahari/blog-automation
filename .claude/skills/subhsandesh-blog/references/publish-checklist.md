@@ -24,6 +24,7 @@ the studio's Audit tab reads consistently across posts.
 - [ ] One comparison table with real values, 3–5 rows
 - [ ] At least one table column uses first-party data
 - [ ] FAQ with 8–12 naturally phrased questions
+- [ ] FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown
 - [ ] H2s map to the fan-out sub-queries identified in Phase 2
 
 ## Traditional SEO
@@ -33,7 +34,7 @@ the studio's Audit tab reads consistently across posts.
 - [ ] metaDescription 150–160 characters (hard cap 170)
 - [ ] excerpt under 300 characters
 - [ ] Exactly one H1; no skipped heading levels
-- [ ] 1,200–1,800 words, no padding
+- [ ] 1,500–1,800 words in contentMarkdown excluding FAQs, no padding
 - [ ] Slug short, hyphenated, lowercase, no stop words
 - [ ] Slug is not already taken in Strapi
 
