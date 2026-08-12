@@ -16,12 +16,16 @@ The renderer builds these from the article's own fields, as one unified `@graph`
 
 | Node | Built from |
 |---|---|
-| `Organization` | Site constants, with logo `ImageObject` and `sameAs` |
+| `Organization` | Site constants — logo `ImageObject`, `sameAs`, and `founder` pointing at the author when their job title says founder |
 | `WebSite` | Site constants, with `SearchAction` |
-| `Person` | The Strapi author relation |
-| `BlogPosting` | title, metaDescription, dates, image, wordCount, keywords, category, `inLanguage`, `speakable` |
+| `Person` | The Strapi author relation — `name`, `jobTitle`, `description` (bio), `image` (avatar `ImageObject` with real dimensions), `worksFor`, and `sameAs` unioning the Strapi profiles with the site's founder profiles. Its `@id` is **site-wide** (`/#person-<slug>`), not per-article, so all ~834 posts reference one Person entity and author authority accumulates in one place |
+| `BlogPosting` | title, metaDescription, dates, image + `thumbnailUrl`, `wordCount`, `timeRequired`, `keywords`, `articleSection`, `inLanguage`, `isAccessibleForFree`, `speakable` |
 | `BreadcrumbList` | Home › Blog › category › article |
 | `FAQPage` | `article.faqs` — **this** is why FAQs go in that field and not the body |
+
+Every one of those is emitted for **every** post automatically. Nothing in the
+batch JSON is needed to get them, and nothing you write can improve them — fix the
+article's own fields or the Strapi author record instead.
 
 Any block you emit whose `@type` is in `COVERED_LD_TYPES` — `article`,
 `blogposting`, `faqpage`, `breadcrumblist`, `website`, `organization`,
@@ -42,8 +46,9 @@ concrete facts (cost, time, delivery window).
 
 **2. An `@id`-matched enrichment block.**
 
-`about`, `mentions`, `citation` and `isAccessibleForFree` are *properties of*
-`BlogPosting`, so they cannot be added as a separate node. Emit a block whose
+`about`, `mentions` and `citation` are *properties of* `BlogPosting`, so they
+cannot be added as a separate node. (Do not send `isAccessibleForFree`,
+`timeRequired` or `thumbnailUrl` — the renderer derives all three for every post.) Emit a block whose
 `@id` is `<canonicalURL>#post` and the renderer merges its properties into the
 existing `BlogPosting` instead of appending a duplicate. Renderer-built values
 always win, so an enrichment block can fill gaps but never rewrite the graph.
@@ -53,7 +58,6 @@ always win, so an enrichment block can fill gaps but never rewrite the graph.
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "@id": "https://subhsandesh.in/blog/<slug>#post",
-  "isAccessibleForFree": true,
   "about":    [ { "@type": "Thing", "name": "…", "sameAs": ["https://en.wikipedia.org/wiki/…", "https://www.wikidata.org/wiki/Q…"] } ],
   "mentions": [ { "@type": "Organization", "name": "India Post", "sameAs": [ … ] } ],
   "citation": [ { "@type": "CreativeWork", "name": "…", "url": "…", "datePublished": "…", "publisher": { "@type": "Organization", "name": "…" } } ]
@@ -112,6 +116,25 @@ visible on-page section. Do not add FAQs "for the rich result" — add them beca
 they answer the fan-out sub-queries.
 
 ---
+
+## Applying this to every post
+
+The renderer-built half of the graph — Organization, WebSite, the full Person
+entity, BlogPosting, BreadcrumbList, FAQPage — already applies to all ~834 live
+articles. It needs no per-post work, and a change there improves every post at
+once. That is the right lever for anything universal.
+
+The studio half cannot be applied retroactively in bulk, and should not be faked:
+
+- `citation` requires that post's real, fetched sources. An article written before
+  the sourcing rules existed has none, and inventing them is out of the question.
+- `about` / `mentions` require verified entities for that post's actual subject.
+- `ItemList` requires the body to genuinely contain a ranked or numbered list.
+
+So for a backfill, work newest-first or highest-traffic-first, and treat each post
+as a small Phase 3 + Phase 5 pass: fetch its sources, verify its entities, then
+add the two blocks. A post with no verifiable sources gets no `citation` block —
+that is the honest outcome, not a gap to paper over.
 
 ## Check before emitting
 
