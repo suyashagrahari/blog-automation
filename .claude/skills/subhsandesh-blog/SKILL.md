@@ -104,7 +104,9 @@ only exists to look authoritative, cut it.
 
 ### Phase 4 — Draft
 
-Follow `references/page-structure.md` block by block. Non-negotiables:
+Follow `references/page-structure.md` block by block, and
+`references/meta-and-titles.md` for the title / `metaTitle` / `metaDescription`
+trio — three different strings with three different jobs. Non-negotiables:
 
 - The direct answer lands in the **first 150 words**, with **at least two
   first-party numbers** in it. No scene-setting intro.

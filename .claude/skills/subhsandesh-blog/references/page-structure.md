@@ -27,12 +27,17 @@ metaTitle: Primary Keyword (Qualifier) — Concrete Benefit
 H1:        Primary Keyword Phrased As The User Would Say It
 ```
 
-- `metaTitle` **under 60 characters**, keyword early. Hard cap is 70 (Strapi
-  rejects longer).
+- `metaTitle` 50–60 characters, exact keyword in the first five words. Hard cap 70
+  (Strapi rejects longer).
 - H1 50–65 characters, exactly one per page. The H1 is the first line of
-  `contentMarkdown`.
+  `contentMarkdown`, and it should **differ** from `metaTitle`.
 - `metaDescription` 150–160 characters. Hard cap 170. Affects click-through, not
   ranking.
+
+**Read `references/meta-and-titles.md` before writing these three strings.** It
+carries the length maths, the banned boosters ("Best", "Ultimate", "Complete
+Guide"), the rule against year-stamping evergreen posts, and a worked example.
+Getting them wrong is the cheapest way to lose traffic the rest of the post earned.
 
 Then answer immediately. No "in today's world", no throat-clearing.
 

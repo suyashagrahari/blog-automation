@@ -30,8 +30,12 @@ the studio's Audit tab reads consistently across posts.
 ## Traditional SEO
 
 - [ ] Target keyword in H1, metaTitle, slug, and first 100 words
-- [ ] metaTitle under 60 characters (hard cap 70)
+- [ ] metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)
+- [ ] metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim
+- [ ] No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)
+- [ ] No year-stamp on an evergreen title; no brand suffix; one keyword only
 - [ ] metaDescription 150–160 characters (hard cap 170)
+- [ ] metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché
 - [ ] excerpt under 300 characters
 - [ ] Exactly one H1; no skipped heading levels
 - [ ] 1,500–1,800 words in contentMarkdown excluding FAQs, no padding
