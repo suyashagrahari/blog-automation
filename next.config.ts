@@ -15,6 +15,11 @@ const nextConfig: NextConfig = {
   // Linux native binaries ship with the /api/upload-image function.
   outputFileTracingIncludes: {
     "/api/upload-image": ["node_modules/sharp/**/*", "node_modules/@img/**/*"],
+    // The batches route readdir/readFile's committed JSON off disk at request
+    // time. Next's tracer can't follow dynamic fs calls, so the content tree
+    // must be force-included or production returns an empty batch list while
+    // localhost works fine.
+    "/api/batches": ["./content/**/*"],
   },
 };
 
