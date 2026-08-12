@@ -1,0 +1,34 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Fixture Post",
+    "slug": "fixture-post",
+    "excerpt": "A fixture used by tests.",
+    "metaTitle": "Fixture Post",
+    "metaDescription": "A fixture used by tests.",
+    "keywords": "fixture",
+    "tags": ["fixture"],
+    "keyTakeaways": ["It parses."],
+    "faqs": [{ "question": "Is this a fixture?", "answer": "Yes." }],
+    "coverImageQuery": "fixture image",
+    "coverImagePrompt": "A plain grey placeholder square.",
+    "contentMarkdown": "# Fixture Post\n\nThis body exists so wordCount has something to count."
+  },
+  "batchMeta": {
+    "keyword": "fixture keyword",
+    "angle": "Wins by being the only fixture.",
+    "categorySlug": "festivals",
+    "templateUrls": ["/holi"],
+    "factsUsed": ["Fixture fact — measured 2026-01-01"],
+    "sources": [
+      { "url": "https://example.gov/report", "stat": "1 fixture", "publishedDate": "2025-01-01" }
+    ],
+    "auditReport": {
+      "passed": ["Direct answer in first 150 words"],
+      "failed": [{ "item": "3–6 outbound links", "why": "fixture has 1" }],
+      "honestAssessment": "It is a fixture; it would not rank."
+    },
+    "generatedAt": "2026-01-01T00:00:00.000Z"
+  }
+}
