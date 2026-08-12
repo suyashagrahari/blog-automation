@@ -163,8 +163,9 @@ keyword's worth.
 - Reads `PROD_MONGODB_URI` from `../server/.env` (sibling directory). **Credentials are
   never printed and never enter a prompt** — the script connects, aggregates, and writes
   only the resulting numbers.
-- The Mongo MCP connection available in-session points at the HireQuotient cluster, which
-  has no SubhSandesh data. It must not be used for this.
+- Do not use any preconfigured Mongo MCP connection for this. Those may point at an
+  unrelated cluster with no SubhSandesh data. The script's own connection, read from
+  `../server/.env`, is the only correct source.
 - Target DB: `gifts` on `gift-cluster`.
 - Read-only. Aggregations only, no writes.
 
