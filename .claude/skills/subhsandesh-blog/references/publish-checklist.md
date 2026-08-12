@@ -59,8 +59,12 @@ the studio's Audit tab reads consistently across posts.
 
 ## Technical
 
-- [ ] structuredData contains both an Article and a FAQPage block
-- [ ] FAQPage JSON-LD matches the visible FAQ text exactly
+- [ ] structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post
+- [ ] The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions
+- [ ] Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired
+- [ ] An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order
+- [ ] No AggregateRating, Review or HowTo anywhere in structuredData
+- [ ] article.faqs drives the FAQPage the renderer builds, and matches it exactly
 - [ ] categorySlug matches a real Strapi category slug
 - [ ] templateUrls all exist in TEMPLATE_LINKS
 - [ ] Batch JSON validates against references/article-json-schema.md

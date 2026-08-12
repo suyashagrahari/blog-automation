@@ -131,7 +131,7 @@ content/batches/<batchId>/
 | `coverImagePrompt` | string | 3–4 sentences for an image generator. |
 | `contentMarkdown` | string | 1,500–1,800 words, FAQs excluded (they are not in the body). Note `wordCount()` in `app/lib/batches.ts` — what the studio displays — reads higher than this plain split, because it strips link and table punctuation and counts bare URLs and table cells as tokens. |
 | `readingTime` | number? | Minutes. Omit and Strapi computes it. |
-| `structuredData` | object[] | **Array**, not a single object. Must include Article + FAQPage. |
+| `structuredData` | object[] | **Array**, not a single object. **Additive only** — the site builds BlogPosting, FAQPage, BreadcrumbList, Organization, WebSite and Person itself and discards those types if you emit them. Carry an `ItemList` plus an `@id`-matched enrichment block on `<canonicalURL>#post` with `citation`/`about`/`mentions`. See `references/structured-data.md`. |
 
 Do **not** set `coverImageUrl` — covers are attached in the studio after
 publishing.

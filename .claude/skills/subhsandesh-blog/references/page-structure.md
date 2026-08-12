@@ -171,12 +171,21 @@ Anonymous content is cited less, which is why the Strapi author relation matters
 
 ## Schema
 
-`structuredData` in the batch JSON is an **array** of JSON-LD objects. It must
-contain both:
+`structuredData` in the batch JSON is an **array** of JSON-LD objects, and it is
+**additive only**. The site's `ArticleGraphJsonLd` already builds `BlogPosting`,
+`FAQPage`, `BreadcrumbList`, `Organization`, `WebSite` and `Person` from the
+article's own fields, and it **discards** any block you emit with one of those
+types. Writing an Article and a FAQPage here has no effect at all.
 
-- **Article** — `headline`, `author`, `datePublished`, `dateModified`, `image`.
-- **FAQPage** — must match the visible FAQ text exactly. Mismatched schema risks
-  a manual action.
+What the field is actually for:
 
-Optional where genuinely applicable: `HowTo`, `BreadcrumbList`. Never mark up
-content that isn't on the page.
+- **`ItemList`** — when the body ranks or numbers things, mirroring the H3s.
+- **An `@id`-matched enrichment block** on `<canonicalURL>#post`, carrying
+  `citation` (mirroring `batchMeta.sources`, which otherwise never reaches
+  Strapi), plus `about`, `mentions` and `isAccessibleForFree`.
+
+Never `AggregateRating` or `Review` — there are no real ratings for an article,
+and inventing them is a policy violation. Never mark up content that isn't on the
+page.
+
+**Read `references/structured-data.md` before writing this field.**

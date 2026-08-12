@@ -137,6 +137,13 @@ inconvenient number.
 Unresolvable values are surfaced as amber warnings in the studio rather than
 failing the publish, but getting them right here saves manual fixing.
 
+Then write `structuredData` per `references/structured-data.md`. It is **additive
+only** — the site already builds `BlogPosting`, `FAQPage`, `BreadcrumbList`,
+`Organization`, `WebSite` and `Person`, and silently drops those types if you
+repeat them. The field's real job is an `ItemList` for any ranked body list, and an
+`@id`-matched enrichment block carrying `citation` — the only route by which
+`batchMeta.sources` survives into the published page.
+
 ### Phase 6 — Self-audit
 
 Run **every** item in `references/publish-checklist.md` against the draft and

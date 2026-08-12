@@ -77,112 +77,156 @@
     "structuredData": [
       {
         "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "Miss You Ideas for a Long Distance Relationship That Get Opened",
-        "author": {
-          "@type": "Organization",
-          "name": "SubhSandesh"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "SubhSandesh"
-        },
-        "datePublished": "2026-08-12",
-        "dateModified": "2026-08-12",
-        "image": "https://subhsandesh.in/blog/miss-you-ideas-long-distance-relationship/cover.jpg",
-        "mainEntityOfPage": "https://subhsandesh.in/blog/miss-you-ideas-long-distance-relationship"
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-you-ideas-long-distance-relationship#post",
+        "isAccessibleForFree": true,
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Indian Standard Time",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_Standard_Time",
+              "https://www.wikidata.org/wiki/Q604055"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "India Post",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/India_Post",
+              "https://www.wikidata.org/wiki/Q3519720"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Express mail",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Express_mail",
+              "https://www.wikidata.org/wiki/Q1304163"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "New media allows requited love to know no distance (on Jiang & Hancock, Journal of Communication)",
+            "url": "https://news.cornell.edu/stories/2013/08/new-media-allows-requited-love-know-no-distance",
+            "datePublished": "2013-08-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cornell University",
+              "sameAs": "https://www.wikidata.org/wiki/Q49115"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Couples, the Internet, and Social Media",
+            "url": "https://www.pewresearch.org/internet/2014/02/11/couples-the-internet-and-social-media/",
+            "datePublished": "2014-02-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Pew Research Center",
+              "sameAs": "https://www.wikidata.org/wiki/Q1635722"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Phone Calls Create Stronger Bonds Than Text-Based Communications (on Kumar & Epley, Journal of Experimental Psychology)",
+            "url": "https://news.utexas.edu/2020/09/11/phone-calls-create-stronger-bonds-than-text-based-communications/",
+            "datePublished": "2020-09-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "The University of Texas at Austin"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Over 1.3 mn Indian students pursuing higher studies abroad in 2024 (Ministry of External Affairs data tabled in Rajya Sabha)",
+            "url": "https://www.business-standard.com/external-affairs-defence-security/news/over-1-3-mn-indian-students-pursuing-higher-studies-abroad-in-2024-govt-124080101441_1.html",
+            "datePublished": "2024-08-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Business Standard"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Citizens' Charter of the Department of Posts — service standards",
+            "url": "https://www.indiapost.gov.in/documents/CitizenCharter2021.pdf",
+            "datePublished": "2021-06-01",
+            "publisher": {
+              "@type": "GovernmentOrganization",
+              "name": "Department of Posts, Government of India"
+            }
+          }
+        ]
       },
       {
         "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/miss-you-ideas-long-distance-relationship#ideas",
+        "name": "8 miss you ideas for a long distance relationship",
+        "description": "Ranked by how fast each gesture reaches the recipient and how likely it is to be opened again.",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 8,
+        "itemListElement": [
           {
-            "@type": "Question",
-            "name": "What can I send my long-distance partner when I miss them?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "A shareable page, a timed voice note or a handwritten letter, in that order of speed. A page arrives instantly and gets opened 11.7 times on average; a Speed Post letter takes 1–3 days within metros but stays in a drawer."
-            }
+            "@type": "ListItem",
+            "position": 1,
+            "name": "A shareable \"I miss you\" page",
+            "description": "One link with photos, a message, music and a countdown, opening in any browser with nothing to install. Free; arrives instantly."
           },
           {
-            "@type": "Question",
-            "name": "How do I say \"I miss you\" without sounding needy?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Attach it to something specific rather than repeating the phrase. \"I walked past the place we ate at in Bandra\" carries the same message with evidence behind it, which is the difference the Jiang and Hancock research points at."
-            }
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A voice note timed to their morning",
+            "description": "A 60-90 second recording sent to land when they wake, not when you are awake. Free; five minutes to make."
           },
           {
-            "@type": "Question",
-            "name": "Is it okay to say \"I miss you\" every day?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, if the delivery varies. Saying it identically every day trains your partner to skim it; the research finding was about effort inside the medium, not frequency."
-            }
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A countdown to the next time you are in the same room",
+            "description": "A live counter to your next visit, shared as a link. Free, but worthless without a booked date."
           },
           {
-            "@type": "Question",
-            "name": "How long does a gift take to reach someone abroad from India?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "India Post's International EMS standard is 4–7 days to the United States and 5–9 days to Canada, and customs examination time is excluded from that. Plan on two weeks if the date matters."
-            }
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A photo dump with captions only the two of you understand",
+            "description": "Fifteen ordinary photos captioned with private jokes. Free; about 20 minutes."
           },
           {
-            "@type": "Question",
-            "name": "What can I send if I have no money at all?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "A page, a voice note, a photo dump and a playlist are all free. Free is not the weak option here — the free formats are the ones that arrive instantly."
-            }
+            "@type": "ListItem",
+            "position": 5,
+            "name": "A handwritten letter by Speed Post",
+            "description": "Paper in your handwriting that they keep. Postage only; 1-3 days metro to metro in India, 4-5 days elsewhere."
           },
           {
-            "@type": "Question",
-            "name": "Do long-distance relationships actually make couples closer?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Sometimes. Jiang and Hancock found long-distance couples reported more intimacy than geographically close couples, driven by more disclosure and some idealisation of each other's behaviour."
-            }
+            "@type": "ListItem",
+            "position": 6,
+            "name": "A parallel-play call with no agenda",
+            "description": "A video call where you both do your own work with the camera on and barely talk. Free; works as a habit, not an event."
           },
           {
-            "@type": "Question",
-            "name": "How do I handle a very large time difference?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Send asynchronously and time the arrival to their morning. IST runs 9.5 to 12.5 hours ahead of the US mainland, so a live call is usually the worst-fitting option available."
-            }
+            "@type": "ListItem",
+            "position": 7,
+            "name": "A care package of things they cannot buy where they are",
+            "description": "Achaar, familiar biscuits, a shirt that smells like home. International EMS runs 4-7 days to the USA, before customs."
           },
           {
-            "@type": "Question",
-            "name": "Can I send a \"miss you\" page to a friend rather than a partner?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. There is a separate [miss you page for a best friend](https://subhsandesh.in/missyou-bestfriend), because the tone that works for a partner reads strangely to a friend."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Should I password-protect the page?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "If they share a phone or a laptop with family, yes. 44.8% of SubhSandesh creators password-protect their page before sharing it."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What if they open it and don't reply?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Pages get reopened more than they get replied to — the average page collects 11.7 views. Silence usually means it was read again, not ignored."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How long does it take to make one of these pages?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Long enough to matter. Most creators publish in one sitting, though the median gap between first save and last edit is 6.8 hours."
-            }
+            "@type": "ListItem",
+            "position": 8,
+            "name": "A playlist you keep adding to",
+            "description": "A shared playlist you add one song to whenever they cross your mind. Free; 30 seconds per song."
           }
         ]
       }
