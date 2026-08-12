@@ -1,0 +1,10 @@
+{
+  "kind": "blog-automation/batch",
+  "version": 1,
+  "id": "2026-01-01-fixture",
+  "name": "Fixture batch",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "branch": "batch/2026-01-01-fixture",
+  "keywords": ["fixture keyword"],
+  "blogs": ["fixture-post", "broken"]
+}

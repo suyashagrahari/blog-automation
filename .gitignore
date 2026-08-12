@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local-only fixture batch, copied from tests/fixtures/ for UI development.
+# Real batches under content/batches/ ARE committed — that's how they reach
+# the Vercel build. This one must not ship or it appears as a fake batch.
+/content/batches/2026-01-01-fixture/

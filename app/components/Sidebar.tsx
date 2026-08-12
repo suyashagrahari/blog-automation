@@ -1,11 +1,12 @@
 "use client";
 
 /** Project-scoped views. Settings is global (handled separately, not a View). */
-export type View = "generate" | "library";
+export type View = "generate" | "library" | "batches";
 
 const PROJECT_NAV: { id: View; label: string; icon: string; hint: string }[] = [
   { id: "generate", label: "Generate", icon: "✦", hint: "Upload keywords & write" },
   { id: "library", label: "Library", icon: "📚", hint: "Read every blog" },
+  { id: "batches", label: "Batches", icon: "📦", hint: "Claude-written · review & publish" },
 ];
 
 export default function Sidebar({
@@ -18,6 +19,7 @@ export default function Sidebar({
   blogCount,
   doneCount,
   totalKeywords,
+  batchCount = 0,
 }: {
   view: View;
   onNavigate: (v: View) => void;
@@ -30,6 +32,8 @@ export default function Sidebar({
   blogCount: number;
   doneCount: number;
   totalKeywords: number;
+  /** Committed batches awaiting review (badges the Batches tab). */
+  batchCount?: number;
 }) {
   const inProject = projectName !== null;
   const projectsActive = !inProject && !settingsActive;
@@ -77,7 +81,7 @@ export default function Sidebar({
                 hint={item.hint}
                 active={!settingsActive && view === item.id}
                 onClick={() => onNavigate(item.id)}
-                badge={item.id === "library" && blogCount > 0 ? blogCount : undefined}
+                badge={navBadge(item.id, blogCount, batchCount)}
               />
             ))}
           </nav>
@@ -125,7 +129,9 @@ export default function Sidebar({
           boxShadow: "0 -10px 30px rgba(0,0,0,0.35)",
         }}
       >
-        <div className={`grid ${inProject ? "grid-cols-4" : "grid-cols-2"} px-2 pt-1.5 pb-1`}>
+        {/* Projects + every PROJECT_NAV item + Settings — keep the column count
+            in step with PROJECT_NAV so adding a view never squashes the bar. */}
+        <div className={`grid ${inProject ? "grid-cols-5" : "grid-cols-2"} px-2 pt-1.5 pb-1`}>
           <MobileTab label="Projects" icon="🗂️" on={projectsActive} onClick={onBackToProjects} />
           {inProject &&
             PROJECT_NAV.map((item) => (
@@ -134,7 +140,7 @@ export default function Sidebar({
                 label={item.label}
                 icon={item.icon}
                 on={!settingsActive && view === item.id}
-                badge={item.id === "library" ? blogCount : 0}
+                badge={navBadge(item.id, blogCount, batchCount) ?? 0}
                 onClick={() => onNavigate(item.id)}
               />
             ))}
@@ -145,7 +151,14 @@ export default function Sidebar({
   );
 }
 
-/** A desktop sidebar row (Projects / Generate / Library / Settings). */
+/** Which count, if any, badges a given nav item. `undefined` = no badge. */
+function navBadge(id: View, blogCount: number, batchCount: number): number | undefined {
+  if (id === "library") return blogCount > 0 ? blogCount : undefined;
+  if (id === "batches") return batchCount > 0 ? batchCount : undefined;
+  return undefined;
+}
+
+/** A desktop sidebar row (Projects / Generate / Library / Batches / Settings). */
 function RailItem({
   icon,
   title,

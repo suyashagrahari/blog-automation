@@ -2,11 +2,11 @@
 
 import { useMemo, useRef, useState } from "react";
 import { marked } from "marked";
-import type { StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
+import type { BatchMeta, StoredBlog, TaxonomyItem, TemplateItem } from "@/app/lib/types";
 import { uploadCoverImage } from "@/app/lib/client";
 import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
 
-type Tab = "article" | "faqs" | "schema" | "seo";
+type Tab = "article" | "faqs" | "schema" | "seo" | "audit";
 
 const TABS: { id: Tab; label: string }[] = [
   { id: "article", label: "Article" },
@@ -14,6 +14,11 @@ const TABS: { id: Tab; label: string }[] = [
   { id: "schema", label: "Structured Data" },
   { id: "seo", label: "SEO Meta" },
 ];
+
+/** Extra tab shown only for batch blogs, which carry a research audit. */
+const AUDIT_TAB: { id: Tab; label: string } = { id: "audit", label: "Audit" };
+
+const AMBER = "#f59e0b";
 
 function CopyBtn({ text, label = "Copy" }: { text: string; label?: string }) {
   const [done, setDone] = useState(false);
@@ -42,10 +47,15 @@ export default function BlogViewer({
   templates = [],
   onConnect,
   onSaveCover,
+  batchMeta,
 }: {
   blog: StoredBlog;
   onBack: () => void;
-  onDelete: (id: string) => void;
+  /**
+   * Omitted for batch blogs — those live in committed files, so there is nothing
+   * local to delete and the button is hidden instead of being a no-op.
+   */
+  onDelete?: (id: string) => void;
   backLabel?: string;
   categories?: TaxonomyItem[];
   authors?: TaxonomyItem[];
@@ -58,6 +68,8 @@ export default function BlogViewer({
   ) => Promise<void>;
   /** Persist an external cover image URL (S3/CDN) onto the published article. */
   onSaveCover?: (blogId: string, coverImageUrl: string) => Promise<void>;
+  /** Present only for Claude-Code batch blogs — adds the Audit tab. */
+  batchMeta?: BatchMeta;
 }) {
   const [tab, setTab] = useState<Tab>("article");
   const a = blog.article;
@@ -166,9 +178,11 @@ export default function BlogViewer({
         <div className="flex items-center gap-2 flex-wrap justify-end">
           <CopyBtn text={coverPrompt} label="🖼 Copy Image Prompt" />
           <CopyBtn text={a.contentMarkdown || ""} label="Copy Markdown" />
-          <button className="btn btn-danger" onClick={() => onDelete(blog.id)}>
-            🗑 Delete
-          </button>
+          {onDelete && (
+            <button className="btn btn-danger" onClick={() => onDelete(blog.id)}>
+              🗑 Delete
+            </button>
+          )}
         </div>
       </div>
 
@@ -395,9 +409,9 @@ export default function BlogViewer({
         </div>
       )}
 
-      {/* Tabs */}
+      {/* Tabs — Audit only exists for batch blogs, so the Library is unchanged. */}
       <div className="flex items-center gap-1 border-b" style={{ borderColor: "var(--border)" }}>
-        {TABS.map((t) => {
+        {(batchMeta ? [...TABS, AUDIT_TAB] : TABS).map((t) => {
           const on = tab === t.id;
           return (
             <button
@@ -411,6 +425,9 @@ export default function BlogViewer({
             >
               {t.label}
               {t.id === "faqs" && ` (${a.faqs.length})`}
+              {t.id === "audit" && batchMeta && batchMeta.auditReport.failed.length > 0 && (
+                <span style={{ color: AMBER }}> ⚠ {batchMeta.auditReport.failed.length}</span>
+              )}
             </button>
           );
         })}
@@ -457,6 +474,89 @@ export default function BlogViewer({
           <Field label="OG Type" value={a.ogType || "article"} />
           <Field label="Cover Image Query (stock search)" value={a.coverImageQuery} copyable />
           <Field label="Cover Image Prompt (AI generator)" value={coverPrompt} copyable />
+        </div>
+      )}
+
+      {tab === "audit" && batchMeta && (
+        <div className="card p-6 space-y-6 text-sm">
+          <section>
+            <h4 className="text-[11px] uppercase tracking-wide text-[var(--muted)] mb-1">Angle</h4>
+            <p>{batchMeta.angle || "—"}</p>
+          </section>
+
+          <section>
+            <h4 className="text-[11px] uppercase tracking-wide text-[var(--muted)] mb-1">Honest assessment</h4>
+            <p>{batchMeta.auditReport.honestAssessment || "—"}</p>
+          </section>
+
+          {batchMeta.auditReport.failed.length > 0 && (
+            <section>
+              <h4 className="text-[11px] uppercase tracking-wide mb-1.5" style={{ color: AMBER }}>
+                Failed checks ({batchMeta.auditReport.failed.length})
+              </h4>
+              <ul className="space-y-1">
+                {batchMeta.auditReport.failed.map((f) => (
+                  <li key={f.item}>
+                    <span className="font-medium">{f.item}</span>
+                    <span className="text-[var(--muted)]"> — {f.why}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          <section>
+            <h4 className="text-[11px] uppercase tracking-wide text-[var(--muted)] mb-1.5">
+              First-party facts cited ({batchMeta.factsUsed.length})
+            </h4>
+            {batchMeta.factsUsed.length ? (
+              <ul className="space-y-1">
+                {batchMeta.factsUsed.map((f) => (
+                  <li key={f}>{f}</li>
+                ))}
+              </ul>
+            ) : (
+              <p style={{ color: AMBER }}>
+                None recorded — a post with no first-party data has no citation advantage.
+              </p>
+            )}
+          </section>
+
+          <section>
+            <h4 className="text-[11px] uppercase tracking-wide text-[var(--muted)] mb-1.5">
+              Verified sources ({batchMeta.sources.length})
+            </h4>
+            <ul className="space-y-2">
+              {batchMeta.sources.map((s) => (
+                <li key={s.url}>
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline break-all"
+                    style={{ color: "var(--accent-2)" }}
+                  >
+                    {s.url}
+                  </a>
+                  <div className="text-[var(--muted)]">
+                    {s.stat}
+                    {s.publishedDate ? ` · ${s.publishedDate}` : ""}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </section>
+
+          <section>
+            <h4 className="text-[11px] uppercase tracking-wide text-[var(--muted)] mb-1.5">
+              Passed ({batchMeta.auditReport.passed.length})
+            </h4>
+            <ul className="text-xs text-[var(--muted)] space-y-0.5">
+              {batchMeta.auditReport.passed.map((p) => (
+                <li key={p}>✓ {p}</li>
+              ))}
+            </ul>
+          </section>
         </div>
       )}
     </div>

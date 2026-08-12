@@ -214,3 +214,74 @@ export interface StrapiConnectBody {
   /** Set the SEO component's external OG image URL (S3/CDN). */
   metaImageUrl?: string;
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Batches — blogs authored by Claude Code and committed to content/batches/.
+//
+// `article` is deliberately the SAME GeneratedArticle the in-app generator
+// produces, so publishing reuses toStrapiData() untouched. `batchMeta` is
+// additive review metadata and never reaches Strapi.
+// ─────────────────────────────────────────────────────────────────────────────
+
+/** A third-party source verified during Phase 3 research. */
+export interface BatchSource {
+  url: string;
+  /** The specific statistic this source was cited for. */
+  stat: string;
+  /** Publication date of the source, ISO or human ("2025-11-02"). */
+  publishedDate?: string;
+}
+
+/** Result of running references/publish-checklist.md against a draft. */
+export interface BatchAuditReport {
+  passed: string[];
+  failed: { item: string; why: string }[];
+  /** Why would an answer engine cite this over the 5 pages analysed? */
+  honestAssessment: string;
+}
+
+/** Review metadata Claude Code records alongside each generated article. */
+export interface BatchMeta {
+  keyword: string;
+  /** One-line Phase 2 angle: "wins by being the only one that … using …". */
+  angle: string;
+  /** Strapi category slug the skill chose; resolved to a documentId at publish. */
+  categorySlug?: string;
+  /** Template paths from TEMPLATE_LINKS, e.g. ["/holi"]; resolved at publish. */
+  templateUrls?: string[];
+  /** Lines lifted from content/facts.md and cited in the post. */
+  factsUsed: string[];
+  sources: BatchSource[];
+  auditReport: BatchAuditReport;
+  generatedAt: string;
+}
+
+export interface BatchBlogFile {
+  kind: "blog-automation/batch-blog";
+  version: 1;
+  article: GeneratedArticle;
+  batchMeta: BatchMeta;
+}
+
+export interface BatchManifest {
+  kind: "blog-automation/batch";
+  version: 1;
+  id: string;
+  name: string;
+  createdAt: string;
+  /** Git branch the batch was written on. */
+  branch?: string;
+  keywords: string[];
+  /** Slugs of the blogs in this batch (one file each under blogs/). */
+  blogs: string[];
+}
+
+/** A batch plus its fully-loaded blog files, as served by GET /api/batches?id=… */
+export interface BatchWithBlogs extends BatchManifest {
+  loaded: BatchBlogFile[];
+  /** Blog files that failed to parse — surfaced so a bad file is never silent. */
+  skipped: { file: string; why: string }[];
+}
+
+/** Per-blog publish state derived from the live Strapi slug set. */
+export type BatchPublishState = "unpublished" | "published";

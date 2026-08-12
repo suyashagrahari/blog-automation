@@ -1,4 +1,12 @@
-import type { GeneratedArticle, KeywordRow, Settings, TaxonomyItem, TemplateItem } from "./types";
+import type {
+  BatchManifest,
+  BatchWithBlogs,
+  GeneratedArticle,
+  KeywordRow,
+  Settings,
+  TaxonomyItem,
+  TemplateItem,
+} from "./types";
 import { SYSTEM_PROMPT, buildUserPrompt, slugify } from "./prompt";
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -351,4 +359,38 @@ export async function setArticleCover(
   const data = (await res.json()) as { ok?: boolean; publishState?: "published" | "draft"; error?: string };
   if (!res.ok || data.error) throw new Error(data.error || `Saving cover image failed (${res.status})`);
   return { publishState: data.publishState || "published" };
+}
+
+// ── Batches (Claude-Code-authored posts committed under content/batches/) ─────
+
+/** List every committed batch (manifests only). */
+export async function fetchBatches(): Promise<BatchManifest[]> {
+  const res = await fetch("/api/batches", { cache: "no-store" });
+  const data = (await res.json()) as { batches?: BatchManifest[]; error?: string };
+  if (!res.ok || data.error) throw new Error(data.error || `Failed to load batches (${res.status})`);
+  return data.batches || [];
+}
+
+/** Load one batch with every blog file parsed. */
+export async function fetchBatch(id: string): Promise<BatchWithBlogs> {
+  const res = await fetch(`/api/batches?id=${encodeURIComponent(id)}`, { cache: "no-store" });
+  const data = (await res.json()) as BatchWithBlogs & { error?: string };
+  if (!res.ok || data.error) throw new Error(data.error || `Failed to load batch (${res.status})`);
+  return data;
+}
+
+/**
+ * Every slug already in Strapi — the published-lock. Returns an empty set when
+ * Strapi isn't configured so the UI still renders (nothing is locked, and the
+ * publish call itself would fail loudly anyway).
+ */
+export async function fetchPublishedSlugs(settings: Settings): Promise<Set<string>> {
+  if (!settings.strapiUrl) return new Set();
+  const res = await fetch(`/api/strapi/slugs?strapiUrl=${encodeURIComponent(settings.strapiUrl)}`, {
+    headers: settings.strapiToken ? { "x-strapi-token": settings.strapiToken } : {},
+    cache: "no-store",
+  });
+  const data = (await res.json()) as { slugs?: string[]; error?: string };
+  if (!res.ok || data.error) throw new Error(data.error || `Failed to load published slugs (${res.status})`);
+  return new Set(data.slugs || []);
 }

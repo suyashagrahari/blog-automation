@@ -46,13 +46,21 @@ import {
   updateProject,
 } from "./lib/projects";
 import { exportToExcel, parseWorkbook } from "./lib/excel";
-import { connectArticle, fetchTaxonomy, generateArticle, publishArticle, setArticleCover } from "./lib/client";
+import {
+  connectArticle,
+  fetchBatches,
+  fetchTaxonomy,
+  generateArticle,
+  publishArticle,
+  setArticleCover,
+} from "./lib/client";
 import { PROVIDER_LABELS } from "./lib/models";
 import SettingsPanel, { TaxonomySelect, TemplateMultiSelect } from "./components/SettingsPanel";
 import KeywordTable from "./components/KeywordTable";
 import Sidebar, { type View } from "./components/Sidebar";
 import BlogLibrary from "./components/BlogLibrary";
 import BlogViewer from "./components/BlogViewer";
+import BatchesScreen from "./components/BatchesScreen";
 import ProjectsScreen from "./components/ProjectsScreen";
 import Modal from "./components/Modal";
 
@@ -80,6 +88,9 @@ export default function Home() {
   const [view, setView] = useState<View>("generate");
   const [settingsOpen, setSettingsOpen] = useState(false); // global Settings screen
   const [blogs, setBlogs] = useState<StoredBlog[]>([]);
+  // Count of committed batches, just to badge the Batches tab. Manifest-only
+  // call, so it's cheap enough to run once on mount regardless of the view.
+  const [batchCount, setBatchCount] = useState(0);
   const [viewingId, setViewingId] = useState<string | null>(null); // store id
   const [modalId, setModalId] = useState<string | null>(null); // store id
 
@@ -123,6 +134,14 @@ export default function Home() {
   const refreshBlogs = useCallback(async (pid = pidRef.current) => {
     if (!pid) return;
     setBlogs(await getBlogsByProject(pid));
+  }, []);
+
+  // Batches live on disk, not per-project, so this runs once and never depends
+  // on which project is open. A failure just leaves the badge at 0.
+  useEffect(() => {
+    fetchBatches()
+      .then((bs) => setBatchCount(bs.length))
+      .catch(() => setBatchCount(0));
   }, []);
 
   // Open a project: load its sheet, blogs, and pick a sensible starting view.
@@ -543,6 +562,7 @@ export default function Home() {
   const TITLES: Record<View, { title: string; sub: string }> = {
     generate: { title: "Generate", sub: "Upload keywords, then write & publish SEO/GEO/AEO blogs one by one." },
     library: { title: "Library", sub: "Every blog you've generated, stored locally in your browser." },
+    batches: { title: "Batches", sub: "Researched posts written by Claude Code — review the audit, then publish to Strapi." },
   };
   const head = settingsOpen
     ? { title: "Settings", sub: "API keys, models & your Strapi connection — shared across every project." }
@@ -566,6 +586,7 @@ export default function Home() {
         blogCount={blogs.length}
         doneCount={stats.done}
         totalKeywords={stats.total}
+        batchCount={batchCount}
       />
 
       {/* lg+: offset by the fixed rail. Below lg: full width + bottom padding so
@@ -799,6 +820,17 @@ export default function Home() {
                 onConnect={handleConnect}
               />
             ))}
+
+          {/* ── BATCHES (Claude-Code-authored posts from content/batches/) ── */}
+          {inProject && !settingsOpen && view === "batches" && (
+            <BatchesScreen
+              settings={settings}
+              categories={categories}
+              authors={authors}
+              templates={templates}
+              onPublished={refreshBlogs}
+            />
+          )}
 
           {/* ── SETTINGS (global — shared across every project) ─────── */}
           {settingsOpen && (
