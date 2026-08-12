@@ -23,13 +23,29 @@ npm run dev      # open http://localhost:3000
 
 ## Layout
 
-A left **sidebar** switches between three views:
+A left **sidebar** switches between four views:
 
-- **Generate** — upload your keyword sheet, pick rows, write & publish.
+- **Generate** — upload your keyword sheet, pick rows, write & publish (in-app LLM).
 - **Library** — every blog you've generated, stored locally in **IndexedDB**.
   Click a card to read the full article (rendered Markdown), its FAQs, the
   **JSON-LD structured data**, and SEO meta. Delete one, or **Delete all**.
+- **Batches** — posts written by **Claude Code** with real SERP research, read
+  from committed files. Review the audit, then publish. See
+  [Batches](#batches--claude-code-authored-posts).
 - **Settings** — API keys + model per provider, and your Strapi connection.
+
+### Two pipelines, deliberately
+
+| | Generate | Batches |
+|---|---|---|
+| Who writes | In-app LLM call, one prompt | Claude Code, 7-phase skill |
+| Research | None | WebSearch + fetches the top 5, gap analysis |
+| Sources | Whatever the model recalls | 4–6 fetched and verified, no competitors |
+| First-party data | None | Blocking gate: ≥3 facts from `content/facts.md` |
+| Where content lives | Browser IndexedDB | Committed JSON in `content/batches/` |
+| Speed | Seconds per post | Minutes per post |
+
+Use **Generate** for volume. Use **Batches** when the post actually has to rank.
 
 ## How to use
 
@@ -96,9 +112,135 @@ If the endpoint is missing (CMS not restarted), the studio gracefully falls back
 to creating a **draft** — the row is marked `saved as draft` so you can publish
 it manually in Strapi.
 
+---
+
+# Batches — Claude-Code-authored posts
+
+The **Generate** flow writes from a single prompt: no web research, no competitor
+analysis, no first-party data. That's fine for volume, but an answer engine has no
+reason to cite the sixth version of a page that already ranks.
+
+**Batches** is the higher-quality path. Claude Code researches each keyword
+properly and writes the post into files that get committed to the repo; this
+studio becomes the review-and-publish surface.
+
+## The flow
+
+```
+you hand Claude Code 2-4 keywords
+        │
+        ├─ npm run facts            refresh content/facts.md from Mongo
+        ├─ gate: >=3 relevant facts, else it stops and says so
+        ├─ git checkout -b batch/2026-08-12-diwali
+        ├─ one subagent per keyword (max 6 concurrent), each running:
+        │     WebSearch -> fetch top 5 -> gap analysis -> verify 4-6 sources
+        │     -> draft -> internal links -> self-audit -> write JSON
+        └─ commit + push
+        │
+   Vercel builds the branch
+        │
+   you open the deployment -> Batches -> review -> tick -> Publish
+        │
+   Strapi (live instantly) -> revalidate webhook -> subhsandesh.in/blog
+```
+
+## On disk
+
+```
+content/
+├── facts.md                              first-party numbers, regenerated
+└── batches/2026-08-12-diwali/
+    ├── batch.json                        manifest + keyword list
+    ├── blogs/<slug>.json                 { article, batchMeta }
+    └── research/<slug>.md                the SERP + gap + sources brief
+```
+
+`article` is the **same** `GeneratedArticle` shape the in-app generator produces,
+so publishing reuses `toStrapiData()` untouched. `batchMeta` carries the review
+metadata (angle, chosen category/templates, facts cited, verified sources, audit
+result) and never reaches Strapi.
+
+These files are **committed** — that's how they reach the Vercel build.
+`next.config.ts` force-includes `./content/**/*` in the trace for `/api/batches`,
+because Next's bundler can't follow the route's `readFile` calls and would
+otherwise ship an empty directory to production.
+
+## First-party facts
+
+```bash
+npm run facts
+```
+
+Reads `PROD_MONGODB_URI` from `../server/.env` (never printed), runs read-only
+aggregations against the `gifts` database, and writes `content/facts.md` with the
+measured date on every line — pages created, most popular occasion, view counts,
+mobile share, password-protection rate, publish rate.
+
+Anything you write below the `<!-- MANUAL FACTS -->` marker is **preserved** when
+you regenerate, so hand-added facts (pricing, support themes) survive.
+
+The skill's Phase 0 blocks drafting until at least 3 facts are relevant to the
+keyword, with 2 usable in the first 150 words. That gate is the point of the whole
+pipeline — it's the only thing competitors can't copy.
+
+## Reviewing a batch
+
+Each row shows Title, Slug, Words, FAQs, Category, Templates, Audit and Status.
+
+- **Amber FAQ count** — outside the 8–12 target.
+- **`⚠ no match: <slug>`** in Category — the skill chose a category slug that
+  doesn't exist in Strapi. It will publish with **no** category unless fixed.
+- **`⚠ n missing`** in Templates — template paths that aren't in Strapi, so those
+  `relatedTemplates` links won't be made.
+- **`⚠ n`** in Audit — that many publish-checklist items failed. Click the title
+  and open the **Audit** tab to see which, plus the honest assessment of whether
+  the post can actually outperform the pages it was researched against.
+- A **skipped files** banner means a blog JSON didn't parse. It names the file and
+  the reason; nothing is hidden.
+
+Set **Author** once per batch in the toolbar — it applies to every post you
+publish from it.
+
+## The published-lock
+
+**A post can only ever be published once, and the lock is Strapi itself.**
+
+On load the studio fetches every existing article slug via
+`GET /api/strapi/slugs` (drafts included). Any batch blog whose slug is already
+taken renders as **Published** with its checkbox **disabled**.
+
+This is deliberately *not* stored in IndexedDB. You publish from Vercel URLs that
+change per branch, so a flag in one browser's IndexedDB would be invisible on the
+next deploy and the same post could go out twice. Strapi already enforces slug
+uniqueness, so the set of live slugs is the only durable answer. IndexedDB still
+gets a copy of each published post, which is how batch posts also appear in
+**Library** (grouped under a `batch:` project).
+
+If Strapi is unreachable you get a loud amber banner saying nothing is locked —
+fix Settings before publishing, or you risk duplicates.
+
+Publishing runs **one post at a time**, because `/api/strapi` retries slug
+collisions by appending `-2`, `-3`… and concurrent calls would race that. One
+failure never aborts the rest; failed rows keep a **Retry** button.
+
+## Per-preview Strapi token
+
+Each batch branch gets its own Vercel preview URL, and the Strapi token lives in
+that origin's `localStorage` — so you'll re-enter it per preview domain. Merging
+to `main` and publishing from the production deployment avoids this.
+
+## Adding a new batch
+
+Just hand Claude Code more keywords. It creates a new branch and a new folder;
+previous batches stay visible and already-published posts stay locked.
+
+---
+
 ## Notes
 
 - LLM + Strapi calls are proxied through this app's own route handlers
   (`/api/generate`, `/api/strapi`) to avoid browser CORS (Anthropic blocks
   direct browser calls) and keep provider quirks server-side.
 - Duplicate slugs are handled automatically (a numeric suffix is appended).
+- `npm test` runs the batch-parsing unit tests via Node's built-in test runner
+  (`node --test`), no test framework installed.
