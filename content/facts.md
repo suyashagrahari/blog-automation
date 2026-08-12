@@ -10,29 +10,29 @@
 
 ## Product usage
 
-- 2,625 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-12
-- Most popular creation: "I love you" page (/love-gf) — 902 pages, 34.4% of everything created — measured 2026-08-12
-- #1 page type: "I love you" page (/love-gf) — 902 created, 34.4% of all pages — measured 2026-08-12
-- #2 page type: digital bouquet (/bouquet-gf) — 696 created, 26.5% of all pages — measured 2026-08-12
-- #3 page type: apology dashboard (/apology-dashboard) — 486 created, 18.5% of all pages — measured 2026-08-12
+- 2,627 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-12
+- Most popular creation: "I love you" page (/love-gf) — 902 pages, 34.3% of everything created — measured 2026-08-12
+- #1 page type: "I love you" page (/love-gf) — 902 created, 34.3% of all pages — measured 2026-08-12
+- #2 page type: digital bouquet (/bouquet-gf) — 697 created, 26.5% of all pages — measured 2026-08-12
+- #3 page type: apology dashboard (/apology-dashboard) — 487 created, 18.5% of all pages — measured 2026-08-12
 - #4 page type: Darling romantic page (/darling) — 299 created, 11.4% of all pages — measured 2026-08-12
 - #5 page type: "I miss you" page (/missyou-gf) — 106 created, 4.0% of all pages — measured 2026-08-12
-- 2,161 registered creators — measured 2026-08-12
+- 2,163 registered creators — measured 2026-08-12
 - Average pages per registered creator: 1.21 — measured 2026-08-12
 
 ## Performance and reach
 
-- 30,794 recorded views of shared pages — measured 2026-08-12
+- 30,832 recorded views of shared pages — measured 2026-08-12
 - Average views per created page: 11.7 — measured 2026-08-12
-- Most-viewed template: love-gf — 12,649 views, 41.1% of all page views — measured 2026-08-12
+- Most-viewed template: love-gf — 12,652 views, 41.0% of all page views — measured 2026-08-12
 
 ## Customer behaviour
 
-- 52.7% of shared pages are opened on a phone (16,214 of 30,794 views) — measured 2026-08-12
+- 52.6% of shared pages are opened on a phone (16,233 of 30,832 views) — measured 2026-08-12
 - 52.8% of views are on a touch device (phone or tablet) — measured 2026-08-12
-- 44.8% of creators password-protect their page before sharing it (1,176 of 2,625) — measured 2026-08-12
-- 99.4% of started pages are actually published and shared (2,608 of 2,625) — measured 2026-08-12
-- Median gap between a page's first save and its last edit: 6.6 hours — sampled on "I love you" page (/love-gf), n=902 — measured 2026-08-12
+- 44.8% of creators password-protect their page before sharing it (1,177 of 2,627) — measured 2026-08-12
+- 99.4% of started pages are actually published and shared (2,610 of 2,627) — measured 2026-08-12
+- Median gap between a page's first save and its last edit: 6.8 hours — sampled on "I love you" page (/love-gf), n=902 — measured 2026-08-12
 
 ## Pricing and cost
 
