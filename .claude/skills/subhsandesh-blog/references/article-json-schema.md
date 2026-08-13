@@ -82,8 +82,10 @@ content/batches/<batchId>/
     "contentMarkdown": "# Diwali Gifts for Parents Living Abroad\n\nInternational Diwali parcels take 9–14 days...",
     "readingTime": 7,
     "structuredData": [
-      { "@context": "https://schema.org", "@type": "Article", "headline": "…", "datePublished": "2026-08-12", "dateModified": "2026-08-12", "image": "…" },
-      { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type": "Question", "name": "How late can I send a Diwali gift abroad?", "acceptedAnswer": { "@type": "Answer", "text": "Standard international courier needs 9–14 days…" } }] }
+      { "@context": "https://schema.org", "@type": "BlogPosting", "@id": "https://subhsandesh.in/blog/diwali-gift-ideas-for-parents-living-abroad#post",
+        "about": [{ "@type": "Thing", "name": "Diwali", "sameAs": ["https://en.wikipedia.org/wiki/Diwali", "https://www.wikidata.org/wiki/Q10244"] }],
+        "citation": [{ "@type": "CreativeWork", "name": "Speed Post delivery norms", "url": "https://www.indiapost.gov.in/…", "datePublished": "2026-03-17", "publisher": { "@type": "Organization", "name": "India Post" } }] },
+      { "@context": "https://schema.org", "@type": "ItemList", "itemListElement": [{ "@type": "ListItem", "position": 1, "name": "Send a digital Diwali page" }] }
     ]
   },
   "batchMeta": {
@@ -171,9 +173,22 @@ for (const f of (await readdir(dir)).filter(n => n.endsWith(".json"))) {
   if (!Array.isArray(a.faqs) || a.faqs.length < 8) problems.push(`faqs = ${a.faqs?.length ?? 0}, want 8-12`);
   if (/^##+\s*(frequently asked|faqs?)\b/im.test(a.contentMarkdown ?? "")) problems.push("FAQ section inside contentMarkdown — belongs in article.faqs only");
   if (!Array.isArray(a.structuredData)) problems.push("structuredData must be an array");
-  const ld = (a.structuredData ?? []).find((s) => s["@type"] === "FAQPage");
-  const ldQ = JSON.stringify((ld?.mainEntity ?? []).map((q) => q.name));
-  if (ldQ !== JSON.stringify((a.faqs ?? []).map((q) => q.question))) problems.push("FAQPage JSON-LD does not match article.faqs");
+  // What the live renderer actually does (client/components/JsonLd.tsx:622-637):
+  // a block whose @id matches an existing graph node is MERGED into it and the
+  // @type filter never runs; only a block with no matching @id is tested against
+  // COVERED_LD_TYPES and dropped. So @id is what decides survival, not @type —
+  // an @id-matched BlogPosting is the documented enrichment route, while an
+  // untagged FAQPage is silently discarded.
+  const postId = `https://subhsandesh.in/blog/${a.slug}#post`;
+  const faqId = `https://subhsandesh.in/blog/${a.slug}#faq`;
+  const RENDERER_BUILT = ["article", "blogposting", "faqpage", "breadcrumblist", "website", "organization", "webapplication", "webpage", "person"];
+  const dead = (a.structuredData ?? []).filter((s) => {
+    const id = typeof s?.["@id"] === "string" ? s["@id"] : "";
+    if (id === postId || id === faqId) return false; // merges — survives
+    return RENDERER_BUILT.includes(String(s?.["@type"] ?? "").toLowerCase());
+  });
+  if (dead.length) problems.push(`structuredData carries ${dead.length} block(s) the renderer discards (renderer-built @type with no matching @id): ${dead.map((s) => s["@type"]).join(", ")}`);
+  if (!(a.structuredData ?? []).some((s) => s?.["@id"] === postId)) problems.push(`no @id-matched enrichment block on ${postId} — batchMeta.sources never reach the page without it`);
   const words = (a.contentMarkdown ?? "").split(/\s+/).filter(Boolean).length;
   if (words < 1500 || words > 1800) problems.push(`${words} words, want 1500-1800`);
   console.log(problems.length ? `✖ ${f}: ${problems.join("; ")}` : `✔ ${f} (${words} words)`);

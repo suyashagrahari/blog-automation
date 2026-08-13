@@ -158,6 +158,13 @@ record the result in `batchMeta.auditReport`:
   "it's better written", say that the post is unlikely to outperform and name
   what would need to change.
 
+**`passed` and `failed` must be disjoint, and every checklist item must appear in
+exactly one of them.** In the 2026-08-13 rakhi batch three files listed the same
+item in both — a file asserting it both passed and failed its own audit, which
+makes the whole report untrustworthy and hides real failures behind a green count.
+Copy the checklist item strings verbatim rather than paraphrasing, then assert:
+`passed ∩ failed = ∅` and `|passed| + |failed| =` the checklist length.
+
 Never claim a post will rank. Ranking takes months and depends on domain
 authority, backlinks and competition.
 
@@ -218,6 +225,19 @@ an acceptable outcome; a silently deleted one is not.**
 5. **One subagent per keyword, at most 6 concurrent.** Each runs Phases 1–7 for
    its own keyword and writes its own files. Never let two subagents write the
    same file.
+
+   **Namespace every scratch file by slug.** The session scratchpad directory is
+   *shared* across concurrent subagents, not per-agent. In the 2026-08-13 rakhi
+   batch three separate agents independently wrote `scratchpad/body.md` and
+   overwrote each other mid-draft; all three happened to notice, but a fourth
+   would have shipped another keyword's body under its own slug and nothing in
+   the schema validator would have caught it. Tell each subagent that any
+   temporary file must be named `<slug>-<purpose>.md`.
+
+   Then, before committing, verify no draft crossed over — for every blog file,
+   the H1, `article.slug` and `batchMeta.keyword` must agree, and the body must
+   contain a marker word unique to its own keyword. Do this even when every
+   subagent reports success; the failure is silent by construction.
 6. **Then one `blog-audit-remediator` per blog with failures** (Phase 8), again in
    parallel — each edits only its own JSON. Wait for all of them before committing.
 7. Write `batch.json`, commit, push.

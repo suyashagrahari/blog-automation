@@ -1,0 +1,335 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Send Rakhi Wishes on WhatsApp That Get Opened",
+    "slug": "how-to-send-rakhi-wishes-on-whatsapp",
+    "excerpt": "Every other guide answers this with more text to paste. WhatsApp has labelled forwarded messages since 2018, so the format matters more than the wording — five ways to send a rakhi wish, compared by how long each one survives, using data from 31,081 shared-page views.",
+    "metaTitle": "How to Send Rakhi Wishes on WhatsApp — 5 Formats, Ranked",
+    "metaDescription": "How to send rakhi wishes on WhatsApp without reading like a forward: 5 formats ranked by lifespan, and why 52.5% of shared pages are opened on a phone.",
+    "keywords": "how to send rakhi wishes on whatsapp, raksha bandhan whatsapp status with name, rakhi wishes whatsapp message, send rakhi wish online, raksha bandhan 2026",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-send-rakhi-wishes-on-whatsapp",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "rakhi",
+      "whatsapp",
+      "festivals",
+      "family"
+    ],
+    "keyTakeaways": [
+      "Format beats wording: WhatsApp has labelled forwarded messages since 10 July 2018 so recipients can tell whether you wrote it yourself.",
+      "A shared SubhSandesh page averages 11.8 views, because links get reopened to show someone else — pasted text never is.",
+      "52.5% of 31,081 recorded views of shared pages happen on a phone, so anything you send on 28 August has to work phone-first.",
+      "A WhatsApp Status with his name expires after 24 hours; a voice note and a page link both stay reachable permanently.",
+      "44.7% of SubhSandesh creators password-protect a page before sharing it (1,177 of 2,632), which stops a family link being forwarded onward."
+    ],
+    "faqs": [
+      {
+        "question": "What's the best way to send rakhi wishes on WhatsApp?",
+        "answer": "Send something that only you could have sent — a 30-second voice note, or a link to a page with your brother's name on it. Pasted text is the one format WhatsApp gives him no way to distinguish from the forwards already in his morning queue."
+      },
+      {
+        "question": "How do I put a Raksha Bandhan status with my brother's name on WhatsApp?",
+        "answer": "Open the Status tab, choose a photo or a plain background, and type his name into the text overlay rather than pasting a generic couplet. It takes three to four minutes, and only contacts who have your number saved will see it."
+      },
+      {
+        "question": "When is Raksha Bandhan in 2026?",
+        "answer": "Raksha Bandhan 2026 falls on Friday 28 August. The tying ritual happens in the morning, which is why wishes arrive in a burst before lunchtime rather than spread across the day."
+      },
+      {
+        "question": "Does WhatsApp show my brother that I forwarded the message?",
+        "answer": "Yes. WhatsApp has labelled forwarded messages since 10 July 2018, specifically so a recipient can tell whether the sender wrote it or it came from someone else. Messages forwarded many times carry a double-arrow label instead."
+      },
+      {
+        "question": "How many chats can I forward a rakhi message to on WhatsApp?",
+        "answer": "Five chats at a time. Messages already marked as forwarded many times are limited to one chat at a time, a restriction Meta introduced in April 2020 to slow down viral content."
+      },
+      {
+        "question": "Why does my rakhi link show a blank preview on WhatsApp?",
+        "answer": "WhatsApp builds the preview card from Open Graph tags in the page's head, and og:title, og:type, og:image and og:url are all required. If the image is missing or the page blocks the fetch, you get a bare URL instead of a card."
+      },
+      {
+        "question": "How long does a WhatsApp Status stay up?",
+        "answer": "Twenty-four hours, then it disappears automatically. That makes Status a broadcast rather than a keepsake, so use it alongside a direct message rather than instead of one."
+      },
+      {
+        "question": "Should I send a voice note or a text for Raksha Bandhan?",
+        "answer": "A voice note, if you have 30 seconds. It cannot be lifted from a wishes listicle, and it carries tone that text strips out. The trade-off is that he cannot show it to anyone without playing it aloud."
+      },
+      {
+        "question": "Is it rude to send a rakhi wish only on WhatsApp?",
+        "answer": "Not if you are far apart — a message that arrives on the day beats a parcel that arrives late. It is a poor substitute if you are in the same house, where the ritual is physical and a phone is the wrong medium."
+      },
+      {
+        "question": "Can I send a rakhi wish to a brother who doesn't have WhatsApp?",
+        "answer": "A shareable page link works over SMS, email or any other messenger, because it is just a URL. A WhatsApp-only format like a Status or a sticker does not travel that way."
+      },
+      {
+        "question": "Can I make a rakhi WhatsApp link private?",
+        "answer": "Yes, by password-protecting the page before you share it. 44.7% of SubhSandesh creators do this — 1,177 of 2,632 pages — usually so a family page cannot simply be forwarded onward."
+      }
+    ],
+    "coverImageQuery": "indian man reading phone rakhi thread wrist",
+    "coverImagePrompt": "A photorealistic close-up of a young Indian man in a plain kurta looking down at his phone in morning light, a fresh rakhi thread tied on his right wrist just visible at the edge of the frame. Warm natural window light, shallow depth of field, the phone screen glowing but unreadable. Clean negative space across the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Send Rakhi Wishes on WhatsApp That Get Opened\n\nSend the wish as its own object — a voice note, a Status with his name in it, or a link that unfurls into a preview card — rather than a paragraph of text pasted into the chat. Pasted text is the one format WhatsApp gives your brother no way to tell apart from the forwards already stacked up in his morning.\n\nSubhSandesh's own delivery numbers argue for the link: 52.5% of 31,081 recorded views of shared pages happen on a phone, each shared page averages 11.8 views, and 99.4% of the pages people start get published and shared. Raksha Bandhan 2026 falls on [Friday 28 August](https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan).\n\nThis page covers the five formats WhatsApp actually supports, how long each survives in a chat, how to make a link preview look right before you send it, and the cases where WhatsApp is the wrong channel entirely.\n\n## What sending a rakhi wish on WhatsApp actually involves\n\nSending a rakhi wish on WhatsApp means delivering a Raksha Bandhan greeting through one of five surfaces: a chat message, an image or video, a Status update, a voice note, or a link. The surface decides how long the wish stays reachable and whether anyone opens it twice.\n\n[Raksha Bandhan](https://en.wikipedia.org/wiki/Raksha_Bandhan) has a narrow ritual window — the tying happens in the morning — so the messages arrive in a burst rather than across the day. Your brother is not reading one wish on 28 August. He is clearing a queue of them before breakfast.\n\nThat queue is the real constraint, and it is a delivery problem rather than a wording problem. Every page that answers this question with more text to copy is solving the wrong half.\n\n## Why a pasted rakhi message reads like a forward\n\nWhatsApp has spent years making forwarded content visible. Since [10 July 2018 it has labelled forwarded messages](https://blog.whatsapp.com/labeling-forwarded-messages), for the stated reason that it \"helps you determine if your friend or relative wrote the message they sent or if it originally came from someone else.\"\n\nCopying a wish out of a listicle technically dodges that label, because you typed it. It does not dodge the pattern. A four-line rhyming couplet about the sacred thread has the same shape as the eleven he already swiped away, and shape is what gets recognised at speed.\n\nThe volume behind that is not imagined. WhatsApp singled out [India as the country where people forward more messages, photos and videos than any other in the world](https://blog.whatsapp.com/more-changes-to-forwarding) when it capped forwarding at five chats at a time. Meta tightened it again in April 2020, limiting [messages already marked \"forwarded many times\" to one chat at a time](https://about.fb.com/news/2020/04/whatsapp-message-forward-limit/), a change that followed an earlier 25% drop in total message forwards globally.\n\nSo festival text on Indian WhatsApp is the most-forwarded category of content in the most-forwarding market on earth, and the platform's own product decisions treat high-forward content as less personal. Your brother has been trained by six years of interface design to read a block of festival prose as something that came from a chain.\n\n## Five ways to send rakhi wishes on WhatsApp, ranked by what survives\n\nEach option below covers the same four things in the same order: what it is, who it suits, how long it takes to make, and how long it stays reachable.\n\n### 1. A plain text message\n\nA wish typed straight into the chat. It suits a brother you already speak to daily, where the wish reads as a continuation rather than an announcement.\n\nIt takes about ten seconds. It stays reachable only until the conversation scrolls past it, which on the morning of 28 August means roughly until lunchtime — text is the one format nobody scrolls back up to find.\n\n### 2. A rakhi image with a caption\n\nA photograph, a graphic, or a picture of the rakhi you actually posted to him. It suits siblings who trade pictures anyway, and a real photo beats a downloaded design every time.\n\nBudget one to two minutes. It survives in his gallery until he clears it, which is a longer half-life than text but still gives him no reason to return to it.\n\n### 3. A WhatsApp Status with his name in it\n\nA Status update naming your brother, visible to contacts who have your number saved. It suits a public gesture, because cousins and family see it too — which is exactly why \"raksha bandhan status with name\" is searched so heavily in the week before the festival.\n\nThree to four minutes if you are laying text over a photo. It expires after 24 hours by design, so it is a broadcast rather than a keepsake, and he has to open the Status tab to see it at all.\n\n### 4. A voice note\n\nThirty seconds of you saying it out loud. This is the highest-return option on the list and the least used: it cannot be lifted from a wishes listicle, and it carries the one thing text strips out. It suits any sibling, including the one you argue with.\n\nUnder a minute to record, and it stays in the chat permanently. The trade-off is that it is private to the point of being unshareable — he cannot show it to anyone without playing it aloud.\n\n### 5. A link to a personalised page\n\nA URL that opens a page built around his name and your photographs — a [Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother) with animated tilak, aarti and rakhi-tying scenes. It suits long-distance siblings and anyone who wants the wish to outlast the day.\n\nFour to six minutes to build, and 99.4% of the pages people start on SubhSandesh get finished and shared. It stays reachable permanently, and shared pages average 11.8 views each — they get reopened, usually because someone is showing it to a third person.\n\n## Which format to pick\n\nThe table compares the five formats on the two things that decide whether a rakhi wish lands: effort at your end, and lifespan at his.\n\n| Format | Time to make | How long it stays reachable | What the recipient has to do |\n|---|---|---|---|\n| Pasted text wish | ~10 seconds | Until the chat scrolls past it | Nothing — which is the problem |\n| Rakhi image + caption | 1–2 minutes | Until he clears his gallery | Tap to open |\n| Status with his name | 3–4 minutes | 24 hours, then gone | Open the Status tab |\n| Voice note | Under 1 minute | Permanent, in the chat | Tap play, with sound on |\n| Personalised page link | 4–6 minutes | Permanent URL; 11.8 average views per page | One tap; 52.5% open it on a phone |\n\nThe honest reading: the voice note wins on effort-to-impact, and the link wins on lifespan. Both of those first-party figures are platform-wide across 2,632 SubhSandesh pages and 13 page types, not rakhi-specific — the rakhi template is too new to segment, and this post will say so rather than imply a number it does not have.\n\n## How to make the WhatsApp link preview look right\n\nA link in a WhatsApp chat does not stay a link. WhatsApp fetches the page and renders a preview card, and whether that card looks like a greeting or like a broken URL depends on four tags in the page's `<head>`. The [Open Graph protocol](https://ogp.me/) specifies them: `og:title`, `og:type`, `og:image` and `og:url` are all required for a page to render as a rich object.\n\nThree practical consequences follow. Send the link on its own line, because a URL buried mid-sentence is easier to miss than a card, and send it once — the preview is generated on first paste and re-pasting does not refresh it.\n\nThen check the preview image before you hit send. The card is what he sees in the notification, so it is doing the job the opening sentence used to do.\n\nThe link also assumes data at his end, which is a safer assumption in India than it was: TRAI's [performance indicator report for January–March 2026](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276780&reg=3&lang=1), published 22 June 2026, counted 1,092.79 million internet subscribers, of which 1,046.26 million were wireless.\n\n## When WhatsApp is the wrong place to send a rakhi wish\n\nIf your brother is in the same house, put the phone down. A rakhi is a physical ritual, and a message sent across a room is worse than the room.\n\nIf he does not use WhatsApp — and a meaningful number of older relatives do not — a link is a dead end no matter how well built. The same goes for a brother who reads on a desktop at work: SubhSandesh's pages are phone-first, and only 52.5% of views arrive on a phone precisely because the other half arrive somewhere the design is not tuned for.\n\nAnd if the wish is going to a group of cousins rather than one person, a link is the wrong shape. Group chats reward something that renders inline, which is where a photo or a Status genuinely beats a URL. A shared page is built for one recipient with a name on it; used as a broadcast, it loses the thing that makes it work.\n\nOne more limit worth stating: a link is public unless you make it private. 44.7% of SubhSandesh creators password-protect their page before sharing it — 1,177 of 2,632 — which tells you how often people want a family page not to be forwardable. If that matters to you, set the password before you send, not after.\n\nIf a link is the right shape for your brother, the [rakhi page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother) takes four to six minutes end to end. You can also [browse every SubhSandesh template](https://subhsandesh.in/templates) first if you want to see the format before committing to it.\n\n## Sources\n\n- [WhatsApp Blog — Labeling Forwarded Messages](https://blog.whatsapp.com/labeling-forwarded-messages), 10 July 2018\n- [WhatsApp Blog — More changes to forwarding](https://blog.whatsapp.com/more-changes-to-forwarding), 19 July 2018, updated 21 January 2019\n- [Meta Newsroom — Keeping WhatsApp Personal and Private](https://about.fb.com/news/2020/04/whatsapp-message-forward-limit/), 8 April 2020\n- [The Open Graph protocol](https://ogp.me/) — required properties specification\n- [PIB / TRAI — Indian Telecom Services Performance Indicator Report, January–March 2026](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276780&reg=3&lang=1), 22 June 2026\n- [Georgia Tech Campus Calendar — Raksha Bandhan, 28 August 2026](https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan)\n\nFirst-party figures are from SubhSandesh's own database, measured 13 August 2026 across 2,632 created pages and 31,081 recorded views.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five ways to send rakhi wishes on WhatsApp, ranked by what survives",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "A plain text message",
+            "description": "Typed straight into the chat. About 10 seconds to send; stays reachable only until the conversation scrolls past it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A rakhi image with a caption",
+            "description": "A real photograph or a picture of the rakhi you posted. One to two minutes; survives in his gallery until he clears it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A WhatsApp Status with his name in it",
+            "description": "A Status naming your brother, visible to contacts with your number saved. Three to four minutes; expires after 24 hours."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A voice note",
+            "description": "Thirty seconds of you saying it aloud. Under a minute to record; stays in the chat permanently but cannot be shared onward."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "A link to a personalised page",
+            "description": "A URL built around his name and your photos. Four to six minutes; permanent, and shared pages average 11.8 views each."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-send-rakhi-wishes-on-whatsapp#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Meta Platforms",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Meta_Platforms",
+              "https://www.wikidata.org/wiki/Q380"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          },
+          {
+            "@type": "GovernmentOrganization",
+            "name": "Telecom Regulatory Authority of India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telecom_Regulatory_Authority_of_India",
+              "https://www.wikidata.org/wiki/Q7695822"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Labeling Forwarded Messages",
+            "url": "https://blog.whatsapp.com/labeling-forwarded-messages",
+            "datePublished": "2018-07-10",
+            "publisher": {
+              "@type": "Organization",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "More changes to forwarding",
+            "url": "https://blog.whatsapp.com/more-changes-to-forwarding",
+            "datePublished": "2019-01-21",
+            "publisher": {
+              "@type": "Organization",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Keeping WhatsApp Personal and Private",
+            "url": "https://about.fb.com/news/2020/04/whatsapp-message-forward-limit/",
+            "datePublished": "2020-04-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meta Platforms"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol",
+            "url": "https://ogp.me/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Open Graph protocol"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Indian Telecom Services Performance Indicator Report, January-March 2026",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276780&reg=3&lang=1",
+            "datePublished": "2026-06-22",
+            "publisher": {
+              "@type": "GovernmentOrganization",
+              "name": "Telecom Regulatory Authority of India"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Raksha Bandhan, 28 August 2026",
+            "url": "https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan",
+            "datePublished": "2026-08-28",
+            "publisher": {
+              "@type": "CollegeOrUniversity",
+              "name": "Georgia Institute of Technology"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to send rakhi wishes on whatsapp",
+    "angle": "Wins by being the only post that explains what WhatsApp does to a rakhi message — the forwarded label, the five-chat cap, the 24-hour Status expiry and the Open Graph preview spec — instead of supplying more text to paste, backed by SubhSandesh's 11.8 average views per shared page across 31,081 recorded views.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "52.5% of shared pages are opened on a phone (16,323 of 31,081 views) — measured 2026-08-13",
+      "31,081 recorded views of shared pages — measured 2026-08-13",
+      "Average views per created page: 11.8 — measured 2026-08-13",
+      "99.4% of started pages are actually published and shared (2,615 of 2,632) — measured 2026-08-13",
+      "44.7% of creators password-protect their page before sharing it (1,177 of 2,632) — measured 2026-08-13",
+      "2,632 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-13"
+    ],
+    "sources": [
+      {
+        "url": "https://blog.whatsapp.com/labeling-forwarded-messages",
+        "stat": "WhatsApp labels forwarded messages so a recipient can determine whether their friend or relative wrote the message or it originally came from someone else",
+        "publishedDate": "2018-07-10"
+      },
+      {
+        "url": "https://blog.whatsapp.com/more-changes-to-forwarding",
+        "stat": "India is the country where people forward more messages, photos and videos than any other in the world; forwarding capped at five chats at once",
+        "publishedDate": "2019-01-21"
+      },
+      {
+        "url": "https://about.fb.com/news/2020/04/whatsapp-message-forward-limit/",
+        "stat": "Messages labelled as forwarded many times are limited to one chat at a time; earlier forwarding limits produced a 25% decrease in total message forwards globally",
+        "publishedDate": "2020-04-08"
+      },
+      {
+        "url": "https://ogp.me/",
+        "stat": "og:title, og:type, og:image and og:url are the four required Open Graph properties for a page to render as a rich object",
+        "publishedDate": ""
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276780&reg=3&lang=1",
+        "stat": "1,092.79 million internet subscribers in India at the end of March 2026, of which 1,046.26 million are wireless",
+        "publishedDate": "2026-06-22"
+      },
+      {
+        "url": "https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan",
+        "stat": "Raksha Bandhan listed as Friday, 28 August 2026",
+        "publishedDate": "2026-08-28"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all WebFetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "Sources list with publication dates",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "The exact keyword is seven words long, so it cannot sit inside a five-word window. It is placed at word 1 — the strongest position available — and the title is 56 characters. Unfixable while the keyword stays seven words; closes only if the primary target is shortened to something like \"send rakhi wishes on whatsapp\"."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop words \"how\", \"to\" and \"on\" because it is the verbatim keyword mandated by the batch brief, and it is already verified free in Strapi. Changing it would break the batch's slug contract; would close only if the brief permitted \"send-rakhi-wishes-whatsapp\"."
+        }
+      ],
+      "honestAssessment": "Every page on this SERP answers \"how to send rakhi wishes on WhatsApp\" with more text to copy or which button to tap, and not one of them cites a source or a number. This is the only page that treats WhatsApp as a delivery environment — the forwarded-message label (10 July 2018), India named by WhatsApp as the world's highest-forwarding market, the one-chat cap on forwarded-many-times messages (April 2020) and the four required Open Graph properties — and pairs that with reopen data no competitor holds: 11.8 average views per shared page across 31,081 recorded views. Six sources are linked inline and dated, and the fix pass removed the FAQPage block that the renderer discards, so the surviving structuredData is an ItemList mirroring the five H3s plus an @id-matched BlogPosting enrichment carrying all six citations — the only route by which those sources reach the published page. Three things it does not overcome. The first-party figures are platform-wide across 2,632 pages and 13 page types rather than rakhi-specific, because the rakhi template has no recorded creations yet; the body states this in the \"Which format to pick\" section rather than hiding it, and only a rakhi sample of roughly 100–200 published pages closes it. The 24-hour Status expiry is stated as observable product behaviour with no citation, because faq.whatsapp.com returns HTTP 400/403 to every fetcher available here; it is deliberately left out of sources rather than propped up by a weaker secondary. And two checklist items stay failed for reasons the keyword itself creates — a seven-word exact keyword cannot fit a five-word metaTitle window, and the brief-mandated slug carries stop words. Domain authority is far below the gifting-commerce incumbents that own this cluster, so ranking is a months-long question and this post should not be expected to move it alone."
+    },
+    "generatedAt": "2026-08-13T12:16:33.861Z"
+  }
+}

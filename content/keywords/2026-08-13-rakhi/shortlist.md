@@ -108,6 +108,21 @@ served from a US IP (see `serps.md`).
 - **Why winnable:** the SERP returned **only 6 results**, two of which are Pinterest
   boards. Position 1 is a tool vendor's AI-generated message page. No Indian media
   property, no gifting brand. Marathi is the axis nobody is contesting.
+
+> **CORRECTION — 2026-08-13, same day.** The sentence above is wrong as of the
+> drafting pass a few hours after this file was written. Re-running the query
+> returned **8 results, not 6, with `igp.com` at position 5 on a dedicated Marathi
+> page.** IGP is the highest-frequency domain in this entire run (8 of 23 SERPs)
+> and is cited by answer engines as well as ranked. "No gifting brand, least
+> contested axis" is therefore **no longer true**, and this cluster should be read
+> as **medium**, not winnable — the weakness count still holds but the ceiling is
+> now set by IGP's authority, not by the small Marathi blogs.
+>
+> Two possibilities, and I cannot distinguish them from here: IGP published the
+> page between the two runs, or the original 6-result SERP was an incomplete index
+> read. Either way the harvest figure was not durable. This is the concrete case
+> for the feedback loop in Phase 11 — Search Console data on a page you actually
+> own beats any point-in-time SERP snapshot, including this one.
 - **Page to build:** `/blog/raksha-bandhan-wishes-marathi` — blog
 - **Cluster covers:** raksha bandhan quotes in marathi · raksha bandhan message for
   brother in marathi
