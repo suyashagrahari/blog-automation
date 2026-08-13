@@ -47,6 +47,55 @@ A left **sidebar** switches between four views:
 
 Use **Generate** for volume. Use **Batches** when the post actually has to rank.
 
+### Where the keywords come from
+
+Both pipelines start from a keyword sheet, and the sheet itself is produced by a
+third skill — **`keyword-harvest`** (`.claude/skills/keyword-harvest/`). Ask Claude
+Code for keywords and it runs an 11-phase research pass, then emits an `.xlsx` this
+studio can upload directly:
+
+```
+seed keyword          "rakhi wishes"
+        │
+        ├─ 30-40 long-tails along 8 axes
+        ├─ one live SERP per long-tail  →  who ranks, page types, PAA, AI Overview
+        ├─ a separate answer-engine pass (2-3 runs each, noise dropped)
+        ├─ fetch ≤40 competitor pages  →  extract the keywords each one TARGETS
+        ├─ cluster by SERP overlap (3+ shared URLs = one keyword)
+        ├─ six gates: SERP exists → page type → dupe → weakness → conversion → volume
+        └─ score, rank, cap the shortlist at 15
+        │
+content/keywords/<date>-<seed>/ → keyword-inventory.csv + shortlist.md
+                                  + competitor-map.md + keywords.xlsx
+        │
+   upload keywords.xlsx into Generate,  or hand the top clusters to subhsandesh-blog
+```
+
+Convert the inventory to a sheet with:
+
+```bash
+npm run keywords:xlsx -- content/keywords/<run-id>/keyword-inventory.csv
+```
+
+The workbook has two sheets. **`Keywords`** holds the survivors, sorted by priority
+— and it must stay first, because `parseWorkbook` reads `SheetNames[0]` and ignores
+the rest. **`All Keywords`** holds everything including the rows the gates cut, with
+`Gate Failed` filled in, so a reviewer can see what was rejected and why.
+
+Beyond the six mapped headers, each row carries **`Ranking URL 1-3`** (who currently
+holds the SERP), `Weak Results`, `Evidence Type`, `Source URL`, `Cluster ID`,
+`Bucket` and `Priority Score`. Those land in `KeywordRow.extra`, so the provenance
+survives all the way into the studio's own Excel export.
+
+> One trap worth knowing: `app/lib/excel.ts` matches headers by **substring**, so a
+> column named `Volume Source` would be absorbed by the `volume` alias and would
+> overwrite Search Volume Profile. `scripts/keywords-to-xlsx.mjs` checks every extra
+> column against the alias list at startup and refuses to run on a collision.
+
+What the skill will not do: report volume or difficulty as though a tool supplied it
+(every figure is a labelled `EST` band), present *targeted* keywords as *ranking*
+keywords, or hand back a keyword without the source URL it was extracted from.
+
 ## How to use
 
 1. **Settings** (sidebar → Settings; opens automatically the first time)

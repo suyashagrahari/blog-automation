@@ -3,7 +3,12 @@
 `article.structuredData` reaches Strapi as `seo.structuredData`, and the site
 renders it through `ArticleGraphJsonLd` in `client/components/JsonLd.tsx`. That
 component already builds most of the graph itself. **Writing a node it already
-builds is not additive — it is silently discarded.**
+builds is not additive — it is silently discarded**, *unless* the block carries an
+`@id` that matches a node the renderer already emitted, in which case it is merged
+into that node instead. `@id` is what decides survival, not `@type`
+(`client/components/JsonLd.tsx:622-637`): an `@id`-matched block merges before the
+type filter ever runs, and only an unmatched block is tested and dropped. That is
+why the enrichment route below works and a bare `FAQPage` does not.
 
 Read this before writing the field. The default instinct (emit a big Article plus
 a FAQPage) produces exactly zero effect.
@@ -63,6 +68,15 @@ always win, so an enrichment block can fill gaps but never rewrite the graph.
   "citation": [ { "@type": "CreativeWork", "name": "…", "url": "…", "datePublished": "…", "publisher": { "@type": "Organization", "name": "…" } } ]
 }
 ```
+
+**`datePublished` means when the source was published — never when you fetched it.**
+Wikipedia, Drik Panchang, dictionary entries and government portals are
+continuously updated and publish no date; stamping them with the day of the run
+puts a false claim inside machine-readable data that answer engines parse, and it
+is invisible in the rendered page. **Omit the field** when the source carries no
+publication date. If the page states a "last updated" date, that is `dateModified`,
+not `datePublished`. Recording the retrieval date in `batchMeta.sources` is fine —
+that never reaches Strapi — but it must not flow through into `citation`.
 
 **`citation` is the highest-leverage thing on this page for GEO.** It states, in
 machine-readable form, that the post is backed by named third-party research with
