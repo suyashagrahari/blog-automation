@@ -1,0 +1,6 @@
+keyword,cluster_id,source_url,source_domain,evidence_type,intent,page_type_required,est_volume,volume_source,weakness_count,gate_failed,bucket,priority_score,ranking_urls,category
+rakhi wishes for brother in hindi,C01,https://example.com/rakhi-wishes,example.com,TARGETED+CONFIRMED,informational,blog,1000-3000,EST,5,,winnable,80,https://a.example/rakhi?utm_source=x|https://b.example/wishes|https://reddit.com/r/india/x,rakhi
+"raksha bandhan wishes, messages",C01,https://example.com/rakhi-wishes,example.com,TARGETED,informational,blog,500-1500,EST,4,,winnable,60,https://a.example/rakhi,rakhi
+online rakhi card maker with photo,C02,GENERATED,,GENERATED,transactional,tool,200-600,EST,6,,winnable,100,https://c.example/maker|https://etsy.com/listing/1,rakhi
+happy rakhi images download hd,C03,https://pinterest.com/pin/1,pinterest.com,RELATED_SEARCH,informational,blog,10000-30000,EST,2,G5,do-not-attempt,10,https://pinterest.com/pin/1,rakhi
+rakhi,C04,GENERATED,,GENERATED,navigational,hub,,EST,0,G1,do-not-attempt,,,rakhi

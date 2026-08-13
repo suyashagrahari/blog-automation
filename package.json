@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "test": "node --test --experimental-strip-types \"tests/**/*.test.mts\"",
-    "facts": "node scripts/collect-facts.mjs"
+    "facts": "node scripts/collect-facts.mjs",
+    "keywords:xlsx": "node scripts/keywords-to-xlsx.mjs"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1075.0",
