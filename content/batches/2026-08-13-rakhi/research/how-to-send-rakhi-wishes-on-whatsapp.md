@@ -108,8 +108,55 @@ SubhSandesh's 11.8 average views per shared page across 31,081 recorded views.
 | 2 | blog.whatsapp.com/more-changes-to-forwarding | "In India – where people forward more messages, photos, and videos than any other country in the world"; forwarding capped at 5 chats at once | 2018-07-19, updated 2019-01-21 |
 | 3 | about.fb.com/news/2020/04/whatsapp-message-forward-limit/ | Messages "forwarded many times" (double-arrow label) limited to one chat at a time; earlier limits produced a 25% decrease in total message forwards globally | 2020-04-08 |
 | 4 | ogp.me | Open Graph protocol: `og:title`, `og:type`, `og:image`, `og:url` are the four required properties for a page to render as a rich object | undated spec |
-| 5 | pib.gov.in — TRAI *Indian Telecom Services Performance Indicator Report*, Jan–Mar 2026 | 1,092.79 million internet subscribers at end of Mar-26, of which 1,046.26 million wireless | 2026-06-22 |
-| 6 | calendar.gatech.edu/event/2026/08/28/raksha-bandhan | Raksha Bandhan listed as Friday, August 28, 2026 | 2026 calendar entry |
+| 5 | Frontiers in Psychiatry 13:780714 — Gong et al., *Associations of Face-to-Face and Instant Messaging Family Communication and Their Contents With Family Wellbeing and Personal Happiness Amidst the COVID-19 Pandemic* | Population-based survey, n = 4,891 Hong Kong adults. "7.1% reported no communication, 12.7% face-to-face communication only, 26.7% IM only, and 53.4% both methods." Conclusion: "better family wellbeing and personal happiness were associated with family communication using IM only and both methods than face-to-face only, and with positive and supportive contents. These associations were partially or almost fully mediated by communication quality." | 2022-03-29 |
+| 6 | arXiv:1909.08740 — Melo et al., *Can WhatsApp Counter Misinformation by Limiting Message Forwarding?* | "WhatsApp has been deploying measures to mitigate this problem, such as reducing the limit for forwarding a message to at most five users at once… Our results suggest that the current efforts deployed by WhatsApp can offer significant delays on the information spread, but they are ineffective in blocking the propagation of misinformation campaigns through public groups when the content has a high viral nature." Epidemiological model over real WhatsApp data from Brazil, India and Indonesia. | 2019-09-18 |
+
+### Re-sourcing pass (2026-08-13) — what changed and why
+
+The batch audit found `pib.gov.in` in 6 of 9 posts, `en.wikipedia.org` in 6 of 9 and
+`drikpanchang.com` in 5 of 9, and **seven of nine posts carrying no research paper at
+all**. This post was one of the seven.
+
+**Removed:**
+
+- `pib.gov.in` TRAI subscriber counts — pure filler. It fails the subject test (it is
+  about India, not about messaging behaviour) and fails the swap test outright: the
+  same 1,092.79 million figure would sit unchanged in a Diwali post, an anniversary
+  post or any other post in this batch. The body paragraph that carried it was deleted
+  rather than re-grounded; the "does he have data" caveat was not load-bearing.
+- `calendar.gatech.edu` — a date fact-check, not a citation. `research-sources.md`
+  allows at most one such reference and says to keep it out of `citation` where it is
+  not load-bearing. Raksha Bandhan 2026 = Friday 28 August is still stated in the body,
+  now as plain text.
+- The Wikipedia body link — the Wikipedia budget is 0–2 and 0 was the right number once
+  the outbound count had to make room for two research sources. `Raksha Bandhan Q10266`
+  is still paired in the `about` block's `sameAs`, which does not count against the
+  body-link budget.
+- One unsourced sentence was cut with it: "festival text on Indian WhatsApp is the
+  most-forwarded category of content". WhatsApp said India forwards most; it never said
+  festival text was the most-forwarded *category*. That was an inference dressed as a
+  fact and it is gone.
+
+**Added — the research layer this post was missing:**
+
+| Source | Subject test | OA status | Claim it supports |
+|---|---|---|---|
+| Frontiers in Psychiatry (2022) | Family communication by instant messaging — the phenomenon, not the platform | Peer-reviewed, CC BY, full text read | That *what* you send matters, not just that you send: positive and supportive content beat neutral content on wellbeing, and messaging-only contact beat face-to-face-only. Grounds the opening section's claim that this is a delivery problem *and* a content problem. |
+| arXiv:1909.08740 (2019) | WhatsApp message forwarding — the exact caps the post already cites | Green OA preprint, **not** a peer-reviewed version of record | That the five-chat cap delays spread without blocking highly viral content. Grounds "caps slow recycled text, they do not stop it". |
+
+**Honest limits on the two new sources.** The Frontiers survey is Hong Kong Chinese
+adults, not Indian siblings, and it measures wellbeing rather than message reception —
+the body does not claim otherwise. The arXiv paper studied misinformation campaigns,
+not greetings; the body says so in the same sentence that cites it, and OpenAlex
+records it as `version: submittedVersion`, so it is described as a preprint everywhere
+it appears. Neither is paywalled and no figure, table or passage is reproduced from
+either.
+
+**Reuse check:** every URL on this post is unique to it — `blog.whatsapp.com` (×2 URLs,
+1 domain), `about.fb.com`, `ogp.me`, `frontiersin.org`, `arxiv.org`. None is shared
+with the other file re-sourced in this pass. The remaining seven posts were being
+re-sourced concurrently by other agents and could not be counted; this is recorded as
+an open audit failure rather than claimed as passed.
 
 **Could not verify, so stated without a link and flagged:** the WhatsApp Help Center
 page for Status (24-hour expiry). `faq.whatsapp.com` returns HTTP 400/403 to every
@@ -117,7 +164,7 @@ fetch attempt and serves a Kannada error shell to the indexer. The 24-hour figur
 stated in the body as observable product behaviour and is deliberately **not** in
 `batchMeta.sources`.
 
-**Wikipedia:** 1 body link (Raksha Bandhan, Q10266) for entity disambiguation only.
+**Wikipedia:** 0 body links after this pass (budget is 0–2, entities only).
 
 ---
 
@@ -128,7 +175,14 @@ stated in the body as observable product behaviour and is deliberately **not** i
 - Slug checked against Strapi: `filters[slug][$eq]=how-to-send-rakhi-wishes-on-whatsapp`
   returned `total: 0` — free.
 - Entity QIDs verified via the Wikipedia API: Raksha Bandhan Q10266, WhatsApp
-  Q1049511, Open Graph protocol Q17107778, TRAI Q7695822, Meta Platforms Q380.
+  Q1049511, Open Graph protocol Q17107778, Meta Platforms Q380. The TRAI entity
+  (Q7695822) was dropped from `mentions` in the re-sourcing pass — schema must not
+  mention what the page no longer discusses.
+- **Body:** 1,791 words excluding FAQs · **FAQs:** 11 · **Outbound links:** 6, zero
+  Wikipedia · **Internal links:** 2 · **structuredData:** ItemList (5 H3s, in order)
+  + `#post` enrichment carrying 6 citations mirroring `batchMeta.sources` one-to-one,
+  1 `about`, 3 `mentions`. No `FAQPage` block — the renderer builds it from
+  `article.faqs`.
 
 ---
 

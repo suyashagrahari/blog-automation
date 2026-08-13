@@ -85,22 +85,52 @@ Then state the angle in one sentence and record it as `batchMeta.angle`:
 
 ### Phase 3 — Source genuine research
 
-Find 4–6 citable third-party sources, in priority order:
+Read `references/research-sources.md` first. It carries the search targets, the
+open-access repositories, the licensing rules and the batch-uniqueness rule.
 
-1. Government and official statistics
-2. Peer-reviewed research and academic publications
-3. Industry bodies, trade associations, standards organisations
-4. Original research published by non-competing companies
-5. Reputable data journalism
+Find 4–6 citable third-party sources. **Topical relevance decides what to look for,
+not the publisher's authority** — the old ordering put government statistics first
+and produced nine posts propped up by the same telecom figures.
+
+Every post needs:
+
+1. **At least 2 sources that are genuinely about the post's subject** — siblings,
+   ritual, distance, the language, the platform behaviour. Of these, **at least 1
+   peer-reviewed or scholarly**, from an open-access source the reader can actually
+   open.
+2. **At most 1 generic context statistic** (PIB, TRAI, Census, MEA). These are
+   background, not research, and one is plenty.
+3. Wikipedia 0–2, entity disambiguation only — never counted as research.
+
+Two tests, and a source must pass **both**:
+
+- **Subject test** — is it *about* what the post is about? Not "about India", not
+  "about the internet".
+- **Swap test** — could it sit unchanged in a different keyword's post in this
+  batch? If yes it is filler. A subscriber count works in a rakhi post, a Diwali
+  post and an anniversary post, which is why it is worthless in all three.
+
+**Do not reuse a source across the batch.** A URL may appear in at most 2 posts, a
+domain in at most 3. Check the sibling files in `content/batches/<batchId>/blogs/`
+before adding one. Nine posts citing one press release read, to a retrieval system,
+like nine pages from a content farm.
+
+**Search the phenomenon, not the keyword.** For "raksha bandhan wishes for long
+distance brother", search `sibling relationship maintenance long distance study` —
+festivals are under-studied, the behaviours around them are not.
 
 **Never cite a competitor** — see `references/competitors.md`.
 
-`WebFetch` every source to verify it actually says what it's claimed to say.
-Never cite from memory, and never invent a statistic or a date. Record each as
-`{ url, stat, publishedDate }` in `batchMeta.sources`.
+Fetch every source and verify it says what you claim. Never cite from memory, never
+invent a statistic or a date, and if only an abstract is readable, cite only what
+the abstract says and record in the audit that the full text was not read. Record
+each as `{ url, stat, publishedDate }` in `batchMeta.sources` — and `publishedDate`
+means when the source was published, never when you fetched it.
 
-Relevance test: **would this fact belong in the post even with no link?** If it
-only exists to look authoritative, cut it.
+If no topical research exists for the angle, **say so in the audit and name the
+search terms you tried.** That is a real finding, usually meaning the angle is about
+product mechanics rather than a studied phenomenon — lean on first-party data
+instead. Do not pad the count with another government statistic.
 
 ### Phase 4 — Draft
 

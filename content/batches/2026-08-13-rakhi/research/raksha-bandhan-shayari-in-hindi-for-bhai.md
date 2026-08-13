@@ -89,29 +89,51 @@ than forward them.
 |---|---|---|---|
 | 1 | drikpanchang.com — 2026 Raksha Bandhan, Delhi | "Raksha Bandhan on Friday, August 28, 2026 · Raksha Bandhan Thread Ceremony Time – 05:57 AM to 09:48 AM · Duration 03 Hours 51 Mins · Bhadra got over before Sunrise · Purnima Tithi Begins 09:08 AM on Aug 27, 2026 · Ends 09:48 AM on Aug 28, 2026" | Retrieved 2026-08-13 (live panchang page, no publication date) |
 | 2 | poets.org (Academy of American Poets) — Ghazal | "composed of a minimum of five couplets—and typically no more than fifteen… Each line of the poem must be of the same length… The first couplet introduces a scheme, made up of a rhyme followed by a refrain." | Undated glossary entry |
-| 3 | en.wikipedia.org/wiki/Ghazal | "The ghazal's uniqueness arises from its rhyme and refrain rules, referred to as the *qafiya* and *radif* respectively… Both lines of the *matla'* must contain the *qafiya* and *radif*." | Retrieved 2026-08-13 |
-| 4 | en.wikipedia.org/wiki/Raksha_Bandhan | 2026 date: 28 August (Friday); observed on the Purnima of Shravana | Retrieved 2026-08-13 |
-| 5 | pib.gov.in PRID 2222097 (MoSPI / NSO) | "As per the Periodic Labour Force Survey (PLFS), 2020–21, the migration rate at the all-India level was estimated at 10.7% among male and 47.9% among female… Among female, marriage accounted for…" | 2026-02-02 |
-| 6 | pib.gov.in PRID 2276780 (TRAI performance indicators, Q1 2026) | "Total number of Internet subscribers increased from 1028.61 million at the end of Dec-25 to 1092.79 million at the end of Mar-26, registering a quarterly rate of growth 6.24%." | 2026-06-22 |
+| 3 | [Audichya & Saini, "Stanza Type Identification using Systematization of Versification System of Hindi Poetry", IJACSA 12(1)](https://thesai.org/Publications/ViewPaper?Volume=12&Issue=1&Code=IJACSA&SerialNo=17) | "In this research work, 111 different “Chhand” rules were found… the research work covers 53 “Chhands”… the automatic metadata generator processed 3120 UTF-8 based inputs of 53 Hindi “Chhand” types, achieved 95.02% overall accuracy, and the overall failure rate was 4.98%." | 2021, peer-reviewed, open access (CC BY 4.0 stated on the article page) |
+| 4 | [Zaman, Ud-Din, Iqbal & Al Shuhail, "UPMVM: A Metrics Verification Model for Urdu Poetry", IJIMAI 9(6), 61–75](https://revistas.unir.net/index.php/ijimai/article/view/855) | "All these rhythmical patterns are matched with 290 Arud meters and their sub-meters developed during this study… The UPMVM model reached to promising outcome with an average accuracy of 94%." | 2025 (DOI 10.9781/ijimai.2025.09.001), peer-reviewed, open access (CC BY 4.0) |
 
-Two Wikipedia links, at the 0–2 ceiling, both used for entity disambiguation and form
-terminology. **Zero competitor links.** The four shayari sites above were read as research
-and are neither linked nor quoted; the recurring public-domain couplets are described but
-not reproduced.
+**Zero Wikipedia links, zero PIB, zero generic context statistics.** The four shayari
+sites read in Phase 1 are neither linked nor quoted; the recurring public-domain couplets
+are described but not reproduced. Nothing is reproduced from either journal article beyond
+the numbers cited — no table, figure or passage.
+
+### Re-sourcing pass — 2026-08-13
+
+Four sources were **removed**: PIB 2222097 (PLFS migration rates) and PIB 2276780 (TRAI
+internet subscribers), both generic context statistics that would sit unchanged in any post
+in this batch and so fail the swap test; and en.wikipedia.org/wiki/Ghazal and
+en.wikipedia.org/wiki/Raksha_Bandhan, Sources-list-only entries carrying no claim the
+remaining four do not carry better.
+
+Two peer-reviewed open-access sources were **added** (#3 and #4 above), both genuine
+prosody scholarship and both verified by reading the cited string back from the article
+page. The two body sentences that leaned on the PIB figures were re-grounded rather than
+re-cited: the migration line now simply states the situation, and the internet-subscriber
+sentence was cut entirely, leaving the first-party 52.5% mobile figure to carry that
+paragraph.
+
+Searched, in order: `ghazal prosody radif qafiya study`; `Urdu poetry meter scansion
+computational arXiv`; `Annual of Urdu Studies ghazal radif qafiya open access`; `Hindi
+poetry matra chhand laghu guru computational metre identification`. **Residual subject-test
+gap:** both scholarly sources are computational-linguistics venues rather than
+literary-studies ones. The two humanities-side archives that should have supplied a
+literary citation — the Annual of Urdu Studies open archive and Columbia's Pritchett
+prosody pages — return HTTP 403 to any sandboxed fetch, and neither was cited unread.
 
 ### Audit-remediation re-check — 2026-08-13
 
-All six were re-fetched during the remediation pass and the cited strings read back from
-the response body: poets.org (`five couplets`, `fifteen`), DrikPanchang (`05:57`, `09:48`,
-`August 28, 2026`), PIB/MoSPI (`47.9`, `10.7`), PIB/TRAI (`1,092.79`, `6.24`), and both
-Wikipedia infoboxes. WebFetch itself is denied by this environment's routing, so every
-check used a sandboxed fetch — the substance holds, the named tool does not.
+All four surviving sources were fetched again on 2026-08-13 and the cited strings read back
+from the response body: poets.org (`five couplets`, `fifteen`), DrikPanchang (`05:57`,
+`09:48`, `August 28, 2026`), IJACSA (`111 different “Chhand” rules`, `53`, `3120 UTF-8
+based inputs`, `95.02% overall accuracy`) and IJIMAI (`290 Arud meters and their
+sub-meters`, `average accuracy of 94%`). WebFetch itself is denied by this environment's
+routing, so every check used a sandboxed fetch — the substance holds, the named tool does
+not.
 
-Both Wikipedia entities are now linked **once each**, from the Sources list only. The two
-inline Wikipedia links were removed so the page carries exactly two Wikipedia link
-instances rather than four; no claim lost its inline verification path, because the
-Academy of American Poets link sits in the same paragraph as the ghazal form rules and the
-DrikPanchang link sits in the same paragraph as the 2026 date.
+Outbound links after the pass: four (poets.org, IJACSA, IJIMAI, DrikPanchang), each sitting
+in the paragraph that makes the claim. `publishedDate` was **removed** from the two undated
+sources rather than stamped with the retrieval date, so no fetch date now flows into
+`citation.datePublished`.
 
 ---
 

@@ -89,23 +89,51 @@ brother · bhaiya or name · keeping a message private · what to avoid writing.
 
 ## Phase 3 — sources (all fetched and verified; zero competitors)
 
-| # | Source | Verified fact | Published |
-|---|---|---|---|
-| 1 | Oxford Learner's Dictionaries, *cousin brother* | Listed as an Indian English informal noun: "a son of your aunt or uncle; a male first cousin" | undated reference work (accessed 2026-08-13) |
-| 2 | Chronicle of Evidence-Based Mentoring, summarising Hessel, H. & Christiansen, R. J. (2025), *Adolescents* 5(1): 8 | 192 US emerging adults (mean age 25.6) described 561 cousins; closeness fostered by emotional confiding and shared experience, limited by awkwardness, comparison and estrangement; support persists even when contact is infrequent | 2025 (study) |
-| 3 | PRS Legislative Research, "Migration in India and the impact of the lockdown on migrants", citing Census 2011 | India had 45.6 crore migrants in 2011 (38% of population); 99% of total migration was internal | 2020-06-10 |
-| 4 | Drik Panchang, Raksha Bandhan 2026 (New Delhi) | Friday 28 August 2026; thread-ceremony muhurat 05:57–09:48 AM IST (3h 51m); Purnima tithi 09:08 AM 27 Aug → 09:48 AM 28 Aug; Bhadra over before sunrise | undated calendar page (accessed 2026-08-13) |
-| 5 | Wikipedia, *Raksha Bandhan* (entity link, 1 of the 0–2 budget) | Infobox 2026 date 28 August (Friday); earliest attested English use of *rakhi* is 1829 (James Tod), the thread bestowing the title of *adopted* brother | accessed 2026-08-13 |
+**Re-sourced 2026-08-13** against `references/research-sources.md`. The Census
+migration statistic was cut — it is about India, not about cousins, and would sit
+unchanged in any other post in this batch. The primary of the cousin paper was
+reached and is now cited directly, and a second peer-reviewed study about extended
+family was added.
 
-**Rejected sources.** TRAI's May 2026 subscription press release (PR No. 78) was
-fetched but arrived as unparsed binary PDF, and a tele-density figure failed the
-"would it stay without the link" test in a cousin-wishes post — dropped rather than
-cited second-hand. Census HH-04 joint-vs-nuclear household shares were dropped: no
-clean, verifiable percentage was reachable, and nothing was going to be estimated.
-`oed.com` (both the `cousin brother` entry and the September 2017 Indian English
-update) redirects to a JS shell, so the OED's "earliest evidence 1847, *Bombay Times*"
-datum could **not** be verified and is **not** used anywhere in the post. mdpi.com,
-doi.org and link.springer.com all blocked the primary paper.
+| # | Source | Verified fact | Published | Access |
+|---|---|---|---|---|
+| 1 | Oxford Learner's Dictionaries, *cousin brother* | Listed as an Indian English informal noun: "a son of your aunt or uncle; a male first cousin" | undated reference work (accessed 2026-08-13) | free |
+| 2 | **Hessel, H. M. & Christiansen, R. J., "Close but Not Too Close? A Qualitative Study of How U.S. Emerging Adults Describe Their Cousin Relationships", *Adolescents* 5(1): 8** — the primary | 192 US adults aged 18–29 (mean 25.6) described 561 cousins (mean 28.2); emerging adults feel varying degrees of closeness and distance with cousins; relational maintenance with cousins is both planned and incidental; family membership provides resources; cousins share the same generational position | 2025-03-06 | Gold OA, **CC BY**. **Abstract only was read** (see below) |
+| 3 | Chronicle of Evidence-Based Mentoring, summarising the paper above | The paper's *results-level* finding that cousin closeness is fostered by emotional confiding and shared experience and limited by awkwardness, comparison and estrangement | 2025 | free; retained deliberately — see below |
+| 4 | **Hessel, H., "A Typology of U.S. Emerging Adults' Online and Offline Connectedness with Extended Family", *Journal of Adult Development*** | Latent class analysis of 532 US emerging adults; 72% connect with extended family online even when they do not feel close to them; cousins and aunts/uncles were identified most frequently as extended family | 2023-05-13 | Free full text in PubMed Central (PMC10182746). **Abstract only was read** |
+| 5 | Drik Panchang, Raksha Bandhan 2026 (New Delhi) | Friday 28 August 2026; thread-ceremony muhurat 05:57–09:48 AM IST (3h 51m); Purnima tithi 09:08 AM 27 Aug → 09:48 AM 28 Aug; Bhadra over before sunrise | undated calendar page (accessed 2026-08-13) | Date fact-check, not counted as research |
+| 6 | Wikipedia, *Raksha Bandhan* (entity link, 1 of the 0–2 budget) | Infobox 2026 date 28 August (Friday); earliest attested English use of *rakhi* is 1829 (James Tod), the thread bestowing the title of *adopted* brother | accessed 2026-08-13 | free |
+
+**Did the primary get reached?** Yes, as a citable source — and no, as full text.
+`mdpi.com` returns empty content to the fetcher for both the article HTML and the
+CC BY PDF. The record was instead confirmed through three independent routes that
+agree exactly: the DOAJ article API, the Semantic Scholar graph API and Unpaywall
+(`is_oa: true`, `oa_status: gold`, `license: cc-by`, `published_date: 2025-03-06`).
+All three return the same abstract verbatim. So the post links the DOI and cites
+**only what the abstract states**.
+
+**Why the secondary was kept.** Two body passages use the paper's *results* —
+comparison and awkwardness as limits on cousin closeness — and those sentences are
+not in the abstract. Since the full text could not be read, that claim stays
+attributed, visibly and in the body, to the Chronicle summary, which is the only
+version of the results actually read. Dropping it would have left a results-level
+claim resting on a source that does not state it.
+
+**Subject test:** sources 1, 2, 3 and 4 all pass — the kin term itself, cousin
+relationships, and how emerging adults keep up with extended family online. Two are
+peer-reviewed and open access. Generic context statistics: zero.
+
+**Rejected sources.** PRS Legislative Research / Census 2011 migration — cut in this
+pass as filler. TRAI's May 2026 subscription press release (PR No. 78) arrived as
+unparsed binary PDF and failed the subject test anyway. Census HH-04 joint-vs-nuclear
+household shares: no clean, verifiable percentage was reachable, and nothing was going
+to be estimated. `oed.com` redirects to a JS shell, so the OED's "earliest evidence
+1847, *Bombay Times*" datum could **not** be verified and is **not** used anywhere in
+the post. No open-access scholarship on Indian English kinship lexis (`cousin brother`
+/ `cousin sister` in World Englishes and similar) was reachable; searched OpenAlex,
+DOAJ and general web for `Indian English kinship terms cousin brother lexical
+borrowing` and `North Indian kinship terminology classificatory sibling` — nothing
+citable, so the Oxford entry carries the lexical claim alone.
 
 ---
 
@@ -134,15 +162,37 @@ Recorded in `batchMeta.auditReport`. Four failures were opened; the fix pass on
   on `#post` survives and is the sole route by which `batchMeta.sources` reach the
   published page, while a bare `FAQPage` is discarded. The `FAQPage` block was
   deleted; `ItemList` and the `#post` enrichment were kept. `article.faqs` untouched.
-- *Cousin study verification.* mdpi.com and doi.org returned empty and
-  link.springer.com returned a bot challenge, so the primary is unreachable. The post
-  cites the Chronicle of Evidence-Based Mentoring summary, which carries the full
-  Hessel & Christiansen (2025) citation, in the body, the sources list and the
-  `citation` array — the accessible source is the one linked, deliberately and
-  visibly, so the outbound-links item passes. The unverifiable OED 1847 "Bombay
-  Times" first-attestation datum stays excluded.
+- *Cousin study verification.* **Reopened and largely closed by the re-sourcing pass
+  on 2026-08-13.** `mdpi.com` still returns empty content for both the article HTML
+  and the CC BY PDF, but the record was confirmed through the DOAJ article API, the
+  Semantic Scholar graph API and Unpaywall — all three agree, and all three return
+  the same abstract verbatim. The post now links the DOI directly and cites only what
+  the abstract states. The Chronicle summary was **kept**, not dropped, because two
+  body passages use the paper's results-level finding (comparison and awkwardness as
+  limits on cousin closeness), which is not in the abstract; that claim stays visibly
+  attributed to the summary, the only version of the results actually read. The
+  unverifiable OED 1847 "Bombay Times" first-attestation datum stays excluded.
 
-**Left open:** 3 of 5 sources being undated reference works (access dates are the
-correct treatment; no dated equivalent exists), and no rakhi-specific first-party
-data existing today — re-check once the rakhi template has roughly 100–200
-published pages.
+**Changed in the re-sourcing pass:**
+
+- `prsindia.org` / Census 2011 migration cut as filler. Generic context statistics
+  now zero.
+- Hessel (2023), *Journal of Adult Development*, added — free full text in PMC. Its
+  72%-connect-online finding replaces the Census statistic in the long-distance
+  section, and is a fact about the behaviour rather than about the country.
+- `keyTakeaways[0]` rewritten to carry a number, as the checklist asks.
+- Sources 4 → 6; `citation` re-mirrored one-to-one.
+
+**Left open:**
+
+- *Batch-wide domain cap.* `en.wikipedia.org` sat in 6 of 9 posts against a cap of 3.
+  This post's Wikipedia link carries a specific non-obvious fact (the 1829 James Tod
+  attestation), so it was kept rather than dropped for the count. The cap is a
+  batch-wide property; re-run a domain count across all nine blogs before publishing.
+- *Abstract-only reads.* Both peer-reviewed sources are cited from their abstracts;
+  neither full text was reachable. Recorded here and in `honestAssessment`.
+- *No rakhi-specific first-party data* — re-check once the rakhi template has roughly
+  100–200 published pages.
+
+Body: **1,791 words** excluding FAQs. 12 FAQs. Outbound links 6 in prose, all
+fetched and verified; internal links 3.

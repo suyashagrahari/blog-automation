@@ -101,8 +101,61 @@ truncation point, grounded in SubhSandesh's own 52.5% phone-open rate across
 | [Meta — IG User Media reference](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media) | "Maximum 2200 characters, 30 hashtags, and 20 @ tags" | Updated 12 Aug 2026 |
 | [Meta — Content Publishing guide](https://developers.facebook.com/docs/instagram-platform/content-publishing) | "Carousels are limited to 10 images, videos, or a mix of the two"; "Reels cannot appear in carousels" | Updated 30 Jun 2026 |
 | [Meta Ads Guide — Instagram Feed, image](https://www.facebook.com/business/ads-guide/image/instagram-feed) | "Primary Text: 125 characters · Headline: 40 characters · Maximum Number of Hashtags: 30" | Fetched 13 Aug 2026 |
-| [Drik Panchang — Raksha Bandhan 2026](https://www.drikpanchang.com/festivals/raksha-bandhan/raksha-bandhan-date-time.html?year=2026) | "Raksha Bandhan on Friday, August 28, 2026 · Thread Ceremony Time 05:57 AM to 09:48 AM · Purnima Tithi Ends 09:48 AM on Aug 28, 2026" (New Delhi) | Fetched 13 Aug 2026 |
-| [Wikipedia — Raksha Bandhan](https://en.wikipedia.org/wiki/Raksha_Bandhan) | Infobox "2026 date: 28 August (Friday)"; Purnima of Shravana | Fetched 13 Aug 2026 |
+| [Drik Panchang — Raksha Bandhan 2026](https://www.drikpanchang.com/festivals/raksha-bandhan/raksha-bandhan-date-time.html?year=2026) | "Raksha Bandhan on Friday, August 28, 2026 · Thread Ceremony Time 05:57 AM to 09:48 AM · Purnima Tithi Ends 09:48 AM on Aug 28, 2026" (New Delhi) | Page publishes no date — `publishedDate` omitted |
+| [Desjarlais, PLOS ONE 21(5): e0346413](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346413) | "Undergraduate participants (N = 125; 77% female; 81% 17- to 24-years-old)… Findings revealed that self-focused images (selfies and elsies) more frequently prompted internal attributions – especially appearance-related – compared to meme posts, which elicited primarily external attributions tied to audience reception." | Published 2026-05-11 |
+| [Harris & Bardey, Frontiers in Psychology 10:871](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00871/full) | Study 1: "a difference between how the observers perceived the Instagram account holders' personality and the Instagram account holders' personality self-reports." Study 2 (n = 6 interviews): "All said that that they read the captions paired with the imagery when browsing the application, though somewhat subconsciously… and that they focused on 'the visual mainly, though.'" | Published 2019-04-24 |
+
+### Re-sourcing pass (2026-08-13) — what changed and why
+
+The batch audit found the same three domains carrying nine posts (`pib.gov.in` 6/9,
+`en.wikipedia.org` 6/9, `drikpanchang.com` 5/9) and **seven of nine posts with no
+research paper at all**. This post was one of the seven: five sources, three of them
+Meta's own documentation and two of them the same calendar date stated twice.
+
+**Removed:** the Wikipedia entry, in both `batchMeta.sources` and the body. It carried
+nothing Drik Panchang did not already carry — the identical 28 August date — so it was
+a duplicate occupying a source slot, and `research-sources.md` bars Wikipedia from
+counting as research in any case. The body link went with it, taking the Wikipedia
+budget to 0 of 2. `Raksha Bandhan Q10266` is still paired in the `about` block's
+`sameAs`, which does not count against the body-link budget.
+
+**Kept deliberately:**
+
+- **All three Meta documentation sources.** Platform documentation *is* the correct
+  primary source for a claim about how the platform behaves, and it passes the subject
+  test on that basis. The 2,200-character cap, the 30-hashtag and 20-@-tag limits, the
+  10-item carousel cap and the 125-character in-feed truncation point are the post's
+  entire differentiator and none of them survives a substitute source.
+- **Drik Panchang**, as the single permitted date/calendar reference. Unlike the
+  Wikipedia entry it is load-bearing: the 05:57–09:48 AM IST thread-ceremony window
+  drives the whole "morning window that decides when you post" section, including the
+  3 hours 51 minutes figure. Its `publishedDate` was **removed** from
+  `batchMeta.sources` in this pass — it had been stamped `2026-08-13`, which was the
+  fetch date, not a publication date. Same correction applied to the Meta Ads Guide
+  entry. The Content Publishing guide's `datePublished` was changed to `dateModified`,
+  matching the IG User Media entry, because 30 June 2026 is an "Updated" date.
+
+**Added — the research layer this post was missing:**
+
+| Source | Subject test | OA status | Claim it supports |
+|---|---|---|---|
+| PLOS ONE (2026) | Instagram self-presentation, by post type | Peer-reviewed, CC BY, full text read | That different post formats are interpreted differently — feedback on a self-image is attributed internally, feedback on a meme to the audience. Grounds the post's organising principle: the caption has to change with the format. |
+| Frontiers in Psychology (2019) | Instagram self-presentation and how observers read a profile | Peer-reviewed, CC BY, full text read | That captions are read alongside the image, largely subconsciously, with attention on the visual. Grounds the 125-character rule as a reading-behaviour claim rather than a formatting one. |
+
+**Honest limits on the two new sources.** The PLOS ONE study is 125 US undergraduates,
+77% female, reacting to fabricated feedback in a lab task — not siblings posting on a
+festival, and the body does not claim it is. The Frontiers caption finding comes from
+the qualitative arm, six interviewees, and the body says "all six interviewed Instagram
+observers" rather than implying a survey. Neither is paywalled; no figure, chart, table
+or substantial passage is reproduced from either.
+
+**Reuse check:** no URL is shared with the other post re-sourced in this pass and no
+domain repeats between them. `drikpanchang.com` is the one batch-wide risk — the audit
+found it in 5 of 9 posts and the domain cap is 3. The other seven posts were being
+re-sourced concurrently and could not be counted without racing their writes, so this
+is recorded as an open audit failure. If more than three posts retain Drik Panchang,
+**this post is the one to drop it from**: the 28 August date survives without the link,
+at the cost of the muhurat times.
 
 **Honest note on the 125-character figure.** Instagram publishes no consumer-facing
 statement of the in-feed truncation point. The 125-character number is taken from
@@ -121,10 +174,11 @@ Raksha Bandhan `Q10266` · Instagram `Q209330` · Meta Platforms `Q380`.
 - **categorySlug:** `festive-beats` (verified against the live Strapi category list — 9 categories)
 - **templateUrls:** `/happy-rakshabandhan-to-brother`, `/templates`, `/holi` — all in `TEMPLATE_LINKS`, all HTTP 200
 - **Internal links:** 3, all placed after the section establishing why the reader would want them
-- **Outbound links:** 5, one of them Wikipedia (entity only)
+- **Outbound links:** 6 after the re-sourcing pass, zero Wikipedia
 - **Slug check:** Strapi returned `[]` for `raksha-bandhan-captions-instagram-brother` — free (re-checked 2026-08-13 during the audit fix pass, `meta.pagination.total = 0`)
-- **Body:** 1,652 words excluding FAQs · **FAQs:** 12 · **H2:** 7 · **H3:** 6
-- **structuredData:** ItemList (6, mirroring the H3s in order) + `#post` enrichment block carrying 5 citations, 1 `about`, 2 `mentions`
+- **Body:** 1,781 words excluding FAQs · **FAQs:** 12 · **H2:** 7 · **H3:** 6
+- **structuredData:** ItemList (6, mirroring the H3s in order) + `#post` enrichment block carrying 6 citations mirroring `batchMeta.sources` one-to-one, 1 `about`, 2 `mentions`. No `FAQPage` block — the renderer builds it from `article.faqs`
+- **Caption character counts:** all 7 (80, 84, 127, 73, 83, 106, 115) re-verified character-by-character after the re-sourcing pass; all 7 still exact
 
 ## Resolved in the audit fix pass (2026-08-13)
 

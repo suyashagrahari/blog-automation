@@ -44,16 +44,36 @@ the studio's Audit tab reads consistently across posts.
 
 ## Links
 
-- [ ] 3–6 outbound links, all WebFetched and verified to contain the cited fact
+- [ ] 3–6 outbound links, all fetched and verified to contain the cited fact
 - [ ] Every outbound fact passes the "would it stay without the link" test
 - [ ] Zero competitor links
 - [ ] Wikipedia links: 0–2, entities only
 - [ ] 2–4 internal links with descriptive anchor text, placed after value is established
 - [ ] Every internal link is a real URL from TEMPLATE_LINKS
 
+## Sources — topical, open, unrepeated
+
+See `research-sources.md`. These replace "authoritative publisher" as the standard.
+
+- [ ] At least 2 sources pass the **subject test** — about siblings / ritual /
+      distance / the language / the platform behaviour, not merely about India or
+      the internet
+- [ ] At least 1 of those is peer-reviewed or scholarly, and open-access
+- [ ] No source passes the **swap test** — none could sit unchanged in a different
+      keyword's post in this batch
+- [ ] At most 1 generic context statistic (PIB / TRAI / Census / MEA)
+- [ ] No source URL appears in more than 2 posts in this batch; no domain in more than 3.
+      **One exception: the date/festival reference** (e.g. a panchang for the festival
+      date and muhurat). Every post in a festival batch may verify the same date —
+      that is a fact-check, not a citation, and it has no cap. It only earns a place
+      in `citation` where the post actually states the time; a post that merely
+      mentions the date keeps it out of `sources` and `citation` entirely.
+- [ ] Any paywalled citation records that only the abstract was read
+- [ ] No figure, chart, table or substantial passage reproduced from a source
+
 ## Trust signals
 
-- [ ] Sources list with publication dates
+- [ ] Sources list with publication dates, omitted where the source publishes none
 - [ ] At least one section naming a downside, limit, or case where SubhSandesh loses
 - [ ] keyTakeaways present, 3–5 bullets, each standalone with a number where possible
 

@@ -132,37 +132,70 @@ average reopens across 31,081 views of 2,632 pages.
 
 ## Phase 3 — sources
 
-Six, all fetched and checked. Zero competitor citations.
+Five, all fetched and checked. Zero competitor citations.
 
 | # | Source | Fact used | Date | Verified |
 |---|---|---|---|---|
-| 1 | [Census of India 2011, Table C-16](https://censusindia.gov.in/nada/index.php/catalog/10191) — ORGI | official population-by-mother-tongue table | 2011 | Partial — HTTP 200 and title confirmed; XLSX cell not opened (sandbox blocked the TLS-relaxed download censusindia.gov.in requires) |
-| 2 | [Marathi language](https://en.wikipedia.org/wiki/Marathi_language) | L1 83 million (2011), L2 16 million | retrieved 2026-08-13 | ✅ infobox read |
-| 3 | [Raksha Bandhan](https://en.wikipedia.org/wiki/Raksha_Bandhan) | 2026 date: 28 August (Friday), Purnima of Shravana | retrieved 2026-08-13 | ✅ infobox read |
-| 4 | [PIB — Cabinet confers Classical Language status on Marathi](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660) | Classical Language status; revised criteria require 1,500–2,000 years of recorded literary history | 2024-10-03 | ✅ |
-| 5 | [Maharashtra Department of Tourism — Raksha Bandhan](https://maharashtratourism.gov.in/festivals/raksha-bandhan/) | Koli community's Narali Purnima on the same Shravan full moon; puran poli as the festival dish | retrieved 2026-08-13 | ✅ |
-| 6 | [PIB / Ministry of Culture — Protection of Indian Languages](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2196909) | Census of India 2011 recorded 121 languages | 2025-12-01 | ✅ |
+| 1 | [Census of India 2011, Table C-16](https://censusindia.gov.in/nada/index.php/catalog/10191) — ORGI | official population-by-mother-tongue table | 2011 | **Still unverified** — censusindia.gov.in fails TLS chain verification from this sandbox (`UNABLE_TO_VERIFY_LEAF_SIGNATURE`); the 83,026,680 cell has never been read here |
+| 2 | [Marathi language](https://en.wikipedia.org/wiki/Marathi_language) | L1 83 million (2011), L2 16 million — the relay source for the round figure in the body | undated, continuously updated | ✅ infobox read |
+| 3 | [Chavan, Gokhale, Kane, Patankar & Joshi, "My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks", Findings of the ACL: IJCNLP-AACL 2023, 242–249](https://aclanthology.org/2023.findings-ijcnlp.22/) | "We introduce MeCorpus, a new pre-training corpus of 10 million code-mixed Marathi sentences. This consists of 5M Roman and 5M Devanagari sentences." Table 1 (Roman 5M split): Twitter 1,037,659 + YouTube 2,277,108 + transliterated 1,685,233 | November 2023, peer-reviewed, open access (ACL Anthology, CC BY 4.0) | ✅ landing page + ar5iv full text read |
+| 4 | [Banerjee, Jain, Mhaskar, Deoghare, Sehgal & Bhattacharyya, "Neural Machine Translation in Low-Resource Setting: a Case Study in English-Marathi Pair", MT Summit XVIII: Research Track](https://aclanthology.org/2021.mtsummit-research.4/) | "we explore different techniques of overcoming the challenges of low-resource in Neural Machine Translation (NMT) and specifically focusing on the case of English-Marathi NMT… pivoting and multilingual embeddings are used to leverage transfer learning… Compared to baseline transformer model and a significant improvement trend in BLEU score is observed" | August 2021, peer-reviewed, open access | ✅ abstract + metadata read on the ACL Anthology page |
+| 5 | [Maharashtra Department of Tourism — Raksha Bandhan](https://maharashtratourism.gov.in/festivals/raksha-bandhan/) | Koli community's Narali Purnima on the same Shravan full moon; puran poli as the festival dish | undated | ✅ |
 
-Wikipedia count: 2 unique entities, at the cap. Both are genuine named entities.
-After the audit-remediation pass (2026-08-13) both are linked **once each**, from the
-Sources list only; the two inline Wikipedia links were removed so the page carries
-exactly two Wikipedia link instances rather than four.
+Wikipedia count: 1 entity, linked once from the Sources list only. Zero PIB. One context
+statistic (the Census table), which is the ceiling. Nothing is reproduced from either
+paper beyond the numbers cited.
 
-Two PIB URLs were discarded before use: `PRID=2059384` resolved to an unrelated
-Department of Biotechnology release, and the Ministry of Culture classical-language
-explainer PDFs did not extract to readable text.
+Two PIB URLs were discarded before use in the original pass: `PRID=2059384` resolved to an
+unrelated Department of Biotechnology release, and the Ministry of Culture
+classical-language explainer PDFs did not extract to readable text.
+
+### Re-sourcing pass — 2026-08-13
+
+**Removed:** PIB 2196909 (Census recorded 121 languages) as a generic context statistic
+that fails the swap test; PIB 2061660 (Classical Language status for Marathi), whose claim
+was decorative rather than load-bearing and whose domain was carrying six of the nine posts
+in this batch; and en.wikipedia.org/wiki/Raksha_Bandhan, a Sources-list-only date
+fact-check that no body sentence linked.
+
+**Added:** sources 3 and 4 above. Source 3 grounds the script-choice point — half of a
+10M-sentence code-mixed Marathi corpus is Marathi typed in Roman letters — and source 4
+grounds the claim the whole post rests on, that English–Marathi machine translation is a
+low-resource problem rather than a solved one.
+
+Searched, in order: `Marathi kinship terms sociolinguistic study Shodhganga`; `Marathi
+honorific pronouns तू तुम्ही address terms politeness`; `maher natal home Marathi women's
+songs brother anthropology`; `Marathi gender agreement verb morphology open access`;
+`Marathi English code-mixing Devanagari Roman script social media`; `Marathi grindmill
+songs ovi brother maher open access`; plus an OpenAlex sweep filtered to `is_oa:true` over
+Marathi kinship, Marathi sociolinguistics, maher, ovi folk songs and Devanagari script
+identity.
+
+**Residual subject-test gap:** nothing verifiable was found on माहेर, औक्षण or ओवाळणी as
+kinship vocabulary. The two strongest humanities hits were Thatte, "Maher as the Location
+of Origin" (Cultural Studies ↔ Critical Methodologies, 2022, DOI 10.1177/10778004211002779),
+which returns HTTP 403 to a sandboxed fetch with no OA copy findable, and the Maharashtra
+State Gazetteer's kinship chapter, a PDF this sandbox cannot extract text from. Neither was
+cited unread. Those claims rest on the author's Marathi, which the page says plainly.
 
 ### Audit-remediation re-check — 2026-08-13
 
-Sources 4, 5 and 6 were re-fetched and the cited strings read back from the response
-body (`Koli` / `Narali Purnima` / `coconuts` / `Puran Poli`; the 1,500–2,000-year
-classical-language criterion; `121`). Source 1 is **still unverified**: censusindia.gov.in
-fails TLS chain verification from the sandbox (`UNABLE_TO_VERIFY_LEAF_SIGNATURE`), so the
-83,026,680 cell in C-16 has never been read here. A substitute was hunted and not found —
-the data.gov.in mirror of C-16 (Registrar General, Ministry of Home Affairs) publishes the
-table only as downloadable resources, with no India-level Marathi figure in fetchable
-prose, and no other gov.in page restates the number in text. The body therefore states the
-round "83 million" relayed from Wikipedia and never claims the primary table was read.
+Sources 2, 3, 4 and 5 were fetched again on 2026-08-13 and the cited strings read back from
+the response body (`Koli` / `Narali Purnima` / `coconuts` / `Puran Poli`; `10 million
+code-mixed Marathi sentences`, `5M Roman and 5M Devanagari`, Table 1 totalling `5,000,000`;
+`low-resource`, `Phrase Table Injection`, `pivoting`, `significant improvement trend in
+BLEU`; the Wikipedia Marathi infobox).
+
+Source 1 is **still unverified**, and was retried once more on this pass:
+censusindia.gov.in again failed TLS chain verification from the sandbox
+(`UNABLE_TO_VERIFY_LEAF_SIGNATURE`), so the 83,026,680 cell in C-16 has never been read
+here. The open-access scholarly route was tried this pass and also failed — neither ACL
+paper on Marathi states a speaker count, an OpenAlex OA-filtered sweep surfaced no paper
+restating the C-16 Marathi cell, and the data.gov.in mirror still publishes the table only
+as downloadable resources with no India-level Marathi figure in fetchable prose. The body
+therefore keeps the round "83 million" relayed from Wikipedia, says so in the Sources list,
+and never claims the primary table was read. **No weaker source was substituted to close
+the gap.**
 
 The Phase 1 SERP above was re-run a second time on 2026-08-13 and returned the same eight
 results in the same order, with igp.com at position five.

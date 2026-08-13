@@ -117,24 +117,46 @@ per page, which is the one number a gifting retailer cannot publish.
 
 ---
 
-## Phase 3 — sources (all fetched and verified)
+## Phase 3 — sources (re-sourced 2026-08-13 against `references/research-sources.md`)
 
-| # | Source | Verified figure | Published |
-|---|---|---|---|
-| 1 | PIB / MoSPI, "Survey on Migration in the Country" | "the migration rate in India was estimated at 28.9%" (PLFS Jul 2020–Jun 2021) | 2026-02-02 |
-| 2 | PIB / Ministry of Communications, telecom subscription data Feb 2026 | "total number of broadband subscribers increased from 1052.72 million… to **1059.05 million** at the end of February 2026" | 2026-04-01 |
-| 3 | PIB / Department of Posts, launch of '24 Speed Post' | "next-day delivery (D+1) is guaranteed"; first phase **six cities only** — Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad | 2026-03-17 |
-| 4 | Business Standard / PTI, reporting MoS External Affairs in Rajya Sabha | "13,35,878 Indian students are pursuing higher studies abroad in 2024", across 108 countries | 2024-08-01 |
-| 5 | Georgia Tech campus calendar | Raksha Bandhan — **Friday, August 28, 2026** | (event page) |
+The original five sources contained **no research at all**: three PIB releases, a
+student-migration count and a campus calendar. Two of them — the 28.9% migration
+rate and the 1,059.05 million broadband subscribers — were about *India*, not about
+this post, and would have sat unchanged in any other post in this batch. Both are
+removed, along with the Business Standard student count and the Speed Post release
+in its PIB form. `pib.gov.in` now appears **zero** times on this post.
+
+| # | Source | Verified string (read out of the fetched text) | Subject test | Published |
+|---|---|---|---|---|
+| 1 | Kapoor, Belk & Goulding, "Ritual Revision During a Crisis: The Case of Indian Religious Rituals During the COVID-19 Pandemic", *Journal of Public Policy & Marketing* 41(3), 277–297. Open access, **CC BY 4.0**, PMC9001062 | rituals "undergo revision to adapt to the changing needs of the time"; "In all the four Hindu ritual examples discussed, the two cardinal concepts of 'invention of tradition'—continuity and change—are present" | **Passes** — Hindu ritual under changed conditions, which is exactly the question a virtual ceremony raises | 2022-07 |
+| 2 | Madianou, "Ambient co-presence: transnational family practices in polymedia environments", *Global Networks* 16(2), 183–201. Published version open access, **CC BY 3.0**, Goldsmiths Research Online | ambient co-presence is "the peripheral, yet intense awareness of distant others made possible through the affordances of ubiquitous media environments"; "those who enjoyed strong relationships associated ambient co-presence with low-level emotional reassurance", while weak relationships "reported an increase in conflict especially through opportunities for surveillance" | **Passes** — transnational families maintaining relationships at distance through media | 2016 |
+| 3 | The Week, "24 Speed Post: India Post promises next-day delivery in six cities from March 17" | "In its first phase, 24 Speed Post will be available across six major metro cities: Delhi, Mumbai, Chennai, Kolkata, Bengaluru, and Hyderabad"; 48 Speed Post gives "assured D+2" | **Fails** — this is the one permitted context source, kept because the courier-vs-page table depends on it | 2026-03-16 |
+| 4 | Georgia Tech campus calendar | "Friday / August 28, 2026 / Raksha Bandhan" | Date fact-check, not a citation. No publication date on the page, so `publishedDate` is omitted | — |
+
+Two peer-reviewed, open-access sources; one context source; one date check. Total
+four, inside the 4–6 band. Neither scholarly source is reused in the sibling post
+re-sourced in the same pass (`raksha-bandhan-wishes-for-long-distance-brother`), so
+no URL appears twice and no domain approaches the three-post cap.
+
+**Licensing.** Both papers are CC BY, so reuse would be permitted; neither is reused.
+No figure, table or passage is reproduced — only short quoted phrases with
+attribution, and a link.
 
 Zero competitor links. igp, rakhibazaar, nestasia, gladful, tohfatales, floweraura,
 Canva and the name-card tools were read for Phase 1 only and appear nowhere in the
 post, its sources or its schema.
 
 **Rejected sources.** TRAI's own PR PDFs (`PR_No78of2026.pdf`, `PR_No104of2026.pdf`)
-returned raw binary through the fetcher and could not be verified — the PIB
-restatement was used instead. `indiapost.gov.in` service pages 404 (site
-restructured), so no official Speed Post *tariff* is quoted anywhere in the post.
+returned raw binary through the fetcher and could not be verified — and the PIB
+restatement that replaced them has now been dropped as filler regardless.
+`indiapost.gov.in` service pages 404 (site restructured), so the '24 Speed Post'
+limits are cited from The Week's report rather than from PIB or India Post directly.
+`pmc.ncbi.nlm.nih.gov` article pages return a reCAPTCHA interstitial to this
+fetcher, so the Kapoor full text was read through the Europe PMC REST full-text XML
+for the same PMCID; the PMC URL is what readers get, and it renders normally in a
+browser. `core.ac.uk/download/pdf/42388105.pdf` (a copy of the Madianou paper) 404s,
+so the Goldsmiths eprint record is cited instead — it carries the abstract, the
+licence and the published-version PDF.
 Every panchang page carrying a 2026 Rakhi *muhurat* window was either a gifting site
 or an unverifiable small astrology blog, so **the post deliberately states no
 muhurat time** and anchors the ceremony at a plain 9:00 a.m. IST instead. The
@@ -152,7 +174,9 @@ time-zone conversions in H2 4 are arithmetic from UTC+5:30, not a cited claim.
 - Slug checked against Strapi on 2026-08-13 — `total: 0`, free.
 - Entities verified via the Wikipedia API with Wikidata QIDs paired: Raksha Bandhan
   Q10266, Videotelephony Q854954, Indian diaspora Q925034 (redirect from
-  "Non-resident Indian"), MoSPI Q4294710.
+  "Non-resident Indian"), India Post Q3519720, Ritual Q189819. The MoSPI entity
+  (Q4294710) was dropped with the migration statistic — the post no longer mentions
+  it, and schema must not name what the page does not discuss.
 
 ---
 

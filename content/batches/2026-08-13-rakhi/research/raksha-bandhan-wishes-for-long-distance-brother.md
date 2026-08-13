@@ -103,23 +103,55 @@ statistics.
 
 ---
 
-## Phase 3 — Third-party sources
+## Phase 3 — Third-party sources (re-sourced 2026-08-13)
 
-Six, all fetched and verified via `ctx_fetch_and_index`. **Zero competitors.**
+Re-run against `references/research-sources.md`. The previous set of six contained
+**no research at all** and leaned on three PIB releases plus an MEA head-count. Two
+of those — 37,280,845 overseas Indians and 1,092.79 million internet subscribers —
+were about India rather than about siblings, distance or ritual, and would have sat
+unchanged in any post in this batch. Both are gone, with the paragraphs they
+propped up. The Delhi Circle release went too, and **the one body claim that
+depended on it (counters closing 06.08.2025) was deleted rather than left
+unsourced**. `pib.gov.in` drops from three URLs to one — the release that is
+actually about Rakhi.
 
-| # | Source | Verified fact | Published |
-|---|---|---|---|
-| 1 | [MEA — Population of Overseas Indians](https://www.mea.gov.in/population-of-overseas-indians.htm) | TOTAL row: 19,520,317 PIOs + 17,760,528 NRIs = **37,280,845** overseas Indians. Canada 3,247,980; Australia 845,800; Kuwait 1,038,745 | Data as of January 2026 |
-| 2 | [PIB / TRAI — Telecom Services Performance Indicator Report, Jan–Mar 2026](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2276780) | 1,092.79 m internet subscribers at end-Mar-26 (46.54 m wired, **1,046.26 m wireless**); broadband 1,065.88 m | Posted 22 June 2026 |
-| 3 | [PIB / India Post — international Rakhi shipments by 31st July](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2034361) | *"India Post strongly advise that you plan your Rakhi shipments by the 31st of July"*, plus HS codes and customs dos/don'ts | 19 July 2024 |
-| 4 | [PIB — Dept. of Posts, Delhi Circle: Rakhi Mail arrangements](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147518) | *"Rakshabandhan Festival falls on 09-08-2025… special arrangements for handling of Rakhi Mails up to 06.08.2025"*; 34 Delhi post offices | 23 July 2025 |
-| 5 | [NIST — Daylight Saving Time Rules](https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst) | *"During 2026, daylight saving time is in effect from March 8 at 2 a.m. to November 1 at 2 a.m."* | 2026 |
-| 6 | [GOV.UK — When do the clocks change?](https://www.gov.uk/when-do-the-clocks-change) | 2026: forward 29 March, **back 25 October**. BST = 1 hour ahead | Last updated 24 Nov 2025 |
+| # | Source | Verified string (read out of the fetched text) | Subject test | Published |
+|---|---|---|---|---|
+| 1 | Vaterlaus, Dodson & Bock, "Young Adults' Closest Sibling Relationships and Interactive Technology", *Marriage & Family Review*. Green OA, **CC BY 4.0**, [Montana State ScholarWorks](https://scholarworks.montana.edu/handle/1/17581) | "how young adults (n = 239) conceptualized sibling closeness and how interactive technology influenced their self-identified closest sibling relationship"; the three technology themes are "(1) functionality, (2) technology that promotes quality communication, and (3) technology is not a benefit for sibling relationship" | **Passes** — adult siblings and mediated communication, the exact phenomenon | 2022-11 |
+| 2 | Mathew Schmalz (Professor of Religious Studies, College of the Holy Cross), ["Explaining 'Rakshabandhan'"](https://theconversation.com/explaining-rakshabandhan-a-hindu-festival-that-celebrates-the-brother-sister-bond-81665), The Conversation | "Sisters not only tie their brothers as defined by blood relationship, but also those with whom they have a very close family-like relationship"; "relationships are established and maintained through establishing clear roles of 'giver' and 'receiver' as well as 'protector' and 'protected'" | **Passes** — the brother–sister bond and the ritual itself. Academic-authored, not peer-reviewed, so it does not satisfy the scholarly requirement on its own | 2017-08-04 (page states "originally published on Aug. 4, 2017") |
+| 3 | [PIB / India Post — international Rakhi shipments by 31st July](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2034361) | "India Posts strongly advise that you plan your Rakhi shipments by the 31st of July", to "minimize the likelihood of delays and customs-related hitches" | The single context source, and rakhi-specific rather than generic | 2024-07-19 |
+| 4 | [NIST — Daylight Saving Time Rules](https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst) | "During 2026, daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time)" | **Fails** the swap test — a generic clock reference. Kept because the EDT/PDT offsets in the send-time table are wrong without it. No publication date on the page, so `publishedDate` is omitted | — |
+| 5 | [GOV.UK — When do the clocks change?](https://www.gov.uk/when-do-the-clocks-change) | 2026 row: "forward 29 March, back 25 October"; "The period when the clocks are 1 hour ahead is called British Summer Time (BST)" | **Fails** the swap test, same reasoning. The page shows only "Last updated: 24 November 2025", which is a modification date, so `publishedDate` is omitted | — |
 
-**Rejected sources:** timeanddate.com (HTTP 403); dfe.gov.in DoPT restricted-holiday
-PDF (connect timeout); niphtr.mohfw.gov.in holiday circular (scanned images, no text
-layer); newsonair.gov.in Rakhi counters piece (turned out to be the 2025 festival, not
-2026 — discarded rather than misdated).
+One peer-reviewed open-access source, one academic-authored topical source, one
+rakhi-specific context source, two clock references. Total five, inside the 4–6 band.
+
+**Abstract-only note.** Only the *abstract* of source 1 was read. The CC BY PDF is
+free and linked from the same page, but its text streams would not extract in this
+environment (`scholarworks.montana.edu` closes the socket on every client except
+`ctx_fetch_and_index`, which returns the raw PDF). Nothing in the post claims more
+than the abstract states, and the audit records this.
+
+**Licensing.** Source 1 is CC BY 4.0 (reuse would be permitted; not reused).
+Source 2 is CC BY-ND — cited and linked only, never reproduced. No figure, table or
+substantial passage is copied from any source.
+
+**Searched and rejected.** For the peer-reviewed slot the searches were
+`adult sibling relationship maintenance geographic distance contact frequency`,
+`siblings communication technology closeness media multiplexity`,
+`sibling relationships adulthood open access` (OpenAlex title search, `is_oa:true`),
+and a Europe PMC query for sibling + geographic distance + contact restricted to
+open access. Most sibling-and-distance work is paywalled: *Adult sibling
+relationships and media multiplexity theory* (JSPR 2024) is bronze OA behind a Sage
+403; Perales' JMF 2020 proximity-and-contact study has no reachable OA copy;
+`tandfonline.com` returns 403 to every fetcher here; the MDPI media-multiplexity
+family-closeness paper returned empty content twice. `pmc.ncbi.nlm.nih.gov` article
+pages return a reCAPTCHA interstitial. Ahlin's *Frequent Callers: "Good Care" with
+ICTs in Indian Transnational Families* (Medical Anthropology 2018, hybrid OA,
+CC BY-NC-ND) is the best topical match found for Indian transnational families, but
+no copy could be fetched and verified, so it was **not** cited. The Madianou
+polymedia paper was verified in the same pass and used on the sibling-adjacent
+"celebrate online" post instead, so it is not reused here.
 
 **2026 date:** verified from the [Wikipedia Raksha Bandhan infobox](https://en.wikipedia.org/wiki/Raksha_Bandhan)
 (`2026 date | 28 August (Friday)`), used as the post's single Wikipedia link and as
@@ -128,8 +160,8 @@ here rather than papered over.
 
 ### Timezone arithmetic (derived, not invented)
 
-IST = UTC+5:30, no DST. On **Friday 28 August 2026**, US DST is in effect (source 5)
-and the UK is on BST (source 6):
+IST = UTC+5:30, no DST. On **Friday 28 August 2026**, US DST is in effect (source 4)
+and the UK is on BST (source 5):
 
 | City | Offset 28 Aug 2026 | India is | Send at IST for 8:00 am local |
 |---|---|---|---|
@@ -159,9 +191,11 @@ the distance angle, but the post's primary entity is the festival.
 
 **`templateUrls`:** `/happy-rakshabandhan-to-brother`, `/templates`.
 
-**Wikidata QIDs** — all verified against the Wikipedia + Wikidata APIs, labels
+**Wikidata QIDs** — all verified against the Wikipedia API on 2026-08-13, labels
 confirmed: Raksha Bandhan `Q10266`, India Post `Q3519720`, Indian Standard Time
-`Q604055`, Indian diaspora `Q925034`, TRAI `Q7695822`.
+`Q604055`, Indian diaspora `Q925034`, Sibling `Q31184`. The TRAI entity
+(`Q7695822`) was dropped with the subscriber statistic — the post no longer
+mentions TRAI, and schema must not name what the page does not discuss.
 
 ---
 
@@ -169,16 +203,23 @@ confirmed: Raksha Bandhan `Q10266`, India Post `Q3519720`, Indian Standard Time
 
 *(Updated by the audit-remediation pass, 2026-08-13.)*
 
-Body: **1,798 words** (FAQs excluded). FAQs: **12**. H1 ×1, H2 ×8, H3 ×8.
-metaTitle 60 chars, metaDescription 154, excerpt 238.
+*(Re-sourcing pass, same date: source set rebuilt, word count re-checked.)*
 
-One item remains failed in `batchMeta.auditReport.failed`:
+Body: **1,799 words** (FAQs excluded). FAQs: **12**. H1 ×1, H2 ×8, H3 ×8.
+metaTitle 60 chars, metaDescription 154, excerpt 238. Six distinct outbound links
+(five sources + one Wikipedia entity link), three internal.
+
+Two items remain failed in `batchMeta.auditReport.failed`:
 
 1. **First-party facts are platform-wide, not rakhi-specific** — structural. The
    `/happy-rakshabandhan-to-brother` template shipped after the 2026-08-13 pull with
    zero recorded creations, so `content/facts.md` has no rakhi row to query. Closes
    once the template has roughly 100–200 published pages and `npm run facts` is
    re-run; re-check after the 2026 festival.
+2. **Two sources pass the swap test** — the NIST and GOV.UK clock references would
+   fit any timezone-bearing post. Kept deliberately: the IST send-time table is the
+   post's reason to exist and the BST/EDT offsets are wrong without them. Neither is
+   counted toward the topical-research requirement.
 
 Closed by the remediation pass:
 
@@ -186,9 +227,10 @@ Closed by the remediation pass:
   contradict: `client/components/JsonLd.tsx:622-637` merges an `@id`-matched block
   and drops an unmatched one, so a bare `FAQPage` was dead weight. The renderer
   builds FAQPage from `article.faqs`, which is untouched.
-- **Outbound links.** Six non-Wikipedia sources, all re-fetched and re-verified live
-  on 2026-08-13. PIB PRID=2147518 is linked in the Sources list; adding a seventh
-  inline link would breach the 3–6 cap, so the table cell stays unlinked by design.
+- **Outbound links.** Now five sources plus the one Wikipedia entity link, all
+  fetched and verified live on 2026-08-13, and every source is linked inline in the
+  body as well as listed. The unlinked PIB Delhi-Circle cell that used to sit in the
+  comparison table is gone: the release was cut and the claim with it.
 - **Slug freshness** re-confirmed on 2026-08-13 (`/blog/…` returns 404 on the live
   site). Still a point-in-time check, as it is for every post in the batch.
 
