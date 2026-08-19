@@ -1,0 +1,317 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Raksha Bandhan Quotes in Marathi, With Meaning and Register",
+    "slug": "raksha-bandhan-quotes-in-marathi",
+    "excerpt": "Seven Raksha Bandhan quotes in Marathi, each with transliteration and English meaning — plus the तू or तुम्ही decision that comes before the words, and the script faults that break Devanagari on a phone.",
+    "metaTitle": "Raksha Bandhan Quotes in Marathi — With Meaning and Register",
+    "metaDescription": "Raksha Bandhan quotes in Marathi with transliteration and meaning: 7 lines for a sister, group and caption, plus the तू / तुम्ही register rule most lists ignore.",
+    "keywords": "raksha bandhan quotes in marathi, raksha bandhan message for brother in marathi, marathi rakhi quotes for sister, rakshabandhan shubhechha marathi, marathi raksha bandhan status",
+    "canonicalURL": "https://subhsandesh.in/blog/raksha-bandhan-quotes-in-marathi",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "marathi",
+      "quotes",
+      "siblings",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Choose the register before the words: तू for a sibling you are close to, तुम्ही for one you address respectfully — Marathi marks it inside the verb.",
+      "Marathi also marks the speaker's gender, so a line written for a sister announces the wrong sender when her brother pastes it unchanged.",
+      "Devanagari can render correctly on your phone and wrongly on hers: the Unicode FAQ says the display engine decides \"based on the availability of glyphs in the font\".",
+      "The Marathi eyelash ऱ (RA + halant + ZWJ) is a Marathi-specific form a Hindi-built font may show as a box.",
+      "Pair Devanagari with plain Roman transliteration — 51.9% of 32,683 shared-page views are on a phone (measured 2026-08-18)."
+    ],
+    "faqs": [
+      {
+        "question": "What are the best Raksha Bandhan quotes in Marathi?",
+        "answer": "The ones written in Marathi rather than translated into it. Before choosing words, choose the register: तू for a sibling you are close to, तुम्ही for one you address respectfully. Getting that wrong makes an affectionate line read as rude or oddly stiff."
+      },
+      {
+        "question": "Should I say तू or तुम्ही to my elder sister?",
+        "answer": "That is family habit, not grammar. Most Marathi households use तू to a ताई and keep तुम्ही for elders outside the immediate family, though some older families still give an elder sibling तुम्ही. Send what your family actually speaks — an unexpected तुम्ही to a sister you have argued with all your life reads as sarcasm."
+      },
+      {
+        "question": "Why can't I just translate a Hindi rakhi quote into Marathi?",
+        "answer": "Because the giveaway is in the endings, not the vocabulary. Marathi marks who you are addressing inside the verb and marks the speaker's own gender in the present tense, so a line written for a sister to send announces the wrong sender when her brother pastes it unchanged."
+      },
+      {
+        "question": "Does Marathi mark the speaker's gender?",
+        "answer": "Yes, in the present tense. The University of Chicago grammar Marathi in Context prints both forms — मी जातो for a male speaker, मी जाते for a female one. So a brother writes मी वाट पाहतो for \"I'll be waiting\" and a sister writes मी वाट पाहते."
+      },
+      {
+        "question": "What is आपण and when should I use it?",
+        "answer": "It is the honorific second person, which Marathi in Context describes as expressing greater deference than तुम्ही and as gradually falling out of use. It is also the inclusive \"we\" — so opening a family greeting with आपल्या घरात includes everyone reading it."
+      },
+      {
+        "question": "When is Raksha Bandhan in 2026?",
+        "answer": "Shravan Purnima falls on 28 August in 2026. That is the day the quote is sent, and it is worth drafting a day earlier if the line is in a language you do not write in daily."
+      },
+      {
+        "question": "Why does my Marathi message show boxes or wrong letters on someone else's phone?",
+        "answer": "It is a font problem, not a typing mistake. Devanagari conjuncts are not single characters, and per the Unicode Consortium's Indic FAQ whether one displays as a ligature or a half-form \"is the decision of an underlying software module called a display engine\", which \"bases this decision on the availability of glyphs in the font\"."
+      },
+      {
+        "question": "What is the Marathi eyelash ऱ and why does it break?",
+        "answer": "It is a Marathi-specific letterform that appears in everyday words such as दुसऱ्या. Microsoft's OpenType specification for Devanagari records that RA + halant + zero-width joiner \"is used for the encoded representation for 'eyelash RA' used for the Marathi language\" — and a font built for Hindi may render it as a plain र्य or an empty box."
+      },
+      {
+        "question": "Should I add a Roman transliteration to a Marathi quote?",
+        "answer": "Yes, if the reader speaks Marathi but reads Latin script faster — anyone schooled entirely in English, or cousins raised outside Maharashtra. Pair the Devanagari line with plain typable Roman underneath, not the academic scheme; nobody has ə on a phone keyboard."
+      },
+      {
+        "question": "What length of Marathi quote works on WhatsApp versus a page?",
+        "answer": "One or two lines under about 140 characters for a chat message, six to eight words for a status, and two to four lines plus her name on a shared page. The shorter the surface, the more the Devanagari has to carry alone, and the more a rendering fault costs."
+      },
+      {
+        "question": "Is there a Marathi Raksha Bandhan quote for the whole family group?",
+        "answer": "Most lists never write one. Use the inclusive possessive: आपल्या घरात राखी म्हणजे नुसता धागा नाही, तर एकत्र बसण्याचं निमित्त आहे — \"in our house rakhi is not just a thread, it is an excuse to sit together\" — so nobody in the group reads it as addressed past them."
+      },
+      {
+        "question": "Can I make a Marathi rakhi page for my sister on SubhSandesh?",
+        "answer": "Only by adapting one. The single Raksha Bandhan template is written brother-first, so there is no sister-specific rakhi design today, and if what she wants is something in her hands then a link is not it — post the card."
+      }
+    ],
+    "coverImageQuery": "marathi devanagari handwriting rakhi thread",
+    "coverImagePrompt": "A photorealistic overhead close-up of a handwritten Marathi line in Devanagari on cream paper, a simple red-and-gold rakhi laid across one corner, a pen beside it. Soft warm daylight from the left, shallow depth of field so the script reads as texture. Clean negative space across the top third for a title overlay, 16:9. No printed text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Raksha Bandhan Quotes in Marathi, With Meaning and Register\n\nThe raksha bandhan quotes in Marathi worth sending are written *in* Marathi rather than translated into it, and the decision that matters comes before the words: whether you address your sibling as तू or तुम्ही. Get that wrong with an elder sister and an affectionate line lands as rude or oddly stiff. Every line below is given three ways — Devanagari, a plain Roman transliteration, and an English meaning — because 51.9% of the 32,683 views on pages shared through SubhSandesh happen on a phone (16,952 of them, measured 2026-08-18), where the line must survive a small screen and whatever font the handset shipped with. Across the 2,718 pages created since 12 March 2026, what breaks is consistent: conjunct letters, the Marathi eyelash ऱ, and lines lifted from Hindi.\n\n## What counts as a Marathi Raksha Bandhan quote\n\nA Marathi Raksha Bandhan quote is a short line built from Marathi grammar and kinship words, sent on Shravan Purnima — 28 August in 2026 — to a sibling or the family group. It is not a Hindi line typed in Devanagari, and the giveaway is in the endings rather than the vocabulary.\n\nMarathi marks the person addressed inside the verb, and marks the *speaker's* gender in the present tense. The University of Chicago's grammar *Marathi in Context* prints both: मी जातो *mi jato* for a male speaker, मी जाते *mi jate* for a female one. So a brother writing \"I'll be waiting\" says मी वाट पाहतो; a sister says मी वाट पाहते.\n\nSo copying off a list is riskier in Marathi than in English: a line written for a sister, pasted by her brother, announces the wrong sender in its second word.\n\nNor does Marathi need to borrow: the Grindmill Songs Project transcribed more than 110,000 Maharashtrian folk songs over two decades, in the ovi couplet form sung by women at the grindmill. That is not a language short of domestic verse.\n\n## Pick the register first: तू, तुम्ही and आपण\n\n*Marathi in Context* sets out three levels of address: तू (familiar), तुम्ही (middle, and the form it calls most frequently used), and आपण (honorific) — the last \"expressing a greater degree of deference than तुम्ही\" and \"gradually falling out of use\".\n\nRegister also leaks through imperatives, where wishes live. The familiar imperative is the bare verb base — तू बस — and the respectful adds आ: तुम्ही बसा. A wish built on a command form has already picked a register.\n\nWhich to use with an elder sister is family habit, not grammar. Most households use तू to a ताई and keep तुम्ही for elders outside the family; some older families still give an elder sibling तुम्ही. Send what your family speaks — an unexpected तुम्ही to a sister you have argued with all your life reads as sarcasm.\n\nआपण does a second job in group messages: the grammar notes it is the same word as the inclusive \"we\". A 2025 paper in the *Proceedings of SALT 34* is devoted to how that inclusive आपण behaves differently from singular मी in reports of thought. Open a family greeting with आपल्या घरात and everyone reading it is included.\n\n## Seven Raksha Bandhan quotes in Marathi, with transliteration and meaning\n\nEach gives the Devanagari, a transliteration, the English meaning, and who it fits.\n\n### 1. For an elder sister, addressed respectfully\n\n**ताई, तुम्ही आहात म्हणून घर आहे. रक्षाबंधनाच्या हार्दिक शुभेच्छा!**\n*Tai, tumhi aahat mhanun ghar aahe. Rakshabandhanachya hardik shubhechha!*\n\"Tai, the house is a home because you are in it. Warm Raksha Bandhan wishes.\"\nFor a much older sister in a family that uses तुम्ही upward. आहात is the respectful form; आहेस makes it familiar.\n\n### 2. For an elder sister, in the familiar register\n\n**ताई, तू रागावतेस तेव्हाही माझ्या भल्याचंच सांगतेस. रक्षाबंधनाच्या शुभेच्छा!**\n*Tai, tu raagaavtes tevhaahi maajhya bhalyaachanch saangtes. Rakshabandhanachya shubhechha!*\n\"Tai, even when you are angry with me you only ever say what is good for me.\"\nThe ordinary case. Both verbs are second-person feminine singular, so it only works to a sister.\n\n### 3. For a younger sister\n\n**लहान आहेस म्हणून काय झालं, समजूतदार तूच आहेस ग. रक्षाबंधनाच्या खूप शुभेच्छा!**\n*Lahaan aahes mhanun kaay jhaalan, samjutdaar tuch aahes ga. Rakshabandhanachya khup shubhechha!*\n\"So what if you are the younger one — you are the sensible one.\"\nThe particle ग is the affectionate tag for a female listener; रे is its male counterpart (ordinary usage, not from the cited grammar). Using रे to a sister is the commonest tell that a line was copied.\n\n### 4. For a sister who has moved to her husband's home\n\n**तू सासरी गेल्यावर घर शांत झालं, आणि ती शांतता आवडत नाही. यंदा राखी पोस्टानं आली तरी चालेल, ताई — मी वाट पाहतो.**\n*Tu saasari gelyaavar ghar shaant jhaalan, aani ti shaantata aavadat naahi. Yanda raakhi postaanan aali tari chaalel, Tai — mi vaat paahato.*\n\"The house went quiet after you left for your in-laws', and I do not like the quiet. Even if the rakhi comes by post this year, that is fine, Tai — I will be waiting.\"\nBy a brother: पाहतो is the male-speaker form. A sister writes पाहते.\n\n### 5. For the family group, not one person\n\n**आपल्या घरात राखी म्हणजे नुसता धागा नाही, तर एकत्र बसण्याचं निमित्त आहे. सर्वांना रक्षाबंधनाच्या शुभेच्छा!**\n*Aaplya gharaat raakhi mhanje nusta dhaaga naahi, tar ekatra basanyaachan nimitta aahe. Sarvaanna rakshabandhanachya shubhechha!*\n\"In our house rakhi is not just a thread, it is an excuse to sit together. Wishes to everyone.\"\nThe collective greeting most lists never write; आपल्या is the inclusive possessive.\n\n### 6. For an Instagram caption\n\n**भांडायचा पहिला हक्क तिचाच.**\n*Bhaandaayacha pahila hakka tichaach.*\n\"The first right to pick a fight is hers.\"\nSix words, no verb agreement to get wrong, and it reads written rather than forwarded.\n\n### 7. A one-line status in the familiar imperative\n\n**राखी बांध, आणि मग भांडण चालू ठेव.**\n*Raakhi baandh, aani mag bhaandan chaalu thev.*\n\"Tie the rakhi, and then carry on with the fight.\"\nबांध and ठेव are bare bases — familiar imperative, wrong for an elder you address as तुम्ही, who needs बांधा and ठेवा.\n\n## Where each Marathi quote fits\n\nLength and script behave differently by channel.\n\n| Where it goes | Length that survives | Script to send | What our data shows |\n|---|---|---|---|\n| WhatsApp chat message | 1–2 lines, under 140 characters | Devanagari only | 51.9% of 32,683 views are on a phone |\n| WhatsApp or Instagram status | 6–8 words | Devanagari, one line | 52.1% of views come from a touch device |\n| A shared personalised page | 2–4 lines plus her name | Devanagari, with a gloss underneath | 99.4% of started pages get shared (2,701 of 2,718) |\n| A printed card | 2 lines, proofed in the print font | Devanagari only | 44.3% of creators lock the page instead |\n\nThe shorter the surface, the more the Devanagari carries alone.\n\n## What breaks Devanagari on a phone\n\nDevanagari conjuncts are not separate characters. रक्षाबंधन contains क्ष — क, the virama, then ष — and per the Unicode Consortium's Indic scripts FAQ, whether that shows as one ligature or a half-form plus full letter \"is the decision of an underlying software module called a display engine\", which \"bases this decision on the availability of glyphs in the font\".\n\nSo the same message can look right on your phone and wrong on your sister's, neither device broken. That is a font problem, not a typo.\n\nMarathi has one hazard Hindi does not: the eyelash ऱ, in everyday words such as दुसऱ्या. Microsoft's OpenType specification for Devanagari records that RA + halant + zero-width joiner \"is used for the encoded representation for 'eyelash RA' used for the Marathi language\" — a form a Hindi-built font may render as a plain र्य or an empty box.\n\nTwo checks take a minute. Send the line to yourself and open it in WhatsApp, not the keyboard preview. And if you are setting it in a design tool or card, use a font with full Devanagari coverage — the Unicode FAQ points to Google's Noto family.\n\n## Writing Marathi in Latin letters\n\nPlenty of people speak Marathi fluently and read only Latin script — anyone schooled in English, most cousins raised outside Maharashtra. For them Devanagari alone is a picture, not a message.\n\nSo pair them: the Devanagari first, the Roman transliteration under it, as the *Marathi in Context* lessons do with every sentence.\n\nUse plain typable Roman, not the academic scheme: scholarly transliteration writes नमस्ते as *nəməste* and माझं as *majhə:* — precise and unsendable, since nobody has ə on a phone keyboard. Keep Roman lines short; a long one makes a reader decode rather than feel.\n\n## When a Marathi quote is the wrong choice\n\nIf English or Hindi is what your family jokes in, a Marathi quote is a performance and reads like one. Language signals intimacy only when it matches the household.\n\nIf she is on an older handset showing boxes, stop fighting it — send a voice note or photograph the handwritten line. Marathi read aloud has no font dependency.\n\nAnd SubhSandesh is the wrong tool twice over. Our only rakhi template, the [Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother), is written brother-first, so a sister-directed page means adapting it or starting from a [different celebration template](https://subhsandesh.in/templates) — there is no sister-specific rakhi design today. And if she wants something in her hands, a link is not that; post the card.\n\n## Getting it right before you send\n\nGive yourself time: the median gap between a page's first save and its last edit on our most-used template is 6.9 hours across 913 pages. People come back and change the wording, and a second-language line is worth rereading before Shravan Purnima.\n\nOne caution before locking it — 44.3% of creators password-protect the page (1,205 of 2,718), and a separate password is one more step for someone not fluent with links. For an older sibling, leaving it open is kinder.\n\n## Sources\n\n- [Marathi in Context](https://www.lib.uchicago.edu/e/su/southasia/marathi/marathi-in-context.html), University of Chicago Digital South Asia Library — three levels of address, आपण \"gradually falling out of use\", and the speaker-gender forms मी जातो / जाते. No publication date printed.\n- Shweta Akolkar, [\"Interpreting the shifty first person inclusive pronoun in Marathi\"](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.031) — *Proceedings of SALT 34*, 11 March 2025.\n- [Indic Scripts and Languages FAQ](https://www.unicode.org/faq/indic.html), Unicode Consortium — conjunct encoding, display-engine dependence on font glyphs, Noto fonts.\n- [\"Developing OpenType Fonts for Devanagari Script\"](https://learn.microsoft.com/en-us/typography/script-development/devanagari), Microsoft — RA + halant + ZWJ for the Marathi eyelash RA.\n- [\"Grindmill Songs\"](https://scroll.in/magazine/833884/grindmill-songs-listen-to-the-worlds-largest-archive-of-folk-songs), Scroll.in — 110,000+ Maharashtrian folk songs transcribed over two decades by Hema Rairkar and Guy Poitevin, CCRSS Pune.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/raksha-bandhan-quotes-in-marathi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Marathi language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Marathi_language",
+              "https://www.wikidata.org/wiki/Q1571"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Honorifics (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Honorifics_(linguistics)",
+              "https://www.wikidata.org/wiki/Q5897044"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Marathi in Context",
+            "url": "https://www.lib.uchicago.edu/e/su/southasia/marathi/marathi-in-context.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Chicago, Digital South Asia Library"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Interpreting the shifty first person inclusive pronoun in Marathi",
+            "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.031",
+            "datePublished": "2025-03-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Proceedings of SALT 34, Linguistic Society of America"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Indic Scripts and Languages FAQ",
+            "url": "https://www.unicode.org/faq/indic.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Developing OpenType Fonts for Devanagari Script",
+            "url": "https://learn.microsoft.com/en-us/typography/script-development/devanagari",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Grindmill Songs: Listen to the world's largest archive of folk songs",
+            "url": "https://scroll.in/magazine/833884/grindmill-songs-listen-to-the-worlds-largest-archive-of-folk-songs",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Scroll.in"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Seven Raksha Bandhan quotes in Marathi, with transliteration and meaning",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "For an elder sister, addressed respectfully"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "For an elder sister, in the familiar register"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "For a younger sister"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "For a sister who has moved to her husband's home"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "For the family group, not one person"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "For an Instagram caption"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "A one-line status in the familiar imperative"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "raksha bandhan quotes in marathi",
+    "angle": "Wins by being the only post that treats Marathi as a language with decisions in it rather than a translation target — the तू / तुम्ही register choice and speaker-gender verb forms come before the words, and every line ships with transliteration, an English gloss, and the Unicode-documented script faults that break Devanagari on someone else's phone.",
+    "categorySlug": "family-and-continuity",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "51.9% of shared pages are opened on a phone (16,952 of 32,683 views) — measured 2026-08-18",
+      "32,683 recorded views of shared pages — measured 2026-08-18",
+      "2,718 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-18",
+      "52.1% of views are on a touch device (phone or tablet) — measured 2026-08-18",
+      "99.4% of started pages are actually published and shared (2,701 of 2,718) — measured 2026-08-18",
+      "44.3% of creators password-protect their page before sharing it (1,205 of 2,718) — measured 2026-08-18",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=913 — measured 2026-08-18"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lib.uchicago.edu/e/su/southasia/marathi/marathi-in-context.html",
+        "stat": "Three levels of address — तू (familiar), तुम्ही (middle, the most frequently used), आपण (honorific, \"expressing a greater degree of deference than तुम्ही\" and \"gradually falling out of use\", and the same word as the inclusive 'we'); speaker-gender present-tense forms मी जातो / मी जाते"
+      },
+      {
+        "url": "https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.031",
+        "stat": "Paper devoted to how the Marathi first-person inclusive pronoun आपण behaves differently from singular मी in attitude/thought reports",
+        "publishedDate": "2025-03-11"
+      },
+      {
+        "url": "https://www.unicode.org/faq/indic.html",
+        "stat": "Whether a Devanagari conjunct displays as a single ligature glyph or as a half-form plus full letter \"is the decision of an underlying software module called a display engine\", which \"bases this decision on the availability of glyphs in the font\"; points to Google's Noto fonts for Indic scripts"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/typography/script-development/devanagari",
+        "stat": "The sequence RA + halant + ZWJ \"is used for the encoded representation for 'eyelash RA' used for the Marathi language\""
+      },
+      {
+        "url": "https://scroll.in/magazine/833884/grindmill-songs-listen-to-the-worlds-largest-archive-of-folk-songs",
+        "stat": "More than 110,000 folk songs of Maharashtra transcribed over two decades; work begun by Hema Rairkar and Guy Poitevin, who co-founded the Centre for Cooperative Research in Social Sciences, Pune"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Sources list with publication dates, omitted where the source publishes none",
+          "why": "Only one of five sources carries a publication date (SALT 34, 11 March 2025). Marathi in Context, the Unicode Indic FAQ, the Microsoft OpenType spec and the Scroll.in feature print no date I could find, so four entries omit one — which the item permits, but it means a reader cannot judge how current the script-rendering guidance is. The Unicode and Microsoft pages are living specifications, so \"undated\" is closer to \"continuously updated\" than to \"old\"; that is a judgement the post asks the reader to take on trust."
+        }
+      ],
+      "honestAssessment": "The two ranking pages named in the brief (wishesframes, giboxonline) and the rest of the set are undifferentiated Marathi quote lists with no grammar, no script guidance and no citations. This post is the only one that makes the तू / तुम्ही choice explicit, warns that a copied line announces the wrong speaker's gender, and documents the two rendering faults — conjunct display and the Marathi eyelash ऱ — from Unicode and Microsoft's own specifications. Three real caveats. The seven Marathi lines are original compositions with no native-speaker review, which is the single thing most likely to embarrass this post; a phrase like \"समजूतदार तूच आहेस ग\" reads naturally to me but I am not a Marathi speaker and cannot certify idiom. The register guidance about what most households actually do is stated as observation, not sourced. And it overlaps the existing `raksha-bandhan-wishes-for-brother-in-marathi` post from the 2026-08-13 batch: this one is deliberately sister-, group- and caption-directed with the script and register material carrying it, but the two share a language and an occasion, so check them side by side before publishing both."
+    },
+    "generatedAt": "2026-08-19T02:30:00.000Z"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Raksha Bandhan Wishes With Name and Photo: What to Send, and How",
+    "slug": "raksha-bandhan-wishes-with-name-and-photo",
+    "excerpt": "Two ways to send a Raksha Bandhan wish with a name and photo: a rendered JPG or a shareable page. Compares steps, cost and what actually reaches the recipient, with SubhSandesh's own open data and the research on the name effect.",
+    "metaTitle": "Raksha Bandhan Wishes With Name and Photo — What Gets Opened",
+    "metaDescription": "Raksha Bandhan wishes with name and photo: a downloadable JPG or a shareable page. 51.9% of 32,683 SubhSandesh page views open on a phone. Compare both.",
+    "keywords": "raksha bandhan wishes with name and photo, rakhi wishes with name, raksha bandhan card with photo, personalised rakhi wish for brother, raksha bandhan wishes with name edit",
+    "canonicalURL": "https://subhsandesh.in/blog/raksha-bandhan-wishes-with-name-and-photo",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "rakhi",
+      "personalisation",
+      "greeting cards",
+      "siblings"
+    ],
+    "keyTakeaways": [
+      "A name-on-image JPG and a named shareable page are different products: the JPG renders inline in a group chat, while a link has to be tapped — and 51.9% of the 32,683 views SubhSandesh has recorded happen on a phone.",
+      "Adding the recipient's name measurably lifts response: 60% versus 52% questionnaire return in a 618-person randomised trial, and a 20% higher email open rate across Stanford's field experiments.",
+      "The name effect is small and not guaranteed — a 2024 replication with 100 caregivers found 78% versus 68%, with a confidence interval spanning -10.2% to 24.4%.",
+      "44.3% of the 2,718 people who built a SubhSandesh page password-protected it before sending, which a downloaded JPG cannot do.",
+      "Sharing is not opening: 2.8 million shared links produced 75 billion potential views but only 9.6 million clicks, which is why a group-chat wish still wants an image alongside the link."
+    ],
+    "faqs": [
+      {
+        "question": "How do I put my brother's name and photo on a Raksha Bandhan wish?",
+        "answer": "Two routes. A name-on-image generator takes the name in a form field and returns a finished JPG in three steps, with stock artwork and a fixed crop. A page builder saves the name, your own photo and a message as fields and gives you a private link, which is the only route that lets you use a real photo of the two of you at full size."
+      },
+      {
+        "question": "Is it free to make a Raksha Bandhan wish with a name and photo?",
+        "answer": "Yes, in both formats. Every name-on-image site that ranks for this search downloads for free, and building and sharing a SubhSandesh page costs nothing either. If a site asks for payment before it will remove a watermark, close the tab and use another one."
+      },
+      {
+        "question": "Will WhatsApp ruin the photo quality when I forward it?",
+        "answer": "It compresses anything sent as a photo, which softens text and fine rakhi detail. Sending the same file as a document preserves the original, though it then arrives as an attachment rather than an inline preview. A link avoids the problem entirely because the image is served from the page, not from the chat."
+      },
+      {
+        "question": "Should I send a picture or a link to my sister?",
+        "answer": "Send a picture if it has to land in a big family group, and a link if it is going to one person. A picture renders inline where a link needs a deliberate tap, and the scale of that gap is real: 2.8 million shared links in one Twitter study produced 75 billion potential views but only 9.6 million clicks."
+      },
+      {
+        "question": "Can I write the name in Hindi instead of English?",
+        "answer": "You can, but check it before you send. Devanagari matras sit above and below the line, so a name typed into a fixed image slot can clip at the top or bottom, and some generators drop the conjunct forms entirely. A page reflows the text instead of baking it into pixels, so it survives longer names."
+      },
+      {
+        "question": "How do I keep my sister's photo private if I make it online?",
+        "answer": "Use a format you can lock. 44.3% of the 2,718 people who built a SubhSandesh page set a password before sharing it, which means only the person with the phrase can open the photo. A downloaded JPG has no such control once it is in a group chat."
+      },
+      {
+        "question": "When is Raksha Bandhan in 2026?",
+        "answer": "Friday, 28 August 2026. If you are building a page rather than downloading an image, start the day before: the median gap between a SubhSandesh creator's first save and their last edit is 6.9 hours across 913 sampled pages, because people go back and change the wording."
+      },
+      {
+        "question": "What should I actually write next to the name?",
+        "answer": "Put the name first as a vocative, then one specific true thing, and never repeat the name. Stanford's field experiments got a 20% lift in email opens from a name on an otherwise unchanged message, which tells you the name opens the wish but does not write it."
+      },
+      {
+        "question": "What size should the image be for a WhatsApp status versus an Instagram story?",
+        "answer": "Both want a vertical 9:16 frame, so a square or horizontal design loses its edges when you post it. Keep the name and the faces inside the middle two-thirds of the frame, because the top and bottom strips are covered by the platform's own interface."
+      },
+      {
+        "question": "Does adding the name really make him more likely to read it?",
+        "answer": "Slightly, and the evidence is honest about how slightly. A 618-person randomised trial found 60% questionnaire return with a named text against 52% without, but a 2024 replication with 100 people found 78% against 68% with a confidence interval running from -10.2% to 24.4%. Worth doing, not decisive."
+      },
+      {
+        "question": "My brother opens everything on a laptop abroad. Does that change the format?",
+        "answer": "It favours a page. Roughly 48% of the 32,683 views SubhSandesh has recorded are not on a phone, so a page still renders properly on a desktop, whereas a 9:16 status image looks wrong there and expires in 24 hours regardless."
+      }
+    ],
+    "coverImageQuery": "brother sister rakhi phone screen",
+    "coverImagePrompt": "A close, warm photograph of an Indian sister's hands holding a phone, the screen showing a bright Raksha Bandhan greeting with a photo of two siblings. A thali with roli, rice and a red-gold rakhi sits softly out of focus in the foreground. Late-morning window light, shallow depth of field, generous negative space along the top edge for a title overlay, 16:9. No legible text on the screen except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Raksha Bandhan Wishes With Name and Photo: What to Send, and How\n\nA Raksha Bandhan wish with a name and photo comes in two shapes, and they are not interchangeable. One is a rendered JPG: you type your brother's or sister's name into a form, pick a rakhi design, and download an image you can forward. The other is a page — name, photo, message, and a private link you send.\n\nBoth are free and both take under ten minutes, so the choice is really about where the wish has to land. Of the 32,683 views SubhSandesh's shared pages have recorded, 51.9% (16,952) happen on a phone, and 44.3% of the 2,718 people who built one password-protected it before sending.\n\nA link works when there is one recipient who will actually tap it. A flat image works when the wish has to sit inside a forty-person family group. Below: both formats, the wording that goes next to the name, and the case where the JPG genuinely wins.\n\n## What a Raksha Bandhan wish with a name and photo actually is\n\nA Raksha Bandhan wish with a name and photo is a greeting in which the name and the photograph are part of the artefact itself, not typed into a chat box above it. Two formats dominate.\n\nThe first is a name-on-image generator: a design with a reserved text slot, into which a server renders the name and hands back a flat JPG or PNG. The second is a personalised page: a template that stores the name, photo and message as fields, publishes them at a private URL, and gives you a link.\n\nThe difference is larger than it sounds. An image is a finished file — it compresses, it forwards, and it can never change. A page is live: it reflows on a six-inch screen, it can carry music and animation, and it can be locked behind a password, which 44.3% of SubhSandesh creators do before sending anything.\n\n## Does putting their name on it actually change anything?\n\nYes, measurably, and less than most marketing copy implies. The largest field test on record comes out of Stanford's Graduate School of Business, where randomised experiments across millions of emails found that adding the recipient's name to the subject line raised the probability of opening it by 20%, lifted sales leads by 31% and cut unsubscribes by 17% ([Sahni, Wheeler and Chintagunta, Stanford GSB Research Paper 3409, 2016](https://ideas.repec.org/p/ecl/stabus/3409.html)).\n\nThe same effect shows up in clinical research. A randomised study inside the GRASP shoulder-pain trial sent 618 participants either a text message containing their own name or a standard one; 60% of the personalised group returned their first questionnaire against 52% of the standard group, an eight percentage-point gap ([Trials, 28 July 2021](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05452-w)).\n\nThere is a reason it is not a gimmick. An EEG study of 25 listeners found that a person's own name evokes a distinct frontocentral negativity 210 to 350 milliseconds after they hear it, and that a friend's name does not produce the same component ([Social Cognitive and Affective Neuroscience, 7 November 2023](https://doi.org/10.1093/scan/nsad066)).\n\nNow the inconvenient number. A 2024 replication with 100 caregivers recorded 78% response to the personalised message against 68% to the plain one, but the adjusted absolute risk difference of 7.1% ran from −10.2% to 24.4% ([Trials, 7 February 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10848401/)). The effect is real, small, and not guaranteed on any single message.\n\n## Five ways to send a named Raksha Bandhan wish with a photo\n\nOrdered by how much of the personalisation survives the trip to the recipient, least to most.\n\n### 1. A rendered name-on-image JPG\n\n**What it is:** a rakhi design with the name burned into a fixed slot, downloaded as one image file. **Who it suits:** family group chats, and anyone whose phone is short on data, because the file downloads once and renders inline.\n\n**Cost:** free on every generator that ranks for this search. **Time and the catch:** three steps — type the name, choose a design, download. The photo is usually stock artwork; where an upload is offered the crop is fixed, and a long Devanagari name can clip.\n\n### 2. A WhatsApp status with the name and photo\n\n**What it is:** the same rendered image, posted to your own status rather than sent to one person. **Who it suits:** wishing every cousin at once without messaging forty people individually.\n\n**Cost:** free. **Time and the catch:** four steps, and it expires after 24 hours. Status is a broadcast, so it reaches nobody in particular — the brother you actually meant it for may never open the tab.\n\n### 3. An Instagram story with a name sticker\n\n**What it is:** the photo posted as a story with the name typed over it as a text sticker, usually with a mention. **Who it suits:** siblings who already live on Instagram and will screenshot it.\n\n**Cost:** free. **Time and the catch:** four steps, a 24-hour lifespan, and a 9:16 crop that eats the edges of a horizontal childhood photo. A mention notifies them; a plain sticker does not.\n\n### 4. A named, photo-bearing page sent as a private link\n\n**What it is:** a template where name, photo, message and music are saved as fields and published at a URL only you share. **Who it suits:** one sibling, especially one in another city or country, where the wish is the whole event.\n\n**Cost:** free to build and share. **Time and the catch:** four steps to publish, but the median gap between a creator's first save and last edit is 6.9 hours across 913 sampled pages — people come back to fiddle. Start the day before, not on the morning of.\n\n### 5. The link plus a preview image — the hybrid\n\n**What it is:** the page, plus one rendered image sent above it as the hook. **Who it suits:** group chats where you want the wish seen and the page opened.\n\n**Cost:** free. **Time and the catch:** five steps, and the only format that survives both contexts. Nothing in the top results offers it: the image sites do not build pages, and the page builders do not export images.\n\nIf option four or five is what you want, the [Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother) carries the tilak, aarti and rakhi-tying scenes with your photo and his name.\n\n## Name-on-image JPG versus a named shareable page\n\nThe four viable formats, with what each actually costs the recipient.\n\n| Option | Steps to produce | Cost | What lands with them | Measured evidence |\n|---|---|---|---|---|\n| Name-on-image JPG | 3 | Free | One image file, forwardable forever | Mere presence of an image raises engagement, and a human face raises it further ([Li and Xie, 2019](https://doi.org/10.1177/0022243719881113)) |\n| WhatsApp status | 4 | Free | A post that disappears in 24 hours | 51.9% of 32,683 SubhSandesh views are on a phone, so the format fits — but nothing persists |\n| Named shareable page | 4 | Free | A private URL that stays live | 99.4% of 2,718 started pages get published, and 44.3% are password-protected first |\n| Link plus preview image | 5 | Free | Both an image and a page | 2.8 million shared links produced 75 billion potential views but 9.6 million clicks (Gabielkov et al., 2016) |\n\nThe takeaway is not that one format wins. The JPG buys guaranteed visibility, the page buys depth, and the last row is the only line that buys both.\n\n## What to write next to the name\n\nThe generators hand you an image and leave the hardest part to you. Four patterns that work, in rising order of effort.\n\nOpen with the name as a vocative, then say one true thing: *\"Rohan — nine years of you finishing my Maggi, and I'd still pick you.\"* Use the name once, at the front, where the [own-name response fires inside 350 milliseconds](https://doi.org/10.1093/scan/nsad066), and never again in the same message. A name repeated three times reads as a mail merge.\n\nSecond, anchor it to a date rather than the festival: *\"Since 2014, Ananya, you have been the only person who answers on the first ring.\"* Third, name the thing you are actually protecting them from — that is what the thread is for.\n\nFourth, if they are abroad, state the hour you will call. A wish carrying a specific time gets answered; one that says *\"miss you yaar\"* does not.\n\nThe rule underneath all four: the name is the hook, not the content. Stanford's 20% lift came from a name on an otherwise unchanged message — it opened the email, it did not write it.\n\n## When a flat image beats a link, and when we are the wrong choice\n\nA downloadable JPG beats a shareable page in three situations, and it is worth being blunt about them.\n\nThe first is the family group. An image renders inline in a forty-person chat; a link needs someone to choose to tap it.\n\nThe Twitter study above is the honest scale of that gap: 2.8 million shared links generated 75 billion potential views and 9.6 million actual clicks ([Gabielkov et al., ACM SIGMETRICS, June 2016](https://inria.hal.science/hal-01281190v1)). Sharing is not opening.\n\nThe second is a recipient on a feature phone, on patchy data, or behind a locked-down work laptop. Roughly 48% of SubhSandesh views are not on a phone, and a page that assumes a modern browser will look wrong on part of that. The third is proximity: if your sister is in the next room on 28 August 2026, hand her a rakhi and a printed photo.\n\nWe should also name our own gap. Of the 2,718 pages built on SubhSandesh since March 2026 across 13 page types, the top five are a romantic page (913), a digital bouquet (710), an apology dashboard (521), a dramatic partner page (311) and a miss-you page (109). Rakhi is not on that list, so we have no rakhi-specific open rate to quote and will not invent one.\n\nThe platform-wide numbers here describe how personalised pages behave in general, not how rakhi pages behave. To see the range before you decide, [browse all SubhSandesh templates](https://subhsandesh.in/templates) and pick the format that matches where the wish has to land.\n\n## Sources\n\n- Sahni, Wheeler and Chintagunta, *Personalization in Email Marketing*, Stanford GSB Paper 3409, 2016\n- PROMPTS, personalised versus standard text prompts, *Trials*, 28 July 2021\n- Personalised text prompts for telephone follow-up, *Trials*, 7 February 2024\n- *Specificity in the processing of a subject's own name*, *Social Cognitive and Affective Neuroscience*, 7 November 2023\n- Li and Xie, *Is a Picture Worth a Thousand Words?*, *Journal of Marketing Research*, 18 November 2019 (abstract only)\n- Gabielkov and others, *Social Clicks*, ACM SIGMETRICS, June 2016 (abstract only)\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/raksha-bandhan-wishes-with-name-and-photo#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Personalization",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Personalization",
+              "https://www.wikidata.org/wiki/Q1000371"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Greeting card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Greeting_card",
+              "https://www.wikidata.org/wiki/Q915196"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Personalization in Email Marketing: The Role of Non-informative Advertising Content (Stanford GSB Research Paper 3409)",
+            "url": "https://ideas.repec.org/p/ecl/stabus/3409.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Stanford University Graduate School of Business"
+            },
+            "datePublished": "2016"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Randomised study within a trial (SWAT) to evaluate personalised versus standard text message prompts for increasing trial participant response to postal questionnaires (PROMPTS)",
+            "url": "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05452-w",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trials (BMC)"
+            },
+            "datePublished": "2021-07-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Personalised versus standard text message prompts for increasing trial participant response to telephone follow-up: an embedded randomised controlled retention trial",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848401/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trials (BMC)"
+            },
+            "datePublished": "2024-02-07"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Specificity in the processing of a subject's own name",
+            "url": "https://doi.org/10.1093/scan/nsad066",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Social Cognitive and Affective Neuroscience (Oxford University Press)"
+            },
+            "datePublished": "2023-11-07"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Is a Picture Worth a Thousand Words? An Empirical Study of Image Content and Social Media Engagement",
+            "url": "https://doi.org/10.1177/0022243719881113",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Marketing Research (SAGE Publications)"
+            },
+            "datePublished": "2019-11-18"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Social Clicks: What and Who Gets Read on Twitter?",
+            "url": "https://inria.hal.science/hal-01281190v1",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ACM SIGMETRICS / IFIP Performance 2016"
+            },
+            "datePublished": "2016-06-14"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five ways to send a named Raksha Bandhan wish with a photo",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "A rendered name-on-image JPG",
+            "description": "Free. Three steps: type the name, choose a design, download. Suits family group chats and low-data phones, but the photo is usually stock artwork and the crop is fixed."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A WhatsApp status with the name and photo",
+            "description": "Free. Four steps, and it expires after 24 hours. Reaches every cousin at once, but as a broadcast it reaches nobody in particular."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "An Instagram story with a name sticker",
+            "description": "Free. Four steps, 24-hour lifespan, 9:16 crop that eats the edges of a horizontal photo. A mention notifies the sibling; a plain sticker does not."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A named, photo-bearing page sent as a private link",
+            "description": "Free to build and share. Four steps to publish, though the median gap between a creator's first save and last edit is 6.9 hours across 913 sampled pages."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "The link plus a preview image, the hybrid",
+            "description": "Free. Five steps, and the only format that survives both a group chat and a one-to-one send, because the image is seen and the page is opened."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "raksha bandhan wishes with name and photo",
+    "angle": "Wins by being the only post that treats \"name and photo\" as a format decision rather than a download — comparing a flat name-on-image JPG against a named, photo-bearing shareable page on measured behaviour (51.9% of SubhSandesh's 32,683 views open on a phone, 44.3% of 2,718 creators password-protect first) and naming the case where the JPG is genuinely the better artefact.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "2,718 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-18",
+      "32,683 recorded views of shared pages — measured 2026-08-18",
+      "51.9% of shared pages are opened on a phone (16,952 of 32,683 views) — measured 2026-08-18",
+      "44.3% of creators password-protect their page before sharing it (1,205 of 2,718) — measured 2026-08-18",
+      "99.4% of started pages are actually published and shared (2,701 of 2,718) — measured 2026-08-18",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=913 — measured 2026-08-18",
+      "#1 page type: \"I love you\" page (/love-gf) — 913 created, 33.6% of all pages — measured 2026-08-18",
+      "#2 page type: digital bouquet (/bouquet-gf) — 710 created, 26.1% of all pages — measured 2026-08-18",
+      "#3 page type: apology dashboard (/apology-dashboard) — 521 created, 19.2% of all pages — measured 2026-08-18",
+      "#4 page type: Darling romantic page (/darling) — 311 created, 11.4% of all pages — measured 2026-08-18",
+      "#5 page type: \"I miss you\" page (/missyou-gf) — 109 created, 4.0% of all pages — measured 2026-08-18"
+    ],
+    "sources": [
+      {
+        "url": "https://ideas.repec.org/p/ecl/stabus/3409.html",
+        "stat": "Randomised field experiments across millions of emails: adding the recipient's name to the subject line raised the probability of opening by 20%, increased sales leads 31% and reduced unsubscribes 17%",
+        "publishedDate": "2016"
+      },
+      {
+        "url": "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05452-w",
+        "stat": "PROMPTS SWAT, n=618: 60% of participants sent a text containing their own name returned the initial postal questionnaire versus 52% sent a standard text, an 8 percentage-point absolute difference",
+        "publishedDate": "2021-07-28"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848401/",
+        "stat": "n=100 caregivers: 78% response to the personalised text message versus 68% to the non-personalised one, adjusted absolute risk difference 7.1% (95% CI -10.2% to 24.4%)",
+        "publishedDate": "2024-02-07"
+      },
+      {
+        "url": "https://doi.org/10.1093/scan/nsad066",
+        "stat": "EEG passive-listening study, 25 subjects: a subject's own name consistently evoked a frontocentral own-name-related negativity within 210-350 ms that a friend's name did not evoke",
+        "publishedDate": "2023-11-07"
+      },
+      {
+        "url": "https://doi.org/10.1177/0022243719881113",
+        "stat": "Abstract only: a significant and robust positive mere-presence effect of image content on social media engagement, with high-quality pictures and the presence of a human face raising engagement further on Twitter",
+        "publishedDate": "2019-11-18"
+      },
+      {
+        "url": "https://inria.hal.science/hal-01281190v1",
+        "stat": "Abstract only: 2.8 million shares of news links on Twitter, responsible for 75 billion potential views, produced only 9.6 million actual clicks to 59,088 unique resources",
+        "publishedDate": "2016-06-14"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "6 outbound links are present, but only 4 pages were fetched directly (ideas.repec.org, trialsjournal.biomedcentral.com, pmc.ncbi.nlm.nih.gov via the NCBI efetch API, inria.hal.science). academic.oup.com and journals.sagepub.com both returned HTTP 403 to every fetch attempt, and the HAL PDF served a 12 KB challenge page instead of the paper. Those three claims were verified against Crossref, OpenAlex, Semantic Scholar and the HAL API records — which carry the verbatim abstracts and publication dates cited — but the article pages themselves were never rendered. To close this, re-fetch https://doi.org/10.1093/scan/nsad066, https://doi.org/10.1177/0022243719881113 and the Social Clicks PDF from a client the publishers do not block."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Unverifiable at write time. content/batches/2026-08-18-rakhi-2/blogs/ was empty when this post was drafted, so no sibling source list existed to count against. The six domains chosen (ideas.repec.org, trialsjournal.biomedcentral.com, pmc.ncbi.nlm.nih.gov, doi.org x2, inria.hal.science) are deliberately outside the usual festival-post pool and the post cites no PIB/TRAI/Census/MEA statistic and no Wikipedia page, which lowers the collision risk. Closing this needs a batch-level pass once all ten blogs exist."
+        }
+      ],
+      "honestAssessment": "The five ranking pages are name-on-image galleries with 353-1,993 words of thin template copy, no research, no comparison table and no FAQ markup; two still carry 2024 and 2025 in their headings. This post is the only one that answers the format question — JPG or link — with measured evidence on both sides, including the click-versus-share gap and SubhSandesh's own 51.9% phone-open and 44.3% password rates, and the only one that names where the flat JPG beats us. The real weakness is honest and structural: SubhSandesh has no rakhi-specific first-party data, because rakhi is not among the 13 page types' top five (913/710/521/311/109 of 2,718), so every platform number here is general rather than festival-specific. Domain authority against entrenched generators that own this query is also far lower, and no on-page work changes that.",
+      "generatedAt": "2026-08-18T15:31:03.777Z"
+    },
+    "generatedAt": "2026-08-18T15:31:03.778Z"
+  }
+}

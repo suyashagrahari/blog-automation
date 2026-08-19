@@ -1,0 +1,351 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Tie Rakhi Virtually on a Video Call, Step by Step",
+    "slug": "how-to-tie-rakhi-virtually-on-video-call",
+    "excerpt": "The video-call rakhi as a procedure, not an idea list: nine steps in order, a 22-minute timing table, who holds what when only one side has a thali, the IST offset maths for a sibling abroad, and what to do when the call drops mid-tie.",
+    "metaTitle": "How to Tie Rakhi Virtually on a Video Call — 9 Timed Steps",
+    "metaDescription": "How to tie rakhi virtually on a video call: 9 steps in order, a 22-minute timing table, camera framing, IST offset maths and what to do if the call drops.",
+    "keywords": "how to tie rakhi virtually on video call, virtual rakhi ceremony, tie rakhi on video call, long distance raksha bandhan ritual, rakhi video call steps, raksha bandhan 2026",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-tie-rakhi-virtually-on-video-call",
+    "ogType": "article",
+    "tags": [
+      "raksha-bandhan",
+      "rakhi",
+      "video-call",
+      "long-distance",
+      "family"
+    ],
+    "keyTakeaways": [
+      "A video-call rakhi runs about 22 minutes: 6 to set up and light the diya, 5 for tilak and aarti, 4 for the tie, 3 for the sweet and gift, 4 for the blessing and photo.",
+      "Name one sequence owner before the call. Face-to-face gaps between speakers average 135 ms against 487 ms over Zoom, so improvised turn-taking is what breaks the ritual.",
+      "Frame waist-up, landscape, at chest height. 51.9% of the 32,683 views on pages shared through SubhSandesh happen on a phone, so assume one-handed camera work at the far end.",
+      "If the call drops, whoever dropped redials and the interrupted step restarts from its beginning; nobody touches the thali in the meantime.",
+      "Video beats text for felt closeness and still loses to being there: in a study of 2,099 adults aged 65+, video contact showed no significant moderating effect on isolation or loneliness."
+    ],
+    "faqs": [
+      {
+        "question": "Can you actually tie a rakhi over a video call?",
+        "answer": "Yes. The ritual is performed on both sides at once: the sister does tilak and aarti to her sibling's face on screen, and the thread is tied either by someone in the room with him, by him on his own wrist, or to his printed photo at her end. Nothing in the sequence changes, only who touches the objects."
+      },
+      {
+        "question": "What is the correct order of steps for a virtual rakhi ceremony?",
+        "answer": "Diya, then thali shown to camera, then tilak, then akshat, then aarti, then the tie, then the sweet, then the gift, then the blessing said aloud. Budget about 22 minutes for the whole thing on a call, and name one person to call each step out."
+      },
+      {
+        "question": "Who ties the rakhi if my brother is alone at home?",
+        "answer": "He ties it himself while you watch, with the knot facing the camera. It is a normal arrangement for siblings abroad, and it is why the parcel should contain roli and rice as well as the thread."
+      },
+      {
+        "question": "Which wrist does the rakhi go on?",
+        "answer": "The right wrist. On a video call, ask him to hold that wrist toward the lens close enough to fill most of the frame so you can actually see the thread go round."
+      },
+      {
+        "question": "How long should a video-call rakhi ceremony take?",
+        "answer": "About 22 minutes end to end, split roughly as 6 minutes to set up and light the diya, 5 for tilak and aarti, 4 for the tie, 3 for the sweet and gift, and 4 to say the blessing and take the photo."
+      },
+      {
+        "question": "Is it okay to tie the rakhi on my brother's photo instead?",
+        "answer": "Families do this when the parcel has not arrived, and it is a recognised fallback rather than a compromise. Tie it to the printout on camera, keep the thread, and tie the real one on his wrist at the next visit."
+      },
+      {
+        "question": "What should I keep on the thali if the rakhi is at his end and mine is empty?",
+        "answer": "Keep a diya, roli, a few grains of rice and one sweet at your end anyway, so the aarti and tilak have something real behind them. Post a duplicate rakhi to yourself if you want a thread in your own hand during the call."
+      },
+      {
+        "question": "How do I schedule the call if my brother is in the US and the muhurat is in the morning IST?",
+        "answer": "IST is UTC+5:30, and New York and Toronto run 9 hours 30 minutes behind it, so an Indian morning slot lands in the middle of their night. Either the Indian side moves to a late-evening slot or the sibling abroad sets an early alarm; take the window itself from whoever in the family sets it."
+      },
+      {
+        "question": "What do I do if the call drops while I am doing the aarti?",
+        "answer": "Whoever dropped redials, and the other side waits without touching the thali. Restart the interrupted step from its beginning rather than resuming mid-gesture."
+      },
+      {
+        "question": "Where should I put the phone during the ceremony?",
+        "answer": "Propped at chest height in landscape, far enough back that a hand reaching toward the camera stays inside the frame. Head-and-shoulders framing hides the two things this ritual is made of, the thali and the wrist."
+      },
+      {
+        "question": "Should we record the video call?",
+        "answer": "Ask first, then record. The alternative that survives better is one photo of both wrists at the end plus a shared page you can both reopen; pages shared on SubhSandesh average 12.0 views each, which is more than a video file in a chat thread usually gets."
+      },
+      {
+        "question": "What if he has no rakhi at all on 28 August 2026?",
+        "answer": "Run the full ritual anyway with the photo tie, and send the wearable thread afterwards. Raksha Bandhan 2026 falls on Friday 28 August, so a parcel posted after the middle of the month is unlikely to be the version he wears on the day."
+      }
+    ],
+    "coverImageQuery": "rakhi thali phone video call wrist",
+    "coverImagePrompt": "A photorealistic close-up of an Indian woman's hands holding a rakhi thali with a lit diya beside a phone propped at chest height, the screen showing her brother extending his right wrist toward his own camera. Warm evening light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Tie Rakhi Virtually on a Video Call, Step by Step\n\nYou can tie a rakhi on a video call, and what decides whether it lands as a ritual rather than a phone call is sequence ownership: one household runs the thali, the other holds a wrist to the lens, and every step is named out loud because a camera drops the cues a shared room carries for free. Raksha Bandhan falls on Friday 28 August 2026, and the call wants roughly 22 minutes, not five. Of the 32,683 recorded views on pages shared through SubhSandesh, 51.9% were opened on a phone — so assume the far side is holding a handset in one hand while a rakhi goes onto the other wrist, and frame for that.\n\nBelow: the nine-step order, a minute-by-minute table, the four ways to split the ritual when only one side has a thali, the offset arithmetic for a sibling abroad, and the drop protocol.\n\n## What tying rakhi virtually on a video call actually means\n\nA virtual rakhi tie is the same ritual with the thread and the wrist in two different rooms: the sister performs tilak and aarti to her sibling's face on screen, and the rakhi is then tied in one of three ways — by someone physically present with him, by him on his own wrist while she watches, or to a printed photo at her end.\n\nThe three arrangements all keep the same 5 objects — rakhi, roli, akshat, diya, sweet — and the same order. What changes is who may touch them, and that is agreed before the call connects, not negotiated on it.\n\n## The nine-step order for a video-call rakhi, timed to 22 minutes\n\nThe timing assumes one thali, two households and one phone on each side.\n\n| Minute | Step | Who acts | What has to be in frame |\n|---|---|---|---|\n| 0–6 | Connect, prop the phones, confirm who ties, light the diya | Both | Faces waist-up, then the thali |\n| 6–11 | Tilak, akshat, aarti | Sister | Her hands and his face |\n| 11–15 | The tie | Whoever is with him | His right wrist and the hands tying |\n| 15–18 | Sweet, then the gift or the shagun | Both | Faces |\n| 18–22 | Photo, blessing said aloud, close | Both | Both wrists |\n\nTwenty-two minutes is the whole ritual with no rush in it.\n\n### 1. Lock the slot and name the sequence owner\n\nDo this 48 hours ahead, in writing. Pick the exact minute the call starts and name one sequence owner — the person who says \"tilak now\", \"tie now\". Two people improvising over a laggy connection is how the tie happens while nobody is looking at it.\n\n### 2. Set both frames before anyone dresses up\n\nProp each phone at chest height, landscape, and check a hand reaching forward stays in frame. Waist-up beats head-and-shoulders, because every object here travels between a plate and a wrist.\n\n### 3. Light the diya on camera, not before\n\nThe lamp marks the start, so the far side should watch it being lit rather than arrive to one already burning. Hold the thali to the lens for a few seconds afterwards — rakhi, roli, rice, sweet — so he can see what is about to be used on him.\n\n### 4. Tilak: she mimes it, the far side applies it\n\nThe sister dips her finger and moves it toward the screen; whoever is with him applies the tilak at the same moment, or he applies it himself if nobody is there. Say \"now\" out loud. The gesture and the touch will not land in the same instant, and that is fine.\n\n### 5. Akshat and aarti, deliberately slow\n\nPress a few grains of rice onto the tilak, then circle the lit diya three times in front of the screen, at roughly half your usual speed. Fast circular motion is what video compression smears into a blur, and the aarti is the one step whose meaning is entirely the movement.\n\n### 6. The tie, with one wrist filling the frame\n\nThe brother extends his right wrist toward the camera, close enough to fill most of the frame, and holds still. The person tying works inside that frame. If he is alone, he ties it himself with the knot facing the lens.\n\n### 7. The sweet, on a shared count\n\nBoth sides hold a sweet up, count to three aloud, and eat together. This is the only genuinely simultaneous step over a call, so protect it — do not let it become \"you eat, I'll watch\".\n\n### 8. The gift, the shagun, and something that survives the call\n\nThe brother gives his gift now. If it is money, send it during the call, so the transfer sits inside the ritual rather than beside it. If there is nothing physical to hand over, an [animated Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother) opens on the same phone he is already holding.\n\n### 9. Say the blessing aloud, then close\n\nScreenshots are silent. Say the promise and the blessing in words, both directions, before anyone reaches for the end-call button. Then photograph both wrists — hers with the thread she kept, his with the one now tied.\n\n## Only one side has a thali: four ways to split the ritual\n\nMost long-distance ties fall into one of four arrangements. Pick one before the call.\n\n| Arrangement | Who ties the thread | Call minutes needed | SubhSandesh data point |\n|---|---|---|---|\n| Rakhi posted ahead, family member ties it | A parent, bhabhi or friend with him | 22 | 99.4% of pages started on our site get published and shared (2,701 of 2,718) |\n| Rakhi posted ahead, he ties it himself | The brother, on camera | 18 | 51.9% of all page opens happen on a phone (16,952 of 32,683) |\n| No rakhi arrived; tied to his photo at her end | The sister, to a printout | 15 | 2,718 pages created since 12 March 2026 across 13 page types |\n| Thread kept for a later visit; call carries the ritual | Nobody, yet | 12 | Pages average 12.0 views each, so the record gets reopened |\n\nThe takeaway: only the first two put a thread on a wrist on the day, and both depend on something posted a fortnight earlier.\n\n## What to post ahead, and how to fit the call into the muhurat from abroad\n\nPost the rakhi, a sachet of roli, a pinch of rice and a sweet that survives transit — the thread alone leaves the far side with nothing to perform the rest with. Take the transit time your courier quotes, count backwards from 28 August 2026 and add a week of slack; a parcel arriving on the 29th missed.\n\nThen do the offset arithmetic, because the family's muhurat window is set in Indian Standard Time, and IST sits at UTC+5:30. Dubai runs 1 hour 30 minutes behind IST, London 4 hours 30 minutes behind, New York and Toronto 9 hours 30 minutes behind, Sydney 4 hours 30 minutes ahead.\n\nA morning window in India is the small hours in North America, so either the Indian side takes a late-evening slot or the sibling abroad wakes early. Take the window from whoever in your family sets it; this page will not invent a muhurat time.\n\n## Camera placement: the tie is invisible unless a wrist and two hands share the frame\n\nVideo is measurably better than text for this and measurably worse than being there. In a study of 58 young women in close-friend pairs, each holding four five-minute conversations, [self-reported bonding was significantly higher over video chat than over instant messaging](https://cyberpsychology.eu/article/view/4285) (Sherman, Michikyan and Greenfield, 2013), and higher still in person.\n\nSo spend the frame on what the ritual needs: the wrist during step 6, faces during the sweet and the blessing.\n\nResearch on worship moved onto Zoom found participants leaning on [explicit digital signals such as the chat box and emoji to communicate affective moments](https://journal.fi/ar/article/view/107728) the sensory environment would otherwise have carried (Addo, 2021, *Approaching Religion*). The offline equivalent: name each step out loud as you do it.\n\n## What to do when the call drops mid-ritual\n\nAgree the rule before you start: whoever dropped redials, the other side waits and touches nothing on the thali. Resume from the start of the interrupted step, not from the freeze — a half-applied tilak is worse to watch than a repeated one.\n\nExpect the conversation to feel slightly off even when the connection holds. Measured face-to-face, gaps between speakers averaged 135 milliseconds; [the same pairs over Zoom averaged 487 milliseconds](https://doi.org/10.1037/xge0001150) (Boland et al., 2021, *Journal of Experimental Psychology: General*). That is why \"you go\" — \"no, you go\" happens so often on a ritual call, and why one named sequence owner fixes more than a better camera does.\n\n## When a video-call rakhi is the wrong choice\n\nIf your brother is on a low-signal connection, a 22-minute video call is the wrong instrument — run the ritual on a voice call and send the visual part as a link he opens later. Around 44.3% of people who make a page on SubhSandesh password-protect it before sharing (1,205 of 2,718), worth knowing if that link will sit in a family group.\n\nAnd the honest limit: video is not a substitute for presence. In a study of 2,099 adults aged 65 and over, [video contact showed no significant moderating effect on isolation or loneliness](https://academic.oup.com/gerontologist/article/60/7/1202/5829890), and the authors concluded that no form of technology-mediated communication has emotional equivalence to embodied presence (Burholt, Windle, Gott and Morgan, 2020, *The Gerontologist*).\n\nIf you can be in the room this year, be in the room. If a call and something from the [SubhSandesh template gallery](https://subhsandesh.in/templates) is what is available, use it knowing it is second best — and say so on the call.\n\n## Sources\n\n- Sherman, L. E., Michikyan, M., & Greenfield, P. M. (2013). [The effects of text, audio, video, and in-person communication on bonding between friends](https://cyberpsychology.eu/article/view/4285). *Cyberpsychology*, 7(2), Article 3.\n- Boland, J. E., Fonseca, P., Mermelstein, I., & Williamson, M. (2021, 8 November). [Zoom disrupts the rhythm of conversation](https://doi.org/10.1037/xge0001150). *Journal of Experimental Psychology: General* (abstract consulted).\n- Addo, G. (2021, November). [Join the Holy Spirit on Zoom](https://journal.fi/ar/article/view/107728). *Approaching Religion*, 11(2) (abstract consulted).\n- Burholt, V., Windle, G., Gott, M., & Morgan, D. J. (2020, 5 May). [Technology-mediated communication in familial relationships](https://academic.oup.com/gerontologist/article/60/7/1202/5829890). *The Gerontologist*.\n- Raksha Bandhan date checked against the [Georgia Tech campus calendar](https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan) entry for Friday 28 August 2026 (no publication date given).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-tie-rakhi-virtually-on-video-call#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Videotelephony",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Videotelephony",
+              "https://www.wikidata.org/wiki/Q854954"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Indian Standard Time",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_Standard_Time",
+              "https://www.wikidata.org/wiki/Q604055"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tilaka",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tilaka",
+              "https://www.wikidata.org/wiki/Q1572426"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arti (Hinduism)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arti_(Hinduism)",
+              "https://www.wikidata.org/wiki/Q16154326"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Sherman, Michikyan & Greenfield, 'The effects of text, audio, video, and in-person communication on bonding between friends', Cyberpsychology 7(2), Article 3",
+            "url": "https://cyberpsychology.eu/article/view/4285",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Masaryk University (Cyberpsychology: Journal of Psychosocial Research on Cyberspace)"
+            },
+            "datePublished": "2013-08-31"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Boland, Fonseca, Mermelstein & Williamson, 'Zoom disrupts the rhythm of conversation', Journal of Experimental Psychology: General",
+            "url": "https://doi.org/10.1037/xge0001150",
+            "publisher": {
+              "@type": "Organization",
+              "name": "American Psychological Association"
+            },
+            "datePublished": "2021-11-08"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Addo, 'Join the Holy Spirit on Zoom: African Pentecostal churches and their liturgical practices during COVID-19', Approaching Religion 11(2)",
+            "url": "https://journal.fi/ar/article/view/107728",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Donner Institute"
+            },
+            "datePublished": "2021-11-30"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Burholt, Windle, Gott & Morgan, 'Technology-Mediated Communication in Familial Relationships: Moderated-Mediation Models of Isolation and Loneliness', The Gerontologist",
+            "url": "https://academic.oup.com/gerontologist/article/60/7/1202/5829890",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Oxford University Press / The Gerontological Society of America"
+            },
+            "datePublished": "2020-05-05"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Georgia Tech campus calendar entry for Raksha Bandhan",
+            "url": "https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Georgia Institute of Technology"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The nine-step order for a video-call rakhi",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 9,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Lock the slot and name the sequence owner",
+            "description": "Fix the exact start minute 48 hours ahead, in writing, and name one person who calls each step."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Set both frames before anyone dresses up",
+            "description": "Phone at chest height, landscape, a forward-reaching hand still inside the frame."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Light the diya on camera, not before",
+            "description": "The far side watches the lamp being lit, then sees the thali held to the lens."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tilak: she mimes it, the far side applies it",
+            "description": "She mimes the tilak at the screen; whoever is with him applies it on the word 'now'."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Akshat and aarti, deliberately slow",
+            "description": "Rice onto the tilak, then three slow circles of the diya at half normal speed."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "The tie, with one wrist filling the frame",
+            "description": "His right wrist fills the frame and holds still while the thread goes on."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "The sweet, on a shared count",
+            "description": "Both sides hold a sweet, count to three aloud and eat together."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "The gift, the shagun, and something that survives the call",
+            "description": "Gift or shagun sent during the call, not before, so it sits inside the ritual."
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Say the blessing aloud, then close",
+            "description": "The promise and blessing said in words, then one photo of both wrists."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to tie rakhi virtually on video call",
+    "angle": "Wins by being the only post that gives the video-call rakhi as a timed, frame-by-frame procedure — step ownership, camera framing, a 22-minute timing table, the drop protocol and the IST offset maths — where all six ranking pages give ideas and none gives a single table, grounded in 32,683 recorded views across 2,718 SubhSandesh pages of which 51.9% were opened on a phone.",
+    "categorySlug": "family-and-continuity",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "32,683 recorded views of shared pages — measured 2026-08-18",
+      "51.9% of shared pages are opened on a phone (16,952 of 32,683 views) — measured 2026-08-18",
+      "2,718 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-18",
+      "99.4% of started pages are actually published and shared (2,701 of 2,718) — measured 2026-08-18",
+      "44.3% of creators password-protect their page before sharing it (1,205 of 2,718) — measured 2026-08-18",
+      "Average views per created page: 12.0 — measured 2026-08-18"
+    ],
+    "sources": [
+      {
+        "url": "https://cyberpsychology.eu/article/view/4285",
+        "stat": "58 young women in close-friend pairs held four 5-minute conversations each (in person, video chat, audio chat, IM). Self-reported bonding was significantly greater in person than over video chat, audio chat or IM, and significantly greater over video chat than over IM (t = 2.31, p = .022). Full text read 2026-08-18; licence CC BY-NC-ND 4.0, so cited and linked only, nothing reproduced.",
+        "publishedDate": "2013-08-31"
+      },
+      {
+        "url": "https://doi.org/10.1037/xge0001150",
+        "stat": "Face-to-face turn transition times averaged 135 ms; the same dyads over Zoom averaged 487 ms. In the Q&A experiment local responses averaged 297 ms against 976 ms remote, 'far greater than the estimated 30-70 ms of audio transmission delay'. ABSTRACT ONLY — the APA full text is paywalled; abstract retrieved 2026-08-18 via the Semantic Scholar Graph API for DOI 10.1037/xge0001150.",
+        "publishedDate": "2021-11-08"
+      },
+      {
+        "url": "https://journal.fi/ar/article/view/107728",
+        "stat": "Open-access study of worship moved onto Zoom: 'digital affordances such as the chat box and emojis are used by believers to communicate affective moments arising from the sensory experience of worship', and 'the internet connection, the phone and computers and screens are all re-appropriated as spiritual tools'. ABSTRACT ONLY — journal.fi sits behind an Anubis proof-of-work gate that blocks automated fetching, so the abstract was verified verbatim 2026-08-18 via the DOAJ article API for DOI 10.30664/ar.107728.",
+        "publishedDate": "2021-11-30"
+      },
+      {
+        "url": "https://academic.oup.com/gerontologist/article/60/7/1202/5829890",
+        "stat": "CFAS Wales Wave 2, n = 2,099 adults aged 65+. 'Video calls had no significant moderation effect' (95% CI [-.15, .10] for isolation), and 'none of the forms of technological communication have emotional equivalence to the \"gold standard\" of embodied presence'. The Gerontologist 60(7), 1202-1212, CC BY 4.0. Full text read 2026-08-18 on the PMC mirror of the same CC BY article (pmc.ncbi.nlm.nih.gov/articles/PMC8059137/); the citation links the publisher version because two sibling posts in this batch already cite pmc.ncbi.nlm.nih.gov and the batch brief caps a domain at two posts. academic.oup.com returns HTTP 403 to automated fetches, so the publisher page itself was not read.",
+        "publishedDate": "2020-05-05"
+      },
+      {
+        "url": "https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan",
+        "stat": "Date fact-check, not a research citation. Verified string: 'Raksha Bandhan Friday August 28, 2026'. The page publishes no date, so publishedDate is omitted."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Three of the five link targets were verified without fetching the linked page itself. journal.fi/ar/article/view/107728 sits behind an Anubis proof-of-work gate that blocks automated fetching, so Addo's claim was verified verbatim from the DOAJ article API record for DOI 10.30664/ar.107728. The Boland claim comes from the APA-paywalled abstract retrieved through the Semantic Scholar Graph API, and nothing beyond the abstract is asserted. The Burholt claim was read in full, but on the PMC mirror (PMC8059137) of the same CC BY article rather than at the academic.oup.com URL cited, which returns HTTP 403 to automated fetches; the publisher URL was chosen because two sibling posts in this batch already cite pmc.ncbi.nlm.nih.gov and the batch brief caps a domain at two posts. Cyberpsychology and the Georgia Tech calendar page were fetched and read directly. Closing this needs a human browser session on journal.fi and academic.oup.com, plus institutional access to the APA full text."
+        }
+      ],
+      "honestAssessment": "Every one of the six ranking pages is an ideas list or a generic tie-the-thread explainer, and not one of them contains a table, a time budget, a rule for who performs which step when only one household has a thali, or anything to do with a dropped call — so an answer engine asked \"how do you actually tie a rakhi on a video call\" has nothing to lift today except a paragraph of ambience. This page answers that with a minute-by-minute table, nine ownership-assigned steps and the IST offsets, and the 135 ms versus 487 ms turn-timing finding gives the sequence-owner rule a real reason rather than a preference. Two caveats worth stating plainly: none of the first-party numbers is rakhi-specific — rakhi is not among the 13 page types with volume, so they describe how any shared SubhSandesh page behaves and are used only for that — and the Sherman and Burholt findings, while about video calling specifically, are close enough to general mediated-contact research that a sibling post could plausibly want them. Two sibling files existed by the time this was checked and share no URL with it; the Gerontologist citation was moved off pmc.ncbi.nlm.nih.gov to the publisher URL because both siblings already cite PMC and the batch brief caps a domain at two posts, and the four sources used by the 2026-08-13 sibling post are all avoided. Seven siblings were still unwritten, so a later collision on doi.org (already at two) cannot be ruled out from here. Domain authority here is far below igp.com and rakhibazaar.com; this is a months-long play, not a weeks-long one, and no ranking outcome is being predicted."
+    },
+    "generatedAt": "2026-08-18T15:35:36.079Z"
+  }
+}

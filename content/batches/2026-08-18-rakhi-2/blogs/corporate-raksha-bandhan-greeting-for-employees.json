@@ -1,0 +1,311 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Corporate Raksha Bandhan Greeting for Employees: What to Send",
+    "slug": "corporate-raksha-bandhan-greeting-for-employees",
+    "excerpt": "A corporate Raksha Bandhan greeting should come from the company to the person, not about their siblings. Four employer-framed wordings, how to word it for a mixed workforce, whether your logo belongs on it, and when to send nothing.",
+    "metaTitle": "Corporate Raksha Bandhan Greeting for Employees — What to Send",
+    "metaDescription": "Corporate Raksha Bandhan greetings fail when they wish employees' siblings well. Four employer-framed wordings, the inclusion and logo calls, and 4 channels compared.",
+    "keywords": "corporate raksha bandhan greeting for employees, raksha bandhan business wishes with company logo, raksha bandhan message for employees, workplace raksha bandhan greeting, inclusive festival greeting at work",
+    "canonicalURL": "https://subhsandesh.in/blog/corporate-raksha-bandhan-greeting-for-employees",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "workplace",
+      "internal communications",
+      "hr",
+      "festive greetings"
+    ],
+    "keyTakeaways": [
+      "Write from the company to the employee, never about their siblings — the sibling-framed wording the SERP publishes assumes every recipient has one.",
+      "Send it to everyone, not the top performers: a thank-you card given to a whole group raised performance 5.2%, while selective cards lifted recipients only 3.3%.",
+      "82% of Indian adults say they are currently Hindu, so on a 200-person roster roughly 36 people are not — name the festival, but write \"to everyone celebrating\".",
+      "Keep the logo small and in the signature; a president-signed symbolic card raised performance about 12 percent, and the signature carried it, not the branding.",
+      "Assume a phone: 51.9% of shared SubhSandesh pages are opened on mobile (16,952 of 32,683 views, measured 18 August 2026)."
+    ],
+    "faqs": [
+      {
+        "question": "What should a corporate Raksha Bandhan message to employees actually say?",
+        "answer": "Write it from the company to the person: mark the festival, thank the employee for their work, and stop. Avoid \"you and your siblings\" — it comments on the recipient's family and assumes they have one. Two or three sentences is enough for a staff-wide note."
+      },
+      {
+        "question": "When is Raksha Bandhan 2026, and when should the greeting go out?",
+        "answer": "Raksha Bandhan 2026 falls on Friday 28 August. Send a staff-wide greeting the evening before rather than mid-morning on the day, so it is waiting when people pick up their phones instead of arriving while they are already celebrating."
+      },
+      {
+        "question": "Is it appropriate for a company to send rakhi wishes at all?",
+        "answer": "Usually yes, if it is framed as an employer marking a festival rather than a sibling wishing a sibling. It is the wrong call in a week when layoffs or delayed salaries have been announced, and in a workforce where you would not extend the same courtesy to Eid, Christmas and Gurpurab."
+      },
+      {
+        "question": "How do I word a Raksha Bandhan greeting for non-Hindu employees?",
+        "answer": "Name the festival rather than hiding it behind \"the occasion\", and write \"to everyone celebrating\" instead of \"to all of you celebrating\". A systematic review of 53 studies on religious identity at work endorses respectful pluralism — a climate that is value-expressing rather than value-free — so stripping the festival out is not the safer option."
+      },
+      {
+        "question": "Should our company logo be on the greeting?",
+        "answer": "Small, in the signature. A logo locked up with rakhi artwork as the visual centre reads as an advertisement wearing a festival as a costume. In one field experiment a purely symbolic card signed by the organisation's president raised performance about 12 percent — the signature carried the effect, not the branding."
+      },
+      {
+        "question": "Should the greeting go to everyone or only to top performers?",
+        "answer": "Everyone. In a field experiment, a thank-you card given to all members of a group raised subsequent performance 5.2%; when only the best three of eight received one, recipients rose just 3.3% and the gain came mostly from non-recipients. Selective praise reads as a ranking, and a festival greeting is the wrong vehicle for one."
+      },
+      {
+        "question": "Email, Slack or a shareable link — which works best for a staff greeting?",
+        "answer": "A link is the only format that reaches desk, shift and remote staff alike, and the only one that can look made rather than sent. Email reaches everyone with a work address but caps personalisation at a first name; a Slack or Teams announcement takes five minutes and gives you no read receipt."
+      },
+      {
+        "question": "How do I personalise 200 greetings without it looking like a mail merge?",
+        "answer": "Don't individualise — segment. Write three or four versions, one per office, function or shift pattern, and have each sent by someone that group actually reports to. A visible \"Dear {{first_name}}\" seam reads worse than an unnamed message."
+      },
+      {
+        "question": "Should a corporate greeting page be password-protected?",
+        "answer": "No. 44.3% of SubhSandesh creators password-protect a page before sharing it, which is right for a private message to one person and wrong for a staff greeting — that should open in one tap, with no credential to distribute to hundreds of people."
+      },
+      {
+        "question": "Can I use SubhSandesh for a company-wide greeting?",
+        "answer": "It fits a founder writing to a small team or a manager writing to one colleague. None of the 13 page types is a corporate template — the rakhi page is addressed to a brother — so for a 5,000-person announcement plain internal email is the better instrument."
+      },
+      {
+        "question": "What should we avoid saying in a workplace Raksha Bandhan message?",
+        "answer": "Drop \"we are one big family\", any instruction to celebrate, and anything about the recipient's own siblings. Also drop mandatory participation — no compulsory rakhi-tying, photo submission or team game — because optional in tone is not the same as optional in fact."
+      },
+      {
+        "question": "Does a festival greeting actually affect how employees feel about work?",
+        "answer": "Symbolic recognition has measurable effects: an unannounced thank-you card raised performance 5.2% when everyone received one, and a president-signed card about 12 percent in another experiment. Neither study is about festivals, so treat the greeting as goodwill rather than a performance lever."
+      }
+    ],
+    "coverImageQuery": "diverse office team celebrating indian festival",
+    "coverImagePrompt": "A warm, photorealistic wide shot of a small, visibly mixed Indian office team standing around a desk, one person holding a phone showing a festive greeting page. Late-afternoon window light, muted corporate palette with one thread of festive red, shallow depth of field. Clean negative space across the top third for a title overlay, 16:9. No text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Corporate Raksha Bandhan Greeting for Employees: What to Send\n\nA corporate Raksha Bandhan greeting for employees should be written from the company to the person, not about the person's siblings. That one change fixes most of what goes wrong — it marks the festival, thanks the employee for their work, and assumes nothing about who they tie a rakhi with or whether they observe it at all. Send it somewhere it opens cleanly on a phone: 51.9% of shared SubhSandesh pages are opened on a mobile (16,952 of 32,683 views, measured 18 August 2026). Give yourself two days to write it, because the median gap between a creator's first save and their last edit on SubhSandesh is 6.9 hours — almost nobody gets a message like this right in one sitting. Below are four employer-framed wordings, how to word the greeting for a workforce that is not all Hindu, whether your logo belongs on it, the channel decision, and the cases where sending nothing is the better call.\n\n## What a corporate Raksha Bandhan greeting is, and what it is not\n\nA corporate Raksha Bandhan greeting is a message sent by an organisation to its staff on the day of Raksha Bandhan — Friday 28 August 2026 — acknowledging the festival and the people who observe it. It is not a rakhi wish: a rakhi wish is addressed to a sibling, and an employer is not one.\n\nThat distinction is where most published \"corporate wishes\" collapse. Lines like \"warm greetings to you and your loving sibling\" are sibling wishes with a corporate label. Sent to 400 people, they comment on the recipient's family and assume every recipient has one.\n\nThe greeting has one job: to show the organisation noticed a day that matters to a lot of its people. Anything more belongs in a different message.\n\n## Four wordings that work when the employer is the sender\n\nEach wording below: what it says, who it suits, where to send it, what to leave out.\n\n### 1. The observance note\n\nWhat it says: the festival is today, the company is aware, and anyone celebrating is wished a good one. Two sentences, no metaphor. Who it suits: any organisation over roughly 50 people, and any first attempt. Where to send it: a company-wide email or one Slack or Teams announcement, the evening before rather than mid-morning on the day. What to leave out: \"family\", \"you and your siblings\", and any instruction to celebrate.\n\n### 2. The appreciation note\n\nWhat it says: thank you for a specific stretch of work, with the festival as the occasion rather than the subject. Who it suits: teams that closed something recently — a release, an audit, a quarter. Where to send it: from a named manager to their own team, not a shared HR address. What to leave out: a company-wide version. In a field experiment on unannounced recognition, a thank-you card sent to only the best three of eight workers produced a gain coming mostly from those who *didn't* get one — their output rose more than 10%, recipients' 3.3% ([Bradler et al., IZA Discussion Paper 8311, July 2014](https://docs.iza.org/dp8311.pdf)). Selective praise is read as a ranking, and a festival greeting is the wrong vehicle for it.\n\n### 3. The colleague-bond note\n\nWhat it says: it borrows the festival's idea of protection and applies it to how the team covers for each other, without claiming anyone is anyone's brother or sister. Who it suits: small teams and founders who can write in their own voice. Where to send it: the team channel, signed by a person. What to leave out: \"we are one big family\" — the sentence every employee has learned to distrust. In the same study, a thank-you card given to *everyone* in a group raised subsequent performance 5.2%, which is the pattern a staff-wide greeting should follow: universal, not ranked.\n\n### 4. The logistics note\n\nWhat it says: the practical facts — Raksha Bandhan 2026 falls on a Friday, who can leave early, how to book the day. Who it suits: organisations with shift work or a large in-office population. Where to send it: wherever your rota lives, plus the notice board. What to leave out: the festive artwork; this is an operations message and reads better plain.\n\nFor a page rather than a paragraph, the [Raksha Bandhan greeting page template](https://subhsandesh.in/happy-rakshabandhan-to-brother) supplies the artwork and a shareable link, and the wordings above drop into it.\n\n## How to word it when your workforce is not all Hindu\n\nRaksha Bandhan is a Hindu festival; a staff list is not a Hindu staff list. Pew Research Center's survey of 29,999 Indian adults found 82% say they are currently Hindu — so on a 200-person roster roughly 36 people are not, before counting Hindus who don't observe this festival ([Religion in India: Tolerance and Segregation, 29 June 2021](https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/)).\n\nThe instinct is to strip the festival out and send something bland about \"the festive season\". The research points the other way. A systematic review of 53 studies on religious identity at work recommends supporting religious expression while maintaining a broader climate of inclusion, endorsing *respectful pluralism* — a climate that is \"value-expressing, not value-free\", resisting favouring one religion while accepting everyone's right to expression ([Héliot et al., Human Resource Management 59(2), 2020](https://researchonline.lse.ac.uk/id/eprint/100950/3/Gleibs_religious_identity_in_workplace_published.pdf)).\n\nIn practice that means three edits. Name the festival rather than hiding it behind \"the occasion\". Write \"to everyone celebrating\" instead of \"to all of you celebrating\", which quietly conscripts the whole list. And make participation optional in fact, not just in tone — no mandatory rakhi-tying, no photo submission, no team game.\n\nThe other half of respectful pluralism is the calendar. If Raksha Bandhan gets a company email and [Eid](https://subhsandesh.in/eid-mubarak) does not, the greeting has told your Muslim colleagues something you did not intend to say. Religion is also one of seven grounds named in [ILO Convention 111](https://www.ilo.org/media/325526/download), adopted in 1958. A greeting is not discrimination, but a calendar that runs one way is worth checking before August.\n\nA neutral note is better in two situations: a workforce where religious identity is already a live tension, and any organisation that cannot commit to greeting the other festivals too.\n\n## Should your company logo be on the greeting?\n\nSmall and in the signature, yes. Locked up with the rakhi artwork as the visual centre, no — the card becomes an advertisement wearing a festival as a costume, and employees read it as one instantly.\n\nThere is measured support for the softer version. In one field experiment, a purely symbolic congratulatory card — no money attached — signed by the organisation's president raised performance about 12 percent ([Kosfeld and Neckermann, American Economic Journal: Microeconomics 3(3), August 2011](https://people.duke.edu/~dandan/webfiles/PapersPayoff/04_MIC20100130_33.pdf)). The signature carried the effect, not the branding.\n\nSo sign it from a human being. \"Ravi, and everyone at [company]\" beats \"Team HR\", and beats a logo standing alone. Save the full brand lockup for the client version, where the company name is the point.\n\n## Email, chat, or a link: where to send it\n\nFour channels, compared on the things that actually decide the outcome. The last column is what SubhSandesh's own numbers say, measured on 18 August 2026 across 2,718 pages and 32,683 views.\n\n| Channel | Reaches non-desk staff | Personalisation ceiling | Effort for 200 people | What our data says |\n|---|---|---|---|---|\n| Company-wide email | Poor for shift and field staff | First name only | 20 minutes | Assume a phone screen; 51.9% of opens are mobile |\n| Slack or Teams announcement | Only if they have an account | None — one message for all | 5 minutes | No read receipt; treat it as a notice, not a note |\n| Shareable greeting page | Good — a link works anywhere | Name, photo, message, music | 30–45 minutes | 99.4% of pages started are published and shared |\n| Printed card at the desk | Best for on-site staff | Handwritten signature | 2–3 days and a print cost | Nothing digital reaches an employee with no work email |\n\nA link is the only option that survives a mixed workforce of desk, shift and remote staff, and the only one you can make look made rather than sent. The [SubhSandesh template gallery](https://subhsandesh.in/templates) shows how one reads on a phone.\n\n## Personalising 200 greetings without sounding like a mail merge\n\nName-substitution is not personalisation, and everyone sees the seam: \"Dear {{first_name}}\" firing at 9:00 a.m. reads worse than an unnamed message.\n\nSegment instead. Write three or four versions — one per office, function or shift pattern — each landing from someone that group reports to. Four honest messages beat 200 identical ones with a variable in them.\n\nThen leave it a day. The 6.9-hour median gap between first save and last edit in SubhSandesh's data is a fair guide to how long a short message takes to get right, and the sentence you cut on the second read is usually the one about family.\n\nOne inversion worth naming: 44.3% of SubhSandesh creators password-protect a page before sharing it, which is right for a private message and wrong here. A staff greeting should open in one tap.\n\n## When a corporate rakhi greeting is the wrong call\n\nSkip it in a week when the company has announced layoffs or held back salaries. A festival greeting from a team that just cut jobs does not read as warmth; it reads as changing the subject, and it will be quoted back.\n\nSkip it if your workforce is largely non-Hindu, or if you cannot extend the same courtesy to Eid, Christmas and Gurpurab. Skip the digital version for a plant or warehouse where most employees have no work email — a printed notice and an early finish beat a link nobody opens.\n\nBe honest about the tool, too. SubhSandesh's 13 page types are built for one person writing to one person: the rakhi template is addressed to a brother, and none of the 2,718 pages created since 12 March 2026 is a corporate template. It suits a founder writing to a small team, or a manager writing to one colleague. For a 5,000-person announcement, plain email is the better instrument, and we would rather say so than sell you a page.\n\n## Sources\n\n- Bradler et al., [Employee Recognition and Performance](https://docs.iza.org/dp8311.pdf) — IZA DP 8311, July 2014\n- Kosfeld and Neckermann, [Symbolic Awards and Worker Performance](https://people.duke.edu/~dandan/webfiles/PapersPayoff/04_MIC20100130_33.pdf) — *AEJ: Microeconomics* 3(3), August 2011\n- Héliot et al., [Religious identity in the workplace](https://researchonline.lse.ac.uk/id/eprint/100950/3/Gleibs_religious_identity_in_workplace_published.pdf) — *Human Resource Management* 59(2), 2020\n- Pew Research Center, [Religion in India](https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/) — 29 June 2021\n- ILO, [Convention No. 111](https://www.ilo.org/media/325526/download) — adopted 25 June 1958\n- SubhSandesh platform data — measured 18 August 2026\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/corporate-raksha-bandhan-greeting-for-employees#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Employee recognition",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Employee_recognition",
+              "https://www.wikidata.org/wiki/Q24950554"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Religious pluralism",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Religious_pluralism",
+              "https://www.wikidata.org/wiki/Q2002426"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Religious identity in the workplace: A systematic review",
+            "url": "https://researchonline.lse.ac.uk/id/eprint/100950/3/Gleibs_religious_identity_in_workplace_published.pdf",
+            "datePublished": "2020",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Human Resource Management (Wiley), via LSE Research Online"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Employee Recognition and Performance: A Field Experiment (IZA DP 8311)",
+            "url": "https://docs.iza.org/dp8311.pdf",
+            "datePublished": "2014-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "IZA Institute of Labor Economics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Getting More Work for Nothing? Symbolic Awards and Worker Performance",
+            "url": "https://people.duke.edu/~dandan/webfiles/PapersPayoff/04_MIC20100130_33.pdf",
+            "datePublished": "2011-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "American Economic Journal: Microeconomics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Religion in India: Tolerance and Segregation",
+            "url": "https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/",
+            "datePublished": "2021-06-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Pew Research Center"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Discrimination (Employment and Occupation) Convention, 1958 (No. 111)",
+            "url": "https://www.ilo.org/media/325526/download",
+            "datePublished": "1958-06-25",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Labour Organization"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four corporate Raksha Bandhan wordings that work when the employer is the sender",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The observance note"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The appreciation note"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The colleague-bond note"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The logistics note"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "corporate raksha bandhan greeting for employees",
+    "secondaryKeywords": [
+      "raksha bandhan business wishes with company logo"
+    ],
+    "angle": "Wins by being the only post written for the sender rather than the sibling — it separates colleague-framed from sibling-framed wording, prices the inclusion and logo decisions the whole SERP skips, and anchors the channel choice in SubhSandesh's own 51.9% mobile-open rate and 6.9-hour median edit gap.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates",
+      "https://subhsandesh.in/eid-mubarak"
+    ],
+    "factsUsed": [
+      "51.9% of shared pages are opened on a phone (16,952 of 32,683 views) — measured 2026-08-18",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=913 — measured 2026-08-18",
+      "44.3% of creators password-protect their page before sharing it (1,205 of 2,718) — measured 2026-08-18",
+      "99.4% of started pages are actually published and shared (2,701 of 2,718) — measured 2026-08-18",
+      "2,718 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-18",
+      "32,683 recorded views of shared pages — measured 2026-08-18"
+    ],
+    "sources": [
+      {
+        "url": "https://researchonline.lse.ac.uk/id/eprint/100950/3/Gleibs_religious_identity_in_workplace_published.pdf",
+        "stat": "Systematic review of 53 publications on religious identity at work; recommends supporting expression of religious identity while maintaining a broader climate of inclusion, endorsing respectful pluralism as \"value-expressing, not value-free\"",
+        "publishedDate": "2020-01-01"
+      },
+      {
+        "url": "https://docs.iza.org/dp8311.pdf",
+        "stat": "Unannounced thank-you card raised subsequent performance 5.2% when all group members received one; when only the best 3 of 8 did, recipients rose 3.3% while non-recipients rose more than 10%",
+        "publishedDate": "2014-07-01"
+      },
+      {
+        "url": "https://people.duke.edu/~dandan/webfiles/PapersPayoff/04_MIC20100130_33.pdf",
+        "stat": "A purely symbolic congratulatory card signed by the organisation's president raised worker performance by about 12 percent",
+        "publishedDate": "2011-08-01"
+      },
+      {
+        "url": "https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/",
+        "stat": "Survey of 29,999 Indian adults; 82% say they are currently Hindu",
+        "publishedDate": "2021-06-29"
+      },
+      {
+        "url": "https://www.ilo.org/media/325526/download",
+        "stat": "Article 1(1)(a) names religion among seven prohibited grounds of distinction in employment and occupation; adopted 25 June 1958",
+        "publishedDate": "1958-06-25"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The four H3 wordings run to four or five sentences each, because page-structure.md requires four fixed fields per entry (what it says / who it suits / where to send it / what to leave out). Splitting them into separate paragraphs would break the parallel form that makes the four scannable. Structural tradeoff, not an oversight."
+        },
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "metaTitle is 62 characters — over the 50–60 target, under the 70 hard cap. The exact keyword is 46 characters on its own, so no differentiator fits inside 60 while keeping the keyword first. Trimming to \"Corporate Raksha Bandhan Greeting — What to Send\" would drop \"for Employees\", which is the phrase separating this from client-facing greetings."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Slug keeps the stop word \"for\" (corporate-raksha-bandhan-greeting-for-employees). It was verified free in Strapi and fixed before drafting, and the orchestrator pinned it; changing it now would require re-verification and would desynchronise the filename, batch.json and the research brief. Fixable only as a deliberate batch-wide decision."
+        }
+      ],
+      "honestAssessment": "Every one of the five ranking pages publishes sibling-framed wishes or logo widgets, none cites a single study, and two still print a 2023 or 2024 date as current — so this is the only page that separates employer-framed from sibling-framed wording, prices the inclusion and logo decisions, and carries measured recognition evidence. Two real weaknesses: no first-party fact here is rakhi-specific or corporate-specific (every SubhSandesh number is platform-wide and is presented as such, and none of the 13 page types is a corporate template), and domain authority sits far below the entrenched wishes farms."
+    },
+    "generatedAt": "2026-08-19T00:30:00.000Z"
+  }
+}
