@@ -1,0 +1,325 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Write a Name on a Happy Raksha Bandhan Photo So It Stays Readable",
+    "slug": "write-name-on-happy-raksha-bandhan-photo",
+    "excerpt": "Every name-on-photo generator ignores whether the result can actually be read. Contrast thresholds, cap height, where the name can sit without covering a face, Devanagari matras, the platform re-encode, and what you can still fix after sending.",
+    "metaTitle": "Write Name on Happy Raksha Bandhan Photo — Contrast and Size",
+    "metaDescription": "Write name on a Happy Raksha Bandhan photo so it reads: 4.5:1 contrast, capitals at 5% of image height, and where to put it. 51.9% of views are on a phone.",
+    "keywords": "write name on happy raksha bandhan photo, name on raksha bandhan photo, rakhi photo with name, raksha bandhan photo text, text legibility on photos",
+    "canonicalURL": "https://subhsandesh.in/blog/write-name-on-happy-raksha-bandhan-photo",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "rakhi",
+      "photo editing",
+      "typography",
+      "personalisation"
+    ],
+    "keyTakeaways": [
+      "Text on a photo needs a contrast ratio of at least 4.5:1 against what sits behind it, or 3:1 once the name is set at 18 point or 14 point bold — white on marigold orange is nearer 2:1 and fails both.",
+      "Size the capitals at roughly 5% of the image height, about 60 px on a 1080x1350 export; ISO 15008 asks for character heights above 20 arcmin for glance reading.",
+      "Dark text on a light background beat light text on a dark one in a 2017 Applied Ergonomics experiment, and the penalty for light-on-dark was worst in a near-dark room.",
+      "51.9% of shared SubhSandesh pages are opened on a phone (16,952 of 32,683 recorded views, measured 2026-08-18), so the name is read on a 7 cm screen rather than a laptop.",
+      "A misspelt name burned into a JPEG cannot be corrected, and 99.4% of started pages (2,701 of 2,718) go out exactly as typed."
+    ],
+    "faqs": [
+      {
+        "question": "Where should I put the name on a Raksha Bandhan photo?",
+        "answer": "In the largest empty region of the frame, never across a face. The bottom third over clothing is the safest default because fabric is large and low-detail; if nothing in the frame is empty, draw an opaque band across the bottom 18-22% and set the name on that."
+      },
+      {
+        "question": "What colour should the name be on a rakhi photo?",
+        "answer": "Dark on a light photo, light on a dark one, at a contrast ratio of at least 4.5:1 against whatever sits directly behind the letters. White or gold text on marigold orange lands nearer 2:1 and fails both the 4.5:1 minimum and the 3:1 large-text allowance."
+      },
+      {
+        "question": "How big should the name be on the image?",
+        "answer": "Aim for capitals around 5% of the image height, which is roughly a 60 px cap height and an 85 px font size on a 1080x1350 export. ISO 15008 recommends character heights above 20 arcmin for glance reading, about 1.8 mm at a 30 cm phone-viewing distance."
+      },
+      {
+        "question": "Why does the name look blurry after I send the photo on WhatsApp?",
+        "answer": "Sent through the photo picker, the image is resized and re-encoded as JPEG, and hairline strokes and thin outlines are the first thing to soften. Attaching the file as a document instead skips the re-encode; one 2021 study found the MD5 hash unchanged when a file was sent that way."
+      },
+      {
+        "question": "Can I fix the spelling after I have already sent the picture?",
+        "answer": "Not if the name was burned into the JPEG's pixels, because at that point the letters are photograph rather than text. Live text on a shared page can be edited and the same link updates for everyone who already has it."
+      },
+      {
+        "question": "Why does my Hindi name get cut off at the top of the text box?",
+        "answer": "Devanagari positions vowel signs both above the headline and below the baseline, using two separate font features, so a cluster occupies more vertical space than Latin capitals of the same size. Give a Devanagari name about 1.4 times the line height you would give Latin."
+      },
+      {
+        "question": "Does a long name mean I have to use a smaller font?",
+        "answer": "No — set it on two stacked lines at full size instead. Research on glance reading found that wider line spacing helps legibility but does not fully make up for text that has been shrunk, so shrinking is the worse trade."
+      },
+      {
+        "question": "What if the only photo I have is low-resolution?",
+        "answer": "Do not upscale it and set text over the result, because enlarging a small JPEG amplifies its blocking artefacts. Place the photo small and un-enlarged inside a larger clean canvas and put the name on the canvas, or crop tight to the faces and use a solid band."
+      },
+      {
+        "question": "Is it better to send an image or a link?",
+        "answer": "An image wins on reach: it renders in the chat with no tap and needs no connection to open. A link wins on accuracy, because the name can still be corrected. If the spelling is at all uncertain, that decides it."
+      },
+      {
+        "question": "Should I write the name in Hindi or in English?",
+        "answer": "Use whichever script the person writes their own name in, and ask them to type it into the chat so you can paste it. Keep one script per line — a half-transliterated name reads as a mistake rather than a bilingual style."
+      },
+      {
+        "question": "Do I need a paid tool to write a name on a Happy Raksha Bandhan photo?",
+        "answer": "No. Plenty of free generators will place text on a template for you. What none of them check is whether the result is legible, which is the placement, contrast and size work described above."
+      },
+      {
+        "question": "Does SubhSandesh have a Raksha Bandhan template?",
+        "answer": "One, and it is written brother-first: an animated page with tilak, aarti and rakhi-tying scenes, a photo, a name and a shareable link. For a sister you would be editing copy addressed to a brother, so say so honestly before you start."
+      }
+    ],
+    "coverImageQuery": "raksha bandhan siblings photo marigold thali",
+    "coverImagePrompt": "A photorealistic close crop of an Indian brother and sister on Raksha Bandhan, a red-and-gold rakhi being tied at the wrist, a brass thali with marigolds and a diya slightly out of focus behind them. Warm daylight from a window, shallow depth of field, and a deliberately empty low-detail band across the lower third of the frame where a name could be set. 16:9, no text anywhere in the image except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Write a Name on a Happy Raksha Bandhan Photo So It Stays Readable\n\nTo write a name on a Happy Raksha Bandhan photo and have it actually get read: put the name in the largest empty region of the frame rather than across a face, set it dark on a light photo or light on a dark one at a contrast ratio of at least 4.5:1, and make the capitals roughly 5% of the image height. On SubhSandesh, 51.9% of shared pages are opened on a phone — 16,952 of 32,683 recorded views, measured 2026-08-18 — so the name is read on a screen about 7 cm wide, in a scrolling chat, in under two seconds. Across the 2,718 pages created since 2026-03-12, the recurring problem is never the wording; it is a name placed, coloured or sized so the eye cannot resolve it. Below: placement, contrast, size, Devanagari, spelling, low-resolution photos, and whether to burn the text in or keep it live.\n\n## What writing a name onto a Raksha Bandhan photo actually means\n\nTwo operations hide behind one phrase. **Burning in** rasterises the name into the JPEG's pixels — the letters become photograph, not text, and cannot be edited, selected or resized. **Live text** keeps the name as a character string in a layer or a web page, rendered fresh on each device.\n\nEvery generator on this query does the first and calls it done. The W3C's contrast rule treats both identically — Success Criterion 1.4.3 covers \"text and images of text\" alike — but only live text can be fixed after sending.\n\n## Four places the name can go without covering a face\n\nText is harder to read when visual content is packed around it. In a 2018 Applied Ergonomics study of 37 readers aged 35–75, [crowded displays needed much greater processing time than single words](https://jdobr.es/pdf/Dobres-etal-2018-Crowding.pdf), and words at a randomised position were harder to read than the same words at a fixed, expected one. A festival photo is a crowded display: marigolds, thali, rakhi thread, two faces.\n\n### 1. The top band, above everyone's head\n\nWorks when the photo was shot with headroom. Check the crop on a phone first: Instagram and WhatsApp previews trim a 4:5 image differently.\n\n### 2. The bottom third, over clothing\n\nThe safest default. Kurta and saree fabric is large, low-detail and usually darker than skin, giving light text somewhere to sit. Avoid dupatta prints and sequins.\n\n### 3. A solid band you add yourself\n\nDraw an opaque strip across the bottom 18–22% of the frame and set the name on that. You lose a slice of photo and gain a guaranteed contrast ratio — the only method that works on any photo, unexamined.\n\n### 4. Beside the subjects, not on them\n\nIf the pair stands to one side, the empty half takes a stacked two-line name. Keep it on the same side in every image you make, so a reader who gets three of them knows where to look.\n\n## Text colour: what a marigold background does to a light name\n\nThis is where most name-on-photo output fails. The W3C's [Success Criterion 1.4.3 requires a contrast ratio of at least 4.5:1](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) between text and background, relaxed to 3:1 at 18 point or 14 point bold — roughly 24 px and 18.5 px. White text on marigold orange sits nearer 2:1 and fails both.\n\nDirection matters too. A 2017 Applied Ergonomics experiment found a [positive polarity advantage — dark text on light beat light text on dark](https://jdobr.es/pdf/Dobres-etal-2017-Ambient.pdf), with the penalty for light-on-dark worst in a near-0-lux room, exactly where a phone gets read at night. The authors' advice was blunt: use larger text sizes wherever possible, particularly light-on-dark.\n\nSo: on a bright daytime rakhi photo use a deep maroon, near-black or dark green name, not white and not gold. On a dark or diya-lit photo use plain white, sized up. If the photo has both — a bright sari against a dark doorway — add the solid band and pick freely.\n\nTwo things that look like fixes and are not: a thin outline, which the compression stage below thins further, and a low-opacity drop shadow, which raises contrast by well under a full ratio point.\n\n## How big the name has to be to survive a phone screen and WhatsApp\n\nISO 15008 recommends character heights above 20 arcmin for glance reading — the standard the MIT AgeLab work was calibrated against. At a 30 cm phone-viewing distance that is roughly 1.8 mm of cap height, about 5% of the image height. For a 1080×1350 export: cap height near 60 px, font size near 85 px. Most generators default to a third of that.\n\nThen the platform intervenes. Sent through the photo picker, an image is resized and re-encoded as JPEG, and hairline strokes are the first casualty. A 2021 study in *Telematika* found a PNG [sent as a gallery image lost its transparency to a white background, while the same file sent as a document attachment came out with an unchanged MD5 hash](https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/1114) — bit-for-bit identical, no re-encode.\n\nHence one genuinely useful trick: when the name matters more than convenience, attach the image as a **document** rather than a photo. The recipient taps once more and gets the file you actually made.\n\n## Names in Devanagari: why the script, not the length, breaks the text box\n\nA Devanagari name is not a longer Latin name. Microsoft's OpenType specification for the script documents that vowel signs are positioned by two separate features — [`abvm` for above-base marks and `blwm` for below-base marks](https://learn.microsoft.com/en-us/typography/script-development/devanagari) — so a cluster takes vertical space above the headline and below the baseline. A box sized to Latin capitals clips the matra off रीतू and the vowel sign off कृष्णा.\n\nTwo more behaviours catch tools out. The shaping engine **reorders matras**, moving a pre-base vowel sign in front of the consonant it was typed after, so visual order is not typed order and character-count auto-fitting mispredicts the width. And the `cjct` feature substitutes conjuncts as single ligature glyphs, so द + halant + ग renders as one narrower, taller shape.\n\nPractical consequences: give a Devanagari name about 1.4× the line height you would give Latin, never apply all-caps styling (there is no case), and preview it in the real font — one missing `cjct` shows a halant where a conjunct belongs. Marathi adds the eyelash RA, encoded as RA + halant + ZWJ; if it renders as a plain reph, the font is wrong.\n\n## Getting the spelling and the script right before anything is burned in\n\nAsk them to type their own name into the chat and paste it. Typing from memory is how Riddhi becomes Ridhi, and a burned-in JPEG cannot be corrected once it has been forwarded into a family group.\n\nThere is no safety net further down the line. On SubhSandesh, 99.4% of started pages get published and shared — 2,701 of 2,718, measured 2026-08-18 — so whatever spelling is typed is the spelling that goes out.\n\nPick one script per line and stay in it. Mixed \"Happy Raksha Bandhan भाई\" works as a deliberate bilingual line, but a half-transliterated name reads as a mistake rather than a style. If someone writes their own name in Devanagari, use that spelling even where a Latin transliteration looks tidier.\n\n## Burned into the JPEG or live text: what you can still fix\n\nBoth formats are legitimate; they fail in different places, and the difference is about what happens after you press send.\n\n| | Burned-in JPEG | Live text on a shared page |\n|---|---|---|\n| Fix a misspelt name after sending | Impossible — resend a new file | Edit the page; the same link updates |\n| Survives forwarding into a group | Yes, forwards as an image | Link forwards; page must still be reachable |\n| Recipient needs | Nothing | A working data connection |\n| Contrast after platform re-encode | Degrades; thin strokes soften | Rendered fresh at device resolution |\n| Access control | None once forwarded | Password, used by 44.3% of 2,718 SubhSandesh creators |\n\nA JPEG is the better artefact for reach; live text is the better one for accuracy. If the spelling is at all uncertain, that decides it.\n\n## When the photo you have is too low-resolution to take text\n\nIf the only photo is a 480-pixel-wide WhatsApp forward from three years ago, do not upscale it and set text over the result. Enlarging a small JPEG amplifies its blocking artefacts, and text laid on top inherits the mush.\n\nThree options instead. Place the photo small and un-enlarged inside a larger clean canvas and put the name on the canvas. Or crop tight to the faces, accept a square, and use the solid band so the name never touches degraded pixels. Or skip the composite: send the photo as-is and carry the name in text, rendered at the device's own resolution.\n\nWhat not to do is set 12-pixel text on a 480-pixel image because it looks fine zoomed in on a laptop. At the 51.9% mobile rate, that is not how it will be read.\n\n## When a flat JPEG is the right answer, and when we are the wrong tool\n\nBurn the name in when the recipient is on a metered connection, when it is going to forty relatives who will not tap a link, or when the point is a WhatsApp status that must render without interaction. A page cannot match an image in a chat thread for effortlessness.\n\nSubhSandesh is the wrong tool in three cases. For a printable A4 card we output a web page, not a print file. If the recipient has no smartphone, a link is useless. And our only rakhi template, the [Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother), is written brother-first — for a sister you would be editing copy addressed to a brother, and the rest of the [SubhSandesh template gallery](https://subhsandesh.in/templates) covers birthdays, apologies and weddings.\n\nWe also have no rakhi-specific usage data. Rakhi is not one of the 13 page types behind these numbers, so every first-party figure here describes personalised pages in general — accurate about how a named page gets opened, silent on rakhi.\n\n## Sources\n\n- [Understanding Success Criterion 1.4.3: Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) — W3C Web Accessibility Initiative\n- [Ambient illumination, contrast polarity and letter size in glance-like reading](https://jdobr.es/pdf/Dobres-etal-2017-Ambient.pdf) — Dobres, Chahine & Reimer, *Applied Ergonomics* 60, 68–73 (2017)\n- [Visual crowding, text size and positional uncertainty in legibility at a glance](https://jdobr.es/pdf/Dobres-etal-2018-Crowding.pdf) — Dobres, Wolfe, Chahine & Reimer, *Applied Ergonomics* (2018)\n- [Image Quality Analysis of PNG Images on WhatsApp Messenger Sending](https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/1114) — Anwar, Fadlil & Riadi, *Telematika* 14(1), 28 February 2021\n- [Developing OpenType Fonts for Devanagari Script](https://learn.microsoft.com/en-us/typography/script-development/devanagari) — Microsoft Typography",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four places a name can go on a Raksha Bandhan photo without covering a face",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The top band, above everyone's head",
+            "description": "Works only when the photo was shot with headroom. Check the crop on a phone first, because Instagram and WhatsApp trim a 4:5 image differently."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The bottom third, over clothing",
+            "description": "The safest default. Kurta and saree fabric is large, low-detail and usually darker than skin, giving light text somewhere to sit. Avoid prints and sequins."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A solid band you add yourself",
+            "description": "An opaque strip across the bottom 18-22% of the frame. Costs a slice of photo and guarantees the 4.5:1 contrast ratio on any photo without inspecting it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Beside the subjects, not on them",
+            "description": "When the pair stands to one side, the empty half takes a stacked two-line name. Keep it on the same side across every image so readers know where to look."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/write-name-on-happy-raksha-bandhan-photo#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Legibility",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Legibility",
+              "https://www.wikidata.org/wiki/Q1820694"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Web Content Accessibility Guidelines",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines",
+              "https://www.wikidata.org/wiki/Q5364439"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Understanding Success Criterion 1.4.3: Contrast (Minimum)",
+            "url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium",
+                "https://www.wikidata.org/wiki/Q37033"
+              ]
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Effects of ambient illumination, contrast polarity, and letter size on text legibility under glance-like reading",
+            "url": "https://jdobr.es/pdf/Dobres-etal-2017-Ambient.pdf",
+            "datePublished": "2017-04-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Applied Ergonomics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The effects of visual crowding, text size, and positional uncertainty on text legibility at a glance",
+            "url": "https://jdobr.es/pdf/Dobres-etal-2018-Crowding.pdf",
+            "datePublished": "2018-04-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Applied Ergonomics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Image Quality Analysis of PNG Images on WhatsApp Messenger Sending",
+            "url": "https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/1114",
+            "datePublished": "2021-02-28",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Telematika"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Developing OpenType Fonts for Devanagari Script",
+            "url": "https://learn.microsoft.com/en-us/typography/script-development/devanagari",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft Typography"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "write name on happy raksha bandhan photo",
+    "angle": "Wins by being the only post on this SERP that treats the name as a legibility problem rather than a template choice — WCAG's 4.5:1 and 3:1 contrast thresholds, the positive-polarity advantage from peer-reviewed glance-legibility work, ISO 15008's 20-arcmin floor, a published finding that a document-attachment send escapes the platform re-encode, and Devanagari's above- and below-base mark positioning — grounded in a 51.9% mobile-open rate across 32,683 recorded views that no name-on-image generator can publish.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "51.9% of shared pages are opened on a phone (16,952 of 32,683 views) — measured 2026-08-18",
+      "2,718 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-18",
+      "32,683 recorded views of shared pages — measured 2026-08-18",
+      "44.3% of creators password-protect their page before sharing it (1,205 of 2,718) — measured 2026-08-18",
+      "99.4% of started pages are actually published and shared (2,701 of 2,718) — measured 2026-08-18"
+    ],
+    "sources": [
+      {
+        "url": "https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum",
+        "stat": "WCAG Success Criterion 1.4.3: \"The visual presentation of text and images of text has a contrast ratio of at least 4.5:1\", relaxed to 3:1 for large-scale text, with 18 point or 14 point bold judged large enough (approximately 24 px and 18.5 px). Continuously updated; publishes no publication date."
+      },
+      {
+        "url": "https://jdobr.es/pdf/Dobres-etal-2017-Ambient.pdf",
+        "stat": "Applied Ergonomics 60, 68-73: a \"positive polarity advantage\" in which black-on-white text is more legible than white-on-black; legibility thresholds were worst for negative polarity under near-0-lux ambient light (bright condition ~4,750 lux); cap heights of 3 mm and 4 mm (14.7 and 19.6 arcmin) chosen per ISO in-vehicle guidance; conclusion recommends larger text sizes wherever possible, particularly on negative polarity displays.",
+        "publishedDate": "2017-04-01"
+      },
+      {
+        "url": "https://jdobr.es/pdf/Dobres-etal-2018-Crowding.pdf",
+        "stat": "Applied Ergonomics, n=37 readers aged 35-75: crowded displays required much greater processing time than single words; larger text was more legible than smaller text; wider leading enhanced legibility but did not fully counteract decrements at smaller sizes; single words at randomised positions were harder to read than at a fixed position; 4 mm characters at 68.58 cm chosen per ISO 15008, which recommends character sizes above 20 arcmin.",
+        "publishedDate": "2018-04-01"
+      },
+      {
+        "url": "https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/1114",
+        "stat": "Telematika 14(1), pp. 1-12: a PNG sent on WhatsApp as a gallery image attachment lost a transparent background to white, non-transparent backgrounds retained PSNR above 35 dB, and \"submissions with document attachment types do not experience changes in MD5 hash value and image quality\". Abstract only was read; the full-text PDF was not retrieved.",
+        "publishedDate": "2021-02-28"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/typography/script-development/devanagari",
+        "stat": "Microsoft OpenType specification for Devanagari: the 'abvm' feature positions above-base marks (matras, vowel modifiers, stress/tone marks) and 'blwm' positions below-base marks; the shaping engine decomposes and reorders matras relative to the consonants of a cluster; the 'cjct' feature substitutes conjunct forms; and RA + halant + ZWJ encodes the Marathi \"eyelash RA\". Continuously updated documentation; publishes no publication date."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Two paragraphs run to four short sentences each — the \"Three options instead\" list in the low-resolution section and the \"wrong tool in three cases\" paragraph in the closing section. Both are enumerations that read worse when split, but the rule is a rule and they break it."
+        },
+        {
+          "item": "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Three of the five would survive a swap. The W3C contrast page and the two Applied Ergonomics glance-legibility papers are about text rendering in general, so they could sit unchanged in any batch post that produces an image with a name on it — raksha-bandhan-whatsapp-status-with-name most obviously. Only the Microsoft Devanagari specification and the Telematika WhatsApp study are locked to claims this post alone makes."
+        }
+      ],
+      "honestAssessment": "An answer engine asked \"what colour and size should a name be on a Raksha Bandhan photo\" has nothing else to cite: the five ranking pages are template grids with zero citations between them, and this is the only page on the query that pairs WCAG's 4.5:1 threshold, ISO 15008's 20-arcmin floor and Devanagari's abvm/blwm mark positioning with a named, dated source for each. Two honest caveats. The JPEG-versus-live-text comparison table overlaps the 2026-08-18 sibling raksha-bandhan-wishes-with-name-and-photo, which owns the format argument; mine is scoped to what can still be fixed after sending rather than to reach, but a retrieval system may well read them as one topic split in two. And the platform re-compression claim rests on the abstract of one Telematika paper, because every primary WhatsApp source is banned for this batch and the widely quoted \"1600 px, quality 80\" figures exist only on tool blogs — so the post deliberately states no pixel dimension and no quality factor. All first-party figures are platform-wide; rakhi is not one of the 13 page types, and the post says so in its own body rather than only here. Domain authority against these generator farms is the binding constraint and no amount of accuracy fixes it quickly."
+    },
+    "generatedAt": "2026-08-19T07:48:59.698Z"
+  }
+}
