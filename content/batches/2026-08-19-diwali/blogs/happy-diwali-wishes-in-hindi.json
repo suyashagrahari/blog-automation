@@ -1,0 +1,322 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Happy Diwali Wishes in Hindi: Which Greeting Fits Which Person",
+    "slug": "happy-diwali-wishes-in-hindi",
+    "excerpt": "शुभ दीपावली for elders, हैप्पी दिवाली for peers — most Hindi Diwali wishes fail on register, not vocabulary. The two greetings, the spelling, the आप/तुम/तू rule, and nine original wishes with transliteration.",
+    "metaTitle": "Happy Diwali Wishes in Hindi — Which Greeting Fits Whom",
+    "metaDescription": "Happy Diwali wishes in Hindi: शुभ दीपावली for elders, हैप्पी दिवाली for peers, the आप/तुम/तू rule, and 9 original wishes with transliteration and gloss.",
+    "keywords": "happy diwali wishes in hindi, shubh deepavali meaning, diwali wishes hindi for elders, diwali shubhkamnaye hindi, aap tum tu hindi wishes",
+    "canonicalURL": "https://subhsandesh.in/blog/happy-diwali-wishes-in-hindi",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "hindi",
+      "language",
+      "festive greetings",
+      "etiquette"
+    ],
+    "keyTakeaways": [
+      "शुभ दीपावली for anyone older or senior; हैप्पी दिवाली only for people you already text in Hinglish — the two are not interchangeable.",
+      "Honorifics are the floor, not a flourish: in a corpus of 479,000 Hindi posts, honorific forms to an elder are classed as merely appropriate, while excess politeness is marked impolite.",
+      "आप takes plural agreement (आप स्वस्थ रहें) because Platts' 1884 dictionary records it as literally reflexive — \"self, oneself\" — used reverentially.",
+      "A Diwali wish is conventionally about समृद्धि and light over darkness — the Bṛhadāraṇyaka prayer glosses that darkness as death, not ambience.",
+      "Of five recipient types, only one has a SubhSandesh template built for it: 2,739 pages exist across 13 page types and Diwali is not among them (measured 2026-08-19)."
+    ],
+    "faqs": [
+      {
+        "question": "Should I write शुभ दीपावली or हैप्पी दिवाली?",
+        "answer": "शुभ दीपावली to anyone older or senior — parents, in-laws, teachers, clients. हैप्पी दिवाली only to people you already text in Hinglish: peers, siblings your own age, group chats. दीपावली की हार्दिक शुभकामनाएँ sits between the two and is safest when you cannot guess someone's age."
+      },
+      {
+        "question": "Is दीपावली or दिवाली the correct spelling?",
+        "answer": "Both are correct. दीपावली is the Sanskrit compound — dipa (lights) plus avali (a row), so \"a row of lights\" — and दिवाली is the Hindi form that grew from it. Platts' 1884 dictionary already lists them as equal. Use दीपावली inside the formal greeting and दिवाली in the sentence around it."
+      },
+      {
+        "question": "Which pronoun do I use in a Hindi Diwali wish — आप, तुम or तू?",
+        "answer": "आप for anyone a generation above you, elder cousins and twice-met in-laws included. तुम where statuses are equal and the relationship is familiar but still polite. तू only where it already comes back to you — one-way it reads as contempt rather than intimacy."
+      },
+      {
+        "question": "Why does आप take a plural verb?",
+        "answer": "Because आप is literally reflexive — Platts records it as \"self, himself, oneself\", pressed into service as a reverential \"you, Sir\". That grammatical history is why it takes plural agreement: आप स्वस्थ रहें, never आप स्वस्थ रहे."
+      },
+      {
+        "question": "Can a Hindi wish be too polite?",
+        "answer": "Yes, and it is a real failure mode. The politeness-annotated corpus of 479,000 Hindi blog posts and comments treats politeness beyond what the relationship calls for as \"too polite\", which annotators marked impolite. शुभ दीपावली to a college friend sounds like a bank SMS."
+      },
+      {
+        "question": "What is a Diwali greeting conventionally about?",
+        "answer": "समृद्धि (prosperity), light displacing darkness, and Lakshmi's blessing on a household — not having fun. Platts glosses समृद्धि as \"great prosperity or success, thriving, increase, gain… well-being, wealth\", so wishing it is nearer to wishing someone a good year of business than a nice evening."
+      },
+      {
+        "question": "Where does the light-over-darkness formula come from?",
+        "answer": "It long predates greeting cards. Hume's 1921 translation of the Bṛhadāraṇyaka Upaniṣad renders the prayer at 1.3.28 as \"From darkness lead me to light\", and the text glosses itself immediately: the darkness is death, the light immortality. Survival, not ambience."
+      },
+      {
+        "question": "When is Diwali 2026?",
+        "answer": "Sunday 8 November 2026, with the five days running 6–10 November. Because it falls on a Sunday, a work greeting has to land on Thursday 5 or Friday 6 November — no office day falls inside the festival."
+      },
+      {
+        "question": "What should I write to a child for Diwali?",
+        "answer": "तुम, and no prosperity. Something like तुम्हारी फुलझड़ी सबसे तेज़ चमके! हैप्पी दिवाली (\"may your sparkler shine the brightest\"). A समृद्धि wish to an eight-year-old is a joke they will not get."
+      },
+      {
+        "question": "Why does my Devanagari message look wrong on someone else's phone?",
+        "answer": "Stacked conjuncts — क्ष, द्ध, ज्ञ — are where an old default font on another handset gives up, and you cannot see that from your own screen. Send the line to yourself first in the app you plan to use. If it arrives mangled, a Roman transliteration is not a downgrade."
+      },
+      {
+        "question": "Does SubhSandesh have a Diwali template for a Hindi greeting?",
+        "answer": "No. 2,739 pages have been created across 13 page types and Diwali is not one of them, so of the five recipient rows in this post only one — a partner, via the \"I love you\" page — has a template built for it. A Diwali message pasted into a romance design is a compromise, not a fit."
+      }
+    ],
+    "coverImageQuery": "devanagari hindi greeting diya row lamps",
+    "coverImagePrompt": "A photorealistic close-up of a row of lit clay diyas along a dark stone ledge at night, warm flames sharp in the foreground and falling out of focus into the distance. Deep shadow above for a title overlay, 16:9. No text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Happy Diwali Wishes in Hindi: Which Greeting Fits Which Person\n\nWrite **शुभ दीपावली** to anyone older or senior to you, and **हैप्पी दिवाली** only to people you already text in Hinglish. Most happy Diwali wishes in Hindi fail on register, not vocabulary: Hindi's second person is a three-way — आप, तुम, तू — and a wish in तुम to a mother-in-law reads as a slight. Diwali 2026 falls on Sunday 8 November, the five days running 6–10 November. On SubhSandesh 51.8% of shared pages open on a phone (17,101 of 33,007 views, measured 2026-08-19), and the median gap between a creator's first save and last edit is 6.9 hours (sampled on /love-gf, n=914) — people spend most of a day rewriting a greeting, and register is usually what they are fixing. Below: the two greetings, the spelling, the pronoun rule, and nine original wishes with transliteration and gloss.\n\n## शुभ दीपावली or हैप्पी दिवाली: pick the register before the words\n\nशुभ दीपावली is the Sanskritic greeting. हैप्पी दिवाली is an English loan bolted to the everyday Hindi form of the name. They are not interchangeable.\n\nIn Ritesh Kumar's [politeness-annotated corpus of 479,000 Hindi blog posts and comments](http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf) (LREC 2014), honorific forms to an elder or stranger are classed *appropriate* — unmarked, expected. Leaving them out makes the line impolite; putting them in earns no credit. The floor, not a flourish.\n\nThe same paper names the opposite failure: politeness beyond what the relationship calls for slips into \"too polite\", which annotators marked impolite. That is what शुभ दीपावली does to a college friend — it sounds like a bank SMS.\n\nSo शुभ दीपावली for parents, in-laws, teachers, clients; हैप्पी दिवाली for peers, siblings your own age, group chats. दीपावली की हार्दिक शुभकामनाएँ sits between them, safest when you cannot guess an age.\n\n## दीपावली or दिवाली: which spelling to write\n\nBoth are correct. दीपावली is the Sanskrit compound; दिवाली is the Hindi form that grew from it, and what people say out loud.\n\nS. M. Natesa Sastri's 1903 *Hindu Feasts, Fasts and Ceremonies* does the arithmetic: [\"The word Dipavali is a Sanskrit compound, made up of two simple words, Dipa, meaning lights, and avali, a row, thus a row of lights.\"](https://en.wikisource.org/wiki/Hindu_Feasts,_Fasts_and_Ceremonies/Chapter_5) The shortening is not modern sloppiness — [Platts' 1884 dictionary](https://archive.org/details/platts-a-dictionary-of-urdu-classical-hindi-and-english-1884) already lists दीपावली as equal to दिवाली.\n\nUse दीपावली inside the formal greeting and दिवाली in the sentence around it: शुभ दीपावली! कल दिवाली पर मिलते हैं। Reverse it — हैप्पी दीपावली — and you get the one combination belonging to neither register.\n\n## आप, तुम, तू: the three-way that decides the whole line\n\nHindi has no single polite you. A 2022 pragmatics paper in *Studii şi cercetări filologice* [contrasts the three-tier तू / तुम / आप system with the two-way T/V split of Persian, French and Spanish](https://zenodo.org/records/7457674): तुम where statuses are equal and the relationship familiar but still polite, तू where the addressee is perceived as lower, आप where they rank higher.\n\nआप carries a grammatical tail. Platts records it as literally reflexive — \"self, himself, oneself\" — pressed into service as a reverential \"you, Sir\". That is why आप takes plural agreement: आप स्वस्थ रहें, never आप स्वस्थ रहे.\n\nAnyone a generation above you gets आप, elder cousins and twice-met in-laws included. And तू is a two-way street: send it only where it comes back, because one-way it reads as contempt rather than intimacy.\n\n## What a Diwali greeting is conventionally about\n\nDiwali wishes are about समृद्धि (prosperity), light displacing darkness, and Lakshmi's blessing on a household — not about having fun. A line translated straight from \"have a great Diwali!\" lands flat.\n\nThe light-over-darkness formula predates greeting cards by millennia. R. E. Hume's 1921 translation of the Bṛhadāraṇyaka Upaniṣad renders the prayer at 1.3.28 as [\"From darkness lead me to light\"](https://archive.org/details/in.ernet.dli.2015.149196), and glosses itself immediately: the darkness is death, the light immortality. Survival, not ambience.\n\nThe prosperity half is as concrete. Natesa Sastri records that in northern India Diwali was the day the year's accounts were closed and new books opened. Platts glosses समृद्धि as \"great prosperity or success, thriving, increase, gain… well-being, wealth\". Wishing someone समृद्धि is nearer to wishing them a good year of business than a nice evening.\n\n## Nine Diwali wishes in Hindi, grouped by who receives them\n\nDevanagari, then transliteration, then gloss. These were written for this post, and the pronoun in each is deliberate.\n\n### 1. For an elder — आप, and शुभ दीपावली\n\n**आपके घर में लक्ष्मी जी का वास हो, और हर सुबह इस दीपावली के दीये जैसी उजली हो। शुभ दीपावली!**\n*Aapke ghar mein Lakshmi ji ka vaas ho, aur har subah is Deepawali ke diye jaisi ujli ho. Shubh Deepawali!*\nMay Lakshmi dwell in your home, and every morning be as bright as this Diwali's lamp.\n\n**आपके आशीर्वाद से हमारा घर रोशन है। आपको सपरिवार शुभ दीपावली।**\n*Aapke aashirvaad se hamara ghar roshan hai. Aapko saparivaar Shubh Deepawali.*\nOur home is lit by your blessing. Shubh Deepawali to you and your family.\n\nसपरिवार does the work in the second line: it wishes the household, which is what an elder expects.\n\n### 2. For a friend your own age — तुम, or तू if it already runs both ways\n\n**हैप्पी दिवाली, यार! इस साल पटाखे कम, मिठाई ज़्यादा — और तुम्हारा फ़ोन उठाने की आदत वापस आ जाए।**\n*Happy Diwali, yaar! Is saal patakhe kam, mithai zyada — aur tumhara phone uthane ki aadat waapas aa jaaye.*\nHappy Diwali, mate. Fewer crackers this year, more sweets — and may your habit of answering the phone come back.\n\n**तू और तेरा पूरा घर इस दिवाली हँसता रहे — बाकी सब बाद में देखेंगे।**\n*Tu aur tera poora ghar is Diwali hansta rahe — baaki sab baad mein dekhenge.*\nMay you and your whole household keep laughing this Diwali — everything else can wait.\n\nThe तू line is the riskiest thing here. Send it only to someone who calls you तू back.\n\n### 3. For a colleague or a client — आप, and nothing personal\n\n**आपके साथ काम करना इस साल की अच्छी बातों में से एक रहा। आपको और आपके परिवार को दीपावली की शुभकामनाएँ।**\n*Aapke saath kaam karna is saal ki achchhi baaton mein se ek raha. Aapko aur aapke parivaar ko Deepawali ki shubhkaamnaayein.*\nWorking with you has been one of the good parts of this year. Wishes to you and your family.\n\n**दीपावली की शुभकामनाएँ। नया साल आपके काम और आपके घर, दोनों के लिए शुभ हो।**\n*Deepawali ki shubhkaamnaayein. Naya saal aapke kaam aur aapke ghar, dono ke liye shubh ho.*\nDeepawali wishes. May the new year be auspicious for both your work and your home.\n\nThe second line is the ledger convention at work — for a trading family the new year starts here.\n\n### 4. For the whole family, not one person — आप सभी\n\n**आप सभी को दीपावली की हार्दिक शुभकामनाएँ। घर के सब दीये जलें, और सब लोग एक ही छत के नीचे बैठकर मिठाई खाएँ।**\n*Aap sabhi ko Deepawali ki haardik shubhkaamnaayein. Ghar ke sab diye jalein, aur sab log ek hi chhat ke neeche baithkar mithai khaayein.*\nHeartfelt Deepawali wishes to you all. May every lamp in the house be lit, and everyone sit under one roof and eat sweets.\n\n**हमारे घर से आपके घर तक — ढेर सारी शुभकामनाएँ, और अगले साल का न्योता भी।**\n*Hamare ghar se aapke ghar tak — dher saari shubhkaamnaayein, aur agle saal ka nyota bhi.*\nFrom our house to yours — plenty of wishes, and an invitation for next year.\n\nआप सभी beats a list of names in a family group: nobody is ranked, nobody left out.\n\n### 5. For a child — तुम, and no prosperity\n\n**तुम्हारी फुलझड़ी सबसे तेज़ चमके! हैप्पी दिवाली — और मिठाई खाने के बाद हाथ धो लेना।**\n*Tumhari phuljhadi sabse tez chamke! Happy Diwali — aur mithai khaane ke baad haath dho lena.*\nMay your sparkler shine the brightest! Happy Diwali — and wash your hands after the sweets.\n\nA समृद्धि wish to an eight-year-old is a joke they will not get.\n\n## Where each greeting fits\n\nThe last column comes from our own database and is unflattering: our page types are built around romance, not festivals.\n\n| Recipient | Open with | Pronoun | Nearest page type |\n|---|---|---|---|\n| Parents, in-laws, grandparents | शुभ दीपावली | आप + plural verb | none built for it |\n| Partner | शुभ दीपावली or हैप्पी दिवाली | आप or तुम | /love-gf — 914 pages, 33.4% of all |\n| Friend your own age | हैप्पी दिवाली | तुम, or तू both ways | /missyou-bestfriend |\n| Colleague or client | दीपावली की शुभकामनाएँ | आप, no nickname | none; the [gallery](https://subhsandesh.in/templates) |\n| Child | हैप्पी दिवाली | तुम | none; nearest the [Holi page](https://subhsandesh.in/holi) |\n\nOne row of five has a template built for it — the honest state of the product going into November 2026.\n\n## Devanagari on a phone: the one thing worth checking\n\nSend the line to yourself first, in the app you plan to use. Stacked conjuncts — क्ष, द्ध, ज्ञ — are where an old font on someone else's handset gives up, and you cannot see that from your screen. If it arrives mangled, the transliteration is no downgrade: many fluent Hindi speakers read Roman faster, and with 51.8% of opens on a phone that is a live constraint.\n\n## When a Hindi wish is the wrong choice\n\nIf your elder has no smartphone, call: a wish in आप read aloud beats anything typed. If they are in the same room, say it — a forward from two feet away is worse than silence. And if the two of you never speak Hindi together, Hindi on 8 November reads as performance.\n\nThere is no Diwali template on SubhSandesh today, and we would rather say so than sell a workaround: 2,739 pages across 13 page types, and Diwali is not one. For a partner the [romantic 'I love you' page](https://subhsandesh.in/love-gf) holds 914 of those and 13,104 views, but a Diwali message pasted into it is a compromise. And 44.3% password-protect before sharing (1,213 of 2,739) — a festival greeting is the page to leave open, because a wish your uncle cannot open is not a wish.\n\n## Sources\n\n- Ritesh Kumar, \"Developing Politeness Annotated Corpus of Hindi Blogs\", LREC 2014.\n- Hadavizadeh and Singh, \"Leech's Politeness Maxims in Hindi and Persian\", *Studii şi cercetări filologice* 21, 19 December 2022.\n- John T. Platts, *A Dictionary of Urdū, Classical Hindī, and English* (1884) — आप, शुभ, समृद्धि, दीपावली.\n- S. M. Natesa Sastri, *Hindu Feasts, Fasts and Ceremonies* (1903), ch. 5 \"The Dipavali\".\n- R. E. Hume, *The Thirteen Principal Upanishads* (Oxford, 1921) — Bṛhadāraṇyaka Upaniṣad 1.3.28.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Nine Hindi Diwali wishes grouped by recipient",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "For an elder — आप, and शुभ दीपावली"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "For a friend your own age — तुम, or तू if it already runs both ways"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "For a colleague or a client — आप, and nothing personal"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "For the whole family, not one person — आप सभी"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "For a child — तुम, and no prosperity"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/happy-diwali-wishes-in-hindi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Hindi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindi",
+              "https://www.wikidata.org/wiki/Q1568"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "T–V distinction",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/T%E2%80%93V_distinction",
+              "https://www.wikidata.org/wiki/Q1124935"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Brihadaranyaka Upanishad",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad",
+              "https://www.wikidata.org/wiki/Q545112"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Developing Politeness Annotated Corpus of Hindi Blogs",
+            "url": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf",
+            "datePublished": "2014",
+            "publisher": {
+              "@type": "Organization",
+              "name": "LREC 2014 Proceedings"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Leech's Politeness Maxims and Their Hierarchy in Hindi and Persian",
+            "url": "https://zenodo.org/records/7457674",
+            "datePublished": "2022-12-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Studii şi cercetări filologice"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Dictionary of Urdū, Classical Hindī, and English",
+            "url": "https://archive.org/details/platts-a-dictionary-of-urdu-classical-hindi-and-english-1884",
+            "datePublished": "1884",
+            "publisher": {
+              "@type": "Organization",
+              "name": "John T. Platts (Internet Archive scan)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hindu Feasts, Fasts and Ceremonies, Chapter 5: The Dipavali",
+            "url": "https://en.wikisource.org/wiki/Hindu_Feasts,_Fasts_and_Ceremonies/Chapter_5",
+            "datePublished": "1903",
+            "publisher": {
+              "@type": "Organization",
+              "name": "S. M. Natesa Sastri (Wikisource transcription)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Thirteen Principal Upanishads — Bṛhadāraṇyaka 1.3.28",
+            "url": "https://archive.org/details/in.ernet.dli.2015.149196",
+            "datePublished": "1921",
+            "publisher": {
+              "@type": "Organization",
+              "name": "R. E. Hume, Oxford University Press (Internet Archive scan)"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "happy diwali wishes in hindi",
+    "angle": "Wins by being the only post that treats a Hindi Diwali wish as a register decision before a wording one — शुभ दीपावली versus हैप्पी दिवाली, the आप/तुम/तू three-way, and what समृद्धि actually means — sourced to a politeness corpus and to Platts' 1884 dictionary rather than to another list of forwards.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/templates",
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/holi"
+    ],
+    "factsUsed": [
+      "51.8% of shared pages are opened on a phone (17,101 of 33,007 views) — measured 2026-08-19",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=914 — measured 2026-08-19",
+      "2,739 personalised pages created since 2026-03-12, across 13 page types — measured 2026-08-19",
+      "Most popular creation: \"I love you\" page (/love-gf) — 914 pages, 33.4% of everything created — measured 2026-08-19",
+      "Most-viewed template: love-gf — 13,104 views, 39.7% of all page views — measured 2026-08-19",
+      "44.3% of creators password-protect their page before sharing it (1,213 of 2,739) — measured 2026-08-19"
+    ],
+    "sources": [
+      {
+        "url": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf",
+        "stat": "Politeness-annotated corpus of over 479,000 Hindi blog posts and comments: honorific pronouns and honorific verb forms addressed to an elder or a stranger are classed as 'appropriate' (unmarked, expected), while politeness beyond what the relationship calls for is classed 'too polite' and marked impolite",
+        "publishedDate": "2014-01-01"
+      },
+      {
+        "url": "https://zenodo.org/records/7457674",
+        "stat": "Contrasts Hindi's three-tier तू / तुम / आप address system with the two-way T/V split of Persian, French and Spanish: तुम where statuses are equal and the relationship familiar but polite, तू where the addressee is perceived as lower, आप where the addressee ranks higher",
+        "publishedDate": "2022-12-19"
+      },
+      {
+        "url": "https://archive.org/details/platts-a-dictionary-of-urdu-classical-hindi-and-english-1884",
+        "stat": "Lists दीपावली as equal to दिवाली; records आप as literally reflexive ('self, himself, oneself') used reverentially for 'you, Sir, your honour'; glosses समृद्धि as 'great prosperity or success, thriving, increase, gain… well-being, wealth' and शुभ as 'bright, shining… auspicious, fortunate'",
+        "publishedDate": "1884-01-01"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Hindu_Feasts,_Fasts_and_Ceremonies/Chapter_5",
+        "stat": "\"The word Dipavali is a Sanskrit compound, made up of two simple words, Dipa, meaning lights, and avali, a row, thus a row of lights\"; records that in northern India Diwali was the day the year's accounts were closed and new account books opened",
+        "publishedDate": "1903-01-01"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.149196",
+        "stat": "Translation of Bṛhadāraṇyaka Upaniṣad 1.3.28 as 'From darkness lead me to light', with the text glossing the darkness as death and the light as immortality",
+        "publishedDate": "1921-01-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs to six sentences because page-structure.md requires the direct answer, the register rule, the 2026 date and two first-party numbers inside the first 150 words. The nine wish entries also run long by construction: each carries Devanagari, transliteration and an English gloss as separate lines."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Slug keeps the stop word \"in\" (happy-diwali-wishes-in-hindi) because it mirrors the exact keyword, and was pinned and Strapi-verified before drafting. Changing it now desynchronises the filename, batch.json and the research brief."
+        }
+      ],
+      "honestAssessment": "Every page on this query is a list of forwardable lines; none states that Hindi's second person is a three-way, none explains when शुभ दीपावली is the wrong register, and none cites anything — so the register frame plus a politeness corpus and an 1884 dictionary is genuinely uncontested here. Two real limits. The nine wishes are original compositions with no native-speaker review, and the तू line in particular is the riskiest thing on the page — a Hindi reader should check idiom before publishing. And no first-party fact is Diwali-specific: the post's own comparison table shows only one of five recipient types has a template built for it, which is an honest statement of the product's state rather than a selling point."
+    },
+    "generatedAt": "2026-08-19T19:40:00.000Z"
+  }
+}
