@@ -68,7 +68,7 @@ interface RowState {
 
 /** What one push attempt did, returned so a caller does not have to read state back. */
 interface PushOutcome {
-  action: "created" | "updated" | "skipped" | "failed";
+  action: "created" | "updated" | "failed";
   slug: string;
   error?: string;
 }
@@ -296,16 +296,45 @@ export default function BatchesScreen({
   );
 
   /**
-   * Can this blog be pushed? Unpublished always. Published only when edited —
-   * that is the deliberate-update case, and it PUTs rather than creating.
+   * Has anything about this post changed since it was last pushed?
+   *
+   * `changedFields` only diffs the ARTICLE. A post whose author, category or
+   * templates were changed — and nothing else — has plenty to send, and judging
+   * it by article fields alone made the studio refuse to push exactly the change
+   * the user had just made. So links count too, compared against what was
+   * actually pushed (`pushedLinks`) rather than against the batch file, because
+   * batchMeta has no author and resolves its own category.
+   */
+  const hasPendingChange = useCallback(
+    (orig: string) => {
+      const f = fileOf(orig);
+      const e = edits.get(orig);
+      if (!f || !e) return false;
+      if (changedFields(f, e).length) return true;
+      const before = e.pushedLinks;
+      if (!before) return true; // links chosen but never pushed
+      const sameTpl =
+        (before.templateIds || []).length === (e.templateIds || []).length &&
+        (before.templateIds || []).every((id, i) => id === (e.templateIds || [])[i]);
+      return (
+        before.categoryId !== e.categoryId || before.authorId !== e.authorId || !sameTpl
+      );
+    },
+    [fileOf, edits]
+  );
+
+  /**
+   * Can this blog be pushed? Unpublished always. Published only when something
+   * has changed — that is the deliberate-update case, and it PUTs rather than
+   * creating. The editor can still force a push past this (see `force`).
    */
   const pushable = useCallback(
     (f: BatchBlogFile) => {
       const orig = f.article.slug;
       const live = edits.get(orig)?.article.slug ?? orig;
-      return stateOf(live) === "unpublished" || changes.has(orig);
+      return stateOf(live) === "unpublished" || hasPendingChange(orig);
     },
-    [edits, stateOf, changes]
+    [edits, stateOf, hasPendingChange]
   );
 
   /** Per-blog resolved Strapi links + any warnings, computed once per render. */
@@ -388,13 +417,16 @@ export default function BatchesScreen({
         const blog = mergeBatchBlog(file, edit);
         const slug = blog.article.slug;
 
-        // The lock: a live slug with no local edits has nothing to push.
+        // No skipping. Every route into here is an explicit instruction — a row
+        // the user ticked, a Retry they clicked, or the editor's own button — and
+        // refusing those is what made the studio decline to push the very edit
+        // that had just been made. Re-sending an unchanged post is harmless: it
+        // PUTs the same values and revalidates the live page.
+        //
+        // Bulk safety lives in "Select all pushable" instead, which only preloads
+        // rows that are new or actually changed.
         const docId = documentIdFor(orig, slug);
         const isUpdate = Boolean(docId);
-        if (isUpdate && !changedFields(file, edit).length) {
-          outcomes.set(orig, { action: "skipped", slug });
-          continue;
-        }
 
         setRowState((s) => ({ ...s, [orig]: { status: "publishing" } }));
         try {
@@ -473,6 +505,7 @@ export default function BatchesScreen({
               documentId,
               publishState,
               publishedSlug: slug,
+              pushedLinks: { categoryId, authorId: rowAuthorId, templateIds },
               createdAt: edit?.createdAt || now,
               updatedAt: now,
             };
@@ -680,10 +713,7 @@ export default function BatchesScreen({
           if (!outcome || outcome.action === "failed") {
             throw new Error(outcome?.error || "Publish failed");
           }
-          if (outcome.action === "skipped") {
-            throw new Error("Nothing to push — this post is already live and unchanged.");
-          }
-          return { action: outcome.action, slug: outcome.slug };
+          return { action: outcome.action as "created" | "updated", slug: outcome.slug };
         }}
       />
     );
@@ -981,7 +1011,7 @@ export default function BatchesScreen({
                       <td className="px-3 py-2.5 align-top">
                         <input
                           type="checkbox"
-                          disabled={!canPush || publishing}
+                          disabled={publishing}
                           checked={selected.has(orig)}
                           onChange={(e) =>
                             setSelected((prev) => {
@@ -992,11 +1022,11 @@ export default function BatchesScreen({
                             })
                           }
                           title={
-                            canPush
-                              ? isPublished
-                                ? "Edited since it went live — pushing overwrites the Strapi article"
-                                : undefined
-                              : "Already published and unchanged — edit it to push again"
+                            isPublished
+                              ? canPush
+                                ? "Changed since it went live — pushing overwrites the Strapi article"
+                                : "Already live. Ticking it re-sends the current version, which is harmless."
+                              : undefined
                           }
                         />
                       </td>

@@ -333,6 +333,15 @@ export interface BatchBlogEdit {
   publishState?: "published" | "draft";
   /** The slug last successfully pushed to Strapi — lets us detect a slug rename. */
   publishedSlug?: string;
+  /**
+   * The links as they were at the last successful push.
+   *
+   * The baseline for "have the links changed?" cannot be the batch file: it has
+   * no author at all and only names a category *slug* it resolves at publish
+   * time. Without this, a link-only change was invisible and the studio refused
+   * to push the very edit the user had just made.
+   */
+  pushedLinks?: { categoryId?: string; authorId?: string; templateIds?: string[] };
   createdAt: string;
   updatedAt: string;
 }
