@@ -245,6 +245,19 @@ export function TaxonomySelect({
  * relatedTemplates relation). Click a chip to toggle it; `onChange` returns both
  * the selected documentIds and the matching items (so callers can store names).
  */
+/**
+ * Extra search terms for templates whose common name is not their title.
+ *
+ * Everyone says and searches "rakhi"; both pages are titled "Raksha Bandhan" and
+ * live at /happy-rakshabandhan-*, so the one word the entire rakhi corpus uses
+ * matched nothing and the filter looked broken. Keep this table tiny — it exists
+ * for genuine name/title mismatches, not as a tagging system.
+ */
+const SEARCH_ALIASES: Record<string, string> = {
+  "/happy-rakshabandhan-to-brother": "rakhi",
+  "/happy-rakshabandhan-to-sister": "rakhi",
+};
+
 export function TemplateMultiSelect({
   label,
   items,
@@ -272,12 +285,15 @@ export function TemplateMultiSelect({
 
   // With every live template seeded the list is ~52 long, which is past the point
   // where scanning a flat wrap of pills works. Filter across name, category and
-  // url so "rakhi", "wedding" and "/love-gf" all find their template.
+  // url, so "wedding", "raksha bandhan", "rakshabandhan" and "/love-gf" all reach
+  // their template.
   const [q, setQ] = useState("");
   const needle = q.trim().toLowerCase();
   const shown = needle
     ? items.filter((i) =>
-        `${i.name} ${i.category || ""} ${i.url || ""}`.toLowerCase().includes(needle)
+        `${i.name} ${i.category || ""} ${i.url || ""} ${SEARCH_ALIASES[i.url || ""] || ""}`
+          .toLowerCase()
+          .includes(needle)
       )
     : items;
 

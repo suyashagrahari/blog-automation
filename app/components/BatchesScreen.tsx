@@ -37,7 +37,7 @@ import {
 } from "@/app/lib/db";
 import BlogViewer from "./BlogViewer";
 import BatchBlogEditor, { type EditorDraft } from "./BatchBlogEditor";
-import { TaxonomySelect } from "./SettingsPanel";
+import { TaxonomySelect, TemplateMultiSelect } from "./SettingsPanel";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Batches — review and publish the posts Claude Code wrote into
@@ -143,12 +143,19 @@ export default function BatchesScreen({
   authors,
   templates,
   onPublished,
+  onReloadTaxonomy,
+  taxonomyLoading,
+  taxonomyError,
 }: {
   settings: Settings;
   categories: TaxonomyItem[];
   authors: TaxonomyItem[];
   templates: TemplateItem[];
   onPublished?: () => void;
+  /** Re-fetch categories/authors/templates from Strapi without a page reload. */
+  onReloadTaxonomy?: () => void;
+  taxonomyLoading?: boolean;
+  taxonomyError?: string;
 }) {
   const [batches, setBatches] = useState<BatchManifest[]>([]);
   const [openId, setOpenId] = useState<string | null>(null);
@@ -163,7 +170,13 @@ export default function BatchesScreen({
   /** originalSlug → the user's saved edit for that blog. */
   const [edits, setEdits] = useState<Map<string, BatchBlogEdit>>(new Map());
   const [selected, setSelected] = useState<Set<string>>(new Set());
+  // The three bulk pickers. `authorId` doubles as the batch-wide publish default
+  // it already was, so a user who picks an author and pushes without pressing
+  // Apply gets the behaviour this toolbar has always had.
   const [authorId, setAuthorId] = useState<string>("");
+  const [bulkCategoryId, setBulkCategoryId] = useState<string>("");
+  const [bulkTemplateIds, setBulkTemplateIds] = useState<string[]>([]);
+  const [applyMsg, setApplyMsg] = useState("");
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
   const [rowState, setRowState] = useState<Record<string, RowState>>({});
   const [viewingSlug, setViewingSlug] = useState<string | null>(null);
@@ -542,6 +555,45 @@ export default function BatchesScreen({
     [batch, edits]
   );
 
+  /**
+   * Write the toolbar's author / category / template picks onto every selected
+   * post.
+   *
+   * Only the fields actually chosen are written — an empty picker means "leave
+   * this alone", not "clear it". Without that rule, setting a category in bulk
+   * would wipe the templates off all ten posts.
+   *
+   * The article body is carried through untouched: this reuses each post's
+   * current state (its edit if it has one, else the committed file), so applying
+   * links never reverts someone's prose edits.
+   */
+  const applyToSelected = useCallback(async () => {
+    if (!batch || !selected.size) return;
+    const targets = rows.filter((r) => selected.has(r.orig));
+    const parts: string[] = [];
+    if (authorId) parts.push("author");
+    if (bulkCategoryId) parts.push("category");
+    if (bulkTemplateIds.length) parts.push(`${bulkTemplateIds.length} template(s)`);
+    if (!parts.length) {
+      setApplyMsg("Pick an author, a category or at least one template first.");
+      return;
+    }
+
+    for (const r of targets) {
+      await saveEdit(r.orig, {
+        article: r.blog.article,
+        categoryId: bulkCategoryId || edits.get(r.orig)?.categoryId || resolved.get(r.orig)?.categoryId,
+        authorId: authorId || edits.get(r.orig)?.authorId,
+        templateIds: bulkTemplateIds.length
+          ? bulkTemplateIds
+          : edits.get(r.orig)?.templateIds ?? resolved.get(r.orig)?.templateIds ?? [],
+      });
+    }
+    setApplyMsg(
+      `Applied ${parts.join(" + ")} to ${targets.length} post${targets.length === 1 ? "" : "s"}. Push them to send it to Strapi.`
+    );
+  }, [batch, selected, rows, authorId, bulkCategoryId, bulkTemplateIds, edits, resolved, saveEdit]);
+
   /** Throw the edit away; the committed file becomes the shown version again. */
   const revertEdit = useCallback(
     async (orig: string) => {
@@ -756,18 +808,98 @@ export default function BatchesScreen({
         <div className="card p-6 text-sm text-[var(--muted)]">Loading batch…</div>
       ) : (
         <>
-          {/* Toolbar */}
-          <div className="card p-4 flex flex-wrap items-end gap-4">
-            <div className="min-w-[220px]">
+          {/* Bulk Strapi links — the same three controls the Generate tab uses,
+              scoped to whichever posts are ticked below. */}
+          <div className="card p-4 space-y-4">
+            <div className="flex items-center justify-between gap-2 flex-wrap">
+              <div>
+                <h3 className="text-sm font-semibold">Strapi links</h3>
+                <p className="text-[11px] text-[var(--muted)] mt-0.5">
+                  Tick posts below, choose here, then Apply. An empty control is left alone rather than
+                  cleared. Author also serves as the default for any post published from this batch
+                  without one.
+                </p>
+              </div>
+              {onReloadTaxonomy && (
+                <button
+                  type="button"
+                  className="text-xs text-[var(--blue)] hover:underline disabled:opacity-50"
+                  onClick={onReloadTaxonomy}
+                  disabled={taxonomyLoading}
+                  title="Re-fetch categories, authors and templates from Strapi"
+                >
+                  {taxonomyLoading ? "Loading…" : "↻ Reload from Strapi"}
+                </button>
+              )}
+            </div>
+
+            {taxonomyError && (
+              <p className="text-xs" style={{ color: AMBER }}>
+                {taxonomyError}
+              </p>
+            )}
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <TaxonomySelect
-                label="Author (applied to every post published from this batch)"
+                label="Author"
                 items={authors}
                 valueId={authorId || undefined}
                 onSelect={(item) => setAuthorId(item?.documentId || "")}
-                emptyHint="No authors found in Strapi."
+                emptyHint="No authors found — create one in Strapi, then ↻ Reload."
+              />
+              <TaxonomySelect
+                label="Category"
+                items={categories}
+                valueId={bulkCategoryId || undefined}
+                onSelect={(item) => setBulkCategoryId(item?.documentId || "")}
+                emptyHint="No categories found — create one in Strapi, then ↻ Reload."
               />
             </div>
 
+            <TemplateMultiSelect
+              label="Linked Templates (Create-a-surprise CTA)"
+              items={templates}
+              selectedIds={bulkTemplateIds}
+              onChange={(ids) => setBulkTemplateIds(ids)}
+              emptyHint="No templates found — create them in Strapi → Content Manager → Template, then ↻ Reload."
+            />
+
+            <div className="flex items-center gap-3 flex-wrap">
+              <button
+                className="btn btn-primary text-xs"
+                disabled={publishing || selectedCount === 0}
+                onClick={applyToSelected}
+                title={
+                  selectedCount === 0
+                    ? "Tick at least one post below"
+                    : `Write these links onto the ${selectedCount} selected post(s)`
+                }
+              >
+                Apply to selected ({selectedCount})
+              </button>
+              {(authorId || bulkCategoryId || bulkTemplateIds.length > 0) && (
+                <button
+                  className="btn btn-ghost text-xs"
+                  onClick={() => {
+                    setAuthorId("");
+                    setBulkCategoryId("");
+                    setBulkTemplateIds([]);
+                    setApplyMsg("");
+                  }}
+                >
+                  Reset pickers
+                </button>
+              )}
+              {applyMsg && (
+                <span className="text-[11px]" style={{ color: "var(--green)" }}>
+                  {applyMsg}
+                </span>
+              )}
+            </div>
+          </div>
+
+          {/* Selection + publish toolbar */}
+          <div className="card p-4 flex flex-wrap items-end gap-4">
             <Segmented
               label="Show"
               value={statusFilter}

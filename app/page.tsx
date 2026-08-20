@@ -829,6 +829,9 @@ export default function Home() {
               authors={authors}
               templates={templates}
               onPublished={refreshBlogs}
+              onReloadTaxonomy={() => loadTaxonomy(settings)}
+              taxonomyLoading={taxonomyLoading}
+              taxonomyError={taxonomyError}
             />
           )}
 
