@@ -91,7 +91,7 @@ content/batches/<batchId>/
   "batchMeta": {
     "keyword": "diwali gift ideas for parents living abroad",
     "angle": "Wins by being the only post that gives real international delivery cut-off dates alongside an instant digital alternative, using SubhSandesh's own 52.7% mobile-open rate.",
-    "categorySlug": "festivals",
+    "categorySlug": "indian-festivals",
     "templateUrls": ["/templates", "/birthday-parents"],
     "factsUsed": [
       "52.7% of shared pages are opened on a phone (16,214 of 30,794 views) — measured 2026-08-12",

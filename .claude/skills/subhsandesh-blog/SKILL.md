@@ -160,6 +160,12 @@ inconvenient number.
   slug; an invented one 404s.
 - Choose `batchMeta.categorySlug` from the live Strapi categories:
   `https://strapi.subhsandesh.in/api/categories?fields[0]=name&fields[1]=slug&pagination[pageSize]=200`
+  **Anything tied to a festival — Raksha Bandhan, Diwali, Holi, Eid, Navratri,
+  Bhai Dooj — goes in `indian-festivals`.** That is the festival hub the blog's
+  category rail surfaces, and splitting festival posts across
+  `family-and-continuity` or the older `festive-beats` divides the cluster's
+  internal linking for no gain. Use a relationship category only when the
+  festival is incidental to the post.
 - Choose 1–3 `batchMeta.templateUrls` from `TEMPLATE_LINKS` — the ones genuinely
   relevant to this keyword (a Holi post links `/holi`; an apology post links
   `/apology-dashboard`). These become the article's `relatedTemplates`.
