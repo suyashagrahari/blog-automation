@@ -270,6 +270,23 @@ export function TemplateMultiSelect({
     emit(next);
   };
 
+  // With every live template seeded the list is ~52 long, which is past the point
+  // where scanning a flat wrap of pills works. Filter across name, category and
+  // url so "rakhi", "wedding" and "/love-gf" all find their template.
+  const [q, setQ] = useState("");
+  const needle = q.trim().toLowerCase();
+  const shown = needle
+    ? items.filter((i) =>
+        `${i.name} ${i.category || ""} ${i.url || ""}`.toLowerCase().includes(needle)
+      )
+    : items;
+
+  // Selected templates stay visible while filtering — otherwise a search hides
+  // what you already picked and the count in "Clear (n)" has nothing to point at.
+  const list = needle
+    ? [...shown, ...items.filter((i) => selected.has(i.documentId) && !shown.includes(i))]
+    : items;
+
   return (
     <div>
       <div className="flex items-center justify-between">
@@ -287,32 +304,53 @@ export function TemplateMultiSelect({
       {items.length === 0 ? (
         emptyHint && <p className="text-[11px] text-[var(--muted)] mt-1">{emptyHint}</p>
       ) : (
-        <div
-          className="flex flex-wrap gap-2 mt-1 max-h-44 overflow-y-auto rounded-lg p-2"
-          style={{ background: "var(--bg)", border: "1px solid var(--border)" }}
-        >
-          {items.map((i) => {
-            const on = selected.has(i.documentId);
-            return (
-              <button
-                key={i.documentId}
-                type="button"
-                onClick={() => toggle(i.documentId)}
-                className="pill transition-colors"
-                title={i.url || i.name}
-                style={{
-                  background: on ? "rgba(108,99,255,0.18)" : "var(--panel-2)",
-                  color: on ? "var(--accent-2)" : "var(--muted)",
-                  border: on ? "1px solid var(--accent)" : "1px solid var(--border)",
-                }}
-              >
-                {on ? "✓ " : ""}
-                {i.emoji ? `${i.emoji} ` : ""}
-                {i.name}
-              </button>
-            );
-          })}
-        </div>
+        <>
+          {items.length > 12 && (
+            <div className="flex items-center gap-2 mt-1">
+              <input
+                type="search"
+                value={q}
+                onChange={(e) => setQ(e.target.value)}
+                placeholder={`Filter ${items.length} templates — name, category or path…`}
+                className="field text-xs py-1.5"
+              />
+              <span className="text-[11px] text-[var(--muted)] whitespace-nowrap tabular-nums">
+                {needle ? `${shown.length}/${items.length}` : items.length}
+              </span>
+            </div>
+          )}
+          <div
+            className="flex flex-wrap gap-2 mt-1 max-h-56 overflow-y-auto rounded-lg p-2"
+            style={{ background: "var(--bg)", border: "1px solid var(--border)" }}
+          >
+            {list.map((i) => {
+              const on = selected.has(i.documentId);
+              return (
+                <button
+                  key={i.documentId}
+                  type="button"
+                  onClick={() => toggle(i.documentId)}
+                  className="pill transition-colors"
+                  title={[i.name, i.category, i.url].filter(Boolean).join(" · ")}
+                  style={{
+                    background: on ? "rgba(108,99,255,0.18)" : "var(--panel-2)",
+                    color: on ? "var(--accent-2)" : "var(--muted)",
+                    border: on ? "1px solid var(--accent)" : "1px solid var(--border)",
+                  }}
+                >
+                  {on ? "✓ " : ""}
+                  {i.emoji ? `${i.emoji} ` : ""}
+                  {i.name}
+                </button>
+              );
+            })}
+            {needle && shown.length === 0 && (
+              <p className="text-[11px] text-[var(--muted)] px-1 py-2">
+                Nothing matches “{q.trim()}”.
+              </p>
+            )}
+          </div>
+        </>
       )}
     </div>
   );
