@@ -274,6 +274,38 @@ export async function publishArticle(
   return { documentId: data.documentId, publishState: data.publishState || "draft" };
 }
 
+/**
+ * Overwrite an article that already exists in Strapi, by documentId.
+ *
+ * This is the "edit and push again" path. `publishArticle` can only create, and
+ * its slug-conflict retry would turn a second push of the same post into
+ * `<slug>-2` — two live URLs competing for one keyword. Throws on failure.
+ */
+export async function updateArticle(
+  settings: Settings,
+  documentId: string,
+  article: GeneratedArticle,
+  links?: { categoryId?: string; authorId?: string; templateIds?: string[] }
+): Promise<PublishResult> {
+  if (!settings.strapiUrl) throw new Error("Strapi URL not set");
+  const res = await fetch("/api/strapi", {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      strapiUrl: settings.strapiUrl,
+      strapiToken: settings.strapiToken,
+      documentId,
+      article,
+      categoryId: links?.categoryId || undefined,
+      authorId: links?.authorId || undefined,
+      templateIds: links?.templateIds?.length ? links.templateIds : undefined,
+    }),
+  });
+  const data = (await res.json()) as { documentId?: string; publishState?: "published" | "draft"; error?: string };
+  if (!res.ok || data.error) throw new Error(data.error || `Strapi update failed (${res.status})`);
+  return { documentId: data.documentId || documentId, publishState: data.publishState || "draft" };
+}
+
 /** Fetch the Strapi categories + authors + templates (for the connect dropdowns). */
 export async function fetchTaxonomy(
   settings: Settings
@@ -385,12 +417,34 @@ export async function fetchBatch(id: string): Promise<BatchWithBlogs> {
  * publish call itself would fail loudly anyway).
  */
 export async function fetchPublishedSlugs(settings: Settings): Promise<Set<string>> {
-  if (!settings.strapiUrl) return new Set();
+  return new Set((await fetchPublishedIndex(settings)).keys());
+}
+
+/**
+ * Every slug already in Strapi, mapped to its documentId — the lock AND the
+ * handle needed to update rather than duplicate.
+ *
+ * The documentId is what lets an edited post be pushed again from a browser that
+ * never published it (a different machine, or a fresh Vercel preview URL whose
+ * IndexedDB is empty). Returns an empty map when Strapi isn't configured so the
+ * UI still renders.
+ */
+export async function fetchPublishedIndex(settings: Settings): Promise<Map<string, string>> {
+  if (!settings.strapiUrl) return new Map();
   const res = await fetch(`/api/strapi/slugs?strapiUrl=${encodeURIComponent(settings.strapiUrl)}`, {
     headers: settings.strapiToken ? { "x-strapi-token": settings.strapiToken } : {},
     cache: "no-store",
   });
-  const data = (await res.json()) as { slugs?: string[]; error?: string };
+  const data = (await res.json()) as {
+    slugs?: string[];
+    articles?: { slug: string; documentId: string }[];
+    error?: string;
+  };
   if (!res.ok || data.error) throw new Error(data.error || `Failed to load published slugs (${res.status})`);
-  return new Set(data.slugs || []);
+  // Prefer the richer `articles` shape; fall back to bare slugs so an older
+  // deploy of this route (or a cached response) still produces a working lock.
+  if (data.articles?.length) {
+    return new Map(data.articles.map((a) => [a.slug, a.documentId]));
+  }
+  return new Map((data.slugs || []).map((s) => [s, ""]));
 }

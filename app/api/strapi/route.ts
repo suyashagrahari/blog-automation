@@ -1,8 +1,23 @@
-import type { GeneratedArticle, StrapiPublishBody, TaxonomyItem, TemplateItem } from "@/app/lib/types";
+import type {
+  GeneratedArticle,
+  StrapiPublishBody,
+  StrapiUpdateBody,
+  TaxonomyItem,
+  TemplateItem,
+} from "@/app/lib/types";
 
-// Publish a generated article to Strapi. Tries the custom create-and-publish
-// endpoint first (instant publish → fires the revalidate webhook). Falls back to
-// the standard REST create (which makes a draft) if that endpoint isn't present.
+// Publish a generated article to Strapi.
+//
+//   POST → create. Tries the custom create-and-publish endpoint first (instant
+//          publish → fires the revalidate webhook), falling back to the standard
+//          REST create (which makes a draft) if that endpoint isn't present.
+//   PUT  → overwrite an article that already exists, by documentId. This is what
+//          makes "edit an already-published post and push again" work: without
+//          it, a second push hits the slug-conflict retry and creates
+//          `<slug>-2`, quietly splitting the post into two live URLs.
+//
+// Both share toStrapiData(), so an update writes exactly the fields a create
+// would — no partial-payload surprises where an edit silently drops the FAQs.
 
 export const runtime = "nodejs";
 export const maxDuration = 120;
@@ -177,6 +192,76 @@ async function tryPost(url: string, headers: Record<string, string>, payload: un
     }
     const d = data as { data?: { documentId?: string } };
     return { ok: true, status: res.status, documentId: d?.data?.documentId, error: "" };
+  } catch (err) {
+    return { ok: false, status: 0, error: err instanceof Error ? err.message : "Network error" };
+  }
+}
+
+/**
+ * PUT → overwrite an existing article. The whole article is sent, so a field the
+ * user cleared in the editor is actually cleared in Strapi rather than keeping a
+ * stale value.
+ *
+ * A slug change is allowed and is the point of the endpoint, but it can still
+ * collide with a *different* article that already owns the target slug. Strapi
+ * reports that as a uniqueness error, which is surfaced as-is: silently renaming
+ * to `<slug>-2` on an update would be much worse than a create, because the user
+ * asked for one specific URL.
+ */
+export async function PUT(req: Request) {
+  let body: StrapiUpdateBody;
+  try {
+    body = (await req.json()) as StrapiUpdateBody;
+  } catch {
+    return json({ error: "Invalid JSON body" }, 400);
+  }
+
+  const { strapiUrl, strapiToken, documentId, article, categoryId, authorId, templateIds } = body;
+  if (!strapiUrl || !documentId || !article) {
+    return json({ error: "Missing strapiUrl, documentId or article" }, 400);
+  }
+
+  const base = strapiUrl.replace(/\/+$/, "");
+  const headers: Record<string, string> = { "Content-Type": "application/json" };
+  if (strapiToken) headers.Authorization = `Bearer ${strapiToken}`;
+
+  const payload = { data: toStrapiData(article, categoryId, authorId, templateIds) };
+
+  // 1) custom update-and-publish endpoint — keeps the post published and fires
+  //    the revalidate webhook so the live page reflects the edit immediately.
+  const custom = await tryPut(`${base}/api/articles/automation/${documentId}`, headers, payload);
+  if (custom.ok) return json({ documentId, publishState: "published", slug: article.slug });
+  if (custom.status !== 404 && custom.status !== 405) {
+    return json({ error: custom.error }, 502);
+  }
+
+  // 2) fallback: standard REST update. Leaves the entry as a draft revision, so
+  //    say so rather than reporting a publish that did not happen.
+  const std = await tryPut(`${base}/api/articles/${documentId}`, headers, payload);
+  if (std.ok) return json({ documentId, publishState: "draft", slug: article.slug });
+  return json({ error: std.error }, 502);
+}
+
+interface PutResult {
+  ok: boolean;
+  status: number;
+  error: string;
+}
+
+async function tryPut(url: string, headers: Record<string, string>, payload: unknown): Promise<PutResult> {
+  try {
+    const res = await fetch(url, { method: "PUT", headers, body: JSON.stringify(payload) });
+    let data: unknown = null;
+    try {
+      data = await res.json();
+    } catch {
+      /* non-json (e.g. html 404 page) */
+    }
+    if (!res.ok) {
+      const d = data as { error?: { message?: string } } | null;
+      return { ok: false, status: res.status, error: `Strapi ${res.status}: ${d?.error?.message || res.statusText}` };
+    }
+    return { ok: true, status: res.status, error: "" };
   } catch (err) {
     return { ok: false, status: 0, error: err instanceof Error ? err.message : "Network error" };
   }

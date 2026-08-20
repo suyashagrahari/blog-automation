@@ -201,6 +201,17 @@ export interface StrapiPublishBody {
   templateIds?: string[];
 }
 
+/** Body for PUT /api/strapi — overwrite an existing article with a full payload. */
+export interface StrapiUpdateBody {
+  strapiUrl: string;
+  strapiToken: string;
+  documentId: string;
+  article: GeneratedArticle;
+  categoryId?: string;
+  authorId?: string;
+  templateIds?: string[];
+}
+
 export interface StrapiConnectBody {
   strapiUrl: string;
   strapiToken: string;
@@ -285,3 +296,43 @@ export interface BatchWithBlogs extends BatchManifest {
 
 /** Per-blog publish state derived from the live Strapi slug set. */
 export type BatchPublishState = "unpublished" | "published";
+
+/**
+ * A user's edits to one batch blog.
+ *
+ * Batch blogs are read from `content/batches/` on disk, and that filesystem is
+ * read-only in the deployed studio — so an edit cannot be written back to the
+ * committed file. It lives here instead, in IndexedDB, keyed by batch + the
+ * blog's ORIGINAL slug so the committed file stays the pristine baseline. That
+ * is what makes "revert to original" possible at any time, and it is why
+ * `originalSlug` is the key rather than `article.slug`: editing the slug must
+ * not orphan the record from the file it overrides.
+ *
+ * `article` is a complete GeneratedArticle, not a patch. A patch would need a
+ * merge rule per field (what does an empty tags array mean — cleared, or
+ * untouched?) and publishing already wants the whole article anyway.
+ */
+export interface BatchBlogEdit {
+  /** IndexedDB key — `${batchId}::${originalSlug}`. */
+  id: string;
+  /** Owning batch directory id (indexed). */
+  batchId: string;
+  /** The slug as committed in the batch file. Never changes once the record exists. */
+  originalSlug: string;
+  /** The edited article in full. */
+  article: GeneratedArticle;
+  /** Strapi links chosen in the editor; override whatever batchMeta resolved to. */
+  categoryId?: string;
+  authorId?: string;
+  templateIds?: string[];
+  /**
+   * Strapi documentId, once this blog has been pushed. Its presence is what
+   * turns the next push into an update instead of a second create.
+   */
+  documentId?: string;
+  publishState?: "published" | "draft";
+  /** The slug last successfully pushed to Strapi — lets us detect a slug rename. */
+  publishedSlug?: string;
+  createdAt: string;
+  updatedAt: string;
+}

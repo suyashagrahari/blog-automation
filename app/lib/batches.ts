@@ -1,4 +1,5 @@
 import type {
+  BatchBlogEdit,
   BatchBlogFile,
   BatchManifest,
   BatchPublishState,
@@ -184,4 +185,111 @@ export function resolveTemplateIds(
  */
 export function batchBlogPublishState(slug: string, strapiSlugs: Set<string>): BatchPublishState {
   return strapiSlugs.has(slug) ? "published" : "unpublished";
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Edits — overlaying a user's changes on a committed batch file.
+// Pure, so the route handler, the UI and `node --test` all share one definition
+// of "what does this blog look like now".
+// ─────────────────────────────────────────────────────────────────────────────
+
+/** The fields the editor exposes, in the order the UI shows them. */
+export const EDITABLE_FIELDS = [
+  "title",
+  "slug",
+  "canonicalURL",
+  "excerpt",
+  "contentMarkdown",
+  "tags",
+  "keyTakeaways",
+  "faqs",
+  "metaTitle",
+  "metaDescription",
+  "keywords",
+  "ogType",
+] as const;
+
+export type EditableField = (typeof EDITABLE_FIELDS)[number];
+
+/**
+ * The blog as it stands now: the committed file, with any edit laid over it.
+ *
+ * Returns the file's own article object unchanged when there is no edit, so
+ * `mergeBatchBlog(f, undefined).article === f.article` — callers can use identity
+ * to skip work.
+ */
+export function mergeBatchBlog(
+  file: BatchBlogFile,
+  edit: BatchBlogEdit | undefined
+): BatchBlogFile {
+  if (!edit) return file;
+  return { ...file, article: edit.article };
+}
+
+/**
+ * Which editable fields differ between the committed file and an edit.
+ *
+ * Used for the "edited" badge and for the editor's per-field revert, so the user
+ * can always see exactly what they changed rather than a single opaque flag.
+ * Arrays and FAQs compare by value; a reordered tags list counts as a change,
+ * which is correct — order is what renders.
+ */
+export function changedFields(file: BatchBlogFile, edit: BatchBlogEdit | undefined): EditableField[] {
+  if (!edit) return [];
+  const orig = file.article;
+  const next = edit.article;
+  const out: EditableField[] = [];
+  for (const f of EDITABLE_FIELDS) {
+    if (f === "faqs") {
+      const a = orig.faqs || [];
+      const b = next.faqs || [];
+      const same =
+        a.length === b.length &&
+        a.every((x, i) => x.question === b[i].question && x.answer === b[i].answer);
+      if (!same) out.push(f);
+      continue;
+    }
+    if (f === "tags" || f === "keyTakeaways") {
+      const a = orig[f] || [];
+      const b = next[f] || [];
+      if (a.length !== b.length || a.some((x, i) => x !== b[i])) out.push(f);
+      continue;
+    }
+    if ((orig[f] || "") !== (next[f] || "")) out.push(f);
+  }
+  return out;
+}
+
+/**
+ * Rebuild the canonical URL after a slug edit.
+ *
+ * The canonical is the one field a slug change silently invalidates: leaving a
+ * stale canonical pointing at the old path tells Google the post is a duplicate
+ * of a URL that does not exist. Only rewritten when the existing canonical
+ * actually ends in the old slug — a hand-written canonical pointing somewhere
+ * else is deliberate and left alone.
+ */
+export function recanonicalise(
+  canonicalURL: string | undefined,
+  oldSlug: string,
+  newSlug: string
+): string | undefined {
+  if (!canonicalURL || !oldSlug || oldSlug === newSlug) return canonicalURL;
+  const re = new RegExp(`(/)${oldSlug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/?$`);
+  if (!re.test(canonicalURL)) return canonicalURL;
+  return canonicalURL.replace(re, `$1${newSlug}`);
+}
+
+/**
+ * Normalise a user-typed slug the same way the generator does, so a hand-edited
+ * slug can never be one Strapi rejects or one that renders a broken URL.
+ */
+export function normaliseSlug(input: string): string {
+  return input
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 }

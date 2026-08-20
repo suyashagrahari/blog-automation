@@ -1,4 +1,4 @@
-import type { Project, StoredBlog } from "./types";
+import type { BatchBlogEdit, Project, StoredBlog } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // IndexedDB store for projects and their fully-generated blogs.
@@ -12,12 +12,16 @@ import type { Project, StoredBlog } from "./types";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const DB_NAME = "blog-automation";
-const DB_VERSION = 2;
+const DB_VERSION = 3;
 const STORE = "blogs";
 const PROJECTS = "projects";
+const BATCH_EDITS = "batchEdits";
 
 /** Build the globally-unique blog store key from a project + keyword-row id. */
 export const blogKey = (projectId: string, rowId: string) => `${projectId}::${rowId}`;
+
+/** Build the batch-edit store key. Always the ORIGINAL slug — see BatchBlogEdit. */
+export const batchEditKey = (batchId: string, originalSlug: string) => `${batchId}::${originalSlug}`;
 
 function openDB(): Promise<IDBDatabase> {
   return new Promise((resolve, reject) => {
@@ -47,6 +51,12 @@ function openDB(): Promise<IDBDatabase> {
       if (!db.objectStoreNames.contains(PROJECTS)) {
         const p = db.createObjectStore(PROJECTS, { keyPath: "id" });
         p.createIndex("createdAt", "createdAt", { unique: false });
+      }
+
+      // v3 → batch edit overrides.
+      if (!db.objectStoreNames.contains(BATCH_EDITS)) {
+        const e = db.createObjectStore(BATCH_EDITS, { keyPath: "id" });
+        e.createIndex("batchId", "batchId", { unique: false });
       }
     };
     req.onsuccess = () => resolve(req.result);
@@ -147,4 +157,43 @@ export async function countBlogsByProject(projectId: string): Promise<number> {
   } catch {
     return 0;
   }
+}
+
+// ── Batch edits (overrides over the committed batch files) ────────────────────
+
+/** Insert or overwrite the edit record for one batch blog. */
+export async function saveBatchEdit(edit: BatchBlogEdit): Promise<void> {
+  await tx(BATCH_EDITS, "readwrite", (s) => s.put(edit));
+}
+
+/** Every edit in one batch, keyed by original slug for O(1) lookup during render. */
+export async function getBatchEdits(batchId: string): Promise<Map<string, BatchBlogEdit>> {
+  try {
+    const all = await tx<BatchBlogEdit[]>(BATCH_EDITS, "readonly", (s) =>
+      s.index("batchId").getAll(batchId) as IDBRequest<BatchBlogEdit[]>
+    );
+    return new Map(all.map((e) => [e.originalSlug, e]));
+  } catch {
+    // Store missing (private mode, blocked upgrade) — behave as "no edits" so the
+    // batch still renders from its committed files.
+    return new Map();
+  }
+}
+
+export async function getBatchEdit(
+  batchId: string,
+  originalSlug: string
+): Promise<BatchBlogEdit | undefined> {
+  try {
+    return await tx<BatchBlogEdit | undefined>(BATCH_EDITS, "readonly", (s) =>
+      s.get(batchEditKey(batchId, originalSlug)) as IDBRequest<BatchBlogEdit | undefined>
+    );
+  } catch {
+    return undefined;
+  }
+}
+
+/** Discard an edit, restoring the committed file as the shown version. */
+export async function deleteBatchEdit(batchId: string, originalSlug: string): Promise<void> {
+  await tx(BATCH_EDITS, "readwrite", (s) => s.delete(batchEditKey(batchId, originalSlug)));
 }

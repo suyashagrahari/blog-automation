@@ -49,6 +49,8 @@ export default function BlogViewer({
   onConnect,
   onSaveCover,
   batchMeta,
+  onEdit,
+  editedFields = [],
 }: {
   blog: StoredBlog;
   onBack: () => void;
@@ -71,6 +73,17 @@ export default function BlogViewer({
   onSaveCover?: (blogId: string, coverImageUrl: string) => Promise<void>;
   /** Present only for Claude-Code batch blogs — adds the Audit tab. */
   batchMeta?: BatchMeta;
+  /**
+   * Open the editor for this post. Provided for batch blogs, whose baseline is a
+   * committed file that the editor overrides — a Library blog IS its record and
+   * has no separate baseline, so it gets no button.
+   */
+  onEdit?: () => void;
+  /**
+   * Names of the fields that differ from the committed batch file, so the
+   * preview says plainly that it is not showing what is in the repo.
+   */
+  editedFields?: string[];
 }) {
   const [tab, setTab] = useState<Tab>("article");
   const a = blog.article;
@@ -182,6 +195,11 @@ export default function BlogViewer({
           {backLabel}
         </button>
         <div className="flex items-center gap-2 flex-wrap justify-end">
+          {onEdit && (
+            <button className="btn btn-primary" onClick={onEdit}>
+              ✏️ Edit content & link
+            </button>
+          )}
           <CopyBtn text={coverPrompt} label="🖼 Copy Image Prompt" />
           <CopyBtn text={a.contentMarkdown || ""} label="Copy Markdown" />
           {onDelete && (
@@ -204,6 +222,15 @@ export default function BlogViewer({
               }}
             >
               {blog.publishState === "published" ? "● Published" : "● Draft"}
+            </span>
+          )}
+          {editedFields.length > 0 && (
+            <span
+              className="pill"
+              style={{ background: "rgba(245,158,11,0.16)", color: AMBER }}
+              title={`Differs from the committed batch file in: ${editedFields.join(", ")}`}
+            >
+              ✏️ Edited locally · {editedFields.length} field{editedFields.length === 1 ? "" : "s"}
             </span>
           )}
           <span className="pill" style={{ background: "var(--panel-2)", color: "var(--muted)" }}>

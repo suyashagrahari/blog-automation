@@ -1,4 +1,5 @@
-// Return every article slug that exists in Strapi — draft OR published.
+// Return every article slug that exists in Strapi — draft OR published — each
+// with its documentId.
 //
 // This is the published-lock for the Batches section. IndexedDB can't be the
 // lock: the user publishes from Vercel preview URLs that change per branch, so
@@ -8,6 +9,12 @@
 //
 // `status=draft` in Strapi v5 returns drafts *and* published entries, so a post
 // saved as a draft still counts as taken.
+//
+// The documentId matters as much as the slug: it is the only way to UPDATE a post
+// that was published from a different browser or a previous deploy. Without it,
+// re-publishing an edited post could only create, and Strapi's slug-conflict
+// retry would split it into `<slug>-2`. `slugs` is still returned alongside
+// `articles` so nothing that only needs the lock has to change.
 
 export const runtime = "nodejs";
 export const maxDuration = 60;
@@ -25,15 +32,15 @@ export async function GET(req: Request) {
   const headers: Record<string, string> = {};
   if (strapiToken) headers.Authorization = `Bearer ${strapiToken}`;
 
-  const slugs = new Set<string>();
+  const bySlug = new Map<string, string>(); // slug → documentId
   try {
     for (let page = 1; page <= MAX_PAGES; page++) {
       const url =
-        `${base}/api/articles?fields[0]=slug&status=draft` +
+        `${base}/api/articles?fields[0]=slug&fields[1]=documentId&status=draft` +
         `&pagination[page]=${page}&pagination[pageSize]=${PAGE_SIZE}`;
       const res = await fetch(url, { headers, cache: "no-store" });
       const data = (await res.json().catch(() => null)) as {
-        data?: { slug?: string; attributes?: { slug?: string } }[];
+        data?: { slug?: string; documentId?: string; attributes?: { slug?: string } }[];
         error?: { message?: string };
       } | null;
 
@@ -44,11 +51,16 @@ export async function GET(req: Request) {
       const list = data?.data || [];
       for (const row of list) {
         const slug = row.slug ?? row.attributes?.slug;
-        if (slug) slugs.add(slug);
+        // First writer wins. A draft and its published revision share a
+        // documentId, so a duplicate slug here is the same post, not a clash.
+        if (slug && !bySlug.has(slug)) bySlug.set(slug, String(row.documentId ?? ""));
       }
       if (list.length < PAGE_SIZE) break;
     }
-    return json({ slugs: [...slugs] });
+    return json({
+      slugs: [...bySlug.keys()],
+      articles: [...bySlug].map(([slug, documentId]) => ({ slug, documentId })),
+    });
   } catch (err) {
     const message = err instanceof Error ? err.message : "Failed to reach Strapi";
     console.error(`${TAG} ✖`, message);

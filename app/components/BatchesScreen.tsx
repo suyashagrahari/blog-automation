@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type {
+  BatchBlogEdit,
   BatchBlogFile,
   BatchManifest,
   BatchWithBlogs,
@@ -12,13 +13,30 @@ import type {
 } from "@/app/lib/types";
 import {
   batchBlogPublishState,
+  changedFields,
+  mergeBatchBlog,
   resolveCategoryId,
   resolveTemplateIds,
   wordCount,
 } from "@/app/lib/batches";
-import { fetchBatch, fetchBatches, fetchPublishedSlugs, publishArticle } from "@/app/lib/client";
-import { getProject, saveBlog, saveProject } from "@/app/lib/db";
+import {
+  fetchBatch,
+  fetchBatches,
+  fetchPublishedIndex,
+  publishArticle,
+  updateArticle,
+} from "@/app/lib/client";
+import {
+  batchEditKey,
+  deleteBatchEdit,
+  getBatchEdits,
+  getProject,
+  saveBatchEdit,
+  saveBlog,
+  saveProject,
+} from "@/app/lib/db";
 import BlogViewer from "./BlogViewer";
+import BatchBlogEditor, { type EditorDraft } from "./BatchBlogEditor";
 import { TaxonomySelect } from "./SettingsPanel";
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -28,8 +46,13 @@ import { TaxonomySelect } from "./SettingsPanel";
 // The published-lock is the live Strapi slug set, NOT local state: the user
 // publishes from Vercel preview URLs that change per branch, so anything stored
 // only in this browser would be invisible on the next deploy and the same post
-// could go out twice. A slug that already exists in Strapi renders as published
-// with its checkbox disabled.
+// could go out twice.
+//
+// The lock blocks a duplicate CREATE, not a deliberate UPDATE. A published post
+// that has been edited here is selectable again, and pushing it PUTs over the
+// existing Strapi document by documentId — which is why the lock is a
+// slug → documentId map rather than a set of slugs. A published post with no
+// edits stays disabled: there is nothing to push.
 // ─────────────────────────────────────────────────────────────────────────────
 
 type StatusFilter = "all" | "unpublished" | "published";
@@ -37,8 +60,17 @@ type RowStatus = "idle" | "publishing" | "done" | "error";
 interface RowState {
   status: RowStatus;
   error?: string;
+  /** Whether the successful push created the article or overwrote an existing one. */
+  action?: "created" | "updated";
   /** Non-fatal problems (category/template didn't resolve) — published anyway. */
   warning?: string;
+}
+
+/** What one push attempt did, returned so a caller does not have to read state back. */
+interface PushOutcome {
+  action: "created" | "updated" | "skipped" | "failed";
+  slug: string;
+  error?: string;
 }
 
 const AMBER = "#f59e0b";
@@ -120,13 +152,25 @@ export default function BatchesScreen({
 }) {
   const [batches, setBatches] = useState<BatchManifest[]>([]);
   const [openId, setOpenId] = useState<string | null>(null);
-  const [batch, setBatch] = useState<BatchWithBlogs | null>(null);
-  const [strapiSlugs, setStrapiSlugs] = useState<Set<string>>(new Set());
+  /**
+   * The loaded batch, tagged with the id it was loaded for. Derived below rather
+   * than cleared in an effect: tagging means a stale batch can never be rendered
+   * under a newly-opened id, and it removes a setState-in-effect cascade.
+   */
+  const [loadedBatch, setLoadedBatch] = useState<{ id: string; data: BatchWithBlogs } | null>(null);
+  /** slug → Strapi documentId for every article already in Strapi. */
+  const [published, setPublished] = useState<Map<string, string>>(new Map());
+  /** originalSlug → the user's saved edit for that blog. */
+  const [edits, setEdits] = useState<Map<string, BatchBlogEdit>>(new Map());
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [authorId, setAuthorId] = useState<string>("");
   const [statusFilter, setStatusFilter] = useState<StatusFilter>("all");
   const [rowState, setRowState] = useState<Record<string, RowState>>({});
   const [viewingSlug, setViewingSlug] = useState<string | null>(null);
+  /** Original slug of the blog open in the editor. */
+  const [editingSlug, setEditingSlug] = useState<string | null>(null);
+
+  const batch = loadedBatch && loadedBatch.id === openId ? loadedBatch.data : null;
 
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -138,18 +182,18 @@ export default function BatchesScreen({
   // a loud banner saying nothing is locked, rather than a blank screen.
   const loadLock = useCallback(async () => {
     try {
-      setStrapiSlugs(await fetchPublishedSlugs(settings));
+      setPublished(await fetchPublishedIndex(settings));
       setLockError("");
     } catch (err) {
-      setStrapiSlugs(new Set());
+      setPublished(new Map());
       setLockError(err instanceof Error ? err.message : "Could not reach Strapi");
     }
   }, [settings]);
 
   useEffect(() => {
     let alive = true;
-    setLoading(true);
     (async () => {
+      setLoading(true);
       const [list] = await Promise.allSettled([fetchBatches(), loadLock()]);
       if (!alive) return;
       if (list.status === "fulfilled") {
@@ -167,15 +211,14 @@ export default function BatchesScreen({
 
   // ── open one batch ────────────────────────────────────────────────────────
   useEffect(() => {
-    if (!openId) {
-      setBatch(null);
-      return;
-    }
+    if (!openId) return;
+    const id = openId;
     let alive = true;
-    fetchBatch(openId)
-      .then((b) => {
+    Promise.all([fetchBatch(id), getBatchEdits(id)])
+      .then(([b, e]) => {
         if (!alive) return;
-        setBatch(b);
+        setLoadedBatch({ id, data: b });
+        setEdits(e);
         setSelected(new Set());
         setRowState({});
         setError("");
@@ -186,9 +229,70 @@ export default function BatchesScreen({
     };
   }, [openId]);
 
+  const publishedSlugs = useMemo(() => new Set(published.keys()), [published]);
+
   const stateOf = useCallback(
-    (slug: string) => batchBlogPublishState(slug, strapiSlugs),
-    [strapiSlugs]
+    (slug: string) => batchBlogPublishState(slug, publishedSlugs),
+    [publishedSlugs]
+  );
+
+  /**
+   * Every blog as it stands now — committed file with the user's edit laid over
+   * it. Everything downstream (table, viewer, publish) reads this, so an edited
+   * post is never published from its stale committed version.
+   *
+   * Keyed by ORIGINAL slug throughout, because the slug itself is editable and a
+   * renamed post must still map back to the file it came from.
+   */
+  const effective = useMemo(
+    () => (batch?.loaded || []).map((f) => mergeBatchBlog(f, edits.get(f.article.slug))),
+    [batch, edits]
+  );
+
+  /** originalSlug → which fields the user changed. Drives the "edited" badge. */
+  const changes = useMemo(() => {
+    const m = new Map<string, string[]>();
+    for (const f of batch?.loaded || []) {
+      const c = changedFields(f, edits.get(f.article.slug));
+      if (c.length) m.set(f.article.slug, c);
+    }
+    return m;
+  }, [batch, edits]);
+
+  /** The committed file for an original slug (the baseline the editor reverts to). */
+  const fileOf = useCallback(
+    (originalSlug: string) => (batch?.loaded || []).find((f) => f.article.slug === originalSlug),
+    [batch]
+  );
+
+  /**
+   * The Strapi documentId to update, for a blog identified by its original slug.
+   *
+   * Checks the edit record first (it remembers what this browser pushed, under
+   * whatever slug it used at the time), then the live index by current slug, then
+   * by original slug — that last one is what catches a post published before it
+   * was renamed here.
+   */
+  const documentIdFor = useCallback(
+    (originalSlug: string, currentSlug: string): string | undefined => {
+      const e = edits.get(originalSlug);
+      if (e?.documentId) return e.documentId;
+      return published.get(currentSlug) || published.get(originalSlug) || undefined;
+    },
+    [edits, published]
+  );
+
+  /**
+   * Can this blog be pushed? Unpublished always. Published only when edited —
+   * that is the deliberate-update case, and it PUTs rather than creating.
+   */
+  const pushable = useCallback(
+    (f: BatchBlogFile) => {
+      const orig = f.article.slug;
+      const live = edits.get(orig)?.article.slug ?? orig;
+      return stateOf(live) === "unpublished" || changes.has(orig);
+    },
+    [edits, stateOf, changes]
   );
 
   /** Per-blog resolved Strapi links + any warnings, computed once per render. */
@@ -207,50 +311,102 @@ export default function BatchesScreen({
     return map;
   }, [batch, categories, templates]);
 
-  const visible = useMemo(() => {
-    const all = batch?.loaded || [];
-    if (statusFilter === "all") return all;
-    return all.filter((b) =>
-      statusFilter === "published" ? stateOf(b.article.slug) === "published" : stateOf(b.article.slug) === "unpublished"
-    );
-  }, [batch, statusFilter, stateOf]);
-
-  const unpublishedSlugs = useMemo(
-    () => (batch?.loaded || []).filter((b) => stateOf(b.article.slug) === "unpublished").map((b) => b.article.slug),
-    [batch, stateOf]
+  /**
+   * One row per blog, carrying everything the table and the publish loop need.
+   *
+   * `orig` is the identity used by every keyed structure in this component
+   * (selection, row status, edits) precisely because `live` is editable. Mixing
+   * the two is how a renamed post would lose its selection or its error message.
+   */
+  const rows = useMemo(
+    () =>
+      (batch?.loaded || []).map((file, i) => {
+        const orig = file.article.slug;
+        const blog = effective[i];
+        const live = blog.article.slug;
+        return {
+          file,
+          blog,
+          orig,
+          live,
+          edited: changes.get(orig) || [],
+          isPublished: stateOf(live) === "published",
+          canPush: pushable(file),
+        };
+      }),
+    [batch, effective, changes, stateOf, pushable]
   );
 
-  // ── publish ───────────────────────────────────────────────────────────────
+  const visible = useMemo(() => {
+    if (statusFilter === "all") return rows;
+    return rows.filter((r) => (statusFilter === "published" ? r.isPublished : !r.isPublished));
+  }, [rows, statusFilter]);
+
+  /** Original slugs of every row that can still be pushed (new, or edited-and-live). */
+  const pushableSlugs = useMemo(() => rows.filter((r) => r.canPush).map((r) => r.orig), [rows]);
+
+  // ── publish / update ──────────────────────────────────────────────────────
   /**
-   * Publish blogs one at a time.
+   * Push blogs to Strapi one at a time — creating new ones, overwriting ones
+   * that are already live.
    *
-   * Sequential on purpose: /api/strapi retries slug collisions by appending
+   * Sequential on purpose: POST /api/strapi retries slug collisions by appending
    * -2, -3…, and concurrent publishes would race that. A failure on one blog
    * never aborts the rest.
+   *
+   * Takes ORIGINAL slugs rather than blog objects so a caller never has to work
+   * out whether it holds the committed version or the edited one — this function
+   * always resolves the current state itself.
+   *
+   * Returns the outcome per original slug. The editor needs to know whether its
+   * push created or updated, and reading that back off `rowState` would race
+   * React's commit — the returned map is the only synchronous answer.
    */
-  const publishBlogs = useCallback(
-    async (blogs: BatchBlogFile[]) => {
-      if (!batch || !blogs.length) return;
+  const pushBySlug = useCallback(
+    async (originalSlugs: string[]): Promise<Map<string, PushOutcome>> => {
+      const outcomes = new Map<string, PushOutcome>();
+      if (!batch || !originalSlugs.length) return outcomes;
       setPublishing(true);
 
-      for (const blog of blogs) {
+      for (const orig of originalSlugs) {
+        const file = fileOf(orig);
+        if (!file) continue;
+        const edit = edits.get(orig);
+        const blog = mergeBatchBlog(file, edit);
         const slug = blog.article.slug;
-        if (stateOf(slug) === "published") continue; // already spent
 
-        setRowState((s) => ({ ...s, [slug]: { status: "publishing" } }));
+        // The lock: a live slug with no local edits has nothing to push.
+        const docId = documentIdFor(orig, slug);
+        const isUpdate = Boolean(docId);
+        if (isUpdate && !changedFields(file, edit).length) {
+          outcomes.set(orig, { action: "skipped", slug });
+          continue;
+        }
+
+        setRowState((s) => ({ ...s, [orig]: { status: "publishing" } }));
         try {
-          const links = resolved.get(slug);
+          const links = resolved.get(orig);
           const warnings: string[] = [];
-          if (blog.batchMeta.categorySlug && !links?.categoryId) {
+          // An edit's own picks win over whatever batchMeta resolved to.
+          const categoryId = edit?.categoryId ?? links?.categoryId;
+          const templateIds = edit?.templateIds ?? links?.templateIds;
+          const rowAuthorId = edit?.authorId || authorId || undefined;
+          if (blog.batchMeta.categorySlug && !categoryId) {
             warnings.push(`category "${blog.batchMeta.categorySlug}" not found in Strapi`);
           }
           if (links?.missing.length) warnings.push(`templates not found: ${links.missing.join(", ")}`);
 
-          const { documentId, publishState } = await publishArticle(settings, blog.article, {
-            categoryId: links?.categoryId,
-            authorId: authorId || undefined,
-            templateIds: links?.templateIds,
-          });
+          const { documentId, publishState } = isUpdate
+            ? await updateArticle(settings, docId as string, blog.article, {
+                categoryId,
+                authorId: rowAuthorId,
+                templateIds,
+              })
+            : await publishArticle(settings, blog.article, {
+                categoryId,
+                authorId: rowAuthorId,
+                templateIds,
+              });
 
           // Mirror into IndexedDB so batch blogs also show up in Library. They
           // are grouped under a synthetic project so every existing
@@ -269,96 +425,233 @@ export default function BatchesScreen({
           }
 
           await saveBlog({
-            id: `${projectId}::${slug}`,
+            id: `${projectId}::${orig}`,
             projectId,
-            rowId: slug,
+            rowId: orig,
             keyword: blog.batchMeta.keyword,
             article: blog.article,
             provider: "anthropic",
             model: "claude-code",
             publishState,
             documentId,
-            categoryId: links?.categoryId,
-            categoryName: links?.categoryName,
-            authorId: authorId || undefined,
-            authorName: authors.find((a) => a.documentId === authorId)?.name,
-            templateIds: links?.templateIds,
-            templateNames: (links?.templateIds || []).map(
+            categoryId,
+            categoryName: categories.find((c) => c.documentId === categoryId)?.name,
+            authorId: rowAuthorId,
+            authorName: authors.find((a) => a.documentId === rowAuthorId)?.name,
+            templateIds,
+            templateNames: (templateIds || []).map(
               (id) => templates.find((t) => t.documentId === id)?.name || id
             ),
             createdAt: new Date().toISOString(),
           });
 
-          // Lock it immediately — no reload needed, and a second click is a no-op.
-          setStrapiSlugs((prev) => new Set(prev).add(slug));
+          // Remember the documentId against the edit record, so the NEXT push is
+          // an update even after a reload — and even if the slug changes again.
+          if (documentId) {
+            const now = new Date().toISOString();
+            const next: BatchBlogEdit = {
+              id: batchEditKey(batch.id, orig),
+              batchId: batch.id,
+              originalSlug: orig,
+              article: blog.article,
+              categoryId,
+              authorId: rowAuthorId,
+              templateIds,
+              documentId,
+              publishState,
+              publishedSlug: slug,
+              createdAt: edit?.createdAt || now,
+              updatedAt: now,
+            };
+            await saveBatchEdit(next);
+            setEdits((prev) => new Map(prev).set(orig, next));
+          }
+
+          // Lock it immediately — no reload needed.
+          setPublished((prev) => new Map(prev).set(slug, documentId || ""));
           setSelected((prev) => {
-            const next = new Set(prev);
-            next.delete(slug);
-            return next;
+            const nextSel = new Set(prev);
+            nextSel.delete(orig);
+            return nextSel;
           });
           setRowState((s) => ({
             ...s,
-            [slug]: { status: "done", warning: warnings.length ? warnings.join("; ") : undefined },
+            [orig]: {
+              status: "done",
+              action: isUpdate ? "updated" : "created",
+              warning: warnings.length ? warnings.join("; ") : undefined,
+            },
           }));
+          outcomes.set(orig, { action: isUpdate ? "updated" : "created", slug });
           onPublished?.();
         } catch (err) {
-          setRowState((s) => ({
-            ...s,
-            [slug]: { status: "error", error: err instanceof Error ? err.message : "Publish failed" },
-          }));
+          const message = err instanceof Error ? err.message : "Publish failed";
+          setRowState((s) => ({ ...s, [orig]: { status: "error", error: message } }));
+          outcomes.set(orig, { action: "failed", slug, error: message });
         }
       }
 
       setPublishing(false);
+      return outcomes;
     },
-    [batch, resolved, settings, authorId, authors, templates, stateOf, onPublished]
+    [
+      batch,
+      edits,
+      fileOf,
+      documentIdFor,
+      resolved,
+      settings,
+      authorId,
+      authors,
+      categories,
+      templates,
+      onPublished,
+    ]
   );
 
-  const publishSelected = useCallback(() => {
-    const blogs = (batch?.loaded || []).filter((b) => selected.has(b.article.slug));
-    return publishBlogs(blogs);
-  }, [batch, selected, publishBlogs]);
+  const publishSelected = useCallback(
+    () => pushBySlug(rows.filter((r) => selected.has(r.orig)).map((r) => r.orig)),
+    [rows, selected, pushBySlug]
+  );
+
+  // ── editor ────────────────────────────────────────────────────────────────
+  /** Persist the editor's draft as this blog's edit record. */
+  const saveEdit = useCallback(
+    async (orig: string, draft: EditorDraft, extra?: Partial<BatchBlogEdit>) => {
+      if (!batch) return;
+      const prev = edits.get(orig);
+      const now = new Date().toISOString();
+      const next: BatchBlogEdit = {
+        id: batchEditKey(batch.id, orig),
+        batchId: batch.id,
+        originalSlug: orig,
+        article: draft.article,
+        categoryId: draft.categoryId,
+        authorId: draft.authorId,
+        templateIds: draft.templateIds,
+        documentId: prev?.documentId,
+        publishState: prev?.publishState,
+        publishedSlug: prev?.publishedSlug,
+        createdAt: prev?.createdAt || now,
+        updatedAt: now,
+        ...extra,
+      };
+      await saveBatchEdit(next);
+      setEdits((m) => new Map(m).set(orig, next));
+    },
+    [batch, edits]
+  );
+
+  /** Throw the edit away; the committed file becomes the shown version again. */
+  const revertEdit = useCallback(
+    async (orig: string) => {
+      if (!batch) return;
+      await deleteBatchEdit(batch.id, orig);
+      setEdits((m) => {
+        const next = new Map(m);
+        next.delete(orig);
+        return next;
+      });
+      setRowState((st) => {
+        const next = { ...st };
+        delete next[orig];
+        return next;
+      });
+    },
+    [batch]
+  );
+
+  const editingRow = useMemo(
+    () => rows.find((r) => r.orig === editingSlug) || null,
+    [rows, editingSlug]
+  );
 
   // ── viewer ────────────────────────────────────────────────────────────────
-  const viewing = useMemo(
-    () => (batch?.loaded || []).find((b) => b.article.slug === viewingSlug) || null,
-    [batch, viewingSlug]
+  const viewingRow = useMemo(
+    () => rows.find((r) => r.orig === viewingSlug) || null,
+    [rows, viewingSlug]
   );
 
   /**
    * BlogViewer takes a StoredBlog. A batch blog isn't stored yet, so synthesize
-   * the same shape for preview. Nothing here is persisted.
+   * the same shape for preview — from the EDITED article, so the preview shows
+   * what would actually be published. Nothing here is persisted.
    */
   const viewingAsStored: StoredBlog | null = useMemo(() => {
-    if (!viewing || !batch) return null;
-    const slug = viewing.article.slug;
-    const links = resolved.get(slug);
+    if (!viewingRow || !batch) return null;
+    const { orig, blog, live } = viewingRow;
+    const edit = edits.get(orig);
+    const links = resolved.get(orig);
+    const categoryId = edit?.categoryId ?? links?.categoryId;
     return {
-      id: `batch:${batch.id}::${slug}`,
+      id: `batch:${batch.id}::${orig}`,
       projectId: `batch:${batch.id}`,
-      rowId: slug,
-      keyword: viewing.batchMeta.keyword,
-      article: viewing.article,
+      rowId: orig,
+      keyword: blog.batchMeta.keyword,
+      article: blog.article,
       provider: "anthropic",
       model: "claude-code",
-      publishState: stateOf(slug) === "published" ? "published" : undefined,
-      categoryId: links?.categoryId,
-      categoryName: links?.categoryName,
-      templateIds: links?.templateIds,
-      createdAt: viewing.batchMeta.generatedAt,
+      publishState: stateOf(live) === "published" ? "published" : undefined,
+      documentId: documentIdFor(orig, live),
+      categoryId,
+      categoryName: categories.find((c) => c.documentId === categoryId)?.name,
+      authorId: edit?.authorId,
+      authorName: authors.find((a) => a.documentId === edit?.authorId)?.name,
+      templateIds: edit?.templateIds ?? links?.templateIds,
+      createdAt: blog.batchMeta.generatedAt,
     };
-  }, [viewing, batch, resolved, stateOf]);
+  }, [viewingRow, batch, edits, resolved, stateOf, documentIdFor, categories, authors]);
 
-  if (viewing && viewingAsStored) {
+  // Both early returns live below every hook: a hook behind a conditional
+  // return changes the hook order between renders, which React forbids.
+  if (editingRow && batch) {
+    const orig = editingRow.orig;
+    return (
+      <BatchBlogEditor
+        file={editingRow.file}
+        edit={edits.get(orig)}
+        batchId={batch.id}
+        siteUrl={settings.siteUrl}
+        blogPathPrefix={settings.blogPathPrefix}
+        categories={categories}
+        authors={authors}
+        templates={templates}
+        resolvedCategoryId={resolved.get(orig)?.categoryId}
+        resolvedTemplateIds={resolved.get(orig)?.templateIds}
+        publishedDocumentId={documentIdFor(orig, editingRow.live)}
+        onBack={() => setEditingSlug(null)}
+        onSave={(draft) => saveEdit(orig, draft)}
+        onRevert={() => revertEdit(orig)}
+        onPush={async (draft) => {
+          await saveEdit(orig, draft);
+          const outcome = (await pushBySlug([orig])).get(orig);
+          if (!outcome || outcome.action === "failed") {
+            throw new Error(outcome?.error || "Publish failed");
+          }
+          if (outcome.action === "skipped") {
+            throw new Error("Nothing to push — this post is already live and unchanged.");
+          }
+          return { action: outcome.action, slug: outcome.slug };
+        }}
+      />
+    );
+  }
+
+  if (viewingRow && viewingAsStored) {
     return (
       <BlogViewer
         blog={viewingAsStored}
-        batchMeta={viewing.batchMeta}
+        batchMeta={viewingRow.blog.batchMeta}
         backLabel="← Back to batch"
         onBack={() => setViewingSlug(null)}
         categories={categories}
         authors={authors}
         templates={templates}
+        editedFields={viewingRow.edited}
+        onEdit={() => {
+          setViewingSlug(null);
+          setEditingSlug(viewingRow.orig);
+        }}
       />
     );
   }
@@ -416,8 +709,11 @@ export default function BatchesScreen({
   }
 
   // ── batch detail ──────────────────────────────────────────────────────────
-  const selectableCount = unpublishedSlugs.length;
+  const selectableCount = pushableSlugs.length;
   const selectedCount = selected.size;
+  const editedCount = changes.size;
+  /** How many of the selected rows are updates rather than fresh publishes. */
+  const selectedUpdates = rows.filter((r) => selected.has(r.orig) && r.isPublished).length;
 
   return (
     <div className="space-y-4">
@@ -430,7 +726,13 @@ export default function BatchesScreen({
             <span className="text-sm font-semibold">{batch.name}</span>
             <span className="text-[11px] text-[var(--muted)]">
               {batch.loaded.length} post{batch.loaded.length === 1 ? "" : "s"} ·{" "}
-              {batch.loaded.length - selectableCount} published
+              {rows.filter((r) => r.isPublished).length} published
+              {editedCount > 0 && (
+                <>
+                  {" · "}
+                  <span style={{ color: AMBER }}>{editedCount} edited locally</span>
+                </>
+              )}
             </span>
           </>
         )}
@@ -481,9 +783,10 @@ export default function BatchesScreen({
               <button
                 className="btn btn-ghost text-xs"
                 disabled={publishing || selectableCount === 0}
-                onClick={() => setSelected(new Set(unpublishedSlugs))}
+                onClick={() => setSelected(new Set(pushableSlugs))}
+                title="Everything not yet in Strapi, plus anything you have edited since it went live"
               >
-                Select all unpublished ({selectableCount})
+                Select all pushable ({selectableCount})
               </button>
               <button
                 className="btn btn-ghost text-xs"
@@ -498,7 +801,13 @@ export default function BatchesScreen({
                 onClick={publishSelected}
                 title={!settings.strapiUrl ? "Set the Strapi URL in Settings first" : undefined}
               >
-                {publishing ? "Publishing…" : `Publish selected (${selectedCount})`}
+                {publishing
+                  ? "Pushing…"
+                  : selectedUpdates === selectedCount && selectedCount > 0
+                    ? `Update selected (${selectedCount})`
+                    : selectedUpdates > 0
+                      ? `Push selected (${selectedCount}, ${selectedUpdates} update${selectedUpdates === 1 ? "" : "s"})`
+                      : `Publish selected (${selectedCount})`}
               </button>
             </div>
           </div>
@@ -517,49 +826,79 @@ export default function BatchesScreen({
                   <th className="px-3 py-2.5">Templates</th>
                   <th className="px-3 py-2.5">Audit</th>
                   <th className="px-3 py-2.5">Status</th>
+                  <th className="px-3 py-2.5 text-right">Edit</th>
                 </tr>
               </thead>
               <tbody>
-                {visible.map((b) => {
-                  const slug = b.article.slug;
-                  const locked = stateOf(slug) === "published";
-                  const links = resolved.get(slug);
-                  const rs = rowState[slug];
-                  const failed = b.batchMeta.auditReport.failed.length;
-                  const faqs = b.article.faqs.length;
+                {visible.map((r) => {
+                  const { orig, live, blog, edited, isPublished, canPush } = r;
+                  const links = resolved.get(orig);
+                  const edit = edits.get(orig);
+                  const rs = rowState[orig];
+                  const failed = blog.batchMeta.auditReport.failed.length;
+                  const faqs = blog.article.faqs.length;
                   const faqOff = faqs < 8 || faqs > 12;
+                  const renamed = live !== orig;
+                  // An edit's own picks win over whatever batchMeta resolved to.
+                  const catId = edit?.categoryId ?? links?.categoryId;
+                  const catName = categories.find((c) => c.documentId === catId)?.name;
+                  const tplIds = edit?.templateIds ?? links?.templateIds ?? [];
 
                   return (
-                    <tr key={slug} className="border-t" style={{ borderColor: "var(--border)" }}>
+                    <tr key={orig} className="border-t" style={{ borderColor: "var(--border)" }}>
                       <td className="px-3 py-2.5 align-top">
                         <input
                           type="checkbox"
-                          disabled={locked || publishing}
-                          checked={selected.has(slug)}
+                          disabled={!canPush || publishing}
+                          checked={selected.has(orig)}
                           onChange={(e) =>
                             setSelected((prev) => {
                               const next = new Set(prev);
-                              if (e.target.checked) next.add(slug);
-                              else next.delete(slug);
+                              if (e.target.checked) next.add(orig);
+                              else next.delete(orig);
                               return next;
                             })
                           }
-                          title={locked ? "Already published — cannot be published again" : undefined}
+                          title={
+                            canPush
+                              ? isPublished
+                                ? "Edited since it went live — pushing overwrites the Strapi article"
+                                : undefined
+                              : "Already published and unchanged — edit it to push again"
+                          }
                         />
                       </td>
                       <td className="px-3 py-2.5 align-top max-w-[300px]">
                         <button
                           className="text-left font-medium hover:underline"
                           style={{ color: "var(--accent-2)" }}
-                          onClick={() => setViewingSlug(slug)}
+                          onClick={() => setViewingSlug(orig)}
                         >
-                          {b.article.title}
+                          {blog.article.title}
                         </button>
-                        <div className="text-[11px] text-[var(--muted)] truncate">{b.batchMeta.keyword}</div>
+                        <div className="text-[11px] text-[var(--muted)] truncate">{blog.batchMeta.keyword}</div>
+                        {edited.length > 0 && (
+                          <div className="mt-1 flex items-center gap-1.5">
+                            <span
+                              className="pill text-[9px] px-1.5 py-0"
+                              style={{ background: "rgba(245,158,11,0.16)", color: AMBER }}
+                              title={`Edited locally: ${edited.join(", ")}`}
+                            >
+                              edited · {edited.length}
+                            </span>
+                          </div>
+                        )}
                       </td>
-                      <td className="px-3 py-2.5 align-top font-mono text-[11px] text-[var(--muted)]">{slug}</td>
+                      <td className="px-3 py-2.5 align-top font-mono text-[11px] text-[var(--muted)]">
+                        {live}
+                        {renamed && (
+                          <div className="text-[10px] line-through opacity-60" title="Original slug in the batch file">
+                            {orig}
+                          </div>
+                        )}
+                      </td>
                       <td className="px-3 py-2.5 align-top text-right tabular-nums">
-                        {wordCount(b.article.contentMarkdown)}
+                        {wordCount(blog.article.contentMarkdown)}
                       </td>
                       <td
                         className="px-3 py-2.5 align-top text-right tabular-nums"
@@ -569,18 +908,26 @@ export default function BatchesScreen({
                         {faqs}
                       </td>
                       <td className="px-3 py-2.5 align-top text-xs">
-                        {links?.categoryName ? (
-                          links.categoryName
-                        ) : b.batchMeta.categorySlug ? (
-                          <span style={{ color: AMBER }}>⚠ no match: {b.batchMeta.categorySlug}</span>
+                        {catName ? (
+                          catName
+                        ) : blog.batchMeta.categorySlug ? (
+                          <span style={{ color: AMBER }}>⚠ no match: {blog.batchMeta.categorySlug}</span>
                         ) : (
                           <span className="text-[var(--muted)]">—</span>
                         )}
                       </td>
                       <td className="px-3 py-2.5 align-top text-xs">
-                        {links?.templateIds.length || 0}
+                        {tplIds.length}
+                        {/* The warning is a fact about the batch FILE — some of its
+                            templateUrls resolve to nothing in Strapi — so it stays
+                            visible even once the user has picked templates by hand. */}
                         {links?.missing.length ? (
-                          <span style={{ color: AMBER }}> ⚠ {links.missing.length} missing</span>
+                          <span
+                            style={{ color: AMBER }}
+                            title={`Unresolved in the batch file: ${links.missing.join(", ")}`}
+                          >
+                            {" "}⚠ {links.missing.length} missing
+                          </span>
                         ) : null}
                       </td>
                       <td className="px-3 py-2.5 align-top text-xs">
@@ -592,39 +939,55 @@ export default function BatchesScreen({
                       </td>
                       <td className="px-3 py-2.5 align-top text-xs">
                         {rs?.status === "publishing" ? (
-                          <span className="text-[var(--muted)]">Publishing…</span>
-                        ) : locked ? (
-                          <>
-                            <span className="pill" style={{ background: "rgba(34,197,94,0.16)", color: "var(--green)" }}>
-                              Published
-                            </span>
-                            {rs?.warning && (
-                              <div className="mt-1 text-[11px]" style={{ color: AMBER }}>
-                                {rs.warning}
-                              </div>
-                            )}
-                          </>
+                          <span className="text-[var(--muted)]">
+                            {isPublished ? "Updating…" : "Publishing…"}
+                          </span>
                         ) : rs?.status === "error" ? (
                           <div className="space-y-1">
                             <div style={{ color: "var(--red)" }}>{rs.error}</div>
                             <button
                               className="btn btn-ghost text-[11px] py-1 px-2"
                               disabled={publishing}
-                              onClick={() => publishBlogs([b])}
+                              onClick={() => pushBySlug([orig])}
                             >
                               Retry
                             </button>
                           </div>
+                        ) : isPublished ? (
+                          <>
+                            <span className="pill" style={{ background: "rgba(34,197,94,0.16)", color: "var(--green)" }}>
+                              {rs?.action === "updated" ? "Updated" : "Published"}
+                            </span>
+                            {canPush && (
+                              <div className="mt-1 text-[11px]" style={{ color: AMBER }}>
+                                edits not pushed yet
+                              </div>
+                            )}
+                            {rs?.warning && (
+                              <div className="mt-1 text-[11px]" style={{ color: AMBER }}>
+                                {rs.warning}
+                              </div>
+                            )}
+                          </>
                         ) : (
                           <span className="text-[var(--muted)]">Not published</span>
                         )}
+                      </td>
+                      <td className="px-3 py-2.5 align-top text-right">
+                        <button
+                          className="btn btn-ghost text-[11px] py-1 px-2 whitespace-nowrap"
+                          onClick={() => setEditingSlug(orig)}
+                          title="Edit the content, the link, and the Strapi author / category / templates"
+                        >
+                          ✏️ Edit
+                        </button>
                       </td>
                     </tr>
                   );
                 })}
                 {visible.length === 0 && (
                   <tr>
-                    <td colSpan={9} className="px-3 py-6 text-center text-sm text-[var(--muted)]">
+                    <td colSpan={10} className="px-3 py-6 text-center text-sm text-[var(--muted)]">
                       Nothing matches this filter.
                     </td>
                   </tr>
