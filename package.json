@@ -9,7 +9,10 @@
     "lint": "eslint",
     "test": "node --test --experimental-strip-types \"tests/**/*.test.mts\"",
     "facts": "node scripts/collect-facts.mjs",
-    "keywords:xlsx": "node scripts/keywords-to-xlsx.mjs"
+    "keywords:xlsx": "node scripts/keywords-to-xlsx.mjs",
+    "keywords:inventory": "node scripts/site-inventory.mjs",
+    "keywords:suggest": "node scripts/suggest.mjs",
+    "blogs:audit": "node scripts/normalise-audit.mjs"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1075.0",

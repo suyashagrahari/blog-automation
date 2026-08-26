@@ -33,6 +33,7 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/holi`, what: "Holi festival greeting page" },
   { url: `${SITE_ROOT}/eid-mubarak`, what: "Eid Mubarak greeting page" },
   { url: `${SITE_ROOT}/happy-rakshabandhan-to-brother`, what: "Raksha Bandhan (Rakhi) page for a brother — animated tilak/aarti/rakhi-tying scenes, photo, name and a shareable link" },
+  { url: `${SITE_ROOT}/happy-rakshabandhan-to-sister`, what: "Raksha Bandhan (Rakhi) page for a sister — photo, name and a shareable link, for a brother sending to his sister" },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────

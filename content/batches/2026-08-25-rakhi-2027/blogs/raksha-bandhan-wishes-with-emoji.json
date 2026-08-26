@@ -1,0 +1,310 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Raksha Bandhan Wishes With Emoji: Which Ones Actually Say Rakhi",
+    "slug": "raksha-bandhan-wishes-with-emoji",
+    "excerpt": "There is no rakhi emoji: none of the 148,853 named characters in Unicode carries RAKSHA or BANDHAN. Here are the six that actually carry the meaning, what each one is officially called, and which ones get misread on a different phone.",
+    "metaTitle": "Raksha Bandhan Wishes With Emoji — Which 6 Actually Fit",
+    "metaDescription": "Raksha Bandhan wishes with emoji: no rakhi character exists among Unicode's 148,853 named characters. The 6 that fit, their official names, and the misreads.",
+    "keywords": "raksha bandhan wishes with emoji, rakhi emoji, raksha bandhan emoji meaning, rakhi wishes emoji, is there a rakhi emoji",
+    "canonicalURL": "https://subhsandesh.in/blog/raksha-bandhan-wishes-with-emoji",
+    "ogType": "article",
+    "tags": [
+      "raksha bandhan",
+      "rakhi",
+      "emoji",
+      "unicode",
+      "messaging"
+    ],
+    "keyTakeaways": [
+      "There is no rakhi emoji: zero of the 148,853 named characters in the Unicode Character Database version 16.0.0 contain RAKSHA or BANDHAN.",
+      "The closest character that exists is the knot, the only one in Unicode whose name is that single word; the spool of thread and the ribbon are the next nearest.",
+      "The same character is drawn separately by each vendor, and two people rating the identical rendering disagreed on its sentiment 25% of the time in a 304-person study.",
+      "Keep the word rakhi in the text and let the emoji do rhythm: 51.1% of shared SubhSandesh pages are opened on a phone, where the vendor's artwork is the phone's, not yours."
+    ],
+    "faqs": [
+      {
+        "question": "Is there a rakhi emoji?",
+        "answer": "No. Checking all 148,853 named characters in the Unicode Character Database version 16.0.0 returns zero whose name contains RAKSHA or BANDHAN. The closest characters that exist are the knot, the spool of thread and the ribbon, and none of them names the festival."
+      },
+      {
+        "question": "What emoji should I use for Raksha Bandhan wishes?",
+        "answer": "The knot is the closest literal match, since a rakhi is a tied thread and KNOT is the only character in Unicode named that. Pair it with a ribbon or a heart, and keep the word rakhi in the sentence so the meaning does not depend on the character."
+      },
+      {
+        "question": "What does the knot emoji actually mean?",
+        "answer": "Its official Unicode name is simply KNOT, and it is the only character among 148,853 named with that single word. It denotes a tied cord and nothing more specific, which is why it reads as rakhi only when the surrounding text already says so."
+      },
+      {
+        "question": "Why does the emoji I sent look different on my brother's phone?",
+        "answer": "Unicode assigns the code and each vendor draws its own picture for it, exactly as a font decides how the letter A looks. In a 2016 study of 304 people, 9 of the 22 characters tested varied by more than a full sentiment unit depending on which vendor had drawn them."
+      },
+      {
+        "question": "Is the folded hands emoji right for a rakhi wish?",
+        "answer": "It works if the message is devotional, but it is one of the most misread characters there is, taken variously as prayer, thanks, please or a high five. Put it after a line that already states what you mean rather than using it to carry the meaning."
+      },
+      {
+        "question": "How many emoji should I put in a Raksha Bandhan message?",
+        "answer": "Repetition is normal: in a corpus of over a billion emoji uses, 53% of the ten most common two-emoji sequences were the same character twice. One to three is a comfortable range for a wish, and around 85% of emoji use sits alongside words rather than replacing them."
+      },
+      {
+        "question": "Can I use a heart emoji in a wish for my brother?",
+        "answer": "Yes, and it is the safest character on the list. Its official name is HEAVY BLACK HEART, it renders red nearly everywhere, and it was the most-used character on the top-ranking rakhi emoji page, appearing 51 times. It carries affection reliably and rakhi not at all."
+      },
+      {
+        "question": "Which emoji work for an elder brother?",
+        "answer": "One, at the end of the sentence. If you address him with aap, the words carry the respect and the emoji only signals warmth; a teasing character undercuts the line. In a 2024 study of 92 students, 34.1% used emoji for irony and sarcasm, so the risk is real."
+      },
+      {
+        "question": "Is it rude to send only emoji on Raksha Bandhan?",
+        "answer": "It is unusual rather than rude. Around 85% of emoji use accompanies words, and emoji-only exchanges are typically one or two characters long, so a wish made entirely of emoji is asking them to do a job they are not shaped for."
+      },
+      {
+        "question": "Do emoji work in a rakhi wish written in Hindi?",
+        "answer": "Yes, because emoji are separate characters from the Devanagari text and are unaffected by the script. The register rule still applies: a wish using aap should carry one restrained emoji, since the character is read as tone rather than as content."
+      },
+      {
+        "question": "Does Unicode have emoji for other Indian festivals?",
+        "answer": "Some. There is a diya lamp, a Hindu temple, a sari, a coconut, prayer beads and a firecracker, so Diwali is reasonably well served. There is no character for a rakhi, and none for Holi's colours either."
+      }
+    ],
+    "coverImageQuery": "phone emoji keyboard rakhi thread wrist",
+    "coverImagePrompt": "A close, photorealistic shot of a hand holding a smartphone with a messaging app open, the emoji keyboard visible, while a red-and-gold rakhi thread rests on the table beside it. Warm afternoon light, shallow depth of field, clean negative space along the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Raksha Bandhan Wishes With Emoji: Which Ones Actually Say Rakhi\n\nThere is no rakhi emoji. We checked all 148,853 named characters in the Unicode Character Database (version 16.0.0) one at a time: zero contain RAKSHA or BANDHAN in their name, and the only eight containing the letters RAKHI are Znamenny chant marks from Russian liturgical notation. The nearest real candidates are the knot, the spool of thread and the ribbon — craft objects, not a festival.\n\nThat gap lands on a phone, which is where an emoji gets picked. 51.1% of shared SubhSandesh pages are opened on a phone (18,497 of 36,202 recorded views), at 12.2 average views per created page. This page names the six characters that carry rakhi meaning, what each one is officially called, which ones get misread, and why the same character can look different on your brother's handset.\n\n## Is there a rakhi emoji?\n\nNo. Unicode encodes characters, not pictures, and across the 148,853 named characters of version 16.0.0 it has never encoded one for Raksha Bandhan or for the thread itself. Anything you send is a borrowed character doing a job it was not named for.\n\nWhat Unicode does carry makes the absence sharper. There is a diya lamp, a Hindu temple, a sari, a coconut, prayer beads, a nazar amulet, a red gift envelope for the Chinese hongbao and a moon cake for the Mid-Autumn Festival. Diwali has a character; the second-biggest household festival in North India has none.\n\nSo the practical question is not \"what is the rakhi emoji\" but \"which borrowed characters read as rakhi to the person opening the message\".\n\n## The six emoji that carry rakhi meaning\n\nThe page ranking first for this query is an emoji database listing 370 distinct characters with no explanation attached to any of them; the emoji-combo page at position three carries 342, most of them Braille block characters used as fill. Volume is not the problem; choice is. These six are ranked by how much rakhi meaning they actually carry.\n\n### 1. 🪢 Knot\n\nOfficial Unicode name: KNOT. It is the only character among 148,853 whose name is that single word, and a rakhi is a thread tied in a knot, so it is the closest literal match that exists. It does not appear in the ten most-used characters on the first-ranking emoji page, so most recipients will not have seen it in this context — use it once, next to the word rakhi, rather than alone.\n\n### 2. 🧵 Spool of thread\n\nOfficial name: SPOOL OF THREAD. It reads as sewing rather than ceremony, because that is what it depicts — a bobbin, not a wrist thread. It works when the sentence already says rakhi and the emoji is doing rhythm rather than meaning; on its own it reads as a craft project.\n\n### 3. 🎀 Ribbon\n\nOfficial name: RIBBON. A tied loop, closer in shape to a rakhi than the spool is, and the single most common non-heart character on the rakhi emoji pages we examined. Its weakness is that it also serves birthdays, gifts and awareness campaigns, so it carries no festival specificity at all.\n\n### 4. 🙏 Person with folded hands\n\nOfficial name: PERSON WITH FOLDED HANDS. This is the one to be careful with. It is widely read as prayer and equally widely read as thanks, please, or a high five, and Miller and colleagues found in 2016 that the closely related person-raising-both-hands character was among the three most differently interpreted renderings on four of the five platforms they tested.\n\n### 5. 🧿 📿 Nazar amulet and prayer beads\n\nOfficial names: NAZAR AMULET and PRAYER BEADS. Both appear on the first-ranking rakhi emoji page — the nazar 16 times, the beads 14. They are protective and devotional objects, which is the right register for a thread tied for protection, but neither is Indian in origin and neither names the festival.\n\n### 6. ❤️ Heavy black heart\n\nOfficial name: HEAVY BLACK HEART, despite rendering red almost everywhere. It was the most-used character on the first-ranking rakhi page, appearing 51 times. It carries affection reliably and rakhi not at all, which is exactly why it is safe: nobody misreads it, and nobody learns anything from it either.\n\n## Why the same emoji looks different on your brother's phone\n\nUnicode assigns the code; each vendor draws its own picture for it, the way a font decides how the letter A looks. Miller and colleagues surveyed 304 participants across renderings from Apple, Google, Microsoft, Samsung and LG and found real disagreement even before platforms enter the picture.\n\nWhen two people rated the exact same rendering, they disagreed on whether the sentiment was positive, neutral or negative 25% of the time. Forty-four of 110 renderings — 40% — had an average sentiment disagreement of two points or more on an eleven-point scale.\n\nAcross platforms it widens: 9 of the 22 characters they analysed varied by more than a full sentiment unit depending on which vendor drew them. Note the date, though. That study is from 2016, and every vendor has redrawn its set since, so treat the mechanism as established and the specific per-vendor numbers as historical.\n\n## Emoji, sticker, word or page: what actually survives the trip\n\nFour different things get called \"adding a rakhi\" to a message, and they behave differently once sent.\n\n| What you send | What it actually is | Same for every recipient? | Misread risk | SubhSandesh measure |\n|---|---|---|---|---|\n| Emoji character | A Unicode codepoint drawn by the recipient's vendor | No — five vendor sets in the 2016 study | Sentiment disagreement 25% of the time on identical renderings | Chosen on a phone in 51.1% of 36,202 views |\n| Sticker or image | A bitmap file | Yes | Low; nothing to interpret | Not measured on our platform |\n| The written word \"rakhi\" | Plain text | Yes | None | Works across all 2,973 pages created |\n| A personalised page | One web page, one rendering | Yes | None | 12.2 average views per shared page; 44.2% locked first |\n\nThe pattern is that ambiguity travels with the emoji and nothing else. If the meaning must arrive intact, put it in words and let the emoji do rhythm.\n\nThat is also the argument for sending a page rather than a paragraph: it renders once, the same way, for everyone who opens the link. Our [Raksha Bandhan page for a brother](https://subhsandesh.in/happy-rakshabandhan-to-brother) and the [Raksha Bandhan page for a sister](https://subhsandesh.in/happy-rakshabandhan-to-sister) both carry the name and photo inside the page instead of inside a character set.\n\n## How many emoji belong in a rakhi wish\n\nMore than you would put in a sentence, and fewer than the combo pages suggest. McCulloch and Gawne examined a corpus of over a billion emoji uses and found that 53%, 52% and 39.5% of the ten most common two-, three- and four-emoji sequences were the same character repeated, where the equivalent word sequences in a large English corpus showed zero repetition.\n\nTheir argument is that emoji work like beat gestures — the rhythmic hand movement that accompanies speech — rather than like words. Three hearts in a row is not a typo; it is emphasis, and it is the single most normal thing people do with emoji.\n\nFour lines with the emoji doing rhythm rather than meaning:\n\n- Happy Raksha Bandhan, bhai. The thread is already on its way. 🪢\n- Rakhi bandhwane ka time aa gaya, and I miss you today. 🎀❤️\n- Tied yours from three time zones away. Happy Rakhi, didi. 🧵✨\n- Thank you for the rakhi. Wearing it all day. 🙏❤️\n\nThe same work reports that around 85% of emoji use sits alongside words rather than replacing them. An emoji-only rakhi message is the unusual case, not the safe one.\n\n## Which emoji suit an elder brother, a younger brother, or a sister\n\nRegister decides this before taste does. In a 2024 study of 92 students, 69.2% said they used emoji to show appreciation and 56% to convey excitement — but 34.1% used them for irony and sarcasm and 14.3% for fear, concern or anger. The same small vocabulary does sincerity and mockery, which is why a teasing character next to an earnest line reads wrong.\n\nFor an elder brother, or anyone you address with aap, one emoji at the end of the sentence is the whole budget. The line carries the respect; the emoji only marks that you are warm rather than formal.\n\nFor a younger brother or a sister you tease, the ceiling is much higher, and repetition is on your side. Herring and Dainas found that across 523 survey responses, readers agreed with the researchers' own reading of what an emoji was doing only 60.4% of the time, and only 50.9% among men — so the safer assumption is that your emoji will be read as tone, not as content.\n\n## When to send the wish with no emoji at all\n\nSkip them for a first rakhi after a bereavement, for a sibling you are not currently on speaking terms with, and for anything you would call an apology rather than a greeting. A character that reads as cheerful on one platform and neutral on another is a bad thing to gamble a hard message on.\n\nSkip them too when roughly 48.9% of your audience is not on a phone, which is what our own view data implies for shared pages, and older desktop mail clients handle newer characters worst.\n\nWe should also state our own limit. Our rakhi templates are new and lightly used, so we have no rakhi-specific open rate and will not invent one; the numbers on this page are platform-wide across 2,973 pages and 15 page types. If you want to see how a page renders before trusting it with a message, [browse all SubhSandesh templates](https://subhsandesh.in/templates) and open one on your own phone first.\n\n## Sources\n\n- Miller, Thebault-Spieker, Chang, Johnson, Terveen and Hecht, *\"Blissfully happy\" or \"ready to fight\": Varying Interpretations of Emoji*, ICWSM, 2016 — [grouplens.org](https://grouplens.org/site-content/uploads/Emoji_Interpretation.pdf)\n- McCulloch and Gawne, *Emoji Grammar as Beat Gestures*, Emoji2018 workshop at ICWSM, published 6 July 2018 — [ceur-ws.org](https://ceur-ws.org/Vol-2130/short1.pdf)\n- Herring and Dainas, *Receiver Interpretations of Emoji Functions: A Gender Perspective*, Emoji2018 workshop at ICWSM, published 6 July 2018 — [ceur-ws.org](https://ceur-ws.org/Vol-2130/paper5.pdf)\n- Micle and Mudure-Iacob, *Creating Communicative Context Through the Use of Emoji and Politeness in Online Academic Written Interactions*, Studia UBB Philologia LXIX(3), 30 September 2024 — [studia.reviste.ubbcluj.ro](https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/download/7542/7322)\n- Character names and the absence of a rakhi character were checked directly against the Unicode Character Database, version 16.0.0.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Emoji that carry Raksha Bandhan meaning, ranked",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Knot",
+            "description": "Official Unicode name KNOT; the only character among 148,853 named with that single word, and the closest literal match to a tied rakhi thread."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Spool of thread",
+            "description": "Official name SPOOL OF THREAD; depicts a sewing bobbin, so it reads as craft unless the sentence already says rakhi."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ribbon",
+            "description": "Official name RIBBON; a tied loop and the most common non-heart character on rakhi emoji pages, but it also serves birthdays and awareness campaigns."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Person with folded hands",
+            "description": "Official name PERSON WITH FOLDED HANDS; read as prayer, thanks, please or a high five, and among the most differently interpreted characters tested in 2016."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Nazar amulet and prayer beads",
+            "description": "Official names NAZAR AMULET and PRAYER BEADS; protective and devotional in register, appearing 16 and 14 times on the first-ranking rakhi emoji page."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Heavy black heart",
+            "description": "Official name HEAVY BLACK HEART; the most-used character on the first-ranking rakhi emoji page at 51 uses, carrying affection reliably and rakhi not at all."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/raksha-bandhan-wishes-with-emoji#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Raksha Bandhan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Raksha_Bandhan",
+              "https://www.wikidata.org/wiki/Q10266"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Emoji",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Emoji",
+              "https://www.wikidata.org/wiki/Q1049294"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Unicode Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode_Consortium",
+              "https://www.wikidata.org/wiki/Q1572774"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "“Blissfully happy” or “ready to fight”: Varying Interpretations of Emoji",
+            "url": "https://grouplens.org/site-content/uploads/Emoji_Interpretation.pdf",
+            "datePublished": "2016",
+            "publisher": {
+              "@type": "Organization",
+              "name": "GroupLens Research, University of Minnesota"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Emoji Grammar as Beat Gestures",
+            "url": "https://ceur-ws.org/Vol-2130/short1.pdf",
+            "datePublished": "2018-07-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CEUR-WS.org"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Receiver Interpretations of Emoji Functions: A Gender Perspective",
+            "url": "https://ceur-ws.org/Vol-2130/paper5.pdf",
+            "datePublished": "2018-07-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CEUR-WS.org"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Creating Communicative Context Through the Use of Emoji and Politeness in Online Academic Written Interactions",
+            "url": "https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/download/7542/7322",
+            "datePublished": "2024-09-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Studia UBB Philologia, Babeș-Bolyai University"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "raksha bandhan wishes with emoji",
+    "angle": "Wins by being the only post on this SERP that treats the emoji as characters rather than decoration — verifying character by character that none of the 148,853 named characters in the Unicode Character Database 16.0.0 contains RAKSHA or BANDHAN, then giving the six borrowed characters that do carry the meaning under their official Unicode names with the misread risk on each — where the first-ranking page dumps 370 distinct emoji and the third 342 with no explanation of any of them, grounded in the 51.1% of 36,202 SubhSandesh views that open on a phone, which is where the vendor's artwork is the phone's and not the sender's.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-rakshabandhan-to-brother",
+      "https://subhsandesh.in/happy-rakshabandhan-to-sister",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "51.1% of shared pages are opened on a phone (18,497 of 36,202 views) — measured 2026-08-25",
+      "36,202 recorded views of shared pages — measured 2026-08-25",
+      "Average views per created page: 12.2 — measured 2026-08-25",
+      "44.2% of creators password-protect their page before sharing it (1,315 of 2,973) — measured 2026-08-25",
+      "2,973 personalised pages created since 2026-03-12, across 15 page types — measured 2026-08-25"
+    ],
+    "sources": [
+      {
+        "url": "https://grouplens.org/site-content/uploads/Emoji_Interpretation.pdf",
+        "stat": "304 participants rated emoji renderings from Apple, Google, Microsoft, Samsung and LG; two people rating the identical rendering disagreed on positive/neutral/negative sentiment 25% of the time; 44 of 110 renderings (40%) had a within-platform sentiment misconstrual of 2 points or more; 9 of 22 Unicode characters varied by more than one sentiment unit across platforms; person-raising-both-hands (U+1F64C) was in the top three most differently interpreted renderings on four of the five platforms",
+        "publishedDate": "2016"
+      },
+      {
+        "url": "https://ceur-ws.org/Vol-2130/short1.pdf",
+        "stat": "In a corpus of over one billion emoji uses, 53%, 52% and 39.5% of the ten most common two-, three- and four-emoji sequences were identical repeats, against zero repetition in the equivalent word sequences of a large English corpus; roughly 85% of emoji use occurs alongside words rather than replacing them",
+        "publishedDate": "2018-07-06"
+      },
+      {
+        "url": "https://ceur-ws.org/Vol-2130/paper5.pdf",
+        "stat": "Across 523 survey responses, respondents agreed with the researchers' own coding of an emoji's pragmatic function for only 60.4% of items (66% of women, 50.9% of men); self-identified women and men differed significantly on just two interpretations (frowns p=.0105, smiles)",
+        "publishedDate": "2018-07-06"
+      },
+      {
+        "url": "https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/download/7542/7322",
+        "stat": "Among 92 university students surveyed, 69.2% used emoji to show appreciation and 56% to convey excitement, while 34.1% used them for irony or sarcasm and 14.3% for fear, concern or fury",
+        "publishedDate": "2024-09-30"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "The count and placement pass — 51.1% phone-open, 36,202 views and 12.2 views per page all sit in the first 150 words — but every first-party number here is platform-wide, not rakhi-specific. `rakshabandhanpages` holds 3 documents and rakhi templates account for 39 of 36,202 recorded views, so no rakhi-specific rate can be computed and none is claimed. Re-query when rakhi template usage passes roughly 500 pages."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Four outbound research links, every one fetched in full and verified against the claim it supports. The failure is elsewhere: the post's single most load-bearing claim — that no Unicode character exists for a rakhi — carries no citation at all. unicode.org is the natural normative source and is at the 3-post domain cap corpus-wide (5 posts already), so the claim rests on a first-hand character-by-character check of the Unicode Character Database version 16.0.0 as bundled with Python 3. Reproducible, stated as our own check in the body and in the sources list, but uncited. Closes when unicode.org has headroom."
+        }
+      ],
+      "honestAssessment": "Because it is the only page on this SERP that answers the question underneath the query: there is no rakhi emoji, verified character by character against the Unicode Character Database 16.0.0 (148,853 named characters, zero containing RAKSHA or BANDHAN), and the six borrowed characters that do the work are given under their official Unicode names with the misread risk on each. The first-ranking result lists 370 distinct emoji and the third 342, and neither explains one of them; none of the four pages fetched contains the word Unicode. Three caveats. Phase 1 SERP teardown was not run via WebSearch — the session budget was exhausted at 200/200 — so the SERP came from Brave Search with country=IN, which hard-429ed six times before returning results, and the top four reachable pages were then fetched and measured directly; Bing was deliberately not used, because this batch has already recorded it stripping modifiers and returning cached head-term SERPs. The rendering-divergence numbers are from a 2016 study and every vendor has redrawn its emoji set since, so the mechanism is current but the per-vendor figures are historical, which the body says plainly. And the central negative claim carries no citation, because unicode.org is over the domain cap — it rests on our own reproducible check instead. Ranking is a separate question: the wishes-listicle incumbents here are Economic Times and Times of India, and no amount of accuracy closes that authority gap quickly."
+    },
+    "generatedAt": "2026-08-26T07:01:45Z"
+  }
+}

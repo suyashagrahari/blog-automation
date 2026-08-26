@@ -51,21 +51,27 @@ Use **Generate** for volume. Use **Batches** when the post actually has to rank.
 
 Both pipelines start from a keyword sheet, and the sheet itself is produced by a
 third skill — **`keyword-harvest`** (`.claude/skills/keyword-harvest/`). Ask Claude
-Code for keywords and it runs an 11-phase research pass, then emits an `.xlsx` this
+Code for keywords and it runs a 13-phase research pass, then emits an `.xlsx` this
 studio can upload directly:
 
 ```
 seed keyword          "rakhi wishes"
         │
-        ├─ 30-40 long-tails along 8 axes
+        ├─ own-site baseline first  →  npm run keywords:inventory
+        │    what we already wrote · striking distance (pos 5-20) · self-collisions
+        ├─ live India-geo autocomplete  →  npm run keywords:suggest
+        │    ~400 real long-tails, relevance-scored, incl. language + year variants
+        ├─ 30-40 long-tails along 9 axes, seeded by the autocomplete set
         ├─ one live SERP per long-tail  →  who ranks, page types, PAA, AI Overview
-        ├─ a separate answer-engine pass (2-3 runs each, noise dropped)
+        ├─ a separate answer-engine pass
         ├─ fetch ≤40 competitor pages  →  extract the keywords each one TARGETS
         ├─ cluster by SERP overlap (3+ shared URLs = one keyword)
-        ├─ six gates: SERP exists → page type → dupe → weakness → conversion → volume
-        └─ score, rank, cap the shortlist at 15
+        │    then cluster AGAIN against the live site, so we don't rewrite our own page
+        ├─ gates: lead time → SERP exists → page type → dupe → weakness → conversion → volume
+        └─ rank by expected clicks/mo, cap the new-page shortlist at 15
         │
-content/keywords/<date>-<seed>/ → keyword-inventory.csv + shortlist.md
+content/keywords/<date>-<seed>/ → site-baseline.md + autocomplete.csv + candidates.md
+                                  + keyword-inventory.csv + shortlist.md
                                   + competitor-map.md + keywords.xlsx
         │
    upload keywords.xlsx into Generate,  or hand the top clusters to subhsandesh-blog

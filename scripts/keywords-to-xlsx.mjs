@@ -9,9 +9,10 @@
 //   npm run keywords:xlsx -- content/keywords/2026-08-13-rakhi/keyword-inventory.csv
 //
 // Two sheets:
-//   "Keywords"      survivors only, priority_score descending  ← the studio reads
+//   "Keywords"      survivors only, expected_clicks descending  ← the studio reads
 //                   ONLY this one (app/lib/excel.ts takes SheetNames[0])
-//   "All Keywords"  everything, including rows the gates cut, Gate Failed filled
+//   "All Keywords"  everything: rows the gates cut, plus everything deferred to
+//                   next-cycle by Gate 0, with Gate Failed and Publish By filled
 //
 // The first six columns are the headers app/lib/excel.ts maps onto KeywordRow.
 // Everything after them lands in KeywordRow.extra and survives the studio's own
@@ -52,6 +53,16 @@ const MAPPED = [
 
 /** Harvest evidence. Preserved in `extra`; none may collide with an alias. */
 const EXTRA = [
+  // What to do about this keyword, and what it is worth. These lead the extras
+  // because they are what a reviewer decides from; everything after them is the
+  // evidence that justifies them.
+  "Action",
+  "Expected Clicks / mo",
+  "Our Position",
+  "Our URL",
+  "Trend",
+  "Peak Window",
+  "Publish By",
   "Ranking URL 1",
   "Ranking URL 2",
   "Ranking URL 3",
@@ -59,6 +70,7 @@ const EXTRA = [
   "Evidence Type",
   "Source URL",
   "Source Domain",
+  "Demand Rank",
   "Cluster ID",
   "Bucket",
   "Priority Score",
@@ -175,6 +187,13 @@ function buildRow(rec, clusterPrimary) {
     "Ranking Difficulty": difficulty(rec),
     "Asset Type Blueprint": rec.pagetyperequired || "",
     "Functional Core Category": categoryFor(rec, clusterPrimary),
+    Action: rec.action || "",
+    "Expected Clicks / mo": rec.expectedclicks || "",
+    "Our Position": rec.ownposition || "",
+    "Our URL": rec.ownurl || "",
+    Trend: rec.trend || "",
+    "Peak Window": rec.peakwindow || "",
+    "Publish By": rec.publishby || "",
     "Ranking URL 1": u1,
     "Ranking URL 2": u2,
     "Ranking URL 3": u3,
@@ -182,6 +201,7 @@ function buildRow(rec, clusterPrimary) {
     "Evidence Type": rec.evidencetype || "",
     "Source URL": rec.sourceurl || "",
     "Source Domain": rec.sourcedomain || "",
+    "Demand Rank": rec.demandrank || "",
     "Cluster ID": cluster,
     Bucket: rec.bucket || "",
     "Priority Score": rec.priorityscore || "",
@@ -192,8 +212,25 @@ function buildRow(rec, clusterPrimary) {
 /** Survivors: passed every gate and weren't bucketed out. */
 const survived = (rec) => !rec.gatefailed && rec.bucket !== "do-not-attempt";
 
-const byPriorityDesc = (a, b) =>
-  (Number(b["Priority Score"]) || 0) - (Number(a["Priority Score"]) || 0);
+/**
+ * Expected clicks descending, priority score as the tie-break and the fallback.
+ *
+ * Sorting by priority score alone re-ranks a keyword up for having a big volume
+ * band even when nothing weak sits in its top 10 — the volume trap the gates
+ * exist to catch. Expected clicks already carries win probability inside it, so
+ * a band-5 keyword with zero weak results lands at 0 and sorts where it belongs.
+ * Rows with no clicks figure (older inventories, or anything the run couldn't
+ * band) fall back to priority score rather than dropping to the bottom.
+ */
+const byExpectedClicksDesc = (a, b) => {
+  const ca = Number(a["Expected Clicks / mo"]);
+  const cb = Number(b["Expected Clicks / mo"]);
+  const ea = Number.isFinite(ca) && a["Expected Clicks / mo"] !== "";
+  const eb = Number.isFinite(cb) && b["Expected Clicks / mo"] !== "";
+  if (ea && eb && ca !== cb) return cb - ca;
+  if (ea !== eb) return ea ? -1 : 1;
+  return (Number(b["Priority Score"]) || 0) - (Number(a["Priority Score"]) || 0);
+};
 
 function sheetFrom(rows) {
   // Pin the header order — json_to_sheet otherwise derives it from the first
@@ -236,7 +273,7 @@ function main() {
   }
 
   const all = records.map((r) => buildRow(r, clusterPrimary));
-  const keep = records.filter(survived).map((r) => buildRow(r, clusterPrimary)).sort(byPriorityDesc);
+  const keep = records.filter(survived).map((r) => buildRow(r, clusterPrimary)).sort(byExpectedClicksDesc);
 
   if (!keep.length) {
     console.error(
@@ -249,7 +286,7 @@ function main() {
   const wb = XLSX.utils.book_new();
   // "Keywords" MUST be first: app/lib/excel.ts reads SheetNames[0] and nothing else.
   XLSX.utils.book_append_sheet(wb, sheetFrom(keep), "Keywords");
-  XLSX.utils.book_append_sheet(wb, sheetFrom(all.sort(byPriorityDesc)), "All Keywords");
+  XLSX.utils.book_append_sheet(wb, sheetFrom(all.sort(byExpectedClicksDesc)), "All Keywords");
 
   const out = path.join(path.dirname(csvPath), "keywords.xlsx");
   XLSX.writeFile(wb, out);

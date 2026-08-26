@@ -44,3 +44,9 @@ next-env.d.ts
 # Real batches under content/batches/ ARE committed — that's how they reach
 # the Vercel build. This one must not ship or it appears as a fake batch.
 /content/batches/2026-01-01-fixture/
+
+# Node's V8 compile cache — generated, never committed
+node-compile-cache/
+
+# Playwright MCP scratch output
+.playwright-mcp/
