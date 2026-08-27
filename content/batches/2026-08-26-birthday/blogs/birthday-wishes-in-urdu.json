@@ -1,0 +1,335 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Urdu, Written for How Urdu Actually Reads",
+    "slug": "birthday-wishes-in-urdu",
+    "excerpt": "Salgirah literally means \"year-knot\". Four Urdu birthday lines with transliterations, the Nastaliq-vs-Naskh rendering problem no ranking page mentions, and the 96-character median we measured on 198 birthday pages.",
+    "metaTitle": "Birthday Wishes in Urdu — 4 Lines That Render in Nastaliq",
+    "metaDescription": "Birthday wishes in Urdu: 4 lines with transliterations, what salgirah literally means, and why Nastaliq breaks on default fonts. Median wish: 96 characters.",
+    "keywords": "birthday wishes in urdu, salgirah mubarak, urdu birthday message, nastaliq font urdu, happy birthday in urdu",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-urdu",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "urdu",
+      "wishes",
+      "nastaliq",
+      "language"
+    ],
+    "keyTakeaways": [
+      "The median personal message on our 198 birthday pages is 96 characters, and 106 of 197 are under 100 — so four good Urdu lines beat a 500-item list.",
+      "Salgirah literally means \"year-knot\": Platts glosses it as a birthday marked by tying a knot in a string kept as a record of one's age.",
+      "Urdu is read in Nastaliq, but the W3C records Naskh as the typographic default and a simplified typewriter style as the usual browser default for Arabic script — so Urdu renders legible and wrong-looking rather than broken.",
+      "Birthday views split 1,081 mobile / 1,121 desktop / 22 tablet of 2,224 (48.6% mobile), so Urdu rendering has to be checked on a laptop as well as a phone.",
+      "This page prints no composed shers: Pritchett and Khaliq's handbook makes clear that scansion requires reading the words, which a generator cannot do."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say happy birthday in Urdu?",
+        "answer": "سالگرہ مبارک ہو — *salgirah mubarak ho*. The shorter سالگرہ مبارک (*salgirah mubarak*) works everywhere and runs to 12 characters. Both are blessings rather than greetings: Platts's dictionary glosses *mubarak* as \"blessed; happy, fortunate, auspicious\"."
+      },
+      {
+        "question": "What does salgirah mean literally?",
+        "answer": "\"Year-knot\", or \"age-knot\". Platts's Dictionary of Urdu, Classical Hindi, and English glosses *sal-girah* at page 626 as a birthday marked by tying a knot in a string kept as a record of one's age. The synonym it gives is *baras-ganth*."
+      },
+      {
+        "question": "Is it salgirah mubarak or salgirah mubarak ho?",
+        "answer": "Both are correct. سالگرہ مبارک is the bare congratulation, 12 characters; adding *ho* makes it a wish addressed to the person, 15 characters. For a colleague or anyone senior, مبارک باد (*mubarak baad*) is the formal register."
+      },
+      {
+        "question": "Why does my Urdu message look wrong on WhatsApp or in a browser?",
+        "answer": "Almost certainly a font fallback. The W3C notes that Naskh is the typographic default for Arabic script and that a simplified \"typewriter\" style is generally the browser default, while Urdu readers expect Nastaliq. The text is not corrupted, it is set in the wrong calligraphic style."
+      },
+      {
+        "question": "What is the difference between Nastaliq and Naskh?",
+        "answer": "Naskh sits on a flat baseline and is the model for most Arabic typography. Nastaliq hangs on a sloping baseline and, per the W3C's layout requirements, remains the preferred style for Urdu in Pakistan. SIL Global calls Nastaliq one of the most complex writing forms in the world."
+      },
+      {
+        "question": "Which Urdu font should I use for a birthday page?",
+        "answer": "A named Nastaliq webfont, not a fallback. A 2024 study in Daryaft compared Pak Nastaliq, Jameel Noori Nastaliq, Faiz Lahori, Alqalam Taj Nastaliq and Mehr Nastaliq Web against traditional calligraphic standards and rated Mehr Nastaliq Web highest for its kasheeda and compound characters."
+      },
+      {
+        "question": "Should I write the wish in Urdu script or Roman Urdu?",
+        "answer": "Roman Urdu if you cannot control the font on the recipient's device, or if either of you reads the script slowly. Urdu script if you can specify the typeface and test it. Sending both — script plus transliteration — costs two lines and removes the risk."
+      },
+      {
+        "question": "How long should an Urdu birthday message be?",
+        "answer": "Around 96 characters. That is the median personal message across the 198 birthday pages we measured, and 106 of 197 came in under 100 characters. All four lines on this page fit inside that with at least 49 characters spare."
+      },
+      {
+        "question": "Can I use aap and tum interchangeably in a birthday wish?",
+        "answer": "No, and this is the mistake translated wish lists make most often. *Aap* is the respectful form for parents, teachers, elders and colleagues; *tum* marks closeness and reads as rude when sent upward. Pick the pronoun before you pick the sentiment."
+      },
+      {
+        "question": "Why does this page not list Urdu birthday shayari?",
+        "answer": "Because we cannot verify the metre. Pritchett and Khaliq's handbook on Urdu metre states that anyone who cannot read and understand a poem's words cannot scan it, and no method fixes that. An unattributed couplet that does not scan reads as prose with a line break, so we print plain prose and say so."
+      },
+      {
+        "question": "Does a quiz or game make an Urdu birthday page better?",
+        "answer": "Rarely. Of the 195 birthday pages that added a quiz, only 28 were ever played — 14.4%. The written wish and the cover photo do the work; 100% of the 198 pages carried both, and 26.8% added surprise audio, which also sidesteps any font problem."
+      },
+      {
+        "question": "Do more people open a birthday page on a phone or a laptop?",
+        "answer": "Roughly half and half, unusually for us. Birthday page views split 1,081 mobile, 1,121 desktop and 22 tablet across 2,224 views — 48.6% mobile, against 51.0% site-wide. So test Urdu rendering on a desktop browser too, not only on your phone."
+      }
+    ],
+    "coverImageQuery": "urdu nastaliq calligraphy birthday laptop",
+    "coverImagePrompt": "A close, photorealistic shot of a laptop screen showing a short Urdu birthday greeting set in flowing Nastaliq calligraphy, warm desk lamp light falling across a notebook and a pen beside it. Shallow depth of field, muted teal and amber palette, clean negative space along the top third for a title overlay, 16:9. No legible text other than the Urdu line and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Urdu, Written for How Urdu Actually Reads\n\nBirthday wishes in Urdu work best short, and our own numbers say so: across the 198 birthday pages built on SubhSandesh, the median personal message is 96 characters, and 106 of 197 sit under 100. Two lines, not twenty.\n\nThe core phrase is سالگرہ مبارک ہو (*salgirah mubarak ho*), and *salgirah* does not mean \"birthday\" the way the English word does — Platts's dictionary glosses it literally as \"year-knot\".\n\nThe second thing no ranking page mentions: Urdu is read in Nastaliq, and a device's default Arabic font is almost never Nastaliq.\n\nThat matters more here than on any other language page, because birthday pages are the one thing people open on a laptop — 1,121 of 2,224 birthday views were desktop, and only 48.6% were mobile. Below: what the phrase means, why the script renders wrong, four lines you can send, and when not to send Urdu script at all.\n\n## What does \"Salgirah Mubarak\" actually mean?\n\n*Salgirah mubarak* is a blessing, not a greeting-card line. [Platts's *Dictionary of Urdu, Classical Hindi, and English*](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sal-girah&searchhws=yes&matchtype=default), digitised by the University of Chicago, glosses **sal-girah** at page 626 as literally \"Year-knot, or age-knot\" — a birthday, \"when a knot is tied in a string or thread kept as a record of one's age\" — and gives *baras-ganth* as its synonym.\n\nSo the Urdu word for birthday names a counting ritual, one physical knot per year, rather than a celebration. *Mubarak* in the same dictionary is \"blessed; happy, fortunate, auspicious\" and, as an interjection, \"congratulations (to you)\". *Mubarak-bad* is stronger: \"may he (or it) be blessed\".\n\nPut together, an Urdu birthday line sits closer to a benediction than to a card sentiment. That is precisely what the translated-from-English wish lists on this query lose.\n\n## Nastaliq is not Naskh, and the default font does not know the difference\n\nUrdu is set in Nastaliq, and almost every device defaults to something else. The W3C's [*Arabic & Persian Layout Requirements*](https://www.w3.org/TR/alreq/) (Group Draft Note, 2 October 2025) records that Naskh \"has become the default form of Arabic in most contexts, notably as a model for typography\", while \"in Iran and Pakistan Nasta'liq remains the preferred style for Persian and Urdu respectively\".\n\nThe same document is blunter about what browsers ship. The earliest simplified \"typewriter\" approach, which reuses one glyph for both initial and medial positions, \"is generally the browser default font for the Arabic script\".\n\nYour Urdu is not broken in that case. It is legible and *wrong-looking* — a different failure from the empty boxes a missing Indic font produces.\n\nSIL Global, which [built the Awami Nastaliq typeface](https://software.sil.org/awami/design/), calls Nastaliq \"one of the most complex forms of writing in the world\" and says standard font technologies \"are not quite up to the challenge\". The sloping baseline makes glyphs collide: a naive layout of base letters, nuqtas and diacritics gives \"ugly and even unreadable text\". Where a character is missing outright, [SIL notes](https://software.sil.org/awami/what-is-special/), software may borrow a glyph from another Arabic font, or fall back to an isolated form with no contextual shaping at all.\n\nThree fixes, in order of payoff. Mark the text `lang=\"ur\"` so the browser can choose an Urdu face. Name a Nastaliq webfont explicitly rather than trusting a fallback.\n\nThen open it on a laptop as well as a phone, because 1,121 of our 2,224 birthday views were desktop. A [2024 study in *Daryaft*](https://daryaft.numl.edu.pk/index.php/daryaft/article/view/404) compared five Nastaliq computer fonts — Pak Nastaliq, Jameel Noori Nastaliq, Faiz Lahori, Alqalam Taj Nastaliq and Mehr Nastaliq Web — against traditional calligraphic standards and rated Mehr Nastaliq Web highest, for its kasheeda and compound characters.\n\n## Why this page prints no machine-written shers\n\nUrdu birthday content on the open web is mostly unattributed *shayari*. We are not adding to it, and the reason is technical rather than squeamish. Urdu metre is a determinate system, not a feel.\n\nFrances Pritchett and Khaliq Ahmad Khaliq's [*Urdu Meter: A Practical Handbook*](http://www.columbia.edu/itc/mealac/pritchett/00ghalib/meterbk/00_intro.html) (1987, put online in 2003) teaches scansion to students with no \"ear\" at all, on one explicit condition: that they can read the words. \"The student who cannot recognize and pronounce most of the words of a poem, and cannot generally understand their grammar, cannot properly scan that poem. No method can enable him to do so.\"\n\nThat sentence is also the test a text generator fails. A composed *sher* that does not scan is not a rough sher — it is prose with a line break, and a reader who knows the form hears it in one beat. Every \"200+ birthday shayari in Urdu\" list is betting you cannot tell.\n\nSo the four lines below are deliberately prose, in plain modern Urdu. If you want a couplet, take one from a named poet and let the metre be theirs.\n\n## Four Urdu birthday lines, by who is reading them\n\nOne line per relationship: the Urdu, a Roman transliteration, an English sense, and a character count against the 96-character median.\n\n### 1. For an elder — respectful *aap*\n\nسالگرہ مبارک ہو۔ آپ کی عمر دراز ہو۔\n\n*Salgirah mubarak ho. Aap ki umar daraz ho.*\n\n\"Happy birthday. May your life be long.\"\n\nUses *aap*, the respectful second person, and closes on a blessing rather than a compliment — the register a parent, teacher or older relative expects. 35 Urdu characters, so you have 61 spare before you reach the 96-character median.\n\n### 2. For a friend or a sibling — informal *tum*\n\nسالگرہ مبارک، یار۔ آج کا دن تمہارا ہے۔\n\n*Salgirah mubarak, yaar. Aaj ka din tumhara hai.*\n\n\"Happy birthday, friend. Today belongs to you.\"\n\n*Tum* and *yaar* both mark closeness; sent to an elder the same line reads as rude, which is the most common register mistake in a translated wish list. 38 characters, and it works as a WhatsApp status on its own.\n\n### 3. For a partner\n\nسالگرہ مبارک۔ تم سے مل کر میری زندگی بہتر ہوئی۔\n\n*Salgirah mubarak. Tum se mil kar meri zindagi behtar hui.*\n\n\"Happy birthday. My life got better after I met you.\"\n\nOne claim, no adjectives. At 47 characters it is the longest of the four and still under the median — which is the point, because the weight comes from the specific, not the length.\n\n### 4. For a colleague or a formal message\n\nآپ کو سالگرہ مبارک باد۔ نیک خواہشات۔\n\n*Aap ko salgirah mubarak baad. Naik khwahishat.*\n\n\"Congratulations on your birthday. Best wishes.\"\n\n*Mubarak baad* is the formal benediction Platts glosses as \"may he be blessed\"; *naik khwahishat* is \"good wishes\". 36 characters, and it needs no personal detail, which is what makes it safe for a work group.\n\n## How the four lines measure against what people actually send\n\nEach line's length in Urdu characters, against the median personal message measured on 197 of the 198 birthday pages.\n\n| Line | Register | Urdu characters | Against our 96-character median |\n|---|---|---|---|\n| سالگرہ مبارک | Neutral, works anywhere | 12 | 84 spare |\n| سالگرہ مبارک ہو۔ آپ کی عمر دراز ہو۔ | Respectful (*aap*) | 35 | 61 spare |\n| سالگرہ مبارک، یار۔ آج کا دن تمہارا ہے۔ | Informal (*tum*) | 38 | 58 spare |\n| سالگرہ مبارک۔ تم سے مل کر میری زندگی بہتر ہوئی۔ | Intimate | 47 | 49 spare |\n| آپ کو سالگرہ مبارک باد۔ نیک خواہشات۔ | Formal (*mubarak baad*) | 36 | 60 spare |\n\nAll five fit with room to spare, which is why a 500-item list is the wrong shape here: 106 of 197 senders stayed under 100 characters.\n\n## When an Urdu wish in script is the wrong choice\n\nSend Roman Urdu instead when you cannot control the font. If your recipient reads Urdu only in Nastaliq and their device falls back to a Naskh or typewriter face, the message lands looking off, and a wish that looks off is worse than a Roman line that reads cleanly. Roman transliteration is also the honest choice when neither of you reads the script fluently.\n\nTwo limits worth saying out loud. Our data has no language field, so we cannot tell you how many of those 198 birthday pages were written in Urdu — that figure does not exist, and any page quoting an Urdu-specific one invented it.\n\nAnd the interactive extras convert badly: of the 195 birthday pages that added a quiz, only 28 were ever played, 14.4%, and 4 pages (2.0%) were never opened at all. The wish carries the page; the games mostly do not.\n\n## Sending it without fighting the font\n\nThere is one route that sidesteps Nastaliq entirely: say it. 53 of the 198 birthday pages (26.8%) attached surprise audio, and a recorded voice has no font to fall back to. Pair it with the Roman transliteration on screen and the script becomes decoration rather than a dependency.\n\nIf you are building the page, it is quick work — the median gap from first save to last edit on a birthday page is 0.9 hours, and 50.5% are finished inside the hour, against 6.9 hours on our \"I love you\" pages. Start from the [birthday page for a friend](https://subhsandesh.in/birthday-friend) if the tone is *tum*, the [birthday page for parents](https://subhsandesh.in/birthday-parents) if it is *aap*, or browse [all SubhSandesh templates](https://subhsandesh.in/templates) to pick a layout with room for a two-line wish. Add the cover photo and the track — 100% of the 198 pages did both — and test the link on a laptop before you send it.\n\n## Sources\n\n- W3C, [Arabic & Persian Layout Requirements](https://www.w3.org/TR/alreq/) — Group Draft Note, 2 October 2025: Naskh as the typographic default, Nasta'liq as the preferred style for Urdu, and the browser default font for the Arabic script.\n- SIL Global, [Awami Nastaliq — Design](https://software.sil.org/awami/design/): Nastaliq as one of the most complex writing forms in the world, and the glyph-collision problem created by its sloping baseline. No publication date given.\n- SIL Global, [What is Special About Awami Nastaliq?](https://software.sil.org/awami/what-is-special/): missing characters substituted from another Arabic font or shown as isolate forms with no contextual shaping. No publication date given.\n- Zahoor Ahmad and Raees Ahmed Mughal, [A Technical Comparison of Selected Urdu Fonts](https://daryaft.numl.edu.pk/index.php/daryaft/article/view/404), *Daryaft* 16(02), 31 December 2024. English abstract read; the full text is in Urdu.\n- John T. Platts, [A Dictionary of Urdu, Classical Hindi, and English](https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sal-girah&searchhws=yes&matchtype=default), p. 626, Digital Dictionaries of South Asia, University of Chicago: *sal-girah* and *mubarak-bad*.\n- Frances W. Pritchett and Khaliq Ahmad Khaliq, [Urdu Meter: A Practical Handbook](http://www.columbia.edu/itc/mealac/pritchett/00ghalib/meterbk/00_intro.html), 1987, online edition 2003, Columbia University.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-urdu#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Urdu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Urdu",
+              "https://www.wikidata.org/wiki/Q1617"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nastaliq",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nastaliq",
+              "https://www.wikidata.org/wiki/Q1133121"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Ghazal",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ghazal",
+              "https://www.wikidata.org/wiki/Q281111"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabic script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arabic_script",
+              "https://www.wikidata.org/wiki/Q1828555"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Arabic & Persian Layout Requirements",
+            "url": "https://www.w3.org/TR/alreq/",
+            "datePublished": "2025-10-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Awami Nastaliq — Design",
+            "url": "https://software.sil.org/awami/design/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL Global"
+            },
+            "dateModified": "2025-10-17"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "What is Special About Awami Nastaliq?",
+            "url": "https://software.sil.org/awami/what-is-special/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL Global"
+            },
+            "dateModified": "2025-10-17"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Technical Comparison of Selected Urdu Fonts",
+            "url": "https://daryaft.numl.edu.pk/index.php/daryaft/article/view/404",
+            "datePublished": "2024-12-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "DARYAFT, National University of Modern Languages"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Dictionary of Urdu, Classical Hindi, and English — sal-girah, p. 626",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sal-girah&searchhws=yes&matchtype=default",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Digital Dictionaries of South Asia, University of Chicago"
+            },
+            "datePublished": "1884",
+            "dateModified": "2024-06"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Urdu Meter: A Practical Handbook",
+            "url": "http://www.columbia.edu/itc/mealac/pritchett/00ghalib/meterbk/00_intro.html",
+            "datePublished": "1987",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Columbia University"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four Urdu birthday lines, by who is reading them",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "For an elder — respectful aap",
+            "description": "سالگرہ مبارک ہو۔ آپ کی عمر دراز ہو۔ — Salgirah mubarak ho. Aap ki umar daraz ho. 35 Urdu characters, 61 under the measured 96-character median."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "For a friend or a sibling — informal tum",
+            "description": "سالگرہ مبارک، یار۔ آج کا دن تمہارا ہے۔ — Salgirah mubarak, yaar. Aaj ka din tumhara hai. 38 characters; tum and yaar mark closeness and read as rude sent to an elder."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "For a partner",
+            "description": "سالگرہ مبارک۔ تم سے مل کر میری زندگی بہتر ہوئی۔ — Salgirah mubarak. Tum se mil kar meri zindagi behtar hui. 47 characters, the longest of the four and still under the median."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "For a colleague or a formal message",
+            "description": "آپ کو سالگرہ مبارک باد۔ نیک خواہشات۔ — Aap ko salgirah mubarak baad. Naik khwahishat. 36 characters; mubarak baad is the formal benediction Platts glosses as \"may he be blessed\"."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in urdu",
+    "angle": "Wins by being the only post that treats an Urdu birthday wish as a blessing rendered in Nastaliq rather than a translated English sentiment — grounding it in Platts's \"year-knot\" gloss of salgirah, the W3C's record that Naskh not Nastaliq is the typographic default, and our measured 96-character median wish across 198 birthday pages opened 48.6% on mobile and 1,121 of 2,224 times on desktop.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-friend",
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "#5 page type: birthday page for a partner (/birthday-gf) — 198 created, 6.5% of all pages — measured 2026-08-26",
+      "51.0% of shared pages are opened on a phone (18,789 of 36,851 views) — measured 2026-08-26",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=936 — measured 2026-08-26",
+      "Median personal message on birthday pages: 96 characters (n=197); longest 1,437; 106 of 197 under 100 characters — birthdaygfpages probe, measured 2026-08-26 (BRIEF.md)",
+      "Birthday page views split 1,081 mobile / 1,121 desktop / 22 tablet of 2,224 — 48.6% mobile — birthdaygfpages probe, measured 2026-08-26 (BRIEF.md)",
+      "Median gap from first save to last edit on a birthday page: 0.9 hours; 50.5% (100 of 198) finished inside the hour — birthdaygfpages probe, measured 2026-08-26 (BRIEF.md)",
+      "Of the 195 birthday pages that added a quiz, only 28 had it played — 14.4%; 4 pages (2.0%) were never opened — birthdaygfpages probe, measured 2026-08-26 (BRIEF.md)",
+      "Surprise audio used on 53 of 198 birthday pages (26.8%); cover photo and music track on 198 of 198 (100%) — birthdaygfpages probe, measured 2026-08-26 (BRIEF.md)"
+    ],
+    "sources": [
+      {
+        "url": "https://www.w3.org/TR/alreq/",
+        "stat": "Naskh \"has become the default form of Arabic in most contexts, notably as a model for typography\", while \"in Iran and Pakistan Nasta'liq remains the preferred style for Persian and Urdu respectively\"; the simplified \"typewriter\" approach that reuses one glyph for initial and medial positions \"is generally the browser default font for the Arabic script\". Full text read.",
+        "publishedDate": "2025-10-02"
+      },
+      {
+        "url": "https://software.sil.org/awami/design/",
+        "stat": "\"Nastaliq style Arabic is one of the most complex forms of writing in the world, and standard font technologies are not quite up to the challenge\"; the sloping baseline causes glyph collisions so that a naive layout of base glyphs, nuqtas and diacritics produces \"ugly and even unreadable text\". Full page read; no publication date stated.",
+        "publishedDate": "2025-10-17"
+      },
+      {
+        "url": "https://software.sil.org/awami/what-is-special/",
+        "stat": "Where a character is missing from the font, \"the software may substitute a glyph from another Arabic font\"; \"in other cases, an isolate form is used with no contextual shaping\". Also: no font previously handled the characters and diacritics of roughly twenty-five other languages of Pakistan spoken by over 120 million people. Full page read; no publication date stated.",
+        "publishedDate": "2025-10-17"
+      },
+      {
+        "url": "https://daryaft.numl.edu.pk/index.php/daryaft/article/view/404",
+        "stat": "Peer-reviewed comparison of five Nastaliq computer fonts — Pak Nastaliq, JameelNooriNastaliq, Faiz Lahori, Alqalam Taj Nastaliq and MehrNastaliq Web — against technical standards of traditional Nastaliq calligraphy; concludes Mehr Nastaliq Web is best of the five, with kasheeda and compound characters giving \"natural look and feel of calligraphy\". English abstract read only — the full text is in Urdu.",
+        "publishedDate": "2024-12-31"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sal-girah&searchhws=yes&matchtype=default",
+        "stat": "sal-girah, p. 626: lit. \"Year-knot, or age-knot\"; birthday, anniversary of one's birthday \"(when a knot is tied in a string or thread kept as a record of one's age; syn. baras-ganth)\". The mubarak entry gives \"blessed; happy, fortunate, auspicious\" and mubarak-bad as \"may he (or it) be blessed\". Full entries read; the query page carries no publication date.",
+        "publishedDate": "1884",
+        "editionNote": "digital edition at dsal.uchicago.edu, updated June 2024"
+      },
+      {
+        "url": "http://www.columbia.edu/itc/mealac/pritchett/00ghalib/meterbk/00_intro.html",
+        "stat": "\"The student who cannot recognize and pronounce most of the words of a poem, and cannot generally understand their grammar, cannot properly scan that poem. No method can enable him to do so\"; the handbook teaches scansion without assuming a native speaker's ear. Print edition 1987 (South Asian Studies, University of Wisconsin at Madison), online introduction July 2003. Introduction read in full; chapter pages returned 404/403.",
+        "publishedDate": "1987"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual /\n      distance / the language / the platform behaviour, not merely about India or\n      the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different\n      keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3.\n      **One exception: the date/festival reference** (e.g. a panchang for the festival\n      date and muhurat). Every post in a festival batch may verify the same date —\n      that is a fact-check, not a citation, and it has no cap. It only earns a place\n      in `citation` where the post actually states the time; a post that merely\n      mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "The differentiating claim on a language page is the script content itself, and 14 Urdu strings in this post are machine-composed and unverified: 7 in Urdu script (4 full birthday lines plus the set phrases salgirah mubarak, salgirah mubarak ho and mubarak baad) and their 7 Roman transliterations. Until a native Urdu reader signs those off, the claim that these are idiomatic, correctly registered (aap vs tum), correctly spelled in Nastaliq orthography and correctly transliterated is not established. Structural, and no citation can close it: the lexical glosses are verified against Platts, but idiom, register, Nastaliq rendering and poetic metre are not verifiable by any agent. Closing condition: native-reader sign-off on all 14 strings; if the reader rejects a line, replace it and re-count. Note the post deliberately contains no verse at all, precisely because metre cannot be verified — which removes the rakhi-batch failure mode but does not remove this one."
+        }
+      ],
+      "honestAssessment": "An answer engine has three reasons to prefer this over the five pages on the SERP, and none of them is prose quality. It is the only page on the query that explains what salgirah literally means, sourced to Platts at page 626; the only one that separates Nastaliq from Naskh and names the W3C's finding that the browser default for Arabic script is a simplified typewriter face, so Urdu renders legible-but-wrong rather than broken; and the only one carrying measured behaviour — a 96-character median wish across 198 birthday pages, and a 48.6%-mobile / 1,121-of-2,224-desktop split that makes laptop rendering a real concern. Three of the nine results are Pinterest boards, two are language-learning pages with the wrong intent, and none of them can publish either the etymology or the usage data. The blocker is that the post cannot be published until a native Urdu reader signs off on 14 machine-composed strings; the deliberate absence of any verse lowers the risk but does not remove it. Against that: subhsandesh.in has far less authority than rekhta.org, this is a Pinterest-heavy SERP where images win visual slots regardless of text quality, and no first-party figure here is Urdu-specific because the probe records no language field — so the data supports the format argument, not a claim about Urdu senders."
+    },
+    "generatedAt": "2026-08-27T00:00:00.000Z"
+  }
+}

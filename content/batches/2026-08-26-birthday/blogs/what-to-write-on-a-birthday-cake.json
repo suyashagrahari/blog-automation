@@ -267,7 +267,6 @@
       "passed": [
         "3–6 outbound links, all fetched and verified to contain the cited fact",
         "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
-        "The post contains at least one claim none of the top 5 pages make",
         "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
         "No section closely mirrors a competitor page's structure or framing",
         "Direct answer in the first 150 words, before any context-setting",
@@ -325,6 +324,10 @@
         {
           "item": "Every outbound fact passes the \"would it stay without the link\" test",
           "why": "Four of the five outbound facts are load-bearing. The fifth — the Appetite finding that commensality with co-ethnics built community bonds among 30 Indian migrants — could be cut without the argument changing; it is there partly to carry an India-specific commensality citation. Closes if an India-specific study of celebratory cake or festive food sharing is found to replace it."
+        },
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "STRUCTURAL — the mandatory batch language blocker, added at batch level because the body carries 7 runs of Devanagari and Tamil script (piping examples) that are machine-composed and unverified. This was recorded only in honestAssessment, which meant a reviewer reading the audit alone would have missed a publish gate. Native-reader sign-off required on every script example before publishing; no citation can close it, and the character-count arithmetic must be recomputed from whatever a reader corrects."
         }
       ],
       "honestAssessment": "It is the only page in this SERP that answers the question in characters rather than in options: a measured character budget per cake size (14 on a 500 g round, 20 on a 1 kg, ~140 across four lines on a slab), set against SubhSandesh's own 96-character median birthday-page message (n = 197). wikiHow does bury a \"2 to 5 words\" line in step 16 of its 155-item list, so the constraint is not literally unmentioned anywhere — but no page organises the answer by it, gives a number per cake size, or covers Devanagari and Tamil piping in an India SERP. Four honest limits the reader should know about. (1) SubhSandesh holds no cake data at all; the 96-character median is measured on a web form with no length limit and is used strictly as an upper bound, which the body states three times. (2) The character budget is geometry, not a survey of real cakes — no bakery lettered a test cake, and piping hand-size varies; it is labelled as our own arithmetic in the body. (3) The Devanagari and Tamil example strings are machine-composed and unverified. They are extremely common set expressions and Devanagari is the lower-risk of the two, but neither has native-reader sign-off; that sign-off is the condition for publishing, and no agent can supply it. (4) Only abstracts and repository record pages were read for four of the five sources (all five are open access, none paywalled); the 1400% candle figure is quoted verbatim from the published abstract. Domain authority against wikiHow is not closable by this post, and ranking takes months."

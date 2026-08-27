@@ -4,108 +4,225 @@
   "batchId": "2026-08-26-birthday",
   "createdAt": "2026-08-27",
   "market": "India",
-  "keywordSource": "content/keywords/2026-08-26-birthday/final30.json (ranks 1-12, wave 1 of 3)",
-  "wave": 1,
-  "waveOf": 3,
-  "postCount": 10,
-  "notes": "Wave 1 of the 30-keyword birthday set. Ranks 2 and 3 of the shortlist (birthday date personality test, birthday decoration ideas at home) were HELD, not written: Phase 0 found no first-party data for numerology or physical decoration and no first-hand experience to substitute, so the blocking gate was respected. Ranks 11 and 12 (birthday wishes in hindi, 2 line birthday wishes) were substituted in. birthday-wishes-in-hindi is a HUB absorbing three keywords whose SERPs overlap by 3+ results: janamdin ki hardik shubhkamnaye, birthday quotes in hindi, birthday wishes for brother in hindi — do not write those separately.",
+  "keywordSource": "content/keywords/2026-08-26-birthday/final30.json (ranks 1 and 4-22 of 30)",
+  "postCount": 20,
+  "wavesCompleted": 2,
+  "notes": "20 of the 30-keyword birthday shortlist. Ranks 2 and 3 (birthday date personality test, birthday decoration ideas at home) remain HELD on the Phase 0 gate — no first-party data exists for numerology or physical decoration and no first-hand experience substitutes; not authorised for override. Ranks 23-30 not yet written. Two posts are clusters absorbing a second keyword whose SERP overlaps by 3+ results: birthday-wishes-in-hindi (3 secondaries) and birthday-wishes-for-wife-in-hindi + birthday-surprise-ideas-for-wife-at-home (1 each). Do not write those secondaries separately.",
   "publishBlockers": [
     {
       "issue": "machine-composed script requires native-reader sign-off",
       "posts": [
-        "birthday-wishes-in-hindi",
-        "birthday-wishes-in-tamil",
+        "birthday-wishes-for-daughter-in-hindi",
+        "birthday-wishes-for-teacher-in-hindi",
+        "birthday-wishes-for-wife-in-hindi",
         "birthday-wishes-in-gujarati",
+        "birthday-wishes-in-hindi",
+        "birthday-wishes-in-punjabi",
+        "birthday-wishes-in-tamil",
         "birthday-wishes-in-telugu",
+        "birthday-wishes-in-urdu",
+        "birthday-wishes-reply-in-hindi",
         "what-to-write-on-a-birthday-cake"
       ],
-      "detail": "Every Devanagari, Tamil, Gujarati and Telugu string is machine-generated and unverified. Each post records this as a STRUCTURAL audit failure. Telugu's and Tamil's are explicitly marked not closable by adding a citation. what-to-write-on-a-birthday-cake also contains Devanagari and Tamil examples."
+      "detail": "Every Devanagari, Tamil, Gujarati, Telugu, Gurmukhi and Urdu string is machine-generated and unverified. Each post records this as a STRUCTURAL audit failure. birthday-wishes-in-urdu counted its exposure precisely at 14 strings and presented NO verse at all, grounding that refusal in Pritchett & Khaliq's Urdu Meter — unlike the 2026-08-25 rakhi Urdu post, which shipped 7 original shers and is still unpublishable. CORRECTED COUNT: this affects 11 of the 20 posts, not 7 — an earlier count matched only on the phrase 'native reader' and missed posts wording it as 'machine-composed' or 'unverified'. The list here is derived from the audit text AND from an actual Unicode-range scan of each body, so it catches posts carrying script examples without a blocker in failed[].",
+      "postsWithScriptButNoFailedEntry": [
+        "what-to-write-on-a-birthday-cake"
+      ]
     },
     {
       "issue": "no Search Console data",
-      "detail": "168 birthday posts are already live and none appeared in any of the 60 India SERPs harvested for this run. Striking-distance or indexing cannot be distinguished without a GSC export, and that determines whether these 10 land in the same hole."
+      "detail": "181 birthday posts are live and none appeared in any of the 60 India SERPs harvested. Striking-distance versus indexing cannot be distinguished without a GSC export, and that determines whether these 20 land in the same hole."
     },
     {
       "issue": "Phase 1 competitor pages not individually fetched",
-      "detail": "WebSearch hit its 200/200 session cap. SERPs were harvested with a real browser at gl=in and supplied to each agent, but most top-5 pages were not fetched in full. Recorded per-post in the research briefs."
+      "detail": "WebSearch hit its 200/200 session cap before drafting began. SERPs were harvested India-localised (gl=in) in a real browser and supplied per-post, but most top-5 pages were not fetched in full. Recorded per-post in the research briefs."
+    },
+    {
+      "issue": "conversion fit is weak on two posts",
+      "detail": "birthday-songs-for-whatsapp-status (searcher wants an MP3) and the decoration angle are top-of-funnel only. The songs post's own honest assessment says to assume near-zero conversion and treat its ~132 clicks as cluster traffic, not revenue."
     }
   ],
   "firstPartyData": {
     "source": "read-only probe of birthdaygfpages, 2026-08-26",
     "n": 198,
-    "headline": "median personal message 96 characters; 106 of 197 under 100",
-    "caveat": "n=198 from 2026-04; no language or relationship field exists, so no per-language or per-relation claim is possible"
+    "headline": "median personal message 96 characters; 106 of 197 under 100; median build 0.9h; quiz played on only 28 of 195",
+    "caveat": "no language or relationship field exists, so no per-language or per-relation claim is possible; every post records that absence rather than inventing a figure"
   },
+  "originalMeasurements": [
+    "birthday-wishes-reply-in-hindi — Leipzig Hindi corpus, 19,177,172 tokens: धन्यवाद 394, शुक्रिया 246, आभार 198, थैंक्यू 52",
+    "birthday-wishes-for-teacher-in-hindi — same corpus: आप 12,335, तुम 750, तू 236; गुरु 1,103 > शिक्षक 710 > सर 517 > मैडम 192 > महोदय 33 > गुरुजी 18",
+    "birthday-wishes-for-wife-in-hindi — आप 92.6% of nominatives; मुबारक (1,922) DISCARDED as contaminated by the Egyptian surname in a 2011 news corpus",
+    "birthday-wishes-in-punjabi — the same eight wishes measured in Gurmukhi/Shahmukhi/Roman: 31.0/30.3/36.0 code points, 82.8/55.8/36.0 UTF-8 bytes; Roman is longest at +16%",
+    "what-to-write-on-a-birthday-cake — derived character budget per cake size: 14 chars on a 500g round, 20 on an 8-inch"
+  ],
   "blogs": [
     {
       "slug": "2-line-birthday-wishes",
       "title": "2 Line Birthday Wishes That Fit How People Actually Write",
       "keyword": "2 line birthday wishes",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 2
+      "secondaryKeywords": [],
+      "auditFailures": 2,
+      "needsNativeReader": false
     },
     {
       "slug": "belated-birthday-wishes",
       "title": "Belated Birthday Wishes: What to Send When You've Missed the Day",
       "keyword": "belated birthday wishes",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 1
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
+    },
+    {
+      "slug": "birthday-captions-for-myself",
+      "title": "Birthday Captions for Myself, Without Sounding Like a Brag",
+      "keyword": "birthday captions for myself",
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
+    },
+    {
+      "slug": "birthday-songs-for-whatsapp-status",
+      "title": "Birthday Songs for WhatsApp Status: Picking the Right 30 Seconds",
+      "keyword": "birthday songs for whatsapp status",
+      "secondaryKeywords": [],
+      "auditFailures": 2,
+      "needsNativeReader": false
     },
     {
       "slug": "birthday-status-for-whatsapp",
       "title": "Birthday Status for WhatsApp: How Long It Should Actually Be",
       "keyword": "birthday status for whatsapp",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 1
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
+    },
+    {
+      "slug": "birthday-surprise-ideas-for-wife-at-home",
+      "title": "Birthday Surprise Ideas for Wife at Home, Sorted by Time Left",
+      "keyword": "birthday surprise ideas for wife at home",
+      "secondaryKeywords": [
+        "how to give birthday surprise"
+      ],
+      "auditFailures": 2,
+      "needsNativeReader": false
+    },
+    {
+      "slug": "birthday-wishes-for-daughter-in-hindi",
+      "title": "Birthday Wishes for Daughter in Hindi, From Beti to Grown-Up",
+      "keyword": "birthday wishes for daughter in hindi",
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
     },
     {
       "slug": "birthday-wishes-for-nephew",
       "title": "Birthday Wishes for Nephew: Bhatija and Bhanja, Said Right",
       "keyword": "birthday wishes for nephew",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 1
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
+    },
+    {
+      "slug": "birthday-wishes-for-teacher-in-hindi",
+      "title": "Birthday Wishes for Teacher in Hindi: Getting the Register Right",
+      "keyword": "birthday wishes for teacher in hindi",
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
+    },
+    {
+      "slug": "birthday-wishes-for-wife-in-hindi",
+      "title": "Birthday Wishes for Wife in Hindi: तुम, Not आप, and Why",
+      "keyword": "birthday wishes for wife in hindi",
+      "secondaryKeywords": [
+        "birthday wishes for boss in hindi"
+      ],
+      "auditFailures": 1,
+      "needsNativeReader": true
+    },
+    {
+      "slug": "birthday-wishes-for-younger-sister",
+      "title": "Birthday Wishes for Younger Sister, Not Just Any Sister",
+      "keyword": "birthday wishes for younger sister",
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
     },
     {
       "slug": "birthday-wishes-in-gujarati",
       "title": "Birthday Wishes in Gujarati When You're Not in Gujarat",
       "keyword": "birthday wishes in gujarati",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 3
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
     },
     {
       "slug": "birthday-wishes-in-hindi",
       "title": "Birthday Wishes in Hindi — And Why You Type Them in English",
       "keyword": "birthday wishes in hindi",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 4
+      "secondaryKeywords": [
+        "janamdin ki hardik shubhkamnaye",
+        "birthday quotes in hindi",
+        "birthday wishes for brother in hindi"
+      ],
+      "auditFailures": 4,
+      "needsNativeReader": true
+    },
+    {
+      "slug": "birthday-wishes-in-punjabi",
+      "title": "Birthday Wishes in Punjabi: Choose the Script Before the Words",
+      "keyword": "birthday wishes in punjabi",
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": true
     },
     {
       "slug": "birthday-wishes-in-tamil",
       "title": "Birthday Wishes in Tamil: Formal for Appa, Spoken for Friends",
       "keyword": "birthday wishes in tamil",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 4
+      "secondaryKeywords": [],
+      "auditFailures": 4,
+      "needsNativeReader": true
     },
     {
       "slug": "birthday-wishes-in-telugu",
       "title": "Birthday Wishes in Telugu That Render on Every Phone",
       "keyword": "birthday wishes in telugu",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 3
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
+    },
+    {
+      "slug": "birthday-wishes-in-urdu",
+      "title": "Birthday Wishes in Urdu, Written for How Urdu Actually Reads",
+      "keyword": "birthday wishes in urdu",
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": true
+    },
+    {
+      "slug": "birthday-wishes-reply-in-hindi",
+      "title": "Birthday Wishes Reply in Hindi: Which Thank-You Word Fits Whom",
+      "keyword": "birthday wishes reply in hindi",
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
     },
     {
       "slug": "thank-you-for-birthday-wishes",
       "title": "How to Say Thank You for Birthday Wishes Without Copy-Paste",
       "keyword": "thank you for birthday wishes",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 1
+      "secondaryKeywords": [],
+      "auditFailures": 1,
+      "needsNativeReader": false
     },
     {
       "slug": "what-to-write-on-a-birthday-cake",
       "title": "What to Write on a Birthday Cake When Only 14 Characters Fit",
       "keyword": "what to write on a birthday cake",
-      "categorySlug": "milestone-birthdays",
-      "auditFailures": 3
+      "secondaryKeywords": [],
+      "auditFailures": 3,
+      "needsNativeReader": true
     }
   ]
 }

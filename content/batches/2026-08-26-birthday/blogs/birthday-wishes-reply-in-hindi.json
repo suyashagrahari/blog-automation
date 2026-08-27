@@ -1,0 +1,352 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes Reply in Hindi: Which Thank-You Word Fits Whom",
+    "slug": "birthday-wishes-reply-in-hindi",
+    "excerpt": "धन्यवाद, शुक्रिया, आभार or थैंक्यू — the four Hindi thank-yous are not interchangeable. Eight replies to birthday wishes with the register each one carries, corpus frequencies for all four, and lengths measured against the 96-character median across 197 SubhSandesh birthday pages.",
+    "metaTitle": "Birthday Wishes Reply in Hindi — 4 Words, Ranked by Register",
+    "metaDescription": "Birthday wishes reply in Hindi: धन्यवाद outnumbers आभार 394 to 198 in a Hindi corpus. Eight replies with the register each carries, at our 96-character median.",
+    "keywords": "birthday wishes reply in hindi, dhanyavaad vs aabhaar, thank you for birthday wishes in hindi, hindi reply to birthday wishes, shukriya reply hindi",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-reply-in-hindi",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "hindi",
+      "messages",
+      "etiquette",
+      "language"
+    ],
+    "keyTakeaways": [
+      "धन्यवाद is the correct-everywhere default and the most common of the four: 394 occurrences against आभार's 198 in a 19,177,172-token Hindi news corpus.",
+      "आभार belongs to elders and public posts, शुक्रिया to friends, and थैंक्यू — 52 occurrences — is what people type and editors never print.",
+      "Keep the reply near 96 characters, the median personal message across 197 SubhSandesh birthday pages, where 106 of 197 run under 100.",
+      "In a 300-post study, 63% of Hindi speakers' Facebook posts were entirely in English, so the Hindi element in most replies is the address term, not the thank-you.",
+      "A page is the wrong tool for a thank-you: SubhSandesh birthday pages average 11.2 opens, and only 28 of 195 quizzes were ever played — 14.4%."
+    ],
+    "faqs": [
+      {
+        "question": "What is the best reply to birthday wishes in Hindi?",
+        "answer": "For a mixed group, आप सभी का बहुत-बहुत धन्यवाद। — 28 characters, respectful, and it singles nobody out. Swap धन्यवाद for शुक्रिया if everyone in the thread is a friend or cousin, and for आभार if you are answering elders or posting publicly."
+      },
+      {
+        "question": "What is the difference between धन्यवाद and आभार?",
+        "answer": "Both mean thank you, but आभार carries a heavier, more literary charge — it is the word on a condolence notice or a public acknowledgement. धन्यवाद is roughly twice as common in written Hindi: 394 occurrences against आभार's 198 in a 19,177,172-token news corpus."
+      },
+      {
+        "question": "Is धन्यवाद too formal for a close friend?",
+        "answer": "Slightly, yes. A bare धन्यवाद to a best friend reads as correct rather than warm, which is why शुक्रिया यार works better between peers. Save धन्यवाद for colleagues, acquaintances and anyone you would address as आप."
+      },
+      {
+        "question": "Can I use शुक्रिया instead of धन्यवाद?",
+        "answer": "Yes, and it is the friendlier of the two. शुक्रिया is the Perso-Arabic option and sounds affectionate rather than merely correct; it sits at 246 occurrences in the same news corpus, between धन्यवाद at 394 and आभार at 198. It is the wrong choice for a formal or official reply."
+      },
+      {
+        "question": "Is it rude to reply to Hindi birthday wishes in English?",
+        "answer": "No, and it is what most people already do. In a study of 300 Facebook posts, 95 of the 150 written by Hindi speakers — 63% — were entirely in English. A misapplied Hindi honorific reads worse to an elder than a plain \"thank you so much\"."
+      },
+      {
+        "question": "How do I thank an older relative for a birthday wish in Hindi?",
+        "answer": "Lead with the respect marker rather than a longer thank-you: आपका आशीर्वाद मिला, यही सबसे बड़ा तोहफ़ा है। आभार। Elders are watching for जी, आप and आशीर्वाद far more than for the vocabulary of the thank-you itself."
+      },
+      {
+        "question": "What should I reply to a boss or a teacher in Hindi?",
+        "answer": "आपके स्नेह और शुभकामनाओं के लिए हृदय से आभार। at 45 characters is the safe register — deferential without being effusive. Avoid यार and तुम entirely, and keep the reply to one line."
+      },
+      {
+        "question": "How long should a Hindi thank-you reply be?",
+        "answer": "About one line. The median personal message across 197 SubhSandesh birthday pages is 96 characters and 106 of those 197 run under 100, so anything past two lines is longer than what people write unprompted."
+      },
+      {
+        "question": "Does the reply change if I am a woman?",
+        "answer": "Only where a verb agrees with you. जवाब दे रहा हूँ is masculine; a female sender writes जवाब दे रही हूँ. The thank-you words themselves — धन्यवाद, शुक्रिया, आभार — do not change."
+      },
+      {
+        "question": "Should my reply be in Devanagari or typed in English letters?",
+        "answer": "Devanagari if you can read what you are sending; Roman letters if you are copying a string you cannot check. One 2024 Hinglish dataset had its native-Hindi translators use Roman script throughout, reaching a Code-Mixing Index of 0.82, so Roman is a normal register rather than a compromise."
+      },
+      {
+        "question": "Is थैंक्यू written in Devanagari acceptable?",
+        "answer": "In a message, yes — it is the spoken default. It looks rare in print only because editors do not use it: थैंक्यू appears 52 times in a 19.2-million-token news corpus against धन्यवाद's 394, which measures editorial habit, not everyday speech."
+      }
+    ],
+    "coverImageQuery": "indian man phone birthday messages replying",
+    "coverImagePrompt": "A photorealistic close overhead shot of a young Indian man sitting at a kitchen table, thumb-typing a reply on his phone, a small stack of unopened birthday cards beside him. Warm late-morning window light, shallow depth of field, phone screen glow but no legible text on it. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes Reply in Hindi: Which Thank-You Word Fits Whom\n\nA birthday wishes reply in Hindi comes down to one decision — धन्यवाद, शुक्रिया, आभार or थैंक्यू — and the four are not interchangeable. धन्यवाद is the correct-everywhere default and the most common of them in written Hindi: 394 occurrences against आभार's 198 in a Hindi news corpus of 19,177,172 tokens. आभार is warmer and more literary and belongs to elders and public posts; शुक्रिया is the friend's word; थैंक्यू is what most people actually type.\n\nThen keep it short. Across 197 SubhSandesh birthday pages the median personal message is **96 characters**, and 106 of those 197 sit under 100 characters — so a reply that runs three lines is already longer than what people write unprompted. Below: eight replies with the register each carries, the frequency behind all four words, and the one situation where wording stops mattering.\n\n## What धन्यवाद and आभार actually signal\n\nधन्यवाद (dhanyavaad) is the standard Hindi thank-you — a tatsama word taken unchanged from Sanskrit, correct in every setting and warm in none of them. आभार (aabhaar) means the same thing but carries a heavier, more literary charge: it is the word on a condolence notice or a public acknowledgement.\n\nThat difference is measurable rather than a matter of taste. In the Leipzig Corpora Collection's [Hindi news corpus of 1,000,000 sentences and 19,177,172 tokens](https://corpora.uni-leipzig.de/en?corpusId=hin_news_2011_1M), धन्यवाद appears 394 times and आभार 198 — roughly two to one.\n\nशुक्रिया, the Perso-Arabic option, sits between them at 246. It is the only one of the four that sounds affectionate instead of merely correct, which is why it works on a cousin and grates on a manager.\n\n## Why most Hindi speakers answer in English anyway\n\nBecause they already do, in the same medium, for the same act. In a study of 300 Facebook posts collected in April 2012, [95 of the 150 posts written by Hindi speakers — 63% — were entirely in English](https://ruj.uj.edu.pl/bitstreams/3b3dac54-3f7f-41bb-91b1-fce2957e29ec/download), against 24% for the Polish comparison group in the same paper.\n\nThe follow-up detail matters more than the headline. In the same author's earlier corpus of 210 Indian Facebook posts, every recorded thanking move is English — \"thanks for the wishes!\", \"Thank u so much aunty..\" — and [the Hindi element attached to the thanks is the address term, not the gratitude word](https://ruj.uj.edu.pl/bitstreams/11235a94-884f-4965-8332-db2efda30afd/download). Neither धन्यवाद nor शुक्रिया appears anywhere in that paper's 210 posts.\n\nSo the real choice is not Hindi versus English. It is *which word carries the register* — and for most senders that word is a Hindi vocative bolted onto an English thanks.\n\nSpeed pushes the same way. Our birthday pages have a median gap of 0.9 hours between first save and last edit, and 50.5% of them — 100 of 198 — are finished inside the hour. Nobody composing in that window is reaching for आभार.\n\n## Eight replies to birthday wishes in Hindi, by register\n\nEach entry gives the same four things in the same order: what it says, how it is typed in Roman letters, the register it lands in, and its length against our 96-character median. Length is given as a share of that median.\n\n### 1. धन्यवाद!\n\nPlain thank you, nothing else. Roman: *Dhanyavaad!* Register: correct and slightly stiff — fine as a one-tap answer to a stranger or a colleague, cold to a close friend. At 8 characters it is 8% of the median message, which is honest about how much effort it represents.\n\n### 2. आप सभी का बहुत-बहुत धन्यवाद।\n\n\"Thank you all very much.\" Roman: *Aap sabhi ka bahut-bahut dhanyavaad.* Register: formal-plural, the standard group reply — आप plus सभी makes it respectful without singling anyone out. 28 characters, 29% of the median, and the one on this list most people will actually send.\n\n### 3. आपके स्नेह और शुभकामनाओं के लिए हृदय से आभार।\n\n\"Heartfelt gratitude for your affection and your good wishes.\" Roman: *Aapke sneh aur shubhkaamnaon ke liye hriday se aabhaar.* Register: literary and deferential — right for a teacher, an uncle, a public post. 45 characters, 47% of the median. Send this to a friend and it reads as a joke.\n\n### 4. शुक्रिया यार! दिन बन गया।\n\n\"Thanks, mate — that made my day.\" Roman: *Shukriya yaar! Din ban gaya.* Register: peer-to-peer and affectionate; यार rules out anyone senior to you. 25 characters, 26% of the median, and the shortest entry here that still says something specific.\n\n### 5. थैंक यू भाई, तुम्हारा मैसेज सबसे पहले आया।\n\n\"Thank you, brother — yours came first.\" Roman: *Thank you bhai, tumhara message sabse pehle aaya.* Register: code-mixed and close, with तुम्हारा ruling out elders. 42 characters, 44% of the median. This is the shape the research above predicts.\n\n### 6. इतने प्यार के लिए शुक्रिया। सबको जवाब दे रहा हूँ।\n\n\"Thanks for all this love — I'm replying to everyone.\" Roman: *Itne pyaar ke liye shukriya. Sabko jawab de raha hoon.* Register: warm and informal, and it buys you time. 49 characters, 51% of the median. Change रहा हूँ to रही हूँ if you are female.\n\n### 7. आपका आशीर्वाद मिला, यही सबसे बड़ा तोहफ़ा है। आभार।\n\n\"Your blessing reached me — that is the biggest gift. Gratitude.\" Roman: *Aapka aashirvaad mila, yahi sabse bada tohfa hai. Aabhaar.* Register: for someone much older, where आशीर्वाद is the expected frame rather than शुभकामना. 50 characters, 52% of the median.\n\n### 8. देर से जवाब दे रहा हूँ, पर आपकी शुभकामनाओं के लिए धन्यवाद।\n\n\"I'm replying late, but thank you for your wishes.\" Roman: *Der se jawab de raha hoon, par aapki shubhkaamnaon ke liye dhanyavaad.* Register: neutral-formal, and the acknowledgement of lateness does the work. 58 characters, 60% of the median — the longest here, and the only one that should be.\n\n## The four thank-you words, compared\n\nFour words, and the two numbers that decide between them: how often written Hindi uses each one, and what a full reply costs against our measured median. Both come from the corpus above.\n\n| Word | Frequency in 19.2M tokens | Register it lands in | Full reply vs the 96-character median |\n|---|---|---|---|\n| धन्यवाद (dhanyavaad) | 394 | correct anywhere, warm nowhere | 28 characters — 29% |\n| शुक्रिया (shukriya) | 246 | affectionate; friends, cousins, siblings | 25 characters — 26% |\n| आभार (aabhaar) | 198 | literary, deferential; elders and public posts | 45 characters — 47% |\n| थैंक्यू (thainkyoo) | 52 | the spoken default, badly under-recorded in print | 42 characters — 44% |\n\nThe last row is the takeaway. थैंक्यू at 52 is a floor, not an estimate: a 2011 news corpus records what an editor prints, and no editor prints थैंक्यू — which is why it dominates WhatsApp and barely exists here.\n\n## The elder problem: what an older relative is waiting for\n\nNot a longer thank-you. In the 210-post Indian Facebook corpus, 57 tokens were honorifics or forms of address, with *sir* alone recorded 12 times — and the striking pattern is the doubled *sir ji*, an English formal term stacked on the Hindi deference marker ji.\n\nThat stacking is the actual expectation. An elder is watching for the marker of respect — जी, आप, आशीर्वाद — far more than for the vocabulary layer of the thank-you itself, which is why reply 7 above lands and a bare धन्यवाद to a grandparent feels curt.\n\nOne reason to get it right: only 37.9% of our birthday pages are password-protected, against 43.9% of all SubhSandesh pages. A reply written for one uncle will be read by four. If you are the one sending next month rather than replying today, the [birthday page for parents](https://subhsandesh.in/birthday-parents) is where this register question bites hardest.\n\n## Where the register choice stops mattering\n\nThree places, and it is worth being blunt about them. First, when you cannot verify the Devanagari. A misapplied honorific reads worse to an elder than a plain English \"thank you so much\" — and if you are copying a string you cannot read, English is the safer register, not the lazier one.\n\nSecond, when the reply is doing less work than you think. Explicit thanks is rarer than English-speaking intuition suggests: across eight languages and 928 fulfilled requests in video-recorded everyday interaction, [gratitude was expressed overtly just 5.5% of the time](https://eprints.whiterose.ac.uk/id/eprint/131376/1/Floyd_et_al._2018_Universals_and_cultural_diversity_in_the_expressio.pdf) — 0% in Cha'palaa, 14.5% at the English high end. No South Asian language was in that sample, so treat it as a bound on the assumption rather than a measurement of Hindi.\n\nThird, when a page is the wrong object entirely. A reply is a message, and our own numbers say a page is a poor thanking tool: birthday pages average 11.2 opens against 12.2 site-wide, and of the 195 that added a quiz only 28 were ever played — 14.4%.\n\nBuild a [birthday page for a friend](https://subhsandesh.in/birthday-friend) when you are the one celebrating them, and send plain text when you are the one saying thanks. Everything else sits in [all SubhSandesh templates](https://subhsandesh.in/templates).\n\nOne caveat on the research itself. A Hinglish politeness dataset from 2024 instructed its native-Hindi translators to \"switch to English whenever they feel it is appropriate, just as they would in their daily conversations\", reaching a [Code-Mixing Index of 0.82](https://aclanthology.org/2024.findings-naacl.290/) — but its dialogues were machine-generated and then human-edited, so that is a model of everyday switching, not a recording of it.\n\n## Sources\n\n- Dąbrowska, M. (2012). \"Happy b'day bhaiya\". Characteristics of Facebook Indian English. *Studia Linguistica Universitatis Iagellonicae Cracoviensis* 129. [Full text](https://ruj.uj.edu.pl/bitstreams/11235a94-884f-4965-8332-db2efda30afd/download) — 210 Facebook posts, April 2011; 57 address-form tokens.\n- Dąbrowska, M. (2013). Functions of code-switching in Polish and Hindi Facebook users' posts. *Studia Linguistica UIC* 130: 63–84. [Full text](https://ruj.uj.edu.pl/bitstreams/3b3dac54-3f7f-41bb-91b1-fce2957e29ec/download) — 95 of 150 Hindi-speakers' posts entirely in English.\n- Floyd, S., Rossi, G., Baranova, J. et al. (1 May 2018). Universals and cultural diversity in the expression of gratitude. *Royal Society Open Science* 5: 180391. [Published version](https://eprints.whiterose.ac.uk/id/eprint/131376/1/Floyd_et_al._2018_Universals_and_cultural_diversity_in_the_expressio.pdf) — 5.5% of 928 fulfilled requests.\n- Leipzig Corpora Collection, [Hindi news corpus `hin_news_2011_1M`](https://corpora.uni-leipzig.de/en?corpusId=hin_news_2011_1M), Universität Leipzig — 2011 material; word frequencies read 2026-08-27. No article publication date.\n- Priya, P., Singh, G. V., Firdaus, M. et al. (2024). [On the Way to Gentle AI Counselor](https://aclanthology.org/2024.findings-naacl.290/). *Findings of NAACL 2024* — Code-Mixing Index 0.82.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-reply-in-hindi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Hindi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindi",
+              "https://www.wikidata.org/wiki/Q1568"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Register (sociolinguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Register_(sociolinguistics)",
+              "https://www.wikidata.org/wiki/Q286576"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Code-switching",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Code-switching",
+              "https://www.wikidata.org/wiki/Q255615"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Gratitude",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gratitude",
+              "https://www.wikidata.org/wiki/Q2728730"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "\"Happy b'day bhaiya\". Characteristics of Facebook Indian English",
+            "url": "https://ruj.uj.edu.pl/bitstreams/11235a94-884f-4965-8332-db2efda30afd/download",
+            "datePublished": "2012",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Studia Linguistica Universitatis Iagellonicae Cracoviensis"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Functions of code-switching in Polish and Hindi Facebook users' posts",
+            "url": "https://ruj.uj.edu.pl/bitstreams/3b3dac54-3f7f-41bb-91b1-fce2957e29ec/download",
+            "datePublished": "2013",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Studia Linguistica Universitatis Iagellonicae Cracoviensis"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Universals and cultural diversity in the expression of gratitude",
+            "url": "https://eprints.whiterose.ac.uk/id/eprint/131376/1/Floyd_et_al._2018_Universals_and_cultural_diversity_in_the_expressio.pdf",
+            "datePublished": "2018-05-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Royal Society Open Science"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Leipzig Corpora Collection, Hindi news corpus hin_news_2011_1M",
+            "url": "https://corpora.uni-leipzig.de/en?corpusId=hin_news_2011_1M",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universität Leipzig"
+            },
+            "dateModified": "2011"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good",
+            "url": "https://aclanthology.org/2024.findings-naacl.290/",
+            "datePublished": "2024",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight replies to birthday wishes in Hindi, by register",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "धन्यवाद!",
+            "description": "Bare thank you, 8 characters — correct and slightly stiff; fine for a stranger or colleague, cold to a close friend."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "आप सभी का बहुत-बहुत धन्यवाद।",
+            "description": "Formal-plural group reply, 28 characters — आप plus सभी keeps it respectful without singling anyone out."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "आपके स्नेह और शुभकामनाओं के लिए हृदय से आभार।",
+            "description": "Literary and deferential, 45 characters — for a teacher, an uncle or a public post; reads as a joke to a friend."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "शुक्रिया यार! दिन बन गया।",
+            "description": "Peer-to-peer and affectionate, 25 characters — यार rules out anyone senior to you."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "थैंक यू भाई, तुम्हारा मैसेज सबसे पहले आया।",
+            "description": "Code-mixed and close, 42 characters — तुम्हारा rules out elders."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "इतने प्यार के लिए शुक्रिया। सबको जवाब दे रहा हूँ।",
+            "description": "Warm, informal and buys time, 49 characters — रहा हूँ becomes रही हूँ for a female sender."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "आपका आशीर्वाद मिला, यही सबसे बड़ा तोहफ़ा है। आभार।",
+            "description": "For someone much older, 50 characters — आशीर्वाद is the expected frame rather than शुभकामना."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "देर से जवाब दे रहा हूँ, पर आपकी शुभकामनाओं के लिए धन्यवाद।",
+            "description": "Neutral-formal late reply, 58 characters — the acknowledgement of lateness does the work."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes reply in hindi",
+    "angle": "Wins by being the only post that decides which Hindi thank-you word a birthday reply should use — measuring धन्यवाद at 394, शुक्रिया at 246, आभार at 198 and थैंक्यू at 52 against each other in a 19,177,172-token Hindi news corpus — and prices every one of eight replies against SubhSandesh's measured 96-character median personal message across 197 birthday pages, where the four ranking results include a Facebook post, a Pinterest board and a 250-plus wish list with no register guidance at all.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/birthday-friend",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Median personal message: 96 characters (n=197). Longest: 1,437. — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "106 of 197 messages are under 100 characters. — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "Median gap from first save to last edit: 0.9 hours — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "50.5% (100 of 198) are finished inside the hour. — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "37.9% password-protect a birthday page, against 43.9% site-wide — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "11.2 views per birthday page, against 12.2 site-wide — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "Of the 195 pages that added a quiz, only 28 had it played — 14.4% — birthdaygfpages probe, BRIEF.md, 2026-08-26",
+      "43.9% of creators password-protect their page before sharing it (1,328 of 3,024) — measured 2026-08-26"
+    ],
+    "sources": [
+      {
+        "url": "https://ruj.uj.edu.pl/bitstreams/11235a94-884f-4965-8332-db2efda30afd/download",
+        "stat": "210 Indian Facebook posts collected April 2011 (102 from two Hindi film stars' fan pages, 108 from the walls of 20 Hindi-speaking friends aged 20-50) yielded 57 honorific and address-form tokens, with 'sir' recorded 12 times and the doubled 'sir ji' stacking an English formal term on the Hindi deference marker ji; every thanking move the paper records is English ('thanks for the wishes!', 'Thank u so much aunty..'), the Hindi element being the address term, and neither dhanyavaad nor shukriya appears anywhere in the paper. Full text read (15,003 words), not the abstract.",
+        "publishedDate": "2012"
+      },
+      {
+        "url": "https://ruj.uj.edu.pl/bitstreams/3b3dac54-3f7f-41bb-91b1-fce2957e29ec/download",
+        "stat": "Of 300 Facebook posts collected April 2012 from the profiles of 10 Hindi and 10 Polish speakers aged 25-55, 95 of the 150 Hindi-speakers' posts (63%) were written entirely in English against 36 of 150 (24%) for the Polish group; 44 of 150 (29%) Hindi posts carried code-switching against 20 of 150 (13%). In the 'wishes' and 'showing respect' categories the English clause carries the message while the Hindi word is the address term ('wish u same bhaiya'). Full text read (11,700 words).",
+        "publishedDate": "2013"
+      },
+      {
+        "url": "https://eprints.whiterose.ac.uk/id/eprint/131376/1/Floyd_et_al._2018_Universals_and_cultural_diversity_in_the_expressio.pdf",
+        "stat": "Across 1,057 completed request-response sequences in eight languages on five continents, drawn from over ninety hours of video-recorded informal interaction, an overt expression of gratitude followed just 5.5% of the 928 fulfilled requests (n=51/928) - 0% in Cha'palaa (0/97), 0.8% Siwu, 2% Lao, 2.2% Polish, 3.1% Russian, 4.5% Murrinhpatha, 13.5% Italian, 14.5% English (18/124). No South Asian language is in the sample. Published version read in full (5,714 words) from the White Rose deposit; the publisher PDF is behind Cloudflare.",
+        "publishedDate": "2018-05-01"
+      },
+      {
+        "url": "https://corpora.uni-leipzig.de/en?corpusId=hin_news_2011_1M",
+        "stat": "In the Leipzig Corpora Collection Hindi news corpus hin_news_2011_1M (1,000,000 sentences, 19,177,172 tokens, 230,831 types), absolute word frequencies read one word at a time from the public API on 2026-08-27: dhanyavaad 394, shukriya 246, aabhaar 198, aabhaari 79, thainkyoo 52, kritagyata 16, kritagya 15, thainks 6; for comparison mubarak 1,922, badhai 739, janmdin 698, shubhkaamnaayein 214. Corpus material dated 2011; the resource publishes no article date, so no publishedDate is claimed.",
+        "publishedDate": "2011"
+      },
+      {
+        "url": "https://aclanthology.org/2024.findings-naacl.290/",
+        "stat": "The Hinglish politeness dataset's translators - all native Hindi speakers with English-medium education - were instructed to 'use Roman script irrespective of whether the word being used belongs to English or Hindi' and to 'not attempt to convert the entire utterance into Hindi, instead switch to English whenever they feel it is appropriate, just as they would in their daily conversations'; the resulting corpus scores a Code-Mixing Index of 0.82. Full text read (13,021 words). Caveat stated in the post: the dialogues were generated by prompting BLOOMZ and then human-post-edited.",
+        "publishedDate": "2024"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "STRUCTURAL. The claim that differentiates this post is the register guidance attached to Devanagari strings — that धन्यवाद is stiff-but-correct where आभार is warmer and more literary, that शुक्रिया is the peer word, and that the eight replies carry the registers labelled against them. Every one of those strings, transliterations and honorific judgements is machine-composed and unverified, including the masculine/feminine verb agreement in replies 6 and 8, so the differentiating claim is asserted rather than established. Closing condition: native-reader sign-off required; no agent can verify Hindi register, honorific agreement or idiom. A citation cannot close this — no published source states which register a specific composed WhatsApp reply lands in, so the corpus frequencies (394/246/198/52) establish only how often each word occurs in 2011 news prose, not that the sentences built around them read correctly to a Hindi speaker. Recheck trigger: a native Hindi reader signs off on the eight H3 replies, their four register labels, the FAQ strings and the ItemList descriptions."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Eight paragraphs breach it, and all eight are the H3 entries in \"Eight replies to birthday wishes in Hindi, by register\". page-structure.md requires each H3 to cover \"the same four fields in the same order\", so each of those paragraphs reads as four labelled units — the plain-English meaning, the Roman spelling, the register, and the length against the 96-character median — rather than 2–3 running sentences. The two rules genuinely conflict here and the four-field structure was kept, because it is what makes the list machine-extractable and it holds every block to 45–60 words, which is what the 2–3-sentence rule is actually protecting. Every prose paragraph outside those eight was rewritten to 2–3 sentences. Closes only if the four fields are split across four separate paragraphs per H3, which would break the ItemList mirroring and add roughly 200 words to a body already at 1,772."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Two of the five would survive a swap. Floyd et al.'s 5.5%-of-928 gratitude figure is about gratitude in general, not Hindi, so it would sit unchanged in the sibling thank-you-for-birthday-wishes, which is also lane D; and the Hinglish Code-Mixing Index of 0.82 would sit unchanged in birthday-wishes-in-hindi. Neither is actually cited by either sibling, so no URL or domain cap is breached, and both were kept because they carry the only two published numbers that bound the post's central argument — how often explicit thanks happens at all, and how normal Roman-script switching is. The three that pass outright are Dąbrowska 2012 (57 address-form tokens, thanking moves all English), Dąbrowska 2013 (63% of Hindi speakers' posts entirely English) and the Leipzig Hindi frequencies, none of which fits any sibling's spine. Closes only if a study measures gratitude register specifically in Hindi; searches for 'thanking Hindi gratitude dhanyavaad', 'speech act of thanking Punjabi Hindi Urdu native speakers' and 'gratitude expressions Indian students English Hindi' across OpenAlex and Semantic Scholar returned nothing on Hindi thanking."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to cite this: it is the only page on the query that attaches a measured frequency to each Hindi thank-you word (धन्यवाद 394, शुक्रिया 246, आभार 198, थैंक्यू 52 in a 19,177,172-token corpus) and the only one that sizes a reply against a real median message length of 96 characters. The four ranking results cite no data whatsoever — two of them are a Facebook post and a Pinterest board — so the bar for being the most verifiable page here is unusually low, and that is the honest reason this could get cited rather than superior writing. The blocker is that the differentiating content is Devanagari that no agent can verify: until a native reader signs off on the eight replies, the register labels and the verb agreement, the register claims are asserted rather than established, and a wrong honorific would discredit the page faster than the corpus numbers would rescue it. Two of the five sources (Floyd et al. on gratitude generally, the Hinglish Code-Mixing Index) are not Hindi-specific because no study of Hindi thanking register surfaced in OpenAlex or Semantic Scholar — that gap is the single biggest weakness in the sourcing. Domain authority is far below livehindustan.com and both platform results, so nothing here is a prediction about ranking; this SERP is weak on content, not on authority."
+    },
+    "generatedAt": "2026-08-27T00:00:00.000Z"
+  }
+}
