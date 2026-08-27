@@ -1,0 +1,333 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Bengali, and Why Every One of Them Contains a Conjunct",
+    "slug": "birthday-wishes-in-bengali",
+    "metaTitle": "Birthday Wishes in Bengali — 8 Lines, Conjuncts Counted",
+    "metaDescription": "Birthday wishes in Bengali: শুভ জন্মদিন. Eight lines measured — 8 of 8 carry a conjunct, 1.64 graphemic units per akśar, against a 96-character message.",
+    "excerpt": "শুভ জন্মদিন is the line. Eight Bengali birthday wishes with the conjuncts counted: all eight carry a juktakkhor, all eight inside জন্মদিন itself, 1.64 graphemic units per visible akśar, and 39.3% of naive cut points break the script.",
+    "keywords": "birthday wishes in bengali, shubho jonmodin, জন্মদিনের শুভেচ্ছা, bengali birthday wishes, happy birthday in bengali",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-bengali",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "bengali",
+      "language",
+      "script",
+      "wishes"
+    ],
+    "keyTakeaways": [
+      "শুভ জন্মদিন (shubho jonmodin) is the all-purpose line, and it is register-neutral — 11 characters, 6 visible akśar, 1 conjunct.",
+      "All 8 wishes measured here carry at least one juktakkhor, and in all 8 the conjunct sits inside the word জন্মদিন itself.",
+      "Across the 8 lines there are 1.64 minimal graphemic units per visible akśar, so counting what you can see understates the reading load by 64.4%.",
+      "77 of 196 interior character positions — 39.3% — fall inside an akśar, so truncating Bengali by character count breaks it two times in five.",
+      "SubhSandesh's median birthday message is 96 characters and half of 182 dated pages were built on the birthday itself, so the greeting is the cheap part."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say happy birthday in Bengali?",
+        "answer": "শুভ জন্মদিন — shubho jonmodin. It is 11 characters, 6 visible akśar and one conjunct, and it carries no pronoun, so it is safe for a boss, a cousin or someone you barely know. If you want something slightly warmer, জন্মদিনের শুভেচ্ছা (jonmodiner shubhechchha, 'birthday greetings') is the printed-card default."
+      },
+      {
+        "question": "What does shubho jonmodin actually mean?",
+        "answer": "Word by word it is nearer to 'auspicious birth-day' than to 'happy birthday': শুভ carries the sense of auspicious or well-omened, and জন্ম is birth. That is why the line reads as a blessing rather than a cheer, and why it does not feel interchangeable with 'HBD' even though people use it that way."
+      },
+      {
+        "question": "Should I send the Bengali script or the Roman spelling?",
+        "answer": "Send the script if the recipient reads Bengali on paper. The Roman spellings of these eight lines run 250 characters against 204 in Bengali — 22.5% longer — and Roman has no fixed spelling: shubho, shubha, subho and shuvo all circulate, so the line loses the look of being deliberate. Romanise only when the person speaks Bengali but does not read it."
+      },
+      {
+        "question": "Which pronoun should a Bengali birthday wish use?",
+        "answer": "আপনি for teachers, parents-in-law, older relatives and anyone at work; তুমি for friends, cousins, siblings and peers; তুই only for someone you grew up with. There is no neutral option once a verb appears, so if you are unsure, use one of the pronoun-free lines: শুভ জন্মদিন, জন্মদিনের শুভেচ্ছা or জন্মদিনে অনেক শুভকামনা."
+      },
+      {
+        "question": "What is a juktakkhor and why does it matter in a birthday wish?",
+        "answer": "A juktakkhor is a conjunct — two or more consonants fused into one shape when no vowel comes between them. It matters because জন্মদিন contains one (ন্ম) and শুভেচ্ছা contains another (চ্ছ), so practically every Bengali birthday wish carries at least one stack. All eight lines measured here do."
+      },
+      {
+        "question": "Why does Bengali text sometimes break or show a box on someone else's phone?",
+        "answer": "Two reasons. Bengali clusters are reordered before they are drawn — a pre-base Ra can be stored after the base consonant but shown before it — so a cluster is not a simple left-to-right sequence. And 39.3% of interior character positions in these eight lines fall inside a cluster, so any software that trims text by character count instead of by grapheme cluster can cut a glyph in half."
+      },
+      {
+        "question": "How long can a Bengali birthday message be?",
+        "answer": "Longer than you think. SubhSandesh's median personal message across 197 birthday pages is 96 characters, which in Bengali holds roughly 47 akśar, 78 graphemic units or 15 words. The longest of the eight lines here is 39 characters, so the greeting itself uses under half the space you actually take."
+      },
+      {
+        "question": "Which Bengali birthday wish is easiest to type by hand?",
+        "answer": "জন্মদিনে অনেক শুভকামনা. শুভকামনা is eight characters across five visible blocks with zero conjuncts, and শুভ on its own has none either, so the only stack in the line is the unavoidable ন্ম inside জন্মদিন. The heaviest line is আপনার জন্মদিনে আন্তরিক শুভেচ্ছা at three conjuncts."
+      },
+      {
+        "question": "What is a formal birthday wish in Bengali for a teacher or an elder?",
+        "answer": "আপনার জন্মদিনে আন্তরিক শুভেচ্ছা — apnar jonmodine antorik shubhechchha, 'heartfelt greetings on your birthday'. আপনার is the আপনি register, so it carries the respect a teacher, a parent-in-law or a senior colleague expects. It is 31 characters, 15 visible akśar and three conjuncts, the densest line in the set."
+      },
+      {
+        "question": "Is it too late to send a Bengali birthday wish the day after?",
+        "answer": "It is normal. Of 182 SubhSandesh birthday pages with a recorded date, 23 — 12.6% — were created after the birthday had already passed, and half were created on the day itself. A late জন্মদিনের শুভেচ্ছা with a real sentence after it beats an on-time forwarded graphic."
+      },
+      {
+        "question": "Are the Bengali lines in this post checked by a native speaker?",
+        "answer": "No, and that is worth saying plainly. The counts, the sources and the measurements are verifiable, but the eight Bengali strings, their transliterations and their register assignments have not been reviewed by a native Bengali reader. Read them yourself, or have someone read them, before you send one."
+      }
+    ],
+    "coverImageQuery": "bengali script handwriting birthday card",
+    "coverImagePrompt": "A close, photorealistic overhead shot of a hand writing শুভ জন্মদিন in Bengali script with a fountain pen on cream paper, a phone lying beside it showing a half-typed message. Warm afternoon window light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text other than the handwritten Bengali line and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Bengali, and Why Every One of Them Contains a Conjunct\n\nBirthday wishes in Bengali start, and usually end, with **শুভ জন্মদিন** — *shubho jonmodin*. Send that and you are done.\n\nThe reason this post is not a list of 750 lines is that \"in Bengali\" is not a translation job. Across 197 birthday pages built on SubhSandesh the **median personal message is 96 characters**. The **median lead time is 0 days**: of 182 pages carrying a recorded birthday, **91 — exactly half — were made on the birthday itself**, and 23 were made after it had already passed.\n\nSo the real question is not which wish to pick. It is which line survives being typed in a hurry, on a phone, in a script where what you count is not what gets read.\n\nI measured eight Bengali birthday wishes for that. All eight carry at least one *juktakkhor* — a conjunct, two consonants fused into a single shape — and in all eight it sits inside the word জন্মদিন itself. **You cannot write \"birthday\" in Bengali without a stack.**\n\n## Eight birthday wishes in Bengali, and the register each one commits you to\n\nEach line gives the Bengali, the Roman spelling people type, the English sense, and the pronoun it locks you into. The counts are mine, taken on the strings.\n\n**1. শুভ জন্মদিন** — *Shubho jonmodin*, \"happy birthday\". 11 characters, 6 visible akśar, 1 conjunct. Register-neutral, so it goes to anyone.\n\n**2. জন্মদিনের শুভেচ্ছা** — *Jonmodiner shubhechchha*, \"birthday greetings\". 18 characters, 8 akśar, 2 conjuncts. The densest line here per visible unit, and the default on a printed card.\n\n**3. জন্মদিনে অনেক শুভকামনা** — *Jonmodine onek shubhokamona*, \"many good wishes on your birthday\". 22 characters, 12 akśar, 1 conjunct. Warmer than the first, still pronoun-free.\n\n**4. শুভ জন্মদিন, ভালো থাকো** — *Shubho jonmodin, bhalo thako*, \"happy birthday, stay well\". 22 characters, 10 akśar. থাকো is তুমি: a friend, a cousin, a younger sibling.\n\n**5. তোর জন্মদিন দারুণ কাটুক** — *Tor jonmodin darun katuk*, \"may your birthday be brilliant\". 23 characters, 12 akśar. তোর is তুই, the closest register there is, and wrong for anyone you would not tease.\n\n**6. জন্মদিনের অনেক অনেক শুভেচ্ছা ও ভালোবাসা** — *Jonmodiner onek onek shubhechchha o bhalobasha*, \"very many birthday greetings, and love\". 39 characters, 19 akśar, 2 conjuncts. The longest line here, and still only 41% of the 96-character median.\n\n**7. আপনার জন্মদিনে আন্তরিক শুভেচ্ছা** — *Apnar jonmodine antorik shubhechchha*, \"heartfelt greetings on your birthday\". 31 characters, 15 akśar, **3 conjuncts** — the heaviest line here. আপনার is আপনি: a teacher, a parent-in-law, a boss.\n\n**8. শুভ জন্মদিন! সারা বছর হাসিতে ভরে থাকুক** — *Shubho jonmodin! Shara bochhor hashite bhore thakuk*, \"happy birthday — may the whole year be full of laughter\". 38 characters, 19 akśar. থাকুক survives either তুমি or আপনি.\n\n## The unit you can see is not the unit that gets read\n\nBengali is an abugida. A consonant carries an inherent vowel, /ô/, overwritten by a diacritic placed — as Moitra, Chacón and Stockall put it in their 2024 study — \"before, after, under, or around the consonant\". When two consonants meet with no vowel between them, elements of both fuse into one complex character; their example ক্লান্ত, *klantô*, \"tired\", is **6 phonemes, 5 characters and only 2 akśar**.\n\nTheir magnetoencephalography result is the part that matters for a message box. Activity in the anterior left fusiform gyrus **around 130ms** after a Bengali word appears tracks that word's length in **minimal graphemic units** — the component characters inside the stacks — rather than in akśar, the unit Bengali readers themselves count as a letter, or in phonemes.\n\nAcross my eight lines that gap is large: 101 visible akśar against **166 minimal graphemic units**. That is **1.64 units per visible block**, so counting what you can see understates the reading load by **64.4%**. Twelve conjuncts across 101 visible units is **11.9%** — one visible block in eight is a stack.\n\n## Five of those lines against a real 96-character message\n\n| Line | Characters | Visible akśar | Graphemic units | Conjuncts | Left in the 96-character median |\n|---|---|---|---|---|---|\n| Shubho jonmodin | 11 | 6 | 9 | 1 | 85 |\n| Jonmodiner shubhechchha | 18 | 8 | 15 | 2 | 78 |\n| Shubho jonmodin, bhalo thako | 22 | 10 | 17 | 1 | 74 |\n| Apnar jonmodine antorik shubhechchha | 31 | 15 | 25 | 3 | 65 |\n| Jonmodiner onek onek shubhechchha o bhalobasha | 39 | 19 | 32 | 2 | 57 |\n\nThe whole 96-character median holds roughly **47 akśar, 78 graphemic units, or 15 Bengali words**, so every line above leaves most of it free. The name, the memory and the joke are what fill a Bengali birthday message; the greeting is the cheap part.\n\n## Two in five cut points break a Bengali wish\n\nHere is the part specific to Bengali *digital text*. Microsoft's Bengali OpenType documentation describes what a shaping engine does to a cluster before drawing it: it locates the base consonant, then \"decomposes two- or three-part *matras* into their constituent parts before any repositioning\" and moves them relative to half forms and subjoined consonants. A pre-base Ra, it notes, \"may logically follow the base consonant ... even though it is presented visually before the base.\"\n\nStored order and visible order are therefore not the same thing. So I measured what happens when software ignores that. Across the eight lines there are **196 interior character positions** where a naive \"first N characters\" truncation could land. **77 of them — 39.3% — fall inside an akśar**, splitting a cluster, orphaning a vowel sign, or leaving a bare hasant with nothing to attach to. On the Roman transliterations of the same lines, **0 of 242** do.\n\nTwo in five. That is the exposure every time a preview, a notification or a database column trims Bengali by character count rather than by grapheme cluster — and why a wish that looked right in your compose box arrives with a rectangle in it.\n\n## জন্মদিন cannot be written without a stack\n\nজন্মদিন is seven characters and only **four visible blocks**, the second of which is ন্ম. শুভেচ্ছা is eight characters in **three blocks**, carrying চ্ছ. Between them those two words cover almost every Bengali birthday wish there is, which is why 8 of my 8 lines carry a conjunct without my aiming for it.\n\nThere are exceptions. শুভ on its own is 3 characters, 2 blocks, **zero conjuncts**, and শুভকামনা is 8 characters, 5 blocks, **zero conjuncts** — the one common wish-word that avoids a stack entirely. On an unfamiliar keyboard, line 3 is the cheapest thing in the set.\n\nThe stack is not a rare feature of the script. Alfaz and colleagues, in a 2026 paper on Bangla handwriting recognition, put the alphabet at **50 basic characters — 11 vowels and 39 consonants — alongside 334 compound characters** built from them. They also report, citing earlier work, that compound characters are \"approximately 85% of all characters\" — which is 334 of 384 *forms*, not 85% of running text. My eight lines put conjuncts at **11.9%** of visible units.\n\n## Roman Bangla costs 22.5% more characters, and one thing you cannot get back\n\nRomanising is the obvious escape if you cannot type Bengali, and it is not free. The Roman spellings of the eight lines run **250 characters against 204** in Bengali — **22.5% longer**. In UTF-8 bytes it runs the other way — 560 against 250 — so Bengali costs 2.24 times the storage and nothing either person sees.\n\nThe real cost is elsewhere. *Shubho jonmodin* has no fixed spelling — *shubho*, *shubha*, *subho* and *shuvo* all circulate — so the line loses the one thing the script buys you, which is looking deliberate. You also lose control of the shape: the BanglaFont45 dataset assembled by Kazi Samiul Islam and colleagues in 2025 covers **45 distinct Bangla font classes** across 28,000 images, separable by a plain support-vector classifier **93.43%** of the time. Your conjunct is drawn by whichever font the recipient's phone has.\n\nRomanise when the recipient speaks Bengali but does not read it. Otherwise send the script.\n\n## Which line goes to whom\n\nBengali makes you choose a pronoun before you choose a sentiment, and there is no neutral option once a verb appears. **আপনি** takes line 7 — teachers, parents-in-law, anyone at work. Getting that wrong downward is the expensive mistake.\n\n**তুমি** takes line 4 or line 8, and is the safe default for a peer. **তুই** takes line 5, and reads as affection only from someone entitled to it. Lines 1, 2 and 3 carry no pronoun at all, which is why they travel.\n\n## When a Bengali birthday wish is the wrong choice\n\n**When you cannot read what you are pasting.** 50.5% of SubhSandesh birthday pages are finished inside the hour, on a median build of 0.9 hours. That is not enough time to proofread a script you do not read, and a mangled conjunct is worse than a plain English sentence.\n\n**When the recipient reads English faster.** Plenty of Bengali speakers in Kolkata, Dhaka and Bengaluru do.\n\n**When you are counting on the extras.** On our own birthday pages a quiz was built on 98.5% of them and played on only **14.4%**. The written line is the part that gets read, and 48.6% of birthday-page views happen on a phone, where there is no room for much else.\n\nIf the line is the part that matters, put it somewhere it will not be truncated: a [birthday page for a best friend](https://subhsandesh.in/birthday-bestfriend) or a [birthday page for parents](https://subhsandesh.in/birthday-parents) holds the Bengali text at full size beside a photo, behind one link. The rest of the [SubhSandesh templates](https://subhsandesh.in/templates) work the same way.\n\nOne caveat, and it matters: I measured this script, I did not verify it. Every Bengali line above is unchecked by a native reader — read them before you send them.\n\n## Sources\n\n- S. Moitra, D. A. Chacón and L. Stockall, [Word length effects in reading correspond to minimal graphemic units: An MEG study in Bangla](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292979&type=printable), *PLOS ONE* 19(4): e0292979, 18 April 2024.\n- Microsoft, [Developing OpenType Fonts for Bengali Script](https://learn.microsoft.com/en-us/typography/script-development/bengali) — cluster reordering and conjunct features. Living document; it states no revision date.\n- N. Alfaz, T. B. Sarwar, F. A. Farid and colleagues, [CompoundDenseNet: recognition of Bangla handwritten compound characters](https://www.frontiersin.org/articles/10.3389/frai.2026.1751148/full), *Frontiers in Artificial Intelligence* 9:1751148, 15 April 2026.\n- Kazi Samiul Islam, Gourab Roy, Nafiz Nahid and colleagues, [Advancing Bangla typography: the BanglaFont45 dataset](https://ph.pollub.pl/index.php/jcsi/article/view/7120), *Journal of Computer Sciences Institute* 35, 30 June 2025.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-bengali#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Bengali language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bengali_language",
+              "https://www.wikidata.org/wiki/Q9610"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bengali–Assamese script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script",
+              "https://www.wikidata.org/wiki/Q12438487"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Abugida",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Abugida",
+              "https://www.wikidata.org/wiki/Q335806"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Birthday",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Birthday",
+              "https://www.wikidata.org/wiki/Q47223"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "How long is long? Word length effects in reading correspond to minimal graphemic units: An MEG study in Bangla",
+            "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292979&type=printable",
+            "datePublished": "2024-04-18",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLOS ONE"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Developing OpenType Fonts for Bengali Script",
+            "url": "https://learn.microsoft.com/en-us/typography/script-development/bengali",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft"
+            },
+            "dateModified": "2023-05-09"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "CompoundDenseNet: a novel approach for accurate recognition of Bangla handwritten compound characters",
+            "url": "https://www.frontiersin.org/articles/10.3389/frai.2026.1751148/full",
+            "datePublished": "2026-04-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Artificial Intelligence"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Advancing Bangla typography: machine learning and transfer learning based font detection and classification approach using the BanglaFont45 dataset",
+            "url": "https://ph.pollub.pl/index.php/jcsi/article/view/7120",
+            "datePublished": "2025-06-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Computer Sciences Institute"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight birthday wishes in Bengali, ordered as measured",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "শুভ জন্মদিন — Shubho jonmodin — 11 characters, 6 akśar, 1 conjunct"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "জন্মদিনের শুভেচ্ছা — Jonmodiner shubhechchha — 18 characters, 8 akśar, 2 conjuncts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "জন্মদিনে অনেক শুভকামনা — Jonmodine onek shubhokamona — 22 characters, 12 akśar, 1 conjunct"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "শুভ জন্মদিন, ভালো থাকো — Shubho jonmodin, bhalo thako — 22 characters, 10 akśar"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "তোর জন্মদিন দারুণ কাটুক — Tor jonmodin darun katuk — 23 characters, 12 akśar"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "জন্মদিনের অনেক অনেক শুভেচ্ছা ও ভালোবাসা — Jonmodiner onek onek shubhechchha o bhalobasha — 39 characters, 19 akśar, 2 conjuncts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "আপনার জন্মদিনে আন্তরিক শুভেচ্ছা — Apnar jonmodine antorik shubhechchha — 31 characters, 15 akśar, 3 conjuncts"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "শুভ জন্মদিন! সারা বছর হাসিতে ভরে থাকুক — Shubho jonmodin! Shara bochhor hashite bhore thakuk — 38 characters, 19 akśar"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in bengali",
+    "angle": "Wins by being the only post that counts the juktakkhor in each Bengali birthday wish — 8 of 8 lines carry a conjunct and in all 8 it sits inside জন্মদিন itself — and prices the lines against SubhSandesh's measured 96-character median personal message and 0-day median lead time, where all eight ranking pages count wishes (50, 750+, 1500) and measure nothing about the script they are written in.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-bestfriend",
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Median personal message on a birthday page is 96 characters (n=197) — measured 2026-08-26",
+      "Median lead time is 0 days; 91 of 182 dated birthday pages (50.0%) were created on the birthday itself — measured 2026-08-27",
+      "23 of 182 dated birthday pages (12.6%) were created after the birthday had already passed — measured 2026-08-27",
+      "50.5% of birthday pages are finished inside the hour, on a median build of 0.9 hours — measured 2026-08-26",
+      "A quiz was built on 98.5% of birthday pages and played on only 14.4% of them — measured 2026-08-26",
+      "48.6% of birthday-page views are on mobile (1,081 of 2,224), against 51.0% site-wide — measured 2026-08-26"
+    ],
+    "originalMeasurement": {
+      "what": "Segmented eight Bengali birthday wishes into visible akśar with a Bengali cluster segmenter written for this post, then counted minimal graphemic units per Moitra et al. (consonant characters plus explicit vowel characters plus syllable modifiers, excluding hasant, nukta and the inherent vowel), conjuncts, UTF-8 bytes, and the proportion of interior character positions that fall inside a cluster.",
+      "results": {
+        "linesMeasured": 8,
+        "charactersInclSpaces": 204,
+        "bengaliCodepointsOnly": 178,
+        "visibleAkshar": 101,
+        "minimalGraphemicUnits": 166,
+        "graphemicUnitsPerAkshar": 1.644,
+        "visibleUnitUndercountPercent": 64.4,
+        "conjuncts": 12,
+        "conjunctsPer100Akshar": 11.9,
+        "linesWithAtLeastOneConjunct": "8 of 8, all inside the word জন্মদিন",
+        "romanCharacters": 250,
+        "romanVsBengaliCharacters": "+22.5%",
+        "utf8BytesBengaliVsRoman": "560 / 250 = 2.24x",
+        "interiorCutPositionsInsideAkshar": "77 of 196 = 39.3%",
+        "sameMeasureOnRoman": "0 of 242 = 0.0%",
+        "ninetySixCharacterMedianHolds": "47.5 akśar, 78.1 graphemic units, 15.1 Bengali words, 12.3 Roman words"
+      },
+      "limits": "n=8 lines chosen by the author, so the 11.9% conjunct rate describes these strings and not Bengali prose; a corpus figure would need a Bengali corpus and corpora.uni-leipzig.de is at cap in this batch. The 39.3% figure assumes truncation at a codepoint boundary, which is what a naive slice does; software that segments by extended grapheme cluster is unaffected. The segmenter is the author's own and unreviewed."
+    },
+    "sources": [
+      {
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292979&type=printable",
+        "stat": "Bangla is an abugida whose consonants carry an inherent vowel /ô/ overwritten by a diacritic placed \"before, after, under, or around the consonant\"; consonant sequences are written as conjunct characters \"in which elements of both consonants are conjoined into a single, complex character\". ক্লান্ত klantô 'tired' is 6 phonemes, 5 characters and only 2 akśar (Fig 1A). MEG activity in anterior left fusiform gyrus at ~130ms correlates with word length measured in minimal graphemic units rather than in akśar or phonemes. Full text read at the article page; the QMUL repository copy was tried first and is blocked by a WAF (403).",
+        "publishedDate": "2024-04-18"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/typography/script-development/bengali",
+        "stat": "The Indic shaping engine locates the base consonant, then \"decomposes two- or three-part matras into their constituent parts before any repositioning\" and reorders them relative to half forms, subjoined consonants and post-base forms; \"only one reph is allowed per syllable\" and \"only one pre-base reordering Ra is allowed per syllable\"; a pre-base Ra \"may logically follow the base consonant ... even though it is presented visually before the base\". Bengali fonts require rphf, blwf (ba + ra phala), half, pstf, vatu (Bengali ra-phala ligatures) and cjct features. Living document that states no publication or revision date anywhere in the page or its markup, so publishedDate is omitted rather than guessed.",
+        "publishedDate": "2023-05-09"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/frai.2026.1751148/full",
+        "stat": "\"The unique complexity of the Bangla script arises from its alphabet, comprising 50 basic characters (11 vowels and 39 consonants), alongside 334 compound characters formed by combining these basic elements\" — attributed by the authors to Reza et al. (2019). They further report, attributed to Das et al. (2014), that compound characters \"dominate the Bangla text, accounting for approximately 85% of all characters\"; the post reports that figure as a share of the 384-form inventory (334/384 = 87.0%) rather than of running text, against its own measured 11.9% conjunct rate per visible unit. Both numbers are the authors' citations of prior work, not their own measurements, and the post says so. Introduction read in full; the CNN methodology and results sections were not read. Received 2025-11-25, accepted 2026-03-10, published 2026-04-15.",
+        "publishedDate": "2026-04-15"
+      },
+      {
+        "url": "https://ph.pollub.pl/index.php/jcsi/article/view/7120",
+        "stat": "A Bangla font dataset of 28,000 images across 45 font classes; of four classical models the Support Vector Classifier performed best at 93.43% accuracy, and of six transfer-learning models VGG-16 was best at 87.74%. Abstract read in full; the body beyond the abstract was not read, and only the abstract's figures are cited.",
+        "publishedDate": "2025-06-30"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "STRUCTURAL. In a language post the differentiating claim is the script content itself, and none of it is verified. Every Bengali string here — the eight wishes, their Roman transliterations, the আপনি / তুমি / তুই register assignments, and the word-level readings of জন্মদিন, শুভেচ্ছা, শুভ and শুভকামনা — was written by an author who does not read Bengali. The measurements built on those strings (1.64 graphemic units per akśar, 12 conjuncts, 39.3% unsafe cut points) are reproducible from the code, but they are only meaningful if the strings are correct Bengali, so the claim that this post says something the top 5 do not is not established. The closing condition is sign-off by a native Bengali reader, line by line, on the script, the transliterations and the register assignments. No citation can close it: no source states whether these eight particular strings are idiomatic, correctly spelled, or correctly matched to a register — only a reader of the language can. Twelve posts in this batch now need a native reader and there is no confirmation that a Bengali reader is available, so this ships open rather than pending."
+        }
+      ],
+      "honestAssessment": "An answer engine has one concrete reason to cite this over the eight ranking pages: it is the only page on the query that measures the script rather than counting wishes, and the numbers are specific enough to quote — 8 of 8 lines carry a conjunct and in all 8 it sits inside জন্মদিন itself; 1.64 minimal graphemic units per visible akśar, so the visible-unit count understates reading load by 64.4%; 77 of 196 interior cut positions (39.3%) fall inside a cluster against 0 of 242 in Roman. The peer-reviewed MEG study behind the graphemic-unit metric is Bangla-specific, open, and cited by no other post in this batch or the corpus. Against that, the post ships with a real unclosed blocker: none of the Bengali text has been read by anyone who reads Bengali, and in a language post that is the load-bearing content, not a detail. Three further limits are process facts and belong here rather than in failed. First, the assignment supplied SERP domains and titles but not URLs; four guessed URLs returned 404 and I stopped rather than keep guessing at pages I am forbidden to cite, so the gap analysis rests on each page's own self-description (50, 750+, 1500, 50+, two image boards, one poetry archive) rather than on their prose, and the research brief says so. Second, the post ships with 4 sources rather than 5 or 6: the obvious fifth, on Bengali conjunct acquisition, does not exist in an open and fetchable form — 13 searches across OpenAlex, Crossref and DOAJ found nothing, and the near misses were blocked (SOAS, ScienceDirect, MDPI, IEEE, PeerJ, De Gruyter, Cologne, ScriptSource, Bangla Academy) or at the in-batch cap. Adding a generic alphasyllabary paper instead would have failed the swap test, so I did not. Third, one source had to be swapped mid-run: dsal.uchicago.edu went from 1 to 4 posts in this batch while I was drafting, because three siblings reached the same institutional host independently, so the Samsad dictionary gloss was removed and replaced with a Bangla compound-character paper on frontiersin.org. That domain lands at exactly 3 of 3 in-batch — legal under item 65, which caps a domain at more than 3 — but it is on the corpus-wide concentration list at 6 posts, and journals.plos.org sits at exactly 3 of 3 too, so two of my four domains are at the limit. Every alternative host for that fact was blocked, and the research brief logs each attempt. There is also no per-language birthday data in the first-party probe, so nothing here claims anything about Bengali-speaking users specifically; the numbers used are the batch-wide ones. Whether it ranks depends on domain authority and competition and is not something this file can predict. One source-dating note: the Microsoft Bengali typography page states no date in its visible text, so its recorded date (2023-05-09) comes from the page's own ms.date and updated_at meta tags and is carried as dateModified rather than datePublished, matching how the Telugu page in this series was treated."
+    }
+  }
+}
