@@ -1,0 +1,111 @@
+{
+  "kind": "blog-automation/batch",
+  "version": 1,
+  "batchId": "2026-08-26-birthday",
+  "createdAt": "2026-08-27",
+  "market": "India",
+  "keywordSource": "content/keywords/2026-08-26-birthday/final30.json (ranks 1-12, wave 1 of 3)",
+  "wave": 1,
+  "waveOf": 3,
+  "postCount": 10,
+  "notes": "Wave 1 of the 30-keyword birthday set. Ranks 2 and 3 of the shortlist (birthday date personality test, birthday decoration ideas at home) were HELD, not written: Phase 0 found no first-party data for numerology or physical decoration and no first-hand experience to substitute, so the blocking gate was respected. Ranks 11 and 12 (birthday wishes in hindi, 2 line birthday wishes) were substituted in. birthday-wishes-in-hindi is a HUB absorbing three keywords whose SERPs overlap by 3+ results: janamdin ki hardik shubhkamnaye, birthday quotes in hindi, birthday wishes for brother in hindi — do not write those separately.",
+  "publishBlockers": [
+    {
+      "issue": "machine-composed script requires native-reader sign-off",
+      "posts": [
+        "birthday-wishes-in-hindi",
+        "birthday-wishes-in-tamil",
+        "birthday-wishes-in-gujarati",
+        "birthday-wishes-in-telugu",
+        "what-to-write-on-a-birthday-cake"
+      ],
+      "detail": "Every Devanagari, Tamil, Gujarati and Telugu string is machine-generated and unverified. Each post records this as a STRUCTURAL audit failure. Telugu's and Tamil's are explicitly marked not closable by adding a citation. what-to-write-on-a-birthday-cake also contains Devanagari and Tamil examples."
+    },
+    {
+      "issue": "no Search Console data",
+      "detail": "168 birthday posts are already live and none appeared in any of the 60 India SERPs harvested for this run. Striking-distance or indexing cannot be distinguished without a GSC export, and that determines whether these 10 land in the same hole."
+    },
+    {
+      "issue": "Phase 1 competitor pages not individually fetched",
+      "detail": "WebSearch hit its 200/200 session cap. SERPs were harvested with a real browser at gl=in and supplied to each agent, but most top-5 pages were not fetched in full. Recorded per-post in the research briefs."
+    }
+  ],
+  "firstPartyData": {
+    "source": "read-only probe of birthdaygfpages, 2026-08-26",
+    "n": 198,
+    "headline": "median personal message 96 characters; 106 of 197 under 100",
+    "caveat": "n=198 from 2026-04; no language or relationship field exists, so no per-language or per-relation claim is possible"
+  },
+  "blogs": [
+    {
+      "slug": "2-line-birthday-wishes",
+      "title": "2 Line Birthday Wishes That Fit How People Actually Write",
+      "keyword": "2 line birthday wishes",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 2
+    },
+    {
+      "slug": "belated-birthday-wishes",
+      "title": "Belated Birthday Wishes: What to Send When You've Missed the Day",
+      "keyword": "belated birthday wishes",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 1
+    },
+    {
+      "slug": "birthday-status-for-whatsapp",
+      "title": "Birthday Status for WhatsApp: How Long It Should Actually Be",
+      "keyword": "birthday status for whatsapp",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 1
+    },
+    {
+      "slug": "birthday-wishes-for-nephew",
+      "title": "Birthday Wishes for Nephew: Bhatija and Bhanja, Said Right",
+      "keyword": "birthday wishes for nephew",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 1
+    },
+    {
+      "slug": "birthday-wishes-in-gujarati",
+      "title": "Birthday Wishes in Gujarati When You're Not in Gujarat",
+      "keyword": "birthday wishes in gujarati",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 3
+    },
+    {
+      "slug": "birthday-wishes-in-hindi",
+      "title": "Birthday Wishes in Hindi — And Why You Type Them in English",
+      "keyword": "birthday wishes in hindi",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 4
+    },
+    {
+      "slug": "birthday-wishes-in-tamil",
+      "title": "Birthday Wishes in Tamil: Formal for Appa, Spoken for Friends",
+      "keyword": "birthday wishes in tamil",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 4
+    },
+    {
+      "slug": "birthday-wishes-in-telugu",
+      "title": "Birthday Wishes in Telugu That Render on Every Phone",
+      "keyword": "birthday wishes in telugu",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 3
+    },
+    {
+      "slug": "thank-you-for-birthday-wishes",
+      "title": "How to Say Thank You for Birthday Wishes Without Copy-Paste",
+      "keyword": "thank you for birthday wishes",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 1
+    },
+    {
+      "slug": "what-to-write-on-a-birthday-cake",
+      "title": "What to Write on a Birthday Cake When Only 14 Characters Fit",
+      "keyword": "what to write on a birthday cake",
+      "categorySlug": "milestone-birthdays",
+      "auditFailures": 3
+    }
+  ]
+}

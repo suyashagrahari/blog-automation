@@ -1,0 +1,367 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Tamil: Formal for Appa, Spoken for Friends",
+    "slug": "birthday-wishes-in-tamil",
+    "excerpt": "Tamil is diglossic: the formal register that suits appa, amma or a teacher is not the spoken register a friend expects, and mixing them up is a visible mistake. Four wishes, one per register, sized against the 96-character median message from 197 SubhSandesh birthday pages.",
+    "metaTitle": "Birthday Wishes in Tamil — Formal, Spoken, Who Gets Which",
+    "metaDescription": "Birthday wishes in Tamil come in two registers: formal Tamil for appa and elders, spoken Tamil for friends. Four wishes, sized against a 96-character median.",
+    "keywords": "birthday wishes in tamil, tamil birthday wishes, piranthanaal vaazhthukkal, happy birthday in tamil, tamil birthday message for father",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-tamil",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "tamil",
+      "wishes",
+      "language",
+      "india"
+    ],
+    "keyTakeaways": [
+      "Tamil is diglossic, so a birthday wish has to pick a register: உங்களுக்கு (formal) for appa, amma and elders, உனக்கு (spoken) for siblings and friends.",
+      "Length is not what makes a Tamil wish sincere — the median personal message across 197 SubhSandesh birthday pages is 96 characters, and 106 of those 197 are under 100.",
+      "Register follows the listener, not the sentence: a 2021 study of 109 Malaysian Tamil youth found Tamil used with 84% of grandparents, 74% of parents, 70% of siblings and 33.3% of their own children.",
+      "Send Tamil script rather than 'Tanglish' — Sheffield Hallam fieldwork found Roman spellings of the same Tamil word varied significantly while Tamil-script spelling was near 100% consistent.",
+      "Do not lean on the interactive extras: of 195 SubhSandesh birthday pages that added a quiz, only 28 were ever played (14.4%)."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say happy birthday in Tamil?",
+        "answer": "பிறந்தநாள் வாழ்த்துக்கள் (piranthanaal vaazhthukkal) is the standard phrase and works in both registers. Add இனிய (iniya, 'sweet' or 'happy') in front of it for a warmer, more formal version."
+      },
+      {
+        "question": "What is the difference between formal and spoken Tamil?",
+        "answer": "Tamil is a diglossic language: a high, literary variety used for writing and formal speech, and a spoken variety used at home and among friends. For a birthday message the difference reduces mostly to one switch — உங்களுக்கு (uNkaLukku) and நீங்கள் (niiNkaL) for respect, உனக்கு (unakku) and நீ (nii) for intimacy."
+      },
+      {
+        "question": "Should I use ninga or nee for my mother?",
+        "answer": "Use நீங்கள் (niiNkaL) and உங்களுக்கு (uNkaLukku). Most Tamil families keep the honorific for parents even when the relationship is completely relaxed, and over-formality reads as respect while under-formality reads as rudeness."
+      },
+      {
+        "question": "How long should a Tamil birthday message be?",
+        "answer": "Shorter than most wish listicles suggest. Across 197 personal messages written on SubhSandesh birthday pages the median was 96 characters and 106 of them were under 100 — roughly two lines. The four wishes in this post run from 33 to 65 characters."
+      },
+      {
+        "question": "Is it better to send Tamil in Tamil script or in English letters?",
+        "answer": "Tamil script. Fieldwork in a 2018 Sheffield Hallam University thesis found people default to Roman-script 'Tanglish' when texting, but their Roman spellings of the same word varied significantly while their Tamil-script spelling was close to one hundred percent consistent."
+      },
+      {
+        "question": "Will Tamil script show up properly on the other person's phone?",
+        "answer": "On any current Android or iOS phone, yes. Modern Tamil uses fewer conjunct ligatures than most other Indic scripts, so there is less for a font to get wrong, though a Tamil font still needs many ligatures for consonant-and-vowel combinations and an older device with a partial font can still show broken shapes."
+      },
+      {
+        "question": "What do I call my brother or sister in a Tamil birthday wish?",
+        "answer": "Use the kinship term, not the name: அண்ணா (anna) for an older brother, அக்கா (akka) for an older sister, தம்பி (thambi) for a younger brother and தங்கை (thangai) for a younger sister. Kinship terms are the most durable part of Tamil — in Singapore families that had shifted to English, they were often the last piece of the language the children kept."
+      },
+      {
+        "question": "Can I send the same Tamil wish to my father and my best friend?",
+        "answer": "No, and this is the mistake the wish listicles cause. The formal version sent to a close friend reads as a joke, and the friend version sent to a parent reads as disrespect. The register follows the listener, so write the wish twice."
+      },
+      {
+        "question": "What is kavithai and do I need one for a birthday?",
+        "answer": "Kavithai is Tamil poetry, and most of the pages ranking for Tamil birthday wishes are kavithai collections. You do not need one. A short wish in the correct register plus two specific lines of your own carries more than a borrowed poem."
+      },
+      {
+        "question": "Do interactive extras like a quiz make a birthday page better?",
+        "answer": "Rarely, on the evidence. Of 195 SubhSandesh birthday pages that added a quiz, only 28 were ever played — 14.4%. Senders build games and recipients read the message and stop, so the words are where the effort pays."
+      },
+      {
+        "question": "Are the Tamil wishes on this page checked by a native speaker?",
+        "answer": "Not yet. The register logic is drawn from published linguistics and every source is linked, but the Tamil strings themselves were composed by machine. Have a native Tamil reader check idiom and diacritics before you send one to a grandparent."
+      }
+    ],
+    "coverImageQuery": "tamil family birthday celebration home",
+    "coverImagePrompt": "A warm, photorealistic scene of a South Indian family around a small birthday cake at home in Tamil Nadu, an older father in the centre being wished by his adult children. Soft evening light, shallow depth of field, clean negative space along the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Tamil: Formal for Appa, Spoken for Friends\n\nBirthday wishes in Tamil come in two registers, and you have to pick one. Literary, formal Tamil is what goes to appa, amma, a thatha, a teacher or a boss; spoken Tamil is what goes to a friend or a cousin — and getting it backwards is a visible mistake in a way a clumsy English wish never is. Across 197 personal messages written on SubhSandesh birthday pages the median came out at **96 characters**, and **106 of those 197 messages were under 100 characters**, so the real job is not hunting down a 500-wish list but getting two short lines into the right register. Below: the rule that decides which register you need, four wishes at four levels of formality with real character counts, whether to send Tamil script or Roman letters, and where a Tamil wish is the wrong move altogether.\n\n## What Tamil diglossia means for a birthday message\n\nDiglossia is when one language keeps two varieties in active use for different situations — a high, written, formal variety and a low, everyday, spoken one. Tamil is the textbook case, and this is not a new observation: the University of Kerala awarded a doctorate titled [*Formal and Informal Tamil*](https://shodhganga.inflibnet.ac.in/handle/10603/110637) on 16 June 1979, supervised by the linguist E. Annamalai, and the record still sits in India's Shodhganga thesis repository.\n\nA script reference written for font developers puts the split plainly: [the classic form is preferred for writing and public speaking, while the colloquial spoken form differs widely from the written](https://r12a.github.io/scripts/taml/ta.html).\n\nFor a birthday message the split reduces to one switch: the word for \"you\". Formal Tamil takes **உங்களுக்கு** (*uṅkaḷukku*) and the honorific **நீங்கள்** (*nīṅkaḷ*). Spoken, intimate Tamil takes **உனக்கு** (*unakku*) and **நீ** (*nī*).\n\nEverything else in the sentence follows that choice, which is why a wish cannot be written once and reused across a family.\n\nWho you are addressing, not what you are saying, decides it. A 2021 study of Malaysian Tamil youth — 109 returned questionnaires, 42 recorded conversations and 40 interviews — found [Tamil use tracking the seniority of the listener](https://sciendo.com/article/10.2478/sm-2021-0014): 84% with grandparents, 74% with parents, 70% with siblings, and 33.3% with the participants' own children. The same paper records a 17-year-old switching mid-lesson, using colloquial Tamil mixed with English and Malay to a classmate and formal Tamil to the teacher.\n\n## Four Tamil birthday wishes, one for each register\n\nEach wish below is given in Tamil script, in transliteration, and in English, with its actual character count so you can size it against the 96-character median.\n\n### 1. Grandparents, in-laws, a teacher or a boss — full literary register\n\n**இனிய பிறந்தநாள் வாழ்த்துக்கள்! நீங்கள் நீடூழி வாழ வாழ்த்துகிறேன்.**\n*Iniya piṟanthanāḷ vāḻttukkaḷ! Nīṅkaḷ nīṭūḻi vāḻa vāḻttukiṟēn.*\n\"Happy birthday. I wish you a long life.\"\n\nSixty-five characters — two thirds of the median message, and the longest of the four. The honorific **நீங்கள்** and the formal verb ending are doing the work. This is the version to use when you are not sure, because over-formality reads as respect, while under-formality reads as rudeness.\n\n### 2. Appa and amma — warm but still formal\n\n**அப்பா, உங்களுக்கு இனிய பிறந்தநாள் வாழ்த்துக்கள்.**\n*Appā, uṅkaḷukku iniya piṟanthanāḷ vāḻttukkaḷ.*\n\"Appa, happy birthday to you.\"\n\nForty-eight characters, exactly half the median. Most Tamil families keep the honorific for parents even when the relationship is completely relaxed, so **உங்களுக்கு** stays.\n\nThe kinship term at the front is what makes it warm rather than stiff, and it is also the most durable part of the language: a study of 30 Tamil families in Singapore found that in homes that had shifted to English, children's Tamil was often reduced to little more than [the ability to address family members by Tamil kinship terms](https://www.erpjournal.net/wp-content/uploads/2020/01/2_ERPV42_Kadakara_2015_Status-of-Tamil-Language-in-Singapore.pdf) and to name food. Only 5 of those 30 families spoke Tamil alone at home.\n\n### 3. Anna, akka, thambi, thangai — neutral spoken Tamil\n\n**அண்ணா, பிறந்தநாள் வாழ்த்துக்கள்! உனக்கு எல்லாம் நல்லா நடக்கணும்.**\n*Aṇṇā, piṟanthanāḷ vāḻttukkaḷ! Unakku ellām nallā naṭakkaṇum.*\n\"Anna, happy birthday. May everything go well for you.\"\n\nSixty-four characters. Here the switch flips to **உனக்கு**, and the second clause is straight spoken Tamil — *naṭakkaṇum*, not the literary *naṭakka vēṇṭum*. Swap the address term for அக்கா, தம்பி or தங்கை as needed, and for a much older sibling use version 2 instead.\n\n### 4. A close friend — colloquial, short, no honorific\n\n**பிறந்தநாள் வாழ்த்துக்கள் மச்சான்!**\n*Piṟanthanāḷ vāḻttukkaḷ machchān!*\n\"Happy birthday, mate.\"\n\nThirty-three characters — a third of the median, and the shortest wish here by some distance. Friends are the one group where Tamil speakers reliably drop into the colloquial variety; the Malaysian study found the friendship domain carried the highest Tamil use of all, colloquial and mixed with other languages. Sending version 1 to a close friend is not wrong, exactly, but it will read as a joke.\n\n## Tamil script or Roman letters?\n\nSend Tamil script. That is the practical finding of a 2018 Sheffield Hallam University doctoral thesis with fieldwork in Tamil Nadu: participants all wrote Tamil in Roman letters — \"Tanglish\" — when using technology, and almost all of them did it when sending text messages, but [their Roman spelling of the same word varied significantly](https://shura.shu.ac.uk/24461/) while their Tamil-script spelling was close to one hundred percent consistent.\n\nThe same thesis ran a \"Zha\" test: 30 native Tamil speakers aged 18–25 in a western Tamil Nadu city read aloud a phrase built around ழ, the letter Tamil is famous for. **Only 20% got the ழ syllables right** — reading from Tamil script. That is worth knowing before you transliterate anything: if trained native speakers disagree on how ழ sounds, they will certainly disagree on how to spell *vaazhthukkal* in English letters.\n\nRendering is less of a worry than people assume, though not zero. Richard Ishida's [Tamil orthography notes](https://r12a.github.io/scripts/taml/ta.html) record that modern Tamil uses fewer conjunct ligatures than most other Indic scripts, while still needing many ligatures for consonant-and-vowel combinations. The same reference flags a wrinkle worth knowing before you send abroad: a 1978 script reform proposed by the government of Tamil Nadu spread through India and the digital world, while Sri Lanka, Singapore, Malaysia, Mauritius and Réunion kept the traditional syllable forms.\n\n## Which register fits which recipient\n\nCharacter counts below are measured from the four wishes above and compared against SubhSandesh's own median personal message, 96 characters across 197 birthday pages.\n\n| Recipient | \"To you\" form | Wish length | Share of the 96-character median |\n|---|---|---|---|\n| Grandparent, in-law, teacher, boss | உங்களுக்கு (*uṅkaḷukku*) | 65 characters | 68% |\n| Appa or amma | உங்களுக்கு (*uṅkaḷukku*) | 48 characters | 50% |\n| Anna, akka, thambi, thangai | உனக்கு (*unakku*) | 64 characters | 67% |\n| Close friend | none, or உனக்கு (*unakku*) | 33 characters | 34% |\n\nThe takeaway: every register fits inside what people actually send. The formal version costs about 17 more characters than the parent version — respect is cheap in Tamil, and length is not what makes a wish feel sincere.\n\n## What to write underneath the wish\n\nThe wish is the easy part. On SubhSandesh birthday pages, 100% carry a written birthday wish and 99.5% add a personal message on top of it — and that personal message is where the specifics go: the year you met, the thing only the two of you find funny, the promise about next month.\n\nThe 96-character median tells you the honest expectation there. Two lines, not twenty.\n\nThis is also fast work. The median birthday page goes from first save to last edit in **0.9 hours**, against 6.9 hours for the \"I love you\" page, and 100 of 198 birthday pages were finished inside the hour. If you are building a [birthday page for parents](https://subhsandesh.in/birthday-parents), the formal register from row two goes in the wish field and the personal message goes underneath in whichever language you actually speak at home.\n\nFor a friend, the [birthday page for a friend](https://subhsandesh.in/birthday-friend) template suits the colloquial version instead.\n\n## When a Tamil birthday wish is the wrong choice\n\nThree cases, honestly.\n\n**The recipient reads Tamil but does not read Tamil script.** This is common in second-generation families and among Tamil speakers schooled entirely in English. Transliteration is the fallback, and the Sheffield Hallam finding says your spelling will not match theirs — so keep it to a phrase they will recognise by sound.\n\n**You are relying on the interactive extras to carry the message.** They mostly do not. Of 195 SubhSandesh birthday pages that added a quiz, only 28 were ever played — **14.4%**. Senders build games; recipients read the message and stop. Put the effort in the words.\n\n**Nobody opens it.** Four birthday pages, 2.0%, were never opened at all, and only 2 of 198 passed 50 views. A shared page is a link, and a link needs a nudge. Birthday pages are also the one thing people open on a laptop — 48.6% of birthday views are mobile, against 51.0% site-wide — so a wish designed only for a small screen misses about half the audience. If you want to see the range before committing, the [full template library](https://subhsandesh.in/templates) is the place to start.\n\n**One caution on the Tamil above.** These four wishes were composed by a machine, not by a native Tamil reader. The register logic is documented and the sources are linked, but idiom and diacritics deserve a second pair of eyes before you send something to your grandmother.\n\n## Sources\n\n- Nalliannan, P., Perumal, T. & Pillai, S. (2021). [Language Use Among Malaysian Tamil Youth](https://sciendo.com/article/10.2478/sm-2021-0014). *Sustainable Multilingualism* 19(1), November 2021.\n- Ramachandran, R. (2018). [Predicting user acceptance of Tamil speech to text by native Tamil Brahmans](https://shura.shu.ac.uk/24461/). Doctoral thesis, Sheffield Hallam University, June 2018.\n- Kadakara, S. (2015). [Status of Tamil Language in Singapore: An Analysis of Family Domain](https://www.erpjournal.net/wp-content/uploads/2020/01/2_ERPV42_Kadakara_2015_Status-of-Tamil-Language-in-Singapore.pdf). *Education Research and Perspectives* 42, 25–64.\n- Ramaswami, N. (1979). [Formal and Informal Tamil](https://shodhganga.inflibnet.ac.in/handle/10603/110637). Doctoral thesis, University of Kerala, completed 16 June 1979. Catalogue record only.\n- Ishida, R. [Tamil Orthography Notes](https://r12a.github.io/scripts/taml/ta.html). Living document; the version cited states \"Updated 28 April, 2026\".\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four Tamil birthday wishes, one for each register",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Grandparents, in-laws, a teacher or a boss — full literary register",
+            "description": "65 characters, 68% of the 96-character median personal message. Uses the honorific நீங்கள் and a formal verb ending; the safe default when the relationship is unclear."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Appa and amma — warm but still formal",
+            "description": "48 characters, half the median. Keeps உங்களுக்கு but leads with the kinship term, which is what makes it warm rather than stiff."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Anna, akka, thambi, thangai — neutral spoken Tamil",
+            "description": "64 characters, 67% of the median. Switches to உனக்கு and uses spoken forms such as nadakkaNum rather than the literary nadakka veeNdum."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A close friend — colloquial, short, no honorific",
+            "description": "33 characters, a third of the median and the shortest of the four. The friendship domain carries the highest colloquial Tamil use in the 2021 Malaysian study."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-tamil#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Tamil language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tamil_language",
+              "https://www.wikidata.org/wiki/Q5885"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Diglossia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diglossia",
+              "https://www.wikidata.org/wiki/Q59203"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tamil script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tamil_script",
+              "https://www.wikidata.org/wiki/Q26803"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Birthday",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Birthday",
+              "https://www.wikidata.org/wiki/Q47223"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Tamil Nadu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tamil_Nadu",
+              "https://www.wikidata.org/wiki/Q1445"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Language Use Among Malaysian Tamil Youth",
+            "url": "https://sciendo.com/article/10.2478/sm-2021-0014",
+            "datePublished": "2021-11",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Pawathy Nalliannan"
+              },
+              {
+                "@type": "Person",
+                "name": "Thanalachime Perumal"
+              },
+              {
+                "@type": "Person",
+                "name": "Stefanie Pillai"
+              }
+            ],
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Sustainable Multilingualism"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Vytautas Magnus University"
+            }
+          },
+          {
+            "@type": "Thesis",
+            "name": "Predicting user acceptance of Tamil speech to text by native Tamil Brahmans",
+            "url": "https://shura.shu.ac.uk/24461/",
+            "datePublished": "2018-06",
+            "author": {
+              "@type": "Person",
+              "name": "Raj Ramachandran"
+            },
+            "publisher": {
+              "@type": "CollegeOrUniversity",
+              "name": "Sheffield Hallam University"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Status of Tamil Language in Singapore: An Analysis of Family Domain",
+            "url": "https://www.erpjournal.net/wp-content/uploads/2020/01/2_ERPV42_Kadakara_2015_Status-of-Tamil-Language-in-Singapore.pdf",
+            "datePublished": "2015",
+            "author": {
+              "@type": "Person",
+              "name": "Shanmugam Kadakara"
+            },
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Education Research and Perspectives"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Graduate School of Education, The University of Western Australia"
+            }
+          },
+          {
+            "@type": "Thesis",
+            "name": "Formal and Informal Tamil",
+            "url": "https://shodhganga.inflibnet.ac.in/handle/10603/110637",
+            "datePublished": "1979-06-16",
+            "author": {
+              "@type": "Person",
+              "name": "N. Ramaswami"
+            },
+            "publisher": {
+              "@type": "CollegeOrUniversity",
+              "name": "University of Kerala"
+            }
+          },
+          {
+            "@type": "TechArticle",
+            "name": "Tamil Orthography Notes",
+            "url": "https://r12a.github.io/scripts/taml/ta.html",
+            "dateModified": "2026-04-28",
+            "author": {
+              "@type": "Person",
+              "name": "Richard Ishida"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in tamil",
+    "angle": "Wins by being the only post that sorts Tamil birthday wishes by register — literary Tamil for elders, spoken Tamil for friends — and sizes each one against the 96-character median personal message measured across 197 SubhSandesh birthday pages.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/birthday-friend",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Median personal message: 96 characters (n=197). Longest: 1,437.",
+      "106 of 197 messages are under 100 characters.",
+      "100% of pages include a written birthday wish; 99.5% add a personal message on top",
+      "Median gap from first save to last edit: 0.9 hours — against 6.9 hours for the \"I love you\" page. Birthday pages are made in one sitting.",
+      "50.5% (100 of 198) are finished inside the hour.",
+      "Of the 195 pages that added a quiz, only 28 had it played — 14.4%.",
+      "4 birthday pages (2.0%) were never opened at all.",
+      "Only 2 of 198 (1.0%) passed 50 views. The most-viewed single birthday page got 67.",
+      "Birthday views split 1,081 mobile / 1,121 desktop / 22 tablet — 48.6% mobile, where the site overall is 51.0% mobile.",
+      "51.0% of shared pages are opened on a phone (18,789 of 36,851 views) — measured 2026-08-26"
+    ],
+    "sources": [
+      {
+        "url": "https://sciendo.com/article/10.2478/sm-2021-0014",
+        "stat": "Tamil use in the family domain tracks the seniority of the addressee: 84% with grandparents, 74% with parents, 70% with siblings and 33.3% with the participants' own children; 109 questionnaires, 42 recorded conversations, 40 interviews. A recorded 17-year-old uses colloquial Tamil to a classmate and formal Tamil to the teacher in the same lesson.",
+        "publishedDate": "2021-11"
+      },
+      {
+        "url": "https://shura.shu.ac.uk/24461/",
+        "stat": "Participants all wrote Tamil in Roman script ('Tanglish') for technology and almost all did so when sending text messages; Roman spelling of the same word varied significantly while Tamil-script spelling was near 100% consistent. In the 'Zha' test only 20% of 30 native speakers aged 18-25 pronounced the zha syllables accurately.",
+        "publishedDate": "2018-06"
+      },
+      {
+        "url": "https://www.erpjournal.net/wp-content/uploads/2020/01/2_ERPV42_Kadakara_2015_Status-of-Tamil-Language-in-Singapore.pdf",
+        "stat": "Of 30 Tamil families (60 respondents), only 5 spoke Tamil alone at home; in English-shifted homes children's Tamil was often reduced to the ability to address family members by Tamil kinship terms and to name food ingredients.",
+        "publishedDate": "2015"
+      },
+      {
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/110637",
+        "stat": "Doctoral thesis 'Formal and Informal Tamil' by Ramaswami N, guide E. Annamalai, University of Kerala Department of Linguistics, completed 16/06/1979. Catalogue record only — the chapter PDFs were unreachable on 2026-08-27, so no finding from the thesis body is claimed.",
+        "publishedDate": "1979-06-16"
+      },
+      {
+        "url": "https://r12a.github.io/scripts/taml/ta.html",
+        "stat": "'Tamil is diglossic: the classic form is preferred for writing and public speaking, and is mostly standard across the Tamil-speaking regions; the colloquial, spoken form differs widely from the written.' Also: modern Tamil uses fewer conjunct ligatures than most other Indic scripts though a Tamil font still needs many; and a 1978 Tamil Nadu government script reform spread through India and the digital world while Sri Lanka, Singapore, Malaysia, Mauritius and Reunion kept the traditional syllables. Living document — the page states 'Updated 28 April, 2026' and the author's own suggested citation carries that date, so it is recorded here as the cited version's date rather than a first-publication date.",
+        "publishedDate": "2026-04-28"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Passes on count — five first-party figures appear and two (the 96-character median and 106 of 197 messages under 100 characters) sit inside the first 150 words. Fails on relevance: the birthday probe (n=198, from 2026-04) carries no language field, so nothing in it is known to be a Tamil page. Every number in this post is language-blind. Structural: closes only when the birthdaygfpages collection records a language or locale per page and the probe is re-run with that split."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Cannot be verified. WebSearch was exhausted at 200/200 for this session and the SERP was supplied pre-harvested, so none of the top five pages was fetched in full — and two of them (Pinterest #1/#5, Scribd #3) are not fully fetchable anyway. The register-by-recipient structure is not a shape any wish listicle uses, so the risk is low, but the claim is asserted from SERP titles rather than from the rendered pages. Closes when the five URLs can be fetched and read."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer block is four sentences in one paragraph. page-structure.md prescribes exactly that shape for the answer paragraph — direct answer, then two to four numbers, then one sentence on what the page covers — so the two rules conflict at the top of the page and page-structure.md was followed. Every other paragraph in the body is two or three sentences."
+        },
+        {
+          "item": "One comparison table with real values, 3–5 rows",
+          "why": "The table has four rows and real values, and one column is first-party (the 96-character median, n=197). But two of the four columns — the honorific 'to you' form and the wish length in characters — are derived from Tamil strings this pipeline composed by machine. If a wish is idiomatically wrong, its character count is an accurate number describing a wrong string, and the register mapping the whole table asserts is unverified. Structural: native-reader sign-off required; no agent can verify Tamil idiom, register or diacritics. It closes only when a native Tamil reader checks all four wishes, the two 'to you' forms and the four kinship address terms, and the character counts are recomputed from whatever they correct."
+        }
+      ],
+      "honestAssessment": "It is the only page in this SERP that answers the question the searcher actually has — which Tamil to use for whom — and it is the only one carrying any data at all: the register mapping is grounded in a 2021 study of 109 Malaysian Tamil youth (84% grandparents, 74% parents, 70% siblings, 33.3% own children), the script advice comes from Sheffield Hallam fieldwork in Tamil Nadu, and every wish is sized against a 96-character median no competitor can publish. The competition is two Pinterest boards, a Scribd upload, a ShareChat feed, a pin titled 'hbd' and a Marathi quotes site, so the bar for usefulness is very low; the bar for domain authority is not, and Pinterest will outrank subhsandesh.in on raw authority for a long time regardless of quality. Two honest weaknesses: the first-party numbers are language-blind — nothing in the 198-page birthday probe identifies a Tamil page, so 96 characters is a SubhSandesh median, not a Tamil median — and two of the three field studies behind the register argument are diaspora studies (Malaysia, Singapore) rather than Tamil Nadu, because no in-cap open-access study of Tamil register in digital greetings exists. The Shodhganga thesis is cited from its catalogue record only; its chapter PDFs were unreachable and nothing from the thesis body is claimed, and the fifth source is a maintained orthography reference rather than a peer-reviewed paper. And the post must not ship until a native Tamil reader has checked the four wishes, the two honorific forms and the four kinship terms — that blocker is structural and no agent in this pipeline can close it."
+    },
+    "generatedAt": "2026-08-27T00:00:00.000Z"
+  }
+}

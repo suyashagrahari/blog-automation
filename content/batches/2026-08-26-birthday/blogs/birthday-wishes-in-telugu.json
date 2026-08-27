@@ -1,0 +1,350 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Telugu That Render on Every Phone",
+    "slug": "birthday-wishes-in-telugu",
+    "excerpt": "Six Telugu birthday wishes with exact character counts, plus the encoding and font rules that decide whether they arrive as letters or as empty boxes. Telugu SMS caps at 70 characters per segment against 160 for English, and the median birthday message we measured is 96 characters.",
+    "metaTitle": "Birthday Wishes in Telugu — 6 Short Ones, Character-Counted",
+    "metaDescription": "Birthday wishes in Telugu, with character counts. Telugu SMS holds 70 characters per segment, not 160, and the median birthday message we measured is 96.",
+    "keywords": "birthday wishes in telugu, telugu birthday wishes, puttinaroju shubhakankshalu, telugu birthday message, happy birthday in telugu",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-telugu",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "telugu",
+      "wishes",
+      "unicode",
+      "typography"
+    ],
+    "keyTakeaways": [
+      "The median personal message on a SubhSandesh birthday page is 96 characters (n=197) — about two lines. 106 of 197 messages are under 100 characters.",
+      "Telugu forces an SMS into UCS-2, which holds 70 characters per segment against 160 for the GSM 7-bit alphabet, so a 96-character Telugu wish is a two-part SMS.",
+      "Android's Compatibility Definition Document mandates full Unicode coverage of Latin, Greek and Cyrillic only — Telugu font support is not guaranteed on every compliant device.",
+      "Telugu readers hold each fixation 557 ms on Telugu text against 326 ms on English, yet finish the passage faster: 161.9 seconds against 199.1.",
+      "51.4% of our birthday page views are not on a phone (1,121 desktop and 22 tablet of 2,224), so desktop font fallback matters more here than on most page types."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say happy birthday in Telugu?",
+        "answer": "పుట్టినరోజు శుభాకాంక్షలు — puttinaroju shubhakankshalu, literally \"birthday good wishes.\" It is 24 characters, carries no honorific either way, and is safe for anyone from a colleague to a cousin. The formal alternative is జన్మదిన శుభాకాంక్షలు (janmadina shubhakankshalu)."
+      },
+      {
+        "question": "Why does my Telugu birthday message show up as boxes or squares?",
+        "answer": "Because the receiving device has no font covering the Telugu block. Android's Compatibility Definition Document only requires full Unicode coverage of Latin, Greek and Cyrillic, so a device can ship without Telugu glyphs and still be a compliant Android phone. A missing dotted-circle glyph (U+25CC) produces the same white-box effect for stray marks."
+      },
+      {
+        "question": "How long should a Telugu birthday wish be?",
+        "answer": "Around 96 characters, which is the median length of the personal message people actually write on a SubhSandesh birthday page (n=197). 106 of those 197 messages are under 100 characters. All six wishes on this page are between 20 and 39 characters, so there is room to add a name and one specific memory."
+      },
+      {
+        "question": "Why does a Telugu SMS cost more than an English one?",
+        "answer": "Telugu is not in the GSM 7-bit default alphabet, so the message falls back to UCS-2 encoding. 3GPP TS 23.038 caps a UCS-2 SMS at 140 octets — 70 characters — against 160 for the 7-bit alphabet. A 96-character wish is therefore one SMS in English and two in Telugu."
+      },
+      {
+        "question": "Is it better to write the wish in Telugu script or in Roman letters?",
+        "answer": "It depends on how the recipient types, not on how they read. Many Telugu speakers under thirty write in Roman letters, and a full Telugu-script message can read as formal to them. Roman transliteration also travels in the 7-bit alphabet, so it never hits the 70-character SMS limit."
+      },
+      {
+        "question": "What is the difference between పుట్టినరోజు శుభాకాంక్షలు and జన్మదిన శుభాకాంక్షలు?",
+        "answer": "పుట్టినరోజు is the everyday Telugu word for birthday; జన్మదిన is the Sanskritised form. The first is neutral and works almost anywhere; the second reads formal and suits a teacher, a manager or a public post. They are 24 and 20 characters respectively."
+      },
+      {
+        "question": "Which Telugu birthday wish should I use for my mother or father?",
+        "answer": "అమ్మా, పుట్టినరోజు శుభాకాంక్షలు for a mother, and swap అమ్మా for నాన్నా for a father — 31 characters. If you want the traditional blessing, మీకు ఆయురారోగ్యాలతో నిండు నూరేళ్లు uses the honorific మీకు, which is the form elders expect."
+      },
+      {
+        "question": "Do I need మీరు or నువ్వు in a Telugu birthday wish?",
+        "answer": "Use మీరు (and మీకు) for anyone older than you or senior to you, and నువ్వు (నీకు) only for close friends and siblings. Getting this wrong with an elder reads worse than sending the wish in English. Have a Telugu speaker check the register before you send it."
+      },
+      {
+        "question": "Will a Telugu wish render properly on WhatsApp?",
+        "answer": "Usually yes, because chat apps send UTF-8 with no segment limit and rely on the system font. The risk is not the app but the device: an old, stripped or low-cost build with no Telugu font will show boxes regardless of which app delivered the text."
+      },
+      {
+        "question": "Is Telugu slower to read on a screen than English?",
+        "answer": "Per fixation, yes. In a 2015 Journal of Eye Movement Research study, Telugu readers held each fixation 557 ms on Telugu text against 326 ms on English. Overall they still finished the passage faster in Telugu — 161.9 seconds against 199.1 — because Telugu packs more meaning into fewer words."
+      },
+      {
+        "question": "Can I put Telugu text on a shared birthday page instead of texting it?",
+        "answer": "Yes, and it is the only channel where the font travels with the message rather than depending on the recipient's device. It also removes the 70-character segment limit entirely. On SubhSandesh the written wish and the personal message are two separate fields."
+      },
+      {
+        "question": "Do people open a birthday page on a phone or a laptop?",
+        "answer": "More often a laptop, which is unusual. Across 2,224 views of 198 birthday pages we recorded 1,081 mobile, 1,121 desktop and 22 tablet opens — 48.6% mobile, against 51.0% across the whole site. Desktop font fallback therefore matters more for birthdays than for most page types."
+      }
+    ],
+    "coverImageQuery": "telugu script handwriting birthday card",
+    "coverImagePrompt": "A close, warm photograph of a birthday card lying on a wooden table, with a short greeting handwritten in Telugu script and a phone beside it showing the same message on screen. Soft late-afternoon window light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible English text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Telugu That Render on Every Phone\n\nA Telugu birthday wish should be short, and it should travel as a chat message or a link rather than a plain SMS. On SubhSandesh the median personal message written on a birthday page is **96 characters** (n=197), and 106 of those 197 messages come in under 100 characters. Telugu forces an SMS into UCS-2 encoding, where one segment holds 70 characters instead of 160 — so the length people actually write is a one-part message in English and a two-part message in Telugu. Birthday pages also break the phone-first assumption: across 2,224 views of 198 birthday pages we recorded 1,081 mobile and 1,121 desktop opens, a 48.6% mobile split against 51.0% site-wide. Below are six Telugu wishes with their exact character counts, the encoding arithmetic behind them, and why the same wish shows up as empty boxes on some devices.\n\n## What a Telugu birthday wish is once it leaves your keyboard\n\nA Telugu birthday wish is a greeting written in the Telugu script — పుట్టినరోజు శుభాకాంక్షలు, *puttinaroju shubhakankshalu*, \"birthday good wishes\" — stored as Unicode code points and then drawn by whatever font the receiving device happens to own.\n\nThose are two separate jobs that fail separately. Encoding decides whether the characters survive the trip; shaping and font fallback decide whether they arrive as letters or as boxes.\n\nTelugu is a complex script, which in typographic terms means the shapes on screen are not a one-to-one map of the characters you typed. [HarfBuzz](https://harfbuzz.github.io/what-does-harfbuzz-do.html), the shaping engine that runs inside Android, Windows, macOS, iOS and Linux, handles Telugu under its Indic model alongside Devanagari, Bengali and Tamil — a separate code path from the default model it uses for Latin, Greek and Cyrillic. Every extra code path is somewhere the wish can break.\n\n## Six Telugu birthday wishes, with the character count that decides how they send\n\nEach wish is given in Telugu, in transliteration, in English, and with its exact character count, so you can see how it sits against the 96-character median.\n\n### 1. పుట్టినరోజు శుభాకాంక్షలు\n\n*Puttinaroju shubhakankshalu* — \"Happy birthday.\" The neutral default, correct for anyone from a colleague to a cousin. **24 characters**, one SMS segment, a quarter of the 96-character median. It carries no honorific either way, which is why it is safe when you are unsure of the register.\n\n### 2. జన్మదిన శుభాకాంక్షలు\n\n*Janmadina shubhakankshalu* — \"Birthday greetings.\" The Sanskritised, formal register for a teacher, a boss or a public post. **20 characters**, one segment, the shortest of the six. Use it where warmth would read as over-familiar.\n\n### 3. మీకు ఆయురారోగ్యాలతో నిండు నూరేళ్లు\n\n*Meeku ayurarogyalato nindu nurellu* — \"A full hundred years to you, with long life and health.\" The traditional blessing, and the one people actually say to elders. **34 characters** and one segment, using the honorific మీకు rather than నీకు.\n\n### 4. నీ పుట్టినరోజు ఎప్పటికీ గుర్తుండిపోవాలి\n\n*Nee puttinaroju eppatiki gurtundipovali* — \"May this birthday stay with you forever.\" Informal నీ, so it is for a friend or a sibling, never an elder. **39 characters** — the longest here, still one segment, still well under the median.\n\n### 5. అమ్మా, పుట్టినరోజు శుభాకాంక్షలు\n\n*Amma, puttinaroju shubhakankshalu* — \"Happy birthday, Amma.\" Swap అమ్మా for నాన్నా for a father. **31 characters**, one segment. Naming the person is the single cheapest way to stop a wish reading like a forward, and it costs six characters.\n\n### 6. హ్యాపీ బర్త్‌డే మామా\n\n*Happy birthday mama* — \"Happy birthday, mate.\" English written in Telugu letters, which is how many younger Telugu speakers type. **20 characters**, one segment, and it contains a zero-width non-joiner, so it is the one most likely to render oddly on an old build.\n\nTo hand one of these to a page rather than a text box, the [birthday page for parents](https://subhsandesh.in/birthday-parents) takes the wish and the personal message as two separate fields — which is why the 96-character median is measurable at all.\n\n## Where a Telugu wish costs more to send than the same wish in English\n\nThe SMS alphabet is defined by [3GPP TS 23.038](https://www.etsi.org/deliver/etsi_ts/123000_123099/123038/17.00.00_60/ts_123038v170000p.pdf). Its GSM 7-bit default alphabet carries Latin and a handful of Greek letters, and a message coded from it \"can consist of up to 160 characters\". Telugu is not in that alphabet, so a Telugu SMS falls to UCS-2, where the spec caps a message at \"140 octets, i.e. up to 70 UCS2 characters\".\n\nThe same specification does define a Telugu National Language Locking Shift Table — National Language Identifier `00001100`, clause A.3.12 — which replaces the default alphabet with Telugu and restores the 160-character budget. Both ends must support it and signal it in the User Data Header. Where they do not, you are back to 70.\n\nThe spec also recommends UCS-2 outright when a message mixes languages needing different tables, which is precisely what happens when you drop an English name or \"Happy Birthday\" into a Telugu wish.\n\n| Channel | Encoding | Telugu characters per segment | The 96-character median needs | Font comes from |\n|---|---|---|---|---|\n| Plain SMS | UCS-2 (16-bit) | 70 | 2 segments | The recipient's device |\n| SMS with Telugu locking shift | 7-bit, NLI `00001100` | 160 | 1 segment | The recipient's device |\n| WhatsApp or any chat app | UTF-8, no segment cap | no limit | 1 message | The recipient's device |\n| A shared web page | UTF-8, no segment cap | no limit | 1 link | The page itself, if it embeds one |\n\nThe takeaway is the last column, not the first: only a web page can carry the Telugu font with it. Everywhere else you are betting on what the recipient already has installed.\n\n## Why Telugu shows up as empty boxes on some phones\n\nAndroid's [Compatibility Definition Document](https://source.android.com/docs/compatibility/15/android-15-cdd) is the list of things a device has to do to be called Android. Section 3.8.13 requires colour emoji rendering and \"full Unicode 7.0 coverage of Latin, Greek, and Cyrillic\". Telugu is not on that mandatory list.\n\nThat is a gap rather than a bug. Mainstream Android builds ship Noto Sans Telugu anyway, and most phones sold in Andhra Pradesh and Telangana render it perfectly. But a stripped ROM or an unusual desktop browser can have no Telugu glyphs at all and still be compliant — which matters here, because 51.4% of our birthday page views are not on a phone.\n\nThe second failure mode is subtler. Microsoft's [guidance for Telugu OpenType fonts](https://learn.microsoft.com/en-us/typography/script-development/telugu) recommends that a Telugu font include the dotted-circle character U+25CC, so an invalid mark sequence has something to sit on. Without it, those implementations \"will display invalid signs on the missing glyph shape (white box)\" — the difference between a wish that looks slightly wrong and one that looks broken.\n\nBehind both sits the shaping engine, running a fixed thirteen-feature sequence for Telugu — reph, below-base forms, half forms, conjuncts, then presentation forms. Every conjunct in your wish is one more substitution an out-of-date font can get wrong.\n\nPractically: keep the wish short and send it to yourself first. Half our birthday pages are finished within an hour of the first save (100 of 198), so there is rarely time to find a rendering problem afterwards.\n\n## What eye tracking says about reading Telugu on a screen\n\nThe best open-access measurement of Telugu reading on a display we could find is Chowdhury and colleagues' 2015 paper in the [Journal of Eye Movement Research](https://bop.unibe.ch/JEMR/article/view/2401). They recruited 200 Indian infantry soldiers, 50 from each of four Dravidian language groups, and report eye-movement data for 44 per group.\n\nIn the Telugu group, average fixation duration while reading Telugu on screen was 557 ms, against 326 ms for the same readers on English text. The eye rests roughly 70% longer on each stop. Word processing rate in Telugu was 95.63 words per minute, the lowest of the four groups — Malayalam readers managed 141.\n\nThe rate is not the whole story, though, and the inconvenient half is worth stating: total reading time was still significantly *lower* in Telugu, 161.9 seconds against 199.1 for English, because Telugu packs more meaning into fewer words. All four groups rated their own script \"very easy\" to read; English sat between \"easy\" and \"moderate\".\n\nRead honestly, a Telugu wish is fast to read and slow to scan. It is also a 2015 study of infantry volunteers on a 19-inch desktop monitor, not a phone study, so treat the direction as reliable and the magnitudes as indicative.\n\n## When a Telugu wish is the wrong choice\n\nIf the recipient reads Telugu but types in Roman letters — and many people under thirty do — a full Telugu-script message can land as formal, like a circular rather than a note. Transliteration is not a lesser option; it is often the register they live in.\n\nHonorifics are the other trap, and we are not the ones to solve it for you. మీరు and నువ్వు are not interchangeable, and getting it wrong with an elder is worse than sending English. Every Telugu line on this page is machine-composed: have a Telugu speaker read it before you send it to anyone whose opinion you care about.\n\nThere is a limit on the interactive part too. Of the 195 birthday pages that included a quiz, only 28 ever had it played — 14.4%. Senders build games; recipients mostly read the message and leave. If the wish is the point, put it in the wish, not in a quiz.\n\nAnd if you are in the same room, say it out loud. A [birthday page for a friend](https://subhsandesh.in/birthday-friend) earns its place across a distance; it is a poor substitute for being there. Our birthday pages average 11.2 views each against 12.2 site-wide, and only 2 of 198 ever passed 50 views — read by one person, carefully, once.\n\nIf you do want the wish to render the same way for everyone, a page that carries its own font is the only channel in the table above that removes the recipient's device from the equation. You can [browse the templates](https://subhsandesh.in/templates) and put the Telugu text straight into one.\n\n## Sources\n\n- Chowdhury, B. et al. (2015). \"Effect of Dravidian vernacular, English and Hindi during onscreen reading text.\" *Journal of Eye Movement Research* 8(2):4. CC BY 4.0.\n- ETSI TS 123 038 V17.0.0, April 2022 (3GPP TS 23.038), \"Alphabets and language-specific information.\"\n- Android 15 Compatibility Definition Document, section 3.8.13, \"Unicode and Font.\"\n- Microsoft, \"Developing OpenType Fonts for Telugu Script.\"\n- HarfBuzz Manual, \"What does HarfBuzz do?\"\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six Telugu birthday wishes, by character count",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "పుట్టినరోజు శుభాకాంక్షలు",
+            "description": "Puttinaroju shubhakankshalu — \"Happy birthday.\" Neutral default, no honorific either way. 24 characters, one SMS segment."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "జన్మదిన శుభాకాంక్షలు",
+            "description": "Janmadina shubhakankshalu — \"Birthday greetings.\" Formal, Sanskritised register for a teacher or a boss. 20 characters, one SMS segment."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "మీకు ఆయురారోగ్యాలతో నిండు నూరేళ్లు",
+            "description": "Meeku ayurarogyalato nindu nurellu — \"A full hundred years to you, with long life and health.\" Traditional blessing for an elder, using honorific మీకు. 34 characters, one SMS segment."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "నీ పుట్టినరోజు ఎప్పటికీ గుర్తుండిపోవాలి",
+            "description": "Nee puttinaroju eppatiki gurtundipovali — \"May this birthday stay with you forever.\" Informal నీ, for a friend or sibling. 39 characters, one SMS segment."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "అమ్మా, పుట్టినరోజు శుభాకాంక్షలు",
+            "description": "Amma, puttinaroju shubhakankshalu — \"Happy birthday, Amma.\" Swap అమ్మా for నాన్నా for a father. 31 characters, one SMS segment."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "హ్యాపీ బర్త్‌డే మామా",
+            "description": "Happy birthday mama — English written in Telugu letters. 20 characters, one SMS segment, and it contains a zero-width non-joiner."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-telugu#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Telugu language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telugu_language",
+              "https://www.wikidata.org/wiki/Q8097"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Telugu script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telugu_script",
+              "https://www.wikidata.org/wiki/Q570450"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "GSM 03.38",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/GSM_03.38",
+              "https://www.wikidata.org/wiki/Q1441241"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Android",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Android_(operating_system)",
+              "https://www.wikidata.org/wiki/Q94"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "HarfBuzz",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/HarfBuzz",
+              "https://www.wikidata.org/wiki/Q4119352"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Effect of Dravidian vernacular, English and Hindi during onscreen reading text: A physiological, subjective and objective evaluation study",
+            "url": "https://bop.unibe.ch/JEMR/article/view/2401",
+            "datePublished": "2015-07-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Eye Movement Research"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ETSI TS 123 038 V17.0.0 / 3GPP TS 23.038 — Alphabets and language-specific information",
+            "url": "https://www.etsi.org/deliver/etsi_ts/123000_123099/123038/17.00.00_60/ts_123038v170000p.pdf",
+            "datePublished": "2022-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ETSI"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Android 15 Compatibility Definition, section 3.8.13 Unicode and Font",
+            "url": "https://source.android.com/docs/compatibility/15/android-15-cdd",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Android Open Source Project"
+            },
+            "dateModified": "2026-07-31"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Developing OpenType Fonts for Telugu Script",
+            "url": "https://learn.microsoft.com/en-us/typography/script-development/telugu",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft"
+            },
+            "dateModified": "2022-06-16"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "HarfBuzz Manual — What does HarfBuzz do?",
+            "url": "https://harfbuzz.github.io/what-does-harfbuzz-do.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "HarfBuzz Project"
+            },
+            "dateModified": "2026-04-04"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in telugu",
+    "angle": "Wins by being the only post on this keyword that treats a Telugu wish as something that has to survive transport and font fallback — pairing the 3GPP 70-character UCS-2 SMS limit and the Android CDD's Latin/Greek/Cyrillic-only font guarantee with SubhSandesh's measured 96-character median birthday message (n=197) and 48.6% mobile split.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Median personal message on a birthday page: 96 characters (n=197); 106 of 197 under 100 characters — birthdaygfpages probe, measured 2026-08-26",
+      "Birthday page views split 1,081 mobile / 1,121 desktop / 22 tablet of 2,224 — 48.6% mobile — birthdaygfpages probe, measured 2026-08-26",
+      "198 birthday pages created, 6.5% of all 3,024 pages, the #5 most-created page type — birthdaygfpages probe, measured 2026-08-26",
+      "50.5% of birthday pages (100 of 198) are finished inside the hour; median first-save to last-edit gap 0.9 hours — birthdaygfpages probe, measured 2026-08-26",
+      "Of the 195 birthday pages that added a quiz, only 28 had it played — 14.4% — birthdaygfpages probe, measured 2026-08-26",
+      "11.2 views per birthday page against 12.2 site-wide; only 2 of 198 passed 50 views — birthdaygfpages probe, measured 2026-08-26",
+      "51.0% of shared pages are opened on a phone (18,789 of 36,851 views) — measured 2026-08-26"
+    ],
+    "sources": [
+      {
+        "url": "https://bop.unibe.ch/JEMR/article/view/2401",
+        "stat": "Telugu readers' average fixation duration while reading Telugu on screen was 557.47 ms in the timed mode against 325.94 ms on English; Telugu word processing rate 95.63 wpm, the lowest of four Dravidian groups; total self-paced reading time 161.9 s in Telugu vs 199.1 s in English. 200 Indian infantry soldiers recruited (50 per language group); eye-movement data reported for 44 per group. Full PDF read, not just the abstract — the abstract's \"forty-four … participated\" contradicts the Methods figure of 200 recruited.",
+        "publishedDate": "2015-07-30"
+      },
+      {
+        "url": "https://www.etsi.org/deliver/etsi_ts/123000_123099/123038/17.00.00_60/ts_123038v170000p.pdf",
+        "stat": "A GSM 7-bit default alphabet SMS \"can consist of up to 160 characters\"; a UCS2 SMS is capped at \"140 octets, i.e. up to 70 UCS2 characters\". Table 6.2.1.2.4.1 assigns National Language Identifier 00001100 to Telugu, with a Single Shift Table (A.2.12) and a Locking Shift Table (A.3.12) that restores the full 7-bit budget where both ends support it.",
+        "publishedDate": "2022-04"
+      },
+      {
+        "url": "https://source.android.com/docs/compatibility/15/android-15-cdd",
+        "stat": "Section 3.8.13 requires a device with a screen to render colour emoji and to include \"Full Unicode 7.0 coverage of Latin, Greek, and Cyrillic\". Telugu is not on the mandatory font-coverage list.",
+        "publishedDate": "2026-07-31"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/typography/script-development/telugu",
+        "stat": "A Telugu OpenType font is recommended to carry the dotted-circle glyph U+25CC; \"If this character is not supported in the font, such implementations will display invalid signs on the missing glyph shape (white box).\" The document also fixes the thirteen-feature Telugu shaping order and the Indic cluster constraints.",
+        "publishedDate": "2022-06-16"
+      },
+      {
+        "url": "https://harfbuzz.github.io/what-does-harfbuzz-do.html",
+        "stat": "HarfBuzz shapes Telugu under its Indic model (with Devanagari, Bengali, Gujarati, Gurmukhi, Kannada, Malayalam, Oriya and Tamil), separate from the default model used for Latin, Cyrillic and Greek, and runs on Linux, Android, Windows, macOS and iOS.",
+        "publishedDate": "2026-04-04"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences, because page-structure Block 1 requires a direct answer, two to four numbers and a scope sentence in one liftable block. Six further paragraphs run four short sentences, mostly because the wish entries are punctuated as three fragments (Telugu, transliteration, English gloss) before the guidance sentence. Flagged rather than split apart, since splitting the answer paragraph would break the block an answer engine is meant to lift whole."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "STRUCTURAL — the language blocker, not a link problem. All five outbound links were fetched in full and verified to carry the cited fact (the JEMR PDF and the ETSI PDF were downloaded and text-extracted, not read from an abstract), so the link half of this item passes and needs no work. It is recorded as failed because the post's central content — six Telugu wish strings, plus the Telugu inside the FAQs and the ItemList — is machine-composed, carries no source, and cannot be verified by any agent. Closing condition: native-reader sign-off; no agent can verify Telugu idiom, honorific register (మీరు vs నువ్వు) or conjunct correctness. Do not publish before a Telugu reader signs off, and do not close this by adding another citation."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "STRUCTURAL — four of the five sources are Telugu-specific and could not move (the ETSI Telugu National Language tables, the Microsoft Telugu OpenType document, the Android CDD font clause read against Telugu, the HarfBuzz Indic model). The Journal of Eye Movement Research study is the exception: it measures four Dravidian language groups, so the Tamil sibling post in this batch could reuse it unchanged. No study measuring on-screen reading of Telugu alone was found in an in-cap venue — DOAJ, OpenAlex and Semantic Scholar were searched (terms recorded in the research brief); OpenAlex and Semantic Scholar both returned HTTP 429, and aclanthology.org, unicode.org, lrec-conf.org and w3.org are all at or over the domain cap. Closes if a Telugu-only screen-reading or typography study surfaces in an open, in-cap venue."
+        }
+      ],
+      "honestAssessment": "It is the only page on this keyword that explains what happens to a Telugu wish in transit: the 70-character UCS-2 SMS cap and the Telugu National Language tables from 3GPP TS 23.038, the Android CDD's font guarantee stopping at Latin, Greek and Cyrillic, and Microsoft's white-box behaviour for a missing U+25CC — none of which appears on any of the seven ranking pages, all of which compete on volume (450+, 101, 100+). The character counts and the 96-character median (n=197) give an answer engine something extractable that no wish listicle can print. What it cannot overcome: teluguq.com and telugubucket.com have years of topical Telugu content and this domain does not, the ranking pages serve pure browse intent while this one argues a point, and n=198 birthday pages is a small sample that supports a median and a mobile split but nothing per-language or per-relationship. The Telugu strings themselves are unverified, so the post is not publishable until a native reader signs off — that is a real blocker, not a formality."
+    },
+    "generatedAt": "2026-08-26T21:40:03Z"
+  }
+}
