@@ -1,0 +1,366 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Hindi — And Why You Type Them in English",
+    "slug": "birthday-wishes-in-hindi",
+    "excerpt": "The 8 Hindi birthday wishes people actually send, in Devanagari and Roman script, with the register for brothers, elders and friends. Measured against a 96-character median across 197 SubhSandesh birthday pages.",
+    "metaTitle": "Birthday Wishes in Hindi: Devanagari and Roman Side by Side",
+    "metaDescription": "Birthday wishes in Hindi in both scripts, with the register right for each relation. Across 197 SubhSandesh birthday pages the median message ran 96 characters.",
+    "keywords": "birthday wishes in hindi, janamdin ki hardik shubhkamnaye, birthday quotes in hindi, birthday wishes for brother in hindi, happy birthday in hindi",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-hindi",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "hindi",
+      "devanagari",
+      "wishes",
+      "transliteration"
+    ],
+    "keyTakeaways": [
+      "The median personal message on a SubhSandesh birthday page is 96 characters, and 106 of 197 are under 100 — every wish on this page fits inside that.",
+      "Devanagari is the shorter script: the same eight wishes average 37.9 characters in Devanagari against 42.9 in Roman transliteration, about 13% fewer.",
+      "Google lists Transliteration first among the four input methods it offers for Hindi, which is why 'janamdin ki hardik shubhkamnaye' is searched in Roman letters at all.",
+      "For a brother use तुम, not आप — Hindi's three-way second person encodes the relationship, and copied listicle lines rarely say which register they are in.",
+      "Interactive extras underperform: of 195 birthday pages that added a quiz, only 28 had it played, 14.4%."
+    ],
+    "faqs": [
+      {
+        "question": "How do you write happy birthday in Hindi?",
+        "answer": "जन्मदिन की हार्दिक शुभकामनाएं! — Janamdin ki hardik shubhkamnaye. It is 30 characters in Devanagari and works for almost anyone, from a cousin to a colleague. The shorter जन्मदिन मुबारक हो! (Janamdin mubarak ho) is 18 characters and reads warmer."
+      },
+      {
+        "question": "What is the correct spelling of janamdin ki hardik shubhkamnaye in English letters?",
+        "answer": "There isn't one. Google's Dakshina dataset records human-annotated romanizations for 25,000 native-script word types per language precisely because a single Hindi word has several accepted Latin spellings. Shubhkamnaye, shubhkamnayein and subhkaamnaye are all in circulation, and search engines treat them as the same intent."
+      },
+      {
+        "question": "Should I use aap or tum for a birthday wish to my brother?",
+        "answer": "Tum, for a younger or same-age brother. Aap is for an older brother in a family that keeps that formality, and tu only where it is already how you speak to each other. Hindi runs a three-way second person and the choice encodes the relationship, not just politeness."
+      },
+      {
+        "question": "Is it okay to send a Hindi birthday wish written in English letters?",
+        "answer": "Yes, and it is what most people do. Google lists Transliteration first among the four input methods it offers for Hindi, ahead of the Hindi keyboard, the Devanagari Phonetic keyboard and handwriting. A romanized line is not a lesser version of the wish."
+      },
+      {
+        "question": "How long should a Hindi birthday message be?",
+        "answer": "Shorter than the listicles suggest. Across 197 SubhSandesh birthday pages the median personal message was 96 characters and 106 of them were under 100. All eight wishes on this page fit inside that, which leaves room to add a name."
+      },
+      {
+        "question": "What is the difference between a birthday wish and a birthday quote in Hindi?",
+        "answer": "A quote is a wish plus a second clause — a blessing, an image, or a line of shayari. Jeete raho, khush raho, badhte raho. Janamdin mubarak! is the compact version at 45 characters. Quotes work as captions and card lines; in a chat thread a plain wish lands better."
+      },
+      {
+        "question": "What should I write for my mother's or father's birthday in Hindi?",
+        "answer": "Use the aap register: आपको जन्मदिन की बहुत-बहुत बधाई। (Aapko janamdin ki bahut-bahut badhai), or the blessing form आपकी उम्र लंबी हो और हर साल पिछले से बेहतर। Badhai is congratulation rather than good wishes, which is the more respectful footing."
+      },
+      {
+        "question": "Will Devanagari display properly on the recipient's phone?",
+        "answer": "On mainstream Android and iOS builds, yes. The risk is not display but reply — someone who reads Hindi but has never set up a Devanagari or transliteration keyboard will struggle to answer in the same script. Sending both lines removes that problem."
+      },
+      {
+        "question": "Is a Hindi wish shorter or longer than the same wish in English letters?",
+        "answer": "Shorter. The eight wishes on this page average 37.9 characters in Devanagari and 42.9 in Roman transliteration — about 13% fewer characters — because a combining vowel sign is one character where the Roman spelling needs two or three letters."
+      },
+      {
+        "question": "Why is typing on a Devanagari keyboard harder than it looks?",
+        "answer": "Because the same vowel has two forms depending on where it sits. Hindi uses 11 combining vowel signs after a consonant and 12 independent vowel letters for those sounds standing alone. A transliteration keyboard makes that decision for you, which is why most people use one."
+      },
+      {
+        "question": "What is a good short birthday wish for a friend in Hindi?",
+        "answer": "जन्मदिन की शुभकामनाएं, दोस्त! आज का दिन तुम्हारे नाम। (Janamdin ki shubhkamnaye, dost! Aaj ka din tumhare naam) — 53 characters, still comfortably inside the 96-character median. Addressing them as dost carries the warmth without an extra sentence."
+      },
+      {
+        "question": "Do interactive birthday pages actually get used?",
+        "answer": "Less than senders expect. Of the 195 SubhSandesh birthday pages that added a quiz, only 28 had it played — 14.4%. The written message is the part that gets read, which is an argument for spending your effort on the wish rather than on the game."
+      }
+    ],
+    "coverImageQuery": "hindi birthday message phone screen devanagari",
+    "coverImagePrompt": "A close, photorealistic shot of a hand holding a phone in warm evening light, the screen showing a short Hindi birthday message in Devanagari script above its Roman transliteration. Shallow depth of field, a blurred birthday candle bokeh behind, clean negative space at the top for a title overlay, 16:9. No text other than the message on the screen and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Hindi — And Why You Type Them in English\n\nSend one line, not twenty. Across 197 birthday pages built on SubhSandesh the median personal message ran **96 characters** — roughly fifteen words — and 106 of those 197 messages came in under 100 characters. The line most people want is जन्मदिन की हार्दिक शुभकामनाएं! (*Janamdin ki hardik shubhkamnaye!*), 30 characters in Devanagari, and the shorter alternative जन्मदिन मुबारक हो! (*Janamdin mubarak ho!*) is 18. Birthday pages are the fifth most-created thing on the site — 198 of 3,024 pages, 6.5% of everything built since March 2026 — so that 96-character figure is measured behaviour rather than a guess. Below are the wishes in both scripts, the Roman spellings people actually type, the quote-shaped lines, and what changes when the message is going to a brother instead of an elder.\n\n## What \"janamdin ki hardik shubhkamnaye\" actually means\n\nजन्मदिन की हार्दिक शुभकामनाएं is a fixed formula: *janamdin* is birthday, *hardik* is heartfelt, *shubhkamnaye* is good wishes. Translated flatly: \"heartfelt wishes on your birthday\". It is the neutral register — safe for a cousin, a colleague or a teacher.\n\nThe reason so many people search that phrase spelled out in English letters is not that they can't read Devanagari. It is that the keyboard in their hand puts Roman input first. Google's own [list of input methods by language](https://www.google.com/inputtools/help/languages.html) gives Hindi four options — Transliteration, a Hindi keyboard, a Devanagari Phonetic keyboard and handwriting — with Transliteration named first in the table, ahead of both keyboards.\n\n## Why Hindi birthday wishes get typed in English letters\n\nTyping Hindi in Latin characters and letting software convert it is the default path, not a workaround. Google researchers describe this pattern as \"the informal romanization prevalent in South Asia\", and their 2024 *Computational Linguistics* paper on [context-aware transliteration of romanized South Asian languages](https://research.google/pubs/context-aware-transliteration-of-romanized-south-asian-languages/) is built around converting whole romanized sentences back into native script across 12 languages, reporting a 4.8% absolute (27.1% relative) mean word-error-rate reduction over the previous best.\n\nThe awkward consequence is that there is no correct Roman spelling. The [Dakshina dataset](https://github.com/google-research-datasets/dakshina), released by the same group in May 2020, records human-annotated romanizations for 25,000 native-script word types per language, with the count of attestations per spelling — because a single word routinely has several accepted Latin forms. That is why *shubhkamnaye*, *shubhkamnayein* and *subhkaamnaye* all get typed, and why the search box sees all three.\n\nDevanagari itself adds friction on a small screen. Richard Ishida's [Devanagari orthography notes for Hindi](https://r12a.github.io/scripts/deva/hi), updated 27 April 2026, count 11 combining vowel signs used after a consonant alongside 12 independent vowel letters for the same vowel sounds standing alone. One vowel, two characters, depending on position. A transliteration keyboard hides that decision entirely, which is the whole reason it wins.\n\n## Eight birthday wishes in Hindi, with the Roman spelling people type\n\nEach line gives the Devanagari, the Roman spelling, the literal sense, who it fits, and its character count against the 96-character median.\n\n### 1. जन्मदिन की हार्दिक शुभकामनाएं!\n\n*Janamdin ki hardik shubhkamnaye!* — \"Heartfelt wishes on your birthday.\" The default. Neutral enough for a colleague, warm enough for a cousin, and it never reads as too familiar. 30 characters in Devanagari, 32 in Roman.\n\n### 2. जन्मदिन मुबारक हो!\n\n*Janamdin mubarak ho!* — \"Happy birthday to you.\" *Mubarak* comes from Urdu and carries a festive, spoken warmth. Best for friends, and for anyone you'd greet out loud. 18 characters, the shortest usable wish on this page.\n\n### 3. आपको जन्मदिन की बहुत-बहुत बधाई।\n\n*Aapko janamdin ki bahut-bahut badhai.* — \"Many congratulations to you on your birthday.\" *Badhai* is congratulation rather than good wishes, and the आप form makes it respectful. This is the line for a parent, a boss or a teacher. 31 characters.\n\n### 4. तुम्हें जन्मदिन की ढेर सारी शुभकामनाएं।\n\n*Tumhe janamdin ki dher saari shubhkamnaye.* — \"Loads of birthday wishes to you.\" Same formula as the first line, but the तुम form drops the distance. Use it for siblings, close friends and cousins your own age. 39 characters.\n\n### 5. भाई, जन्मदिन मुबारक! हमेशा ऐसे ही हँसते रहो।\n\n*Bhai, janamdin mubarak! Hamesha aise hi hanste raho.* — \"Brother, happy birthday! Keep laughing like this always.\" Addressing him as *bhai* does more work than any adjective. Fits a brother or a friend who is effectively one. 44 characters.\n\n### 6. जीते रहो, खुश रहो, बढ़ते रहो। जन्मदिन मुबारक!\n\n*Jeete raho, khush raho, badhte raho. Janamdin mubarak!* — \"Live long, stay happy, keep growing. Happy birthday!\" This is the quote-shaped one: three imperatives, then the wish. It reads well as a caption or a card line. 45 characters.\n\n### 7. आपकी उम्र लंबी हो और हर साल पिछले से बेहतर।\n\n*Aapki umr lambi ho aur har saal pichhle se behtar.* — \"May your life be long and every year better than the last.\" A blessing rather than a greeting, in the आप register. Written for parents and grandparents. 43 characters.\n\n### 8. जन्मदिन की शुभकामनाएं, दोस्त! आज का दिन तुम्हारे नाम।\n\n*Janamdin ki shubhkamnaye, dost! Aaj ka din tumhare naam.* — \"Birthday wishes, friend! Today belongs to you.\" The longest of the eight, and still only 53 characters. For friends.\n\nIf you are putting one of these on a page rather than in a chat, the [birthday page for parents](https://subhsandesh.in/birthday-parents) pairs the आप-register lines with a photo and a music track, which is what 100% of the 198 birthday pages measured on 26 August 2026 included.\n\n## Birthday quotes in Hindi, and when a quote beats a plain wish\n\nA Hindi birthday quote is a wish with a second clause — a blessing, an image or a line of shayari attached to the greeting. Line 6 above is the compact version. The longer versions are what people mean when they search *birthday quotes in hindi*, and they are worth using in exactly one situation: when the message is standing alone as a caption or a card, with no conversation around it.\n\nIn a chat thread the plain wish wins, and the length distribution says so: 106 of 197 personal messages under 100 characters, a median of 96, plus the speed at which these pages get made: the median gap from first save to last edit on a birthday page is 0.9 hours, against 6.9 hours for the \"I love you\" page, and 50.5% are finished inside the hour. People writing birthday messages are not composing; they are sending.\n\nHere is what each format actually costs you in characters, measured against that median.\n\n| Format | Length | Who can read it as sent | Against the 96-character median (n=197) |\n|---|---|---|---|\n| Devanagari only | 37.9 characters, average of the eight lines above | Anyone whose phone renders Devanagari | 39% of the median |\n| Roman transliteration only | 42.9 characters, same eight lines | Anyone, including a device with no Hindi font | 45% of the median |\n| Devanagari with the Roman line under it | 80.8 characters | Both of the above | 84% of the median |\n| The longest message actually recorded on a SubhSandesh birthday page | 1,437 characters | Anyone willing to read it | 15× the median |\n\nThe takeaway is that Devanagari is the shorter script, not the longer one — the same eight wishes run about 13% fewer characters in Devanagari than in their Roman spellings, because a combining vowel sign is one character where the Roman version needs two or three letters.\n\n## Birthday wishes for a brother in Hindi: तुम, not आप\n\nFor a brother close to your age, use तुम. Hindi runs a three-way second person — तू, तुम, आप — and the choice is not about politeness in the English sense; it encodes the relationship. Sunil Kumar Bhatt's analysis of [honorifics in Hindi](https://journals.phil.muni.cz/linguistica-brunensia/article/view/30697) in *Linguistica Brunensia* (2012) describes the system as reflecting family ties, familiarity, formality, closeness, social status and caste at once, which is a lot of freight for one pronoun to carry.\n\nIn practice: तुम for a younger or same-age brother, आप for an older brother in a family that keeps that formality, and तू only where it is already how you speak to each other. Getting this wrong is the single most common failure in a copy-pasted Hindi wish, because listicles publish a hundred lines without saying which register any of them is in.\n\nSo line 4 (तुम्हें जन्मदिन की ढेर सारी शुभकामनाएं।) and line 5 (भाई, जन्मदिन मुबारक!) are the brother lines here. Line 3 and line 7 are the ones to send upward. If you want the message to carry a photo and a shared playlist alongside it, the [birthday page for a friend](https://subhsandesh.in/birthday-friend) template works the same way for a brother — it is the तुम register either way.\n\n## When a Hindi birthday wish is the wrong thing to send\n\nThree cases, and we lose two of them.\n\nIf the recipient reads Hindi but has never used a Devanagari keyboard, a Devanagari-only message invites a reply they cannot easily type. Send the Roman line, or both.\n\nIf you are in the same room, send nothing — say it. A link is a poor substitute for presence, and the numbers back that up: only 2 of 198 birthday pages passed 50 views, the most-viewed single page reached 67, and 4 pages (2.0%) were never opened at all.\n\nAnd if you are building interaction into it, expect less than you hope. Of the 195 birthday pages that added a quiz, only 28 had it played — 14.4%. Senders build games; recipients read the message and close the tab. Birthday pages also skew to laptops in a way nothing else on the site does: 48.6% of the 2,224 birthday-page views were on mobile, against 51.0% site-wide. If none of that fits, [browse the full template set](https://subhsandesh.in/templates) and pick something plainer.\n\nOne honest caveat about everything on this page: the Hindi lines here were composed by us, not verified by a native Hindi editor, and idiom, gender agreement and honorific register are exactly the things a machine gets subtly wrong. Read each line before you send it.\n\n## Sources\n\n- Christo Kirov, Cibu Johny, Anna Katanova, Alexander Gutkin and Brian Roark, [\"Context-aware Transliteration of Romanized South Asian Languages\"](https://research.google/pubs/context-aware-transliteration-of-romanized-south-asian-languages/), *Computational Linguistics* 50(2), 2024, 475–534.\n- [The Dakshina Dataset](https://github.com/google-research-datasets/dakshina), Google Research, version 1.0 released 27 May 2020.\n- Richard Ishida, [Devanagari (Hindi) Orthography Notes](https://r12a.github.io/scripts/deva/hi), updated 27 April 2026.\n- [Google Input Tools — supported languages and input methods](https://www.google.com/inputtools/help/languages.html).\n- Sunil Kumar Bhatt, [\"Honorifics in Hindi: a morphological, semantic and pragmatical analysis\"](https://journals.phil.muni.cz/linguistica-brunensia/article/view/30697), *Linguistica Brunensia* 60(1–2), 2012, 49–60.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-hindi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Hindi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindi",
+              "https://www.wikidata.org/wiki/Q1568"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari transliteration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari_transliteration",
+              "https://www.wikidata.org/wiki/Q2659588"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Transliteration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Transliteration",
+              "https://www.wikidata.org/wiki/Q134550"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "InScript keyboard",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/InScript_keyboard",
+              "https://www.wikidata.org/wiki/Q924434"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Context-aware Transliteration of Romanized South Asian Languages",
+            "url": "https://research.google/pubs/context-aware-transliteration-of-romanized-south-asian-languages/",
+            "datePublished": "2024",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Computational Linguistics (MIT Press)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Dakshina Dataset, version 1.0",
+            "url": "https://github.com/google-research-datasets/dakshina",
+            "datePublished": "2020-05-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google Research"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Devanagari (Hindi) Orthography Notes",
+            "url": "https://r12a.github.io/scripts/deva/hi",
+            "dateModified": "2026-04-27",
+            "publisher": {
+              "@type": "Person",
+              "name": "Richard Ishida"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Google Input Tools — supported languages and input methods",
+            "url": "https://www.google.com/inputtools/help/languages.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Honorifics in Hindi: a morphological, semantic and pragmatical analysis",
+            "url": "https://journals.phil.muni.cz/linguistica-brunensia/article/view/30697",
+            "datePublished": "2012",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Linguistica Brunensia, Masaryk University"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight birthday wishes in Hindi, with the Roman spelling people type",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "जन्मदिन की हार्दिक शुभकामनाएं!",
+            "description": "Janamdin ki hardik shubhkamnaye — the neutral default, 30 characters in Devanagari."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "जन्मदिन मुबारक हो!",
+            "description": "Janamdin mubarak ho — 18 characters, the shortest usable wish, warm and spoken."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "आपको जन्मदिन की बहुत-बहुत बधाई।",
+            "description": "Aapko janamdin ki bahut-bahut badhai — 31 characters, aap register, for parents and elders."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "तुम्हें जन्मदिन की ढेर सारी शुभकामनाएं।",
+            "description": "Tumhe janamdin ki dher saari shubhkamnaye — 39 characters, tum register, for siblings and close friends."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "भाई, जन्मदिन मुबारक! हमेशा ऐसे ही हँसते रहो।",
+            "description": "Bhai, janamdin mubarak! Hamesha aise hi hanste raho — 44 characters, for a brother."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "जीते रहो, खुश रहो, बढ़ते रहो। जन्मदिन मुबारक!",
+            "description": "Jeete raho, khush raho, badhte raho. Janamdin mubarak — 45 characters, the quote-shaped line."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "आपकी उम्र लंबी हो और हर साल पिछले से बेहतर।",
+            "description": "Aapki umr lambi ho aur har saal pichhle se behtar — 43 characters, a blessing in the aap register."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "जन्मदिन की शुभकामनाएं, दोस्त! आज का दिन तुम्हारे नाम।",
+            "description": "Janamdin ki shubhkamnaye, dost! Aaj ka din tumhare naam — 53 characters, for a friend."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in hindi",
+    "secondaryKeywords": [
+      "janamdin ki hardik shubhkamnaye",
+      "birthday quotes in hindi",
+      "birthday wishes for brother in hindi"
+    ],
+    "angle": "Wins by being the only post that explains why Hindi birthday wishes are typed and searched in Roman letters — Google names Transliteration as the first input method for Hindi and there is no single correct Roman spelling — and prices every wish against SubhSandesh's measured 96-character median personal message across 197 birthday pages, while the ranking pages publish 200-plus-item listicles with no register guidance.",
+    "isHubPage": true,
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/birthday-friend",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "#5 page type: birthday page for a partner (/birthday-gf) — 198 created, 6.5% of all pages — measured 2026-08-26",
+      "3,024 personalised pages created since 2026-03-12, across 15 page types — measured 2026-08-26",
+      "51.0% of shared pages are opened on a phone (18,789 of 36,851 views) — measured 2026-08-26",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=936 — measured 2026-08-26",
+      "Birthday probe, birthdaygfpages collection, 2026-08-26: median personal message 96 characters (n=197); longest 1,437; 106 of 197 messages under 100 characters",
+      "Birthday probe, 2026-08-26: median gap from first save to last edit 0.9 hours; 50.5% (100 of 198) finished inside the hour",
+      "Birthday probe, 2026-08-26: 100% of 198 birthday pages include a cover photo and a music track",
+      "Birthday probe, 2026-08-26: of the 195 pages that added a quiz, only 28 had it played — 14.4%",
+      "Birthday probe, 2026-08-26: 4 birthday pages (2.0%) were never opened; only 2 of 198 (1.0%) passed 50 views; most-viewed page reached 67",
+      "Birthday probe, 2026-08-26: birthday views split 1,081 mobile / 1,121 desktop / 22 tablet — 48.6% mobile, against 51.0% site-wide"
+    ],
+    "sources": [
+      {
+        "url": "https://research.google/pubs/context-aware-transliteration-of-romanized-south-asian-languages/",
+        "stat": "Describes \"the informal romanization prevalent in South Asia\" and reports a 4.8% absolute (27.1% relative) mean word-error-rate reduction for full-sentence Latin-to-native-script transliteration across all 12 languages in the Dakshina dataset. Abstract read on the publisher-hosted author page; the Computational Linguistics full text at direct.mit.edu returned HTTP 403 to the fetcher.",
+        "publishedDate": "2024"
+      },
+      {
+        "url": "https://github.com/google-research-datasets/dakshina",
+        "stat": "Romanization lexicons hold 25,000 native-script word types per language in the training split (15,000 for Sindhi), each with human-annotated romanizations and an attestation count, because one word has several accepted Latin spellings.",
+        "publishedDate": "2020-05-27"
+      },
+      {
+        "url": "https://r12a.github.io/scripts/deva/hi",
+        "stat": "Hindi's Devanagari writes post-consonant vowels with 11 combining vowel signs and standalone vowels with 12 independent vowel letters. Living document: its own \"Referencing this document\" line reads \"Richard Ishida, Devanagari (Hindi) Orthography Notes, 27-Apr-2026\", matching the \"Updated 27 April, 2026\" line at the top — a modification date, not a publication date, so it is emitted as dateModified.",
+        "dateModified": "2026-04-27",
+        "publishedDate": "2026-04-27"
+      },
+      {
+        "url": "https://www.google.com/inputtools/help/languages.html",
+        "stat": "Lists four input methods for Hindi — Transliteration, Keyboard Hindi, Keyboard Devanagari Phonetic and Handwriting — with Transliteration named first; Input Tools covers over 80 languages. No publication date on the page."
+      },
+      {
+        "url": "https://journals.phil.muni.cz/linguistica-brunensia/article/view/30697",
+        "stat": "Bhatt's analysis describes the Hindi honorific system as reflecting family ties, acquaintance, formality, personal closeness, social status and caste. Abstract read (Czech); the English PDF was not opened.",
+        "publishedDate": "2012"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "One comparison table with real values, 3–5 rows",
+          "why": "STRUCTURAL — this is where the mandatory language blocker lands. The table has four rows and real values, and its fourth column is first-party (the 96-character median, n=197). But the two length values in rows one to three — 37.9 characters in Devanagari against 42.9 in Roman — are computed from the eight wish lines on this page, and every Devanagari string in this post is machine-composed and unverified. Not fixable by more work: native-reader sign-off required; no agent can verify Hindi idiom, gender agreement or honorific register. Closes only when a fluent Hindi reader reviews all eight wish lines, the tu/tum/aap guidance and the Devanagari inside the FAQs and signs off — at which point the character counts either stand or are recomputed. Do not publish before that."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Twelve paragraphs run four or more sentences. The opening answer block runs seven short clauses because page-structure.md Block 1 prescribes exactly that shape — direct answer, then two to four numbers, then one scope sentence, in one liftable paragraph — so the two rules conflict at the top of the page and page-structure.md was followed. The other eleven are the eight H3 wish entries, which are punctuated as three fragments each (Devanagari line, Roman spelling, literal gloss) before the register sentence and the character count. Splitting them would separate a wish from its own transliteration."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the five sources are Devanagari- or Hindi-specific and could not move (Ishida's Devanagari orthography notes, the Google Input Tools Hindi row, Bhatt on Hindi honorifics, and the Dakshina lexicon read for its Hindi/Devanagari members). The exception is Kirov et al., which covers all 12 Dakshina languages, so a lane-C sibling could in principle cite it. Disclosed alongside it: the Ishida notes share a domain, not a URL, with the Tamil sibling, which cited r12a.github.io/scripts/taml/...; r12a.github.io sits at 2 of 3 posts. Closing it needs a Hindi-only romanization study, and the ten searches recorded in the research brief — among them 'romanized Hindi Devanagari script choice social media', 'transliteration input method Indic text entry keyboard', 'Devanagari InScript keyboard layout typing' and 'title.search:devanagari + is_oa:true' — returned nothing Hindi-specific inside the domain cap."
+        },
+        {
+          "item": "Sources list with publication dates, omitted where the source publishes none",
+          "why": "One of the five citations is undated. The Google Input Tools supported-languages page carries no publication or update date in its text, its two meta tags or its footer, and has no changelog; its only date signal is an HTTP Last-Modified header of Thu, 04 Sep 2025 04:00:00 GMT, which is server metadata rather than a document-stated date and is not emitted into citation. The checklist item permits omission where the source publishes none, but the batch rule requires a document-stated date for every source, so it is recorded as a failure rather than quietly omitted. The source was kept, not dropped: 'Transliteration listed first among the four input methods Google offers for Hindi' is the load-bearing claim of the lane-C angle and no in-cap replacement was found. Closes if Google dates the page or an equivalent dated primary source appears."
+        }
+      ],
+      "honestAssessment": "An answer engine has one concrete reason to prefer this page: it is the only result in the set that explains why the query is typed in Roman letters at all — Google names Transliteration as the first of four input methods for Hindi, and the Dakshina lexicons exist because one Hindi word has several attested Latin spellings — and it prices every wish against a measured 96-character median from 197 birthday pages instead of publishing a 200-item list. The computed 37.9-vs-42.9-character comparison between the two scripts is a claim none of the six ranking results makes. Against that: this is a band-5 head term on a low-authority domain facing navbharattimes and two Pinterest results, so the realistic ceiling is the back half of page one and it will take months, not weeks. Two limits the reader should know about — the n=198 birthday sample starts in April 2026 and carries no per-language or per-relationship breakdown, so no claim here is Hindi-specific first-party data; and every Devanagari string is machine-composed, recorded as an unresolved structural failure on the comparison-table item because the 37.9-vs-42.9 character values derive from those strings. Native-reader sign-off is a publishing gate here, not a caveat: nothing should go live until a fluent Hindi reader has cleared the eight wish lines, the tu/tum/aap guidance and the Devanagari inside the FAQs. Process note: WebSearch was exhausted for the session so Phase 1 used the SERP supplied in the assignment rather than a live query, direct.mit.edu, mdpi.com, doaj.org and sciencedirect.com all refused the fetcher, and OpenAlex rate-limited repeatedly, which narrowed the pool of candidate scholarly sources."
+    },
+    "generatedAt": "2026-08-27T06:19:13Z"
+  }
+}

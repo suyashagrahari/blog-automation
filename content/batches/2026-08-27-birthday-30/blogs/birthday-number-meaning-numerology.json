@@ -1,0 +1,316 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Number Meaning in Numerology, and What 182 Dates Show",
+    "slug": "birthday-number-meaning-numerology",
+    "excerpt": "Numerology gives the day of your birth a single-digit meaning. Here are the nine traditional readings, and a count of 182 real birthday dates on SubhSandesh where all nine numbers arrive at rates indistinguishable from chance.",
+    "metaTitle": "Birthday Number Meaning in Numerology — 182 Dates Counted",
+    "metaDescription": "Birthday number meaning in numerology: the nine mulank readings and their planets, beside a count of 182 birthday dates where all nine land at chance rates.",
+    "keywords": "birthday number meaning numerology, mulank meaning, birthday number in numerology, which birthday number is lucky, rarest birthday number",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-number-meaning-numerology",
+    "ogType": "article",
+    "tags": [
+      "numerology",
+      "mulank",
+      "birthday-numbers",
+      "lucky-numbers",
+      "first-party-data"
+    ],
+    "keyTakeaways": [
+      "Across 182 recorded birthday dates on SubhSandesh, the nine numerology birth numbers occur at rates indistinguishable from chance: chi-squared 14.53 on 8 degrees of freedom against a critical 15.51 at p = .05, confirmed on two independent subsets (14.07 at n=56 and 5.24 at n=126).",
+      "A birthday number is only the day of the month reduced to one digit, so it ignores the month, the year and the hour, and it is not the life path number most calculators return.",
+      "Belief in a lucky number moves chosen dates far more than given ones: Danish marriages fall 25% on the 13th of the month, but births on the 13th fall only 2%.",
+      "In one South Indian teaching hospital, 20% of the caesareans performed on maternal request cited astrological concerns, and 69% of obstetricians accede to elective requests.",
+      "Our sample carries an unexplained skew - days 1 to 15 hold 28.0% of the 182 dates where 48.4% would be expected - so it supports the aggregate result and nothing about any individual number."
+    ],
+    "faqs": [
+      {
+        "question": "What does my birthday number mean in numerology?",
+        "answer": "It means whatever the tradition assigns to the day of the month you were born, reduced to one digit. 1 is read as the initiator, 2 the reader of rooms, 3 the expressive one, 4 the outsider, 5 quickness, 6 comfort, 7 the withdrawer, 8 slow accumulation and 9 drive. That is a belief system, stated as one."
+      },
+      {
+        "question": "How do I work out my birthday number?",
+        "answer": "Take only the day of the month and add its digits until one digit remains. The 4th is 4, the 17th is 1 + 7 = 8, and the 29th is 2 + 9 = 11, then 1 + 1 = 2. The month, the year, the hour and the place are all ignored, which is why it is a much narrower figure than most calculators return."
+      },
+      {
+        "question": "Which birthday number is lucky?",
+        "answer": "Nothing in our data supports calling any of the nine lucky. Across 182 recorded birthday dates on SubhSandesh the nine birth numbers arrive at rates indistinguishable from chance: chi-squared 14.53 on 8 degrees of freedom against a critical 15.51 at p = .05. Two independent subsets of the same rows agree. Tradition names lucky numbers; the count does not find them."
+      },
+      {
+        "question": "What is the rarest birthday number?",
+        "answer": "We could name one from our 182 dates and we deliberately will not. A distribution that does not differ significantly from chance has an ordering that is mostly noise, and nine buckets over 182 rows average about 20 pages each, so three or four pages reshuffle the ranking. Anyone publishing a rarest number without a sample size and a test is describing their own sample."
+      },
+      {
+        "question": "Is the birthday number the same as the life path number?",
+        "answer": "No. The birthday number reduces the day of the month alone; the life path number reduces the entire date of birth, and that is what most online calculators return by default. Two people born on the 5th of different decades share a birthday number and almost never share a life path, so the two readings routinely disagree."
+      },
+      {
+        "question": "Which planet rules each birthday number?",
+        "answer": "Indian practice generally gives 1 to the Sun, 2 to the Moon, 3 to Jupiter, 4 to Rahu, 5 to Mercury, 6 to Venus, 7 to Ketu, 8 to Saturn and 9 to Mars. The lists are not identical across sources: 7 is Ketu in most Indian lists and Neptune in the older Chaldean lists still circulating in English."
+      },
+      {
+        "question": "Why is 4 treated as a difficult number in Indian numerology?",
+        "answer": "Because Indian practice attaches it to Rahu, a shadow planet associated with disruption and the unconventional, so readings describe a 4 as an outsider who works systematically against the grain. It is a claim about the tradition's symbolism, not about people born on the 4th, 13th, 22nd or 31st."
+      },
+      {
+        "question": "Can two people with the same birthday number be nothing alike?",
+        "answer": "Yes, and about one in nine of everyone shares yours, which is a useful thing to hold in mind. The birthday number is a single digit derived from a single field, and our own count of 182 real birthday dates found the nine numbers distributed at chance rates. Treat a shared number as a coincidence worth a joke, not a shared character."
+      },
+      {
+        "question": "Do Indian families really choose birth dates for numerology?",
+        "answer": "Some do, and it is documented. A 2019 review in the International Journal of Community Medicine and Public Health records that in one South Indian teaching hospital, 20% of the caesareans performed on maternal request cited astrological concerns, and notes that 69% of obstetricians have been found to accede to elective requests."
+      },
+      {
+        "question": "Should I put a numerology reading in a birthday message?",
+        "answer": "It works well as a hook and badly as the whole message. Name the number, then name something specific the person actually did, so the reading introduces a memory rather than replacing one. The median personal message on our birthday pages is 96 characters, roughly fifteen words, so keep the reading to about a line."
+      },
+      {
+        "question": "What is the difference between numerology and astrology?",
+        "answer": "Numerology reads meaning from numbers derived from a name or a date; astrology reads it from the positions of celestial bodies at a moment in time. Indian usage blends them, which is why a birth number is usually described as ruled by a planet, and why the same practitioner will often offer both."
+      },
+      {
+        "question": "Does numerology have scientific support?",
+        "answer": "Numerology is a belief system rather than a scientific claim, and it is not presented as one here. What research does show is that believing a number is lucky changes behaviour: Danish marriages fall 25% on the 13th of the month, though births on the 13th fall only 2%, because a birth date is barely chosen."
+      }
+    ],
+    "coverImageQuery": "indian wall calendar dates numbers close up",
+    "coverImagePrompt": "A close, warmly lit photograph of an Indian wall calendar page, the numbered dates filling the frame at a slight angle. One date is circled in blue ballpoint ink; the rest are plain. Shallow depth of field, muted paper tones, clean negative space along the top for a title overlay, 16:9. No text beyond the printed calendar numerals and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Number Meaning in Numerology, and What 182 Dates Show\n\nYour birthday number is the day of the month you were born reduced to a single digit — the *mūlānk*. Born on the 24th, it is 6; born on the 7th, 16th or 25th, it is 7. This page gives the birthday number meaning numerology attaches to each of the nine digits, and then sets a count beside it, which no page ranking for this phrase does. Across **182 recorded birthday dates** entered by real users on SubhSandesh, the nine birth numbers arrive at rates **indistinguishable from chance**: χ² = 14.53 on 8 degrees of freedom, against a critical 15.51 at p = .05. Half of those pages — **91 of 182, 50.0%** — were built on the birthday itself, and the median message on them runs **96 characters**.\n\n## What is a birthday number in numerology?\n\nA birthday number comes from one thing only: the day of the month. Add the digits of that day until one digit is left — the 29th gives 2 + 9 = 11, then 1 + 1 = 2. It ignores the month, the year, the hour and the place of birth entirely.\n\nIt is also not the life-path number, which reduces the whole date and is what most calculators return by default.\n\n[Numerology](https://en.wikipedia.org/wiki/Numerology) — the belief in a meaningful relationship between numbers and ideas — reaches Indian practice by two routes: Pythagorean number symbolism carried through European occultism, and the Chaldean system popularised in English in the early twentieth century. Indian usage adds planetary rulership from *jyotisha*, which is why a *mūlānk* is described as ruled by Mars or Saturn rather than simply as meaning something.\n\n## What each birthday number is said to mean\n\nBelow is the tradition as Indian practice states it, and published lists disagree in the detail: the planet attached to 7 is Ketu in most Indian lists and Neptune in the older Chaldean lists circulating in English. Read it as a description of a belief system, not a finding about people.\n\n- **1 — Sun.** The initiator: self-directed, happier deciding than consulting, carrying authority nobody handed over.\n- **2 — Moon.** The reader of rooms: attentive to mood, cooperative by preference, said to swing with the tide.\n- **3 — Jupiter.** The expressive one: teaching, joking, explaining, and starting more than it finishes.\n- **4 — Rahu.** The outsider: systematic and stubborn at once, traditionally treated as the awkward number.\n- **5 — Mercury.** Quickness: talkative, commercially minded, restless with routine, fastest against a deadline.\n- **6 — Venus.** The maker of comfort: household, hospitality, aesthetics, and care that tips into over-giving.\n- **7 — Ketu.** The withdrawer: analytical, private, drawn to what argument cannot settle, read as aloof.\n- **8 — Saturn.** Slow accumulation: endurance, delay, gains that arrive late and last. Treated with most caution in Indian readings.\n- **9 — Mars.** Drive: courage, temper, physical energy, spent before it is paced.\n\n## Which birthday number is lucky? What 182 real dates show\n\nGoogle itself lists \"Which birthday number is lucky?\" under this search, and every page ranking for it answers from tradition. Read literally, it is a question about how often something happens — which can be counted.\n\nSo we counted. Of 209 birthday pages on SubhSandesh, 182 carry a recorded birthday date, and each reduces to a *mūlānk*. Tested against a uniform day of the month, the nine numbers give **χ² = 14.53 on 8 degrees of freedom**, where the critical value at p = .05 is 15.51. The spread does not clear significance.\n\nTwo independent cuts of the same rows agree:\n\n| Subset of our 182 recorded dates | Pages (n) | χ² on 8 df | Critical value at p = .05 |\n|---|---|---|---|\n| All rows with a recorded birthday date | 182 | 14.53 | 15.51 |\n| Rows carrying a plausible year of birth, 1990–2012 | 56 | 14.07 | 15.51 |\n| Rows where the recorded year is the coming birthday | 126 | 5.24 | 15.51 |\n\nThree tests, three non-significant results. As a set, the nine birth numbers turn up at the rates an arbitrary calendar would produce — an answer to a frequency question nobody else on this search has answered.\n\n## What is the rarest birthday number, and why we will not name one\n\nGoogle's People Also Ask carries this question too. We could answer it by naming whichever number has the fewest pages in our data; we are not going to, and the χ² above is why.\n\nA distribution that does not differ significantly from chance is one whose internal ordering is mostly noise. Nine buckets over 182 rows average about 20 pages each, so three or four pages reshuffle the ranking.\n\nNaming a rarest number would be the most quotable line here and the least defensible. Anyone publishing one without a sample size and a test is describing their own sample.\n\n## What our own count cannot tell you\n\nThree limits, stated here rather than in a footnote.\n\n**A calendar skew we cannot explain.** Days 1 to 15 hold only **28.0%** of our 182 dates where 48.4% would be expected. The gap survives in the clean subset with a plausible year of birth, at **32.1% (n=56)**, so it is not simply an artefact of when the product launched. We do not know its cause.\n\n**Most rows are not full birth dates.** Only **56 of 182** carry a year of birth that could plausibly be one; in the other 126 the year recorded is the coming occurrence. This is a sample of birth *days and months*, not of complete birth dates.\n\n**Some rows are the wrong day entirely.** In **32 of 182 cases (17.6%)** the recorded birthday matches the date the page was created, as you would expect from a field filled in quickly on the day.\n\nSo n=182 supports the aggregate finding and nothing about any individual number. We are not ranking the nine, and you should distrust anyone who does at this size.\n\n## What happens when a number is believed to be lucky\n\nThe more interesting question has real research behind it: belief in a number does move behaviour, but it moves *chosen* dates far more than *given* ones.\n\nAntipov and Pokryshevskaya's [study of Danish marriages and births, 2007 to 2019](https://journal.sjdm.org/20/200510/jdm200510.pdf) (*Judgment and Decision Making*, September 2020) found 25% fewer marriages on a non-Friday 13th than on the 14th, rising to 39% on Friday the 13th — but only 2% fewer children born on the 13th than on the days around it.\n\nTheir [earlier study of the Saint Petersburg apartment market](https://journal.sjdm.org/15/151009/jdm151009.pdf) (November 2015) isolated the number by comparing identical, identically priced floors: 54.9% of thirteenth-floor flats had sold against 64.8% on the twelfth, with the seventh floor highest at 68.6%.\n\n| Decision | Setting and period | Shift attributed to the number | Choice available |\n|---|---|---|---|\n| Marrying on the 13th | Denmark, 2007–2019 | 25% fewer weddings; 39% on a Friday | Fully chosen |\n| Giving birth on the 13th | Denmark, 2007–2019 | 2% fewer births | Barely chosen |\n| Birth on the 8th, 18th or 28th | Chinese-Americans, California | 2.3% more births; caesareans 6% higher | Partly chosen |\n| Buying a 13th-floor flat | Saint Petersburg, 2014 | 54.9% sold vs 64.8% on floor 12 | Fully chosen |\n\nAlmond and colleagues' [study of auspicious birth dates among Chinese-Americans in California](https://pubmed.ncbi.nlm.nih.gov/26160600/) (*Economics & Human Biology*, July 2015) found 2.3% \"too many\" births on the 8th, 18th and 28th and no matching pattern among White births. A 2024 analysis of the Shanghai and Shenzhen exchanges, 2000 to 2020, [classifying stocks by lucky and unlucky ticker digits](https://centaur.reading.ac.uk/119010/8/1-s2.0-S1057521924001315-main.pdf), found no compelling evidence that lucky-numbered stocks are herded into more than the rest.\n\nThat picture fits our flat distribution rather than contradicting it. Birth days are mostly not chosen, so a belief about which day is lucky has almost nothing to act on.\n\n## Where the belief costs something in India\n\nThe Indian version of this is not abstract. A 2019 review in the [International Journal of Community Medicine and Public Health](https://www.ijcmph.com/index.php/ijcmph/article/download/4249/2891) records that in a South Indian teaching hospital, 44 of 1,762 caesarean deliveries were performed on maternal request, and **20% of those requests cited astrological concerns** — a date and time named by an astrologer.\n\nThe same review notes that **69% of obstetricians** have been found to accede to requests for an elective caesarean, and it is written by anaesthetists and obstetricians warning about the surgical risk. A birthday number is a pleasant thing to put in a message; it is not a reason to schedule surgery, and the clinicians documenting this inside Indian hospitals say so more forcefully than we would.\n\n## Using a birthday number in a message without overclaiming\n\nThree things make the reading land in a birthday message.\n\n### 1. Name the number, then name the specific thing\n\n\"You're a 9, and it shows\" is a horoscope. \"You're a 9, which is supposed to mean courage, and you did drive four hours in the rain for me\" is a message. The number earns its place by introducing a memory, not replacing one.\n\n### 2. Keep it to about a line\n\nThe median personal message on our birthday pages is **96 characters** — roughly fifteen words. A four-paragraph numerological profile is not what people actually send, whatever the length of the readings they have been reading.\n\n### 3. Write it assuming today is the day\n\n**91 of our 182 dated pages, 50.0%, were created on the birthday itself**, and 23 of 182 after it had passed. If you are choosing between a researched reading and something finished before the cake comes out, finish it. A [birthday page for a friend](https://subhsandesh.in/birthday-friend) or a [page for parents](https://subhsandesh.in/birthday-parents) takes minutes, and you can browse [every SubhSandesh template](https://subhsandesh.in/templates) if neither fits.\n\nOne honest warning, since we measure it: a quiz is built on 195 of our 198 birthday pages (98.5%) and played on only 28 — **14.4%**. If a nine-question numerology quiz was to be the centrepiece, write the message instead and treat the quiz as a bonus.\n\n## Sources\n\n- Antipov & Pokryshevskaya, \"Impact of superstitious beliefs on the timing of marriage and childbirth\", *Judgment and Decision Making* 15(5), September 2020.\n- Antipov & Pokryshevskaya, \"Are buyers of apartments superstitious?\", *Judgment and Decision Making* 10(6), November 2015.\n- Almond, Chee, Sviatschi & Zhong, \"Auspicious birth dates among Chinese in California\", *Economics & Human Biology* 18, July 2015. Abstract only.\n- Cui, Gavriilidis, Gebka & Kallinterakis, \"Numerological superstitions and market-wide herding\", *International Review of Financial Analysis* 93, 12 March 2024.\n- Kaur, Shukla, Mathur & Mathur, \"Odd hours auspicious caesarean sections\", *International Journal of Community Medicine and Public Health* 6(3), 22 February 2019.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-number-meaning-numerology#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Numerology",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Numerology",
+              "https://www.wikidata.org/wiki/Q140732"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Hindu astrology",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindu_astrology",
+              "https://www.wikidata.org/wiki/Q740253"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Pythagoreanism",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Pythagoreanism",
+              "https://www.wikidata.org/wiki/Q191359"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Chi-squared test",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Chi-squared_test",
+              "https://www.wikidata.org/wiki/Q1071004"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Impact of superstitious beliefs on the timing of marriage and childbirth: Evidence from Denmark",
+            "url": "https://journal.sjdm.org/20/200510/jdm200510.pdf",
+            "datePublished": "2020-09-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Society for Judgment and Decision Making"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Are buyers of apartments superstitious? Evidence from the Russian real estate market",
+            "url": "https://journal.sjdm.org/15/151009/jdm151009.pdf",
+            "datePublished": "2015-11-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Society for Judgment and Decision Making"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Auspicious birth dates among Chinese in California",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26160600/",
+            "datePublished": "2015-07-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Elsevier"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Numerological superstitions and market-wide herding: Evidence from China",
+            "url": "https://centaur.reading.ac.uk/119010/8/1-s2.0-S1057521924001315-main.pdf",
+            "datePublished": "2024-03-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Reading (CentAUR)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Odd hours auspicious caesarean sections",
+            "url": "https://www.ijcmph.com/index.php/ijcmph/article/download/4249/2891",
+            "datePublished": "2019-02-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Medip Academy"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Using a birthday number in a message without overclaiming",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Name the number, then name the specific thing",
+            "description": "The number earns its place by introducing a memory rather than replacing one - the reading, then something the person actually did."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Keep it to about a line",
+            "description": "The median personal message on SubhSandesh birthday pages is 96 characters, roughly fifteen words, so a four-paragraph profile is not what people send."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Write it assuming today is the day",
+            "description": "91 of 182 dated birthday pages (50.0%) were created on the birthday itself and 23 of 182 after it had passed, so finishing beats researching."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday number meaning numerology",
+    "angle": "Wins by being the only post that states the traditional nine mulank readings and then answers Google's own 'which birthday number is lucky / which is rarest' with a real count - 182 recorded birthday dates on SubhSandesh, chi-squared 14.53 on 8 df against a critical 15.51, indistinguishable from chance - with the sample's limits printed in the body rather than the footnotes.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-friend",
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Mulank distribution across the 182 recorded birthday dates: chi-squared 14.53 on 8 df against a critical 15.51 at p=.05, so not significantly different from chance — measured 2026-08-27",
+      "The 56 rows carrying a plausible year of birth (1990–2012) give chi-squared 14.07; the 126 rows where the year is the upcoming occurrence give chi-squared 5.24. Both non-significant — measured 2026-08-27",
+      "Days 1–15 hold only 28.0% of the 182 dates where 48.4% would be expected, and the skew persists in the clean year-of-birth subset at 32.1% (n=56) — measured 2026-08-27",
+      "Only 56 of 182 rows carry a plausible year of birth; in 126 the year is the coming occurrence — measured 2026-08-27",
+      "32 of 182 (17.6%) have a recorded birthday identical to the page's creation date — measured 2026-08-27",
+      "Created on the birthday itself: 91 of 182 — 50.0%; created after the birthday had passed: 23 of 182 — 12.6% — measured 2026-08-27",
+      "Median personal message: 96 characters (n=197) — measured 2026-08-26",
+      "Of the 195 pages that added a quiz, only 28 had it played — 14.4% — measured 2026-08-26",
+      "209 birthday pages in the collection, 182 of them carrying a recorded birthday date — measured 2026-08-27"
+    ],
+    "sources": [
+      {
+        "url": "https://journal.sjdm.org/20/200510/jdm200510.pdf",
+        "stat": "Daily Danish marriage and birth data, 2007-2019: 25% fewer marriages on a non-Friday 13th than on the 14th, 39% fewer on Friday the 13th, but only 2% fewer children born on the 13th than on adjacent days (p<0.001). Full text read.",
+        "publishedDate": "2020-09-01"
+      },
+      {
+        "url": "https://journal.sjdm.org/15/151009/jdm151009.pdf",
+        "stat": "201 observations from the Saint Petersburg primary apartment market collected November 2014 (34 buildings for floors 6-8, 33 for floors 12-14, identical floor plans, floor-independent prices): 54.9% of thirteenth-floor apartments sold against 64.8% on floor 12 and 61.8% on floor 14 (t=4.884, p<0.001); floor 7 highest at 68.6% (t=1.962, p=0.029). Full text read.",
+        "publishedDate": "2015-11-01"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26160600/",
+        "stat": "Chinese-American births in California run 2.3% 'too many' on the 8th, 18th and 28th of the month with no corresponding increase among Whites; repeat caesareans 6% 'too high' on those dates, and the 4th, 14th and 24th are avoided. ABSTRACT ONLY - the Elsevier full text is paywalled and the accepted manuscript returned HTTP 403.",
+        "publishedDate": "2015-07-01"
+      },
+      {
+        "url": "https://centaur.reading.ac.uk/119010/8/1-s2.0-S1057521924001315-main.pdf",
+        "stat": "Shanghai and Shenzhen exchanges 2000-2020, stocks classified lucky (ticker contains 6, 8 or 9 and no 4) or unlucky (contains 4, no lucky digit): no compelling evidence that herding is more pronounced in superstitious stocks than in the rest of the market. Published version, CC BY, read in full from the University of Reading CentAUR repository.",
+        "publishedDate": "2024-03-12"
+      },
+      {
+        "url": "https://www.ijcmph.com/index.php/ijcmph/article/download/4249/2891",
+        "stat": "In a South Indian teaching hospital 44 of 1,762 caesarean deliveries (2.5%) were performed on maternal request, and 20% of those requests cited astrological concerns; 69% of obstetricians have been found to accede to patient requests for elective caesarean section. Full text read.",
+        "publishedDate": "2019-02-22"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "The section 'What each birthday number is said to mean' is a nine-item list of digit meanings with a ruling planet each, which is exactly the structure worldnumerology, numerology.com, numerologist.com and feliciabender all use. It is table stakes for this query - a reader who came for the meaning of their number needs it - and the genre offers no other shape for it. The wording, the disagreement between published lists and the Ketu/Neptune note are ours, and no other section of the post has a counterpart on any ranking page, but this one does mirror them. Structural: it closes only by dropping the content the searcher came for."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences. page-structure.md prescribes an answer block of roughly 150 words carrying the direct answer plus two to four numbers with at least two of them first-party, and that does not fit in three sentences without dropping either the definition or the chi-squared result. Every other paragraph in the body is two or three sentences. Fixable only by trading away the first-150-words requirement, so it was left as it stands and flagged."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to cite this: Google's own People Also Ask on this query asks which birthday number is lucky and which is rarest, and none of the nine ranking pages answers either with a count. This one does, with a test statistic, a sample size, two confirming subsets and a printed refusal to name a rarest number. That combination - the traditional reading a searcher wants, plus a first-party measurement that neither endorses nor debunks it - does not exist elsewhere on the SERP. Two real weaknesses. First, the nine meanings themselves carry no third-party citation, because every page that publishes them is a competitor and this batch forbids citing one; they are described as the tradition states them, which is honest but unsourced. Second, no open-access empirical study of Indian numerology belief could be found (search terms are listed in the research brief), so the India source is about auspicious birth timing via astrologers rather than mulank specifically. Separately, the nine competitor page bodies were not re-fetched: the pre-harvested SERP carries domains and titles but no URLs, five constructed URLs 404'd, and the session's search budget was exhausted, so the gap analysis rests on the orchestrator's reading of those pages rather than a fresh heading audit. Domain authority here is far below worldnumerology and numerology.com and this is an entrenched commercial niche, so nothing about ranking timelines should be inferred from any of the above."
+    },
+    "generatedAt": "2026-08-27T14:36:36.592Z"
+  }
+}

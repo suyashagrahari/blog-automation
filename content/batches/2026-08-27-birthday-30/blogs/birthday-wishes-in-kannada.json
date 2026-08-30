@@ -1,0 +1,352 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Wishes in Kannada, Ranked by How Cleanly They Render",
+    "slug": "birthday-wishes-in-kannada",
+    "excerpt": "Eight birthday wishes in Kannada ranked by ottakshara load, with measured character and akshara counts, priced against SubhSandesh's 96-character median personal message and a 0-day median lead time.",
+    "metaTitle": "Birthday Wishes in Kannada — 8 Ottakshara-Counted Lines",
+    "metaDescription": "Birthday wishes in Kannada, ranked by ottakshara load: 8 lines with character and akshara counts, priced against a measured 96-character median message.",
+    "keywords": "birthday wishes in kannada, happy birthday in kannada, kannada birthday message, huttuhabbada shubhashayagalu, ottakshara",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-wishes-in-kannada",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "kannada",
+      "wishes",
+      "script",
+      "typography"
+    ],
+    "keyTakeaways": [
+      "Half of SubhSandesh's dated birthday pages — 91 of 182, 50.0% — are made on the birthday itself, median lead time 0 days, so pick a Kannada line you can type now rather than one you have to hunt for.",
+      "ಶುಭಾಶಯಗಳು is the safest line on any device: 9 characters, 6 visible aksharas, zero ottaksharas, nothing for a font to stack.",
+      "Romanising costs more, not less — the same eight wishes are 170 characters in Kannada script against 216 in Roman, 27.1% longer, which is 11.9 Kannada words against 9.3 Roman words inside a 96-character message.",
+      "Kannada is not longer than Hindi, it is denser: both spend 1.91 characters per visible akshara on the same greeting, but Kannada graphs score 12.55 on GraphCom's perimetric complexity against Devanagari's 9.41.",
+      "If the ottakshara fails to render, the eight lines expand from 86 rendered slots to 97 — a 12.8% inflation — and each extra slot shows a bare virama that reads as a spelling error."
+    ],
+    "faqs": [
+      {
+        "question": "What is happy birthday in Kannada?",
+        "answer": "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು (huttuhabbada shubhashayagalu) is the everyday form, literally \"birthday greetings\". It is 21 characters, 11 visible aksharas and two ottaksharas. ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು (janmadinada shubhashayagalu) is the more formal Sanskritic version and carries one conjunct instead of two."
+      },
+      {
+        "question": "What is the shortest birthday wish in Kannada?",
+        "answer": "ಶುಭಾಶಯಗಳು (shubhashayagalu, \"greetings\") at nine characters and six visible aksharas, with no conjunct anywhere in it. Because there is nothing for a font to stack, it renders identically on old Android phones, cheap TVs and printed cards. It is under a tenth of the 96-character median personal message we measure on birthday pages, so it leaves room for a real sentence underneath."
+      },
+      {
+        "question": "Should I write the birthday wish in Kannada script or English letters?",
+        "answer": "Use the script if the recipient reads it. Romanising is usually described as the easier option, but on the eight wishes on this page it is the longer one: 170 characters in Kannada script against 216 in Roman, 27.1% more. In a 96-character message that is 11.9 Kannada words against 9.3 Roman words. Romanise only when the person speaks Kannada but does not read it."
+      },
+      {
+        "question": "What is an ottakshara in Kannada?",
+        "answer": "An ottakshara is the reduced, subscript form a consonant takes when it follows another consonant with no vowel between them. Kannada joins it beneath or to the lower right of the first consonant, which is why Kannada text stacks downward. Across the eight wishes on this page, 12.8 of every 100 aksharas is a stack, and 361 of the 565 glyphs in Apple's Kannada MN font exist only to build forms like these."
+      },
+      {
+        "question": "Why does my Kannada birthday message show strange marks or broken letters?",
+        "answer": "Almost always the conjunct failed. If the font or renderer cannot form the ottakshara, the cluster decomposes into its parts plus a visible virama mark. Measured across the eight wishes here, that turns 86 rendered slots into 97, a 12.8% inflation, and each of the 11 extra slots looks like a spelling mistake rather than a font problem. Lines with zero conjuncts cannot break this way."
+      },
+      {
+        "question": "Is Kannada harder to read on a small phone screen than Hindi?",
+        "answer": "Not longer, but denser. For the same greeting Kannada and Devanagari both spend 1.91 characters per visible akshara, so character count is a tie. Where they differ is per glyph: GraphCom scores Kannada at a perimetric complexity of 12.55 against Devanagari's 9.41, 33.4% higher, with more disconnected components. That density is what suffers at small text sizes."
+      },
+      {
+        "question": "Which Kannada birthday wish is right for an elder or a boss?",
+        "answer": "ನಿಮಗೆ ಶುಭವಾಗಲಿ (nimage shubhavagali) or ಹುಟ್ಟುಹಬ್ಬದ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು (huttuhabbada hardika shubhashayagalu). Both use the plural-respectful nimage rather than the familiar form. The first has zero conjuncts and 14 characters; the second is warmer at 29 characters but asks the device to build three ottaksharas."
+      },
+      {
+        "question": "Which Kannada wish is safe to send to a child?",
+        "answer": "One with no conjuncts. Usha and colleagues tested 315 Kannada-medium schoolchildren and found akshara identification accuracy only plateaued at Grade VI, with consonant clusters the last type mastered. For a reader under about eleven, ಶುಭಾಶಯಗಳು, ನಿಮಗೆ ಶುಭವಾಗಲಿ and ನೂರು ಕಾಲ ಬಾಳಿ are the three that ask nothing of them."
+      },
+      {
+        "question": "What is the difference between huttuhabba and janmadina?",
+        "answer": "Both mean birthday. Huttuhabba is the everyday Kannada compound and is what people say; janmadina is the Sanskrit form and is what gets printed. Kittel glosses ಹುಟ್ಟು as \"to be born\" and ಹಬ್ಬ as \"a festival\", though he marks ಹಬ್ಬ itself a tadbhava of Sanskrit ಪರ್ವ. In script terms huttuhabbada carries two ottaksharas against janmadinada's one, so the everyday word is the harder one to render."
+      },
+      {
+        "question": "How long should a Kannada birthday message be?",
+        "answer": "About two lines. Across 197 SubhSandesh birthday pages the median personal message is 96 characters and 106 of those 197 are under 100. In Kannada script that is roughly 48 visible aksharas or 12 words, which is one greeting plus one specific sentence. Anything longer is unusual rather than better."
+      }
+    ],
+    "coverImageQuery": "kannada script handwritten birthday note phone",
+    "coverImagePrompt": "A close, warm photograph of a hand holding a phone at a small family birthday table, the message box on screen showing a short line of Kannada script. Soft evening light, a slice of cake and a single lit candle blurred in the background. Shallow depth of field with clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Wishes in Kannada, Ranked by How Cleanly They Render\n\nIf you want birthday wishes in Kannada, start with the shortest one that carries no conjunct: **ಶುಭಾಶಯಗಳು** (*shubhashayagalu*, \"greetings\") is nine characters, six visible aksharas, zero ottaksharas, and it renders on anything. That matters more than it sounds, because of when people actually write. Across 182 SubhSandesh birthday pages that record a birthday date, the median lead time is **0 days** — 91 of them, exactly 50.0%, were made on the birthday itself. And across 197 pages with a personal message, the median message is **96 characters**, with 106 of 197 under a hundred. You are not browsing 500 lines. You are typing two lines on a phone, today. So this page ranks eight Kannada wishes by the thing that decides whether they survive that trip: how many stacked conjuncts they ask your keyboard and the recipient's font to build.\n\n## What a birthday wish in Kannada costs to type\n\nKannada is an abugida: a consonant letter carries an inherent vowel you override when you want another. When two consonants meet with no vowel between them, the script must say so. Devanagari mostly shaves the vertical bar off the first consonant — Richard Ishida puts that at 60% of Devanagari conjuncts, producing a half-form.\n\nKannada does something different. Ishida records that in Kannada \"most combinations are formed by reducing non-initial consonant glyphs in a cluster to a simplified form, joined beneath and/or to the right of the initial consonant\". That subscript form is the **ottakshara**, and it hangs below the line. Vowel signs then attach to the *first* consonant of the cluster, so ಕ್ರಿ (*kri*) puts the *i* mark over the *k* while the *r* sits underneath.\n\nThis is not a rare edge case, and fonts show it. Apple's Kannada MN, the face an iPhone reaches for, carries **565 glyphs for 88 encoded Kannada characters**, and **361 of those 565 — 63.9% — map to no codepoint at all**. They exist only for the shaping engine to assemble into ottaksharas and vowel-sign variants. Across the eight wishes below, 12.8 of every 100 aksharas is a stack.\n\n## Eight birthday wishes in Kannada, ordered by ottakshara load\n\nEach line gives the Kannada, a Roman transliteration, the English sense, and three counts I measured on the string: characters typed, aksharas seen, ottaksharas.\n\n### 1. ಶುಭಾಶಯಗಳು\n\n*Shubhashayagalu* — \"greetings\". Nine characters, six aksharas, **zero ottaksharas**. The bare noun, no addressee, no verb. Send it as a photo caption or the first line above a longer message. At under a tenth of the 96-character median, it leaves room to say something specific afterwards.\n\n### 2. ನಿಮಗೆ ಶುಭವಾಗಲಿ\n\n*Nimage shubhavagali* — \"may good come to you\". Fourteen characters, eight aksharas, **zero ottaksharas**. The *nimage* form is the plural-respectful \"to you\", so this is the safe register for an elder, a boss or an in-law. It does not name the birthday, so it works better as a second line.\n\n### 3. ನೂರು ಕಾಲ ಬಾಳಿ\n\n*Nooru kaala baali* — \"live a hundred ages\". Thirteen characters, six aksharas, **zero ottaksharas**. A long-life blessing rather than a birthday greeting, and the most compact respectful line here. Useful for a grandparent.\n\n### 4. ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು\n\n*Janmadinada shubhashayagalu* — \"birthday greetings\", the Sanskritic register. Eighteen characters, eleven aksharas, **one ottakshara** (ನ್ಮ in *janma*). This is the formal written form you would see on a printed card or a school noticeboard.\n\n### 5. ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು\n\n*Huttuhabbada shubhashayagalu* — \"birthday greetings\" in everyday Kannada. Twenty-one characters, eleven aksharas, **two ottaksharas** (ಟ್ಟ and ಬ್ಬ, both doubled consonants). Kittel glosses ಹುಟ್ಟು as \"to be born\" and ಹಬ್ಬ as \"a festival\" — though he marks ಹಬ್ಬ a *tadbhava* of Sanskrit ಪರ್ವ, so even the everyday word is not purely Dravidian. Two stacks in a five-akshara word is the highest density here.\n\n### 6. ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಸಂತೋಷ ತುಂಬಿರಲಿ\n\n*Nimma jeevanadalli santosha tumbirali* — \"may your life be filled with happiness\". Thirty characters, fourteen aksharas, **two ottaksharas** (ಮ್ಮ, ಲ್ಲ). At 31% of the 96-character median this is a full message, not a greeting, and the two conjuncts are both geminates, which are the least likely to break.\n\n### 7. ಹುಟ್ಟುಹಬ್ಬದ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು\n\n*Huttuhabbada hardika shubhashayagalu* — \"heartfelt birthday greetings\". Twenty-nine characters, fourteen aksharas, **three ottaksharas**. The third is ರ್ದ, where the *r* becomes a mark above and right of the cluster rather than a subscript — the one that behaves like a Devanagari repha.\n\n### 8. ದೇವರು ನಿಮಗೆ ಆಯುರಾರೋಗ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ\n\n*Devaru nimage ayurarogya praptiyagali* — \"may God grant you long life and health\". Thirty-six characters, sixteen aksharas, **three ottaksharas** (ಗ್ಯ, ಪ್ರ, ಪ್ತ). The most formal and the most fragile: 38% of the median message length, three subscripts, one inside a Sanskrit borrowing keyboards rarely predict.\n\n## Five of those lines, priced against a real message\n\nEvery column is measured; the last against SubhSandesh's own median.\n\n| Wish | Ottaksharas | Aksharas you see | Slots if the conjuncts fail | Characters | Share of the 96-character median |\n|---|---|---|---|---|---|\n| ಶುಭಾಶಯಗಳು | 0 | 6 | 6 | 9 | 9% |\n| ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು | 1 | 11 | 12 | 18 | 19% |\n| ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು | 2 | 11 | 13 | 21 | 22% |\n| ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಸಂತೋಷ ತುಂಬಿರಲಿ | 2 | 14 | 16 | 30 | 31% |\n| ದೇವರು ನಿಮಗೆ ಆಯುರಾರೋಗ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ | 3 | 16 | 19 | 36 | 38% |\n\nThe fourth column is the one nobody publishes. If a font or renderer cannot build the ottakshara, the cluster does not disappear — it decomposes. Across all eight lines the set expands from **86 rendered slots to 97, a 12.8% inflation**, and each of those 11 extra slots shows a bare virama a Kannada reader reads as a spelling error, not a font problem.\n\nIf you want the wish on a page with a photo and a song rather than in a chat thread, a [birthday page for parents](https://subhsandesh.in/birthday-parents) puts the line in a font you have already checked — and 48.6% of birthday-page views happen on a phone anyway.\n\n## Kannada script or Roman letters, measured\n\nThe usual advice is to romanise when in doubt. On these eight lines that advice is expensive. The Kannada set is **170 characters**; the Roman transliterations of the identical eight lines are **216 — 27.1% longer**. Against the measured 96-character median that is **11.9 Kannada words** against **9.3 Roman words** in the same box.\n\nSo writing in the script buys more room, not less. It costs 2.24 times the UTF-8 bytes, 484 against 216, which affects a database column and nothing either person sees.\n\nThere is one honest reason to romanise: the recipient reads Kannada aloud but not on paper. Sonali Nag notes that Indic alphasyllabaries have thousands of constructible aksharas, hundreds of them encountered in print, and that \"symbol learning continues well into middle school and beyond\". Someone raised outside Karnataka who speaks Kannada at home may genuinely find *Huttuhabbada shubhashayagalu* easier than ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು. That is a reader fact, not a rendering fact.\n\n## Against Hindi, the cost is depth rather than length\n\nThis is the part that surprised me: I expected Kannada to be the longer script. It is not.\n\nFor the same greeting, Kannada and Devanagari spend the same characters per visible unit. ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು is 21 characters over 11 aksharas — 1.91 each. जन्मदिन की शुभकामनाएँ is 21 characters over 11 aksharas — also 1.91. On the longer pair it is 2.06 against 2.00. Character count is a tie.\n\nThe difference is per-glyph. GraphCom, which measured 21,550 graphs across 131 written languages, scores Kannada in the Tunga font at a perimetric complexity of **12.55** against Devanagari's **9.41** and Hindi's **9.25** — Kannada graphs are **33.4% more complex** than Devanagari ones by that measure, with 1.42 disconnected components against 1.03.\n\nSo a Kannada wish is not longer than a Hindi one. It is denser, it stacks downward, and it loses more when rendering is imperfect or text is small.\n\n## Kannada readers learn the conjunct last\n\nThe conjunct is also the last thing a Kannada reader masters, which is worth knowing before you send a three-stack blessing to a nine-year-old.\n\nUsha and colleagues tested **315 Kannada-medium schoolchildren** across Grades I to VII on 67 aksharas at four levels of complexity — vowels, consonant plus inherent vowel, consonant plus vowel diacritic, and consonant clusters. Identification accuracy improved from Grade I to Grade V and only **plateaued at Grade VI**; naming speed plateaued two grades earlier, at Grade IV. Their paper also reports Nag's earlier study of 374 Kannada-medium children: consonants with inherent vowels were mastered by the end of Grade I, while **consonant clusters were only partially mastered** at follow-up.\n\nPractically: for a child under about eleven, prefer lines 1 to 3. For an adult the conjuncts are a rendering and typing problem, not a comprehension one.\n\n## When a Kannada birthday wish is the wrong choice\n\n**When you cannot type it and will not check it.** A romanised line you wrote yourself beats a Kannada line pasted from a listicle you cannot read. 50.5% of birthday pages — 100 of 198 — are finished inside the hour, on a median of 0.9 hours from first save to last edit. That is not time to proofread a script you cannot read.\n\n**When the recipient reads English faster.** Plenty of Kannada speakers in Bengaluru read English more fluently. The wish is for them, not for you.\n\n**When you are relying on the extras to do the work.** On SubhSandesh's own birthday pages a quiz was built on 195 of 198 pages and played on only 28 of them — **14.4%**. The written line is the part that gets read, and 4 pages (2.0%) were never opened at all.\n\nIf the line is what matters, put it where it will be seen: a [birthday page for a best friend](https://subhsandesh.in/birthday-bestfriend) or any of the [SubhSandesh templates](https://subhsandesh.in/templates) holds the Kannada text, a photo and a song behind one link.\n\n## Sources\n\n- Richard Ishida, [An Introduction to Indic Scripts](https://r12a.github.io/scripts/indic-overview/index.html) — Kannada conjunct formation. Living document, last updated 20 October 2022.\n- Ferdinand Kittel, [Kittel's Kannada-English Dictionary](https://dsal.uchicago.edu/dictionaries/kittel/), revised edition, University of Madras, 1968–1971, via the University of Chicago's Digital Dictionaries of South Asia — glosses for ಹುಟ್ಟು, ಹಬ್ಬ, ಜನ್ಮ, ಶುಭ and ಆಶಯ.\n- M. N. K. Usha et al., [Kannada akshara knowledge in primary school children](https://f1000research.com/articles/9-978/v1), F1000Research, 12 August 2020.\n- Li-Yun Chang, Yen-Chi Chen and Charles A. Perfetti, [GraphCom](https://link.springer.com/article/10.3758/s13428-017-0881-y), Behavior Research Methods, 19 April 2017.\n- Sonali Nag, [Alphabetism and the science of reading](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00866/full), Frontiers in Psychology, 12 August 2014.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-wishes-in-kannada#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Kannada script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kannada_script",
+              "https://www.wikidata.org/wiki/Q839666"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Kannada",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kannada",
+              "https://www.wikidata.org/wiki/Q33673"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Place",
+            "name": "Karnataka",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Karnataka",
+              "https://www.wikidata.org/wiki/Q1185"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Abugida",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Abugida",
+              "https://www.wikidata.org/wiki/Q335806"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "An Introduction to Indic Scripts",
+            "url": "https://r12a.github.io/scripts/indic-overview/index.html",
+            "dateModified": "2022-10-20",
+            "author": {
+              "@type": "Person",
+              "name": "Richard Ishida"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Kittel's Kannada-English Dictionary, revised and enlarged edition",
+            "url": "https://dsal.uchicago.edu/dictionaries/kittel/",
+            "datePublished": "1968",
+            "author": {
+              "@type": "Person",
+              "name": "Ferdinand Kittel"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Madras"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kannada akshara knowledge in primary school children: measurement of accuracy and reaction time using a cross-sectional study design",
+            "url": "https://f1000research.com/articles/9-978/v1",
+            "datePublished": "2020-08-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "F1000Research"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "GraphCom: A multidimensional measure of graphic complexity applied to 131 written languages",
+            "url": "https://link.springer.com/article/10.3758/s13428-017-0881-y",
+            "datePublished": "2017-04-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Behavior Research Methods"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Alphabetism and the science of reading: from the perspective of the akshara languages",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00866/full",
+            "datePublished": "2014-08-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Psychology"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight birthday wishes in Kannada, ordered by ottakshara load",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "ಶುಭಾಶಯಗಳು",
+            "description": "Shubhashayagalu, \"greetings\". 9 characters, 6 aksharas, 0 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "ನಿಮಗೆ ಶುಭವಾಗಲಿ",
+            "description": "Nimage shubhavagali, \"may good come to you\". 14 characters, 8 aksharas, 0 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ನೂರು ಕಾಲ ಬಾಳಿ",
+            "description": "Nooru kaala baali, \"live a hundred ages\". 13 characters, 6 aksharas, 0 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು",
+            "description": "Janmadinada shubhashayagalu, the Sanskritic register. 18 characters, 11 aksharas, 1 ottakshara."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+            "description": "Huttuhabbada shubhashayagalu, native Kannada vocabulary. 21 characters, 11 aksharas, 2 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "ನಿಮ್ಮ ಜೀವನದಲ್ಲಿ ಸಂತೋಷ ತುಂಬಿರಲಿ",
+            "description": "Nimma jeevanadalli santosha tumbirali, \"may your life be filled with happiness\". 30 characters, 14 aksharas, 2 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "ಹುಟ್ಟುಹಬ್ಬದ ಹಾರ್ದಿಕ ಶುಭಾಶಯಗಳು",
+            "description": "Huttuhabbada hardika shubhashayagalu, \"heartfelt birthday greetings\". 29 characters, 14 aksharas, 3 ottaksharas."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "ದೇವರು ನಿಮಗೆ ಆಯುರಾರೋಗ್ಯ ಪ್ರಾಪ್ತಿಯಾಗಲಿ",
+            "description": "Devaru nimage ayurarogya praptiyagali, \"may God grant you long life and health\". 36 characters, 16 aksharas, 3 ottaksharas."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday wishes in kannada",
+    "angle": "Wins by being the only post that ranks its Kannada birthday wishes by ottakshara load — measuring the conjuncts, visible aksharas and font-fallback cost of each line — and prices every one against SubhSandesh's measured 96-character median personal message and 0-day median lead time, where all six ranking results treat \"in Kannada\" as a translation job and none counts anything.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "https://subhsandesh.in/birthday-parents",
+      "https://subhsandesh.in/birthday-bestfriend",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "Median lead time from page creation to the recorded birthday: 0 days (n=182); 91 of 182 pages — 50.0% — were created on the birthday itself — birthdaygfpages probe, measured 2026-08-27",
+      "Median personal message on a birthday page: 96 characters (n=197); 106 of 197 are under 100 characters — birthdaygfpages probe, measured 2026-08-26",
+      "50.5% of birthday pages (100 of 198) are finished inside the hour; median gap from first save to last edit 0.9 hours — birthdaygfpages probe, measured 2026-08-26",
+      "Birthday page views split 1,081 mobile / 1,121 desktop / 22 tablet of 2,224 — 48.6% mobile, against 51.0% site-wide — birthdaygfpages probe, measured 2026-08-26",
+      "Of the 195 birthday pages that added a quiz, only 28 had it played — 14.4%; 4 pages (2.0%) were never opened at all — birthdaygfpages probe, measured 2026-08-26"
+    ],
+    "sources": [
+      {
+        "url": "https://r12a.github.io/scripts/indic-overview/index.html",
+        "stat": "\"In Kannada most combinations are formed by reducing non-initial consonant glyphs in a cluster to a simplified form, joined beneath and/or to the right of the initial consonant\" (the ottakshara), against \"for 60% of Devanagari conjuncts the consonants that lose the vowel typically lose their characteristic vertical bar\" (half-forms). Kannada vowel signs attach to the first consonant of a cluster (ಕ್ರಿ kri, stored ಕ + ರ + ಿ). Living document with no publication date; the page states \"Updated 20 October, 2022\", carried as dateModified. Read in full.",
+        "publishedDate": "2022-10-20"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/dictionaries/kittel/",
+        "stat": "Headword glosses verified against the live dictionary through its own query interface: ಹುಟ್ಟು huṭṭu (p. 1743) \"to arise, to come into existence, to be born\"; ಹಬ್ಬ habba (p. 1707) \"Tbh. of ಪರ್ವ. a festival, a feast, a holiday\", i.e. marked a tadbhava of Sanskrit parva rather than pure Dravidian; ಜನ್ಮ janma (p. 673) \"birth, production, origin; existence, life, life-time\"; ಶುಭ śubha (p. 1537) \"auspicious, lucky, fortunate, good, happy\"; ಆಶಯ āśaya (p. 176) \"wish or will\". Sources the native-versus-Sanskritic register distinction the post draws between huttuhabba and janmadina, and the literal sense of śubhāśaya. Freely readable in full; DSAL carries a University of Madras copyright notice, so only short headword glosses are quoted and no passage is reproduced.",
+        "publishedDate": "1968"
+      },
+      {
+        "url": "https://f1000research.com/articles/9-978/v1",
+        "stat": "Peer review: 2 approved. 315 typically developing Kannada-medium schoolchildren, Grades I to VII, tested on 67 aksharas at four complexity levels including consonant clusters: identification accuracy improved significantly from Grade I to Grade V and plateaued at Grade VI, while reaction time plateaued at Grade IV. The paper reports Nag (2007), n=374 Kannada-medium children: consonants with inherent vowels mastered by the end of Grade I, consonant clusters only partially mastered, around 80% accuracy at second testing. Full PDF read.",
+        "publishedDate": "2020-08-12"
+      },
+      {
+        "url": "https://link.springer.com/article/10.3758/s13428-017-0881-y",
+        "stat": "Table 10, 21,550 graphs across 131 written languages. Kannada (Tunga font): 50 graphs, perimetric complexity 12.55, disconnected components 1.42, connected points 2.40, simple features 3.84. Devanagari (Sanskrit 2003): 62 graphs, perimetric complexity 9.41, disconnected components 1.03. Hindi: 66 graphs, 9.25. Telugu 11.41, Tamil 14.58, Malayalam 14.13, Bengali 14.60. Full PDF read.",
+        "publishedDate": "2017-04-19"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00866/full",
+        "stat": "\"In the Indic alphasyllabaries, the number of akshara that can be hypothetically constructed also run into thousands\"; the number \"in use and hence encountered in print still runs into hundreds\"; \"a corollary of an extensive symbol set is that symbol learning continues well into middle school and beyond.\" Full PDF read.",
+        "publishedDate": "2014-08-12"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "STRUCTURAL — the language blocker. The differentiating claim in this post IS the script content: the eight Kannada lines, their Roman transliterations, the register guidance (nimage vs the familiar form, huttuhabba vs janmadina) and every count derived from those strings. All eight strings were machine-composed and no agent can verify Kannada idiom, spelling or ottakshara correctness, so the claim is not established. No citation can close this: a source can attest that Kannada forms conjuncts beneath the line, but no source can attest that these particular sentences are idiomatic Kannada. Closing condition: sign-off from a native Kannada reader literate in the script, on all eight wishes, the Kannada inside the FAQs and the ItemList, and the transliterations — after which every character, akshara and ottakshara count must be recomputed from whatever they correct. There is no confirmation that such a reader is available for this batch, and eleven posts here already wait on one. Do not publish before that sign-off and do not close this by adding another citation."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Not verified. The SERP was supplied pre-harvested in ASSIGNMENTS-WAVE3.json and the session's WebSearch budget is exhausted at 200/200, so none of the six ranking pages was fetched or read. The judgement that no section mirrors them rests on result titles and site type (two gifting retailers, a school-notes site, Pinterest, a Kannada listicle and a Hindi status site) rather than on rendered pages. The risk is low — no wish listicle is organised by conjunct load — but it is an assertion, not a check. Closes when igp.com, kannadadeevige.in, prestogifts.com, dailyinspirationkannada.com and tophindistatus.com can be fetched and their heading structures compared."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs seven sentences. page-structure.md requires the direct answer, two to four first-party numbers and a scope sentence to sit in one liftable block, so splitting it would break the block an answer engine is meant to lift whole. Two further paragraphs — the wish entries for lines 1 and 2 — run four short sentences because the Kannada, the transliteration, the gloss and the counts are punctuated separately. Flagged rather than fixed; every other paragraph in the body is two or three sentences."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Three of the five sources are Kannada-only and could not move: Kittel's Kannada-English Dictionary, the F1000Research akshara study of 315 Kannada-medium children, and the Ishida passage on Kannada conjunct formation. Two could. GraphCom's Table 10 covers 131 written languages, so birthday-wishes-in-hindi or -tamil could cite the same table with different rows, and Nag's Frontiers commentary is about akshara orthographies in general rather than Kannada alone. Both were kept because the rows and sentences used here are the Kannada ones, and because no Kannada-only substitute was reachable: OpenAlex was searched on seven term sets and DOAJ on four (all recorded in the research brief), DOAJ returns a total of one or two hits for every Kannada-script query, ora.ox.ac.uk returns HTTP 403, direct.mit.edu returns HTTP 403 on the full text, and etd.iisc.ac.in and shodhganga.inflibnet.ac.in both timed out. Closes if a Kannada-only script-complexity or on-screen-reading study surfaces in an open, in-cap venue."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this over the six ranking pages because it is the only one carrying measurements. Nothing in that SERP counts anything: two are gifting retailers, one is a school-notes site, one is Pinterest and one is a Hindi status site cross-serving Kannada. This post publishes the ottakshara load, visible akshara count and font-fallback cost of every line it prints, the finding that Kannada and Devanagari cost the same per akshara (1.91 each) while Kannada graphs are 33.4% more perimetrically complex, and the counter-intuitive result that romanising the same eight wishes costs 27.1% more characters, not fewer. Four caveats, in order of weight. First and decisive: the Kannada is machine-composed and unverified, so the very content that differentiates the post is the content nobody has checked — it must not publish before a native Kannada reader signs off. Second, the SubhSandesh probe carries no language field, so the 96-character median, the 0-day lead time and the 48.6% mobile split describe birthday pages in general, not Kannada ones; that is a real limitation of the data and not a fixable one until the collection records a language per page. Third, n=198 birthday pages from 2026-04 onward is small, and the 182-page lead-time figure smaller still. Fourth, subhsandesh.in has far less authority than igp.com, so ranking would take months regardless of how good the page is. My own measurement also has limits worth stating: n=8 lines, and the akshara segmenter is my implementation of Indic grapheme clustering rather than ICU or HarfBuzz, so the 12.8% fallback inflation models a renderer applying no conjunct substitution at all rather than any specific real font. The Ishida Indic-scripts overview is a living document: it states 'Updated 20 October, 2022' and is carried as dateModified rather than datePublished. It was used because r12a.github.io has no Kannada orthography-notes page — seven URL spellings 404 and Ishida's own linkdb.js records knda orthoChart as false. Source note: the arXiv Kannudi preprint originally cited for a corpus conjunct rate was removed because arxiv.org is on BRIEF.md's banned-source list and now sits in six posts corpus-wide. Its claim is not replaced by another citation — it is replaced by an own measurement of the fonts an Apple device actually renders Kannada with (Kannada MN: 565 glyphs for 88 encoded Kannada characters, 361 of them unreachable by any codepoint), which is stronger for this post's spine because it is first-party. Kittel's Kannada-English Dictionary took the freed slot and does work the old source did not: it sources the native-versus-Sanskritic register claim, and it corrected the draft, which had called huttuhabba purely native where Kittel marks habba a tadbhava of Sanskrit parva."
+    },
+    "generatedAt": "2026-08-27T14:04:42.512Z"
+  }
+}
