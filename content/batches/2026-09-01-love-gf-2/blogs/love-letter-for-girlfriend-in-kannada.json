@@ -1,0 +1,338 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Love Letter for Girlfriend in Kannada, in Both Scripts",
+    "slug": "love-letter-for-girlfriend-in-kannada",
+    "excerpt": "Write it in spoken Kannada, address her as ನೀನು, and send it where the script renders. Six complete letters in Kannada script, Roman transliteration and English, the three-way ನೀನು / ನೀವು / ತಾವು choice, and a table on which script to send.",
+    "metaTitle": "Love Letter for Girlfriend in Kannada: 6 in Spoken Register",
+    "metaDescription": "A love letter for girlfriend in Kannada needs spoken Kannada, not written Kannada: 6 complete letters in script, Roman and English, plus the ninu-vs-nivu call.",
+    "keywords": "love letter for girlfriend in kannada, kannada love letter, kannada love letter for girlfriend, romanised kannada love letter, kannada prema patra, ninu or nivu kannada",
+    "canonicalURL": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-kannada",
+    "ogType": "article",
+    "tags": [
+      "kannada",
+      "love letter",
+      "girlfriend",
+      "language",
+      "romance"
+    ],
+    "keyTakeaways": [
+      "Address her as ನೀನು (nīnu). Kannada carries three second-person forms — ನೀನು, ನೀವು and ತಾವು — and ನೀವು in a love letter reads as distance.",
+      "Write in spoken Kannada, not ಗ್ರಂಥಿಕ written Kannada: CIIL's Kannada profile records a sharp distinction between the two, and names four major regional varieties.",
+      "Romanised Kannada is a real option, not a compromise — the KanCMD corpus of 7,671 Kannada–English comments is built on exactly that writing.",
+      "Send Kannada script on a page rather than a chat app: 50.3% of the 40,864 views recorded here, 20,561 of them, are on phones.",
+      "The \"I love you\" page is our most-created template at 975 pages, 29.2% of 3,335, and its median first-save-to-last-edit gap is 6.9 hours."
+    ],
+    "faqs": [
+      {
+        "question": "How do I write a love letter for my girlfriend in Kannada if I can't type the Kannada script?",
+        "answer": "Write it in romanised Kannada — type the Kannada words with English letters, the way you already text. It is a legitimate choice, not a compromise: the KanCMD research corpus of 7,671 real Kannada–English comments is built on exactly that writing. If you want the script, type Roman into Google Input Tools and let it convert."
+      },
+      {
+        "question": "Should I use ನೀನು or ನೀವು in a love letter?",
+        "answer": "ನೀನು (nīnu), always, for a girlfriend. ನೀವು (nīvu) is the honorific and plural form, so in a love letter it reads as distance or as a joke about distance. The only time to think twice is a first letter to someone you still address as ನೀವು in person."
+      },
+      {
+        "question": "What is ತಾವು and would I ever use it with my girlfriend?",
+        "answer": "ತಾವು (tāvu) is Kannada's ultra-honorific second person, a level above ನೀವು. A February 2026 comparative study of Kannada and Telugu pronouns lists all three forms. You would use it writing to a stranger's father, and in a love letter it is comic."
+      },
+      {
+        "question": "Is formal written Kannada wrong in a love letter?",
+        "answer": "Effectively, yes. ಗ್ರಂಥಿಕ (granthika) written Kannada is the register of exam answers and newspapers, and CIIL's Kannada language-variation profile records a sharp distinction between it and the spoken form. A love letter in it reads like a school essay about love."
+      },
+      {
+        "question": "Will Kannada script show up properly on WhatsApp and Instagram?",
+        "answer": "Yes, in WhatsApp messages and Instagram captions. Kannada is a Unicode script and current Android and iPhone handsets ship a Kannada font, so the practical risk is your keyboard rather than her screen. Send yourself the letter once before you send it to her."
+      },
+      {
+        "question": "How long should a Kannada love letter be?",
+        "answer": "Four to eight sentences. Every letter in this post is shorter than a page and that is deliberate — on our \"I love you\" pages the median gap between first save and last edit is 6.9 hours across 975 pages, which is people coming back to cut, not to add."
+      },
+      {
+        "question": "Can I mix English words into a Kannada love letter?",
+        "answer": "Yes, and you almost certainly will. The CoLI-Kenglish dataset tags Kannada YouTube comments word by word into categories that include \"Mixed-language\", because sentence-internal mixing is the norm. \"I love you\", \"sorry\" and \"call\" sitting inside Kannada sentences is how people actually speak."
+      },
+      {
+        "question": "What should I call her in Kannada?",
+        "answer": "ಚಿನ್ನ (chinna, literally gold) and ಚಿನ್ನು (chinnu) are the common warm ones, and ಮರಿ (mari) works if she already calls you that. Use whatever she uses for you — an unfamiliar endearment reads as borrowed rather than felt."
+      },
+      {
+        "question": "Should I use Google Translate for a Kannada love letter?",
+        "answer": "No. Machine output tends to come back in formal written forms exactly where spoken ones belong, which is the single easiest tell there is. Use a translation tool for individual words if you must, then say the sentence out loud before you keep it."
+      },
+      {
+        "question": "Where should I send a Kannada love letter — WhatsApp or a page?",
+        "answer": "A page, if you are sending Kannada script and want it to look like a letter rather than a chat bubble. 50.3% of the 40,864 views we have recorded, 20,561 of them, are on phones, so it has to survive a small screen either way."
+      },
+      {
+        "question": "What do I write in a Kannada letter after a fight?",
+        "answer": "The apology and nothing else. Name the specific thing you did, say ಸಾರಿ, and leave the timing to her. Every sentence you spend explaining yourself cancels one you spent apologising, which is why letter 3 above has no explanation in it."
+      },
+      {
+        "question": "Is a Kannada love letter better than an English one?",
+        "answer": "Only if she reads Kannada comfortably. If she was schooled in English or raised outside Karnataka, a Kannada letter turns reading into decoding, and English — or romanised Kannada with an English line under each sentence — lands better."
+      }
+    ],
+    "coverImageQuery": "handwritten kannada letter phone couple",
+    "coverImagePrompt": "A close, photorealistic shot of a young Indian woman on a sofa reading a letter on her phone screen, warm evening light from a window behind her. On the low table in front of her sits a half-written paper letter and a filter-coffee tumbler. Shallow depth of field, muted terracotta and cream tones, clean negative space along the top edge for a title overlay, 16:9. No legible text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Love Letter for Girlfriend in Kannada, in Both Scripts\n\nA love letter for a girlfriend in Kannada works when you write it in spoken Kannada, address her as ನೀನು, and send it where the script actually renders. The \"I love you\" page (/love-gf) is SubhSandesh's most-created template — 975 pages, 29.2% of the 3,335 built since 12 March 2026 — and its 14,396 views are 35.2% of every view recorded. Half of those views, 50.3% or 20,561 of 40,864, happen on a phone, which is where a badly pasted Kannada letter breaks.\n\nThat last part matters more than people expect. Below: six letters in Kannada script, Roman and English, the ನೀನು / ನೀವು / ತಾವು decision, and a table on which script to send.\n\n## What \"spoken Kannada\" means in a love letter\n\nA Kannada love letter is a letter written in the Kannada people speak, not the Kannada taught for written composition. The two are far apart: the Central Institute of Indian Languages' [language-variation profile for Kannada](https://web.archive.org/web/20241213225718/http://lisindia.ciil.org/Kannada/Kan_vari.html) records a sharp distinction between the spoken and written forms, the written near-constant across Karnataka while the spoken shifts by region.\n\nIt names four major regional varieties — Mangalore/Udupi, Mysore/Bangalore, Kota/Kundapur, Hubli/Dharwad — and cites Ethnologue for roughly 20 dialects, so there is no single \"correct\" colloquial Kannada to copy.\n\nWhich is good news: the register you want is hers, not a textbook's. A letter carrying ಅಷ್ಟೇ, ಬೇಜಾರು and ಗೊತ್ತಾ reads as a person; ಗ್ರಂಥಿಕ (granthika, formal written) Kannada reads like a school essay about love.\n\n## ನೀನು, ನೀವು or ತಾವು: the word that sets the tone\n\nKannada gives you three second-person choices, not two, and it is the loudest thing in the letter. A [February 2026 comparative study of Kannada and Telugu pronouns](https://zenodo.org/records/18543048) lists ನೀನು (nīnu, familiar singular), ನೀವು (nīvu, honorific singular and plural) and ತಾವು (tāvu, ultra-honorific singular) — a system English lacks, since English \"you\" marks neither respect nor number.\n\nFor a girlfriend it is ನೀನು. ನೀವು reads as distance, or a joke about distance; ತಾವು is what you write to a stranger's father, and here it is comic.\n\nThe edge case is a first letter to someone you are not close to yet. If you still say ನೀವು to her face, ನೀನು on paper is the bigger move.\n\n## Six love letters for a girlfriend in Kannada\n\nKeep them short. The median gap between first save and last edit on /love-gf is 6.9 hours across 975 pages: people write, leave, then cut.\n\n### 1. The first letter\n\n**Kannada:** ಚಿನ್ನ, ಇದನ್ನ ಹೇಳಬೇಕು ಅಂತ ತುಂಬಾ ದಿನದಿಂದ ಅಂದ್ಕೊಂಡಿದ್ದೆ, ಧೈರ್ಯ ಬರಲಿಲ್ಲ. ನಂಗೆ ನೀನು ತುಂಬಾ ಇಷ್ಟ. ಸ್ನೇಹಿತೆ ಅಂತ ಅಲ್ಲ — ಬೇರೆ ರೀತಿ. ಉತ್ತರ ಕೊಡಲು ಆತುರ ಬೇಡ, ನಿಧಾನವಾಗಿ ಯೋಚಿಸು. ನೀನು ಬೇಡ ಅಂದ್ರೂ ನಾನು ಎಲ್ಲೂ ಹೋಗಲ್ಲ.\n\n**Roman:** Chinna, idanna hēḷabēku anta tumbā dinadinda andkoṇḍidde, dhairya baralilla. Naṅge nīnu tumbā iṣṭa. Snēhite anta alla — bēre rīti. Uttara koḍalu ātura bēḍa, nidhānavāgi yōchisu. Nīnu bēḍa andrū nānu ellū hōgalla.\n\n**English:** Chinna, I have wanted to say this for a long time and never had the courage. I like you a lot. Not as a friend — differently. Do not rush. Even if you say no, I am not going anywhere.\n\n**Use when:** you are telling her first; the ending must remove pressure.\n\n### 2. Long distance\n\n**Kannada:** ಚಿನ್ನು, ಇವತ್ತು ಬಸ್‌ನಲ್ಲಿ ನಿಂಗೆ ಇಷ್ಟದ ಹಾಡು ಬಂತು, ಎರಡು ನಿಮಿಷ ಬೆಂಗಳೂರು ಮರೆತೇ ಹೋಯ್ತು. ದೂರ ಇರೋದು ಕಷ್ಟ, ಆದ್ರೆ ನಂಗೆ ಸಂಶಯ ಇಲ್ಲ. ಡಿಸೆಂಬರ್‌ಗೆ ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡಿದ್ದೀನಿ, 14 ದಿನ. ಅಲ್ಲಿವರೆಗೂ ಊಟ ಮಾಡು, ನಿದ್ದೆ ಮಾಡು, ನನ್ನ ನೆನಪು ಮಾಡ್ಕೊ.\n\n**Roman:** Chinnu, ivattu bus-nalli niṅge iṣṭada hāḍu bantu, eraḍu nimiṣa Bengaḷūru maretē hōytu. Dūra irōdu kaṣṭa, ādre naṅge saṃśaya illa. December-ge ticket book māḍiddīni, 14 dina. Allivaregū ūṭa māḍu, nidde māḍu, nanna nenapu māḍko.\n\n**English:** Chinnu, your favourite song came on in the bus today and for two minutes I forgot Bengaluru. Distance is hard, but I have no doubt. I have booked a December ticket, 14 days. Until then: eat, sleep, think of me.\n\n**Use when:** she needs a date more than an adjective.\n\n### 3. After a fight\n\n**Kannada:** ಚಿನ್ನ, ನಿನ್ನೆ ನಾನು ಜೋರಾಗಿ ಮಾತಾಡಿದೆ. ತಪ್ಪು ನನ್ನದೇ, ಸಾರಿ. ನಿನ್ನ ಮಾತು ಮುಗಿಯೋಕೆ ಮುಂಚೆನೇ ನಾನು ಉತ್ತರ ಕೊಡಲು ಶುರು ಮಾಡಿದೆ, ಅದೇ ತಪ್ಪು. ನಿಂಗೆ ಸರಿ ಅನ್ನಿಸಿದಾಗ ಕಾಲ್ ಮಾಡು. ನಾನು ಕಾಯ್ತಿರ್ತೀನಿ, ಒತ್ತಾಯ ಮಾಡಲ್ಲ.\n\n**Roman:** Chinna, ninne nānu jōrāgi mātāḍide. Tappu nannadē, sorry. Ninna mātu mugiyōke munchenē nānu uttara koḍalu śuru māḍide, adē tappu. Niṅge sari annisidāga call māḍu. Nānu kāytirtīni, ottāya māḍalla.\n\n**English:** Chinna, I raised my voice yesterday. The mistake was mine, sorry. I started answering before you finished speaking — that was the mistake. Call when it feels right. I will wait, not push.\n\n**Use when:** the apology is the whole letter — every sentence defending yourself cancels one.\n\n### 4. Her birthday\n\n**Kannada:** ಚಿನ್ನು, ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯ. ಈ ವರ್ಷ ನಿನ್ನ ಬಗ್ಗೆ ಒಂದು ವಿಷಯ ಗಮನಿಸಿದೆ — ಯಾರೂ ನೋಡ್ತಿಲ್ಲ ಅಂದಾಗಲೂ ನೀನು ಜನಕ್ಕೆ ಸಹಾಯ ಮಾಡ್ತೀಯ. ನಿನ್ನ ಜೊತೆ ಇರೋದೇ ನನ್ನ ಗಿಫ್ಟ್. ಈ ವರ್ಷ ನಿಂಗೆ ಜಾಸ್ತಿ ನಿದ್ದೆ, ಕಡಿಮೆ ಚಿಂತೆ, ಸಾಕಷ್ಟು ಫಿಲ್ಟರ್ ಕಾಫಿ ಸಿಗಲಿ.\n\n**Roman:** Chinnu, huṭṭuhabbada śubhāśaya. Ī varṣa ninna bagge ondu viṣaya gamaniside — yārū nōḍtilla andāgalū nīnu janakke sahāya māḍtīya. Ninna jote irōdē nanna gift. Ī varṣa niṅge jāsti nidde, kaḍime chinte, sākaṣṭu filter coffee sigali.\n\n**English:** Chinnu, happy birthday. This year I noticed one thing — you help people even when nobody is watching. Being with you is the gift. May this year bring more sleep, less worry, more filter coffee.\n\n**Use when:** one specific observation beats five compliments.\n\n### 5. Just because\n\n**Kannada:** ಚಿನ್ನ, ಯಾವ ಕಾರಣವೂ ಇಲ್ಲ, ಇವತ್ತು ಬುಧವಾರ ಅಷ್ಟೇ. ನೀನು ನಗುವಾಗ ಮೂಗು ಸ್ವಲ್ಪ ಸುಕ್ಕಾಗುತ್ತೆ. ಅದು ನಿಂಗೆ ಗೊತ್ತಾ? ನಂಗೆ ಗೊತ್ತು. ಐ ಲವ್ ಯೂ. ಈಗ ಹೋಗಿ ಕೆಲಸ ಮಾಡು.\n\n**Roman:** Chinna, yāva kāraṇavū illa, ivattu budhavāra aṣṭē. Nīnu naguvāga mūgu svalpa sukkāguttē. Adu niṅge gottā? Naṅge gottu. I love you. Īga hōgi kelasa māḍu.\n\n**English:** Chinna, no reason at all — it is Wednesday, that is all. When you laugh your nose wrinkles a little. Do you know that? I do. I love you. Now go and work.\n\n**Use when:** nothing is happening. A Wednesday letter outperforms the same words on an anniversary.\n\n### 6. The very short one\n\n**Kannada:** ಚಿನ್ನು, ಬೆಳಿಗ್ಗೆ ಕಣ್ಣು ಬಿಟ್ಟಾಗ ಮೊದಲು ನಿನ್ನ ನೆನಪು. ರಾತ್ರಿ ಕಣ್ಣು ಮುಚ್ಚಿದಾಗ ಕೊನೆಗೂ ನಿನ್ನ ನೆನಪು. ಮಧ್ಯದಲ್ಲಿ ಸ್ವಲ್ಪ ಕೆಲಸ. ಅಷ್ಟೇ ನನ್ನ ದಿನ.\n\n**Roman:** Chinnu, beḷigge kaṇṇu biṭṭāga modalu ninna nenapu. Rātri kaṇṇu muchchidāga konegū ninna nenapu. Madhyadalli svalpa kelasa. Aṣṭē nanna dina.\n\n**English:** Chinnu, the first thought when I open my eyes is you. The last, when I close them, is you. A little work in between. That is my whole day.\n\n**Use when:** it goes into a WhatsApp message or the top of a page.\n\n## Kannada script, romanised Kannada or English: what to send\n\nMany Kannada speakers type Roman rather than Kannada script, and the research corpora are built on that writing. The [KanCMD dataset](https://aclanthology.org/2020.peoples-1.6/), December 2020, is 7,671 real Kannada–English code-mixed YouTube comments, not textbook sentences.\n\nThe [CoLI-Kenglish dataset](https://arxiv.org/abs/2211.09847) from November 2022 tags Kannada YouTube comments word by word as Kannada, English, Mixed-language, Name, Location or Other, where \"Mixed-language\" covers Roman-script hybrids like *homealli* (home + alli); its best model reached a 0.64 macro F1. A [2023 study of English–Kannada code-switched text](https://ijece.iaescore.com/index.php/IJECE/article/view/29245) needed a character-level n-gram model to reach 97.9% accuracy merely separating monolingual from code-switched lines.\n\nWhat each choice costs:\n\n| Option | Keyboard needed | Renders in WhatsApp and Instagram? (50.3% of our 40,864 views are phone views) | Register | Who it suits |\n|---|---|---|---|---|\n| Kannada script (ಕನ್ನಡ ಲಿಪಿ) | Kannada keyboard, or Google Input Tools | Yes, in chat text and captions; the risk is your keyboard, not her screen | Fullest — the language she thinks in | She reads the script comfortably |\n| Romanised Kannada (\"Kanglish\") | Any English keyboard | Yes, no font risk | Warm and casual — how she already texts | She reads the script slowly |\n| English | Any English keyboard | Yes | Flattest — the feeling arrives translated | Kannada is her second language |\n\nIf you can type Kannada, send Kannada script. If not, romanised Kannada beats English: translating your own feelings is the option that loses something on the way.\n\n## Which page each Kannada letter belongs on\n\nFor Kannada script the answer is usually not a chat app. Put the letter on a page: the [romantic \"I love you\" page for a girlfriend](https://subhsandesh.in/love-gf) holds the letter, a gallery, a song, notes, games and an optional password, so you paste the Kannada once and it reads as typed.\n\nThe six letters do not all belong on the same page. The last column is our own creation count:\n\n| Page it belongs on | Letters from above | Why that page for a Kannada letter | Pages created here (of 3,335) |\n|---|---|---|---|\n| \"I love you\" page (/love-gf) | 1, 5, 6 | Holds the Kannada, Roman and English lines together | 975 — 29.2% |\n| Apology dashboard (/apology-dashboard) | 3 | Built so ಸಾರಿ stands alone, with no room to argue | 720 — 21.6% |\n| Darling page (/darling) | 2 | Darker and slower; suits a distance letter | 343 — 10.3% |\n| Birthday page (/birthday-gf) | 4 | Dates it, so one observation is not lost in a greeting | 258 — 7.7% |\n\nOne limit: that column counts page types, not languages. We do not record which script a page is written in, so nothing here says Kannada letters behave differently from English ones.\n\n## When a Kannada letter is the wrong call\n\nIf her Kannada is weaker than yours — schooled in English, raised outside Karnataka — a Kannada letter turns reading into homework. Send English, or romanised Kannada with an English line beneath each sentence.\n\nDo not run it through a translation tool. Machine Kannada is easy to spot because formal written forms surface where spoken ones belong.\n\nA shared page is sometimes the wrong container. 42.9% of creators password-protect it before sharing — 1,432 of 3,335 — one more thing she must be told before reading a word. On a locked-down work phone, paper wins.\n\nThe tooling was never the hard part: 99.5% of started pages get published, 3,317 of 3,335. The stalls are on the writing.\n\nIf the register you want is heavier and more cinematic, the [dark, dramatic romantic page for a partner](https://subhsandesh.in/darling) fits better — the fourth most-created page type here.\n\n## Sources\n\n- CIIL, *LIS India — Kannada: Language Variation* (archived).\n- Amba and Mukherjee, *Honorific and Ultra Honorific Pronouns — Kannada and Telugu*, IJTMSS, 5 February 2026.\n- Hande, Priyadharshini and Chakravarthi, *KanCMD*, PEOPLES at COLING, December 2020.\n- Shashirekha and colleagues, *CoLI: Word-Level Language Identification in Kannada-English Texts*, November 2022.\n- Chundi, Hulipalled and Simha, *English-Kannada code-switch identification*, IJECE 13(5), 2023.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six love letters for a girlfriend in Kannada",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The first letter",
+            "description": "A confession letter that closes by removing pressure rather than asking for an answer."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Long distance",
+            "description": "A distance letter that names a month and a number of days instead of an adjective."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "After a fight",
+            "description": "An apology with no self-defence in it, leaving the timing of the reply to her."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Her birthday",
+            "description": "A birthday letter built on one specific observation rather than five compliments."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Just because",
+            "description": "An ordinary-Wednesday letter, sent when nothing is happening."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "The very short one",
+            "description": "Four sentences, sized for a WhatsApp message or the top of a shared page."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-kannada#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Kannada",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kannada",
+              "https://www.wikidata.org/wiki/Q33673"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Kannada script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kannada_script",
+              "https://www.wikidata.org/wiki/Q839666"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Diglossia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diglossia",
+              "https://www.wikidata.org/wiki/Q59203"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Code-mixing",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Code-mixing",
+              "https://www.wikidata.org/wiki/Q3201279"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Karnataka",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Karnataka",
+              "https://www.wikidata.org/wiki/Q1185"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Language Information Services India — Kannada: Language Variation",
+            "url": "https://web.archive.org/web/20241213225718/http://lisindia.ciil.org/Kannada/Kan_vari.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Central Institute of Indian Languages"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "A Comparative Study of Honorific and Ultra Honorific Pronouns — Kannada and Telugu",
+            "url": "https://zenodo.org/records/18543048",
+            "datePublished": "2026-02-05",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Trends in Multidisciplinary Social Sciences"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "KanCMD: Kannada CodeMixed Dataset for Sentiment Analysis and Offensive Language Detection",
+            "url": "https://aclanthology.org/2020.peoples-1.6/",
+            "datePublished": "2020-12-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "CoLI-Machine Learning Approaches for Code-mixed Language Identification at the Word Level in Kannada-English Texts",
+            "url": "https://arxiv.org/abs/2211.09847",
+            "datePublished": "2022-11-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "arXiv"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Identification of monolingual and code-switch information from English-Kannada code-switch data",
+            "url": "https://ijece.iaescore.com/index.php/IJECE/article/view/29245",
+            "datePublished": "2023",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Institute of Advanced Engineering and Science"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "love letter for girlfriend in kannada",
+    "angle": "Wins by being the only post that treats the Kannada spoken-versus-written register split and the ನೀನು / ನೀವು / ತಾವು second-person choice as the actual writing decision, delivering six letters in script plus romanised transliteration, grounded in the 975 /love-gf pages (29.2% of 3,335) and the 6.9-hour median edit window that show how people really write these.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/darling"
+    ],
+    "factsUsed": [
+      "3,335 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-01",
+      "#1 page type: \"I love you\" page (/love-gf) — 975 created, 29.2% of all pages — measured 2026-09-01",
+      "Most-viewed template: love-gf — 14,396 views, 35.2% of all page views — measured 2026-09-01",
+      "50.3% of shared pages are opened on a phone (20,561 of 40,864 views) — measured 2026-09-01",
+      "42.9% of creators password-protect their page before sharing it (1,432 of 3,335) — measured 2026-09-01",
+      "99.5% of started pages are actually published and shared (3,317 of 3,335) — measured 2026-09-01",
+      "#4 page type: Darling romantic page (/darling) — 343 created, 10.3% of all pages — measured 2026-09-01",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=975 — measured 2026-09-01"
+    ],
+    "sources": [
+      {
+        "url": "https://web.archive.org/web/20241213225718/http://lisindia.ciil.org/Kannada/Kan_vari.html",
+        "stat": "\"There is also a sharp distinction between the spoken and written forms of the language\"; the written form is \"more or less constant throughout Karnataka\" while spoken Kannada varies by region; four major regional dialects named (Mangalore/Udupi, Mysore/Bangalore, Kota/Kundapur, Hubli/Dharwad) and Ethnologue cited for about 20 dialects. Central Institute of Indian Languages, Language Information Services India — Kannada: Language Variation. Page publishes no date; archived snapshot 13 December 2024 (live host lisindia.ciil.org still returned HTTP 500 on re-check, 1 September 2026)."
+      },
+      {
+        "url": "https://zenodo.org/records/18543048",
+        "stat": "Kannada second person: nī:nu (familiar singular), nī:vu (singular-honorific and plural), tā:vu (singular ultra-honorific); \"English does not have honorific pronouns. It also does not differentiate between second person singular and second person plural.\" Amba, D. and Mukherjee, R., IJTMSS, Jan–Mar 2026 issue. Full PDF read.",
+        "publishedDate": "2026-02-05"
+      },
+      {
+        "url": "https://aclanthology.org/2020.peoples-1.6/",
+        "stat": "KanCMD releases 7,671 Kannada–English code-mixed comments crawled from YouTube — \"actual comments in code mixed text posted by users on YouTube social media, rather than in monolingual text from the textbook\" — each annotated by a minimum of three annotators. Full PDF read 2026-09-01: Table 2 gives 7,671 posts, 64,997 tokens, 20,667 vocabulary and 8,472 sentences; Table 1 records five annotators, four English-schooled and one Kannada-schooled.",
+        "publishedDate": "2020-12-01"
+      },
+      {
+        "url": "https://arxiv.org/abs/2211.09847",
+        "stat": "The CoLI-Kenglish dataset is built from Kannada YouTube video comments and tags every word into six categories — \"Kannada\", \"English\", \"Mixed-language\", \"Name\", \"Location\" and \"Other\"; the best model (CoLI-ngrams) reached a macro average F1-score of 0.64. Full PDF read 2026-09-01: Table 1 defines \"Mixed-language\" as combinations of Kannada and English words in Roman script, e.g. homealli (home + alli, inside home), leaderge, coolagiru.",
+        "publishedDate": "2022-11-17"
+      },
+      {
+        "url": "https://ijece.iaescore.com/index.php/IJECE/article/view/29245",
+        "stat": "On English–Kannada code-switch (EKCS) social-media data, a character-level n-gram approach gave SVC and neural-network models 97.9% accuracy and 98% F1 at separating monolingual from code-switched text. Chundi, Hulipalled and Simha, IJECE 13(5), pp. 5632–5640, CC BY-SA. Full PDF read 2026-09-01 (9 pp.): \"SVC and NN techniques are outperformed in terms of accuracy (97.9%) and F1-score (98%) with character level n-gram.\"",
+        "publishedDate": "2023"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "Arithmetically unsatisfiable, not unwritten: the target keyword \"love letter for girlfriend in kannada\" is six words and 37 characters, so no title can hold it inside a five-word window. metaTitle is 59 characters with the keyword at word one, which is the closest a six-word keyword gets. Longer versions were tested to see whether 62–70 characters bought a better differentiator and all were rejected for truncation, since Google cuts near 580px / ~60 characters and the cut lands inside the differentiator: \"…: 6 in Script, Roman and English\" (69) loses \"and English\", \"…: 6 in Script Plus Roman Lines\" (67) loses \"Roman Lines\", \"…: 6 Letters, Both Scripts\" (62) loses \"Scripts\" and says less than the kept version, and \"…: 6 in Spoken Kannada, Not Written\" (71) breaches the Strapi cap. Closes only if the keyword is shortened to five words or fewer, which forfeits exact match on a query with no real competition."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Deliberate trade, not an oversight. The slug is the exact six-word target keyword and therefore carries the stop words \"for\" and \"in\". On a SERP of six thin pages with no editorial competitor, exact-match slug is the whole positional advantage, so it is worth more than a clean slug; it is also pre-verified free in Strapi (total: 0 on 2026-09-01) and referenced by the batch manifest and canonicalURL. Deliberately left failed rather than renamed. Closes only if the post ever ranks well enough that a shorter slug costs nothing — i.e. never, on this keyword."
+        }
+      ],
+      "honestAssessment": "The Kannada in all six letters is non-native composition and must get a native Kannada read-through before this publishes. Nothing is machine-translated, but these lines are specifically doubted and a native reader should clear each one: (1) letter 1's \"ಅಂದ್ಕೊಂಡಿದ್ದೆ, ಧೈರ್ಯ ಬರಲಿಲ್ಲ\" runs two clauses off one comma and probably wants ಆದ್ರೆ between them; (2) letter 3's \"ಮುಗಿಯೋಕೆ ಮುಂಚೆನೇ\" and \"ನಿಂಗೆ ಸರಿ ಅನ್ನಿಸಿದಾಗ\" are the two spoken contractions I am least confident are idiomatic rather than merely intelligible, ಮುಂಚೆನೇ for ಮುಂಚೆಯೇ in particular; (3) letter 4's \"ಯಾರೂ ನೋಡ್ತಿಲ್ಲ ಅಂದಾಗಲೂ ನೀನು ಜನಕ್ಕೆ ಸಹಾಯ ಮಾಡ್ತೀಯ\" is the most literary construction in the set and the one place a written-register (ಗ್ರಂಥಿಕ) leak could hide; (4) letter 5's \"ಸುಕ್ಕಾಗುತ್ತೆ\" may be the wrong verb entirely for a nose wrinkling when someone laughs — verify the verb, not just the form; (5) the ನೀನು call in letter 1, where the pronoun rule is right for a girlfriend but a first confession to someone the writer still addresses as ನೀವು in person is a register jump the surrounding prose flags and the letter itself does not soften, so that line needs clearing rather than the rule; (6) the endearments ಚಿನ್ನ / ಚಿನ್ನು / ಮರಿ are regionally and socially marked, and a Mysore reader will not weigh them the way a Dharwad reader does. Re-reading for this fix pass raised two more: (7) letter 2's \"ನಿಂಗೆ ಇಷ್ಟದ ಹಾಡು\" pairs a dative pronoun with a genitive-shaped modifier and probably wants ನಿನ್ನ ಇಷ್ಟದ ಹಾಡು or ನಿಂಗೆ ಇಷ್ಟ ಆಗಿರೋ ಹಾಡು; and (8) letter 6's \"ಕೊನೆಗೂ\" reads as \"at long last\" rather than \"the last thought of the day\", which is the sense the English line claims, so it may need ಕೊನೆಯದೂ. Do not publish before a native reader clears items 1 to 5, 7 and 8. On why an answer engine would cite this over what ranks: the SERP is six thin pages — three of them from one AI-letter-generator domain running the same keyword-stuffed H2 template at 1,300 to 1,481 words with no table, no FAQ schema, no romanised transliteration and no mention of register or pronouns, plus an Instagram tag page and two UGC quote pages. This post is the only one carrying the ನೀನು / ನೀವು / ತಾವು distinction, a cited spoken-versus-ಗ್ರಂಥಿಕ framing, Kannada script plus Roman plus English for every letter, and first-party numbers no competitor can publish. This is a band-1 keyword, estimated under 300 searches a month, and the SERP is empty rather than easy: six results, of which three are the same AI-generated site, one an Instagram tag page and two nojoto.com quote pages. That makes it winnable and small — its real job is cluster support for /love-gf, not traffic. Nothing here is a forecast; domain authority, backlinks and indexing time all still apply and none of them is addressed by the post. Three limits the fix pass did leave open or newly recorded. The metaTitle cannot satisfy the five-word keyword window because the keyword is six words, and every 62 to 70 character alternative tested was rejected for SERP truncation. The slug keeps \"for\" and \"in\" on purpose, because exact match is worth more than a clean slug on a query with no real competition. And the new page-type table closes the first-party-column item honestly — the created counts, 975 / 720 / 343 / 258 of 3,335, are real and vary by row — but they measure page types, not languages: SubhSandesh does not record the script a page is written in, so no number in this post shows that Kannada letters behave differently from English ones, and the body says so in the sentence under the table. That would only change if page language were captured at creation. Sourcing improved: all three previously abstract-only citations (KanCMD, CoLI-Kenglish, IJECE) were fetched as full PDFs on 1 September 2026 and every claim drawn from them was re-verified in the full text, so nothing in the post now rests on an abstract. The CIIL Kannada page is still cited from its 13 December 2024 Internet Archive snapshot because the live host returned HTTP 500 again on re-check."
+    },
+    "generatedAt": "2026-09-01T13:19:22Z"
+  }
+}

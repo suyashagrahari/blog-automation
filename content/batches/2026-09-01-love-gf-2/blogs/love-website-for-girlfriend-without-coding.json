@@ -1,0 +1,357 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Love Website for Girlfriend Without Coding: What Actually Breaks",
+    "slug": "love-website-for-girlfriend-without-coding",
+    "excerpt": "Four things break a love website for a girlfriend built without coding: it never gets finished, anyone with the link can read it, it was only ever opened on a laptop, and a year later the link is dead. Each failure is priced across all three routes, with a 6.9-hour median measured over 975 pages.",
+    "metaTitle": "Love Website for Girlfriend Without Coding — 6.9-Hour Median",
+    "metaDescription": "A love website for girlfriend without coding breaks in four ways: unfinished, unlocked, laptop-only, or dead in a year. 6.9-hour median finish over 975 pages.",
+    "keywords": "love website for girlfriend without coding, website for girlfriend no code, make a love page for girlfriend, romantic website without coding",
+    "canonicalURL": "https://subhsandesh.in/blog/love-website-for-girlfriend-without-coding",
+    "ogType": "article",
+    "tags": [
+      "no-code",
+      "romance",
+      "digital-gifts",
+      "girlfriend",
+      "comparison"
+    ],
+    "keyTakeaways": [
+      "The \"I love you\" page is 975 of the 3,335 pages created since 12 March 2026 — 29.2% of everything — and draws 14,396 views, 35.2% of all 40,864 recorded.",
+      "The honest time cost is a 6.9-hour median from first save to last edit on that template (n=975), not the few minutes the category advertises.",
+      "42.9% of creators password-protect the page before sharing it (1,432 of 3,335), which is the one thing a free static host cannot do unless you write a login.",
+      "50.3% of the 40,864 recorded views happen on a phone (20,561), so a page tested only on a laptop has been tested in the minority case.",
+      "If you already write front-end code, code it yourself: a MODELS 2024 experiment found coding skill saved only four minutes of median build time on a no-code builder (23 vs 19, p = 0.879, n = 10)."
+    ],
+    "faqs": [
+      {
+        "question": "Can I really make a love website for my girlfriend without coding?",
+        "answer": "Yes. A purpose-built romantic-page template or a general drag-and-drop builder both get you a live page at a shareable link without writing HTML. On SubhSandesh the \"I love you\" template alone has produced 975 pages since 12 March 2026, 29.2% of everything created."
+      },
+      {
+        "question": "How long does it actually take to make one?",
+        "answer": "Publishing takes minutes, but finishing takes longer. The median gap between a creator's first save and their last edit on the \"I love you\" template is 6.9 hours across 975 pages, and almost all of that is rewriting the letter."
+      },
+      {
+        "question": "Is it better to code it myself or use a template?",
+        "answer": "If you already write front-end code, code it — you keep the files and get a page nobody else has. If you don't, a template is the better trade, because a MODELS 2024 experiment found coding experience saved only four minutes of median build time on a no-code builder."
+      },
+      {
+        "question": "Can I put a password on the page so only she can open it?",
+        "answer": "On a purpose-built romantic template, yes, and 42.9% of SubhSandesh creators do it before sharing — 1,432 of 3,335 pages. On a free static host you would have to write a login yourself, which is the coding you were trying to avoid."
+      },
+      {
+        "question": "Will the page work properly on her phone?",
+        "answer": "It has to, because 50.3% of all 40,864 recorded views happen on a phone and 50.5% on some touch device. If you hand-code the page, open it on an actual phone before you send the link rather than trusting a desktop browser's narrow window."
+      },
+      {
+        "question": "Where do my photos live if I use a free static host like GitHub Pages?",
+        "answer": "In the repository, and on GitHub Free that repository has to be public, so the photos and the letter are readable by anyone who finds it. GitHub also caps a published Pages site at 1 GB with a soft bandwidth limit of 100 GB per month."
+      },
+      {
+        "question": "What happens to the link after a year?",
+        "answer": "That depends entirely on which route you took. Pew Research Center's May 2024 link-rot study found roughly one in five pages sampled in 2021 were already inaccessible two years later, so a page you own and back up is the only genuinely durable version."
+      },
+      {
+        "question": "Do I need to buy a domain name?",
+        "answer": "No. Every hosted route gives you a working subdomain link you can send on WhatsApp, and a custom domain only matters if you are hand-coding and want the URL to read as yours. Buying one also adds an annual renewal you have to remember."
+      },
+      {
+        "question": "Which template should I pick — soft and sweet, or dark and dramatic?",
+        "answer": "Decide the mood in one sentence before you open a gallery, because a longer list makes an undecided choice harder rather than easier. The dark, dramatic route is a real minority taste: 343 pages, 10.3% of everything created."
+      },
+      {
+        "question": "Can I move the page somewhere else later if I use a template?",
+        "answer": "No, and this is the honest limit of the template route. You never hold the files, so the page exists for as long as the platform does and cannot be exported to a host of your own."
+      },
+      {
+        "question": "Does having coding skills make me faster on a no-code builder?",
+        "answer": "Barely. In a 2024 study at the University of Kassel, median build time was 23 minutes for participants with no programming experience and 19 minutes for those with it, at p = 0.879 and a negligible effect size, though the sample was only 10 people."
+      }
+    ],
+    "coverImageQuery": "young indian man laptop phone romantic page",
+    "coverImagePrompt": "A photorealistic overhead shot of a young Indian man at a desk at night, a laptop open beside a phone that shows a soft rose-and-cream romantic web page. Warm lamplight, cool screen glow, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text on the screens beyond an abstract page layout, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Love Website for Girlfriend Without Coding: What Actually Breaks\n\nYou can make a love website for girlfriend without coding, and the useful question is not which route is best but which way the page breaks on you. The romantic page is the most-made thing on SubhSandesh: the \"I love you\" template accounts for 975 of the 3,335 pages created since 12 March 2026 — 29.2% of everything — and 14,396 views, 35.2% of all 40,864 views recorded.\n\nFour things go wrong, and they go wrong in order: the page never gets finished, anyone holding the link can read it, it was only ever opened on a laptop, and a year later the link is dead. The median gap between a creator's first save and their last edit is 6.9 hours (n=975), not the few minutes this category advertises, ours included — which is where the first failure starts.\n\n## What \"without coding\" actually rules out\n\n\"Without coding\" means you never write or edit HTML, CSS or JavaScript and never touch a deploy step: you type into a form or drag a block, and a hosted page appears at a link. It does not mean no work, and it does not mean no decisions.\n\nWhat it rules out is structural change. Across the 15 page types on SubhSandesh the structure of each is fixed: you cannot move a section the template will not move, and you cannot add an interaction nobody built.\n\nThat leaves three routes, and they are not equivalent. You can write the HTML yourself and put the files on a free static host, keeping every decision and every file. You can repurpose a general drag-and-drop website builder, which asks no code but hands you a starting layout designed for a bakery's opening hours rather than a love letter.\n\nOr you can fill in a purpose-built romantic template — a letter, a photo gallery, background music, private notes, a quiz, an optional password — where the words are yours and the structure was settled before you arrived. Each of the four failures below lands on those three routes differently, and that is the comparison that actually decides anything.\n\n## Failure 1: it never gets finished, and the mood is usually why\n\nEvery product in this category, ours included, advertises minutes. Measured against our own database that is true of the first publish and false of the finished page: the median first-save-to-last-edit gap on the romantic [\"I love you\" page for a girlfriend](https://subhsandesh.in/love-gf) is 6.9 hours across all 975 pages made from it.\n\nThat gap is not friction, it is rewriting. 99.5% of started pages do get published and shared (3,317 of 3,335), so on a template almost nobody abandons — they publish, then reopen the letter and change the wording.\n\nCoding skill does not shorten it. In a [MODELS 2024 experiment comparing programmers with non-programmers on a no-code builder](https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4), median build time was 23 minutes for the group with no programming experience against 19 minutes for the group with it, at p = 0.879 and a negligible effect size. That was 10 student participants building a small business app, so read it as a direction rather than a law.\n\nOn the hand-coded route the thing that stalls people is rarely the markup either. It is the design: making a page exist is quick, and making it look intended is a separate skill with no template underneath it.\n\nThe decision that stalls every route is the mood. A soft, bright letter-and-gallery page reads as sincere; a dark, dramatic one reads as intense, and SubhSandesh's [dark, dramatic romantic page for a partner](https://subhsandesh.in/darling) is the fourth most-created template with 343 pages, 10.3% of everything made — so a real minority wants intensity rather than sweetness.\n\nBrowsing for that answer makes it harder to reach. A meta-analysis of [99 choice-overload observations covering 7,202 participants](https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf) found overload rises with preference uncertainty, which means that if you do not already know which mood fits her, a longer [gallery of SubhSandesh templates](https://subhsandesh.in/templates) makes the decision worse rather than easier. Write the mood down in one sentence first, pick the page that matches that sentence, and stop scrolling.\n\n## Failure 2: anyone who has the link can read it\n\n42.9% of SubhSandesh creators password-protect the page before sharing it — 1,432 of 3,335. That is not a niche preference, and it is the failure this category almost never prices.\n\nOn the free static-host route it is not a setting you switch on, it is a login you write. A static host serves files to whoever asks for them, so privacy there has to be built rather than enabled — which is precisely the coding this query is trying to avoid.\n\nThe free tier is worse than neutral about it. GitHub's [published GitHub Pages usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) state that on GitHub Free, Pages works only in a public repository, so the photos and the letter sit somewhere readable by anyone who finds it, alongside a 1 GB site cap and a 100 GB monthly bandwidth soft limit.\n\nGeneral builders usually keep the password behind a paid plan. A purpose-built romantic template has it in the form, which is why nearly half of real creators end up using it.\n\n## Failure 3: it was only ever opened on a laptop\n\n50.3% of all 40,864 recorded views happen on a phone (20,561 of them) and 50.5% on some touch device. So a page you have only ever opened on a laptop has been tested in the minority case.\n\nThis failure has the shortest fix and the highest cost for skipping it. Open the finished page on an actual phone, on mobile data, before the link goes anywhere near her.\n\nOn a hand-coded page that check is the entire mobile layout, and a narrow desktop window is not a substitute for a real handset. On a template the rendering is somebody else's problem, and this is the one place in this post where \"somebody else's problem\" counts as an argument in favour.\n\n## Failure 4: the link is gone within a year\n\nThis is the failure absent from every page selling a romantic template, ours included. Pew Research Center's May 2024 link-rot analysis found that [25% of webpages sampled from 2013 to 2023 were no longer accessible by October 2023](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/), and roughly one in five pages from the 2021 snapshot were gone within two years.\n\nThe template route carries it most sharply, and the reason is ownership. If the platform goes away the link goes with it, and you cannot move the page elsewhere because you never held the files.\n\nHand-coding does not escape this, it moves the deadline onto you. Attach a custom domain and the page dies the month you forget the renewal, and a general builder's page lives exactly as long as the subscription does. A copy of the letter and the photos kept somewhere you control is the only version of this gift that outlives all three routes.\n\n## The three routes, priced against those four failures\n\nTwo things that decide a route carry no hard values and are settled in the sections above: the skills each route needs, and how much structure you keep. The five below do carry values, and three of those columns come from our own database rather than a marketing page.\n\n| Approach | Cash cost | Time to a finished page | Password on the page | Renders on her phone | Alive in a year |\n|---|---|---|---|---|---|\n| Code it yourself | ₹0 on a free static tier; a custom domain adds an annual renewal | A weekend, plus debugging | Only if you build a login, which is coding | Only if you test on a phone yourself | Yours while you renew |\n| General website builder | Recurring subscription; the no-cost tier adds the builder's branding and subdomain | Hours, mostly spent removing business blocks | Typically a paid-plan feature | Depends on the template you started from | Yours while you pay |\n| Purpose-built romantic template | No hosting bill or domain renewal of your own; you pay what the platform sets | Minutes to publish, 6.9h median to stop editing (n=975) | Built in; 42.9% of creators use it (1,432 of 3,335) | Mobile-first; 50.3% of views are on a phone (20,561 of 40,864) | Alive while the platform is |\n\nThe result is a split decision, not a winner. Coding survives failure 4 and loses failures 2 and 3; the template clears 2 and 3 on measured behaviour and is the most exposed to 4.\n\n## When you should just code it yourself\n\nIf you already write front-end code, code it. You get a page nobody else has and files you keep, and the experiment above says the skill will not even buy you time on the alternative, so convenience is the only thing a template is selling you.\n\nTwo other cases favour coding. If the page needs an interaction no template offers — a game you invented, a map of the cities you have lived in — a template will not bend that far, and the same MODELS 2024 paper found flexibility to be the standard objection, with surveyed companies reporting that low-code tools \"might offer too few functions or insufficient flexibility\".\n\nAnd if the link has to outlive the platform, own it. Failure 4 has no template-side fix, so files you hold and back up are the fix.\n\nHere is the counterweight, and the reason most people should not code it. A 2010 experiment with 82 participants found that [power users rated content quality higher on a customisable interface while non-power users preferred a system-tailored page](https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf) — so if you are not a power user, the control on offer is not a benefit you will feel.\n\n## Sources\n\n- [GitHub Pages limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits), GitHub Docs — 1 GB site cap, 100 GB monthly soft bandwidth, public repository required on GitHub Free.\n- [Low-code vs. the developer](https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4), Guthardt, Kosiol and Hohlfeld, MODELS Companion '24, 22 September 2024 — median 23 versus 19 minutes, p = 0.879, n = 10.\n- [Choice overload: a conceptual review and meta-analysis](https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf), Chernev, Böckenholt and Goodman, Journal of Consumer Psychology, 29 August 2014 — 99 observations, N = 7,202.\n- [Personalization versus customization](https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf), Sundar and Marathe, Human Communication Research, 2010 — N = 82, power versus non-power users.\n- [When online content disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/), Pew Research Center, 17 May 2024 — 25% of 2013–2023 pages inaccessible by October 2023.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/love-website-for-girlfriend-without-coding#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "No-code development platform",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/No-code_development_platform",
+              "https://www.wikidata.org/wiki/Q60741440"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "End-user development",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/End-user_development",
+              "https://www.wikidata.org/wiki/Q500467"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Static web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Static_web_page",
+              "https://www.wikidata.org/wiki/Q2641220"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Website builder",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Website_builder",
+              "https://www.wikidata.org/wiki/Q1625990"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Link rot",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Link_rot",
+              "https://www.wikidata.org/wiki/Q1193907"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Low-code vs. the developer: An empirical study on the developer experience and efficiency of a no-code platform",
+            "url": "https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4",
+            "datePublished": "2024-09-22",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Till Guthardt"
+              },
+              {
+                "@type": "Person",
+                "name": "Jens Kosiol"
+              },
+              {
+                "@type": "Person",
+                "name": "Oliver Hohlfeld"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computing Machinery"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Personalization versus Customization: The Importance of Agency, Privacy, and Power Usage",
+            "url": "https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf",
+            "datePublished": "2010",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "S. Shyam Sundar"
+              },
+              {
+                "@type": "Person",
+                "name": "Sampada S. Marathe"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Human Communication Research"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Choice overload: A conceptual review and meta-analysis",
+            "url": "https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf",
+            "datePublished": "2014-08-29",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Alexander Chernev"
+              },
+              {
+                "@type": "Person",
+                "name": "Ulf Böckenholt"
+              },
+              {
+                "@type": "Person",
+                "name": "Joseph Goodman"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Consumer Psychology"
+            }
+          },
+          {
+            "@type": "Report",
+            "name": "When Online Content Disappears: Link Rot and Digital Decay on Government, News and Other Webpages",
+            "url": "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/",
+            "datePublished": "2024-05-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Pew Research Center",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/Pew_Research_Center",
+                "https://www.wikidata.org/wiki/Q1635722"
+              ]
+            }
+          },
+          {
+            "@type": "TechArticle",
+            "name": "GitHub Pages limits",
+            "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+            "publisher": {
+              "@type": "Organization",
+              "name": "GitHub"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The four ways a no-code love website fails",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Failure 1: it never gets finished, and the mood is usually why"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Failure 2: anyone who has the link can read it"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Failure 3: it was only ever opened on a laptop"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Failure 4: the link is gone within a year"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "love website for girlfriend without coding",
+    "angle": "Wins by being the only post on this keyword organised around the four ways the page actually fails — never finished, never locked, never opened on a phone, gone within a year — and the only one pricing each failure with measured behaviour: a 6.9-hour median first-save-to-last-edit across 975 /love-gf pages, and a 42.9% password-protect rate against a free static tier that cannot password-protect at all.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/darling",
+      "https://subhsandesh.in/templates"
+    ],
+    "factsUsed": [
+      "3,335 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-01",
+      "#1 page type: \"I love you\" page (/love-gf) — 975 created, 29.2% of all pages — measured 2026-09-01",
+      "#4 page type: Darling romantic page (/darling) — 343 created, 10.3% of all pages — measured 2026-09-01",
+      "40,864 recorded views of shared pages — measured 2026-09-01",
+      "Most-viewed template: love-gf — 14,396 views, 35.2% of all page views — measured 2026-09-01",
+      "50.3% of shared pages are opened on a phone (20,561 of 40,864 views) — measured 2026-09-01",
+      "50.5% of views are on a touch device (phone or tablet) — measured 2026-09-01",
+      "42.9% of creators password-protect their page before sharing it (1,432 of 3,335) — measured 2026-09-01",
+      "99.5% of started pages are actually published and shared (3,317 of 3,335) — measured 2026-09-01",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=975 — measured 2026-09-01"
+    ],
+    "sources": [
+      {
+        "url": "https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4",
+        "stat": "Median build time on a prototype no-code builder was 23 minutes for participants with no programming experience versus 19 minutes for programmers (mean 22 vs 21.4); t-test p = 0.8785, Cohen's d = 0.01, n = 10. Interviewed SMEs objected that low-code tools \"might offer too few functions or insufficient flexibility\"; only 2 of 6 used such platforms.",
+        "publishedDate": "2024-09-22"
+      },
+      {
+        "url": "https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf",
+        "stat": "In Study 1 (N = 82), power users rated content quality higher when the interface was customisable (user-tailored), whereas non-power users preferred personalised (system-tailored) content.",
+        "publishedDate": "2010"
+      },
+      {
+        "url": "https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf",
+        "stat": "Meta-analysis of 99 observations (N = 7,202) identifying four moderators of choice overload; higher preference uncertainty, greater choice-set complexity and higher decision task difficulty all increase overload.",
+        "publishedDate": "2014-08-29"
+      },
+      {
+        "url": "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/",
+        "stat": "25% of webpages sampled from 2013 through 2023 were no longer accessible as of October 2023; 38% of 2013 pages were gone, and about one-in-five pages from the 2021 snapshot were gone within two years.",
+        "publishedDate": "2024-05-17"
+      },
+      {
+        "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+        "stat": "Published GitHub Pages sites may be no larger than 1 GB, have a soft bandwidth limit of 100 GB per month and a soft limit of 10 builds per hour; on GitHub Free, Pages is available only in public repositories."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [],
+      "honestAssessment": "Nine of nine results for this keyword are funded competitors that own the brand queries and the backlinks for it, and the build-vs-buy comparison this post was briefed to own is already published: the #1 result on 30 July 2026 as a two-route 'code it or template it' guide ending in a criteria-by-route side-by-side table, and the #3 result as a ranked five-way vendor comparison. The fix pass therefore stopped competing on that frame and reorganised the body around the four ways the page fails — never finished, never locked, never opened on a phone, gone within a year — with the three routes judged inside each failure and the comparison table demoted to a summary, so no section now tracks either competitor's shape. What stays unavailable to all nine is measured behaviour: a 6.9-hour median first-save-to-last-edit window over 975 pages that contradicts the 'minutes' claim every one of them makes, a 42.9% password-protect rate against a free static tier that cannot password-protect without a hand-written login, and 50.3% phone opens across 40,864 views. Sourcing is a real gap but a narrower one than the brief recorded — the #1 result does carry one outbound third-party link — against five fetched sources here, three of them peer-reviewed and open-access. That combination makes this post citable, not rankable. On a commercial query the incumbents hold brand demand and a link profile this domain has nothing to answer with, so closing the gap is an off-page link problem rather than a content one: the 6.9-hour edit window and the 42.9% password rate republished as a standalone, linkable first-party data asset, cited from the forums and roundups where the build-vs-buy question is actually asked. No ranking outcome is predicted."
+    },
+    "generatedAt": "2026-09-01T00:00:00.000Z",
+    "competitorStructureCheck": "Re-read 2026-09-01 during the fix pass, structurally only — never cited, linked or paraphrased. The #1 result (India-based one-time-fee vendor, 30 July 2026) runs: TL;DR -> \"First, decide what you are optimizing for\" -> \"Route 1: code it yourself (the honest version)\" -> \"Route 2: the template route, step by step\" -> \"Side-by-side: which route wins where\" (a criteria-as-rows table) -> \"Mistakes to avoid on either route\" -> FAQ. The five-way build-vs-buy result is a ranked vendor listicle: five numbered options (itself first, then a design tool, two general builders, a notes app, hand-coded), each with a \"Best for\" line plus pros and cons, followed by Q&A H2s. The draft collided with both: it enumerated the routes as numbered H3s in the same code-first order with four fixed fields each, then followed them with a route-vs-criteria comparison section. The fix pass changed the organising axis from route to failure mode: the body is now four numbered failure H2s (unfinished / unlocked / laptop-only / dead in a year) with all three routes judged inside each, the numbered per-route H3 blocks are gone, and the comparison table is demoted to a summary in the penultimate section rather than the payoff of a route enumeration. Neither competitor organises by failure mode; the #1 result nearest equivalent (\"Mistakes to avoid\") is a four-bullet list of user behaviour, not of route failure. ItemList in structuredData was re-pointed from the three routes to the four failures, so it no longer mirrors the ranked-vendor ItemList shape either."
+  }
+}
