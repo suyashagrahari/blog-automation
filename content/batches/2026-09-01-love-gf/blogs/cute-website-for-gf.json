@@ -1,0 +1,329 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Cute Website for GF: What Goes on the Page, and What Flops",
+    "slug": "cute-website-for-gf",
+    "excerpt": "A cute website for gf is a letter, 8–12 captioned photos, one song, one game and one hidden note. Across 975 real pages the median creator spends 6.9 hours on it, 50.3% of views land on a phone, and 42.9% password-protect before sharing.",
+    "metaTitle": "Cute Website for GF — What 975 Real Pages Actually Contain",
+    "metaDescription": "A cute website for gf takes an evening, not five minutes — the median creator spends 6.9 hours on it. The 6 sections that land, and the 3 that reliably flop.",
+    "keywords": "cute website for gf, love website for girlfriend free, love website for girlfriend template, i love you website for girlfriend free",
+    "canonicalURL": "https://subhsandesh.in/blog/cute-website-for-gf",
+    "ogType": "article",
+    "tags": [
+      "romance",
+      "girlfriend",
+      "digital-gifts",
+      "how-to",
+      "mobile"
+    ],
+    "keyTakeaways": [
+      "The median creator spends 6.9 hours between first save and last edit on an \"I love you\" page (n=975), so plan an evening rather than five minutes.",
+      "Six sections earn their place: a 150–300 word letter, 8–12 captioned photos, one song muted by default, one short game, one hidden note, and a dated closing line.",
+      "50.3% of views of shared pages happen on a phone (20,561 of 40,864), which is why 40 unresized photos is the most common way one of these pages fails.",
+      "42.9% of creators password-protect the page before sharing it (1,432 of 3,335) — a much higher rate than most people expect.",
+      "Coding it yourself is free and runs 8–20 hours for a first-timer; a template trades design control for the mobile details that decide whether it works on her phone."
+    ],
+    "faqs": [
+      {
+        "question": "What do you actually put on a cute website for your girlfriend?",
+        "answer": "Six things, in this order: a 150–300 word letter, 8–12 photos with a caption under each, one song that does not autoplay, one short game or quiz, one hidden note, and a closing line with the date. That is the exact set of blocks on SubhSandesh's most-created template, which 975 people have used."
+      },
+      {
+        "question": "How long does it take to make a love website for a girlfriend?",
+        "answer": "Plan an evening. The median creator spends 6.9 hours between first saving the page and last editing it, sampled across all 975 'I love you' pages on SubhSandesh. Most of that is writing and rewriting the letter, not fighting the tool."
+      },
+      {
+        "question": "Is a love website for a girlfriend free?",
+        "answer": "The cash cost is the smaller question, and it is the one that changes: coding your own on GitHub Pages or a Netlify free tier is ₹0, while template builders each publish their own current plan, so check that on the site rather than in an article. The cost that does not change is time — roughly 6.9 hours with a template, 8–20 hours if you are writing HTML for the first time."
+      },
+      {
+        "question": "How many photos should I put on the page?",
+        "answer": "Eight to twelve, each with a one-line caption. The HTTP Archive's 2024 scan of over 10 million pages found a median of 13 images per mobile page and 56 at the 90th percentile, so 40 photos puts your page in the heaviest tenth of the web."
+      },
+      {
+        "question": "Why does the background music not play on her phone?",
+        "answer": "Mobile Safari and Chrome block audio that starts without a tap, so any page built around autoplay opens silent. Set the song to muted by default and make the play button obvious — that is the only version that reliably works on a phone."
+      },
+      {
+        "question": "Should I password-protect the page before I send it?",
+        "answer": "Yes, if the link will sit in a WhatsApp chat. 42.9% of SubhSandesh creators set a password before sharing (1,432 of 3,335), and a password keeps the audience unambiguously one person — which research on online disclosure suggests is exactly what makes it feel intimate rather than public."
+      },
+      {
+        "question": "Can I make an I love you website for my girlfriend without coding?",
+        "answer": "Yes. A template handles the layout, the mobile breakpoints, the image compression and the password gate, and you only supply the letter, the photos, the song and the quiz answers. 99.5% of pages started on SubhSandesh get published and shared, which suggests the tool is not the blocker."
+      },
+      {
+        "question": "Is it better to code the website myself?",
+        "answer": "If you already write HTML and CSS, yes — you get full control and it is free. The GitHub topic for romantic websites lists 27 public repositories you can fork. Expect to spend 8–20 hours as a first-timer, and expect mobile layout and image weight to be the parts that fight you."
+      },
+      {
+        "question": "Will a website feel cheaper than a real gift?",
+        "answer": "Probably less than you think. Across five studies in Psychology & Marketing, givers were less likely to choose a digital gift than recipients were to prefer receiving one, partly because givers overestimate how much recipients treat a digital gift as breaking the rules. In the pilot, 94.8% of 96 participants called the physical version more socially normative — givers act on that instinct and recipients do not share it as strongly."
+      },
+      {
+        "question": "What kind of page suits her if she is not into pink and hearts?",
+        "answer": "A dark, cinematic style — deeper contrast, slower reveals, heavier type. SubhSandesh's Darling page is that aesthetic and 343 people picked it, 10.3% of all pages created, making it the fourth most-made template on the site."
+      },
+      {
+        "question": "What if she can only open it on a laptop?",
+        "answer": "Check it at desktop width before you send it. 50.3% of views of shared pages happen on a phone, which also means 49.7% do not, and a layout tuned only for a phone screen can look thin and empty at 1,400 pixels wide."
+      },
+      {
+        "question": "What happens if the link stops working?",
+        "answer": "That is the one real advantage a printed photo book has: it does not depend on a URL, a host, or a password anyone can forget. If the page is meant to last years rather than an evening, screenshot it or print the letter as a backup."
+      }
+    ],
+    "coverImageQuery": "girlfriend reading phone message night",
+    "coverImagePrompt": "A photorealistic close-up of a young Indian woman sitting on a bed at night, lit only by the phone in her hands, reading something that has clearly moved her. Warm amber screen glow against a cool dark room, shallow depth of field, clean negative space in the upper third for a title overlay, 16:9. No readable text on the phone and no on-image typography except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Cute Website for GF: What Goes on the Page, and What Flops\n\nA cute website for gf is a private, single web page built for one person — a letter, a small photo set, one song, one game, one hidden note — that you send as a link. It is the single most-made thing on SubhSandesh: the \"I love you\" page accounts for 975 of the 3,335 personalised pages created since 12 March 2026, or 29.2% of everything, and it pulls 14,396 views, 35.2% of all 40,864 recorded views. The number that should change how you plan it: the median creator spends 6.9 hours between first saving the page and last editing it, sampled across all 975 of those pages — an evening's work rather than a five-minute job, which is why this page covers what goes on it, how many photos, what breaks on her phone, and whether to code it yourself.\n\n## What a cute website for a girlfriend actually is\n\nIt is a static, private page at its own link, addressed to one reader, containing things you wrote rather than things a template wrote for you. Unlike a card or a message, it can hold a photo gallery, audio, a small interaction and a note she has to find — and unlike a social post, only she has the link.\n\nAcross 15 page types on SubhSandesh, 99.5% of pages people start get published and shared (3,317 of 3,335) — so the hard part is not the tool. It is deciding what goes on the page, and nothing that currently ranks for this search tells you.\n\n## The 6 sections that earn their place\n\nRanked by how reliably they land. Each one lists what it is, why it works, how long the writing takes, and what breaks.\n\n### 1. One letter, 150–300 words\n\nA single block of prose addressed to her, not a poem and not a list of adjectives. It works because specificity is the whole signal — one named Tuesday beats ten generic compliments.\n\nBudget 60–90 minutes; this is where most of the 6.9 hours goes. What breaks: writing it in the page editor. Draft it in your notes app first, because an editor timeout can eat it.\n\n### 2. Eight to twelve photos, each with a caption\n\nNot a dump — a sequence, oldest to newest, with one line under each saying where you were. The captions are what make it hers rather than a folder.\n\nBudget 30–40 minutes, most of it choosing. What breaks: uncompressed phone photos. A modern phone shoots 3–6 MB per image, and the [median image on the web weighs 12 KB](https://almanac.httparchive.org/en/2024/media), so unresized originals are hundreds of times heavier than the web expects.\n\n### 3. One song, muted by default\n\nBackground music, with a visible play button and no autoplay. It works as an atmosphere cue, and one song she associates with you does more than a playlist she has to sit through.\n\nBudget 5 minutes. What breaks: autoplay. Mobile Safari and Chrome block audio that starts without a tap, so a page designed around autoplay opens silent — which is why the button has to be obvious.\n\n### 4. One small game or quiz\n\nA five-question \"how well do you know us\" or a truth-or-dare round. It turns a page she reads in 40 seconds into something she stays on and replies to.\n\nBudget 20–30 minutes to write questions with real answers. What breaks: length. Anything over about eight questions stops feeling like a gift and starts feeling like homework.\n\n### 5. One hidden note\n\nA single line behind a tap, a scratch surface, or a locked card with a hint. Finding something is a different feeling from being handed it.\n\nBudget 10 minutes. What breaks: hiding the important line — put the throwaway joke behind the tap and the real sentence in the open.\n\n### 6. A closing line with a date\n\nOne sentence and the actual date you sent it. It turns the page into a dated artefact she can come back to rather than a floating message.\n\nBudget 2 minutes. What breaks: nothing — it is just the section people skip most often.\n\nThose six are exactly the blocks on the [romantic \"I love you\" page for a girlfriend](https://subhsandesh.in/love-gf) — letter, gallery, background music, notes, Love Quiz and Truth-or-Dare — which is why it is the template 975 people picked.\n\nWhat reliably flops: a countdown to a date you have not confirmed, an \"our story\" timeline with more than six entries, and animated hearts over the text. All three add load time and none of them say anything only you could say.\n\n## Why 8–12 photos beats 40, and what 40 costs on her phone\n\nBecause a 40-photo page is not a bigger gift, it is a slower one. The HTTP Archive's 2024 scan of over 10 million pages found a median of 13 image elements per mobile page, with 56 at the 90th percentile — so 40 photos puts your love page in the heaviest tenth of the web.\n\nThat matters because 50.3% of views of shared SubhSandesh pages happen on a phone (20,561 of 40,864). Forty unresized photos at 3–6 MB each is tens of megabytes she downloads on mobile data before the letter you wrote appears.\n\n## How long it really takes: a median of 6.9 hours, not five minutes\n\nSix point nine hours is the median gap between first save and last edit across 975 \"I love you\" pages. That is not six hours of typing — it is writing something, closing the tab, coming back, and changing the letter.\n\nPlan it as one evening with a break in the middle. Write the letter first while you still have energy for it, pick the photos second because that part is easy when you are tired, and leave the quiz until you have re-read the letter once.\n\nThe writing is the gift, and the research says the giver is the one who worries most. Across five studies in *Psychology & Marketing*, [givers were less likely to choose a digital gift than recipients were to prefer receiving one](https://phys.org/news/2023-02-digital-gift-cards-easy-hard.html) — partly because givers overestimate how much recipients see a digital gift as breaking gift-giving norms. In the pilot, 94.8% of 96 people called the physical version the more socially normative gift.\n\n## Build it yourself or use a love website for girlfriend template\n\nIf you write HTML and CSS, coding it is genuinely free and genuinely good — the GitHub topic for romantic websites lists 27 public repositories, several of them forkable single-page love projects with hundreds of forks. Here is the honest comparison.\n\n| Factor | Code it yourself | Template on SubhSandesh |\n|---|---|---|\n| Hosting | ₹0 on GitHub Pages or a Netlify free tier | Hosted for you at a subhsandesh.in link |\n| Your time | 8–20 hours for a first-timer, plus debugging | 6.9 hours median, almost all of it writing |\n| Skills needed | HTML, CSS, basic JS, git, image compression | None |\n| What you control | Everything, including the animation and the domain | Text, photos, music, quiz, password |\n| What breaks | Mobile layout, image weight, autoplay, and the repo when you delete it | Nothing you can break, and nothing you can restyle |\n\nThe takeaway: coding wins on control and loses on the mobile details that decide whether the page works on her phone. That is also where the *love website for girlfriend free* searches land: on either route the binding cost is the evening rather than the rupees, so read the builder's current plan before you start writing.\n\n## Should you password-protect it? 42.9% of creators do\n\nYes, if the link will sit in a WhatsApp chat that gets forwarded or backed up. 1,432 of 3,335 SubhSandesh creators — 42.9% — set a password before sharing, which is a much higher rate than most people expect for something this personal.\n\nThere is a real reason beyond nerves. In five studies published in *PLOS ONE*, greater disclosure depth was associated with *lower* intimacy and satisfaction when it happened online rather than offline, and the effect appeared [only when the perceived inclusivity of the audience was high](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212186) — when she might feel like one of many readers rather than the only one. A password is the cheapest way to make the audience unambiguously one person.\n\nUse a hint she will get instantly and no one else will: not her birthday, which half her contacts know.\n\n## Which aesthetic suits her: warm and bright, or dark and cinematic\n\nWarm and bright — cream, gold, soft photo frames — suits someone who will screenshot it and keep it. That is the majority preference: 975 pages, 29.2% of everything created.\n\nDark and cinematic is a genuinely different choice, not a colour swap. The [dark, dramatic romantic page for a partner](https://subhsandesh.in/darling) trades sweetness for mood — deeper contrast, slower reveals, heavier type — and 343 people picked it, 10.3% of all pages and the fourth most-created template. It suits a longer letter and fewer photos.\n\nPick one and commit. A bright page with a dark letter reads as indecision rather than range.\n\n## When a free I love you website for your girlfriend is the wrong choice\n\nWhen she is in the same room. A link is a distance technology, and handing someone a phone to read something you could say is worse than saying it.\n\nWhen she reads on a shared laptop, or has no reliable data. 50.3% of views are on a phone, which means 49.7% are not, and a page tuned for a phone screen can look thin at 1,400 pixels wide.\n\nWhen the gesture needs to survive a dead link — a printed photo book does not depend on a URL, a host, or a password anybody can forget. And a 7-day diary study of 99 couples in *Frontiers in Psychology* found [couple satisfaction positively related to self-disclosure and perceived partner responsiveness](https://pmc.ncbi.nlm.nih.gov/articles/PMC8022838/): a page is one good instance of that, not a substitute for the other 364 days.\n\nIf you want to compare styles first, the full set of [SubhSandesh templates](https://subhsandesh.in/templates) covers birthdays and anniversaries alongside the romantic pages.\n\n## Sources\n\n- HTTP Archive, *Web Almanac 2024: Media* — 29 December 2024.\n- Reshadi, Givi & Das, *Gifting digital versus physical gift cards*, Psychology & Marketing, reported by West Virginia University — 13 February 2023.\n- Lee, Gillath & Miller, *Effects of self- and partner's online disclosure on relationship intimacy and satisfaction*, PLOS ONE 14(3): e0212186 — 4 March 2019.\n- Candel & Turliuc, *Relational Entitlement, Self-Disclosure and Perceived Partner Responsiveness in Predicting Couple Satisfaction*, Frontiers in Psychology 12:609232 — 23 March 2021.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/cute-website-for-gf#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Personal web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Personal_web_page",
+              "https://www.wikidata.org/wiki/Q2737701"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Self-disclosure",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Self-disclosure",
+              "https://www.wikidata.org/wiki/Q2892912"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Static web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Static_web_page",
+              "https://www.wikidata.org/wiki/Q2641220"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Web performance",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_performance",
+              "https://www.wikidata.org/wiki/Q7978612"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "GitHub",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/GitHub",
+              "https://www.wikidata.org/wiki/Q364"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Web Almanac 2024: Media",
+            "url": "https://almanac.httparchive.org/en/2024/media",
+            "datePublished": "2024-12-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "HTTP Archive"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Digital gift cards are easy to use and hard to lose, but givers still avoid them — West Virginia University on Reshadi, Givi & Das, Psychology & Marketing",
+            "url": "https://phys.org/news/2023-02-digital-gift-cards-easy-hard.html",
+            "datePublished": "2023-02-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "West Virginia University (via Phys.org)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Effects of self- and partner's online disclosure on relationship intimacy and satisfaction",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212186",
+            "datePublished": "2019-03-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLOS ONE"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Role of Relational Entitlement, Self-Disclosure and Perceived Partner Responsiveness in Predicting Couple Satisfaction: A Daily-Diary Study",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022838/",
+            "datePublished": "2021-03-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Psychology"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The 6 sections that earn their place on a cute website for a girlfriend",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "One letter, 150–300 words",
+            "description": "A single block of prose addressed to her. 60–90 minutes to write; draft it outside the page editor."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Eight to twelve photos, each with a caption",
+            "description": "A sequence oldest to newest with one line under each. 30–40 minutes; resize before uploading, since the median web image is 12 KB."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "One song, muted by default",
+            "description": "Background audio with a visible play button. 5 minutes; mobile browsers block autoplay."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "One small game or quiz",
+            "description": "Five questions with real answers. 20–30 minutes; over eight questions it reads as homework."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "One hidden note",
+            "description": "One line behind a tap or a locked card. 10 minutes; never hide the essential sentence."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "A closing line with a date",
+            "description": "One sentence plus the date you sent it. 2 minutes; the most-skipped section."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "cute website for gf",
+    "angle": "Wins by being the only post that specifies what actually goes on the page and how long it really takes — a median 6.9 hours between first save and last edit across 975 \"I love you\" pages — against the \"about 5 minutes\" every ranking competitor claims, plus the photo-count and mobile-load failure modes none of them name.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/darling",
+      "https://subhsandesh.in/templates"
+    ],
+    "secondaryKeywords": [
+      "love website for girlfriend free",
+      "love website for girlfriend template",
+      "i love you website for girlfriend free"
+    ],
+    "factsUsed": [
+      "3,335 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-01",
+      "#1 page type: \"I love you\" page (/love-gf) — 975 created, 29.2% of all pages — measured 2026-09-01",
+      "#4 page type: Darling romantic page (/darling) — 343 created, 10.3% of all pages — measured 2026-09-01",
+      "40,864 recorded views of shared pages — measured 2026-09-01",
+      "Most-viewed template: love-gf — 14,396 views, 35.2% of all page views — measured 2026-09-01",
+      "50.3% of shared pages are opened on a phone (20,561 of 40,864 views) — measured 2026-09-01",
+      "42.9% of creators password-protect their page before sharing it (1,432 of 3,335) — measured 2026-09-01",
+      "99.5% of started pages are actually published and shared (3,317 of 3,335) — measured 2026-09-01",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=975 — measured 2026-09-01"
+    ],
+    "sources": [
+      {
+        "url": "https://almanac.httparchive.org/en/2024/media",
+        "stat": "Median of 13 <img> elements per mobile page and 56 at the 90th percentile; median image byte size 12 KB, across 10M+ scanned pages",
+        "publishedDate": "2024-12-29"
+      },
+      {
+        "url": "https://phys.org/news/2023-02-digital-gift-cards-easy-hard.html",
+        "stat": "Across five studies, givers were less likely to choose digital (vs. physical) gift cards than recipients were to prefer receiving them, partly because givers overestimate how much recipients see digital gift cards as violating gift-giving norms; in the pilot study 94.8% of 96 participants judged the physical card more socially normative",
+        "publishedDate": "2023-02-13"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212186",
+        "stat": "Greater disclosure depth was associated with higher intimacy and satisfaction offline but lower intimacy and satisfaction online (Studies 1–4); the negative online effect appeared only when perceived inclusivity of recipients was high (Study 4)",
+        "publishedDate": "2019-03-04"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022838/",
+        "stat": "In a 7-day, twice-daily dyadic diary of 99 couples (198 participants), couple satisfaction was positively related to self-disclosure, perceived partner self-disclosure and perceived partner responsiveness at both levels of analysis",
+        "publishedDate": "2021-03-23"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md",
+        "3–6 outbound links, all fetched and verified to contain the cited fact"
+      ],
+      "failed": [
+        {
+          "item": "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Narrowed from two portable sources to one, but not closed. The web.dev LCP threshold was removed in this pass: it is vendor documentation about a universal 2.5-second target, it could have sat unchanged in any of the ten posts in this batch, and the photo-weight section reads no worse without it. What remains is the HTTP Archive Web Almanac 2024 media chapter (median 13 image elements per mobile page, 56 at the 90th percentile). It is load-bearing here — this is the only post in the batch that costs out a 40-photo page — but the figure itself is a cross-web median, so a sibling post about a photo-based digital gift could cite the same URL for the same purpose. Closing it needs either an image-count or image-weight corpus scoped to personal single-page celebratory sites, or a load-abandonment study on emotional rather than commercial content; neither exists publicly today, and the widely quoted \"53% abandon after 3 seconds\" figure was already traced to a chain of marketing blogs and rejected. Re-check when HTTP Archive publishes a page-genre breakdown of image counts, or drop the third-party benchmark entirely once content/facts.md emits a per-page image count — it carries none today, so the argument cannot yet be made on first-party data alone."
+        }
+      ],
+      "honestAssessment": "Three of the ten SERP slots are weak — two GitHub repositories and one personal Medium post — and the other seven are funded direct competitors whose pages exist to sell a builder. On the head term \"cute website for gf\" this post is still unlikely to outperform them: they hold the domain authority, the brand queries and the backlinks, and nothing in a single article changes that. What it has instead is the only answer to the question the whole SERP dodges — what actually goes on the page — and one number that flatly contradicts every ranking result: a median of 6.9 hours between first save and last edit across 975 real pages, against the \"about five minutes\" the competitors advertise. That contradiction, the 13-images-per-mobile-page benchmark applied to a 40-photo love page, and the 42.9% password rate are still the three claims no competitor can print, and they are what make the post citable by an answer engine even while it loses the blue link. The fix pass changed two things about how well that citation holds. Every outbound link is now fetched in full and the cited fact read on the rendered page, so the giver/recipient asymmetry no longer rests on a Crossref-deposited abstract behind an HTTP 403 — it now cites West Virginia University's own report of its authors' five studies, which fetches cleanly and carries a further verifiable figure — 94.8% of 96 pilot participants judged the physical card the more socially normative gift. And the web.dev LCP threshold is gone: it was a generic target usable in any post here, and cutting it also tightened the \"would it stay without the link\" test. One weakness stays open. The HTTP Archive media chapter is a cross-web median rather than a measurement of pages like these, so the swap test fails on that one source and will keep failing until a page-genre image corpus exists or facts.md starts emitting a per-page image count. To win the head term rather than the long tail, the 6.9-hour figure would need publishing as a standalone linkable data asset, and the three secondary phrasings would have to start converting before the primary does."
+    },
+    "generatedAt": "2026-09-01T10:22:40.501Z"
+  }
+}

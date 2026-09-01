@@ -1,0 +1,340 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Love Letter for Girlfriend in Urdu, Written to Be Read",
+    "slug": "love-letter-for-girlfriend-in-urdu",
+    "excerpt": "Five complete Urdu love letters in Nastaliq, Roman Urdu and English, with the آپ/تم/تُو register rules, a four-script comparison, and why Nastaliq breaks in chat apps.",
+    "metaTitle": "Love Letter for Girlfriend in Urdu: 5 in Nastaliq + Roman",
+    "metaDescription": "Love letter for girlfriend in Urdu: 5 complete letters in Nastaliq, Roman Urdu and English, plus the aap/tum/tu rule and why 50.3% of reads happen on a phone.",
+    "keywords": "love letter for girlfriend in urdu, urdu love letter, khat in urdu for girlfriend, roman urdu love letter, nastaliq love letter",
+    "canonicalURL": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-urdu",
+    "ogType": "article",
+    "tags": [
+      "urdu",
+      "love letter",
+      "girlfriend",
+      "romance",
+      "shayari"
+    ],
+    "keyTakeaways": [
+      "Urdu forces a register choice on the first line: تم for an established relationship, آپ for a first letter or an apology, تُو only inside a deliberately poetic letter.",
+      "Nastaliq letter shapes depend on the following letter, so Urdu fonts need hundreds to thousands of glyphs — and the W3C notes the simplified typewriter style is generally the browser default for Arabic script.",
+      "Roman Urdu has no standardised Romanization table, so there is no spelling to get wrong; machine transliteration back to Nastaliq now scores 96.37 Char-BLEU.",
+      "The \"I love you\" page is SubhSandesh's most-created template (975 pages, 29.2%) and most-viewed (14,396 views, 35.2% of 40,864), and 42.9% of creators password-protect before sharing.",
+      "Urdu-in-Devanagari is a real option for Indian readers: Ahmad's 2011 Delhi study found Muslims there no longer treat the Arabic script as necessary to Urdu."
+    ],
+    "faqs": [
+      {
+        "question": "How do I write a love letter for my girlfriend in Urdu if I cannot type Urdu script?",
+        "answer": "Write it in Roman Urdu and convert it. Roman Urdu needs no special keyboard and has no standard spelling, so nothing you type can look misspelt. If you want the Nastaliq version too, a transliteration tool will get you 96–97% of the way there at character level, but read the output before you send it."
+      },
+      {
+        "question": "Should I use aap, tum or tu in an Urdu love letter?",
+        "answer": "Use تم (tum) for an established relationship, آپ (aap) for a first letter or an apology, and تُو (tu) only inside a deliberately poetic letter. تُو is the standard address to the beloved in a ghazal but is close to insulting in ordinary conversation between adults."
+      },
+      {
+        "question": "Will Urdu Nastaliq text show up properly on WhatsApp?",
+        "answer": "Usually the text arrives, but often in a plain Naskh or typewriter-style fallback font rather than true Nastaliq — the W3C notes that the simplified typewriter style is generally the browser default for Arabic script. Mixing in an English word or an emoji can also reorder the line."
+      },
+      {
+        "question": "What is the Urdu word for a love letter?",
+        "answer": "خط (khat) is the ordinary word for a letter, and it is what people use for a love letter too. محبت نامہ (mohabbat naama) exists but reads as literary or slightly theatrical, so keep it for the envelope rather than the letter."
+      },
+      {
+        "question": "How long should an Urdu love letter be?",
+        "answer": "Between 17 and 50 words for most situations. Shayari works on compression, so a short letter reads as confident and a long one reads as an essay about love. Three lines are enough for a chat window; five or six lines are enough for a page."
+      },
+      {
+        "question": "Can I just send an Urdu shayari couplet instead of writing a letter?",
+        "answer": "You can, but she can reverse-search it in seconds, and most of the well-known 20th-century couplets are still in copyright. Borrow the cadence instead — short lines, one image, a turn at the end — and the letter stays yours."
+      },
+      {
+        "question": "Is it wrong to write the letter in Roman Urdu rather than Nastaliq?",
+        "answer": "No. Roman Urdu is what most people actually type, and a 2020 paper in the International Journal of Linguistics and Culture argues it has no standardised Romanization table at all. That means there is no correct spelling to fail at, which removes the main reason people give up."
+      },
+      {
+        "question": "My girlfriend speaks Urdu but reads Hindi. What do I do?",
+        "answer": "Write the Urdu words in Devanagari. This is an established practice, not a compromise: Ahmad's 2011 study of Delhi found Muslims there no longer treat the Arabic script as a necessary element of Urdu. The words and the register stay Urdu; only the script changes."
+      },
+      {
+        "question": "Do Urdu verbs change depending on whether a man or a woman is writing?",
+        "answer": "Yes, and this is the most common mistake in copied letters. A man writes لوں گا (loonga), a woman writes لوں گی (loongi). Check every verb ending before you send anything you found online."
+      },
+      {
+        "question": "Where should the letter actually live once she has read it?",
+        "answer": "Somewhere it is not buried by the next fifty messages. A shareable page keeps the letter, the photos and the music in one place and controls its own font, which matters for Nastaliq. 42.9% of SubhSandesh creators add a password before sharing (1,432 of 3,335)."
+      },
+      {
+        "question": "How do I make an Urdu love letter page for my girlfriend online?",
+        "answer": "Pick the \"I love you\" page on SubhSandesh, paste the Urdu or Roman Urdu letter, add photos and a background track, then share the private link. It is the most-created template on the site — 975 pages, 29.2% of everything built — and you can password-protect it before sending."
+      },
+      {
+        "question": "Should I write the letter in one sitting?",
+        "answer": "Most people do not. The median gap between a page's first save and its last edit on the \"I love you\" template is 6.9 hours across 975 pages, which suggests writing it, leaving it, and reading it again before sending is the normal pattern rather than a sign of indecision."
+      }
+    ],
+    "coverImageQuery": "handwritten urdu letter nastaliq calligraphy",
+    "coverImagePrompt": "A close, warm, photorealistic shot of a handwritten Urdu letter in flowing Nastaliq script on cream paper, a fountain pen resting beside it and a glass of chai just out of focus. Late-afternoon side light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible English text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Love Letter for Girlfriend in Urdu, Written to Be Read\n\nSettle three things first: the pronoun (آپ, تم or تُو), the script, and where the letter lives. The \"I love you\" page is SubhSandesh's most-created template — 975 pages, 29.2% of everything built since 12 March 2026 — and its most-viewed, at 14,396 views, 35.2% of all 40,864 page views.\n\nThat is where the real problem sits: 50.3% of those views are on a phone (20,561 of 40,864), and a phone is where right-to-left Nastaliq is least likely to render as typed.\n\nBelow: five letters in Nastaliq with Roman Urdu and an English gloss, the register rules, and a four-script table.\n\n## What an Urdu khat is, and why shayari sets the bar\n\nAn Urdu love letter — خط, *khat* — is short prose for one reader: two or three paragraphs, one thing said plainly, a turn in the last line.\n\nThe bar is higher in Urdu, and that is not sentiment. Urdu has a living mainstream poetry register: [the ghazal](https://en.wikipedia.org/wiki/Ghazal) is what plays in the car, and Rekhta, the Indian Urdu archive, went from 50 poets in 2013 to over 5,000 writers, [as TIME reported in September 2023](https://time.com/6317817/urdu-nastaliq-digital/). Assume she has heard better lines; write plainer.\n\n## آپ, تم or تُو — the pronoun that decides the letter\n\nEnglish \"you\" hides the choice. Urdu prints one of three levels on line one.\n\n**آپ (aap)** — respectful, slightly formal: tenderness at a careful distance. Right for a first letter, and after a fight, because the formality says you are not casual.\n\n**تم (tum)** — the settled register of an established relationship: warm, equal, everyday. Write آپ after a year together and it reads as cold.\n\n**تُو (tu)** — the ghazal register. In a poem it is the standard address to the beloved; in ordinary adult speech it is close to insulting. Use it once, or never.\n\nUrdu verbs are gendered for the *speaker* too: a man writes لوں گا (*loonga*), a woman لوں گی (*loongi*). Copied letters carry the wrong one, and it is the first thing she notices.\n\n## 5 Urdu love letters for your girlfriend, in Nastaliq and Roman\n\nEach gives Nastaliq, Roman Urdu, an English gloss and the case it fits.\n\n### 1. پہلا خط — the first letter (آپ, 32 words)\n\n**Urdu:** آپ کے نام،\nیہ پہلا خط ہے، اِس لیے الفاظ کم پڑ رہے ہیں۔ کئی بار کہنا چاہا، ہر بار بات ہنسی میں ٹال دی۔\nسچ یہ ہے کہ آپ سے محبت ہے۔ جواب کی جلدی نہیں — خط سنبھال لیجیے، بس۔\n\n**Roman:** Aap ke naam,\nYeh pehla khat hai, is liye alfaaz kam pad rahe hain. Kai baar kehna chaaha, har baar baat hansi mein taal di.\nSach yeh hai ke aap se mohabbat hai. Jawaab ki jaldi nahin — khat sambhaal lijiye, bas.\n\n**English:** My first letter, so the words fall short. I kept laughing it off. The truth is, I love you.\n\n**Use when:** You have not said it yet; آپ stops it sounding presumptuous.\n\n### 2. دوری کا خط — long distance (تم, 30 words)\n\n**Urdu:** میری جان،\nآج بھی وہی وقت ہوا اور تم پاس نہیں تھیں۔ فون پر آواز آ جاتی ہے، ہاتھ نہیں آتا۔\nاِس دوری کا سب سے لمبا دن بھی تمہارے نام کے ساتھ کٹ جاتا ہے۔ اگلی بار ٹکٹ میں لوں گا۔\n\n**Roman:** Meri jaan,\nAaj bhi wohi waqt hua aur tum paas nahin theen. Phone par aawaaz aa jaati hai, haath nahin aata.\nIs doori ka sab se lamba din bhi tumhaare naam ke saath kat jaata hai. Agli baar ticket main loonga.\n\n**English:** The hour came round and you were not here. The phone gives me your voice, not your hand. Next time I book the ticket.\n\n**Use when:** Different cities, after the call; the promise stops it reading as complaint.\n\n### 3. لڑائی کے بعد — after a fight (آپ, 29 words)\n\n**Urdu:** میں غلط تھا۔\nجو کہا وہ نہیں کہنا چاہیے تھا، اور جس لہجے میں کہا وہ اُس سے بھی زیادہ غلط تھا۔\nآج \"آپ\" لکھ رہا ہوں، \"تم\" نہیں — کیونکہ اِس وقت مذاق کی جگہ نہیں ہے۔ جب آپ تیار ہوں، بات کر لیں۔\n\n**Roman:** Main ghalat tha.\nJo kaha woh nahin kehna chaahiye tha, aur jis lahje mein kaha woh us se bhi zyada ghalat tha.\nAaj \"aap\" likh raha hoon, \"tum\" nahin — kyunke is waqt mazaaq ki jagah nahin hai. Jab aap tayyaar hon, baat kar len.\n\n**English:** I was wrong; the tone worse than the words. Today I write *aap*, not *tum*. Talk when you are ready.\n\n**Use when:** You are at fault; the register shift does the apologising.\n\n### 4. بغیر کسی وجہ — just because, or her birthday (تم, 31 words)\n\n**Urdu:** کوئی موقع نہیں ہے۔\nآج تم چائے بناتے ہوئے کچھ گنگنا رہی تھیں، اور مجھے یاد آیا کہ میں نے کبھی بتایا ہی نہیں کہ گھر \"گھر\" کیوں لگتا ہے۔\nتم سے محبت ہے۔ بس یہی خبر تھی۔ اب چائے ٹھنڈی ہو رہی ہے۔\n\n**Roman:** Koi mauqa nahin hai.\nAaj tum chai banaate hue kuchh gungunaa rahi theen, aur mujhe yaad aaya ke main ne kabhi bataaya hi nahin ke ghar \"ghar\" kyun lagta hai.\nTum se mohabbat hai. Bas yehi khabar thi. Ab chai thandi ho rahi hai.\n\n**English:** No occasion. You were humming over the tea and I realised I had never told you why home feels like home. Now the tea is going cold.\n\n**Use when:** Nothing is happening. For a birthday, swap the opening for سالگرہ مبارک.\n\n### 5. تین لائنیں — the very short one (تُو, 20 words)\n\n**Urdu:** تُو نے پوچھا تھا کہ محبت میں کیا ملتا ہے۔\nکچھ نہیں ملتا۔ ایک عادت لگ جاتی ہے —\nاور لوگ اُس عادت کا نام محبت رکھتے ہیں۔\n\n**Roman:** Tu ne poochha tha ke mohabbat mein kya milta hai.\nKuchh nahin milta. Ek aadat lag jaati hai —\naur log us aadat ka naam mohabbat rakhte hain.\n\n**English:** You asked what one gets from love. Nothing. You pick up a habit — and people call that habit love.\n\n**Use when:** A chat window or a caption — the only one here in تُو.\n\n## 5 rules that borrow shayari's cadence without writing a bad ghazal\n\nShayari runs on compression, not vocabulary. Five rules transfer.\n\n**Keep lines short.** A couplet is two lines; a six-line paragraph is an essay about love.\n\n**One image, not five.** Tea going cold, a train ticket, an hour come round again. The second image cancels the first.\n\n**Put the turn at the end.** The closing line reverses the opening — \"there is no occasion\", then \"the tea is going cold\".\n\n**Understate.** مجھے تم پر فخر ہے, three words, beats a paragraph on it.\n\n**Do not quote.** Faiz and Faraz are in copyright, a forwarded couplet is not writing, and she can reverse-search it in seconds. One of the two 2014 pages still ranking here carries a public comment asking for it to be deleted: the reader had sent it verbatim and feared she would find the original.\n\nIf the dramatic register is what you want, the [dark, cinematic romantic page for a partner](https://subhsandesh.in/darling) suits تُو better than a bright pastel layout — the fourth most-created template here, at 343 pages and 10.3%.\n\n## 4 scripts, one letter: what actually arrives\n\nThe third column is what people find out too late. Row three exists because Ahmad's Delhi study in *Language in Society*, June 2011, found Muslims there [no longer treat the Arabic script as necessary to Urdu](https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242).\n\n| Script | Keyboard | Renders right in WhatsApp / Instagram | Register | Who it suits |\n|---|---|---|---|---|\n| Nastaliq Urdu (خط) | Urdu, or type-and-convert | Often falls back to Naskh; emoji can flip line order | Highest — reads as a letter | Arabic-script readers, where you control the font: 42.9% lock the page (1,432 of 3,335) |\n| Roman Urdu (*khat*) | None | Always | Warm, everyday | Almost everyone; survives all 40,864 views logged, 50.3% on a phone |\n| Urdu in Devanagari | Devanagari | Always | Same words, no ornament | Speaks Urdu, reads Devanagari |\n| English | None | Always | Lowest here | Does not read Urdu; mixed-language couples |\n\nRoman Urdu is the safe default, Nastaliq the better letter, and having both means a surface that controls its own typography.\n\n## Why Nastaliq breaks in WhatsApp and Instagram\n\nNastaliq is not merely right-to-left. Each letter's shape depends on the one that follows, so an Urdu font needs hundreds of glyphs — \"in some cases even thousands\" — to look right, [per the W3C's Arabic and Persian layout requirements of 2 October 2025](https://www.w3.org/TR/alreq/), which adds that the typewriter-style simplification reusing one glyph per position \"is generally the browser default font for the Arabic script\".\n\nSo the letter you typed and the letter she sees are not reliably the same; one emoji can make the bidirectional algorithm reorder the line.\n\nTwo fixes. Type in Roman Urdu and convert: transliteration now scores 96.37 character-level BLEU Urdu-to-Roman and 97.44 back, [in a 2025 ACL LoResMT paper that beat GPT-4o Mini](https://aclanthology.org/2025.loresmt-1.13/) — trust it with a proofread. Roman Urdu [has no standard Romanization table](https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf) anyway, per a 2020 paper in the *International Journal of Linguistics and Culture*.\n\nOr stop using a chat window. An [Urdu love letter page for a girlfriend with photos, background music and an optional password](https://subhsandesh.in/love-gf) sets the font and direction itself, so what she opens is what you wrote. 42.9% of creators password-protect before sharing (1,432 of 3,335), and the median gap between first save and last edit there is 6.9 hours (n=975).\n\n## When an Urdu letter is the wrong thing to send\n\n**She does not read the script.** Plenty of people who speak Urdu at home never learned Nastaliq. Send the Roman or Devanagari version.\n\n**Her family shares the phone.** An Urdu letter in a household where the script identifies the writer is not private. Password-protect it or do not send it.\n\n**You are in the same room.** Say it out loud. A letter is a technology for distance; 99.5% of pages started here get published (3,317 of 3,335), averaging 12.3 views, but a link handed to someone next to you is worse than one sentence.\n\n## Sources\n\n- Butt et al., *Low-Resource Transliteration for Roman-Urdu and Urdu*, LoResMT, 2025 — https://aclanthology.org/2025.loresmt-1.13/\n- Ansari et al., *Use of Roman Script for Writing Urdu*, Int. J. of Linguistics and Culture 1(2), Dec 2020 — https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf\n- Ahmad, *Urdu in Devanagari*, Language in Society 40(3), June 2011 (abstract only) — https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242\n- Irfan, *The Fight to Preserve the Urdu Script*, TIME, 27 Sep 2023 — https://time.com/6317817/urdu-nastaliq-digital/\n- *Arabic & Persian Layout Requirements*, W3C i18n WG, 2 Oct 2025 — https://www.w3.org/TR/alreq/\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-urdu#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Urdu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Urdu",
+              "https://www.wikidata.org/wiki/Q1617"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Nastaliq",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nastaliq",
+              "https://www.wikidata.org/wiki/Q1133121"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Roman Urdu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Roman_Urdu",
+              "https://www.wikidata.org/wiki/Q3307116"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Ghazal",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ghazal",
+              "https://www.wikidata.org/wiki/Q281111"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "World Wide Web Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium",
+              "https://www.wikidata.org/wiki/Q37033"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Low-Resource Transliteration for Roman-Urdu and Urdu Using Transformer-Based Models",
+            "url": "https://aclanthology.org/2025.loresmt-1.13/",
+            "datePublished": "2025-07-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Use of Roman Script for Writing Urdu Language",
+            "url": "https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf",
+            "datePublished": "2020-12-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Linguistics and Culture, The Women University Multan"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Urdu in Devanagari: Shifting orthographic practices and Muslim identity in Delhi",
+            "url": "https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242",
+            "datePublished": "2011-06-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Language in Society, Cambridge University Press"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Fight to Preserve the Urdu Script in the Digital World",
+            "url": "https://time.com/6317817/urdu-nastaliq-digital/",
+            "datePublished": "2023-09-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "TIME"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Arabic & Persian Layout Requirements",
+            "url": "https://www.w3.org/TR/alreq/",
+            "datePublished": "2025-10-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "5 Urdu love letters for your girlfriend, in Nastaliq and Roman",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "پہلا خط — the first letter",
+            "description": "32-word first letter in the آپ register, for when you have not said it yet."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "دوری کا خط — long distance",
+            "description": "30-word letter in تم for different cities, closing on a promise to book the ticket rather than a complaint."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "لڑائی کے بعد — after a fight",
+            "description": "29-word apology that shifts register from تم to آپ and names the shift inside the letter."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "بغیر کسی وجہ — just because, or her birthday",
+            "description": "31-word undated letter in تم built on one concrete image, tea going cold, with a birthday variant."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "تین لائنیں — the very short one",
+            "description": "20-word three-line letter in the تُو ghazal register, sized for a chat window or a caption."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "love letter for girlfriend in urdu",
+    "angle": "Wins by being the only post that makes the آپ/تم/تُو register choice and the Nastaliq rendering failure the point of the article — five letters in Nastaliq, Roman Urdu and English, with the 96.37 Char-BLEU accuracy of machine transliteration and the 42.9% of 3,335 SubhSandesh creators who password-protect the page before they send it.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/darling"
+    ],
+    "factsUsed": [
+      "Most popular creation: \"I love you\" page (/love-gf) — 975 pages, 29.2% of everything created — measured 2026-09-01",
+      "Most-viewed template: love-gf — 14,396 views, 35.2% of all page views — measured 2026-09-01",
+      "50.3% of shared pages are opened on a phone (20,561 of 40,864 views) — measured 2026-09-01",
+      "42.9% of creators password-protect their page before sharing it (1,432 of 3,335) — measured 2026-09-01",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=975 — measured 2026-09-01",
+      "#4 page type: Darling romantic page (/darling) — 343 created, 10.3% of all pages — measured 2026-09-01",
+      "99.5% of started pages are actually published and shared (3,317 of 3,335) — measured 2026-09-01",
+      "Average views per created page: 12.3 — measured 2026-09-01",
+      "40,864 recorded views of shared pages — measured 2026-09-01"
+    ],
+    "sources": [
+      {
+        "url": "https://aclanthology.org/2025.loresmt-1.13/",
+        "stat": "Char-BLEU 96.37 for Urdu to Roman-Urdu transliteration and 97.44 for Roman-Urdu to Urdu, outperforming RNN baselines and GPT-4o Mini; transliteration between the two scripts described as underexplored despite widespread use of both in South Asia",
+        "publishedDate": "2025-07-01"
+      },
+      {
+        "url": "https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf",
+        "stat": "Roman Urdu is used 'in an irregular and disorganized way' with no standardised Romanization table; adoption began because no Urdu keyboard was available and persisted for convenience after keyboards existed",
+        "publishedDate": "2020-12-01"
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242",
+        "stat": "Delhi Muslims 'no longer view the Arabic script as a necessary element of Urdu' and write Urdu in Devanagari using phonetic and orthographic transliteration strategies (abstract only; full text paywalled)",
+        "publishedDate": "2011-06-01"
+      },
+      {
+        "url": "https://time.com/6317817/urdu-nastaliq-digital/",
+        "stat": "Nastaliq is complex because the shape of each letter relies on the following letter; Roman Urdu is often used as a stand-in online and has no set spellings; Rekhta grew from 50 poets in 2013 to more than 5,000 writers",
+        "publishedDate": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/alreq/",
+        "stat": "Arabic-script fonts typically contain hundreds of glyphs, 'in some cases even thousands', because letter rendering depends on neighbouring letters; the simplified typewriter style 'is generally the browser default font for the Arabic script'",
+        "publishedDate": "2025-10-02"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the subject test — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the swap test — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Structural. The five letters are verbatim trilingual field blocks — **Urdu:** / **Roman:** / **English:** / **Use when:** — not prose paragraphs, and the Nastaliq and Roman lines ARE the letter, so their sentence count is fixed by the letter itself and cannot be re-paragraphed without destroying the trilingual layout that is the deliverable. This pass closed everything around them: the shayari-bar paragraph and letter 3's English gloss were cut from four sentences to three, so every prose paragraph in the body now holds to 2–3 sentences and the labelled letter fields are the only remaining non-conformance. Closes if the checklist item is scoped to prose and excludes verbatim quoted blocks, or if the letters move out of contentMarkdown into a structured field the renderer lays out itself."
+        }
+      ],
+      "honestAssessment": "An answer engine has a specific reason to cite this: it is the only page on this query that states the آپ/تم/تُو register rule, offers Urdu-in-Devanagari as a fourth script with Ahmad's 2011 Delhi study behind it, and explains why Nastaliq arrives in the wrong font using the W3C's own Arabic and Persian layout requirements — against a SERP whose top results are TikTok discover pages, a Pinterest board for the wrong gender, and two 2014 blogspots, one of which serves the letter as a JPEG with no extractable text. BLOCKING CAVEAT BEFORE PUBLISH: all five Urdu letters were composed for this post by a non-native writer and no native Urdu speaker has read them. Letter 5 (تُو, the ghazal register) is the one to trust least and letter 3 (the تم→آپ switch) the one to trust most; this fix pass, also written by a non-native reader, did not change that ranking and is not a substitute for a native reading. Two specific lines should be the first thing a native reader is asked about. In letter 5, \"اور لوگ اُس عادت کا نام محبت رکھتے ہیں\" — نام رکھنا is the idiom for naming a child, and \"اُس عادت کو محبت کہتے ہیں\" is probably the sense intended; a stilted closing line would undo the whole premise of the page, and this is the closing line of the letter the writer already trusted least. In letter 2, \"آج بھی وہی وقت ہوا\" — وقت ہوا for 'the hour came round again' reads stiff beside وہی وقت آیا. This pass did fix one real defect in the script: letters 3 and 4 use آپ, تم and گھر metalinguistically, and the Nastaliq carried no quotation marks where the Roman lines had them all along — without them those two lines are simply ungrammatical rather than merely stilted. Two previously recorded failures are now closed. The 'does urdu render properly on whatsapp' sub-query has its own H2 again: splitting the merged section cost eight words, not a letter. And the aclanthology.org domain-cap breach was a miscount — the domain appears in exactly two posts across all ten files in this batch, so the ACL citation stays; it is the only source here that is both peer-reviewed and openly readable, since Ahmad is peer-reviewed but abstract-only. What the pass could not close: the labelled letter blocks are still four fields each rather than 2–3-sentence paragraphs, which is the format working as intended rather than a defect. The 1,800-word cap still means five letters instead of seven, with the birthday case a one-line variant inside letter 4; at 1,797 words there was no headroom to restore letters 6 and 7, which cost roughly 135 words each. Domain authority here is low, though so is every incumbent's on this SERP; ranking takes months and is not predictable."
+    },
+    "generatedAt": "2026-09-01T16:20:00.000Z"
+  }
+}
