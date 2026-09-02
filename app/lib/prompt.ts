@@ -5,26 +5,44 @@ import type { KeywordRow } from "./types";
 // this list (plus the site root + /templates) so every internal link in a blog
 // actually resolves — never an invented/404 slug. Keep in sync with the live
 // routes under client/app/(templates)/.
+//
+// ── "RESOLVES" MEANS 200, NOT 307 ───────────────────────────────────────────
+//
+// Checked 2026-09-02: ten of the twenty-six URLs in this list were 307 redirects
+// onto five canonical pages, and they had been advertised to every writing agent
+// as valid link targets. 41 of the 147 posts written so far (28%) carry at least
+// one of them, and 7 posts link BOTH a redirect and its destination — the same
+// page twice, under two different anchor texts, which wastes the link and lies
+// to the reader about where it goes.
+//
+// Removed for that reason: /birthday-bestfriend, /birthday-friend,
+// /birthday-parents (→ /birthday-gf); /anniversary-gf, /anniversary-parents,
+// /valentine-gf, /valentine-bestfriend (→ /love-gf); /missyou-bestfriend
+// (→ /missyou-gf); /sorry-gf, /sorry-friend (→ /apology-dashboard).
+//
+// The recipient-specific pages collapsed into one page per occasion, so there is
+// no separate best-friend birthday page to link — link /birthday-gf and let the
+// anchor text carry the recipient.
+//
+// Before trusting this list again, re-check it:
+//   for p in $(grep -o 'SITE_ROOT}/[a-z0-9-]*' app/lib/prompt.ts | cut -d/ -f2); do
+//     printf '%s %s\n' "$(curl -s -o /dev/null -w '%{http_code}' "https://subhsandesh.in/$p")" "$p"
+//   done
+//
+// Still incomplete: 28 live routes under client/app/(templates)/ are absent from
+// this list, so agents cannot link most of the site. Adding them needs a real
+// description per template, not a guess.
 // ─────────────────────────────────────────────────────────────────────────────
 export const SITE_ROOT = "https://subhsandesh.in";
 
 export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/templates`, what: "Browse all SubhSandesh templates (every occasion)" },
   { url: `${SITE_ROOT}/birthday-gf`, what: "Birthday surprise page for a girlfriend/partner" },
-  { url: `${SITE_ROOT}/birthday-bestfriend`, what: "Birthday page for a best friend" },
-  { url: `${SITE_ROOT}/birthday-friend`, what: "Birthday page for a friend" },
-  { url: `${SITE_ROOT}/birthday-parents`, what: "Birthday page for parents (mom/dad)" },
-  { url: `${SITE_ROOT}/anniversary-gf`, what: "Anniversary page for a girlfriend/partner" },
-  { url: `${SITE_ROOT}/anniversary-parents`, what: "Anniversary page for parents" },
   { url: `${SITE_ROOT}/love-gf`, what: "Romantic 'I love you' page for a girlfriend/partner" },
   { url: `${SITE_ROOT}/darling`, what: "Dark, dramatic romantic page for a partner" },
-  { url: `${SITE_ROOT}/valentine-gf`, what: "Valentine's Day page for a girlfriend/partner" },
-  { url: `${SITE_ROOT}/valentine-bestfriend`, what: "Valentine's Day page for a best friend" },
+  { url: `${SITE_ROOT}/bouquet-gf`, what: "Build-a-Bouquet: hand-tie a digital flower bouquet for a girlfriend/partner — pick from 12 blooms in colour or black-&-white, reshuffle the arrangement, add a card and a playful Deed of Devotion, then send a link that blooms open when tapped" },
   { url: `${SITE_ROOT}/missyou-gf`, what: "'I miss you' page for a girlfriend/partner" },
-  { url: `${SITE_ROOT}/missyou-bestfriend`, what: "'I miss you' page for a best friend" },
   { url: `${SITE_ROOT}/apology-dashboard`, what: "All-in-one apology / 'I'm sorry' page — the flagship, beautifully-animated make-up-and-say-sorry experience for anyone (partner, friend, family)" },
-  { url: `${SITE_ROOT}/sorry-gf`, what: "Apology / 'I'm sorry' page for a girlfriend/partner" },
-  { url: `${SITE_ROOT}/sorry-friend`, what: "Apology / 'I'm sorry' page for a friend" },
   { url: `${SITE_ROOT}/wedding-shaadi`, what: "Hindu wedding (shaadi) invitation page" },
   { url: `${SITE_ROOT}/christian-wedding`, what: "Christian wedding invitation page" },
   { url: `${SITE_ROOT}/christian-wedding-2`, what: "Christian wedding invitation page (alternate style)" },

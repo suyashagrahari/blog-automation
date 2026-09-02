@@ -1,0 +1,259 @@
+[
+ {
+  "q": "rose day gift for girlfriend",
+  "hosts": [
+   "duckduckgo.com",
+   "flipkart.com",
+   "amazon.in",
+   "fnp.com",
+   "oyegifts.com",
+   "floweraura.com",
+   "archiesonline.com",
+   "personalizationmall.com",
+   "igp.com"
+  ],
+  "weak": 4,
+  "own": false,
+  "ok": true,
+  "n": 9,
+  "vendor": 6
+ },
+ {
+  "q": "propose day gift for girlfriend",
+  "hosts": [
+   "duckduckgo.com",
+   "winni.in",
+   "fnp.com",
+   "igp.com",
+   "floweraura.com",
+   "woofern.com",
+   "theknotcompany.in",
+   "flipkart.com",
+   "amazon.in",
+   "thezappybox.com"
+  ],
+  "weak": 5,
+  "own": false,
+  "ok": true,
+  "n": 10,
+  "vendor": 6
+ },
+ {
+  "q": "12 roses meaning",
+  "ok": false,
+  "reason": "no results parsed after 3 attempts (rate limited)"
+ },
+ {
+  "q": "how many roses to give girlfriend",
+  "ok": false,
+  "reason": "no results parsed after 3 attempts (rate limited)"
+ },
+ {
+  "q": "flower names in hindi",
+  "ok": false,
+  "reason": "no results parsed after 3 attempts (rate limited)"
+ },
+ {
+  "q": "marigold flower meaning",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "petalrepublic.com",
+   "florgeous.com",
+   "flowermeaning.com",
+   "bloomingexpert.com",
+   "myglobalflowers.com",
+   "floristempire.com",
+   "theflowerexpert.com",
+   "foliagefriend.com",
+   "floweraura.com"
+  ],
+  "weak": 0,
+  "vendor": 1,
+  "own": false
+ },
+ {
+  "q": "jasmine flower meaning",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "petalrepublic.com",
+   "symbolsage.com",
+   "wikihow.com",
+   "flowermeaning.com",
+   "foliagefriend.com",
+   "globalmeaninglibrary.com",
+   "en.wikipedia.org",
+   "thursd.com",
+   "symbolismguide.com"
+  ],
+  "weak": 2,
+  "vendor": 0,
+  "own": false
+ },
+ {
+  "q": "bouquet colour combination ideas",
+  "ok": true,
+  "n": 8,
+  "hosts": [
+   "threeacrefarm.net",
+   "pinterest.com",
+   "icolorpalette.com",
+   "astyledwedding.com",
+   "in.pinterest.com",
+   "blosmia.com",
+   "bloomandrootfloral.com",
+   "colorany.com"
+  ],
+  "weak": 2,
+  "vendor": 0,
+  "own": false
+ },
+ {
+  "q": "flower emoji meaning",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "flyingflowers.co.uk",
+   "hindustantimes.com",
+   "wikihow.com",
+   "emojiterra.com",
+   "emojipedia.org",
+   "backyardboss.net",
+   "emojis.wiki",
+   "emojibook.org",
+   "whatemoji.org"
+  ],
+  "weak": 1,
+  "vendor": 0,
+  "own": false
+ },
+ {
+  "q": "types of flowers for girlfriend",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "petalrepublic.com",
+   "homequirer.com",
+   "flowerscuddles.com",
+   "igp.com",
+   "foliagefriend.com",
+   "interflora.in",
+   "allwomenstalk.com",
+   "thedailyblooms.com",
+   "sendflowers.com"
+  ],
+  "weak": 0,
+  "vendor": 2,
+  "own": false
+ },
+ {
+  "q": "how many roses to give girlfriend",
+  "ok": true,
+  "n": 8,
+  "hosts": [
+   "rosaholics.com",
+   "tamaracamerablog.com",
+   "fleurunion.com",
+   "liasflowers.com",
+   "saiflower.com",
+   "deliveryflowersfl.com",
+   "party.alibaba.com",
+   "latinflores.com"
+  ],
+  "weak": 0,
+  "vendor": 0
+ },
+ {
+  "q": "karwa chauth gift for wife",
+  "ok": true,
+  "n": 8,
+  "hosts": [
+   "winni.in",
+   "devaastha.com",
+   "amazon.in",
+   "blog.bluestone.com",
+   "swashaa.com",
+   "fnp.com",
+   "igp.com",
+   "caratlane.com"
+  ],
+  "weak": 1,
+  "vendor": 3
+ },
+ {
+  "q": "friendship day gift for best friend",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "fnp.com",
+   "winni.in",
+   "igp.com",
+   "grabon.in",
+   "oyegifts.com",
+   "giftlaya.com",
+   "oyehappy.com",
+   "instax.in",
+   "tring.co.in",
+   "cgai.co.in"
+  ],
+  "weak": 0,
+  "vendor": 4
+ },
+ {
+  "q": "women's day flower bouquet",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "interflora.in",
+   "igp.com",
+   "fnp.com",
+   "floweraura.com",
+   "winni.in",
+   "bloomcentral.com",
+   "cityflowershop.com",
+   "floraindia.com",
+   "jamescressflorist.com",
+   "flowersbyeva.com"
+  ],
+  "weak": 0,
+  "vendor": 5
+ },
+ {
+  "q": "flower names in hindi with meaning",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "vocabshiksha.com",
+   "meaninginhindi.net",
+   "knowledgekiddos.com",
+   "flowernamesinhindi.com",
+   "topprnation.in",
+   "hinditutor.in",
+   "hindivarnamala.org",
+   "shikshanation.com",
+   "englishintohindi.in",
+   "hindivarnamala.in"
+  ],
+  "weak": 0,
+  "vendor": 0
+ },
+ {
+  "q": "12 roses meaning",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "morflora.com",
+   "localflower.ca",
+   "flowersonline.org",
+   "popsugar.com",
+   "omghitched.com",
+   "sgfloralculture.com",
+   "flowersandkisses.com.sg",
+   "yourflowersguide.com",
+   "proflowers.com"
+  ],
+  "weak": 0,
+  "vendor": 0
+ }
+]

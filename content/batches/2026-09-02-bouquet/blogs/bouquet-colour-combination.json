@@ -1,0 +1,326 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Bouquet Colour Combination: How Colours Work Together",
+    "slug": "bouquet-colour-combination",
+    "excerpt": "A bouquet colour combination works on three hues at most, one holding about 60% of the volume, with a paler bloom between the loudest two. Includes four hex colour codes, and what a phone screen does to saturation that a florist's guide never mentions.",
+    "metaTitle": "Bouquet Colour Combination — 3 Hues, 795 Real Bouquets",
+    "metaDescription": "Bouquet colour combination rules: cap it at three hues, give one 60% of the volume, separate the loudest two. From 795 digital bouquets, 50.2% open on a phone.",
+    "keywords": "bouquet colour combination, bouquet color code, how to combine flower colors, how to match flower colors, flower colour combination for bouquet",
+    "canonicalURL": "https://subhsandesh.in/blog/bouquet-colour-combination",
+    "ogType": "article",
+    "tags": [
+      "bouquet",
+      "flowers",
+      "colour",
+      "design",
+      "romance"
+    ],
+    "keyTakeaways": [
+      "Three hues is the practical ceiling: in a 2023 Heliyon study, 50 observers preferred colour palettes whose adjacent colours sat close together, with a Pearson coefficient of -0.801.",
+      "Give one hue roughly 60% of the visible bloom area. A 60/30/10 split reads as decided; an even three-way split reads as a sampler.",
+      "Lightness beats hue: the same study found preference tracked lightness but was not related to hue angle at all, so order your colours light-to-dark before arguing about the wheel.",
+      "50.2% of shared SubhSandesh pages are opened on a phone (20,917 of 41,636 views), so a palette approved on a bright laptop is unverified until you open it on a phone.",
+      "The digital bouquet at /bouquet-gf is the #2 page type with 795 created, 23.4% of all pages, and its black-and-white option removes hue as a variable entirely, which a physical florist cannot do."
+    ],
+    "faqs": [
+      {
+        "question": "What is the best colour combination for a bouquet?",
+        "answer": "There is no single best one, but the reliable shape is three hues at most with one taking about 60% of the volume. Deep red with cream and a muted green is the safest romantic set; blush, dusty rose and ivory is the safest set when you do not know her taste."
+      },
+      {
+        "question": "How many colours should a bouquet have?",
+        "answer": "Two or three. A 2023 Heliyon study of colour palettes found preference fell as the colour distance between adjacent patches rose, and a fourth hue forces at least one large jump on the colour wheel. Foliage counts as one of your three."
+      },
+      {
+        "question": "How do I write down a bouquet colour code so someone else can reproduce it?",
+        "answer": "Give three hex values in dominance order rather than colour names. Blush and cream means six different bouquets to six different people; #E8B4B8, #C48793 and #FAF3EC means one. Send the codes when you brief a florist, and paste them into the colour picker when you build a digital bouquet."
+      },
+      {
+        "question": "How do I combine flower colours that clash?",
+        "answer": "Put a paler linking colour between them. A 2024 study in Arts had 599 participants choose the intermediary colour for historical colour triads, which is the same job cream or ivory does between a red and an orange in a bouquet."
+      },
+      {
+        "question": "How do I match flower colours to an outfit or a room?",
+        "answer": "Pick the darkest colour in the outfit or the room as your accent, not your hero, then build the bouquet's dominant hue one or two steps lighter. Matching the dominant hue exactly is what makes a bouquet disappear into the background it was meant to sit against."
+      },
+      {
+        "question": "Do bouquet colour combinations mean the same thing everywhere?",
+        "answer": "No. The 2024 Arts study mapped 2,995 colour choices from eight countries into CIELAB and found the geometry of harmonious triads differed by country. A marigold-and-saffron set reads as celebratory in an Indian context in a way most Western palette boards do not account for."
+      },
+      {
+        "question": "Does a black-and-white bouquet actually work as a gift?",
+        "answer": "It works if you design for it from the start rather than desaturating a colour version. Black-and-white keeps form, lightness and texture, so it needs bigger lightness steps between blooms and more distinct silhouettes. It is also the version least likely to look wrong on an unfamiliar screen."
+      },
+      {
+        "question": "Why does my bouquet look different on my phone than on my laptop?",
+        "answer": "Because a screen makes colour out of light rather than pigment. A 2000 experiment in the Journal of the Optical Society of America A found a colour stops looking like a surface once its brightness rises near the brightest thing around it, which is why a saturated bloom on a phone at full brightness can read as glowing rather than solid."
+      },
+      {
+        "question": "Which bouquet colour combination is safest if I do not know her taste?",
+        "answer": "A monochromatic run: three lightnesses of one hue, such as blush, dusty rose and ivory. It cannot clash with itself, it photographs well indoors, and it is the combination most likely to survive being viewed on a screen you have never seen."
+      },
+      {
+        "question": "Is a digital bouquet ever the wrong choice?",
+        "answer": "Yes, in three cases. It has no scent, it cannot show the most saturated real petals because a display renders only the colours it is built to render, and it cannot be held against her actual outfit in her actual room. If you are in the same city and can hand a bouquet over, hand it over."
+      },
+      {
+        "question": "How long does choosing a bouquet colour combination usually take?",
+        "answer": "Longer than one sitting, for most people. Across 3,394 personalised SubhSandesh pages, the median gap between a page's first save and its last edit is 6.9 hours, sampled on the I love you page with n=995. Leaving a draft and coming back to it is the right way to judge a palette."
+      }
+    ],
+    "coverImageQuery": "flower bouquet colour palette phone screen",
+    "coverImagePrompt": "A photorealistic overhead shot of a hand-tied bouquet in three colours only — a dominant deep red, cream and muted green — laid on a pale linen surface beside a phone showing the same bouquet on screen. Soft indoor daylight, shallow depth of field, clean negative space along the top edge for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Bouquet Colour Combination: How Colours Work Together\n\nA bouquet colour combination works when it carries **no more than three hues, one of them holding roughly 60% of the volume, and the two loudest kept apart by a paler linking bloom**. On SubhSandesh the digital bouquet is the **#2 page type: digital bouquet (/bouquet-gf) — 795 created, 23.4% of all pages**, and **50.2% of shared pages are opened on a phone (20,917 of 41,636 views)** — which changes the answer, because a backlit screen does not treat saturation the way daylight does. This page covers the hue ceiling, the dominance ratio, the linking colour, four colour codes you can copy, what a phone does to a palette, and where a florist still wins.\n\n## What is a bouquet colour combination?\n\nA bouquet colour combination is the set of flower and foliage hues chosen to sit in one arrangement, together with the proportion each hue occupies. The proportion is the part people skip. The same three colours read as considered at 60/30/10 and as noisy at 33/33/33, and no amount of good flowers rescues the second version.\n\nFlorists name combinations by relationship: monochromatic (one hue at several lightnesses), analogous (neighbours on the wheel), complementary (opposites), triadic (three evenly spaced). Those categories come from 19th-century colour theory rather than from flowers — useful shorthand, poor prediction. The rules below are stated as ratios and counts instead.\n\n## What is a bouquet colour code?\n\nA bouquet colour code is the hex value written down so a combination survives being handed to someone else — a designer, a printer, or a template's colour picker. \"Blush and cream\" gets you six different bouquets from six people; `#E8B4B8` gets you one. Four codes that hold up, dominant hue first:\n\n- **Deep red, cream, muted green** — `#8C1C2B`, `#F5EFE2`, `#7D8C6F`. The cream is doing the work; without it the red reads as one flat mass.\n- **Blush, dusty rose, ivory** — `#E8B4B8`, `#C48793`, `#FAF3EC`. Monochromatic, three lightnesses of one hue. Safest when you do not know her taste.\n- **Marigold, deep saffron, off-white** — `#F5A623`, `#D97706`, `#FBF6EC`. Reads as celebratory in an Indian context where a pastel set does not, and it survives being photographed indoors.\n- **Ivory, sage, charcoal** — `#FAF7F0`, `#9CAF88`, `#3A3A3A`. Nearly hueless, and the set that translates most cleanly into black-and-white.\n\n## The five rules that decide whether a bouquet colour combination works\n\nFive rules, in the order to apply them. Each covers the rule, the evidence, what it looks like in an arrangement, and what breaks if you ignore it.\n\n### 1. Cap it at three hues\n\nThree is the ceiling for a bouquet one person looks at once. In a [2023 colour-palette study in *Heliyon*](https://www.sciencedirect.com/science/article/pii/S2405844023012872), 50 observers rated palettes and preference correlated negatively with a new metric for the colour distance between adjacent patches — a Pearson coefficient of −0.801, meaning people preferred palettes whose neighbouring colours sat close together. A fourth hue forces at least one large jump.\n\nFlowers behave the same way. An eye-tracking and mixed-logit study of floral arrangements in [*HortScience*, November 2023](https://journals.ashs.org/hortsci/view/journals/hortsci/58/12/article-p1560.xml) found consumers valued arrangements with similar but not identical colours, and that the presence of roses drove attention and willingness to pay more than any design principle tested.\n\n### 2. Give one hue about 60% of the volume\n\nDominance is what makes a combination look decided rather than assembled. Aim for roughly 60% of visible bloom area in the hero hue, 30% support, 10% accent. There is no published dominance ratio specific to bouquets — this one comes from design practice, and it is the weakest-evidenced rule here, which is worth saying out loud.\n\nOn the 12 blooms in SubhSandesh's Build-a-Bouquet, that is six or seven stems of one colour before anything else goes in. Split the volume evenly and the bouquet reads as a sampler.\n\n### 3. Put a linking colour between the two loudest\n\nIf two strong hues must sit together, a third, paler colour between them stops the boundary looking like a collision. This is a tested construct, not a folk rule: a [2024 study in *Arts*](https://www.mdpi.com/2076-0752/13/2/53) removed the \"intermediary\" linking colour from ten historical colour triads, asked 599 participants across eight countries to adjust it themselves, and mapped 2,995 choices into CIELAB.\n\nThe geometry of those choices differed by country, so harmony is partly cultural rather than universal. Put cream, ivory or a pale green between your red and your orange — and treat a Western palette board as a starting point, not an answer for an Indian recipient.\n\n### 4. Match lightness before you match hue\n\nGet the lightnesses right and an odd hue pairing still works; get them wrong and a textbook-correct pairing looks muddy. The same *Heliyon* study found lightness played an important role in preference while preference was **not** related to hue angle at all — close to the opposite of how palette advice is usually written.\n\nLine your three colours up from lightest to darkest and check there is a visible step between each. Two colours of near-identical lightness but different hue is the commonest way a bouquet turns to mud.\n\n### 5. Decide colour or black-and-white before you pick blooms\n\nRemoving hue is a real option, and a different design problem rather than a filter applied at the end. A [2023 recognition-memory study in the *Russian Psychological Journal*](https://rpj.ru.com/index.php/rpj/article/view/1489) showed 154 participants a sequence of 36 colour and black-and-white photographs and found colour mattered at the encoding stage for designed and naturally evolved landscapes — take colour away and what the viewer stores changes.\n\nBlack-and-white keeps form, lightness and texture, so it needs bigger lightness steps and more distinct silhouettes than the colour version of the same bouquet. Choose it first, then choose blooms.\n\n## Four routes to the same combination, compared\n\nThe rules are medium-independent. How much of the colour decision you control is not.\n\n| Route | Colour range you control | Changing your mind after committing | SubhSandesh data |\n|---|---|---|---|\n| Hand-tied at a florist's counter | Whatever is in the buckets that morning | Re-tie on the spot, if the florist has time | — |\n| Ordered online for delivery | A catalogue photograph; substitutions are standard | Cancellation window only | — |\n| A photo of a bouquet, sent on WhatsApp | Fixed at the moment of capture | Retake and resend | 50.2% of views land on a phone |\n| Digital bouquet on /bouquet-gf | 12 blooms, colour or black-and-white, reshuffled as often as you like | Reshuffle until you publish the link | 795 built, 23.4% of all 3,394 pages |\n\nA florist gives you the best material and the least control over the palette; a template gives you the reverse. Only the last row lets you see the combination as the recipient will before you send it.\n\n## What a phone screen does to a bouquet palette\n\nA palette made of light behaves differently from a palette made of pigment, and no florist's guide covers it because it does not apply to their product. **50.5% of views are on a touch device (phone or tablet)**, so for half of all recipients the bouquet is a lit rectangle held about 30 cm from the face.\n\nThe specific failure is a colour crossing out of looking like an object. In a [2000 experiment in the *Journal of the Optical Society of America A*](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-11-1933), observers raised the luminance of a colour chip until it stopped appearing in \"surface-colour mode\"; the threshold sat slightly below the brightness of the white frame around it, and the brightest thing in the surround acted as the cue. On a phone at full brightness in a dark room, a heavily saturated bloom against a pale background can tip over into looking like glowing light rather than a petal.\n\nSo keep the loudest hue below the lightest element in the arrangement, and treat any palette approved on a bright laptop as unverified until you have opened it on a phone. Black-and-white sidesteps this almost entirely, because lightness ordering survives a change of screen far better than saturation does.\n\n## Where a real florist beats a digital bouquet on colour\n\nThree cases, none of them marginal. First, scent: no colour decision competes with a room that smells of tuberose, and a screen has nothing to offer here.\n\nSecond, chroma at the extremes. A display shows only the colours inside its gamut — sRGB on most phones — and a fresh marigold or a dark dahlia can sit outside that range, so a palette chosen for sheer intensity loses something in translation that a paler one does not.\n\nThird, matching in person. A florist standing in front of the recipient can hold stems against her outfit, the light in the room and the vase she owns, and adjust in 30 seconds. And if you are in the same city and can hand the bouquet over, hand it over — a link answers distance, not a general upgrade.\n\n## Building the combination on a template\n\nOnce the palette is decided the build is mechanical. SubhSandesh's [Build-a-Bouquet page for a partner](https://subhsandesh.in/bouquet-gf) is a colour-choosing tool as much as a gift: pick from 12 blooms in colour or black-and-white, reshuffle until the 60/30/10 split looks right, add a card, seal it with a Deed of Devotion, and send a link whose blooms open when she taps it.\n\nExpect to iterate. Across **3,394 personalised pages created since 2026-03-12, across 15 page types**, the median gap between a page's first save and its last edit is **6.9 hours** — sampled on the \"I love you\" page, n=995 — so most people leave a draft and return to it, which is the right way to judge a palette. **42.8% of creators password-protect their page before sharing it (1,453 of 3,394)**, worth doing if the link goes through a shared family chat.\n\nIf the colour work is the whole gift, stay with the bouquet. If the colours sit behind a longer message, the [romantic \"I love you\" page](https://subhsandesh.in/love-gf) carries text better, and the [darker Darling page](https://subhsandesh.in/darling) — 349 created, 10.3% of all pages — suits a palette of charcoal, deep red and almost nothing else.\n\n## Sources\n\n- \"Analyzing and predicting colour preference of colour palettes\", *Heliyon*, March 2023.\n- \"Elements of Style in Floral Arrangements\", *HortScience*, November 2023.\n- \"'Playing' with Color: the 'Geometry' of Color Harmony in CIELAB across Countries\", *Arts*, 2024.\n- \"Upper-limit luminance for the surface-color mode appearance\", *Journal of the Optical Society of America A*, November 2000. Abstract only; the full paper is paywalled.\n- \"The Influence of Color on Recognition Memory for Cultural Landscapes\", *Russian Psychological Journal*, September 2023.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/bouquet-colour-combination#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Color scheme",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Color_scheme",
+              "https://www.wikidata.org/wiki/Q859170"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Flower bouquet",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Flower_bouquet",
+              "https://www.wikidata.org/wiki/Q1187930"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Harmony (color)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Harmony_(color)",
+              "https://www.wikidata.org/wiki/Q5659234"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "CIELAB color space",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/CIELAB_color_space",
+              "https://www.wikidata.org/wiki/Q375414"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Complementary colors",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Complementary_colors",
+              "https://www.wikidata.org/wiki/Q373984"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Analyzing and predicting colour preference of colour palettes",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2405844023012872",
+            "datePublished": "2023-03",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Elsevier"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Elements of Style in Floral Arrangements: How Discerning Are Consumers Toward Floristry Design Principles and How Much Are They Willing to Pay?",
+            "url": "https://journals.ashs.org/hortsci/view/journals/hortsci/58/12/article-p1560.xml",
+            "datePublished": "2023-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "American Society for Horticultural Science"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "“Playing” with Color: How Similar Is the “Geometry” of Color Harmony in the CIELAB Color Space across Countries?",
+            "url": "https://www.mdpi.com/2076-0752/13/2/53",
+            "datePublished": "2024-03",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDPI"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Upper-limit luminance for the surface-color mode appearance",
+            "url": "https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-11-1933",
+            "datePublished": "2000-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Optica Publishing Group"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Influence of Color on Recognition Memory for Cultural Landscapes",
+            "url": "https://rpj.ru.com/index.php/rpj/article/view/1489",
+            "datePublished": "2023-09"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The five rules that decide whether a bouquet colour combination works",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Cap it at three hues",
+            "description": "Two or three hues including foliage. A 2023 Heliyon study of 50 observers found preference fell as the colour distance between adjacent patches rose (Pearson -0.801)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Give one hue about 60% of the volume",
+            "description": "Roughly 60% of visible bloom area in the hero hue, 30% support, 10% accent. On 12 available blooms that is six or seven stems of one colour."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Put a linking colour between the two loudest",
+            "description": "Cream, ivory or pale green between two strong hues. Tested on 2,995 colour choices from 599 participants across eight countries."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Match lightness before you match hue",
+            "description": "Order the three colours lightest to darkest with a visible step between each. Preference tracked lightness, not hue angle."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Decide colour or black-and-white before you pick blooms",
+            "description": "Black-and-white keeps form, lightness and texture and drops hue, so it needs bigger lightness steps and more distinct silhouettes."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "bouquet colour combination",
+    "angle": "Wins by being the only post that treats a bouquet colour combination as a ratio problem (three hues, 60/30/10, a linking colour) and then asks what a backlit screen does to it, using SubhSandesh's own 795 digital bouquets and 50.2% phone-open rate — plus a black-and-white option no physical florist can offer.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/bouquet-gf",
+      "/love-gf",
+      "/darling"
+    ],
+    "factsUsed": [
+      "#2 page type: digital bouquet (/bouquet-gf) — 795 created, 23.4% of all pages — measured 2026-09-02",
+      "50.2% of shared pages are opened on a phone (20,917 of 41,636 views) — measured 2026-09-02",
+      "50.5% of views are on a touch device (phone or tablet) — measured 2026-09-02",
+      "3,394 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-02",
+      "Median gap between a page's first save and its last edit: 6.9 hours — sampled on \"I love you\" page (/love-gf), n=995 — measured 2026-09-02",
+      "42.8% of creators password-protect their page before sharing it (1,453 of 3,394) — measured 2026-09-02",
+      "#4 page type: Darling romantic page (/darling) — 349 created, 10.3% of all pages — measured 2026-09-02"
+    ],
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405844023012872",
+        "stat": "50 observers rated colour palettes; lightness played an important role in preference while preference was not related to hue angle, and the Delta_Order metric for colour difference between adjacent patches correlated with preference at Pearson -0.801",
+        "publishedDate": "2023-03"
+      },
+      {
+        "url": "https://journals.ashs.org/hortsci/view/journals/hortsci/58/12/article-p1560.xml",
+        "stat": "Eye-tracking and mixed logit models found consumers valued symmetrical form and arrangements with similar but not identical colours, and that the presence of roses was the most crucial factor in capturing attention and increasing willingness to pay",
+        "publishedDate": "2023-11"
+      },
+      {
+        "url": "https://www.mdpi.com/2076-0752/13/2/53",
+        "stat": "599 participants aged 18-76 from eight countries adjusted the removed intermediary linking colour of ten historical colour triads; 2,995 choices mapped into CIELAB showed triads have a different geometry across cultures",
+        "publishedDate": "2024-03"
+      },
+      {
+        "url": "https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-11-1933",
+        "stat": "The upper-limit luminance at which a colour chip ceases to appear in surface-colour mode sat slightly below the brightness of the white frame around it, and the brightest surround stimulus acted as the cue (abstract only; full text paywalled)",
+        "publishedDate": "2000-11"
+      },
+      {
+        "url": "https://rpj.ru.com/index.php/rpj/article/view/1489",
+        "stat": "154 participants aged 18-66 were shown 36 colour and black-and-white photographs of cultural landscapes; colour played an important role at the encoding phase for designed and naturally evolved landscapes",
+        "publishedDate": "2023-09"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+          "why": "Vacuously true rather than genuinely satisfied: the post carries zero generic context statistics, because the Pricing block in facts.md is empty and no cost, market-size or floriculture-trade figure could be supported. The gap is that the post states nothing about what a bouquet costs, which is a question a share of this keyword's searchers have."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Four of the five were verified against publisher-supplied abstracts retrieved through the DOAJ article API rather than the article pages themselves: mdpi.com and sciencedirect.com both returned HTTP 403 to every fetch attempted, and journals.ashs.org returned an empty body. The JOSA A abstract was read directly on opg.optica.org. No full text was read for any of the five, so every claim in the post is held to what the abstract states."
+        }
+      ],
+      "honestAssessment": "An answer engine has one concrete reason to cite this over the six palette pages on the SERP: it is the only page that gives a bouquet colour combination as a testable ratio (three hues, 60/30/10, a linking colour) with named studies behind three of the five rules, and the only one that addresses what a phone screen does to the palette — a question the florist and colour-palette sites have no reason to ask. The black-and-white option on /bouquet-gf is a genuine product differentiator, and the 795 builds and 50.2% phone-open rate are numbers nobody else can print. Set against that: the SERP has only 2 of 8 weak results, and the six niche florist and colour-palette sites that hold the rest are genuinely on-topic and topically established, so this is a hard row rather than a winnable one. My honest read is that the differentiator is real but narrow — it earns citation on the screen-rendering and black-and-white sub-queries and probably not on \"bouquet colour combination ideas\" itself, where a page of photographs beats a page of ratios. The other open weakness is that the post cannot say anything at all about cost, because the Pricing block in facts.md is empty. Ranking depends on domain authority and links and will take months; no outcome is predicted here."
+    },
+    "generatedAt": "2026-09-02T14:46:13.000Z"
+  }
+}
