@@ -255,5 +255,161 @@
   ],
   "weak": 0,
   "vendor": 0
+ },
+ {
+  "q": "funny google search prank",
+  "ok": true,
+  "n": 8,
+  "hosts": [
+   "vinish.dev",
+   "rd.com",
+   "capcut.com",
+   "imgflip.com",
+   "shinysearch.com",
+   "letmegooglethat.com",
+   "elgoog.im",
+   "instagram.com"
+  ],
+  "weak": 1
+ },
+ {
+  "q": "movie night ideas at home for couples",
+  "ok": true,
+  "n": 8,
+  "hosts": [
+   "wezoree.com",
+   "movienightsathome.com",
+   "thelifehype.com",
+   "theknot.com",
+   "romanticplanner.com",
+   "caffeyolly.com",
+   "happylifeideas.com",
+   "allgiftsconsidered.com"
+  ],
+  "weak": 0
+ },
+ {
+  "q": "couple compatibility test online",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "personality-quizzes.com",
+   "couplesuite.com",
+   "couplesquizzes.com",
+   "freudly.ai",
+   "lovetest.com",
+   "loveplay.io",
+   "mymindtest.com",
+   "neotesta.com",
+   "astroyogi.com"
+  ],
+  "weak": 0
+ },
+ {
+  "q": "year in review for couples",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "thelovenerds.com",
+   "connectcouplestherapy.com",
+   "scribd.com",
+   "growingus.coach",
+   "dooyongro.com",
+   "etsy.com",
+   "napturallyval.com",
+   "erikalabuzanlopeztherapy.com",
+   "somewhatsimple.com"
+  ],
+  "weak": 2
+ },
+ {
+  "q": "movie night ideas at home with friends",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "movienightsathome.com",
+   "neilchasefilm.com",
+   "allgiftsconsidered.com",
+   "grahmsguide.com",
+   "caffeyolly.com",
+   "casolia.com",
+   "designthusiasm.com",
+   "decisionmakertool.com",
+   "wikihow.com",
+   "starsandanchor.com"
+  ],
+  "weak": 1
+ },
+ {
+  "q": "christmas gift for girlfriend",
+  "ok": true,
+  "n": 9,
+  "hosts": [
+   "nytimes.com",
+   "amazon.in",
+   "nypost.com",
+   "blog.messagear.com",
+   "etsy.com",
+   "winni.in",
+   "glamour.com",
+   "giftrabbit.com",
+   "myflowertree.com"
+  ],
+  "weak": 2,
+  "vendor": 1
+ },
+ {
+  "q": "new year gift for girlfriend",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "amazon.in",
+   "winni.in",
+   "nestasia.in",
+   "floweraura.com",
+   "caratlane.com",
+   "tring.co.in",
+   "nikkiflower.com",
+   "nytimes.com",
+   "fnp.com",
+   "flaberry.com"
+  ],
+  "weak": 1,
+  "vendor": 3
+ },
+ {
+  "q": "engagement gift for couple",
+  "ok": true,
+  "n": 10,
+  "hosts": [
+   "theknot.com",
+   "amazon.in",
+   "fnp.com",
+   "brides.com",
+   "bluestone.com",
+   "happiclap.com",
+   "etsy.com",
+   "boxupgifting.com",
+   "svastika.in",
+   "forbes.com"
+  ],
+  "weak": 2,
+  "vendor": 2
+ },
+ {
+  "q": "eid gift for wife",
+  "ok": true,
+  "n": 7,
+  "hosts": [
+   "lotsoflovemariam.com",
+   "etsy.com",
+   "momentz.in",
+   "amazon.in",
+   "ibacosmetics.com",
+   "fnp.com",
+   "hadiyahgifting.com"
+  ],
+  "weak": 2,
+  "vendor": 1
  }
 ]

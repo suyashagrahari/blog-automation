@@ -52,6 +52,42 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/eid-mubarak`, what: "Eid Mubarak greeting page" },
   { url: `${SITE_ROOT}/happy-rakshabandhan-to-brother`, what: "Raksha Bandhan (Rakhi) page for a brother — animated tilak/aarti/rakhi-tying scenes, photo, name and a shareable link" },
   { url: `${SITE_ROOT}/happy-rakshabandhan-to-sister`, what: "Raksha Bandhan (Rakhi) page for a sister — photo, name and a shareable link, for a brother sending to his sister" },
+
+  // ── Added 2026-09-02. Every `what` below is taken from the template's own
+  // `config.ts` description, not paraphrased from the slug, and every URL was
+  // verified HTTP 200. These are novelty/keepsake pages, and several are JOKES
+  // BY DESIGN — read the description before writing about one.
+  //
+  // Two deliberately EXCLUDED, and the reason matters:
+  //   /kundli-milan   — "36-guna Ashtakoota compatibility report … astrologically
+  //                      meaningless, statistically hilarious". The keyword
+  //                      `kundli milan` carries serious matrimonial intent, so
+  //                      pointing that searcher at a joke report is a Gate 5
+  //                      failure. Reach this page via compatibility-quiz
+  //                      keywords instead, never via astrology keywords.
+  //   /court-marriage — "keepsake court-marriage certificate … not legally
+  //                      binding". `court marriage` searchers want documents,
+  //                      fees and the 30-day notice. Never target that intent.
+  { url: `${SITE_ROOT}/court-of-love`, what: "The Court of Love — put a partner on trial in the cutest way: 10 funny questions, a penguin judge, and a signed stamp paper if they win the case" },
+  { url: `${SITE_ROOT}/capsule`, what: "Capsule — you both write predictions about the next year, blind to each other; it seals, and a year later you open it together and score every one" },
+  { url: `${SITE_ROOT}/photo-puzzle`, what: "The Last Piece — a photo jigsaw where each piece placed reveals a line of a letter and plays a note, and the final piece is not in the box" },
+  { url: `${SITE_ROOT}/date-invitation`, what: "The Invitation — an invitation they must answer; a yes turns into a countdown, and on the day the plan unlocks one stop at a time while you are out" },
+  { url: `${SITE_ROOT}/proposal`, what: "Will You Marry Me? — a proposal scrapbook of your story, ending in a YES button that grows every time they dodge it" },
+  { url: `${SITE_ROOT}/dedication`, what: "Dedication — a radio show made for one person: they drag the needle through static, land on your station, and hear your real voice introduce the song" },
+  { url: `${SITE_ROOT}/hold-my-hand`, what: "Hold My Hand — hold the screen for 60 seconds without letting go; let go and it drains, make it to the end and the letter unlocks" },
+  { url: `${SITE_ROOT}/catch`, what: "Catch — a letter that falls from the sky one line at a time, caught with the recipient's own face; nothing is ever locked, each catch just adds a line" },
+  { url: `${SITE_ROOT}/flags`, what: "Red Flag, Green Flag — one dating profile of your worst habits; they swipe left, right or 'it's complicated' and each direction reveals a different answer you wrote" },
+  { url: `${SITE_ROOT}/streak`, what: "Streak — two people, one tap a day; the streak grows, each check-in keeps a word, and after a hundred days you have a diary neither of you meant to write" },
+  { url: `${SITE_ROOT}/train-ticket`, what: "Train Ticket — a long-distance love letter disguised as a train ticket: check the PNR, watch the waitlist clear, read the running status of the relationship" },
+  { url: `${SITE_ROOT}/challan`, what: "Challan — a mock traffic notice for the things they actually did ('illegal parking in your head since 2023'); they pay it or contest it" },
+  { url: `${SITE_ROOT}/vending-machine`, what: "Affection Dispenser — a vending machine loaded with eighteen things you would never say out loud; they pay with a confession and punch a code" },
+  { url: `${SITE_ROOT}/nutrition`, what: "Nutrition Facts — a nutrition label where the product is a person (serving size 1, calories ∞); tap any row and the sender explains why it is on the label" },
+  { url: `${SITE_ROOT}/watch`, what: "Watch — gives a video you made a page of its own: a real player, a channel row, clickable chapters and a pinned comment" },
+  { url: `${SITE_ROOT}/recharge`, what: "Recharge — a prepaid 'recharge' for a relationship: pick a plan from the grid, pay on a sheet that looks like the real thing, get a receipt" },
+  { url: `${SITE_ROOT}/loveflix`, what: "LoveFlix — a streaming service with one show on it and your partner as the lead: browse the catalogue of your relationship, then play a branching episode" },
+  { url: `${SITE_ROOT}/rewind`, what: "Rewind — your year as a story you tap through, every number worked out from one date, ending on which couple you actually are" },
+  { url: `${SITE_ROOT}/searched`, what: "Searched — they type their own name into a search box and get joke autocomplete, a full results page about them, and a knowledge panel that is too accurate" },
+  { url: `${SITE_ROOT}/legal-notice`, what: "Legal Notice — a mock formal notice served on your person; they must accept or contest every demand, with seven days to comply" },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
