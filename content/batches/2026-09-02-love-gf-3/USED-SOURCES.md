@@ -1,0 +1,172 @@
+# Sources already used in batches 1 and 2 — do not reuse
+
+Generated 2026-09-02. 96 distinct URLs across 20 posts.
+
+A batch-3 post must not cite any URL below. Domains are listed with how many
+of the 20 earlier posts used them — a domain near or at 3 is effectively closed
+for batch 3 too, because the cap is per batch but the *appearance* of a content
+farm is not.
+
+## Domains, by number of earlier posts using them
+
+-  6  pmc.ncbi.nlm.nih.gov
+-  6  aclanthology.org
+-  5  arxiv.org
+-  5  frontiersin.org
+-  3  journals.plos.org
+-  3  doi.org
+-  2  ejop.psychopen.eu
+-  1  almanac.httparchive.org
+-  1  phys.org
+-  1  anderson.ucla.edu
+-  1  rady.ucsd.edu
+-  1  smith.queensu.ca
+-  1  kellogg.northwestern.edu
+-  1  jurnal.ugm.ac.id
+-  1  usenix.org
+-  1  ovid.com
+-  1  kory-floyd-dev.squarespace.com
+-  1  rcommunicationr.org
+-  1  hal.science
+-  1  ojs.library.dal.ca
+-  1  pubmed.ncbi.nlm.nih.gov
+-  1  eprints.bbk.ac.uk
+-  1  pdfs.semanticscholar.org
+-  1  cambridge.org
+-  1  time.com
+-  1  w3.org
+-  1  psychodramaaustralia.edu.au
+-  1  psychology.uga.edu
+-  1  michaelkardas.com
+-  1  journals.sagepub.com
+-  1  repository.arizona.edu
+-  1  developer.chrome.com
+-  1  webkit.org
+-  1  biblio.ugent.be
+-  1  academic.oup.com
+-  1  labs.psych.ucsb.edu
+-  1  eprints.goldsmiths.ac.uk
+-  1  pielot.org
+-  1  wellness.asu.edu
+-  1  europepmc.org
+-  1  hbs.edu
+-  1  sas.rochester.edu
+-  1  dash.harvard.edu
+-  1  faculty.wharton.upenn.edu
+-  1  ccsenet.org
+-  1  castledown.com
+-  1  researchspace.ukzn.ac.za
+-  1  purehost.bath.ac.uk
+-  1  ons.gov.uk
+-  1  web.archive.org
+-  1  zenodo.org
+-  1  ijece.iaescore.com
+-  1  ccat.sas.upenn.edu
+-  1  uni-kassel.de
+-  1  terpconnect.umd.edu
+-  1  chernev.com
+-  1  pewresearch.org
+-  1  docs.github.com
+-  1  internationalphoneticassociation.org
+-  1  psych.appstate.edu
+-  1  oveislab.com
+-  1  nature.com
+
+## Every URL already cited
+
+- https://academic.oup.com/jcr/article/47/5/787/5873524
+- https://aclanthology.org/2020.lrec-1.294/
+- https://aclanthology.org/2020.peoples-1.6/
+- https://aclanthology.org/2020.sltu-1.28/
+- https://aclanthology.org/2020.wnut-1.7/
+- https://aclanthology.org/2021.eval4nlp-1.20/
+- https://aclanthology.org/2023.findings-emnlp.4/
+- https://aclanthology.org/2023.findings-ijcnlp.22/
+- https://aclanthology.org/2024.findings-emnlp.859/
+- https://aclanthology.org/2025.banglalp-1.9/
+- https://aclanthology.org/2025.loresmt-1.13/
+- https://aclanthology.org/W14-3914/
+- https://almanac.httparchive.org/en/2024/media
+- https://arxiv.org/abs/2211.09847
+- https://arxiv.org/abs/2311.07804
+- https://arxiv.org/abs/2410.00449
+- https://arxiv.org/abs/2505.09509
+- https://arxiv.org/abs/2603.15949
+- https://biblio.ugent.be/publication/5774089
+- https://ccat.sas.upenn.edu/~haroldfs/public/stantam/STANTAM.HTM
+- https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf
+- https://dash.harvard.edu/server/api/core/bitstreams/7312037c-cd9f-6bd4-e053-0100007fdf3b/content
+- https://developer.chrome.com/blog/autoplay
+- https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+- https://doi.org/10.1525/collabra.130079
+- https://doi.org/10.1525/collabra.192
+- https://doi.org/10.3390/psychiatryint7020068
+- https://ejop.psychopen.eu/index.php/ejop/article/download/210/210.pdf
+- https://ejop.psychopen.eu/index.php/ejop/article/view/3059
+- https://eprints.bbk.ac.uk/id/eprint/709/
+- https://eprints.goldsmiths.ac.uk/id/eprint/29439/1/Rice%20et%20al%202020%20mind%20the%20gap%20ijerph-17-07178.pdf
+- https://europepmc.org/article/PMC/PMC5767250
+- https://faculty.wharton.upenn.edu/wp-content/uploads/2014/06/Dai_Fresh_Start_2014_Mgmt_Sci.pdf
+- https://hal.science/hal-04363659
+- https://ijece.iaescore.com/index.php/IJECE/article/view/29245
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081225
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210450
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212186
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269429
+- https://journals.sagepub.com/doi/10.1177/0265407521996055
+- https://journals.sagepub.com/doi/10.1177/02654075251367137
+- https://jurnal.ugm.ac.id/jpsi/article/view/72905
+- https://kory-floyd-dev.squarespace.com/s/affectionate-communication-health-and-relationships-2023.pdf
+- https://labs.psych.ucsb.edu/collins/nancy/UCSB_Close_Relationships_Lab/Publications_files/Collins%20and%20Feeney,%202000.pdf
+- https://michaelkardas.com/assets/pdfs/Kardas%2C%20Kumar%2C%20%26%20Epley%20%282022%29%20Overly%20shallow%20Miscalibrated%20expectations%20create%20a%20barrier%20to%20deeper%20conversation.pdf
+- https://ojs.library.dal.ca/JUE/article/view/8239
+- https://oveislab.com/s/1010072Fs10919-016-0245-9.pdf
+- https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf
+- https://phys.org/news/2023-02-digital-gift-cards-easy-hard.html
+- https://pielot.org/pubs/Pielot2014-MobileHCI-Notifications.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12094736/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12937751/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4567454/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8022838/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8669216/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8712667/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9388449/
+- https://psych.appstate.edu/sites/psych.appstate.edu/files/reminiscingarticle.pdf
+- https://psychodramaaustralia.edu.au/sites/default/files/falling_in_love-aron.pdf
+- https://psychology.uga.edu/sites/default/files/RCITarticle1999.pdf
+- https://pubmed.ncbi.nlm.nih.gov/16913946/
+- https://purehost.bath.ac.uk/ws/files/159975967/01_06_17_XLC_main_body_revised_Managing_heritage_language_developmentFLM.pdf
+- https://rady.ucsd.edu/_files/faculty-research/wendy-liu/JCP_2022_Material_Experiential.pdf
+- https://repository.arizona.edu/handle/10150/662865
+- https://researchspace.ukzn.ac.za/handle/10413/6483
+- https://smith.queensu.ca/insight/content/Why-You-Shouldnt-Put-a-Price-on-a-Great-Gift.php
+- https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf
+- https://time.com/6317817/urdu-nastaliq-digital/
+- https://web.archive.org/web/20241213225718/http://lisindia.ciil.org/Kannada/Kan_vari.html
+- https://webkit.org/blog/6784/new-video-policies-for-ios/
+- https://wellness.asu.edu/sites/g/files/litvpz796/files/pdf_0/When%20Long%20Distance%20Dating%20Partners%20Become%20Geographically%20Close.pdf
+- https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/marketing/mogilner/Chan%20Mogilner%20JCR%202016%20Experiential%20Gifts.pdf
+- https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242
+- https://www.castledown.com/journals/dal/article/view/dal.v3.103118
+- https://www.ccsenet.org/journal/index.php/ijel/article/view/0/41718
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00394/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00784/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.678542/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1302548/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1550704/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1800653/full
+- https://www.hbs.edu/ris/Publication%20Files/garcia-rada%20sezer%20norton_c5106adb-2f23-4725-bb74-d0ab4f755a5b.pdf
+- https://www.hbs.edu/ris/Publication%20Files/sezer%20norton%20gino%20vohs%20family%20rituals_f36810fb-30f0-4910-9061-8aa70036ff24.pdf
+- https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/448.pdf
+- https://www.kellogg.northwestern.edu/~/media/Files/Departments/Marketing/SpeakerSeries2015/Morgan%20Ward_Ask%20And%20You%20Shall%20Not%20RecI_JMR_Rev_Final.ashx
+- https://www.nature.com/articles/s41598-024-70979-2
+- https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/bulletins/languageenglandandwales/census2021
+- https://www.ovid.com/journals/amhe/fulltext/10.4103/amh.amh_263_24~navigating-technoference-in-marital-relationships-a
+- https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/
+- https://www.rcommunicationr.org/index.php/rcr/article/view/206
+- https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/Reisetal.JPSP_2010.pdf
+- https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4
+- https://www.usenix.org/conference/soups2018/presentation/sambasivan
+- https://www.w3.org/TR/alreq/
+- https://zenodo.org/records/18543048

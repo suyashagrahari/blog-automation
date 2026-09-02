@@ -1,0 +1,359 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Love Letter for Girlfriend in Assamese: ৰ, ৱ and \"You\"",
+    "slug": "love-letter-for-girlfriend-in-assamese",
+    "excerpt": "An Assamese love letter turns on two choices: which \"you\" you use — তই, তুমি or আপুনি — and whether you spell it with the Assamese ৰ and ৱ or default to the Bangla র. Five dictionary-verified lines with romanisation, the Unicode codepoints, and data from 987 love-gf pages.",
+    "metaTitle": "Love Letter for Girlfriend in Assamese, Script and Romanised",
+    "metaDescription": "A love letter for girlfriend in Assamese turns on two choices: তুমি or তই, and ৰ not Bangla র. Five verified lines, plus data from our 987 /love-gf pages.",
+    "keywords": "love letter for girlfriend in assamese, romantic love letter for girlfriend in assamese, short love letter for girlfriend in assamese, assamese love letter, moi tomak bhalpau",
+    "canonicalURL": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-assamese",
+    "ogType": "article",
+    "tags": [
+      "assamese",
+      "love-letter",
+      "romance",
+      "language",
+      "long-distance"
+    ],
+    "keyTakeaways": [
+      "An Assamese love letter turns on two decisions: the second-person pronoun, and the two Assamese-only letters ৰ (U+09F0) and ৱ (U+09F1). ৰ fully replaces Bangla র (U+09B0); ৱ is an addition for /w/, and Assamese keeps ব for /b/.",
+      "Use তুমি. Wiktionary labels তই \"very familiar, inferior\", and Boruah's 2020 verb table shows the switch re-conjugates everything — kha-l-a and kha-b-a become kha-l-i and kha-b-i.",
+      "Do not machine-translate it: the 2026 state-of-the-art zero-shot English–Assamese system reaches BLEU 28.65 by routing English through Bengali.",
+      "The \"I love you\" page is SubhSandesh's most-created template at 987 pages, 29.2% of all 3,377 built since 2026-03-12, with a median 7.2 hours between first save and last edit (n=987).",
+      "50.3% of our 41,486 recorded views open on a phone, so script-only Assamese fails silently when the font is missing."
+    ],
+    "faqs": [
+      {
+        "question": "What do you write in a love letter for your girlfriend in Assamese?",
+        "answer": "Settle two things before the words: the second-person pronoun (তুমি is the safe default over তই and আপুনি) and whether you are spelling with the Assamese ৰ rather than the Bangla র. After that, short and specific beats long and ornamental — name a real day, a real habit of hers, and one thing you have not said out loud."
+      },
+      {
+        "question": "Should I use তুমি or তই in a love letter to my girlfriend?",
+        "answer": "তুমি. English Wiktionary labels তুমি \"familiar\" and তই \"very familiar, inferior\", and that downward tilt on তই lands as intimacy in some families and as rudeness in others. Many couples do use তই, so if she uses it with you, use it back — but remember that switching re-conjugates every verb."
+      },
+      {
+        "question": "What is the difference between ৰ and র?",
+        "answer": "They are different Unicode characters for the same sound in two different languages. ৰ is U+09F0, which the Unicode Standard names as the Assamese letter ra; র is U+09B0, the Bangla letter ra. Assamese writes মৰম and তোমাৰ; text that has defaulted to Bangla writes মরম and তোমার, which reads as the wrong language."
+      },
+      {
+        "question": "How do you say \"I love you\" in Assamese?",
+        "answer": "মই তোমাক ভালপাওঁ — moi tomak bhalpau. This appears verbatim as the usage example on English Wiktionary's ভালপোৱা entry, which gives the scholarly transliteration moi tümak bhalpaü̃ and the pronunciation /bʱal.pʊa/. তোমাক is the objective form of তুমি, so the line is already in the neutral-affectionate register."
+      },
+      {
+        "question": "What does মৰম mean?",
+        "answer": "মৰম (morom) is glossed by Wiktionary as love, strong affection, caress, a kiss from a child, fondness and friendship, from Sanskrit मर्मन्. It is softer and more usable than a declaration, which makes it the most valuable single noun in an Assamese love letter. Note the ৰ — it is the word most often mis-spelled as মরম."
+      },
+      {
+        "question": "Can I use Google Translate for an Assamese love letter?",
+        "answer": "It is a bad idea, for a specific reason. Assamese is genuinely low-resource: in Scientific Reports in March 2026, Nath and Gulzar report that the scarcity of parallel corpora is the core constraint, and their zero-shot system reaches BLEU 28.65 by routing English through Bengali. A consumer translator has none of that engineering behind it."
+      },
+      {
+        "question": "Should I write in Assamese script or in Roman letters?",
+        "answer": "Stack the script above a romanisation if she reads Assamese but types in Latin, which is very common. Script alone is best only when you know her phone renders Assamese — 50.3% of our 41,486 recorded views open on a phone, and a missing font fails silently rather than visibly."
+      },
+      {
+        "question": "How long should a short love letter for girlfriend in Assamese be?",
+        "answer": "Three to five sentences is plenty, and one verified line beats five unverified ones. The constraint is not length but accuracy: every sentence you cannot check is a sentence that might read as machine output. A short letter with correct ৰ and ৱ lands better than a long one full of Bangla defaults."
+      },
+      {
+        "question": "Is Assamese the same as Bengali?",
+        "answer": "No. Both are Eastern Indo-Aryan and share a writing system that Unicode encodes in one block, but Assamese adds ৰ (U+09F0) and ৱ (U+09F1), and it has sounds Bengali lacks — Mahanta's IPA illustration documents /x/ as a full phoneme and exactly one rhotic. Treating them as interchangeable is the error this whole topic turns on."
+      },
+      {
+        "question": "What is the Assamese word for a letter?",
+        "answer": "চিঠি (sithi) is the everyday word for a written letter. খত and পত্ৰ also exist, and Wiktionary marks both as uncommon. Wiktionary's example sentence uses the classifier -খন: এই চিঠিখন কেতিয়া পাবগৈ? — \"When will this letter arrive?\""
+      },
+      {
+        "question": "How do I check my Assamese if I am not a native speaker?",
+        "answer": "Verify each line against a dictionary entry rather than a translator, then have one native speaker read the finished letter. As a mechanical check you can run yourself, search your text for র — Assamese never uses it, so every hit is a mistake. That one search catches the most common error."
+      },
+      {
+        "question": "What makes a romantic love letter for girlfriend in Assamese feel personal rather than copied?",
+        "answer": "Specifics she can verify. Sample letters are generic by construction, which is why they read as templates — every page ranking for this query hands you the same interchangeable paragraphs. Build from verified words instead and put one concrete memory in, and the register does the rest."
+      }
+    ],
+    "coverImageQuery": "handwritten letter assamese script desk",
+    "coverImagePrompt": "A close, warm photorealistic shot of a handwritten letter on cream paper resting on a wooden desk, the visible script clearly Assamese, beside a phone showing a soft glow. Late afternoon window light, shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No legible words other than a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Love Letter for Girlfriend in Assamese: ৰ, ৱ and \"You\"\n\nA love letter for girlfriend in Assamese turns on two decisions you make before writing a line: which second-person \"you\" you use — তই (*toi*), তুমি (*tumi*) or আপুনি (*apuni*) — and whether you spell it with the two letters that exist only in Assamese, ৰ and ৱ, instead of the Bangla র a phone keyboard or translator will quietly hand you. For scale on the format, the \"I love you\" page is the most-created thing on SubhSandesh: 987 pages, 29.2% of all 3,377 built since 2026-03-12, with a median 7.2 hours between a creator's first save and last edit across those 987 pages.\n\nNobody writes one in one sitting. Below: the pronoun, the two letters, five verified building blocks, and when Assamese is the wrong call.\n\n## What makes a letter Assamese rather than generically Indic\n\nAn Assamese love letter is a letter written in Assamese — অসমীয়া (*oxomia*) — an Eastern Indo-Aryan language and the official language of Assam. The word for the letter itself is চিঠি (*sithi*); খত and পত্ৰ exist too, both marked uncommon.\n\nWhat marks it as Assamese is narrower than most people expect. It shares its writing system with Bangla, and Unicode puts both in one block — but Assamese adds characters and carries sounds Bangla does not. The [IPA illustration of Assamese by Shakuntala Mahanta](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD4090937A7BC4318FCF1117E82313E4/S0025100312000096a.pdf/div-class-title-assamese-div.pdf), in the *Journal of the International Phonetic Association* in 2012, documents the velar fricative /x/ as a full phoneme, exactly one rhotic, and no distinctive affricates — which is why the language name romanises as *oxomia*, not *asomia*.\n\n## Which \"you\" you use: তই, তুমি or আপুনি\n\nAssamese has three second-person singular pronouns and they are not interchangeable. তই (*toi*) is very familiar, তুমি (*tumi*) is familiar, আপুনি (*apuni*) is formal.\n\n**Use তুমি.** আপুনি is for a stranger or an elder; sent to a girlfriend it reads as distance or as a joke. তই is genuinely used between couples in many families, but its dictionary label is \"very familiar, inferior\" — a downward tilt that lands as intimacy or rudeness depending on the household you are writing into. তুমি is warm without gambling. That is a judgement from dictionary labels, not from living inside the language, so treat it as a default to check.\n\nNow the part almost nobody mentions: swapping the pronoun is not a find-and-replace, because Assamese puts the person on the verb. In [\"Pro-drop and subject pronouns in Assamese\"](https://www.al-kindipublisher.com/index.php/ijllt/article/download/1040/841), published open-access under CC BY in the *International Journal of Linguistics, Literature and Translation* in 2020, Radhika Boruah of the Centre for Endangered Languages at Tezpur University tabulates the verb *kha* (\"eat\") across all nine personal pronouns.\n\nWith তুমি the past and future are *kha-l-a* and *kha-b-a*; with তই, *kha-l-i* and *kha-b-i*. Change the pronoun and every verb ending changes with it.\n\nBoruah carries a second finding worth acting on: Assamese is pro-drop, so most subject pronouns can be dropped, but she reports this is \"not acceptable in written language.\" A letter is written language. Keep the pronoun in.\n\n## ৰ and ৱ: the two letters that separate Assamese from Bangla\n\nThis is the most common error non-speakers make, and it is fully specified, not a matter of taste. Chapter 12 of [the Unicode Standard, version 16.0](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/), released 10 September 2024, states that \"Assamese employs two letters not used for the Bangla language\": *ra* is U+09F0 ৰ, RA WITH MIDDLE DIAGONAL, and *wa* is U+09F1 ৱ, RA WITH LOWER DIAGONAL.\n\nThe two behave differently, and this is where guides get it wrong. ৰ is a straight replacement: Assamese does not use র at all, so every র in your text is an error. ৱ is an addition, for the /w/ sound — Assamese keeps ব (U+09AC) for /b/, in words like পাব and বেয়া.\n\nSo Assamese writes মৰম and তোমাৰ where Bangla-defaulted text writes মরম and তোমার. To a reader in Assam that is wrong in a way an apology cannot fix: it looks like you did not know which language you were writing.\n\nTwo consequences: your phone's Bangla keyboard may not expose ৰ and ৱ, so install an Asamiya layout; and search for র before sending, because every hit is a mistake.\n\nThis is not stylistic fussiness in Assam. In [\"Language, Identity and Conflict\"](https://www.spaceandculture.in/index.php/spaceandculture/article/view/1625), published CC BY in *Space and Culture, India* on 29 November 2024, Debajyoti Biswas of Bodoland University draws on interviews with 150 families in western Assam and traces the Language Movement of 1960, the Medium of Instruction Movement of 1972 and the Assam Movement of 1979–85, finding that conflict over language intensified tensions between Bengali- and Assamese-speaking communities. One character separates writing to her in her language from writing in a near-neighbour's.\n\n## Five verified building blocks, with script and romanisation\n\nEach comes from an English Wiktionary Assamese entry, which is why I can hand it over. I am deliberately not giving you a finished letter to copy: every page ranking for this query already does, and a paragraph someone else composed is a greeting card with your name on it.\n\nThe romanisation is a reading aid, not ISO 15919. চ and ছ are written *s*, স/শ/ষ as *x*, জ/য as *z*, ৰ as *r*, ৱ as *w* — following Mahanta's finding that Assamese has no distinctive affricates and contrasts /s/, /z/ and /x/.\n\n### 1. মই তোমাক ভালপাওঁ — *moi tomak bhalpau*\n\n\"I love you.\" The whole job in four words, and it appears verbatim as the usage example on Wiktionary's [ভালপোৱা entry](https://en.wiktionary.org/wiki/ভালপোৱা), with the scholarly transliteration *moi tümak bhalpaü̃* and the pronunciation /bʱal.pʊa/. The ওঁ is nasalised. তোমাক is the objective form of তুমি, so the line is already in the register chosen above.\n\n### 2. তুমি ভালে আছা নে — *tumi bhale asa ne*\n\n\"Are you well?\" Wiktionary's তুমি entry carries this as its usage example, glossed \"Are you good?\". It is the opening a letter wants, because it asks rather than announces, and the আছা ending belongs to তুমি — Boruah's table shows তই taking *-i* endings where তুমি takes *-a*.\n\n### 3. মৰম — *morom*\n\nThe word for the feeling when \"love\" is too large for the sentence. Wiktionary glosses মৰম as love, strong affection, caress, a kiss from a child, fondness and friendship, from Sanskrit मर्मन्. Note the ৰ: the word most often mis-spelled as মরম.\n\n### 4. আদৰ — *ador*\n\nLove and affection, and also respect and honour — a borrowing from Sanskrit आदर. Where মৰম is tender, আদৰ carries regard: for saying you value her, not that you want her.\n\n### 5. জীৱন — *ziwon*\n\n\"Life.\" Spelled with ৱ, where Bangla writes the same word with ব. Wiktionary records two pronunciations: an inherited one without the intervocalic consonant, and a borrowed Sanskritic one with it.\n\n## Script, romanisation, or both\n\nFormat is a real decision, and where our numbers are worth something.\n\n| Format | What she receives | Main risk | Our data |\n|---|---|---|---|\n| Script only | মই তোমাক ভালপাওঁ | Fails silently if the Assamese font is missing | 50.3% of our 41,486 views open on a phone |\n| Romanised only | moi tomak bhalpau | ৰ (U+09F0) and ৱ (U+09F1) vanish | 14,607 love-gf views, none tagged by script — we do not record it |\n| Script above romanisation | both lines, stacked | Roughly doubles every line | 7.2 hours median first save to last edit, n=987 |\n| Both, on a shareable page | the letter typed out on screen | Needs a link and a connection | 987 pages built, 29.2% of 3,377 |\n\nStack script above romanisation if she reads Assamese but types in Latin, which is common; send script alone only if you know her phone renders it.\n\nOnce the words are settled the container is a smaller decision. The [romantic \"I love you\" page](https://subhsandesh.in/love-gf) types the letter out on its cover, with a Love Quiz, a Truth or Dare round and an \"Our Story\" timeline behind it.\n\nIf your letter is darker than that, the [Darling romantic page](https://subhsandesh.in/darling) suits that register — fourth most-created here at 349 pages, 10.3% of the total. [Browse the full template set](https://subhsandesh.in/templates) if neither fits.\n\n## Why machine translation gets Assamese wrong\n\nDo not run the letter through a translator. Assamese is genuinely low-resource, and the systems that work best on it get there by going through Bangla.\n\nIn [\"Zero-shot English–Assamese neural machine translation\"](https://www.nature.com/articles/s41598-026-44209-w), published open-access in *Scientific Reports* on 17 March 2026, Basab Nath and Yonis Gulzar report that NMT for low-resource languages such as Assamese is held back by the scarcity of parallel corpora, and build a system exploiting Assamese–Bangla proximity to translate English to Assamese with no direct parallel data. It reaches a BLEU score of 28.65, which they report as 7.53 points above direct-translation baselines.\n\nA purpose-built research system scores 28.65 by routing English through Bangla. The paper makes no claim about its output confusing the two scripts, and neither do I. But a consumer translator with none of that engineering is not what you want deciding whether your letter says মৰম or মরম.\n\n## When an Assamese love letter is the wrong choice\n\n**She does not read the script.** Many fluent Assamese speakers read English or Latin-script Assamese faster than অসমীয়া, especially outside Assam. A letter she has to decode is a letter she reads once.\n\n**Your Assamese is shakier than your English.** A wrong pronoun or a Bangla র reads as effort you did not put in — worse than a sincere letter in the language you think in. If you cannot check it, write in English and carry one verified Assamese line inside it.\n\n**She is in the same room.** Hand her paper. A link is for distance.\n\n**You need it locked down.** 42.8% of creators here password-protect a page before sharing — 1,444 of 3,377 — the right instinct for a letter, but friction at the moment you meant to hand her the phone.\n\nA limit on our side: SubhSandesh has no Assamese interface and no template that writes Assamese for you. The page is the container; the ৰ and ৱ are your job. Have a native speaker read the letter before you send it.\n\n## Sources\n\n- Mahanta, \"Assamese,\" *Journal of the International Phonetic Association* 42/2, 2012.\n- Boruah, \"Pro-drop and subject pronouns in Assamese,\" *IJLLT* 3(7), 2020, CC BY.\n- The Unicode Standard, Version 16.0, Chapter 12, 10 September 2024.\n- Biswas, \"Language, Identity and Conflict,\" *Space and Culture, India* 12(3), 29 November 2024, CC BY.\n- Nath and Gulzar, \"Zero-shot English–Assamese neural machine translation,\" *Scientific Reports* 16:13732, 17 March 2026.\n- English Wiktionary, Assamese entries for ভালপোৱা, তুমি, তই, আপুনি, মৰম, আদৰ, জীৱন, চিঠি and অসমীয়া. Continuously edited; no publication date.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/love-letter-for-girlfriend-in-assamese#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Assamese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assamese_language",
+              "https://www.wikidata.org/wiki/Q29401"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Assamese alphabet",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assamese_alphabet",
+              "https://www.wikidata.org/wiki/Q191272"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Love letter",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Love_letter",
+              "https://www.wikidata.org/wiki/Q1056617"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Assam",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assam",
+              "https://www.wikidata.org/wiki/Q1164"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "The Unicode Standard, Version 16.0 — Chapter 12: South and Central Asia-I",
+            "url": "https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/",
+            "datePublished": "2024-09-10",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode, Inc."
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Pro-drop and subject pronouns in Assamese",
+            "author": {
+              "@type": "Person",
+              "name": "Radhika Boruah"
+            },
+            "url": "https://www.al-kindipublisher.com/index.php/ijllt/article/download/1040/841",
+            "datePublished": "2020",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Linguistics, Literature and Translation"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Assamese (Illustrations of the IPA)",
+            "author": {
+              "@type": "Person",
+              "name": "Shakuntala Mahanta"
+            },
+            "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD4090937A7BC4318FCF1117E82313E4/S0025100312000096a.pdf/div-class-title-assamese-div.pdf",
+            "datePublished": "2012",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of the International Phonetic Association"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Language, Identity and Conflict: Comprehending Everyday Co-existence in Assam",
+            "author": {
+              "@type": "Person",
+              "name": "Debajyoti Biswas"
+            },
+            "url": "https://www.spaceandculture.in/index.php/spaceandculture/article/view/1625",
+            "datePublished": "2024-11-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Space and Culture, India"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Zero-shot English–Assamese neural machine translation via pivot-based cross-lingual embedding alignment and transfer learning",
+            "url": "https://www.nature.com/articles/s41598-026-44209-w",
+            "datePublished": "2026-03-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Scientific Reports"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary — Assamese entry ভালপোৱা",
+            "url": "https://en.wiktionary.org/wiki/ভালপোৱা",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five verified Assamese building blocks for a love letter",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "মই তোমাক ভালপাওঁ — moi tomak bhalpau",
+            "description": "\"I love you.\" Verbatim usage example on Wiktionary's ভালপোৱা entry; transliterated moi tümak bhalpaü̃, pronounced /bʱal.pʊa/. তোমাক is the objective form of তুমি."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "তুমি ভালে আছা নে — tumi bhale asa ne",
+            "description": "\"Are you well?\" The usage example on Wiktionary's তুমি entry, glossed \"Are you good?\". The আছা ending belongs to তুমি, not তই."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "মৰম — morom",
+            "description": "Love, strong affection, caress, a kiss from a child, fondness, friendship; from Sanskrit मर्मन्. Spelled with ৰ, not র."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "আদৰ — ador",
+            "description": "Love and affection, and also respect and honour; a borrowing from Sanskrit आदर. Carries regard where মৰম carries tenderness."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "জীৱন — ziwon",
+            "description": "\"Life.\" Spelled with ৱ where Bangla writes the same word with ব; Wiktionary records an inherited pronunciation without the intervocalic consonant and a borrowed Sanskritic one with it."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "love letter for girlfriend in assamese",
+    "angle": "Wins by being the only post that resolves the two decisions an Assamese love letter actually turns on — the second-person pronoun (with Boruah's verb-agreement table showing the switch re-conjugates every verb) and the two Assamese-only letters ৰ U+09F0 and ৱ U+09F1 named in the Unicode Standard — against a SERP where two of the top five host their letter inside a JPEG and none gives a romanisation, grounded in SubhSandesh's own 987-page /love-gf record and its 7.2-hour median edit window.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "https://subhsandesh.in/love-gf",
+      "https://subhsandesh.in/darling"
+    ],
+    "factsUsed": [
+      "3,377 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-02",
+      "Most popular creation: \"I love you\" page (/love-gf) — 987 pages, 29.2% of everything created — measured 2026-09-02",
+      "Median gap between a page's first save and its last edit: 7.2 hours — sampled on \"I love you\" page (/love-gf), n=987 — measured 2026-09-02",
+      "50.3% of shared pages are opened on a phone (20,853 of 41,486 views) — measured 2026-09-02",
+      "41,486 recorded views of shared pages — measured 2026-09-02",
+      "Most-viewed template: love-gf — 14,607 views, 35.2% of all page views — measured 2026-09-02",
+      "42.8% of creators password-protect their page before sharing it (1,444 of 3,377) — measured 2026-09-02",
+      "#4 page type: Darling romantic page (/darling) — 349 created, 10.3% of all pages — measured 2026-09-02"
+    ],
+    "sources": [
+      {
+        "url": "https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/",
+        "stat": "The Unicode Standard, Version 16.0, Chapter 12 (South and Central Asia-I): \"Assamese employs two letters not used for the Bangla language. The Assamese letter ra is represented in Unicode by U+09F0 ৰ BENGALI LETTER RA WITH MIDDLE DIAGONAL, and the Assamese letter wa is represented by U+09F1 ৱ BENGALI LETTER RA WITH LOWER DIAGONAL.\" The Bangla counterparts in the same block are U+09B0 র BENGALI LETTER RA and U+09AC ব BENGALI LETTER BA, and the code chart annotates U+09F1 as \"= bengali letter va with lower diagonal (1.0)\" — i.e. ৱ corresponds to Bangla va, not ba. Full text of the chapter plus the U0980 code chart read.",
+        "publishedDate": "2024-09-10"
+      },
+      {
+        "url": "https://www.al-kindipublisher.com/index.php/ijllt/article/download/1040/841",
+        "stat": "Radhika Boruah, \"Pro-drop and subject pronouns in Assamese\", IJLLT 3(7):210–214, CC BY. Tabulates the verb kha (\"eat\") across nine personal pronouns: Tumi takes kha-l-a / kha-b-a where Toi takes kha-l-i / kha-b-i. Also finds Assamese pro-drop is \"not acceptable in written language\". Full text read.",
+        "publishedDate": "2020"
+      },
+      {
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD4090937A7BC4318FCF1117E82313E4/S0025100312000096a.pdf/div-class-title-assamese-div.pdf",
+        "stat": "Shakuntala Mahanta, \"Assamese\", Illustrations of the IPA, Journal of the International Phonetic Association 42/2. Documents /x/ as a full phoneme, exactly one rhotic (\"The only rhotic /ɹ/\"), and that affricates \"are also not present as distinctive sound units\". Full PDF read.",
+        "publishedDate": "2012"
+      },
+      {
+        "url": "https://www.spaceandculture.in/index.php/spaceandculture/article/view/1625",
+        "stat": "Debajyoti Biswas, \"Language, Identity and Conflict: Comprehending Everyday Co-existence in Assam\", Space and Culture, India 12(3):107–134, CC BY. Interviews with 150 families in violence-affected western Assam; names the Language Movement (1960), Medium of Instruction Movement (1972) and Assam Movement (1979–1985), and finds conflict over language intensified tensions between Bengali- and Assamese-speaking communities. Abstract and article page read.",
+        "publishedDate": "2024-11-29"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41598-026-44209-w",
+        "stat": "Basab Nath and Yonis Gulzar, \"Zero-shot English–Assamese neural machine translation via pivot-based cross-lingual embedding alignment and transfer learning\", Scientific Reports 16:13732, open access. NMT for low-resource languages such as Assamese is limited by scarcity of parallel corpora; the system exploits Assamese–Bengali proximity and reaches BLEU 28.65, reported as 7.53 points above direct-translation baselines. Full text read.",
+        "publishedDate": "2026-03-17"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/ভালপোৱা",
+        "stat": "English Wiktionary, Assamese entry ভালপোৱা: \"to love, like\", IPA /bʱal.pʊa/, with the usage example মই তোমাক ভালপাওঁ। transliterated moi tümak bhalpaü̃ and glossed \"I love you.\" Source of the verified Assamese lines in the post. Continuously edited; publishes no publication date."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "metaTitle is 60 characters and the exact keyword occupies words 1–6, which is the earliest placement possible — but the keyword is itself six words long, so it cannot fit inside \"the first five words\". The item is unsatisfiable for any six-word keyword; no shorter phrasing preserves the exact-match target. Closes only if the item is reworded to \"keyword begins within the first five words\"."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug contains the stop words \"for\" and \"in\". It was assigned by the batch brief as the exact-match target and verified free against 935 live Strapi articles, so shortening it to love-letter-girlfriend-assamese would break the exact-match intent and diverge from the batch slug list. Escalated rather than changed — only the orchestrator can retarget a brief-assigned slug."
+        }
+      ],
+      "honestAssessment": "Why an answer engine would cite this over the five pages analysed: it is the only page on this query that resolves the two decisions an Assamese letter actually turns on, with primary sources attached. Two of the top five host their entire letter inside a JPEG (jitudas.com, 2017 and 2018) so there is no extractable text at all; the two that do have text (jonakaxom.in, ai.tenorshare.com) give Assamese script with zero romanisation, never name the pronoun they chose, and never mention ৰ or ৱ. This post names the pronoun and why, quotes the Unicode codepoints, and shows via Boruah's verb table that switching the pronoun re-conjugates every verb — a claim none of the five make.\n\nASSAMESE LINES I AM NOT FULLY CONFIDENT IN — native review required, listed by line:\n1. \"মই তোমাক ভালপাওঁ — moi tomak bhalpau\": the script is verbatim from Wiktionary, but my reader-facing romanisation drops the nasalisation Wiktionary marks (bhalpaü̃) and writes তোমাক as tomak where Wiktionary has tümak. The romanisation is therefore NOT character-for-character identical to the cited source, and I flag it as a simplification, not a transliteration.\n2. \"তুমি ভালে আছা নে — tumi bhale asa ne\": script is Wiktionary's usage example, but I dropped its trailing question mark and danda, and Wiktionary supplies no romanisation for it. Rendering আছা as \"asa\" is my own inference from Mahanta's finding that Assamese has no distinctive affricates; a native speaker may prefer \"asaa\" or \"aasa\".\n3. \"আদৰ — ador\": the gloss is verified but the romanisation is mine by analogy from Wiktionary's derived forms (adornio, adoroni). Unverified directly.\n4. \"জীৱন — ziwon\": ziwon is Wiktionary's declension romanisation, but the same entry records a borrowed pronunciation জিবন, so \"zibon\" is also heard. I present only one form.\n5. \"তোমাৰ\" (used as a correct-spelling example): NOT dictionary-verified in this run. It is inferred from the verified morphology of মোৰ (Wiktionary: মই + অৰ) and appears in live Assamese prose. Medium confidence.\n6. \"প্ৰিয়\" (used as a correct-spelling example): NOT verified — the Wiktionary lookup for this entry was rate-limited and never returned. It appears in live Assamese prose with the ৰ conjunct. Verify or drop.\n7. The Bangla counter-examples \"মরম, তোমার\" were produced mechanically by substituting র into the verified Assamese forms. If either is also an attested Assamese variant spelling, the sentence claiming they read as the wrong language would be overstated for that word.\n10. CORRECTED DURING SELF-AUDIT, worth re-checking with a native reader: an earlier draft of this post claimed ৰ and ৱ displace \"the Bangla র and ব\", and used জীবন as an error example. That is wrong and was fixed. ৰ does fully replace র (Assamese uses no র), but ৱ is an ADDITION for /w/ — Assamese still uses ব (U+09AC) for /b/, as in পাব and বেয়া. The Unicode code chart supports the narrower reading by annotating U+09F1 as \"bengali letter va with lower diagonal\", i.e. the counterpart of Bangla va rather than ba. The claim that ব is simply the wrong letter in Assamese would have been a clear error; the post now states the asymmetry explicitly, but a native reader should confirm the /w/-versus-/b/ framing.\n8. The register choice itself. তুমি is chosen from dictionary labels (\"familiar\" vs \"very familiar, inferior\" vs \"formal\"), not from native intuition or any regional survey. I found no source measuring which pronoun Assamese couples actually use, so the recommendation is reasoned, not evidenced, and the body says so.\n9. The romanisation scheme (চ/ছ→s, স/শ/ষ→x, জ/য→z, ৰ→r, ৱ→w) is grounded in Mahanta's phoneme inventory but is not a published standard, and it is not ISO 15919. The body states this.\n\nSOURCING GAPS AND LIMITS:\n- No topical scholarly source exists for the actual phenomenon (Assamese-language romantic letter-writing, or pronoun choice between Assamese romantic partners). Search terms tried, across DOAJ and OpenAlex with is_oa filters: \"Assamese language\", \"Assamese script orthography\", \"Assamese sociolinguistics\", \"Assamese pronoun honorific\", \"Assamese orthography script\", \"Assamese honorific second person pronoun\", \"Assamese Bengali script distinction ra wa\", \"Assamese language identity Assam\", \"romanization Indic script transliteration users\". DOAJ returned 0 results for three of those four queries. The post therefore leans on Assamese linguistics and first-party data rather than on research about the behaviour, which is the honest position.\n- Mahanta (2012, JIPA) is peer-reviewed and its PDF downloaded freely from Cambridge Core, but the article is not labelled CC-licensed open access. The open-access requirement is carried by Boruah (CC BY), Biswas (CC BY) and Nath & Gulzar (Scientific Reports, open access).\n- WebSearch quota for this session was exhausted after the first SERP query, so Phase 1 rests on that one result set plus five fetched pages; secondary-keyword SERPs were not observed directly.\n- The Pricing block in content/facts.md is empty, so the post says nothing about cost anywhere. Readers arriving on this query plausibly want to know whether making the page costs anything, and that question is unanswerable from current data. Recorded as a gap, not answered.\n- Source caps verified against the three sibling posts present at write time (malayalam, nepali, never-have-i-ever): zero URL overlap and zero domain overlap with my six. No breach to escalate, but siblings written after this file could still collide.\n\nWHAT THIS POST CANNOT OVERCOME: subhsandesh.in has no Assamese content at all today, so this page starts with no topical cluster and no internal authority in the language. The competing results are weak but two of them are 8–9 year old blogspot pages with accumulated links. Ranking depends on domain authority and backlinks over months and is not predicted here."
+    },
+    "generatedAt": "2026-09-02T08:23:11.761Z"
+  }
+}
