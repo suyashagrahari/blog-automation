@@ -187,7 +187,18 @@ for (const f of files) {
   // But do NOT scan structuredData: its `sameAs`/`@id` entity references point at
   // Wikipedia and Wikidata for disambiguation, are not citations, and counting
   // them reports en.wikipedia.org as breaching the cap in every post at once.
-  const srcUrls = (j.batchMeta?.sources || j.sources || []).map((s) => (typeof s === "string" ? s : s.url)).filter(Boolean);
+  // publish-checklist.md carves out ONE exemption from both the cap and the
+  // spent-URL rule: "the date/festival reference (e.g. a panchang for the
+  // festival date and muhurat). Every post in a festival batch may verify the
+  // same date — that is a fact-check, not a citation, and it has no cap."
+  // Writers mark these in the source entry; honour the marker.
+  const rawSources = j.batchMeta?.sources || j.sources || [];
+  const dateRefs = new Set(
+    rawSources.filter((s) => typeof s !== "string" && /date\s*\/\s*festival reference/i.test(JSON.stringify(s)))
+      .map((s) => s.url).filter(Boolean)
+  );
+  if (dateRefs.size) N(slug, `${dateRefs.size} source(s) claim the date/festival-reference exemption: ${[...dateRefs].join(", ")}`);
+  const srcUrls = rawSources.map((s) => (typeof s === "string" ? s : s.url)).filter(Boolean);
   const out = new Set();
   for (const text of [md, srcUrls.join(" ")]) {
     for (const m of String(text).matchAll(/https?:\/\/[^"\\)\s>\]]+/g)) {
@@ -197,6 +208,7 @@ for (const f of files) {
     }
   }
   for (const u of out) {
+    if (dateRefs.has(u)) continue; // exempt from the spent-URL rule AND the caps
     if (SPENT.has(u)) P(slug, `re-cites an already-spent URL: ${u}`);
     if (!urlPosts.has(u)) urlPosts.set(u, new Set());
     urlPosts.get(u).add(slug);
