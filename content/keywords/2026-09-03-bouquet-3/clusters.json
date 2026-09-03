@@ -1,0 +1,175 @@
+{
+ "generated": "2026-09-03",
+ "harvest": {
+  "rounds": 3,
+  "raw_suggestions": 4494,
+  "unique": 4491,
+  "after_word_filter": 4371,
+  "open_after_dedupe": 4056,
+  "collapsed_as_near_duplicate": 315,
+  "dedupe": "Jaccard >= 0.5 on slug+title tokens against 975 live blog slugs (sitemap.xml, pulled 2026-09-03) plus 161 slugs already committed across 13 batches"
+ },
+ "clusters": [
+  {
+   "cluster_id": "makar-sankranti-gift-ideas-for-wife",
+   "head": "makar sankranti gift ideas for wife",
+   "head_demand_prefix_hits": 8,
+   "page": "https://subhsandesh.in/blog/makar-sankranti-gift-ideas-for-wife",
+   "members": [
+    "makar sankranti gift ideas for wife",
+    "makar sankranti gift ideas for ladies",
+    "makar sankranti gift for husband",
+    "makar sankranti gift ideas",
+    "makar sankranti gift hamper ideas"
+   ],
+   "member_count": 5,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "what-to-gift-for-wife-on-anniversary",
+   "head": "what to gift for wife on anniversary",
+   "head_demand_prefix_hits": 23,
+   "page": "https://subhsandesh.in/blog/what-to-gift-for-wife-on-anniversary",
+   "members": [
+    "what to gift for wife on anniversary",
+    "what to gift your wife on anniversary",
+    "anniversary gift for wife",
+    "which flowers for anniversary",
+    "bouquet for anniversary",
+    "bouquet for wedding anniversary",
+    "anniversary flowers for wife"
+   ],
+   "member_count": 7,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "holi-gift-for-girlfriend",
+   "head": "holi gift for girlfriend",
+   "head_demand_prefix_hits": 3,
+   "page": "https://subhsandesh.in/blog/holi-gift-for-girlfriend",
+   "members": [
+    "holi gift for girlfriend",
+    "holi gift to girlfriend",
+    "holi special gifts for girlfriend",
+    "holi gift for her",
+    "holi gift for women",
+    "holi gift for girl"
+   ],
+   "member_count": 6,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "diwali-gift-for-wife",
+   "head": "diwali gift for wife",
+   "head_demand_prefix_hits": 11,
+   "page": "https://subhsandesh.in/blog/diwali-gift-for-wife",
+   "members": [
+    "diwali gift for wife",
+    "diwali gift for wife except gold",
+    "best diwali gift for wife unique",
+    "diwali padwa gift for wife",
+    "gift for wife on diwali padwa"
+   ],
+   "member_count": 5,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "promotion-gift-for-husband",
+   "head": "promotion gift for husband",
+   "head_demand_prefix_hits": 7,
+   "page": "https://subhsandesh.in/blog/promotion-gift-for-husband",
+   "members": [
+    "promotion gift for husband",
+    "promotion gift for her",
+    "promotion gift for him",
+    "promotion gift ideas for her",
+    "promotion gift ideas",
+    "promotion gift for friend"
+   ],
+   "member_count": 6,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "flowers-for-wife-on-wedding-day",
+   "head": "flowers for wife on wedding day",
+   "head_demand_prefix_hits": 6,
+   "page": "https://subhsandesh.in/blog/flowers-for-wife-on-wedding-day",
+   "members": [
+    "flowers for wife on wedding day",
+    "bouquet for wedding",
+    "which flowers for wedding",
+    "wedding day flowers for bride"
+   ],
+   "member_count": 4,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "what-to-gift-for-my-wife",
+   "head": "what to gift for my wife",
+   "head_demand_prefix_hits": 21,
+   "page": "https://subhsandesh.in/blog/what-to-gift-for-my-wife",
+   "members": [
+    "what to gift for my wife",
+    "what to gift for wife on her birthday",
+    "flowers to wife",
+    "what to gift your wife",
+    "best gift for wife"
+   ],
+   "member_count": 5,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "engagement-gift-for-couple",
+   "head": "engagement gift for couple",
+   "head_demand_prefix_hits": 6,
+   "page": "https://subhsandesh.in/blog/engagement-gift-for-couple",
+   "members": [
+    "engagement gift for couple",
+    "engagement gift ideas for couples",
+    "engagement gift ideas",
+    "engagement gift for bride",
+    "engagement gift for groom",
+    "do you send an engagement gift",
+    "what is an engagement gift"
+   ],
+   "member_count": 7,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "navratri-gift-ideas",
+   "head": "navratri gift ideas",
+   "head_demand_prefix_hits": 16,
+   "page": "https://subhsandesh.in/blog/navratri-gift-ideas",
+   "members": [
+    "navratri gift ideas",
+    "navratri gift to wife",
+    "navratri gift for her",
+    "navratri gift for ladies",
+    "navratri gift for women",
+    "navratri gift hamper"
+   ],
+   "member_count": 6,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  },
+  {
+   "cluster_id": "flowers-for-wife-after-giving-birth",
+   "head": "flowers for wife after giving birth",
+   "head_demand_prefix_hits": 6,
+   "page": "https://subhsandesh.in/blog/flowers-for-wife-after-giving-birth",
+   "members": [
+    "flowers for wife after giving birth",
+    "flower for wife after giving birth to baby",
+    "gift for wife on delivery day",
+    "what to gift your wife after delivery",
+    "flowers for new mom"
+   ],
+   "member_count": 5,
+   "method": "single-link clustering on inter-candidate Jaccard >= 0.5, one page per cluster"
+  }
+ ],
+ "total_keywords_served": 56,
+ "not_shortlisted": {
+  "count": 4000,
+  "note": "4,056 open candidates were harvested and 10 clusters spent. See shortlist.md \"Next cycle\" for the ranked remainder."
+ }
+}
