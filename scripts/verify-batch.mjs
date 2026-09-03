@@ -168,8 +168,15 @@ for (const f of files) {
   for (const fu of factsUsed) if (!FACTS.has(fu)) P(slug, `factsUsed not verbatim in facts.md: "${fu.slice(0, 70)}"`);
 
   // ── links ─────────────────────────────────────────────────────────────────
-  const internal = [...new Set([...JSON.stringify(j).matchAll(/https:\/\/subhsandesh\.in(\/[a-z0-9-]*)/g)].map((m) => m[1]))]
-    .filter((p) => !p.startsWith("/blog"));
+  // Scope this to what actually ships: the article plus the chosen templateUrls.
+  // Scanning the whole record sweeps in batchMeta.honestAssessment and .notes,
+  // which are review prose that never reaches Strapi — a mention of a dead slug
+  // there is a comment about it, not a link to it.
+  const shipped = JSON.stringify([a, j.batchMeta?.templateUrls || []]);
+  const internal = [...new Set([...shipped.matchAll(/https:\/\/subhsandesh\.in(\/[a-z0-9-]*)/g)].map((m) => m[1]))]
+    .filter((p) => !p.startsWith("/blog"))
+    .concat((j.batchMeta?.templateUrls || []).map((t) => (t.startsWith("http") ? new URL(t).pathname : t)))
+    .filter((p, i, arr) => arr.indexOf(p) === i);
   const bodyInternal = [...new Set([...md.matchAll(/https:\/\/subhsandesh\.in(\/[a-z0-9-]*)/g)].map((m) => m[1]))].filter((p) => !p.startsWith("/blog"));
   if (!bodyInternal.includes("/bouquet-gf")) P(slug, "mandatory /bouquet-gf link missing from body");
   if (!bodyInternal.includes("/love-gf") && !bodyInternal.includes("/darling")) P(slug, "needs at least one of /love-gf or /darling in body");
