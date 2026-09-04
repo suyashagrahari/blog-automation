@@ -1,0 +1,143 @@
+[
+ {
+  "keyword": "gift ideas for boyfriend christmas",
+  "ok": true,
+  "status": 200,
+  "attempts": 1,
+  "bytes": 48833,
+  "top10": [
+   "chicceremony.com",
+   "charmvows.com",
+   "nytimes.com",
+   "nypost.com",
+   "everydaywholesome.com",
+   "etsy.com",
+   "unwrappingsmiles.com",
+   "winni.in",
+   "groovyguygifts.com"
+  ],
+  "weak": [
+   "etsy.com",
+   "winni.in"
+  ],
+  "weakCount": 2,
+  "strong": [
+   "chicceremony.com",
+   "charmvows.com",
+   "nytimes.com",
+   "nypost.com",
+   "everydaywholesome.com",
+   "unwrappingsmiles.com",
+   "groovyguygifts.com"
+  ]
+ },
+ {
+  "keyword": "how to surprise my boyfriend for no reason",
+  "ok": true,
+  "status": 200,
+  "attempts": 1,
+  "bytes": 42449,
+  "top10": [
+   "wikihow.com",
+   "bonobology.com",
+   "relationships.in.net",
+   "stylecraze.com",
+   "marriage.com",
+   "whattogetmy.com",
+   "momjunction.com",
+   "hernorm.com",
+   "namechecks.com",
+   "ordinaryandhappy.com"
+  ],
+  "weak": [],
+  "weakCount": 0,
+  "strong": [
+   "wikihow.com",
+   "bonobology.com",
+   "relationships.in.net",
+   "stylecraze.com",
+   "marriage.com",
+   "whattogetmy.com",
+   "momjunction.com",
+   "hernorm.com",
+   "namechecks.com",
+   "ordinaryandhappy.com"
+  ]
+ },
+ {
+  "keyword": "how to surprise your boyfriend randomly",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14272B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend with pregnancy",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14269B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend in long distance relationship",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14305B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend on our anniversary",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14301B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend on his birthday",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend when he comes home",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my boyfriend just because",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise your boyfriend on his birthday online",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my girlfriend for no reason",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "surprise gift for girlfriend on valentine's week",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "how to surprise my girlfriend with flowers",
+  "ok": false,
+  "reason": "fetch error: fetch failed",
+  "attempts": 4
+ }
+]

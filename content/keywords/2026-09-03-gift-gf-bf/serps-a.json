@@ -1,0 +1,146 @@
+[
+ {
+  "keyword": "romantic gift ideas for boyfriend",
+  "ok": true,
+  "status": 200,
+  "attempts": 1,
+  "bytes": 47600,
+  "top10": [
+   "etsy.com",
+   "amazon.in",
+   "nytimes.com",
+   "giftlab.co",
+   "theknot.com",
+   "blog.messagear.com",
+   "floweraura.com",
+   "confettigifts.in"
+  ],
+  "weak": [
+   "etsy.com",
+   "amazon.in",
+   "floweraura.com"
+  ],
+  "weakCount": 3,
+  "strong": [
+   "nytimes.com",
+   "giftlab.co",
+   "theknot.com",
+   "blog.messagear.com",
+   "confettigifts.in"
+  ]
+ },
+ {
+  "keyword": "romantic gifts for boyfriend long distance",
+  "ok": true,
+  "status": 200,
+  "attempts": 1,
+  "bytes": 47836,
+  "top10": [
+   "longdistance.net",
+   "businessinsider.com",
+   "blog.messagear.com",
+   "theknot.com",
+   "thegifthacker.com",
+   "feelclose.app",
+   "amazon.in",
+   "endlessdistances.com",
+   "insanelygoodgifts.com"
+  ],
+  "weak": [
+   "amazon.in"
+  ],
+  "weakCount": 1,
+  "strong": [
+   "longdistance.net",
+   "businessinsider.com",
+   "blog.messagear.com",
+   "theknot.com",
+   "thegifthacker.com",
+   "feelclose.app",
+   "endlessdistances.com",
+   "insanelygoodgifts.com"
+  ]
+ },
+ {
+  "keyword": "romantic gift for bf birthday",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14247B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend unique",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14257B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend 2 years",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14259B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend 1 year",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 14269B (status 202)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "romantic gift for boyfriend on valentine's day",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend long distance",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend 3 years",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "anniversary gift for boyfriend 5 years",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "gift ideas for boyfriend handmade",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "what are good gift ideas for boyfriend",
+  "ok": false,
+  "reason": "only 0 hosts parsed from 236B (status 403)",
+  "attempts": 4,
+  "hosts": []
+ },
+ {
+  "keyword": "gift ideas for boyfriend anniversary",
+  "ok": false,
+  "reason": "fetch error: fetch failed",
+  "attempts": 4
+ },
+ {
+  "keyword": "best gift for boyfriend on his birthday",
+  "ok": false,
+  "reason": "fetch error: fetch failed",
+  "attempts": 4
+ }
+]
