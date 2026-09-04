@@ -1,0 +1,918 @@
+# Spent sources — read before adding any citation
+
+Built from **180 committed posts** on 2026-09-03, **including all 11 posts of
+`2026-09-03-gift-bf` (the sibling batch written earlier today)**. Excluded:
+`2026-01-01-fixture` (a test fixture whose only source is a placeholder) and this
+batch itself.
+
+**These counts are provenance, not liveness** — no URL was re-fetched to confirm it
+resolves. A writer in the last batch lost time to a dead endpoint that turned out to
+be live at a different URL, so if a source 404s, try another endpoint before giving up.
+
+## Two lists. Only ONE is a block. Do not grep this file as one list.
+
+The caps in `publish-checklist.md` are **per batch**:
+
+> No source URL appears in more than 2 posts **in this batch**; no domain in more than 3.
+
+- **`## The 50 spent URLs`** below is the block list. Those are already in 2+ posts;
+  a third use trips the verifier.
+- **`## LEGAL TO CITE`** below that is 759 URLs with **one prior use and one slot left.
+  Those are usable.**
+
+A writer in the last batch grepped the whole file, concluded two of its best sources
+were spent, and threw away the only India-specific paper it had found — including one
+that was merely used once. The batch verifier had the identical bug. **Parse by section.**
+
+**Domain caps reset per batch.** `pmc.ncbi.nlm.nih.gov`, `journals.plos.org` and
+`frontiersin.org` each hit 3 of 3 in the sibling batch — that does **not** block them
+here, but eleven sibling posts already lean on them, so prefer something fresher.
+
+**Count publishers, not hostnames.** `doi.org` is a resolver: in the last batch, two
+posts citing `doi.org/10.1002/...` plus two citing `onlinelibrary.wiley.com` put four
+posts on Wiley while hostname counting saw "doi.org 2, wiley 2" and passed. Resolve the
+DOI prefix before you count.
+
+## The 50 spent URLs — do not cite any of these
+
+- https://journals.rudn.ru/linguistics/article/view/26001  *(already in 4 posts)*
+- https://www.drikpanchang.com/festivals/raksha-bandhan/raksha-bandhan-date-time.html?year=2026  *(already in 3 posts)*
+- https://www.research.ed.ac.uk/en/publications/for-how-long-can-your-ip%C4%ABharw%C4%81le-iintervene-accessing-natal-kin-s/  *(already in 3 posts)*
+- https://web.mit.edu/ariely/www/MIT/Papers/deadlines.pdf  *(already in 3 posts)*
+- https://publicholidays.in/raksha-bandhan/  *(already in 3 posts)*
+- https://www.indiapost.gov.in/documents/CitizenCharter2021.pdf  *(already in 2 posts)*
+- https://research.gold.ac.uk/id/eprint/16986/  *(already in 2 posts)*
+- https://calendar.gatech.edu/event/2026/08/28/raksha-bandhan  *(already in 2 posts)*
+- https://en.wikipedia.org/wiki/Raksha_Bandhan  *(already in 2 posts)*
+- https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media  *(already in 2 posts)*
+- https://aclanthology.org/2023.findings-ijcnlp.22/  *(already in 2 posts)*
+- https://theconversation.com/explaining-rakshabandhan-a-hindu-festival-that-celebrates-the-brother-sister-bond-81665  *(already in 2 posts)*
+- https://cyberpsychology.eu/article/view/4285  *(already in 2 posts)*
+- https://learn.microsoft.com/en-us/typography/script-development/devanagari  *(already in 2 posts)*
+- https://developer.chrome.com/blog/autoplay  *(already in 2 posts)*
+- https://www.hbs.edu/ris/Publication%20Files/Huang%20et%20al%202017_6945bc5e-3b3e-4c0a-addd-254c9e603c60.pdf  *(already in 2 posts)*
+- https://www.hbs.edu/ris/Publication%20Files/11-091.pdf  *(already in 2 posts)*
+- https://www.wu.ac.at/fileadmin/wu/d/i/entrep/4_forschung/full-text-papers/franke_schreier_kaiser_2010_designed_it_myself.pdf  *(already in 2 posts)*
+- https://pure.rug.nl/ws/files/2758018/VoorpostelM-Intergenerational-2008.pdf  *(already in 2 posts)*
+- https://www.ccsenet.org/journal/index.php/ijel/article/view/0/41718  *(already in 2 posts)*
+- https://webtransparency.cs.princeton.edu/dark-patterns/  *(already in 2 posts)*
+- https://morganya.org/research/ames-cscw10-videochat.pdf  *(already in 2 posts)*
+- https://archive.org/details/in.ernet.dli.2015.15905  *(already in 2 posts)*
+- https://archive.org/details/historyofhumayun00gulbrich  *(already in 2 posts)*
+- https://archive.org/details/dli.ernet.504848  *(already in 2 posts)*
+- https://samvat.in/festivals/raksha-bandhan-2027/  *(already in 2 posts)*
+- https://publicholidays.in/2027-dates/  *(already in 2 posts)*
+- https://www.theweek.in/webworld/features/lifestyle/good-morning-on-whatsapp-freeze-phone-memory-india.html  *(already in 2 posts)*
+- http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.294.pdf  *(already in 2 posts)*
+- https://journals.phil.muni.cz/linguistica-brunensia/article/view/30697  *(already in 2 posts)*
+- https://www.unicode.org/Public/UNIDATA/Blocks.txt  *(already in 2 posts)*
+- https://www.usenix.org/conference/soups2018/presentation/sambasivan  *(already in 2 posts)*
+- https://www.scielo.br/j/ha/a/BzbtSDWJq5swQGvKffsfyQc/?lang=en  *(already in 2 posts)*
+- https://dash.harvard.edu/server/api/core/bitstreams/7312037c-cd9f-6bd4-e053-0100007fdf3b/content  *(already in 2 posts)*
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11787505/  *(already in 2 posts)*
+- https://corpora.uni-leipzig.de/en?corpusId=hin_news_2011_1M  *(already in 2 posts)*
+- https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/bulletins/languageenglandandwales/census2021  *(already in 2 posts)*
+- https://www.w3.org/TR/alreq/  *(already in 2 posts)*
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8669216/  *(already in 2 posts)*
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269429  *(already in 2 posts)*
+- https://doiserbia.nb.rs/img/doi/0350-0861/2007/0350-08610701077B.pdf  *(already in 2 posts)*
+- https://digitalcommons.georgiasouthern.edu/jamt/vol4/iss1/5/  *(already in 2 posts)*
+- https://www.icesi.edu.co/revistas/index.php/estudios_gerenciales/article/view/3539  *(already in 2 posts)*
+- https://ornamentalhorticulture.com.br/rbho/article/view/3015  *(already in 2 posts)*
+- https://ucalgary.scholaris.ca/bitstreams/aa7eb593-6688-4393-b879-1643b4c18f2b/download  *(already in 2 posts)*
+- https://dergipark.org.tr/en/download/article-file/4795213  *(already in 2 posts)*
+- https://scholarsphere.psu.edu/resources/a9ab764a-206d-4e42-b939-ad4cbafc47b3  *(already in 2 posts)*
+- https://research.wur.nl/en/publications/give-me-your-self-gifts-are-liked-more-when-they-match-the-givers  *(already in 2 posts)*
+- https://journals.lww.com/10.4103/amh.amh_263_24  *(already in 2 posts)*
+- https://www.nature.com/articles/s41599-025-06093-z  *(already in 2 posts)*
+
+## ⚠️ The table below does NOT govern your decision — run a live scan instead
+
+A writer in this batch put it correctly: this lifetime table is near-useless for the
+decision that actually binds. `hbs.edu` sits at 6 posts lifetime and is **fully legal**
+here; `pmc.ncbi.nlm.nih.gov` at 17 lifetime is **hard-blocked** — not because of its
+history, but because three siblings filled its 3-post in-batch cap *today*. Caps reset
+per batch, so lifetime counts only tell you what will look repetitive, never what is
+forbidden.
+
+**Before committing to any domain, scan the batch directory as it stands right now:**
+
+```bash
+node -e 'const fs=require("fs"),p="content/batches/2026-09-03-gift-bf-2/blogs";
+const d={};for(const f of fs.readdirSync(p)){const j=JSON.parse(fs.readFileSync(p+"/"+f,"utf8"));
+const seen=new Set();for(const s of j.batchMeta.sources||[]){const u=typeof s==="string"?s:s.url;
+if(!u)continue;let h="";try{h=new URL(u).hostname.replace(/^www\./,"")}catch{continue}
+if(seen.has(h))continue;seen.add(h);(d[h]=d[h]||[]).push(f)}}
+Object.entries(d).filter(([,v])=>v.length>=2).sort((a,b)=>b[1].length-a[1].length)
+.forEach(([h,v])=>console.log(v.length+"/3 "+(v.length>=3?"AT CAP ":"       ")+h))'
+```
+
+**Re-run it again just before you write**, not only at the start. Siblings are drafting
+concurrently: one writer had a chapter built on a Bath-hosted paper, discovered mid-run
+that concurrent siblings had pushed that domain past the cap, and had to drop the source
+and rewrite the passage. "Check siblings first" is not sufficient — check siblings last.
+
+## Heavily-used domains — lifetime frequency, advisory only
+
+| Posts | Domain |
+|---|---|
+| 17 | `pmc.ncbi.nlm.nih.gov` |
+| 15 | `frontiersin.org` |
+| 12 | `aclanthology.org` |
+| 11 | `journals.plos.org` |
+| 10 | `arxiv.org` |
+| 9 | `europepmc.org` |
+| 8 | `en.wikipedia.org` |
+| 8 | `doi.org` |
+| 8 | `nature.com` |
+| 7 | `cambridge.org` |
+| 7 | `journals.sagepub.com` |
+| 7 | `escholarship.org` |
+| 7 | `link.springer.com` |
+| 6 | `unicode.org` |
+| 6 | `hbs.edu` |
+| 6 | `dsal.uchicago.edu` |
+| 6 | `onlinelibrary.wiley.com` |
+| 6 | `mdpi.com` |
+| 5 | `drikpanchang.com` |
+| 5 | `w3.org` |
+| 4 | `indiapost.gov.in` |
+| 4 | `research.ed.ac.uk` |
+| 4 | `learn.microsoft.com` |
+| 4 | `journals.openedition.org` |
+| 4 | `archive.org` |
+| 4 | `nepjol.info` |
+| 4 | `ccsenet.org` |
+| 4 | `journals.rudn.ru` |
+| 4 | `web.mit.edu` |
+| 4 | `dash.harvard.edu` |
+| 4 | `journal.sjdm.org` |
+| 4 | `publicholidays.in` |
+| 4 | `sciencedirect.com` |
+| 4 | `spaceandculture.in` |
+
+23 further domains sit at 3 posts and 69 at 2.
+
+## ✅ LEGAL TO CITE — used exactly once, one slot left each
+
+**Everything below this line is usable.** One prior use, cap is two.
+
+- https://news.cornell.edu/stories/2013/08/new-media-allows-requited-love-know-no-distance
+- https://www.pewresearch.org/internet/2014/02/11/couples-the-internet-and-social-media/
+- https://news.utexas.edu/2020/09/11/phone-calls-create-stronger-bonds-than-text-based-communications/
+- https://www.business-standard.com/external-affairs-defence-security/news/over-1-3-mn-indian-students-pursuing-higher-studies-abroad-in-2024-govt-124080101441_1.html
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9001062/
+- https://www.theweek.in/news/biz-tech/2026/03/16/india-delivery-24-speed-post-launch.html
+- https://www.research.ed.ac.uk/en/publications/476f9857-25f3-4939-b820-0243c714430d
+- https://europepmc.org/article/MED/31414866
+- https://research.rug.nl/en/publications/a4d5cec7-838e-474d-929c-4dec04ffff9a
+- https://blog.whatsapp.com/labeling-forwarded-messages
+- https://blog.whatsapp.com/more-changes-to-forwarding
+- https://about.fb.com/news/2020/04/whatsapp-message-forward-limit/
+- https://ogp.me/
+- https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.780714/full
+- https://arxiv.org/abs/1909.08740
+- https://www.drikpanchang.com/festivals/raksha-bandhan/raksha-bandhan-date-time.html?geoname-id=1273294&year=2026
+- https://www.cambridge.org/core/journals/africa/article/abs/on-joking-relationships/54B2C4D1B466B9ECB3DD36DD4CF98766
+- https://www.trai.gov.in/sites/default/files/2026-06/PR_No78of2026.pdf
+- https://arxiv.org/abs/2301.01967
+- https://www.oxfordlearnersdictionaries.com/definition/english/cousin-brother
+- https://doi.org/10.3390/adolescents5010008
+- https://www.evidencebasedmentoring.org/new-study-finds-cousin-relationships-are-a-hidden-source-of-support-for-young-adults/
+- https://europepmc.org/article/MED/37361379
+- https://developers.facebook.com/docs/instagram-platform/content-publishing
+- https://www.facebook.com/business/ads-guide/image/instagram-feed
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346413
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00871/full
+- https://www.drikpanchang.com/festivals/raksha-bandhan/raksha-bandhan-date-time.html?geoname-id=1273294
+- https://poets.org/glossary/ghazal
+- https://thesai.org/Publications/ViewPaper?Volume=12&Issue=1&Code=IJACSA&SerialNo=17
+- https://revistas.unir.net/index.php/ijimai/article/view/855
+- https://censusindia.gov.in/nada/index.php/catalog/10191
+- https://en.wikipedia.org/wiki/Marathi_language
+- https://aclanthology.org/2021.mtsummit-research.4/
+- https://maharashtratourism.gov.in/festivals/raksha-bandhan/
+- https://scholarworks.montana.edu/handle/1/17581
+- https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2034361
+- https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst
+- https://www.gov.uk/when-do-the-clocks-change
+- https://researchonline.lse.ac.uk/id/eprint/100950/3/Gleibs_religious_identity_in_workplace_published.pdf
+- https://docs.iza.org/dp8311.pdf
+- https://people.duke.edu/~dandan/webfiles/PapersPayoff/04_MIC20100130_33.pdf
+- https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/
+- https://www.ilo.org/media/325526/download
+- https://www.pnas.org/doi/10.1073/pnas.2116915119
+- https://labsites.rochester.edu/lelab/wp-content/uploads/2022/12/Visserman-et-al.-2022-Perceived-partner-responsiveness-fosters-more-positive-appraisals-of-relational-sacrifices.pdf
+- https://sites.socsci.uci.edu/~lpearl/courses/readings/IrelandEtAl2011_RelationshipPrediction.pdf
+- https://replications.clearerthinking.org/replication-2023jpsp124-4/
+- https://www.nature.com/articles/s41598-024-71994-z
+- https://doi.org/10.1037/xge0001150
+- https://journal.fi/ar/article/view/107728
+- https://academic.oup.com/gerontologist/article/60/7/1202/5829890
+- https://www.bmj.com/content/375/bmj-2021-067742
+- https://uploads-ssl.webflow.com/5c484e0f4aa6f839dc553c45/5c9a38dff7d06d3980dad2df_KumarEpley2018.pdf
+- https://www.cs.cmu.edu/~sherryw/assets/pubs/2022-greeting_card.pdf
+- https://www.cogitatiopress.com/socialinclusion/article/download/6062/3038
+- https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/return-reintegration-and-re-migration_0e5de901/625fb5e6-en.pdf
+- https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/intergenerational-attrition-direct-or-reverse-language-transmission/F1F1C5AF1AD86A48EEB6720F21B45AC5
+- https://www.joghr.org/article/12025-transnational-family-support-and-perspectives-from-family-members-back-home-a-pilot-study-in-kisumu-kenya
+- https://www.lib.uchicago.edu/e/su/southasia/marathi/marathi-in-context.html
+- https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.031
+- https://www.unicode.org/faq/indic.html
+- https://scroll.in/magazine/833884/grindmill-songs-listen-to-the-worlds-largest-archive-of-folk-songs
+- https://www.akademie-solitude.de/wp-content/uploads/ghazal-poetic-conversations-across-continents_solitude_journal_5_gesamt_web.pdf
+- http://jals.miard.org/index.php/jals/article/download/265/221
+- https://www.glrjournal.com/article/negotiation-of-difference-a-study-of-the-english-translations-of-ghalibs-urdu-ghazal-
+- https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329072
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326498
+- https://support.google.com/youtube/answer/6013276?hl=en
+- https://support.google.com/youtube/answer/1722171?hl=en
+- https://copyright.gov.in/documents/handbook.html
+- https://journals.sagepub.com/doi/10.1177/20563051231224271
+- https://thoughtcrumbs.com/publications/burke_kraut_jcmc_2016.pdf
+- https://www.asc.upenn.edu/sites/default/files/2021-03/Sharing%20the%20small%20moments-%20ephemeral%20social%20interaction%20on%20Snapchat.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11089017/
+- https://ideas.repec.org/p/ecl/stabus/3409.html
+- https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05452-w
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10848401/
+- https://doi.org/10.1093/scan/nsad066
+- https://doi.org/10.1177/0022243719881113
+- https://inria.hal.science/hal-01281190v1
+- https://openresearch-repository.anu.edu.au/items/431efb08-2008-4326-886b-c6a17f1be91a
+- https://www.intangiblecapital.org/index.php/ic/article/view/759
+- https://gup.ugal.ro/ugaljournals/index.php/across/article/view/7375
+- https://www.microsoft.com/en-us/research/publication/the-effects-of-remote-work-on-collaboration-among-information-workers/
+- https://students.usask.ca/academic-calendar/2026/11/08-mfo-bandi-chhor-divas.php
+- https://www.trai.gov.in/sites/default/files/2024-09/RegulationUcc19072018.pdf
+- https://dopt.gov.in/sites/default/files/CCS_Conduct_Rules_1964_Updated_27Feb15_0.pdf
+- http://sajms.iurc.edu.pk//issues/2020b/SAJMS3.pdf
+- http://www.iiisci.org/Journal/CV$/sci/pdfs/HSA292TS.pdf
+- http://bura.brunel.ac.uk/bitstream/2438/1284/3/Corporate%2bgifts-1.pdf
+- https://rahill.webspace.durham.ac.uk/wp-content/uploads/sites/207/2021/04/Hill-and-Dunbar-2003.pdf
+- https://web2-bschool.nus.edu.sg/wp-content/uploads/media_rp/publications/we48l1424841808.pdf
+- https://www.gsb.stanford.edu/faculty-research/publications/give-them-what-they-want-benefits-explicitness-gift-exchange
+- https://www.sfu.ca/fass/news/2017/02/study--giving-a-gift-that-reflects-you-rather-than-your-valentin/
+- https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/Steffel-Williams-LeBoeuf-April-2015.pdf
+- https://gatesopenresearch.org/articles/5-170/v1/pdf
+- https://research-information.bris.ac.uk/ws/files/81598668/unhappy_husbands.pdf
+- https://www.scielo.br/j/ptp/a/kYBtY6pCbh5bg56wmRFSd6y/?lang=en&format=pdf
+- https://malaysia.news.yahoo.com/thalai-deepavali-explained-celebrating-newlyweds-230000920.html
+- https://www.lokmattimes.com/lifestyle/diwali-padwa-2025-why-husband-give-gifts-to-wife-know-mythological-significance-a510/
+- https://www.ojed.org/index.php/jis/article/view/1726
+- https://mjphm.org/index.php/mjphm/article/view/3101
+- https://ijip.in/articles/prevalence-of-homesickness/
+- https://ojed.org/jis/article/view/5544
+- https://journals.openedition.org/samaj/7062?lang=en
+- http://www.lrec-conf.org/proceedings/lrec2014/pdf/594_Paper.pdf
+- https://zenodo.org/records/7457674
+- https://archive.org/details/platts-a-dictionary-of-urdu-classical-hindi-and-english-1884
+- https://en.wikisource.org/wiki/Hindu_Feasts,_Fasts_and_Ceremonies/Chapter_5
+- https://archive.org/details/in.ernet.dli.2015.149196
+- https://eprints.lancs.ac.uk/id/eprint/65539/1/Writing_Edwardian_Postcards_post_print.pdf
+- https://sonjalyubomirsky.com/wp-content/uploads/2024/03/LSD2006.pdf
+- https://cssh.northeastern.edu/pandemic-teaching-initiative/wp-content/uploads/sites/43/2020/10/Pennebaker-Expressive-Writing-in-Psychological-Science.pdf
+- https://stars.library.ucf.edu/scopus2000/12667
+- https://www.demographic-research.org/articles/volume/49/7
+- https://www.demographic-research.org/articles/volume/39/43
+- https://www.pib.gov.in/PressReleasePage.aspx?PRID=1941077
+- https://www.newsonair.gov.in/indian-railways-reduces-advance-ticket-booking-window-to-60-days-effective-from-november-1
+- https://www.pib.gov.in/PressReleasePage.aspx?PRID=2135694&reg=48&lang=2
+- https://research.google.com/pubs/archive/42513.pdf
+- https://englelab.gatech.edu/articles/2022/Burgoyne%20et%20al.%20(2022)%20Revisiting%20the%20self-generation%20effect%20in%20proofreading.pdf
+- https://www.ics.uci.edu/~gmark/CHI2005.pdf
+- https://www.cs.toronto.edu/~ashton/pubs/brevity-cscw2019.pdf
+- https://dornsife.usc.edu/norbert-schwarz/wp-content/uploads/sites/231/2023/11/04_pspr_reber_et_al_beauty.pdf
+- https://gwern.net/doc/psychology/cognitive-bias/1999-mcglone.pdf
+- https://www.indiapost.gov.in/documents/documents/ManualsGuides/PO_Guide_Part-1.pdf
+- https://indianarmy.nic.in/about/the-corps-of-engineers/aps-home-army-postal-service-corps
+- https://www.newsonair.gov.in/army-issues-advisory-on-use-of-social-media-to-its-personnel-for-responsible-online-behaviour
+- https://journal-veterans-studies.org/articles/10.21061/jvs.v10i1.533
+- https://iaeme.com/MasterAdmin/Journal_uploads/IJM/VOLUME_8_ISSUE_1/IJM_08_01_016.pdf
+- https://digitalcommons.unl.edu/commstudiespapers/117/
+- https://digitalcommons.unl.edu/commstudiespapers/100/
+- https://mospace.umsystem.edu/xmlui/handle/10355/94339
+- https://digitalcommons.usu.edu/etd/2422/
+- https://digitalcommons.usu.edu/extension_curall/1494/
+- https://researchonline.lse.ac.uk/id/eprint/100284/1/PowerReady_CooperationBeyondConsanguinity_Accepted.pdf
+- https://open.bu.edu/bitstreams/aa690fcf-e868-4c06-a882-2c53b59d944e/download
+- https://journal.oraltradition.org/wp-content/uploads/files/articles/29ii/05_29.2.pdf
+- https://files.eric.ed.gov/fulltext/EJ1088516.pdf
+- https://publishing.cdlib.org/ucpressebooks/view?docId=ft5x0nb3v0&chunk.id=0&doc.view=print
+- https://www.nepjol.info/index.php/MEF/article/view/34027
+- https://scindeks-clanci.ceon.rs/data/pdf/0354-3293/2025/0354-32932501315M.pdf
+- https://www.questjournals.org/jrhss/papers/vol7-issue1/J0701013742.pdf
+- https://en.banglapedia.org/index.php/Jhulan
+- https://www.w3.org/TR/beng-lreq/
+- https://www.unicode.org/faq/bengali.html
+- https://www.standalone.org.uk/wp-content/uploads/2015/12/HiddenVoices.FinalReport.pdf
+- https://www.cam.ac.uk/research/news/unhappy-families-nine-out-ten-adults-estranged-from-family-find-christmas-difficult
+- https://utoronto.scholaris.ca/items/7240d98a-132d-4eee-8fe9-9dded198eea3
+- https://scholarworks.smith.edu/theses/1143/
+- https://www.sands.org.uk/raksha-bandhan
+- https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum
+- https://jdobr.es/pdf/Dobres-etal-2017-Ambient.pdf
+- https://jdobr.es/pdf/Dobres-etal-2018-Crowding.pdf
+- https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/1114
+- https://tsukuba.repo.nii.ac.jp/records/24835
+- https://tesl-ej.org/wordpress/issues/volume27/ej105/ej105a2/
+- https://www.redalyc.org/journal/6645/664572589007/html/
+- https://digitalcommons.chapman.edu/comm_articles/77/
+- https://kops.uni-konstanz.de/server/api/core/bitstreams/9ab62447-d4d8-4578-aefb-8986aa95539b/content
+- https://www.ijhssi.org/papers/v3(4)/Version-1/B03410709.pdf
+- https://hindiurduflagship.org/wp/wp-content/uploads/2014/06/Transliterating-Devanagari.pdf
+- https://emerginginvestigators.org/articles/23-096
+- https://escholarship.org/content/qt88p7357w/qt88p7357w.pdf
+- https://kar.kent.ac.uk/98093/1/CHI_Play_2022_The_Playful_Potential_of_Digital_Commensality%20%281%29.pdf
+- https://tidsskrift.dk/outlines/article/download/15828/13699
+- https://www.indiapost.gov.in/speedpost/faqs
+- https://www.usps.com/international/priority-mail-international.htm
+- https://d-nb.info/1142707725/34
+- https://f1000research.com/articles/14-448/v2
+- https://www.digitizationguidelines.gov/guidelines/FADGI%20Technical%20Guidelines%20for%20Digitizing%20Cultural%20Heritage%20Materials_3rd%20Edition_05092023.pdf
+- https://web.mit.edu/sinhalab/Papers/19results_sinha_etal.pdf
+- http://eegilbert.org/papers/chi14.faces.bakhshi.pdf
+- https://dspace.mit.edu/bitstream/handle/1721.1/129999.2/3313831.3376321.pdf?sequence=6
+- https://www.edpb.europa.eu/system/files/2023-02/edpb_03-2022_guidelines_on_deceptive_design_patterns_in_social_media_platform_interfaces_v2_en_0.pdf
+- https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf
+- https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1983994
+- https://journals.lww.com/aips/fulltext/9900/conformity_to_masculinity,_alexithymia,_and.160.aspx
+- https://etasr.com/index.php/ETASR/article/download/8302/3991/33415
+- https://digitalcommons.usu.edu/etd/8794/
+- http://www.columbia.edu/~nb2229/docs/bolger-amarel-support-experiments-2006.pdf
+- https://research.vu.nl/ws/files/1835212/Doest%20Journal%20of%20Language%20and%20Social%20Psychology%2021%202002%20u.pdf
+- https://cdr.lib.unc.edu/downloads/2801pj53j
+- https://wrap.warwick.ac.uk/id/eprint/192325/2/WRAP-Concrete-language-sharing-social-media-posts-Twitter-Reddit-25.pdf
+- https://dash.harvard.edu/bitstream/1/35647952/1/huangyeomansbrooksminsongino_QuestionAsking_Manuscript.pdf
+- https://files.eric.ed.gov/fulltext/ED220839.pdf
+- https://hci.stanford.edu/publications/2010/parallel-prototyping/ParallelPrototyping2010-final.pdf
+- https://hal.science/hal-03630474v1/document
+- https://cups.cs.cmu.edu/soups/2011/proceedings/a10_Wang.pdf
+- https://faq.whatsapp.com/1370476507114859
+- https://agris.fao.org/search/en/records/6474809f2d3f560f80b165e3
+- https://fishercoast.si/narali-poornima/
+- https://utsav.gov.in/view-event/narali-purnima-2
+- https://ijoc.org/index.php/ijoc/article/view/18361
+- https://icsf.net/newss/maharashtra-govt-imposes-2-month-monsoon-fishing-ban-from-june-1-to-july-31-to-protect-marine-biodiversity/
+- https://aa.usno.navy.mil/api/moon/phases/date?date=2026-08-25&nphases=2
+- https://ir.cwi.nl/pub/26702
+- https://orbi.uliege.be/handle/2268/297414
+- https://egazette.gov.in/WriteReadData/2023/248045.pdf
+- https://www.columbia.edu/itc/mealac//pritchett/00ghalib/texts/txt_liboiron_1989.pdf
+- https://swarsindhu.pratibha-spandan.org/wp-content/uploads/v12i01a33.pdf
+- https://glottolog.org/resource/languoid/id/hind1270
+- https://www.ijfmr.com/papers/2025/2/39260.pdf
+- https://ijip.in/wp-content/uploads/2024/02/18.01.102.20241201.pdf
+- https://www.hinduamerican.org/blog/5-things-to-know-about-raksha-bandhan
+- https://www.taylorfrancis.com/chapters/mono/10.4324/9781003540137-12/janai-purni-raksha-bandhan-mary-anderson
+- https://www.taylorfrancis.com/chapters/edit/10.4324/9780367818005-9/political-patronage-ritual-competitions-dussehra-festival-northern-india-daniela-berti
+- https://arrow.tudublin.ie/ijrtp/vol10/iss2/10/
+- https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=rakhi&searchhws=yes
+- https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=rakhi&searchhws=yes
+- https://www.deccanherald.com/india/sudha-murty-shares-history-of-raksha-bandhan-gets-trolled-for-karnavati-humayun-reference-3157115
+- https://www.ovid.com/journals/jspr/abstract/10.1177/02654075241299463~adult-sibling-relationships-and-media-multiplexity-theory
+- https://www.sciencedaily.com/releases/2024/12/241218132144.htm
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1523315/full
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7005435/
+- https://journal.sjdm.org/16/16101/jdm16101.pdf
+- https://www.bluedart.com/domestic-priority
+- https://repository.tilburguniversity.edu/bitstreams/d63cf819-161d-4929-b7ce-a4c8ca4ed3a4/download
+- https://eprints.lse.ac.uk/84051/1/Work%20extension%20and%20mobile%20devices%20Final.pdf
+- https://aa.usno.navy.mil/api/moon/phases/date?date=2027-08-01&nump=6
+- https://packolkata.gov.in/festival.php?pg=9
+- https://docs.iza.org/dp2089.pdf
+- https://www.livemint.com/news/trends/raksha-bandhan-2026-date-august-27-or-28-know-the-right-day-check-shubh-muhurat-purnima-tithi-and-bhadra-kaal-11787630790054.html
+- https://timesofindia.indiatimes.com/religion/festivals/raksha-bandhan-2026-is-raksha-bandhan-on-august-27-or-28-check-correct-date-bhadra-kaal-and-rakhi-muhurat/articleshow/133421773.cms
+- https://www.latestly.com/lifestyle/festivals-events/raksha-bandhan-2026-is-it-a-public-holiday-in-your-state-check-state-wise-status-for-august-28-festivities-7547082.html
+- https://www.prokerala.com/festivals/raksha-bandhan.php
+- https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+- https://eclipse.gsfc.nasa.gov/lunar.html
+- https://aclanthology.org/P12-1094/
+- https://arxiv.org/abs/2602.22220
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7012710/
+- https://arxiv.org/html/2407.08172v1
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7423265/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9683197/
+- https://publications.aston.ac.uk/id/eprint/31394/1/Deal_characteristics_shape_sponsorship_perceptions.pdf
+- https://pure.uva.nl/ws/files/16432055/This_Post_Is_Sponsored.pdf
+- http://bura.brunel.ac.uk/bitstream/2438/21529/1/FullText.pdf
+- https://hdl.handle.net/2078.5/109425
+- https://eprints.qut.edu.au/102519/3/102519.pdf
+- https://www-2.rotman.utoronto.ca/facbios/file/ZeroPrice.pdf
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1568868/full
+- https://marketing.wharton.upenn.edu/wp-content/uploads/2024/05/Morwitz-Vicki-Wroe-Alderson-PAPER-2020.pdf
+- https://themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-sensitive-websites
+- https://archive.org/details/in.ernet.dli.2015.100103
+- https://archive.org/details/in.ernet.dli.2015.70166
+- https://archive.org/details/anabasisalexand00arrigoog
+- https://ora.ox.ac.uk/objects/uuid:4397d8cb-0586-4a19-b26d-c8d515798959
+- https://www.repository.cam.ac.uk/items/2ea6a2a0-eb50-4d74-ab1a-3840845d777b
+- https://www.repository.cam.ac.uk/handle/1810/278519
+- http://eprints.lse.ac.uk/125331/
+- https://neophilology.elpub.ru/jour/article/view/531
+- https://www.nauka-dialog.ru/jour/article/view/6458
+- https://journals.flvc.org/edis/article/view/128378
+- https://scholarworks.waldenu.edu/dissertations/4517
+- https://digitalcommons.usf.edu/etd/4844
+- http://rave.ohiolink.edu/etdc/view?acc_num=csu1251216612
+- https://escholarship.org/uc/item/93k8b43s
+- https://digitalcommons.usf.edu/etd/2996
+- https://pure.knaw.nl/portal/en/publications/b038b804-a03e-4471-a8c5-3ab52a977084
+- https://research.manchester.ac.uk/en/publications/38e4c759-460b-4be3-861a-079199df9615
+- https://www.cambridge.org/core/product/identifier/S1752971926100323/type/journal_article
+- https://escholarship.org/uc/item/1rn2f5pm
+- https://digitalcommons.unl.edu/commstudiespapers/174/
+- https://www.tandfonline.com/doi/abs/10.1080/01463370309370155
+- https://link.springer.com/article/10.1007/s41027-023-00441-w
+- https://digitalcommons.du.edu/etd/793
+- https://scholarsarchive.library.albany.edu/legacy-etd/1619
+- https://digitalcommons.pcom.edu/psychology_dissertations/507
+- https://scholarsarchive.byu.edu/intuition/vol14/iss2/17
+- https://scholarworks.lib.csusb.edu/etd/1087
+- https://scholarworks.smith.edu/theses/865/
+- https://link.springer.com/article/10.1007/s41042-023-00086-6
+- https://journals.sagepub.com/doi/10.1177/14614448221117767
+- https://ksb.gov.in/armed-forces-flag-day-fund.htm
+- https://digitalcommons.wku.edu/theses/3032
+- https://alex-hoagland.github.io/files/Caretaking_Published.pdf
+- https://escholarship.org/uc/item/8db6b27b
+- https://scholarsarchive.byu.edu/facpub/2674
+- https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=bgsu147851519857788&disposition=inline
+- http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.61.pdf
+- https://etheses.whiterose.ac.uk/id/eprint/2618/
+- https://etheses.whiterose.ac.uk/id/eprint/4615/
+- https://shodhganga.inflibnet.ac.in/handle/10603/444347
+- https://edizionicafoscari.unive.it/en/edizioni4/riviste/bhasha/2025/1/revisiting-passivity-and-politeness-in-selected-in/
+- https://shodhganga.inflibnet.ac.in/handle/10603/677604
+- https://www.jolr.ru/files/%28341%29jlr2023-21-3-4%28201-223%29.pdf
+- https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/
+- https://glottolog.org/resource/languoid/id/nucl1305
+- https://aclanthology.org/C12-2062/
+- http://cardinalscholar.bsu.edu/handle/20.500.14291/199826
+- https://arxiv.org/abs/2508.01918
+- https://etheses.whiterose.ac.uk/21070/
+- https://aclanthology.org/2021.ranlp-1.85/
+- https://ejournal.um.edu.my/index.php/JML/article/view/42842
+- https://www.ijhssi.org/papers/v3%284%29/Version-1/G0341044046.pdf
+- https://www.iamai.in/sites/default/files/research/Kantar_%20IAMAI%20report_2024_.pdf
+- https://www.nature.com/articles/s41562-024-02067-4
+- https://www.materialisingmemories.com/wp-content/uploads/2015/04/Things_that_make_us_reminisce_CHIv10.pdf
+- https://www.w3.org/TR/capability-urls/
+- https://journals.sagepub.com/doi/10.1177/20563051211069053
+- https://hci.stanford.edu/publications/2010/parallel-prototyping/ParallelPrototyping2010-submitted.pdf
+- https://www.aodr.org/xml//19708/19708.pdf
+- https://grouplens.org/site-content/uploads/Emoji_Interpretation.pdf
+- https://ceur-ws.org/Vol-2130/short1.pdf
+- https://ceur-ws.org/Vol-2130/paper5.pdf
+- https://studia.reviste.ubbcluj.ro/index.php/subbphilologia/article/download/7542/7322
+- https://journals.sagepub.com/doi/10.1177/0956797618772506
+- https://onlinelibrary.wiley.com/doi/10.1111/jomf.70116
+- https://onlinelibrary.wiley.com/doi/10.1111/fare.12618
+- https://onlinelibrary.wiley.com/doi/10.1111/famp.12671
+- https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=rakhi&searchhws=yes&matchtype=default
+- https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=salu%CC%84no&searchhws=yes&matchtype=default
+- https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakzA
+- https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=banDana
+- https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh_01_u.htm
+- https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_agnipurANa.txt
+- https://southasia.ucla.edu/culture/festivals/raksha-bandhan/
+- https://scroll.in/magazine/846275/in-bengal-the-bond-of-rakhi-once-symbolised-eternal-protection-between-hindus-and-muslims
+- https://journals.openedition.org/corpus/4852
+- https://ojs.aaai.org/index.php/ICWSM/article/view/15079
+- https://sfleducation.springeropen.com/articles/10.1186/s40862-022-00134-9
+- https://eprints.lancs.ac.uk/id/eprint/65539/
+- https://www.pnas.org/doi/10.1073/pnas.1415086111
+- https://pubmed.ncbi.nlm.nih.gov/37675965/
+- https://www.nature.com/articles/s41598-026-37790-7
+- https://anthro-age.pitt.edu/ojs/index.php/anthro-age/article/view/208
+- https://www.twi-kreuzlingen.ch/wp-content/uploads/2017/12/twi-rps-053-fischbacher-utikal-2010-06.pdf
+- https://aquila.usm.edu/jetde/vol14/iss1/3/
+- https://www.nature.com/articles/s44271-024-00075-8
+- https://da.lib.kobe-u.ac.jp/da/kernel/90001044/90001044.pdf
+- https://www.hbs.edu/ris/Publication%20Files/15-080_daa4bcbc-5dbd-4e9d-8d68-4c8b0e5b8b5f.pdf
+- https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1279853/full
+- https://www.athensjournals.gr/media/2017-3-1-2-Edwards.pdf
+- https://elt.tabrizu.ac.ir/article_17259_324a52317555b50bb1b0ae64051a7ed8.pdf
+- https://genus.springeropen.com/articles/10.1186/s41118-020-00103-5
+- https://www.journals.vu.lt/psichologija/article/download/4893/3148
+- https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999
+- https://pure.eur.nl/ws/files/246351929/edwards-et-al-2025-intelligence-and-individual-differences-in-astrological-belief.pdf
+- https://nzmj.org.nz/journal/vol-136-no-1572/is-success-written-in-the-stars-the-effect-of-zodiac-sign-on-the-outcome-of-total-knee-arthroplasty
+- https://research-information.bris.ac.uk/en/publications/a6712575-1710-448c-93df-046bfd540da8
+- https://www.cogitatiopress.com/urbanplanning/article/view/9272
+- https://en.wikipedia.org/wiki/Rangoli
+- https://journal.sjdm.org/20/200510/jdm200510.pdf
+- https://journal.sjdm.org/15/151009/jdm151009.pdf
+- https://pubmed.ncbi.nlm.nih.gov/26160600/
+- https://centaur.reading.ac.uk/119010/8/1-s2.0-S1057521924001315-main.pdf
+- https://www.ijcmph.com/index.php/ijcmph/article/download/4249/2891
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3741536/
+- https://www.cambridge.org/core/journals/popular-music/article/social-life-of-an-optimised-song-reconstructing-the-networked-cycle-of-digital-musicmaking/6386181964B875747491C3D4DC00AE31
+- https://ijoc.org/index.php/ijoc/article/view/16525
+- https://about.fb.com/news/2023/02/new-whatsapp-status-features/
+- https://about.fb.com/news/2025/05/new-music-layout-sticker-options-whatsapp-status/
+- https://userinterfaces.aalto.fi/typing37k/
+- https://pure.uva.nl/ws/files/30425935/1461444817707349.pdf
+- https://www.ccsenet.org/journal/index.php/res/article/view/0/42634
+- https://hnpublisher.com/ojs/index.php/OMS/article/view/20
+- https://kclpure.kcl.ac.uk/ws/files/117136149/Sharing_the_moment_as_small_stories_GEORGAKOPOULOU_Accepted24April2017_GREEN_AAM.pdf
+- https://www.journals.vu.lt/AML/article/view/21306
+- https://europepmc.org/article/MED/37969245
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323326
+- https://revistes.uab.cat/catjl/article/view/463
+- https://ldr.lps.library.cmu.edu/article/id/857/
+- https://journals.rudn.ru/semiotics-semantics/article/view/30699
+- https://open.bu.edu/handle/2144/42271
+- https://europepmc.org/article/PMC/PMC4852487
+- https://europepmc.org/article/PMC/PMC13037867
+- https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-023-02587-7
+- https://www.journalstudiesanthropology.ro/pdf/representation-of-family-in-indian-television-serials-1526057998.pdf
+- https://poverty.com.pk/index.php/Journal/article/view/1694
+- https://journals.openedition.org/ebhr/162
+- https://europepmc.org/article/MED/28811365
+- https://pure.uva.nl/ws/files/44765156/Frequent_Callers_Good_Care_with_ICTs_in_Indian_Transnational_Families.pdf
+- https://publicatt.unicatt.it/bitstream/10807/303906/2/s11199-023-01385-7.pdf
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159193
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157805
+- https://www.nber.org/system/files/working_papers/w25331/w25331.pdf
+- https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sister-in-law
+- https://dsal.uchicago.edu/cgi-bin/app/mcgregor_query.py?qs=sister-in-law
+- https://escholarship.org/uc/item/93c7072g
+- http://www.sejongjul.org/download/download_pdf?pid=jul-15-1-129
+- https://pressto.amu.edu.pl/index.php/il/article/download/6914/6928
+- https://api.wortschatz-leipzig.de/ws/words/hin_news_2011_1M/word/%E0%A4%86%E0%A4%AA
+- http://scf-lsa.info/wp-content/uploads/2022/12/2-Ali-HADAVIZADEH-Rajdeep-SINGH-16-29.pdf
+- https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2025/1/revisiting-passivity-and-politeness-in-selected-in/
+- http://philjournal.ru/upload/2023-2/240-247.pdf
+- https://www.revue-akofena.com/wp-content/uploads/2023/12/38-Ange-Alex-Kouassi-NGUESSAN-Koffi-Julien-KIROUA-Zana-Thimothee-OUATTARA_433-442.pdf
+- https://corpora.uni-leipzig.de/en/res?corpusId=hin_news_2011_1M
+- https://aclanthology.org/2022.lrec-1.299/
+- https://sss.org.pk/index.php/sss/article/view/362
+- https://kobe-cufs.repo.nii.ac.jp/records/1963
+- https://journals.pan.pl/Content/124290/PDF/2022-03-PPB-rew.pdf
+- https://kuscholarworks.ku.edu/handle/1808/27653
+- https://www.languageinindia.com/sep2004/manjulakshitermsofaddress2.html
+- https://rudn.tlcjournal.org/archive/9%282%29/9%282%29-04.pdf
+- https://www.pnas.org/doi/10.1073/pnas.2416709121
+- http://research.rs/wp-content/uploads/2024/06/2217-7337_v14_n01_p228.pdf
+- https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292979&type=printable
+- https://learn.microsoft.com/en-us/typography/script-development/bengali
+- https://www.frontiersin.org/articles/10.3389/frai.2026.1751148/full
+- https://ph.pollub.pl/index.php/jcsi/article/view/7120
+- https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003768593-14/
+- https://openaccess.wgtn.ac.nz/articles/thesis/Immigrant_Language_Maintenance_and_Shift_in_the_Gujarati_Dutch_and_Samoan_Communities_of_Wellington/16970086
+- https://notofonts.github.io/gujarati/
+- https://research.google/pubs/context-aware-transliteration-of-romanized-south-asian-languages/
+- https://github.com/google-research-datasets/dakshina
+- https://r12a.github.io/scripts/deva/hi
+- https://www.google.com/inputtools/help/languages.html
+- https://r12a.github.io/scripts/indic-overview/index.html
+- https://dsal.uchicago.edu/dictionaries/kittel/
+- https://f1000research.com/articles/9-978/v1
+- https://link.springer.com/article/10.3758/s13428-017-0881-y
+- https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00866/full
+- https://www.lddjournal.org/article/id/1239/
+- https://journals.uni-lj.si/ala/article/view/183
+- https://learnpunjabi.org/pdf/WSD%20in%20Gurmukhi-Shahmukhi%20Trans.pdf
+- https://ejournal.um.edu.my/index.php/JML/article/view/3716
+- https://bsj.uobaghdad.edu.iq/home/vol22/iss11/28
+- https://sciendo.com/article/10.2478/sm-2021-0014
+- https://shura.shu.ac.uk/24461/
+- https://www.erpjournal.net/wp-content/uploads/2020/01/2_ERPV42_Kadakara_2015_Status-of-Tamil-Language-in-Singapore.pdf
+- https://shodhganga.inflibnet.ac.in/handle/10603/110637
+- https://r12a.github.io/scripts/taml/ta.html
+- https://bop.unibe.ch/JEMR/article/view/2401
+- https://www.etsi.org/deliver/etsi_ts/123000_123099/123038/17.00.00_60/ts_123038v170000p.pdf
+- https://source.android.com/docs/compatibility/15/android-15-cdd
+- https://learn.microsoft.com/en-us/typography/script-development/telugu
+- https://harfbuzz.github.io/what-does-harfbuzz-do.html
+- https://software.sil.org/awami/design/
+- https://software.sil.org/awami/what-is-special/
+- https://daryaft.numl.edu.pk/index.php/daryaft/article/view/404
+- https://dsal.uchicago.edu/cgi-bin/app/platts_query.py?qs=sal-girah&searchhws=yes&matchtype=default
+- http://www.columbia.edu/itc/mealac/pritchett/00ghalib/meterbk/00_intro.html
+- https://ruj.uj.edu.pl/bitstreams/11235a94-884f-4965-8332-db2efda30afd/download
+- https://ruj.uj.edu.pl/bitstreams/3b3dac54-3f7f-41bb-91b1-fce2957e29ec/download
+- https://eprints.whiterose.ac.uk/id/eprint/131376/1/Floyd_et_al._2018_Universals_and_cultural_diversity_in_the_expressio.pdf
+- https://aclanthology.org/2024.findings-naacl.290/
+- https://www.jbe-platform.com/content/journals/10.1075/prag.25.1.02the
+- https://link.springer.com/article/10.1007/s41701-022-00120-z
+- https://jle.hse.ru/article/view/1351
+- https://www.jstage.jst.go.jp/article/psysoc/53/3/53_3_179/_pdf
+- https://onlinelibrary.wiley.com/doi/10.1111/weng.12517
+- https://ccsenet.org/journal/index.php/jfr/article/view/67217
+- https://ora.ox.ac.uk/objects/uuid:f9c3317e-b18c-42f4-85da-c93a6b9f245e
+- https://lup.lub.lu.se/record/fa320212-1485-4899-8f4c-a2065bf45153
+- https://research.rug.nl/en/publications/f961fe2f-5fc3-4d75-914b-5ca2d28d3860
+- https://research.birmingham.ac.uk/en/publications/06aebc34-6997-49a0-8afb-0b8c09c51205
+- https://almanac.httparchive.org/en/2024/media
+- https://phys.org/news/2023-02-digital-gift-cards-easy-hard.html
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212186
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8022838/
+- https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/marketing/mogilner/Chan%20Mogilner%20JCR%202016%20Experiential%20Gifts.pdf
+- https://rady.ucsd.edu/_files/faculty-research/wendy-liu/JCP_2022_Material_Experiential.pdf
+- https://smith.queensu.ca/insight/content/Why-You-Shouldnt-Put-a-Price-on-a-Great-Gift.php
+- https://www.kellogg.northwestern.edu/~/media/Files/Departments/Marketing/SpeakerSeries2015/Morgan%20Ward_Ask%20And%20You%20Shall%20Not%20RecI_JMR_Rev_Final.ashx
+- https://jurnal.ugm.ac.id/jpsi/article/view/72905
+- https://arxiv.org/abs/2505.09509
+- https://www.ovid.com/journals/amhe/fulltext/10.4103/amh.amh_263_24~navigating-technoference-in-marital-relationships-a
+- https://kory-floyd-dev.squarespace.com/s/affectionate-communication-health-and-relationships-2023.pdf
+- https://www.rcommunicationr.org/index.php/rcr/article/view/206
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00784/full
+- https://hal.science/hal-04363659
+- https://aclanthology.org/W14-3914/
+- https://aclanthology.org/2020.wnut-1.7/
+- https://aclanthology.org/2021.eval4nlp-1.20/
+- https://aclanthology.org/2023.findings-emnlp.4/
+- https://ojs.library.dal.ca/JUE/article/view/8239
+- https://pubmed.ncbi.nlm.nih.gov/16913946/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12937751/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12094736/
+- https://arxiv.org/abs/2410.00449
+- https://eprints.bbk.ac.uk/id/eprint/709/
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210450
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00394/full
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081225
+- https://aclanthology.org/2025.loresmt-1.13/
+- https://pdfs.semanticscholar.org/100d/1a15989e9e6eaee6658882c9e99216df5d6a.pdf
+- https://www.cambridge.org/core/journals/language-in-society/article/abs/urdu-in-devanagari-shifting-orthographic-practices-and-muslim-identity-in-delhi/F89F162B15A6720008639E627D6F0242
+- https://time.com/6317817/urdu-nastaliq-digital/
+- https://psychodramaaustralia.edu.au/sites/default/files/falling_in_love-aron.pdf
+- https://psychology.uga.edu/sites/default/files/RCITarticle1999.pdf
+- https://michaelkardas.com/assets/pdfs/Kardas%2C%20Kumar%2C%20%26%20Epley%20%282022%29%20Overly%20shallow%20Miscalibrated%20expectations%20create%20a%20barrier%20to%20deeper%20conversation.pdf
+- https://journals.sagepub.com/doi/10.1177/0265407521996055
+- https://journals.sagepub.com/doi/10.1177/02654075251367137
+- https://repository.arizona.edu/handle/10150/662865
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1302548/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1800653/full
+- https://webkit.org/blog/6784/new-video-policies-for-ios/
+- https://biblio.ugent.be/publication/5774089
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4567454/
+- https://academic.oup.com/jcr/article/47/5/787/5873524
+- https://doi.org/10.1525/collabra.192
+- https://labs.psych.ucsb.edu/collins/nancy/UCSB_Close_Relationships_Lab/Publications_files/Collins%20and%20Feeney,%202000.pdf
+- https://eprints.goldsmiths.ac.uk/id/eprint/29439/1/Rice%20et%20al%202020%20mind%20the%20gap%20ijerph-17-07178.pdf
+- https://ejop.psychopen.eu/index.php/ejop/article/view/3059
+- https://doi.org/10.1525/collabra.130079
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.678542/full
+- https://pielot.org/pubs/Pielot2014-MobileHCI-Notifications.pdf
+- https://wellness.asu.edu/sites/g/files/litvpz796/files/pdf_0/When%20Long%20Distance%20Dating%20Partners%20Become%20Geographically%20Close.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8712667/
+- https://europepmc.org/article/PMC/PMC5767250
+- https://doi.org/10.3390/psychiatryint7020068
+- https://www.hbs.edu/ris/Publication%20Files/garcia-rada%20sezer%20norton_c5106adb-2f23-4725-bb74-d0ab4f755a5b.pdf
+- https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/Reisetal.JPSP_2010.pdf
+- https://www.hbs.edu/ris/Publication%20Files/sezer%20norton%20gino%20vohs%20family%20rituals_f36810fb-30f0-4910-9061-8aa70036ff24.pdf
+- https://faculty.wharton.upenn.edu/wp-content/uploads/2014/06/Dai_Fresh_Start_2014_Mgmt_Sci.pdf
+- https://arxiv.org/abs/2603.15949
+- https://aclanthology.org/2024.findings-emnlp.859/
+- https://www.castledown.com/journals/dal/article/view/dal.v3.103118
+- https://aclanthology.org/2025.banglalp-1.9/
+- https://researchspace.ukzn.ac.za/handle/10413/6483
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1550704/full
+- https://purehost.bath.ac.uk/ws/files/159975967/01_06_17_XLC_main_body_revised_Managing_heritage_language_developmentFLM.pdf
+- https://web.archive.org/web/20241213225718/http://lisindia.ciil.org/Kannada/Kan_vari.html
+- https://zenodo.org/records/18543048
+- https://aclanthology.org/2020.peoples-1.6/
+- https://arxiv.org/abs/2211.09847
+- https://ijece.iaescore.com/index.php/IJECE/article/view/29245
+- https://ccat.sas.upenn.edu/~haroldfs/public/stantam/STANTAM.HTM
+- https://arxiv.org/abs/2311.07804
+- https://aclanthology.org/2020.sltu-1.28/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9388449/
+- https://aclanthology.org/2020.lrec-1.294/
+- https://www.uni-kassel.de/eecs/index.php?eID=dumpFile&t=f&f=40025&token=b1a175d421589348da54f15ffb99610ac0d45cd4
+- https://terpconnect.umd.edu/~nan/738readings/Sundar%20Marathe%202010%20personalization.pdf
+- https://chernev.com/wp-content/uploads/2017/02/ChoiceOverload_JCP_2015.pdf
+- https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/
+- https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+- https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/448.pdf
+- https://psych.appstate.edu/sites/psych.appstate.edu/files/reminiscingarticle.pdf
+- https://oveislab.com/s/1010072Fs10919-016-0245-9.pdf
+- https://www.nature.com/articles/s41598-024-70979-2
+- https://ejop.psychopen.eu/index.php/ejop/article/download/210/210.pdf
+- https://www.sciencedirect.com/science/article/pii/S2405844023012872
+- https://journals.ashs.org/hortsci/view/journals/hortsci/58/12/article-p1560.xml
+- https://www.mdpi.com/2076-0752/13/2/53
+- https://opg.optica.org/josaa/abstract.cfm?uri=josaa-17-11-1933
+- https://rpj.ru.com/index.php/rpj/article/view/1489
+- https://smujo.id/aje/article/view/10630
+- https://nopr.niscpr.res.in/handle/123456789/997
+- https://www.sagens.org/journal/agens/article/view/132
+- https://ojs.pphouse.org/index.php/IJBSM/article/view/500
+- https://apeda.gov.in/floriculture
+- https://czasopisma.uni.lodz.pl/qualit/article/view/11673
+- https://researchonline.ljmu.ac.uk/id/eprint/7521/
+- http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I3-P172.pdf
+- http://hdl.handle.net/10072/418176
+- https://www.un.org/en/observances/friendship-day
+- https://ngmtamil.in/kalanjiyam-tamil/index.php/kalanjiyam/article/view/306
+- https://journalajaees.com/index.php/AJAEES/article/download/1579/3157
+- https://journals.ansfoundation.org/index.php/jans/article/view/986
+- https://www.ijfmr.com/papers/2025/2/38623.pdf
+- https://www.biochemjournal.com/articles/444/8-1-110-285.pdf
+- https://shanlaxjournals.in/journals/index.php/economics/article/view/8225
+- https://spectrum.library.concordia.ca/id/eprint/995899/
+- https://sciendo.com/article/10.1515/mmcks-2017-0040
+- https://osf.io/preprints/psyarxiv/28b93
+- https://mausam.imd.gov.in/responsive/indianAstronomicalEphemeris.php
+- https://apcz.umk.pl/LSE/article/view/40857
+- https://www.mdpi.com/0718-1876/21/5/144
+- https://openpsychologyjournal.com/VOLUME/10/PAGE/140/
+- https://updatepublishing.com/journal/index.php/jfcls/article/view/3571
+- https://www.sciencedirect.com/science/article/pii/S266678942100043X
+- https://www.spaceandculture.in/index.php/spaceandculture/article/view/322
+- https://studia.reviste.ubbcluj.ro/index.php/subbpsypaed/article/view/9250
+- https://www.hope.uzh.ch/scoms/article/view/3340
+- https://ejournal.uinsaizu.ac.id/index.php/komunika/article/view/4030
+- http://www.plantarchives.org/article/50%20PRODUCTION-AND-MARKETING-OF-MARIGOLD-IN-GAJAPATI-DISTRICT,-ODISHA,-INDIA--CHALLENGES-AND-OPPORTUNITIES.pdf
+- https://ethnobotanyjournal.org/index.php/era/article/view/4535
+- https://plantaescientia.com/ojs/index.php/ps/article/view/81
+- https://www.agronomyjournals.com/archives/2024.v7.i9.J.1663
+- https://www.e-jcr.org/archive/view_article?pid=jcr-30-3-103
+- https://www.un.org/en/observances/womens-day/background
+- https://www.un.org/en/observances/womens-day
+- https://www.londonmuseum.org.uk/collections/v/object-87737/sash-regalia/
+- https://pressto.amu.edu.pl/index.php/sho/article/view/29170
+- http://www.sic-journal.org/ArticleView.aspx?aid=204
+- https://journals.ashs.org/horttech/view/journals/horttech/34/4/article-p481.xml
+- https://marketingmanagementjournal.scholasticahq.com/article/151161-christmas-in-september-christian-consumer-perceptions-of-retailer-early-presentations-of-holiday-seasonality
+- https://journals.uni-lj.si/CEPSJ/article/view/26746
+- https://www.mdpi.com/2305-6290/9/1/16
+- https://onlinelibrary.wiley.com/doi/10.1002/mar.21983
+- https://www.spaceandculture.in/index.php/spaceandculture/article/view/1487
+- https://theconversation.com/moon-sighting-is-a-key-part-of-muslim-life-how-the-lunar-cycle-determines-the-start-of-ramadan-and-eid-276195
+- https://journal.walisongo.ac.id/index.php/al-hilal/article/view/28554
+- https://newcontree.org.za/index.php/nc/article/view/192
+- https://journal.walisongo.ac.id/index.php/Nadwa/article/view/20245
+- https://dspace.library.uu.nl/handle/1874/471712
+- https://scholarworks.iu.edu/journals/index.php/li/article/view/40800
+- https://repositorio.iscte-iul.pt/handle/10071/17081
+- https://www.glossa-journal.org/article/id/9128/
+- https://firstmonday.org/ojs/index.php/fm/article/view/9398
+- https://journals.mmupress.com/index.php/jiwe/article/view/848
+- https://www.ipni.org/n/331624-2
+- https://www.ipni.org/n/208893-1
+- https://epubs.icar.org.in/index.php/IJAgS/article/view/19034
+- https://jhs.iihr.res.in/index.php/jhs/article/view/788
+- https://oaj.fupress.net/index.php/ahs/article/view/3187
+- https://www.gutenberg.org/ebooks/31591
+- https://hgic.clemson.edu/factsheet/hydrangea/
+- https://plants.ces.ncsu.edu/plants/hydrangea-macrophylla/
+- https://www.mdpi.com/2311-7524/11/12/1490
+- https://epubs.icar.org.in/index.php/IJAgS/article/view/156841
+- https://shodhganga.inflibnet.ac.in/handle/10603/463557
+- https://or.niscpr.res.in/index.php/IJTK/article/view/1348
+- https://www.sagens.org/journal/agens/article/view/s2025030107
+- http://researchjournal.co.in/online/IJCBM/IJCBM%208%281%29/8_112-116_A.pdf
+- https://aura.abdn.ac.uk/handle/2164/2051
+- https://archive-ouverte.unige.ch/unige:76440
+- https://www.cogitatiopress.com/mediaandcommunication/article/view/1745
+- https://research.utwente.nl/en/publications/d60ec203-0ef2-4355-8e6c-c8989760f1d4
+- https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-025-01785-w
+- https://www.mdpi.com/2076-328X/13/1/67
+- https://www.sciencedirect.com/science/article/pii/S2405844025003366
+- https://www.mdpi.com/1660-4601/18/6/3084
+- https://www.mdpi.com/1660-4601/20/2/901
+- https://www.scitepress.org/papers/2017/63537/63537.pdf
+- https://www.jmir.org/2024/1/e56897
+- https://jhpr.birjand.ac.ir/article_3740_b2d8c7b8bd23890f2e4aaa17b850c002.pdf
+- https://journals.ashs.org/horttech/view/journals/horttech/35/3/article-p286.xml
+- https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jftr.12442
+- https://osf.io/preprints/psyarxiv/gbkhd
+- https://www.sciencedirect.com/science/article/pii/S2666622725000024
+- https://researchrepository.wvu.edu/etd/3289/
+- https://www.gureckislab.org/publications/Rothe2018_Article_DoPeopleAskGoodQuestions.pdf
+- https://faculty.wharton.upenn.edu/wp-content/uploads/2015/02/2.-Savitsky-Comm-Bias.pdf
+- https://en.wikipedia.org/wiki/Twenty_questions
+- http://journal.sjdm.org/16/16101/jdm16101.pdf
+- https://journals.sagepub.com/doi/pdf/10.1177/02654075231189899?download=true
+- https://doiserbia.nb.rs/img/doi/0048-5705/2021/0048-57052000020C.pdf
+- https://escholarship.org/content/qt3n07v0j9/qt3n07v0j9.pdf
+- https://sciendo.com/pdf/10.1515/nor-2015-0015
+- https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/
+- https://www.al-kindipublisher.com/index.php/ijllt/article/download/1040/841
+- https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD4090937A7BC4318FCF1117E82313E4/S0025100312000096a.pdf/div-class-title-assamese-div.pdf
+- https://www.spaceandculture.in/index.php/spaceandculture/article/view/1625
+- https://www.nature.com/articles/s41598-026-44209-w
+- https://en.wiktionary.org/wiki/ভালপোৱা
+- http://www.fluxus-editions.fr/gla1-mano.php
+- https://europepmc.org/article/MED/37535558
+- https://revue.univ-oran2.dz/Revue/IJMLSP/index.php/IJMLSP/article/view/123
+- https://ejournal.um.edu.my/index.php/JML/article/view/22712
+- https://link.springer.com/article/10.1007/s43076-024-00413-z
+- https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%BE&searchhws=yes&matchtype=exact
+- https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BF&searchhws=yes&matchtype=exact
+- https://www.nepjol.info/index.php/gipan/article/view/35458
+- https://www.nepjol.info/index.php/dristikon/article/view/46130
+- https://rajbhasha.gov.in/en/languages-included-eighth-schedule-indian-constitution
+- https://scholarspace.manoa.hawaii.edu/items/3591e3b1-c7a8-46c5-9fca-46f88cbf6443
+- http://etheses.whiterose.ac.uk/21070/1/712124.pdf
+- https://macrothink.org/journal/index.php/ijl/article/download/944/922
+- https://revije.ff.uni-lj.si/ala/article/view/9449
+- https://eprints.bbk.ac.uk/id/eprint/5096/1/Dewaele2011Anglistik.pdf
+- https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/47193/1/PS21-10_1471-1478.pdf
+- https://research.vu.nl/ws/files/2690641/238793.pdf
+- https://link.springer.com/content/pdf/10.1007/s41042-021-00058-8.pdf
+- https://dash.harvard.edu/bitstreams/6e01a6f2-5a52-4a61-9ae7-aaf666d568f5/download
+- https://en.wikipedia.org/wiki/Never_have_I_ever
+- http://clab.iat.sfu.ca/pubs/IntimacyCHI2012.pdf
+- https://tidsskrift.dk/socialinteraction/article/view/128148
+- https://cultureunbound.ep.liu.se/article/view/4600
+- https://journal.sjdm.org/21/210705/jdm210705.html
+- https://cyberpsychology.eu/article/view/4227
+- https://cyberpsychology.eu/article/view/12441
+- https://en.wikipedia.org/wiki/Would_you_rather
+- https://www.marathicultureandfestivals.com/events/balipratipada-diwali-padwa
+- https://www.esakal.com/culture-and-religion/why-husband-should-give-ovalani-gifts-to-wife-on-diwali-padwa-tradition-and-importance-ssg2
+- https://marathi.webdunia.com/article/deepawali-marathi/diwali-padwa-bali-pratipada-importance-puja-vidhi-120111400001_1.html
+- https://ierj.in/journal/index.php/ierj/article/view/5415
+- https://indiacode.gov.in/handle/123456789/531350
+- https://indiacode.gov.in/handle/123456789/523527
+- https://indiacode.gov.in/handle/123456789/507681
+- https://www.sciscanpub.com/index/index/down_article/id/8096.html
+- https://ramss.spcrd.org/index.php/ramss/article/download/654/653
+- https://caucasushistory.ru/2618-6772/article/download/1560/1500
+- https://www.mkuh.nhs.uk/wp-content/uploads/2025/05/Postnatal-Ward-PIL-V1-1.pdf
+- https://www.nhsborders.scot.nhs.uk/media/656116/final-miscellaneous-infection-control-guidance-v15-review-nov-21-.pdf
+- https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html
+- https://internationalbreastfeedingjournal.biomedcentral.com/articles/10.1186/1746-4358-4-2
+- http://www.mjmsr.net/article.asp?issn=0975-9727;year=2019;volume=10;issue=1;spage=13;epage=16;aulast=Sequera
+- https://jhs.iihr.res.in/index.php/jhs/article/view/2148
+- https://jhs.iihr.res.in/index.php/jhs/article/view/1851
+- https://www.extensioneducation.org/index.php/jee/article/view/75
+- https://www.cetjournal.it/index.php/cet/article/view/5297
+- https://www.eap-iea.org/index.php/eap/article/view/578
+- https://doaj.org/article/b459ef044fff45019fe23877f0692380
+- https://www.nepjol.info/index.php/jdl/article/view/87801
+- https://www.ojs.unito.it/index.php/kervan/article/view/7001
+- https://www.officeholidays.com/holidays/india/holi
+- https://njcmindia.com/index.php/file/article/view/2648
+- http://www.ijo.in/article.asp?issn=0301-4738;year=2021;volume=69;issue=2;spage=286;epage=289;aulast=Goyal
+- https://rac.anpad.org.br/index.php/rac/article/view/1372
+- https://nepjol.info/index.php/DSAJ/article/view/4516
+- https://www.officeholidays.com/holidays/india/sankranti
+- https://www.ovid.com/jnls/indjem/fulltext/10.4103/2230-8210.196009~pragmatic-dietary-advice-for-diabetes-during-navratris
+- https://njcmindia.com/index.php/file/article/view/526
+- https://journals.h-net.org/jfs/article/view/147
+- https://www.scienceopen.com/hosted-document?doi=10.13169/intecritdivestud.7.2.0009
+- https://www.calendarlabs.com/holidays/hindu/2027
+- https://ejournal.upi.edu/index.php/IJAL/article/view/2664
+- http://rave.ohiolink.edu/etdc/view?acc_num=ucin1583247115503432
+- https://pdxscholar.library.pdx.edu/open_access_etds/7142/
+- https://repository.lsu.edu/gradschool_dissertations/5754/
+- http://digital.library.wisc.edu/1793/53188
+- https://ijoc.org/index.php/ijoc/article/view/9667
+- https://ojs.zrc-sazu.si/twohomelands/article/download/11767/10937
+- https://iafor.org/archives/journals/iafor-journal-of-psychology-and-the-behavioral-sciences/10.22492.ijpbs.4.1.01.pdf
+- https://iabcd.org.in/index.php/iabcd/article/download/8/5
+- https://ornamentalhorticulture.emnuvens.com.br/rbho/article/download/1070/719
+- https://www.ideals.illinois.edu/items/112850/bitstreams/369851/data.pdf
+- https://research.cbs.dk/en/publications/the-paradox-of-surprise-empirical-evidence-about-surprising-gifts
+- https://www.gutenberg.org/cache/epub/14314/pg14314.txt
+- https://www.loc.gov/resource/sn87096037/1883-06-08/ed-1/?sp=3
+- https://onlinelibrary.wiley.com/doi/10.1002/mar.22174
+- https://www.ssrn.com/abstract=2733341
+- http://journals.openedition.org/samaj/4379
+- https://spaceandculture.in/index.php/spaceandculture/article/view/1667
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10632136/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8170361/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11761567/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12106001/
+- https://doi.org/10.1111/aphw.70030
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179123
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.824326/full
+- https://doi.org/10.1177/19485506221137958
+- https://doi.org/10.1098/rsos.250508
+- https://uu.diva-portal.org/smash/get/diva2:786467/FULLTEXT01.pdf
+- https://ojs.interpersonajournal.com/index.php/ojs/article/view/606
+- https://journals.sagepub.com/doi/10.1177/02654075211043296
+- https://www.demographic-research.org/volumes/vol31/3/31-3.pdf
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3974224/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10419226/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10467095/
+- https://europepmc.org/article/PMC/PMC11795999
+- https://rbho.emnuvens.com.br/rbho/article/view/2643/1946
+- https://europepmc.org/articles/PMC4826767
+- https://www.jneurosci.org/content/21/8/2793
+- https://bbronline.com.br/index.php/bbr/article/view/143
+- https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-024-01599-8
+- https://www.mdpi.com/2076-328X/16/5/700
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133254
+- https://onlinelibrary.wiley.com/doi/10.1002/mar.21790
+- https://dl.acm.org/doi/10.1145/3577015
+- https://www.emerald.com/insight/content/doi/10.1108/EJM-03-2019-0277/full/html
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1254789/full
+- https://osf.io/ajcfu
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1235527/full
+- http://www.metajournal.org//articles_pdf/57-83-henaff-meta3-tehno.pdf
+- https://dialnet.unirioja.es/servlet/articulo?codigo=10110097
+- https://repository.up.ac.za/items/b4f9c43c-fb34-4c36-9807-1d5ba14bfd25
+- https://escholarship.org/uc/item/3n07v0j9
+- https://link.springer.com/article/10.1007/s11002-025-09798-y
+- https://www.hindustantimes.com/lifestyle/festivals/valentines-week-2026-full-list-from-rose-day-and-chocolate-day-to-kiss-day-check-complete-calendar-till-february-14-101770533472660.html
+- https://en.wikipedia.org/wiki/Valentine%27s_Week
+- https://www.nature.com/articles/s41599-022-01486-w
+- https://news.osu.edu/giving-a-gift-better-late-than-never-study-finds/
+- http://www.iiass.com/pdf/IIASS-2015-no1-art13.pdf
+- https://doi.org/10.1016/j.heliyon.2025.e41956
