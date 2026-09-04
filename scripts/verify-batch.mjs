@@ -86,10 +86,30 @@ const DEAD = ["/birthday-bestfriend", "/birthday-friend", "/birthday-parents", "
   "/sorry-gf", "/sorry-friend"];
 
 // ── already-spent sources ───────────────────────────────────────────────────
+// ── per-batch link policy ───────────────────────────────────────────────────
+// Defaults reproduce the bouquet-wave rules so those batches verify unchanged.
+const cfgPath = path.join(dir, "verify.config.json");
+const CFG = existsSync(cfgPath)
+  ? JSON.parse(readFileSync(cfgPath, "utf8"))
+  : { mandatoryLinks: ["/bouquet-gf"], oneOfLinks: ["/love-gf", "/darling"] };
+
 const usedPath = path.join(dir, "USED-SOURCES.md");
 const SPENT = new Set();
 if (existsSync(usedPath)) {
-  for (const m of readFileSync(usedPath, "utf8").matchAll(/^- (https?:\/\/[^\s(]+)/gm)) SPENT.add(m[1]);
+  const raw = readFileSync(usedPath, "utf8");
+  // Read ONLY the closed section. The ledger also lists every URL used exactly
+  // once ("one slot left each") — those are LEGAL, since the cap is 2 posts per
+  // URL. Scanning the whole file marked 720 usable papers as spent and produced
+  // three false positives on the first batch that hit it.
+  const startRe = /^##.*(spent URLs|already used twice|closed)/im;
+  const start = raw.search(startRe);
+  let block = raw;
+  if (start >= 0) {
+    const after = raw.slice(start + 3);
+    const nextHeading = after.search(/^## /m);
+    block = nextHeading >= 0 ? after.slice(0, nextHeading) : after;
+  }
+  for (const m of block.matchAll(/^- (https?:\/\/[^\s(]+)/gm)) SPENT.add(m[1]);
 }
 
 // ── pricing language ────────────────────────────────────────────────────────
@@ -177,9 +197,22 @@ for (const f of files) {
     .filter((p) => !p.startsWith("/blog"))
     .concat((j.batchMeta?.templateUrls || []).map((t) => (t.startsWith("http") ? new URL(t).pathname : t)))
     .filter((p, i, arr) => arr.indexOf(p) === i);
-  const bodyInternal = [...new Set([...md.matchAll(/https:\/\/subhsandesh\.in(\/[a-z0-9-]*)/g)].map((m) => m[1]))].filter((p) => !p.startsWith("/blog"));
-  if (!bodyInternal.includes("/bouquet-gf")) P(slug, "mandatory /bouquet-gf link missing from body");
-  if (!bodyInternal.includes("/love-gf") && !bodyInternal.includes("/darling")) P(slug, "needs at least one of /love-gf or /darling in body");
+  // Count BOTH absolute and relative markdown links. Writers legitimately use
+  // `[anchor](/love-gf)`, which the absolute-only pattern could not see — it
+  // reported "0 internal links" on two posts that each carried three correct ones.
+  const bodyInternal = [...new Set([
+    ...[...md.matchAll(/https:\/\/subhsandesh\.in(\/[a-z0-9-]*)/g)].map((m) => m[1]),
+    ...[...md.matchAll(/\]\((\/[a-z0-9-]+)\)/g)].map((m) => m[1]),
+  ])].filter((p) => !p.startsWith("/blog"));
+  // The mandatory-link set is per batch, not global: the bouquet waves required
+  // /bouquet-gf, the gift-bf batch deliberately excludes it. Declare it in
+  // <batchdir>/verify.config.json as {"mandatoryLinks":[...],"oneOfLinks":[...]}.
+  for (const need of CFG.mandatoryLinks || []) {
+    if (!bodyInternal.includes(need)) P(slug, `mandatory ${need} link missing from body`);
+  }
+  if ((CFG.oneOfLinks || []).length && !CFG.oneOfLinks.some((l) => bodyInternal.includes(l))) {
+    P(slug, `needs at least one of ${CFG.oneOfLinks.join(" or ")} in body`);
+  }
   if (bodyInternal.length < 2 || bodyInternal.length > 4) P(slug, `${bodyInternal.length} internal links in body, need 2-4: ${bodyInternal.join(" ")}`);
   for (const p of internal) {
     if (DEAD.includes(p)) P(slug, `links REMOVED redirect slug ${p}`);
@@ -225,7 +258,14 @@ for (const f of files) {
   }
 
   // ── pricing ───────────────────────────────────────────────────────────────
-  const surfaces = [md, a.metaDescription, a.excerpt, ...faqs.map((q) => (q.question || "") + " " + (q.answer || q.a || ""))].join("\n");
+  // Reader-facing surfaces only. Deliberately NOT the whole record: checklist item
+  // "At least one specific number, date, price or named source per H2 section" must
+  // sit byte-verbatim in auditReport.passed, so every compliant post contains the
+  // word "price" — grepping the JSON would flag all of them. keyTakeaways, title and
+  // metaTitle added after a writer pointed out they ship to the reader too.
+  const surfaces = [md, a.title, a.metaTitle, a.metaDescription, a.excerpt,
+    ...(a.keyTakeaways || []),
+    ...faqs.map((q) => (q.question || "") + " " + (q.answer || q.a || ""))].join("\n");
   const hard = surfaces.match(PRICE_HARD);
   if (hard) P(slug, `COST CLAIM "${hard[0]}" — facts.md Pricing block is EMPTY, no post may price the product`);
   else {
@@ -259,6 +299,42 @@ for (const r of rows) {
   console.log(r.slug.padEnd(38) + String(r.words).padStart(5) + String(r.faqs).padStart(5) +
     `  ${r.passed}/${r.failed}`.padEnd(9) + r.cat.padEnd(24) + r.links);
 }
+// ── publisher-level concentration (a NOTE, not a failure) ──────────────────
+// A remediator noticed doi.org is a resolver: two posts citing doi.org/10.1002/...
+// plus two citing onlinelibrary.wiley.com put FOUR posts on Wiley, while hostname
+// counting saw "doi.org 2, wiley 2" and passed. The checklist says "domain", so
+// this is reported rather than failed — but the rule exists so a batch does not
+// read as one source pool, which is exactly what this catches.
+{
+  const PREFIX = { "10.1002": "Wiley", "10.1111": "Wiley", "10.1046": "Wiley", "10.1034": "Wiley",
+    "10.1371": "PLOS", "10.3389": "Frontiers", "10.1038": "Springer Nature", "10.1007": "Springer",
+    "10.1177": "SAGE", "10.1080": "Taylor & Francis", "10.1016": "Elsevier", "10.1098": "Royal Society",
+    "10.1523": "Soc for Neuroscience", "10.3390": "MDPI", "10.1186": "BMC", "10.4103": "Wolters Kluwer",
+    "10.1017": "Cambridge", "10.1108": "Emerald" };
+  const HOSTPUB = { "onlinelibrary.wiley.com": "Wiley", "journals.plos.org": "PLOS",
+    "frontiersin.org": "Frontiers", "nature.com": "Springer Nature", "link.springer.com": "Springer",
+    "journals.sagepub.com": "SAGE", "mdpi.com": "MDPI", "emerald.com": "Emerald",
+    "journals.lww.com": "Wolters Kluwer", "jneurosci.org": "Soc for Neuroscience" };
+  const pubs = new Map();
+  for (const [u, slugs] of urlPosts) {
+    let host = ""; try { host = new URL(u).hostname.replace(/^www\./, ""); } catch { continue; }
+    let name = null;
+    if (host === "doi.org" || host === "dx.doi.org") {
+      const m = u.match(/10\.\d{4,5}/);
+      name = m ? PREFIX[m[0]] || null : null;
+    } else name = HOSTPUB[host] || null;
+    if (!name) continue;                                  // unattributable: never guess
+    if (!pubs.has(name)) pubs.set(name, new Set());
+    for (const sl of slugs) pubs.get(name).add(sl);
+  }
+  const over = [...pubs].filter(([, v]) => v.size > 3);
+  if (over.length) {
+    console.log("\nNOTE — publisher concentration above 3 posts once DOIs are resolved:");
+    for (const [name, v] of over) console.log(`  ${v.size}  ${name}: ${[...v].join(", ")}`);
+    console.log("  passes the checklist (it counts hostnames); flagged because the rule's intent is source diversity");
+  }
+}
+
 console.log(`\ntotal audit passed: ${rows.reduce((a, r) => a + r.passed, 0)}/${rows.length * 50}`);
 console.log(`outbound: ${urlPosts.size} URLs across ${domainPosts.size} domains; ${at3.length} domain(s) at the cap of 3${at3.length ? ": " + at3.join(", ") : ""}`);
 
