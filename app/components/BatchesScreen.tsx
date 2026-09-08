@@ -756,7 +756,7 @@ export default function BatchesScreen({
           <div className="card p-6 space-y-2">
             <p className="text-sm font-medium">No batches yet</p>
             <p className="text-sm text-[var(--muted)]">
-              Hand a few keywords to Claude Code and ask it to run the <code>subhsandesh-blog</code> skill. It writes
+              Hand a few keywords to Claude Code and ask it to run the <code>blog-optimisation</code> skill. It writes
               each post to <code>content/batches/&lt;batch-id&gt;/blogs/&lt;slug&gt;.json</code> on a new branch. Once
               that branch is deployed, the batch appears here.
             </p>

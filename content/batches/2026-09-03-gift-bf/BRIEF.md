@@ -6,7 +6,7 @@ your keyword is already measured and you should not re-derive it.
 
 **Read these, in this order, before writing a word:**
 
-1. `.claude/skills/subhsandesh-blog/SKILL.md` — the whole workflow, Phases 0–8
+1. `.claude/skills/blog-optimisation/SKILL.md` — the whole workflow, Phases 0–8
 2. `references/page-structure.md`, `references/meta-and-titles.md`,
    `references/tone-and-links.md`, `references/research-sources.md`,
    `references/structured-data.md`, `references/publish-checklist.md`,

@@ -7,7 +7,7 @@
 //
 //   npm run keywords:inventory
 //
-// The `keyword-harvest` skill runs this in Phase 1, before it searches anything.
+// The `blog-keyword-research` skill runs this in Phase 1, before it searches anything.
 // Without it a run has no idea what the site already covers, so it recommends
 // keywords that already have a page (the site competes with itself) and it
 // cannot see the cheapest traffic on the board — a drafted page sitting at

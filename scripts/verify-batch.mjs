@@ -42,7 +42,7 @@ const N = (slug, msg) => notes.push(`${slug}: ${msg}`);
 
 // ── the checklist, byte-verbatim ─────────────────────────────────────────────
 const collapse = (s) => String(s).replace(/\s+/g, " ").trim();
-const checklistPath = ".claude/skills/subhsandesh-blog/references/publish-checklist.md";
+const checklistPath = ".claude/skills/blog-optimisation/references/publish-checklist.md";
 const checklistRaw = readFileSync(path.join(ROOT, checklistPath), "utf8");
 // Checklist items WRAP across lines in the source file, indented under the
 // "- [ ]" marker. Parsing line-by-line truncates them and then reports a

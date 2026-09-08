@@ -50,7 +50,7 @@ Use **Generate** for volume. Use **Batches** when the post actually has to rank.
 ### Where the keywords come from
 
 Both pipelines start from a keyword sheet, and the sheet itself is produced by a
-third skill — **`keyword-harvest`** (`.claude/skills/keyword-harvest/`). Ask Claude
+third skill — **`blog-keyword-research`** (`.claude/skills/blog-keyword-research/`). Ask Claude
 Code for keywords and it runs a 13-phase research pass, then emits an `.xlsx` this
 studio can upload directly:
 
@@ -74,7 +74,7 @@ content/keywords/<date>-<seed>/ → site-baseline.md + autocomplete.csv + candid
                                   + keyword-inventory.csv + shortlist.md
                                   + competitor-map.md + keywords.xlsx
         │
-   upload keywords.xlsx into Generate,  or hand the top clusters to subhsandesh-blog
+   upload keywords.xlsx into Generate,  or hand the top clusters to blog-optimisation
 ```
 
 Convert the inventory to a sheet with:

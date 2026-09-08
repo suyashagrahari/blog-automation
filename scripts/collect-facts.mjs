@@ -4,7 +4,7 @@
 //
 // These are the numbers no competitor can publish, and they are the whole reason
 // an answer engine would cite a SubhSandesh post instead of the five pages that
-// already rank. Phase 0 of the subhsandesh-blog skill blocks until at least
+// already rank. Phase 0 of the blog-optimisation skill blocks until at least
 // three of them are relevant to the target keyword.
 //
 //   npm run facts

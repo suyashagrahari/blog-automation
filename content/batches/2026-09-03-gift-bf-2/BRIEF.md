@@ -7,8 +7,8 @@ today** — read its posts before you draft, because your first job is not to re
 **Read these, in this order, before writing a word:**
 
 1. This file
-2. `.claude/skills/subhsandesh-blog/SKILL.md` — the workflow, Phases 0–8
-3. `.claude/skills/subhsandesh-blog/references/` — page-structure.md,
+2. `.claude/skills/blog-optimisation/SKILL.md` — the workflow, Phases 0–8
+3. `.claude/skills/blog-optimisation/references/` — page-structure.md,
    meta-and-titles.md, tone-and-links.md, research-sources.md, structured-data.md,
    publish-checklist.md, article-json-schema.md, competitors.md
 4. `content/facts.md` — regenerated 2026-09-03

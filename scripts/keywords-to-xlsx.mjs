@@ -2,8 +2,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
 // keyword-inventory.csv  →  keywords.xlsx
 //
-// Turns the CSV the `keyword-harvest` skill writes into a workbook the studio's
-// Generate tab can upload directly, and that `subhsandesh-blog` can read as a
+// Turns the CSV the `blog-keyword-research` skill writes into a workbook the studio's
+// Generate tab can upload directly, and that `blog-optimisation` can read as a
 // keyword batch.
 //
 //   npm run keywords:xlsx -- content/keywords/2026-08-13-rakhi/keyword-inventory.csv

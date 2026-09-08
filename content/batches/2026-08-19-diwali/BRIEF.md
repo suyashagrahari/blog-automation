@@ -1,7 +1,7 @@
 # Batch brief — 2026-08-19-diwali
 
 Shared constraints for every blog in this batch. Read this **after** the skill file
-(`.claude/skills/subhsandesh-blog/SKILL.md` + everything in `references/`) and treat it as an
+(`.claude/skills/blog-optimisation/SKILL.md` + everything in `references/`) and treat it as an
 addition to the skill, never a replacement. All paths relative to `blog-automation/`.
 
 ## Why this batch exists — read this before choosing an angle

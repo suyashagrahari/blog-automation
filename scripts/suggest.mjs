@@ -5,7 +5,7 @@
 //   npm run keywords:suggest -- "raksha bandhan wishes" [--geo in] [--out DIR]
 //   npm run keywords:suggest -- "rakhi" "raksha bandhan" --hl hi
 //
-// Why this exists: every volume figure the `keyword-harvest` skill produced
+// Why this exists: every volume figure the `blog-keyword-research` skill produced
 // before this script was an inference from SERP furniture (ads present, PAA
 // present, AI Overview fired). Autocomplete is the opposite — it is Google
 // telling you, for a named country, which continuations of a prefix real people

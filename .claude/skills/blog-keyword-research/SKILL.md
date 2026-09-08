@@ -1,5 +1,5 @@
 ---
-name: keyword-harvest
+name: blog-keyword-research
 description: Take a seed keyword plus industry and country, check what the site already ranks for, harvest live geo-targeted autocomplete demand, expand into long-tail queries, harvest the pages that actually rank for each on Google and the domains cited by answer engines, extract the keywords those pages target with a source URL for every single one, then filter and rank the result by expected monthly clicks into a publish-ordered shortlist and a studio-ready Excel sheet. Use this skill whenever the user gives a seed keyword and wants more keywords, asks which keywords they can rank for, asks what is trending, asks what has search volume, asks where their own site already ranks, asks what competitors are ranking on, wants long-tail keyword ideas, mentions keyword research, keyword extraction, competitor keyword analysis, SERP analysis, keyword clustering, striking-distance keywords, GEO or AEO keyword discovery, or wants to know what to write next. Also trigger on bare requests like "give me keywords for X", "extract keywords from competitors", "what long tail keywords should I target", "what should I write before Diwali", or "make me a keyword sheet".
 ---
 
@@ -27,7 +27,7 @@ looked at, and the publish date never worked backwards from the festival.
 ## Where this sits in the pipeline
 
 ```
-keyword-harvest  →  keywords.xlsx  →  subhsandesh-blog  →  content/batches/  →  Batches tab  →  Strapi
+blog-keyword-research  →  keywords.xlsx  →  blog-optimisation  →  content/batches/  →  Batches tab  →  Strapi
    (this skill)      + inventory.csv     (writes posts)      (JSON on disk)      (review)      (live)
         ↑                                                          │
         └──────────  npm run keywords:inventory  ←─────────────────┘
@@ -35,7 +35,7 @@ keyword-harvest  →  keywords.xlsx  →  subhsandesh-blog  →  content/batches
 ```
 
 This skill produces the input. It never writes a blog post. When the shortlist is
-agreed, hand the top clusters to **`subhsandesh-blog`**, which runs its own
+agreed, hand the top clusters to **`blog-optimisation`**, which runs its own
 per-keyword SERP pass before drafting — the two skills do not share research.
 
 ## Tools
@@ -523,7 +523,7 @@ to the cap: it is cheap, it is fast, and there is no reason to ration it.
 
 ## Phase 12 — Emit the Excel sheet
 
-The studio's **Generate** tab and the `subhsandesh-blog` skill both take a keyword
+The studio's **Generate** tab and the `blog-optimisation` skill both take a keyword
 spreadsheet. Convert the inventory:
 
 ```bash
@@ -593,7 +593,7 @@ End every run with, in this order:
    that is true about *their* site. Ask for the export again, name the date to ask
    again if it doesn't exist yet, and note that `npm run keywords:inventory` will show
    next time which of today's shortlist actually got written.
-6. **The handoff** — name the 2-4 clusters worth sending to `subhsandesh-blog` first,
+6. **The handoff** — name the 2-4 clusters worth sending to `blog-optimisation` first,
    and say plainly that the blog skill's Phase 0 facts gate may still refuse one of
    them. A keyword surviving every gate here is not a promise that a post can be
    written about it today.
@@ -638,4 +638,4 @@ The collapse from 411 to 15 is not a failure of the run. It is the run working.
 - Rank keywords by volume before Gates 0-5 have run
 - Invent its own band-to-score mapping instead of using the table in `gates.md`
 - Produce a long unranked list when a short ranked one is what gets published
-- Write the blog posts — that is `subhsandesh-blog`, and it re-researches each keyword itself
+- Write the blog posts — that is `blog-optimisation`, and it re-researches each keyword itself

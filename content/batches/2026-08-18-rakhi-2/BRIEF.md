@@ -3,7 +3,7 @@
 Shared constraints for every blog in this batch. Read this **after** the skill file,
 and treat it as an addition to the skill, never a replacement.
 
-Skill: `.claude/skills/subhsandesh-blog/SKILL.md` (+ everything in `references/`).
+Skill: `.claude/skills/blog-optimisation/SKILL.md` (+ everything in `references/`).
 All paths relative to `blog-automation/`.
 
 ## Context — this is the second rakhi batch

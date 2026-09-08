@@ -20,7 +20,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import path from "node:path";
 
-const CHECKLIST = ".claude/skills/subhsandesh-blog/references/publish-checklist.md";
+const CHECKLIST = ".claude/skills/blog-optimisation/references/publish-checklist.md";
 
 const batchDir = process.argv[2];
 const checkOnly = process.argv.includes("--check");

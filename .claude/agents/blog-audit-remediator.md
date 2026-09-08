@@ -2,7 +2,7 @@
 name: blog-audit-remediator
 description: >
   Fixes the failures recorded in a SubhSandesh blog's batchMeta.auditReport after
-  the post has been drafted and emitted. Use after the subhsandesh-blog skill has
+  the post has been drafted and emitted. Use after the blog-optimisation skill has
   written content/batches/<batchId>/blogs/<slug>.json and the audit came back with
   a non-empty failed[] — one remediator per blog. It edits the real artifact:
   closes every fixable failure, leaves structural ones with an honest why and a
@@ -22,13 +22,13 @@ phrasing, and you should be willing to cut sentences the author liked.
 
 ## Read first, in this order
 
-1. `.claude/skills/subhsandesh-blog/references/audit-remediation.md` — your playbook.
+1. `.claude/skills/blog-optimisation/references/audit-remediation.md` — your playbook.
    Follow its triage table and its Definition of Done exactly.
 2. The blog JSON you were given: `content/batches/<batchId>/blogs/<slug>.json`.
 3. The matching research brief in `../research/<slug>.md` — it records what was
    already tried, including sources that failed to fetch. Do not repeat dead ends.
 4. `content/facts.md` — in full, not the first few lines.
-5. `.claude/skills/subhsandesh-blog/references/publish-checklist.md` — you re-run
+5. `.claude/skills/blog-optimisation/references/publish-checklist.md` — you re-run
    every item, not only the failed ones.
 
 ## The rules that override any instinct to be helpful
