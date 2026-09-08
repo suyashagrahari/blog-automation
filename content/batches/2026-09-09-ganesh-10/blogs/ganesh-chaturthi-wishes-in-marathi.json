@@ -1,0 +1,337 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Happy Ganesh Chaturthi Wishes in Marathi, Written Out Properly",
+    "slug": "ganesh-chaturthi-wishes-in-marathi",
+    "excerpt": "Eight Ganesh Chaturthi wishes in Marathi, each with Devanagari, Roman transliteration and a literal English meaning — plus corpus data on which script to send in, and the 2026 festival dates.",
+    "metaTitle": "Happy Ganesh Chaturthi Wishes in Marathi — With Meanings",
+    "metaDescription": "Happy Ganesh Chaturthi wishes in Marathi: 8 lines in Devanagari, Roman transliteration and English meaning, plus which script to send and the 2026 dates.",
+    "keywords": "happy ganesh chaturthi wishes in marathi, ganesh chaturthi quotes in marathi, ganesh chaturthichya hardik shubhechha, ganpati bappa morya meaning, marathi ganesh chaturthi status",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-wishes-in-marathi",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "marathi",
+      "wishes",
+      "indian-festivals",
+      "ganpati"
+    ],
+    "keyTakeaways": [
+      "Ganesh Chaturthi 2026 is Monday 14 September; visarjan on Anant Chaturdashi is Friday 25 September, and पुढच्या वर्षी लवकर या belongs on the second date, not the first.",
+      "Roman-script Marathi is not a shortcut: L3Cube's 10-million-sentence Marathi social-media corpus splits 5 million Roman-script sentences to 5 million Devanagari.",
+      "Marathi Devanagari is not Hindi Devanagari — Unicode lists separate Marathi glyphs for ल, श, झ and the digits ५, ८ and ९, plus the eyelash form of RA.",
+      "Measured platform-wide across all 15 SubhSandesh page types, 49.6% of shared-page views happen on a phone (22,667 of 45,656) and 42.1% of creators password-protect a page before sharing.",
+      "शुभेच्छा is the Marathi word for good wishes; शुभकामनाएँ is Hindi, and swapping them is the clearest sign a wish was copied off a Hindi list."
+    ],
+    "faqs": [
+      {
+        "question": "What do you say on Ganesh Chaturthi in Marathi?",
+        "answer": "गणेश चतुर्थीच्या हार्दिक शुभेच्छा (Ganesh Chaturthichya hardik shubhechha) is the standard line — \"heartfelt good wishes on Ganesh Chaturthi\". Most people close it with गणपती बाप्पा मोरया. Putting the person's name in front is what stops it reading as a forward."
+      },
+      {
+        "question": "How do you write Happy Ganesh Chaturthi in Marathi?",
+        "answer": "There is no literal Marathi word-for-word for \"happy\" in a greeting. Marathi uses शुभेच्छा, \"good wishes\", so \"Happy Ganesh Chaturthi\" becomes गणेश चतुर्थीच्या शुभेच्छा, or गणेश चतुर्थीच्या हार्दिक शुभेच्छा when you want it warmer."
+      },
+      {
+        "question": "Should I send the wish in Devanagari or in English letters?",
+        "answer": "Both are real written Marathi. L3Cube's 10-million-sentence Marathi social-media corpus is split exactly in half, 5 million Roman-script sentences to 5 million Devanagari. Send Devanagari to anyone over about 45 and to family groups; Roman is fine for banter and captions."
+      },
+      {
+        "question": "Is वक्रतुंड महाकाय a Marathi quote?",
+        "answer": "No — it is Sanskrit. वक्रतुंड महाकाय सूर्यकोटि समप्रभ is a shloka and is entirely appropriate on Ganesh Chaturthi, but listing it as a Marathi quote, which most quote sites do, is wrong. Call it a shloka."
+      },
+      {
+        "question": "When is Ganesh Chaturthi in 2026?",
+        "answer": "Monday 14 September 2026. Visarjan on Anant Chaturdashi falls on Friday 25 September 2026, which is when the ten-day mandaps immerse their idols."
+      },
+      {
+        "question": "What is the difference between शुभेच्छा and शुभकामनाएँ?",
+        "answer": "शुभेच्छा is the Marathi word for good wishes; शुभकामनाएँ is the Hindi one. Sending the Hindi word to a Marathi household is the fastest way to signal that the wish was copied off a Hindi list."
+      },
+      {
+        "question": "What do people shout at Ganpati visarjan?",
+        "answer": "गणपती बाप्पा मोरया, पुढच्या वर्षी लवकर या — \"Ganpati Bappa Morya, come early next year\". It only makes sense on the immersion day, so save it for 25 September in 2026 rather than sending it on the first morning."
+      },
+      {
+        "question": "Why does Marathi Devanagari look slightly different from Hindi Devanagari?",
+        "answer": "Because Marathi prefers different glyph shapes for the same characters. The Unicode Standard lists Marathi allographs for ल, श, झ and the digits ५, ८ and ९, and Marathi also uses the eyelash form of RA, which Hindi does not."
+      },
+      {
+        "question": "Can I send the same Marathi wish to an elder and to a friend?",
+        "answer": "Not always. Marathi distinguishes तू from तुम्ही, so a line written with तू reads as affectionate to a friend and rude to an uncle. The blessing lines here use तुमच्या and are safe for everyone; the तू line is a caption, not a message."
+      }
+    ],
+    "coverImageQuery": "ganpati idol home mandap marathi family",
+    "coverImagePrompt": "A photorealistic Marathi household mandap on Ganesh Chaturthi morning: a small clay Ganpati idol on a decorated wooden chaurang, durva grass, red hibiscus, a brass aarti thali and a plate of ukadiche modak. Warm morning light through a Pune-style window, shallow depth of field, 16:9 with clean negative space along the top for a title overlay. No visible text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Happy Ganesh Chaturthi Wishes in Marathi, Written Out Properly\n\nHappy Ganesh Chaturthi wishes in Marathi almost always start with **गणेश चतुर्थीच्या हार्दिक शुभेच्छा** (*Ganesh Chaturthichya hardik shubhechha*), \"heartfelt good wishes for Ganesh Chaturthi\", usually closed with **गणपती बाप्पा मोरया**. Ganesh Chaturthi 2026 falls on Monday 14 September; visarjan on Anant Chaturdashi is Friday 25 September. Send the wish in Devanagari when the person reads Marathi comfortably, in Roman letters when they read faster that way — both are normal, and every wish below is given in both.\n\nTwo numbers before you pick a format: measured platform-wide across all 15 SubhSandesh page types, 49.6% of shared-page views happen on a phone (22,667 of 45,656 views, measured 8 September 2026), and 96.1% of started pages are finished and shared (3,708 of 3,860, same platform-wide measurement, not a Ganesh-specific figure). Below: eight wishes with transliteration and meaning, the script question settled with data, and what Marathi Devanagari does that Hindi Devanagari does not.\n\n## What \"Ganpati Bappa Morya\" actually means\n\n**गणपती बाप्पा मोरया, मंगलमूर्ती मोरया** is a call-and-response chant, not a sentence. *Ganpati Bappa* is roughly \"Father Ganpati\", *Mangalmurti* is \"the auspicious form\", and *Morya* is a name of honour traditionally traced to Moraya Gosavi, the Ganesh devotee of Chinchwad near Pune.\n\nIt does not mean \"Happy Ganesh Chaturthi\". It is a cheer — what a whole street shouts as the idol moves toward the water on 25 September 2026 — so it belongs at the end of a written wish and reads oddly alone to an elder.\n\nThe greeting word is *shubhechha* (शुभेच्छा), \"good wishes\", usually with *hardik* (हार्दिक), \"heartfelt\". Marathi says शुभेच्छा where Hindi says शुभकामनाएँ. The Hindi word sent to a Marathi household is the clearest sign a wish was lifted off a Hindi list.\n\n## 8 Ganesh Chaturthi wishes in Marathi, with transliteration and meaning\n\nEach gives the Devanagari line, the Roman transliteration, a literal English meaning, and who it suits.\n\n### 1. The standard formal wish\n\n**गणेश चतुर्थीच्या हार्दिक शुभेच्छा!**\n*Ganesh Chaturthichya hardik shubhechha!*\n\"Heartfelt good wishes on Ganesh Chaturthi.\"\nThe safe one. It works for a boss, a teacher, a 200-person WhatsApp group and a grandparent. Add the recipient's name in front and it stops sounding forwarded.\n\n### 2. The chant, as a sign-off\n\n**गणपती बाप्पा मोरया, मंगलमूर्ती मोरया!**\n*Ganpati Bappa Morya, Mangalmurti Morya!*\n\"Lord Ganpati, Morya — auspicious one, Morya!\"\nUse it as the last line of a longer wish, not the whole message. Sent alone it reads like a shout — fine between friends, thin for family.\n\n### 3. A blessing for the house\n\n**बाप्पाच्या आगमनाने तुमच्या घरात सुख, समृद्धी आणि शांती नांदो.**\n*Bappachya aagmanane tumchya gharat sukh, samruddhi aani shanti nando.*\n\"With Bappa's arrival, may happiness, prosperity and peace dwell in your home.\"\nनांदो is a benedictive, \"may it dwell\", and carries weight a translated Hindi line does not. Best for a family that installs a murti at home.\n\n### 4. For someone having a hard year\n\n**विघ्नहर्ता गणराया तुमच्या सर्व अडचणी दूर करो.**\n*Vighnaharta Ganraya tumchya sarva adchani door karo.*\n\"May Ganraya, the remover of obstacles, take all your difficulties away.\"\n*Vighnaharta* is the epithet for obstacle-removal, so this lands after a bad year — a job loss, an illness, an exam gone wrong.\n\n### 5. The modak line\n\n**मोदकाचा गोडवा आणि बाप्पाचा आशीर्वाद, दोन्ही तुमच्या पदरी पडो.**\n*Modakacha godva aani Bappacha aashirwad, donhi tumchya padari pado.*\n\"May both the sweetness of the modak and Bappa's blessing fall into your lap.\"\n*पदरी पडणे* has no clean Hindi equivalent, which is why it reads as written by a Marathi speaker rather than translated into one.\n\n### 6. Ten days, and the eleventh\n\n**दहा दिवस घर भरून राहो, अकराव्या दिवशी डोळे भरून येवो.**\n*Daha divas ghar bharun raho, akaravya divashi dole bharun yevo.*\n\"May the house stay full for ten days, and on the eleventh may the eyes fill up.\"\nIt names the real shape of the festival — 14 to 25 September in 2026 — and admits the sadness of visarjan. Good for someone who has moved away.\n\n### 7. An informal one, addressed to Bappa\n\n**तू आमच्या घरचा, तू आमच्या मनाचा — बाप्पा, यंदाही लवकर ये.**\n*Tu aamchya gharcha, tu aamchya manacha — Bappa, yandahi lavkar ye.*\n\"You belong to our house, you belong to our heart — Bappa, come early this year too.\"\nThe informal *तू* to a deity is normal in Marathi devotion and rude to a person. Use it as a caption, not a message to an uncle.\n\n### 8. What you shout at visarjan\n\n**गणपती बाप्पा मोरया, पुढच्या वर्षी लवकर या!**\n*Ganpati Bappa Morya, pudhchya varshi lavkar ya!*\n\"Ganpati Bappa Morya, come early next year!\"\nSave it for 25 September 2026. Sent on day one it is the wrong line, and Marathi speakers read that as a copy-paste error.\n\n## Devanagari or Roman letters: which script to send the wish in\n\nBoth are genuine written Marathi now. [L3Cube's MeCorpus](https://arxiv.org/abs/2306.14030), released in June 2023, is a 10-million-sentence Marathi social-media corpus split exactly in half: 5 million Roman-script code-mixed Marathi-English sentences and 5 million in Devanagari.\n\nOf that Roman-script half, 3,314,767 sentences — 1,037,659 tweets and 2,277,108 YouTube comments — were harvested as people actually wrote them; only 1,685,233 were machine-transliterated from Devanagari. Millions of Marathi speakers type Marathi in English letters by choice.\n\nThat is why AI4Bharat built [Aksharantar](https://aclanthology.org/2023.findings-emnlp.4/), presented at Findings of EMNLP in December 2023, which names \"the widespread use of romanized inputs\" as the reason transliteration matters in India. It runs to 26 million transliteration pairs across 21 Indic languages and 12 scripts.\n\nPractical rule: Devanagari for anyone over about 45, for family groups, and for anything printed or read aloud. Roman for banter, captions and colleagues without a Marathi keyboard. In doubt, send both — Devanagari with the Roman line under it.\n\n## Why Marathi Devanagari does not look like Hindi Devanagari\n\nMarathi and Hindi share the script, not the letterforms. [Chapter 12 of the Unicode Standard](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/) lists Marathi allographs — different preferred glyphs for the same code points — for ल, श, झ and the digits ५, ८ and ९, and records in rule R5 that Marathi also uses the \"eyelash\" form of RA, which Hindi does not.\n\nReaders feel the difference. In a survey of Devanagari readers run by the type foundry Typotheque, [387 analysed responses across India and Nepal](https://www.typotheque.com/research/regional-forms-of-devanagari-survey-report) showed 35.8% of respondents whose mother tongue is Marathi preferring the second form of ल, against 2.4% of those who learned Hindi first.\n\nSo a Ganesh wish in a Hindi-default font is legible but subtly foreign. If you are building a page, set its language to Marathi so the font picks Marathi forms.\n\nMarathi's standing is not incidental: the Union Cabinet [conferred Classical Language status on Marathi on 3 October 2024](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660), alongside Pali, Prakrit, Assamese and Bengali.\n\n## Ganesh Chaturthi quotes in Marathi for a status or caption\n\nShort lines survive a status bar better than blessings. Four that are actually Marathi:\n\n- **बाप्पा आले, घर भरलं.** — *Bappa aale, ghar bharla.* — \"Bappa came, the house filled up.\"\n- **मोरया, यंदा जरा जास्तच लक्ष दे.** — *Morya, yanda jara jaastach laksh de.* — \"Morya, pay a bit more attention this year.\"\n- **दहा दिवसांचा पाहुणा, वर्षभराची ओढ.** — *Daha divsancha pahuna, varshabharachi odh.* — \"A guest for ten days, a longing for the year.\"\n- **गणराया, तुझ्याशिवाय सप्टेंबर अपुरा.** — *Ganraya, tujhyashivay September apura.* — \"Ganraya, September is incomplete without you.\"\n\nOne correction, because almost every \"Marathi quotes\" list gets it wrong: **वक्रतुंड महाकाय सूर्यकोटि समप्रभ** is Sanskrit, not Marathi. It is a shloka, entirely appropriate on Ganesh Chaturthi, and not a Marathi quote. Label it as a shloka and nobody minds.\n\n## Four ways to send the wish, compared\n\nThe format decides whether the Marathi stays real text or turns into pixels.\n\n| How you send it | Marathi stays selectable text | Recipient can reply in Marathi | Effort |\n|---|---|---|---|\n| Devanagari typed in WhatsApp | Yes | Yes | Under a minute |\n| Roman-script line in WhatsApp | Yes | Yes | Under a minute |\n| Forwarded JPEG with the wish on it | No — it is an image | Only as a new message | Seconds |\n| A personalised page you send as a link | Yes | Yes, on the page itself | 5–10 minutes |\n\nAvoid the forwarded image: it cannot be searched, copied, translated or read by a screen reader, and your recipient has had four of them today.\n\nFor the last option done properly, the [Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) is built for this — they offer the durva, kumkum, flowers and modak, the aarti thali circles while Karpur Gauram plays, and they write their own prarthana back.\n\nWhat people build on SubhSandesh, platform-wide across all 15 page types — not Ganesh figures, since that template shipped days ago with zero pages so far:\n\n| Page type | Pages created since 12 March 2026 | Share of all 3,860 pages |\n|---|---|---|\n| \"I love you\" page | 1,065 | 27.6% |\n| Digital bouquet | 954 | 24.7% |\n| Apology dashboard | 904 | 23.4% |\n| Darling romantic page | 385 | 10.0% |\n| Birthday page for a partner | 257 | 6.7% |\n\nTwo more platform-wide numbers: 42.1% of creators password-protect a page before sharing it (1,625 of 3,860), and the median gap between a page's first save and its last edit is 6.8 hours. People do not finish these in one sitting. The full range sits in the [SubhSandesh template gallery](https://subhsandesh.in/templates).\n\n## When a Marathi wish page is the wrong thing to send\n\nA link cannot hand anyone a modak. If you are in the same city as the mandap, go — the wish is the consolation prize for not being there, and everyone involved knows it.\n\nIt is also wrong for a grandparent whose phone cannot render Devanagari conjuncts, still common on older budget Android handsets: ऱ्य or क्ष arrive as boxes, and a wish full of boxes is worse than no wish. Send a Marathi voice note instead. For someone over 75 that beats everything on this page.\n\nIf the person reads Marathi but you do not write it, do not fake it. One honest English line with a Marathi phrase you can pronounce beats eight borrowed sentences.\n\n## Sources\n\n- [Aksharantar: Open Indic-language Transliteration datasets and models](https://aclanthology.org/2023.findings-emnlp.4/) — Findings of the ACL: EMNLP 2023, December 2023\n- [My Boli: Code-mixed Marathi-English Corpora](https://arxiv.org/abs/2306.14030) — arXiv, 24 June 2023\n- [Regional forms of Devanagari (Survey Report)](https://www.typotheque.com/research/regional-forms-of-devanagari-survey-report) — Typotheque, no publication date stated\n- [The Unicode Standard 16.0, Chapter 12](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/) — Unicode Consortium, 10 September 2024\n- [Classical Language status for Marathi](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660) — Press Information Bureau, 3 October 2024\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-wishes-in-marathi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Marathi language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Marathi_language",
+              "https://www.wikidata.org/wiki/Q1571"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Code-mixing",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Code-mixing",
+              "https://www.wikidata.org/wiki/Q3201279"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Maharashtra",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Maharashtra",
+              "https://www.wikidata.org/wiki/Q1191"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Aksharantar: Open Indic-language Transliteration datasets and models for the Next Billion Users",
+            "url": "https://aclanthology.org/2023.findings-emnlp.4/",
+            "datePublished": "2023-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks",
+            "url": "https://arxiv.org/abs/2306.14030",
+            "datePublished": "2023-06-24",
+            "publisher": {
+              "@type": "Organization",
+              "name": "arXiv"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Regional forms of Devanagari (Survey Report)",
+            "url": "https://www.typotheque.com/research/regional-forms-of-devanagari-survey-report",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Typotheque"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Unicode Standard 16.0, Chapter 12: South and Central Asia-I",
+            "url": "https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/",
+            "datePublished": "2024-09-10",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cabinet approves conferring status of Classical Language to Marathi, Pali, Prakrit, Assamese and Bengali languages",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+            "datePublished": "2024-10-03",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Press Information Bureau"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "8 Ganesh Chaturthi wishes in Marathi, with transliteration and meaning",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The standard formal wish",
+            "description": "गणेश चतुर्थीच्या हार्दिक शुभेच्छा — Ganesh Chaturthichya hardik shubhechha, \"heartfelt good wishes on Ganesh Chaturthi\". Safe for a boss, a teacher or a grandparent."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The chant, as a sign-off",
+            "description": "गणपती बाप्पा मोरया, मंगलमूर्ती मोरया — a call-and-response cheer, best as the last line of a longer wish rather than the whole message."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A blessing for the house",
+            "description": "बाप्पाच्या आगमनाने तुमच्या घरात सुख, समृद्धी आणि शांती नांदो — \"may happiness, prosperity and peace dwell in your home\". For a family that installs a murti."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "For someone having a hard year",
+            "description": "विघ्नहर्ता गणराया तुमच्या सर्व अडचणी दूर करो — \"may the remover of obstacles take all your difficulties away\"."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "The modak line",
+            "description": "मोदकाचा गोडवा आणि बाप्पाचा आशीर्वाद, दोन्ही तुमच्या पदरी पडो — uses पदरी पडणे, a Marathi idiom with no clean Hindi equivalent."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Ten days, and the eleventh",
+            "description": "दहा दिवस घर भरून राहो, अकराव्या दिवशी डोळे भरून येवो — names the real shape of the festival, 14 to 25 September in 2026."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "An informal one, addressed to Bappa",
+            "description": "तू आमच्या घरचा, तू आमच्या मनाचा — बाप्पा, यंदाही लवकर ये. The informal तू is normal to a deity and rude to a person; use it as a caption."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "What you shout at visarjan",
+            "description": "गणपती बाप्पा मोरया, पुढच्या वर्षी लवकर या — \"come early next year\". Belongs on 25 September 2026, not on day one."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "happy ganesh chaturthi wishes in marathi",
+    "angle": "Wins by being the only post that gives real Marathi Ganesh wishes in Devanagari with Roman transliteration and a literal English gloss, settles the Devanagari-vs-Roman question with the 5M/5M split in L3Cube's Marathi corpus and the Unicode Marathi allographs, and prices the delivery format against SubhSandesh's platform-wide 49.6% mobile-open rate.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi",
+      "/templates"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,667 of 45,656 views) — measured 2026-09-08",
+      "96.1% of started pages are actually published and shared (3,708 of 3,860) — measured 2026-09-08",
+      "42.1% of creators password-protect their page before sharing it (1,625 of 3,860) — measured 2026-09-08",
+      "3,860 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-08",
+      "#1 page type: \"I love you\" page (/love-gf) — 1,065 created, 27.6% of all pages — measured 2026-09-08",
+      "#2 page type: digital bouquet (/bouquet-gf) — 954 created, 24.7% of all pages — measured 2026-09-08",
+      "#3 page type: apology dashboard (/apology-dashboard) — 904 created, 23.4% of all pages — measured 2026-09-08",
+      "#4 page type: Darling romantic page (/darling) — 385 created, 10.0% of all pages — measured 2026-09-08",
+      "#5 page type: birthday page for a partner (/birthday-gf) — 257 created, 6.7% of all pages — measured 2026-09-08",
+      "Median gap between a page's first save and its last edit: 6.8 hours — sampled on \"I love you\" page (/love-gf), n=1,065 — measured 2026-09-08"
+    ],
+    "sources": [
+      {
+        "url": "https://aclanthology.org/2023.findings-emnlp.4/",
+        "stat": "Names \"the widespread use of romanized inputs\" as why transliteration matters in the Indian language context; releases 26 million transliteration pairs across 21 Indic languages and 12 scripts, plus a 103k word-pair test set.",
+        "publishedDate": "2023-12"
+      },
+      {
+        "url": "https://arxiv.org/abs/2306.14030",
+        "stat": "L3Cube-MeCorpus is a 10-million-sentence Marathi social-media corpus split 5 million Roman-script code-mixed Marathi-English and 5 million Devanagari; of the Roman half, 1,037,659 tweets and 2,277,108 YouTube comments were collected natively and 1,685,233 were machine-transliterated (Table 1).",
+        "publishedDate": "2023-06-24"
+      },
+      {
+        "url": "https://www.typotheque.com/research/regional-forms-of-devanagari-survey-report",
+        "stat": "387 analysed responses across India and Nepal; 35.8% of respondents whose mother tongue is Marathi prefer Form 2 of the letter LA, against 2.4% of respondents who learned Hindi first."
+      },
+      {
+        "url": "https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/",
+        "stat": "Table 12-8 lists Marathi allographs for U+091D JHA, U+0932 LA, U+0936 SHA and the digits five, eight and nine; rule R5 records that the eyelash form of RA is commonly used in writing Marathi and Newari.",
+        "publishedDate": "2024-09-10"
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+        "stat": "The Union Cabinet approved conferring Classical Language status on Marathi, Pali, Prakrit, Assamese and Bengali; release posted 3 October 2024.",
+        "publishedDate": "2024-10-03"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The exact keyword \"happy ganesh chaturthi wishes in marathi\" is in the H1, the metaTitle and the first sentence, but not in the slug: the batch brief fixes the slug as ganesh-chaturthi-wishes-in-marathi, which drops \"happy\". Structural — the slug is assigned, not chosen here, and renaming it would break the brief's slug allocation."
+        }
+      ],
+      "honestAssessment": "Every result currently ranking for this keyword is a Marathi quote farm that dumps Devanagari with no transliteration, no gloss, no date and no sourcing; this is the only page that pairs each wish with a Roman transliteration and a literal English meaning, tells the reader which script to send in using the 5M-Roman/5M-Devanagari split in L3Cube's Marathi corpus, and points out that वक्रतुंड महाकाय is Sanskrit rather than Marathi. The domain is far weaker than nothing here — the incumbents have almost no authority either — but they have topical age and thousands of indexed quote pages, so an answer engine is a likelier early win than the blue links."
+    },
+    "generatedAt": "2026-09-08T20:50:06.888Z"
+  }
+}
