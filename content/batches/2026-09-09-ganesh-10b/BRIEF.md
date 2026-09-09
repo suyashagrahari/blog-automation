@@ -137,3 +137,42 @@ Two exceptions and one hard ban:
 Indian audience, rupees, real Indian dates and norms. Specific over hedged. State opinions.
 No "in today's fast-paced world", no rhetorical-question transitions, no tricolon padding.
 The fix for thin writing is more facts, not more personality.
+
+---
+
+## Wave 3 — five more clusters (added 2026-09-09)
+
+Appended after the spend-limit interruption. Same rules as above: one cluster =
+one page across ALL THREE waves, so read the finished posts in
+`content/batches/2026-09-09-ganesh-10/blogs/` and `../2026-09-09-ganesh-10b/blogs/`
+before drafting and stay off their keywords.
+
+| # | Slug | Primary keyword | Folds in | Research field (yours alone) |
+|---|---|---|---|---|
+| 11 | `ganesh-chaturthi-2027` | ganesh chaturthi 2027 | ganesh chaturthi 2027 date · ganpati 2027 visarjan date · ganesh chaturthi for next 5 years | calendrical projection — how lunisolar dates are computed forward. **Do not re-use the Dershowitz & Reingold / Kielhorn / Calendar Reform Committee sources**; `ganesh-chaturthi-2026-date` in batch 1 already spent them |
+| 12 | `ganesh-chaturthi-katha-and-story` | ganesh chaturthi story | why ganesha has an elephant head · vinayaka vratha katha · ganesh chaturthi katha | mythology and folklore studies — Puranic variants of the birth narrative. **Distinct from `ganesh-chaturthi-essay`**, which owns Tilak and the 1893 public festival. You own the myth, not the history |
+| 13 | `ganesh-chaturthi-captions-for-instagram` | ganesh chaturthi captions for instagram | ganesh chaturthi instagram caption · ganpati reel caption | social media studies — caption practice and engagement. **Distinct from batch 1's `happy-ganesh-chaturthi-status`** (24-hour ephemeral broadcast) and `happy-ganesh-chaturthi-wishes` (a wish sent to a person). A caption is public, permanent and performs to an audience — say so |
+| 14 | `ganesh-chaturthi-wishes-for-business` | ganesh chaturthi wishes for clients | corporate ganesh chaturthi message · ganesh chaturthi wishes for employees | organisational communication — festival greetings at work, professional register. Genuinely uncontested; the farms write only personal wishes |
+| 15 | `ganpati-wallpaper-hd-4k` | ganpati wallpaper hd | ganpati 4k hd wallpaper · ganesh chaturthi dp · ganpati bappa wallpaper | display technology and visual perception — resolution, aspect ratio, compression. **Scope tightly to DEVICE wallpaper and profile pictures.** Batch 1's `ganesh-chaturthi-images` owns shareable greeting images, banners and posters — a wallpaper is for your own screen, a greeting image is sent to someone else. If you cannot hold that line the cluster should be dropped, and you should say so rather than write a duplicate |
+
+**Post 15 carries the highest collision risk in the batch.** Check
+`ganesh-chaturthi-images.json`'s `article.keywords` first, and if the SERPs turn out
+to be the same set of URLs, report that and do not write the post.
+
+**Post 11 is the highest strategic value.** Ganesh Chaturthi 2026 is five days away
+and this domain has no Ganesh authority, so 2027 is the cycle these pages can
+realistically win. Published now, it has twelve months to mature. Say plainly in
+`honestAssessment` that this is a next-cycle asset.
+
+---
+
+## Correction — Pitru Paksha, not Navratri (2026-09-09)
+
+An earlier instruction claimed Gujarat's Ganesh observance "runs straight into
+Navratri". **That is wrong for 2026 and was corrected by the Gujarati agent against
+Drik Panchang (Ahmedabad):** visarjan 25 Sep → **Pitru Paksha 26 Sep – 10 Oct** →
+Garba only in the second week of October. Pitru Paksha sits between them, and it is
+a mourning fortnight, which is close to the opposite of festival continuity.
+
+Do not repeat the Navratri framing. If your post needs what follows Ganeshotsav,
+it is Pitru Paksha — and verify the dates yourself.

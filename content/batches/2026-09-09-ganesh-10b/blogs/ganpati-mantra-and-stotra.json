@@ -1,0 +1,351 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganpati Mantra, Shloka and Stotra: What the Sanskrit Says",
+    "slug": "ganpati-mantra-and-stotra",
+    "excerpt": "Three texts get called a ganpati mantra: the bija Om Gam Ganapataye Namaha, the dhyana shloka Vakratunda Mahakaya, and the 14-section Ganesh Atharvashirsha, dated by its 2016 scholarly edition to the end of the 16th century CE. Devanagari, IAST and a gloss for each, attributions checked.",
+    "metaTitle": "Ganpati Mantra in Sanskrit — Checked Against the Texts",
+    "metaDescription": "Ganpati mantra in Sanskrit: Om Gam Ganapataye Namaha, Vakratunda Mahakaya and a 14-section Upanishad, with Devanagari, IAST and where each one is traceable.",
+    "keywords": "ganpati mantra, ganpati mantra in sanskrit, vakratunda mahakaya, ganesh atharvashirsha, ganesh stotra, om gam ganapataye namaha, ganapati upanishad",
+    "canonicalURL": "https://subhsandesh.in/blog/ganpati-mantra-and-stotra",
+    "ogType": "article",
+    "tags": [
+      "ganesh chaturthi",
+      "sanskrit",
+      "mantra",
+      "indian festivals",
+      "ganesha"
+    ],
+    "keyTakeaways": [
+      "Vakratunda Mahakaya is not in the Rigveda: vakratuṇḍa, mahākāya and sūryakoṭi each occur zero times in the Aufrecht e-text of the Rigveda Samhita, searched 9 September 2026.",
+      "The Ganesh Atharvashirsha is placed at the end of the 16th century CE by its 2016 scholarly edition, which also notes the text is not in the Muktika canon of 108 Upanishads.",
+      "The bija gaṃ is assembled letter by letter inside the Atharvashirsha's own seventh section — g, then a, then m, then the point above the line.",
+      "Only 13 of the more than 1,000 Vedic recitation branches survive, per UNESCO's 2008 inscription, which is why transliteration cannot stand in for a teacher.",
+      "49.6% of shared SubhSandesh pages open on a phone (22,667 of 45,656 views, platform-wide across all 15 page types), so nine syllables travel better than fourteen sections."
+    ],
+    "faqs": [
+      {
+        "question": "How many times am I supposed to chant Om Gam Ganapataye Namaha?",
+        "answer": "No source I checked fixes a number for this mantra specifically. The Ganapati Atharvashirsha's own closing sections say that someone who recites that Upanishad a thousand times obtains his desires, and 108 is a widespread practice count, but I found no textual instruction behind the 108 in any of the sources cited here."
+      },
+      {
+        "question": "Can I recite a ganpati mantra from Roman letters instead of Devanagari?",
+        "answer": "You can, and most people do. IAST is precise about which letter is which, but it records nothing about pitch accent, held vowel length or where the breath falls, which is the part UNESCO describes as being taught from childhood in the surviving recitation branches."
+      },
+      {
+        "question": "Which text is the Ganesh Gayatri from?",
+        "answer": "It is section 8 of the Ganapati Atharvashirsha: ekadantāya vidmahe, vakratuṇḍāya dhīmahi, tan no dantī pracodayāt — 'we know the one-tusked, we contemplate the curved-trunk one, may the one-tusked impel that'. The same gayatri construction on the word vakratuṇḍa also appears in the Naradapurana at 1,68.64."
+      },
+      {
+        "question": "Is the Ganapati Upanishad the same thing as the Ganesh Atharvashirsha?",
+        "answer": "Yes — Ganapati Upanishad, Ganapati Atharvashirsha, Ganapatyatharvashirsha and, in Maharashtra, just 'Atharvashirsha' all name the same fourteen-section text. The 2016 Estudios de Asia y África edition points out that it is not in the Muktika list of 108 Upanishads, so the common claim that it is 'the 89th Upanishad' does not hold up."
+      },
+      {
+        "question": "Where does the Sankatanashana Ganesh stotra come from?",
+        "answer": "It is usually attributed to the Naradapurana, and I could not confirm that. Searching GRETIL's Naradapurana e-text on 9 September 2026 returned no occurrence of gaurīputra, the stotra's second word, so either it sits in a recension that e-text does not carry or the attribution is inherited rather than checked."
+      },
+      {
+        "question": "When did Ganesha worship become a distinct sect?",
+        "answer": "The 2016 Estudios de Asia y África study reports Bailey's tracing of the Ganapatya sect to a twelfth-century South Indian inscription, and notes that worship became very popular from the second half of the sixteenth century, especially in Maharashtra. The large public festivals came much later, at the end of the nineteenth century."
+      },
+      {
+        "question": "Does reciting a ganpati mantra remove obstacles or bring success?",
+        "answer": "The Atharvashirsha says so about itself, in the closing sections called the phalashruti, and a phalashruti is a genre convention that ends most Sanskrit stotras. This page reports what the text claims and makes no claim of its own: none of the research cited here tests whether recitation does anything."
+      },
+      {
+        "question": "What does IAST mean, and why is it on this page?",
+        "answer": "IAST is the International Alphabet of Sanskrit Transliteration, the standard one-to-one romanisation with diacritics — ṇ, ū, ṃ and so on. It is here because it tells you exactly which Devanagari letter is meant, which a loose spelling like 'vakratunda' cannot."
+      },
+      {
+        "question": "Is it a problem if I pronounce the Sanskrit wrongly?",
+        "answer": "For a mantra the sound is the point, so pronunciation matters more than it would for prose, which is why these texts are transmitted and corrected by ear rather than read. Nothing in the sources here says a mispronounced recitation causes harm, and nothing says it works either."
+      },
+      {
+        "question": "When exactly should I recite on Ganesh Chaturthi 2026?",
+        "answer": "Ganesh Chaturthi falls on Monday 14 September 2026, and the Madhyahna Ganesha Puja Muhurat runs 11:16 AM to 1:44 PM in Pune, a window of 2 hours 27 minutes. That window shifts by city, and visarjan is Friday 25 September 2026."
+      },
+      {
+        "question": "Why does every website give a slightly different English meaning for the same shloka?",
+        "answer": "Because a gloss is a translation choice, not a fact — sūryakoṭi can be 'ten million suns' or 'a crore of suns', and nirvighnaṃ kuru can be 'make free of obstacles' or 'remove obstruction'. The glosses on this page are written here rather than copied, because a modern scholar's translation is that scholar's work even when the Sanskrit is ancient."
+      }
+    ],
+    "coverImageQuery": "sanskrit devanagari manuscript ganesha oil lamp",
+    "coverImagePrompt": "A close, photorealistic still life of an open Sanskrit manuscript in Devanagari script on a dark wooden surface, lit warmly from one side by a small brass oil lamp. A small clay Ganesha idol sits slightly out of focus behind the page, with durva grass beside it. Shallow depth of field, deep shadows, clean negative space across the top third for a title overlay, 16:9. No legible words other than a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganpati Mantra, Shloka and Stotra: What the Sanskrit Says\n\n\"Ganpati mantra\" is three different kinds of text wearing one label: the bija mantra **ॐ गं गणपतये नमः** (*oṃ gaṃ gaṇapataye namaḥ*), the dhyana shloka **वक्रतुण्ड महाकाय** (*vakratuṇḍa mahākāya*), and the Ganesh Atharvashirsha, a fourteen-section Upanishad that scholars date to the end of the sixteenth century CE.\n\nTwo numbers on the sending side, both platform-wide across all 15 SubhSandesh page types and not Ganesh-specific: 49.6% of shared pages are opened on a phone (22,667 of 45,656 views), and 96.1% of started pages are actually published and shared (3,708 of 3,860), both measured 2026-09-08. Ganesh Chaturthi 2026 falls on Monday 14 September, visarjan on Friday 25 September.\n\nEach text below appears in Devanagari, in IAST transliteration and in a plain gloss, with what can and cannot be traced about its source.\n\n## What a ganpati mantra is, and how a mantra, a shloka and a stotra differ\n\nA mantra is a fixed sonic formula, valued for the exactness of its sound rather than its sentence. That is why it is transmitted and corrected by ear, and why altering a vowel length is a different order of error from paraphrasing.\n\nA shloka is a verse in a metre, most often anushtubh: four feet of eight syllables. A stotra is a hymn of praise — a run of such verses addressed to one deity, recited end to end, usually closing with a statement of what the recitation yields.\n\nThe categories overlap, which is why searching for a ganpati mantra returns all three: the Ganesh Atharvashirsha is called an Upanishad, carries a bija in its seventh section and a gayatri in its eighth, and closes like a stotra.\n\nAll three are learned as sound before meaning. UNESCO's listing of the Tradition of Vedic chanting, inscribed in 2008 after a 2003 proclamation, describes training from childhood in techniques \"based on tonal accents, a unique manner of pronouncing each letter and specific speech combinations\", and records that only thirteen of the more than one thousand Vedic recitation branches have survived, four of them under imminent threat.\n\n## Om Gam Ganapataye Namaha, and what a bija actually is\n\n**ॐ गं गणपतये नमः**\n*oṃ gaṃ gaṇapataye namaḥ*\n\"Om; gam; to the lord of the ganas, salutation.\" Nine syllables, and by far the shortest of the three.\n\n*Gaṃ* is the bija, the seed. A bija is not an abbreviation of a longer name and it does not translate: it is a single syllable treated as the deity's sonic form, and it is the part of the formula with no dictionary meaning at all.\n\nThe Atharvashirsha does not leave that to interpretation. Its seventh section spells the syllable out: the letter *g* is your first form, *a* your middle form, *m* your last, and the point above the line your supreme form, with sound as the link and combination as the joining. In Devanagari, ग + अ + ं = गं.\n\nThe same section declares the three things a Sanskrit recitation is expected to name before it begins: the seer is Ganaka, the metre a defective gayatri, the deity Mahaganapati. That triple is a textual habit rather than a flourish, and part of why the text reads as deliberately Vedic.\n\n## Vakratunda Mahakaya is a dhyana shloka, and it is not in the Rigveda\n\n**वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।**\n**निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥**\n\n*vakratuṇḍa mahākāya sūryakoṭi samaprabha | nirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||*\n\n\"Curved-trunk one, great-bodied one, bright as ten million suns: make my undertakings free of obstruction, god, in all works, always.\"\n\nThirty-two syllables in four feet of eight — an anushtubh. It is a dhyana shloka, a verse used to fix the deity's image in mind before starting something, which is why it opens weddings, exam papers and school assemblies rather than a liturgy.\n\nAttribution is where the internet stops being useful. Page one of results for this verse offers the Rigveda, the Ganesha Purana, the Mudgala Purana and \"the Ganesha Upanishad\" — four homes, none with a chapter number, none with a citation.\n\nOne of the four is cheap to check, so I checked it. The Rigveda Samhita in Aufrecht's edition, a 2.6 MB e-text hosted by GRETIL at Göttingen State and University Library, contains *vakratuṇḍa* zero times, *mahākāya* zero times and *sūryakoṭi* zero times, searched 9 September 2026.\n\nWhat it does contain is *gaṇapati*, twice. At 2.23.1 — गणानां त्वा गणपतिं हवामहे — the vocative two lines on is *brahmaṇas pate*, so the hymn is addressed to Brahmanaspati; the other occurrence, 10.112.8, sits in a hymn to Indra.\n\nThe 2016 scholarly edition of the Atharvashirsha in *Estudios de Asia y África* agrees: the oldest Sanskrit occurrence of *gaṇapati* is an epithet of Brihaspati or Brahmanaspati, and is not evidence that an elephant-headed deity was known in the early Vedic period.\n\nThe line that sounds most like a fingerprint is the least distinctive one. In GRETIL's Naradapurana e-text *sūryakoṭisamaprabham* occurs four times and never of Ganesha: twice of Hanuman at 1,74.123 and 1,74.145, once of a jewel at 2,16.46, and once, as *sūryakoṭipratīkāśe*, of a celestial vehicle at 2,41.61.\n\nThat is ordinary for this literature rather than damning. George Dunkel's 2021 study of Rigvedic oral style in *Oral Tradition* reports Bloomfield's count that about one-fifth of Rigvedic verses are repetitions, rising to nearly a third once variants in the other Vedas are counted. Stock half-lines are how oral composition works.\n\nI could not find the couplet in GRETIL's Brahmanda Purana, its Naradapurana or the first thirty-one chapters of its Skanda Purana either. That is not an exhaustive search and does not prove the verse has no Puranic home — it means nobody quoting a chapter number at you has shown their working, and neither, honestly, can I.\n\n## Ganesh Atharvashirsha: a late Upanishad, not a Vedic one\n\nThe Ganapati Atharvashirsha — also the Ganapati Upanishad, and in Maharashtra just the Atharvashirsha — runs to fourteen numbered sections, with benedictory verses at either end taken from Rigveda 1.89.6 and 1.89.8.\n\nThe title means \"head of Atharvan\", and the link to the Atharvaveda is a claim the title makes, not a lineage anyone has demonstrated. The 2016 translation and study by Hernández Quiroz, Cañas Moreno and Fernández Meza places the composition in Ganapatya circles at the end of the sixteenth century CE, alongside the Ganesha and Mudgala Puranas.\n\nTwo details from that edition that no devotional page carries. The text is **not** in the Muktika canon of 108 Upanishads, which holes the repeated claim that it is the 89th. And the authors argue against their own dating: it preserves the three Vedic accents and postpositional forms that classical Sanskrit had dropped, so it may be older, or a pastiche of layers.\n\nSections 11 to 14 are the phalashruti, the closing passage where a text states what its own recitation yields: the reciter is freed from obstruction, evening recitation destroys evil, a thousand recitations obtain one's desires, an offering of durva grass makes one a Vaishravana.\n\nThose are the text's claims about itself, and a phalashruti closes most Sanskrit stotras as a matter of genre. This page records what the passage says and stops there: it is not evidence for a claim about health, money or exam results.\n\n## The four texts, compared\n\nFour things get called a ganpati mantra, and they differ in length, form and how far back they can be traced.\n\n| Text | Form | Length | What I could verify about its source |\n|---|---|---|---|\n| ॐ गं गणपतये नमः (*oṃ gaṃ gaṇapataye namaḥ*) | Bija mantra | 9 syllables | Assembled letter by letter in Atharvashirsha section 7 |\n| वक्रतुण्ड महाकाय (*vakratuṇḍa mahākāya*) | Dhyana shloka, anushtubh | 32 syllables, four feet of eight | Zero occurrences in the Rigveda e-text; no locus I could confirm |\n| एकदन्ताय विद्महे (*ekadantāya vidmahe*) | Gayatri-form mantra | Three feet | Atharvashirsha section 8; the same construction at Naradapurana 1,68.64 |\n| Ganapati Atharvashirsha | Upanishad | 14 sections plus benedictory verses | Late sixteenth century, Ganapatya circles (Estudios de Asia y África, 2016) |\n\nThe practical consequence is length. The first three fit on one phone screen with Devanagari, transliteration and a gloss; the Atharvashirsha does not, and 49.6% of shared SubhSandesh pages are opened on a phone — platform-wide across all 15 page types, 22,667 of 45,656 views.\n\nSo if you want the short text in front of relatives who cannot reach your mandap on 14 September, send the nine syllables, not the Upanishad. A [Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) holds the offering, your photo and a prarthana field they write back into — a better fit for one mantra than for fourteen sections.\n\n## What recitation does not promise, and where a page is the wrong tool\n\nTransliteration cannot carry recitation, which is worth saying on a page full of transliteration. IAST records letters, not pitch accent, not the vowel length a trained reciter holds, not where the breath falls — exactly the material UNESCO describes as taught from childhood, and exactly what is lost when a branch dies.\n\nSo a web page is the wrong tool for learning to say any of this. Find someone who recites and let them correct you; the Atharvashirsha's eleventh section says the text should not be handed to anyone who is not a disciple.\n\nA page is also the wrong tool for the day itself. It cannot hand anyone a modak, it cannot put your cousin in the room for the Madhyahna muhurat — 11:16 AM to 1:44 PM in Pune on Monday 14 September 2026 — and it will not make anyone's business or exam go better.\n\nWhere it is the right tool is narrow: someone is far away and you want them to have the words and a way to answer. Otherwise, [browse the full SubhSandesh template library](https://subhsandesh.in/templates) or send nothing — 42.1% of creators password-protect a page before sharing it (1,625 of 3,860, platform-wide across all 15 page types), which says these pages are mostly meant for one person, not a broadcast.\n\n## Sources\n\n- Anselmo Hernández Quiroz, María Carolina Cañas Moreno and Julio María Fernández Meza, [\"Gaṇapatyatharvaśīrṣopaniṣat. La upaniṣad 'Cabeza de Atharvan' dedicada a Gaṇapati\"](https://www.redalyc.org/journal/586/58647014006/html/), *Estudios de Asia y África* LI(2), El Colegio de México, 2016.\n- George E. Dunkel, [\"The Oral Style of the R̥gveda\"](https://journal.oraltradition.org/the-oral-style-of-the-r%CC%A5gveda/), *Oral Tradition* 35/1, 2021, 3–36.\n- [Ṛgveda-Saṃhitā, Aufrecht edition](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_Rgveda-edAufrecht.htm), GRETIL, Göttingen State and University Library, searched 9 September 2026.\n- [Nāradapurāṇa e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_nAradapurANa.htm), GRETIL, Göttingen State and University Library, searched 9 September 2026.\n- UNESCO, [\"Tradition of Vedic chanting\"](https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062), Representative List of the Intangible Cultural Heritage of Humanity, inscribed 2008 (proclaimed 2003).\n- Drik Panchang, [Ganesh Chaturthi 2026 date and puja time for Pune](https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1259229&year=2026) (retrieved 9 September 2026).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganpati-mantra-and-stotra#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Mantra",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mantra",
+              "https://www.wikidata.org/wiki/Q131510"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Ganesha",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesha",
+              "https://www.wikidata.org/wiki/Q1579"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "CreativeWork",
+            "name": "Ganapati Atharvaśīrṣa",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganapati_Atharva%C5%9B%C4%ABr%E1%B9%A3a",
+              "https://www.wikidata.org/wiki/Q4133165"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Rigveda",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Rigveda",
+              "https://www.wikidata.org/wiki/Q727413"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Stotra",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Stotra",
+              "https://www.wikidata.org/wiki/Q1973860"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bīja",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/B%C4%ABja",
+              "https://www.wikidata.org/wiki/Q2416043"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Vedic chant",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Vedic_chant",
+              "https://www.wikidata.org/wiki/Q48723594"
+            ]
+          },
+          {
+            "@type": "Event",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Gaṇapatyatharvaśīrṣopaniṣat. La upaniṣad “Cabeza de Atharvan” dedicada a Gaṇapati",
+            "url": "https://www.redalyc.org/journal/586/58647014006/html/",
+            "datePublished": "2016",
+            "publisher": {
+              "@type": "Organization",
+              "name": "El Colegio de México — Estudios de Asia y África"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The Oral Style of the R̥gveda",
+            "url": "https://journal.oraltradition.org/the-oral-style-of-the-r%CC%A5gveda/",
+            "datePublished": "2021",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Oral Tradition, Harvard University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ṛgveda-Saṃhitā, Aufrecht edition (GRETIL e-text)",
+            "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_Rgveda-edAufrecht.htm",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Göttingen State and University Library"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Nāradapurāṇa (GRETIL e-text)",
+            "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_nAradapurANa.htm",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Göttingen State and University Library"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tradition of Vedic chanting",
+            "url": "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062",
+            "publisher": {
+              "@type": "Organization",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ganesh Chaturthi 2026 date and puja time for Pune",
+            "url": "https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1259229&year=2026",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Drik Panchang"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The four texts called a ganpati mantra",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Oṃ gaṃ gaṇapataye namaḥ",
+            "description": "Bija mantra, 9 syllables. Assembled letter by letter in section 7 of the Ganapati Atharvashirsha."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Vakratuṇḍa mahākāya",
+            "description": "Dhyana shloka in anushtubh metre, 32 syllables in four feet of eight. Zero occurrences in the Rigveda e-text; no locus confirmed."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ekadantāya vidmahe",
+            "description": "Gayatri-form mantra, three feet. Section 8 of the Ganapati Atharvashirsha; the same construction at Naradapurana 1,68.64."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Gaṇapati Atharvaśīrṣa",
+            "description": "Upanishad in 14 sections plus benedictory verses. Placed in late sixteenth-century Ganapatya circles by its 2016 scholarly edition."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganpati mantra",
+    "angle": "Wins by being the only post that checks each attribution against a primary e-text and says which one fails — vakratuṇḍa, mahākāya and sūryakoṭi occur zero times in GRETIL's Rigveda Samhita — instead of repeating an unsourced Purana name.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi",
+      "/templates"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,667 of 45,656 views) — measured 2026-09-08",
+      "96.1% of started pages are actually published and shared (3,708 of 3,860) — measured 2026-09-08",
+      "42.1% of creators password-protect their page before sharing it (1,625 of 3,860) — measured 2026-09-08",
+      "3,860 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-08"
+    ],
+    "sources": [
+      {
+        "url": "https://www.redalyc.org/journal/586/58647014006/html/",
+        "stat": "Places the composition of the Ganapati Atharvashirsha in Ganapatya intellectual circles at the end of the 16th century CE; states the text is not included in the Muktika canon of 108 Upanishads; notes it preserves the three Vedic accents and postpositional forms, so it may be older or a pastiche; reproduces the fourteen sections, including section 7's letter-by-letter construction of the bija gam (g + a + m + bindu) and its viniyoga (seer Ganaka, metre a defective gayatri, deity Mahaganapati); and states that the oldest Sanskrit occurrence of the word ganapati is in the Rigveda as an epithet of Brihaspati/Brahmanaspati. Read in full via the Redalyc mirror; the publisher's own domain returns HTTP 403 behind a Cloudflare challenge.",
+        "publishedDate": "2016"
+      },
+      {
+        "url": "https://journal.oraltradition.org/the-oral-style-of-the-r%CC%A5gveda/",
+        "stat": "Reports Bloomfield's count (Rig-Vedic Repetitions, 1916:4) that about one-fifth of Rigvedic verses can be considered repetitions, rising to 'not far from a third' once variants in the other Vedas are counted (Bloomfield and Edgerton 1930:11); also that Aufrecht's 1877 second volume collects about three thousand repeated verses and phrases, and that only one-sixth of the formulas catalogued are completely fixed.",
+        "publishedDate": "2021"
+      },
+      {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_Rgveda-edAufrecht.htm",
+        "stat": "Rigveda-Samhita, Aufrecht edition, 2.6 MB e-text. Searched 2026-09-09: 'vakratu' 0 occurrences, 'mahakaya' 0, 'suryakoti' 0. 'ganapat' 2 occurrences — RV 2.23.1 (ganānāṃ tvā gaṇapatiṃ havāmahe ... brahmaṇas pata ā naḥ śṛṇvann ūtibhiḥ sīda sādanam, vocative brahmaṇas pate) and RV 10.112.8 (ni ṣu sīda gaṇapate gaṇeṣu). No publication date is published for the e-text."
+      },
+      {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_nAradapurANa.htm",
+        "stat": "Naradapurana e-text, 3.4 MB. Searched 2026-09-09: 'suryakoti' 4 occurrences, none of Ganesha — suryakotisamaprabham of Hanuman at NarP 1,74.123 and 1,74.145, of a jewel at 2,16.46, and suryakotipratikase of a celestial vehicle at 2,41.61. The gayatri construction 'vakratundaya ... dhimahiti samirayet' occurs at NarP 1,68.64; 'vakratunda mahakaya' 0 occurrences. No publication date is published for the e-text."
+      },
+      {
+        "url": "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062",
+        "stat": "Tradition of Vedic chanting, inscribed 2008 on the Representative List of the Intangible Cultural Heritage of Humanity (originally proclaimed 2003), nomination file 00062, India. States that only thirteen of the over one thousand Vedic recitation branches have survived, with four schools — in Maharashtra, Kerala, Karnataka and Orissa — under imminent threat, and that practitioners are taught from childhood recitation techniques 'based on tonal accents, a unique manner of pronouncing each letter and specific speech combinations'. The page carries no publication date."
+      },
+      {
+        "url": "https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1259229&year=2026",
+        "stat": "[date/festival reference] Ganesh Chaturthi Monday 14 September 2026; Madhyahna Ganesha Puja Muhurat 11:16 AM to 01:44 PM for Pune (2 h 27 min); Chaturthi tithi 07:06 AM on 14 Sep to 07:44 AM on 15 Sep; Ganesha Visarjan Friday 25 September 2026. The Pune muhurat is stated in the body, so this entry belongs in sources and citation. No publication date is published."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The four rows are Sanskrit texts, and no number in content/facts.md varies by text — every SubhSandesh figure is platform-wide across 15 page types, and none is per-mantra. A first-party column here would have been an invented one. The 49.6% mobile-open figure (22,667 of 45,656 views, platform-wide) is stated in the sentence immediately after the table instead. Closes only if the /happy-ganesh-chaturthi template ships enough pages to produce a per-text or per-field number, which it has not: it has created zero pages."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Both internal links are verbatim entries in TEMPLATE_LINKS, but https://subhsandesh.in/happy-ganesh-chaturthi returned HTTP 404 when checked on 2026-09-09 (https://subhsandesh.in/templates returned 200). The anchor is correct and the link is the one the brief mandates; it is the deployment that is missing. Closes when the Ganesh Chaturthi template is live — re-check before publishing, because it is the primary CTA in all ten posts of this batch."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this over the five pages analysed because it is the only one that shows its working: the Rigveda check is reproducible (Aufrecht e-text at GRETIL, three search terms, zero hits each, 9 September 2026), the Atharvashirsha dating and the Muktika point come from a named 2016 peer-reviewed edition rather than from assertion, and the sūryakoṭi finding in the Naradapurana explains why the couplet's most quotable half-line proves nothing. Every competing page states an attribution and cites nobody. Two honest limits: I could not find where the Vakratunda couplet does live, only where it does not, and my corpus search covered four GRETIL texts rather than the whole tradition — the post says so rather than papering over it. Domain authority here is close to zero for Sanskrit queries, the incumbents include Drik Panchang and long-established devotional sites, and this post deliberately refuses the benefit language that most of the search demand is looking for, so expect it to be cited by answer engines sooner than it ranks. The primary CTA, /happy-ganesh-chaturthi, was still returning HTTP 404 on 2026-09-09 and must be live before this publishes."
+    },
+    "generatedAt": "2026-09-09T07:00:57.262Z"
+  }
+}
