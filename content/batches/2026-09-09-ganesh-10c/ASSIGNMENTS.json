@@ -1,0 +1,167 @@
+{
+  "batchId": "2026-09-09-ganesh-10c",
+  "market": "India (gl=in)",
+  "festival": { "ganeshChaturthi": "2026-09-14", "anantChaturdashi": "2026-09-25", "briefWritten": "2026-09-09", "daysOut": 5 },
+  "keywordSource": "content/keywords/2026-09-09-ganesh-chaturthi/build.mjs — const K, 50 rows",
+  "coverage": {
+    "note": "The 25 posts in 2026-09-09-ganesh-10 and -10b claim 19 of the 50 K rows outright, and fold 12 more in as secondaries. These 10 assignments take 28 of the 31 remaining rows.",
+    "unclaimedRowsNotAssigned": [
+      "happy ganesh chaturthi (head term, C02 — unwinnable for this domain and duplicates happy-ganesh-chaturthi-wishes)",
+      "happy ganesh chaturthi wishes in kannada / telugu / gujarati wishes / ganesh chaturthi quotes in marathi (C06 — all four are duplicates of language posts already live)",
+      "ganesh chaturthi quotes in hindi (C07 — already live as ganesh-chaturthi-quotes-in-hindi)"
+    ]
+  },
+  "serpHarvestStatus": {
+    "completed": ["happy ganesh chaturthi banner", "happy ganesh chaturthi poster"],
+    "blocked": "Google returned HTTP 429 after two queries. The remaining Phase 1 SERPs are each agent's own job, India-localised, per BRIEF.md §5.",
+    "verifiedFinding": "banner and poster share >=5 top-10 results (postermywall.com, magnific.com, pinterest.com, stock.adobe.com, canva.in) and the SERP contains zero informational pages. Folded into one assignment; highest format risk in the wave."
+  },
+  "rules": {
+    "cannibalisationGate": "Compare your top 10 to the named sibling's top 10 on (domain, title) identity. Exclude pinterest.com and youtube.com. 3+ shared ARTICLES = same keyword: STOP, do not write, report the merge.",
+    "categorySlug": "indian-festivals",
+    "deadInternalLink": "/happy-ganesh-chaturthi returns 404. Never link it, never put it in templateUrls.",
+    "wordBudget": "1500-1800 in contentMarkdown, FAQs excluded, including the ~51-word social block from BRIEF.md §4",
+    "checklistLength": 50,
+    "scratchFileNaming": "<slug>-<purpose>.md"
+  },
+  "assignments": [
+    {
+      "n": 1,
+      "slug": "ganesh-chaturthi-rangoli-designs",
+      "keyword": "ganesh chaturthi rangoli designs",
+      "kCluster": "C05",
+      "foldSecondaries": [],
+      "cannibalisationSibling": "ganesh-chaturthi-decoration-ideas",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "ethnomathematics and anthropology of kolam/rangoli — the geometric and algorithmic structure of threshold drawings, who draws them and when, daily vs festival practice",
+      "angleSeed": "Rangoli is not decor you buy, it is drawn on the morning of — which is exactly when the measured festival behaviour says people act. Tie the 49.4% on-the-day figure and the late-morning hour clustering to a design constraint no listicle states: how long each design actually takes on a real doorstep.",
+      "formatRisk": "HIGH — a spot check of this exact query returned in.pinterest.com twice plus video results. Verify whether any informational page ranks at all.",
+      "expectedGap": "Every competing page shows finished photographs. None state time-to-draw, floor area, or what survives being walked on."
+    },
+    {
+      "n": 2,
+      "slug": "ganesh-chaturthi-banner-and-poster",
+      "keyword": "happy ganesh chaturthi banner",
+      "kCluster": "C08",
+      "foldSecondaries": ["happy ganesh chaturthi poster"],
+      "cannibalisationSibling": "ganpati-wallpaper-hd-4k",
+      "siblingBatch": "2026-09-09-ganesh-10b",
+      "researchLane": "visual communication — legibility at viewing distance, signage typography, colour contrast for outdoor display",
+      "angleSeed": "The whole SERP is design tools (PosterMyWall, Canva, Adobe Stock) and none of them tell you the one thing that decides whether a mandap banner works: how large the text has to be to read from the street, versus a phone-screen image where the same file fails. Legibility research gives real numbers for this.",
+      "formatRisk": "VERY HIGH — verified: zero informational results in the top 10, and the intent is transactional. Record honestly whether a blog post can place here at all.",
+      "expectedGap": "Nobody separates the print banner from the shared image. They are different aspect ratios, different text sizes and different failure modes."
+    },
+    {
+      "n": 3,
+      "slug": "ganesh-chaturthi-songs-and-bhajans",
+      "keyword": "ganesh chaturthi songs",
+      "kCluster": "C09",
+      "foldSecondaries": [],
+      "cannibalisationSibling": "ganpati-aarti",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "ethnomusicology of Marathi devotional song — the bhajan and kirtan tradition, Ganeshotsav's public music, what is fixed liturgy versus regional repertoire",
+      "angleSeed": "The aarti is fixed; everything else is regional and generational, and the listicles blur the two into one playlist. Separate the liturgical fixed point (Sukhkarta Dukhharta) from film songs and from pandal loudspeaker repertoire, and say which is appropriate where.",
+      "formatRisk": "MEDIUM — expect YouTube, Spotify and Gaana to dominate. A text page can still win the 'what do I actually play, and when' question.",
+      "expectedGap": "No page maps song to moment: sthapana, daily aarti, visarjan procession. The ten-day structure is the organising principle nobody uses."
+    },
+    {
+      "n": 4,
+      "slug": "ganesh-chaturthi-greeting-card",
+      "keyword": "ganesh chaturthi greeting card",
+      "kCluster": "C13",
+      "foldSecondaries": ["happy ganesh chaturthi name style", "happy ganesh chaturthi photo editor online"],
+      "cannibalisationSibling": "ganesh-chaturthi-wishes-with-name",
+      "siblingBatch": "2026-09-09-ganesh-10b",
+      "researchLane": "history and sociology of the greeting card — mediated ritual, why a bought token carries obligation, what changed when cards went digital",
+      "angleSeed": "A card is a physical object with a delivery deadline; a page has neither, which is why 49.4% of measured festival senders could act on the day at all. Make the comparison the spine: what the card does that a page cannot, and where the page wins.",
+      "formatRisk": "MEDIUM — expect card-maker tools and template galleries.",
+      "expectedGap": "Nobody addresses the actual question behind the query: the sender left it late and needs something that still lands today."
+    },
+    {
+      "n": 5,
+      "slug": "ganesh-chaturthi-invitation-maker",
+      "keyword": "ganesh chaturthi invitation maker",
+      "kCluster": "C11",
+      "foldSecondaries": ["ganesh chaturthi card maker", "ganpati invite template", "ganpati template for invitation", "free ganesh chaturthi invitation maker", "ganesh chaturthi invitation card online"],
+      "cannibalisationSibling": "ganpati-invitation-card",
+      "siblingBatch": "2026-09-09-ganesh-10b",
+      "researchLane": "HCI on template-based authoring — how defaults shape output, abandonment and completion in form-driven creation tools",
+      "angleSeed": "This is the one keyword in the wave where the first-party data IS the subject: 96.0% of started pages get published, and the median build runs 5.4 hours from first save to last edit on festival pages. That is a completion-rate story about template tools, and HCI has literature on exactly it.",
+      "formatRisk": "MEDIUM-HIGH — tool intent; Canva and template galleries will hold the top slots.",
+      "expectedGap": "Every tool page shows the gallery. None state how long it takes, what you must have ready before you start, or what fraction of people finish.",
+      "cannibalisationNote": "This is the second post in the C11 cluster. The live sibling targets the noun ('invitation card'); this targets the tool ('maker'). If the SERPs share 3+ articles they are one keyword and the live post keeps it."
+    },
+    {
+      "n": 6,
+      "slug": "ganesh-chaturthi-whatsapp-stickers",
+      "keyword": "happy ganesh chaturthi stickers for whatsapp",
+      "kCluster": "C03",
+      "foldSecondaries": ["happy ganesh chaturthi video status download"],
+      "cannibalisationSibling": "happy-ganesh-chaturthi-status",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "computer-mediated communication — stickers and emoji as pragmatic markers, what a sticker conveys that text does not, sticker use in South Asian messaging",
+      "angleSeed": "A sticker is a reply, not a message — it closes a thread rather than opening one. That distinction explains why sticker packs and personalised pages serve opposite ends of the same conversation, and CMC research supports it.",
+      "formatRisk": "HIGH — a spot check returned play.google.com as the top result. App-store intent.",
+      "expectedGap": "Nobody explains the WhatsApp sticker format constraints (512x512 WebP, pack limits) or that a downloaded pack is not personalised.",
+      "warning": "'video status download' is folded in for coverage only. Do NOT write download instructions for third-party copyrighted video. Address the intent, not the piracy."
+    },
+    {
+      "n": 7,
+      "slug": "ganesh-chaturthi-good-morning-wishes",
+      "keyword": "happy ganesh chaturthi good morning wishes",
+      "kCluster": "C02",
+      "foldSecondaries": [],
+      "cannibalisationSibling": "happy-ganesh-chaturthi-wishes",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "the Indian 'good morning' forward as a studied phenomenon — digital greeting circulation, family WhatsApp groups, older-adult smartphone adoption and image forwarding",
+      "angleSeed": "This is the strongest lane in the wave: the good-morning forward is a genuinely documented Indian internet behaviour. The keyword is the intersection of a daily habit and a once-a-year festival, and the honest observation is that the daily habit is why the query exists at all.",
+      "formatRisk": "MEDIUM — image farms will rank, but the behavioural angle is defensible.",
+      "expectedGap": "Every page hands over images. None ask who actually sends these, to whom, and why the format is a forwarded image rather than typed text."
+    },
+    {
+      "n": 8,
+      "slug": "ganpati-bappa-photos",
+      "keyword": "ganpati bappa photos",
+      "kCluster": "C04",
+      "foldSecondaries": ["happy ganesh chaturthi images", "happy ganesh chaturthi images for whatsapp"],
+      "cannibalisationSibling": "ganesh-chaturthi-images",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "visual devotion and darshan — the circulation of religious images, what devotees do with a picture, reproduction and the sacred image in South Asia",
+      "angleSeed": "'Photos' and 'images' look like the same query and may well be one. If they survive the gate, the split is that 'bappa' is the Marathi devotional register — the affectionate name — so the query leans devotional-personal rather than generic-download.",
+      "formatRisk": "HIGH — image-pack intent.",
+      "cannibalisationRisk": "HIGHEST IN THE WAVE. The live sibling targets 'ganesh chaturthi images' and this folds in 'happy ganesh chaturthi images'. Run the gate first and expect it to fail. If it fails, report and stop — that is the correct outcome, not a defeat."
+    },
+    {
+      "n": 9,
+      "slug": "ganpati-decoration-ideas-at-home",
+      "keyword": "ganpati decoration ideas at home",
+      "kCluster": "C05",
+      "foldSecondaries": ["ganpati decoration ideas"],
+      "cannibalisationSibling": "ganesh-chaturthi-decoration-ideas",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "domestic ritual space — the home shrine, how households improvise sacred space in small dwellings, spatial constraint and devotion",
+      "angleSeed": "The live sibling covers decoration generally. The 'at home' qualifier is a spatial constraint: a rented flat, a shared wall, no storage after visarjan. Treat floor area and reversibility as the design brief, which the pandal-scale listicles never do.",
+      "formatRisk": "MEDIUM-HIGH — Pinterest and video.",
+      "cannibalisationRisk": "HIGH. Second post in the C05 cluster alongside assignment 1. All three of you must check against each other's SERPs too, not just the live sibling."
+    },
+    {
+      "n": 10,
+      "slug": "ganesh-chaturthi-quotes",
+      "keyword": "ganesh chaturthi quotes",
+      "kCluster": "C02",
+      "foldSecondaries": ["ganesh chaturthi wishes", "ganesh chaturthi quotes for instagram"],
+      "cannibalisationSibling": "happy-ganesh-chaturthi-wishes",
+      "secondSibling": "ganesh-chaturthi-captions-for-instagram",
+      "siblingBatch": "2026-09-09-ganesh-10",
+      "researchLane": "quotation and aphorism circulation — why short attributed text spreads, misattribution, the social function of quoting",
+      "angleSeed": "Quotes differ from wishes in one way that matters: a quote is attributed, and most festival quotes circulating online are misattributed or invented. Verifying attribution is the gap, and it is a real scholarly subject.",
+      "formatRisk": "MEDIUM.",
+      "cannibalisationRisk": "HIGH, and against TWO live posts. Check both siblings. This assignment is also the widest fold (3 K rows), so if it survives it earns its place."
+    }
+  ],
+  "reserves": {
+    "note": "If an assignment aborts on the cannibalisation gate, these are the substitutes. The in-list reserves are weak — every remaining K row is either a head term or a duplicate of a live language post — so the off-list reserves are genuinely distinct Ganesh sub-topics with informational intent. Substituting off-list needs a one-line sign-off.",
+    "inList": ["ganesh chaturthi quotes in marathi", "happy ganesh chaturthi wishes in telugu"],
+    "offList": ["ganesh chaturthi modak recipe", "eco friendly ganesh idol at home", "ganpati sthapana vidhi and timing", "ganesh chaturthi prasad and bhog list", "ganesh chaturthi celebration in office"]
+  }
+}
