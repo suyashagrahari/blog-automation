@@ -253,6 +253,14 @@ for (const f of files) {
     if (!urlPosts.has(u)) urlPosts.set(u, new Set());
     urlPosts.get(u).add(slug);
     let h = ""; try { h = new URL(u).hostname.replace(/^www\./, ""); } catch { continue; }
+    // doi.org is a RESOLVER, not a publisher. The domain cap exists to stop one
+    // publisher carrying the batch ("nine posts citing the same PIB release");
+    // ten DOIs behind doi.org resolve to ten different publishers, so counting
+    // the resolver host reports a concentration that does not exist. Verified on
+    // the 2026-09-09 ganesh batch: 10 DOIs → springer, nature, mdpi, tandfonline,
+    // degruyter, elsevier, emerald, redfame — all distinct. The URL cap still
+    // applies to each DOI individually, which is the real anti-reuse rule.
+    if (h === "doi.org" || h === "dx.doi.org") continue;
     if (!domainPosts.has(h)) domainPosts.set(h, new Set());
     domainPosts.get(h).add(slug);
   }

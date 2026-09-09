@@ -1,0 +1,347 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Lalbaugcha Raja Darshan: Which Queue to Join and When to Go",
+    "slug": "lalbaugcha-raja-mumbai",
+    "excerpt": "Lalbaugcha Raja runs two darshan queues in 2026 — Mukh Darshan and the navas line, reported at over five hours. Festival dates 14–25 September, four Mumbai mandals and the day each closes, station walking times, and why nobody sells a darshan ticket.",
+    "metaTitle": "Lalbaugcha Raja 2026: Two Queues, Two Very Different Waits",
+    "metaDescription": "Lalbaugcha Raja has two darshan queues in 2026: Mukh Darshan, and the navas line at over 5 hours. Festival dates, four mandals, and why no ticket exists.",
+    "keywords": "lalbaugcha raja, lalbaugcha raja darshan, lalbaugcha raja 2026, ganesh chaturthi in mumbai, mumbai ganesh pandal",
+    "canonicalURL": "https://subhsandesh.in/blog/lalbaugcha-raja-mumbai",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "mumbai",
+      "lalbaugcha-raja",
+      "indian-festivals",
+      "travel"
+    ],
+    "keyTakeaways": [
+      "Lalbaugcha Raja runs two queues in 2026: Mukh Darshan, which is faster, and the Charan Sparsh navas line, reported at over five hours. Both open around 6 a.m.",
+      "Ganeshotsav 2026 runs 14–25 September, but GSB Seva Mandal closes on 18 September and Andhericha Raja immerses only on 29 September, so one itinerary cannot cover all four.",
+      "The mandal's own website has a donation page and a live-darshan page and no ticket page at all, checked on 9 September 2026. The ₹200 'VIP pass' prices circulating online are not the mandal's.",
+      "A page reaches the family who could not travel: across all 3,860 pages SubhSandesh has created since March 2026 spanning 15 page types, 49.6% of 45,656 views are phone opens.",
+      "If you are in Mumbai and able-bodied, no page substitutes for the queue — it cannot hand anyone a modak or discharge a navas."
+    ],
+    "faqs": [
+      {
+        "question": "Is Lalbaugcha Raja open for darshan on Ganesh Chaturthi day itself?",
+        "answer": "Yes. The idol is installed early on the morning of Monday 14 September 2026, and Lokshahi reports that darshan then stays open around the clock on that first day. The two separate queues settle into their usual pattern from the following morning."
+      },
+      {
+        "question": "Can I join the navas line if I have not made a navas?",
+        "answer": "You physically can, but you should not. The Charan Sparsh line exists so that people discharging a vow can reach the feet, and every extra person in it adds seconds to a queue that already runs past five hours. Mukh Darshan is the correct line for a first visit."
+      },
+      {
+        "question": "What time should I reach Lalbaug if I only have one morning?",
+        "answer": "Before 6 a.m., when the two queues open. General darshan starts around 5 a.m., and the crowd builds steadily from mid-morning, so anything after 8 a.m. on a weekday is a much longer day than it needs to be."
+      },
+      {
+        "question": "Can senior citizens and wheelchair users get help in the Lalbaugcha Raja queue?",
+        "answer": "Yes. The mandal stations volunteers specifically to assist senior citizens and differently-abled devotees, and Lokshahi's 2026 guide names this as a standing arrangement rather than something you have to request in advance."
+      },
+      {
+        "question": "Can I carry a backpack into the Lalbaugcha Raja pandal?",
+        "answer": "No. Security checks at the pandal are strict and large bags are not permitted inside, so travel with pockets rather than luggage. There is no reliable cloakroom, so anything you carry is something you may have to abandon."
+      },
+      {
+        "question": "Is GSB Seva Mandal open for all ten days of Ganeshotsav?",
+        "answer": "No, and this catches people out every year. GSB runs a five-day festival, from 14 to 18 September 2026, so if it is on your list it has to go in the first half of the week."
+      },
+      {
+        "question": "Why does Andhericha Raja immerse its idol after everyone else?",
+        "answer": "It immerses on Sankashti Chaturthi rather than Anant Chaturdashi, which in 2026 falls on Tuesday 29 September for Mumbai. That is four days after the citywide immersion, and the practical effect is that Andheri stays open for darshan when south Mumbai has already wound down."
+      },
+      {
+        "question": "Is the Lalbaugcha Raja live darshan stream official?",
+        "answer": "Yes. The mandal runs the stream itself from its own website and publishes an official Android app under its own name, so you are not relying on a third-party mirror. It is free and it runs through the festival."
+      },
+      {
+        "question": "Should older parents attempt a five-hour darshan queue?",
+        "answer": "Think hard about it. Research on Indian mass gatherings published in Frontiers in Public Health in December 2025 found that emergency presentations skew older and male, with a mean age of 50.9 years across 1,190 cases. A long standing wait in September humidity is a real cardiac and heat-exposure risk."
+      },
+      {
+        "question": "Do the big Mumbai mandals charge for aarti or pooja participation?",
+        "answer": "They differ. GSB Seva Mandal runs an organised seva and pooja programme and expects to conduct over one lakh of them in 2026, while Lalbaugcha Raja's own website carries a donation page and no paid darshan or pooja booking at all."
+      },
+      {
+        "question": "What can I do if I planned a Mumbai darshan this year and cannot go?",
+        "answer": "Watch the mandal's own free live darshan stream first, because it is the actual idol in real time. If you also want to send something the other person can respond to, a shared Ganesh Chaturthi page is the honest second option."
+      }
+    ],
+    "coverImageQuery": "lalbaugcha raja pandal queue mumbai",
+    "coverImagePrompt": "A photorealistic pre-dawn scene of a long orderly devotee queue winding along a barricaded Lalbaug street in central Mumbai, chawl balconies and festival lighting overhead, warm sodium-lamp glow against a blue morning sky. Shot slightly elevated with shallow depth of field and clean negative space at the top for a title overlay, 16:9. No legible signage and no text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Lalbaugcha Raja Darshan: Which Queue to Join and When to Go\n\nLalbaugcha Raja runs two darshan queues, and picking the wrong one costs you a working day. Mukh Darshan takes you past the idol's face and is the faster line; Charan Sparsh — the navas line — takes you to the feet, and Lokshahi's 2026 guide puts that wait at [more than five hours](https://english.lokshahi.com/maharashtra/how-to-reach-lalbaugcha-raja-darshan-timings-mukh-darshan-charan-sparsh-12459868).\n\nGaneshotsav 2026 runs Monday 14 September to Friday 25 September, and the mandal's own site confirms [this as its 93rd year](https://lalbaugcharaja.com/en/ganesh-muhurta-pujan-2026/). Nothing on a screen replaces standing in that queue — but across all 3,860 pages SubhSandesh has created since March 2026, spanning 15 page types, 49.6% of the 45,656 recorded views are opened on a phone, which is why a link reaches a cousin in Nagpur and a posted card does not.\n\nThat same platform-wide sample shows 96.1% of started pages are actually published and shared. This post covers the two Lalbaug queues, the four mandals worth planning around, the day each one closes, and what the streets do.\n\n## What Lalbaugcha Raja is, and what a navas has to do with the queue\n\nLalbaugcha Raja, now in its 93rd year, is a sarvajanik Ganeshotsav mandal in Lalbaug, central Mumbai — a neighbourhood association that installs one large public Ganesh idol and runs the days around it. The address is Shri Ganesh Nagar, Dr Ambedkar Road, Lalbaug, Parel, Mumbai 400012.\n\nIt is better known as Navsacha Ganpati, the Ganpati of the vow. A navas is a promise made to the deity — do this for me, and I will come and stand at your feet — and it is why the pandal needs two lines rather than one.\n\nEveryone with a navas wants Charan Sparsh, contact with the feet, which takes several seconds per person. Everyone else wants Mukh Darshan, a look at the face, which takes about one. Splitting them is the most important crowd decision the mandal makes each year.\n\n## The two Lalbaugcha Raja queues in 2026, and how long each one really takes\n\nDarshan generally begins around 5 a.m., and both the Mukh Darshan and Charan Sparsh queues open around 6 a.m. Lokshahi reports that Mukh Darshan moves noticeably faster, while Charan Sparsh runs to more than five hours. On the first day, 14 September, darshan stays open around the clock after the morning installation.\n\nYou will see much bigger numbers than five hours quoted for this queue — twelve hours, eighteen, forty. **None of them is published by the mandal, and the pages carrying them disagree with each other by a factor of three.** Treat any specific hour figure you find, including the five, as an estimate that changes with the day of the week and the hour you join.\n\nThere is a reason no honest fixed number exists. Illiyas, Mani and Babu's open-access [carrying-capacity study of the Sabarimala pilgrimage](https://arrow.tudublin.ie/ijrtp/vol8/iss8/8/), in the *International Journal of Religious Tourism and Pilgrimage* in 2021, found that the service level at the darshan point itself regulates pilgrim movement through the whole venue.\n\nApplied to Lalbaug: your wait is set by how many seconds each person ahead spends at the feet, multiplied by everyone ahead, and rain or one medical incident resets it. So the advice is boring and correct — weekday, before 8 a.m., write off the morning.\n\n## Nobody sells a Lalbaugcha Raja darshan ticket\n\nSeveral pages ranking for this search quote \"VIP darshan\" prices of ₹50, ₹200 and ₹500, attributed to nothing more specific than previous years' travel guides. On 9 September 2026 the mandal's own website carried eight navigation items — Home, Lalbaughcharaja Live, Committee, Donation, Social Activities, Photos, Terms and Contact Us — and **not one of them was a ticket or pass page.**\n\nThere is a donation page, which is a different thing entirely, and an official Android app published under the mandal's name. If a site is taking payment from you for entry to Lalbaugcha Raja, you are not buying a queue position from the mandal.\n\nThis matters practically. Arriving at 6 a.m. believing you hold a pass that skips the line is how a planned morning becomes a wasted day.\n\n## Four Mumbai Ganesh pandals worth planning around, and the day each one closes\n\nMumbai has thousands of sarvajanik mandals. Four change how you should plan a trip, because each closes on a different date.\n\n### 1. Lalbaugcha Raja, Lalbaug\n\nThe 93rd-year mandal, and the one every itinerary starts with. Open 14–25 September 2026, two queues from around 6 a.m., immersion procession leaving on the morning of Friday 25 September for Girgaum Chowpatty. Go on a weekday morning; the final weekend is the worst possible choice.\n\n### 2. GSB Seva Mandal, King's Circle\n\nThe richest Ganpati in the city and the shortest window. GSB runs **five days only, 14 to 18 September 2026** — miss that and you have missed it for the year. The Free Press Journal reports a [₹703.27 crore insurance cover](https://www.freepressjournal.in/mumbai/mumbai-ganeshotsav-2026-gsb-seva-mandal-secures-rs-70327-crore-insurance-cover-66-kg-gold-to-adorn-ganpati-idol-mumbai-news) for 2026, up from ₹474.46 crore last year, with 66 kg of gold and 335 kg of silver on the idol and over one lakh poojas and sevas expected.\n\n### 3. Chinchpoklicha Chintamani, Chinchpokli\n\nFounded in 1920, and the mandal whose *arrival* is the event rather than its departure. Its aagman procession on Saturday 29 August 2026 set out from the Parel Central Railway Workshop Ground at noon, through Lalbaug and Chinchpokli. It is a short walk from Lalbaugcha Raja, so the two are one morning if you start early.\n\n### 4. Andhericha Raja, Azad Nagar\n\nThe western suburbs' mandal, founded in 1966, and the one that gives you extra time. Andhericha Raja immerses not on Anant Chaturdashi but on the following Sankashti Chaturthi — which Drik Panchang's Mumbai list puts at **Tuesday 29 September 2026**, four days after everyone else, not five as is often repeated. By then the south Mumbai crowds have gone home.\n\nHere is how the realistic ways of seeing Lalbaugcha Raja in 2026 compare.\n\n| Option | When it is available in 2026 | Realistic time cost | Reaches someone outside Mumbai |\n|---|---|---|---|\n| Mukh Darshan queue, Lalbaug | Queue opens ~6 a.m., 14–25 Sep | The faster line; the mandal publishes no figure | No |\n| Charan Sparsh (navas) line | Queue opens ~6 a.m., 14–25 Sep | Over 5 hours reported for 2026 | No |\n| Mandal's official live darshan | Continuously through Ganeshotsav | Minutes | Yes, if they can hold a screen |\n| A shared Ganesh Chaturthi page | Any time, from anywhere | One sitting | Yes — 49.6% of SubhSandesh's 45,656 platform-wide views are phone opens |\n\nOnly the bottom two rows do anything for a person who is not in the city, and only the last carries a message back.\n\n## Getting to Lalbaug, and the streets that shut around it\n\nTake the train. Chinchpokli on the Central line is closest at about ten minutes' walk, Currey Road is also around ten, Byculla fifteen, and Lower Parel on the Western line twenty to twenty-five.\n\nDriving in is the mistake. For the aagman processions on 29 August 2026, the Free Press Journal reported that [800 to 1,000 police personnel plus RAF and CRPF teams](https://www.freepressjournal.in/mumbai/attention-mumbaikars-avoid-these-routes-near-lalbaug-parel-ahead-of-grand-ganpati-aagman-processions-today-mumbai-news) were deployed for around 30 to 40 prominent idol arrivals, with diversions across Lalbaug, Chinchpokli, Parel, Byculla and Sewri, parking restricted, and one lane kept clear for emergency vehicles. Expect the same pattern, larger, on 25 September when the visarjan processions move toward Girgaum Chowpatty.\n\nSecurity at the pandal is real: large bags are not allowed inside, so carry nothing you would mind leaving behind. The mandal stations volunteers to assist senior citizens and differently-abled devotees, which is the most useful arrangement it makes.\n\nOne health note. The 2025 Mahakumbh at Prayagraj drew [663 million pilgrims](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1695241/full), and *Frontiers in Public Health* documented the casualty profile in December 2025: of 1,190 emergency presentations at one institution, 70.8% were male and the mean age was 50.9 years. A five-hour standing queue in Mumbai humidity is a real cardiac and heat risk for older visitors, to be planned around rather than powered through.\n\n## Sending Ganesh Chaturthi to the people who could not get to Mumbai\n\nMost of the family will not be at the pandal. The mandal's own answer is the free live darshan stream on its website and app, and that is the first thing to send anyone — the actual Raja, live, at no cost.\n\nWhat a stream cannot do is carry a message back. That is the narrow, honest case for a [Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) — they offer the durva, kumkum, flowers and modak, the aarti thali circles while Karpur Gauram plays, and they write their own prarthana in reply.\n\nPrivacy matters when the page carries family photographs and the mandap you set up at home. Across all 3,860 pages the platform has created since March 2026, spanning 15 page types, 42.1% of creators password-protect a page before sharing it.\n\n## Where a SubhSandesh page is the wrong choice\n\nIf you are in Mumbai and able-bodied, close this and go stand in the line. A page cannot hand anyone a modak, cannot put you at the feet of the Raja after a navas, and does not discharge a vow. There is no digital equivalent of the ten seconds you get at the front of the Charan Sparsh queue, and anyone who tells you otherwise is selling something.\n\nIt is also wrong for a grandparent without a smartphone — a phone call during the aarti beats it — and for anyone standing next to you at the pandal. Only 49.6% of the platform's 45,656 recorded views are phone opens, so a desktop recipient gets a lesser version of a page built for a hand.\n\nIts one real use is the relative in Dubai or Bengaluru who wanted to be there and is not, and even then the live stream comes first. For the occasions the format genuinely suits, the [full SubhSandesh template list](https://subhsandesh.in/templates) is a better starting point than this page.\n\n## Sources\n\n- [Lalbaugcha Raja Mandal, Ganesh Muhurta Pujan 2026](https://lalbaugcharaja.com/en/ganesh-muhurta-pujan-2026/) (9 June 2026) — 93rd year; 14–25 September\n- [Lokshahi English, Lalbaugcha Raja 2026 timings and routes](https://english.lokshahi.com/maharashtra/how-to-reach-lalbaugcha-raja-darshan-timings-mukh-darshan-charan-sparsh-12459868) (31 August 2026) — queues, stations, Girgaum Chowpatty\n- [Free Press Journal, GSB Seva Mandal's ₹703.27 crore cover](https://www.freepressjournal.in/mumbai/mumbai-ganeshotsav-2026-gsb-seva-mandal-secures-rs-70327-crore-insurance-cover-66-kg-gold-to-adorn-ganpati-idol-mumbai-news) (2 September 2026)\n- [Free Press Journal, routes to avoid near Lalbaug-Parel](https://www.freepressjournal.in/mumbai/attention-mumbaikars-avoid-these-routes-near-lalbaug-parel-ahead-of-grand-ganpati-aagman-processions-today-mumbai-news) (29 August 2026)\n- [Illiyas, Mani & Babu, carrying capacity for religious crowd management](https://arrow.tudublin.ie/ijrtp/vol8/iss8/8/), *IJRTP* 8(8), 2021 — abstract read; the PDF is not served to automated readers\n- [Emergency care at India's religious mass gatherings](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1695241/full), *Frontiers in Public Health*, 17 December 2025\n\nThe Andhericha Raja date was checked against Drik Panchang's Mumbai Sankashti list on 9 September 2026.",
+    "readingTime": 9,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/lalbaugcha-raja-mumbai#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Lalbaugcha Raja",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Lalbaugcha_Raja",
+              "https://www.wikidata.org/wiki/Q12061085"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Mumbai",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mumbai",
+              "https://www.wikidata.org/wiki/Q1156"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Lalbaug",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Lalbaug",
+              "https://www.wikidata.org/wiki/Q65327625"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Girgaon Chowpatty",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Girgaon_Chowpatty",
+              "https://www.wikidata.org/wiki/Q5564239"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Brihanmumbai Municipal Corporation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brihanmumbai_Municipal_Corporation",
+              "https://www.wikidata.org/wiki/Q1195653"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Ganesh Muhurta Pujan 2026",
+            "url": "https://lalbaugcharaja.com/en/ganesh-muhurta-pujan-2026/",
+            "datePublished": "2026-06-09",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Lalbaugcha Raja 2026: date, time, routes and rules for darshan",
+            "url": "https://english.lokshahi.com/maharashtra/how-to-reach-lalbaugcha-raja-darshan-timings-mukh-darshan-charan-sparsh-12459868",
+            "datePublished": "2026-08-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Lokshahi English"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "GSB Seva Mandal secures Rs 703.27 crore insurance cover; 66 kg gold to adorn Ganpati idol",
+            "url": "https://www.freepressjournal.in/mumbai/mumbai-ganeshotsav-2026-gsb-seva-mandal-secures-rs-70327-crore-insurance-cover-66-kg-gold-to-adorn-ganpati-idol-mumbai-news",
+            "datePublished": "2026-09-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Free Press Journal"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Avoid these routes near Lalbaug-Parel ahead of the Ganpati aagman processions",
+            "url": "https://www.freepressjournal.in/mumbai/attention-mumbaikars-avoid-these-routes-near-lalbaug-parel-ahead-of-grand-ganpati-aagman-processions-today-mumbai-news",
+            "datePublished": "2026-08-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Free Press Journal"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Carrying Capacity Assessment for Religious Crowd Management — An Application to Sabarimala Mass Gathering Pilgrimage, India",
+            "url": "https://arrow.tudublin.ie/ijrtp/vol8/iss8/8/",
+            "datePublished": "2021",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Religious Tourism and Pilgrimage"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Delivering emergency care at the religious mass gathering of India: an institutional experience of managing pilgrims at Mahakumbh Prayagraj",
+            "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1695241/full",
+            "datePublished": "2025-12-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Public Health"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four Mumbai Ganesh pandals worth planning around in 2026",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Lalbaugcha Raja, Lalbaug",
+            "description": "93rd year. Open 14–25 September 2026, two queues from around 6 a.m., immersion procession to Girgaum Chowpatty on the morning of 25 September."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "GSB Seva Mandal, King's Circle",
+            "description": "Five days only, 14–18 September 2026. Insured for Rs 703.27 crore in 2026, with 66 kg of gold and 335 kg of silver on the idol."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Chinchpoklicha Chintamani, Chinchpokli",
+            "description": "Founded 1920. Its aagman procession left the Parel Central Railway Workshop Ground at noon on 29 August 2026; a short walk from Lalbaugcha Raja."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Andhericha Raja, Azad Nagar",
+            "description": "Founded 1966. Immerses on Sankashti Chaturthi, Tuesday 29 September 2026, four days after Anant Chaturdashi, with far smaller crowds."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "lalbaugcha raja",
+    "angle": "Wins by being the only post that says which Lalbaugcha Raja waiting times are actually sourced and which are invented, names the day each of four Mumbai mandals closes in 2026 with the Andhericha Raja Sankashti date verified rather than repeated, and prices the alternative against SubhSandesh's own platform-wide 49.6% phone-open rate across 45,656 views.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi",
+      "/templates"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,667 of 45,656 views) — measured 2026-09-08",
+      "96.1% of started pages are actually published and shared (3,708 of 3,860) — measured 2026-09-08",
+      "3,860 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-08",
+      "42.1% of creators password-protect their page before sharing it (1,625 of 3,860) — measured 2026-09-08",
+      "45,656 recorded views of shared pages — measured 2026-09-08"
+    ],
+    "sources": [
+      {
+        "url": "https://lalbaugcharaja.com/en/ganesh-muhurta-pujan-2026/",
+        "stat": "Lalbaugcha Raja Sarvajanik Ganeshotsav Mandal's 93rd year; the 2026 festival runs Ganesh Chaturthi, Monday 14 September, to Anant Chaturdashi, Friday 25 September; Ganesh Muhurta Pujan performed 5:00 a.m., Tuesday 9 June 2026",
+        "publishedDate": "2026-06-09"
+      },
+      {
+        "url": "https://english.lokshahi.com/maharashtra/how-to-reach-lalbaugcha-raja-darshan-timings-mukh-darshan-charan-sparsh-12459868",
+        "stat": "Darshan begins around 5 a.m. and the Mukh Darshan and Charan Sparsh queues open around 6 a.m.; Mukh Darshan moves faster while Charan Sparsh runs to more than five hours; 24-hour darshan on day one; volunteers assist senior citizens and differently-abled devotees; large bags prohibited; Chinchpokli 10 min, Currey Road 10 min, Byculla 15 min, Lower Parel 20-25 min on foot; immersion procession leaves on the morning of 25 September for Girgaum Chowpatty",
+        "publishedDate": "2026-08-31"
+      },
+      {
+        "url": "https://www.freepressjournal.in/mumbai/mumbai-ganeshotsav-2026-gsb-seva-mandal-secures-rs-70327-crore-insurance-cover-66-kg-gold-to-adorn-ganpati-idol-mumbai-news",
+        "stat": "GSB Seva Mandal's 2026 Ganeshotsav is a five-day celebration from 14 September, insured for Rs 703.27 crore against Rs 474.46 crore in 2025, with over 66 kg of gold and 335 kg of silver on the MahaGanapati idol and over one lakh poojas and sevas expected",
+        "publishedDate": "2026-09-02"
+      },
+      {
+        "url": "https://www.freepressjournal.in/mumbai/attention-mumbaikars-avoid-these-routes-near-lalbaug-parel-ahead-of-grand-ganpati-aagman-processions-today-mumbai-news",
+        "stat": "For the aagman processions of 29 August 2026, 800-1,000 police personnel plus RAF and CRPF teams were deployed for 30-40 prominent idol arrivals, with diversions across Lalbaug, Chinchpokli, Parel, Byculla and Sewri, restricted parking and one lane kept clear for emergency vehicles; Chinchpokli Cha Chintamani's procession began at the Parel Central Railway Workshop Ground at noon",
+        "publishedDate": "2026-08-29"
+      },
+      {
+        "url": "https://arrow.tudublin.ie/ijrtp/vol8/iss8/8/",
+        "stat": "Carrying-capacity assessment of the Sabarimala mass-gathering pilgrimage finds that the service level at the darshan point is the prime factor regulating pilgrim flow through the venue, and that comfortable-density capacity is the effective carrying capacity (ABSTRACT ONLY - the full-text PDF returns HTTP 403 to automated readers)",
+        "publishedDate": "2021-01-01"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1695241/full",
+        "stat": "Mahakumbh Prayagraj 2025 drew 663 million pilgrims; the reporting institution managed 1,190 emergency presentations, 70.8% male, mean age 50.9 years",
+        "publishedDate": "2025-12-17"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Only the fourth column of the comparison table carries first-party data, and only in its last row — the other three rows honestly have no SubhSandesh figure attached, because there is none for a physical darshan queue. Closes only if the /happy-ganesh-chaturthi template produces enough pages to support a per-template rate; it has created zero so far."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Both internal links are genuine TEMPLATE_LINKS entries, but https://subhsandesh.in/happy-ganesh-chaturthi returned HTTP 404 on 2026-09-09 while /templates returned 200. This is a deployment gap, not a wrong slug — the same 404 the ganpati-invitation-card agent recorded. Closes as soon as the template is live; re-check before publishing."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "The IJRTP paper is open access, not paywalled, but arrow.tudublin.ie/cgi/viewcontent.cgi?article=1375&context=ijrtp returns HTTP 403 to the fetcher, so only the landing-page abstract was read. The body says so and no number is claimed from it. Closes if the PDF becomes machine-readable or a mirror appears in CORE or OpenAlex."
+        }
+      ],
+      "honestAssessment": "Conversion intent on this keyword is near zero and the post says so: someone searching \"lalbaugcha raja\" wants a queue, a station and a time, not a greeting page, so the template appears once, in one section, after the mandal's own free live stream is named first. What could earn a citation is that every page in this SERP prints a confident waiting time and a confident \"VIP pass\" price and none of them sources either — this one states only the figure a news desk published for 2026 (over five hours for Charan Sparsh), says plainly that the twelve-, eighteen- and forty-hour numbers are unsourced, records that the mandal's own site had no ticket page on 9 September 2026, and corrects the widely-repeated Andhericha Raja immersion date to Tuesday 29 September 2026, four days after Anant Chaturdashi rather than five. Against that, the domain has no Mumbai-travel authority and no Ganesh authority at all, the incumbent darshan-info microsites are purpose-built for this one query, and the first-party data is platform-wide across 15 page types rather than Ganesh-specific, so it supports the \"send it to someone who could not come\" section and nothing else. Do not expect this to displace the incumbents this cycle."
+    },
+    "generatedAt": "2026-09-09T07:09:15.092Z"
+  }
+}

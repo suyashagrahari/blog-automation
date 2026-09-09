@@ -52,6 +52,9 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/eid-mubarak`, what: "Eid Mubarak greeting page" },
   { url: `${SITE_ROOT}/happy-rakshabandhan-to-brother`, what: "Raksha Bandhan (Rakhi) page for a brother — animated tilak/aarti/rakhi-tying scenes, photo, name and a shareable link" },
   { url: `${SITE_ROOT}/happy-rakshabandhan-to-sister`, what: "Raksha Bandhan (Rakhi) page for a sister — photo, name and a shareable link, for a brother sending to his sister" },
+  // Added 2026-09-09. `what` is taken from the template's own config.ts
+  // description, per the note below — not paraphrased from the slug.
+  { url: `${SITE_ROOT}/happy-ganesh-chaturthi`, what: "Ganesh Chaturthi page the recipient performs themselves — they offer the durva, kumkum, flowers and modak, the aarti thali circles while Karpur Gauram plays, and they write their own prarthana back. Add your photo, your mandap, and a card for an Instagram story" },
 
   // ── Added 2026-09-02. Every `what` below is taken from the template's own
   // `config.ts` description, not paraphrased from the slug, and every URL was
