@@ -157,3 +157,120 @@ From `content/facts.md` (regenerated 2026-09-09): 3,894 pages across 15 page typ
 From BRIEF.md §1, the batch's own Raksha Bandhan lead-time measurement (n=89, both rakhi collections, IST calendar days): median lead time 0 days; 49.4% built on the day itself; 27.0% the day before; 86.1% of the 79 in-time pages within 24 hours; none earlier than 7 days; median first-save-to-last-edit 5.4 hours. **Disclosures carried in body prose:** it is Raksha Bandhan (one day) not Ganesh Chaturthi (ten days to Anant Chaturdashi, 25 September), and n=89 is small — no per-template or per-region rate, no projection of Ganesh page counts.
 
 Honest limiter also stated in prose: occasion-dated pages are 144 of 3,894 (3.7%); there is **no** Ganesh page-creation data at all, because the template is not deployed.
+
+---
+
+## 9. Remediation pass — 2026-09-10
+
+The Phase 7 author was cut off by a spend limit mid-trim, having just logged
+"Body is 1,882 words — trimming to range". The file was therefore an unfinished
+trim, not a final state. Fixed by the `blog-audit-remediator` pass on 2026-09-10.
+
+### Damage found from the interrupted trim
+
+1. **Word band still breached.** 1,807 by `wordCount()` in `app/lib/batches.ts`
+   (1,788 on a plain `split`), against a 1,500–1,800 band. The audit had recorded
+   `1,500–1,800 words in contentMarkdown excluding FAQs, no padding` as **passed**,
+   which it was not — an undeclared fourth failure.
+2. **A dangling reference to a dropped secondary.** The licence section read "The
+   listicles that outrank both for the WhatsApp phrasing…" — "the WhatsApp
+   phrasing" is `happy ganesh chaturthi images for whatsapp`, a fold this post
+   never introduces because it was dropped at the gate (§1a-i). Rewritten to
+   "The 'HD free download' listicles that rank on the neighbouring wishes
+   queries…". A second oblique nod ("the results for the generic festival
+   phrasing…") was cut in the same pass.
+3. **An unverifiable number.** "Getty listed 7,620 photographs for Ganesh
+   Chaturthi in Mumbai alone" appears nowhere in this brief's SERP captures —
+   §4 records the Getty result with no count. Cut. Adobe's 14,951 is retained
+   because it is in the captured SERP title itself (§2, position 5).
+
+### The dropped fold — checked, and clean
+
+`article.keywords`, `metaTitle`, `metaDescription`, `title`, `excerpt`, `tags`
+and `keyTakeaways` contain no "happy ganesh chaturthi images" phrasing. The only
+occurrences anywhere in the JSON are inside `batchMeta.droppedSecondaries` and
+`batchMeta.cannibalisationGate`, which is where the record belongs. After the two
+body rewrites above, the body no longer gestures at the phrase either.
+
+### Internal links — BRIEF.md §3 reversal applied
+
+Re-verified from this environment on 2026-09-10, not taken on trust:
+
+| URL | result |
+| --- | --- |
+| `/happy-ganesh-chaturthi` | HTTP 200; `<title>` "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free \| SubhSandesh"; 158 on-page ganesh/ganpati/modak/aarti mentions; no 404 shell |
+| `/guides/happy-ganesh-chaturthi` | HTTP 200; H1 "Build a Ganesh Chaturthi page for the people you cannot sit with"; 313 mentions |
+| `sitemap.xml` | 1,123 `<loc>` entries, both Ganesh URLs present |
+
+- Body link set is now `/happy-ganesh-chaturthi` (the topical CTA, placed after
+  "When a photograph beats anything we make", the section that earns it by
+  admitting we supply no deity images), `/guides/happy-ganesh-chaturthi` (body
+  reference) and `/watch`. Three internal links, inside the 2–4 range.
+- `batchMeta.templateUrls` is now `["/happy-ganesh-chaturthi", "/watch"]`. The
+  guide URL is deliberately **excluded**: `templateUrls` are matched on the last
+  path segment at publish, and `guides/happy-ganesh-chaturthi` collides with the
+  template's own slug while corresponding to no Strapi template entry.
+- `/templates` and `/holi` removed. Both were stand-ins for the banned link —
+  `/templates` explicitly so, and `/holi` as "the closest live equivalent to a
+  festival greeting", which is no longer true.
+
+### Sources — re-verification, no additions
+
+No source was added; `doi.org` sits at exactly 3 posts in this batch and this
+post holds one of the slots, so adding another was not an option regardless.
+
+- **Religions 11(9):456 — the recorded failure is closed.** `mdpi.com` still
+  returns HTTP 403 to automated fetches, but the CC BY article PDF on the
+  publisher's own asset host (`mdpi-res.com`, 18 pp.) was fetched and read in
+  full on 2026-09-10. The abstract's own wording is "content drawn from popular
+  Hinduism, dealing with astrology, ritual, religious vows and observances, form
+  a significant and substantial aspect of online Hinduism". The draft had
+  narrowed this to "god posters … form a substantial part of online Hinduism",
+  which is tighter than the paper says. Body, `sources[1].stat` and the
+  `ItemList` description now carry the quoted wording, and the author is named
+  (Varuni Bhatia, Azim Premji University) in the body and in `citation`.
+- **SAMAJ 4540 — a new blocker, recorded rather than papered over.**
+  `journals.openedition.org` now serves an Anubis proof-of-work interstitial to
+  non-browser clients; it was **not** circumvented. The full text was read on
+  2026-09-09 by the Phase 3 agent, and the exact claim was independently
+  re-confirmed on 2026-09-10 against the publisher-deposited Crossref abstract
+  for `10.4000/samaj.4540`: "The analysis hinges on a proposed re-theorization
+  of visual worship, darshan, as a gesture of mutual recognition." Recorded in
+  `sources[0].stat`. If OpenEdition's interstitial persists, a future re-check
+  of this citation needs a real browser.
+- **Commons:Licensing** re-fetched 2026-09-10, both quoted clauses present verbatim.
+- **Deccan Herald** re-fetched 2026-09-10; article body carries "Till noon, nearly
+  40,000 idols … were immersed in the Arabian Sea and other water bodies,
+  including the artificial ponds set up by the Brihanmumbai Municipal Corporation
+  (BMC)". Body wording changed from "roughly 39,000" to "more than 39,000" to
+  match the headline and lede.
+- All five Wikidata QIDs in `about`/`mentions` re-checked against the Wikipedia
+  API on 2026-09-10: all five match.
+
+### Word count
+
+| measure | before | after |
+| --- | --- | --- |
+| plain `split(/\s+/)` (what the schema validator counts) | 1,788 | 1,751 |
+| `wordCount()` in `app/lib/batches.ts` (what the studio displays) | 1,807 | 1,775 |
+
+Cuts were flab only — a wind-up line, two section-closing restatements, a table
+lead that restated its own column headers, and the unverifiable Getty figure. The
+copyright-and-provenance material, the n=89 disclosures, the 3.7% honest limiter
+and the "we supply no deity images / this page links no image pack" position were
+all left intact, and the §4 social block is byte-identical.
+
+### Audit after the pass: 48 passed, 2 failed, disjoint, sum 50
+
+Closed: the word band, and `3–6 outbound links, all fetched and verified to
+contain the cited fact` (the MDPI full text is now read).
+
+Still failing, both structural:
+
+1. `The post contains at least one claim none of the top 5 pages make` — page one
+   is four Pinterest boards and four picture libraries with no AI Overview and no
+   PAA, so there are no competing claims to differ from. Re-check when the SERP
+   grows an informational organic result or an AI Overview.
+2. `Every H2 section answerable standalone in 2–3 sentences` — `## Watch the page
+   get built` is the verbatim BRIEF.md §4 social block, a two-link block by
+   design. Closes only if the batch owner revises §4 for all 35 posts.
