@@ -1,0 +1,381 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganesh Chaturthi Logo Design: One Mark for 200 Pixels, One Colour and a Twenty-Foot Arch",
+    "slug": "ganesh-chaturthi-logo-design",
+    "excerpt": "A Ganesh Chaturthi logo is a reusable identity mark, not artwork: it has to survive a circular crop, a one-ink print run and a twenty-foot arch. The shrink, single-colour and safe-zone tests, with thresholds.",
+    "metaTitle": "Ganesh Chaturthi Logo Design — the 66x66 Safe Zone",
+    "metaDescription": "A Ganesh Chaturthi logo design must survive 3 reproductions: a circular crop keeping 37% of drawn area, one-ink print, and a 20-foot arch. With thresholds.",
+    "keywords": "ganesh chaturthi logo design, ganpati logo design, ganesh chaturthi youth logo design, ganpati group name logo, mandal logo",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-logo-design",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "logo-design",
+      "visual-identity",
+      "indian-festivals",
+      "mandal"
+    ],
+    "keyTakeaways": [
+      "A circular crop is not a rounding error: Android guarantees only a 66x66 safe zone inside a 108x108 container, about 37% of the drawn area, so nothing identifying can sit in the corners.",
+      "Detail is not what makes a mark legible. Icon visual complexity did not significantly affect whether people understood an icon (F < 1); concreteness did, F(1, 63) = 23.40, p < .001.",
+      "Removing colour is cheap and the wrong colour is expensive: 891 ms to name an object in its correct colour, 923 ms in greyscale, 986 ms in the wrong one.",
+      "Design for the small end first — 49.6% of shared pages on SubhSandesh are opened on a phone, 22,817 of 46,005 views.",
+      "Draw two locked files: the full lockup with name and year for print and the arch, and a symbol-only icon for anything under about 100 pixels."
+    ],
+    "faqs": [
+      {
+        "question": "What size should a Ganesh Chaturthi logo be?",
+        "answer": "There is no single size, which is the point of drawing it as a vector. Design it so it still reads at about 40 pixels — that is the size a group icon is actually displayed at — and it will scale up to a twenty-foot arch without redrawing. If you need a fixed export, a 1024x1024 PNG with transparency covers almost every digital use."
+      },
+      {
+        "question": "Why does my Ganesh Chaturthi logo look fine in the editor but bad as a WhatsApp group icon?",
+        "answer": "Two things happen at once: it shrinks, and it gets cropped to a circle. Thin strokes fill in and any two shapes closer together than the stroke thickness merge into one blob, while the circular mask removes the corners — a plain inscribed circle keeps only 78.5% of a square. Test at 40 pixels inside a circle before you finalise anything."
+      },
+      {
+        "question": "Can I put my mandal's name inside the logo?",
+        "answer": "Yes, but only in the large version. Keep two locked files: a full lockup with the symbol, mandal name and year for the arch, banner, letterhead and receipt header, and a symbol-only icon with no words for the group photo, the stamp and anything under roughly 100 pixels."
+      },
+      {
+        "question": "Does a Ganesh Chaturthi logo need to work in black and white?",
+        "answer": "It does, because receipt books, rubber stamps and duplicate slips are normally printed in one ink. Build the single-colour version first as pure black on white with no tints or gradients, then add colour on top. Android takes the same position as a hard requirement: supporting themed app icons means shipping a single monochrome layer."
+      },
+      {
+        "question": "How much does losing the colour actually cost?",
+        "answer": "Measurably little. In a 2009 experiment on objects whose identity is tied to a colour, naming took 891 ms in the correct colour and 923 ms in greyscale — about 32 ms. The wrong colour cost 986 ms, roughly three times the greyscale penalty, so a mismatched print is worse than a one-ink print."
+      },
+      {
+        "question": "Should the logo be simple or detailed?",
+        "answer": "Simple, but for a specific reason. A 2022 study found visual complexity — the count of lines and closed figures in an icon — did not significantly change whether people understood it, while concreteness did, with a large effect. So keep one recognisable thing, a trunk, a modak or a durva sprig, and strip the rest."
+      },
+      {
+        "question": "What is the safe zone for a circular logo crop?",
+        "answer": "Android's adaptive icon spec guarantees a 66x66 safe zone centred inside a 108x108 container — 61% of the width, or about 37% of the drawn area — as the region no manufacturer's mask will ever clip. Masks vary by handset, from a circle to a squircle, so anything outside that centre is not guaranteed to survive."
+      },
+      {
+        "question": "Is an AI logo maker good enough for a mandal?",
+        "answer": "It will give you an image, not an identity. A generator optimises what you see at full size and has no mechanism to check the mark at 40 pixels, in one ink, or inside a circle — which are the three things that decide whether a mandal can reuse it next year. If you use one, run all three tests on the output yourself."
+      },
+      {
+        "question": "Do I need a different logo for the arch and for the group icon?",
+        "answer": "Not a different logo — a different lockup of the same mark. One symbol, two arrangements: symbol plus name plus year for large formats, symbol alone for small ones. If the two need different symbols, the symbol is too complicated."
+      },
+      {
+        "question": "What file formats should the mandal keep?",
+        "answer": "Keep an editable vector as the master, since that is what lets one mark serve a phone screen and large-format signage from the same file. Export a transparent PNG at 1024 pixels for digital use, and a one-colour black version for the printer. Hand all three to whoever runs the mandal next year."
+      },
+      {
+        "question": "When should we not bother with a logo at all?",
+        "answer": "If the mandal will not reuse the mark, skip it. The reproduction discipline only pays back when the same mark reappears — on next year's receipt book, next year's arch, the same group icon. For a one-off celebration, commission the banner artwork instead and spend the time on the pandal."
+      }
+    ],
+    "coverImageQuery": "ganpati mandal sign stencil single colour",
+    "coverImagePrompt": "A tight, photorealistic still life on a workbench: a single-colour black stencil of a simple elephant-head symbol beside a rubber stamp, a carbon-copy donation receipt book and a phone showing the same symbol as a small circular group icon. Warm afternoon side light, shallow depth of field, muted saffron and paper tones, generous negative space at the top for a title overlay, 16:9. No text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganesh Chaturthi Logo Design: One Mark for 200 Pixels, One Colour and a Twenty-Foot Arch\n\nA Ganesh Chaturthi logo design is not artwork — it is an identity mark that has to be the *same* mark on a WhatsApp group icon, on a receipt book printed in one colour, and on a twenty-foot pandal arch. Nearly every page ranking for this phrase hands over a vector file and stops. What decides whether that file works is reproduction: what survives shrinking, what survives having the colour taken out, and what survives a circular crop. The small end matters most, and the platform data says why. Across 46,005 recorded views of shared pages on SubhSandesh, 49.6% of shared pages are opened on a phone (22,817 of 46,005 views), and 49.8% of views are on a touch device (phone or tablet). So the mark spends most of its life a few centimetres wide, in a thumbnail, in someone's hand. Design it for that and the arch takes care of itself.\n\n## What a logo has to do that a banner does not\n\nA banner is one file at one size, used once. A mandal logo is one mark reused across a group icon, a donation receipt, volunteer T-shirts, the aarti schedule taped to a pole, and the arch — five surfaces, four printers, ten days.\n\nThat reuse is the whole difference, and it changes the brief. A banner can carry detail because you know exactly how far away it will be read, so its brief reduces to millimetres of cap height at a stated viewing distance. A mark cannot know its final size, so it has to hold up across every size it might land at.\n\nThere is a useful precedent in how research-grade icons are built. When a 2022 study in *Displays* designed 64 icons to test what makes an icon understood, it drew every one on a 24×24 vector grid with a single grid square as the stroke width, in black and white only, as vectors — explicitly so the icons could be shown anywhere \"from retina screens to large-scale signage systems\". That is the same problem a mandal has.\n\n## The three reproductions one mark has to survive\n\n### 1. The group icon, roughly 200 pixels, cropped to a circle\n\nThis is where the mark is smallest and seen most. It gets displayed at a fraction of its file size, masked into a circle, next to nineteen other group icons in a list.\n\n### 2. The one-colour print run — receipt books, stamps, slips\n\nDonation receipts, rubber stamps and duplicate books are usually printed in a single ink because it is cheap and fast. Gradients, glows and drop shadows do not exist there. Neither does the difference between your saffron and your gold.\n\n### 3. The arch, the flex, the stage backdrop\n\nHere the mark is enormous and viewed from far away, which is the easy case for size and the hard case for craft. Every soft edge and stray anchor point in the vector becomes visible at two metres tall.\n\nA mark that works at all three is not the average of three designs. It is the one design that clears the hardest constraint each surface imposes — and the constraints are specific enough to test before you commit.\n\n## The shrink test: what disappears first\n\nShrink the mark to 40 pixels and look at what merges. Thin strokes fill in, gaps between strokes close, and any two shapes closer together than the stroke is thick become one shape.\n\nThe 2022 *Displays* study is unusually helpful here because it separated two things designers usually conflate. Visual complexity — measured as the raw count of lines, closed figures, open figures and letters in the mark — did **not** significantly affect whether people understood what an icon meant (F < 1). What did was concreteness: recognisably concrete icons were understood significantly more accurately than abstract ones, F(1, 63) = 23.40, p < .001, with a large effect size of η²p = .30.\n\nRead practically, that is permission to strip. Detail is not what makes your mark legible; a recognisable thing is. A trunk, a modak, a durva sprig or a single lotus in clean silhouette will read at 40 pixels. Eleven overlapping motifs will not, and the study also found simple icons were rated more appealing than complex ones, F(1, 56) = 4.03, p = .05.\n\n## Single colour: what is left when the colour is taken out\n\nEvery mandal logo will eventually be printed in one ink, and the honest question is how much that costs. There is a measured answer, from a 2009 experiment in *Cognitive Processing* on objects whose identity is strongly tied to a colour.\n\nNaming those objects took 891 ms in their correct colour, 923 ms in greyscale, and 986 ms in the wrong colour — every gap statistically significant. So removing the colour cost about 32 ms. Printing it in the *wrong* colour cost three times as much, 95 ms against the correct version.\n\nThat is the useful ratio. Greyscale is a small, real penalty; a mark whose meaning depends on a colour that the printer cannot match is a much bigger one. Android makes the same point as a requirement rather than a finding: to support themed icons, an app must supply a **single monochrome layer** of its icon alongside the colour version.\n\nSo build the one-colour version first, as pure black on white with no tints, and treat colour as something added on top. If the mark still reads with the colour gone, it will read on the receipt book, the stamp, the fax-quality photocopy and the embroidered cap.\n\n## The circular crop, and how much it takes\n\nCircular crops are not a rounding error. Android's adaptive icon spec guarantees only a **66×66 safe zone centred inside a 108×108 container** — the area \"never clipped by a shaped mask defined by an OEM\", where the mask may be a circle on one handset and a squircle on another.\n\nDo the arithmetic and that safe zone is 61% of the width and about **37% of the drawn area**. Even a plain circle inscribed in a square keeps only π/4, or 78.5%, of the square — the corners lose 21.5% before any platform gets involved.\n\nThe practical rule follows: nothing that identifies the mark may sit in the corners, and the mark's silhouette should be roughly as tall as it is wide. Marks built on a wide horizontal lockup — name to the right of a symbol — lose their name to the crop every time, which is why the icon version is usually the symbol alone.\n\n## Where the mandal's name goes, and when it drops out\n\nMost searches behind this keyword are really about a group name, not a symbol: the mandal, the gully, the year, sometimes all three. That text is the first casualty of every constraint above.\n\nDraw two locked files instead of arguing about it. The full lockup — symbol plus name plus year — is for the arch, the banner, the letterhead and the receipt header. The icon-only version, symbol with no words at all, is for the group photo, the stamp and anywhere under about 100 pixels.\n\nThe 2001 *Journal of Consumer Research* study of brand logo complexity found in its own pretest that familiar logos were rated significantly simpler than novel ones (M = 3.06 versus M = 4.66, F(1, 702) = 187.5, p < .01). Its authors argued complexity is largely a red herring: what makes a mark process easily is uniformity along a single structural dimension, plus consistent meaning. A mandal already has both to hand — one silhouette, one story, repeated for ten days.\n\n## The three reproductions, side by side\n\n| Surface | Typical size | Colours available | What must be readable | Platform share |\n|---|---|---|---|---|\n| Group icon / shared page | ~200 px, circle-cropped | Full colour, plus a mono version | Symbol silhouette only | 49.6% of 46,005 views are on a phone |\n| Receipt book, stamp, slip | 15–40 mm | One ink | Symbol, and the name if set large | Not measured — offline surface |\n| Arch, flex, backdrop | 1–6 m | Full colour | Symbol, name, year | 0 of 46,005 measured views |\n\nThe last column is the honest part. SubhSandesh has data on the digital surface and none at all on the printed ones, because it has never printed anything.\n\n## Where a logo is the wrong thing to make\n\nIf your mandal exists for these ten days and will not reuse the mark, a logo is the wrong deliverable — commission the banner and stop. The reproduction discipline above only pays back if the same mark reappears next year.\n\nSubhSandesh does not make logos either, and cannot: it renders shareable pages, so the mark has to arrive already drawn. What it can do is carry one — a [Ganesh Chaturthi wishes page](https://subhsandesh.in/happy-ganesh-chaturthi) where the recipient performs the aarti and the offerings themselves, with your mandal's mark and photo on it, and the [written build guide](https://subhsandesh.in/guides/happy-ganesh-chaturthi) for setting one up. Other occasions sit in the [full template gallery](https://subhsandesh.in/templates).\n\nOne disclosure, because it would be easy to imply otherwise: there is no Ganesh Chaturthi page-creation data at all here. The `/happy-ganesh-chaturthi` template went live on 2026-09-10, four days before the festival, so every platform number in this post is drawn from the other 3,894 personalised pages created since 2026-03-12, across 15 page types — none of them Ganesh pages.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- Collaud, R., Reppa, I., Défayes, L., McDougall, S., Henchoz, N., & Sonderegger, A. (2022). [Design standards for icons: the independent role of aesthetics, visual complexity and concreteness](https://infoscience.epfl.ch/record/296221/files/1-s2.0-S0141938222001093-main.pdf). *Displays*, 74, 102290.\n- Therriault, D. J., Yaxley, R. H., & Zwaan, R. A. (2009). [The role of color diagnosticity in object recognition and representation](https://core.ac.uk/download/357327419.pdf). *Cognitive Processing*.\n- Janiszewski, C., & Meyvis, T. (2001). [Effects of brand logo complexity, repetition, and spacing on processing fluency and judgment](http://pages.stern.nyu.edu/~tmeyvis/merexp.pdf). *Journal of Consumer Research*, 28(1), 18–32.\n- Android Developers. [Adaptive icons](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive) — icon layer sizing, safe zone and the monochrome layer requirement. Last updated 2026-08-13.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-logo-design#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Logo",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Logo",
+              "https://www.wikidata.org/wiki/Q1886349"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Corporate identity",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Corporate_identity",
+              "https://www.wikidata.org/wiki/Q609781"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Design standards for icons: the independent role of aesthetics, visual complexity and concreteness in icon design and icon understanding",
+            "url": "https://infoscience.epfl.ch/record/296221/files/1-s2.0-S0141938222001093-main.pdf",
+            "datePublished": "2022-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Displays (Elsevier), open copy via EPFL Infoscience"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The role of color diagnosticity in object recognition and representation",
+            "url": "https://core.ac.uk/download/357327419.pdf",
+            "datePublished": "2009",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cognitive Processing (Springer), open copy via CORE"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Effects of brand logo complexity, repetition, and spacing on processing fluency and judgment",
+            "url": "http://pages.stern.nyu.edu/~tmeyvis/merexp.pdf",
+            "datePublished": "2001-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Consumer Research, author-hosted copy"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Adaptive icons",
+            "url": "https://developer.android.com/develop/ui/views/launch/icon_design_adaptive",
+            "datePublished": "2026-08-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Android Developers"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-logo-design#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What size should a Ganesh Chaturthi logo be?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no single size, which is the point of drawing it as a vector. Design it so it still reads at about 40 pixels — that is the size a group icon is actually displayed at — and it will scale up to a twenty-foot arch without redrawing. If you need a fixed export, a 1024x1024 PNG with transparency covers almost every digital use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does my Ganesh Chaturthi logo look fine in the editor but bad as a WhatsApp group icon?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Two things happen at once: it shrinks, and it gets cropped to a circle. Thin strokes fill in and any two shapes closer together than the stroke thickness merge into one blob, while the circular mask removes the corners — a plain inscribed circle keeps only 78.5% of a square. Test at 40 pixels inside a circle before you finalise anything."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I put my mandal's name inside the logo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, but only in the large version. Keep two locked files: a full lockup with the symbol, mandal name and year for the arch, banner, letterhead and receipt header, and a symbol-only icon with no words for the group photo, the stamp and anything under roughly 100 pixels."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does a Ganesh Chaturthi logo need to work in black and white?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It does, because receipt books, rubber stamps and duplicate slips are normally printed in one ink. Build the single-colour version first as pure black on white with no tints or gradients, then add colour on top. Android takes the same position as a hard requirement: supporting themed app icons means shipping a single monochrome layer."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How much does losing the colour actually cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Measurably little. In a 2009 experiment on objects whose identity is tied to a colour, naming took 891 ms in the correct colour and 923 ms in greyscale — about 32 ms. The wrong colour cost 986 ms, roughly three times the greyscale penalty, so a mismatched print is worse than a one-ink print."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should the logo be simple or detailed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Simple, but for a specific reason. A 2022 study found visual complexity — the count of lines and closed figures in an icon — did not significantly change whether people understood it, while concreteness did, with a large effect. So keep one recognisable thing, a trunk, a modak or a durva sprig, and strip the rest."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the safe zone for a circular logo crop?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Android's adaptive icon spec guarantees a 66x66 safe zone centred inside a 108x108 container — 61% of the width, or about 37% of the drawn area — as the region no manufacturer's mask will ever clip. Masks vary by handset, from a circle to a squircle, so anything outside that centre is not guaranteed to survive."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is an AI logo maker good enough for a mandal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It will give you an image, not an identity. A generator optimises what you see at full size and has no mechanism to check the mark at 40 pixels, in one ink, or inside a circle — which are the three things that decide whether a mandal can reuse it next year. If you use one, run all three tests on the output yourself."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a different logo for the arch and for the group icon?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not a different logo — a different lockup of the same mark. One symbol, two arrangements: symbol plus name plus year for large formats, symbol alone for small ones. If the two need different symbols, the symbol is too complicated."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What file formats should the mandal keep?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Keep an editable vector as the master, since that is what lets one mark serve a phone screen and large-format signage from the same file. Export a transparent PNG at 1024 pixels for digital use, and a one-colour black version for the printer. Hand all three to whoever runs the mandal next year."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When should we not bother with a logo at all?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "If the mandal will not reuse the mark, skip it. The reproduction discipline only pays back when the same mark reappears — on next year's receipt book, next year's arch, the same group icon. For a one-off celebration, commission the banner artwork instead and spend the time on the pandal."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The three reproductions one Ganesh Chaturthi mandal logo has to survive",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The group icon, roughly 200 pixels, cropped to a circle"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The one-colour print run — receipt books, stamps, slips"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The arch, the flex, the stage backdrop"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganesh chaturthi logo design",
+    "angle": "Wins by being the only page on this SERP that treats a Ganesh Chaturthi logo as a reusable identity mark with stated reproduction thresholds — a shrink test, a single-colour test and a 66x66-in-108x108 circular-crop test — rather than as a vector file to download, grounded in a 49.6% phone share of 46,005 measured views for the surface the mark is smallest on.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "46,005 recorded views of shared pages — measured 2026-09-09",
+      "49.8% of views are on a touch device (phone or tablet) — measured 2026-09-09",
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10"
+    ],
+    "sources": [
+      {
+        "url": "https://infoscience.epfl.ch/record/296221/files/1-s2.0-S0141938222001093-main.pdf",
+        "stat": "Peer-reviewed, open access. Icon visual complexity — the count of lines, closed figures, open figures and letters — did not significantly affect understanding of an icon's function (F < 1), while concreteness did, F(1, 63) = 23.40, p < .001, eta-squared-p = .30; simple icons were rated more appealing than complex ones, F(1, 56) = 4.03, p = .05. The 64 icons were drawn on a 24x24 vector grid with a one-square stroke width, in black and white only, as vectors so they could display 'from retina screens to large-scale signage systems'. Full published version read via the EPFL Infoscience copy; the ScienceDirect copy returned HTTP 403 to the fetcher.",
+        "publishedDate": "2022-04"
+      },
+      {
+        "url": "https://core.ac.uk/download/357327419.pdf",
+        "stat": "Peer-reviewed, open access. Naming latencies for objects strongly associated with a colour: 891 ms in the congruent colour, 923 ms in greyscale, 986 ms in an incongruent colour, all pairwise differences p < .05 (Experiment 1a); verification 613/640/669 ms (1b). So removing colour cost about 32 ms while the wrong colour cost 95 ms against the correct one. Linguistic context did not override colour diagnosticity. Full text read via the CORE copy; link.springer.com served a JavaScript challenge to the fetcher.",
+        "publishedDate": "2009"
+      },
+      {
+        "url": "http://pages.stern.nyu.edu/~tmeyvis/merexp.pdf",
+        "stat": "Peer-reviewed, open access (author-hosted). Pretest: familiar brand logos were rated significantly simpler than novel ones, M = 3.06 versus M = 4.66, F(1, 702) = 187.5, p < .01. The discussion argues complexity 'is probably a spurious factor in that it should lead to perceptual fluency only if there is a single, uniform perceptual dimension and lead to conceptual fluency only if there is a consistent and significant degree of meaning'. Full text read; the academic.oup.com PDF returned HTTP 403 to the fetcher.",
+        "publishedDate": "2001-06"
+      },
+      {
+        "url": "https://developer.android.com/develop/ui/views/launch/icon_design_adaptive",
+        "stat": "Platform specification. An adaptive icon needs a foreground and a background layer, vectors preferred; the '66x66 safe zone' centred inside a 108x108 container is 'the area that is never clipped by a shaped mask defined by an OEM', and each OEM supplies its own mask, which may be a circle or a squircle. Supporting user theming requires 'a single layer for the monochrome version of the icon'. The 61%-of-width and ~37%-of-area figures in the post are this post's own arithmetic on 66/108, stated as such. Page last updated 2026-08-13.",
+        "publishedDate": "2026-08-13"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+          "why": "1,748 words by the plain whitespace split the batch verifier gates on — inside the 1,500-1,800 band and inside BRIEF §2's tighter 1,650-1,760 target — but `wordCount()` in app/lib/batches.ts reads 1,766, so the studio will display a figure 18 words higher and near the top of the band. Recorded so the displayed number is not mistaken for a breach. Flagged rather than passed because the post sits in the upper third of the band with little headroom for a later edit."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "4 outbound links, not the 3-6 minimum met comfortably — and the shortfall is real rather than lazy. A fifth source on edge/silhouette sufficiency and on minimum reproducible line width in single-ink printing was searched for and does not exist open-access: Biederman & Ju (1988) 'Surface versus edge-based determinants of visual recognition' is paywalled (OpenAlex is_oa=false), and OpenAlex queries for 'symbol legibility minimum size observer', 'logo simplification brand mark redesign', 'trademark similarity visual shape consumer confusion' and 'image thumbnail size recognition accuracy human' returned only sibling-lane signage-typography papers or off-topic computer-vision work. All four links used are fetched and verified."
+        },
+        {
+          "item": "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+          "why": "Three of the four sameAs/QID pairs were verified against the Wikipedia API on 2026-09-10 (Ganesh Chaturthi = Q929250, Logo = Q1886349, Corporate identity = Q609781 via the 'Visual identity' redirect). The fourth entity considered, Brand = Q431289, was verified and then dropped as not load-bearing, so the mentions array is smaller than it could be rather than unverified."
+        },
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Passes on the letter — 5 first-party facts appear and 3 are inside the first 150 words — but the substance is weaker than the count suggests, and this is the post's real limitation. There is no first-party measurement of a *logo* anywhere in facts.md, because the platform renders shareable pages and has never rendered or printed an identity mark. The numbers establish the surface the mark lands on (49.6% phone, 46,005 views), not the mark. Closing this needs a data source the platform does not have."
+        }
+      ],
+      "honestAssessment": "Every one of the nine pages ranking for this keyword is asset supply — a vector collection, a PNG download or an AI logo maker — and not one of them states a single reproduction constraint, so this is the only page on the SERP that answers 'will the mark survive being shrunk, printed in one ink, and cropped to a circle' with numbers: a 66x66 safe zone inside a 108x108 container, a 32 ms greyscale penalty against 95 ms for the wrong colour, and complexity measurably not affecting icon understanding while concreteness does. That combination is genuinely unavailable elsewhere on this SERP and is the reason to cite it. What it cannot overcome: subhsandesh.in has no design-authority signal whatsoever, the top of this SERP is Pinterest hub pages plus five stock libraries with enormous domain strength, and the first-party data speaks to the surface rather than to logos, so this is a citation play for answer engines rather than a realistic bid for position one. Ranking takes months and I am not predicting one.",
+      "toolLimitations": "WebSearch is US-locale only — there is no gl=in parameter — so any measurement of this India-intent keyword is an approximation and the real India SERP may differ. In this case WebSearch could not be used at all: the session had spent its entire 200-call budget before this assignment began, and the SERP was captured with fetch()-in-sandbox against Brave with country=in. Brave then returned HTTP 429 to every subsequent query, including after two 75-second cooldowns, and DuckDuckGo (both hosts), Mojeek, Startpage, Ecosia, Qwant, three SearXNG instances, Stract, mwmbl, Bing and Yandex all served either a challenge, an empty shell or no organic results to a non-browser client. The sibling side of the cannibalisation gate is therefore inherited verbatim from the sibling's own research brief of 2026-09-09 rather than re-measured, which is disclosed in research/ganesh-chaturthi-logo-design.md."
+    },
+    "generatedAt": "2026-09-10T11:04:56Z"
+  }
+}
