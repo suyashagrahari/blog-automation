@@ -229,6 +229,16 @@ already. They had been:
 
 **No source URL appears in 2 or more posts.** Every other domain sits at 1.
 
+**Re-counted again at the end, because two more siblings landed mid-assignment.**
+`ganesh-chaturthi-activities-for-kids` and `ganesh-chaturthi-whatsapp-stickers` were
+written while this post was in draft, taking `-10c` to 11 blogs. Neither used `doi.org`,
+so the final position across all 11 blogs with this post included is unchanged:
+`doi.org` 3 (at cap), `pmc.ncbi.nlm.nih.gov` 3 (at cap), `en.wikipedia.org` 2, no URL in
+more than 1 post, **zero cap violations**. Both new siblings were also checked for
+keyword collision against this assignment: their keywords are `ganesh chaturthi
+activities for kids` and `happy ganesh chaturthi stickers for whatsapp`, neither claims
+an office or workplace string, and neither body contains the word "office" at all.
+
 The `pmc.ncbi.nlm.nih.gov` correction is the consequential one: an eighth blog
 (`ganpati-decoration-ideas-at-home`) landed after the assignment's figures were taken,
 and PubMed Central — the first place this lane's literature search would reach for — is
@@ -283,9 +293,100 @@ festival lead-time measurement.
 
 ## 7. Phase 3 — sources
 
-See `batchMeta.sources` in the blog JSON for the fetched-and-verified set, with what
-each one actually says and its publication date. Sourcing notes, rejections and the
-subject/swap-test reasoning are recorded there and in §5 above.
+Four sources. **All four are peer-reviewed and open-access, all four were fetched and
+read in full, and all four pass the subject test.** Zero generic context statistics,
+zero Wikipedia body links, zero competitors. Full verified extracts are in
+`batchMeta.sources`; this is the summary.
+
+| # | Source | Domain | Peer-reviewed | Open | Read |
+|---|---|---|---|---|---|
+| 1 | Yim, Foulk, Klotz & Schilpzand, *Is Everyone Having a Good Time?* — accepted at *Journal of Management* | `discovery.ucl.ac.uk` | Yes (accepted) | Yes, institutional repo | Full pre-proof |
+| 2 | Urrila, Siiriäinen, Mäkelä & Kangas, *Sense of belonging in hybrid work settings*, *J. Vocational Behavior* 157:104096 | `doi.org` | Yes | Yes, CC BY | Full |
+| 3 | Lauring & Jonasson, *How is work group inclusiveness influenced by working virtually?*, *HRM Review* 33(1):100930 | `pure.au.dk` | Yes | Yes, CC BY | Full |
+| 4 | Larsen, *Rituals and Ritual-like Activities in the Workplace*, *Management Revue* 36(4):49103 | `www.imrpress.com` | Yes | Yes, CC BY 4.0 | Full |
+
+**Source 1 is the load-bearing one and it is squarely on subject.** Its Study 1 is an
+inductive coding of what 37 employees said about the last *workplace celebration* they
+attended — 105 negative responses in seven categories, with frequencies. Three of those
+categories are precisely this assignment's three anxieties: *require personal
+sacrifices* (36), *exclusion* (20) and *attendance pressure* (5). No competing page has
+anything like it, and it is the reason the post can treat attendance pressure as
+measured rather than asserted.
+
+**Swap test.** All four concern workplace rituals, organisational belonging or virtual
+inclusion. None could sit unchanged in a rangoli, modak, banner or photos post in this
+batch — the swap test is passed by construction, because the lane is organisational
+behaviour and no sibling shares it.
+
+**Two accuracy notes carried into the body rather than hidden:**
+
+- The ritual and belonging samples are American, British, German and Finnish, and none
+  concerns a *religious* festival. Yim et al. state their own limitation — data span
+  "US, UK, and Germany" and "we cannot rule out potential cultural effects", with
+  perceptions "in more collectivistic cultures may differ significantly". The post says
+  so and frames every applied claim as a mechanism argument, not a measurement of Indian
+  offices.
+- Lauring & Jonasson is **conceptual** — propositions, not an empirical test. The post
+  says "a proposition rather than a tested result" and also states that their
+  Proposition 1 runs the *opposite* way at group level, rather than quoting only the
+  half that suits the angle.
+
+**Cost figures.** No dated source for Indian office-celebration costs was found. The
+₹200–500 per-head figure is therefore labelled in the body as an **illustrative range,
+not a sourced figure**, per the assignment's accuracy rule. It is not in `sources` and
+not in `citation`.
+
+**No Indian labour-law or holiday-entitlement claim is made anywhere.** The post says
+only that whether 14 September is a working day depends on the state notification and
+the employer's leave policy, and that it varies. The live business-wishes post already
+owns the sourced gazetted-vs-restricted analysis, and its CAG source is deliberately not
+re-cited here (Gate B constraint 1).
+
+### Sources considered and rejected
+
+- `mdpi.com` — *Religions* 13(6):481, "Building a More Inclusive Workplace for Religious
+  Minorities". **HTTP 403** to the fetcher on both the article and PDF URLs, confirming
+  the `-10b` sibling's finding independently. Would have been a good fourth religion-at-work
+  source. Not cited, because it could not be read.
+- `onlinelibrary.wiley.com` — Héliot et al., "Religious identity in the workplace: A
+  systematic review", *Human Resource Management* 59(2), CC BY per OpenAlex. **Not
+  attempted:** the `-10b` sibling brief records all three open mirrors returning 403 or
+  timing out and says explicitly "do not burn time re-searching it". Honoured.
+- `sites.pitt.edu` / `cmu.edu` — Babcock, Recalde, Vesterlund & Weingart, "Gender
+  Differences in Accepting and Receiving Requests for Tasks with Low Promotability",
+  *American Economic Review* 107(3). Genuinely relevant to *who ends up organising the
+  office celebration*, and it would have been the post's sharpest additional claim. The
+  author copy **reset the connection** repeatedly and the CMU mirror 404s; AEA is
+  paywalled. **Dropped rather than cited from memory.** Worth one attempt by a future
+  agent via a different mirror.
+- `researchgate.net` / `academia.edu` — aggregator mirrors. Excluded on the precedent set
+  by the `eco-friendly-ganesh-idol` abort report.
+- `sciencedirect.com` — 403s to the fetcher (bot block, not a paywall) for both Elsevier
+  papers. Both were read instead via their CC BY institutional-repository copies
+  (`osuva.uwasa.fi` for source 2, `pure.au.dk` for source 3). Source 2 is cited at its
+  canonical DOI because that is also the OA URL OpenAlex reports; source 3 is cited at
+  the repository copy actually read.
+- `deccanherald.com` — "Ganeshotsav declared Maharashtra's state festival" (10 July
+  2025). Fetched, but only the headline, dek and date rendered; the body did not. Citing
+  a headline is not verification, and the fact is not load-bearing for the angle.
+  **Dropped.**
+- `frontiersin.org`, `arxiv.org`, `journals.plos.org`, `nature.com`, `drikpanchang.com` —
+  avoided per BRIEF §2's heavily-used list. The festival date is stated without a
+  citation because it is the batch's own premise, agreed across all 25 live posts, and
+  the post states no muhurat time, so per checklist item 36 the panchang earns no place
+  in `sources` or `citation`.
+- `pmc.ncbi.nlm.nih.gov` — **the domain cap is exhausted at 3 posts** (see §5). This is
+  where an organisational-behaviour literature search naturally lands first, so the whole
+  source set was built to avoid it. `www.ncbi.nlm.nih.gov` was avoided too, as a prudence
+  call recorded in §5.
+
+### Cap position after this post
+
+`doi.org` moves from 2 posts to **3 — now at the cap.** `en.wikipedia.org` stays at 2
+(one slot). `pmc.ncbi.nlm.nih.gov` stays at 3 (exhausted). `discovery.ucl.ac.uk`,
+`pure.au.dk` and `www.imrpress.com` are all new to the batch at 1 post each. No URL
+appears in 2 or more posts. Verified by re-counting all nine `-10c` blog JSONs with this
+post included.
 
 ---
 
@@ -306,7 +407,30 @@ Read in its **current** form, not the superseded ban.
 
 ---
 
-## 9. Files emitted
+## 9. Audit outcome
+
+**48 passed, 2 failed, `passed ∩ failed = ∅`, `|passed| + |failed| = 50`** — asserted
+programmatically against the 50 item strings extracted verbatim from
+`references/publish-checklist.md`, including the `**bold**` markers and the full
+multi-line clause of item 36.
+
+The two failures, both structural rather than fixable by more writing:
+
+1. **"Slug short, hyphenated, lowercase, no stop words"** — the slug contains the stop
+   word "in". Kept deliberately: the assignment fixed the slug to match the keyword
+   string exactly, item 14 requires the target keyword in the slug, and renaming to
+   `ganesh-chaturthi-office-celebration` (also verified free) would break that match.
+   Flagged rather than silently renamed.
+2. **"Every internal link is a real URL from TEMPLATE_LINKS"** — `/guides/happy-ganesh-chaturthi`
+   is live and legitimate but is not in the `TEMPLATE_LINKS` array. See §8. It would close
+   only if that URL were added to `TEMPLATE_LINKS`.
+
+Word count by the studio's own `wordCount()` in `app/lib/batches.ts`, replicated exactly:
+**1,776** (target 1,700–1,780). Plain split: 1,724, so the reference schema validator's
+1,500–1,800 check also passes. FAQs are excluded from both figures — they live only in
+`article.faqs` and are absent from `contentMarkdown`, verified by regex.
+
+## 10. Files emitted
 
 - `content/batches/2026-09-09-ganesh-10c/research/ganesh-chaturthi-celebration-in-office.md` — this brief.
 - `content/batches/2026-09-09-ganesh-10c/blogs/ganesh-chaturthi-celebration-in-office.json` — the post.
