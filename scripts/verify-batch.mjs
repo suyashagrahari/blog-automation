@@ -81,6 +81,25 @@ const TEMPLATES = new Set(
   [...linkBlock.matchAll(/\$\{SITE_ROOT\}(\/[a-z0-9-]*)/g)].map((m) => "https://subhsandesh.in" + m[1])
 );
 // slugs removed on 2026-09-02 for being 307 redirects
+// SubhSandesh's OWN channels. The source caps exist to stop one third-party
+// publisher carrying a batch ("nine posts citing the same PIB release"); a link
+// to our own YouTube walkthrough or Instagram profile is not a research source
+// any more than a link to subhsandesh.in is, and the loop below already skips
+// that host for exactly this reason.
+//
+// Added 2026-09-10. The 2026-09-09-ganesh-10c batch reported 4 CAP problems that
+// were all this one issue: the user asked for the Ganesh guide's video and
+// profile links in every Ganesh post, which is a deliberate first-party
+// cross-link, and the URL cap of 2 posts then fired on posts 3..n. Matching on
+// the exact URL/handle rather than the bare host keeps the cap live for genuine
+// youtube.com and instagram.com citations, which a post may still over-reuse.
+const FIRST_PARTY = [
+  "youtube.com/watch?v=mpWiv5T59QY",   // the Ganesh Chaturthi page walkthrough
+  "youtube.com/@subhsandesh",
+  "instagram.com/subhsandesh_official",
+];
+const isFirstParty = (u) => FIRST_PARTY.some((f) => u.includes(f));
+
 const DEAD = ["/birthday-bestfriend", "/birthday-friend", "/birthday-parents", "/anniversary-gf",
   "/anniversary-parents", "/valentine-gf", "/valentine-bestfriend", "/missyou-bestfriend",
   "/sorry-gf", "/sorry-friend"];
@@ -244,6 +263,7 @@ for (const f of files) {
     for (const m of String(text).matchAll(/https?:\/\/[^"\\)\s>\]]+/g)) {
       let u = m[0].replace(/[.,;:)\]]+$/, "");
       if (u.includes("subhsandesh.in") || u.includes("schema.org")) continue;
+      if (isFirstParty(u)) continue;  // our own channels — see FIRST_PARTY above
       out.add(u);
     }
   }
