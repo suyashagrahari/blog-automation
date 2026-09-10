@@ -105,26 +105,51 @@ abstract is readable, cite only the abstract and record that in the audit.
 
 ---
 
-## 3. The internal-link situation — read this before Phase 5
+## 3. The internal-link situation — REVERSED on 2026-09-10, read this before Phase 5
 
-All 37 `TEMPLATE_LINKS` in `app/lib/prompt.ts` were checked live today.
-**36 return 200. Exactly one is dead: `/happy-ganesh-chaturthi` → 404.**
+**UPDATE — the Ganesh page has shipped. Link it.**
 
-That is the Ganesh template itself. The walkthrough video shows the page working, and
-`subhsandesh.in/sitemap.xml` has 1,121 URLs with no Ganesh page among them, so it is
-built but not deployed. `/guides/happy-ganesh-chaturthi` 404s too.
+Re-verified 2026-09-10:
 
-**21 of the 25 existing posts link to it.** This wave will not add ten more dead links.
+| URL | status | evidence |
+| --- | --- | --- |
+| `/happy-ganesh-chaturthi` | **200, real page** | title "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free"; 158 on-page mentions of ganesh/ganpati/modak/aarti |
+| `/guides/happy-ganesh-chaturthi` | **200, real page** | H1 "Build a Ganesh Chaturthi page for the people you cannot sit with" |
 
-- **Do not link `/happy-ganesh-chaturthi`** from `contentMarkdown`.
-- **Do not put it in `batchMeta.templateUrls`** — those render as `relatedTemplates`.
-- Use `/templates` (live) as the topical CTA, plus 1–2 other live templates that are
-  genuinely relevant to your keyword.
-- Your post must still work as a post if the Ganesh page never ships. No sentence may
-  depend on the reader being able to open it today.
+`sitemap.xml` is now **1,123 URLs and both Ganesh URLs are in it** — it was 1,121 with
+zero Ganesh entries a few hours earlier.
 
-The batch records this in `publishBlockers`. Once the page ships, one script adds the
-link to all 35 posts.
+So, for any post not yet finalised:
+
+- **`/happy-ganesh-chaturthi` is now the correct topical CTA.** Link it, and put it in
+  `batchMeta.templateUrls`.
+- `/guides/happy-ganesh-chaturthi` is a legitimate second link — it is the written
+  step-by-step guide, and the YouTube walkthrough in §4 points at it.
+- Keep `/templates` only if you want a third, broader link. It is no longer needed as a
+  substitute.
+- You may now write sentences that assume the reader can open the page today.
+
+### What this superseded, kept for the record
+
+Earlier on 2026-09-09 all 37 `TEMPLATE_LINKS` were checked and 36 returned 200 with
+`/happy-ganesh-chaturthi` the single dead one — a genuine 404, confirmed in a real
+browser showing an H1 of "404", with no Ganesh URL anywhere in the sitemap. The brief
+therefore banned the link and told ten agents to use `/templates` instead. That was
+correct when written and is now wrong.
+
+**Consequences to handle at consolidation, not by you:**
+
+- The four wave-3 posts already written under the ban (`banner-and-poster`,
+  `songs-and-bhajans`, `ganpati-bappa-photos`, `good-morning-wishes`) omit the link and
+  must be retrofitted.
+- The 21 wave-1/2 posts that link `/happy-ganesh-chaturthi` were pointing at a 404 and
+  are now correct with no action needed.
+- One agent reported this URL as a *soft* 404 returning HTTP 200 with a not-found
+  shell. That reading was taken mid-deploy; it is a real page now. Do not rely on a
+  status code alone for this URL — check for on-page Ganesh content.
+
+**Still true: the 25 wave-1/2 blog posts are NOT published.** No `/blog/<slug>` for any
+of them appears in the sitemap. The product page shipping does not change that.
 
 ---
 

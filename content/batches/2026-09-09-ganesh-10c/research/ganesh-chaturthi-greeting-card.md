@@ -6,11 +6,20 @@
 - **Slug:** `ganesh-chaturthi-greeting-card` (verified free on Strapi today)
 - **Cannibalisation sibling:** `ganesh-chaturthi-wishes-with-name` — **already live**, batch `2026-09-09-ganesh-10b`, keyword `happy ganesh chaturthi with name`
 - **Research lane:** history and sociology of the greeting card — mediated ritual, why a bought token carries obligation, what changed when cards went digital
-- **Run date:** 2026-09-09. Ganesh Chaturthi 2026 is **Monday 14 September** (five days out). Anant Chaturdashi visarjan **Friday 25 September**.
+- **Run date:** Phases 1–2 on **2026-09-09**; Phases 3–6 on **2026-09-10** by a second agent after
+  the first was killed by an account spend limit mid-Phase 3. Ganesh Chaturthi 2026 is
+  **Monday 14 September**. Anant Chaturdashi visarjan **Friday 25 September**.
 
 ---
 
-## VERDICT: **GATE PASSES — post written.**
+## VERDICT: **GATE PASSES — post now written (2026-09-10).**
+
+**Header correction.** Until 2026-09-10 this file read "GATE PASSES — post written" while no
+blog JSON existed: the Phase 1–2 agent was killed by an account spend limit during Phase 3,
+after the gate had passed but before any source was fetched or any JSON written. Everything
+above the Phase 3 heading is Phase 1–2 work and stands as recorded. Everything from Phase 3
+down was produced on 2026-09-10, and the source list the dead agent had merely *named* was
+re-searched and re-verified from scratch rather than inherited (see Phase 3).
 
 Shared articles between the two SERPs, on (domain, title) article identity, Pinterest and
 YouTube excluded:
@@ -330,26 +339,256 @@ and none acted more than 7 days ahead.
 
 ---
 
-## Phase 3 — Sources
+## Phase 2b — The live with-name post declares this keyword as a fold
 
-See `batchMeta.sources` in the blog JSON for the fetched-and-verified list with publication
-dates. Lane: history and sociology of the greeting card.
+Raised by the coordinator on 2026-09-10, after the batch-level coverage scan was re-run. The
+first scan extracted declared folds only from the header `**Secondaries folded in:**`, which
+appears in 4 of the 25 live briefs; twelve others use `**Folds in:**` and were missed. The true
+claimed set is 86 keywords, not 31.
 
-Search terms used (phenomenon, not keyword): `greeting card ritual obligation sociology`,
-`greeting card industry sentiment history`, `material culture of cards and gifts`,
-`gift exchange reciprocity obligation anthropology open access`, `digital gifting mediated
-intimacy study`, `e-card versus physical card recipient perception`, `Speed Post delivery
-norms India`.
+**What that means here.** `content/batches/2026-09-09-ganesh-10b/research/ganesh-chaturthi-wishes-with-name.md`
+line 4 reads:
 
-**Recorded honestly:** the greeting card is a thinly studied object. There is a real literature
-on gift exchange and on mediated intimacy, and a smaller one on cards specifically, much of it
-paywalled monographs rather than open-access journal articles. Where only an abstract was
-readable that is recorded in the audit.
+> `**Folds in:** happy ganesh chaturthi name style · happy ganesh chaturthi photo editor online · ganesh chaturthi greeting card`
+
+and `blogs/ganesh-chaturthi-wishes-with-name.json` carries all three in `article.keywords`:
+
+> `happy ganesh chaturthi with name, ganesh chaturthi wishes with name, happy ganesh chaturthi name style, happy ganesh chaturthi photo editor online, ganesh chaturthi greeting card`
+
+So a live post claims **all three** of this assignment's keywords on paper — the primary and
+both folded secondaries.
+
+**Why this post proceeds anyway.** A measured SERP beats a declared intention. The Phase 1 gate
+above compared the two queries on (domain, title) article identity, India-localised, on three
+instruments: **0 shared articles on Google `gl=in`, 1 on DuckDuckGo `kl=in-en`, 2 on Brave
+`country=in`** — against a threshold of 3. On Google India the two result sets do not intersect
+at all, and the reason is structural: `ganesh chaturthi greeting card` returns card surfaces
+(design galleries, stock libraries, the egreetings.gov.in portal, Amazon and Etsy card
+listings, a wooden-card shop), while `happy ganesh chaturthi with name` returns name-on-image
+surfaces (mynameart, mynamepics, writenamepics, newmynamepix, birthdayphotoframes). The
+declared fold was never earned in the index. **The gate is not re-run** — the recorded result
+stands.
+
+### Recommended reallocation — for the coordinator to apply, not this agent
+
+This agent did **not** edit any other blog's files.
+
+| Keyword | Recommendation | Reason |
+|---|---|---|
+| `ganesh chaturthi greeting card` | **Strike** from the with-name post's declared folds and from its `article.keywords`. It belongs to this post. | It is this post's primary, and it has its own non-intersecting SERP on Google India. The with-name post never states a card price, a posting deadline or a delivery time — the whole substance of the query. |
+| `happy ganesh chaturthi name style` | **Leave with the live with-name post.** Drop it from this post's claim. | That post carries a whole H2, *"Name style: what survives a phone screen"*, on exactly this question. This post does not re-litigate name typography (recorded above) and mentions name style only as one priced format. |
+| `happy ganesh chaturthi photo editor online` | **Leave with the live with-name post.** Drop it from this post's claim. | That post has a dedicated H3, *"a name burned into a JPEG by an online photo editor"*. This post treats the photo-editor route as one row in a cost-and-deadline table — a different question, but not enough to own the keyword. |
+
+**Honest note on what shipped.** This post's `article.keywords` still lists both secondaries,
+because the assignment instructed folding them in and reallocation is the coordinator's call,
+not this agent's. If the recommendation above is accepted, `happy ganesh chaturthi name style`
+and `happy ganesh chaturthi photo editor online` should be struck from **this** post's
+`article.keywords` too, leaving `ganesh chaturthi greeting card`, `ganesh chaturthi card last
+date` and `ganesh chaturthi card price`. The body needs no change either way: the name-style
+and photo-editor material is two sentences and one H3 row, and both survive as supporting
+detail without the keyword claim.
+
+The sibling case is the opposite outcome and worth recording next to this one: the live
+`happy-ganesh-chaturthi-wishes` brief declares `ganesh chaturthi quotes`, that keyword's SERP
+**also** merged, and it was correctly aborted. This one survives on the evidence.
+
+---
+
+## Phase 3 — Sources, fetched and verified 2026-09-10
+
+Lane: history and sociology of the greeting card, plus the physical card's delivery logistics.
+
+**Nothing was inherited.** The dead agent's Phase 3 section named search terms and a "see
+`batchMeta.sources`" pointer, but no `batchMeta.sources` existed and no URL was ever recorded —
+so there was nothing to verify. Every source below was searched, fetched and read on
+2026-09-10. Where a PDF was involved it was downloaded and text-extracted, and the specific
+sentence carrying the cited number was located before the source was accepted.
+
+Search terms used (phenomenon, not keyword): `greeting card social relations obligation open
+access`, `greeting card ritual exchange material culture DOAJ`, `Christmas card social network
+size`, `digital greeting cards mediated intimacy`, `communication media choice awkwardness
+field experiment`, `India Post Speed Post service standards citizen charter`, `India Post
+domestic Speed Post tariff 50 g`.
+
+### The five that shipped
+
+| # | Source | Subject test | Verification |
+|---|---|---|---|
+| 1 | India Post, **Citizens' Charter of the Department of Posts** (2021), `indiapost.gov.in/documents/CitizenCharter2021.pdf` | Pass — the printed card's delivery deadline is the post's spine | PDF downloaded (1.64 MB) and text-extracted. Table 1.2 read verbatim: Speed Post Local 1–2, Metro-Metro 1–3, State Capital to State Capital 1–4, Same State 1–4, Rest of the country 4–5 **days**. Table 1.1 First Class Mail (letters, postcards, inland letter cards): Local 2, Metro-Metro 2–4, Same state 2–6, State Capital to State Capital 3–5, Rest of country 5–6. Footnotes read: Sundays excluded; Branch Office booking or delivery adds 1 day. |
+| 2 | India Post, **Domestic Speed Post Document** (Mail Products), `indiapost.gov.in/mailproducts/premiumservices` | Pass — the delivered cost of the physical format | Page fetched and indexed. Verbatim: "delivers across the country @ **INR 47.00** (GST extra as applicable) and Local @ **INR 19.00** (GST extra as applicable) for consignments up to 50 grams". Specifications read: max weight 500 g; max 420 mm × 297 mm × 24 mm. **No publication date on the page — `publishedDate` omitted, not back-filled with the fetch date.** |
+| 3 | **Hill & Dunbar, "Social Network Size in Humans"**, *Human Nature* 14(1):53–72, 2003 — author's institutional copy at `rahill.webspace.durham.ac.uk` | Pass — the study *is* card-sending behaviour | PDF downloaded (819 KB), full text extracted and read. Methods and Results located verbatim: "Forty-three questionnaires were returned, between them involving a total of 2,984 Christmas cards… The mean number of Christmas cards sent was 68.19 (range 11–149)… mean network size of 153.5… 124.9 for the 22 questionnaires for which this distinction was made". Kin ≈ 21% from the abstract. Peer-reviewed; free full text from the first author's own university page. |
+| 4 | **Kumar & Epley, "It's Surprisingly Nice to Hear You"**, *Journal of Experimental Psychology: General*, advance online 2020-09-10 — author's copy at `kumar-amit.com` | Pass — media choice for a personal greeting | PDF downloaded twice (author copies on both `nicholasepley.com` and `kumar-amit.com`; the latter shipped because the URL is stable and human-readable). **Full text read, not the abstract.** Experiment 1 located verbatim: "Sixty-seven percent of participants indicated that they would prefer to interact over e-mail than over the phone, χ²(1, N = 200) = 23.12, p < .0001" while expecting a stronger bond by phone; abstract confirms voice produced stronger bonds "and no increase in awkwardness". |
+| 5 | **Davydova, "Thematic analysis of scientific publications dedicated to a greeting card…"**, *Theory and Practice of Design* 1(25):202–209, 2022, DOI `10.18372/2415-8151.25.16797` | Pass — directly about greeting-card scholarship | Found via DOAJ. `doaj.org` returned HTTP 403, so the PDF was retrieved from the Index Copernicus mirror (492 KB) and text-extracted; the DOI was then resolved separately and confirmed HTTP 200 → `jrnl.kai.edu.ua/index.php/Design/article/view/16797`. **The DOI is what shipped as the URL.** Gold open access, peer-reviewed. Cited claim taken from the abstract and results, which state that the scholarship treats the postal greeting card "from the standpoint of socio-cultural and historical heritage, and not only from the standpoint of a means of transmission information". |
+
+### Rejected, and why
+
+- **`doaj.org/article/1339e…`** — HTTP 403 to a non-browser client. Replaced with the DOI.
+- **BORIS (Bern), "digital greeting cards as a form of counter-memory"** — the repository is
+  behind an Anubis proof-of-work bot wall; the PDF could not be read, so it was **not cited**.
+  It looked like the single best on-lane source on *digital* cards specifically, and losing it
+  is the biggest gap in this source list.
+- **Emily West, "A taste for greeting cards"** (*Journal of Consumer Culture*, 2010) and
+  **Alexandra Jaffe, "Packaged Sentiments"** (*Journal of Material Culture*) — both on-subject
+  and both paywalled behind SAGE with no open version found. Not cited; nothing was taken from
+  a publisher abstract page.
+- **The BGSU honors project on greeting-card selection** — open access but an undergraduate
+  thesis, not peer-reviewed. Rejected rather than counted as the scholarly source.
+- **`psychologycorner.com`'s greeting-card piece** — a collaboration with Paperless Post, an
+  e-card builder. Competitor-adjacent. Rejected.
+- **Card-maker tools of every kind** (Canva, Adobe Express, PosterMyWall, Kapwing,
+  createcustomwishes, 123Greetings, ayozan, homiwork, joliecarte, waybayme, pikaaso) and the
+  card shops (Amazon, Etsy, woodgeekstore) — **competitors under `competitors.md`.** Read in
+  Phase 1, never cited, never linked.
+
+### The ₹99–₹499 card price is an observation, not a citation
+
+The shelf price of a folded religious-festival card could not be sourced without linking a
+retailer, and retailers are competitors. It is stated in the body as a first-hand observation
+of the shopping results for this query on 2026-09-09, with no link and no attribution, and it
+is the one number in the post that has no third-party source behind it. Recorded here so it is
+not mistaken for a sourced figure.
+
+### Cap check, re-run 2026-09-10 against all six committed siblings
+
+At the time of writing, `blogs/` held six JSONs (banner-and-poster, good-morning-wishes,
+greeting-card, rangoli-designs, songs-and-bhajans, ganpati-bappa-photos). No source URL appears
+in more than 2 posts and no domain in more than 3. This post introduces four fresh domains
+(`indiapost.gov.in`, `rahill.webspace.durham.ac.uk`, `kumar-amit.com`, and `jrnl.kai.edu.ua`
+via the DOI). `doi.org` now stands at 3 posts, but the BRIEF classes it as a resolver rather
+than a publisher, and the three resolve to three different publishers.
+
+---
+
+## Phase 4 — Structure as written
+
+H1 → answer paragraph (two paragraphs, 3 sentences each; three first-party numbers inside the
+first 150 words) → 7 content H2s → the verbatim social block → `## Sources`. FAQs are in
+`article.faqs` only; there is no FAQ heading anywhere in `contentMarkdown`.
+
+| Block | Fan-out sub-query it answers |
+|---|---|
+| `## What a Ganesh Chaturthi greeting card is: four formats, one deadline` | what a Ganesh Chaturthi greeting card is |
+| `## The posting deadline for 14 September 2026 was 7 September cross-country` | when it must be posted · how late is too late |
+| `## Four ways to send a Ganesh Chaturthi greeting card, priced` (4 H3s) | what a real card costs · name style and photo editors, briefly |
+| `## Card against page: ₹146 and five working days versus ₹0 and seconds` | card versus page, compared |
+| `## What the printed card does that no page can: 2,984 cards across 43 households` | why a bought card carries weight a message does not · what happened when cards went digital |
+| `## Why 67% pick the easier channel, and what our 89 rakhi pages say` | (carries both mandatory BRIEF §1 disclosures) |
+| `## When a link is the wrong answer, and where our own page falls short` | when the physical card is still the right answer |
+
+Eight of the eight Phase 2 fan-out sub-queries are covered. The weakest is *"what happened when
+cards went digital"*, which is compressed into two sentences inside the Hill-and-Dunbar H2
+rather than getting its own section — a consequence of the 1,700–1,780 word ceiling, and the
+BORIS source that would have carried it being unreadable.
+
+**The comparison table** is 4 rows × 4 columns. Column 4 is the first-party column: 49.6% of
+46,005 page views arriving on a phone, and the 5.4-hour median from a festival page's first
+save to its last edit (n=89). Rows 1 and 2 say plainly that there is no first-party data for a
+posted card, rather than inventing a number for the sake of a full column.
+
+**Both BRIEF §1 disclosures are in body prose**, bolded, in the `## Why 67% pick the easier
+channel` section: that the measurement is Raksha Bandhan 2026 and not Ganesh Chaturthi — a
+different, one-day festival against Ganesh Chaturthi's ten days to Anant Chaturdashi — and that
+n = 89 is small, with an explicit instruction not to read a per-template or per-region rate off
+it and a statement that there is no Ganesh page-creation data at all (occasion-dated pages are
+144 of 3,894, 3.7%).
+
+**Word count: 1,773 by `wordCount()` in `app/lib/batches.ts`** — the studio's own measure,
+replicated exactly (fenced blocks to spaces, then `[#>*_`|\-\[\]()!]` to spaces, then split).
+Plain split reads 1,725. The three earlier posts in this batch landed 1,807–1,836 on the studio
+measure because their agents trusted a plain split; this one was measured with the studio
+function from the first draft and trimmed twice to land inside 1,700–1,780. The ~51-word social
+block is inside that total.
+
+---
+
+## Phase 5 — Links and schema
+
+**Outbound: 5**, all fetched and verified above, all inline at the sentence stating the fact.
+**Zero competitor links. Zero Wikipedia links in the body** — Wikipedia appears only as
+`sameAs` targets in schema, which does not count against the 0–2 body budget.
+
+**Internal: 3**, all from `TEMPLATE_LINKS` in `app/lib/prompt.ts`, all placed in the final
+content H2 after the post has established why they matter:
+
+- `/templates` — the live topical CTA
+- `/happy-rakshabandhan-to-brother` — the collection the n=89 measurement actually comes from
+- `/shaadi-card` — an animated card that *is* a page, which is the post's whole comparison
+
+`batchMeta.templateUrls`: `["/templates", "/happy-rakshabandhan-to-brother", "/shaadi-card"]`.
+
+**`/happy-ganesh-chaturthi` is not linked and is not in `templateUrls`**, per BRIEF §3. One
+observation worth recording for whoever fixes it: on 2026-09-10 a plain GET to
+`https://subhsandesh.in/happy-ganesh-chaturthi` returned **HTTP 200** with a real
+`<title>Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free | SubhSandesh</title>`,
+while the HTML payload also contained the strings `404` and `not found`. That is consistent with
+a Next.js not-found route rendering under a 200, or with the page having shipped since the
+BRIEF was written. **It changes nothing here** — the instruction is absolute, the page is still
+absent from `sitemap.xml`, and no sentence in the post depends on the reader opening it. The
+post states in prose that the Ganesh page is built but not yet published, so it reads correctly
+whichever way the deployment lands.
+
+**`structuredData` is additive only**, two blocks:
+
+- `ItemList` at `#formats` — 4 `ListItem`s mirroring the four H3s in order, each `description`
+  carrying only concrete cost and delivery facts.
+- `BlogPosting` at `<canonicalURL>#post` — the `@id`-matched enrichment block, carrying `about`
+  (Ganesh Chaturthi), four `mentions` (Greeting card, India Post, Ananta Chaturdashi, Ganesha)
+  and `citation` mirroring `batchMeta.sources` **one-to-one, five for five**.
+
+No `BlogPosting`/`FAQPage`/`BreadcrumbList`/`Organization`/`WebSite`/`Person` is re-emitted as
+an unmatched block; no `AggregateRating`, `Review` or `HowTo` anywhere.
+
+**Every `sameAs` was verified against the Wikipedia API** (`action=query&redirects=1&
+prop=pageprops&ppprop=wikibase_item`) with the Wikidata QID paired: Ganesh Chaturthi Q929250,
+Ganesha Q1579, Greeting card Q915196, India Post Q3519720, Ananta Chaturdashi Q3630768. Note
+`Anant Chaturdashi` **redirects** to `Ananta Chaturdashi`; the canonical title is what shipped.
+
+---
+
+## Phase 6 — Audit
+
+All 50 items in `references/publish-checklist.md` audited, strings copied verbatim including
+`**bold**` and the full text of the long source-cap clause.
+**`|passed| = 48`, `|failed| = 2`, `48 + 50 − 50 = 48 + 2 = 50`, and `passed ∩ failed = ∅`** —
+both asserted programmatically against the emitted JSON.
+
+The batch JSON also passes the validator in `references/article-json-schema.md` verbatim, run
+from the repository root over the whole `blogs/` directory.
+
+### The 2 failures
+
+1. **"Slug is not already taken in Strapi"** — not re-verified this run; the Strapi check needs
+   credentials this session did not have. The Phase 1 brief records the slug verified free on
+   2026-09-09, which is one day stale and unconfirmed here. Cheap to re-check at publish time.
+2. **"No source passes the swap test…"** — three of five pass cleanly (Hill & Dunbar, Davydova,
+   and the Speed Post tariff read against a card's shelf price). Two do not: the Citizens'
+   Charter delivery norms and Kumar & Epley on channel choice could both sit unchanged in the
+   sibling `ganesh-chaturthi-invitation-maker` post, which faces the same printed-versus-digital
+   deadline question. Both are load-bearing here and neither breaches the ≤2-posts URL cap, so
+   they were kept and the failure reported.
+
+### The format finding, and why it is not in `failed[]`
+
+BRIEF §5 asks for the format finding to go in `failed` with an honest `why`. It could not be
+put there without breaking the two invariants BRIEF §6 also requires — verbatim checklist
+strings, and `|passed| + |failed| == 50` — because no checklist item expresses it. It is
+therefore stated plainly and at length in `auditReport.honestAssessment` instead, which BRIEF
+§5 also requires. The finding itself: **DuckDuckGo's top 10 has zero informational results,
+Google's top 13 has exactly one (a retitled 2021 Times of India listicle), and there is no AI
+Overview on either query.** A 1,770-word article is competing against design tools for a query
+whose dominant intent is "give me the card now". It should not be expected to displace Canva's
+gallery. Its honest ceiling is the last-minute-sender sliver the whole SERP ignores, plus
+answer-engine citation on the deadline and cost questions, where it is the only page carrying
+numbers. **No ranking outcome is predicted anywhere in the post or the audit.**
 
 ---
 
 ## Files
 
-- `content/batches/2026-09-09-ganesh-10c/blogs/ganesh-chaturthi-greeting-card.json`
+- `content/batches/2026-09-09-ganesh-10c/blogs/ganesh-chaturthi-greeting-card.json` (written 2026-09-10)
 - `content/batches/2026-09-09-ganesh-10c/research/ganesh-chaturthi-greeting-card.md` (this file)
 - Raw SERP captures: `scratchpad/ganesh-chaturthi-greeting-card-serp-{ddg,brave}-{q1,q2}.html`
+- Build script, Phase 3–6 run: `scratchpad/ganesh-chaturthi-greeting-card-build.py`
+
+Nothing outside these two files was modified. `batch.json`, `content/facts.md` and every other
+blog's files were left untouched, including the two edits recommended in Phase 2b.
