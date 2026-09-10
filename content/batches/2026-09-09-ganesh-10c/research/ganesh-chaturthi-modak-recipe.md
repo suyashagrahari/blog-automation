@@ -259,19 +259,46 @@ SubhSandesh Ganesh posts could see the PMC host twice.
 
 ## 5. Phase 5 — links and targeting
 
+**BRIEF §3 was reversed mid-task: the Ganesh page has shipped.** The brief told all ten
+agents that `/happy-ganesh-chaturthi` was a hard 404 and must never be linked. The
+coordinator rewrote §3 during this task, and I re-verified independently rather than
+taking it on trust:
+
+| URL | Verified 2026-09-10 | Evidence |
+|---|---|---|
+| `https://subhsandesh.in/happy-ganesh-chaturthi` | **HTTP 200** | title "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free \| SubhSandesh", 54,386 bytes |
+| `https://subhsandesh.in/guides/happy-ganesh-chaturthi` | **HTTP 200** | title "Build a Ganesh Chaturthi page for the people you cannot sit with \| SubhSandesh Guides", 275,347 bytes |
+| `https://subhsandesh.in/templates` | HTTP 200 | title "Browse Gift Templates …" |
+
 | Item | Value |
 |---|---|
 | `categorySlug` | `indian-festivals` (the festival hub, per BRIEF §6) |
-| `templateUrls` | `/templates`, `/holi` |
-| `/happy-ganesh-chaturthi` | **404 on prod.** Not linked in `contentMarkdown`, not in `templateUrls`. No sentence in the post depends on it. |
+| `templateUrls` | `/happy-ganesh-chaturthi`, `/templates` — both literally present in `TEMPLATE_LINKS` |
+| Body internal links | `/happy-ganesh-chaturthi` and `/guides/happy-ganesh-chaturthi`, two, both in the final "wrong choice" H2 |
 
-**The internal links are weakly earned, and that is recorded in the audit rather than
-disguised.** A modak recipe has no natural path to a greetings-page product. Both links
-are placed in the final "wrong choice" H2 — after the section that establishes the one
-honest bridge (family who cannot be in the room when the aarti happens) — and `/holi` is
-introduced explicitly as *the nearest live festival page, not a Ganesh one*, because the
-Ganesh template is not deployed. Two internal links, at the floor of the 2–4 range, on
-purpose.
+**The bridge is the ritual clock, not the food** — per the coordinator's own framing, and
+it is the honest one. The modak has to exist by 11:20 AM in Mumbai; the page is what
+reaches the people who are not in the room when the aarti starts. That is the sentence the
+links hang off, and it needed no manufacturing. The earlier awkwardness (a food post
+reaching for a greetings product) is resolved.
+
+**One item still fails, and it is recorded rather than smoothed over.**
+`/guides/happy-ganesh-chaturthi` is **not** in `TEMPLATE_LINKS` — that array carries no
+`/guides` path at all. The URL is live and the coordinator explicitly authorised it, but
+the checklist item "Every internal link is a real URL from TEMPLATE_LINKS" is literally
+unsatisfied, so it sits in `failed` with the condition that closes it (add the guide URL
+to `TEMPLATE_LINKS` in `app/lib/prompt.ts`). `templateUrls` itself is clean: both entries
+are in `TEMPLATE_LINKS` verbatim.
+
+### `doi.org` cap — complied with, without needing to swap anything
+
+The coordinator warned that `doi.org` had reached exactly 3 posts in this batch, the
+per-domain cap. **No `doi.org` URL appears anywhere in this post's JSON** — verified
+programmatically against the serialised file. Every source resolves to the publisher's own
+host (`pmc.ncbi.nlm.nih.gov`, `downtoearth.org.in`, `drikpanchang.com`). DOIs appear as
+plain text in this brief only, for citation completeness, never as links. `en.wikipedia.org`
+is untouched too — zero body links; Wikipedia appears only as verified `sameAs` targets in
+`structuredData`, which is not a body link and not a source.
 
 ## 6. Structured data — verified before emitting
 
@@ -297,6 +324,33 @@ key on any title): Modak `Q2673557`, Ganesh Chaturthi `Q929250`, Jaggery `Q11480
 Rice flour `Q1269205`, Starch gelatinization `Q7601513`, Retrogradation (starch)
 `Q906426`, Maharashtra `Q1191`.
 
+## 6b. Word count and the audit result
+
+Measured with the studio's own `wordCount()` from `app/lib/batches.ts`, replicated exactly
+(strip fenced code, strip `#>*_`|-[]()!`, split on whitespace):
+
+| Measure | Value | Target |
+|---|---|---|
+| **Studio `wordCount()`** | **1,773** | 1,700–1,780 ✔ |
+| Plain split (what misled three sibling agents) | 1,701 | — |
+
+The ~51-word social block is inside that budget. The first draft came in at 2,163 studio
+words and was cut in five passes; nothing was padded and no source was dropped to make
+room.
+
+**Audit: 48 passed, 2 failed, `|passed| + |failed| = 50`, `passed ∩ failed = ∅`** — all
+three assertions are enforced in code at build time rather than eyeballed, and the item
+strings are parsed verbatim out of `publish-checklist.md` rather than retyped, so a
+paraphrase is impossible by construction.
+
+The two failures, both structural rather than lazy:
+
+1. **"Paragraphs 2–3 sentences throughout"** — the opening answer block is five sentences,
+   deliberately, because `page-structure.md` prescribes it as one extractable unit. The
+   four failure-mode H3s were each split into two paragraphs to fix the rest.
+2. **"Every internal link is a real URL from TEMPLATE_LINKS"** — `/guides/happy-ganesh-chaturthi`,
+   as explained in §5.
+
 ## 7. Known weaknesses carried into the audit
 
 1. SERP is US-localised `WebSearch`, not `gl=in`, and this is a query where the India
@@ -307,7 +361,12 @@ Rice flour `Q1269205`, Starch gelatinization `Q7601513`, Retrogradation (starch)
    practice, not a measured or cited figure**. The post says so in its own prose.
 5. The first-party lead-time measurement is **Raksha Bandhan, not Ganesh Chaturthi**, and
    **n = 89** is small. Both disclosures appear in body prose, per BRIEF §1.
-6. There is **no Ganesh page-creation data at all** — the template is not deployed. Every
-   platform figure used is platform-wide across 15 page types, and the post says so.
-7. Three of five sources share the PMC host.
-8. Internal links are weakly earned for a food post.
+6. There is **no Ganesh page-creation data at all** — the template shipped only days ago
+   and has created no pages. Every platform figure used is platform-wide across 15 page
+   types, and the post says so in its own prose.
+7. Three of five sources share the PMC host — under the batch cap of 3 posts per domain,
+   but monotonous.
+8. `/guides/happy-ganesh-chaturthi` is not in `TEMPLATE_LINKS` (§5). Recorded as a failure.
+9. The 10–15 minute steaming range and the household ratios are the only numbers in the
+   post with no citation behind them, and the post says so at the point of use rather than
+   only here.

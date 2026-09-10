@@ -302,9 +302,67 @@
       }
     ],
     "auditReport": {
-      "passed": [],
-      "failed": [],
-      "honestAssessment": ""
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer block runs to five sentences. That is deliberate — page-structure.md prescribes the answer paragraph as a single extractable unit (direct answer, two to four numbers, one sentence on scope), and splitting it would hand an answer engine half an answer. Every other paragraph in the body is 2–3 sentences, and the four failure-mode H3s were split into two paragraphs each to get there. Recorded as a failure rather than argued away."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two internal links. `/happy-ganesh-chaturthi` is in TEMPLATE_LINKS. `/guides/happy-ganesh-chaturthi` is NOT — TEMPLATE_LINKS carries no /guides path. It was verified HTTP 200 independently on 2026-09-10 (H1 'Build a Ganesh Chaturthi page for the people you cannot sit with') and added on the coordinator's explicit mid-task instruction after the Ganesh page shipped, so the link is live and correct — but the checklist item as written is not satisfied. Closes when the guide URL is added to TEMPLATE_LINKS in app/lib/prompt.ts."
+        }
+      ],
+      "honestAssessment": "It is the only page in this SERP that explains why modak fails rather than only how to make it — coarse flour gelatinising at 76.63 °C against 71.61 °C, damaged starch absorbing water five times faster, and retrogradation hitting maximum hardness at day 2 — and the only one that pins the cook to a named aarti window, 11:20 AM in Mumbai on 14 September 2026, with a 4-hour-14-minute working day derived from the tithi start. The first-party lead-time column in the comparison table is unavailable to every competitor. Against that: the SERP is seven entrenched recipe majors and appliance brands with years of accumulated authority, the SERP capture is US-localised WebSearch rather than gl=in and returned 7 results with no AI Overview or PAA, the household quantities and the 10–15 minute steaming range are standard practice rather than measured or cited figures, and the lead-time measurement is Raksha Bandhan at n=89, not Ganesh Chaturthi. Three of five sources share the PMC host. No prediction about ranking is made or implied."
     },
     "generatedAt": "2026-09-10T00:00:00.000Z"
   }
