@@ -5,29 +5,45 @@
 **Date of this brief:** 2026-09-10
 **Outcome: POST WRITTEN, with a hard scope fence and one honestly-recorded keyword adjacency.**
 
-Status: IN PROGRESS — refined in place.
+Gate A (SERP): **PASS**, 0 shared articles against both live posts.
+Gate B (substantive duplication): **PASS, conditional on the fence in §4d.**
+Body: **1,779 words** by the studio's own `wordCount()`. FAQs: 11. Audit: 45 passed, 5 failed.
+
+Status: COMPLETE.
 
 ---
 
 ## 1. Why this keyword is an off-list substitute
 
-The user supplied a 50-keyword list. Counting every declared fold and every
-`article.keywords` entry across the 25 live wave-1/wave-2 posts, those posts claim
-**174 keyword strings**, and every remaining keyword on the 50-item list duplicates one
-of them. `ganesh chaturthi activities for kids` sits **outside** the supplied list.
+The user supplied a 50-keyword list. `ganesh chaturthi activities for kids` sits
+**outside** it, and was chosen because every remaining keyword on the list duplicates a
+keyword a live post already claims.
 
-**Verified clear against all 174.** A collision scan across every `article.keywords`
-string and every declared fold in all 33 blog JSONs in `2026-09-09-ganesh-10`,
-`-10b` and `-10c` returned exactly one family of near-hits, all in a single post:
+**One correction to the assignment's arithmetic, stated rather than inherited.** The
+assignment says the 25 live wave-1/wave-2 posts claim **174** keyword strings once every
+declared fold and `article.keywords` entry is counted. Re-counted here — union of
+`article.keywords`, `batchMeta.keyword` and the `**Folds in:**` line of each post's
+research brief, de-duplicated per post — the figure is **140** across those 25 posts. The
+174 figure is not reproducible by that method; it presumably counts folds recorded in
+prose that a parser does not reach, or includes the wave-3 posts. **The discrepancy does
+not affect the clearance decision**, which does not depend on the total: what matters is
+whether any live post claims this keyword or a synonym, and that was checked string by
+string.
+
+**Verified clear.** A collision scan across every `article.keywords` string,
+`batchMeta.keyword` and declared fold in **all 34** blog JSONs in `2026-09-09-ganesh-10`,
+`-10b` and `-10c`, matching on `activit|kid|child|game|toddler`, returned exactly one
+family of near-hits, all in a single post:
 
 | Live post | Colliding strings |
 |---|---|
 | `2026-09-09-ganesh-10b/blogs/ganesh-chaturthi-drawing-for-school.json` | `ganesh chaturthi craft ideas for kids`, `ganesha drawing for kids`, `ganesh chaturthi drawing for school` |
 
-No post claims `ganesh chaturthi activities for kids`, `activities`, `games`, or any
-ritual-participation string. The exact assigned keyword is clear. **But the adjacency
-above is real and is the substance of Gate B below** — it is recorded in
-`auditReport.failed` rather than being papered over.
+No live post claims `ganesh chaturthi activities for kids`, `activities`, `games`,
+`toddler`, or any ritual-participation string. The exact assigned keyword is clear.
+**But the adjacency above is real and is the substance of Gate B below** — it is recorded
+verbatim in `auditReport.honestAssessment` and flagged for consolidation rather than
+being papered over (see §4e for why it does not belong in `auditReport.failed`).
 
 ---
 
@@ -198,14 +214,21 @@ Tilak and 1893 to `ganesh-chaturthi-essay`, sthapana and samagri to
 | `-10/ganpati-visarjan-2026` | Immersion chemistry, water quality, idol material. This post covers only child supervision at the waterline. |
 | `-10c/ganesh-chaturthi-modak-recipe` | The modak recipe itself. This post covers only which kitchen sub-task suits which age. |
 
-### 4e. Honest recording
+### 4e. Where the adjacency is recorded, and why not in `failed`
 
-The keyword adjacency in §1 is real: a reader searching `ganesh chaturthi craft ideas
-for kids` is served by the live drawing post, which declares it, and this post's SERP is
-craft-heavy. This is recorded in `auditReport.failed` against
-**"No section closely mirrors a competitor page's structure or framing"**? No — that item
-concerns competitors, not siblings, and passing it dishonestly would be worse. It is
-recorded instead in `honestAssessment` in plain words, and flagged for consolidation.
+The keyword adjacency in §1 is real: a reader searching `ganesh chaturthi craft ideas for
+kids` is served by the live drawing post, which declares that string in its own
+`article.keywords`, and this post's SERP is craft-heavy.
+
+It is **not** recorded against the checklist item *"No section closely mirrors a
+competitor page's structure or framing"* — that item concerns competitors, not siblings,
+and stretching it would misreport a genuine pass. There is no checklist item for
+sibling-keyword adjacency. It is therefore recorded in two places that a human will
+actually read: **verbatim in `auditReport.honestAssessment`**, which names the drawing
+post, the declared keyword and the consolidation action needed, and in §4d above. Flagged
+for consolidation: either fold `ganesh chaturthi activities for kids` explicitly out of
+the drawing post's claimed set, or accept the two URLs as separate with the craft fence
+in §4d enforced.
 
 ---
 
@@ -251,13 +274,111 @@ post: the children's religious-socialisation and ritual-cognition literature is
 heavily PMC-mirrored. Every source below was sought at a non-PMC open-access home.
 No URL appears in 2 or more `-10c` posts. Every other domain in the batch is at 1.
 
-### Cited
+Re-counted again after this post landed, across all **10** `-10c` blog JSONs (a tenth,
+`ganesh-chaturthi-whatsapp-stickers`, landed while this post was being written): no
+domain exceeds 3 posts, no URL exceeds 2, and `pmc.ncbi.nlm.nih.gov` remains at exactly
+3 and untouched by this post. This post's four domains are each at **1 of 3** and shared
+with no sibling.
 
-(filled in below as each is fetched and verified)
+### Cited — 5, every one fetched and verified in this session
+
+| # | Source | Type | Subject test | Swap test | Read |
+|---|---|---|---|---|---|
+| 1 | Kapitány R, Davis JT, Legare CH, Nielsen M, "An experimental examination of object-directed ritualized action in children across two cultures", *PLOS ONE* 13(11): e0206884, 2018-11-28 | **Peer-reviewed, open access (CC BY 4.0)** | PASS — children and ritualized action | PASS | Full text |
+| 2 | Liberman Z, Kinzler KD, Woodward AL, "The early social significance of shared ritual actions", *Cognition* 171: 42–51, Feb 2018 | Peer-reviewed, **not** open access | PASS — ritual action and social inference in infants | PASS | Full text, authors' own copy |
+| 3 | Developing Belief Network, "…Protocol for Wave 1 data collection with children and parents", *PLOS ONE* 19(3): e0292755, 2024-03-08 | **Peer-reviewed, open access** | PASS — transmission of religious practice across generations | PASS | Full text |
+| 4 | World Health Organization, "Drowning" fact sheet, 2026-05-01 | Intergovernmental fact sheet | PASS — children and water safety | PASS | Full text |
+| 5 | Young Lives, University of Oxford, "How do children spend their time as they grow up?", 2018-08-01 | Longitudinal research programme | PASS — children's actual task participation by age | PASS | Full text |
+
+**Requirement check.** 5 sources; **all 5 pass the subject test**; **2 are peer-reviewed
+and open access** (sources 1 and 3); **0 generic PIB / TRAI / Census / MEA statistics** —
+WHO is counted as the single permitted generic context statistic, though it is used for a
+specific age floor rather than as decoration; **0 Wikipedia body links** (Wikipedia
+appears only as `sameAs` in `structuredData`, QIDs Q929250, Q1579, Q10937578, Q16154326,
+Q2673557, Q7817, each verified against the Wikipedia API in this session); no URL or
+domain over cap.
+
+Three honesty notes on the source set:
+
+1. **Source 2 is paywalled at Elsevier but was read in full**, via the authors' own copy
+   hosted on University of Chicago web space, so the checklist item *"Any paywalled
+   citation records that only the abstract was read"* passes with **no abstract-only
+   citation in the post**. The cited URL is that author copy, because it is the copy that
+   was actually read and is publicly fetchable; `doi.org` was deliberately **not** spent
+   on it, leaving that domain's last slot for a sibling. `publishedDate` is recorded as
+   `2018-02-01` for the print issue (*Cognition* 171); the paper was first available
+   online 2017-11-04.
+2. **Two numeric claims in the post are secondary reports** and are attributed as such in
+   the body: the study of 107 Israeli children aged 4–9 on birthday-ritual customs is
+   summarised *within* source 1, not measured by it, and the post says "summarised in
+   that same PLOS ONE paper". The original was not resolved to its own journal home, and
+   no claim is made about it beyond what source 1 states.
+3. **The post carries 7 outbound links, of which 5 are cited sources.** The other two —
+   the YouTube walkthrough and the Instagram profile — are the BRIEF §4 social block,
+   carry no cited fact, and are mandated verbatim. The checklist item *"3–6 outbound
+   links, all fetched and verified to contain the cited fact"* was assessed on the 5
+   citation links and recorded as passed; the raw link count is stated here so the
+   reading is auditable rather than implicit.
+
+### Rejected — do not burn a slot re-searching these
+
+- `pmc.ncbi.nlm.nih.gov` — **at its 3-post cap.** This blocked Clegg & Legare (2016),
+  *Journal of Experimental Child Psychology*, 69 parent–child dyads aged 3–6, which is
+  the single best fit for this post's angle (conventional framing raises both a child's
+  imitative fidelity *and* the parent's scaffolding). Its only open home is PMC10675995.
+  **A future post outside this batch should use it.**
+- `academia.edu`, `researchgate.net` — aggregator mirrors, barred per the
+  `eco-friendly-ganesh-idol` precedent. This cost an ethnography of children's activities
+  on Saraswati Puja day, which would have been the ideal Indian-context source.
+- `www.mdpi.com` (*Religions* 10(11):631, children's early religious experience) — returns
+  empty content to every fetch path tried; could not be verified, so not cited.
+- `academic.oup.com` (403), `royalsocietypublishing.org` (403), `www.apa.org` (empty),
+  `www.nature.com` (bot challenge), `link.springer.com` (bot challenge),
+  `repositories.lib.utexas.edu` (403), `pure.mpg.de` (failed) — all blocked this session.
+- `ifstudies.org` religious-retention figures — think-tank, US-Christian-specific, not
+  peer-reviewed. Rejected rather than cited weakly.
+- Frontiers folktale study (Nso of Cameroon) — fetched and read, but it is oral pedagogy
+  and drifts into the live story post's territory. Rejected on the fence, not on quality.
 
 ---
 
-## 7. Files emitted
+## 7. Audit outcome
+
+**45 passed, 5 failed, `passed ∩ failed = ∅`, `|passed| + |failed| = 50`.** Failures:
+
+1. *Paragraphs 2–3 sentences throughout* — the answer paragraph is four sentences,
+   because Block 1 needs the answer, three first-party numbers and a coverage sentence
+   inside 150 words.
+2. *At least one table column uses first-party data* — impossible honestly. There is
+   **zero** Ganesh page-creation data (the template shipped 2026-09-10 with no pages
+   built) and every first-party figure is platform-wide across 15 page types, not
+   per-age or per-activity. Fabricating a per-row column was the alternative.
+3. *Slug short, hyphenated, lowercase, no stop words* — `for` is a stop word; kept to
+   preserve exact-match with the assigned keyword.
+4. *Slug is not already taken in Strapi* — **not verified.** Every request to the Strapi
+   API returned no response at all from this environment (no HTTP status, empty body),
+   across three attempts and two endpoints. No inherited verification exists either,
+   because this is an off-list substitute chosen in this session. **Must be re-checked
+   before publishing.**
+5. *Every internal link is a real URL from TEMPLATE_LINKS* — `/happy-ganesh-chaturthi`
+   qualifies and is in `templateUrls`; `/guides/happy-ganesh-chaturthi` does not and is
+   deliberately kept out of `templateUrls`, exactly as two siblings did.
+
+**Live link verification done in this session (2026-09-10):**
+`https://subhsandesh.in/happy-ganesh-chaturthi` → HTTP 200 with 90 mentions of
+ganesh/Ganesh, 26 of aarti, 18 of modak — a real page, confirming BRIEF §3's rewrite.
+`https://subhsandesh.in/guides/happy-ganesh-chaturthi` → HTTP 200 with 241 mentions of
+ganesh/Ganesh, 38 of modak, 30 of aarti — also real. Neither is the not-found shell an
+earlier agent saw mid-deploy.
+
+`categorySlug: indian-festivals` was **not** re-verified against Strapi this session (same
+API failure) but is recorded as passed on corroborating evidence: all 10 sibling posts in
+this batch declare it, and the `ganesh-chaturthi-drawing-for-school` brief records it
+verified live in Strapi on 2026-09-09.
+
+---
+
+## 8. Files emitted
 
 - `content/batches/2026-09-09-ganesh-10c/research/ganesh-chaturthi-activities-for-kids.md` — this brief.
 - `content/batches/2026-09-09-ganesh-10c/blogs/ganesh-chaturthi-activities-for-kids.json` — the post.
