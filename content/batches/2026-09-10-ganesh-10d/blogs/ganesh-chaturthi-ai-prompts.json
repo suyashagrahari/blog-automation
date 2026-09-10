@@ -1,0 +1,509 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganesh Chaturthi AI Prompts, and the Iconography They Get Wrong",
+    "slug": "ganesh-chaturthi-ai-prompts",
+    "excerpt": "Ganesh Chaturthi AI prompts break on countable iconography — arms, hands, tusks, the modak — not on style. Three peer-reviewed evaluations say where, and what to check in the output. No text-to-image model was run for this page and no output is claimed as observed.",
+    "metaTitle": "Ganesh Chaturthi AI Prompt: What the Models Get Wrong",
+    "metaDescription": "Ganesh Chaturthi AI prompts break on iconography, not style: benchmarked models scored 37.8% on object counting against a 97.8% oracle. No model was run here.",
+    "keywords": "ganesh chaturthi ai prompt, ganesh chaturthi chatgpt prompt, ganpati ai prompt, ganesh chaturthi ai photo prompt, ganesh chaturthi logo prompt",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-ai-prompts",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "ai-images",
+      "prompt-engineering",
+      "iconography",
+      "ganpati"
+    ],
+    "keyTakeaways": [
+      "The 2026 pattern is identity-preserving — one reference photo, plus a described mandap, plus a monumental idol, output 4:5 — and all six page-one results teach the same three-part structure.",
+      "Counting is the documented weak skill: 37.8% on object counting against a 97.8% human-verified oracle (DALL-Eval, ICCV 2023), which is exactly what four arms and one broken tusk depend on.",
+      "51 participants from five countries, ten of them Indian, ranked baseline Stable Diffusion last of four models on stereotype and offensiveness (SCoFT, CVPR 2024).",
+      "No text-to-image model was run for this page — no image-generation tool was available — so every prompt is presented as construction, never as a tested result.",
+      "SubhSandesh runs no image model: 3,894 pages across 15 page types, 49.6% of views opened on a phone, and no Ganesh page-creation data at all (template live 2026-09-10)."
+    ],
+    "faqs": [
+      {
+        "question": "What makes one prompt better than another?",
+        "answer": "Specifying the countable and culturally particular details, rather than piling on style words. The modifiers everyone argues about — lighting, lens, film stock — change how the picture looks; they do not stop the model giving the murti five arms or turning the modak into a dumpling, which is where these prompts actually fail."
+      },
+      {
+        "question": "Which AI can generate a Ganesh Chaturthi photo of me?",
+        "answer": "The prompt libraries ranking for this phrase target ChatGPT, Gemini and Midjourney, and the identity-preserving pattern assumes you can upload one reference photo. We did not run any of them for this page, so we are not ranking them — anyone who tells you which is best without showing you the outputs is guessing too."
+      },
+      {
+        "question": "Why does the AI give Ganesha the wrong number of arms?",
+        "answer": "Because counting is the documented weak skill in these models, not an occasional glitch. In the DALL-Eval benchmark at ICCV 2023, Stable Diffusion scored 37.8% on object counting where the human-verified oracle reached 97.8%, and the paper records it generating more or fewer objects than the prompt asked for, with accuracy dropping as the count rises."
+      },
+      {
+        "question": "What should I check before sending an AI Ganpati image to family?",
+        "answer": "Count the arms, then count the hands separately, because they are different errors. Then look at the offerings — whether the modak is a modak or a generic dumpling — and at the trunk direction. Those three checks catch most of what the documented failure modes produce."
+      },
+      {
+        "question": "Why does the modak look like a dumpling?",
+        "answer": "Because culturally particular objects tend to collapse into their nearest global equivalent. The CUBE benchmark published at NeurIPS 2024 evaluated cultural artefacts from eight countries across cuisine, landmarks and art and reported significant gaps in cultural awareness across countries; cuisine is one of its three concepts. Describing the object rather than only naming it helps."
+      },
+      {
+        "question": "Is it disrespectful to make an AI image of Ganesha?",
+        "answer": "There is no rule against it and a great many people are doing it this week, but the discomfort people report is worth taking seriously. In the CVPR 2024 SCoFT study, 51 participants from five countries — ten of them Indian — ranked baseline Stable Diffusion last of four models on how stereotypical and how offensive its cultural images were. The register goes wrong more often than the style does."
+      },
+      {
+        "question": "Do I own the AI image I generated?",
+        "answer": "Not the part the model wrote, at least under the clearest published regulator statement. The US Copyright Office's March 2023 registration guidance says prompts 'function more like instructions to a commissioned artist' and that machine-determined expressive elements are not the product of human authorship, are unprotected, and must be disclaimed. That is US law, not India's, so treat it as the direction of travel rather than the rule where you live."
+      },
+      {
+        "question": "Will the same prompt work in ChatGPT and Midjourney?",
+        "answer": "Partly. The three-part core — identity, setting, action — transfers, because it is a description rather than a syntax. The modifiers usually do not, and Jonas Oppenländer's ethnographic study of the community catalogues six distinct types of modifier practitioners add, most of which are tool-specific conventions."
+      },
+      {
+        "question": "Can I use an AI Ganesh image as my WhatsApp DP?",
+        "answer": "Yes, and nothing stops you. The two practical catches are that it has no provenance to point at if someone asks where it came from, and that an uncorrected iconography error sits on your profile for the eleven days from 14 to 25 September 2026 where everyone you know will see it."
+      },
+      {
+        "question": "Is an AI image better than a photo of my own murti?",
+        "answer": "For a wallpaper, the generated image will usually look more polished. For anything you send to a person, the photograph wins outright: it is the only version nobody else on earth can send, its iconography is whatever your murti actually is, and it takes about a minute."
+      },
+      {
+        "question": "Did you actually run these prompts?",
+        "answer": "No, and we would rather say so than imply otherwise. No image-generation tool was available in the environment this page was written in, so every prompt here is presented as construction and every failure mode is attributed to the published evaluation that measured it. Nothing on this page describes an output anyone here has seen."
+      }
+    ],
+    "coverImageQuery": "phone screen ai generated ganesha image mandap",
+    "coverImagePrompt": "A phone held in front of a small household Ganpati mandap, its screen showing a half-rendered image of a Ganesha murti while the real clay murti sits behind it slightly out of focus. Warm evening lamp light from one side, marigold garlands, shallow depth of field. Clean negative space along the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganesh Chaturthi AI Prompts, and the Iconography They Get Wrong\n\nA Ganesh Chaturthi AI prompt is a text instruction to an image model, and in 2026 the pattern that dominates is identity-preserving: one reference photo of you, plus a described mandap, plus a monumental Ganesha idol, output at 4:5 with a \"Ganpati Bappa Morya\" title. The prompts are easy. Checking the output is the part nobody publishes, and it matters because image models fail on religious iconography in measured, specific ways — benchmarked models scored **37.8%** on object counting against a **97.8%** human oracle at ICCV 2023, which is exactly the skill four arms and a broken tusk depend on. For scale on the alternative: SubhSandesh has **3,894 personalised pages created since 2026-03-12, across 15 page types**, and **49.6% of shared pages are opened on a phone** — 22,817 of 46,005 views. One disclosure before anything else: **no model was run for this page**, and no output here is claimed as observed.\n\n## What a Ganesh Chaturthi AI prompt actually is\n\nA prompt for an image model is not a search query. It is a description the model interprets, and the practitioner's craft is in the short key phrases appended to steer it — Jonas Oppenländer's three-month ethnographic study of the text-to-image community identifies [six types of prompt modifier](https://jyx.jyu.fi/jyx/Record/jyx_123456789_92405) that people add for exactly that purpose, published in *Behaviour & Information Technology* in November 2023.\n\nFor a Ganesh Chaturthi image, three parts carry almost all the weight. **Identity** — whose face, kept unchanged.\n\n**Setting** — the mandap, the garlands, the light, the idol's scale. **Action** — standing with folded hands, holding a diya, seated.\n\nEverything else is a modifier. That matters: the pages ranking for this phrase are almost entirely modifiers, and modifiers are not where these prompts go wrong.\n\n## The prompt pattern the whole first page agrees on\n\nAll six page-one results — AI image editors and prompt libraries — teach the same structure. It is genuinely the consensus, so here it is with the three parts labelled:\n\n> **Identity:** Use the uploaded photograph as the reference for the face, hair and skin tone; do not alter them. **Setting:** A decorated Ganesh Chaturthi mandap at evening, a large clay Ganesha murti garlanded with marigold, brass lamps, warm side light. **Action:** The person stands at the left of the frame with folded hands, looking up at the murti. **Output:** Vertical 4:5, photographic, no text.\n\n**This prompt has not been run.** It is assembled from the pattern the six ranking pages share, not from an output anyone here has seen — a starting structure, not a tested recipe.\n\n## Where these models measurably break on Hindu iconography\n\nNot one of the six ranking pages names a failure mode, cites an evaluation, or says what to look at. Three are documented in the peer-reviewed literature, each with a specific check.\n\n### 1. Counting — arms, hands, tusks\n\n**What breaks:** the number of things. Ganesha's iconography is countable — four arms, one broken tusk, one trunk curling one way — and counting is the documented weak skill. **What was measured:** at ICCV 2023, the [DALL-Eval benchmark](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html) scored Stable Diffusion at 37.8% on object counting where the human-verified oracle reached 97.8%, and on human evaluation 48.0% against 94.0% for plain object recognition; the paper records the model generating \"more (5 instead of 3 dogs) or fewer (1 instead of 2 bicycles) objects than the number described\", with accuracy falling further as the prompt asks for more objects. **What to check:** count the arms, then count the hands separately — they are not the same error. **How to word it:** state the count as a number and repeat it once, and expect to regenerate.\n\n### 2. Cultural specificity — the modak that is just a dumpling\n\n**What breaks:** culturally particular objects flatten into their nearest global equivalent. **What was measured:** the [CUBE benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html), published at NeurIPS 2024, evaluates cultural artefacts from 8 countries across cuisine, landmarks and art, and its authors report \"significant gaps in the cultural awareness of existing models across countries\". Cuisine is one of its three concepts, and a modak is precisely the class of object that gap describes. **What to check:** the offerings plate, the durva grass, the shape of the mandap arch. **How to word it:** name the object and describe it, because the name alone may not be grounded — \"modak, a pleated steamed rice-flour dumpling\" beats \"modak\".\n\n### 3. Stereotype and offence, as rated by people from the culture\n\n**What breaks:** the register. **What was measured:** the CVPR 2024 [SCoFT paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SCoFT_Self-Contrastive_Fine-Tuning_for_Equitable_Image_Generation_CVPR_2024_paper.html) built its CCUB dataset with contributors who had lived at least five years in one of five countries — China, Korea, India, Mexico and Nigeria — across categories that explicitly include *religion and festival*. In its survey, 51 participants (10 of them Indian) ranked four models on how well images matched the description, how representative they were, how stereotypical, and how offensive; baseline Stable Diffusion came last on all four, and every country's consensus agreed. The authors describe the baseline rendering \"a traditional building\" as \"disheveled structures, which promote a harmful stereotype that some cultures are poor or simple\". **What to check:** whether the scene looks like a place someone lives. **How to word it:** describe the specific, not the generic — a household mandap, not \"an Indian temple\".\n\nTwo honest caveats. All three evaluations tested Stable Diffusion-era models from 2022 to 2024, not the 2026 models you will actually use, so the *rates* are stale even though the failure classes are not. And for CUBE and the Oppenländer taxonomy only the published abstract was readable from here; the full texts were not.\n\n## Four ways to make a Ganesh Chaturthi image, compared\n\nTime, what it costs, and whether SubhSandesh has data of its own on it — and for two rows, we do not.\n\n| Route | Time | Iconography risk | First-party data from SubhSandesh |\n| --- | --- | --- | --- |\n| AI prompt, one generation | Under a minute | Highest — counting, offerings and register all unchecked | None; we run no image model and measure none |\n| AI prompt, checked and regenerated | 10–20 minutes | Moderate — you catch the count, not the register | None |\n| A photograph of your own murti | About a minute, plus good light | Zero — it is your murti | Not measured |\n| A page the recipient performs | Template live 2026-09-10 | Zero — you supply the images | 3,894 pages, 15 page types, 11.8 average views per page |\n\nNo row wins outright. The first is the only one that takes under a minute, and it is the only one where you cannot tell whether it is right.\n\n## Who owns the image you just generated\n\nNobody, in the part the model wrote — and this is the question none of the ranking pages raise. The US Copyright Office's registration guidance, published in the *Federal Register* on 16 March 2023, is blunt about prompts: they [\"function more like instructions to a commissioned artist\"](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence) — they say what you want depicted, but the machine decides how. Where the machine determines the expressive elements, that material \"is not the product of human authorship\", is not protected by copyright, and must be disclaimed on a registration application.\n\nThat is US law and India's position is its own; treat it as the clearest published regulator statement rather than as the rule where you live. Practically it means one thing: a generated Ganesha image has no photographer, no provenance and no owner you can point at, which is a poor basis for a forward that is meant to feel personal.\n\n## Where an AI prompt is the wrong choice\n\nIf what you want is a picture of Ganesha, a prompt will produce one faster than we will, and we would rather say so than pretend otherwise. SubhSandesh runs no image model, hosts no deity images, and this page links no generator.\n\nThe case against generating is not aesthetic. It is that the image has nobody in it.\n\nOccasion-dated pages — every festival plus every wedding type — are just **144 of our 3,894 pages, 3.7%**, so we are not the volume answer for festival imagery either. And we have **no Ganesh Chaturthi page-creation data at all**: the template went live on 2026-09-10, four days before the festival, so anything we told you about Ganesh behaviour specifically would be invented.\n\nWhat we do have is a [Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) — they offer the durva, kumkum, flowers and modak, the aarti thali circles while Karpur Gauram plays, and they write a prarthana back to you. It ships no deity artwork; you supply your own mandap photograph, which is why its iconography cannot be wrong.\n\nThe [written build guide](https://subhsandesh.in/guides/happy-ganesh-chaturthi) lists what to have ready first. Across **3,088 registered creators**, what travels is the named message, not the picture.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- Jaemin Cho, Abhay Zala, Mohit Bansal, [\"DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models\"](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html), ICCV 2023, CVF open access — object counting 37.8% against a 97.8% oracle; models generate the wrong number of objects.\n- Zhixuan Liu et al., [\"SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation\"](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SCoFT_Self-Contrastive_Fine-Tuning_for_Equitable_Image_Generation_CVPR_2024_paper.html), CVPR 2024, CVF open access — CCUB, built by cultural insiders across categories including religion and festival; 51 participants from five countries ranked baseline Stable Diffusion last on stereotype and offensiveness.\n- Nithish Kannen et al., [\"Beyond Aesthetics: Cultural Competence in Text-to-Image Models\"](https://proceedings.neurips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html), NeurIPS 2024 Datasets and Benchmarks — the CUBE benchmark; significant gaps in cultural awareness across 8 countries. Abstract only.\n- Jonas Oppenländer, [\"A taxonomy of prompt modifiers for text-to-image generation\"](https://jyx.jyu.fi/jyx/Record/jyx_123456789_92405), *Behaviour & Information Technology*, 28 November 2023, CC BY — six types of prompt modifier from a three-month ethnographic study. Abstract only.\n- US Copyright Office, [\"Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence\"](https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence), *Federal Register*, 16 March 2023 — prompts are instructions, not authorship; machine-determined expressive elements are not protected and must be disclaimed.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-ai-prompts#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Text-to-image model",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Text-to-image_model",
+              "https://www.wikidata.org/wiki/Q113940039"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Hindu iconography",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindu_iconography",
+              "https://www.wikidata.org/wiki/Q2078466"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Prompt engineering",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Prompt_engineering",
+              "https://www.wikidata.org/wiki/Q108941486"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Stable Diffusion",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Stable_Diffusion",
+              "https://www.wikidata.org/wiki/Q113660857"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Modak",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Modak",
+              "https://www.wikidata.org/wiki/Q2673557"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models",
+            "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html",
+            "datePublished": "2023",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Jaemin Cho"
+              },
+              {
+                "@type": "Person",
+                "name": "Abhay Zala"
+              },
+              {
+                "@type": "Person",
+                "name": "Mohit Bansal"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Computer Vision Foundation / ICCV 2023"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation",
+            "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SCoFT_Self-Contrastive_Fine-Tuning_for_Equitable_Image_Generation_CVPR_2024_paper.html",
+            "datePublished": "2024",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Zhixuan Liu"
+              },
+              {
+                "@type": "Person",
+                "name": "Peter Schaldenbrand"
+              },
+              {
+                "@type": "Person",
+                "name": "Jean Oh"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Computer Vision Foundation / CVPR 2024"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Beyond Aesthetics: Cultural Competence in Text-to-Image Models",
+            "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html",
+            "datePublished": "2024",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Nithish Kannen"
+              },
+              {
+                "@type": "Person",
+                "name": "Shachi Dave"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "NeurIPS 2024 Datasets and Benchmarks Track"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "A taxonomy of prompt modifiers for text-to-image generation",
+            "url": "https://jyx.jyu.fi/jyx/Record/jyx_123456789_92405",
+            "datePublished": "2023-11-28",
+            "author": {
+              "@type": "Person",
+              "name": "Jonas Oppenländer"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Behaviour & Information Technology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence",
+            "url": "https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence",
+            "datePublished": "2023-03-16",
+            "publisher": {
+              "@type": "GovernmentOrganization",
+              "name": "United States Copyright Office"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Where text-to-image models measurably break on Hindu iconography",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Counting — arms, hands, tusks",
+            "description": "Countable iconography is the documented weak skill: 37.8% on object counting against a 97.8% oracle, and 48.0% on human evaluation (DALL-Eval, ICCV 2023), with accuracy falling as the prompt asks for more objects. Check by counting arms and hands separately."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cultural specificity — the modak that is just a dumpling",
+            "description": "Culturally particular objects flatten into their nearest global equivalent; the CUBE benchmark (NeurIPS 2024) reports significant gaps in cultural awareness across 8 countries on cuisine, landmarks and art. Describe the object, do not only name it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stereotype and offence, as rated by people from the culture",
+            "description": "51 participants from five countries, 10 of them Indian, ranked baseline Stable Diffusion last of four on description match, representation, stereotype and offensiveness (SCoFT, CVPR 2024); its CCUB categories include religion and festival."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-ai-prompts#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What makes one prompt better than another?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Specifying the countable and culturally particular details, rather than piling on style words. The modifiers everyone argues about — lighting, lens, film stock — change how the picture looks; they do not stop the model giving the murti five arms or turning the modak into a dumpling, which is where these prompts actually fail."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which AI can generate a Ganesh Chaturthi photo of me?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The prompt libraries ranking for this phrase target ChatGPT, Gemini and Midjourney, and the identity-preserving pattern assumes you can upload one reference photo. We did not run any of them for this page, so we are not ranking them — anyone who tells you which is best without showing you the outputs is guessing too."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does the AI give Ganesha the wrong number of arms?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because counting is the documented weak skill in these models, not an occasional glitch. In the DALL-Eval benchmark at ICCV 2023, Stable Diffusion scored 37.8% on object counting where the human-verified oracle reached 97.8%, and the paper records it generating more or fewer objects than the prompt asked for, with accuracy dropping as the count rises."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should I check before sending an AI Ganpati image to family?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Count the arms, then count the hands separately, because they are different errors. Then look at the offerings — whether the modak is a modak or a generic dumpling — and at the trunk direction. Those three checks catch most of what the documented failure modes produce."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does the modak look like a dumpling?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because culturally particular objects tend to collapse into their nearest global equivalent. The CUBE benchmark published at NeurIPS 2024 evaluated cultural artefacts from eight countries across cuisine, landmarks and art and reported significant gaps in cultural awareness across countries; cuisine is one of its three concepts. Describing the object rather than only naming it helps."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it disrespectful to make an AI image of Ganesha?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no rule against it and a great many people are doing it this week, but the discomfort people report is worth taking seriously. In the CVPR 2024 SCoFT study, 51 participants from five countries — ten of them Indian — ranked baseline Stable Diffusion last of four models on how stereotypical and how offensive its cultural images were. The register goes wrong more often than the style does."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I own the AI image I generated?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not the part the model wrote, at least under the clearest published regulator statement. The US Copyright Office's March 2023 registration guidance says prompts 'function more like instructions to a commissioned artist' and that machine-determined expressive elements are not the product of human authorship, are unprotected, and must be disclaimed. That is US law, not India's, so treat it as the direction of travel rather than the rule where you live."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will the same prompt work in ChatGPT and Midjourney?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Partly. The three-part core — identity, setting, action — transfers, because it is a description rather than a syntax. The modifiers usually do not, and Jonas Oppenländer's ethnographic study of the community catalogues six distinct types of modifier practitioners add, most of which are tool-specific conventions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I use an AI Ganesh image as my WhatsApp DP?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, and nothing stops you. The two practical catches are that it has no provenance to point at if someone asks where it came from, and that an uncorrected iconography error sits on your profile for the eleven days from 14 to 25 September 2026 where everyone you know will see it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is an AI image better than a photo of my own murti?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For a wallpaper, the generated image will usually look more polished. For anything you send to a person, the photograph wins outright: it is the only version nobody else on earth can send, its iconography is whatever your murti actually is, and it takes about a minute."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Did you actually run these prompts?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, and we would rather say so than imply otherwise. No image-generation tool was available in the environment this page was written in, so every prompt here is presented as construction and every failure mode is attributed to the published evaluation that measured it. Nothing on this page describes an output anyone here has seen."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganesh chaturthi ai prompt",
+    "secondaryKeywords": [
+      "ganesh chaturthi chatgpt prompt",
+      "ganpati ai prompt"
+    ],
+    "droppedSecondaries": [
+      {
+        "keyword": "ganesh chaturthi logo prompt",
+        "why": "Left in article.keywords but not targeted in the body. 'ganesh chaturthi logo design' is a separate assignment in this batch (slug ganesh-chaturthi-logo-design, gated against ganesh-chaturthi-banner-and-poster). Targeting the logo-prompt fold here would create an in-batch collision with a sibling that is being written concurrently, which is the failure BRIEF.md §3 exists to prevent."
+      }
+    ],
+    "angle": "Wins by being the only page on this SERP that names what text-to-image models measurably get wrong on Hindu iconography — with the peer-reviewed evaluations that measured it — and the only one written by someone with no generator to sell, grounded in 3,894 pages across 15 page types and a 49.6% phone-open rate; it is also the only one that discloses it ran no model, which none of the six vendor pages would ever disclose about their own.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi"
+    ],
+    "firstHandExperience": {
+      "modelRun": false,
+      "whichModels": [],
+      "why": "No image-generation tool of any kind was available in this environment. The only generative-asset tools present were mcp__blender__generate_hyper3d_model_via_text and mcp__blender__generate_hunyuan3d_model — text-to-3D-mesh generators requiring third-party API keys, not text-to-image diffusion models, and a mesh would not evidence two-dimensional iconography failures. Driving the user's live Chrome to a hosted generator was rejected because it would submit prompts on the user's own logged-in account without confirmation, and because the gated sibling recorded on 2026-09-10 that the shared browser tab was navigated out from under it twice mid-call by concurrent agents in this same batch. Per the assignment's explicit fallback, the post is therefore built on prompt CONSTRUCTION plus the published evaluation literature, with the limitation stated in body prose (opening paragraph, the labelled prompt block, and the two caveats closing the failure-mode section) and not only in this audit. No prompt in the post is presented as tested; no model output is described as observed; no screenshot exists."
+    },
+    "cannibalisationGate": {
+      "sibling": "content/batches/2026-09-09-ganesh-10c/blogs/ganpati-bappa-photos.json",
+      "siblingKeyword": "ganpati bappa photos",
+      "verdict": "PASS — write the post",
+      "rule": "(domain, article identity); pinterest.com and youtube.com excluded; threshold 3",
+      "sharedArticlesGoogle": 0,
+      "sharedDomainsGoogle": 0,
+      "myTop6Google": [
+        "lightxeditor.com/blog/ganesha-ai-photo-prompts-ganesh-chaturthi/",
+        "lightxeditor.com/blog/ganesha-ai-video-prompts-for-ganesh-chaturthi/",
+        "dressingschool.com/prompts/ganesh-chaturthi-ai-photo-prompt/",
+        "media.io/ai/explore/zone/prompt-seen-ganesh-chaturthi",
+        "dayno.ai/prompt/ganesh-chaturthi-ai-prompt-tJeEyj",
+        "dayno.ai/categories/ganesh-chaturthi-prompt"
+      ],
+      "siblingTop5Google": [
+        "gettyimages.com/photos/ganpati-bappa-photo",
+        "istockphoto.com/photos/ganpati-bappa-photos",
+        "istockphoto.com/photos/ganpati-bappa",
+        "gettyimages.com/photos/ganpati-bappa",
+        "pexels.com/search/ganpati bappa/"
+      ],
+      "secondEngine": "UNAVAILABLE, and recorded rather than hidden: html.duckduckgo.com/html/?kl=in-en returned HTTP 202 anti-bot challenges with zero results on both queries; lite.duckduckgo.com/lite/ (POST, kl=in-en) returned HTTP 202 and a 14.3 KB challenge page; mojeek.com/search?arc=in returned HTTP 200 but a 5.5 KB shell with no result anchors; bing.com/search?cc=IN returned HTTP 200 and 126 KB with 165 anchors, all internal to bing.com. Corroboration is mandatory under BRIEF.md §3 only at exactly 2 shared results; this capture is 0, four below the threshold, so the verdict does not turn on the missing engine.",
+      "substantiveDuplication": "PASS. The sibling's full JSON was read before drafting. It is an asset-delivery and licence page (four uses of a photo, who may grant a licence, darshan as mutual recognition, god posters online, and a Raksha Bandhan lead-time H2). Its entire treatment of this post's subject is ONE FAQ — 'Should I use AI-generated Ganpati images?' — answered in three sentences that name no failure mode, no paper and no prompt. Overlaps deliberately avoided: the Raksha Bandhan lead-time dataset (left to the sibling entirely, which is also why the two §1 disclosures do not apply to this post), the licence-of-a-circulating-photograph argument (this post asks the different question of whether a generated image has a copyright holder at all), and all four of the sibling's sources. Shared factsUsed lines are 2 of 7, both platform-wide denominators used across the cluster.",
+      "formatFinding": "No AI Overview and no People Also Ask were returned for the keyword. Page one is 100% commercial: four of the six results are owned by AI image editors that exist to route the reader into their own generator, the other two are prompt-library listings. There is no independent page on this SERP — not one result is written by anyone without a generator to sell.",
+      "toolLimitation": "WebSearch is US-locale only — there is no gl=in parameter. Every capture above is a US-locale approximation of an India-intent keyword, and the real India SERP may differ."
+    },
+    "factsUsed": [
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "46,005 recorded views of shared pages — measured 2026-09-09",
+      "Average views per created page: 11.8 — measured 2026-09-09",
+      "3,088 registered creators — measured 2026-09-09",
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09",
+      "No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10"
+    ],
+    "sources": [
+      {
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html",
+        "stat": "Jaemin Cho, Abhay Zala and Mohit Bansal, 'DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models', ICCV 2023, CVF open access, peer-reviewed. FULL TEXT READ: the CVF PDF was downloaded and converted to text 2026-09-10. Table 2 gives Stable Diffusion 96.2% on object recognition, 37.8% on object counting and 7.9% on spatial relations, against a DETR oracle on ground-truth PaintSkills images of 100.0 / 97.8 / 96.2 (average 98.0%); the human-evaluation table gives Stable Diffusion 94.0% object, 48.0% count, 16.0% spatial. Body text: 'the model often generates more (5 instead of 3 dogs) or fewer (1 instead of 2 bicycles) objects than the number described in the prompt', 'a huge gap exists between the performance of all models and the upper bound accuracy on count/spatial skills', and 'the models score lower accuracy with prompts with more objects'. Models tested are 2022-era (DALL-E Small, minDALL-E, Stable Diffusion), which the post states.",
+        "publishedDate": "2023"
+      },
+      {
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Liu_SCoFT_Self-Contrastive_Fine-Tuning_for_Equitable_Image_Generation_CVPR_2024_paper.html",
+        "stat": "Zhixuan Liu, Peter Schaldenbrand, Beverley-Claire Okogwu, Wenxuan Peng, Youngsik Yun, Andrew Hundt, Jihie Kim and Jean Oh, 'SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation', CVPR 2024, CVF open access, peer-reviewed. FULL TEXT READ: the CVF PDF was downloaded and converted to text 2026-09-10. Verified: the CCUB dataset was built by contributors with at least five years living in one of five countries (China, Korea, India, Mexico, Nigeria), each supplying 20-30 images and captions, across categories that include 'religion and festival'; the user survey had 51 participants (13 Korean, 11 Chinese, 10 Indian, 9 Nigerian, 7 Mexican) ranking four models on how well images matched the description, representation, stereotypes and offensiveness; generic Stable Diffusion placed fourth of four on the consensus ranking and 'every country individually agreed with the ranking above, with the exception of India, which swapped (1) SCoFT+MP and (2) SCoFT+MPC' — i.e. India's swap was between the two fine-tuned variants, with the baseline still last. Also verified: Stable Diffusion results for 'a photo of a traditional building, in ...' 'depict disheveled structures, which promote a harmful stereotype that some cultures are poor or simple'.",
+        "publishedDate": "2024"
+      },
+      {
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html",
+        "stat": "Nithish Kannen, Arif Ahmad, Marco Andreetto, Vinodkumar Prabhakaran, Utsav Prabhu, Adji Bousso Dieng, Pushpak Bhattacharyya and Shachi Dave, 'Beyond Aesthetics: Cultural Competence in Text-to-Image Models', NeurIPS 2024 Datasets and Benchmarks Track, open proceedings, peer-reviewed. ABSTRACT ONLY — the full text was NOT read: the proceedings abstract page exposes no PDF link and the conventional /file/<hash>-Paper-Datasets_and_Benchmarks_Track.pdf URL hung past a 120-second timeout on two attempts from this environment. Verified verbatim from the abstract page: CUBE 'covers cultural artifacts associated with 8 countries across different geo-cultural regions and along 3 concepts: cuisine, landmarks, and art', and 'our evaluations reveal significant gaps in the cultural awareness of existing models across countries'. The post claims nothing beyond that — in particular it does NOT claim India is among the eight, because the abstract does not name the countries.",
+        "publishedDate": "2024"
+      },
+      {
+        "url": "https://jyx.jyu.fi/jyx/Record/jyx_123456789_92405",
+        "stat": "Jonas Oppenländer, 'A taxonomy of prompt modifiers for text-to-image generation', Behaviour & Information Technology 43(15):3763-3776, CC BY. ABSTRACT ONLY — the full text was NOT read: tandfonline.com returned HTTP 403 to this client and the JYX institutional record exposes no downloadable file. Verified verbatim from the JYX abstract: 'practitioners of text-to-image generation typically seek to control the generative model's output by adding short key phrases ('modifiers') to the prompt' and 'This paper identifies six types of prompt modifiers used by practitioners in the online text-to-image community based on a 3-month ethnographic study.' The arXiv preprint of the same work was deliberately NOT used as the citation: arxiv.org is at the batch domain cap of 3 posts per USED-SOURCES.md. Publication date 28 November 2023 taken from the OpenAlex record for DOI 10.1080/0144929X.2023.2286532, which also confirms is_oa true, licence cc-by.",
+        "publishedDate": "2023-11-28"
+      },
+      {
+        "url": "https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence",
+        "stat": "US Copyright Office, 'Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence', Federal Register, 16 March 2023. FULL TEXT READ 2026-09-10. Verified verbatim: prompts 'function more like instructions to a commissioned artist — they identify what the prompter wishes to have depicted, but the machine determines how those instructions are implemented in its output'; 'When an AI technology determines the expressive elements of its output, the generated material is not the product of human authorship' and 'that material is not protected by copyright and must be disclaimed in a registration application'. The post states explicitly that this is US law and not India's position.",
+        "publishedDate": "2023-03-16"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "Seven of the eight H2s pass. '## Watch the page get built' is the batch-mandated social block, pasted verbatim per BRIEF.md §0 so that every post in the Ganesh cluster matches byte for byte; it is a two-link block, not an answerable section. Not this post's to reword — it closes only if the batch owner revises the §0 block, at which point every post in the cluster changes together."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Four paragraphs run to five or six sentences and they are all shapes page-structure.md itself prescribes. The opening answer paragraph is Block 1 (direct answer, then two to four numbers of which at least two are first-party, then one sentence on coverage) and cannot be split without moving a first-party number out of the first 150 words. The three H3 blocks are Block 3, which requires 'the same four fields in the same order' — here what breaks / what was measured / what to check / how to word it — and splitting them would break the machine-extractable parallelism the ItemList mirrors. Three other over-long paragraphs were split during drafting; these four are a genuine conflict between two rules in the skill, reported rather than resolved by weakening either."
+        },
+        {
+          "item": "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+          "why": "Deliberate, and flagged rather than silently chosen. structuredData carries an FAQPage block because this post's assignment requires '8-12 FAQs in article.faqs ONLY ... plus a matching FAQPage block in structuredData'. FAQPage is a renderer-built type, so the block is @id-matched on <canonicalURL>#faq — which app/lib/batches.ts's own validator explicitly treats as a merging, surviving id alongside #post — but the checklist item as worded permits only the #post exception. The block mirrors article.faqs exactly, so nothing conflicting is emitted; the item is recorded as failed because the wording does not cover it, not because the markup is wrong. It closes if the item is amended to name #faq, or if the assignment drops the FAQPage requirement."
+        }
+      ],
+      "honestAssessment": "The only reason to cite this over the six page-one results is that none of them is an independent page: four are owned by AI image editors and two are prompt libraries, all six exist to route the reader into a generator, and not one names a single failure mode, cites a single evaluation, or says what to look at in the output. This is the only page on either SERP that attaches the documented failure classes to the work that measured them — 37.8% object counting against a 97.8% oracle at ICCV 2023, significant cultural-awareness gaps across 8 countries at NeurIPS 2024, and baseline Stable Diffusion ranked last of four on stereotype and offensiveness by 51 people from the cultures depicted at CVPR 2024 — and the only one that says who owns the output. Its real weakness is the one the assignment aimed at and this run could not deliver: the strongest available evidence here would have been prompts actually run with the outputs described, and no image-generation tool existed in this environment, so the post argues from other people's measurements rather than from its own. That is a genuine ceiling on citability, and it is the single change that would most improve this page — run ten prompts across two current models, publish the counts of what came back wrong, and the page stops being a literature review with a festival on top. The published rates are also 2022-to-2024-era and the reader will be using 2026 models; the failure classes almost certainly persist, but the numbers are stale and the post says so. Against vendor domains with product-marketing budgets it has no domain authority and no backlinks, the SERP was measured on a US-locale tool for an India-intent keyword, and nothing here is a prediction that it will rank."
+    },
+    "generatedAt": "2026-09-10T00:00:00.000Z",
+    "internalLinkNote": "Verified from this environment 2026-09-10: https://subhsandesh.in/happy-ganesh-chaturthi returns HTTP 200 and https://subhsandesh.in/guides/happy-ganesh-chaturthi returns HTTP 200. Both are written as ABSOLUTE URLs per BRIEF.md §5, because the verifier's relative-link regex \\]\\((/[a-z0-9-]+)\\) cannot match a two-segment path. The guide URL is linked in the body but deliberately kept OUT of templateUrls: those resolve to Strapi template entries on the last path segment, which for the guide URL collides with the template's own slug. templateUrls is /happy-ganesh-chaturthi only — never /templates, never a /guides/... path.",
+    "socialBlockNote": "The BRIEF.md §0 block is pasted byte-verbatim (46 words by plain split) immediately before ## Sources, verified by exact string comparison against the fenced block in BRIEF.md. Its two URLs are NOT in batchMeta.sources and do not count toward the 4-6 source quota; FIRST_PARTY in scripts/verify-batch.mjs exempts them from the URL and domain caps.",
+    "markerWord": "iconography"
+  }
+}
