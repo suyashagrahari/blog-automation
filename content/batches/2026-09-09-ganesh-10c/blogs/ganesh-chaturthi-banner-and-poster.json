@@ -1,0 +1,325 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Happy Ganesh Chaturthi Banner and Poster Sizes That Actually Read",
+    "slug": "ganesh-chaturthi-banner-and-poster",
+    "excerpt": "A happy Ganesh Chaturthi banner needs about 2.4 mm of cap height per metre of viewing distance: 36 mm at 15 m, 0.8 mm on a phone at 35 cm. The printed banner and the shared image are different files, and gold on saffron measures 1.01:1 against a 3:1 bar.",
+    "metaTitle": "Happy Ganesh Chaturthi Banner Size — 2.4 mm Per Metre",
+    "metaDescription": "Happy Ganesh Chaturthi banner text needs 2.4 mm of cap height per metre of distance: 36 mm at 15 m, 0.8 mm on a phone. Plus why gold on saffron measures 1.01:1.",
+    "keywords": "happy ganesh chaturthi banner, happy ganesh chaturthi poster, ganesh chaturthi banner size, mandap banner text size, ganesh chaturthi poster dimensions",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-banner-and-poster",
+    "ogType": "article",
+    "tags": [
+      "ganesh chaturthi",
+      "banner",
+      "poster",
+      "typography",
+      "indian festivals"
+    ],
+    "keyTakeaways": [
+      "A banner read from 15 m needs about 36 mm of capital-letter height — 2.4 mm per metre of viewing distance, or 4.9 mm per metre if the older neighbours are to manage it.",
+      "The printed banner and the shared image are different files: text has to be roughly 2.9% of canvas height on an 8 × 4 ft flex against 0.6% on a phone at 35 cm, a five-fold difference.",
+      "Gold on saffron measures 1.01:1, against the 3:1 that WCAG 2.2 asks of large text; dark brown on the same saffron measures 6.77:1.",
+      "Resolution is rarely the problem — at 15 m the eye resolves only about 5.8 pixels per inch, so an 8 × 4 ft banner is fully served by roughly 557 × 278 pixels.",
+      "49.6% of the 46,005 views of SubhSandesh pages happen on a phone (22,817 views) and 0 of them at banner distance — there is no print product here."
+    ],
+    "faqs": [
+      {
+        "question": "How big should the text on a Ganesh Chaturthi banner be?",
+        "answer": "Allow about 2.4 mm of capital-letter height for every metre between the banner and the reader, which is 36 mm at 15 m. If you want people with weaker eyesight to read it too, use 4.9 mm per metre — 74 mm at 15 m."
+      },
+      {
+        "question": "What size should I order a Ganesh Chaturthi flex banner in?",
+        "answer": "Pick the width from the gap you are spanning, then check the text fits: on an 8 × 4 ft banner read from 15 m, the greeting needs to be about 2.9% of the banner's height. A 2:1 landscape shape with one line of text is the safe default."
+      },
+      {
+        "question": "Can I use the same design for the banner and for WhatsApp?",
+        "answer": "No, and this is where most templates fail. The banner needs text at roughly five times the proportional height a phone image needs, so export twice — a 2:1 landscape for print and a 9:16 portrait at 1080 × 1920 for sharing."
+      },
+      {
+        "question": "Why does my banner look perfect on my phone but unreadable on the street?",
+        "answer": "Because you checked it at 35 cm, where 0.8 mm of cap height is enough, and it is being read at 15 m, where 36 mm is the minimum. The file did not change; the viewing distance did, by a factor of about 43."
+      },
+      {
+        "question": "What size should a Ganesh Chaturthi poster be for Instagram or WhatsApp status?",
+        "answer": "1080 × 1920 pixels, 9:16 portrait, is the shape a story or status wants. A 2:1 banner design dropped into that frame fills only 28.1% of the screen height, which shrinks the text to about 1.2 mm."
+      },
+      {
+        "question": "Is gold text on an orange background a bad idea?",
+        "answer": "By measurement, yes. Gold #D4AF37 on saffron #FF9933 comes out at a contrast ratio of 1.01:1, where WCAG 2.2 asks for at least 3:1 on large text. Dark brown #4A1B0F on the same saffron gives 6.77:1."
+      },
+      {
+        "question": "Which Ganesh Chaturthi colour combinations actually pass?",
+        "answer": "White on deep maroon #7B1E1E measures 10.26:1, maroon on cream 9.30:1, white on temple red #C62828 5.62:1 and dark brown on saffron 6.77:1. White on saffron only reaches 2.13:1 and fails."
+      },
+      {
+        "question": "Do I really need 300 dpi for a flex banner?",
+        "answer": "Not for something read from across a lane. At 15 m the eye resolves only about 5.8 pixels per inch, so an 8 × 4 ft banner is fully served by roughly 557 × 278 pixels. Keep the 300 dpi for the A3 poster people walk up to."
+      },
+      {
+        "question": "What aspect ratio should a Ganesh Chaturthi banner be?",
+        "answer": "2:1 landscape for a printed banner over a mandap or gate, A3 portrait at 297 × 420 mm for a noticeboard poster, and 9:16 portrait for a phone. Those are three different files, not three crops of one."
+      },
+      {
+        "question": "When is Ganesh Chaturthi in 2026?",
+        "answer": "Monday 14 September 2026, with the visarjan at Anant Chaturdashi on Friday 25 September. That is an eleven-day window, so a printed banner has to survive eleven days of weather."
+      },
+      {
+        "question": "How late can I get a Ganesh Chaturthi banner printed?",
+        "answer": "Print is the one part you cannot leave to the day. Across the only festival we have measured — Raksha Bandhan, n = 89 pages — 49.4% of people built their page on the day of the festival itself, and a flex printer will not turn that around."
+      }
+    ],
+    "coverImageQuery": "ganesh chaturthi mandap banner street",
+    "coverImagePrompt": "A photorealistic street-level view of a neighbourhood Ganesh Chaturthi mandap in an Indian lane, seen from about fifteen metres away, with a wide printed flex banner strung across its entrance in deep maroon and cream. Late-afternoon light, marigold garlands and a few people standing in the foreground for scale. Shot at 16:9 with clean negative space along the top for a title overlay. No legible text on the banner except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Happy Ganesh Chaturthi Banner and Poster Sizes That Actually Read\n\nA happy Ganesh Chaturthi banner needs roughly **2.4 mm of capital-letter height for every metre** between the text and the reader: 36 mm at 15 m, 74 mm if the older neighbours are to manage it, and 0.8 mm for a phone image read at 35 cm. One file cannot do both — on an 8 × 4 ft flex the greeting occupies about 2.9% of the banner's height, on a phone about 0.6%, five times smaller. We have measured the screen half: 49.6% of the 46,005 views of pages shared from SubhSandesh are opened on a phone (22,817 views), across 3,894 pages and 15 page types, and below are the four surfaces, the text height each demands, the contrast numbers, and why resolution is the wrong worry.\n\n## A Ganesh Chaturthi banner and a poster are two files, 5× apart in text height\n\nA Ganesh Chaturthi banner is a wide, single-line greeting built to be read at distance — across a mandap entrance, a society gate or a pandal frame, usually printed on flex in 2:1 landscape. A Ganesh Chaturthi poster is the same greeting sized for close reading: an A3 sheet on a noticeboard at 3 m, or a 1080 × 1920 image opened at arm's length.\n\nSearch treats the two as one query, correctly: the `happy ganesh chaturthi banner` and `happy ganesh chaturthi poster` results share five of their top ten, all design tools and stock libraries. They are still not one file: the banner is landscape, the shared image portrait. [Ganesh Chaturthi](https://en.wikipedia.org/wiki/Ganesh_Chaturthi) 2026 falls on Monday 14 September, with visarjan on Friday 25 September.\n\n## The number that decides it: 2.4 mm of cap height per metre of viewing distance\n\nSign engineers use a legibility index: feet of reading distance per inch of letter height. The US Access Board's [synthesis of sign legibility research](https://www.access-board.gov/research/communication/variable-message-signing/vms-legibility/) reports indices around **35 ft/in for \"average\" older and younger observers**, dropping to **22 ft/in at the 85th-percentile younger group and 17 ft/in for the older**.\n\nConvert 35 ft/in and you get 2.38 mm of cap height per metre; 17 ft/in gives 4.90 mm. The Federal Highway Administration is stricter for aging readers, telling designers to [assume a minimum of 1 inch of letter height per 30 feet of legibility distance](https://highways.dot.gov/safety/other/older-road-user/desk-reference-handbook-designing-roadways-aging-population/chapter-3) — 2.78 mm per metre. Use 2.4 mm per metre as the floor, 4.9 mm as the target.\n\nThose figures are for recognising a word at a glance; comfortable reading sits higher. Legge and Bigelow's *Journal of Vision* review puts the [critical print size at an x-height of 0.2 degrees of visual angle](https://doi.org/10.1167/11.5.8), fluent reading spanning 0.2° to 2°, or 1.4–14 mm at 40 cm. Below the critical size reading speed falls sharply, and at 15 m, 0.2° is 52 mm.\n\n## Four surfaces, four text heights\n\nEach surface has its own distance, canvas and failure mode. Cap heights give the 35 ft/in figure, then the 17 ft/in poor-acuity figure.\n\n### 1. The mandap flex banner, read from 15 metres\n\nDistance 15 m, across a lane. Minimum cap height 36 mm, or 74 mm — 2.9% to 6.0% of the height of an 8 × 4 ft banner; canvas 2:1 landscape, one line, no paragraph. Failure mode: a phone-screen template printed at scale sets the greeting at a fifth of the height it needs, and the sponsor names below it vanish.\n\n### 2. The society noticeboard poster, read from 3 metres\n\nDistance 3 m standing back, 1 m if people walk up. Minimum cap height 7 mm at 3 m, or 15 mm; at 1 m, 2.4 mm and 4.9 mm; canvas A3 portrait, 297 × 420 mm. Failure mode: the aarti timing and visarjan date set as 3 mm body text — legible at 1 m, invisible from where people stand.\n\n### 3. The WhatsApp status or Instagram story, read from 35 centimetres\n\nDistance 35 cm. Minimum cap height 0.8 mm, or 1.7 mm — on a display around 141 mm tall, 0.6% to 1.2% of the screen; canvas 1080 × 1920, 9:16 portrait. Failure mode: a 2:1 design in a 9:16 story fills only 28.1% of the frame height, shrinking banner-proportioned text to about 1.2 mm — above the average-reader floor, below the 1.7 mm an older reader needs.\n\n### 4. The shared link opened on a laptop, read from 60 centimetres\n\nDistance 60 cm. Minimum cap height 1.4 mm, or 2.9 mm; canvas 1.91:1 landscape, 1200 × 630. Failure mode: the half people forget — 49.8% of our views are on a touch device, so 23,095 of 46,005 are not, and a 9:16 crop letterboxes on a laptop.\n\n## The four sizes, 36 mm down to 0.8 mm\n\nFour surfaces, real values. The last column is our own view data, which no template tool has.\n\n| Surface | Read from | Min cap height (35 ft/in) | Poor acuity (17 ft/in) | Our measured views at this distance |\n|---|---|---|---|---|\n| Mandap flex banner, 8 × 4 ft, 2:1 | 15 m | 36 mm | 74 mm | 0 of 46,005 |\n| Noticeboard poster, A3, 1:1.41 | 3 m | 7 mm | 15 mm | 0 of 46,005 |\n| WhatsApp status, 1080 × 1920 | 35 cm | 0.8 mm | 1.7 mm | 22,817 (49.6%) |\n| Shared link on a laptop, 1200 × 630 | 60 cm | 1.4 mm | 2.9 mm | 23,095 (50.2%) |\n\nThe spread is the point: 36 mm against 0.8 mm is a factor of 45 that no single export spans. Printing and sharing means exporting twice, and our pages serve only the bottom two rows.\n\n## Gold on saffron measures 1.01:1, and the standard asks for 3:1\n\nThe most-used Ganesh Chaturthi palette is nearly the least readable. Run the standard relative-luminance formula over gold `#D4AF37` on saffron `#FF9933` and the contrast ratio is **1.01:1** — near-identical luminance, so in bright sun, or to anyone with a colour vision deficiency, the greeting reads as texture rather than words.\n\nWCAG 2.2 asks for at least [4.5:1 for text and 3:1 for large-scale text](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html), large-scale meaning 18 point or 14 point bold. Banner type is large-scale, so 3:1 is the bar and 1.01:1 misses it threefold.\n\nSame formula, same bar — failing: white on saffron 2.13:1, yellow `#FFD700` on orange `#FF6F00` 1.99:1, white on marigold 1.79:1. Passing: white on deep maroon `#7B1E1E` 10.26:1, maroon on cream 9.30:1, white on temple red `#C62828` 5.62:1, dark brown `#4A1B0F` on saffron 6.77:1. Keep the saffron; put dark text on it, not gold.\n\n## Resolution is the wrong worry: 5.8 pixels per inch is the acuity limit at 15 metres\n\nTemplate sites sell resolution and never mention distance, which is backwards. One arcminute — a rough 20/20 acuity limit — subtends 4.36 mm at 15 m, so a print seen from there resolves no finer than about **5.8 pixels per inch**. An 8 × 4 ft banner is fully resolved by roughly 557 × 278 pixels.\n\nA 1080-pixel-wide file stretched across 8 feet gives 11.3 ppi, nearly double what the eye can use. The blur people blame on resolution is almost always text set too small, or a JPEG soft before it was scaled.\n\nCloser up the maths inverts: 29 ppi at 3 m, 87 ppi at 1 m, 250 ppi at 35 cm, which is where the 300 dpi habit comes from. Keep 300 dpi for the A3 poster; stop paying for it on flex.\n\n## When people actually make this: 49.4% on the day itself, n = 89\n\nThe listicles here assume browsing at leisure; the one festival we have measured says otherwise. Across both rakhi page collections, n = 89, comparing creation date to festival date in IST calendar days: **49.4% were built on the day itself**, 27.0% the day before, **86.1% of those finished in time within 24 hours**. Median lead time was zero days, and none of the 89 was built more than seven days ahead.\n\nTwo disclosures. It is **Raksha Bandhan, not Ganesh Chaturthi** — a different festival, and a one-day one; Ganesh Chaturthi runs ten days to Anant Chaturdashi, so the shape is suggestive, not measured here. And **n = 89 is small**: no per-template or per-region rate, no projection of Ganesh page counts.\n\nThe honest limit: occasion-dated pages are 144 of our 3,894, 3.7%. This platform is overwhelmingly romantic pages, and there is no Ganesh page-creation data at all. Read it as a prompt to order the flex now, four days out, because on the day the printer will not help you.\n\n## When a banner is the wrong choice: 0 of 46,005 views at 15 m\n\nA printed banner is wrong when the audience is not standing in front of it. Forwarded on WhatsApp, a 2:1 flex letterboxes to 28.1% of the screen and the 36 mm text that carried the lane becomes 1.2 mm.\n\nIt is also wrong when you need a reply, because a banner is broadcast and nobody answers it. Meanwhile a shared page can carry a text box back, and 42.0% of our creators password-protect a page before sending, which says these go to specific people, not a public wall.\n\nWe lose outright on the top two rows of that table: no print product, no flex, no A3 export, and 0 of 46,005 measured views at 3 m or 15 m. If your mandap needs a banner, you need a printer.\n\nWhere a page competes is the phone row, 0.8 mm at 35 cm. Our [Ganesh Chaturthi greeting page](https://subhsandesh.in/happy-ganesh-chaturthi) sets the greeting at screen scale and hands the recipient the offerings, the aarti thali, and a box at the end to write a line back; the [step-by-step build guide](https://subhsandesh.in/guides/happy-ganesh-chaturthi) says what to have ready first. It sits alongside our [Holi](https://subhsandesh.in/holi) and [Eid Mubarak](https://subhsandesh.in/eid-mubarak) greeting pages.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- [US Access Board, *Legibility of Variable Message Signing*](https://www.access-board.gov/research/communication/variable-message-signing/vms-legibility/) — 35 ft/in average; 22 and 17 ft/in at the 85th percentile. No date given.\n- [FHWA, *Designing Roadways for the Aging Population*, ch. 3](https://highways.dot.gov/safety/other/older-road-user/desk-reference-handbook-designing-roadways-aging-population/chapter-3) — 1 inch of letter height per 30 feet. June 2014.\n- [Legge & Bigelow, *Journal of Vision* 11(5):8](https://doi.org/10.1167/11.5.8) — critical print size 0.2° x-height; fluent range 0.2°–2°. 9 August 2011.\n- [W3C, *Understanding SC 1.4.3: Contrast (Minimum)*](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) — 4.5:1 text, 3:1 large-scale. No date.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-banner-and-poster#surfaces",
+        "name": "Four surfaces, four text heights",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The mandap flex banner, read from 15 metres",
+            "description": "Viewing distance 15 m. Minimum cap height 36 mm, or 74 mm for a reader with poor acuity — 2.9% to 6.0% of the height of an 8 × 4 ft banner. Canvas 2:1 landscape, one line of text."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The society noticeboard poster, read from 3 metres",
+            "description": "Viewing distance 3 m standing back, 1 m walking up. Minimum cap height 7 mm at 3 m, 15 mm for poor acuity; 2.4 mm and 4.9 mm at 1 m. Canvas A3 portrait, 297 × 420 mm."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The WhatsApp status or Instagram story, read from 35 centimetres",
+            "description": "Viewing distance 35 cm. Minimum cap height 0.8 mm, or 1.7 mm for poor acuity — 0.6% to 1.2% of a 141 mm phone display. Canvas 1080 × 1920, 9:16 portrait."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The shared link opened on a laptop, read from 60 centimetres",
+            "description": "Viewing distance 60 cm. Minimum cap height 1.4 mm, or 2.9 mm for poor acuity. Canvas 1.91:1 landscape, 1200 × 630. 23,095 of 46,005 measured views are not on a touch device."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-banner-and-poster#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Legibility",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Legibility",
+              "https://www.wikidata.org/wiki/Q1820694"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Visual acuity",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Visual_acuity",
+              "https://www.wikidata.org/wiki/Q555066"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Web Content Accessibility Guidelines",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines",
+              "https://www.wikidata.org/wiki/Q5364439"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Federal Highway Administration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Federal_Highway_Administration",
+              "https://www.wikidata.org/wiki/Q800112"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss",
+            "url": "https://www.access-board.gov/research/communication/variable-message-signing/vms-legibility/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "United States Access Board"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Desk Reference to the Handbook for Designing Roadways for the Aging Population, Chapter 3: Interchanges",
+            "url": "https://highways.dot.gov/safety/other/older-road-user/desk-reference-handbook-designing-roadways-aging-population/chapter-3",
+            "datePublished": "2014-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Federal Highway Administration"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Does print size matter for reading? A review of findings from vision science and typography",
+            "url": "https://doi.org/10.1167/11.5.8",
+            "datePublished": "2011-08-09",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Gordon E. Legge"
+              },
+              {
+                "@type": "Person",
+                "name": "Charles A. Bigelow"
+              }
+            ],
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Journal of Vision"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Research in Vision and Ophthalmology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Understanding Success Criterion 1.4.3: Contrast (Minimum)",
+            "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "happy ganesh chaturthi banner",
+    "angle": "Wins by being the only post that turns sign-legibility research into an actual text height for a Ganesh Chaturthi banner versus a shared image — 2.4 mm of cap height per metre of viewing distance, 36 mm at 15 m against 0.8 mm at 35 cm — and states which of the two surfaces SubhSandesh can serve, using its own 49.6% phone share of 46,005 measured views.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi",
+      "/holi",
+      "/eid-mubarak"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "49.8% of views are on a touch device (phone or tablet) — measured 2026-09-09",
+      "42.0% of creators password-protect their page before sharing it (1,636 of 3,894) — measured 2026-09-09",
+      "46,005 recorded views of shared pages — measured 2026-09-09",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "Of the 79 Raksha Bandhan 2026 pages finished in time, 55.7% were built on the day itself and 86.1% within 24 hours of it — measured 2026-09-09",
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09",
+      "No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10"
+    ],
+    "sources": [
+      {
+        "url": "https://www.access-board.gov/research/communication/variable-message-signing/vms-legibility/",
+        "stat": "Sign legibility indices of about 35 ft/in accommodate \"average\" older and younger observers; for the poorest-performing readers they drop to 22 ft/in at the 85th percentile younger and 17 ft/in at the 85th percentile older (Upchurch et al. 1991; Garvey & Mace 1996, as synthesised). Fetched and verified 2026-09-09; the page states no publication date."
+      },
+      {
+        "url": "https://highways.dot.gov/safety/other/older-road-user/desk-reference-handbook-designing-roadways-aging-population/chapter-3",
+        "stat": "\"Assume a minimum specific ratio of 1 inch of letter height per 30 feet of legibility distance for new or reconstructed installations and for sign replacement at interchanges and on their approaches.\"",
+        "publishedDate": "2014-06"
+      },
+      {
+        "url": "https://doi.org/10.1167/11.5.8",
+        "stat": "Peer-reviewed, open-access review: the consensus critical print size for normally sighted readers is an x-height of 0.2 degrees of visual angle, and the fluent reading range spans 0.2° to 2°, equal to x-heights of 1.4 mm (4 pt) and 14 mm (40 pt) at a 40 cm viewing distance. Full text read via the publisher PDF; the ARVO article page returned HTTP 403 to the fetcher.",
+        "publishedDate": "2011-08-09"
+      },
+      {
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+        "stat": "WCAG 2.2 SC 1.4.3 (Level AA) requires a contrast ratio of at least 4.5:1 for text, and at least 3:1 for large-scale text, where large-scale means 18 point or 14 point bold. Fetched and verified 2026-09-09; continuously updated, no publication date."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Structural, and re-checked in the fix pass rather than inherited. There are no top-5 pages making claims to compare against: the Phase 1 harvest of 20 results across `happy ganesh chaturthi banner` and `happy ganesh chaturthi poster` was 6 paid stock libraries, 4 free vector libraries, 4 template design tools, 3 Pinterest boards, 2 marketplaces and one Wikipedia entry for the wrong entity (Ganesh Jayanti) — zero informational pages, no AI Overview, no featured snippet, no PAA. Re-run on 2026-09-10 with the stateless `WebSearch` tool (US locale, so corroboration rather than replacement for the India-localised harvest): dreamstime.com, vecteezy.com, postermywall.com, istockphoto.com, freepik/magnific ×2, amazon.in, create.vista.com, stock.adobe.com, pinterest.com — still ten asset pages and tools, still zero informational results. The post's four derived claims (2.4 mm of cap height per metre, 0.2° critical print size, 1.01:1 for gold on saffron, 5.8 ppi at 15 m) are unmatched anywhere in that set, but the item asks for a comparison against prose that does not exist, so it cannot be marked passed. What would close it: a top-5 result that is an article rather than an asset page or a design tool, or an AI Overview appearing on the query — worth re-running in the week before Ganesh Chaturthi 2027, when seasonal informational pages sometimes surface. Not fixable by writing."
+        },
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The slug is `ganesh-chaturthi-banner-and-poster` and omits 'happy' from the target string `happy ganesh chaturthi banner`. H1, metaTitle and the first 100 words all carry the exact keyword; only the slug does not, because it has to cover the folded secondary `happy ganesh chaturthi poster` as well and 'and-poster' displaces 'happy'. Re-verified free in Strapi during the fix pass on 2026-09-10 (`filters[slug][$eq]=ganesh-chaturthi-banner-and-poster` returned 0 rows), so the slug as assigned is still valid and was deliberately left alone. Closing it needs the batch owner to reissue the slug in ASSIGNMENTS.json (e.g. `happy-ganesh-chaturthi-banner`) and re-run the collision check; a rename by this pass would desynchronise the batch manifest and the canonical URL already written into `canonicalURL` and `structuredData`."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "`ganesh-chaturthi-banner-and-poster` contains the stop word 'and'. Same blocker as the item above: pre-assigned, and re-confirmed free in Strapi on 2026-09-10, so it stays as issued and flagged rather than silently changed. Dropping the stop word would give `ganesh-chaturthi-banner-poster`, which is not the string that was collision-checked. Closes only when the batch owner reissues the slug and re-runs the Strapi check."
+        }
+      ],
+      "honestAssessment": "An informational blog post is still the wrong format for `happy ganesh chaturthi banner` as searched, and this fix pass did not change that: both SERPs carry zero informational results — stock libraries, template tools, Pinterest and marketplaces, with no AI Overview and no featured snippet — because the intent is transactional and Google is serving it correctly, re-checked 2026-09-10. Nothing here should be expected to place on the head term against Canva, PosterMyWall or Adobe Stock; what would change that is a downloadable correctly-sized template or a live cap-height calculator on the page, and neither exists. Where the post has a real claim is the measurement long-tail — `ganesh chaturthi banner size`, `ganesh chaturthi banner text size`, `how big should banner text be` — because it is the only page in that result set that states a number: 2.4 mm of cap height per metre from the Access Board's legibility indices, 0.2° critical print size from Legge and Bigelow, 1.01:1 for the gold-on-saffron palette everyone uses, and 5.8 ppi as the acuity limit at 15 m, next to the first-party 49.6% phone share of 46,005 views that separates the print surface from the screen surface. The fix pass closed the paragraph-length failure (every prose paragraph is now two or three sentences, with the four H3 field blocks folding canvas into the cap-height sentence so the fixed field order survives) and retrofitted the internal link now that `/happy-ganesh-chaturthi` returns a real 200 with the Ganesh page on it — verified in the fix pass, along with `/guides/happy-ganesh-chaturthi` and both URLs in a 1,123-URL sitemap. Body length: 1,774 words by the plain whitespace split that `scripts/verify-batch.mjs` gates on, 1,815 by `wordCount()` in `app/lib/batches.ts` which the studio displays and which reads ~40 higher; the plain split is the authoritative measure and sits inside the 1,500–1,800 band. Three failures stay open and none is fixable by writing: there are no top-5 pages carrying prose to be compared against, and the pre-assigned slug omits 'happy' and carries the stop word 'and' — re-confirmed free in Strapi on 2026-09-10 and left as issued, since renaming it is the batch owner's call. Two limits the post does not hide: its cap heights come from Latin-script highway-sign and vision research with no Devanagari or Marathi legibility source (the one open-access candidate could not be read, so it is not cited), and the lead-time shape is Raksha Bandhan at n = 89, not Ganesh Chaturthi. Domain authority here is far below every incumbent on the SERP and this is a four-day topical push, so the long-tail is the only honest target and the horizon is months."
+    },
+    "generatedAt": "2026-09-09T15:33:40.541Z"
+  }
+}
