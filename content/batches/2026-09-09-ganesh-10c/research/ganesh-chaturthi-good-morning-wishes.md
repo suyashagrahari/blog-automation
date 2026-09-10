@@ -363,3 +363,111 @@ every day. Should I ask her to stop?" is answered in her favour.
   answers the query completely — so the realistic target is the **citation slot inside that AI
   Overview**, not an organic position. No claim is made that the post will rank.
 
+
+---
+
+## Phase 8 — audit remediation, 2026-09-10
+
+Run by the `blog-audit-remediator` pass against the written artifacts. Nothing above this line
+was deleted; where it is now wrong, this section says so.
+
+### 1. The Ganesh CTA — added. BRIEF §3 reversed and the Phase 4–5 bullet above is superseded.
+
+Re-verified independently, not taken from the brief:
+
+| check | result |
+| --- | --- |
+| `GET /happy-ganesh-chaturthi` | **200**, `<title>` = "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free \| SubhSandesh"; 158 raw matches for ganesh/ganpati/modak/aarti; its own `meta description` names the durva, kumkum, flowers, modak, the aarti thali with Karpur Gauram, and the prarthana written back |
+| `GET /guides/happy-ganesh-chaturthi` | **200**, H1 "Build a Ganesh Chaturthi page for the people you cannot sit with", page states **33 written steps / about 4 minutes / checked 9 Sept 2026** |
+| `sitemap.xml` | **1,123 `<loc>` entries, both Ganesh URLs present** |
+| `/blog/ganesh-chaturthi-good-morning-wishes` in sitemap | absent — the post is still unpublished |
+
+So the **soft-404 finding in Phase 4–5 above is superseded**: it was a real page by the time of
+this pass, confirmed on content and not on the status code alone.
+
+- `/happy-ganesh-chaturthi` is now the topical CTA, placed in the paragraph immediately after
+  H3 #4 ("A shareable page with their name on it") — the section that earns it — with the anchor
+  describing what the recipient does on the page.
+- `/guides/happy-ganesh-chaturthi` is a body reference in the same paragraph ("33-step written
+  build guide"), **deliberately kept out of `templateUrls`**: those resolve to Strapi template
+  entries at publish and no template corresponds to a guide page. It is allowlisted in
+  `TEMPLATE_LINKS` (`app/lib/prompt.ts`), so the "real URL from TEMPLATE_LINKS" item still passes.
+- **`/streak` kept**, for the reason its author gave: it is the one-tap-a-day page and this post
+  is about a daily habit.
+- **`/templates` dropped** — it existed only as the stand-in for the then-dead Ganesh link.
+- **`/eid-mubarak` dropped**, and this was not in the audit. Its sentence claimed the Eid page
+  "shows the same single-morning shape for another festival". There is no Eid measurement in
+  `facts.md` or in BRIEF §1, so that sentence implied first-party data that does not exist.
+- `templateUrls` is now `["/happy-ganesh-chaturthi", "/streak"]`. Internal links in the body: 3.
+
+### 2. Failure 1 — "Paragraphs 2–3 sentences throughout" — now CLOSED.
+
+The Phase 6 reasoning was **wrong on the facts**: it said "every other paragraph in the body is
+two or three sentences". Six were four sentences (the four H3 option blocks, the "second reason"
+phatic paragraph, and the "Two honest caveats" paragraph). All were fixable in words the writer
+controls and were fixed, word-neutrally:
+
+- The opening answer block is now **two paragraphs, 3 + 2 sentences**. This does not break Block 1
+  of `page-structure.md`: the direct answer is still sentence one, and both first-party numbers
+  land at **words 84 and 106** of the body, well inside the 150-word line.
+- The four H3 blocks keep the same four fields in the same order; the "who it suits" and "effort"
+  fields are now one sentence each instead of two.
+- Single-sentence paragraphs (including the table lead-in that `page-structure.md` Block 4
+  mandates) are read as compliant with this item, which exists to stop long paragraphs.
+
+### 3. Failure 2 — metaTitle — still OPEN, still structural.
+
+57 characters, in range; the keyword is six words. Every alternative was re-checked in this pass:
+dropping "happy" or "wishes" loses the exact match the item's own first clause requires, and
+abbreviating it breaks "Target keyword in H1, metaTitle, slug, and first 100 words". It closes
+only if the tracked keyword shortens to five words or fewer.
+
+### 4. Found in this pass, not in the audit
+
+- **"a phone at 50% storage" removed.** The post refuses the "one in three Indian phones runs out
+  of storage daily" figure on the record, then carried a hypothetical "50% storage" aside that
+  read like a statistic — and 50% is the DAHLIA *ownership* figure. Now "a phone that is already
+  short of space", no number.
+- **DAHLIA reports experience, not confidence.** The paper says "more participants had experience
+  taking or making basic phone calls ... compared to reading a text message". The body, the FAQ
+  and the source `stat` said "more confident"; all three now say experience. Re-fetched and read
+  in this pass: n=150, digital literacy 11%, mobile ownership 50%, barriers "poor traditional
+  literacy and physical aspects of ageing like poor vision", plus the keypad quote.
+- **PMC publisher concentration, disclosed rather than failed.** The DAHLIA URL
+  `www.ncbi.nlm.nih.gov/pmc/articles/PMC8938771/` **301-redirects to `pmc.ncbi.nlm.nih.gov`**,
+  which `modak-recipe`, `rangoli-designs` and `ganpati-decoration-ideas-at-home` already cite —
+  four posts on PMC once resolved. `scripts/verify-batch.mjs` counts hostnames with `www.`
+  stripped, so it reads `pmc… 3` and `ncbi… 1` and passes; the repo's own convention for this
+  case (the doi.org resolver note in that script) is to report concentration, not fail it. The
+  source stays because the MDPI version of record `www.mdpi.com/2308-3417/7/2/28` returns
+  **HTTP 403** to every fetch attempt, and per the source rules a blocked page cannot be cited.
+  Recorded in `honestAssessment`. It closes if another `-10c` post drops its PMC source.
+- **No new source was added**, so no cap moved. `en.wikipedia.org` still sits in 2 posts of this
+  batch (this one and `songs-and-bhajans`). All six existing sources were re-fetched in this pass
+  and still return 200 with the cited numbers: arXiv v1 (53,389 messages, 28.2% images, 604
+  hand-classified, "over a third" in §5.5 "Prevalence of entertainment content"), arXiv v2 (India
+  Inspirational/Informational 21.8%), DAHLIA, BMC Geriatrics, both Wikipedia entities. All four
+  Wikidata QIDs re-verified through the Wikipedia API: Q929250, Q1579, Q1049511, Q13557517.
+- **Dead ends not retried**, per the Phase 3 record: the two `doi.org` articles and the SAGE
+  article, all 403. `doi.org` and `pmc.ncbi.nlm.nih.gov` are both at 3 posts in this batch, so
+  neither was available anyway.
+
+### 5. Word count and re-run
+
+- Studio `wordCount()` (`app/lib/batches.ts`): **1,768 → 1,767**. Plain whitespace split, which
+  `scripts/verify-batch.mjs` uses: **1,741 → 1,738**. Inside the 1,700–1,780 target and the
+  1,500–1,800 band on both measures. The CTA and guide reference cost ~75 words; paid for by the
+  `/templates` and `/eid-mubarak` sentences, a scaffolding sentence ("Each option below covers the
+  same four fields…"), a soft closing sentence in the definition section, and two tightenings.
+- Whole 50-item checklist re-run, not only the failures: **49 passed / 1 failed**,
+  `passed ∩ failed = ∅`, `|passed| + |failed| = 50`, every string byte-verbatim
+  (`node scripts/normalise-audit.mjs … --check` → "50 items · 11 already clean · 0 broken").
+- Schema validator from `references/article-json-schema.md`: **ok, 1,738 words**. 11 FAQs, still
+  only in `article.faqs`; `structuredData` unchanged (one `@id`-matched enrichment block plus the
+  `ItemList`, citations still mirroring `sources` one-to-one in order).
+- **Not re-verifiable from this repo:** `categorySlug` = `indian-festivals` and slug availability.
+  The Strapi base URL is runtime settings, not committed, so both rest on the Phase 4–5 check;
+  `sitemap.xml` at least still shows no published `/blog/<slug>` for this post.
+- `honestAssessment` rewritten for the post as it now stands. It is not softer: the Pinterest
+  image intent, the complete AI Overview, the US-localised second engine and the domain-authority
+  gap all remain, and no ranking claim is made.
