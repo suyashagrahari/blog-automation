@@ -418,11 +418,11 @@ domestic Speed Post tariff 50 g`.
 | 2 | India Post, **Domestic Speed Post Document** (Mail Products), `indiapost.gov.in/mailproducts/premiumservices` | Pass — the delivered cost of the physical format | Page fetched and indexed. Verbatim: "delivers across the country @ **INR 47.00** (GST extra as applicable) and Local @ **INR 19.00** (GST extra as applicable) for consignments up to 50 grams". Specifications read: max weight 500 g; max 420 mm × 297 mm × 24 mm. **No publication date on the page — `publishedDate` omitted, not back-filled with the fetch date.** |
 | 3 | **Hill & Dunbar, "Social Network Size in Humans"**, *Human Nature* 14(1):53–72, 2003 — author's institutional copy at `rahill.webspace.durham.ac.uk` | Pass — the study *is* card-sending behaviour | PDF downloaded (819 KB), full text extracted and read. Methods and Results located verbatim: "Forty-three questionnaires were returned, between them involving a total of 2,984 Christmas cards… The mean number of Christmas cards sent was 68.19 (range 11–149)… mean network size of 153.5… 124.9 for the 22 questionnaires for which this distinction was made". Kin ≈ 21% from the abstract. Peer-reviewed; free full text from the first author's own university page. |
 | 4 | **Kumar & Epley, "It's Surprisingly Nice to Hear You"**, *Journal of Experimental Psychology: General*, advance online 2020-09-10 — author's copy at `kumar-amit.com` | Pass — media choice for a personal greeting | PDF downloaded twice (author copies on both `nicholasepley.com` and `kumar-amit.com`; the latter shipped because the URL is stable and human-readable). **Full text read, not the abstract.** Experiment 1 located verbatim: "Sixty-seven percent of participants indicated that they would prefer to interact over e-mail than over the phone, χ²(1, N = 200) = 23.12, p < .0001" while expecting a stronger bond by phone; abstract confirms voice produced stronger bonds "and no increase in awkwardness". |
-| 5 | **Davydova, "Thematic analysis of scientific publications dedicated to a greeting card…"**, *Theory and Practice of Design* 1(25):202–209, 2022, DOI `10.18372/2415-8151.25.16797` | Pass — directly about greeting-card scholarship | Found via DOAJ. `doaj.org` returned HTTP 403, so the PDF was retrieved from the Index Copernicus mirror (492 KB) and text-extracted; the DOI was then resolved separately and confirmed HTTP 200 → `jrnl.kai.edu.ua/index.php/Design/article/view/16797`. **The DOI is what shipped as the URL.** Gold open access, peer-reviewed. Cited claim taken from the abstract and results, which state that the scholarship treats the postal greeting card "from the standpoint of socio-cultural and historical heritage, and not only from the standpoint of a means of transmission information". |
+| 5 | **Davydova, "Thematic analysis of scientific publications dedicated to a greeting card…"**, *Theory and Practice of Design* 1(25):202–209, 2022, DOI `10.18372/2415-8151.25.16797` | Pass — directly about greeting-card scholarship | Found via DOAJ. `doaj.org` returned HTTP 403, so the PDF was retrieved from the Index Copernicus mirror (492 KB) and text-extracted; the DOI was then resolved and confirmed HTTP 200 → `jrnl.kai.edu.ua/index.php/Design/article/view/16797`, which was also fetched directly and confirmed to be the right article. **The publisher's own landing page is what shipped as the URL, not the DOI** — see the `doi.org` cap note below. Gold open access, peer-reviewed. Cited claim taken from the abstract and results, which state that the scholarship treats the postal greeting card "from the standpoint of socio-cultural and historical heritage, and not only from the standpoint of a means of transmission information". |
 
 ### Rejected, and why
 
-- **`doaj.org/article/1339e…`** — HTTP 403 to a non-browser client. Replaced with the DOI.
+- **`doaj.org/article/1339e…`** — HTTP 403 to a non-browser client. Replaced with the publisher.
 - **BORIS (Bern), "digital greeting cards as a form of counter-memory"** — the repository is
   behind an Anubis proof-of-work bot wall; the PDF could not be read, so it was **not cited**.
   It looked like the single best on-lane source on *digital* cards specifically, and losing it
@@ -452,10 +452,19 @@ not mistaken for a sourced figure.
 
 At the time of writing, `blogs/` held six JSONs (banner-and-poster, good-morning-wishes,
 greeting-card, rangoli-designs, songs-and-bhajans, ganpati-bappa-photos). No source URL appears
-in more than 2 posts and no domain in more than 3. This post introduces four fresh domains
-(`indiapost.gov.in`, `rahill.webspace.durham.ac.uk`, `kumar-amit.com`, and `jrnl.kai.edu.ua`
-via the DOI). `doi.org` now stands at 3 posts, but the BRIEF classes it as a resolver rather
-than a publisher, and the three resolve to three different publishers.
+in more than 2 posts and no domain in more than 3. This post introduces four fresh domains and
+repeats none: `indiapost.gov.in`, `rahill.webspace.durham.ac.uk`, `kumar-amit.com` and
+`jrnl.kai.edu.ua`.
+
+**`doi.org` swap, on the coordinator's cap warning (2026-09-10).** Davydova originally shipped
+as `https://doi.org/10.18372/2415-8151.25.16797`, which would have put `doi.org` at **3 posts
+in this batch — exactly the domain cap**, alongside banner-and-poster and ganpati-bappa-photos.
+The BRIEF classes `doi.org` as a resolver rather than a publisher, so it arguably would not
+have breached anything, but the cap is easier to respect than to argue with: the citation was
+resolved to the publisher's own landing page at `jrnl.kai.edu.ua` and re-verified there. That
+drops `doi.org` to **2 posts** and leaves a slot for a later sibling. `en.wikipedia.org` stands
+at 2 posts; this post spends none of that budget, because it carries **zero Wikipedia links in
+the body** and uses Wikipedia only as `sameAs` targets in schema.
 
 ---
 
@@ -473,7 +482,7 @@ first 150 words) → 7 content H2s → the verbatim social block → `## Sources
 | `## Card against page: ₹146 and five working days versus ₹0 and seconds` | card versus page, compared |
 | `## What the printed card does that no page can: 2,984 cards across 43 households` | why a bought card carries weight a message does not · what happened when cards went digital |
 | `## Why 67% pick the easier channel, and what our 89 rakhi pages say` | (carries both mandatory BRIEF §1 disclosures) |
-| `## When a link is the wrong answer, and where our own page falls short` | when the physical card is still the right answer |
+| `## When a link is the wrong answer: 49.6% phone views, 0% on a landline` | when the physical card is still the right answer |
 
 Eight of the eight Phase 2 fan-out sub-queries are covered. The weakest is *"what happened when
 cards went digital"*, which is compressed into two sentences inside the Hill-and-Dunbar H2
@@ -507,25 +516,47 @@ block is inside that total.
 **Zero competitor links. Zero Wikipedia links in the body** — Wikipedia appears only as
 `sameAs` targets in schema, which does not count against the 0–2 body budget.
 
-**Internal: 3**, all from `TEMPLATE_LINKS` in `app/lib/prompt.ts`, all placed in the final
-content H2 after the post has established why they matter:
+### The internal-link reversal — the Ganesh page shipped mid-run
 
-- `/templates` — the live topical CTA
-- `/happy-rakshabandhan-to-brother` — the collection the n=89 measurement actually comes from
-- `/shaadi-card` — an animated card that *is* a page, which is the post's whole comparison
+**First draft (2026-09-10, morning).** Written to BRIEF §3 as issued: `/happy-ganesh-chaturthi`
+neither linked nor in `templateUrls`, `/templates` as the topical CTA, and the final H2 hedged
+in prose — "our Ganesh Chaturthi page is built but not yet published on the site, so nothing in
+this post links to it" — so that no sentence depended on the reader opening it.
 
-`batchMeta.templateUrls`: `["/templates", "/happy-rakshabandhan-to-brother", "/shaadi-card"]`.
+An observation recorded during that draft, which turned out to be the leading edge of the
+deployment: a plain GET to `https://subhsandesh.in/happy-ganesh-chaturthi` already returned
+**HTTP 200** with a real `<title>Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform,
+Free | SubhSandesh</title>`, while the HTML payload still contained the strings `404` and `not
+found`. That was read conservatively at the time — consistent with a Next.js not-found route
+rendering under a 200 — and the instruction was obeyed as absolute rather than second-guessed.
 
-**`/happy-ganesh-chaturthi` is not linked and is not in `templateUrls`**, per BRIEF §3. One
-observation worth recording for whoever fixes it: on 2026-09-10 a plain GET to
-`https://subhsandesh.in/happy-ganesh-chaturthi` returned **HTTP 200** with a real
-`<title>Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free | SubhSandesh</title>`,
-while the HTML payload also contained the strings `404` and `not found`. That is consistent with
-a Next.js not-found route rendering under a 200, or with the page having shipped since the
-BRIEF was written. **It changes nothing here** — the instruction is absolute, the page is still
-absent from `sitemap.xml`, and no sentence in the post depends on the reader opening it. The
-post states in prose that the Ganesh page is built but not yet published, so it reads correctly
-whichever way the deployment lands.
+**Revision (2026-09-10, later).** The coordinator rewrote BRIEF §3: the page is live, the
+sitemap went from 1,121 URLs with no Ganesh entry to 1,123 with both the template and the
+guide, and the "no sentence may depend on the reader opening it" restriction is lifted.
+Re-verified independently here before any edit — both URLs HTTP 200, and
+`/guides/happy-ganesh-chaturthi` carries H1 *"Build a Ganesh Chaturthi page for the people you
+cannot sit with"*. The final H2 was then rewritten: the hedge is gone, the "built but not yet
+published" sentence is deleted, and the page is stated directly as something the reader can send
+tonight. This mattered more here than in most of the wave, because the page half of the
+card-versus-page spine is now openable.
+
+**Internal: 4** — the maximum the skill allows — all placed in the final content H2, after the
+post has established why the reader would want them:
+
+- `/happy-ganesh-chaturthi` — the topical CTA, now live. In `TEMPLATE_LINKS`.
+- `/guides/happy-ganesh-chaturthi` — the written step-by-step. **Not in `TEMPLATE_LINKS`**; see
+  the audit failure below.
+- `/happy-rakshabandhan-to-brother` — the collection the n=89 measurement actually comes from.
+  In `TEMPLATE_LINKS`.
+- `/shaadi-card` — an animated card that *is* a page, which is the post's whole comparison. In
+  `TEMPLATE_LINKS`.
+
+`/templates` was dropped, as directed.
+
+`batchMeta.templateUrls`: `["/happy-ganesh-chaturthi", "/happy-rakshabandhan-to-brother",
+"/shaadi-card"]` — three paths, all inside `TEMPLATE_LINKS`. The guide is deliberately excluded
+from `templateUrls` because it is not a template, which keeps the checklist item
+*"templateUrls all exist in TEMPLATE_LINKS"* honestly passing.
 
 **`structuredData` is additive only**, two blocks:
 

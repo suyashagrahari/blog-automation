@@ -275,8 +275,8 @@ own `wordCount()` from `app/lib/batches.ts` (which strips `#>*_`|-[]()!` to spac
 
 | Measure | Value |
 |---|---|
-| Body, studio `wordCount()`, FAQs excluded | **1,777** (band 1,500–1,800; self-imposed target 1,700–1,780) |
-| Body, plain split | 1,755 |
+| Body, studio `wordCount()`, FAQs excluded | **1,778** (band 1,500–1,800; self-imposed target 1,700–1,780) |
+| Body, plain split | 1,751 |
 | H2s / H3s | 10 / 5 |
 | FAQs, in `article.faqs` only | 12 |
 | Paragraphs over 3 sentences | 0 |
@@ -311,15 +311,33 @@ festival first-save-to-last-edit figure is used and labelled as the festival fig
 
 ## Phase 5 — Links, category, schema
 
-- **`/happy-ganesh-chaturthi` appears nowhere** in the file — not in `contentMarkdown`, not in
-  `templateUrls`. Verified by string search over the whole JSON. No sentence depends on the reader
-  opening a Ganesh page today.
-- **Internal links: 3**, all live `TEMPLATE_LINKS` entries, all in the penultimate content section
-  once the argument for them exists — `https://subhsandesh.in/templates`,
-  `https://subhsandesh.in/holi` (closest thing to a rangoli in colour),
-  `https://subhsandesh.in/bouquet-gf` (arranging blooms into a pattern, as a pookalam does).
-- **`templateUrls`:** `/templates`, `/holi`, `/bouquet-gf`. **`categorySlug`:**
-  `indian-festivals`, confirmed present in the live Strapi category list on 2026-09-10.
+- **The Ganesh template shipped mid-batch, and this post was reversed onto it.** BRIEF §3 was
+  written when `/happy-ganesh-chaturthi` was a genuine 404 with no Ganesh URL in the sitemap, and
+  the first version of this post used `/templates` as the substitute CTA. The coordinator
+  rewrote §3 on 2026-09-10; I re-verified independently before editing rather than taking it on
+  trust: **`/happy-ganesh-chaturthi` → HTTP 200**, title "Happy Ganesh Chaturthi — Send a Ganpati
+  Wish They Can Perform, Free | SubhSandesh", 107 on-page mentions of ganesh/ganpati/modak/aarti;
+  **`/guides/happy-ganesh-chaturthi` → HTTP 200**, H1 "Build a Ganesh Chaturthi page for the
+  people you cannot sit with", 262 mentions; **`sitemap.xml` now carries 1,123 URLs including both
+  Ganesh entries** (it had 1,121 and neither). The post may now assume the reader can open the
+  page, and one sentence does.
+- **Internal links: 3**, all in the penultimate content section once the argument for them
+  exists — `https://subhsandesh.in/happy-ganesh-chaturthi` (the topical CTA),
+  `https://subhsandesh.in/guides/happy-ganesh-chaturthi` (the written build guide the §4
+  walkthrough video points at), `https://subhsandesh.in/bouquet-gf` (arranging blooms into a
+  pattern, as a pookalam does). `/templates` and `/holi` were **dropped** — `/templates` was only
+  ever the substitute for the dead Ganesh link, and `/holi` is already carried by all three
+  committed siblings.
+- The guide URL is **not** in `TEMPLATE_LINKS`, which lists template pages only. That is recorded
+  as audit failure 4 (item 31) rather than reinterpreted, with the verification above as the `why`.
+- **`templateUrls`:** `/happy-ganesh-chaturthi`, `/bouquet-gf` — both `TEMPLATE_LINKS` entries.
+  **`categorySlug`:** `indian-festivals`, confirmed present in the live Strapi category list on
+  2026-09-10.
+- **Source-cap warning from the coordinator, checked:** `doi.org` is at the per-batch cap of 3
+  posts. This post carries **no `doi.org` URL** — the Nature paper is cited on `nature.com`
+  directly and the Springer paper through its PMC record, so no resolver swap was needed.
+  `en.wikipedia.org` appears in **0** body links; the Wikipedia URLs in the enrichment block are
+  `sameAs` entity references, not sources, and do not touch the cap.
 - **Slug check:** `filters[slug][$eq]=ganesh-chaturthi-rangoli-designs` returned 0 records on
   2026-09-10 — free.
 - **Outbound links: 5 third-party citations**, every one fetched and quoted above, plus the two
@@ -347,18 +365,21 @@ of the checklist file by the build script**, so they are verbatim by constructio
 no stripped `**bold**`, no truncated clause. The script asserts `passed ∩ failed = ∅` and
 `|passed| + |failed| == 50` and will not write the JSON if either fails.
 
-**Result: 47 passed, 3 failed.**
+**Result: 46 passed, 4 failed.**
 
 | # | Failed item | Class |
 |---|---|---|
 | 2 | The post contains at least one claim none of the top 5 pages make | Unassessable — no informational pages in the top 5 |
 | 6 | Every H2 section answerable standalone in 2–3 sentences | 8 of 10 pass; the mandated social block and `## Sources` do not |
 | 10 | At least one table column uses first-party data | **Structural** — no first-party rangoli data exists |
+| 31 | Every internal link is a real URL from TEMPLATE_LINKS | Deliberate, documented deviation — `/guides/happy-ganesh-chaturthi` is verified 200 and in the sitemap but is not a `TEMPLATE_LINKS` entry |
 
 Full `why` text for each is in `batchMeta.auditReport.failed`. Nothing was silently fixed or
 dropped. Item 10 would close only if the platform ever collected drawing timings, which it does
 not, because nobody draws a rangoli on SubhSandesh; item 2 would close if any text page entered
-the top 5 for this query.
+the top 5 for this query; item 31 would close if the guide URL were added to `TEMPLATE_LINKS` in
+`app/lib/prompt.ts`, which is a one-line change outside this post's remit and worth making, since
+the mid-batch reversal means other posts will want the same link.
 
 **The format finding stands and is repeated in `honestAssessment`:** a prose page should not be
 expected to take position 1 on a SERP made of three Pinterest boards, an Instagram reel, two
