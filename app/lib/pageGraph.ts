@@ -146,6 +146,27 @@ export function buildPageGraph(
 
   // Batch-authored blocks: an @id match enriches an existing node, everything else
   // is appended unless the renderer already builds that type.
+  //
+  // CAUTION — this diverges from the renderer that actually serves a published
+  // post, and the divergence has already cost one batch real work (2026-09-10).
+  //
+  // The live blog page is rendered by ArticleGraphJsonLd in the sibling repo,
+  // client/components/JsonLd.tsx, via client/app/(app)/blog/[slug]/page.tsx.
+  // THAT renderer builds an FAQPage node at `${url}#faq` and then matches an
+  // authored block against EVERY node in the graph (`graph.find(n => n["@id"]
+  // === id)`), so a #faq-matched block enriches the FAQPage node instead of
+  // being discarded.
+  //
+  // This function matches only `postId`, so a #faq block falls through to the
+  // RENDERER_BUILT_TYPES check below and is dropped from the STUDIO PREVIEW
+  // only. references/article-json-schema.md documents the live behaviour and is
+  // correct; do not "correct" it against this file.
+  //
+  // In practice an authored #faq block that mirrors article.faqs changes nothing
+  // either way, because enrichment fills only keys that are undefined and the
+  // live renderer already sets mainEntity. But a block carrying anything the
+  // renderer does NOT set would ship live while being invisible here — which is
+  // the case to watch for.
   const appended: GraphNode[] = [];
   for (const raw of a.structuredData || []) {
     const rest = { ...(raw as GraphNode) };
