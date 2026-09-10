@@ -213,8 +213,8 @@ collides with the live sibling's six either.
 | # | URL | What it gives | Subject test | Swap test | Notes |
 |---|---|---|---|---|---|
 | 1 | `journals.lib.unb.ca/index.php/MCR/article/view/31881` | Sahney 2021, *Material Culture Review* 90–91:24–42. Peer-reviewed, open access. The home shrine's location in the house "can be more easily changed from one place to another"; producing sacred space through domestic objects is a **fluid** process whose flexibility "makes room for greater spatial negotiation" | PASS — home shrines and domestic architecture | PASS — no other keyword in this batch is about shrine placement | **Abstract and citation metadata only.** The HTML galley returned no body text; full text not read. The study is of South Asian immigrant women in **American** houses, not Indian flats — disclosed in the body prose |
-| 2 | `doi.org/10.3390/ijerph18158086` | *IJERPH* 18(15):8086, 30 Jul 2021, CC BY 4.0. Twelve incense products tested; exposure modelled on a **30 m³ room at 0.5 air changes per hour**; formaldehyde short-term peak above the 100 µg/m³ guideline in **10 of the 12**; cone type worse than stick — 3 of the 4 highest polluters were cones, from only 4 cone products | PASS — burning incense indoors in a small volume | PASS — no sibling post is about air in a room | Full text read via PMC8345624 |
-| 3 | `cpcb.nic.in` Revised Guidelines for Idol Immersion, 12 May 2020 | Clause 2.0(iii) verbatim: worship material — flowers, patri, vastras, "decorating materials (made of paper and bio-degradable or compostable plastic but not single use plastic)" — "should be ensured to remove before immersion of idols and segregated in colour coded bins". Clause 2.0(ii): only dried flower components, straw and natural tree resins for ornaments | PASS — what a decoration may be made of and what must come off it | PASS — this clause is specific to immersion of a decorated idol | PDF text extracted and the clauses read verbatim. Not the same claim or document as the live sibling's PIB-sourced thermocol ban |
+| 2 | `pmc.ncbi.nlm.nih.gov/articles/PMC8345624/` | *IJERPH* 18(15):8086, 30 Jul 2021, CC BY 4.0. Twelve incense products tested; exposure modelled on a **30 m³ room at 0.5 air changes per hour**; formaldehyde short-term peak above the 100 µg/m³ guideline in **10 of the 12**; cone type worse than stick — 3 of the 4 highest polluters were cones, from only 4 cone products | PASS — burning incense indoors in a small volume | PASS — no sibling post is about air in a room | Full text read here. **Cited via PMC, not `doi.org`** — see the cap note below. The publisher's own page, `mdpi.com/1660-4601/18/15/8086`, serves a JS interstitial challenge and returns no article text, so it is not a link a reader can verify |
+| 3 | `cpcb.nic.in/openpdffile.php?id=TGF0ZXN0…` Revised Guidelines for Idol Immersion, 12 May 2020 | Clause 2.0(iii) verbatim: worship material — flowers, patri, vastras, "decorating materials (made of paper and bio-degradable or compostable plastic but not single use plastic)" — "should be ensured to remove before immersion of idols and segregated in colour coded bins". Clause 2.0(ii): only dried flower components, straw and natural tree resins for ornaments | PASS — what a decoration may be made of and what must come off it | PASS — this clause is specific to immersion of a decorated idol | PDF text extracted and the clauses read verbatim. Not the same claim or document as the live sibling's PIB-sourced thermocol ban |
 | 4 | `pib.gov.in/Pressreleaseshare.aspx?PRID=1593252` | NSS 76th round, NSS report 584, PIB 23 Nov 2019: average floor area of the dwelling unit **46.1 sq m urban / 46.6 sq m rural**; **63.8%** of urban households own their dwelling; **56.4%** live in an independent house; n=106,838 households (43,102 urban) | Context | Fails the swap test in principle | **This is the one permitted generic context statistic.** It is at least genuinely about floor area and tenure, which is this post's design brief |
 
 **Searched and found nothing citable:** temple/floral-waste literature for the "what do you
@@ -227,7 +227,19 @@ open version or readable abstract was retrievable, so it is not cited. Its absen
 reason source 1 is a diaspora study, and the post says so.
 
 `tandfonline.com/doi/pdf/10.1080/19472498.2017.1371507` ("Pavitra Hindu homes") returned
-HTTP 403 — not cited.
+HTTP 403 — not cited. `peerj.com/articles/9768.pdf` returned HTTP 403 — not cited.
+
+### Cap position after this post, re-counted against all sibling JSONs in `blogs/`
+
+No URL appears in more than 2 posts and no domain in more than 3, so the caps hold. Two notes
+for whoever writes next:
+
+- **`doi.org` was avoided entirely** on the coordinator's instruction. The IJERPH paper is
+  cited at its PMC record instead.
+- **`pmc.ncbi.nlm.nih.gov` is now at exactly 3 posts** — `ganesh-chaturthi-modak-recipe`,
+  `ganesh-chaturthi-rangoli-designs` and this one. That is the domain cap. **No further
+  wave-3 post may add a PMC URL.**
+- `journals.lib.unb.ca`, `cpcb.nic.in` and `pib.gov.in` are each at 1 post, all introduced here.
 
 Zero competitor sources. Zero Wikipedia links in the body; the Wikipedia/Wikidata pairs in
 `structuredData` are entity `sameAs` targets only and do not count against the body budget.
@@ -236,13 +248,33 @@ Zero competitor sources. Zero Wikipedia links in the body; the Wikipedia/Wikidat
 
 ## Phase 4–7 notes
 
-- **Body word count** measured with the studio's own `wordCount()` behaviour replicated in
-  python, not a plain split. Target band 1,700–1,780.
-- **FAQs** live only in `article.faqs` and the renderer-built FAQPage. None in
-  `contentMarkdown`.
-- **`/happy-ganesh-chaturthi` is NOT linked and is NOT in `templateUrls`** — it 404s. The
-  post uses `/templates`, `/watch` and `/holi`, all live, and no sentence depends on the
-  Ganesh template page existing today.
+- **Body word count: 1,780** by the studio measure (`wordCount()` behaviour replicated in
+  python: fenced blocks stripped, then `[#>*_`|\-\[\]()!]` replaced with spaces). Plain split
+  reads 1,788. Inside the 1,700–1,780 target band and inside the 1,500–1,800 requirement.
+- **FAQs: 11**, in `article.faqs` and the renderer-built FAQPage only. None in
+  `contentMarkdown`; the schema validator's FAQ-in-body check passes.
+- **Audit: 47 passed, 3 failed, 50 total, `passed ∩ failed = ∅`.** Item strings were diffed
+  programmatically against `references/publish-checklist.md` — 0 missing, 0 paraphrased. The
+  three open failures are the swap test (the PIB context statistic), the "no stop words" slug
+  rule (the assigned slug keeps "at home" deliberately), and the TEMPLATE_LINKS rule (the
+  `/guides/` URL is not a TEMPLATE_LINKS entry).
+
+### Internal links — the mid-task reversal, recorded
+
+The brief originally banned `/happy-ganesh-chaturthi` as a hard 404 with no Ganesh URL in the
+sitemap. **The coordinator reversed that mid-task:** the page is live (HTTP 200, title "Happy
+Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free"), `/guides/happy-ganesh-chaturthi`
+is live too (H1 "Build a Ganesh Chaturthi page for the people you cannot sit with"), and the
+sitemap now carries both. I re-verified all three internal URLs myself at HTTP 200 before
+linking them.
+
+- Body links (3): `/happy-ganesh-chaturthi` (the topical CTA), `/guides/happy-ganesh-chaturthi`
+  (the written walkthrough), `/watch` (give the aarti video its own page).
+- `batchMeta.templateUrls`: `["/happy-ganesh-chaturthi", "/watch", "/templates"]` — all three
+  are TEMPLATE_LINKS entries. `/guides/happy-ganesh-chaturthi` is deliberately **not** in
+  `templateUrls`, because it is not in TEMPLATE_LINKS; that is recorded as an audit failure
+  rather than hidden.
+- `/holi` and `/templates` were dropped from the body per the reversal.
 - **BRIEF §1 disclosures carried in body prose:** the lead-time measurement is Raksha Bandhan
   (28 August 2026), not Ganesh Chaturthi, and it is a one-day festival against a twelve-day
   one; and n=89 is small, so no per-template or per-region rate is derived from it. The 3.7%
