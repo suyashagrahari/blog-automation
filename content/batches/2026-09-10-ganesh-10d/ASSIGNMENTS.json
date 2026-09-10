@@ -1,7 +1,7 @@
 {
   "batchId": "2026-09-10-ganesh-10d",
   "createdAt": "2026-09-10T00:00:00.000Z",
-  "note": "Wave 4. The 50-row shortlist in content/keywords/2026-09-09-ganesh-chaturthi/build.mjs is EXHAUSTED — 137 of its keyword strings are covered by the 36 existing posts and only 6 rows are uncovered, 5 of them near-duplicates of live posts. Every keyword below therefore comes from the harvested autocomplete pool (pool.csv, 1,777 rows), which is the same evidence standard the original list used (evidence_type AUTOCOMPLETE). Relevance score from pool.csv is quoted per row. 13 assignments to land 10 posts; wave 3 aborted 3 of 14 on the cannibalisation gate and that rate should be expected again.",
+  "note": "Wave 4. The 50-row shortlist in content/keywords/2026-09-09-ganesh-chaturthi/build.mjs is EXHAUSTED — 137 of its keyword strings are covered by the 36 existing posts and only 6 rows are uncovered, 5 of them near-duplicates of live posts. Every keyword below therefore comes from the harvested autocomplete pool (pool.csv, 1,777 rows), which is the same evidence standard the original list used (evidence_type AUTOCOMPLETE). Relevance score from pool.csv is quoted per row. 13 assignments to land 10 posts; wave 3 aborted 3 of 14 on the cannibalisation gate and that rate should be expected again. UPDATED 2026-09-10: added a 14th assignment (ganesh-chaturthi-wishes-reply) as the preferred reserve, ranked ahead of the backdrop and calligraphy reserves.",
   "target": 10,
   "assignments": [
     {
@@ -14,7 +14,11 @@
       "researchLane": "State gazette / public-holiday scheduling; regional variation in observance. Not panchang.",
       "angleSeed": "The lead-time dataset is unusually relevant here: 49.4% of Raksha Bandhan pages were built on the festival day itself, which is what a public holiday does to behaviour. Both §1 disclosures apply.",
       "formatRisk": "A state-by-state table is table stakes; get the values right or omit the table.",
-      "folds": ["ganesh chaturthi holiday", "ganesh chaturthi holiday in school", "is ganesh chaturthi a national holiday"]
+      "folds": [
+        "ganesh chaturthi holiday",
+        "ganesh chaturthi holiday in school",
+        "is ganesh chaturthi a national holiday"
+      ]
     },
     {
       "keyword": "ganesh chaturthi ai prompt",
@@ -26,7 +30,11 @@
       "researchLane": "Text-to-image prompt construction; documented failure modes on religious and cultural iconography. Search the phenomenon: 'text-to-image cultural bias evaluation', not the keyword.",
       "angleSeed": "Publish prompts that were actually run, and say plainly where they broke — a model rendering four arms as four hands is the inconvenient detail that makes the page citable.",
       "formatRisk": "Do not present untested prompts as tested. If you did not run it, do not claim an output.",
-      "folds": ["ganesh chaturthi chatgpt prompt", "ganesh chaturthi logo prompt", "ganpati ai prompt"]
+      "folds": [
+        "ganesh chaturthi chatgpt prompt",
+        "ganesh chaturthi logo prompt",
+        "ganpati ai prompt"
+      ]
     },
     {
       "keyword": "why ganesh chaturthi is not celebrated in north india",
@@ -38,7 +46,10 @@
       "researchLane": "Historical geography of the public festival; the 1890s Pune public-pandal turn; regional religious practice studies.",
       "angleSeed": "Lead by correcting the premise, then explain the public-vs-domestic distinction that produces the impression.",
       "formatRisk": "This touches religious practice across regions. Describe, do not rank or judge. No claim that one region observes 'properly'.",
-      "folds": ["why ganesh chaturthi is not celebrated in uttarakhand", "where ganesh chaturthi is celebrated"]
+      "folds": [
+        "why ganesh chaturthi is not celebrated in uttarakhand",
+        "where ganesh chaturthi is celebrated"
+      ]
     },
     {
       "keyword": "how ganesh chaturthi is celebrated in maharashtra",
@@ -50,7 +61,10 @@
       "researchLane": "Ethnography of the Maharashtra public festival; mandal organisation; the ten-day arc.",
       "angleSeed": "The ten-day arc as a schedule a reader can follow day by day, which neither sibling provides.",
       "formatRisk": "Highest abort probability in the batch. Do the gate honestly.",
-      "folds": ["how ganesh chaturthi is celebrated", "ganesh chaturthi in maharashtra"]
+      "folds": [
+        "how ganesh chaturthi is celebrated",
+        "ganesh chaturthi in maharashtra"
+      ]
     },
     {
       "keyword": "ganesh chaturthi udyapan vidhi",
@@ -62,7 +76,9 @@
       "researchLane": "Vrata completion rites in Hindu domestic ritual; primary ritual texts in open-access translation.",
       "angleSeed": "The rite most guides skip because it happens after the photogenic part.",
       "formatRisk": "Genuine risk of inventing a distinction. Cite or abort.",
-      "folds": ["ganesh chaturthi udyapan vidhi in hindi"]
+      "folds": [
+        "ganesh chaturthi udyapan vidhi in hindi"
+      ]
     },
     {
       "keyword": "ganesh chaturthi celebration in bangalore",
@@ -74,7 +90,10 @@
       "researchLane": "Karnataka observance; Gauri Habba; urban festival organisation in Bengaluru.",
       "angleSeed": "The Gauri-Ganesha pairing is the fact a Mumbai-shaped article misses entirely.",
       "formatRisk": "Do not list pandals you cannot verify exist in 2026. An unverifiable venue list is worse than no list.",
-      "folds": ["ganesh chaturthi bangalore", "ganesh chaturthi in bangalore"]
+      "folds": [
+        "ganesh chaturthi bangalore",
+        "ganesh chaturthi in bangalore"
+      ]
     },
     {
       "keyword": "ganesh chaturthi board decoration",
@@ -86,7 +105,11 @@
       "researchLane": "Classroom display and visual-learning research; paper craft constraints.",
       "angleSeed": "Constraints a home guide never states: no flame, no water, must survive a week of a corridor, must read from three metres.",
       "formatRisk": "Do not restate the home-decoration post with the word 'board' substituted. If that is all you have, abort.",
-      "folds": ["happy ganesh chaturthi board decoration", "ganesh chaturthi notice board decoration", "ganesh chaturthi board decoration ideas"]
+      "folds": [
+        "happy ganesh chaturthi board decoration",
+        "ganesh chaturthi notice board decoration",
+        "ganesh chaturthi board decoration ideas"
+      ]
     },
     {
       "keyword": "ganesh chaturthi group names",
@@ -98,7 +121,10 @@
       "researchLane": "Naming conventions and character limits in messaging platforms; group identity research.",
       "angleSeed": "Name against the actual WhatsApp constraint and say what it is, which no listicle does.",
       "formatRisk": "This is a list-of-names keyword and will want to become 200 names of padding. Do not pad: the band is the band, and a shorter list with the constraint explained is the differentiator. Include the Kannada fold only if you can set the script correctly.",
-      "folds": ["ganesh chaturthi group name in kannada", "ganpati group name"]
+      "folds": [
+        "ganesh chaturthi group name in kannada",
+        "ganpati group name"
+      ]
     },
     {
       "keyword": "ganesh chaturthi outfits",
@@ -110,7 +136,10 @@
       "researchLane": "Regional textile and dress practice; festival dress custom in Maharashtra and Karnataka.",
       "angleSeed": "Only proceed if you can honestly find 3 relevant first-party facts with 2 that fit the first 150 words. If the only available facts are generic platform-behaviour numbers, they fail the swap test and you should ABORT and say so.",
       "formatRisk": "Highest Phase 0 abort probability. Do not force platform statistics into a clothing post.",
-      "folds": ["ganesh chaturthi look", "ganesh chaturthi outfit ideas"]
+      "folds": [
+        "ganesh chaturthi look",
+        "ganesh chaturthi outfit ideas"
+      ]
     },
     {
       "keyword": "ganesh chaturthi logo design",
@@ -122,7 +151,11 @@
       "researchLane": "Logo legibility at small sizes; single-colour reproduction; visual identity research.",
       "angleSeed": "The reproduction constraint no festival design listicle mentions.",
       "formatRisk": "Do not describe logos you have not seen. Describe constraints and let the reader apply them.",
-      "folds": ["ganpati logo design", "ganesh chaturthi youth logo design", "ganpati group name logo"]
+      "folds": [
+        "ganpati logo design",
+        "ganesh chaturthi youth logo design",
+        "ganpati group name logo"
+      ]
     },
     {
       "keyword": "happy ganesh chaturthi odia",
@@ -134,7 +167,10 @@
       "researchLane": "Odia language and script; Ganesh Puja in Odisha.",
       "angleSeed": "Odisha's student-centred observance, which no pan-India wishes page mentions.",
       "formatRisk": "Odia script must be correct. If you cannot verify the script renders and reads correctly, transliterate and say that you did, or abort — a language post with broken script is worse than none.",
-      "folds": ["happy ganesh puja odia", "happy ganesh chaturthi odia images"]
+      "folds": [
+        "happy ganesh puja odia",
+        "happy ganesh chaturthi odia images"
+      ]
     },
     {
       "keyword": "ganesh chaturthi backdrop",
@@ -159,6 +195,24 @@
       "researchLane": "Devanagari letterform construction; brush and pen lettering.",
       "angleSeed": "Letterform construction rather than downloadable art.",
       "formatRisk": "Merges easily with the banner post. Gate hard."
+    },
+    {
+      "keyword": "happy ganesh chaturthi reply",
+      "slug": "ganesh-chaturthi-wishes-reply",
+      "poolRelevance": 561,
+      "priority": 4,
+      "reserve": true,
+      "gateAgainst": "happy-ganesh-chaturthi-wishes",
+      "separation": "Added 2026-09-10 after mining the pool for a stronger bench than the two decoration-adjacent reserves. A genuinely uncovered INTENT, not another asset lane: all 36 posts cover SENDING a wish, none covers REPLYING to one. The pool carries a coherent variant family — 'happy ganesh chaturthi ka reply kya de', 'reply in english', 'to you too', 'to you and your family', 'from us to you', 'to all' — which is how people actually phrase it.",
+      "researchLane": "Reciprocity norms in greeting exchange; politeness and response obligation in messaging. Search the phenomenon: 'ritual greeting reciprocity', 'politeness theory response obligation', not the keyword.",
+      "angleSeed": "The reply is the half of the exchange nobody writes for, and it has a different constraint from the wish: it must acknowledge what was sent without simply mirroring it back. Preferred over the backdrop and calligraphy reserves, which are likely merges with live decoration and banner posts.",
+      "formatRisk": "Must not become the wishes post with 'reply' prepended to each line. If that is all it is, abort.",
+      "folds": [
+        "happy ganesh chaturthi ka reply kya de",
+        "happy ganesh chaturthi reply in english",
+        "happy ganesh chaturthi to you too",
+        "happy ganesh chaturthi to you and your family"
+      ]
     }
   ]
 }
