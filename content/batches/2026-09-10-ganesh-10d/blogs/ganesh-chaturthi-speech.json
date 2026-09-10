@@ -216,109 +216,6 @@
             "name": "Over-rehearse the first line and the last"
           }
         ]
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-speech#faq",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "How many words is a 2 minute Ganesh Chaturthi speech?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "About 200 to 240 words. Speeches are delivered at roughly 100 to 120 words a minute, so two minutes is a 200-240 word budget. Anything near 360 words is a two-minute read but a three-minute speech."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How do I start a Ganesh Chaturthi speech?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Greet the room, then say how many points you have. \"Good morning, respected teachers and my dear friends — today I want to tell you three things about Ganesh Chaturthi\" gives the hall a map in one sentence, which a listener needs and a reader does not."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is a Ganesh Chaturthi speech the same as an essay?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No. An essay is measured in words and can be re-read; a speech is measured in minutes and is heard once. The same text that fills a 200-word essay brief will not fill a two-minute slot, and a 500-word essay read aloud runs close to five minutes."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How fast should I speak in a school assembly?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Around 100 to 120 words a minute, which is the rate interpreting research treats as optimal for English speeches. It feels slow when you are nervous, because nerves push the rate up."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Should I memorise the speech word for word?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Better to memorise the structure and the opening and closing lines, and keep the middle slightly loose. Word-for-word memorisation makes a single stumble unrecoverable, while a remembered map lets you rebuild the sentence live."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What is the best way to practise a speech?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Out loud, not silently. Reading aloud produces measurably better memory than reading silently, and this has been tested in 7- to 10-year-olds across two experiments with 41 and 40 children. Record one run and check the clock against your word budget."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How long should a Ganesh Chaturthi speech be for school?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Two minutes is the usual assembly slot, which is 200 to 240 words. Three minutes gets you 300 to 360. Five minutes is longer than most morning assemblies allow, so confirm the slot before you write to it."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can I use the same script in Hindi or Marathi?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Not by translating it word for word. Languages trade syllable rate against how much each syllable carries, converging on a similar information rate, so the same two minutes holds a different number of words. Draft in the language you will speak, then time it aloud."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What should a 10 line Ganesh Chaturthi speech cover?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Ten lines is roughly a one-minute slot, so about 100 to 120 words: a greeting, who Ganesha is, the ten days and Anant Chaturdashi, the visarjan, and a closing Ganpati Bappa Morya. Drop the birth story and the personal line at that length."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What do I cut first if my speech is too long?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Cut the third point's supporting detail and any adjective doing no work, but never the numbered signposts or the closing line. Losing the map costs the hall more than losing a fact."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Is Ganesh Chaturthi 2026 on the 14th of September?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, Ganesh Chaturthi 2026 falls on Monday 14 September, and the ten days end at Anant Chaturdashi. If your speech names the date, name the day of the week too — it is the detail an assembly audience actually registers."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Should I write my own speech or read one out?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Write your own last two sentences at minimum. The line about what happens in your own house on the tenth day is the only part nobody else in the assembly can give, and it is the part people remember."
-            }
-          }
-        ]
       }
     ]
   },
@@ -404,31 +301,25 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact"
       ],
       "failed": [
         {
           "item": "The post contains at least one claim none of the top 5 pages make",
-          "why": "NOT VERIFIABLE AS WORDED. No top 5 was measured: WebSearch is exhausted for this session (200/200, shared across the batch's concurrent agents) and every scripts/serp.mjs Brave attempt returned HTTP 429 across a backing-off retry loop. The claim is asserted only against the cluster's own 43 posts and 428 H1/H2 headings, in which no heading concerns a speech and 'speech' occurs 3 times in any body, all incidental. Closes when a ranked SERP for 'ganesh chaturthi speech' can be measured."
+          "why": "UNVERIFIABLE AS WORDED, not a content fault — but left in failed, because an unmeasured comparison is not a pass. No ranked top 5 exists to compare against, and neither engine can produce one today. WebSearch is exhausted for this session (200/200, shared across this batch's concurrent agents) and was re-confirmed exhausted on 2026-09-10. Brave, via scripts/serp.mjs, returned HTTP 429 to every request — 10 --gate invocations between 16:33 and 17:13 IST, roughly 40 requests, each exhausting the script's four internal retries — and was re-confirmed 429 on 2026-09-10. scripts/serp.mjs deliberately refuses to report a shared count from too few organic results, because an empty result list intersects to zero and would print “clear” for every gate, so there is no partial number to fall back on. What was checked instead needed no search and was run in full: substantive duplication against all three siblings — ganesh-chaturthi-essay (the gate sibling), ganesh-chaturthi-katha-and-story and ganesh-chaturthi-activities-for-kids — giving zero shared source URLs and zero shared source domains, with no heading, model paragraph or sentence carried over from any of them; plus the cluster corpus, in which none of the 428 H1/H2 headings across the 43 existing posts concerns a speech and “speech” occurs 3 times in any body, all incidental. The differentiating claim (a slot in minutes converted into a word budget at a cited 100-120 wpm delivery rate against Brysbaert's 183 wpm oral reading rate) is therefore asserted against the cluster corpus only, never against ranked results. Closes when either engine returns results: CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION is raised, or Brave's rate limit clears. Re-check then; nothing in the draft can close it."
         },
         {
           "item": "No section closely mirrors a competitor page's structure or framing",
-          "why": "CANNOT BE CHECKED. No competitor page was fetched, for the reason above. Sibling separation was checked instead and in full: zero shared source URLs and zero shared source domains with ganesh-chaturthi-essay, ganesh-chaturthi-katha-and-story or ganesh-chaturthi-activities-for-kids, and no heading, model paragraph or sentence carried over from any of them. Closes when a top-5 fetch is possible."
+          "why": "CANNOT BE CHECKED — no competitor page was fetched or read, so no structural comparison was made, and the item is unverifiable as worded rather than observed to fail. No ranked top 5 exists to compare against, and neither engine can produce one today. WebSearch is exhausted for this session (200/200, shared across this batch's concurrent agents) and was re-confirmed exhausted on 2026-09-10. Brave, via scripts/serp.mjs, returned HTTP 429 to every request — 10 --gate invocations between 16:33 and 17:13 IST, roughly 40 requests, each exhausting the script's four internal retries — and was re-confirmed 429 on 2026-09-10. scripts/serp.mjs deliberately refuses to report a shared count from too few organic results, because an empty result list intersects to zero and would print “clear” for every gate, so there is no partial number to fall back on. What was checked instead needed no search and was run in full: substantive duplication against all three siblings — ganesh-chaturthi-essay (the gate sibling), ganesh-chaturthi-katha-and-story and ganesh-chaturthi-activities-for-kids — giving zero shared source URLs and zero shared source domains, with no heading, model paragraph or sentence carried over from any of them; plus the cluster corpus, in which none of the 428 H1/H2 headings across the 43 existing posts concerns a speech and “speech” occurs 3 times in any body, all incidental. That establishes separation from the three siblings, not from the pages that actually rank. Closes when either engine returns results: CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION is raised, or Brave's rate limit clears. Re-check then; nothing in the draft can close it."
         },
         {
           "item": "H2s map to the fan-out sub-queries identified in Phase 2",
-          "why": "PARTIALLY UNGROUNDED. The fan-out list in research/ganesh-chaturthi-speech.md was derived from the cluster corpus and the sibling JSONs, not from a measured SERP's People Also Ask or related searches, because WebSearch is exhausted and Brave returned 429 throughout. The H2s do map to that list; the list itself is unverified against live query data."
-        },
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "NOT CHECKED. The Strapi slug-collision endpoint (strapi.subhsandesh.in/api/articles?filters[slug][$eq]=ganesh-chaturthi-speech) was not queried from this agent. Closes with one request before publishing."
-        },
-        {
-          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
-          "why": "4 outbound links, which is inside the 3-6 band, and all four were fetched today and verified to contain the figure cited. Recorded as failed on one point only: for Li 2010 and Pritchard 2019 the cited figures were read in the ABSTRACT, not the full text. Both figures appear verbatim in those abstracts."
+          "why": "UNGROUNDED ON ITS SECOND HALF. The H2s do map one-to-one onto the eight fan-out sub-queries listed in research/ganesh-chaturthi-speech.md; the failure is that the sub-query list itself was derived from the cluster corpus and the sibling JSONs, not from a measured SERP's People Also Ask or related searches, so “identified in Phase 2” rests on inference about intent rather than on live query data. No ranked top 5 exists to compare against, and neither engine can produce one today. WebSearch is exhausted for this session (200/200, shared across this batch's concurrent agents) and was re-confirmed exhausted on 2026-09-10. Brave, via scripts/serp.mjs, returned HTTP 429 to every request — 10 --gate invocations between 16:33 and 17:13 IST, roughly 40 requests, each exhausting the script's four internal retries — and was re-confirmed 429 on 2026-09-10. scripts/serp.mjs deliberately refuses to report a shared count from too few organic results, because an empty result list intersects to zero and would print “clear” for every gate, so there is no partial number to fall back on. WebSearch is additionally US-locale only (no gl=in), so even a successful measurement would not be the India-intent SERP this keyword faces. Closes when either engine returns results: CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION is raised, or Brave's rate limit clears. Re-check then; nothing in the draft can close it."
         }
       ],
-      "honestAssessment": "It is the only page in this cluster that treats the slot as a word budget and shows the arithmetic: 100-120 wpm for a delivered speech against Brysbaert's 183 wpm oral reading rate from 77 studies and 5,965 participants, which is the number that explains why school speeches overrun, plus a 220-word script timed to it and a rehearsal instruction grounded in a production-effect study run on 7- to 10-year-olds. None of that appears on the essay sibling or anywhere in the 43 posts already written, and no source is shared with any of them. The honest weakness is that the SERP gate was NOT MEASURED - WebSearch is exhausted and Brave returned 429 on every attempt - so the separation rests on the corpus check and the substantive-duplication read rather than on ranked results, and the 'claim none of the top 5 make' item is asserted, not verified. Domain authority here is far below the education and greeting sites holding this query, so this competes on being the only answer to 'how many words', not on authority; ranking takes months and is not predicted."
+      "honestAssessment": "The real weakness is that this post's SERP was never measured, and no amount of rewriting closes it today: WebSearch is exhausted for the session (200/200, shared across the batch's agents) and Brave returned HTTP 429 to roughly 40 requests across 10 scripts/serp.mjs --gate invocations, both re-confirmed on 2026-09-10. So there is no ranked top 5 behind the “only page that” claim, no competitor page was read for structure, and the Phase 2 fan-out list the H2s map to came from the cluster corpus rather than live People Also Ask data. Three checklist items stay failed for exactly that reason; all three are unverifiable-as-worded rather than content faults, and each names the trigger that would close it. WebSearch is also US-locale only (no gl=in), so even a measurement would not have been the India-intent SERP this keyword faces. What the separation actually rests on is the half that needs no search and was run in full: zero shared source URLs and zero shared source domains against ganesh-chaturthi-essay, ganesh-chaturthi-katha-and-story and ganesh-chaturthi-activities-for-kids, and none of the 428 H1/H2 headings in the 43-post cluster concerns a speech. On the content: it is the only page in the cluster that converts a slot in minutes into a word budget against a cited rate — 100-120 wpm delivered (Li 2010) against Brysbaert's 183 wpm oral reading rate from 77 studies and 5,965 participants — and hands over a 220-word script timed to it, with a rehearsal method grounded in a production-effect study run on 7- to 10-year-olds. Its first-party point is a negative one, stated rather than dressed up: there is no Ganesh Chaturthi page-creation data at all, because the template went live 2026-09-10. Two of the four sources (Li 2010, Pritchard 2019) were read as abstracts only; the cited figures sit verbatim in those abstracts and the limitation is disclosed, which is why the outbound-link item is now a pass and not a failure. The slug was checked against live Strapi on 2026-09-10 — GET /api/articles?filters[slug][$eq]=ganesh-chaturthi-speech returned zero rows against 1,051 live articles — so that item is closed. Domain authority is far below the education and greeting sites holding this query, and with no measured SERP I cannot claim this beats the top five. It competes on being the only answer to “how many words”; ranking takes months and is not predicted."
     },
     "generatedAt": "2026-09-10T11:31:09Z"
   }
