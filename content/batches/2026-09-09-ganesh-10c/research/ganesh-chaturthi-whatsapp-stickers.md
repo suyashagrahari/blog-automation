@@ -229,16 +229,28 @@ CMDA review, a Filipino graphicon corpus, WhatsApp's sticker build spec and a CS
 customization are useless in the aarti, rangoli, songs, photos, banner or greeting-card posts.
 
 **Generic context statistics:** **zero.** No PIB, TRAI, Census or MEA figure appears.
-**Wikipedia:** 1 body link (Ganesh Chaturthi), entity disambiguation only; not a source.
+**Wikipedia:** **zero** body links. An earlier draft carried one Ganesh Chaturthi entity link; it
+was cut once `en.wikipedia.org` was reported at 2 posts in this batch, since the link carried no
+claim the sentence needed. Wikipedia/Wikidata pairs survive only inside `structuredData`
+`about`/`mentions` as `sameAs` targets, which `structured-data.md` explicitly excludes from the
+body Wikipedia budget.
 **Competitors:** zero cited, zero linked, zero read in depth. `fnp.com` appears only in the sibling
 SERP table above and was not opened.
 
-**Batch caps (`-10c`), counted against the three JSONs emitted at the time of writing
-(`ganesh-chaturthi-banner-and-poster`, `ganesh-chaturthi-songs-and-bhajans`, `ganpati-bappa-photos`):**
-my five domains — `scholarworks.iu.edu`, `jbe-platform.com`, `github.com`, `al-kindipublisher.com`,
-`hal.science` — appear in **0** of them. No URL repeat, no domain repeat. `doi.org` already stands at
-2 posts in this batch, so it is **deliberately avoided**: every citation resolves to the publisher or
-the repository directly.
+**Batch caps (`-10c`) — recounted myself from all nine sibling JSONs present at finalisation**
+(banner-and-poster, good-morning-wishes, greeting-card, modak-recipe, rangoli-designs,
+songs-and-bhajans, ganpati-bappa-photos, ganpati-decoration-ideas-at-home, plus this post), counting
+**posts** rather than source entries:
+
+| Domain | Posts | Status |
+|---|---|---|
+| `pmc.ncbi.nlm.nih.gov` | 3 | **at cap** — not used here |
+| `doi.org` | 2 | not used here; every citation resolves to the publisher or repository directly |
+| `en.wikipedia.org` | 2 | not used here — this post has **zero** Wikipedia links, in the body or in `sources` |
+| `scholarworks.iu.edu`, `jbe-platform.com`, `github.com`, `al-kindipublisher.com`, `hal.science` | **1 each (mine only)** | clear |
+
+No source URL appears in more than 2 posts anywhere in the batch, and no domain in more than 3.
+The five domains this post uses appear in **no other post in the batch**.
 
 **Could not obtain:** Konrad, Herring & Choi (2020), "Sticker and Emoji Use in Facebook Messenger",
 *JCMC* 25(3): 217–235 — the ideal fit (stickers are more pragmatically marked for emotional
@@ -259,20 +271,84 @@ repository README is used instead, and it is dated.
 same four fields: what it is / who it suits / how long it takes / what it cannot carry) →
 `## The five compared, with the limit each one hits` (table, first-party column) →
 `## When people actually do this: the day itself, 49.4% of the time` (BRIEF §1, both disclosures in
-prose) → `## When a sticker is the better choice and the page is the wrong one` (objection) →
+prose) → `## When a sticker is right: 144 of 3,894 pages are occasion-dated` (objection) →
 `## Watch the page get built` (BRIEF §4 verbatim) → `## Sources`.
 
-**Internal links (3).** `/templates` — placed in H3 5, after the five formats have established why
-a link differs from a file. `/watch` ("gives a video you made a page of its own") — placed in H3 3,
-the honest answer to the video-status intent: a page around footage you own, instead of a
-redistributed clip. `/holi` — in the objection section, as a live example of the shape a festival
-page takes. **`/happy-ganesh-chaturthi` is NOT linked and is NOT in `templateUrls`.**
+---
 
-**Verified live 2026-09-09/10:** `/templates` 200 (title "Browse Gift Templates…"), `/watch` 200
-("Watch — Give Your Video Its Own Watch Page"), `/holi` 200 ("Happy Holi Wishes…"). No soft-404
-markers in any body. **`/happy-ganesh-chaturthi` is a soft 404** — it returns **HTTP 200** with a
-Next.js not-found body, which is why a naive status-code check passes it; BRIEF §3's finding stands
-and is now sharper. No sentence in the post depends on that page.
+## Phase 6–7 — what was emitted
+
+`blogs/ganesh-chaturthi-whatsapp-stickers.json` and this brief. `batch.json`, `content/facts.md`
+and every other blog's files were left untouched.
+
+| Check | Result |
+|---|---|
+| Body length, measured by replicating `wordCount()` from `app/lib/batches.ts` exactly (strip fenced code, strip ``[#>*_`|-[]()!]``, split on whitespace) | **1,773** — inside the 1,700–1,780 target and the 1,500–1,800 hard band. FAQs are not in the body at all |
+| `title` / `metaTitle` / `metaDescription` / `excerpt` | 65 / 58 / 154 / 255 characters |
+| FAQs | **12**, in `article.faqs` and the renderer-built FAQPage only — none in `contentMarkdown` |
+| Answer paragraph | 141 words, carrying three first-party numbers (3,894 pages · 11.8 opens per page · 49.6% mobile) |
+| Outbound research links | 5, all in-body and inline at the claim |
+| Internal links | 3 |
+| Schema validator (the `node` snippet in `article-json-schema.md`) | passes, no discarded blocks, `@id`-matched enrichment present |
+| Audit | **46 passed / 4 failed**, disjoint, summing to 50; item strings copied verbatim from `publish-checklist.md` |
+| Cross-contamination check | H1, `article.slug`, `batchMeta.keyword` and the keyword-unique marker (`512`, `laddoo-Ganesha`) all agree; no other keyword's draft present |
+
+**The four recorded audit failures**, all left open with a named blocker rather than quietly fixed:
+
+1. *Paragraphs 2–3 sentences throughout* — the answer paragraph and the five H3 field-blocks run
+   4–6 short sentences because `page-structure.md` mandates both shapes. Every other paragraph is
+   2–3 sentences. Closing it would mean breaking the mandated H3 format.
+2. *metaTitle 50–60 characters, exact keyword in the first five words* — the target keyword is
+   itself six words, so it cannot sit inside the first five of any title. It occupies words 1–6,
+   the earliest possible placement. Structural.
+3. *3–6 outbound links, all fetched and verified to contain the cited fact* — four of five link
+   targets were fetched and read at the linked URL; `jbe-platform.com` returned HTTP 403, so the
+   Linares Bernabéu & Yus figures were verified from the publisher's Crossref abstract deposit and
+   the Semantic Scholar Graph API instead. Would close if the publisher stopped blocking bots.
+4. *Every internal link is a real URL from `TEMPLATE_LINKS`* — `/guides/happy-ganesh-chaturthi` is
+   not in `TEMPLATE_LINKS`. Added on the coordinator's explicit instruction and independently
+   verified live. Would close by adding the guide URL to `TEMPLATE_LINKS` in `app/lib/prompt.ts`.
+
+**Format finding, restated for the batch record.** This SERP is not the zero-informational case the
+banner assignment hit. It has two informational results, both year-stamped 2024 and both carrying no
+statistics, so there is something real to beat — but eight of ten results are asset supply (pins,
+hosted packs, PNG farm, APK mirror, paid listing, design tool) that no article displaces. The
+realistic ceiling is the informational slice of the SERP, not the SERP. And because `WebSearch` does
+not expose AI Overviews, whether Google serves one for this query is **unverified in either
+direction** — stated in `honestAssessment` rather than assumed.
+
+**Internal links (3) — REVISED MID-TASK.** The Ganesh template shipped while this post was being
+drafted, and the coordinator rewrote BRIEF §3 to reverse the do-not-link rule. Final links:
+
+- `/happy-ganesh-chaturthi` — in H3 5, the topical CTA and the direct contrast to a downloaded
+  pack: the recipient performs the puja themselves, so the page is personalised by construction
+  where a pack is byte-identical for everyone.
+- `/guides/happy-ganesh-chaturthi` — in H3 5, the written step-by-step build guide.
+- `/watch` — in H3 3, the honest answer to the video-status intent: a page around footage the
+  sender owns, instead of a redistributed clip.
+
+`/templates` and `/holi` were in the earlier plan and are dropped; the Ganesh page is now the
+better CTA and the better festival example.
+
+**Verified live by me, independently, 2026-09-10:**
+
+| URL | HTTP | Title / H1 | In sitemap |
+|---|---|---|---|
+| `/happy-ganesh-chaturthi` | 200 | "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free" · 158 ganesh/ganpati/modak/aarti mentions | yes |
+| `/guides/happy-ganesh-chaturthi` | 200 | H1 "Build a Ganesh Chaturthi page for the people you cannot sit with" · 313 mentions | yes |
+| `/watch` | 200 | "Watch — Give Your Video Its Own Watch Page (Free)" | n/a |
+
+`subhsandesh.in/sitemap.xml` now carries **1,123** URLs including both Ganesh entries, up from the
+1,121-with-none that BRIEF §3 recorded.
+
+> **Correction to my own earlier finding, recorded rather than quietly dropped.** An earlier pass of
+> this brief asserted `/happy-ganesh-chaturthi` was a **soft 404** — HTTP 200 with a not-found body.
+> That was a **false positive**: my grep pattern was `404|not found`, which matches the Next.js
+> bundled not-found component sitting inside the Flight payload of *every* page on the site. A
+> tighter pattern (`page could not be found|>404<`) returns zero hits, and the page's title plus 158
+> on-topic mentions confirm it is the real template. `/guides/happy-ganesh-chaturthi` is live too.
+> Only one internal link is now outside `TEMPLATE_LINKS` — the guide — and that is recorded as an
+> audit failure rather than glossed.
 
 **Category:** `indian-festivals` — confirmed live in Strapi (id 10).
 **Slug:** `ganesh-chaturthi-whatsapp-stickers` — confirmed **free** (Strapi returned `total: 0`).
