@@ -9,8 +9,12 @@ Date facts held constant: Ganesh Chaturthi 2026 = **Monday 14 September 2026**; 
 Chaturdashi / visarjan = **Friday 25 September 2026** (per BRIEF §1). No muhurat time is
 stated in the body, so no panchang appears in `sources` or `citation`.
 
-STATUS: complete. Gate cleared (0 shared articles of a 3 threshold). Post written, 1,799 body
-words, 11 FAQs, 46 checklist items passed and 4 failed.
+STATUS: complete, and **remediated 2026-09-10 — see Phase 8 at the foot of this file.**
+Gate cleared (0 shared articles of a 3 threshold). As written 2026-09-09: 1,799 body words
+(plain split), 11 FAQs, 46 checklist items passed and 4 failed. After the fix pass: **1,774
+body words by the plain split the batch verifier gates on (1,815 by `wordCount()`), 11 FAQs,
+47 passed and 3 failed**, with `/happy-ganesh-chaturthi` and `/guides/happy-ganesh-chaturthi`
+now linked because BRIEF §3 was reversed and both URLs were re-verified live.
 
 **Capture-integrity note.** No SERP in this file was read through the shared Chrome tab, so the
 mid-capture drift that hit another agent in this wave cannot apply here. All harvests are from
@@ -294,3 +298,132 @@ Failure 1 is the assignment's headline finding and is restated in `honestAssessm
 `content/facts.md` regenerated **2026-09-09**, 17 facts, none Ganesh-specific. Facts used are
 listed verbatim in `batchMeta.factsUsed`. The BRIEF §1 Raksha Bandhan lead-time measurement
 (n=89) is used with both mandatory disclosures in the body prose.
+
+---
+
+## Phase 8 — audit remediation, 2026-09-10
+
+Fix pass by a reader who did not write the draft. Three things changed in the JSON:
+the internal-link retrofit BRIEF §3 now requires, the paragraph-length failure, and the
+prose density. Nothing was added to `sources`, `factsUsed` or `structuredData`.
+
+### 1. The Ganesh CTA — added, after verifying it myself
+
+BRIEF §3 was reversed on 2026-09-10 and Phase 5 above (written under the ban) is now
+superseded. Re-verified independently in this pass, not taken on trust:
+
+| URL | check | result |
+| --- | --- | --- |
+| `https://subhsandesh.in/happy-ganesh-chaturthi` | HTTP status | **200** |
+| | `<title>` | "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free \| SubhSandesh" |
+| | on-page ganesh/ganpati/modak/aarti mentions | **158** — a real page, not a soft-404 shell |
+| `https://subhsandesh.in/guides/happy-ganesh-chaturthi` | HTTP status, H1 | **200**, H1 "Build a Ganesh Chaturthi page for the people you cannot sit with" |
+| `https://subhsandesh.in/sitemap.xml` | total `<loc>`, Ganesh entries | **1,123 URLs; both Ganesh URLs present** |
+
+Both are in `TEMPLATE_LINKS` (`app/lib/prompt.ts` lines 57 and 62).
+
+**Body link set is now four internal links, all in the closing section, after the
+table and the losses paragraph have established why a reader would want them:**
+
+- `/happy-ganesh-chaturthi` — the topical CTA, anchor "Ganesh Chaturthi greeting page"
+- `/guides/happy-ganesh-chaturthi` — body reference, anchor "step-by-step build guide"
+- `/holi`, `/eid-mubarak` — kept, anchors "Holi" and "Eid Mubarak" greeting pages
+
+**`batchMeta.templateUrls` = `/happy-ganesh-chaturthi`, `/holi`, `/eid-mubarak`.**
+The guide URL is deliberately **excluded** from `templateUrls`: those resolve to Strapi
+template entries at publish and no template corresponds to a guide page.
+
+`/templates` was **dropped** from both the body and `templateUrls`. It existed only as
+the stand-in for the banned link ("the SubhSandesh template library is where the festival
+ones live"), and that sentence went with it.
+
+### 2. Paragraph length — failure closed
+
+Phase 6 recorded "four paragraphs run to four or five sentences". A stricter recount
+(boundary = `.!?` + space + capital) found **eight**: the opening answer paragraph at
+six, all four H3 field blocks at four each, the Legge/Bigelow paragraph, the contrast
+list, and the lead-time paragraph. Every prose paragraph in the body is now **2–3
+sentences**, and there are no one-sentence paragraphs either:
+
+- The H3 blocks keep the fixed field order (distance, cap height, canvas, failure mode);
+  canvas now rides on the cap-height sentence after a semicolon. The parallelism the
+  `ItemList` mirrors is intact, and no number moved.
+- The opening paragraph still carries the direct answer in sentence one and two
+  first-party numbers well inside the first 150 words.
+
+### 3. Word count — and the measure that governs it
+
+| measure | before | after |
+| --- | --- | --- |
+| plain whitespace split — **what `scripts/verify-batch.mjs` gates on** | 1,799 | **1,774** |
+| `wordCount()` in `app/lib/batches.ts` — what the studio displays | 1,836 | 1,815 |
+
+The two disagree by roughly the number of links plus table cells, because `wordCount()`
+strips markdown punctuation and then splits, turning `[anchor](url)` into two tokens.
+**The plain split is authoritative** and the post was already inside the 1,500–1,800 band
+before this pass; the band item passed before and passes now.
+
+The trimming that happened is flab, a decorative clause, a duplicated sentence and the
+dead-link stand-in — plus ~36 words of substance deliberately **restored** after the
+first cut went too far (the FHWA "a minimum of" quote wording, "IST calendar days",
+"banner-proportioned text", the shared-page-carries-a-reply clause, and the printer
+sentence). No source, no number and no part of the format finding was dropped.
+
+One fact-of-the-day correction not in the audit: the body said "order the flex now, five
+days out", written on 9 September. Ganesh Chaturthi is Monday 14 September and today is
+10 September, so it now reads **four days out**.
+
+### 4. Checklist re-run — 47 passed, 3 failed
+
+All 50 item strings re-extracted from `references/publish-checklist.md` and compared
+byte-verbatim; `passed ∩ failed = ∅` and `|passed| + |failed| = 50` asserted before
+writing. **"Paragraphs 2–3 sentences throughout" moved to `passed`.**
+
+Re-verified live in this pass, rather than trusted from Phase 5:
+
+- Slug still free: `filters[slug][$eq]=ganesh-chaturthi-banner-and-poster` → **0 rows**
+  (2026-09-10). `categorySlug=indian-festivals` → **1 row**.
+- All five `sameAs` re-resolved through the Wikipedia API with QIDs paired: Q929250,
+  Q1820694, Q555066, Q5364439, Q800112 — all match.
+- Source caps re-counted across the 11 `-10c` posts: each of the four source URLs appears
+  in **1** post; `doi.org` sits at **3** posts, at the cap and not exceeded. Nothing added.
+- `citation` still mirrors `batchMeta.sources` one-to-one, in order.
+
+**Still failed, and why each is genuinely open:**
+
+1. **"The post contains at least one claim none of the top 5 pages make"** — re-checked,
+   not inherited. A stateless `WebSearch` re-run on 2026-09-10 (US locale, so
+   corroboration rather than a replacement for the India-localised harvest) returned
+   dreamstime, vecteezy, postermywall, istockphoto, freepik/magnific ×2, amazon.in,
+   create.vista, stock.adobe and pinterest — ten asset pages and design tools, **zero
+   informational results**, unchanged from Phase 1b. There is no prose in the result set
+   to compare a claim against. Closes only if a top-5 result becomes an article, or an AI
+   Overview appears on the query; worth re-running in the week before Ganesh Chaturthi
+   2027.
+2. **"Target keyword in H1, metaTitle, slug, and first 100 words"** — slug omits "happy".
+3. **"Slug short, hyphenated, lowercase, no stop words"** — slug contains "and".
+
+Both slug items are the same blocker: the slug is pre-assigned and was re-confirmed free
+in Strapi in this pass, so it was left exactly as issued. Closing either needs the batch
+owner to reissue the slug in `ASSIGNMENTS.json` and re-run the collision check —
+renaming it here would desynchronise the manifest, `canonicalURL` and the `@id`s in
+`structuredData`.
+
+### 5. Two verifier complaints left alone on purpose
+
+`scripts/verify-batch.mjs` flags both of these on this post. Neither is a checklist item
+and both are batch-wide by design, so a unilateral fix here would only break consistency:
+
+- **`factsUsed not verbatim in facts.md`** ×2 — the two BRIEF §1 entries. BRIEF §1 states
+  outright that this measurement is *not* in `facts.md` and must be cited from the brief;
+  6 of the 11 posts carry the same flag. Both mandatory disclosures (Raksha Bandhan not
+  Ganesh Chaturthi; n = 89 is small) remain in the body prose.
+- **YouTube and Instagram URL/domain caps** — the §4 social block is mandated verbatim in
+  all 35 posts, so those two URLs are in 11 of 11. Not reworded, per BRIEF §4.
+
+### 6. Recorded but not closed
+
+No Devanagari or Marathi legibility source (see Phase 3). Unchanged by this pass: the
+Visual Cognition paper is still HTTP 403 at the publisher and still unreadable in the
+CentAUR copy, so nothing new could be cited. The cap heights remain Latin-script and
+highway-sign derived, and the post says so.

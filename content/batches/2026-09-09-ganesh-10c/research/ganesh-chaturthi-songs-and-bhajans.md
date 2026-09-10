@@ -239,3 +239,159 @@ Devanagari is printed only where it could be verified character-by-character aga
 digitised primary text. Where a text could not be verified, the song is **named and
 described in Roman only** and no line is quoted. No film lyrics are reproduced at
 length anywhere in the post.
+
+---
+
+## Phase 8 — Audit remediation, 2026-09-10
+
+Fix pass run by a reader who did not write the draft. Three recorded failures triaged,
+BRIEF §3 re-read after its mid-batch reversal, whole 50-item checklist re-run.
+
+### 1. Word band — closed
+
+| Measure | Before | After |
+| --- | --- | --- |
+| Plain whitespace split (what `scripts/verify-batch.mjs` enforces, and the schema doc's validator) | 1,794 | **1,748** |
+| `wordCount()` in `app/lib/batches.ts` (what the studio displays) | 1,829 | **1,787** |
+
+The two disagree by ~39 — `wordCount()` strips `#>*_`|-[]()!` and so counts link and
+table-cell fragments as tokens. `verify-batch.mjs` carries an explicit warning at the top
+that the plain split is the authoritative band measure and that trusting `wordCount()`
+"once nearly cost three posts real content". **1,748 plain split is inside 1,500–1,800, so
+the band item passes.** Both figures are recorded in `batchMeta.wordCountNote`.
+
+Cuts were flab only: a rhetorical tail ("with no author's discretion left in it"), a
+section-closing restatement folded into the sentence before it, and roughly twenty
+tightenings of two-word-for-one phrasing. Nothing substantive was cut for length — every
+decibel figure, all five song-to-moment slots, the table and the mandatory Raksha Bandhan
+disclosures are intact. Net additions in this pass: the Ganesh CTA and guide link (~45
+words) and the MPCB paragraph (~60).
+
+### 2. The Ganesh CTA — closed, and verified independently
+
+`/happy-ganesh-chaturthi` was a genuine 404 when this post was drafted; it shipped on
+2026-09-10. Re-verified from the sandbox rather than taken on trust:
+
+| URL | HTTP | Evidence |
+| --- | --- | --- |
+| `https://subhsandesh.in/happy-ganesh-chaturthi` | 200 | `<title>` "Happy Ganesh Chaturthi — Send a Ganpati Wish They Can Perform, Free \| SubhSandesh"; 158 on-page ganesh/ganpati/modak/aarti mentions; durva 14, modak 18, Karpur 14, prarthana 14 — a real page, not a soft-404 shell |
+| `https://subhsandesh.in/guides/happy-ganesh-chaturthi` | 200 | H1 "Build a Ganesh Chaturthi page for the people you cannot sit with" |
+| `https://subhsandesh.in/sitemap.xml` | 200 | 1,123 `<loc>` entries, both Ganesh URLs present; still no `/blog/` entry for any post in this batch |
+
+Body link set now, all from `TEMPLATE_LINKS`:
+
+- `/happy-ganesh-chaturthi` — the topical CTA, placed in the "twenty people onto the same
+  words" section, i.e. after the phone and lead-time numbers that earn it. Also in
+  `batchMeta.templateUrls`.
+- `/guides/happy-ganesh-chaturthi` — body reference only. Deliberately **not** in
+  `templateUrls`: those resolve to Strapi template entries at publish and no template
+  corresponds to a guide page (and `pathKey()` would collide it with the product page).
+- `/dedication` — kept; it is the closest fit for the film-song half of the festival.
+- `/templates` — **dropped.** It existed only as the stand-in for the dead Ganesh link.
+- `/holi` — **dropped.** "The closest live example of a festival greeting page" is a
+  claim that no longer holds now that the Ganesh page is live, and several siblings in
+  this wave carry the same link.
+
+`templateUrls` = `["/happy-ganesh-chaturthi", "/dedication"]`.
+
+### 3. The MPCB PDFs — retried, and they fetched
+
+Both URLs the original brief recorded as unfetchable resolved on 2026-09-10 from the
+sandbox (Python `urllib`, browser UA), and the text was extracted with `pdftotext -layout`
+and read:
+
+| Report | URL | Result |
+| --- | --- | --- |
+| Ganesh Festival **2024** | `https://mpcb.gov.in/sites/default/files/Establishment%20of%20MPCB/Seniority%20list/2014/Report%20_Noise_Ganesh_AEC%20MPCB%202024_22.09.2024_R1.pdf` | **200, 5.5 MB, 173 pp** — cited |
+| Ganesh Festival **2020** | `https://mpcb.gov.in/sites/default/files/noise-pollution/NoisemonitoringduringGaneshFestivalYear202011102021.pdf` | **200, 9.9 MB, 198 pp** — read, not cited (2024 supersedes it) |
+| Ganesh Festival 2019 | `https://mpcb.gov.in/sites/default/files/noise-pollution/MPCBGaneshfestivalreport2019final04112020.pdf` | 200 — read for context only |
+
+Verified in the 2024 report: hourly Leq dB(A) at **132 locations across all 27 municipal
+corporations**, precalibrated Type-II meters on 1.5 m tripods **outside the pandals where
+continuous music and crowds were present**, 1800–2400 hrs on 7, 8, 11, 13 and 17 September
+2024; the first four days lower, and on **Anant Chaturdashi (17 September) levels above the
+Noise Rules, 2000 thresholds at nearly all locations**, peak **102.36 dB at Gandhi Square,
+Chandrapur**, against 96.30 dB at Pune's Shaniwar Peth and 93.7 dB at Mulund, Mumbai.
+Caveat recorded honestly: the 2024 file is served from `mpcb.gov.in` but is **not linked
+from the board's own noise-pollution index page**, which only lists 2017–2020; it was found
+by search and confirmed by reading the PDF's own cover and conclusions.
+
+Cap check before adding: `mpcb.gov.in` appears in **0** other posts in `-10c`. `doi.org`
+and `pmc.ncbi.nlm.nih.gov` are both at exactly 3 posts and were not touched.
+
+**It does not close the first-party-table failure.** MPCB is a government primary source,
+not first-party data; the checklist item asks for a SubhSandesh column. See below.
+
+### 4. Source set changed
+
+- **Dropped:** `newsonair.gov.in` "Maharashtra declares Sarvajanik Ganeshotsav as state
+  festival", together with the closing paragraph it supported. It was the post's one
+  generic government statistic *and* its clearest swap-test failure, and the MPCB
+  paragraph now carries the "public music here is regulated and measured" point with a
+  measurement instead of an announcement.
+- **Added:** MPCB *Report on Ambient Noise Monitoring during Ganesh Festival — 2024*
+  (22 September 2024).
+- Still five sources; `batchMeta.sources`, the `## Sources` list and the `citation` array
+  on the `#post` enrichment block were updated together and mirror one-to-one.
+- The four pre-existing outbound links were re-fetched today and still contain their
+  figures: Citizen Matters (55 / 115 / 112 / 120.2 / 93.1 / 121.3 dB, Babulnath, Bandra,
+  Opera House), Open Access Musicology (Hoshing, 1925, naradiya), IJARESM (50 players,
+  18–35, above 85 dB, abstract only), Wikipedia (Samarth Ramdas, 1608, "almost universal",
+  सुखकर्ता). The six `sameAs` entities were re-checked against the Wikipedia API and all
+  six Wikidata QIDs still pair correctly.
+
+### 5. Body claim corrected without being asked
+
+The draft said SubhSandesh has no Ganesh page-creation data "because that template is not
+live at the time of writing". That sentence became false on 2026-09-10. It now reads that
+the page **went live on 10 September 2026, four days before the festival, so nothing has
+been measured on it yet** — the honest limiter survives, the dead-link premise does not.
+`batchMeta.publishBlockers` and `batchMeasurementUsed.honestLimiterStated` were updated to
+match.
+
+### 6. Audit re-run — 47 passed / 3 failed, disjoint, sum 50
+
+All 50 item strings were re-extracted from `references/publish-checklist.md` and compared
+byte-for-byte after collapsing internal whitespace: no paraphrase, no stripped `**bold**`,
+no truncated clause, no overlap, none missing.
+
+Left open, deliberately:
+
+1. **"At least one table column uses first-party data"** — structural. The fourth column is
+   now stronger (MPCB alongside Awaaz Foundation) but still entirely third-party. There is
+   no per-setting, per-venue or per-festival SubhSandesh measurement, and no Ganesh page
+   data at all — the page shipped four days before the festival and `facts.md` was
+   regenerated 2026-09-09. A first-party column today means inventing a dimension.
+   Re-check at the first `facts.md` regeneration after Anant Chaturdashi.
+2. **"Slug short, hyphenated, lowercase, no stop words"** — the slug carries "and". Fixed
+   by `ASSIGNMENTS.json` and verified free on Strapi; renaming in a fix pass would void the
+   availability check and break the filename/canonicalURL/`@id` chain. Reported, not
+   silently altered.
+3. **"No source passes the swap test"** — improved, still failed. Dropping newsonair
+   removed the clearest offender, but the two remaining noise sources (Citizen Matters and
+   MPCB) are festival-wide rather than repertoire-specific and would transplant to any
+   Ganesh post that discusses loudspeakers. Only Schultz, the dhol-tasha study and the
+   Sukhakarta Dukhaharta entity check are bound to this keyword. Closes when a
+   music-specific official or scholarly source is verifiable; the reported "Bhajani Mandals
+   eligible for a grant of up to Rs 5 crore" detail would qualify but is not on the
+   newsonair page and no GR text carrying it was fetchable today.
+
+### 7. Verifier state, and the one failure left to the batch
+
+`scripts/verify-batch.mjs` now reports **no per-post failure** for this slug: 1,748 words
+(plain split), 11 FAQs, 47/3 audit, `indian-festivals`, body links
+`/happy-ganesh-chaturthi /guides /dedication`.
+
+Two notes for the record. First, while this fix pass was running the batch gained a
+`verify.config.json` declaring `mandatoryLinks: ["/happy-ganesh-chaturthi"]` and no
+`oneOfLinks`; before it existed the verifier fell back to the **bouquet-wave defaults**
+(`/bouquet-gf` mandatory, one of `/love-gf` or `/darling`) and flagged 10 of the 11 Ganesh
+posts identically. Those two failures on this post are now gone, and no girlfriend-page
+link was added to a Ganesh songs post to satisfy them — that would have been off-topic and
+would have pushed body internal links to five, breaking the checklist's 2–4 rule and
+BRIEF §6.
+
+Second, the run still flags the §4 social block's YouTube and Instagram URLs as over the
+URL cap (2 posts) and the domain cap (3 posts) in **all 11 posts**. That block is
+brief-mandated and verbatim, so it was not touched. It is a batch-level reconciliation
+between BRIEF §4 and the cap rule, not something a single post can fix.

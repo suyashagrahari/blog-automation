@@ -40,6 +40,31 @@
 
 <!-- MANUAL FACTS — everything below this line is preserved by `npm run facts` -->
 
+## Festival lead time — how long before the day people actually build
+
+<!--
+Measured 2026-09-09 by three read-only probes of the `gifts` database for the
+2026-09-09-ganesh-10c batch. Not derivable from collect-facts.mjs, which has no
+festival segment, so it lives here where `npm run facts` will preserve it.
+
+TWO DISCLOSURES ARE MANDATORY wherever these lines are cited, in body prose and
+not only in an audit: the measurement is RAKSHA BANDHAN, not Ganesh Chaturthi —
+a different festival, and a one-day one against Ganesh Chaturthi's ten — and
+n = 89 is small, so no per-template or per-region rate may be derived from it.
+
+Do NOT use the Holi collection for lead time: n=9 and 100% "after the festival"
+is a launch artefact, because Holi 2026 fell before the platform had any pages.
+`pageviews` is not a page type and belongs in no denominator; the real
+denominator is 3,894 pages across 15 page types.
+-->
+
+- Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09
+- Not one of the 89 Raksha Bandhan 2026 pages was built more than 7 days ahead; 7 days was the earliest — measured 2026-09-09
+- Of the 79 Raksha Bandhan 2026 pages finished in time, 55.7% were built on the day itself and 86.1% within 24 hours of it — measured 2026-09-09
+- Median gap from a rakhi page's first save to its last edit: 5.4 hours, n = 89 — the festival figure, where facts.md's 6.8 hours is sampled on /love-gf — measured 2026-09-09
+- Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09
+- No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10
+
 ## Pricing (fill in by hand)
 
 - Free tier includes:
