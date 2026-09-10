@@ -1,0 +1,327 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganesh Chaturthi Modak Recipe, and the Four Ways It Fails",
+    "slug": "ganesh-chaturthi-modak-recipe",
+    "excerpt": "Ukadiche modak is cooked twice, and almost every failure happens in between. The four failure modes explained in starch terms, real quantities for 21, and the 4-hour-14-minute window before the 11:20 AM Mumbai muhurat on 14 September 2026.",
+    "metaTitle": "Ganesh Chaturthi Modak Recipe: the 4 Failure Modes",
+    "metaDescription": "Ganesh chaturthi modak recipe, by what goes wrong: why the dough cracks at 76.63 °C, why the shell hardens by day 2, and the 4 hr 14 min window on 14 Sept 2026.",
+    "keywords": "ganesh chaturthi modak recipe, ukadiche modak, modak dough cracking, steamed vs fried modak, modak for naivedya",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-modak-recipe",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "modak",
+      "indian-festivals",
+      "food",
+      "maharashtra"
+    ],
+    "keyTakeaways": [
+      "Ukadiche modak is cooked twice — a hot rice-flour ukad, then 10 to 15 minutes of steaming — and almost every failure happens in the gap between the two.",
+      "Coarse rice flour gelatinises at 76.63 °C against 71.61 °C for fine flour (Foods, November 2024), which is why a coarse-flour shell cracks instead of stretching.",
+      "Rice-cake starch retrogrades from the moment it cools and hits maximum hardness by day 2 at 25 °C (Foods, 25 November 2020), so steamed modak cannot honestly be made the night before.",
+      "In Mumbai on 14 September 2026, Chaturthi tithi opens at 07:06 AM and the Madhyahna muhurat runs 11:20 AM to 01:48 PM — a working window of 4 hours 14 minutes.",
+      "49.4% of 89 measured SubhSandesh festival pages were built on the festival day itself, median lead time 0 days — but that measurement is Raksha Bandhan, not Ganesh Chaturthi, and n = 89 is small."
+    ],
+    "faqs": [
+      {
+        "question": "Why does my modak dough crack when I try to shape it?",
+        "answer": "Almost always because the rice flour never fully hydrated. Rice flour has no gluten, so the shell's stretch comes only from gelatinised starch, and coarse flour needs a higher temperature to get there — 76.63 °C against 71.61 °C for fine flour in a 2024 Foods study. Use fine flour, add it to water at a rolling boil, and knead it while it is still uncomfortably hot."
+      },
+      {
+        "question": "How long do you steam modak for?",
+        "answer": "Ten to fifteen minutes over boiling water once they are shaped and filled. That is standard household practice rather than a lab figure. They are done when the shell looks slightly translucent and glossy and is not sticky to the touch."
+      },
+      {
+        "question": "Can I make modak the night before Ganesh Chaturthi?",
+        "answer": "Not the steamed kind, honestly. Rice starch begins retrograding the moment the gel cools, and additive-free rice cake stored at 25 °C reached maximum hardness at day 2 in a 2020 Foods study. If you must work ahead, make the coconut-jaggery filling the night before and do the dough and steaming on the day."
+      },
+      {
+        "question": "How many modaks should I offer?",
+        "answer": "Twenty-one is the common count and it echoes the 21 patri used in Ganesha puja, but families offer 11, 5 or a single one. There is no fixed number, and what is offered varies by family and region."
+      },
+      {
+        "question": "Do I need a modak mould?",
+        "answer": "No, but it saves real time. Twenty-one shells pleated by hand take 40 to 60 minutes; a mould roughly halves that because the dough never has to stretch. Hand-pleated modak look handmade, which is the whole reason some cooks refuse the mould."
+      },
+      {
+        "question": "Is fried modak acceptable instead of steamed?",
+        "answer": "It is a genuine regional form, not a shortcut. Down To Earth records fried wheat-flour modak as the norm on the ghats and steamed rice-flour modak on the coast — the difference tracks which grain grew where. What a household offers is a family and regional matter, not a rule this page can settle."
+      },
+      {
+        "question": "What is the right jaggery to coconut ratio?",
+        "answer": "It varies, and anyone printing one number is overstating the case. Households run anywhere from half a cup of jaggery per cup of coconut to a full cup. Dark wet jaggery is less sweet by weight than a pale hard block, so taste the filling as it cooks rather than trusting a ratio."
+      },
+      {
+        "question": "Why did my modak go hard and chewy after a few hours?",
+        "answer": "Starch retrogradation — amylose and amylopectin re-associating as the gel cools. It cannot be prevented in a home kitchen, only outrun. Re-steam them for 3 to 4 minutes rather than microwaving, which drives off more moisture."
+      },
+      {
+        "question": "Can I use ordinary rice flour or does it have to be a special one?",
+        "answer": "Ordinary fine rice flour works. The variable that matters is fineness, not variety: finer flour gelatinises at a lower temperature and made rice cake 47.77% less hard in the 2024 Foods study. Coastal households traditionally used the local ambemohur rice, which is sticky, but that is availability rather than a requirement."
+      },
+      {
+        "question": "What time do the modak need to be ready on 14 September 2026?",
+        "answer": "If you are offering inside the Madhyahna muhurat, that is 11:20 AM to 01:48 PM in Mumbai, 11:16 AM in Pune, 11:02 AM in New Delhi and 10:51 AM in Chennai, per Drik Panchang. Chaturthi tithi opens at 07:06 AM, so a 09:30 AM start leaves margin on about 1 hour 40 minutes of active work."
+      },
+      {
+        "question": "Can I freeze modak?",
+        "answer": "You can freeze the shaped, unsteamed ones and steam them from frozen, adding a few minutes. Freezing steamed modak and reheating them gives you the retrograded texture back, so it defeats the point of the steamed form."
+      },
+      {
+        "question": "What if I cannot make modak at all this year?",
+        "answer": "Buy them from a mithai shop, or offer something else — pedha, fruit or durva alone are all normal. If the problem is that you cannot be in the room rather than that you cannot cook, a shared page the recipient performs is the thing that travels; a modak is not."
+      }
+    ],
+    "coverImageQuery": "ukadiche modak steamed plate ganesh",
+    "coverImagePrompt": "A close, photorealistic overhead shot of nine hand-pleated ukadiche modak on a steel plate lined with a damp muslin cloth, still glossy from the steamer, a small bowl of ghee beside them. Warm morning window light, shallow depth of field, a brass aarti thali blurred at the edge of frame. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganesh Chaturthi Modak Recipe, and the Four Ways It Fails\n\nA Ganesh Chaturthi modak recipe is two cooks, not one: rice flour is first cooked into a hot dough called the *ukad*, then the filled, pleated shells are steamed for 10 to 15 minutes. Almost every failure happens between those two steps, and the cause is starch behaviour rather than skill. Timing is the other half. In Mumbai on Monday 14 September 2026, Chaturthi tithi begins at 07:06 AM and the Madhyahna puja muhurat runs 11:20 AM to 01:48 PM — a working window of 4 hours 14 minutes. That is tight, because people do leave this to the day: across 89 SubhSandesh festival pages, 49.4% were built on the festival day itself and the median lead time was 0 days. Below: the four failure modes, real quantities, and what must be finished by when.\n\n## What ukadiche modak is, and why the steamed form is the ritual one\n\nUkadiche modak is a steamed dumpling of rice-flour dough wrapped around grated coconut cooked down with jaggery, pleated into a peak and finished over boiling water. *Ukad* is the Marathi word for that hot rice-flour dough, which is why the steamed version carries the name and the fried one does not.\n\nThe two forms map what grows where. In *Down To Earth* on 30 August 2022, the historian Saili Palande Datar describes fried modak of wheat flour, sugar, coconut and cardamom on the ghats, and steamed modak of rice flour — the local sticky *ambemohur* — with jaggery and coconut on the coast: [\"whatever is available is used\"](https://www.downtoearth.org.in/food/ganesh-chaturthi-the-modak-s-history-reflects-its-strong-ties-to-the-land-here-is-how-84629).\n\nSo the steamed form is the ritual one in coastal Maharashtra because rice was the flour at hand, not because a text ranks it above the fried one. The word comes from the Sanskrit *moda*, bliss. What a household offers, and when, varies by family and region — nothing here is a religious requirement.\n\n## Quantities for 21 modaks, and where these numbers come from\n\nThese are standard household proportions, not figures measured in a kitchen we control.\n\n- **Shell:** 1 cup (240 ml) fine rice flour to 1 cup water, a quarter-teaspoon of salt and a teaspoon of ghee. One cup of flour gives 11 to 14 shells depending on thickness, so 2 cups covers 21.\n- **Filling (*saran*):** 1 cup freshly grated coconut, about 100 g, to three-quarters of a cup of grated jaggery, cooked 6 to 8 minutes, with a quarter-teaspoon of cardamom.\n- **The coconut-to-jaggery ratio is genuinely contested**, running from 1:½ to 1:1 between households. A dark wet Kolhapur jaggery is less sweet by weight than a pale hard block, and coconut moisture varies with freshness. A single ratio printed as settled fact is the commonest thing wrong with a modak recipe.\n- **21** is the usual naivedya count and echoes the 21 patri used in Ganesha puja, but families offer 11, 5 or one. None is more correct.\n\n## Four ways ukadiche modak fails, and the fix for each\n\nEach is described the same way: what you see, what is happening, the fix, and what the fix costs.\n\n### 1. The dough cracks the moment you press the shell\n\nThe ball splits at its edges instead of thinning into a cup. Rice flour has no gluten, so the shell's stretch comes entirely from gelatinised starch, and if the granules never swell there is nothing holding it together. Particle size decides that: in a [2024 study of rice flour particle size and rice-cake quality](https://pmc.ncbi.nlm.nih.gov/articles/PMC11593558/) in *Foods*, finer flour gelatinised at 71.61 °C against 76.63 °C for coarse, damaged starch rose from 18% to 26.5%, and damaged starch absorbed water five times faster than intact starch. Use fine flour, add it to water already at a rolling boil rather than pouring water onto flour, and knead it while it is still too hot to be comfortable. It costs nothing — the same ten minutes.\n\n### 2. The pleats tear, or the tip will not close\n\nThe pleats split as you gather them, or the peak refuses to join. The dough has cooled below the temperature at which the starch paste still flows, and a set paste tears instead of stretching. Keep the mass under a damp cloth, work one lemon-sized piece at a time, and grease your palm with ghee; a mould avoids the problem by never asking the dough to stretch. By hand, 21 shells take 40 to 60 minutes — a mould roughly halves that and gives identical shells, which some cooks consider the point and others the loss.\n\n### 3. The filling leaks and the base goes soggy\n\nSyrup on the steamer plate, a split seam, a flat wet base. Jaggery is hygroscopic and fresh coconut carries a lot of water, so an under-cooked *saran* stays syrupy and steam pressure drives the syrup through the seam. Cook the filling until it pulls from the pan and mounds on a spoon, cool it completely before it goes near the dough, and pack it firm rather than tight. That is 6 to 8 minutes of cooking plus a full 15 minutes of cooling — and skipping the cooling is the usual cause.\n\n### 4. The shell turns tough within a few hours\n\nModak soft and glossy at noon turn dense and chewy by evening. This is retrogradation: as the gel cools, amylose and amylopectin re-associate into an ordered structure and the texture firms. A [2020 study of starch retrogradation in rice cake](https://pmc.ncbi.nlm.nih.gov/articles/PMC7759983/) in *Foods* found additive-free rice cake stored at 25 °C reached maximum hardness at day 2, and notes rice cakes cannot be sold after 24 hours of room-temperature display. There is no fix, only timing: steam as close to the aarti as you can, serve hot with ghee, and re-steam 3 to 4 minutes rather than microwaving. The cost is that making them the night before stops being an option.\n\n## Steamed, fried or mawa: what each costs you on the day\n\nDown To Earth's coast-and-ghats split is also a shelf-life split, and that decides which form suits which cook.\n\n| Form | Second cook | How it hardens | Share of the 89 measured festival pages this suits |\n|---|---|---|---|\n| Ukadiche — steamed rice flour | 10 to 15 minutes over boiling water | Retrogrades as it cools; maximum hardness by day 2 at 25 °C | 49.4% — those who built on the day itself |\n| Fried — wheat flour and sugar | 4 to 5 minutes a batch in ghee | Low moisture, so it keeps for days | 6.7% — the only ones who worked 4 or more days ahead |\n| Mawa, set rather than steamed | None; about 30 minutes to set | Firms in the fridge, not by retrogradation | 27.0% — those who built the day before |\n\nThe last column is this page's argument: the steamed form is both the ritual one and the one that punishes advance work, which is exactly the wrong combination for a cook who arrives on the morning itself.\n\n## The clock on 14 September 2026: 4 hours 14 minutes in Mumbai\n\nDrik Panchang gives Chaturthi tithi beginning at [07:06 AM on 14 September 2026 in Mumbai, with the Madhyahna Ganesha Puja muhurat from 11:20 AM to 01:48 PM](https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2026), 2 hours 27 minutes long. Offer the naivedya inside that window and the cooking day opens at 07:06 and closes at 11:20. Other cities are earlier: Pune 11:16 AM, New Delhi 11:02 AM, Hyderabad 10:58 AM, Chennai 10:51 AM.\n\nWorked backwards, the sequence runs about 8 minutes of filling, 15 of cooling, 10 for the ukad, 40 to 60 to shape 21 shells by hand and 15 to steam — roughly 1 hour 40 minutes of active work, so a 09:30 AM start clears an 11:20 muhurat with margin. Those are practical estimates from the sequence, not stopwatch measurements.\n\nThe order matters more than the menu, because the offering precedes the eating. A [year-long ethnographic study of food-centred festivals](https://pmc.ncbi.nlm.nih.gov/articles/PMC13455234/) in the *Journal of Ethnobiology and Ethnomedicine*, published 22 May 2026 from fieldwork among Gond and Baiga communities in the Maikal Hills, records newly harvested crops being offered to deities or ancestors before the community consumes them.\n\nOur own measurement points the same way, with two caveats that have to be stated. Across 89 SubhSandesh festival pages, 49.4% were created on the festival day itself, the median lead time was 0 days, and not one was built more than 7 days ahead. But those pages are **Raksha Bandhan, not Ganesh Chaturthi** — a different festival, and a single-day one, where Ganesh Chaturthi runs ten days to Anant Chaturdashi on Friday 25 September 2026, so the shape is suggestive rather than measured here. And **n = 89 is small**: it will not support a per-region or per-template rate, and no count of Ganesh pages should be projected from it. Occasion-dated pages are 144 of 3,894 pages, 3.7% of everything created, so none of this is mass behaviour.\n\n## When a modak — or a SubhSandesh page — is the wrong choice\n\nBuy them. A mithai shop in Pune or Mumbai will sell 21 ukadiche modak better than a first attempt, and no ritual penalty attaches: plenty of families offer pedha, fruit or nothing beyond durva. If someone in the house should not be eating a jaggery-and-coconut sweet, ask them rather than a recipe page — this post makes no nutrition or health claim and prints no calorie figure, because no food-composition source for one could be fetched and verified.\n\nThe real limit is that a modak cannot be sent, and the aarti happens at 11:20 AM in Mumbai whether or not your parents, a sister in Bengaluru or a cousin on a night shift are in the room. [A Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) hands them the durva, kumkum, flowers and modak to offer on screen, circles the aarti thali while Karpur Gauram plays, and ends in a box where they write their own prarthana back; the [step-by-step guide to building one](https://subhsandesh.in/guides/happy-ganesh-chaturthi) is the written version.\n\nWhere it loses is worth saying plainly. A page cannot put a modak in anyone's hand, and 49.6% of shared pages opening on a phone means 50.4% do not. 42.0% of creators password-protect a page before sharing, 1,636 of 3,894 — sensible for a love letter, wrong for a festival greeting a family group should be able to forward. All of those figures are platform-wide across 15 page types; the Ganesh template has only just shipped and has no page-creation data of its own yet.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- Lu, Yang, Zhang, Yu, Chen & Hao, [Study on the Characteristics of Fine Rice Flour by Micro-Crushing and Its Effects on the Quality Improvement of Rice Cakes](https://pmc.ncbi.nlm.nih.gov/articles/PMC11593558/), *Foods* 13(22):3565, November 2024 (CC BY).\n- Oh, Cho, Choi & Baik, [Starch Retrogradation in Rice Cake: Influences of Sucrose Stearate and Glycerol](https://pmc.ncbi.nlm.nih.gov/articles/PMC7759983/), *Foods* 9(12):1737, 25 November 2020 (CC BY).\n- Yadav, Srivastava & Chandra, [Nature-human's celebratory ties: indigenous foodways and festive traditions of central India](https://pmc.ncbi.nlm.nih.gov/articles/PMC13455234/), *Journal of Ethnobiology and Ethnomedicine* 22:77, 22 May 2026 (CC BY).\n- Rajat Ghai, [Ganesh Chaturthi: The modak's history reflects its strong ties to the land; here is how](https://www.downtoearth.org.in/food/ganesh-chaturthi-the-modak-s-history-reflects-its-strong-ties-to-the-land-here-is-how-84629), *Down To Earth*, 30 August 2022.\n- Drik Panchang, [Ganesh Chaturthi 2026 date and Madhyahna puja muhurat for Mumbai](https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2026) — no publication date.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-modak-recipe#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Modak",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Modak",
+              "https://www.wikidata.org/wiki/Q2673557"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Jaggery",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Jaggery",
+              "https://www.wikidata.org/wiki/Q1148077"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Rice flour",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Rice_flour",
+              "https://www.wikidata.org/wiki/Q1269205"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Starch gelatinization",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Starch_gelatinization",
+              "https://www.wikidata.org/wiki/Q7601513"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Retrogradation (starch)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Retrogradation_(starch)",
+              "https://www.wikidata.org/wiki/Q906426"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Maharashtra",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Maharashtra",
+              "https://www.wikidata.org/wiki/Q1191"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Study on the Characteristics of Fine Rice Flour by Micro-Crushing and Its Effects on the Quality Improvement of Rice Cakes",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11593558/",
+            "datePublished": "2024-11-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDPI (Foods)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Starch Retrogradation in Rice Cake: Influences of Sucrose Stearate and Glycerol",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7759983/",
+            "datePublished": "2020-11-25",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDPI (Foods)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Nature-human's celebratory ties: indigenous foodways and festive traditions of central India",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13455234/",
+            "datePublished": "2026-05-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Ethnobiology and Ethnomedicine"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "name": "Ganesh Chaturthi: The modak's history reflects its strong ties to the land; here is how",
+            "url": "https://www.downtoearth.org.in/food/ganesh-chaturthi-the-modak-s-history-reflects-its-strong-ties-to-the-land-here-is-how-84629",
+            "datePublished": "2022-08-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Down To Earth, Centre for Science and Environment"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ganesh Chaturthi 2026 date and Madhyahna puja muhurat for Mumbai",
+            "url": "https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2026",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Drik Panchang"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four ways ukadiche modak fails, and the fix for each",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The dough cracks the moment you press the shell",
+            "description": "Rice flour has no gluten, so the shell's stretch comes only from gelatinised starch. Fine flour gelatinises at 71.61 °C against 76.63 °C for coarse. Add fine flour to water at a rolling boil and knead it hot."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The pleats tear, or the tip will not close",
+            "description": "The dough has cooled below the temperature at which the starch paste still flows. Keep it under a damp cloth and work one lemon-sized piece at a time; 21 shells take 40 to 60 minutes by hand, about half that with a mould."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The filling leaks and the base goes soggy",
+            "description": "Jaggery is hygroscopic and fresh coconut carries water, so an under-cooked saran stays syrupy. Cook 6 to 8 minutes until it mounds on a spoon, then cool it a full 15 minutes before filling."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The shell turns tough within a few hours",
+            "description": "Starch retrogradation. Additive-free rice cake at 25 °C reached maximum hardness at day 2. There is no fix, only timing: steam close to the aarti and re-steam 3 to 4 minutes rather than microwaving."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-modak-recipe#recipe",
+        "name": "Ukadiche modak for Ganesh Chaturthi naivedya",
+        "description": "Steamed rice-flour modak filled with coconut cooked down with jaggery, using standard household proportions, with the failure modes explained.",
+        "url": "https://subhsandesh.in/blog/ganesh-chaturthi-modak-recipe",
+        "recipeCategory": "Dessert",
+        "recipeCuisine": "Maharashtrian",
+        "recipeYield": "21 modak",
+        "prepTime": "PT1H",
+        "cookTime": "PT40M",
+        "totalTime": "PT1H40M",
+        "keywords": "ukadiche modak, ganesh chaturthi modak recipe, steamed modak",
+        "recipeIngredient": [
+          "2 cups fine rice flour (1 cup gives 11 to 14 shells)",
+          "2 cups water",
+          "1/2 teaspoon salt",
+          "2 teaspoons ghee, plus more for serving",
+          "2 cups freshly grated coconut, about 200 g",
+          "1 1/2 cups grated jaggery, adjusted to the jaggery you have",
+          "1/2 teaspoon cardamom powder"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "name": "Cook the filling",
+            "text": "Cook the grated coconut with the jaggery and cardamom for 6 to 8 minutes, until the mixture pulls away from the pan and mounds on a spoon. Cool it completely, about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Make the ukad",
+            "text": "Bring the water to a rolling boil with the salt and ghee. Add the fine rice flour to the boiling water, stir to a mass, cover off the heat for 5 minutes, then knead while still uncomfortably hot."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Shape and fill",
+            "text": "Working one lemon-sized piece at a time and keeping the rest under a damp cloth, press each into a cup with a ghee-greased palm, fill with cooled saran, pleat and close the peak. 40 to 60 minutes by hand for 21."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Steam",
+            "text": "Steam over boiling water for 10 to 15 minutes, on a plate lined with a damp cloth, until the shells look slightly translucent and are no longer sticky. Serve hot with ghee."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganesh chaturthi modak recipe",
+    "angle": "Wins by being the only modak page that explains the four failure modes in starch-science terms and pins the cook to a named aarti window — 11:20 AM in Mumbai on 14 September 2026 — using SubhSandesh's own measurement that 49.4% of 89 festival pages were built on the festival day itself.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi",
+      "/guides/happy-ganesh-chaturthi"
+    ],
+    "factsUsed": [
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "42.0% of creators password-protect their page before sharing it (1,636 of 3,894) — measured 2026-09-09",
+      "BRIEF §1 festival measurement (not in facts.md): across both rakhi collections, n = 89 pages, 49.4% (44 of 89) were built on the festival day itself; median lead time 0 days; none built more than 7 days ahead — Raksha Bandhan 2026, not Ganesh Chaturthi",
+      "BRIEF §1 honest limiter (not in facts.md): occasion-dated pages are 144 of 3,894 pages, 3.7%; there is no Ganesh page-creation data at all"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11593558/",
+        "stat": "Finer rice flour gelatinised at 71.61 °C versus 76.63 °C for coarse; damaged starch rose from 18% to 26.5% and absorbed water at five times the rate of intact starch; rice-cake hardness fell 47.77% and chewiness 52.44%. Foods 13(22):3565, peer-reviewed, open access CC BY.",
+        "publishedDate": "2024-11-08"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7759983/",
+        "stat": "Additive-free rice cake stored at 25 °C reached maximum hardness at day 2; the paper notes rice cakes cannot be sold after 24 h of room-temperature display; method used rice flour-water at 45% moisture steamed 20 min to full gelatinisation. Foods 9(12):1737, peer-reviewed, open access CC BY.",
+        "publishedDate": "2020-11-25"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13455234/",
+        "stat": "Year-long ethnographic fieldwork (three rounds, Nov 2023-Dec 2024) among Gond and Baiga communities in the Maikal Hills records newly harvested crops being offered to deities or ancestors before the community consumes them. Journal of Ethnobiology and Ethnomedicine 22:77, peer-reviewed, open access CC BY.",
+        "publishedDate": "2026-05-22"
+      },
+      {
+        "url": "https://www.downtoearth.org.in/food/ganesh-chaturthi-the-modak-s-history-reflects-its-strong-ties-to-the-land-here-is-how-84629",
+        "stat": "Historian Saili Palande Datar: fried modak of wheat flour, sugar, coconut and cardamom on the ghats; steamed modak of rice flour (the local sticky ambemohur) with jaggery and coconut on the coast — 'whatever is available is used'. Modak from the Sanskrit moda, bliss; eaten hot with ghee.",
+        "publishedDate": "2022-08-30"
+      },
+      {
+        "url": "https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2026",
+        "stat": "Mumbai, Monday 14 September 2026: Chaturthi tithi 07:06 AM to 07:44 AM on 15 Sep; Madhyahna Ganesha Puja muhurat 11:20 AM to 01:48 PM (2 h 27 min); visarjan Friday 25 September 2026. Pune 11:16 AM, New Delhi 11:02 AM, Hyderabad 10:58 AM, Chennai 10:51 AM. Date/festival reference, exempt from the batch caps; no publication date, so datePublished is omitted from citation."
+      }
+    ],
+    "auditReport": {
+      "passed": [],
+      "failed": [],
+      "honestAssessment": ""
+    },
+    "generatedAt": "2026-09-10T00:00:00.000Z"
+  }
+}

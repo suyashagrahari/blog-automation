@@ -3,7 +3,7 @@
 - **Batch:** `2026-09-09-ganesh-10c` (assignment n=4, cluster C13)
 - **Primary keyword:** `ganesh chaturthi greeting card`
 - **Folds in:** `happy ganesh chaturthi name style` · `happy ganesh chaturthi photo editor online`
-- **Slug:** `ganesh-chaturthi-greeting-card` (verified free on Strapi today)
+- **Slug:** `ganesh-chaturthi-greeting-card` (verified free on Strapi **2026-09-09**; not re-verified 2026-09-10 — see the audit failures)
 - **Cannibalisation sibling:** `ganesh-chaturthi-wishes-with-name` — **already live**, batch `2026-09-09-ganesh-10b`, keyword `happy ganesh chaturthi with name`
 - **Research lane:** history and sociology of the greeting card — mediated ritual, why a bought token carries obligation, what changed when cards went digital
 - **Run date:** Phases 1–2 on **2026-09-09**; Phases 3–6 on **2026-09-10** by a second agent after
@@ -501,12 +501,15 @@ n = 89 is small, with an explicit instruction not to read a per-template or per-
 it and a statement that there is no Ganesh page-creation data at all (occasion-dated pages are
 144 of 3,894, 3.7%).
 
-**Word count: 1,773 by `wordCount()` in `app/lib/batches.ts`** — the studio's own measure,
+**Word count: 1,758 by `wordCount()` in `app/lib/batches.ts`** — the studio's own measure,
 replicated exactly (fenced blocks to spaces, then `[#>*_`|\-\[\]()!]` to spaces, then split).
-Plain split reads 1,725. The three earlier posts in this batch landed 1,807–1,836 on the studio
-measure because their agents trusted a plain split; this one was measured with the studio
-function from the first draft and trimmed twice to land inside 1,700–1,780. The ~51-word social
-block is inside that total.
+Plain split reads 1,707, a 51-word gap. The three earlier posts in this batch landed 1,807–1,836
+on the studio measure because their agents trusted a plain split and believed they were at
+~1,795; this one was measured with the studio function from the first draft. The first draft
+came in at 1,856, was trimmed to 1,773 across seven targeted cuts (the sources bullets, the
+definition paragraph, three H3 bodies and the tariff sentence), and landed at 1,758 after the
+final H2 was rewritten for the internal-link reversal. The ~51-word social block is inside that
+total, as is the 4×4 table and the nine-line sources list.
 
 ---
 
@@ -580,18 +583,26 @@ Ganesha Q1579, Greeting card Q915196, India Post Q3519720, Ananta Chaturdashi Q3
 
 All 50 items in `references/publish-checklist.md` audited, strings copied verbatim including
 `**bold**` and the full text of the long source-cap clause.
-**`|passed| = 48`, `|failed| = 2`, `48 + 50 − 50 = 48 + 2 = 50`, and `passed ∩ failed = ∅`** —
-both asserted programmatically against the emitted JSON.
+**`|passed| = 47`, `|failed| = 3`, `47 + 3 = 50`, and `passed ∩ failed = ∅`** — both asserted
+programmatically against the emitted JSON, not by eye.
 
 The batch JSON also passes the validator in `references/article-json-schema.md` verbatim, run
-from the repository root over the whole `blogs/` directory.
+from the repository root over the whole `blogs/` directory (`OK ganesh-chaturthi-greeting-card.json
+(1707 words)` on the validator's plain split).
 
-### The 2 failures
+### The 3 failures
 
 1. **"Slug is not already taken in Strapi"** — not re-verified this run; the Strapi check needs
    credentials this session did not have. The Phase 1 brief records the slug verified free on
    2026-09-09, which is one day stale and unconfirmed here. Cheap to re-check at publish time.
-2. **"No source passes the swap test…"** — three of five pass cleanly (Hill & Dunbar, Davydova,
+2. **"Every internal link is a real URL from TEMPLATE_LINKS"** — four of the five internal links
+   qualify. `/guides/happy-ganesh-chaturthi` does not: `TEMPLATE_LINKS` holds template pages
+   only, and the guides tree is not in it. The URL was verified live here (HTTP 200, and it is
+   one of the two new sitemap entries) and the coordinator directed linking it as the written
+   companion to the shipped template, so it was kept in the body and kept out of
+   `templateUrls`. The fix, if the project wants this to pass, is to add the guides URLs to
+   `TEMPLATE_LINKS` — not to drop a live, on-topic, verified link.
+3. **"No source passes the swap test…"** — three of five pass cleanly (Hill & Dunbar, Davydova,
    and the Speed Post tariff read against a card's shelf price). Two do not: the Citizens'
    Charter delivery norms and Kumar & Epley on channel choice could both sit unchanged in the
    sibling `ganesh-chaturthi-invitation-maker` post, which faces the same printed-versus-digital
@@ -606,7 +617,7 @@ strings, and `|passed| + |failed| == 50` — because no checklist item expresses
 therefore stated plainly and at length in `auditReport.honestAssessment` instead, which BRIEF
 §5 also requires. The finding itself: **DuckDuckGo's top 10 has zero informational results,
 Google's top 13 has exactly one (a retitled 2021 Times of India listicle), and there is no AI
-Overview on either query.** A 1,770-word article is competing against design tools for a query
+Overview on either query.** A 1,758-word article is competing against design tools for a query
 whose dominant intent is "give me the card now". It should not be expected to displace Canva's
 gallery. Its honest ceiling is the last-minute-sender sliver the whole SERP ignores, plus
 answer-engine citation on the deadline and cost questions, where it is the only page carrying
@@ -623,3 +634,14 @@ numbers. **No ranking outcome is predicted anywhere in the post or the audit.**
 
 Nothing outside these two files was modified. `batch.json`, `content/facts.md` and every other
 blog's files were left untouched, including the two edits recommended in Phase 2b.
+
+**One housekeeping warning for the coordinator.** This blog JSON was written to disk early and
+refined in place, per BRIEF §7. While it was still being refined, two sibling commits swept it
+in — `d10ca1e` ("Ganesh wave 3: rangoli and good-morning posts; Ganesh page shipped") and
+`87eda41` ("Rangoli post: apply the link reversal, 1778w, 46/4") — because those agents staged
+broadly rather than by path. No work was lost, and the final file is byte-identical to nothing
+in particular: HEAD at `87eda41` captured an intermediate draft that still carried `/templates`
+and a `doi.org` citation. **Check that the committed version of
+`blogs/ganesh-chaturthi-greeting-card.json` is the 1,758-word, 47/3 version described here, not
+the intermediate one.** The final refinements were left uncommitted deliberately, since this
+agent was not asked to commit.
