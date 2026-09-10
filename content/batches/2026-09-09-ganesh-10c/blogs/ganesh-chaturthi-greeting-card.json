@@ -302,16 +302,13 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
           "item": "Slug is not already taken in Strapi",
           "why": "Not re-verified in this session — the Strapi check needs credentials this run did not have. The inherited Phase 1 brief records `ganesh-chaturthi-greeting-card` as verified free on Strapi on 2026-09-09; that is one day old and unconfirmed here."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Four of the five internal links qualify. `/guides/happy-ganesh-chaturthi` does not: it is not in TEMPLATE_LINKS, which holds template pages only. It was verified live on 2026-09-10 (HTTP 200, H1 \"Build a Ganesh Chaturthi page for the people you cannot sit with\") and is in the sitemap, and the coordinator directed linking it as the written step-by-step companion to the now-shipped Ganesh template — so it was kept in the body and deliberately left out of `batchMeta.templateUrls`, which stays inside TEMPLATE_LINKS."
         },
         {
           "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",

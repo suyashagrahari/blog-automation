@@ -280,16 +280,13 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
           "item": "Slug short, hyphenated, lowercase, no stop words",
           "why": "The slug contains the stop word \"in\" (`ganesh-chaturthi-celebration-in-office`). It is otherwise short, hyphenated and lowercase, and it was kept because the assignment fixed it to match the target keyword string exactly and it was verified free on Strapi on 2026-09-10 (`filters[slug][$eq]` returned total 0). Recorded as failed rather than silently renamed, because renaming would break the keyword-to-slug match the checklist also requires in item 14."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "One of the two internal links, `/guides/happy-ganesh-chaturthi`, is NOT in `TEMPLATE_LINKS` in `app/lib/prompt.ts` — verified by reading the array directly. It is nonetheless a live, legitimate page: BRIEF section 3 re-verified it on 2026-09-10 as HTTP 200 with the H1 \"Build a Ganesh Chaturthi page for the people you cannot sit with\", and it is in the 1,123-URL sitemap. It is the written step-by-step guide the post's distributed-team section actually needs, so it stays in the body and is deliberately kept OUT of `batchMeta.templateUrls`. Two siblings in this wave handled it the same way. The other internal link, `/happy-ganesh-chaturthi`, IS in TEMPLATE_LINKS (prompt.ts line 57). This item cannot pass as written unless the guide URL is added to TEMPLATE_LINKS."
         }
       ],
       "honestAssessment": "It is the only page on this SERP that treats an office religious festival as an organisational-design problem rather than an ideas catalogue: all ten competing results are decoration, rangoli, modak and team-building lists, eight of them content marketing attached to an event agency, gifting vendor or coworking operator, and not one addresses who is expected to attend, who pays, what a non-observant colleague does during an aarti, or how a distributed team participates. The defensible material is the combination an answer engine cannot get elsewhere — Yim et al.'s seven negative ritual experiences with their frequencies (exclusion 20, attendance pressure 5, personal sacrifices 36), Lauring and Jonasson's counter-intuitive proposition that online neutrality can help a minority group member, and SubhSandesh's own n=89 lead-time measurement — plus the 'is declining visible?' table column, which no competitor has. Real weaknesses: the ritual research is American, British, German and Finnish and none of it is about a religious festival in an Indian office, so every applied claim is a mechanism argument rather than a measurement; the n=89 lead-time figure is Raksha Bandhan, not Ganesh Chaturthi, and 89 is small; the cost figures are labelled illustrative because no dated source for Indian office celebration costs was found; and Phase 1 could not capture the AI Overview or People-Also-Ask blocks, because the WebSearch tool exposes neither and every India-localised path was rate-limited, so the SERP picture is US-localised and incomplete. Domain authority against entrenched event-agency and HR-vendor content is unknown and unaddressed by anything in this post; no ranking outcome is predicted."

@@ -55,6 +55,11 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   // Added 2026-09-09. `what` is taken from the template's own config.ts
   // description, per the note below — not paraphrased from the slug.
   { url: `${SITE_ROOT}/happy-ganesh-chaturthi`, what: "Ganesh Chaturthi page the recipient performs themselves — they offer the durva, kumkum, flowers and modak, the aarti thali circles while Karpur Gauram plays, and they write their own prarthana back. Add your photo, your mandap, and a card for an Instagram story" },
+  // Not a template — the written step-by-step guide for the page above, and the URL
+  // the Ganesh walkthrough video points readers at. Listed here so a post may link it
+  // as a real internal URL. Do NOT put it in batchMeta.templateUrls: those resolve to
+  // Strapi template entries at publish, and no template corresponds to a guide page.
+  { url: `${SITE_ROOT}/guides/happy-ganesh-chaturthi`, what: "The written build guide for the Ganesh Chaturthi page — step by step, with what to have ready before you start. Link it as a body reference for a reader who wants the detail, not as a related template" },
 
   // ── Added 2026-09-02. Every `what` below is taken from the template's own
   // `config.ts` description, not paraphrased from the slug, and every URL was

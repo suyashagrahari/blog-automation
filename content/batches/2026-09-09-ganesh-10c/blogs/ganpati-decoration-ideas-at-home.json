@@ -311,7 +311,8 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
@@ -321,10 +322,6 @@
         {
           "item": "Slug short, hyphenated, lowercase, no stop words",
           "why": "The assigned slug `ganpati-decoration-ideas-at-home` keeps the stop words \"at\" and \"home\" because they are the qualifier that distinguishes this post from the live `ganesh-chaturthi-decoration-ideas` sibling. Trimming them would collapse the exact-match signal and the cannibalisation boundary. Not fixable without changing the assignment."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Two of the three internal links (`/happy-ganesh-chaturthi`, `/watch`) are in TEMPLATE_LINKS. The third, `/guides/happy-ganesh-chaturthi`, is not — it was authorised mid-task by the coordinator after re-verification (HTTP 200, H1 \"Build a Ganesh Chaturthi page for the people you cannot sit with\", now in sitemap.xml), but it is a guide route rather than a TEMPLATE_LINKS entry. Closes when TEMPLATE_LINKS is extended to cover /guides routes."
         }
       ],
       "honestAssessment": "An answer engine would cite this over the six ranking listicles for one reason: it is the only page on the query that carries numbers. The competing set — a furniture retailer, an interiors magazine, two decor shops, a puja-goods shop and a craft farm — publishes photograph counts and no cost, no footprint, no setup time and no source of any kind, so there is nothing in them to extract. This post gives floor area in square feet, rupee ranges, setup time, a CPCB clause quoted verbatim with its date, and a peer-reviewed incense finding that no decoration page anywhere connects to a small flat. Three honest limits. First, the rupee ranges are typical festival-week retail rather than a surveyed price list, and they are the softest numbers on the page. Second, the scholarly source on relocatable home shrines is a diaspora study read at abstract level only, which is disclosed in the prose. Third, my SERP was harvested through WebSearch, which is US-localised and reports no SERP features, so I cannot say whether an AI Overview exists on this query — and an India-localised SERP would very likely place Pinterest boards and a video pack above all six prose results, which caps what a text page can win regardless of quality. Informational prose does rank here, unlike the rangoli sibling's SERP, so the format is at least right. Domain authority against Livspace and a national paint brand is not something this post can close, and ranking depends on months of signals, so no outcome is predicted. The cannibalisation gate returned 1 shared article against the live sibling on a same-engine, same-day comparison, corroborated at 0 and 1 by two other recorded pictures of the sibling's SERP; the live post nonetheless declares this keyword and its fold as its own secondaries, and those phrases should be struck from its declared folds and article.keywords at consolidation."

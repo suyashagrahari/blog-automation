@@ -310,7 +310,8 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
@@ -324,10 +325,6 @@
         {
           "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
           "why": "Five outbound links, four of which were fetched and read in full at the linked URL. jbe-platform.com returned HTTP 403 to this environment, so the Linares Bernabeu & Yus figures (598 stickers; 56.9% / 24.67% / 18.41%) were verified from the publisher's own Crossref abstract deposit and the Semantic Scholar Graph API rather than from the linked page. The link is kept because the article is hybrid open access (CC BY per Unpaywall) and resolves normally in a browser. Would close if the publisher stopped blocking automated fetches."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Three internal links; /watch and /happy-ganesh-chaturthi are in TEMPLATE_LINKS, /guides/happy-ganesh-chaturthi is not. It was added on the coordinator's explicit instruction after the Ganesh template shipped mid-task, and was independently verified live: HTTP 200, H1 'Build a Ganesh Chaturthi page for the people you cannot sit with', and present in subhsandesh.in/sitemap.xml (now 1,123 URLs). Would close by adding the guide URL to TEMPLATE_LINKS in app/lib/prompt.ts."
         }
       ],
       "honestAssessment": "It is the only page on this SERP that publishes WhatsApp's own sticker constraints (512 x 512 WebP, under 100 KB, 3-30 per pack, tray icon 96 x 96, animated under 500 KB and 10 seconds, dated 17 April 2025) and the only one that explains, from computer-mediated-communication research, why a sticker functions as a reply rather than a wish - the two informational results it competes with are both year-stamped 2024 and carry no statistics at all. Two honest limits on that: eight of the ten results are Pinterest pins, hosted packs, PNG farms, an APK mirror or a design tool, and no article displaces asset supply, so the realistic ceiling here is the informational slice rather than the SERP; and the live sibling happy-ganesh-chaturthi-status already folds this keyword into its own keywords string with an H3 and two FAQs on sticker packs, so some intent overlap between the two posts is real even though the SERP gate returned only 1 shared article. Two research caveats worth stating: the SERP was captured with WebSearch, which is US-localised rather than gl=in, and it does not expose whether Google serves an AI Overview for this query, so the AI Overview status is unverified in either direction. Domain authority against Business Standard and a design tool of Adobe's size is not something this post changes, and no ranking outcome is predicted."

@@ -305,7 +305,8 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
@@ -319,10 +320,6 @@
         {
           "item": "At least one table column uses first-party data",
           "why": "STRUCTURAL. The table's five columns are design, dot count, floor area, minutes to draw and material at that size. Minutes come from Sahapedia's Pondicherry field interviews, floor area and powder weights from stated arithmetic, and the marigold price from FloralDaily (4 September 2026). SubhSandesh has no drawing-time, floor-area or powder data — nobody draws a rangoli on the platform — so no column can be first-party without inventing one. The first-party measurement carries the timing argument in prose instead ('What the 49.4% figure is, and what it is not'). Would close only if the platform ever collected rangoli timings."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Deliberate, documented deviation. Three of the four internal links are TEMPLATE_LINKS entries (/happy-ganesh-chaturthi, /bouquet-gf, and the same Ganesh template as the topical CTA). The fourth, https://subhsandesh.in/guides/happy-ganesh-chaturthi, is NOT in TEMPLATE_LINKS — that constant lists template pages only, no guides — and was added on the batch coordinator's instruction after /happy-ganesh-chaturthi shipped mid-batch. Verified independently on 2026-09-10: HTTP 200, H1 'Build a Ganesh Chaturthi page for the people you cannot sit with', and present in sitemap.xml (now 1,123 URLs, both Ganesh entries). So the risk the item guards against — an invented slug that 404s — does not apply, but the item as written does not pass and is recorded rather than reinterpreted."
         }
       ],
       "honestAssessment": "An answer engine would cite this over the ranking assets for one reason: it is the only page on this query that states what a Ganesh Chaturthi rangoli costs in minutes, floor area and material — 25 dots and 10-15 minutes against six square feet and 60-90 minutes — with the basis of every figure named, plus the one thing an image board cannot carry, that a floor design is gone under footfall in hours and therefore means ten redraws to 25 September. The blunt limitation is format, not writing: page one for this keyword on the India-localised SERP is three Pinterest boards, an Instagram reel, two YouTube tutorials and a Shutterstock search page, with no AI Overview and no featured snippet, because the intent is 'show me a picture I can copy' and Google is serving it correctly. A prose page should not be expected to take position 1 here; the realistic targets are the PAA slot 'Do we make rangoli on Ganesh Chaturthi?', constrained long-tail queries about time, powder quantity and durability, and answer-engine citation, where extractable prose with numbers beats a board with none. Against that, the domain is far below the entrenched platforms and the first-party anchor is a small n=89 sample from a different festival, so this is a bet on the constraint questions, not on the head term."
