@@ -1,0 +1,342 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganesh Chaturthi Group Names, Written to the Character Limit",
+    "slug": "ganesh-chaturthi-group-names",
+    "excerpt": "A Ganesh Chaturthi group name is a persistent label, and its documented ceiling is 128 characters — Meta's own Groups API reference of 16 June 2026 — with 100 in the app since 2023, not the 25 most lists imply. Eight names with counts, a verified Kannada fold, and where a name loses.",
+    "metaTitle": "Ganesh Chaturthi Group Names — 8 Under 128 Characters",
+    "metaDescription": "Ganesh Chaturthi group names sized to the documented ceiling: 128 characters in Meta's own June 2026 reference, not the 25 still repeated. 8 with counts.",
+    "keywords": "ganesh chaturthi group names, ganpati group name, ganesh chaturthi group name in kannada, whatsapp group name for ganesh chaturthi, ganeshotsav mandal group name",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-group-names",
+    "ogType": "article",
+    "tags": [
+      "ganesh chaturthi",
+      "whatsapp",
+      "group names",
+      "kannada",
+      "indian festivals"
+    ],
+    "keyTakeaways": [
+      "Meta's own Groups API reference, updated 16 June 2026, caps a WhatsApp group subject at 128 characters with whitespace trimmed, and the description at 2,048.",
+      "The consumer app's group-subject ceiling was raised to 100 characters in February 2023, up from 25 — so the 25 most group-name lists still imply has been wrong for three and a half years.",
+      "Nobody publishes how much of a group name a chat list shows, so write the first three or four words as if they were the whole name.",
+      "A group name travels with its invite link: one 2020 study assembled over 5,000 Indian WhatsApp groups purely by searching the open web for those links.",
+      "49.6% of shared SubhSandesh pages are opened on a phone (22,817 of 46,005 views) across 3,894 pages and 15 page types — the phone row, not the ceiling, is the constraint."
+    ],
+    "faqs": [
+      {
+        "question": "Can I put the year in a Ganesh Chaturthi group name?",
+        "answer": "Yes, and it is the cheapest thing you can add. \"Bappa 2026\" is 10 characters, nothing gets cut, and next September you will be able to tell this group from the new one without opening either."
+      },
+      {
+        "question": "Is the WhatsApp group name limit still 25 characters?",
+        "answer": "No, and it has not been since February 2023, when the group subject was raised to 100 characters in the app. The 25 that most group-name lists still imply is the pre-2023 figure, and quoting it costs you three quarters of the field."
+      },
+      {
+        "question": "How much of my group name actually shows in the chat list?",
+        "answer": "Nobody publishes a number for this, Meta included, and I could not find one. Treat the first three or four words as the whole name and check the row on a real phone before you settle — 49.6% of the pages we see shared are opened on a phone, and that row is narrower than the ceiling suggests."
+      },
+      {
+        "question": "How long can a WhatsApp group description be?",
+        "answer": "2,048 characters. Both Meta's current Groups API reference and the February 2023 reporting on the consumer app give the same number, up from 512. That is sixteen times the subject's room, so it is where the detail belongs."
+      },
+      {
+        "question": "How do I stop my group name looking like everyone else's?",
+        "answer": "Put a word only your group owns — the mandal, the street, the surname — inside the first three or four words. \"Ganpati Bappa Morya\" is 21 characters and read instantly, which is exactly why four other groups in the same chat list carry it."
+      },
+      {
+        "question": "Do emojis count towards the group name character limit?",
+        "answer": "Yes, an emoji occupies part of the field like any other character, so a folded-hands emoji is not free. Do not assume it counts as exactly one — count the finished name, do not calculate it."
+      },
+      {
+        "question": "Can I change the group name later, or am I stuck with it?",
+        "answer": "You can change it, and the field is built to be changed — Meta's Groups API carries a dedicated update-group-settings endpoint for the subject, at the same 128-character maximum. So a name is a rename away, which is the argument against agonising over it."
+      },
+      {
+        "question": "Should the mandal name or the festival name come first?",
+        "answer": "The mandal's name, every time. The festival word is what every other group in that chat list already says, so it distinguishes nothing; the mandal name is the only part doing work in a truncated row."
+      },
+      {
+        "question": "What should I call the visarjan group?",
+        "answer": "Something that says visarjan and the date, like \"Visarjan Logistics — 25 Sept\" at 28 characters. Visarjan falls on Friday 25 September 2026, and a name carrying the word is more useful on the 24th than any message in the group."
+      },
+      {
+        "question": "When is Ganesh Chaturthi in 2026?",
+        "answer": "Monday 14 September 2026, with visarjan on Friday 25 September. If your group name carries dates, those are the two to carry — and it is the reason a date-stamped name is worthless by October."
+      },
+      {
+        "question": "Should I delete the group after visarjan or rename it?",
+        "answer": "Rename it if roughly the same people will regroup next year, because the member list is the expensive thing to rebuild and the name is not. That is also the argument for putting a year in the name in the first place."
+      }
+    ],
+    "coverImageQuery": "phone whatsapp chat list ganpati mandap",
+    "coverImagePrompt": "A hand holding a phone in front of a small home Ganpati mandap, the screen showing a messaging app's chat list with several group rows. Marigold garlands and a brass diya soft in the background, warm evening light from one side, shallow depth of field. Clean negative space along the top for a title overlay, 16:9. No legible text on the screen and no logos, except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganesh Chaturthi Group Names, Written to the Character Limit\n\nGanesh Chaturthi group names must fit a field with a documented ceiling of **128 characters** — what Meta's own [Groups API reference, updated 16 June 2026](https://developers.facebook.com/documentation/business-messaging/whatsapp/groups/reference) states for a WhatsApp group subject, with 2,048 for the description. The consumer app was raised to 100 in February 2023, up from 25 — so the 25 most name lists still imply has been wrong for three and a half years. The ceiling is not the constraint that bites, though. The phone is: 49.6% of shared pages are opened on a phone (22,817 of 46,005 views) across the 3,894 personalised pages created since 2026-03-12, across 15 page types, and a chat-list row shows a slice of a long name. Below: eight names with counts, where those numbers come from, a Kannada fold in verified script, and when the name does not matter.\n\n## What a Ganesh Chaturthi group name is actually for\n\nA Ganesh Chaturthi group name is the group-subject field of a WhatsApp group — one line, set by an admin, that every member sees in their chat list for as long as the group exists. It is a label, not a message. You rename it; you never repost it.\n\nThat is the difference from a caption. A caption is read once and done; a group name is read at a glance, forty times a day, by thirty people.\n\nThe lifetime is what people underestimate. A group created on 14 September is still called whatever you called it in November, which is why a name built entirely around one day ages badly.\n\n## How many characters a WhatsApp group name can be\n\n128, if you go by the only figure Meta itself publishes. The Groups API reference sets the group subject at \"Maximum 128 characters. Whitespace is trimmed\", repeats it on the update-settings endpoint, and caps the description at 2,048.\n\nOne real caveat: those numbers describe an API construct, not your family group. The [same documentation](https://developers.facebook.com/documentation/business-messaging/whatsapp/groups) caps an API-created group at eight participants and limits the feature to Official Business Accounts.\n\nFor the app, the dateable figure is 100. On 6 February 2023, [Business Standard reported](https://www.business-standard.com/article/technology/whatsapp-rolls-out-longer-group-subjects-descriptions-on-ios-beta-report-123020600224_1.html) that \"the characters of the group subject have been increased to 100\", alongside a description raise \"up to 2048 characters, as the previous limit was 512 characters\". The second number is the corroboration: 2,048 is exactly what Meta's current reference states, which is why the 100 beside it reads as a change rather than a rumour.\n\nWhatsApp's consumer Help Center states no figure at all. Working rule: stay under 100 and you clear every documented ceiling on every client. Treat 25 as dead.\n\nWhat nobody publishes, Meta included, is how much of the name a chat list shows. I looked, found no figure, and will not invent one. Write the first three or four words as if they were the whole name.\n\n## 8 Ganesh Chaturthi group names, with character counts\n\nEach gives the name, who it suits, its count and the trade. Counts include spaces.\n\n### 1. Bappa 2026\n\nImmediate family — the group for the ten days. 10 characters, nothing ever cut. The year earns its place: you will make another next September and want to tell them apart.\n\n### 2. Ganpati Bappa Morya 🙏\n\nThe default, and no shame in it. 21 characters, read instantly, and the chant is used across India rather than being a claim of Marathi identity. The cost: four other groups are called this too.\n\n### 3. 14 Sept to 25 Sept, Our House\n\nThe coordinating family group. 29 characters, dates front-loaded so the visible half of the row is the useful half. Ganesh Chaturthi 2026 is Monday 14 September; visarjan is Friday 25 September.\n\n### 4. Modak Duty Roster\n\nThe cooking and naivedya group, split off from the main one. 17 characters. A name stating the group's job is the cheapest defence against a festival group becoming a forwards channel.\n\n### 5. Sahyadri Mandal Ganeshotsav 2026\n\nThe mandal or housing-society group — the mandal's name first, not the festival's. 32 characters, and the one case where length is right: the mandal name is the only word distinguishing it from every other festival group.\n\n### 6. Aarti at 7. Every day.\n\nThe reminder group. 22 characters. It does the group's work without anyone posting — the highest compliment a group subject can earn — and stops being true the day you skip seven.\n\n### 7. Visarjan Logistics — 25 Sept\n\nThe last-day group: the truck, the route, the immersion point. 28 characters. Create it separately, because \"Visarjan\" in a chat list on the 24th does more than a message.\n\n### 8. Bappa's Landlords\n\nFriends — the joke group, where the thermocol arch gets mocked. 17 characters. A joke name is normal at this festival; the line not to cross makes the murti the joke rather than yourselves.\n\n## Group subject versus group description\n\nFour fields do four jobs, and only the first has a ceiling tight enough to design around.\n\n| Field | Documented ceiling | Source | SubhSandesh's own number |\n|---|---|---|---|\n| Group subject, Groups API | 128 characters, whitespace trimmed | Meta Groups API reference, 16 June 2026 | No Ganesh page-creation data exists; template live 2026-09-10 |\n| Group subject, consumer app | 100 characters, raised from 25 | Reported 6 February 2023 | 49.6% of views are on a phone (22,817 of 46,005) |\n| Group description | 2,048 characters, raised from 512 | Both sources state 2,048 | 3,894 pages across 15 page types since March 2026 |\n| The invite link | No character field | Joinable by a public link | 42.0% password-protect before sharing (1,636 of 3,894) |\n\nThe subject is the only field where room is scarce, so put the detail in the description, which has sixteen times as much.\n\n## Who can see a Ganesh Chaturthi group name\n\nAnyone the invite link reaches, and links travel further than expected. Garimella and Eckles, in the peer-reviewed [Harvard Kennedy School Misinformation Review of 7 July 2020](https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/), define a public WhatsApp group as one \"which can be joined using a publicly available link\" — then built their dataset by searching Facebook, Twitter and Google for those links, joining over 5,000 Indian groups and collecting over 5 million messages from over 250,000 users.\n\nTheir subject was political groups, and the 13% of images they found to be misinformation is about those groups, not your mandal. What bears on naming is the method: a name becomes a public label the moment its link sits anywhere a search engine reaches. Name it as though a stranger will read it.\n\n## Ganesh Chaturthi group name in Kannada\n\nIn Kannada script the festival is ಗಣೇಶ ಚತುರ್ಥಿ and the deity is ಗಣೇಶ. In Karnataka the observance is paired with ಗೌರಿ ಹಬ್ಬ, Gauri Habba, the day before, so a Karnataka group name often carries both rather than the Marathi chant.\n\nThree names using only script I could verify:\n\n- **ಗಣೇಶ ಚತುರ್ಥಿ 2026** — 17 characters. Works statewide, and Latin digits are ordinary in Kannada writing.\n- **ಗೌರಿ ಹಬ್ಬ + ಗಣೇಶ ಚತುರ್ಥಿ** — 24 characters. The Karnataka framing, which reads local where the pan-Indian chant does not.\n- **ಬೆಂಗಳೂರು ಗಣೇಶ ಚತುರ್ಥಿ 2026** — 26 characters. For a Bengaluru apartment or society group.\n\nEvery Kannada string there was checked against Kannada Wikipedia's own article titles through the Wikipedia API, not typed from memory. Words I could not verify that way stay in Roman script deliberately: the API returns ಮಂಡಲ for *mandala*, the geometric diagram, the wrong sense for a mandal committee, so \"Mandal\" stays \"Mandal\". Broken Kannada is worse than Roman letters.\n\nThose counts are Unicode characters, and in Kannada one letter can be several once vowel signs and conjuncts are counted — ಗಣೇಶ ಚತುರ್ಥಿ is twelve characters and reads as fewer letters. Count characters for the ceiling; look at the row for width.\n\n## When a Ganesh Chaturthi group name does not matter\n\nWhen the group has four people and one subject. A family group called \"Home\" works fine; renaming it to something festive buys nothing.\n\nA group name also cannot carry anything to one person: 42.0% of creators password-protect their page before sharing it (1,636 of 3,894), the opposite instinct from hanging a name in a shared list.\n\nThere is a timing asymmetry, with limits attached. Our only festival lead-time measurement is Raksha Bandhan 2026 — a different festival, and a one-day one against Ganesh Chaturthi's ten — where across n = 89 pages, 49.4% were built on the festival day itself and 27.0% the day before, median lead time 0 days.\n\nn = 89 is small, so no per-template, per-region or per-language rate can be drawn from it, and there is no Ganesh Chaturthi page-creation data at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival. The hint is that people act on the day, while a name is lived with for weeks.\n\nIf it is one person you want rather than a list, [the Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) is the other shape of this: they offer the durva, kumkum, flowers and modak, the aarti thali circles, and write their own prarthana back. [The written build guide](https://subhsandesh.in/guides/happy-ganesh-chaturthi) covers it step by step; other occasions sit in [the full template list](https://subhsandesh.in/templates).\n\nWhere a page loses is where a name wins. A page is an afternoon — median gap from first save to last edit 6.8 hours, sampled on /love-gf, n=1,070. A name is a season, and for thirty people coordinating over ten days, no page we build replaces the group.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- Meta — [Groups API: Group management reference](https://developers.facebook.com/documentation/business-messaging/whatsapp/groups/reference), updated 16 June 2026: subject \"Maximum 128 characters. Whitespace is trimmed\"; description \"Maximum 2048 characters\"\n- Meta — [Groups API overview](https://developers.facebook.com/documentation/business-messaging/whatsapp/groups), updated 16 June 2026: 8 participants max per API-created group, Official Business Account required\n- IANS, [\"WhatsApp rolls out longer group subjects, descriptions on iOS beta\"](https://www.business-standard.com/article/technology/whatsapp-rolls-out-longer-group-subjects-descriptions-on-ios-beta-report-123020600224_1.html), *Business Standard*, 6 February 2023: subject raised to 100 characters\n- Garimella & Eckles, [\"Images and misinformation in political groups: Evidence from WhatsApp in India\"](https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/), *HKS Misinformation Review* 1(5), 7 July 2020\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-group-names#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Instant messaging",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Instant_messaging",
+              "https://www.wikidata.org/wiki/Q58199"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Kannada",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kannada",
+              "https://www.wikidata.org/wiki/Q33673"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Gauri Habba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gauri_Habba",
+              "https://www.wikidata.org/wiki/Q5590128"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Bengaluru",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bengaluru",
+              "https://www.wikidata.org/wiki/Q1355"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Meta Platforms",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Meta_Platforms",
+              "https://www.wikidata.org/wiki/Q380"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "WhatsApp Business Platform — Groups API: Group management reference",
+            "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/groups/reference",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meta Platforms"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "WhatsApp Business Platform — Groups API overview",
+            "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/groups",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meta Platforms"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "WhatsApp rolls out longer group subjects, descriptions on iOS beta: Report",
+            "url": "https://www.business-standard.com/article/technology/whatsapp-rolls-out-longer-group-subjects-descriptions-on-ios-beta-report-123020600224_1.html",
+            "datePublished": "2023-02-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Business Standard"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Images and misinformation in political groups: Evidence from WhatsApp in India",
+            "url": "https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/",
+            "datePublished": "2020-07-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Harvard Kennedy School Misinformation Review"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "8 Ganesh Chaturthi group names, with character counts",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Bappa 2026",
+            "description": "Immediate family, the group for the ten days. 10 characters, so nothing is ever cut; the year is what lets you tell it from next September's group."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ganpati Bappa Morya 🙏",
+            "description": "The default. 21 characters, read instantly, and the chant is pan-Indian rather than a claim of Marathi identity. The cost is that four other groups are called this too."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "14 Sept to 25 Sept, Our House",
+            "description": "The coordinating family group. 29 characters, dates front-loaded so the visible half of the row is the useful half. Ganesh Chaturthi 2026 is Monday 14 September; visarjan is Friday 25 September."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Modak Duty Roster",
+            "description": "The cooking and naivedya group, split off from the main one. 17 characters. A name stating the group's job is the cheapest defence against it becoming a forwards channel."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Sahyadri Mandal Ganeshotsav 2026",
+            "description": "The mandal or housing-society group, mandal's name first. 32 characters, and the one case where length is right: the mandal name is the only word distinguishing it from every other festival group."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Aarti at 7. Every day.",
+            "description": "The reminder group. 22 characters. It does the group's work without anyone posting, and stops being true the day you skip seven."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Visarjan Logistics — 25 Sept",
+            "description": "The last-day group: the truck, the route, the immersion point. 28 characters. Create it separately, because \"Visarjan\" in a chat list on the 24th does more than a message."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Bappa's Landlords",
+            "description": "Friends, the joke group. 17 characters. A joke name is normal at this festival; the line not to cross makes the murti the joke rather than yourselves."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganesh chaturthi group names",
+    "angle": "Wins by being the only Ganesh Chaturthi group-name page that states the WhatsApp group-subject ceiling and dates it — 128 characters in Meta's own Groups API reference of 16 June 2026, 100 in the consumer app since February 2023, not the 25 the genre still implies — sizes eight names against it, and uses SubhSandesh's 49.6% phone-open rate across 3,894 pages to show the ceiling is not the real constraint.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi"
+    ],
+    "factsUsed": [
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "42.0% of creators password-protect their page before sharing it (1,636 of 3,894) — measured 2026-09-09",
+      "Median gap between a page's first save and its last edit: 6.8 hours — sampled on \"I love you\" page (/love-gf), n=1,070 — measured 2026-09-09",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10"
+    ],
+    "sources": [
+      {
+        "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/groups/reference",
+        "stat": "Meta's Groups API group-management reference (page states \"Updated: Jun 16, 2026\"): the Create group endpoint documents <GROUP_SUBJECT> as \"Maximum 128 characters. Whitespace is trimmed\" and <GROUP_DESCRIPTION> as \"Maximum 2048 characters\"; Update group settings repeats \"Maximum length: 128 characters. Must not be empty if provided\""
+      },
+      {
+        "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/groups",
+        "stat": "Meta's Groups API overview (page states \"Updated: Jun 16, 2026\"): Quick facts give \"Max group participants: 8\" and \"Max groups you can create: 10,000 per business number\", and eligibility is restricted to an Official Business Account — the caveat that the documented 128 describes an API construct, not the consumer app"
+      },
+      {
+        "url": "https://www.business-standard.com/article/technology/whatsapp-rolls-out-longer-group-subjects-descriptions-on-ios-beta-report-123020600224_1.html",
+        "stat": "Reporting WABetaInfo: \"the characters of the group subject have been increased to 100 to provide admins more freedom when naming their groups\", and group descriptions raised \"up to 2048 characters, as the previous limit was 512 characters\" — the dated end of the 25-character figure",
+        "publishedDate": "2023-02-06"
+      },
+      {
+        "url": "https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/",
+        "stat": "Peer-reviewed, diamond open access, full text read. Defines a public WhatsApp group as \"Any group on WhatsApp which can be joined using a publicly available link\"; the authors located such groups by searching Facebook, Twitter and Google for chat.whatsapp.com links, \"joined and obtained data from over 5,000 political groups\" in India, and \"collected over 5 million messages shared by over 250,000 users\"; image misinformation was 13% of all images shared in those groups",
+        "publishedDate": "2020-07-07"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Not verified against the real competitor set. WebSearch is US-locale only, and in that locale all ten results for `ganesh chaturthi group names` are pages about the NAMES OF THE DEITY (Wikipedia's Ganesha entries, the 21-name namavali, a 108-names post) — not one concerns naming a WhatsApp group. The five pages that actually rank for the WhatsApp-group-name intent in India were therefore never individually fetched; the genre was characterised from a second query and from the category. The claim that no competitor states the group-subject ceiling is true of the ten results measured and is asserted, not verified, against the real five. The session's 200-call WebSearch budget was also exhausted during Phase 3, so it could not be re-measured. Closing this needs an India-locale SERP tool."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences, because page-structure.md prescribes exactly that shape for it — direct answer, two to four numbers of which two are first-party, then one sentence on what the page covers — and splitting it would break the single liftable answer block an answer engine quotes. Every other paragraph in the body is two or three sentences; this is a deliberate, single, documented exception rather than drift."
+        }
+      ],
+      "honestAssessment": "The incumbent genre publishes 100 to 250 interchangeable Ganesh group names and never states how long a WhatsApp group subject may be; several still imply 25 characters, a figure dead since February 2023. This post is the only one carrying the ceiling with a provenance and a date — 128 characters and 2,048 for the description in Meta's own Groups API reference of 16 June 2026, 100 in the consumer app since February 2023 — and it says plainly where the evidence stops: the 128 is documented for an API construct capped at eight participants, the 100 is secondary reporting of a beta, WhatsApp's consumer Help Center publishes no figure at all, and no figure exists anywhere for how much of a name a chat list shows, so none is invented. It is also the only version that treats the name as a persistent label rather than a one-off string, that ties naming to invite-link discoverability using a peer-reviewed study of 5,000 Indian groups, and that sets Kannada only in script verified through the Wikipedia API while romanising the words it could not verify and saying so. Against that: the real competitor set was never fetched, because WebSearch is US-locale only and returns deity-name pages for this keyword; the sourcing sits at the floor of four with two pages from one Meta domain, after three candidate sources (an entitativity paper, a WhatsApp-usernames onomastics paper, both open-access) returned HTTP 403 and the search budget ran out; and there appears to be no peer-reviewed research on messaging-platform group naming at all, so the mechanism is asserted from platform documentation rather than demonstrated. subhsandesh.in has no Ganesh authority whatever — the template shipped on 2026-09-10 and has created zero pages, so every first-party number here is platform-wide across 15 page types and is captioned that way. Expect months, not weeks, and do not expect this to outrank a 250-name list on volume; it should compete on the constraint question the lists never answer. One housekeeping note for the reviewer: the Harvard Misinformation Review URL was on its last free slot in USED-SOURCES.md and this post spends it, on a different finding from the ganesh-chaturthi-images post that used it first."
+    },
+    "generatedAt": "2026-09-10T00:00:00.000Z"
+  }
+}

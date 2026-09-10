@@ -117,7 +117,7 @@
       "poolRelevance": 1250,
       "priority": 3,
       "gateAgainst": "ganesh-chaturthi-captions-for-instagram",
-      "separation": "A WhatsApp group name is a persistent 25-character label for a mandal or family group. A caption is a one-time post. Different artefact, different length constraint.",
+      "separation": "A WhatsApp group name is a persistent label for a mandal or family group; a caption is a one-time post. Different artefact, different length constraint, different lifetime. CORRECTED 2026-09-10: this entry originally said '25-character', a figure I wrote from memory and did not check. The agent verified the real limits — 128 characters in Meta's Groups API reference (page dated 16 June 2026) and 100 in the consumer app since February 2023, up from 25. The stale 25 is what the listicle genre still implies, so correcting it became the post's differentiator. Chat-list truncation has no published figure anywhere and the post says so.",
       "researchLane": "Naming conventions and character limits in messaging platforms; group identity research.",
       "angleSeed": "Name against the actual WhatsApp constraint and say what it is, which no listicle does.",
       "formatRisk": "This is a list-of-names keyword and will want to become 200 names of padding. Do not pad: the band is the band, and a shorter list with the constraint explained is the differentiator. Include the Kannada fold only if you can set the script correctly.",
