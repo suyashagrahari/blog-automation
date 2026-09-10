@@ -1,0 +1,435 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ganesh Chaturthi Speech: What Fits in Two Minutes Aloud",
+    "slug": "ganesh-chaturthi-speech",
+    "excerpt": "A two-minute Ganesh Chaturthi speech is 200-240 words, because speeches run at 100-120 words a minute while the same text read aloud runs at 183 wpm. Full 220-word script, a three-minute extension, and a rehearsal method with evidence behind it.",
+    "metaTitle": "Ganesh Chaturthi Speech — 220 Words for Two Minutes",
+    "metaDescription": "A Ganesh Chaturthi speech runs at 100-120 words a minute, so two minutes is 200-240 words, not an essay page. Full 220-word script plus a 3-minute version.",
+    "keywords": "ganesh chaturthi speech, ganesh chaturthi speech in english, 2 minute ganesh chaturthi speech, ganesh chaturthi speech for students, short ganesh chaturthi speech, ganesh chaturthi speech 10 lines",
+    "canonicalURL": "https://subhsandesh.in/blog/ganesh-chaturthi-speech",
+    "ogType": "article",
+    "tags": [
+      "ganesh-chaturthi",
+      "speech",
+      "school",
+      "indian-festivals",
+      "public-speaking"
+    ],
+    "keyTakeaways": [
+      "A two-minute Ganesh Chaturthi speech is 200-240 words, budgeted at the 100-120 words-per-minute rate that interpreting research treats as optimal for English speeches.",
+      "The same text read aloud runs at 183 wpm (meta-analysis of 77 studies, 5,965 participants), so a 366-word draft times as two minutes at your desk and overruns on stage.",
+      "Rehearse aloud, not silently: in 7- to 10-year-olds, recognition of words read aloud beat words read silently across two experiments (n = 41 and n = 40).",
+      "A Hindi or Marathi delivery of the same two minutes is a different word count, because languages converge on about 39 bits per second by trading syllable rate against information per syllable.",
+      "SubhSandesh has no Ganesh Chaturthi page-creation data at all: the template went live 2026-09-10, four days before the festival, against 3,894 personalised pages created since 2026-03-12, across 15 page types."
+    ],
+    "faqs": [
+      {
+        "question": "How many words is a 2 minute Ganesh Chaturthi speech?",
+        "answer": "About 200 to 240 words. Speeches are delivered at roughly 100 to 120 words a minute, so two minutes is a 200-240 word budget. Anything near 360 words is a two-minute read but a three-minute speech."
+      },
+      {
+        "question": "How do I start a Ganesh Chaturthi speech?",
+        "answer": "Greet the room, then say how many points you have. \"Good morning, respected teachers and my dear friends — today I want to tell you three things about Ganesh Chaturthi\" gives the hall a map in one sentence, which a listener needs and a reader does not."
+      },
+      {
+        "question": "Is a Ganesh Chaturthi speech the same as an essay?",
+        "answer": "No. An essay is measured in words and can be re-read; a speech is measured in minutes and is heard once. The same text that fills a 200-word essay brief will not fill a two-minute slot, and a 500-word essay read aloud runs close to five minutes."
+      },
+      {
+        "question": "How fast should I speak in a school assembly?",
+        "answer": "Around 100 to 120 words a minute, which is the rate interpreting research treats as optimal for English speeches. It feels slow when you are nervous, because nerves push the rate up."
+      },
+      {
+        "question": "Should I memorise the speech word for word?",
+        "answer": "Better to memorise the structure and the opening and closing lines, and keep the middle slightly loose. Word-for-word memorisation makes a single stumble unrecoverable, while a remembered map lets you rebuild the sentence live."
+      },
+      {
+        "question": "What is the best way to practise a speech?",
+        "answer": "Out loud, not silently. Reading aloud produces measurably better memory than reading silently, and this has been tested in 7- to 10-year-olds across two experiments with 41 and 40 children. Record one run and check the clock against your word budget."
+      },
+      {
+        "question": "How long should a Ganesh Chaturthi speech be for school?",
+        "answer": "Two minutes is the usual assembly slot, which is 200 to 240 words. Three minutes gets you 300 to 360. Five minutes is longer than most morning assemblies allow, so confirm the slot before you write to it."
+      },
+      {
+        "question": "Can I use the same script in Hindi or Marathi?",
+        "answer": "Not by translating it word for word. Languages trade syllable rate against how much each syllable carries, converging on a similar information rate, so the same two minutes holds a different number of words. Draft in the language you will speak, then time it aloud."
+      },
+      {
+        "question": "What should a 10 line Ganesh Chaturthi speech cover?",
+        "answer": "Ten lines is roughly a one-minute slot, so about 100 to 120 words: a greeting, who Ganesha is, the ten days and Anant Chaturdashi, the visarjan, and a closing Ganpati Bappa Morya. Drop the birth story and the personal line at that length."
+      },
+      {
+        "question": "What do I cut first if my speech is too long?",
+        "answer": "Cut the third point's supporting detail and any adjective doing no work, but never the numbered signposts or the closing line. Losing the map costs the hall more than losing a fact."
+      },
+      {
+        "question": "Is Ganesh Chaturthi 2026 on the 14th of September?",
+        "answer": "Yes, Ganesh Chaturthi 2026 falls on Monday 14 September, and the ten days end at Anant Chaturdashi. If your speech names the date, name the day of the week too — it is the detail an assembly audience actually registers."
+      },
+      {
+        "question": "Should I write my own speech or read one out?",
+        "answer": "Write your own last two sentences at minimum. The line about what happens in your own house on the tenth day is the only part nobody else in the assembly can give, and it is the part people remember."
+      }
+    ],
+    "coverImageQuery": "indian schoolgirl speaking school assembly microphone",
+    "coverImagePrompt": "A photorealistic scene of an Indian schoolgirl in uniform speaking at a simple lectern in a school assembly hall, a small Ganesha murti with marigolds on a table beside her. Morning light through high windows, rows of seated classmates softly out of focus behind her. Clean negative space in the upper third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ganesh Chaturthi Speech: What Fits in Two Minutes Aloud\n\nA two-minute Ganesh Chaturthi speech is **200 to 240 words** — not a page of essay. Speeches are delivered at roughly 100 to 120 words a minute, while a fluent reader reads the same text aloud at 183 wpm, so a script that looks like two minutes on paper overruns badly when it is spoken. Below is a 220-word script timed to that rate, a three-minute extension, and a rehearsal method with evidence behind it.\n\nWhat we can and cannot add: SubhSandesh has 3,894 personalised pages created since 2026-03-12, across 15 page types, and 49.6% of shared pages are opened on a phone (22,817 of 46,005 views). But no Ganesh Chaturthi page-creation data exists at all — the template went live 2026-09-10, four days before the festival on Monday 14 September 2026. The timing here comes from published research, with the arithmetic shown.\n\n## What a Ganesh Chaturthi speech is, and where the essay stops helping\n\nA Ganesh Chaturthi speech is a spoken text of one to three minutes, delivered aloud to a school assembly, that says who Ganesha is, why the festival runs ten days, and what the visarjan means. It is not a shortened essay: it is measured in minutes, heard once, and usually delivered from memory by a child in front of people watching.\n\nThose constraints change the writing. An essay can be re-read at whatever pace the reader likes; a speech is graded on whether the hall follows it the first time. An essay brief says \"200 words\"; a speech brief says \"two minutes\" — and until you convert that into words, you do not have a brief at all.\n\n## The word budget: turning minutes into words\n\nInterpreting research puts the optimal delivery rate for an English speech at [100 to 120 words per minute](https://www.jostrans.org/article/view/7402) — the figure simultaneous interpreters use to judge whether a speaker is too fast. Budget against it: that is the rate a room actually takes speech in.\n\nReading is much faster. Marc Brysbaert's meta-analysis of 77 studies and 5,965 participants puts the [average oral reading rate at 183 wpm](https://www.sciencedirect.com/science/article/pii/S0749596X19300786), against 238 wpm for silent non-fiction; rates are lower for children, though he publishes no per-age figure and neither will we.\n\nThat 183-against-110 gap is why school speeches overrun: time your draft off the page and you have timed it at reading speed.\n\n| Slot the school gives you | Word budget at 100–120 wpm | The same text read aloud at 183 wpm | What that budget holds |\n|---|---|---|---|\n| 1 minute | 100–120 words | 183 words | A greeting, one idea, a closing line |\n| 2 minutes | 200–240 words | 366 words | Three short points, signposted |\n| 3 minutes | 300–360 words | 549 words | Three points, a story, one personal line |\n\nColumn two is your ceiling; column three is the trap. A 366-word draft feels like two minutes at your desk and lands past three on stage.\n\n## A two-minute Ganesh Chaturthi speech, timed at 220 words\n\nAt 220 words, mid-band for a two-minute slot. The count is announced up front and each point numbered aloud, because a listener cannot look back.\n\n> Good morning, respected teachers and my dear friends.\n>\n> Today is Ganesh Chaturthi, and I want to tell you three things: who we are welcoming, why he stays ten days, and what we do on the last one.\n>\n> First, who. Ganesha is the one with the elephant's head, the one we call Vighnaharta — the remover of obstacles. Before a wedding, before an exam, before the first page of a new notebook, his name comes first. He is the god of beginnings.\n>\n> Second, why ten days. The festival starts on the fourth day of the bright fortnight of Bhadrapada and ends on Anant Chaturdashi. For those ten days Ganesha is not a picture on a wall. He is a guest in the house. Somebody wakes him, offers him modak, sings his aarti in the evening, and says goodnight. In some houses that job usually belongs to the youngest person who can be trusted with a diya.\n>\n> Third, the last day. We carry him to the water and let him go, and we say: Ganpati Bappa Morya, pudhchya varshi lavkar ya. Come back soon next year. We practise letting go of the murti so that letting go of other things gets easier.\n>\n> So when you fold your hands today, ask him for one obstacle removed. Just one.\n>\n> Ganpati Bappa Morya. Thank you.\n\n## The three-minute version: additions, not a rewrite\n\nTo reach 300 to 360 words, do not rewrite. Add three blocks of about 40 words and leave every signpost where it is: the birth story in four sentences between points one and two, one line on the clay murti and the visarjan after point three, and a single personal sentence about what happens in your own house on the tenth day.\n\nThat last one is the sentence people remember, and the only one nobody else in the assembly can give. Keep it concrete: a name, a dish, a room.\n\n## What a listener needs that a reader does not\n\nA reader who loses the thread scrolls back. A listener cannot, so the speech must carry its own map — the work \"I want to tell you three things\" does: it tells the hall how many landings there are.\n\nThere is a ceiling on what you can push through, too. Brysbaert concludes reading rates line up with maximum listening speed, and Coupé and colleagues found that across [17 languages information rate converges on about 39 bits per second](https://advances.sciencemag.org/content/advances/5/9/eaaw2594.full.pdf) despite very different syllable rates. Speaking faster does not deliver more; the surplus is lost.\n\nSo: number your points aloud, repeat the closing phrase, and put the line that matters at the very end.\n\n## Giving it in Hindi or Marathi changes the words, not the minutes\n\nThe two minutes stay two minutes; the word count does not. That 39 bits per second convergence means languages trade syllable rate against how much each syllable carries, so a Marathi or Hindi delivery of the same content is a different number of words.\n\nDo not translate the 220-word English script word for word and assume it still times. Draft in the language you will speak, then time it aloud and cut.\n\nTo check the wording against the ritual, the [written Ganesh Chaturthi build guide](https://subhsandesh.in/guides/happy-ganesh-chaturthi) sets out the five offerings and the aarti order step by step.\n\n## How to rehearse it so it holds under nerves\n\n### 1. Read it aloud, never in your head\n\nReading aloud is measurably better for memory, and measured in this exact age group: in 7- to 10-year-olds, [recognition of words read aloud beat words read silently](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cdev.13247) across two experiments, n = 41 and n = 40, for real words and invented ones alike. Silent revision is the wrong tool.\n\n### 2. Time it three times with a phone\n\nRecord the first run and check the clock, not your instinct. First runs come in fast: nerves push the rate up, away from the 100 to 120 wpm you budgeted for.\n\n### 3. Learn the four signposts, not the sentences\n\nMemorise \"three things — who, ten days, last day\" and the closing line. If the middle wording slips, the map holds and you rebuild the sentence live. Word-for-word memorising makes a stumble unrecoverable.\n\n### 4. Over-rehearse the first line and the last\n\nThose are the two moments the room is fully listening, and the two you will be most nervous in. Get them past boredom; let the middle stay loose.\n\n## Where a speech is the wrong choice, and where our page is too\n\nIf the slot is five minutes of class activity rather than a podium, a short reading with the class joining the aarti does more. And if a child genuinely cannot stand up in front of the hall, a written piece handed to the teacher beats a bad two minutes.\n\nOur page is no substitute for the speech either: you send it afterwards, and it needs a phone and a link at the other end.\n\n| What you hand the room | Time it takes | Platform-wide SubhSandesh data |\n|---|---|---|\n| A two-minute speech | 2 minutes, live | None — no Ganesh page data exists |\n| A printed script | Their own reading pace | Not applicable |\n| A Ganesh page sent after | ~90 seconds to perform | 49.6% of shared pages are opened on a phone (22,817 of 46,005 views) |\n\nThe first row is what matters: we have no Ganesh number to give you, and would rather say so than borrow one. Platform-wide, 96.0% of started pages are actually published and shared (3,737 of 3,894).\n\nOn leaving it late, the closest thing we have is a different festival. Of the 79 Raksha Bandhan 2026 pages finished in time, 55.7% were built on the day itself and 86.1% within 24 hours of it — but that is **Raksha Bandhan, not Ganesh Chaturthi**, a one-day festival against Ganesh Chaturthi's ten, and **n = 89 is small**, so no per-template, per-region or per-language rate can be drawn from it. Read it as a direction only: people prepare on the day, and a speech does not survive being written that morning.\n\nTo send something after the assembly: the [Ganesh Chaturthi page the recipient performs themselves](https://subhsandesh.in/happy-ganesh-chaturthi) takes about as long to build as one rehearsal; [browse the rest](https://subhsandesh.in/templates) if this is not the occasion.\n\n## Watch the page get built\n\nNinety seconds, start to finish — the aarti going round, the five offerings, and the box at the end where they write a line back to you: [Ganesh Chaturthi Wishes Online — Full Walkthrough](https://www.youtube.com/watch?v=mpWiv5T59QY). More page walkthroughs on Instagram: [@subhsandesh_official](https://www.instagram.com/subhsandesh_official).\n\n## Sources\n\n- Brysbaert, [\"How many words do we read per minute? A review and meta-analysis of reading rate\"](https://www.sciencedirect.com/science/article/pii/S0749596X19300786), *Journal of Memory and Language* — 9 August 2019\n- Li, [\"Coping Strategies for Fast Delivery in Simultaneous Interpretation\"](https://www.jostrans.org/article/view/7402), *The Journal of Specialised Translation* — 25 January 2010\n- Pritchard, Heron-Delaney, Malone and MacLeod, [\"The Production Effect Improves Memory in 7- to 10-Year-Old Children\"](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cdev.13247), *Child Development* — 17 May 2019\n- Coupé, Oh, Dediu and Pellegrino, [\"Different languages, similar encoding efficiency\"](https://advances.sciencemag.org/content/advances/5/9/eaaw2594.full.pdf), *Science Advances* — 4 September 2019\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-speech#post",
+        "isAccessibleForFree": true,
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Ganesh Chaturthi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+              "https://www.wikidata.org/wiki/Q929250"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Public speaking",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Public_speaking",
+              "https://www.wikidata.org/wiki/Q18342738"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Ganesha",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ganesha",
+              "https://www.wikidata.org/wiki/Q1579"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Words per minute",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Words_per_minute",
+              "https://www.wikidata.org/wiki/Q569389"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "School assembly",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/School_assembly",
+              "https://www.wikidata.org/wiki/Q7432324"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Speech",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Speech",
+              "https://www.wikidata.org/wiki/Q52946"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "How many words do we read per minute? A review and meta-analysis of reading rate",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0749596X19300786",
+            "datePublished": "2019-08-09",
+            "author": {
+              "@type": "Person",
+              "name": "Marc Brysbaert"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Memory and Language"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Coping Strategies for Fast Delivery in Simultaneous Interpretation",
+            "url": "https://www.jostrans.org/article/view/7402",
+            "datePublished": "2010-01-25",
+            "author": {
+              "@type": "Person",
+              "name": "Changshuan Li"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Journal of Specialised Translation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Production Effect Improves Memory in 7- to 10-Year-Old Children",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cdev.13247",
+            "datePublished": "2019-05-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Child Development"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche",
+            "url": "https://advances.sciencemag.org/content/advances/5/9/eaaw2594.full.pdf",
+            "datePublished": "2019-09-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Science Advances"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-speech#rehearsal",
+        "name": "How to rehearse a Ganesh Chaturthi speech so it holds under nerves",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Read it aloud, never in your head"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Time it three times with a phone"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Learn the four signposts, not the sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Over-rehearse the first line and the last"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/ganesh-chaturthi-speech#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many words is a 2 minute Ganesh Chaturthi speech?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "About 200 to 240 words. Speeches are delivered at roughly 100 to 120 words a minute, so two minutes is a 200-240 word budget. Anything near 360 words is a two-minute read but a three-minute speech."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I start a Ganesh Chaturthi speech?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Greet the room, then say how many points you have. \"Good morning, respected teachers and my dear friends — today I want to tell you three things about Ganesh Chaturthi\" gives the hall a map in one sentence, which a listener needs and a reader does not."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is a Ganesh Chaturthi speech the same as an essay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. An essay is measured in words and can be re-read; a speech is measured in minutes and is heard once. The same text that fills a 200-word essay brief will not fill a two-minute slot, and a 500-word essay read aloud runs close to five minutes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How fast should I speak in a school assembly?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Around 100 to 120 words a minute, which is the rate interpreting research treats as optimal for English speeches. It feels slow when you are nervous, because nerves push the rate up."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I memorise the speech word for word?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Better to memorise the structure and the opening and closing lines, and keep the middle slightly loose. Word-for-word memorisation makes a single stumble unrecoverable, while a remembered map lets you rebuild the sentence live."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the best way to practise a speech?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Out loud, not silently. Reading aloud produces measurably better memory than reading silently, and this has been tested in 7- to 10-year-olds across two experiments with 41 and 40 children. Record one run and check the clock against your word budget."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long should a Ganesh Chaturthi speech be for school?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Two minutes is the usual assembly slot, which is 200 to 240 words. Three minutes gets you 300 to 360. Five minutes is longer than most morning assemblies allow, so confirm the slot before you write to it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I use the same script in Hindi or Marathi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not by translating it word for word. Languages trade syllable rate against how much each syllable carries, converging on a similar information rate, so the same two minutes holds a different number of words. Draft in the language you will speak, then time it aloud."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should a 10 line Ganesh Chaturthi speech cover?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ten lines is roughly a one-minute slot, so about 100 to 120 words: a greeting, who Ganesha is, the ten days and Anant Chaturdashi, the visarjan, and a closing Ganpati Bappa Morya. Drop the birth story and the personal line at that length."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What do I cut first if my speech is too long?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cut the third point's supporting detail and any adjective doing no work, but never the numbered signposts or the closing line. Losing the map costs the hall more than losing a fact."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Ganesh Chaturthi 2026 on the 14th of September?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Ganesh Chaturthi 2026 falls on Monday 14 September, and the ten days end at Anant Chaturdashi. If your speech names the date, name the day of the week too — it is the detail an assembly audience actually registers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I write my own speech or read one out?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Write your own last two sentences at minimum. The line about what happens in your own house on the tenth day is the only part nobody else in the assembly can give, and it is the part people remember."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ganesh chaturthi speech",
+    "angle": "Wins by being the only Ganesh Chaturthi speech page that converts the slot in minutes into a word budget against a stated, sourced delivery rate - 100-120 wpm for a speech against the 183 wpm oral reading rate from a 77-study meta-analysis - and hands over a 220-word script timed to it, while stating that SubhSandesh has no Ganesh Chaturthi page-creation data at all because the template went live 2026-09-10.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "/happy-ganesh-chaturthi"
+    ],
+    "factsUsed": [
+      "3,894 personalised pages created since 2026-03-12, across 15 page types — measured 2026-09-09",
+      "49.6% of shared pages are opened on a phone (22,817 of 46,005 views) — measured 2026-09-09",
+      "No Ganesh Chaturthi page-creation data exists at all: the /happy-ganesh-chaturthi template went live 2026-09-10, four days before the festival — measured 2026-09-10",
+      "96.0% of started pages are actually published and shared (3,737 of 3,894) — measured 2026-09-09",
+      "Of the 79 Raksha Bandhan 2026 pages finished in time, 55.7% were built on the day itself and 86.1% within 24 hours of it — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0749596X19300786",
+        "stat": "Average oral reading rate for adults in English is 183 words per minute, from 77 studies and 5,965 participants; silent reading of non-fiction averages 238 wpm, rates are lower for children, and reading rates are in line with maximum listening speed",
+        "publishedDate": "2019-08-09"
+      },
+      {
+        "url": "https://www.jostrans.org/article/view/7402",
+        "stat": "A rate between 100 and 120 words per minute is widely recognised as optimal for English speeches, equivalent to 150-180 syllables per minute for Chinese",
+        "publishedDate": "2010-01-25"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cdev.13247",
+        "stat": "In 7- to 10-year-old children, recognition of words read aloud was better than for words read silently, across two experiments (n = 41 and n = 40) and for both familiar words and novel nonwords",
+        "publishedDate": "2019-05-17"
+      },
+      {
+        "url": "https://advances.sciencemag.org/content/advances/5/9/eaaw2594.full.pdf",
+        "stat": "Across a corpus of 17 languages, information rate converges on about 39 bits per second despite wide differences in speech rate and information per syllable",
+        "publishedDate": "2019-09-04"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "NOT VERIFIABLE AS WORDED. No top 5 was measured: WebSearch is exhausted for this session (200/200, shared across the batch's concurrent agents) and every scripts/serp.mjs Brave attempt returned HTTP 429 across a backing-off retry loop. The claim is asserted only against the cluster's own 43 posts and 428 H1/H2 headings, in which no heading concerns a speech and 'speech' occurs 3 times in any body, all incidental. Closes when a ranked SERP for 'ganesh chaturthi speech' can be measured."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "CANNOT BE CHECKED. No competitor page was fetched, for the reason above. Sibling separation was checked instead and in full: zero shared source URLs and zero shared source domains with ganesh-chaturthi-essay, ganesh-chaturthi-katha-and-story or ganesh-chaturthi-activities-for-kids, and no heading, model paragraph or sentence carried over from any of them. Closes when a top-5 fetch is possible."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "PARTIALLY UNGROUNDED. The fan-out list in research/ganesh-chaturthi-speech.md was derived from the cluster corpus and the sibling JSONs, not from a measured SERP's People Also Ask or related searches, because WebSearch is exhausted and Brave returned 429 throughout. The H2s do map to that list; the list itself is unverified against live query data."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "NOT CHECKED. The Strapi slug-collision endpoint (strapi.subhsandesh.in/api/articles?filters[slug][$eq]=ganesh-chaturthi-speech) was not queried from this agent. Closes with one request before publishing."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "4 outbound links, which is inside the 3-6 band, and all four were fetched today and verified to contain the figure cited. Recorded as failed on one point only: for Li 2010 and Pritchard 2019 the cited figures were read in the ABSTRACT, not the full text. Both figures appear verbatim in those abstracts."
+        }
+      ],
+      "honestAssessment": "It is the only page in this cluster that treats the slot as a word budget and shows the arithmetic: 100-120 wpm for a delivered speech against Brysbaert's 183 wpm oral reading rate from 77 studies and 5,965 participants, which is the number that explains why school speeches overrun, plus a 220-word script timed to it and a rehearsal instruction grounded in a production-effect study run on 7- to 10-year-olds. None of that appears on the essay sibling or anywhere in the 43 posts already written, and no source is shared with any of them. The honest weakness is that the SERP gate was NOT MEASURED - WebSearch is exhausted and Brave returned 429 on every attempt - so the separation rests on the corpus check and the substantive-duplication read rather than on ranked results, and the 'claim none of the top 5 make' item is asserted, not verified. Domain authority here is far below the education and greeting sites holding this query, so this competes on being the only answer to 'how many words', not on authority; ranking takes months and is not predicted."
+    },
+    "generatedAt": "2026-09-10T11:31:09Z"
+  }
+}
