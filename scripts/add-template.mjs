@@ -37,12 +37,24 @@ const TEMPLATES = {
     title: "Happy Ganesh Chaturthi",
     url: "/happy-ganesh-chaturthi",
     category: "Festival",
+    // The page's own config.ts sets this emoji, and `category: "festival"`.
+    // "Festival" capitalised is the Strapi convention — Holi, Eid and both
+    // rakhi rows use it.
     emoji: "🪔",
     order: 22,
     featured: false,
-    // Strapi caps this field at 220 characters.
+    // Strapi caps this field at 220 characters, and config.ts's own description
+    // is 265, so it has to be condensed rather than copied.
+    //
+    // Rewritten 2026-09-10. The previous wording — "a page they perform
+    // themselves … offer the durva, kumkum, flowers and modak, circle the aarti
+    // thali" — came from the TEMPLATE_LINKS blurb in app/lib/prompt.ts, not from
+    // this template's config.ts, and it describes interaction the page does not
+    // have: config.ts says "Nothing to tap through — they open the link and
+    // scroll", and the aarti thali circles on its own. This version keeps only
+    // what config.ts and the page's own walkthrough video both state.
     description:
-      "A Ganesh Chaturthi page they perform themselves — offer the durva, kumkum, flowers and modak, circle the aarti thali, and write a prarthana back. Add your photo and a card for their story.",
+      "One long page they scroll: your greeting, the aarti with the lamp going round, what the five offerings are for, your photo, and a box where they write one line back to you. Plus a card for their story.",
   },
 };
 
