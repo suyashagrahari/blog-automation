@@ -1,0 +1,331 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Online Gift Kaise Banaye: Ek Page Jo Aap Khud Banate Hain",
+    "slug": "online-gift-kaise-banaye",
+    "excerpt": "Online gift kaise banaye: ek template chuniye, photo aur ek memory ikattha kijiye, builder mein likhiye, password lagaiye, link bhejiye. Plus wo farak jo SERP nahi pakadta — banana, bhejna aur kharidna teen alag kaam hain.",
+    "metaTitle": "Online Gift Kaise Banaye — Banana Aur Bhejna Alag Hai",
+    "metaDescription": "Online gift kaise banaye: template chuniye, likhiye, password lagaiye, link bhejiye. 94.1% shuru ki gayi pages publish hoti hain — aur banana, bhejna alag hai.",
+    "keywords": "online gift kaise banaye, online gift kaise banate hain, digital gift kaise banaye, gift page kaise banaye, anniversary gift kaise banaen",
+    "canonicalURL": "https://subhsandesh.in/blog/online-gift-kaise-banaye",
+    "ogType": "article",
+    "tags": [
+      "online gift",
+      "hinglish",
+      "digital gift",
+      "how to",
+      "code-switching"
+    ],
+    "keyTakeaways": [
+      "`Banaye`, `bheje` aur `kharide` teen alag kaam hain — lekin `online gift kaise banaye` ki India SERP par top das mein se aath results gift-delivery ya gift-shop pages hain.",
+      "Query mein `page` ya `website` shabd jodte hi SERP palat jaata hai aur banane wale tools upar aa jaate hain — ek shabd ka farak.",
+      "Paanch step: template chuniye, teen photo aur ek memory, builder ke andar likhiye, password lagaiye, phir link bhejiye. 94.1% shuru ki gayi pages publish ho jaati hain.",
+      "SubhSandesh par teen templates hi 74.3% pages banate hain — \"I love you\" page 25.8%, digital bouquet 24.6%, apology dashboard 23.9%.",
+      "Gift ke andar bhasha neutral nahi hoti: code-switching par hue kaam ke mutabik multilingual jodon mein bhasha badalna khud intimacy ka sanket hai."
+    ],
+    "faqs": [
+      {
+        "question": "Online gift banane ke liye coding ya designing aani chahiye?",
+        "answer": "Nahi. Template pehle se bana hota hai aur woh aapse sirf naam, photo aur do-teen lines maangta hai. SubhSandesh par 94.1% shuru ki gayi pages publish ho jaati hain, jo batata hai ki rukavat technical nahi hoti."
+      },
+      {
+        "question": "Kya sab kuch phone se ho jaayega ya laptop chahiye?",
+        "answer": "Phone se ho jaata hai, aur zyadatar log wahi karte hain. 49.0% shared pages phone par hi khole jaate hain (24,493 of 49,968 views), to banane aur dekhne dono ka default screen phone hi hai."
+      },
+      {
+        "question": "Agar page mein galti reh jaaye to kya kar sakte hain?",
+        "answer": "Pehli save ke baad log lautkar theek karte hain — SubhSandesh par pehli save se aakhri edit ka median gap 6.2 ghante hai (n=1,125). Isliye link bhejne se pehle ek baar poora page khud padh lena sabse asaan bachaav hai."
+      },
+      {
+        "question": "Kya koi aur bhi mera page dekh sakta hai?",
+        "answer": "Link jiske paas hai woh khol sakta hai, isliye 40.6% creators share karne se pehle password laga dete hain (1,767 of 4,357). Bina password ke ek forward kiya gaya link kisi ke paas bhi pahunch sakta hai."
+      },
+      {
+        "question": "Recipient ko koi app download karna padega kya?",
+        "answer": "Nahi, page browser mein khulta hai — link tap kijiye aur bas. Isi wajah se yeh us waqt kaam aata hai jab aap doosre sheher ya desh mein hain."
+      },
+      {
+        "question": "Online gift aur gift card mein kya farak hai?",
+        "answer": "Gift card paisa hai jo aap transfer karte hain; online gift ek page hai jo aap likhte hain. Flipkart aur Amazon jaise store gift card bechte hain, aur wahi is query ke aadhe results bhi hain — lekin woh banane wala kaam nahi hai."
+      },
+      {
+        "question": "Digital gift kaise banaye — kya yeh koi alag cheez hai?",
+        "answer": "Nahi, `digital gift kaise banaye` aur `online gift kaise banaye` ek hi kaam ke do naam hain. Dono ka matlab hai ek page banakar uska link bhejna, na ki koi saamaan order karna."
+      },
+      {
+        "question": "Shaadi ki saalgirah ke liye bhi yahi tareeka chalega?",
+        "answer": "Haan, sirf template badalta hai. Autocomplete mein `anniversary gift kaise banaen` lagbhag 600 monthly searches par baithti hai, to demand asli hai — lekin process wahi paanch step wala rehta hai."
+      },
+      {
+        "question": "Kya main page Devanagari mein likh sakta hoon?",
+        "answer": "Likh sakte hain, aur agar recipient Devanagari aaram se padhta hai to wahi behtar hai. Zyadatar log Roman script mein Hindi likhte hain kyunki wahi unka rozana ka keyboard hai — jo aap WhatsApp par use karte hain, wahi theek hai."
+      },
+      {
+        "question": "Agar recipient Hindi bilkul nahi padhta to?",
+        "answer": "To poora page English mein rakhiye, lekin ek line apni bhasha mein rehne dijiye. Code-switching par kiye gaye ethnographic kaam ke mutabik multilingual jodon mein bhasha badalna khud ek sanket hota hai, na ki sirf translation."
+      }
+    ],
+    "coverImageQuery": "indian couple phone message hinglish night",
+    "coverImagePrompt": "A photorealistic close-up of a young Indian man's hands holding a phone at night, the screen glowing warm with a personalised message page open. Soft amber lamplight, a cluttered desk with a chai glass just out of focus, shallow depth of field, clean negative space along the top for a title overlay, 16:9. No readable on-screen text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Online Gift Kaise Banaye: Ek Page Jo Aap Khud Banate Hain\n\nOnline gift banane ka matlab hai ek page khud banana aur uska link bhejna — koi parcel nahi, koi delivery date nahi. SubhSandesh par sabse zyada banayi jaane wali cheez \"I love you\" page hai — 1,125 pages, 25.8% of everything created — aur uske turant baad digital bouquet, 1,070 pages, 24.6%.\n\nTareeka paanch step ka hai: template chuniye, photo aur ek asli memory ikattha kijiye, usi builder ke andar likhiye, password lagaiye, phir link bhejiye. 94.1% shuru ki gayi pages actually publish aur share hoti hain (4,098 of 4,357), yaani jo log shuru karte hain wo lagbhag hamesha khatam bhi kar lete hain.\n\nIs page par teen cheezein hain jo baaki results par nahi milengi: `banaye` aur `bheje` ka farak, paanch step ka poora tareeka, aur woh sawaal jo koi nahi uthata — gift ke andar likhna Hindi mein chahiye ya English mein.\n\n## Banaye, bheje aur kharide: teen alag sawaal, ek hi jawaab\n\n`Banaye` (बनाएँ) ka matlab hai khud banana. `Bheje` (भेजें) ka matlab hai jo cheez already bani hai use pahunchana, aur `kharide` (ख़रीदें) ka matlab hai paise dekar lena. Teen alag kaam hain.\n\nSearch engine yeh farak nahi pakadta. `online gift kaise banaye` ki India SERP (DuckDuckGo, region in-en, 2026-09-16) par top das mein se aath results gift-delivery ya gift-shop pages hain — Winni, Flipkart ka gift card store, Giftana, Oye Happy, Amazon. Sirf do results wakai kuch banana sikhate hain.\n\nIska seedha matlab yeh hai: agar aap `banaye` type karke `bheje` ke results dekh rahe hain, galti aapki nahi hai. Wajah yeh hai ki `gift` ke saath commercial intent itna bhaari hai ki verb ka farak dab jaata hai.\n\nIsi axis par `online gift kaise bheje` ek alag query hai, aur uski demand bhi alag hai — India autocomplete data mein woh phrasing 558 se 1,250 monthly searches par baithti hai. Lekin `bheje` ek delivery sawaal hai, aur uska sahi jawaab ek courier hai, ek builder nahi.\n\n**Query mein noun daaliye.** Wahi din, wahi engine, lekin `gift page kaise banaye` search karne par SERP palat jaata hai: Canva ka Hindi website builder do jagah aata hai, ek Hindi wikiHow page banane ka tareeka sikhata hai, aur ek step-by-step guide aati hai. Ek shabd — `page` ya `website` — query ko shopping se banane ki taraf mod deta hai.\n\n## Online gift kaise banate hain: paanch step\n\nYeh sequence SubhSandesh ke apne data se nikla hai, kisi general how-to se nahi.\n\n### 1. Template pehle chuniye, likhne se pehle\n\nKhaali page ke saamne baithkar sochna sabse dheema tareeka hai. Template pehle chun lijiye, phir woh aapse poochta hai ki kya chahiye — naam, photo, teen lines.\n\nSubhSandesh par teen templates hi aadhe se zyada pages banate hain: [romantic \"I love you\" page](https://subhsandesh.in/love-gf) 25.8%, digital bouquet 24.6%, apology dashboard 23.9%. Yaani zyadatar log kuch naya invent nahi karte — wo ek bana-banaya frame uthate hain aur usme apni baat daalte hain.\n\n### 2. Teen photo aur ek asli memory ikattha kijiye\n\nPhotos pehle se phone gallery mein khoj lijiye, builder khulne ke baad nahi. Teen kaafi hain — ek purani, ek recent, ek jisme dono hain.\n\nMemory specific honi chahiye. \"Tum best ho\" kuch nahi kehta; \"wo raat jab station par train do ghante late thi aur tumne shikayat nahi ki\" sab kuch keh deta hai.\n\nEk hi memory kaafi hai. Paanch memories page ko timeline bana deti hain, aur timeline padhi nahi jaati — scroll ki jaati hai.\n\n### 3. Builder ke andar likhiye, Notes app mein nahi\n\nNotes app mein likha hua text page par aakar hamesha lamba lagta hai, kyunki layout alag hai. Seedha builder mein likhiye aur wahin kaatiye.\n\nSubhSandesh par pehli save se aakhri edit ke beech median 6.2 ghante ka gap hai (n=1,125, /love-gf par napa gaya). Matlab log ek baar likhkar chhodte nahi — wo lautkar kaat-chhaant karte hain, aur woh normal hai.\n\n### 4. Password lagaiye, phir hi link banaiye\n\nLink ek secret URL hai, aur secret URL forward ho jaate hain. 40.6% creators page share karne se pehle password laga dete hain (1,767 of 4,357) — yeh sabse zyada ignore kiya jaane wala step hai.\n\nPassword sirf privacy ke liye nahi hai. Woh timing control karta hai: aap link subah bhej sakte hain aur password raat ko, taaki page tab khule jab aap saath ho.\n\n### 5. Bhejne ke baad haath mat lagaiye\n\n49.0% shared pages phone par khulte hain (24,493 of 49,968 views). Yaani recipient shayad bus mein hai, ya office mein — page ka pehla impression wahin ban jaata hai.\n\nBhejne ke baad \"ek aur line add kar doon\" wali khujli hoti hai. Mat kijiye; jo bhej diya, woh bhej diya.\n\n## Gift ke andar kaunsi bhasha likhein: Hindi, English ya Hinglish\n\nYeh sawaal koi gift page nahi uthata, aur yahi sabse zaroori hai. Agar aap `kaise banaye` type kar rahe hain, aap Roman script mein Hindi likh rahe hain — to gift ke andar bhi wahi register natural hai.\n\nHinglish koi galti nahi hai, ek sthapit register hai. [Shodh Sari mein Shruti Verma ka 2024 ka paper](https://icert.org.in/sodh-sari-vol-3-issue-1/hinglish-today-analysis-of-linguistic-features-of-hinglish-language-in-contemporary-indian-literature/) Hinglish ko Hindi aur English ke fusion ke roop mein rakhta hai jo aaj ke Indian literature tak pahunch chuka hai, sirf bolchaal tak nahi.\n\nAur yeh sirf metro ki cheez nahi hai. [IJELLH mein Shubhada Deshpande ka 2019 ka adhyayan](https://ijellh.com/index.php/OJS/article/view/8438) kehta hai ki Hinglish youngsters ke beech \"not only in the megacities but even in rural India\" popular hai, aur multinational brands ne local sentiment pakadne ke liye jaanbujhkar Hinglish chuni.\n\nRishton mein bhasha badalna apne aap mein ek message hai. [Bracey Hong Parr ka 2013 ka ethnographic study](https://ojs.library.dal.ca/JUE/article/view/8239), jo paanch vyakti aur do couples ke interviews par aadharit hai, batata hai ki multilingual romantic relationships mein code switching intimacy ko badhane — ya jaanbujhkar seemit karne — ka kaam karta hai. Sample chhota hai, lekin nateeja seedha hai: bhasha ka chunaav neutral kabhi nahi hota.\n\nStructure ke level par bhi Hinglish random nahi hai. [Anmol Sahni ka 2025 ka paper Bhasha journal mein](https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2025/1/code-switching-in-south-asia-comparing-the-equival/) Hinglish par do models test karta hai aur paata hai ki Matrix Language Frame Model South Asian switching patterns ko behtar samjhaata hai — yaani ek bhasha frame banati hai aur doosri usme baithti hai.\n\nPractical rule: frame Hinglish rakhiye, lekin **jo line sabse zyada mehsoos karwani hai use apni pehli bhasha mein likhiye**. Baaki page English mein ho to chalega; \"mujhe tumhari yaad aati hai\" ko translate mat kijiye.\n\nScript ka sawaal alag hai. Agar aap dono Devanagari padhte hain to Devanagari mein likhiye — lekin aksar log Roman mein Hindi likhte hain, aur wahi unka rozana ka keyboard hai. Jo script aap WhatsApp par use karte hain, wahi page par use kijiye; gift woh jagah nahi hai jahan aap naya keyboard seekhein.\n\n## Kaunsa page kis mauke ke liye\n\nNeeche wahi paanch templates hain jo SubhSandesh par sabse zyada banaye gaye hain, unke asli counts ke saath (total 4,357 pages, measured 2026-09-15).\n\n| Page | Kis mauke ke liye | Kitne bane (share) | Agar yeh fit na ho |\n|---|---|---|---|\n| \"I love you\" page | Bina wajah, normal din | 1,125 (25.8%) | Digital bouquet |\n| Digital bouquet | Phool bhejne ka mann ho | 1,070 (24.6%) | \"I love you\" page |\n| Apology dashboard | Jhagde ke baad | 1,043 (23.9%) | Seedhi call |\n| Darling page | Dramatic, dark mood | 427 (9.8%) | \"I love you\" page |\n| Birthday page | Partner ka birthday | 352 (8.1%) | Digital bouquet |\n\nTakeaway saaf hai: teen templates hi 74.3% pages banate hain, to chunaav utna bada nahi hai jitna lagta hai. Ek disclosure zaroori hai — database yeh record karta hai ki kaunsa template khola gaya, yeh nahi ki page kisko mila, to `/love-gf` ka number yeh sabit nahi karta ki recipient girlfriend hi thi.\n\nAgar phool wala idea sahi lage to [digital bouquet banane wala template](https://subhsandesh.in/bouquet-gf) 12 blooms, ek card aur ek Deed of Devotion ke saath aata hai, aur tap karne par khulta hai.\n\n## \"Free\" ka matlab kya hai, aur main kya confirm nahi kar sakta\n\n`kaise banaye` ke saath log aksar `free` bhi type karte hain, aur India autocomplete mein `anniversary gift kaise banaen` jaisi queries 600 monthly searches par baithi hain. To seedhi baat.\n\n**Main aaj ka pricing confirm nahi kar sakta.** Mere paas jo first-party data hai usme koi verified free-tier ya paid-tier figure nahi hai, aur maine anuman lagane se better samjha ki yeh likh doon. Current terms ke liye [templates page](https://subhsandesh.in/templates) khud khol kar dekh lijiye.\n\nJo main keh sakta hoon woh yeh hai: 3,377 registered creators hain aur average 1.29 pages per creator, yaani log ek baar banakar lautte bhi hain.\n\n## Jab online gift banana hi galat choice hai\n\nAgar aap ek hi kamre mein hain, to link bhejna ajeeb hai. Haath mein dene layak cheez kharidiye — yeh page us waqt ke liye hai jab aap 2,000 km door hain.\n\nAgar recipient smartphone use nahi karta, ya uska data theek nahi chalta, to 49.0% mobile-open rate aapke khilaf kaam karega. Aur agar maafi maangni hai to page pehle mat bhejiye — pehle baat kijiye, page baad mein.\n\nEk aur limit: page ke andar likhi baat aapki hai, template ki nahi. Khoobsurat template ke andar khaali shabd khoobsurat nahi lagte.\n\n## Sources\n\n- Sahni, Anmol. \"Code-Switching in South Asia: Comparing the Equivalence Constraint and Matrix Language Frame Models with Hinglish.\" *Bhasha*, 4(1), published 1 July 2025.\n- Parr, Bracey Hong. \"'Baby, Te Amo': Code Switching as a Way to Develop and Limit Intimacy in Multilingual, Romantic Relationships.\" *Journal for Undergraduate Ethnography*, 3(2), 2013.\n- Deshpande, Shubhada K. \"Hinglish Hamari Identity: The Language of Advertising in India.\" *IJELLH*, 7(5), 28 May 2019.\n- Verma, Shruti. \"Hinglish Today: Analysis of Linguistic Features of Hinglish Language in Contemporary Indian Literature.\" *Shodh Sari*, 3(1), 1 January 2024.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/online-gift-kaise-banaye#post",
+        "inLanguage": "hi-Latn-IN",
+        "isAccessibleForFree": true,
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Hinglish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hinglish",
+              "https://www.wikidata.org/wiki/Q1499115"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Code-switching",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Code-switching",
+              "https://www.wikidata.org/wiki/Q255615"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Hindi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindi",
+              "https://www.wikidata.org/wiki/Q1568"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Code-Switching in South Asia: Comparing the Equivalence Constraint and Matrix Language Frame Models with Hinglish",
+            "url": "https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2025/1/code-switching-in-south-asia-comparing-the-equival/",
+            "datePublished": "2025-07-01",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Anmol Sahni"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bhasha: Journal of South Asian Linguistics, Philology and Grammatical Traditions (Edizioni Ca' Foscari)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "\"Baby, Te Amo\": Code Switching as a Way to Develop and Limit Intimacy in Multilingual, Romantic Relationships",
+            "url": "https://ojs.library.dal.ca/JUE/article/view/8239",
+            "datePublished": "2013",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Bracey Hong Parr"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal for Undergraduate Ethnography, Dalhousie University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hinglish Hamari Identity: The Language of Advertising in India",
+            "url": "https://ijellh.com/index.php/OJS/article/view/8438",
+            "datePublished": "2019-05-28",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Shubhada K. Deshpande"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Smart Moves Journal IJELLH"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hinglish Today: Analysis of Linguistic Features of Hinglish Language in Contemporary Indian Literature",
+            "url": "https://icert.org.in/sodh-sari-vol-3-issue-1/hinglish-today-analysis-of-linguistic-features-of-hinglish-language-in-contemporary-indian-literature/",
+            "datePublished": "2024-01-01",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Shruti Verma"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Shodh Sari — An International Multidisciplinary Journal (ICERT)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Online gift kaise banate hain: paanch step",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Template pehle chuniye, likhne se pehle"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Teen photo aur ek asli memory ikattha kijiye"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Builder ke andar likhiye, Notes app mein nahi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Password lagaiye, phir hi link banaiye"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Bhejne ke baad haath mat lagaiye"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "online gift kaise banaye",
+    "secondaryKeywords": [
+      "online gift kaise banate hain",
+      "digital gift kaise banaye",
+      "gift page kaise banaye",
+      "anniversary gift kaise banaen"
+    ],
+    "angle": "Wins by being the only post that treats `banaye` as a different question from `bheje` — showing that eight of the top ten India results for this Hinglish query answer the delivery question instead, and that adding the noun `page` flips the SERP — then answers the question nobody else raises, which language to write the gift in, grounded in the 25.8% / 24.6% / 23.9% split of what SubhSandesh creators actually build and four studies of Hindi-English code-mixing.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/templates",
+      "/love-gf",
+      "/bouquet-gf"
+    ],
+    "factsUsed": [
+      "#1 page type: \"I love you\" page (/love-gf) — 1,125 created, 25.8% of all pages — measured 2026-09-15",
+      "#2 page type: digital bouquet (/bouquet-gf) — 1,070 created, 24.6% of all pages — measured 2026-09-15",
+      "#3 page type: apology dashboard (/apology-dashboard) — 1,043 created, 23.9% of all pages — measured 2026-09-15",
+      "#4 page type: Darling romantic page (/darling) — 427 created, 9.8% of all pages — measured 2026-09-15",
+      "#5 page type: birthday page for a partner (/birthday-gf) — 352 created, 8.1% of all pages — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "3,377 registered creators — measured 2026-09-15",
+      "Average pages per registered creator: 1.29 — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2025/1/code-switching-in-south-asia-comparing-the-equival/",
+        "stat": "Applies the Equivalence Constraint and Matrix Language Frame models to Hinglish and argues the Matrix Language Frame Model better accounts for South Asian intra- and inter-sentential switching — i.e. one language supplies the frame and the other sits inside it. Peer-reviewed, open access; abstract read in full.",
+        "publishedDate": "2025-07-01"
+      },
+      {
+        "url": "https://ojs.library.dal.ca/JUE/article/view/8239",
+        "stat": "Ethnographic interviews with five individuals and two couples in multilingual romantic relationships; five forms of code switching emerged, and the relational function identified is increasing or limiting intimacy. Small sample, stated as such in the post.",
+        "publishedDate": "2013"
+      },
+      {
+        "url": "https://ijellh.com/index.php/OJS/article/view/8438",
+        "stat": "States that Hinglish is popular among youngsters \"not only in the megacities but even in rural India\", and that multinational brands such as Pepsi deliberately chose Hinglish to go with local sentiment.",
+        "publishedDate": "2019-05-28"
+      },
+      {
+        "url": "https://icert.org.in/sodh-sari-vol-3-issue-1/hinglish-today-analysis-of-linguistic-features-of-hinglish-language-in-contemporary-indian-literature/",
+        "stat": "Describes Hinglish as a linguistic fusion of Hindi and English that has gained widespread prevalence in India and now appears in contemporary Indian literature, not only in speech.",
+        "publishedDate": "2024-01-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Judged from SERP titles and result types only. WebFetch is blocked this session and eight of the top ten India results are gifting retailers this brief forbids fetching or citing, so no top-5 page was read in full. Structural mirroring is implausible — those pages are product grids and this is a verb-disambiguation plus five-step build — but the item cannot be verified, not merely asserted. It would close if a top-5 page could be read."
+        }
+      ],
+      "honestAssessment": "This is the only page in the set that reads the Hindi verb rather than the English noun: it says out loud that `banaye` is a making question, that eight of the top ten India results answer the sending question instead, and that adding `page` to the query flips the SERP — a fix a reader can use in ten seconds and that no retailer has any reason to publish. Its second unshared asset is the language section: four studies of Hindi-English code-mixing, none of which could sit in any other post in this sixty-post batch, attached to the 25.8% / 24.6% / 23.9% split of what people on SubhSandesh actually build. What it cannot overcome is the SERP itself — Winni, Flipkart, Giftana, Oye Happy and Amazon hold this query with domain authority far beyond subhsandesh.in, and a low-authority page does not displace a marketplace on a commercial-intent term. The realistic win is the narrower `gift page kaise banaye` / `digital gift kaise banaye` intent, where the page competes with tutorials rather than shops, and where subhsandesh.in's homepage already appears at #5. Ranking takes months and this predicts nothing."
+    },
+    "generatedAt": "2026-09-15T18:43:55.676Z"
+  }
+}

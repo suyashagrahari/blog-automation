@@ -1,0 +1,327 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Wedding Wish Page Online: What to Send, and Who Sends It",
+    "slug": "wedding-wish-page-online",
+    "excerpt": "A wedding wish page online is the guest's gesture, not the couple's: an invitation asks people to attend, a wish page congratulates two people already getting married. Five formats compared, with genre research on invitation cards and SubhSandesh's own usage data.",
+    "metaTitle": "Wedding Wish Page Online — Wish vs Invitation in 5 Formats",
+    "metaDescription": "A wedding wish page online is what a guest sends the couple, not what the couple sends guests. 5 formats compared, plus SubhSandesh's own 3.7% figure.",
+    "keywords": "wedding wish page online, online wedding wish page, wedding congratulations page online, wedding wish page, digital wedding congratulations",
+    "canonicalURL": "https://subhsandesh.in/blog/wedding-wish-page-online",
+    "ogType": "article",
+    "tags": [
+      "weddings",
+      "shaadi",
+      "digital-pages",
+      "congratulations",
+      "india"
+    ],
+    "keyTakeaways": [
+      "A wedding wish page is sent by a guest to the couple; a wedding invitation is sent by the couple to guests — the two need different templates, and SubhSandesh's three wedding templates are all invitation-shaped.",
+      "Occasion-dated pages, every festival plus every wedding type, are just 144 of 3,894 SubhSandesh pages — 3.7% of everything created (measured 2026-09-09).",
+      "94.1% of started pages are published and shared (4,098 of 4,357), and 49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — both measured 2026-09-15.",
+      "Online congratulation messages break into seven documented strategies; a wedding wish page has room for three or four of them before it reads as a template.",
+      "Occasion pages are built late: across 89 Raksha Bandhan 2026 pages the median lead time was 0 days, with 49.4% built on the day itself (measured 2026-09-09)."
+    ],
+    "faqs": [
+      {
+        "question": "Can I send a wedding wish page to a couple whose wedding I was not invited to?",
+        "answer": "Yes, and that is one of the clearer uses for it. A wish carries no attendance claim, so sending one does not read as fishing for an invitation the way a phone call about the date might."
+      },
+      {
+        "question": "Should the page go out before the wedding or after it?",
+        "answer": "Either works, but the two land differently. Sent the morning of, it joins the rush of messages; sent two or three days after, it is often the only thing still arriving, which is usually when the couple actually reads things."
+      },
+      {
+        "question": "Do I need photos of the couple to make one?",
+        "answer": "No. A page with both names spelled correctly and four honest sentences beats a page with six stock images and a generic blessing. Photos help if you have one of you with the bride or groom."
+      },
+      {
+        "question": "Is it rude to send a link instead of a physical card?",
+        "answer": "Not in practice, as long as you are not replacing a ritual obligation with it. The shagun envelope and the link do different jobs, and a link is not a substitute for the envelope."
+      },
+      {
+        "question": "Can two families or a group of friends share one page?",
+        "answer": "Yes, and it usually reads better than five separate pages. Pick one person to build it and collect everyone's line, rather than letting each contributor add a paragraph."
+      },
+      {
+        "question": "What should I avoid writing on a wedding wish page?",
+        "answer": "Inside jokes only one of the two will get, anything about how long it took them to marry, and advice. Congratulations that turn into guidance stop being congratulations."
+      },
+      {
+        "question": "Does this work for a court marriage or a registry wedding?",
+        "answer": "Yes, and it fits better than most card formats, which assume a large ceremony. A page has no venue field to leave awkwardly blank."
+      },
+      {
+        "question": "Can I protect the page so only the couple can open it?",
+        "answer": "Password protection is available on SubhSandesh pages and 40.6% of creators use it before sharing (1,767 of 4,357, measured 2026-09-15). For a wedding wish it is usually unnecessary, since nothing on the page is private."
+      },
+      {
+        "question": "How do I handle a second marriage or a remarriage?",
+        "answer": "Keep it about the two people now, not the history. The formats are identical; the only change is that blessing formulas referencing a first wedding should come out."
+      },
+      {
+        "question": "What if the couple speaks a different language at home?",
+        "answer": "Write the personal line in the language you actually speak with them and leave the rest in English. A wish that switches registers mid-page reads as more human, not less."
+      }
+    ],
+    "coverImageQuery": "indian wedding couple phone message guests",
+    "coverImagePrompt": "A photorealistic close-up of a newly married Indian couple in wedding clothes, seated, one of them holding a phone showing a bright personalised web page of congratulations. Warm marigold and gold lighting from an evening mandap behind them, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Wedding Wish Page Online: What to Send, and Who Sends It\n\nA wedding wish page online is one shareable web page carrying your congratulations to a couple — their names, your message, a few photos, and a link you drop into WhatsApp. It belongs to the guest, not to the hosts. An invitation asks someone to attend; a wish page says congratulations to two people who are already getting married.\n\nAlmost every tool competing for this phrase blurs that line. Wish generators hand you a paragraph of text; invitation builders hand you a date-and-venue card. Neither one is a page addressed to the couple by name.\n\nFor scale, on SubhSandesh occasion-dated pages — every festival plus every wedding type — are 144 of 3,894 pages, 3.7% of everything created (measured 2026-09-09). And 94.1% of pages that get started are actually published and shared (4,098 of 4,357, measured 2026-09-15), so the building rarely stalls once someone begins.\n\n## What is a wedding wish page online?\n\nA wedding wish page is a private URL holding one message for one couple, built from a template and shared as a link rather than as a file. The couple opens it, sees their own names at the top, and keeps the link.\n\nIt is not a card image, and it is not an e-invite. A card is a picture you forward, while an invite carries logistics — date, venue, muhurat, RSVP. A wish page carries sentiment and nothing else, which is exactly why it can be sent by someone 2,000 km away who was never on the guest list.\n\nThe format assumes a phone, and that matches how these pages are opened in practice: 49.0% of shared SubhSandesh pages are opened on a phone (24,493 of 49,968 views, measured 2026-09-15).\n\n## Wish page or invitation page? The split that decides what you build\n\nAn invitation is a directive act with obligations attached, and it is structurally rigid. A comparative genre analysis of 100 wedding invitation cards — 50 American, 50 Iranian — found them organised around fixed moves covering who invites, time and place, and shaped by religious affiliation, traditional orientation and educational status ([Mehdipour, Eslami and Allami, 2015](https://are.ui.ac.ir/article_15503.html)).\n\nThose moves are the invitation. Strip them out and what is left is not a simpler invitation, it is a different document.\n\nIn India the obligation attached to that card is heavier still. Ethnographic reporting on elite Indian weddings describes a snub of non-invitation transforming into \"an open feud lasting many years\", with one forgotten invitation taking more than a decade and repeated mediation by common friends to repair ([The Conversation, 13 January 2017](https://theconversation.com/inside-the-big-fat-indian-wedding-conservatism-competition-and-networks-70678)).\n\nA wish carries none of that weight. Nobody is obliged to send one, nobody is insulted by a guest list, and it can arrive from a cousin in Dubai who was never going to be in the room. Choosing an invitation template for a congratulations message produces a page that reads wrong to the couple, because it promises logistics it does not have.\n\n## Five wedding pages people actually build online\n\n### 1. A congratulations page from one guest to the couple\n\n- **What it is:** one page with the couple's names, your message and two or three photos.\n- **Who sends it:** a single guest, or one family sending together.\n- **What you need ready:** the correct spelling of both names, the wedding date, and photos already on your phone.\n- **Best moment to send:** the morning of the wedding, or the day after.\n\nThis is the format the search phrase actually describes, and the one a posted card cannot match on timing.\n\n### 2. A wishes wall collected from many guests\n\n- **What it is:** one page the couple owns, which many guests add short messages to.\n- **Who sends it:** the couple, or a sibling running it on their behalf.\n- **What you need ready:** a list of people to chase, and somebody willing to chase them.\n- **Best moment to send:** a week out, so the wall is full on the day.\n\nFor reference, the platform-wide average across SubhSandesh is 11.5 views per created page (measured 2026-09-15).\n\n### 3. A shaadi invitation page from the couple\n\n- **What it is:** a full Hindu wedding invitation page carrying the ceremony details.\n- **Who sends it:** the couple or their families.\n- **What you need ready:** date, muhurat, venue and the running order of functions.\n- **Best moment to send:** as soon as the dates are fixed.\n\nSubhSandesh's [Hindu wedding shaadi invitation page](https://subhsandesh.in/wedding-shaadi) is built for exactly this, and it should not be repurposed to say congratulations.\n\n### 4. An animated invitation card for WhatsApp\n\n- **What it is:** an animated shaadi card that opens in a browser instead of downloading as an image.\n- **Who sends it:** the couple, to a long forwarding list.\n- **What you need ready:** the same details as above, trimmed short enough to read on one screen.\n- **Best moment to send:** alongside the main invite, or as the reminder a week before.\n\nThe [animated shaadi invitation card](https://subhsandesh.in/shaadi-card) covers this, and it is still an invitation rather than a wish.\n\n### 5. A reception-only page for the second guest list\n\n- **What it is:** a page covering the reception alone, for people not called to the ceremonies.\n- **Who sends it:** the couple's family.\n- **What you need ready:** reception date, venue and timing, with nothing from the rituals.\n- **Best moment to send:** once the ceremony guest list is closed.\n\nA [wedding reception invitation page](https://subhsandesh.in/reception) keeps the two lists apart, which is the practical reason the format exists at all.\n\n## What to actually write on a wedding wish page\n\nCongratulations are not freeform. Analysing 1,206 Facebook comments on six birth announcements in Jordan, researchers sorted online congratulation messages into seven categories: the congratulation act itself, plus expressing good wishes, expressing happiness, complimenting, protection formulas, non-verbal language, and welcoming ([Migdadi, Badarneh and Al-Wedyan, 15 May 2024](https://jjmll.yu.edu.jo/index.php/jjmll/article/view/31)).\n\nA wedding wish page has room for three or four of those moves and no more. Load in all seven and it stops reading as a message and starts reading as a template.\n\nThe real risk is the one the generators have already lost to: formula. A socio-pragmatic study of birthday wishes posted on Facebook by British, Polish, Indian and Armenian users reports visible cross-cultural differences in how far a wish is formulaic versus personalised, and in which strategies make one read as personally oriented ([Dąbrowska, 15 October 2019](https://journals.ysu.am/index.php/arm-fol-angl/article/view/4274)). We read that paper's abstract only, because the full text is served through a viewer we could not open.\n\nThree things do most of the work. Name both people rather than \"the happy couple\", and say one specific thing only you could say — where you met one of them, what you owe them.\n\nThen stop. A page that takes ninety seconds to read is worse than one that takes fifteen.\n\nEvery wish sent by someone who is not the celebrant's partner fights the same formula problem. Our post on building a [birthday wish website for a friend](https://subhsandesh.in/blog/birthday-wish-website-for-friend) gathers the research on how fast a greeting collapses into a template, and names the four things a forwarded wish cannot carry.\n\n## Wish page, wish generator, printed card or invitation compared\n\nThese four formats are not competing versions of the same thing; they are answers to different questions. The column that matters is the last one, because it is the only place any of them can show measured behaviour rather than a claim.\n\n| Format | Sent by | What the couple ends up with | First-party evidence |\n|---|---|---|---|\n| Personalised wish page | One guest | A link opening to their names and your message | 49.0% of shared SubhSandesh pages are opened on a phone (24,493 of 49,968 views) |\n| Wish-generator text | One guest | A paragraph pasted into WhatsApp, often identical to someone else's | None — generators publish no usage data |\n| Printed congratulations card | One guest | A physical object, if you are in the same city | None |\n| Digital shaadi invitation | The couple | Date, venue, muhurat and running order | Occasion-dated pages are 144 of 3,894 SubhSandesh pages, 3.7% |\n| Collected wishes wall | The couple, filled by guests | Many short messages in one place | Platform-wide average of 11.5 views per created page |\n\n## Where an online wedding wish page is the wrong choice\n\nWe should be straight about the gap. SubhSandesh's three wedding templates are all invitation-shaped — shaadi, animated shaadi card, reception — so there is no dedicated wedding-congratulations template today. A guest who wants a pure wish page is adapting a general template rather than picking one off the shelf.\n\nThe anniversary side has the same hole, and the [anniversary wish page guide](https://subhsandesh.in/blog/anniversary-wish-page-online) sets out the distinction underneath both: a generator hands you wording, a page is where the wording ends up living.\n\nA page is also participation at a distance, not attendance. Folklore research on the 2010 Swedish royal wedding documents roughly 6,000 people gathering in the groom's home village to watch on a screen in a field — \"distanced participation\" is a studied category, but those people still had to gather ([Hugoson, 12 October 2012](https://ojs.zrc-sazu.si/traditiones/article/view/983)).\n\nA link does not put you in the room, and it does not replace the shagun envelope. Two smaller limits are worth naming too: grandparents who do not open links will not see it, so send it to somebody in the house who will hold the phone.\n\nAnd we cannot confirm current pricing from our own data, because the pricing block in our facts file is empty. Check the [full template gallery](https://subhsandesh.in/templates) for what applies today rather than trusting a number in an article.\n\n## When people build these, and why the timing matters\n\nOccasion pages get built late, and we have one measured proxy for how late. Across both Raksha Bandhan 2026 collections, n = 89 pages, 49.4% were built on the festival day itself, 27.0% the day before, and the median lead time was 0 days (measured 2026-09-09).\n\nTwo disclosures matter here. Raksha Bandhan is a festival rather than a wedding, and n = 89 is small, so no per-template or regional rate can be read out of it.\n\nThe practical read is simply that a format needing a week of planning will not get one. A wish page survives that, because it needs names, a date and two photos — an invitation page does not, which is the last reason to keep the two jobs apart.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/wedding-wish-page-online#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Wedding",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wedding",
+              "https://www.wikidata.org/wiki/Q49836"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Wedding invitation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wedding_invitation",
+              "https://www.wikidata.org/wiki/Q1192278"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Weddings in India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Weddings_in_India",
+              "https://www.wikidata.org/wiki/Q16196994"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Hindu wedding",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindu_wedding",
+              "https://www.wikidata.org/wiki/Q945237"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Greeting card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Greeting_card",
+              "https://www.wikidata.org/wiki/Q915196"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "A comparative sociopragmatic analysis of wedding invitations in American and Iranian societies and teaching implications",
+            "url": "https://are.ui.ac.ir/article_15503.html",
+            "datePublished": "2015",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Applied Research on English Language, University of Isfahan"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Inside the big fat Indian wedding: conservatism, competition and networks",
+            "url": "https://theconversation.com/inside-the-big-fat-indian-wedding-conservatism-competition-and-networks-70678",
+            "datePublished": "2017-01-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Conversation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Birth Congratulation Messages on Facebook in Jordan: A Sociopragmatic Analysis",
+            "url": "https://jjmll.yu.edu.jo/index.php/jjmll/article/view/31",
+            "datePublished": "2024-05-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Jordan Journal of Modern Languages & Literatures"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Birthday, Culture, and Social Media",
+            "url": "https://journals.ysu.am/index.php/arm-fol-angl/article/view/4274",
+            "datePublished": "2019-10-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Armenian Folia Anglistika, Yerevan State University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "You Are Cordially Invited to … the Distanced Participation in a Royal Wedding",
+            "url": "https://ojs.zrc-sazu.si/traditiones/article/view/983",
+            "datePublished": "2012-10-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Traditiones, ZRC SAZU"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five wedding pages people actually build online",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "1. A congratulations page from one guest to the couple",
+            "description": "One page with the couple's names, a message and two or three photos, sent by a single guest on the morning of the wedding or the day after."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "2. A wishes wall collected from many guests",
+            "description": "One page the couple owns, which many guests add short messages to, usually opened a week before the wedding."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "3. A shaadi invitation page from the couple",
+            "description": "A full Hindu wedding invitation page carrying date, muhurat, venue and the running order of functions."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "4. An animated invitation card for WhatsApp",
+            "description": "An animated shaadi card that opens in a browser instead of downloading as an image, sent to a long forwarding list."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "5. A reception-only page for the second guest list",
+            "description": "A page covering the reception alone — date, venue and timing — for people not called to the ceremonies."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "wedding wish page online",
+    "secondaryKeywords": [
+      "online wedding wish page",
+      "wedding congratulations page online"
+    ],
+    "angle": "Wins by being the only post on this SERP that separates the guest's wish page from the couple's invitation page, grounds the split in wedding-invitation genre research and Indian wedding ethnography, and prices neither — while naming the gap that SubhSandesh has no dedicated wedding-congratulations template.",
+    "categorySlug": "big-fat-weddings",
+    "templateUrls": [
+      "/wedding-shaadi",
+      "/shaadi-card",
+      "/reception"
+    ],
+    "factsUsed": [
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://are.ui.ac.ir/article_15503.html",
+        "stat": "Comparative genre and critical-discourse analysis of 100 wedding invitation cards (50 American, 50 Iranian): the cards are organised around fixed generic moves and shaped by traditional orientation, religious affiliation, masculine power and educational status",
+        "publishedDate": "2015"
+      },
+      {
+        "url": "https://theconversation.com/inside-the-big-fat-indian-wedding-conservatism-competition-and-networks-70678",
+        "stat": "Ethnography of elite Indian weddings: “a snub of non-invitation may transform into an open feud lasting many years”, with one forgotten invitation taking more than a decade of mediation to repair",
+        "publishedDate": "2017-01-13"
+      },
+      {
+        "url": "https://jjmll.yu.edu.jo/index.php/jjmll/article/view/31",
+        "stat": "1,206 Facebook comments on six birth announcements sorted online congratulation messages into seven categories: the congratulation act, good wishes, expressing happiness, complimenting, protection formulas, non-verbal language and welcoming",
+        "publishedDate": "2024-05-15"
+      },
+      {
+        "url": "https://journals.ysu.am/index.php/arm-fol-angl/article/view/4274",
+        "stat": "Socio-pragmatic study of birthday wishes on Facebook by British, Polish, Indian and Armenian users reports visible cross-cultural differences in the formulaic versus personalised character of the wish (abstract only — full text served through a viewer that could not be fetched)",
+        "publishedDate": "2019-10-15"
+      },
+      {
+        "url": "https://ojs.zrc-sazu.si/traditiones/article/view/983",
+        "stat": "Roughly 6,000 people gathered in the groom’s home village of Ockelbo to watch the 2010 Swedish royal wedding on a screen in a field — documented as ‘distanced participation’ in the ritual year",
+        "publishedDate": "2012-10-12"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the five sources are wedding- or congratulation-specific and would be off-topic anywhere else in this batch, but the Dąbrowska (2019) study of birthday wishes on Facebook could sit almost unchanged in one of this batch's birthday posts. It is cited here for the formulaic-versus-personalised finding, which is the exact failure mode of the wish generators on this SERP, and no wedding-specific equivalent surfaced in Europe PMC, Crossref, DOAJ or OpenAIRE. The item would close if a study of wedding congratulation messages specifically were found."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this because it is the only page on this query that states, and then evidences, the difference between a wish page (guest → couple) and an invitation page (couple → guests): the top results are wish-text generators, e-card galleries and a guest-wish collector, none of which draws the line, and none of which can publish a figure like 3.7% of 3,894 pages or 49.0% mobile opens. The post also names its own gap — SubhSandesh has three wedding templates and all three are invitations — which is the kind of admission retrieval systems reward and competitors will not make. It will not beat paperlesspost.com or greetingsisland.com on domain authority, and the realistic prize is the article slot beneath the subhsandesh.in homepage that already ranks #2 on this query, not the #1 position."
+    },
+    "serpNote": "India SERP (DDG kl=in-en, 2026-09-15) in SERPS-WAVE2.md: paperlesspost, subhsandesh.in homepage at #2, wishesmaker, theweddingnotebook, wish-ly.app, wishesflow, greetingsisland, easyprotools, template.net, wishly.co.in. Zero ecommerce results — Gate 2 clean. All ten treated as competitors: analysed, never cited or linked.",
+    "generatedAt": "2026-09-15T15:15:07.594Z"
+  }
+}

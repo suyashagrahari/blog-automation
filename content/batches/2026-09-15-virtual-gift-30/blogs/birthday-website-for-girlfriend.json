@@ -1,0 +1,337 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Birthday Website for Girlfriend: Four Routes, One Deadline",
+    "slug": "birthday-website-for-girlfriend",
+    "excerpt": "Four routes to a birthday website for a girlfriend — writing the code, an AI builder, a bought template, a ready-made page — compared on build time, hosting, privacy and whether the music plays, with 352 partner birthday pages and a 94.1% publish rate from SubhSandesh's own data.",
+    "metaTitle": "Birthday Website for Girlfriend — 4 Routes Compared",
+    "metaDescription": "Birthday website for girlfriend: 10 minutes on a ready-made page, not a weekend of code. Four routes compared on build time, hosting, privacy and autoplay.",
+    "keywords": "birthday website for girlfriend, birthday website for gf, birthday website for girlfriend ideas, romantic birthday website for girlfriend, birthday surprise website for girlfriend",
+    "canonicalURL": "https://subhsandesh.in/blog/birthday-website-for-girlfriend",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "girlfriend",
+      "digital gifts",
+      "personalised pages",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "352 of SubhSandesh's 4,357 personalised pages are birthday pages for a partner — 8.1% of everything built, measured 15 September 2026.",
+      "A ready-made page reaches a sendable link in about 10 minutes, and 94.1% of started pages (4,098 of 4,357) get published and shared.",
+      "Coding it yourself is the route search results push and the planning fallacy punishes: 33.9 days predicted against 55.5 actual in Buehler, Griffin and Ross's 1994 study.",
+      "Browsers block autoplay with sound by default, so no birthday page can start her song before she taps something.",
+      "49.0% of views of shared pages are on a phone (24,493 of 49,968), so build and test the page at phone width."
+    ],
+    "faqs": [
+      {
+        "question": "How far ahead of her birthday should I start?",
+        "answer": "A ready-made page is a 10-minute job, so the evening before is enough. If you plan to write the code, start at least two weeks out — people finish personal projects roughly 60% later than they predict, and a birthday will not move for you."
+      },
+      {
+        "question": "Is there a way to do this without spending anything?",
+        "answer": "Hosting it yourself is the no-spend route, and on GitHub that only works in a public repository. What a page costs on SubhSandesh today is not something this post can confirm — check the templates page before you plan around a figure."
+      },
+      {
+        "question": "Do I need to buy a domain name for it?",
+        "answer": "No. Every route here gives you a working link on a subdomain, and buying a domain adds an annual renewal you will forget. A domain only makes sense if you want the URL itself to be part of the surprise."
+      },
+      {
+        "question": "Does she need to install anything to open the link?",
+        "answer": "No, it opens in whatever browser is already on her phone. That is the practical advantage over a video file or a shared drive folder, both of which ask her to download something first."
+      },
+      {
+        "question": "Can I stop other people from opening the link?",
+        "answer": "On SubhSandesh you can put a password on the page before you share it, and 40.6% of creators do — 1,767 of 4,357. A self-hosted page on GitHub Free cannot be made private, because that account level only covers public repositories."
+      },
+      {
+        "question": "What if she opens it before midnight?",
+        "answer": "Send the link at the moment you want her to see it rather than earlier in the day, since nothing stops a page from being opened once the link exists. A countdown helps here: the page can be live while the message stays sealed until the clock runs out."
+      },
+      {
+        "question": "Can I use a Spotify or YouTube song on the page?",
+        "answer": "You can embed a player, but you cannot upload someone else's recording as your own audio file and expect that to be fine. Either way she will have to tap once before any sound starts."
+      },
+      {
+        "question": "Will it look the same on her iPhone as on my Android?",
+        "answer": "A page built on a template will, because the layout is tested at phone widths. A hand-built page usually will not — test your own draft on an actual phone, since 49.0% of all views here happen on one."
+      },
+      {
+        "question": "What should I actually write on it?",
+        "answer": "Write specifics only she would recognise: the date you met her parents, the thing she says when she is tired, the argument you were wrong about. Generic birthday lines are the part she skims."
+      },
+      {
+        "question": "Can I send her the same page again next year?",
+        "answer": "You can, and pages do get reopened — the average created page is viewed 11.5 times. Most people build a new one instead: registered creators here average 1.29 pages each, so a second page is already the exception."
+      }
+    ],
+    "coverImageQuery": "couple phone screen birthday message night",
+    "coverImagePrompt": "A photorealistic close-up of a young Indian woman in a dim bedroom at night, lit only by the phone in her hands showing a personal birthday page. Warm screen glow against cool shadows, shallow depth of field, clean negative space along the top edge for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Birthday Website for Girlfriend: Four Routes, One Deadline\n\nA birthday website for a girlfriend is one shareable web page — photos, a written message, a countdown, sometimes music — that lives at its own link and opens in her phone browser. No domain, no server, no HTML.\n\nOn SubhSandesh, 352 of the 4,357 personalised pages built since 12 March 2026 are birthday pages for a partner: 8.1% of everything made, measured 15 September 2026. The 3,377 registered creators average 1.29 pages each, which tells you this is a once-a-year thing for almost everyone who does it.\n\nThat number matters because the advice you find for this phrase assumes otherwise. This page compares the four routes people actually take — writing the code, an AI site builder, a bought template file, and a ready-made page — on build time, hosting, privacy, and whether the music plays when she taps the link.\n\n## What is a birthday website for a girlfriend?\n\nA birthday website for a girlfriend is a private, single-purpose web page made for one person and sent as a link, usually over WhatsApp. It is not a site in the ordinary sense: there is no homepage, no navigation and no second visitor beyond the people she chooses to show it to.\n\nThe format works because it carries things a card cannot — a scrolling photo timeline, a countdown that hits zero at midnight, an interaction she has to complete before the message appears. It also travels instantly, which is the whole reason the format exists for couples in different cities.\n\nAcross all 16 page types on SubhSandesh, a created page is opened 11.5 times on average. A birthday page is not a one-look object; it gets reopened.\n\n## Do you have to code it yourself?\n\nNo, and the search results for this phrase are misleading on exactly this point. Type the keyword into Google and you get GitHub repositories, template files to download, and forum threads from people asking how to deploy one — which reads as though building the thing from scratch is the normal route. It is the least common one.\n\nTwo well-documented biases explain why that advice keeps getting written and rarely gets followed through. The first is the [planning fallacy documented by Buehler, Griffin and Ross in 1994](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf): students asked to predict when they would hand in their thesis said 33.9 days on average and actually took 55.5.\n\nFewer than one third of them — 29.7% — finished inside their own best estimate. A birthday has a fixed date, and a weekend project that runs 60% long misses it.\n\nThe second is the reason the finished version still feels brilliant to you. In the [IKEA effect experiments by Norton, Mochon and Ariely](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2473-6bd4-e053-0100007fdf3b/content), published in the *Journal of Consumer Psychology* in 2012, people who assembled a storage box bid $0.78 for it against $0.48 from people handed the identical pre-built box. The sharper result is the origami study: builders valued their own folded creations at $0.23 while outside bidders offered $0.05 — nearly five times less — and the builders genuinely believed strangers would pay what they would.\n\nShe is the outside bidder. Your CSS animation is worth what it is worth to her, not what it is worth to the person who spent Saturday night on it. Whether any of it [actually impresses her](https://subhsandesh.in/blog/website-to-impress-girlfriend) is a separate question.\n\n## Four routes to a live birthday page, compared\n\nThese are the four options that actually exist for this keyword, with the numbers that decide between them. Times are to a working link you could send, not to something you would be happy sending.\n\n| Route | Time to a live link | What it costs | Where it lives afterwards |\n|---|---|---|---|\n| Write the code yourself | A weekend if nothing breaks; budget 1.6x your estimate | No cash outlay, but GitHub hosts only public repositories at no charge | Your repo — published site capped at 1 GB, 100 GB/month soft bandwidth |\n| AI site builder | 20–60 minutes including prompt retries | A trial, then a recurring monthly charge | The builder's subdomain, tied to your account staying active |\n| Bought template file | 1–3 hours of editing plus hosting setup | A one-off charge for the file, hosting separate | Wherever you upload it, and you maintain it |\n| Ready-made page | About 10 minutes; 94.1% of started pages get published (4,098 of 4,357) | Not stated here — check what a page costs on the site | A subhsandesh.in link, nothing to renew |\n\nThe last column is the one people ignore in September and care about in March. The 94.1% figure is the honest argument for the ready-made route: it is measured on 4,357 real attempts, and it is the only completion rate on this table that anyone has actually counted.\n\nIf you have already settled on building it here and want the section-by-section walkthrough instead of the comparison, that is covered in our guide to a [custom birthday website template for a girlfriend](https://subhsandesh.in/blog/custom-birthday-website-template-for-girlfriend).\n\n## Four things that break a birthday website on her phone\n\nEvery one of these is a real failure mode, and none of them show up until the link is already sent.\n\n### 1. The music does not start on its own\n\nAutoplay with sound is blocked by default in every modern browser. Per [MDN's autoplay guide](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay), audio plays unprompted only if it is muted or at zero volume, if the user has already interacted with the site, if the browser has allowlisted it, or if a permissions policy grants it to an iframe.\n\nSo a page that promises a song the moment she opens it will usually open in silence. The fix is a tap — a play button, or an interaction that starts the page — not a better audio tag.\n\n### 2. The link points at a public repository\n\n[GitHub Pages hosts a site at no charge only in a public repository](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) on GitHub Free; putting it in a private repository needs an upgraded GitHub account. A public repo means your photos, her name and the letter you wrote are readable by anyone who finds the repository, not just anyone who has the link.\n\nPrivacy is not a niche concern here. 40.6% of SubhSandesh creators password-protect the page before sharing it — 1,767 of 4,357 — which is a lot of people deciding the link alone is not enough.\n\n### 3. It was built on a desktop and opened on a phone\n\n49.0% of all views of shared pages happen on a phone: 24,493 of 49,968 recorded views. Add tablets and it is 49.2% of views on a touch device, so roughly half your audience of one is scrolling a narrow screen with a thumb.\n\nA layout that looks right at 1440px and breaks at 390px is the single most common self-built failure. Open your own draft on your phone before you send it, not after.\n\n### 4. Nobody maintains it after the birthday\n\nA self-hosted page is only live while you keep it live. [GitHub Pages usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) cap a published site at 1 GB with a soft bandwidth limit of 100 GB a month and 10 builds an hour, and a site builder stops serving the page when you stop paying it.\n\nThat is the cost of the DIY route that nobody prices in. Pages get reopened an average of 11.5 times, often months later, and a dead link on her birthday next year is worse than no page at all.\n\n## Where the effort actually shows\n\nEffort is not wasted — it is just read differently than you expect. Fuchs, Schreier and van Osselaer's [handmade effect research](https://www.wu.ac.at/fileadmin/wu/d/i/mm/paper/2015_CF_MS_SO_The_Handmade_Effect_Whats_Love_Got_to_Do_with_It.pdf), published in the *Journal of Marketing* in March 2015, found people willing to pay 17% more for a bar of soap presented as handmade, and the effect was driven by a perception that handmade things \"contain love\".\n\nThe important detail for this keyword is where it held: the preference for handmade was stronger when the item was a gift for a close recipient, and stronger when the giver's goal was to convey love rather than to give the best-performing object. Effort she can see counts. Effort spent on a deployment pipeline does not.\n\nThat is an argument for putting your hours into the writing and the sequencing, not the stack. What to put in that writing is [the five blocks of a romantic page](https://subhsandesh.in/blog/romantic-website-for-girlfriend). A [birthday surprise page for a girlfriend](https://subhsandesh.in/birthday-gf) handles the layout so the hours go into what it says. If you want the effort to be visible in the format itself, [The Last Piece photo jigsaw](https://subhsandesh.in/photo-puzzle) reveals a line of your letter with every piece she places and keeps the final piece out of the box, and [Rewind](https://subhsandesh.in/rewind) turns your year into a story she taps through, every number worked out from a single date.\n\n## When a birthday website is the wrong choice\n\nIf you are in the same room, send nothing — hand her something. A link is a solution to distance, and there is no distance to solve.\n\nIt is also the wrong format if she is the one person who will not open it. 49.0% of views here are on a phone, which is fine, but a page assumes a smartphone, a data connection and a browser she is willing to open at midnight. A printed photo book has none of those dependencies and does not go dark if a service shuts down.\n\nAnd if the search that brought you here was for a birthday website at no cost: what a page costs on SubhSandesh today is not something this post can confirm, so check the [SubhSandesh templates page](https://subhsandesh.in/templates) before you plan around a number. The genuinely free route is writing the code yourself, and the first half of this post is about what that actually costs you instead.\n\n## Sources\n\n- Buehler, R., Griffin, D., & Ross, M. (1994). *Exploring the \"Planning Fallacy\": Why People Underestimate Their Task Completion Times.* Journal of Personality and Social Psychology, 67(3), 366–381.\n- Norton, M. I., Mochon, D., & Ariely, D. (2012). *The IKEA Effect: When Labor Leads to Love.* Journal of Consumer Psychology, 22(3), 453–460.\n- Fuchs, C., Schreier, M., & van Osselaer, S. M. J. (2015). *The Handmade Effect: What's Love Got to Do with It?* Journal of Marketing, 79(2), 98–110.\n- MDN Web Docs — *Autoplay guide for media and Web Audio APIs* (no publication date given).\n- GitHub Docs — *What is GitHub Pages?* and *GitHub Pages limits* (no publication date given).\n- SubhSandesh first-party platform data, measured 15 September 2026.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/birthday-website-for-girlfriend#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Birthday",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Birthday",
+              "https://www.wikidata.org/wiki/Q47223"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "IKEA effect",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/IKEA_effect",
+              "https://www.wikidata.org/wiki/Q1653973"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Planning fallacy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Planning_fallacy",
+              "https://www.wikidata.org/wiki/Q1637631"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "GitHub",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/GitHub",
+              "https://www.wikidata.org/wiki/Q364"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Static web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Static_web_page",
+              "https://www.wikidata.org/wiki/Q2641220"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Exploring the \"Planning Fallacy\": Why People Underestimate Their Task Completion Times",
+            "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf",
+            "datePublished": "1994-09-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "American Psychological Association"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The IKEA Effect: When Labor Leads to Love",
+            "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2473-6bd4-e053-0100007fdf3b/content",
+            "datePublished": "2012-07-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Harvard University DASH repository"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Handmade Effect: What's Love Got to Do with It?",
+            "url": "https://www.wu.ac.at/fileadmin/wu/d/i/mm/paper/2015_CF_MS_SO_The_Handmade_Effect_Whats_Love_Got_to_Do_with_It.pdf",
+            "datePublished": "2015-03-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "American Marketing Association"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Autoplay guide for media and Web Audio APIs",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDN Web Docs"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "What is GitHub Pages?",
+            "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+            "publisher": {
+              "@type": "Organization",
+              "name": "GitHub"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "GitHub Pages limits",
+            "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+            "publisher": {
+              "@type": "Organization",
+              "name": "GitHub"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four things that break a birthday website on her phone",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The music does not start on its own",
+            "description": "Browsers block autoplay with sound unless the media is muted, the user has interacted with the site, or the site is allowlisted, so the page opens in silence until she taps."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The link points at a public repository",
+            "description": "GitHub hosts Pages sites at no charge only in public repositories, so photos, her name and the letter are readable by anyone who finds the repo; 40.6% of SubhSandesh creators password-protect instead."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "It was built on a desktop and opened on a phone",
+            "description": "49.0% of views of shared pages are on a phone (24,493 of 49,968), so a layout tested only at desktop width breaks for half the audience."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Nobody maintains it after the birthday",
+            "description": "Published GitHub Pages sites are capped at 1 GB with a 100 GB/month soft bandwidth limit, and pages are reopened an average of 11.5 times long after the day."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "birthday website for girlfriend",
+    "angle": "Wins by being the only post that prices the four real routes to a birthday website for a girlfriend — writing the code, an AI builder, a bought template, a ready-made page — against build time, hosting, privacy and autoplay, using SubhSandesh's 352 partner-birthday pages and 94.1% publish rate.",
+    "categorySlug": "milestone-birthdays",
+    "templateUrls": [
+      "/birthday-gf",
+      "/rewind",
+      "/photo-puzzle"
+    ],
+    "secondaryKeywords": [
+      "birthday website for gf",
+      "birthday website for girlfriend free",
+      "birthday website for girlfriend ideas",
+      "happy birthday website for girlfriend",
+      "romantic birthday website for girlfriend",
+      "birthday wish website for girlfriend",
+      "birthday surprise website for girlfriend"
+    ],
+    "factsUsed": [
+      "#5 page type: birthday page for a partner (/birthday-gf) — 352 created, 8.1% of all pages — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "3,377 registered creators — measured 2026-09-15",
+      "Average pages per registered creator: 1.29 — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "49.2% of views are on a touch device (phone or tablet) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf",
+        "stat": "Honours thesis students predicted completion in 33.9 days on average and actually took 55.5; fewer than one third (29.7%) finished within their own best estimate",
+        "publishedDate": "1994-09-01"
+      },
+      {
+        "url": "https://dash.harvard.edu/server/api/core/bitstreams/7312037d-2473-6bd4-e053-0100007fdf3b/content",
+        "stat": "Builders bid $0.78 for a storage box they assembled versus $0.48 from non-builders; builders valued their own origami at $0.23 against $0.05 from outside bidders",
+        "publishedDate": "2012-07-01"
+      },
+      {
+        "url": "https://www.wu.ac.at/fileadmin/wu/d/i/mm/paper/2015_CF_MS_SO_The_Handmade_Effect_Whats_Love_Got_to_Do_with_It.pdf",
+        "stat": "Participants were willing to pay 17% more for soap presented as handmade, an effect driven by perceived love and stronger for gifts to close recipients",
+        "publishedDate": "2015-03-01"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay",
+        "stat": "Media is allowed to autoplay only if it is muted or at zero volume, the user has already interacted with the site, the site is allowlisted, or an autoplay Permissions Policy grants it"
+      },
+      {
+        "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+        "stat": "GitHub Pages is available in public repositories on GitHub Free; private-repository Pages hosting requires a paid plan"
+      },
+      {
+        "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+        "stat": "Published GitHub Pages sites may be no larger than 1 GB, with a soft bandwidth limit of 100 GB per month and a soft limit of 10 builds per hour"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Four of the five internal links are TEMPLATE_LINKS URLs (/birthday-gf, /photo-puzzle, /rewind, /templates). The fifth links the nearestLive post /blog/custom-birthday-website-template-for-girlfriend, which BRIEF-WAVE2 §3 requires and which is a blog URL, not a TEMPLATE_LINKS entry. Structural: the wave rule and this checklist item cannot both hold. Would close if TEMPLATE_LINKS ever carried blog cross-links, or if the wave-3 brief drops the nearestLive linking rule."
+        }
+      ],
+      "honestAssessment": "It is the only page on this keyword that prices the code-it-yourself route instead of assuming it, and it is the only one that names two things the incumbents get wrong out loud — that browsers block autoplay so the song will not start on its own, and that free GitHub Pages hosting means a public repository holding her photos. The first-party completion rate (94.1% of 4,357 started pages) and the 352 partner-birthday pages are numbers no competitor can print. The SERP itself is unusually weak — a GitHub repo, template marketplaces and AI-builder landing pages, no authoritative source — but subhsandesh.in is also low-authority here, and the post sits one keyword away from an existing live page, so the realistic risk is the two pages splitting each other's signal rather than an incumbent blocking them."
+    },
+    "generatedAt": "2026-09-15T14:27:57.000Z"
+  }
+}
