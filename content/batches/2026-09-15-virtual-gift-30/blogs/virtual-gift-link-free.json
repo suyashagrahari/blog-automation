@@ -1,0 +1,365 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Make a Free Virtual Gift Link That Gets Opened",
+    "slug": "virtual-gift-link-free",
+    "excerpt": "A free virtual gift link is a personalised page you build in a browser and send as a URL. Five steps, a comparison of the four routes people actually use, and the two limits the landing pages skip: link secrecy and page permanence.",
+    "metaTitle": "Free Virtual Gift Link: Where the Free Part Actually Ends",
+    "metaDescription": "A free virtual gift link is a page you build and send as a URL. 94.1% of started pages get published, 40.6% get password-locked, and here is where free stops.",
+    "keywords": "virtual gift link free, virtual gift maker free, virtual gift link generator free, virtual gift maker online free, send free virtual gifts online",
+    "canonicalURL": "https://subhsandesh.in/blog/virtual-gift-link-free",
+    "ogType": "article",
+    "tags": [
+      "virtual gift",
+      "gift link",
+      "digital gift",
+      "free tools",
+      "privacy"
+    ],
+    "keyTakeaways": [
+      "94.1% of started pages are published and shared (4,098 of 4,357) — the hard part is the writing, not the tooling.",
+      "40.6% of creators set a password before sharing (1,767 of 4,357); an unlisted URL is not a private one.",
+      "Median first save to last edit is 6.2 hours on the most-built template (n=1,125), so plan an evening rather than five minutes.",
+      "Pages are opened 11.5 times on average across 49,968 recorded views, most of it early — edits made after sending are usually unseen.",
+      "This post states no price for any maker, SubhSandesh included: the product's published data carries no price figures."
+    ],
+    "faqs": [
+      {
+        "question": "Do I need to create an account before I can send someone a gift link?",
+        "answer": "On most makers you can build the page first and are asked to register only when you publish, because publishing is what needs somewhere to store it. SubhSandesh has 3,377 registered creators against 4,357 pages, an average of 1.29 pages each, so most people register once and never think about it again."
+      },
+      {
+        "question": "Will the chat preview give away the surprise before they open it?",
+        "answer": "Usually yes in part — WhatsApp and Instagram pull a title and thumbnail from the page, so whatever the maker puts in those fields is what they see first. Check the preview by sending the link to yourself before you send it to them, and set a password if the preview says too much."
+      },
+      {
+        "question": "Can I change the photos after I have already sent the link?",
+        "answer": "Most builders let you edit a published page, and the URL stays the same, so the change is live the next time it loads. The catch is timing: pages average 11.5 views each and a large share of those land in the first hour, so an edit made after they have opened it is usually an edit nobody sees."
+      },
+      {
+        "question": "How do I know whether they actually opened it?",
+        "answer": "View counts are the only honest signal most makers give you, and they count opens, not attention — 49,968 recorded views across 4,357 pages works out to 11.5 per page. If you need to know they read it, ask them; a counter cannot tell you that."
+      },
+      {
+        "question": "Can I build one on my phone, or do I need a laptop?",
+        "answer": "A phone works for a short page, but typing and photo cropping are genuinely slower on it, and you are laying out a page that 49.0% of viewers will open on a phone of their own. Build on the widest screen you have, then open the published link on your phone and fix what breaks."
+      },
+      {
+        "question": "What do I write if I am bad with words?",
+        "answer": "Write one specific thing that happened — a date, a place, a sentence they said — rather than trying to be eloquent. Specificity is what makes the page unrepeatable; a well-turned line that could have been sent to anyone is worth less than a clumsy one that could only have been sent to them."
+      },
+      {
+        "question": "Is there a way to make it open only on their birthday?",
+        "answer": "Scheduled unlocking is rare on these makers, so assume you do not have it unless the maker says so. The reliable workaround is to publish the page with a password and send the password at the moment you want it opened, which gets you the same effect with one extra message."
+      },
+      {
+        "question": "Can more than one person open the same link at once?",
+        "answer": "Yes — a published page is an ordinary web page, so any number of people can load it simultaneously and each one counts as a view. That is also the risk: the same property that lets two people open it lets a forwarded link reach anyone, which is why 1,767 of 4,357 creators add a password."
+      },
+      {
+        "question": "What happens to the page a year from now?",
+        "answer": "That depends entirely on the maker's retention rules, and it is the question most worth asking before you invest an evening. Ask where the answer is published rather than assuming permanence, and if the page matters to you, screenshot or print it once it is finished."
+      },
+      {
+        "question": "Is it rude to send a link instead of a real present?",
+        "answer": "It reads badly when you are in the same city and had time, and it reads well when the alternative was nothing at midnight from 2,000 km away. The format is a solution to distance and timing, not a substitute for effort — the 6.2-hour median build time is the part that carries it."
+      },
+      {
+        "question": "Do these pages work outside India?",
+        "answer": "A published page is just a URL, so it opens anywhere with a browser and a connection, with no customs, address or delivery window involved. The only real constraints are bandwidth for heavy animation and the recipient's time zone, which matters if you want them to open it at a particular moment."
+      }
+    ],
+    "coverImageQuery": "woman phone screen surprise message night",
+    "coverImagePrompt": "A photorealistic close-up of a young Indian woman sitting on a bed at night, lit only by the phone in her hands, where a colourful personalised web page has just opened. Warm lamp light from one side, deep shadows, shallow depth of field, 16:9 with clean negative space along the top for a title overlay. No readable text on the phone screen, and no logos except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Make a Free Virtual Gift Link That Gets Opened\n\nA free virtual gift link is a personalised web page you build in a browser and send as a URL — nothing prints, nothing ships, and the person at the other end needs only a tap. On SubhSandesh's own builder, 94.1% of started pages are published and shared (4,098 of 4,357), and 40.6% of creators password-protect the page before sharing it (1,767 of 4,357): most people finish, and many worry about who else can open the link. If you searched *virtual gift link free*, you want three things — a maker that shows you something before it asks for a card, a page that loads on your person's phone, and a result that does not read like a template they have seen before. This post covers the five steps, what the word \"free\" reliably covers across these makers and what it gates, and the two limits nobody's landing page mentions.\n\n## What a free virtual gift link actually is\n\nIt is a hosted web page carrying your photos, your words and some animation, published at a URL you can paste into a chat. The recipient opens it in the browser their phone already has: no app, no account, no download on their side.\n\nThat mechanism is the entire category. SubhSandesh has 4,357 personalised pages created since 2026-03-12, across 16 page types, and three dominate — an \"I love you\" page (1,125 created, 25.8%), a digital bouquet (1,070, 24.6%) and an apology dashboard (1,043, 23.9%).\n\nNotice what is missing from that list: occasions. Only 3.7% of pages are dated to a festival or a wedding. These get built on ordinary Tuesdays, which is the single best argument for the format.\n\n## How to make and send one in a single sitting\n\nFive steps, in the order they actually happen. The median gap between a page's first save and its last edit is 6.2 hours on the \"I love you\" template (n=1,125), so plan for an evening, not five minutes.\n\n### 1. Choose the template before you write a word\n\nOpen a maker's [full template gallery](https://subhsandesh.in/templates) and pick the shape first — a letter, a bouquet, a dashboard, a ticket. The template decides how many photos you need and how long the words can be, so choosing it last means rewriting everything. Budget ten minutes. The common mistake is picking the prettiest one rather than the one that fits what you have.\n\n### 2. Collect three photos and one specific memory\n\nPull the photos before you open the editor, because hunting through a gallery mid-build is where most abandoned pages die. Three is the working number: one of them, one of you both, one of a place. The memory has to be specific enough that nobody else could have written it — a date, a bus, a shop, a thing they said. That specificity is the whole difference between a page and a greeting card.\n\n### 3. Write the words inside the builder, not in your head\n\nType directly into the page so you can see the line breaks land on a phone-width screen. Keep each block to two or three lines; a paragraph that looks fine on a laptop becomes a wall on a 6-inch screen, and 49.0% of views of shared pages happen on a phone. Expect twenty to forty minutes here. This is the step people return to, which is where that 6.2-hour median comes from.\n\n### 4. Set a password before you send anything\n\nAdd the password while you are still in the editor, not after the link is live. 40.6% of creators do this — 1,767 of 4,357 pages — and it is the only control most makers give you over who else can open a URL that will sit in a chat backup forever. Takes under a minute. Share the password on a different channel from the link itself.\n\n### 5. Send the link, then stop editing it\n\nPaste the URL, wait for the chat preview to resolve, and then leave the page alone. Pages get opened an average of 11.5 times each across 49,968 recorded views, and a large share of that comes in the first hour, so an edit made after sending is usually an edit nobody sees. If you must change something, change it before they reply.\n\n## A free gift link versus the three things people send instead\n\nThis compares the four routes by what the recipient has to do, not by what the maker claims. The first-party column is measured on SubhSandesh pages; the blanks are honest, because nobody measures how often a forwarded photo gets reopened.\n\n| What you send | What the recipient needs | Build time | Can be locked | Measured reopens |\n|---|---|---|---|---|\n| Personalised gift page link | A browser and the link | 6.2 h median first save to last edit | Yes — 40.6% of creators do | 11.5 views per page |\n| A photo and a long message | The chat app they already use | 5 minutes | No | Not measurable |\n| A digital gift card code by email | An email account and a redemption site | 2 minutes | Code only, not the page | Not measurable |\n| A social media post tagging them | A public account on that platform | 10 minutes | No — public by design | Platform-side only |\n\nThe takeaway is narrow: the link route costs the most of your time and is the only one of the four you can actually lock and measure.\n\n## What \"free\" reliably covers, and what it usually gates\n\nAcross this category the pattern holds: building the page and letting someone view it is the part that carries no payment wall, and the extras sit behind one — removing a maker's badge, a custom domain, longer retention, more photos, analytics. I am not going to state what any particular maker charges, this one included. SubhSandesh's own published product data contains no price figures, and inventing one would be worse than leaving the gap where you can see it.\n\nWhat is worth knowing before you choose on the word alone comes from a 2020 Berkeley Technology Law Journal study of [5,877 Android apps offered in both free and paid versions](https://btlj.org/data/articles2020/35_1/07_Bamberger_WEB.pdf): 48% of the paid apps carried all the same third-party code as their free counterparts, 56% had all the same access privileges, and 38% collected all the same personal data. Paying is not automatically the private option. In the same paper's 1,000-person survey, 83% chose the free app before privacy was raised at all.\n\nThe word also does more work on you than it should. In the MIT experiments behind the [zero-price effect](https://web.mit.edu/ariely/www/MIT/Papers/zero.pdf), demand for a Hershey's Kiss rose from 27% to 69% when its price moved from one cent to zero, while demand for the better Lindt truffle fell from 73% to 31% — a one-cent change flipping a two-thirds majority.\n\nSo run one check before you spend an evening: find the maker's own answer to what happens to a published page after ninety days, and whether the person you are sending it to will see a badge. Those two answers tell you more than the word on the homepage does.\n\n## A gift link is a secret URL, and secret URLs leak\n\nAn unlisted link is not a private link. Reporting his Cornell and UT Austin study on [14 April 2016](https://freedom-to-tinker.com/2016/04/14/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/), Vitaly Shmatikov described scanning 100,000,000 six-character bit.ly tokens: 42% resolved to a real URL, and 19,524 of those led to OneDrive files and folders their owners had shared with a few people.\n\nGift pages are not OneDrive and most are not shortened, but the principle transfers exactly: a URL that anyone can guess or forward is readable by anyone who guesses or receives it. That is the real reason 40.6% of creators set a password, and the reason the other 59.4% should think about it.\n\nThree habits cover most of the risk. Do not run the gift link through a public shortener, do not post it on a story or a public profile, and send the password by a different route than the link.\n\n## Why a page you built yourself lands harder than one you bought\n\nThere is a measured reason the effort pays. In Harvard Business School working paper 11-091 (4 March 2011), Norton, Mochon and Ariely found that people who folded their own origami [valued it at $0.23](https://www.hbs.edu/ris/Publication%20Files/11-091.pdf) — close to the $0.27 that others bid for origami folded by experts — while outsiders bid significantly less for those same amateur creations.\n\nThe giver's valuation inflates with labour. That cuts both ways for a gift page: the six hours you spend are worth more to you than to them, so the thing that survives contact with the recipient is not the animation you fussed over but the one specific memory only you could have written.\n\nIt is also why the [romantic \"I love you\" page](https://subhsandesh.in/love-gf) and the [apology dashboard](https://subhsandesh.in/apology-dashboard) sit at 25.8% and 23.9% of everything built here. Both are formats where what you write carries the page, and the template is only a frame around it.\n\n## When a free gift link is the wrong thing to send\n\nIf you are in the same room, buy the object. A link is a solution to distance, and handing someone a URL across a dinner table is worse than handing them anything physical.\n\nIt is also the wrong call when the recipient is on a weak connection or an old phone — 49.0% of views come from a phone, so these pages are built mobile-first, but heavy animation on a bad network still fails, and it fails at the exact moment you wanted it to work. Send a voice note instead.\n\nAnd a page is thin when the occasion is genuinely serious. An apology after something that mattered needs a conversation; the page can follow it, but it cannot replace it. The average page is opened 11.5 times and then lives in a chat history, while a printed photo survives a phone change — if you want permanence, print something.\n\n## Sources\n\n- Shampan'er and Ariely, *Zero as a Special Price*, MIT (2007).\n- Bamberger, Egelman, Han, Elazari Bar On and Reyes, *Can You Pay for Privacy?*, Berkeley Technology Law Journal 35:327 (2020).\n- Shmatikov, *Gone in Six Characters: Short URLs Considered Harmful for Cloud Services*, Princeton CITP (14 April 2016).\n- Norton, Mochon and Ariely, *The \"IKEA Effect\": When Labor Leads to Love*, Harvard Business School Working Paper 11-091 (4 March 2011).\n- SubhSandesh first-party product data, measured 2026-09-15.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/virtual-gift-link-free#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Virtual gift",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Virtual_gift",
+              "https://www.wikidata.org/wiki/Q7935109"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Freemium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Freemium",
+              "https://www.wikidata.org/wiki/Q1444631"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "URL shortening",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/URL_shortening",
+              "https://www.wikidata.org/wiki/Q637342"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Gift",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gift",
+              "https://www.wikidata.org/wiki/Q184303"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Zero as a Special Price: The True Value of Free Products",
+            "url": "https://web.mit.edu/ariely/www/MIT/Papers/zero.pdf",
+            "datePublished": "2007",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Kristina Shampan'er"
+              },
+              {
+                "@type": "Person",
+                "name": "Dan Ariely"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Massachusetts Institute of Technology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Can You Pay for Privacy? Consumer Expectations and the Behavior of Free and Paid Apps",
+            "url": "https://btlj.org/data/articles2020/35_1/07_Bamberger_WEB.pdf",
+            "datePublished": "2020",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Kenneth A. Bamberger"
+              },
+              {
+                "@type": "Person",
+                "name": "Serge Egelman"
+              },
+              {
+                "@type": "Person",
+                "name": "Catherine Han"
+              },
+              {
+                "@type": "Person",
+                "name": "Amit Elazari Bar On"
+              },
+              {
+                "@type": "Person",
+                "name": "Irwin Reyes"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Berkeley Technology Law Journal"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Gone in Six Characters: Short URLs Considered Harmful for Cloud Services",
+            "url": "https://freedom-to-tinker.com/2016/04/14/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/",
+            "datePublished": "2016-04-14",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Vitaly Shmatikov"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Center for Information Technology Policy, Princeton University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The “IKEA Effect”: When Labor Leads to Love",
+            "url": "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf",
+            "datePublished": "2011-03-04",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Michael I. Norton"
+              },
+              {
+                "@type": "Person",
+                "name": "Daniel Mochon"
+              },
+              {
+                "@type": "Person",
+                "name": "Dan Ariely"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Harvard Business School"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "How to make and send a free virtual gift link in a single sitting",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Choose the template before you write a word",
+            "description": "Pick the page shape first; it decides how many photos and how much text you need. About ten minutes."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Collect three photos and one specific memory",
+            "description": "One of them, one of you both, one of a place, plus a memory nobody else could have written."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Write the words inside the builder, not in your head",
+            "description": "Type into the page so line breaks land correctly at phone width; twenty to forty minutes, and the step people return to."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Set a password before you send anything",
+            "description": "Under a minute in the editor. 40.6% of creators do this, 1,767 of 4,357 pages; share the password on a different channel."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Send the link, then stop editing it",
+            "description": "Pages average 11.5 views and most arrive early, so edits made after sending are usually unseen."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "virtual gift link free",
+    "secondaryKeywords": [
+      "virtual gift maker free",
+      "virtual gift link generator free",
+      "virtual gift maker online free",
+      "send free virtual gifts online"
+    ],
+    "angle": "Wins by being the only post that says out loud what the word 'free' does and does not cover on a virtual-gift-link maker — refusing to state a price it cannot source — and backs the two limits nobody else names (an unlisted URL is not private; a page is not permanent) with the 40.6% of SubhSandesh creators who password-protect before sharing and the 94.1% who publish at all.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/templates",
+      "/love-gf",
+      "/apology-dashboard"
+    ],
+    "factsUsed": [
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "#1 page type: \"I love you\" page (/love-gf) — 1,125 created, 25.8% of all pages — measured 2026-09-15",
+      "#3 page type: apology dashboard (/apology-dashboard) — 1,043 created, 23.9% of all pages — measured 2026-09-15",
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09",
+      "49,968 recorded views of shared pages — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://web.mit.edu/ariely/www/MIT/Papers/zero.pdf",
+        "stat": "In the chocolate experiments, demand for the Hershey's Kiss rose from 27% (priced 1c against a 15c Lindt truffle) to 69% (priced zero against a 14c truffle), while demand for the Lindt fell from 73% to 31% — the zero-price effect. Full text read.",
+        "publishedDate": "2007"
+      },
+      {
+        "url": "https://btlj.org/data/articles2020/35_1/07_Bamberger_WEB.pdf",
+        "stat": "Across 5,877 Android apps offered as both free and paid versions, 48% of paid apps carried all the same third-party code, 56% had all the same access privileges and 38% collected all the same personal data as their free counterparts; in the paper's 1,000-respondent survey, 83% chose the free app before privacy was raised. Full text read.",
+        "publishedDate": "2020"
+      },
+      {
+        "url": "https://freedom-to-tinker.com/2016/04/14/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/",
+        "stat": "Author's own write-up of the Cornell/UT Austin short-URL study: a sample scan of 100,000,000 bit.ly URLs with randomly chosen 6-character tokens resolved 42% of the time, and 19,524 of those resolved URLs led to OneDrive/SkyDrive files and folders. Full post read.",
+        "publishedDate": "2016-04-14"
+      },
+      {
+        "url": "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf",
+        "stat": "Builders valued their own origami at M = $0.23, statistically indistinguishable from the M = $0.27 non-builders bid for expert-folded origami, while non-builders bid significantly less for the builders' creations (ts > 2.91, ps < .01). Full text read.",
+        "publishedDate": "2011-03-04"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "The exact string \"virtual gift link free\" is a search-log word order, not English. metaTitle opens on the natural inversion \"Free Virtual Gift Link\" (all four keyword tokens, first four words, 57 characters). The literal string is carried by the slug, article.keywords and the first 100 words of the body instead."
+        }
+      ],
+      "honestAssessment": "Every page ranking for this query is a maker's own landing page asserting that it is free; none of them defines what free covers, and none mentions that the gift link is a guessable URL. This post is the only one in the set that pairs that admission with measured behaviour a competitor cannot publish — 40.6% password-protect, 94.1% publish, 6.2-hour median build — and with four fetched, dated third-party studies. PRICING FACTS WERE UNAVAILABLE: content/facts.md's Pricing block is empty (\"Free tier includes:\" and \"Paid tier price:\" are both blank), so the post deliberately states no price for SubhSandesh or anyone else, which costs it the one thing a free-intent searcher most wants answered; filling that block in facts.md is the single highest-value fix. Second open item, not a checklist failure but worth naming: the post carries no India-specific third-party evidence, because none was found under 'digital gift giving India study', 'freemium conversion India' or 'virtual gift link India research' — the honest alternative was a TRAI or PIB connectivity figure that would have been filler. Domain authority against entrenched page-builder startups is the binding constraint and no on-page work changes it; expect months, and no outcome is predicted here."
+    },
+    "generatedAt": "2026-09-15T10:33:13.896Z"
+  }
+}

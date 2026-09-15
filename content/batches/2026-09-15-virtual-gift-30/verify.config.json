@@ -1,0 +1,5 @@
+{
+  "mandatoryLinks": [],
+  "oneOfLinks": [],
+  "_why": "This batch spans romance, friendship, birthdays and long distance. The verifier's default (mandatory /bouquet-gf, one-of /love-gf|/darling) is the bouquet-wave policy and is wrong here — forcing a digital-bouquet link into `virtual gift for best friend` would be an off-topic link for the sake of a check. The 2-4 internal links from TEMPLATE_LINKS rule still applies and is enforced separately; per-post template choice is set in BRIEF.md §5."
+}

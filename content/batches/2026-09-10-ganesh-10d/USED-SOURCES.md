@@ -1,0 +1,209 @@
+# USED-SOURCES.md — cross-batch source ledger for the Ganesh cluster
+
+Generated 2026-09-10 from the 36 posts already written across
+`2026-09-09-ganesh-10`, `-10b` and `-10c`.
+
+`scripts/verify-batch.mjs` reads ONLY the closed section below and treats those
+URLs as spent. Everything else in this file is guidance for the writer.
+
+SubhSandesh's own channels are deliberately excluded from this ledger — the
+YouTube walkthrough and the Instagram profile are first-party cross-links, not
+research sources, and `FIRST_PARTY` in the verifier exempts them from the caps.
+
+## Spent URLs (closed — already in 2 or more posts, do not cite again)
+
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2026  (7 posts: ganesh-chaturthi-2026-date, ganesh-chaturthi-decoration-ideas, ganesh-chaturthi-drawing-for-school, ganesh-chaturthi-modak-recipe, ganesh-chaturthi-puja-vidhi, ganesh-chaturthi-wishes-for-business, ganpati-invitation-card)
+- https://en.wikipedia.org/wiki/Ganesh_Chaturthi  (4 posts: ganesh-chaturthi-banner-and-poster, ganesh-chaturthi-good-morning-wishes, happy-ganesh-chaturthi-status, happy-ganesh-chaturthi-wishes)
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1259229&year=2026  (3 posts: ganesh-chaturthi-captions-for-instagram, ganesh-chaturthi-katha-and-story, ganpati-mantra-and-stotra)
+- https://www.drikpanchang.com/festivals/ganesh-visarjan/ganesh-visarjan-date-time.html?geoname-id=1275339&year=2026  (2 posts: ganesh-chaturthi-2026-date, ganpati-visarjan-2026)
+- https://cpcb.nic.in/openpdffile.php?id=TGF0ZXN0RmlsZS8yOTVfMTU4OTI3Mzk4Nl9tZWRpYXBob3RvMjQzNjUucGRm  (2 posts: ganpati-decoration-ideas-at-home, ganpati-visarjan-2026)
+
+## Domains already at the cap of 3 posts (treat as closed)
+
+- drikpanchang.com  (18 posts: ganesh-chaturthi-2026-date, ganesh-chaturthi-2027, ganesh-chaturthi-captions-for-instagram, ganesh-chaturthi-decoration-ideas, ganesh-chaturthi-drawing-for-school, ganesh-chaturthi-katha-and-story, ganesh-chaturthi-modak-recipe, ganesh-chaturthi-puja-vidhi, ganesh-chaturthi-quotes-in-hindi, ganesh-chaturthi-wishes-for-business, ganesh-chaturthi-wishes-in-gujarati, ganesh-chaturthi-wishes-in-kannada, ganesh-chaturthi-wishes-in-tamil, ganesh-chaturthi-wishes-in-telugu, ganpati-invitation-card, ganpati-mantra-and-stotra, ganpati-visarjan-2026, happy-ganesh-chaturthi-wishes)
+- pmc.ncbi.nlm.nih.gov  (7 posts: ganesh-chaturthi-drawing-for-school, ganesh-chaturthi-modak-recipe, ganesh-chaturthi-rangoli-designs, ganpati-aarti, ganpati-decoration-ideas-at-home, ganpati-visarjan-2026, ganpati-wallpaper-hd-4k)
+- en.wikipedia.org  (6 posts: ganesh-chaturthi-2026-date, ganesh-chaturthi-banner-and-poster, ganesh-chaturthi-good-morning-wishes, ganesh-chaturthi-songs-and-bhajans, happy-ganesh-chaturthi-status, happy-ganesh-chaturthi-wishes)
+- arxiv.org  (5 posts: ganesh-chaturthi-good-morning-wishes, ganesh-chaturthi-wishes-in-marathi, ganesh-chaturthi-wishes-in-telugu, ganesh-chaturthi-wishes-with-name, happy-ganesh-chaturthi-wishes)
+- nature.com  (4 posts: ganesh-chaturthi-quotes-in-hindi, ganesh-chaturthi-rangoli-designs, ganpati-wallpaper-hd-4k, happy-ganesh-chaturthi-wishes)
+- archive.org  (3 posts: ganesh-chaturthi-2026-date, ganesh-chaturthi-wishes-in-telugu, ganpati-aarti)
+- pib.gov.in  (3 posts: ganesh-chaturthi-decoration-ideas, ganesh-chaturthi-wishes-in-marathi, ganpati-decoration-ideas-at-home)
+- aclanthology.org  (3 posts: ganesh-chaturthi-quotes-in-hindi, ganesh-chaturthi-wishes-in-marathi, ganesh-chaturthi-wishes-in-tamil)
+- frontiersin.org  (3 posts: ganesh-chaturthi-captions-for-instagram, ganpati-aarti, lalbaugcha-raja-mumbai)
+- journals.plos.org  (3 posts: ganesh-chaturthi-activities-for-kids, ganpati-invitation-card, happy-ganesh-chaturthi-wishes)
+- dsal.uchicago.edu  (3 posts: ganesh-chaturthi-wishes-in-kannada, ganesh-chaturthi-wishes-in-tamil, ganesh-chaturthi-wishes-in-telugu)
+
+## URLs with one slot left (legal, but the second use is the last)
+
+- http://www.fedoabooks.unina.it/index.php/fedoapress/catalog/book/592
+- https://aclanthology.org/2020.sltu-1.28/
+- https://aclanthology.org/2022.findings-emnlp.420/
+- https://aclanthology.org/2023.findings-emnlp.4/
+- https://aclanthology.org/2025.emnlp-main.117/
+- https://acta.uni-obuda.hu/Lakshmaiah_Balouchzahi_Anusha_Sidorov_128.pdf
+- https://al-kindipublisher.com/index.php/ijllt/article/view/1772
+- https://archive.org/details/AaratiSangraha
+- https://archive.org/details/dli.ministry.19933
+- https://archive.org/details/in.ernet.dli.2015.207413
+- https://archive.org/details/vinayaka-vrata-katha-by-chellapilla-bangareswara-sarma
+- https://arrow.tudublin.ie/ijrtp/vol8/iss8/8/
+- https://arxiv.org/abs/1411.5451
+- https://arxiv.org/abs/2010.04482
+- https://arxiv.org/abs/2306.14030
+- https://arxiv.org/abs/2407.08172v1
+- https://arxiv.org/html/2407.08172v1
+- https://arxiv.org/html/2407.08172v2
+- https://asianethnology.org/article/148337-the-origin-of-the-ganapati-cult
+- https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-026-07439-1
+- https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+- https://cbseacademic.nic.in/web_material/Circulars/2020/33_Circular_2020.pdf
+- https://citizenmatters.in/rising-noise-levels-ganesh-visarjan-mumbai/
+- https://commons.wikimedia.org/wiki/Commons:Licensing
+- https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/1535/files/2018/11/The-early-social-significance-of-shared-ritual-actions_2017-115te8g.pdf
+- https://cyberpsychology.eu/article/view/4276
+- https://discovery.ucl.ac.uk/10210544/1/Rituals%20JoM_Final%20Pre_proof.pdf
+- https://dmitriwilliams.com/wp-content/uploads/2021/08/Snap-Sukyoung-Final-NMS.pdf
+- https://doi.org/10.1016/j.bandl.2012.12.004
+- https://doi.org/10.1016/j.jjimei.2022.100067
+- https://doi.org/10.1016/j.jvb.2025.104096
+- https://doi.org/10.1080/23311983.2026.2660407
+- https://doi.org/10.1108/APJML-06-2023-0529
+- https://doi.org/10.11114/smc.v13i1.7346
+- https://doi.org/10.1167/11.5.8
+- https://doi.org/10.1186/s12995-016-0130-9
+- https://doi.org/10.1186/s40494-024-01167-8
+- https://doi.org/10.1515/culture-2019-0009
+- https://doi.org/10.15295/bmij.v8i2.1452
+- https://doi.org/10.15766/mep_2374-8265.11284
+- https://doi.org/10.30723/ijp.v14i29.229
+- https://doi.org/10.3389/fpsyg.2021.712440
+- https://doi.org/10.3390/arts15050101
+- https://doi.org/10.3390/bs15101323
+- https://doi.org/10.3390/rel11090456
+- https://doi.org/10.36923/jicc.v17i3.747
+- https://doi.org/10.47852/bonviewAIA3202624
+- https://doi.org/10.5539/ijel.v10n5p173
+- https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?qs=%E0%B0%9A%E0%B0%B5%E0%B0%BF%E0%B0%A4%E0%B0%BF&searchhws=yes&matchtype=exact
+- https://dsal.uchicago.edu/cgi-bin/app/brown_query.py?qs=%E0%B0%AA%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%BF&searchhws=yes&matchtype=exact
+- https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=b%C4%81gina&searchhws=yes
+- https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=benaka&searchhws=yes
+- https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%B5%E0%AE%BE%E0%AE%B4%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81&searchhws=yes
+- https://eclipse.gsfc.nasa.gov/phase/phases2001.html
+- https://ecrp.illinois.edu/v10n1/vlach.html
+- https://en.wikipedia.org/wiki/Adhika-masa
+- https://en.wikipedia.org/wiki/Phatic_expression
+- https://en.wikipedia.org/wiki/Sukhakarta_Dukhaharta
+- https://english.lokshahi.com/maharashtra/how-to-reach-lalbaugcha-raja-darshan-timings-mukh-darshan-charan-sparsh-12459868
+- https://files.eric.ed.gov/fulltext/EJ833503.pdf
+- https://github.com/WhatsApp/stickers/blob/main/Android/README.md
+- https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_Rgveda-edAufrecht.htm
+- https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_nAradapurANa.htm
+- https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhAgavatapurANa.txt
+- https://grfdt.com/PublicationDetails.aspx?Type=Working+papers&TabId=10191
+- https://gs.statcounter.com/screen-resolution-stats/desktop/india
+- https://gs.statcounter.com/screen-resolution-stats/mobile/india
+- https://hal.science/hal-02295535
+- https://highways.dot.gov/safety/other/older-road-user/desk-reference-handbook-designing-roadways-aging-population/chapter-3
+- https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062
+- https://ijmems.in/cms/storage/app/public/uploads/volumes/42-IJMEMS-22-0221-7-5-643-655-2022.pdf
+- https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-021-00117-2
+- https://journal.oraltradition.org/the-oral-style-of-the-r%CC%A5gveda/
+- https://journalqd.org/article/view/2690
+- https://journals.lib.unb.ca/index.php/MCR/article/view/31881
+- https://journals.openedition.org/samaj/4540
+- https://journals.openedition.org/samaj/4549
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171565
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206884
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288773
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292755
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326189
+- https://jrnl.kai.edu.ua/index.php/Design/article/view/16797
+- https://jur.sljol.info/articles/10.4038/jur.v12i2.8054
+- https://lalbaugcharaja.com/en/ganesh-muhurta-pujan-2026/
+- https://link.springer.com/article/10.1186/s41235-024-00555-9
+- https://misinforeview.hks.harvard.edu/article/images-and-misinformation-in-political-groups-evidence-from-whatsapp-in-india/
+- https://mpcb.gov.in/sites/default/files/Establishment%20of%20MPCB/Seniority%20list/2014/Report%20_Noise_Ganesh_AEC%20MPCB%202024_22.09.2024_R1.pdf
+- https://ojs.aaai.org/index.php/ICWSM/article/view/14989
+- https://ojs.aaai.org/index.php/ICWSM/article/view/31372
+- https://openaccess.wgtn.ac.nz/articles/thesis/Immigrant_Language_Maintenance_and_Shift_in_the_Gujarati_Dutch_and_Samoan_Communities_of_Wellington/16970086
+- https://people.csail.mit.edu/torralba/publications/howmanypixels.pdf
+- https://pib.gov.in/Pressreleaseshare.aspx?PRID=1593252
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10853520/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11593558/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC13455234/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4234744/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4632513/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4856205/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7759983/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8345624/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8994014/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9918960/
+- https://pure.au.dk/ws/files/381806371/Lauring_2023_How_is_work_group_inclusiveness_influenced.pdf
+- https://r12a.github.io/scripts/taml/ta.html
+- https://rahill.webspace.durham.ac.uk/wp-content/uploads/sites/207/2021/04/Hill-and-Dunbar-2003.pdf
+- https://repo.uni-hannover.de/handle/123456789/2337
+- https://revistas.udes.edu.co/aibi/article/view/4445
+- https://royalsocietypublishing.org/doi/10.1098/rspb.2018.0023
+- https://rudn.tlcjournal.org/issues/7%281%29-08.html
+- https://sanskritdocuments.org/doc_purana/gaNeshapurANam1.html
+- https://scholarworks.iu.edu/journals/index.php/li/article/view/40793
+- https://teslcanadajournal.ca/index.php/tesl/article/view/1205
+- https://themetropole.blog/2026/06/26/playing-the-city-ganesh-utsav-and-the-politics-of-urban-public-space/
+- https://web.archive.org/web/20211025222301/https://developers.facebook.com/docs/instagram-api/reference/ig-user/media
+- https://web.archive.org/web/20240827060635/https://www.narit.or.th/files/JAHH/2019JAHHvol22/2019JAHH...22..407G.pdf
+- https://www.access-board.gov/research/communication/variable-message-signing/vms-legibility/
+- https://www.australiancouncilofhinduclergy.com/uploads/5/5/4/9/5549439/smartapuja.pdf
+- https://www.cs.tau.ac.il/~nachum/calendar-book/papers/hindu-paper.pdf
+- https://www.deccanherald.com/india/maharashtra/more-than-39000-ganesh-idols-immersed-in-mumbai-2706134
+- https://www.downtoearth.org.in/food/ganesh-chaturthi-the-modak-s-history-reflects-its-strong-ties-to-the-land-here-is-how-84629
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1261481&year=2026
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1264527&year=2026
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1269843&year=2026
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1273294&year=2026
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2027
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1275339&year=2031
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1277333&year=2026
+- https://www.drikpanchang.com/festivals/ganesh-chaturthi/ganesh-chaturthi-date-time.html?geoname-id=1279233&year=2026
+- https://www.drikpanchang.com/festivals/gowri-habba/swarna-gowri-vratha-date.html?geoname-id=1277333&year=2026
+- https://www.ecologyjournal.in/assets/archives/2021/vol3issue2/3-2-34-960.pdf
+- https://www.floraldaily.com/article/9869516/india-flower-prices-crash-in-pune-ahead-of-ganapati-festival/
+- https://www.freepressjournal.in/mumbai/attention-mumbaikars-avoid-these-routes-near-lalbaug-parel-ahead-of-grand-ganpati-aagman-processions-today-mumbai-news
+- https://www.freepressjournal.in/mumbai/ganesh-visarjan-2025-nearly-2-lakh-idols-immersed-across-mumbai-40-in-artificial-ponds
+- https://www.freepressjournal.in/mumbai/mumbai-ganeshotsav-2026-gsb-seva-mandal-secures-rs-70327-crore-insurance-cover-66-kg-gold-to-adorn-ganpati-idol-mumbai-news
+- https://www.frontiersin.org/articles/10.3389/fcomm.2026.1799090/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00334/full
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.570189/full
+- https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1695241/full
+- https://www.gsb.stanford.edu/faculty-research/working-papers/personalization-email-marketing-role-non-informative-advertising
+- https://www.hinduamerican.org/blog/hindu-puja-instructions/
+- https://www.ijaresm.com/awareness-of-noise-induced-hearing-loss-among-young-dhol-tasha-players-in-maharashtra
+- https://www.ijfmr.com/papers/2025/4/54968.pdf
+- https://www.imrpress.com/journal/MREV/36/4/10.31083/MRev49103
+- https://www.indiapost.gov.in/documents/CitizenCharter2021.pdf
+- https://www.indiapost.gov.in/mailproducts/premiumservices
+- https://www.jbe-platform.com/content/journals/10.1075/prag.24063.lin
+- https://www.kumar-amit.com/s/Kumar-Epley-in-press-Its-surprisingly-nice-to-hear-you-JEPG.pdf
+- https://www.nature.com/articles/s40494-026-02310-3
+- https://www.nature.com/articles/s41467-025-64679-2
+- https://www.nature.com/articles/s41599-024-03058-6
+- https://www.nature.com/articles/s44271-024-00075-8
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8938771/
+- https://www.nepjol.info/index.php/JIAAS/article/view/56980
+- https://www.newsonair.gov.in/gowri-ganesha-festival-is-being-celebrated-with-devotion-all-over-karnataka
+- https://www.openaccessmusicology.com/essays/marathi-kirtan-before-and-after-the-classical
+- https://www.pewresearch.org/religion/2021/06/29/religious-practices-2/
+- https://www.pib.gov.in/PressReleasePage.aspx?PRID=1837518&reg=48&lang=2
+- https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660
+- https://www.purdue.edu/newsroom/archive/releases/2021/Q3/dark-mode-may-not-save-your-phones-battery-life-as-much-as-you-think,-but-there-are-a-few-silver-linings.html
+- https://www.redalyc.org/journal/586/58647014006/html/
+- https://www.sahapedia.org/kolam-and-the-making-of-tamil-femininity
+- https://www.sahapedia.org/significance-of-kolam-tamil-culture
+- https://www.sas.upenn.edu/~haroldfs/sars238/tamil238.html
+- https://www.sav.sk/journals/uploads/06301943SN.2022.2.18.pdf
+- https://www.typotheque.com/research/regional-forms-of-devanagari-survey-report
+- https://www.unesco.org/en/articles/garba-gujarat-inscribed-unesco-representative-list-intangible-cultural-heritage-humanity
+- https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-12/
+- https://www.w3.org/Graphics/JPEG/itu-t81.pdf
+- https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html
+- https://www.who.int/news-room/fact-sheets/detail/drowning
+- https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226133.html
+- https://www.younglives.org.uk/news/how-do-children-spend-their-time-they-grow-insights-young-lives-study-ethiopia-india-peru-and

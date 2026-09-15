@@ -1,0 +1,334 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Shareable Gift Link for Couples: What It Is and How It Travels",
+    "slug": "shareable-gift-link-for-couples",
+    "excerpt": "A shareable gift link for couples is one private page — photos, music, video, countdown — sent as a URL. How the link is built, how it previews in WhatsApp and Instagram, who else can open it, and what 40.6% of senders do before they share it.",
+    "metaTitle": "Shareable Gift Link for Couples — 40.6% Lock It First",
+    "metaDescription": "A shareable gift link for couples is one private page sent as a URL: photos, music, video. 40.6% of senders lock it first and 49.0% open it on a phone.",
+    "keywords": "shareable gift link for couples, online gift with photo and music, virtual gift video free, gift link, personalised gift page, private link gift",
+    "canonicalURL": "https://subhsandesh.in/blog/shareable-gift-link-for-couples",
+    "ogType": "article",
+    "tags": [
+      "digital gifts",
+      "link sharing",
+      "couples",
+      "privacy",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "A shareable gift link is a capability URL: whoever holds it can open the page, which is why 40.6% of SubhSandesh creators add a password before sending (1,767 of 4,357).",
+      "The preview card WhatsApp and Instagram draw comes from the page's Open Graph tags, not its contents — a locked page still shows a title and image to anyone who sees the chat.",
+      "Music is the highest-leverage thing to add: a 2025 PLOS One study of 233 adults found quieter, more acoustic songs cue memories rated high in adoration, calmness and romance.",
+      "Links decay. Pew Research Center found 38% of webpages that existed in 2013 were gone a decade later, so save the photos somewhere other than the page.",
+      "The average SubhSandesh page is opened 11.5 times and 49.0% of those opens are on a phone — build and test the page at phone width."
+    ],
+    "faqs": [
+      {
+        "question": "Does the person I send it to need to download anything?",
+        "answer": "No. The link opens in the browser their phone already has — Chrome on Android, Safari on iPhone. There is no account to make and no app to install, which is why 94.1% of pages started on SubhSandesh get published and shared rather than abandoned at the sending step."
+      },
+      {
+        "question": "Can I still change the page after I have sent the link?",
+        "answer": "Yes, on most builders including SubhSandesh — the URL stays the same and points at whatever the page currently says. That is why the median gap between first save and last edit is 6.2 hours: people send it, then go back and fix a line."
+      },
+      {
+        "question": "What happens if I lose the link myself?",
+        "answer": "If you built the page while signed in, it is listed in your account and you can copy the link again. If you built it signed out and the only copy was in a chat you deleted, the page still exists but nothing can reach it — treat a signed-out build as a one-copy object."
+      },
+      {
+        "question": "Will the song start playing on its own when they open it?",
+        "answer": "Usually not on the first tap. Mobile browsers block audio that starts without a user gesture, so most gift pages show a play control the recipient has to press once. Plan for that: put the instruction on screen rather than assuming the music announces itself."
+      },
+      {
+        "question": "Can I tell whether they actually opened it?",
+        "answer": "Page builders that count views can tell you the page was opened and how many times, not who opened it. Across SubhSandesh the average page collects 11.5 views, so a single-digit count usually means one person reopening rather than one person sharing it around."
+      },
+      {
+        "question": "Can I put it on my Instagram story without everyone seeing the photos?",
+        "answer": "Yes, if the page is password-protected. A story link sticker shows only the page name, and anyone who taps it hits the password screen. Without a password, every follower who views that story can read the whole page."
+      },
+      {
+        "question": "What if they open it on a laptop instead of a phone?",
+        "answer": "It works, but it is not what most pages are tuned for — 49.0% of shared pages are opened on a phone, and layouts, taps and audio prompts are built around that. If you know the recipient lives on a desktop, check the page at full width before you send it."
+      },
+      {
+        "question": "Can two of us build the same page together?",
+        "answer": "Only if the builder supports a second editor, which most do not. The usual workaround is one person builds and the other sends photos, voice notes and lines over chat. Decide who holds the account before you start, because that person controls the page later."
+      },
+      {
+        "question": "Can I send the same link to two different people?",
+        "answer": "Technically yes, and it is almost always a bad idea. A gift link is a capability — anyone holding it has full access — so two recipients means two people who can forward it. Build a second page instead; the marginal cost is time, not money."
+      },
+      {
+        "question": "How long is the link, and can I shorten it?",
+        "answer": "Gift links carry a long random token on purpose. Shortening one through a public shortener reduces that token to a handful of characters, which is precisely the failure the 2016 OneDrive research documented. Send the long link and let the app wrap it."
+      },
+      {
+        "question": "What should I write in the message I send with the link?",
+        "answer": "One line, no explanation. The preview card already carries the title and image, so a paragraph before it tells the recipient what to feel before they have looked. If the page is password-protected, send the password in a separate message a minute later."
+      },
+      {
+        "question": "Is a QR code better than a link if we are in the same room?",
+        "answer": "A printed QR code is better when you want a physical object to hand over — a card, a box, a note. It is worse for distance, since it needs a camera pointed at paper. If you are in the room, though, the honest answer is usually to give a real gift."
+      }
+    ],
+    "coverImageQuery": "phone screen link message couple night",
+    "coverImagePrompt": "A photorealistic close-up of a phone held at night, screen showing a chat with a single link preview card glowing warm against a dark room. Soft bokeh of fairy lights behind, shallow depth of field, 16:9, clean negative space at the top for a title overlay. No readable text on the screen except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Shareable Gift Link for Couples: What It Is and How It Travels\n\nA shareable gift link for couples is one private web page — photos, a song, a video, a countdown — that lives at its own address, so the whole gift travels as a single line of text in a chat. Nothing is posted publicly and nothing is installed: whoever holds the link sees the page, whoever does not, does not. On SubhSandesh, 40.6% of creators password-protect their page before sharing it (1,767 of 4,357), and the average page is opened 11.5 times — this is a gift that gets reopened, not unwrapped once. Below: what the link is, what you can load onto it, how it behaves inside WhatsApp and Instagram, who else can reach it, and what it looks like six months from now.\n\n## What a shareable gift link actually is\n\nIt is a web address that is the gift. You build a page, the builder assigns it a URL, and you send that URL. There is no attachment, no file size, no app download on the other end — the recipient taps and the page opens in whatever browser their phone already has.\n\nTwo properties make it behave differently from a photo sent in a chat. The page is **unlisted, not public**: it sits in no directory, so the only route in is the link itself. And it is **live**, so you can keep editing after you have sent it — on SubhSandesh the median gap between a page's first save and its last edit is 6.2 hours (n=1,125 on the /love-gf template), mostly people going back to fix a line at midnight.\n\nThat \"whoever holds the link\" property has a name in web engineering: a capability URL. The address is not just a pointer, it is the permission.\n\n## What you can put on the link\n\nA gift link is a container, and what you load into it decides whether it gets reopened. These five are the ones that do the work, roughly in order of how much difference they make per minute of effort.\n\n### 1. Photos\n\nThree to eight, not thirty. Photos are what make a page unmistakably about the two of you rather than a template, and they are the only element that needs no explanation. One good photo beats a gallery nobody scrolls.\n\n### 2. A song\n\nAudio is the element with the strongest research behind it. In a [2025 PLOS One study of 233 adults](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329072), the acoustic profile of a song predicted what kind of memory it pulled back: quieter, more acoustic tracks were tied to memories rated high in adoration, calmness and romance, while loud, energetic tracks produced memories that were social and amusing but less vivid. If you want the page to feel intimate rather than celebratory, the slow song is the safer choice.\n\nOne song, not a playlist — and remember 49.0% of these pages are opened on a phone, often on a phone speaker in a room with other people in it.\n\n### 3. A video\n\nOne clip, under 90 seconds, is worth more than a montage. A page that hosts the video gives it a context a raw WhatsApp forward never has — a title, a reason, a place to sit. The [video page template](https://subhsandesh.in/watch) wraps a clip you already have in a player with chapters and a pinned comment, which is the cheapest way to make a phone recording feel deliberate.\n\n### 4. A countdown\n\nA countdown to a real date — a flight landing, an anniversary, the day the lease ends — converts a one-time page into something with a reason to be reopened. This is the single biggest driver of the 11.5-views-per-page average, because a countdown gives the recipient a reason to come back tomorrow.\n\n### 5. Something they have to do\n\nA button to press, a letter that unlocks, a question that needs answering. Passive pages get read once. On SubhSandesh, 94.1% of started pages are actually published and shared (4,098 of 4,357) — the ones that stall are almost always the ones where the sender ran out of things to say, and an interactive element solves that by handing half the work to the recipient.\n\n## What the link looks like when it lands\n\nWhen you paste the URL into WhatsApp, Instagram or Telegram, the app fetches the page and builds a preview card from its [Open Graph tags](https://ogp.me/). The protocol requires exactly four — title, type, image and canonical URL — and description is the optional fifth most builders set. That card comes from the page's markup, not from behind its lock, so a password-protected page still shows a preview.\n\nThis matters more than it sounds. The preview is the part your partner sees before they decide to tap, and it is also the part anyone standing behind them sees. If you are sending to a group, or into a chat someone else might glance at, the preview is the leak — not the page.\n\nInstagram behaves differently from WhatsApp here. A link sticker on a story shows the page name as a small sticker with no image preview, which is more discreet but also less enticing; a DM renders the full card. Neither app gives you a way to suppress the preview for one message, so if the title is a surprise, make the title vague and put the surprise inside.\n\n## Four ways to hand over the link, compared\n\nThe mechanics of delivery change who can see what. This compares the four routes couples actually use.\n\n| How you send it | What lands in their app | Who else can see it | Works with a password |\n|---|---|---|---|\n| WhatsApp direct message | Full preview card: title, description, one image | Only them, unless they forward it | Yes — 40.6% of SubhSandesh senders set one |\n| WhatsApp group | The same card, rendered for every member | Everyone in the group, instantly | Yes, but the card still shows |\n| Instagram story link sticker | A name-only sticker, no image | Every follower who views the story | Yes |\n| Printed QR code on a card | Nothing until it is scanned | Anyone holding the card | Yes |\n\nThe takeaway is that the password protects the page and nothing protects the preview. Choose the delivery route for who might see the card, then set the password for who might get the link forwarded.\n\n## Who else can open it\n\nAnyone with the link. That is the whole security model of an unlisted URL, and it is worth being honest about, because the same property that makes the gift effortless to send makes it effortless to forward.\n\nThe failure mode is documented. In a [2016 arXiv paper](https://arxiv.org/abs/1604.02734), Georgiev and Shmatikov showed that short URLs on Microsoft OneDrive and Google Maps used 5- and 6-character tokens — a space small enough to scan by brute force, making every \"private\" shared document effectively public, with 7% of the exposed OneDrive accounts writable by anyone. The lesson is not that links are unsafe; it is that the token has to be long enough that guessing is not a strategy.\n\nSo: a long random token stops strangers, and a password stops the person your partner shows it to. 40.6% of SubhSandesh creators set one before sharing (1,767 of 4,357), and the gap between that number and 100% is mostly people who never considered that a screenshot is a forward.\n\nOne more thing worth knowing: 49.0% of shared pages are opened on a phone (24,493 of 49,968 views). If you set a password, you are asking someone to type it on a phone keyboard, probably one-handed. Make it short, make it something they will guess on the second try, and never make it a date you will both argue about.\n\n## What happens to the link over time\n\nLinks decay. [Pew Research Center's 2024 analysis](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) found 38% of webpages that existed in 2013 were no longer accessible a decade later, 23% of news pages carried at least one broken link, and nearly one in five tweets vanished within months of being posted. A gift link is a webpage and is subject to the same arithmetic.\n\nThere is a relationship dimension too. A [2016 NordiCHI study by Herron, Moncur and van den Hoven](https://strathprints.strath.ac.uk/87354/1/Herron-etal-NordiCHI16-2016-Digital-possessions-after-a-romantic-break-up.pdf) interviewed eight people aged 23 to 41 about digital possessions after a breakup, and found five recurring themes, including possessions that had become \"tainted\" by association and possessions that were an ongoing invasion of privacy. The paper notes that few partners have genuinely shared digital possessions — most things are one person's, held on one person's account — and its design recommendation is that people should be able to see and revoke the access they have given.\n\nRead that as practical advice: the person who built the page controls it. Save the photos somewhere outside the page, and if a page ever needs to stop existing, know before you build it whether you can delete it.\n\n## When a shareable gift link is the wrong choice\n\nIf you are in the same room, buy the thing. A link asks someone to look at a phone while you are standing there, and that is a worse moment than handing over an object. The honest case for a link is distance, or timing — you are 2,000 km away, or it is 11pm and the shops are shut.\n\nIt is also wrong when the recipient's relationship with their phone is the problem. A partner who never taps links, or who reads everything on a work laptop behind a content filter, turns a two-second gift into a support call. And a page is a poor substitute for anything meant to be kept: nobody frames a URL. If the point is permanence, print something. If the point is arriving now, from far away, with a song attached, the link wins. You can compare formats on the [SubhSandesh templates page](https://subhsandesh.in/templates), or start with the [I love you page](https://subhsandesh.in/love-gf), the most-built template on the platform.\n\n## Sources\n\n- [Gone in Six Characters: Short URLs Considered Harmful for Cloud Services](https://arxiv.org/abs/1604.02734) — Martin Georgiev and Vitaly Shmatikov, arXiv, 10 April 2016.\n- [Qualities of music-evoked autobiographical memories are associated with auditory features of the memory-evoking music](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329072) — PLOS One, 2025.\n- [Digital Possessions After a Romantic Break Up](https://strathprints.strath.ac.uk/87354/1/Herron-etal-NordiCHI16-2016-Digital-possessions-after-a-romantic-break-up.pdf) — Herron, Moncur and van den Hoven, NordiCHI '16, 2016.\n- [The Open Graph protocol](https://ogp.me/) — the specification that defines the preview card messaging apps build.\n- [When Online Content Disappears](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) — Pew Research Center, 17 May 2024.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/shareable-gift-link-for-couples#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "URL",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/URL",
+              "https://www.wikidata.org/wiki/Q42253"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Instagram",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Instagram",
+              "https://www.wikidata.org/wiki/Q209330"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Link rot",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Link_rot",
+              "https://www.wikidata.org/wiki/Q1193907"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Gone in Six Characters: Short URLs Considered Harmful for Cloud Services",
+            "url": "https://arxiv.org/abs/1604.02734",
+            "datePublished": "2016-04-10",
+            "publisher": {
+              "@type": "Organization",
+              "name": "arXiv"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Qualities of music-evoked autobiographical memories are associated with auditory features of the memory-evoking music",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329072",
+            "datePublished": "2025-08-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLOS One"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Digital Possessions After a Romantic Break Up",
+            "url": "https://strathprints.strath.ac.uk/87354/1/Herron-etal-NordiCHI16-2016-Digital-possessions-after-a-romantic-break-up.pdf",
+            "datePublished": "2016-10-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computing Machinery"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol",
+            "url": "https://ogp.me/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Open Graph protocol"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "When Online Content Disappears",
+            "url": "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/",
+            "datePublished": "2024-05-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Pew Research Center"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "What you can put on a shareable gift link",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Photos",
+            "description": "Three to eight photos, not thirty. The only element that needs no explanation."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A song",
+            "description": "A 2025 PLOS One study of 233 adults found quieter, more acoustic tracks cue memories rated high in adoration, calmness and romance."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A video",
+            "description": "One clip under 90 seconds, given a title and a player rather than sent as a raw forward."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A countdown",
+            "description": "A countdown to a real date gives the page a reason to be reopened, driving the 11.5-views-per-page average."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Something they have to do",
+            "description": "An interactive element; 94.1% of started SubhSandesh pages are published and shared (4,098 of 4,357)."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "shareable gift link for couples",
+    "secondaryKeywords": [
+      "online gift with photo and music",
+      "virtual gift video free"
+    ],
+    "angle": "Wins by being the only post that explains the mechanics of the link itself — capability URLs, Open Graph preview cards, password scope and link decay — instead of listing gift ideas, grounded in the 40.6% of SubhSandesh creators who lock a page before sharing it and the 49.0% of opens that happen on a phone.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/love-gf",
+      "/watch",
+      "/dedication"
+    ],
+    "factsUsed": [
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1604.02734",
+        "stat": "Short URLs on OneDrive and Google Maps used 5- and 6-character tokens, a space small enough to brute-force scan; 7% of the OneDrive accounts exposed this way were writable by anyone",
+        "publishedDate": "2016-04-10"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329072",
+        "stat": "In 233 adults, the acoustic profile of a song predicted the character of the autobiographical memory it evoked: low-energy, high-acoustic tracks cued memories rated high in adoration, calmness and romance, while loud, energetic tracks cued memories that were social and amusing but less vivid.",
+        "publishedDate": "2025"
+      },
+      {
+        "url": "https://strathprints.strath.ac.uk/87354/1/Herron-etal-NordiCHI16-2016-Digital-possessions-after-a-romantic-break-up.pdf",
+        "stat": "Interviews with 8 UK participants aged 23-41 produced five themes about digital possessions after a break up, including 'tainted' possessions and invasions of privacy; the paper notes few partners have genuinely shared digital possessions and recommends people be able to revoke access they have granted",
+        "publishedDate": "2016-10-23"
+      },
+      {
+        "url": "https://ogp.me/",
+        "stat": "The Open Graph protocol requires exactly four properties on every page — og:title, og:type, og:image and og:url — with og:description optional; these are what messaging apps render as a link preview card"
+      },
+      {
+        "url": "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/",
+        "stat": "38% of webpages that existed in 2013 were no longer accessible in 2023; 23% of news webpages contain at least one broken link; nearly one in five tweets were no longer publicly visible within three months",
+        "publishedDate": "2024-05-17"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table's first-party column ('Works with a password — 40.6% of SubhSandesh senders set one') carries the platform figure in one cell only; the other three rows repeat 'Yes'. There is no per-delivery-route first-party breakdown because the database records that a page is password-protected, not which channel the link was sent through. Closes if a share-channel field is added to the page record and re-queried above n≈500."
+        },
+        {
+          "item": "Every outbound fact passes the \"would it stay without the link\" test",
+          "why": "Four of five pass. The Open Graph specification link is the exception: the claim that a preview card is built from four required tags is only meaningful because the reader can open the spec and see the four names, so the fact does not fully survive removal of the link. Kept because it is the primary source for the mechanic and there is no secondary that states it."
+        }
+      ],
+      "honestAssessment": "The ten sibling posts and every ranking competitor answer 'what should I send'; this is the only one that answers 'what is the link, and what does it do once it leaves my phone' — capability-URL semantics, the Open Graph preview card that a password does not cover, and link decay, each tied to a named source, next to two first-party numbers (40.6% password-protection, 11.5 views per page) no competitor can publish. What it cannot overcome is domain authority: the India SERP for this phrase is wall-to-wall product landing pages from gifft.me, qlovy.com, giftsqr.com and similar, plus Reddit, and dislodging them takes months of links rather than a better page."
+    },
+    "generatedAt": "2026-09-15T10:27:57.569Z"
+  }
+}
