@@ -1,0 +1,309 @@
+{
+  "article": {
+    "title": "Online Gift Without Address: What You Can Actually Send",
+    "slug": "online-gift-without-address",
+    "contentMarkdown": "# Online Gift Without Address: What You Can Actually Send\n\nYou can send an online gift without address details, and for a shareable personalised page the postal address was never part of the transaction in the first place. Of the 4,357 pages built on SubhSandesh since 12 March 2026, 94.1% were actually published and shared — 4,098 of them — and not one needed a house number, a PIN code or a courier slot.\n\nWhat a sender does need is a channel: a phone number, a WhatsApp thread, or an email. That is the real swap, and it is the part most pages on this query skip.\n\nThe split is simple. A parcel needs a postal address because an object has to arrive at a place; a link needs a channel because it has to arrive at a person. And 49.0% of shared pages here are opened on a phone — 24,493 of 49,968 recorded views — so the recipient is already carrying the delivery address in their hand.\n\n## \"Online gift without address\" hides three different products\n\nThe phrase covers three things that behave nothing alike, and the results ranking for it mix all three freely.\n\n**A shipping workaround.** A retailer takes an email or phone number, notifies the recipient, and asks *them* for the address before it ships. The address still exists; it has just moved one step down the chain. Money reported this Amazon US feature on 4 October 2021, and it is still framed as a supply-chain fix rather than a category.\n\n**A stored-value voucher.** An e-gift card or wallet code arrives by email or SMS and is redeemed somewhere else. This is a different product for a different searcher, and it is the single most common way this keyword gets answered badly — a voucher is money with a logo on it, not a gift you made.\n\n**A shareable personalised page.** A page built around one person, delivered as a link. Nothing ships, nothing is redeemed, and there is no address field anywhere in the flow. That is the only one of the three where \"without address\" is a property of the product rather than a workaround.\n\n## The address is the weak link, not the workaround\n\nAddresses fail far more often than most senders assume, and the research on this is unambiguous.\n\nA 2022 paper in the *ISPRS Archives* quantifying last-mile logistics found that [unstructured addresses are an established problem in developing countries](https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/3/2022/), hard for delivery riders to read and locate, and that they push both delivery times and delivery cost upward.\n\nIndia is a harder case than most. The team behind GeoIndia, presented at EMNLP 2024, describe [Indian addresses as carrying diverse languages, scripts and formats](https://aclanthology.org/2024.emnlp-industry.29/) that existing geocoding methods often fail to resolve at fine resolution — their state-level models cut mean distance error by more than 50% against Google Maps in multiple states.\n\nEven cleaned-up, fully structured addresses do not resolve reliably. A 2021 study in *Cadernos de Saúde Pública* ran 132,863 structured address records through automated standardisation against the national postal directory and [geocoded and validated 85.7% of them](https://www.scielo.br/j/csp/a/PzqnKn6Zs5CjHC9RkR6pdMq/?lang=en) — leaving roughly one in seven unmatched after the best automated cleanup available.\n\nSo \"I don't have their address\" is not a gap in your information. It is a gap in a system that was already leaking.\n\n## What you still need instead of an address\n\nDropping the address does not make the gift addressless. It swaps one requirement for another, and the replacement is a delivery channel you can reach them on today.\n\nIn practice that is one of three: a mobile number for WhatsApp or SMS, an email address, or a direct-message thread on Instagram or Telegram. If you have none of these, a link cannot reach them and this whole category is closed to you — that is the honest floor.\n\nPick the one they actually use rather than the one you have. 49.2% of views on shared pages here come from a touch device, phone or tablet, so the channel that lands is almost always the one already open on their phone.\n\nThere is a second requirement people forget: the link has to survive contact with their phone. Group chats scroll, notifications get swiped away, and a link sent at 2am is read at 9am next to someone else. Sending it in a one-to-one thread rather than a group, and saying \"open this when you're alone\", does more for the moment than any feature.\n\n## Five things you can send without an address, in order of how fast they land\n\n### 1. A personalised page built around one memory\n\nA single page carrying their name, your photographs and one thing only you could have written. It needs 10–20 minutes and about six photos from you; they tap once. Pages like this are the most-built type on SubhSandesh — the \"I love you\" page alone accounts for 1,125 of 4,357 pages, 25.8% of everything created.\n\n### 2. A hand-tied digital bouquet\n\nFlowers are the classic \"I need their address\" gift, and this is the version that removes the address entirely. You pick blooms, arrange them and write the card; they tap the link and it blooms open. At 1,070 pages built — 24.6% of everything on the platform — it is the second most-created page type here, which is a reasonable signal that flower-shaped gifts survive the jump to a link.\n\n### 3. A video given a page of its own\n\nIf you already have the video, this is the fastest route: a real player, a channel row, clickable chapters and a pinned comment, so a phone recording stops looking like a forwarded file. It takes about five minutes once the video exists. The recipient taps and watches — no download, no app.\n\n### 4. A voice note, sent one-to-one\n\nNot a page at all, and worth saying out loud: a two-minute voice note takes two minutes to record and lands in seconds. It has no visual keepsake and it is gone in the scroll within a day, which is exactly why it works as an opener and badly as the whole gift.\n\n### 5. A password-protected page, when the phone is shared\n\nShared handsets and over-the-shoulder reading are normal here, so a code you pass separately is a real feature rather than a flourish. 40.6% of creators on SubhSandesh — 1,767 of 4,357 — set a password before sharing, which is a much higher rate than the feature's prominence would predict. It adds one step for the recipient: tap, then type.\n\n## Which route fits which situation\n\nThe only metric that matters on the receiving end is how many steps stand between the notification and the gift.\n\n| Route | Needs from you | Steps for them | Measured across 4,357 pages built here |\n|---|---|---|---|\n| Personalised page link | Their phone number or email | 1 — tap the link | 1,125 built, 25.8% of all pages |\n| Digital bouquet link | Their phone number or email | 1 — tap, blooms open | 1,070 built, 24.6% of all pages |\n| Password-protected page | A channel, plus a second one for the code | 2 — tap, then type the code | 1,767 creators chose this, 40.6% |\n| Retailer \"no address\" gift | Their email or phone, and their cooperation | 3 — accept, enter their own address, wait for shipping | Not sold here, so no data |\n| E-gift voucher | Their email or phone | 3 — open, copy code, redeem elsewhere | Not sold here, so no data |\n\nThe two one-tap rows are also the two most-built page types on this platform, together 50.4% of everything created. That is not a coincidence; steps are where gifts die.\n\n## Where a digital gift loses to a parcel\n\nA link cannot be unwrapped in front of the family, and that matters more in India than a Western gifting guide will tell you. If the gift is meant to be handed over at a birthday dinner or shown to relatives, a parcel wins and you should buy the parcel.\n\nTwo more honest limits. A page has no resale or exchange value, so it is the wrong answer when someone actually needs a thing. And it cannot be given anonymously in any convincing way — the channel you send it on identifies you.\n\nThere is also a real cost to asking for an address, and it is not only logistical. Experiments reported in the *Journal of Economic Theory* on 1 September 2015 found [a strong causal effect of recipients' expectations on what givers actually give](https://researchportal.bath.ac.uk/en/publications/c93f9d0f-8a12-4109-9db9-c28a11bb7109), and evidence that givers care about what recipients know about the intentions behind a surprise. Asking \"what's your address?\" installs an expectation, and the surprise you were building is spent before the gift arrives.\n\nFinally, pricing. We cannot state what SubhSandesh costs today, because the confirmed pricing figures are not in our own data file — check the [full template list](https://subhsandesh.in/templates) for what is current rather than trusting a number in a blog post.\n\n## Sending one in the next ten minutes\n\nPick the channel first, not the gift. Whichever of WhatsApp, SMS, email or DM you have actually used with this person in the last month is the one the link should arrive on.\n\nThen pick a format that matches what you already have on your phone. Photos point to a [hand-tied digital bouquet](https://subhsandesh.in/bouquet-gf); an existing video points to [giving that video its own page](https://subhsandesh.in/watch); neither, and a written page is faster than hunting for assets.\n\nBuild it, set a password if their phone is shared, and send it in a one-to-one thread with one line about when to open it. Median time from first save to last edit on the most-built page type here is 6.2 hours, so if you want it perfect, start tonight and send tomorrow — and if you want it tonight, ten focused minutes is enough.\n\nStill deciding what kind of digital thing to send? [The four families of digital gift](https://subhsandesh.in/blog/what-is-a-digital-gift) compares them on delivery, expiry and what can actually be measured — a gift card and a personalised page behave nothing alike.\n\n## Sources\n\n- [LAST MILE LOGISTICS: IMPACT OF UNSTRUCTURED ADDRESSES ON DELIVERY TIMES](https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/3/2022/) — ISPRS Archives, 14 October 2022\n- [GeoIndia: A Seq2Seq Geocoding Approach for Indian Addresses](https://aclanthology.org/2024.emnlp-industry.29/) — Association for Computational Linguistics, 2024\n- [Improving geocoding matching rates of structured addresses in Rio de Janeiro, Brazil](https://www.scielo.br/j/csp/a/PzqnKn6Zs5CjHC9RkR6pdMq/?lang=en) — Cadernos de Saúde Pública, 2021\n- [Surprising gifts: Theory and laboratory evidence](https://researchportal.bath.ac.uk/en/publications/c93f9d0f-8a12-4109-9db9-c28a11bb7109) — Journal of Economic Theory, 1 September 2015",
+    "excerpt": "An online gift without address details is not a shipping workaround — for a shareable personalised page there is no address field at all. What 4,357 pages built on SubhSandesh, and three studies on why addresses fail, say about what you can send with only a phone number.",
+    "metaTitle": "Online Gift Without Address — Data From 4,357 Sent Pages",
+    "metaDescription": "An online gift without address details needs a channel, not a courier: 94.1% of the 4,357 pages built here were published and sent with no address at all.",
+    "keywords": "online gift without address, send gift without address, gift without knowing address, online gift link india, digital gift without shipping",
+    "canonicalURL": "https://subhsandesh.in/blog/online-gift-without-address",
+    "ogType": "article",
+    "tags": [
+      "online gifts",
+      "digital gifts",
+      "gift links",
+      "india",
+      "no address"
+    ],
+    "keyTakeaways": [
+      "A shareable personalised page has no address field at all — 94.1% of the 4,357 pages built on SubhSandesh (4,098 of them) were published and sent without one.",
+      "What replaces the address is a delivery channel: a phone number, a WhatsApp thread or an email. 49.0% of shared pages here are opened on a phone.",
+      "The address is the weak link, not your gap — a 2021 study geocoded and validated only 85.7% of 132,863 already-structured address records.",
+      "An online gift without address details is not an e-gift voucher: a voucher is redeemed elsewhere and takes three steps, a page takes one tap.",
+      "A parcel still wins when the gift has to be unwrapped in front of people, and when the recipient needs a physical thing they can exchange."
+    ],
+    "faqs": [
+      {
+        "question": "Does the person receiving the link need an account or an app?",
+        "answer": "No. A shareable page opens in whatever browser is already on their phone, which is how 49.0% of the 49,968 recorded views here happen. If a service asks the recipient to install something first, it has reintroduced the friction you were trying to avoid."
+      },
+      {
+        "question": "Can I send a gift link to someone if I only have their WhatsApp number?",
+        "answer": "Yes — a mobile number you can reach on WhatsApp is enough on its own. The link is the delivery, so any channel that carries a tappable URL works, including SMS, email, Instagram DM or Telegram."
+      },
+      {
+        "question": "What if they never open the link I sent?",
+        "answer": "That is the real failure mode, and it is worth planning for. Send it in a one-to-one thread rather than a group, add one line saying what it is, and follow up once — a link sitting unread in a busy chat is the digital equivalent of a parcel left with a neighbour."
+      },
+      {
+        "question": "Can I schedule the link to arrive at midnight?",
+        "answer": "Nothing in our own product data shows scheduled sending, so do not rely on it. Build the page in advance, keep the link unsent, and send it yourself at the moment you want — the median gap here between a page's first save and its last edit is 6.2 hours, so building ahead is already the normal pattern."
+      },
+      {
+        "question": "Is this the same as sending an Amazon gift without an address?",
+        "answer": "No. That flow still needs a postal address; it just asks the recipient for it instead of you, which means they know a parcel is coming. Money reported that US feature on 4 October 2021, and it is a shipping workaround rather than a different kind of gift."
+      },
+      {
+        "question": "My friend says just send a voucher instead. What's the difference in practice?",
+        "answer": "A voucher is stored value they redeem somewhere else, so it takes three steps — open, copy the code, go shopping. A personalised page takes one tap and is finished. Both avoid the address; only one of them is something you made."
+      },
+      {
+        "question": "Can I send this to someone living abroad?",
+        "answer": "Yes, and this is where the gap is widest. International parcels involve customs, courier windows and a foreign address format; a link crosses borders in the time it takes to send a message, with no delivery window at all."
+      },
+      {
+        "question": "What if I only have their Instagram handle?",
+        "answer": "A DM thread works as a channel, with one caveat: some platforms strip or preview links oddly, and a message from a non-follower can land in a requests folder they never check. If you have any alternative, use it."
+      },
+      {
+        "question": "Can I edit or take back a page after I've sent the link?",
+        "answer": "Editing after sending is normal — the median first-save-to-last-edit gap on the most-built page type here is 6.2 hours, measured across 1,125 pages. What you cannot do is unsee it for someone who has already opened the link, so check the spelling of their name before you hit send."
+      },
+      {
+        "question": "Do I need their email if I already have their phone number?",
+        "answer": "No, one working channel is enough. Pick the one you have actually used with them in the last month rather than the one you happen to have saved — 49.2% of views here come from a touch device, so the phone is usually the right guess."
+      }
+    ],
+    "coverImageQuery": "person opening gift link on phone",
+    "coverImagePrompt": "A young woman in an Indian living room at night, lit only by her phone screen, smiling as a colourful personalised page opens in her browser. Beside her on the table sits an unopened cardboard parcel, ignored. Warm lamp light, shallow depth of field, documentary feel. No text or logos visible on the screen.",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five things you can send without an address, in order of how fast they land",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "A personalised page built around one memory",
+            "description": "One page carrying their name, your photographs and one line only you could have written. Needs 10–20 minutes and about six photos; the recipient taps once. 1,125 built here, 25.8% of all pages."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A hand-tied digital bouquet",
+            "description": "Pick blooms, arrange them, write the card; the link blooms open when tapped. 1,070 built here, 24.6% of all pages — the second most-created page type."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A video given a page of its own",
+            "description": "An existing video gets a real player, a channel row, chapters and a pinned comment. About five minutes once the video exists; the recipient taps and watches, with no download."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A voice note, sent one-to-one",
+            "description": "Two minutes to record, and it lands in seconds. No visual keepsake and it disappears in the scroll within a day, so it works as an opener rather than the whole gift."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "A password-protected page, when the phone is shared",
+            "description": "A code passed on a separate channel. 40.6% of creators here (1,767 of 4,357) set a password before sharing. Adds one step: tap, then type the code."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/online-gift-without-address#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Gift",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gift",
+              "https://www.wikidata.org/wiki/Q184303"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Address",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Address",
+              "https://www.wikidata.org/wiki/Q319608"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Address geocoding",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Address_geocoding",
+              "https://www.wikidata.org/wiki/Q1346408"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "India Post",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/India_Post",
+              "https://www.wikidata.org/wiki/Q3519720"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "LAST MILE LOGISTICS: IMPACT OF UNSTRUCTURED ADDRESSES ON DELIVERY TIMES",
+            "url": "https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/3/2022/",
+            "datePublished": "2022-10-14",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Society for Photogrammetry and Remote Sensing"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "GeoIndia: A Seq2Seq Geocoding Approach for Indian Addresses",
+            "url": "https://aclanthology.org/2024.emnlp-industry.29/",
+            "datePublished": "2024",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Improving geocoding matching rates of structured addresses in Rio de Janeiro, Brazil",
+            "url": "https://www.scielo.br/j/csp/a/PzqnKn6Zs5CjHC9RkR6pdMq/?lang=en",
+            "datePublished": "2021",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cadernos de Saúde Pública"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Surprising gifts: Theory and laboratory evidence",
+            "url": "https://researchportal.bath.ac.uk/en/publications/c93f9d0f-8a12-4109-9db9-c28a11bb7109",
+            "datePublished": "2015-09-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Economic Theory"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "online gift without address",
+    "angle": "Wins by being the only post that treats \"no address\" as a category difference rather than a shipping workaround — separating the shareable page from the e-voucher and the retailer flow, and proving it with 4,357 first-party pages sent without an address and three studies showing that addresses themselves fail.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/templates",
+      "/bouquet-gf",
+      "/watch"
+    ],
+    "factsUsed": [
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "49.2% of views are on a touch device (phone or tablet) — measured 2026-09-15",
+      "#1 page type: \"I love you\" page (/love-gf) — 1,125 created, 25.8% of all pages — measured 2026-09-15",
+      "#2 page type: digital bouquet (/bouquet-gf) — 1,070 created, 24.6% of all pages — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://isprs-archives.copernicus.org/articles/XLVIII-4-W5-2022/3/2022/",
+        "stat": "Unstructured addresses are an established problem in developing countries: they are difficult for last-mile delivery riders to read and locate, which increases delivery times and cost.",
+        "publishedDate": "2022-10-14"
+      },
+      {
+        "url": "https://aclanthology.org/2024.emnlp-industry.29/",
+        "stat": "Indian addresses carry diverse languages, scripts and formats that existing geocoding methods often fail to resolve at fine-grained resolution; the GeoIndia state-level models cut mean distance error by more than 50% against Google Maps in multiple states.",
+        "publishedDate": "2024"
+      },
+      {
+        "url": "https://www.scielo.br/j/csp/a/PzqnKn6Zs5CjHC9RkR6pdMq/?lang=en",
+        "stat": "Of 132,863 structured address records standardised automatically against the national postal address directory, 85.7% (113,876) were geocoded and validated — roughly one in seven remained unmatched.",
+        "publishedDate": "2021"
+      },
+      {
+        "url": "https://researchportal.bath.ac.uk/en/publications/c93f9d0f-8a12-4109-9db9-c28a11bb7109",
+        "stat": "Dictator-game experiments found a strong causal effect of recipients' expectations on givers' transfers, plus evidence that givers care about what recipients know about the intentions behind a surprise.",
+        "publishedDate": "2015-09-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug retains the stop word \"without\". It is the exact target keyword and is fixed by row 5 of WAVE3-PLAN.json; dropping \"without\" would invert the meaning and break the keyword match, so this is a deliberate, unfixable trade."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Three of the four sources (ISPRS unstructured addresses, GeoIndia, the Rio geocoding study) are unswappable — no other post in this batch is about addresses. The fourth, Khalmetski et al. on surprising gifts, could sit unchanged in another gift post in this batch. It is kept because it is the only evidence found for the specific claim that asking for an address spends the surprise; it would be closed by a study measuring the cost of requesting delivery details specifically."
+        }
+      ],
+      "honestAssessment": "An answer engine asked \"can I send a gift online without an address\" currently has to choose between four vendor landing pages, a 2021 US news item about an Amazon feature, and two listicles — none of which separate the shareable page from the e-voucher, and none of which are about India. This post is the only one in that set that names the replacement requirement (a channel), quantifies the failure it removes with three address-geocoding studies including an India-specific one, and carries 4,357 pages of first-party send data no competitor can publish. What it cannot overcome is domain authority: the incumbents are product homepages with commercial backlinks, and the two editorial results sit on money.com and apartmenttherapy.com. Ranking here will take months and depends on links, not on this page being better."
+    },
+    "generatedAt": "2026-09-16T14:15:43.081Z"
+  }
+}

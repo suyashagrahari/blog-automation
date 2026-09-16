@@ -1,0 +1,471 @@
+{
+  "wave": 3,
+  "batchId": "2026-09-15-virtual-gift-30",
+  "generated": "2026-09-16T14:00:36.086Z",
+  "provenance": "Keywords are NOT from content/keywords/2026-09-15-virtual-gift-100 — that run is exhausted (67 of its 100 keywords are already written or claimed as secondaries; 25 of the remaining 33 are marked do-not-write for gate2-ecom-serp / gate5-wrong-product, 2 are merge-into-existing, 3 are improve-existing, and the 3 leftover new-page rows are >=7/10 SERP duplicates of written posts). These 19 come from a fresh India autocomplete harvest, screened as 112 candidates across 5 DuckDuckGo kl=in-en SERP batches on 2026-09-16.",
+  "selectionRule": "Rejected if >=6/10 organic URL overlap with an already-written post (duplicate) or >=5/10 with an already-selected wave-3 row (self-cannibalisation). 10 candidates were rejected on this basis and are listed in rejected[].",
+  "posts": [
+    {
+      "n": 1,
+      "slug": "what-is-a-digital-invitation",
+      "kw": "what is a digital invitation",
+      "tier": "A",
+      "demandPrefixHits": 5,
+      "templateUrls": [
+        "/wedding-shaadi",
+        "/shaadi-card",
+        "/reception"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false,
+      "orchestratorNote": "PLANNING ERROR, corrected post-write: this row was originally assigned 4 templates plus the mandatory /templates CTA link, which is 5 internal links against a 2-4 ceiling and a 1-3 templateUrls schema limit. The /date-invitation block was removed (it is a date invitation, not an event invitation - the writing agent flagged this itself) and ~110 words of practical substance added to restore the 1500-word floor. Verifier clean at 1585 words, 4 links, 49/1."
+    },
+    {
+      "n": 2,
+      "slug": "long-distance-date-ideas-online",
+      "kw": "long distance relationship date ideas online",
+      "tier": "A",
+      "demandPrefixHits": 3,
+      "templateUrls": [
+        "/date-invitation",
+        "/streak",
+        "/dedication"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 3,
+      "slug": "online-surprise-for-long-distance-boyfriend",
+      "kw": "online surprise for long distance boyfriend",
+      "tier": "A",
+      "demandPrefixHits": 4,
+      "templateUrls": [
+        "/train-ticket",
+        "/vending-machine",
+        "/recharge"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "virtual gift for bf",
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 4,
+      "slug": "how-to-make-a-website-for-your-girlfriend",
+      "kw": "how to make a website for your girlfriend",
+      "tier": "A",
+      "demandPrefixHits": 1,
+      "templateUrls": [
+        "/love-gf",
+        "/photo-puzzle",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "website to impress girlfriend",
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 5,
+      "slug": "online-gift-without-address",
+      "kw": "online gift without address",
+      "tier": "A",
+      "demandPrefixHits": 3,
+      "templateUrls": [
+        "/templates",
+        "/bouquet-gf",
+        "/watch"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 1,
+      "nearestWritten": null,
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 6,
+      "slug": "best-virtual-gift-for-boyfriend",
+      "kw": "best virtual gift for boyfriend",
+      "tier": "A",
+      "demandPrefixHits": 5,
+      "templateUrls": [
+        "/loveflix",
+        "/nutrition",
+        "/challan"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 2,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 7,
+      "slug": "long-distance-birthday-gift-website",
+      "kw": "long distance birthday gift website",
+      "tier": "A",
+      "demandPrefixHits": 1,
+      "templateUrls": [
+        "/birthday-gf",
+        "/train-ticket",
+        "/capsule"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 1,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 8,
+      "slug": "birthday-website-for-crush",
+      "kw": "birthday website for crush",
+      "tier": "A",
+      "demandPrefixHits": 1,
+      "templateUrls": [
+        "/flags",
+        "/searched",
+        "/birthday-gf"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "birthday website for girlfriend",
+      "overlapWithNewRow": 0,
+      "nearestNewRow": null,
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 9,
+      "slug": "digital-gift-ideas-for-best-friend",
+      "kw": "digital gift ideas for best friend",
+      "tier": "A",
+      "demandPrefixHits": 7,
+      "templateUrls": [
+        "/searched",
+        "/nutrition",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 3,
+      "nearestWritten": null,
+      "overlapWithNewRow": 2,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 10,
+      "slug": "digital-gift-for-long-distance-friend",
+      "kw": "digital gift for long distance friend",
+      "tier": "A",
+      "demandPrefixHits": 1,
+      "templateUrls": [
+        "/streak",
+        "/catch",
+        "/watch"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 1,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 12,
+      "slug": "surprise-website-for-girlfriend-free",
+      "kw": "surprise website for girlfriend free",
+      "tier": "B",
+      "demandPrefixHits": 3,
+      "templateUrls": [
+        "/love-gf",
+        "/hold-my-hand",
+        "/catch"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "cute website for girlfriend",
+      "overlapWithNewRow": 4,
+      "nearestNewRow": "virtual gift for online friend",
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 13,
+      "slug": "digital-gift-box-free",
+      "kw": "digital gift box free",
+      "tier": "B",
+      "demandPrefixHits": 3,
+      "templateUrls": [
+        "/bouquet-gf",
+        "/vending-machine",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 3,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 14,
+      "slug": "online-gift-maker-for-gf",
+      "kw": "online gift maker for gf",
+      "tier": "B",
+      "demandPrefixHits": 5,
+      "templateUrls": [
+        "/bouquet-gf",
+        "/photo-puzzle",
+        "/darling"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "cute website for girlfriend",
+      "overlapWithNewRow": 4,
+      "nearestNewRow": "surprise website for girlfriend free",
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 15,
+      "slug": "online-gift-maker-for-bf",
+      "kw": "online gift maker for bf",
+      "tier": "B",
+      "demandPrefixHits": 4,
+      "templateUrls": [
+        "/loveflix",
+        "/court-of-love",
+        "/legal-notice"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 3,
+      "nearestWritten": null,
+      "overlapWithNewRow": 3,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 16,
+      "slug": "virtual-gift-with-music",
+      "kw": "virtual gift with music",
+      "tier": "B",
+      "demandPrefixHits": 2,
+      "templateUrls": [
+        "/dedication",
+        "/watch",
+        "/loveflix"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 3,
+      "nearestNewRow": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 17,
+      "slug": "virtual-gift-link-for-boyfriend",
+      "kw": "virtual gift link for boyfriend",
+      "tier": "B",
+      "demandPrefixHits": 4,
+      "templateUrls": [
+        "/recharge",
+        "/challan",
+        "/train-ticket"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "virtual gift for bf",
+      "overlapWithNewRow": 4,
+      "nearestNewRow": "best virtual gift for boyfriend",
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 18,
+      "slug": "digital-gift-for-best-friend",
+      "kw": "digital gift for best friend",
+      "tier": "C",
+      "demandPrefixHits": 6,
+      "templateUrls": [
+        "/capsule",
+        "/rewind",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP, see SERPS-WAVE3.md"
+      },
+      "overlapWithWritten": 2,
+      "nearestWritten": null,
+      "overlapWithNewRow": 4,
+      "nearestNewRow": "digital gift ideas for best friend",
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 19,
+      "slug": "digital-gift-online-free",
+      "kw": "digital gift online free",
+      "tier": "B-promoted",
+      "demandPrefixHits": 3,
+      "templateUrls": [
+        "/bouquet-gf",
+        "/catch",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "note": "hand-read India SERP; competitor landing pages, page type winnable"
+      },
+      "overlapWithWritten": 5,
+      "nearestWritten": "virtual gift for best friend",
+      "mustDifferentiate": true,
+      "overlapWithNewRow": 4,
+      "nearestNewRow": "digital gift box free",
+      "slugCollision": false,
+      "promotedNote": "Promoted after virtual-gift-for-online-friend aborted. Four sibling candidates (online gift for free, online gift maker website, digital gift maker free, virtual gift box maker) were re-rejected because they share 4-7/10 URLs with THIS row - that whole free/maker cluster is one page, not five."
+    }
+  ],
+  "openItems": [
+    {
+      "item": "/christian-wedding and /christian-wedding-2 remain linked ZERO times across all 79 posts.",
+      "why": "No wave-3 keyword SERP justifies them. `digital wedding invitation in marathi`, `digital invitation indian wedding` and every other wedding-invitation keyword screened returned 10/10 invitation-maker tool pages (Gate 2 fail for a blog). Forcing the link into the Hindu-shaadi post would have been a 5th internal link and an off-topic one. BRIEF-WAVE2 §2 is explicit that a wrong link is worse than an unbalanced batch.",
+      "fix": "These two are a TOOL-PAGE opportunity, not a blog one - see strategicFinding below."
+    }
+  ],
+  "strategicFinding": "The digital-invitation axis is a tool-page opportunity, not a blog opportunity. Of ~319 invitation keywords in the harvest, every occasion- and feature-shaped one returns 10/10 invitation-MAKER product pages (Canva, easyinvite.in, desievite.com, invitationbazaar, craftyartapp, Paperless Post, RSVPify). Only the definitional shape `what is a digital invitation` has a blog SERP (7/10 editorial), which is why it is the single invitation row in this wave. The correct action for the rest is landing-page SEO on /wedding-shaadi, /shaadi-card, /reception, /christian-wedding and /christian-wedding-2 - which currently rank nowhere - not blog posts.",
+  "abortedRows": [
+    {
+      "slug": "virtual-gift-for-online-friend",
+      "kw": "virtual gift for online friend",
+      "reason": "9/10 organic URL overlap with the PUBLISHED wave-1 post `virtual gift for best friend`. Google returns essentially the same result set for both queries, so a second page would compete with one we already own. The wave-3 rule rejects at >=6/10.",
+      "whyItWasMissedInitially": "ORCHESTRATOR ERROR - see blindSpotPostMortem below.",
+      "intentDistinctionFound": "An \"online friend\" is someone never met in person: no address can be asked for, real name/city/timezone may be unknown, and consent/safety is a live consideration. The distinction is real but the SERP does not reflect it.",
+      "recommendation": "Add the never-met-friend angle as a SECTION to the existing virtual-gift-for-best-friend post rather than as its own page.",
+      "researchBriefKept": true
+    },
+    {
+      "slug": "best-online-gifts-for-girlfriend",
+      "kw": "best online gifts for girlfriend",
+      "reason": "Three independent grounds, found by the writing agent at Phase 2: (1) DECISIVE - `best online gift for girlfriend` is already declared in the secondaryKeywords of the published post online-gift-for-girlfriend, and the BRIEF forbids targeting another row's secondary; (2) the assigned differentiation lane was already published almost clause-for-clause in what-can-i-gift-my-girlfriend; (3) the SERP is 4/10 marketplace search pages + 3 physical-product affiliate listicles (Wirecutter #1) + 3 banned competitors - zero results a blog could displace.",
+      "whyItWasMissedInitially": "ORCHESTRATOR BUG - my keyword dedupe did not stem. \"best online gifts for girlfriend\" vs the claimed \"best online gift for girlfriend\" scored only 0.60 Jaccard because gift/gifts are distinct tokens. With stemming it scores 1.00. See stemmingBug below.",
+      "alsoRevealed": "The binding collision was TOPICAL (with what-can-i-gift-my-girlfriend), not URL-based. The plan had flagged a different post (online-creative-gift-ideas-for-girlfriend, 5/10 URL overlap). URL-overlap screening cannot see an angle collision.",
+      "researchBriefKept": true,
+      "phase3Skipped": "Deliberately - aborting at Phase 2 avoided spending scarce Crossref/Unpaywall calls and a source-domain slot that siblings still drafting needed."
+    }
+  ],
+  "blindSpotPostMortem": {
+    "finding": "The initial anti-cannibalisation check compared wave-3 candidates only against SERPS-WAVE2.md, which holds SERPs for 28 of the 60 written posts. The other 32 (wave-1) had no SERP on record, so the \">=6/10 = duplicate\" rule was structurally blind to them.",
+    "howItSurfaced": "A writing agent found an unflagged near-neighbour on its own and reported it. That prompted the audit.",
+    "remediation": "Backfilled all 32 missing SERPs with serp-ddg.mjs (kl=in-en) into SERPS-WAVE1-BACKFILL.md and re-ran the check across all 60 written posts.",
+    "caught": "1 outright duplicate (virtual-gift-for-online-friend, 9/10) aborted mid-write; 3 additional rows newly flagged as needing differentiation against wave-1 posts that were previously invisible: best-virtual-gift-for-boyfriend (4/10 vs virtual gift for best friend), surprise-website-for-girlfriend-free (4/10 vs how to surprise girlfriend online), online-gift-maker-for-gf (4/10 vs virtual christmas gift for girlfriend).",
+    "lessonForNextWave": "Record a SERP for EVERY post at write time. A batch that keeps SERPs for only the most recent wave cannot check cannibalisation against its own back catalogue, and the gap is invisible until something ships."
+  },
+  "stemmingBug": {
+    "finding": "The wave-3 keyword dedupe compared candidate keywords against claimed primaries and secondaries using Jaccard over raw tokens with no stemming. Singular/plural pairs therefore scored below the 0.75 rejection threshold: \"gift\" and \"gifts\" are different tokens, so an exact-match-modulo-plural keyword scored 0.60 and passed.",
+    "impact": "One row (best-online-gifts-for-girlfriend) was planned that duplicated a published post's declared secondary keyword. Caught by the writing agent at Phase 2, before any blog JSON was written.",
+    "rescan": "A stemmed re-scan of all 19 rows against 163 claimed terms from the 60 written posts found exactly one other row above 0.80: long-distance-birthday-gift-website (0.80 vs the secondary \"long distance gifts website\" of long-distance-relationship-gifts-online-free). Judged ACCEPTABLE - it narrows the generic claimed phrase with \"birthday\", and the post deliberately took the timing/midnight lane. ACTION: it must cross-link long-distance-relationship-gifts-online-free in the remediation pass.",
+    "fixForNextWave": "Stem tokens (strip trailing s/es, ies->y) before the Jaccard dedupe, and run the check against secondaryKeywords as well as primaries. Both checks are cheap; neither was done."
+  },
+  "finalCount": {
+    "planned": 19,
+    "aborted": 2,
+    "written": 17
+  }
+}

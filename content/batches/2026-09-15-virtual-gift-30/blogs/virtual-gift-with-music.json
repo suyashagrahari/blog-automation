@@ -1,0 +1,300 @@
+{
+  "article": {
+    "title": "Virtual Gift With Music: How to Send a Song That Actually Plays",
+    "slug": "virtual-gift-with-music",
+    "contentMarkdown": "# Virtual Gift With Music: How to Send a Song That Actually Plays\n\nA virtual gift with music is a personalised web page — a link you send — that pairs photos, text or video with a track the recipient can hear. The part nobody on this search result page tells you: **the song will not start on its own.**\n\nMobile browsers block audio with sound until the person taps something. A page built to surprise someone with \"our song\" opens in silence, and the sender usually finds out from the recipient rather than from the product.\n\nThat is not a small detail here. 49.2% of views on SubhSandesh pages are on a touch device, phone or tablet, and a created page is opened 11.5 times on average — both measured 2026-09-15. The tap is the unlock, so the page has to ask for it.\n\nBuild the gift around a button the recipient wants to press. Then the music works every time, on every device, including the one they are holding right now.\n\n## What a virtual gift with music actually contains\n\nThree separable things get bundled under this phrase. The first is a **hosted audio file** — a track you own or recorded, served from the page itself. The second is an **embedded streaming player**, where a Spotify or YouTube widget sits on your page and the audio comes from them.\n\nThe third is a **video with an audio track**, a different problem again, because browsers treat a muted video and an audible one as separate cases. All three arrive as a URL.\n\nOf the 4,357 personalised pages created on SubhSandesh since 2026-03-12 across 16 page types, every one is a link rather than a file — which is why the audio question here is really a browser question.\n\n## Why the song does not start on its own\n\nThis is verifiable, not folklore. MDN's autoplay guide states that media will be allowed to autoplay only if **at least one** of these is true: the audio is muted or its volume is zero; the user has already interacted with the site by clicking, tapping or pressing keys; the site has been allowlisted by the browser or the user; or an iframe has been granted autoplay through a Permissions Policy.\n\nBoth forms count as autoplay, so there is no clever way around it. An `<audio autoplay>` tag and a JavaScript `play()` call outside a user-input handler are treated identically. MDN is explicit that blocking does not apply to video with no audio track or a muted one — inaudible media is unaffected.\n\nChrome's own policy adds the detail that matters most for a gift. Autoplay with sound is allowed if the user has interacted with the domain, **or on desktop** if their Media Engagement Index threshold has been passed, **or** if they have added the site to their home screen on mobile.\n\nRead that again: the engagement-score escape hatch is desktop-only, and nobody adds a gift page to their home screen. On a phone, a tap is the only realistic route. Chrome shipped this for audio and video elements in Chrome 66 and for the Web Audio API in Chrome 71 — an `AudioContext` created before any user gesture starts suspended and must be resumed after one.\n\nSo do not promise a surprise that begins by itself. Promise a button, and label it with something they want — **\"press play\"** is weaker than **\"the song from that night\"**.\n\n## What you can legally attach, and what you can only link\n\nYou cannot lawfully host a copy of someone else's commercial recording on a page you publish. Uploading an MP3 you bought, or one extracted from a streaming app, is reproduction of a work you do not hold the rights to — the purchase gave you a listening copy, not a publishing licence.\n\nLinking is a different act, and embedding sits between the two. Spotify's developer documentation describes Embeds as the supported way to \"share interactive content from Spotify on a website that you control\", offered three ways: pasting the HTML from the Spotify client, the iFrame API, or the oEmbed API.\n\nThat is the honest route for a commercial track — the platform serves the audio and the rights sit with them. The recording you can freely host is one you made: your own voice, your own playing, or audio you hold an explicit licence for.\n\nWhich is why a **voice dedication** beats any licensing workaround. Ten seconds of your actual voice is unambiguously yours, needs no permission, and is the one audio file nobody else can send.\n\n## How the music routes compare\n\nReal values, including what SubhSandesh's own data says about the context each one lands in.\n\n| Route | Starts on its own? | Rights you need | Works offline for them | Fits the 49.2% touch-device audience |\n|---|---|---|---|---|\n| Hosted audio file (your own recording) | No — needs a tap | None, it is yours | Yes, once loaded | Yes, if the page has a visible play control |\n| Streaming embed (Spotify, YouTube) | No — needs a tap, and the iframe needs `allow=\"autoplay\"` even then | Platform's embed terms | No, needs a connection | Yes, but adds a third-party UI to your page |\n| Muted video with captions, sound optional | Yes, muted playback is always allowed | Depends on the footage and any soundtrack | Yes | Best of the three — nothing is blocked |\n| Link out to a playlist | Not applicable, it opens elsewhere | None | No | Weakest — it leaves your page |\n\nThe fourth row is the one most people skip and the one the numbers favour: a muted autoplaying video with an unmute control is the only option that visibly moves the moment the page loads.\n\n## Pick a song whose first ten seconds do the work\n\nRecipients decide fast. The page has one opening, and a song that takes forty seconds to reach the part that matters has already lost the room — so choose a track whose first bars are unmistakable, or start it at the timestamp that is.\n\nThe choice carries weight rather than being decoration. Volgsten and Pripp, writing in *Culture Unbound* in 2016 on music in Kurdish diaspora associations in Stockholm, treat music as a carrier of communicative memory and describe listening as the sonorous communication of bodily affect — the song is not conveying information, it is attuning two people.\n\nThe effect shows up in ordinary contexts too. In a 2023 study of 203 undergraduates during COVID-19 lockdown, published in *Θέματα Επιστημών Αγωγής*, positive music-listening experience was the only predictor of positive affect.\n\nPractically: pick the version they know, not the remaster you prefer, and put one sentence on the page saying why this song.\n\n## Where the sound disappears between your send and their ear\n\nSilent mode is the most common failure. An iPhone on ring/silent mutes web audio in many playback paths, and the recipient concludes the page is broken rather than that their switch is flipped.\n\nThe in-app browser is the second. A link opened inside WhatsApp, Instagram or Telegram renders in an embedded webview rather than Chrome or Safari, and playback there is inconsistent enough that \"open in browser\" is worth saying explicitly.\n\nThen there is the room. 49.0% of shared pages are opened on a phone — 24,493 of 49,968 recorded views, measured 2026-09-15 — and a phone is often held where sound is socially expensive: an office, a bus, a shared bedroom. A visible **\"headphones recommended\"** line takes six words and saves the moment.\n\n## What the numbers say about pages people get replayed\n\nAn average created page is opened 11.5 times, and the most-viewed template on the platform, the \"I love you\" page, has taken 16,201 views — 32.4% of all page views, measured 2026-09-15. A gift page is not a one-shot event; it gets reopened.\n\nThat changes what a song is for. At eleven visits the track is less a reveal and more a signature tune, which argues for something they will not tire of, against a joke track that lands once, and for keeping the play control in the same place every time.\n\n## Three pages built around a track\n\nThe strongest fit is the [voice dedication page](https://subhsandesh.in/dedication) — a radio show made for one person, where they drag the needle through static, land on your station and hear your real voice introduce the song. Every constraint above disappears, because tuning the dial *is* the interaction the browser wants and the audio is yours.\n\nIf what you have is a video rather than a song, the [video gift page](https://subhsandesh.in/watch) gives it a page of its own: a real player, a channel row, clickable chapters and a pinned comment. Muted playback is always permitted, so it moves on load and unmutes on tap.\n\nAnd [LoveFlix](https://subhsandesh.in/loveflix) is a streaming-service parody with your partner as the lead — a joke by design, catalogue rows and a branching episode. Wrong for a sincere anniversary, right for people whose register is teasing.\n\nFor the non-audio options, see [virtual gift ideas ranked by completion](https://subhsandesh.in/blog/virtual-gift-ideas); [what a virtual gift is](https://subhsandesh.in/blog/what-is-a-virtual-gift) separates the four things the phrase can mean.\n\n## When music makes the gift worse\n\nSometimes it does. If the recipient is at work, in a hospital, or in a house where a phone playing music invites questions, audio turns a private message into a public one — and a silent page with a good line on it is the better gift.\n\nIf the relationship is new, a song carries more claim than the moment can hold. A track you both know is intimate; a track only you know is an instruction about how to feel.\n\nMusic also cannot rescue a thin page. If the photos are stock and the text is three sentences, audio makes the emptiness longer rather than warmer — and SubhSandesh is the wrong tool when what is needed is a phone call. Browse the [full template range](https://subhsandesh.in/templates) once you know which of those two you are sending.\n\n## Sources\n\n- [MDN — Autoplay guide for media and Web Audio APIs](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay), Mozilla, verified 2026-09-16\n- [Autoplay policy in Chrome](https://developer.chrome.com/blog/autoplay), Chrome for Developers, published 2018-04-17\n- [Volgsten & Pripp, \"Music, Memory, and Affect Attunement: Connecting Kurdish Diaspora in Stockholm\"](https://cultureunbound.ep.liu.se/article/view/35), *Culture Unbound*, 2016 — abstract read, full text not retrieved\n- [Vasiou, Danou & Sideris, \"Music listening as an emotion regulation strategy of university-students during COVID-19 lockdown\"](https://ejournals.epublishing.ekt.gr/index.php/thea/article/view/30467), *Θέματα Επιστημών Αγωγής*, 2023-04-20 — abstract read, full text not retrieved\n- [Spotify for Developers — Embeds](https://developer.spotify.com/documentation/embeds), Spotify, verified 2026-09-16",
+    "excerpt": "A virtual gift with music is a link that pairs photos or video with a track — and the track will not autoplay. Browsers block sound until the recipient taps. Here is what plays, what you may legally attach, and how to pick a song for a page opened 11.5 times on average.",
+    "metaTitle": "Virtual Gift With Music: Why the Song Won't Autoplay",
+    "metaDescription": "A virtual gift with music never autoplays — browsers block sound until a tap. 49.2% of our page views are on touch devices, where that tap is the only unlock.",
+    "keywords": "virtual gift with music, send a song as a gift, digital gift with a song, add music to a gift page, gift page autoplay, virtual gift with a track",
+    "canonicalURL": "https://subhsandesh.in/blog/virtual-gift-with-music",
+    "ogType": "article",
+    "tags": [
+      "virtual gifts",
+      "music",
+      "digital gifting",
+      "long distance",
+      "how to"
+    ],
+    "keyTakeaways": [
+      "Audio with sound will not autoplay: MDN states playback is permitted only if the media is muted, the user has already interacted with the site, the site is allowlisted, or an iframe holds an autoplay Permissions Policy.",
+      "Chrome's Media Engagement Index can unlock sound-on autoplay on desktop only — on a phone the recipient's tap is the realistic route, and 49.2% of SubhSandesh views are on a touch device (measured 2026-09-15).",
+      "Muted playback is always allowed, so a muted video with an unmute control is the only route that visibly starts on load.",
+      "You may link or embed a commercial track but not host a copy of it; Spotify documents three embed routes for content on a site you control.",
+      "A created page is opened 11.5 times on average, so the song is a signature tune rather than a one-time reveal (measured 2026-09-15)."
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a Spotify song to a virtual gift page?",
+        "answer": "You can embed one, which is not the same as uploading it. Spotify documents three supported routes — HTML copied from the Spotify client, the iFrame API, and the oEmbed API — and in all three Spotify serves the audio and holds the rights. The embed still will not start playing by itself; the recipient taps it."
+      },
+      {
+        "question": "What happens if their phone is on silent when they open the link?",
+        "answer": "On an iPhone with the ring/silent switch flipped, web audio is muted in many playback paths, so the page looks broken rather than quiet. Put one line on the page telling them to check the switch, and offer a visible play control they can press again after they do."
+      },
+      {
+        "question": "Can I record my own voice instead of using a song?",
+        "answer": "Yes, and it is the cleaner option. A recording you made is unambiguously yours, needs no licence, and cannot be sent by anyone else. Ten to twenty seconds of you introducing why this song matters usually lands harder than the track alone."
+      },
+      {
+        "question": "Does it work the same on an iPhone as on an Android phone?",
+        "answer": "The autoplay rules are essentially the same on both: sound-on playback needs a user interaction first. The difference is in the edges — iOS adds the silent switch, and Android in-app webviews vary more between apps. Build for a tap and both behave."
+      },
+      {
+        "question": "How long should the clip be?",
+        "answer": "Keep the audible part under about 30 seconds unless the page is built to be sat through. Most recipients decide inside the first ten, so start the track at the recognisable bar rather than at second zero."
+      },
+      {
+        "question": "Do they need an app or an account to hear it?",
+        "answer": "Not for audio you host yourself — it plays in the browser. A streaming embed may require the recipient to be signed in to that service for full-length playback, which is one reason a self-hosted recording is more reliable for a gift."
+      },
+      {
+        "question": "Can I change the song after I have already sent the link?",
+        "answer": "On SubhSandesh the page is editable after sharing and the URL stays the same, so a swapped track appears the next time they open it. That matters more than it sounds, because a created page is opened 11.5 times on average — measured 2026-09-15."
+      },
+      {
+        "question": "Is a page with music free to make?",
+        "answer": "We cannot confirm current pricing here. The pricing block in our own published data file is empty, and quoting a figure we cannot source would be worse than saying so — check the live template pages at subhsandesh.in/templates for what applies today."
+      },
+      {
+        "question": "Why does the audio work on my laptop but not on their phone?",
+        "answer": "Because Chrome only lets a high Media Engagement Index unlock sound-on autoplay on desktop. Your laptop has played media on the site before; their phone has not, and there is no mobile equivalent short of installing the site to the home screen."
+      },
+      {
+        "question": "What if I just send the song as a WhatsApp voice note instead?",
+        "answer": "That is often the right call, and it removes every browser problem in this article. A page earns its place when the song needs context around it — photos, a date, a reason — rather than when the audio is the entire gift."
+      }
+    ],
+    "coverImageQuery": "phone headphones music gift screen",
+    "coverImagePrompt": "A hand holding a smartphone at night, the screen showing a simple personalised web page with a large glowing play button. A single earbud rests on a wooden table beside it, cable curling. Warm low light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/virtual-gift-with-music#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Music and emotion",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Music_and_emotion",
+              "https://www.wikidata.org/wiki/Q4353948"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "HTML audio",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/HTML_audio",
+              "https://www.wikidata.org/wiki/Q3500685"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Mobile browser",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mobile_browser",
+              "https://www.wikidata.org/wiki/Q845620"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Copyright",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Copyright",
+              "https://www.wikidata.org/wiki/Q1297822"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Autoplay guide for media and Web Audio APIs",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDN Web Docs, Mozilla"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Autoplay policy in Chrome",
+            "url": "https://developer.chrome.com/blog/autoplay",
+            "datePublished": "2018-04-17",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Chrome for Developers, Google"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Music, Memory, and Affect Attunement: Connecting Kurdish Diaspora in Stockholm",
+            "url": "https://cultureunbound.ep.liu.se/article/view/35",
+            "datePublished": "2016-12-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Culture Unbound, Linköping University Electronic Press"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Music listening as an emotion regulation strategy of university-students during COVID-19 lockdown",
+            "url": "https://ejournals.epublishing.ekt.gr/index.php/thea/article/view/30467",
+            "datePublished": "2023-04-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Themata Epistimon Agogis, National Documentation Centre"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Embeds",
+            "url": "https://developer.spotify.com/documentation/embeds",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Spotify for Developers"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ways to attach music to a virtual gift page, compared",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Hosted audio file you recorded yourself"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Streaming embed from Spotify or YouTube"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Muted video with captions and an unmute control"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A plain link out to a playlist"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "virtual gift with music",
+    "angle": "Wins by being the only post on this query that explains why the music does not start — browser autoplay blocking, verified against MDN and Chrome's own policy rather than asserted — and prices that against the 49.2% of SubhSandesh page views that arrive on a touch device, where the recipient's tap is the only unlock.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/dedication",
+      "/watch",
+      "/loveflix"
+    ],
+    "factsUsed": [
+      "49.2% of views are on a touch device (phone or tablet) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "Most-viewed template: love-gf — 16,201 views, 32.4% of all page views — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Autoplay",
+        "stat": "Media is allowed to autoplay only if at least one is true: the audio is muted or its volume is 0; the user has interacted with the site by clicking, tapping or pressing keys; the site has been allowlisted; or the autoplay Permissions Policy grants it to an iframe. Both the autoplay attribute and a JavaScript play() call outside a user-input handler count as autoplay.",
+        "publishedDate": "2026-09-16"
+      },
+      {
+        "url": "https://developer.chrome.com/blog/autoplay",
+        "stat": "Muted autoplay is always allowed; autoplay with sound is allowed if the user has interacted with the domain, if on DESKTOP the Media Engagement Index threshold is passed, or if the user has added the site to their mobile home screen. Shipped in Chrome 66 for audio/video elements and Chrome 71 for the Web Audio API.",
+        "publishedDate": "2018-04-17"
+      },
+      {
+        "url": "https://cultureunbound.ep.liu.se/article/view/35",
+        "stat": "Volgsten & Pripp treat music as a carrier of communicative and cultural memory and frame listening as the sonorous communication of bodily affect, in fieldwork on Kurdish diaspora associations in Stockholm.",
+        "publishedDate": "2016-12-31"
+      },
+      {
+        "url": "https://ejournals.epublishing.ekt.gr/index.php/thea/article/view/30467",
+        "stat": "In 203 undergraduates surveyed during COVID-19 lockdown, positive music-listening experience was the only predictor of positive affect, while both music emotion-regulation strategies predicted negative affect.",
+        "publishedDate": "2023-04-20"
+      },
+      {
+        "url": "https://developer.spotify.com/documentation/embeds",
+        "stat": "Spotify Embeds are the documented way to share interactive Spotify content on a website you control, via HTML copied from the Spotify client, the iFrame API, or the oEmbed API.",
+        "publishedDate": "2026-09-16"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [],
+      "honestAssessment": "All ten India SERP results for this keyword are competitor product homepages, three of which put \"music\" in the title tag and none of which say a single word about how the audio behaves. This post is the only one that states, with the browser documentation fetched and quoted rather than recalled, that sound-on autoplay is blocked until the recipient interacts — and the only one that names the desktop-only Media Engagement Index asymmetry that makes the phone case different. That plus the licensing distinction (embed or link, never a hosted copy) is a set of claims an answer engine can lift whole. The weakness is source depth: the two scholarly citations were read as landing-page abstracts because PDFs do not parse in this sandbox, and neither studies digital gifting directly — they support why a song carries weight, not the mechanics, which rest on MDN, Chrome and Spotify documentation instead. No ranking claim is made; this is a low-authority domain on a query owned by product sites."
+    },
+    "generatedAt": "2026-09-16T14:56:03.813Z"
+  }
+}

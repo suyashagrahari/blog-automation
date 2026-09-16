@@ -1,0 +1,336 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Virtual Gift Link for Boyfriend: What the Link Does Next",
+    "slug": "virtual-gift-link-for-boyfriend",
+    "excerpt": "A virtual gift link for a boyfriend is a URL, and URLs behave oddly: the chat app previews the page before he taps, a password does not hide the card, and 24.5% of cited links in one study were already 404. What that means for a surprise.",
+    "metaTitle": "Virtual Gift Link for Boyfriend — After You Press Send",
+    "metaDescription": "A virtual gift link for a boyfriend can be previewed, forwarded and edited after you send it — what 49,968 opens and a 6.2-hour median edit gap change.",
+    "keywords": "virtual gift link for boyfriend, gift link for boyfriend, send a virtual gift link, virtual gift link preview, online gift link for boyfriend",
+    "canonicalURL": "https://subhsandesh.in/blog/virtual-gift-link-for-boyfriend",
+    "ogType": "article",
+    "tags": [
+      "virtual gifts",
+      "gift link",
+      "digital gifts",
+      "long distance",
+      "boyfriend"
+    ],
+    "keyTakeaways": [
+      "A gift link cannot be unsent — you can only change what it points to, and the median SubhSandesh page is still being edited 6.2 hours after its first save (n=1,125).",
+      "The chat app fetches your page to build the preview card, so whatever the card says is read before he taps and by anyone glancing at his lock screen.",
+      "40.6% of creators password-protect a page before sharing (1,767 of 4,357); the password guards the page, not the preview.",
+      "Links die: of 555 URLs cited in US Supreme Court opinions, 24.5% returned a 404 and only 78.5% of the surviving ones still showed the cited material.",
+      "49.0% of opens are on a phone (24,493 of 49,968 views) and the average page is opened 11.5 times, so build for a reopened phone screen."
+    ],
+    "faqs": [
+      {
+        "question": "What do I actually send him — a link, or a file?",
+        "answer": "A link. The page lives on the web and he opens it in a browser, so there is nothing to download, install or sign up for, and nothing arrives in his gallery unless he screenshots it."
+      },
+      {
+        "question": "Can I stop him forwarding the gift link to someone else?",
+        "answer": "Not really. A password stops whoever he forwards it to from seeing the page, but it cannot stop him passing the URL on, and 40.6% of SubhSandesh creators set one before sharing for exactly that reason."
+      },
+      {
+        "question": "He opened it on his office laptop and half of it did not load. Why?",
+        "answer": "Managed work devices often block outside domains, fonts or media, and data-saving modes can make a browser request lighter versions of images and video. Ask him to reopen it on his own phone on normal data."
+      },
+      {
+        "question": "He has not opened it yet. Should I resend the link or wait?",
+        "answer": "Wait a few hours before resending. Pages on SubhSandesh average 11.5 opens each across 49,968 recorded views, so the first open is rarely the last, and a second message tends to explain the surprise before he sees it."
+      },
+      {
+        "question": "Can I make the link unlock exactly at midnight?",
+        "answer": "I cannot confirm a scheduled-unlock feature on SubhSandesh, so do not plan around one. The reliable method is to finish the page early and send the message at the hour you want."
+      },
+      {
+        "question": "What if he loses the message and cannot find the link again?",
+        "answer": "Send it once more from your own chat history, since the URL does not change when you edit the page. It is worth saving the address somewhere outside the chat the day you build it."
+      },
+      {
+        "question": "Is a QR code better than a link if he is in another city?",
+        "answer": "No. A QR code only helps when you can physically hand over paper; at a distance it adds a scan step and the same URL is doing the work anyway."
+      },
+      {
+        "question": "How long should the password be if he is typing it on a phone?",
+        "answer": "Short. 49.0% of opens happen on a phone, usually one-handed, so a long passphrase is a barrier rather than a security gain — and it should not be a date the two of you would argue about."
+      },
+      {
+        "question": "Is a virtual gift link for a boyfriend free to make?",
+        "answer": "SubhSandesh's internal facts file carries no confirmed pricing, so this post will not state one. Check the current terms on the template gallery before you plan around a free build."
+      },
+      {
+        "question": "Will he be able to tell I made it myself rather than bought it?",
+        "answer": "Usually yes, and that is the point. The details that read as handmade are the specific ones — a date, an inside joke, a photo nobody else has — not the polish of the template."
+      }
+    ],
+    "coverImageQuery": "man looking at phone message notification night",
+    "coverImagePrompt": "A young Indian man in a dim room at night, lit only by the screen of the phone in his hand, reading a message that has just arrived. Shot over his shoulder so the screen content is not legible, warm lamp light in the background, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Virtual Gift Link for Boyfriend: What the Link Does Next\n\nA virtual gift link for a boyfriend is a private URL pointing at a page you built for him. He taps it, the page opens in whatever browser his phone hands it to, and nothing is downloaded, delivered or shipped.\n\nThe link is the packaging, and it behaves in ways a wrapped box does not. It can be previewed before he opens it, forwarded after he does, edited while he is still looking at it, and quietly stop working a year from now.\n\nTwo numbers from SubhSandesh's own database explain why that matters. 49.0% of opens happen on a phone (24,493 of 49,968 recorded views, measured 2026-09-15), and the average page is opened 11.5 times — this is not a thing he looks at once. Everything below is about the link itself: the preview card, editing after sending, passwords, and what survives a year.\n\n## What a virtual gift link for a boyfriend actually is\n\nIt is one unlisted web address that loads a page of your photos, messages or jokes about him. Anyone holding that address can open it, and nobody without it can find it, because it is not listed anywhere a search engine crawls.\n\nThat is the whole access model. SubhSandesh has recorded 4,357 personalised pages across 16 page types since 2026-03-12, and 94.1% of started pages are published and shared (4,098 of 4,357, measured 2026-09-15) — the abandonment happens before the link exists, not after.\n\n## What his phone shows before he taps the link\n\nWhen you paste the URL into a chat, the messaging app goes and fetches the page itself to build the preview card. Slack's developer documentation describes this plainly for its own default behaviour: [when a link is spotted, Slack crawls it and provides a preview](https://api.slack.com/reference/messaging/link-unfurling). Most chat apps do some version of the same thing.\n\nThat has one consequence people discover too late. Whatever title and image your page hands an unauthenticated crawler is what appears in his chat before he has decided to tap — and it is also what anyone glancing at his lock screen reads. Check it rather than assume it.\n\nThere is a second device variable. If he has a data-saving mode on, his browser can send a `Save-Data: on` request header, and the [W3C Community Group Save Data specification](https://wicg.github.io/savedata/) says an origin may then deliver \"smaller image and video resources, alternate markup, and so on\". A page you built on office Wi-Fi is not guaranteed to look identical on his 4G.\n\nThis is where a deliberately official-looking format has an advantage. The SubhSandesh [mock traffic challan page](https://subhsandesh.in/challan) — a fake e-challan for things he actually did, which he can pay or contest — is funnier the more bureaucratic its preview card looks, so the card giving the game away is the point rather than the problem.\n\n## Can you edit the page, or take it back, after you send it?\n\nNo. You cannot unsend a URL — you can only change what it points to, and he may already be looking at it when you do.\n\nThis is not a hypothetical risk on this platform. The median gap between a page's first save and its last edit is 6.2 hours, sampled on the \"I love you\" page (n=1,125, measured 2026-09-15), which means a great many pages are still being worked on hours after they were first created. Since 94.1% of started pages get published, plenty of those edits are happening to live addresses.\n\nThe rule is dull and correct: finish it, then send it. If you must send early, tell him it is not done, because a half-built page read as a finished one is worse than a wait.\n\nDeletion cuts both ways. If you can delete the page he loses it too, and at 11.5 average opens he is likelier to come back than you think. The [prepaid relationship recharge](https://subhsandesh.in/recharge) — he picks a plan, pays on a sheet that mimics the real thing, gets a receipt — leaves him something screenshot-shaped that survives independently of the link.\n\n## Three checks to run before you paste it into his chat\n\nThree checks, in order, close the failure modes that actually happen — the preview, the phone, and the 40.6% decision.\n\n### 1. Send the link to yourself first\n\nOpen the chat you are going to use, paste the URL, and look at the card the app builds. You are checking the title, description and image — the properties the Open Graph protocol standardised and that chat apps read.\n\nIf the card names the surprise, the surprise is over before he taps.\n\n### 2. Open it once on a phone, not on the laptop you built it on\n\n49.0% of all opens on SubhSandesh are on a phone (24,493 of 49,968 views), so the phone rendering is the real one. Long captions, wide tables and anything that needs a hover are the usual casualties.\n\n### 3. Set the password before you send, not after\n\n40.6% of SubhSandesh creators password-protect a page before sharing it (1,767 of 4,357, measured 2026-09-15). Adding one afterwards does not help if the link has already been forwarded, because the forwarding already happened.\n\nKeep it short. He is typing it one-handed on a phone.\n\n## What you can take back, and what you cannot\n\nDifferent things you can send him have very different recall and survival properties. This table compares them on the two questions that matter after the moment has passed.\n\n| What you sent | Can you change it afterwards | Still there in a year | SubhSandesh measurement |\n|---|---|---|---|\n| A link to a page you control | Yes — edit the page, the URL stays | Only while the page is hosted | Median 6.2h first save to last edit (n=1,125) |\n| A screenshot he took of the page | No | Yes, it sits in his gallery | 49.0% of opens are on a phone |\n| The link after he forwards it | No, and you cannot see who holds it | Same lifespan as the page | 40.6% set a password before sharing |\n| A printed QR code on a card | No | Only if the link behind it survives | 11.5 average opens per page |\n\nThe pattern is that everything you keep control of is also everything that can disappear, and everything permanent is a copy you no longer control.\n\n## Why putting a password on his page is a relationship question\n\nThe 40.6% figure above is usually read as a security setting. It is at least as much a relational one, because handing a partner a password is a documented relationship behaviour rather than a neutral act.\n\nIn a 2024 study of 948 US adults currently or recently in romantic relationships, [Vendemia and Bevan found that relationship satisfaction, relationship length and social networking site jealousy each predicted password sharing](https://digitalcommons.chapman.edu/comm_articles/145/), and that distrust-and-suspicion reasons for sharing were negatively related to satisfaction. Only the abstract was readable, so that is the whole of what can be claimed from it.\n\nA password also does not solve forwarding. A 2017 First Monday study built on 34 semi-structured interviews found that [trust, confidentiality and consent are the fundamental conditions for photo-sharing in close relationships](https://firstmonday.org/ojs/index.php/fm/article/view/7860), while participants simultaneously treated trust and confidentiality as fragile, and usually held the person who made the image responsible for unintended re-sharing.\n\nOne disclosure, because it changes how you should read every number here: the SubhSandesh database records which template was opened, not who received it. A count against the \"I love you\" page does not prove the recipient was a boyfriend.\n\n## Whether the link still exists a year from now\n\nLinks decay, and the best-measured version of this comes from legal citation. In the Harvard Law Review Forum, [Zittrain, Albert and Lessig reported that of 555 URLs cited in US Supreme Court opinions, 136 (24.5%) returned a 404](https://harvardlawreview.org/forum/vol-127/perma-scoping-and-addressing-the-problem-of-link-and-reference-rot-in-legal-citations/), and of the 353 that still returned HTTP 200, only 277 — 78.5% — actually showed the material originally cited. Their overall reference-rot figure for those citations was about 50%.\n\nA dead address is not a neutral outcome either. At the ACM Web Conference 2024, Saric and colleagues [found active links on the web pointing to more than 572,000 .com domains that had never been registered](https://eprints.qut.edu.au/245862/), registered 51 of them, and saw 88% of those \"phantom domains\" exceed a control domain's traffic, with up to ten times more visits, at under $20 per domain.\n\nThe lesson for a gift is small and specific. Keep the contents outside the page — download the photos, screenshot the receipt — so the memory does not depend on one URL staying alive. A format built to be reopened, like the [long-distance train ticket page](https://subhsandesh.in/train-ticket) where he checks the PNR, watches the waitlist clear and reads the running status of the relationship, is worth more the longer it survives.\n\n## When a virtual gift link is the wrong thing to send him\n\nIf he is in the same room, give him the object. A link asks him to take his phone out in front of you, which is the opposite of what you wanted.\n\nIt is also a poor fit for a locked-down work phone, and for anyone who genuinely never reopens links — 11.5 opens per page is an average, and averages hide the people who look once. For the gift's register rather than the link's mechanics, [our post on picking a virtual gift for a bf](https://subhsandesh.in/blog/virtual-gift-for-bf) argues for joke formats over sincere ones, and [what goes on a shareable gift link for couples](https://subhsandesh.in/blog/shareable-gift-link-for-couples) covers the page contents.\n\nOn cost: SubhSandesh's internal facts file carries no confirmed pricing, so this post will not quote a figure it cannot source. Check the current terms on the [SubhSandesh template gallery](https://subhsandesh.in/templates).\n\n## Sources\n\n- Zittrain, Albert & Lessig, \"Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations\", Harvard Law Review Forum vol. 127, March 2014.\n- Saric, Savins, Ramachandran, Jurdak & Nepal, \"Hyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains\", ACM Web Conference 2024, 8 May 2024.\n- Vendemia & Bevan, \"Why Do People Share Social Networking Site Passwords with Their Romantic Partners?\", Communication Research Reports, 24 October 2024 — abstract only.\n- Venema & Lobinger, \"'And somehow it ends up on the Internet.' Agency, trust and risks in photo-sharing among friends and romantic partners\", First Monday 22(7), 3 July 2017.\n- Slack developer documentation, \"Unfurling links in messages\".\n- W3C Community Group, \"Save Data API\" specification.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/virtual-gift-link-for-boyfriend#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Gift",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gift",
+              "https://www.wikidata.org/wiki/Q184303"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "URL",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/URL",
+              "https://www.wikidata.org/wiki/Q42253"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Link rot",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Link_rot",
+              "https://www.wikidata.org/wiki/Q1193907"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Password",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Password",
+              "https://www.wikidata.org/wiki/Q161157"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "QR code",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/QR_code",
+              "https://www.wikidata.org/wiki/Q12203"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations",
+            "url": "https://harvardlawreview.org/forum/vol-127/perma-scoping-and-addressing-the-problem-of-link-and-reference-rot-in-legal-citations/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Harvard Law Review Forum"
+            },
+            "datePublished": "2014-03"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains",
+            "url": "https://eprints.qut.edu.au/245862/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Queensland University of Technology ePrints"
+            },
+            "datePublished": "2024-05-08"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Why Do People Share Social Networking Site Passwords with Their Romantic Partners?",
+            "url": "https://digitalcommons.chapman.edu/comm_articles/145/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Chapman University Digital Commons"
+            },
+            "datePublished": "2024-10-24"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "“And somehow it ends up on the Internet.” Agency, trust and risks in photo-sharing among friends and romantic partners",
+            "url": "https://firstmonday.org/ojs/index.php/fm/article/view/7860",
+            "publisher": {
+              "@type": "Organization",
+              "name": "First Monday"
+            },
+            "datePublished": "2017-07-03"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unfurling links in messages",
+            "url": "https://api.slack.com/reference/messaging/link-unfurling",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Slack"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Save Data API",
+            "url": "https://wicg.github.io/savedata/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "W3C Web Platform Incubator Community Group"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Three checks to run before you paste a virtual gift link into his chat",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Send the link to yourself first",
+            "description": "Paste the URL into the chat app you plan to use and read the preview card it builds — title, description and image."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Open it once on a phone, not on the laptop you built it on",
+            "description": "49.0% of SubhSandesh opens are on a phone (24,493 of 49,968 views), so the phone rendering is the real one."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Set the password before you send, not after",
+            "description": "40.6% of SubhSandesh creators password-protect a page before sharing (1,767 of 4,357); adding one after the link is forwarded is too late."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "virtual gift link for boyfriend",
+    "secondaryKeywords": [
+      "gift link for boyfriend",
+      "send virtual gift link to boyfriend",
+      "online gift link for boyfriend"
+    ],
+    "angle": "Wins by being the only post on this SERP that treats the link itself as the object — the preview card his chat app builds before he taps, whether the page can be edited or taken back after sending, what a password does and does not cover, and whether the URL still resolves in a year — grounded in SubhSandesh's 6.2-hour median edit gap (n=1,125), 40.6% pre-share password rate and 11.5 average opens per page.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/recharge",
+      "/challan",
+      "/train-ticket"
+    ],
+    "factsUsed": [
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "49,968 recorded views of shared pages — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://harvardlawreview.org/forum/vol-127/perma-scoping-and-addressing-the-problem-of-link-and-reference-rot-in-legal-citations/",
+        "stat": "Of 555 URLs cited in US Supreme Court opinions, 136 (24.5%) returned a 404; of the 353 returning HTTP 200, only 277 (78.5%) still showed the material originally cited; overall reference rot for those citations was about 50%.",
+        "publishedDate": "2014-03"
+      },
+      {
+        "url": "https://eprints.qut.edu.au/245862/",
+        "stat": "Large-scale web crawls found active links to more than 572,000 .com domains that had never been registered; registering 51 of these 'phantom domains', 88% exceeded a control domain's traffic, with up to ten times more visits, at under $20 per domain.",
+        "publishedDate": "2024-05-08"
+      },
+      {
+        "url": "https://digitalcommons.chapman.edu/comm_articles/145/",
+        "stat": "Survey of 948 US adults currently or recently in romantic relationships: relationship satisfaction, relationship length and social networking site jealousy each predicted password sharing with a partner; distrust/suspicion reasons were negatively related to satisfaction. Abstract only was readable.",
+        "publishedDate": "2024-10-24"
+      },
+      {
+        "url": "https://firstmonday.org/ojs/index.php/fm/article/view/7860",
+        "stat": "34 repertoire-oriented semi-structured interviews: trust, confidentiality and consent are the fundamental conditions for photo-sharing in close relationships, yet participants treated trust and confidentiality as unreliable and fragile, and usually held the image-maker responsible for unintended re-sharing.",
+        "publishedDate": "2017-07-03"
+      },
+      {
+        "url": "https://api.slack.com/reference/messaging/link-unfurling",
+        "stat": "Slack's default link treatment: when a link is spotted, Slack crawls it and provides a preview — i.e. the messaging platform itself fetches the page to build the preview card."
+      },
+      {
+        "url": "https://wicg.github.io/savedata/",
+        "stat": "The Save Data API defines the Save-Data request header with the token 'on' as an explicit user opt-in to reduced data usage, which allows origins to deliver 'smaller image and video resources, alternate markup, and so on'."
+      }
+    ],
+    "differentiation": "virtual-gift-for-bf argues which register of gift to pick for a boyfriend (joke formats over sincere ones); this post is about the link after you press send — the preview card, editing a live URL, what a password covers, and whether the address still resolves in a year.",
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "`virtual-gift-link-for-boyfriend` carries the stop word \"for\". Structural, not fixable at draft time: the slug is assigned verbatim by WAVE3-PLAN.json row 17 and is the exact-match target keyword, so removing \"for\" would break the \"Target keyword in H1, metaTitle, slug, and first 100 words\" item it sits beside. Closes only if the orchestrator decides exact-match slugs matter less than stop-word hygiene."
+        }
+      ],
+      "honestAssessment": "All ten organic results on this India SERP are product landing pages that describe what you can build; none of them says what the URL does once it is in his chat, so the preview card, the 6.2-hour median edit gap on a live address, the password/forwarding split and the 24.5%-of-555 link-rot figure are claims an answer engine cannot get from this result set. The real risk is internal, not external: the wave-2 sibling `shareable-gift-link-for-couples` already covers preview cards, forwarding and link decay for a different keyword, and although its SERP overlap with this row was under the 4/10 threshold, roughly a third of this post's territory is adjacent to it — the two are cross-linked, and this post's distinct ground is editing-after-sending, the device variables and the password-as-relational-act framing, all sourced from papers that sibling does not cite. Domain authority here is far below the competitor landing pages that own this query, and none of this changes that; ranking will take months if it happens."
+    },
+    "generatedAt": "2026-09-16T15:03:50.613Z"
+  }
+}

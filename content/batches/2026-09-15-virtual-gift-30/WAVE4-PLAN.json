@@ -1,0 +1,211 @@
+{
+  "wave": 4,
+  "batchId": "2026-09-15-virtual-gift-30",
+  "generated": "2026-09-16T17:09:13.151Z",
+  "provenance": "Keywords from a fresh 1,934-row India autocomplete harvest (ac4, seeds: how to surprise / how to send gift online / wish page / birthday page for / digital card for / love website), mined with a STEMMED dedupe against 469 claimed terms across all batches. Screened via Brave after DuckDuckGo rate-limited the sandbox (HTTP 202 anomaly page after ~150 queries).",
+  "theFinding": "The `how to surprise <person>` shape is the first cluster in four waves whose SERP is genuinely editorial: wikiHow at #1 with Reddit threads behind it, 5-10 of 10 results editorial, ZERO ecommerce and ZERO tool pages. Contrast the three dead shapes measured in wave 3 (online <x> gift for <person> = retail 13/13; digital invitation for <occasion> = 10/10 tool pages; virtual gift <noun> = competitor landing pages). `digital card for <occasion>` failed the same way the invitation cluster did (5-6/10 tool pages), confirming the rule generalises.",
+  "serpCaveat": "ALL wave-4 SERPs are Brave, US-served. Brave accepts no region parameter. Wave 3 used DuckDuckGo kl=in-en (genuine India SERPs). Treat wave-4 positions as indicative of PAGE TYPE, which is what Gate 2 needs, but not of Indian ranking order.",
+  "selectionRule": "Rejected at >=0.80 stemmed keyword similarity to any claimed primary or secondary, >=6/10 SERP overlap with a written post, or >=5/10 with an already-selected row. `how to surprise anyone` was additionally dropped by hand as a semantic twin of `how to surprise someone` despite measuring only 4/10 - twice this run a topical collision was invisible to the URL metric.",
+  "posts": [
+    {
+      "n": 1,
+      "slug": "how-to-surprise-someone",
+      "kw": "how to surprise someone",
+      "blogResultsInSerp": "10/10",
+      "templateUrls": [
+        "/templates",
+        "/catch",
+        "/hold-my-hand"
+      ],
+      "suggestedSecondaries": [
+        "how to surprise anyone",
+        "how to surprise a person",
+        "how to surprise someone online"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 2,
+      "slug": "how-to-surprise-your-wife",
+      "kw": "how to surprise wife",
+      "blogResultsInSerp": "9/10",
+      "templateUrls": [
+        "/darling",
+        "/dedication",
+        "/rewind"
+      ],
+      "suggestedSecondaries": [],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 3,
+      "slug": "how-to-surprise-husband-on-anniversary",
+      "kw": "how to surprise husband on anniversary",
+      "blogResultsInSerp": "7/10",
+      "templateUrls": [
+        "/capsule",
+        "/train-ticket",
+        "/recharge"
+      ],
+      "suggestedSecondaries": [],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 5,
+      "slug": "how-to-surprise-boyfriend-romantic-night",
+      "kw": "how to surprise your boyfriend with a romantic night",
+      "blogResultsInSerp": "6/10",
+      "templateUrls": [
+        "/loveflix",
+        "/date-invitation",
+        "/vending-machine"
+      ],
+      "suggestedSecondaries": [],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 6,
+      "slug": "how-to-create-a-digital-card",
+      "kw": "how do i create a digital card",
+      "blogResultsInSerp": "6/10",
+      "templateUrls": [
+        "/shaadi-card",
+        "/christian-wedding",
+        "/christian-wedding-2"
+      ],
+      "suggestedSecondaries": [
+        "how do i make a digital card",
+        "how to make a digital card"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 7,
+      "slug": "how-to-surprise-husband-with-pregnancy-news",
+      "kw": "how to surprise husband with pregnancy news",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/capsule",
+        "/watch",
+        "/templates"
+      ],
+      "suggestedSecondaries": [],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "mustDifferentiate": false,
+      "slugCollision": false
+    },
+    {
+      "n": 8,
+      "slug": "love-website-for-boyfriend",
+      "kw": "love website for boyfriend",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/love-gf",
+        "/streak",
+        "/flags"
+      ],
+      "suggestedSecondaries": [],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-SERVED, not India-localised - Brave accepts no region param. Weaker evidence than wave 3 kl=in-en SERPs; discount confidence."
+      },
+      "overlapWithWritten": 4,
+      "nearestWritten": "romantic website for girlfriend",
+      "mustDifferentiate": true,
+      "slugCollision": false
+    },
+    {
+      "n": 8,
+      "slug": "birthday-website-for-best-friend",
+      "kw": "birthday website for best friend",
+      "blogResultsInSerp": "7/10",
+      "suggestedSecondaries": [
+        "birthday page for friend",
+        "happy birthday page for friend"
+      ],
+      "templateUrls": [
+        "/searched",
+        "/nutrition",
+        "/birthday-gf"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "brave",
+        "note": "US-served. 7/10 editorial, Reddit r/GiftIdeas + r/Gifts + r/website_ideas; one competitor at #1."
+      },
+      "gate5Note": "`birthday page for friend` measured HIGHER demand (prefix_hits 15 vs 5) and cleaner overlap (0/10 vs written), but its SERP skews to r/AskProgramming and r/lovable - developer intent, a Gate 5 conversion-fit risk. Folded in as a secondary instead; the gift-intent phrasing takes the primary.",
+      "overlapWithWritten": 1,
+      "nearestWritten": null,
+      "mustDifferentiate": true,
+      "differentiationNote": "Stemmed keyword similarity 0.60 against the PUBLISHED `birthday wish website for friend` - below the 0.80 reject threshold but semantically close. The split is real and must be stated: a WISH website is a page others leave wishes on; this is a page YOU make FOR them. Read blogs/birthday-wish-website-for-friend.json first and cross-link it.",
+      "slugCollision": false
+    }
+  ],
+  "abortedRows": [
+    {
+      "slug": "surprise-ideas-for-her",
+      "kw": "surprise ideas for her",
+      "reason": "Both halves of the assigned lane failed independently. (1) The \"her = relationship-agnostic\" premise is disproved by its own SERP: 6 of 10 results name a GIRLFRIEND explicitly in title or URL, so searchers resolve \"her\" to the most saturated intent in the batch (9 published posts). The wife half is owned by wave-4 row how-to-surprise-your-wife plus 3 published wife posts; the framing is owned by wave-4 row how-to-surprise-someone. (2) \"Ideas with situational judgement\" is the batch house format, not a gap - 13 of 78 posts use it, and what-can-i-gift-my-girlfriend + digital-gift-for-girlfriend are near-verbatim matches. The escape hatch offered (a \"when a surprise is wrong\" section) is table stakes: 7 siblings already carry that H2.",
+      "whyItWasMissedInitially": "ORCHESTRATOR ERROR - I assigned \"her\" as a relationship-agnostic lane without checking how the SERP resolves the pronoun. It resolves to girlfriend. The URL-overlap screen passed the row because the SERP is editorial rather than duplicated; the collision is TOPICAL, which that metric cannot see. Third such case this run.",
+      "sourcesSpent": "ZERO, deliberately - the agent declined to burn 4-6 scarce OA domains on a post that would not ship, given 16 domains are at cap. Search terms recorded in the brief instead.",
+      "recommendation": "If revisited, the only honest form is a HUB page routing by relationship type, published AFTER how-to-surprise-someone and how-to-surprise-your-wife - a different content type, not an article competing with its own children.",
+      "researchBriefKept": true
+    }
+  ],
+  "templateSaturation": "Measured during this abort and worth carrying forward: /love-gf now appears in 22 of 79 posts, /bouquet-gf in 13, /photo-puzzle in 8. Template novelty is nearly as exhausted as keyword novelty. Future waves should treat a template assignment as a real constraint, not a formality."
+}

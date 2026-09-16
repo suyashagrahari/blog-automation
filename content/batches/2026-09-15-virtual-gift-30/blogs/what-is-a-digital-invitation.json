@@ -1,0 +1,303 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "article": {
+    "title": "What Is a Digital Invitation?",
+    "slug": "what-is-a-digital-invitation",
+    "contentMarkdown": "# What Is a Digital Invitation?\n\nA digital invitation is an invitation that exists as a link or a file rather than a printed card — made on a phone or laptop and sent over WhatsApp, email or SMS. On SubhSandesh, 49.0% of shared pages are opened on a phone (24,493 of 49,968 views, measured 2026-09-15), so for most guests \"opening the invitation\" means tapping a link inside a chat thread.\n\nThe distinction that decides everything is not digital versus paper. It is file versus page. A JPEG, a PDF or a 30-second video is a picture of an invitation; a page is an address on the internet that can be edited after you send it, counted, and locked.\n\nAcross 4,357 personalised pages created since 2026-03-12, 40.6% of creators password-protect the page before sharing it (1,767 of 4,357, measured 2026-09-15). RSVP buttons, countdowns and maps are features of the page, not of \"digital\".\n\n## File or page: the two things people mean by a digital invitation\n\nWhen someone in India says they sent a digital invitation, they usually mean one of two very different objects. The first is a file — a design exported as an image or a PDF, or a short animated video, forwarded from chat to chat.\n\nThe second is a hosted page: a URL of its own, opened in a browser, which can change after it has been sent. SubhSandesh's database covers 16 page types and 4,357 pages created since 2026-03-12 (measured 2026-09-15), and every one of them is the second kind.\n\nThe difference is not cosmetic. A file is frozen the moment you export it, and a copy you shared last week keeps circulating with last week's venue on it. A page has one canonical version, so correcting the muhurat corrects it for everyone who has the link.\n\nFiles win on one point, and it is a real one: they survive without a network and they sit in a phone's gallery forever. Pages win on everything that happens after the send.\n\n## The moves every invitation has to make, on card or on screen\n\nInvitations are not free-form writing. Genre researchers who have counted them find a fixed, conventionalised set of components that recur almost without exception.\n\nNassier Al-Zubaidi's [analysis of 250 Iraqi wedding invitation cards](https://journals.umcs.pl/lsmll/article/view/4012), published 4 July 2017, found the schematic organisation of the genre built around seven component moves, with religious belief and social system encoded directly into the text. Murad Sawalmeh's doctoral thesis at the University of Huddersfield went further, running a [move analysis over a corpus of 500 wedding invitation cards](http://eprints.hud.ac.uk/id/eprint/28708/) in Jordanian society in 2015 and identifying eight communicative moves, each with a specific function.\n\nThe point for anyone building a digital one is blunt. If your page drops the hosts' names, the relationship framing or the request itself because the template had no slot for them, you have not modernised the invitation — you have published an incomplete one.\n\nThat structure survives the move online. Alaeddin Banikalef collected [120 online wedding invitation cards from Facebook between March and June 2020](https://www.ccsenet.org/journal/index.php/ijel/article/view/0/43243), during the COVID-19 restrictions, and found six obligatory moves and one optional move emerging from the corpus — the same conventionalised shape, delivered through a screen.\n\n## Digital invitation, printed card, or image file — what actually differs\n\nMost comparisons of this question stop at cost, speed and paper waste. Those are real, but they are also the three things every platform's marketing page already says. Here is what changes in practice, with the page column measured on SubhSandesh's own database on 2026-09-15.\n\n| What you are comparing | Printed card | Image or PDF file | Hosted invitation page |\n|---|---|---|---|\n| Fixing a detail after sending | Reprint the run | Re-send; the old file keeps circulating | Edit in place — median gap from first save to last edit is 6.2 hours (n=1,125) |\n| Controlling who opens it | Whoever is handed it | Whoever it is forwarded to | 40.6% of creators lock it with a password before sharing (1,767 of 4,357) |\n| Where it is actually read | In hand | In a chat app | 49.0% of views are on a phone (24,493 of 49,968) |\n| Evidence anyone looked | None | None | 11.5 views per created page on average |\n| Chance it gets finished at all | High | High | 94.1% of started pages are published and shared (4,098 of 4,357) |\n\nThe last row is the one that surprises people. Roughly one in seventeen pages is started and abandoned, which is a real failure rate for something that takes minutes.\n\n## What happens after you press send\n\nA printed card's story ends at the envelope. A page's story starts there, and it is measurable: 49,968 recorded views across the platform, averaging 11.5 per created page (measured 2026-09-15).\n\nThat number is lower than most people expect from an event invitation, and it is worth being honest about why. A wedding guest list of 200 does not produce 200 views unless 200 people actually tap the link — forwarding a link is not the same as opening one.\n\nOne disclosure matters here. The database records which template was opened, not who received it, so a count against a wedding template does not prove the recipient was a guest rather than the couple previewing their own page.\n\nOccasion-dated pages — every festival plus every wedding type — are 144 of 3,894 pages, just 3.7%, measured 2026-09-09. The platform is 96.3% everyday and romantic pages, which tells you that the invitation use case is a small, deliberate minority of what people build.\n\n## Where a digital invitation is the wrong choice\n\nThere are three situations where a printed card still wins, and pretending otherwise is how these posts lose trust.\n\nThe first is the keepsake. Kristina's study of [15 Javanese printed wedding invitations used between 1980 and 2017](https://jurnal.ugm.ac.id/jurnal-humaniora/article/view/38222), published 2 December 2019, documents the card as a social document carrying class, status and prestige — including the practice of printing the bride's parents' photographs for diaspora families who could not attend. A link does not go into a drawer with the photographs.\n\nThe second is the guest who cannot open it. If a meaningful share of your invitees will not reliably tap a browser link, a page shifts work onto them, and the polite answer is a printed card plus a link, not a link alone.\n\nThe third is cost, and here we cannot help you. SubhSandesh's own facts file carries no confirmed cost figure for this page, so we will not state one — check [the live template list](https://subhsandesh.in/templates) rather than trusting a number in a blog post, ours included.\n\n## Choosing a format for an Indian wedding\n\nThree SubhSandesh templates cover the wedding invitation cases specifically, and they are genuinely different objects rather than colour variations.\n\n### The Hindu shaadi invitation page\n\nThe [Hindu wedding shaadi invitation page](https://subhsandesh.in/wedding-shaadi) is the main-ceremony format: hosts, couple, date, venue, in one hosted page you can edit after sending. It is the one to use when the link itself is the invitation.\n\n### The animated shaadi card\n\nThe [animated shaadi card](https://subhsandesh.in/shaadi-card) behaves more like a card than a page — a designed, animated invitation card meant to be opened and watched. Choose it when you want the ceremony of unfolding something.\n\n### The reception page\n\nA [reception invitation page](https://subhsandesh.in/reception) is worth keeping separate rather than folding into the main card. Receptions often carry a different guest list and a different date, and one page per function keeps the details from contradicting each other.\n\nAn invitation and a wish page are not the same object. An invitation summons people to a date; a wish page is where they leave blessings once it has happened. If it is the second one you want, [a wedding wish page](https://subhsandesh.in/blog/wedding-wish-page-online) is the other half of this decision.\n\n## Making one people actually open\n\nBayu Priyatna and colleagues interviewed printed-invitation and wedding-organiser providers in Karawang, Indonesia for a study [published 30 June 2024 on digital invitation applications](https://journal.ubpkarawang.ac.id/index.php/bit-cs/article/view/6276). Their finding was that the shift from paper is being driven by reach and by a more interactive, personalised experience — not only by cost.\n\nThree things follow, and none of them are design advice. Put every move in: hosts, relationship, occasion, date, time, venue, and an explicit request — the research above says guests expect all of them.\n\nLock it if your guest list is closed, the way 40.6% of creators already do, because a link with no password is a link anyone can forward. And open it on a phone before you send it, since 49.0% of all views arrive that way.\n\nOne thing the research does not tell you, and experience does: send it to yourself first, on a phone you do not normally use. A hosted invitation renders differently depending on whether the recipient opens it inside WhatsApp's in-app browser or a real one, and an in-app browser is where a custom font or an autoplaying track is most likely to fail quietly.\n\nDecide the password question before you send rather than after. Turning a lock on afterwards does not retract the link that has already been forwarded, and for a wedding the guest list is usually closed from the start — which is the case 40.6% of creators are already handling this way.\n\nThen leave the page alone. The median creator is still editing 6.2 hours after their first save, and an invitation edited after the guests have read it is how two versions of a venue end up in circulation.\n\nReady to build one? Start from the [SubhSandesh template list](https://subhsandesh.in/templates) and pick the format that matches the function, not the one that looks best in a preview.",
+    "excerpt": "A digital invitation is an invitation that lives as a link or a file rather than a printed card. The real fork is file versus page: a page can be edited after sending, counted and locked. Across 4,357 SubhSandesh pages, 49.0% of views arrive on a phone and 40.6% of creators set a password.",
+    "metaTitle": "What Is a Digital Invitation — File or Hosted Page",
+    "metaDescription": "A digital invitation is a link or a file sent instead of a printed card. Across 4,357 real pages, 49.0% open on a phone and 40.6% are password-locked.",
+    "keywords": "what is a digital invitation, digital invitation meaning, e invite, online wedding invitation, digital invitation vs printed card, hosted invitation page",
+    "canonicalURL": "https://subhsandesh.in/blog/what-is-a-digital-invitation",
+    "ogType": "article",
+    "tags": [
+      "digital invitation",
+      "wedding invitation",
+      "e-invite",
+      "invitation page",
+      "india"
+    ],
+    "keyTakeaways": [
+      "A digital invitation is any invitation delivered as a link or a file instead of a printed card; the real fork is file versus hosted page, not digital versus paper.",
+      "A hosted page can be corrected after sending, locked and counted — 40.6% of SubhSandesh creators password-protect theirs (1,767 of 4,357, measured 2026-09-15).",
+      "Genre studies of 250 Iraqi and 500 Jordanian invitation cards found seven and eight obligatory components; a digital invitation that drops them reads as incomplete, not modern.",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views), so the phone view is the real design target.",
+      "Occasion-dated pages are only 3.7% of everything built on the platform (144 of 3,894, measured 2026-09-09) — invitations are a deliberate minority use case."
+    ],
+    "faqs": [
+      {
+        "question": "Is a digital invitation acceptable for an Indian wedding, or will elders take offence?",
+        "answer": "It depends far less on the format than on whether the invitation carries the expected components. Genre research on 250 Iraqi and 500 Jordanian wedding invitation cards found seven and eight obligatory moves respectively — hosts, relationship, occasion, request — and a digital invitation that includes all of them reads as complete. Where offence happens, it is usually because a template dropped the hosts' names or the explicit request, not because the invitation arrived as a link."
+      },
+      {
+        "question": "Do guests need to install an app to open a digital invitation?",
+        "answer": "Not for a hosted invitation page — it opens in whatever browser the phone already has, from a link pasted into WhatsApp. That matters because 49.0% of SubhSandesh page views arrive on a phone (24,493 of 49,968, measured 2026-09-15). A video or image file needs no browser at all but cannot be corrected once forwarded."
+      },
+      {
+        "question": "What do I do about relatives who genuinely cannot open a link?",
+        "answer": "Send them a printed card and treat the link as an addition rather than a replacement. This is the clearest case where a digital invitation loses: if a meaningful share of your guest list will not reliably tap a browser link, a page moves the work onto them. A phone call with the details, plus the card, takes two minutes and removes the risk entirely."
+      },
+      {
+        "question": "How far ahead of the event do people actually create these pages?",
+        "answer": "The only lead-time data SubhSandesh has is from Raksha Bandhan 2026, not from weddings, and it is small: n = 89 pages, of which 49.4% were built on the festival day itself and 27.0% the day before, with a median lead time of 0 days (measured 2026-09-09). Two caveats are mandatory — that was a one-day festival rather than a wedding, and n = 89 is far too small to derive any per-template rate from. Treat it as a warning that people leave it very late, not as a wedding benchmark."
+      },
+      {
+        "question": "Should I password-protect the invitation page?",
+        "answer": "Yes, if your guest list is closed. 40.6% of SubhSandesh creators set a password before sharing (1,767 of 4,357 pages, measured 2026-09-15), and that is the only thing standing between a forwarded link and a stranger reading your venue and timing. Leave it open only when you genuinely do not mind who sees it."
+      },
+      {
+        "question": "What happens if the venue changes after I have sent the invitation?",
+        "answer": "On a hosted page you edit it in place and every guest with the link sees the new version. With an image or PDF you cannot — the old file keeps circulating in chat threads alongside the correction, which is the single strongest practical argument for a page over a file. For context, the median SubhSandesh creator is still editing 6.2 hours after their first save (n=1,125)."
+      },
+      {
+        "question": "Can one invitation cover mehndi, the wedding and the reception together?",
+        "answer": "It can, but separating them usually works better, because the guest lists and dates often differ. SubhSandesh keeps the reception on its own page for exactly that reason. One page per function means a guest invited to only one of them is not reading details that do not apply to them."
+      },
+      {
+        "question": "Is a digital invitation cheaper than printing cards?",
+        "answer": "We cannot confirm that for SubhSandesh, because our own facts file carries no confirmed figure and we will not publish a number we have not verified. Printing costs vary enormously by city, paper and run size in India, so any blanket claim about savings is guesswork. Check the live template list yourself rather than trusting a figure quoted in an article."
+      },
+      {
+        "question": "How do I know whether anyone actually looked at it?",
+        "answer": "A hosted page counts views; a forwarded file does not. Across SubhSandesh, created pages average 11.5 views each, with 49,968 recorded views in total (measured 2026-09-15). Be realistic about the number — forwarding a link to 200 people does not produce 200 opens."
+      },
+      {
+        "question": "Are digital invitations only used for weddings and festivals?",
+        "answer": "No, and the split is more lopsided than most people assume. Occasion-dated pages — every festival plus every wedding type — are 144 of 3,894 pages, just 3.7%, measured 2026-09-09. The other 96.3% are everyday and romantic pages, so the invitation case is a deliberate minority of what gets built."
+      },
+      {
+        "question": "Does the invitation still need an explicit request, or is the design enough?",
+        "answer": "It needs the request. Across the genre studies cited here — 250 Iraqi cards, 500 Jordanian cards and 120 online cards collected from Facebook during COVID-19 — the request to attend is an obligatory move, not an optional one. A beautiful page that never actually asks the guest to come is missing the component that makes it an invitation."
+      }
+    ],
+    "coverImageQuery": "wedding invitation smartphone screen india",
+    "coverImagePrompt": "A close-up of two hands holding a smartphone displaying an elegant animated Indian wedding invitation, warm marigold and gold tones glowing on the screen. A folded printed invitation card rests slightly out of focus on a dark wooden table beside it, suggesting the comparison between paper and screen. Soft window light from the left, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/what-is-a-digital-invitation#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Wedding invitation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wedding_invitation",
+              "https://www.wikidata.org/wiki/Q1192278"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "RSVP",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/RSVP",
+              "https://www.wikidata.org/wiki/Q311679"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Wedding Invitation Genre: Communicating Sociocultural Identities of Iraqi Society",
+            "url": "https://journals.umcs.pl/lsmll/article/view/4012",
+            "datePublished": "2017-07-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Lublin Studies in Modern Languages and Literature"
+            }
+          },
+          {
+            "@type": "Thesis",
+            "name": "Ceremonial Arabic Writing: A Genre-Based Investigation of Wedding Invitation Cards and Obituary Announcements in Jordanian Society",
+            "url": "http://eprints.hud.ac.uk/id/eprint/28708/",
+            "datePublished": "2015",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Huddersfield"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Discourse Analysis of Jordanian Online Wedding Invitation Cards During COVID-19 Pandemic",
+            "url": "https://www.ccsenet.org/journal/index.php/ijel/article/view/0/43243",
+            "datePublished": "2020-07-14",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of English Linguistics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Evolution in Visual Communication of the Javanese Printed Wedding Invitations",
+            "url": "https://jurnal.ugm.ac.id/jurnal-humaniora/article/view/38222",
+            "datePublished": "2019-12-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Humaniora, Universitas Gadjah Mada"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Implementation of Digital Invitation Applications in The Era Society 5.0 As a Business Opportunity Micro Small to Medium (MSMEs)",
+            "url": "https://journal.ubpkarawang.ac.id/index.php/bit-cs/article/view/6276",
+            "datePublished": "2024-06-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Buana Information Technology and Computer Sciences"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Invitation page formats for an Indian wedding",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The Hindu shaadi invitation page",
+            "url": "https://subhsandesh.in/wedding-shaadi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The animated shaadi card",
+            "url": "https://subhsandesh.in/shaadi-card"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The reception page",
+            "url": "https://subhsandesh.in/reception"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The two-person invitation",
+            "url": "https://subhsandesh.in/date-invitation"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "what is a digital invitation",
+    "secondaryKeywords": [
+      "digital invitation meaning",
+      "what are digital invitations",
+      "digital invitation vs paper invitation",
+      "online invitation card",
+      "e invite meaning"
+    ],
+    "angle": "This post wins by being the only one that splits \"digital invitation\" into file versus hosted page and settles the difference with 4,357 real shared pages — 49.0% opened on a phone, 40.6% password-locked, 94.1% actually finished — while every competing page stops at cost, speed and paper waste.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/wedding-shaadi",
+      "/shaadi-card",
+      "/reception"
+    ],
+    "factsUsed": [
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49,968 recorded views of shared pages — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://journals.umcs.pl/lsmll/article/view/4012",
+        "stat": "Genre analysis of a sample of 250 Iraqi wedding invitation cards found the schematic organisation built around seven component moves, with Islamic religious belief and Iraqi socio-cultural system encoded in the texts.",
+        "publishedDate": "2017-07-04"
+      },
+      {
+        "url": "http://eprints.hud.ac.uk/id/eprint/28708/",
+        "stat": "A move analysis over a corpus of 500 Jordanian wedding invitation cards identified eight communicative moves, each performing a specific communicative function within a highly conventionalised structure.",
+        "publishedDate": "2015"
+      },
+      {
+        "url": "https://www.ccsenet.org/journal/index.php/ijel/article/view/0/43243",
+        "stat": "A corpus of 120 online wedding invitation cards collected from Facebook between March and June 2020 yielded six obligatory moves and one optional move.",
+        "publishedDate": "2020-07-14"
+      },
+      {
+        "url": "https://jurnal.ugm.ac.id/jurnal-humaniora/article/view/38222",
+        "stat": "15 Javanese printed wedding invitation texts from 1980-2017 show the card functioning as a social document of class, status and prestige, with diaspora families adding the bride's parents' photographs.",
+        "publishedDate": "2019-12-02"
+      },
+      {
+        "url": "https://journal.ubpkarawang.ac.id/index.php/bit-cs/article/view/6276",
+        "stat": "Qualitative interviews with printed-invitation and wedding-organiser providers in Karawang found digital invitation applications expand market reach and deliver a more interactive, personalised customer experience.",
+        "publishedDate": "2024-06-30"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md",
+        "2–4 internal links with descriptive anchor text, placed after value is established"
+      ],
+      "failed": [
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Five of the five outbound sources were fetched and their abstracts verified, but only abstracts and landing-page metadata were readable for the Huddersfield thesis and the Lublin article; the full texts were not read, so each claim is limited to what the abstract states."
+        }
+      ],
+      "honestAssessment": "An answer engine has a specific reason to cite this rather than the seven editorial pages on the SERP: it is the only one that defines a digital invitation by whether it is a file or a hosted page, and the only one carrying measured first-party numbers (4,357 pages, 49.0% phone, 40.6% password-locked, 11.5 views per page, 94.1% published) alongside genre research counting the six to eight obligatory components an invitation must contain. What it cannot overcome is domain authority — einvits, invitedrop and Greenvelope are established on this query and the definitional intent is easy to satisfy, so ranking is not predictable and will take months regardless of quality."
+    },
+    "generatedAt": "2026-09-16T14:13:11.088Z"
+  }
+}

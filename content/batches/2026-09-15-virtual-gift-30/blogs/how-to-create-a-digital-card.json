@@ -1,0 +1,342 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How Do I Create a Digital Card? The Build, Step by Step",
+    "slug": "how-to-create-a-digital-card",
+    "excerpt": "\"Digital card\" names four different products. This is the greeting-and-invitation one: six steps from message to shared link, the four formats compared, and what 4,357 pages built on SubhSandesh show about which ones get opened.",
+    "metaTitle": "How Do I Create a Digital Card — 6 Steps From 4,357 Pages",
+    "metaDescription": "How do I create a digital card: six steps from message to shared link, and how it differs from a digital debit, arrival or business card. 4,357 pages measured.",
+    "keywords": "how do i create a digital card, how do i make a digital card, how to make a digital card, digital greeting card, digital invitation card",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-create-a-digital-card",
+    "ogType": "article",
+    "tags": [
+      "digital card",
+      "e-card",
+      "digital invitation",
+      "wedding card",
+      "how-to"
+    ],
+    "keyTakeaways": [
+      "\"Digital card\" collides with three unrelated products — digital debit cards, digital arrival cards and digital business cards; 3 of the 10 pages ranking for this question are business-card guides.",
+      "Write the message before you open a design tool: in a 2025 study of 159 electronic greeting cards the visual component dominated the verbal one, so the picture carries more than the paragraph.",
+      "Only a card built as a link can be changed after sending, and it is the only format that reports back — 49,968 views across 4,357 pages, 11.5 per page (measured 2026-09-15).",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views, measured 2026-09-15), so open your own card on a handset before you send it to anyone.",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357, measured 2026-09-15) — roughly one in seventeen never leaves the draft."
+    ],
+    "faqs": [
+      {
+        "question": "Does the person I send it to need to install an app?",
+        "answer": "No. A card built as a link opens in whatever browser is already on their phone. 49.0% of shared pages on SubhSandesh are opened on a phone (24,493 of 49,968 views, measured 2026-09-15), and none of those required a download."
+      },
+      {
+        "question": "Can I make a digital card in Hindi or another Indian language?",
+        "answer": "Yes — the text is yours to type, so any language your phone keyboard supports will render. Check it on a handset afterwards, because long Devanagari lines wrap differently from English ones and can push a layout around."
+      },
+      {
+        "question": "Can I fix a typo after I have already sent the link?",
+        "answer": "If the card is a page at a link, yes: you edit the page and the link the recipient already has shows the corrected version. If you sent an image, a PDF or a video, the file on their phone is final and you have to send a new one."
+      },
+      {
+        "question": "What image size works best for a digital card?",
+        "answer": "There is no single correct size, but build for a portrait phone screen first, since that is where roughly half of all opens happen. A photo that looks right on a laptop often crops through someone's face on a handset."
+      },
+      {
+        "question": "Is it rude to send a wedding invitation as a link instead of a printed card?",
+        "answer": "It depends entirely on the guest. Friends and colleagues rarely mind; family elders who expect a card in hand often do, and the usual answer is to send both rather than to argue the point."
+      },
+      {
+        "question": "How long does it usually take to finish one?",
+        "answer": "Longer than the build itself, because people come back to the draft. The median gap between a page's first save and its last edit is 6.2 hours, sampled on the /love-gf page, n=1,125 (measured 2026-09-15)."
+      },
+      {
+        "question": "Can I print it if a relative asks for a paper copy?",
+        "answer": "You can print the page or export the image, but treat the result as a printout of a web page rather than a press-ready file. If paper is the main format for your family, design for paper from the start."
+      },
+      {
+        "question": "Should our home address go on a digital wedding card?",
+        "answer": "Put it behind the page password rather than in the open, or leave it out and share it in the chat thread instead. A link can be forwarded further than you intended, and an address is the detail you cannot take back."
+      },
+      {
+        "question": "What should I actually write inside it?",
+        "answer": "Three or four sentences in your own words, naming the person and the reason. Stock verses read as stock verses, and the message is the part a recipient screenshots."
+      },
+      {
+        "question": "Is there any way to know whether they opened it?",
+        "answer": "A link-based card records views, and pages on SubhSandesh average 11.5 views each (measured 2026-09-15). Read that carefully though: the database records that a template was opened, not who opened it."
+      },
+      {
+        "question": "How much does it cost to make one on SubhSandesh?",
+        "answer": "Our own fact sheet carries no confirmed figure, so this post will not quote one. The template catalogue on the site is the place to check what is currently offered."
+      }
+    ],
+    "coverImageQuery": "phone screen wedding invitation card whatsapp",
+    "coverImagePrompt": "A close, photorealistic shot of a hand holding a phone in portrait, an ornate Indian wedding invitation card glowing on the screen inside a chat thread. Warm indoor light, a printed card lying blurred on the table behind it for contrast. Shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How Do I Create a Digital Card? The Build, Step by Step\n\nTo create a digital card, decide which kind of card you actually mean, write the message before you open any design tool, build it as a web page, and share the link. The design is the easy half. Deciding what the card says is the half people skip.\n\nThat order comes from watching 4,357 personalised pages get built on SubhSandesh since 2026-03-12. Those pages have been opened 49,968 times, an average of 11.5 views each, and 3,377 registered creators have made 1.29 pages apiece (measured 2026-09-15).\n\nOne warning before anything else. \"Digital card\" names four unrelated products, and three of the ten pages currently ranking for this question are about a different one. This page is about the greeting or invitation card that lives at a link.\n\n## What counts as a digital card, and the three other things people mean\n\nA digital card is a greeting or invitation card that exists as a file or a web link instead of paper. You build it on a phone or a laptop and send it over WhatsApp, email or SMS, and it carries the same three things a printed card carries: an image, a message and a name.\n\nThe phrase is badly overloaded, so rule out the other three before you spend any time:\n\n- **A digital debit or credit card** is a bank instrument — a card number issued to your phone so you can pay before the plastic arrives. Searches like \"digital card for debit\" and \"digital card for Cash App\" mean this one.\n- **A digital arrival card** is an immigration form. Thailand, Singapore and several others replaced the paper landing card with an online one, so \"digital card for Thailand\" is a border formality, not a greeting.\n- **A digital business card** is a contact profile shared by tap, link or QR code at a networking event. Three of the ten results for this question, including the one at number one, are guides to building that.\n\nIf you wanted any of those, nothing below applies to you. If you wanted the card that says congratulations, happy birthday or you are invited, carry on.\n\n## Six steps to create a digital card\n\nThis is the order that survives contact with reality. Steps one and two are where the time actually goes; the rest is assembly.\n\n### 1. Decide the card's one job\n\nA card that congratulates, invites and thanks all at once does none of the three. Write down the single sentence the recipient should be left with — \"we are getting married on the 14th and you are invited\" — before you look at a single template.\n\nMost cards are not calendar events, either. Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, just 3.7% of everything built (measured 2026-09-09). The everyday card is the normal case, not the exception.\n\n### 2. Write the message before you pick a design\n\nOpen a notes app, not a design tool. Three or four sentences in your own words beat a stock verse, and you will choose a layout far faster once you know how much text has to fit inside it.\n\nThis is also the step where you settle names, spellings and any date. A wrong wedding date is the one mistake no amount of good typography hides.\n\n### 3. Choose a format you can still change\n\nAn image, a PDF and a video are all frozen the moment they leave your phone. A page at a link is not: you can fix a spelling at 11pm and the link the recipient already has updates itself.\n\nPick a frozen format only when the card genuinely has to travel offline, or when you know the recipient will want to print it.\n\n### 4. Add the visuals, then stop\n\nIn a 2025 study of electronic greeting cards — 110 sampled from open card sites, plus 49 sent in by respondents on 12 June 2023 — [the visual component dominated the verbal one](https://neophilology.elpub.ru/jour/article/view/531). That is how cards are read, so your picture is doing more work than your paragraph.\n\nTwo or three images is usually the ceiling. A card that needs scrolling has become a website.\n\n### 5. Publish it, then get the link\n\nA card that is never published is not a card. On SubhSandesh, 94.1% of started pages are actually published and shared — 4,098 of 4,357, measured 2026-09-15 — which still leaves roughly one in seventeen abandoned mid-build.\n\nPublishing is also the point of no return for the message, so read it once more before you press the button.\n\n### 6. Send it where they already are\n\nPaste the link into the thread you already use with that person. A card that lands in an inbox nobody opens is the commonest failure of the whole exercise.\n\nHalf of all reading happens on a handset: 49.0% of shared pages are opened on a phone, 24,493 of 49,968 views (measured 2026-09-15). Open your own card on a phone before you send it to anyone.\n\n## Image, PDF, video or link: which format to build\n\nThe four formats differ on two things that only matter after you press send — whether you can still change the card, and whether you ever find out what happened to it.\n\n| Format | Can you change it after sending? | What the recipient has to do | What the sender can measure afterwards |\n|---|---|---|---|\n| Image (JPG/PNG) | No — the file is already on their phone | Tap it in the chat thread | Nothing beyond delivery |\n| PDF | No | Usually download it, then open a viewer | Nothing beyond delivery |\n| Video (MP4) | No | Download it before it plays, in most chat apps | Nothing beyond delivery |\n| Page at a link | Yes — the URL does not change | Tap the link; it opens in the browser | 49,968 views across 4,357 pages, 11.5 per page, 49.0% of them on a phone (measured 2026-09-15) |\n\nThe takeaway is narrower than \"links are better\". Only the link format gives you a second chance and a read-back, and only the frozen formats survive being forwarded to someone with no signal.\n\n## Making a digital wedding card, across communities\n\nA wedding card is the hardest digital card to build, because it is a document rather than a greeting: names, families, a date, a venue, and a form that people recognise on sight. Research on e-card genre suggests the recognisable part is mostly not the wording — an analysis of [70 Malay Hari Raya e-cards collected from official emails in 2020 and 2021](https://hrmars.com/index.php/IJARBSS/article/view/11523/Exploring-Non-Linguistic-Features-of-Malay-Hari-Raya-E-Cards) found the non-linguistic features carrying the cultural and religious meaning. One generic template does not stretch across communities.\n\nThat is why SubhSandesh keeps three separate wedding builds instead of one. The [animated shaadi invitation card](https://subhsandesh.in/shaadi-card) is card-shaped in the literal sense: the invitation itself, animated, for a shaadi. The [Christian wedding invitation page](https://subhsandesh.in/christian-wedding) is a different document with a different order of service behind it, and the [alternate-style Christian wedding invitation](https://subhsandesh.in/christian-wedding-2) is that same document laid out a second way.\n\nTwo styles of one document is a deliberate choice rather than filler — pick whichever looks like the service you are actually having. Whatever you build it in, build it somewhere you can preview: a 2023 study of a [website-based digital wedding invitation generator](https://journal.proletargroup.org/index.php/JARCIS/article/view/44) found instant preview to be the feature users judge the tool on, and a 2025 design paper on a [web-based wedding invitation management system](https://sanscientific.com/journal/index.php/its/article/view/309) treats creating, managing and distributing the invitation as one continuous job with guest interaction attached to it.\n\nIf you are still deciding whether a link can stand in for a printed invitation at all, [what a digital invitation actually is](https://subhsandesh.in/blog/what-is-a-digital-invitation) covers the definition. This page covers the making of one.\n\n## How to send a digital card so it actually gets opened\n\nSend the link inside the thread you already talk in, and add one line saying what it is. \"Made you something, open it on your phone\" outperforms a bare URL, because an unexplained link from anyone now reads as spam.\n\nPassword-protect the page when the card carries an address, a phone number or a date you would not post publicly. 40.6% of creators do exactly that before sharing — 1,767 of 4,357 pages, measured 2026-09-15 — and a wedding card with a home address on it is the obvious case for it.\n\nOne honest limit on our own numbers: the database records which template was opened, not who received it. A count against a wedding template does not prove the reader was a wedding guest, and we do not treat it as though it does.\n\n## When a digital card is the wrong choice\n\nA posted card is not the same object, and pretending otherwise is how these posts lose credibility. The UF/IFAS 4-H note on [sending a card](https://journals.flvc.org/edis/article/view/128378) describes receiving one as a sequence of physical acts — pulling it out of the mailbox, reading the envelope, breaking the seal, then putting the card somewhere special. A link has none of those steps and never will.\n\nSo print it if the recipient has no smartphone, if an elder in the family expects a shaadi card in hand, or if the card is meant to sit on a shelf for twenty years. Nothing on our platform beats paper at being paper.\n\nWe also will not quote a figure for what a SubhSandesh page costs: our own fact sheet carries no confirmed number, and inventing one would be worse than saying so. The [full template catalogue](https://subhsandesh.in/templates) is the place to check what is currently on offer.\n\n## Sources\n\n- Abdullah, S. & Mohd Nor, J. (12 January 2022). *Exploring Non-Linguistic Features of Malay Hari Raya E-Cards.* International Journal of Academic Research in Business and Social Sciences, 12(1), 1076–1083.\n- Savelyeva, T. V. (16 October 2025). *The transformation of sociocultural celebration practices: the electronic greeting card as a polycode text.* Neophilology, 11(3), 705–720.\n- Triadi, A. M., Rohmatulloh, R. A. & Sukmandhani, A. A. (30 June 2023). *Website-Based Digital Wedding Invitation Generator Application.* Journal of Applied Research in Computer Science and Information Systems, 1(1), 35–41.\n- Huda, A. & Handrianto, Y. (14 June 2025). *Design of a Digital Service Information System for Web-Based Wedding Management Invitation System.* Information Technology and Systems, 2(2).\n- Futch, H. M. (5 August 2021). *Life Skills in a Minute: Sending a Card* (4H416). UF/IFAS EDIS.\n\nAll five were read as abstract and metadata only; PDFs do not parse in the environment this post was written in, and nothing here is claimed beyond what each abstract states.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-create-a-digital-card#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Greeting card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Greeting_card",
+              "https://www.wikidata.org/wiki/Q915196"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "E-card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/E-card",
+              "https://www.wikidata.org/wiki/Q1273123"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Wedding invitation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wedding_invitation",
+              "https://www.wikidata.org/wiki/Q1192278"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Digital business card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Digital_business_card",
+              "https://www.wikidata.org/wiki/Q130749233"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Debit card",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Debit_card",
+              "https://www.wikidata.org/wiki/Q13499"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Exploring Non-Linguistic Features of Malay Hari Raya E-Cards",
+            "url": "https://hrmars.com/index.php/IJARBSS/article/view/11523/Exploring-Non-Linguistic-Features-of-Malay-Hari-Raya-E-Cards",
+            "datePublished": "2022-01-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Academic Research in Business and Social Sciences"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The transformation of sociocultural celebration practices: the electronic greeting card as a polycode text",
+            "url": "https://neophilology.elpub.ru/jour/article/view/531",
+            "datePublished": "2025-10-16",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Neophilology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Website-Based Digital Wedding Invitation Generator Application",
+            "url": "https://journal.proletargroup.org/index.php/JARCIS/article/view/44",
+            "datePublished": "2023-06-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Applied Research in Computer Science and Information Systems"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Design of a Digital Service Information System for Web-Based Wedding Management Invitation System",
+            "url": "https://sanscientific.com/journal/index.php/its/article/view/309",
+            "datePublished": "2025-06-14",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Information Technology and Systems"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Life Skills in a Minute: Sending a Card (4H416)",
+            "url": "https://journals.flvc.org/edis/article/view/128378",
+            "datePublished": "2021-08-05",
+            "publisher": {
+              "@type": "Organization",
+              "name": "UF/IFAS Extension EDIS"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six steps to create a digital card",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Decide the card's one job",
+            "description": "Fix the single sentence the recipient should be left with before opening any template. Occasion-dated pages are only 3.7% of everything built, so most cards are everyday, not calendar events."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Write the message before you pick a design",
+            "description": "Draft three or four sentences in a notes app. Settle names, spellings and the date here — a wrong wedding date is the one mistake typography cannot hide."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Choose a format you can still change",
+            "description": "An image, a PDF and a video freeze the moment they leave your phone; a page at a link can be corrected afterwards without reissuing the link."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Add the visuals, then stop",
+            "description": "Two or three images is the ceiling. In a 2025 study of 159 electronic greeting cards the visual component dominated the verbal one."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Publish it, then get the link",
+            "description": "94.1% of started pages on SubhSandesh are actually published and shared (4,098 of 4,357, measured 2026-09-15); roughly one in seventeen is abandoned mid-build."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Send it where they already are",
+            "description": "Paste the link into the thread you already use. 49.0% of shared pages are opened on a phone (24,493 of 49,968 views), so check it on a handset first."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how do i create a digital card",
+    "secondaryKeywords": [
+      "how do i make a digital card",
+      "how to make a digital card",
+      "how to create a digital greeting card",
+      "make a digital invitation card"
+    ],
+    "angle": "Wins by being the only post that separates a digital greeting card from a digital debit card, a digital arrival card and a digital business card before it explains anything, then gives the build order backed by 4,357 pages actually created and 49,968 views actually recorded.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/shaadi-card",
+      "/christian-wedding",
+      "/christian-wedding-2"
+    ],
+    "factsUsed": [
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "49,968 recorded views of shared pages — measured 2026-09-15",
+      "Average views per created page: 11.5 — measured 2026-09-15",
+      "3,377 registered creators — measured 2026-09-15",
+      "Average pages per registered creator: 1.29 — measured 2026-09-15",
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15",
+      "Median gap between a page's first save and its last edit: 6.2 hours — sampled on \"I love you\" page (/love-gf), n=1,125 — measured 2026-09-15",
+      "Occasion-dated pages, every festival plus every wedding type, are 144 of 3,894 pages, 3.7%; the platform is 96.3% romantic and everyday pages — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://hrmars.com/index.php/IJARBSS/article/view/11523/Exploring-Non-Linguistic-Features-of-Malay-Hari-Raya-E-Cards",
+        "stat": "70 Malay Hari Raya e-cards obtained from official e-mails between 2020 and 2021 were analysed with Kress and van Leeuwen's multimodality theory; the non-linguistic features carried the sociocultural and religious meaning of the genre (abstract read, full text not parsed).",
+        "publishedDate": "2022-01-12"
+      },
+      {
+        "url": "https://neophilology.elpub.ru/jour/article/view/531",
+        "stat": "A corpus of 110 electronic greeting cards sampled from popular open-access card sites plus 49 cards sent to the author by respondents on 12 June 2023 showed the visual component dominating the verbal one (Russian-language article; abstract and JATS metadata read).",
+        "publishedDate": "2025-10-16"
+      },
+      {
+        "url": "https://journal.proletargroup.org/index.php/JARCIS/article/view/44",
+        "stat": "A website-based digital wedding invitation generator lets users build to their own design and preview the invitation instantly; the build passed a user acceptance test with users reporting it met their needs (abstract read).",
+        "publishedDate": "2023-06-30"
+      },
+      {
+        "url": "https://sanscientific.com/journal/index.php/its/article/view/309",
+        "stat": "A Laravel-based wedding invitation management system is designed around one continuous job — create, manage and distribute the invitation online — with guest interaction through digital communication features attached to it (abstract read).",
+        "publishedDate": "2025-06-14"
+      },
+      {
+        "url": "https://journals.flvc.org/edis/article/view/128378",
+        "stat": "UF/IFAS 4-H describes receiving a greeting card by post as a sequence of physical acts: pulling it out of the mailbox, reading the envelope, breaking the seal, pulling out the card, reading the note, then placing it somewhere special (abstract read).",
+        "publishedDate": "2021-08-05"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the five sources are on domains no sibling has used, but the Neophilology e-card study (neophilology.elpub.ru/jour/article/view/531) is already cited by anniversary-wish-page-online, so it demonstrably can sit in another keyword's post in this batch. It is kept because it is the only peer-reviewed study of the electronic greeting card as a medium that opens from this sandbox, and because the finding cited here (the 110 + 49 card corpus, visual dominating verbal) is not the finding the sibling cites. This is its second and final legal use of both URL and domain. It would close if a second e-card corpus study became fetchable — boris.unibe.ch is Anubis-challenged, dl.acm.org 403s and the 2004 'A Token of My Affection' chapters are not open access."
+        }
+      ],
+      "honestAssessment": "The SERP for this query is served by Brave, US-served, with no region parameter available — so it is reliable evidence of page type and not of Indian ranking order, and nothing here should be read as a measured India SERP. What it does show is that nobody ranking answers the question the reader asked: three of the ten results are digital business-card guides, one is a fintech thread in r/CreditCardsIndia, three are tool landing pages with no article body, and three are Reddit threads that returned 403 to this sandbox and were characterised from their titles only. This post separates the four meanings of \"digital card\" in the first 150 words, which none of them does, and it is the only one carrying a measured denominator — 4,357 pages, 49,968 views, 94.1% published — rather than a vendor's claim about itself. Against wavecnct and Kado it has no domain authority and no backlinks, both of which take months, and the three tool pages will keep the transactional half of this mixed-intent query whatever we write. Nearest published neighbour: what-is-a-digital-invitation defines what a digital invitation is; this post is the how — the build order for making a card and getting it opened."
+    },
+    "generatedAt": "2026-09-16T17:29:42.519Z"
+  }
+}

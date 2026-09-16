@@ -1,0 +1,319 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Make a Website for Your Girlfriend: The Build Order",
+    "slug": "how-to-make-a-website-for-your-girlfriend",
+    "excerpt": "Make a website for your girlfriend in five steps, in order: words first, tool second. The three build routes compared by what you already know, plus the phone check that 49.0% of our 49,968 page opens make unavoidable.",
+    "metaTitle": "How to Make a Website for Your Girlfriend — 5 Steps",
+    "metaDescription": "How to make a website for your girlfriend in 5 steps, in build order: words first, tool second. Three routes compared, plus the phone check 49.0% of opens need.",
+    "keywords": "how to make a website for your girlfriend, how to make a website for girlfriend, custom website for girlfriend, girlfriend website template, create website for girlfriend",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-make-a-website-for-your-girlfriend",
+    "ogType": "article",
+    "tags": [
+      "digital gifts",
+      "romance",
+      "how to",
+      "websites",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "Build in order: write the words, pick a route, gather the assets, fix the phone rendering, then decide the page's afterlife. Tool choice is step two, not step one.",
+      "Three honest routes exist — hand-written HTML (4–12 hours), a general website builder (1–3 hours), or a ready-made personalised page (20–40 minutes).",
+      "49.0% of the 49,968 opens recorded on SubhSandesh happen on a phone (24,493), so the phone is the target device and the laptop is only a preview.",
+      "94.1% of pages started here get finished, published and shared (4,098 of 4,357) — a completion-rate argument that is worth nothing to someone who enjoys coding and was always going to finish.",
+      "Decide on day one who can reach the link and who can take it down; research on digital possessions after a break up names \"tainted digital possessions\" as a recurring theme."
+    ],
+    "faqs": [
+      {
+        "question": "Do I need to buy a domain name for this?",
+        "answer": "No. Every route on this list gives you a working link on a subdomain, and a custom domain adds a purchase, a DNS wait and a renewal you will forget. Buy one only if the address itself is part of the joke or the gift."
+      },
+      {
+        "question": "Can I build one on my phone, without a laptop?",
+        "answer": "A ready-made page, yes — it is a form, and roughly half of everything opened here is a phone anyway. Hand-writing HTML or fighting a drag-and-drop builder on a 6-inch screen is possible and miserable; borrow a laptop for those two routes."
+      },
+      {
+        "question": "Can I get an AI to write the code for me?",
+        "answer": "It will produce something that looks right in about ten minutes, and the failures are the boring ones — a missing viewport tag, images that never load because the paths are wrong, audio that silently does not start. Treat the output as a first draft you still have to test on a real phone."
+      },
+      {
+        "question": "Will the page turn up in Google search results?",
+        "answer": "If it is on a free static host tied to a public repository, assume yes and assume her colleagues can find it. Builders and ready-made pages usually let you keep a page out of search or put a password on it, and that is the setting to check before you send anything."
+      },
+      {
+        "question": "How do I add music without it being annoying?",
+        "answer": "Use one song, start it from a button rather than on load, and keep a visible pause control. Mobile browsers block sound-on autoplay by default, so a page that only works with music playing is a page that half your recipients will see broken."
+      },
+      {
+        "question": "What should I do if I run out of time halfway through?",
+        "answer": "Send the words. A plain page with the message you wrote in step one beats an unfinished gallery, and you can always send a second, better link later. The thing that fails is the half-built page nobody ever sees."
+      },
+      {
+        "question": "Does it need to look professionally designed?",
+        "answer": "No, but it needs to look deliberate. Pick two fonts and three colours, keep the first screen almost empty, and resist adding a navigation bar — the visual mistakes that read badly are clutter and inconsistency, not amateurism."
+      },
+      {
+        "question": "Will it still work if she has a slow connection?",
+        "answer": "Only if you compress the images. Six phone photos straight off a camera roll can be 30 MB, which on a weak mobile connection is a blank screen for long enough that she closes it. Export them at around 1600px wide before you upload."
+      },
+      {
+        "question": "Can I reuse the same page for her birthday later?",
+        "answer": "Usually not well. A page written for no occasion reads oddly when re-sent with a birthday framing, and the second send always lands flatter than the first. Build a new one; the words are the expensive part and you already know how to write them now."
+      },
+      {
+        "question": "Is it free to make a website for your girlfriend?",
+        "answer": "Every route has a no-cost path, and each one carries a real cost that is not money — a public repository means a publicly reachable page, and a builder's entry plan means its branding and its subdomain. We cannot confirm current SubhSandesh pricing from our own data, so check what a page costs on the templates page before you plan around it."
+      }
+    ],
+    "coverImageQuery": "person laptop late night code editor phone",
+    "coverImagePrompt": "A photorealistic overhead shot of a young Indian man's desk late at night: an open laptop showing a simple half-built web page, a phone propped beside it displaying the same page at mobile width, a notebook with handwritten lines, and a cold cup of chai. Warm lamplight, deep shadows, shallow depth of field, clean negative space along the top for a title overlay, 16:9. No readable text on the screens except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Make a Website for Your Girlfriend: The Build Order\n\nTo make a website for your girlfriend, work in this order: write the words, pick a build route, gather the photos and the song, make it survive a phone, then decide what happens to the page afterwards. Tool choice is step two, not step one, and that inversion is why most attempts stall at a half-styled header with nothing in it.\n\nTwo numbers are worth knowing first, both measured here on 2026-09-15. Across 4,357 personalised pages, 94.1% of the ones people begin get finished, published and shared (4,098 of 4,357). And 49.0% of the 49,968 recorded opens happen on a phone (24,493), so the phone is the target device, not an edge case.\n\nThis guide covers what each of the three build routes demands of you, what to have ready before you open anything, and the two questions the pages ranking for this search do not answer: whether it works on her screen, and what it becomes in six months.\n\n## What making a website for your girlfriend actually involves\n\nIt is one web page, at a link you send her, holding a message you wrote, a handful of photos and usually a song. It is not a site in the multi-page sense. There is nothing to navigate, and adding navigation is the surest way to make it feel like a product instead of a letter.\n\nThe job splits into four things you supply and three a tool supplies. You supply the words, the photos, the song, and the decision about who is allowed to open it. The tool supplies layout, hosting and the link.\n\nAcross the 4,357 pages built here since 2026-03-12, spread over 16 page types, that is the whole shape of it. Everything below assumes you want a link this week rather than a hobby project — and if you want the hobby project, step two says so plainly.\n\n## Step 1: Write the page before you open any tool\n\nOpen a notes app and write what you want to say, in full, before you look at a template. Thirty to ninety minutes here saves the evening; the alternative is two hours choosing fonts and then nothing to put in them.\n\nAim for one specific thing she has not heard you say, with a date or a place attached. A 2012 Designing Interactive Systems study from TU Eindhoven found people have markedly more difficulty identifying digital objects they cherish than physical ones — an argument for one small, exact page over an archive of everything.\n\nIf you are not yet sure the gesture is right at all, that is a separate question with its own answer. [Whether a website actually impresses a girlfriend](/blog/website-to-impress-girlfriend) depends on the relationship and the moment rather than the build, and it is cheaper to settle before you spend a weekend.\n\n## Step 2: Choose a build route\n\nThere are three honest routes. Pick by what you already know how to do, not by what sounds impressive.\n\n### 1. Write the HTML yourself\n\nA single `index.html` file with your own CSS, pushed to a static host. It suits anyone who already writes HTML and CSS for enjoyment — and if that is you, this is genuinely the best option here, because the result is yours in a way nothing else on the list is.\n\nBudget four to twelve hours across two evenings, more if you have never done a responsive layout. The catch is hosting: no-cost tiers on the major code-hosting platforms generally apply to public projects, so anyone holding the URL can reach the page.\n\n### 2. Use a general website builder\n\nA drag-and-drop editor that publishes your page on a subdomain of the builder. It suits someone who has never opened a code editor and does not intend to start tonight.\n\nBudget one to three hours, most of it deleting the template's stock content. The catch: the page lives inside an account, and stays live exactly as long as that account does.\n\n### 3. Start from a ready-made personalised page\n\nA page type already built and tested, where you supply the words, the photos and the song. It suits anyone whose deadline is tonight, or who would rather spend the evening on the message than the markup.\n\nBudget twenty to forty minutes. The catch is that you choose from what exists — if the idea in your head is not on the list, this is the wrong route.\n\nThe most-built page here is the plain [\"I love you\" page](/love-gf), 1,125 of 4,357 pages and 25.8% of everything created, which suggests most people want something simple rather than clever. If you want an interaction instead of a message — [a photo jigsaw where each piece placed reveals a line of a letter and plays a note, and the last piece is not in the box](/photo-puzzle) — that is the sort of thing you do not hand-build in an evening.\n\nHere is how the routes fall out against what is already true of you, with our own phone-open rate as the column that sets the testing:\n\n| If this is already true of you | Route that fits | Time to a link you would send | Phone work it needs (49.0% of our 49,968 opens are on a phone) |\n|---|---|---|---|\n| You write HTML and CSS for fun | Hand-code it, host it static | 4–12 hours over two evenings | You add the viewport meta element yourself, or narrow screens render the page into a 980px virtual viewport and shrink it |\n| You have never opened a code editor | A general website builder | 1–3 hours, mostly deleting stock content | Responsive by default; still check the headline at 360px |\n| The deadline is tonight | A ready-made personalised page | 20–40 minutes; 94.1% of pages started here get published (4,098 of 4,357) | Already phone-tested; check the song loads on mobile data |\n| You want something she can physically hold | None of these | — | — |\n\nThe fourth row is not a joke; it is the row most guides leave out.\n\n## Step 3: Gather the photos, the song and the words\n\nThis is the step that actually consumes the evening, and no page ranking for this search mentions it. Budget an hour: three to six photos, one song, and the text from step one.\n\nThree photos with dates beat thirty without. Pick ones she has not seen recently — a screenshot of an old message thread counts, and often lands harder than a posed picture.\n\nDecide before you build whether the song plays by itself. Mobile browsers block autoplay with sound by default, so a page that depends on music starting will quietly fail on roughly half your opens; a play button she presses is the honest design.\n\n## Step 4: Make it work on her phone, then test it the way she will open it\n\nHalf of everything shared here is opened on a phone — 24,493 of 49,968 views, 49.0%, measured 2026-09-15. The phone is the target; the laptop is only the preview. Build at 360px wide and widen from there.\n\nIf you hand-coded it, the single most consequential line is the viewport meta element. [MDN documents](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport) that a 640px phone screen may be handed a 980px virtual viewport and the whole page shrunk to fit, which is exactly why a hand-made page so often arrives as unreadable grey text.\n\nThen test it as a stranger would meet it: open the link in a private window, on mobile data rather than wifi, and look at the preview card WhatsApp generates before she taps. [Research applying source credibility theory to website design](https://scholarsarchive.byu.edu/facpub/9334/) reports that users form judgements within the first few seconds of an online interaction, so that card and the first screen carry more weight than the rest of the page combined.\n\n## Step 5: Decide now what happens to the page afterwards\n\nA web page keeps existing, which is the part almost everyone decides by accident. Settle three things on the day you send it: who can reach the link, how long it stays up, and who is able to take it down.\n\nThat third one is less obvious than it sounds. A study of 25 consumers and their digital possessions, published in the *Journal of Consumer Research* in December 2022, found a recurring gap between the affordances people imagine a digital object has and the ones it actually has — [affordance misalignment](https://research.birmingham.ac.uk/en/publications/kind-of-mine-kind-of-not-digital-possessions-and-affordance-misal/). A page on a builder's subdomain is kind of yours and kind of not: it exists while the account does.\n\nThen there is the case nobody competing for this search will raise. A NordiCHI 2016 study of [digital possessions after a romantic break-up](https://discovery.dundee.ac.uk/en/publications/digital-possessions-after-a-romantic-break-up/) reported that partners' interwoven digital presence makes disconnecting difficult, and named \"tainted digital possessions\" as one of its five themes. A page you both loved is that shape, so building it on a link you can retire is kindness rather than pessimism.\n\n## When making a website is the wrong move\n\nIf she has no real smartphone habit, patchy connectivity, or would rather hold something, a printed photo book wins and it is not close. What we make is a link, and a link is worth nothing to someone who will not open it.\n\nIf the occasion is a birthday with a fixed date, the binding constraint is the deadline rather than the craft, and the routes price out differently under a clock — that calculation is in [the four routes to a birthday website and what each one costs](/blog/birthday-website-for-girlfriend).\n\nAnd if you enjoy writing code, do not let anyone argue you into a template. The measurable advantage of a ready-made page — 94.1% of pages started here get finished and shared — is a completion-rate advantage, and completion rates are worth nothing to someone who was always going to finish. [Browse the page types that already exist](/templates) if you want the shortcut, and ignore them if the building is the point.\n\n## Sources\n\n- [Digital Possessions After a Romantic Break Up](https://discovery.dundee.ac.uk/en/publications/digital-possessions-after-a-romantic-break-up/) — Herron, Moncur & van den Hoven, NordiCHI '16, 23 October 2016 (abstract read)\n- [\"Kind of Mine, Kind of Not\": Digital Possessions and Affordance Misalignment](https://research.birmingham.ac.uk/en/publications/kind-of-mine-kind-of-not-digital-possessions-and-affordance-misal/) — Mardon, Denegri-Knott & Molesworth, *Journal of Consumer Research*, 13 December 2022\n- [Towards a more cherishable digital object](https://research.tue.nl/en/publications/towards-a-more-cherishable-digital-object/) — Golsteijn, van den Hoven, Frohlich & Sellen, DIS '12, 11 June 2012 (abstract read)\n- [A Picture is Worth a Thousand Words: Source Credibility Theory Applied to Logo and Website Design](https://scholarsarchive.byu.edu/facpub/9334/) — Lowry, Wilson & Haig, *International Journal of Human–Computer Interaction*, 27 November 2013\n- [The viewport meta element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport) — MDN Web Docs (continuously updated; no publication date stated)",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/how-to-make-a-website-for-your-girlfriend#routes",
+        "name": "Three routes to a website for your girlfriend",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Write the HTML yourself",
+            "description": "One index.html file with your own CSS on a static host. 4–12 hours across two evenings; free tiers generally cover public projects only, so the page is reachable by anyone with the URL."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Use a general website builder",
+            "description": "A drag-and-drop editor publishing to the builder's subdomain. 1–3 hours, most of it deleting stock content; the page stays live only as long as the account does."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Start from a ready-made personalised page",
+            "description": "A page type already built and tested where you supply words, photos and a song. 20–40 minutes; limited to the page types that exist."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-make-a-website-for-your-girlfriend#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Personal web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Personal_web_page",
+              "https://www.wikidata.org/wiki/Q2737701"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Static web page",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Static_web_page",
+              "https://www.wikidata.org/wiki/Q2641220"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "HTML",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/HTML",
+              "https://www.wikidata.org/wiki/Q8811"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Website builder",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Website_builder",
+              "https://www.wikidata.org/wiki/Q1625990"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Web hosting service",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_hosting_service",
+              "https://www.wikidata.org/wiki/Q5892272"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Digital Possessions After a Romantic Break Up",
+            "url": "https://discovery.dundee.ac.uk/en/publications/digital-possessions-after-a-romantic-break-up/",
+            "datePublished": "2016-10-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Dundee"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "“Kind of Mine, Kind of Not”: Digital Possessions and Affordance Misalignment",
+            "url": "https://research.birmingham.ac.uk/en/publications/kind-of-mine-kind-of-not-digital-possessions-and-affordance-misal/",
+            "datePublished": "2022-12-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Birmingham"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Towards a more cherishable digital object",
+            "url": "https://research.tue.nl/en/publications/towards-a-more-cherishable-digital-object/",
+            "datePublished": "2012-06-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Eindhoven University of Technology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Picture is Worth a Thousand Words: Source Credibility Theory Applied to Logo and Website Design for Heightened Credibility and Consumer Trust",
+            "url": "https://scholarsarchive.byu.edu/facpub/9334/",
+            "datePublished": "2013-11-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Brigham Young University ScholarsArchive"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The viewport meta element",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport",
+            "publisher": {
+              "@type": "Organization",
+              "name": "MDN Web Docs"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to make a website for your girlfriend",
+    "secondaryKeywords": [
+      "how to make a website for girlfriend",
+      "how to create a website for your girlfriend",
+      "custom website for girlfriend",
+      "girlfriend website template",
+      "create website for girlfriend"
+    ],
+    "angle": "Wins by being the only post that gives the build order — words first, route second, assets third, phone fourth, afterlife fifth — instead of a tool recommendation, grounded in SubhSandesh's 94.1% publish-and-share rate across 4,357 pages and the 49.0% of 49,968 opens that land on a phone.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/love-gf",
+      "/photo-puzzle",
+      "/templates"
+    ],
+    "factsUsed": [
+      "94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15",
+      "49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15",
+      "4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15",
+      "Most popular creation: \"I love you\" page (/love-gf) — 1,125 pages, 25.8% of everything created — measured 2026-09-15",
+      "49,968 recorded views of shared pages — measured 2026-09-15"
+    ],
+    "sources": [
+      {
+        "url": "https://discovery.dundee.ac.uk/en/publications/digital-possessions-after-a-romantic-break-up/",
+        "stat": "Qualitative study of digital possessions after a romantic break up; five themes including \"tainted digital possessions\", and partners' interwoven digital presence making disconnection difficult",
+        "publishedDate": "2016-10-23"
+      },
+      {
+        "url": "https://research.birmingham.ac.uk/en/publications/kind-of-mine-kind-of-not-digital-possessions-and-affordance-misal/",
+        "stat": "Qualitative study of 25 consumers and their digital possessions identifying three types of affordance misalignment — missing, covert and deficient — between imagined and actual affordances",
+        "publishedDate": "2022-12-13"
+      },
+      {
+        "url": "https://research.tue.nl/en/publications/towards-a-more-cherishable-digital-object/",
+        "stat": "People have more difficulty identifying cherished digital objects than physical ones; design opportunities come from extrapolating physical advantages to the digital",
+        "publishedDate": "2012-06-11"
+      },
+      {
+        "url": "https://scholarsarchive.byu.edu/facpub/9334/",
+        "stat": "Consumers tend to make decisions within the first few seconds of online interaction, so first impressions of a website largely determine its success",
+        "publishedDate": "2013-11-27"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport",
+        "stat": "A mobile screen 640px wide may render a page into a 980px virtual viewport and shrink the result to fit; width=device-width is the documented fix"
+      }
+    ],
+    "differentiation": "nearestWritten is website-to-impress-girlfriend (4 of 10 shared organic URLs). That post answers \"will a website actually impress her\"; this one answers \"I have already decided — what order do I build it in\", which is a procedure rather than a judgement. It is linked from Step 1 with descriptive anchor text.",
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries four stop words (to, a, for, your). It is the exact-match keyword slug assigned by WAVE3-PLAN.json row 4, and shortening it to something like make-website-girlfriend would break exact-match with the target query and the cross-links already planned in CROSSLINK-MAP.md. Closed only by a plan-level decision to trade exact match for brevity."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the five sources are keyword-specific, but source 4 (Lowry, Wilson & Haig on source credibility and website design) would sit almost unchanged in birthday-website-for-girlfriend, which is also a build post. It is retained because it is the only fetchable evidence for the first-seconds judgement that justifies the test-before-you-send step. Closed by a study of first-impression judgement of personal, non-commercial pages, which repeated searches on OpenAlex and Semantic Scholar did not surface before both APIs returned HTTP 429."
+        }
+      ],
+      "honestAssessment": "All ten results on this India SERP are competitor pages and not one of them cites a number, a source or a date; this post gives the build order rather than a tool pitch, and it is the only page in the set that answers what happens to the page in six months, using a NordiCHI break-up study and a Journal of Consumer Research paper on affordance misalignment alongside two first-party figures (94.1% completion, 49.0% phone opens) no competitor can publish. Against that, four sibling posts in this batch already sit on adjacent phrasings of this cluster and subhsandesh.in's domain authority is well below the entrenched personalised-page startups holding these positions, so the realistic near-term win is answer-engine citation for the procedural sub-queries rather than a top-three organic position."
+    },
+    "generatedAt": "2026-09-16T14:19:41.650Z"
+  }
+}
