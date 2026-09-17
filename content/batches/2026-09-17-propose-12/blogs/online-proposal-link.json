@@ -1,0 +1,324 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Online Proposal Link: What Happens After You Send It",
+    "slug": "online-proposal-link",
+    "excerpt": "What actually happens to an online proposal link after you send it: whether it expires, who else can open a forwarded one, what the chat preview reveals before they tap, why a screenshot outlives the page, and how to take it down afterwards.",
+    "metaTitle": "Online Proposal Link — Expiry, Privacy and Who Can Open It",
+    "metaDescription": "An online proposal link does not expire on its own, and a forwarded one is no longer private. 40.0% of SubhSandesh creators lock a page before sharing.",
+    "keywords": "online proposal link, love proposal website template, will you be my girlfriend proposal page online, virtual proposal website",
+    "canonicalURL": "https://subhsandesh.in/blog/online-proposal-link",
+    "ogType": "article",
+    "tags": [
+      "proposal",
+      "privacy",
+      "digital gifts",
+      "propose day",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "An online proposal link does not expire on a timer — it ends when you delete it or the host shuts down, and only the first is in your control.",
+      "A forwarded link is no longer private; a password is the only access control an unlisted URL has. 40.0% of SubhSandesh creators set one, measured platform-wide across all 4,524 pages, not on proposals alone.",
+      "Chat preview cards are built from Open Graph tags that sit outside the password, so a locked page still shows a title on the lock screen.",
+      "A screenshot outlives the link: it survives deletion, host shutdown and a password change, and you cannot remove it.",
+      "92.9% of started SubhSandesh pages are actually published and shared (4,204 of 4,524), and pages average 11.3 views each — a view count is not a read receipt."
+    ],
+    "faqs": [
+      {
+        "question": "Does an online proposal link expire?",
+        "answer": "Almost none expire on a timer — the page stays live until you delete it or the company hosting it shuts down. Those are two different endings, and only the first one is yours to control, so check that the tool gives you a delete button you can press yourself."
+      },
+      {
+        "question": "Can I delete a proposal link after I have sent it?",
+        "answer": "Only if the tool gives you a delete control; some make you email support instead. Even then, deleting the page does not remove any screenshot or screen recording the recipient already took, so treat deletion as removing the live page rather than erasing the moment."
+      },
+      {
+        "question": "Who can see my proposal link if it gets forwarded?",
+        "answer": "Anyone holding the URL, with no login and no ownership attached. A password is the only thing that changes that — 40.0% of SubhSandesh creators set one before sharing, measured platform-wide across all 4,524 pages rather than on proposals specifically."
+      },
+      {
+        "question": "Will the WhatsApp preview spoil the surprise?",
+        "answer": "It can. Chat apps build the preview card from the page's Open Graph tags, which sit outside any password, so a locked page still shows a title and image on the lock screen. Keep the title neutral and put the question inside the page."
+      },
+      {
+        "question": "Can I tell if they opened the proposal link?",
+        "answer": "You can usually see that the page was opened and how many times, but not who opened it or how far they got. Across SubhSandesh, pages average 11.3 views each from 51,164 recorded views, so a page being reopened several times is normal and tells you nothing on its own."
+      },
+      {
+        "question": "What happens if they screenshot the page instead of keeping the link?",
+        "answer": "The screenshot becomes a permanent copy you cannot reach. It survives the page being deleted, the host shutting down and the password being changed, which is why a screenshot is the most durable version of your proposal and the one you control least."
+      },
+      {
+        "question": "Is a proposal link private?",
+        "answer": "It is unlisted, not private — nothing is posted publicly, but anyone with the URL can open it. Setting a password turns an unlisted link into a genuinely private one, and it is the single most useful thing you can do before sending a proposal."
+      },
+      {
+        "question": "What if they open it at work or on a slow connection?",
+        "answer": "Office Wi-Fi content filters and heavy animation are both real failure modes, and a page that will not load turns a proposal into a technical support conversation. Send it when they are likely to be on their own phone rather than a work laptop."
+      },
+      {
+        "question": "Should I use a proposal link if I am in the same room?",
+        "answer": "No. A link handed to someone sitting opposite you turns a moment into an errand. The page earns its place when it holds a story too long for a chat window or bridges a distance you cannot cross that day."
+      },
+      {
+        "question": "What is the difference between a proposal link and a will-you-be-my-girlfriend page?",
+        "answer": "Stakes and framing. A marriage proposal page is built around a single irreversible question, while an 'I love you' page asks without escalating — it is the most-used template on SubhSandesh at 1,136 pages, 25.1% of everything created."
+      }
+    ],
+    "coverImageQuery": "woman reading phone message alone evening",
+    "coverImagePrompt": "A young Indian woman sitting alone by a window in soft evening light, holding her phone close and reading something on the screen with a caught-off-guard expression. The phone screen glow is the main light source; the room behind her is warm and out of focus. Shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Online Proposal Link: What Happens After You Send It\n\nAn online proposal link is a single private web page holding your question, and the moment you send it, control of that page passes to whoever holds the URL. It does not expire on its own — it ends when you delete it or the company hosting it shuts down — and a password is the only thing standing between a forwarded link and a stranger reading it.\n\nOn SubhSandesh, 40.0% of creators password-protect a page before sharing it (1,809 of 4,524), a platform-wide figure across all 16 page types rather than a proposal-specific rate, and 92.9% of started pages are actually finished and shared (4,204 of 4,524). What follows is what happens to the link itself: expiry, forwarding, chat previews, screenshots, whether you can tell it was opened, and how to take it down afterwards.\n\n## What is an online proposal link?\n\nAn online proposal link is a URL that opens one personalised page asking a specific person a specific question — will you marry me, will you be my girlfriend, will you go out with me. Nothing is installed and nothing is posted publicly. It is also almost always a one-off: 3,456 registered SubhSandesh creators have built 4,524 pages between them, 1.31 each, so this is a page most people make once, for one person.\n\nWhoever holds the link sees the page; whoever does not, does not. That is the entire access model, and it has a name: an unlisted URL. It is the same arrangement as an unlisted video or an \"anyone with the link can view\" document — frictionless because there is no login in the way, and leaky for precisely that reason.\n\nMost proposal pages carry both names, a written message, a few photos and a yes-or-no answer. The mechanics are near-identical across every tool that builds them. What differs, and what almost nobody publishes, is what the link does once it has left your hands.\n\n## Does an online proposal link expire, and can you take it down?\n\nAlmost none of them expire on a timer. A proposal link stays live until the page is deleted or the company hosting it stops paying its bills — two different endings, and only one of them is yours to control.\n\nThat distinction matters more than the marketing copy admits. A tool promising your link will stay active forever is making a claim about its own survival, not about the web, and a two-person startup cannot honestly make that promise for the next fifty anniversaries.\n\nPeople are also bad at reasoning about deletion, and there is research on exactly this. In a [SOUPS 2018 interview study of 22 participants plus two focus groups with seven data-deletion experts](https://www.usenix.org/conference/soups2018/presentation/murillo), Murillo and colleagues at Google found that many users' model of deletion stopped at the interface — content counted as deleted once they could no longer see it — and that generic expiration periods did not satisfy people, while expiration they could control did.\n\nApply that to a proposal. If you might want the page gone later — a no, a change of plan, a relationship that ends — check before you send that the tool gives you a delete control you can press yourself rather than a support address. Then accept the limit: deleting the page does not reach into their camera roll.\n\nA companion SOUPS 2018 [lab study of 30 participants on the ageing of digital artifacts](https://www.usenix.org/conference/soups2018/presentation/mohamed) tested pixelating, fading and shrinking as ways of letting old content decay, and found the visualisations closest to how memory actually fades were the most effective. A proposal page is the rare thing most people want ageing in the opposite direction.\n\n## Who else can open it once you have sent it\n\nAnyone the link reaches. Forward it into a group chat and every member has exactly the access you gave your partner, because no ownership travels with a URL.\n\nThis is where the password stops being optional. 40.0% of SubhSandesh creators set one before sharing (1,809 of 4,524 pages) — again, that is every page type on the platform, not proposals alone — and the gap between that number and 100% is mostly people who never considered the second reader.\n\nResearch on how people handle this is worth knowing. Applying communication privacy management theory, [Choi's 2021 survey of 397 active Facebook users](https://cyberpsychology.eu/article/view/13045) found that perceiving boundless communication — the sense that what you disclose will not stay where you put it — predicted stricter boundary-ownership rules, which govern who may access the information, while leaving boundary-linkage rules unchanged. Plainly: people who expect their words to travel respond by controlling access, not by saying less.\n\nThat is the right instinct for a proposal. Do not write a smaller proposal because it might be forwarded — lock it instead.\n\nOn the SubhSandesh [proposal scrapbook page](https://subhsandesh.in/proposal), the password is set at the same step as the share link. A privacy control placed one screen later is a privacy control most people skip.\n\n## Can you tell whether they actually opened it?\n\nPartly. Most tools, SubhSandesh included, record views rather than reads: you learn that the page was opened and how often, not who opened it or whether they reached the last card.\n\nThe numbers suggest a page like this gets revisited rather than consumed once — 51,164 recorded views across 4,524 pages, an average of 11.3 views per page. 48.9% of those views happen on a phone (25,008 of 51,164), which is also the reason a fourteen-character password is a bad password.\n\nBe careful what you read into silence. A view with no reply can mean they are crying, commuting, sitting in an office where the page is blocked by a content filter, or down to 2% battery, and the counter cannot tell you which.\n\nIf you need a real answer, ask for it on a call. The link carries the question, not the conversation.\n\nOne first-party figure worth labelling honestly: the median gap between a page's first save and its last edit is 6.3 hours, sampled on the /love-gf template (n=1,136), not on proposals. It measures how long senders keep editing, not how long recipients take to answer.\n\n## What the chat preview shows before they tap\n\nThe preview card in WhatsApp, iMessage or Instagram is built by the app fetching your page and reading its [Open Graph tags](https://ogp.me/), the protocol that requires exactly four properties — og:title, og:type, og:image and og:url — with og:description as the optional fifth that most builders set.\n\nTwo consequences nobody mentions. First, those tags sit in front of the password, so a locked page still renders a full preview card. Second, that card is what anyone glancing at their lock screen sees, which makes the preview the leak rather than the page.\n\nSo if the surprise matters, the surprise must not be in the title. A page titled \"Will you marry me?\" has already been delivered by the notification, before they have chosen to look. Neither WhatsApp nor Instagram offers a per-message way to suppress a preview, so the fix sits on your side: keep the title neutral and put the question inside.\n\n## Where the proposal lives after you send it\n\nSending a link does not create one artifact. It creates four, and you control exactly one of them.\n\n| What they end up with | Who can remove it | Does a password stop it | Survives if the page goes down |\n|---|---|---|---|\n| The live page at your link | You, if the tool has a delete control | Yes — 40.0% of SubhSandesh creators set one, platform-wide | No |\n| Their screenshot | Only them | No — it is taken after they are already inside | Yes |\n| The chat preview card | Neither of you | No — built from tags outside the lock | Yes, cached in the thread |\n| A screen recording of the animation | Only them | No | Yes |\n\nThe takeaway is uncomfortable and worth saying plainly: a screenshot outlives the link. If you would regret the page existing in a year, assume a still image of it already exists somewhere you cannot delete from.\n\n## When a proposal link is the wrong choice\n\nPropose Day 2027 falls on Monday 8 February 2027, and a great many links will be sent that morning. These are the cases where sending one is the worse option.\n\n### You are in the same room\n\nSay it out loud. A link handed to someone sitting opposite you turns a moment into an errand, and the page's best property — that it holds a story too long for a chat window — is wasted on someone who can simply hear you.\n\n### Something needs repairing first\n\nA proposal cannot do two jobs at once. If there is an unresolved fight sitting behind the question, the apology has to land on its own before the question means anything, and the [apology dashboard page](https://subhsandesh.in/apology-dashboard) — 1,095 pages created, 24.2% of everything built on the platform — exists for that first step.\n\n### It is not a marriage proposal\n\n\"Will you be my girlfriend\" is a different question with different stakes, and it deserves a page that is not dressed as an engagement. The [I love you page](https://subhsandesh.in/love-gf) is the most-used template on SubhSandesh — 1,136 pages, 25.1% of everything created, and 16,345 views, 31.9% of all page views — largely because it asks without escalating.\n\n### Someone else is looking at their screen\n\nThis is the failure mode people forget. In a [CHI 2017 survey of 174 people](https://eprints.gla.ac.uk/170223/1/170223.pdf) about real shoulder-surfing incidents, Eiband and colleagues found the behaviour was overwhelmingly opportunistic rather than malicious, that what got observed was usually personal content — interests, relationships, intimate details about other people — and, most relevant here, that the person being watched noticed in only 7% of the incidents observers described. On a crowded local train at 9am, your proposal is a public document and neither of you will know it.\n\n## Sources\n\n- [Murillo, Kramm, Schnorf & De Luca, \"If I press delete, it's gone\" — User Understanding of Online Data Deletion and Expiration, SOUPS 2018](https://www.usenix.org/conference/soups2018/presentation/murillo) — August 2018\n- [Mohamed & Chiasson, Online Privacy and Aging of Digital Artifacts, SOUPS 2018](https://www.usenix.org/conference/soups2018/presentation/mohamed) — August 2018\n- [Choi, Criteria and rules for privacy management prior to self-disclosures on social network sites (SNSs), Cyberpsychology 15(2)](https://cyberpsychology.eu/article/view/13045) — 26 April 2021\n- [Eiband, Khamis, von Zezschwitz, Hussmann & Alt, Understanding Shoulder Surfing in the Wild, CHI 2017](https://eprints.gla.ac.uk/170223/1/170223.pdf) — 2 May 2017\n- [The Open Graph protocol](https://ogp.me/) — the specification publishes no date\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/online-proposal-link#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Marriage proposal",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Marriage_proposal",
+              "https://www.wikidata.org/wiki/Q1057944"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Privacy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Privacy",
+              "https://www.wikidata.org/wiki/Q188728"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Screenshot",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Screenshot",
+              "https://www.wikidata.org/wiki/Q208594"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "\"If I press delete, it's gone\" - User Understanding of Online Data Deletion and Expiration (SOUPS 2018)",
+            "url": "https://www.usenix.org/conference/soups2018/presentation/murillo",
+            "datePublished": "2018-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "USENIX Association"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Online Privacy and Aging of Digital Artifacts (SOUPS 2018)",
+            "url": "https://www.usenix.org/conference/soups2018/presentation/mohamed",
+            "datePublished": "2018-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "USENIX Association"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Criteria and rules for privacy management prior to self-disclosures on social network sites (SNSs)",
+            "url": "https://cyberpsychology.eu/article/view/13045",
+            "datePublished": "2021-04-26",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cyberpsychology: Journal of Psychosocial Research on Cyberspace"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Understanding Shoulder Surfing in the Wild: Stories from Users and Observers (CHI 2017)",
+            "url": "https://eprints.gla.ac.uk/170223/1/170223.pdf",
+            "datePublished": "2017-05-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computing Machinery"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol",
+            "url": "https://ogp.me/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Open Graph protocol"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "When a proposal link is the wrong choice",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "You are in the same room",
+            "description": "A link handed to someone sitting opposite you turns a moment into an errand; the page earns its place only when it holds more than a chat window can."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Something needs repairing first",
+            "description": "An unresolved fight has to be settled before a proposal means anything; the apology dashboard accounts for 1,095 pages, 24.2% of everything built on SubhSandesh."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "It is not a marriage proposal",
+            "description": "'Will you be my girlfriend' deserves a page that does not escalate; the I love you page is SubhSandesh's most-used template at 1,136 pages, 25.1% of all pages created."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Someone else is looking at their screen",
+            "description": "A CHI 2017 survey of 174 people found shoulder surfing is mostly opportunistic and that the person being watched noticed in only 7% of incidents observers reported."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "online proposal link",
+    "angle": "Wins by being the only post that says what actually happens to a proposal link after it is sent — whether it expires, who can open a forwarded copy, what the chat preview leaks, why a screenshot outlives the page, and how to take it down — grounded in SubhSandesh's platform-wide 40.0% password-protection rate (1,809 of 4,524) where all five ranking pages publish no data at all.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/apology-dashboard"
+    ],
+    "factsUsed": [
+      "40.0% of creators password-protect their page before sharing it (1,809 of 4,524) — measured 2026-09-16",
+      "92.9% of started pages are actually published and shared (4,204 of 4,524) — measured 2026-09-16",
+      "4,524 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-16",
+      "3,456 registered creators — measured 2026-09-16",
+      "Average pages per registered creator: 1.31 — measured 2026-09-16",
+      "51,164 recorded views of shared pages — measured 2026-09-16",
+      "Average views per created page: 11.3 — measured 2026-09-16",
+      "48.9% of shared pages are opened on a phone (25,008 of 51,164 views) — measured 2026-09-16",
+      "Median gap between a page's first save and its last edit: 6.3 hours — sampled on \"I love you\" page (/love-gf), n=1,136 — measured 2026-09-16",
+      "#1 page type: \"I love you\" page (/love-gf) — 1,136 created, 25.1% of all pages — measured 2026-09-16",
+      "Most-viewed template: love-gf — 16,345 views, 31.9% of all page views — measured 2026-09-16",
+      "#2 page type: apology dashboard (/apology-dashboard) — 1,095 created, 24.2% of all pages — measured 2026-09-16"
+    ],
+    "sources": [
+      {
+        "url": "https://www.usenix.org/conference/soups2018/presentation/murillo",
+        "stat": "Interview study with 22 participants plus two focus groups with 7 data-deletion experts; users' model of deletion often stopped at the interface, and generic expiration periods did not work while controllable expiration was preferred",
+        "publishedDate": "2018-08"
+      },
+      {
+        "url": "https://www.usenix.org/conference/soups2018/presentation/mohamed",
+        "stat": "Lab study of 30 participants comparing pixelating, fading and shrinking as ways to decay social media content; visualisations closest to how memory fades were most effective",
+        "publishedDate": "2018-08"
+      },
+      {
+        "url": "https://cyberpsychology.eu/article/view/13045",
+        "stat": "Survey of N=397 active Facebook users applying communication privacy management theory; perceptions of boundless communication and privacy motivation predicted stricter boundary-ownership (access) rules, but not boundary-linkage rules",
+        "publishedDate": "2021-04-26"
+      },
+      {
+        "url": "https://eprints.gla.ac.uk/170223/1/170223.pdf",
+        "stat": "Survey of N=174 people on real shoulder-surfing incidents; mainly opportunistic and non-malicious, observed content mostly personal including relationships and intimate details, and users noticed in only 7% of the incidents observers reported",
+        "publishedDate": "2017-05-02"
+      },
+      {
+        "url": "https://ogp.me/",
+        "stat": "The Open Graph protocol requires exactly four properties on every page — og:title, og:type, og:image and og:url — with og:description an optional recommended fifth"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the five pass. The fifth, the Open Graph protocol specification (ogp.me), is a general technical reference that virtual-proposal-card or how-to-propose-online in this batch could cite unchanged. The remediation pass re-judged it on merit and deliberately kept it: the chat-preview section's entire argument is that the four required og: properties are fetched by the chat app before any password is evaluated, so a locked page still renders a full preview card — remove the citation and that claim is unsourced and the H2 loses its only named reference, trading a soft source failure for a hard sourcing failure. No swap-test-passing replacement was found. One candidate was identified (an independent 2020 measurement of how individual chat apps fetch link previews) but it was not fetched, so it is not cited and nothing from it appears in the post. Closes if a fetchable, verifiable study of link-preview generation in messaging apps is found, at which point ogp.me drops to a supporting reference or out entirely."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "No citation is paywalled — all five are openly readable — so this is recorded as failed on the stricter reading: two of them, both SOUPS 2018 papers (Murillo et al.; Mohamed & Chiasson), were verified from the USENIX abstract pages only. The hosted PDFs under usenix.org/system/files returned unparseable binary through the fetch path available at drafting time, and the remediation pass could not re-attempt at all — page fetching was disabled in the remediator's environment, so zero new verification was possible and no claim was widened. Everything attributed to the two papers (22 interview participants plus two focus groups with 7 data-deletion experts; a 30-participant lab study; generic expiration periods not working while controllable ones are preferred; decay visualisations closest to how memory fades being most effective) is stated verbatim in those abstracts. Closes with a successful text extraction from either PDF, or an HTML full text, read in an environment with a working fetch path."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The column is first-party, but it is the platform-wide 40.0% password rate across all 4,524 pages and 16 page types — not a proposal-specific rate. No proposal-specific figure was obtainable for this batch: the read-only probe of the `proposalpages` collection was blocked by the production-read policy, and nothing in facts.md permits deriving a per-template rate. The remediation pass re-verified the labelling rather than the number: all three appearances — opening paragraph, the forwarding section and the comparison table cell — still carry the platform-wide qualifier in body prose, and 6.3 hours is still stated as sampled on /love-gf (n=1,136) and as sender editing time rather than recipient reply time. This post leans on 40.0% harder than any other in the batch, so the gap is real: a proposal-specific password rate would materially strengthen it. Closes if a read-only query against `proposalpages` is permitted and returns enough pages (roughly 500) for a publishable per-template rate."
+        }
+      ],
+      "honestAssessment": "All five ranking pages for this keyword are generators that publish no statistic at all and answer none of the questions a person actually has after hitting send — does it expire, who else can open a forwarded copy, does the chat preview spoil it, can I take it down. This post answers each with a named peer-reviewed source (SOUPS 2018 on deletion and expiration, Choi 2021 on boundary-ownership rules, CHI 2017 on shoulder surfing) plus first-party behaviour data no competitor can publish, and it states plainly that a screenshot outlives the link and survives deletion, host shutdown and a password change. That combination — an unanswered informational slot with no AI Overview holding it, answered with citable numbers — is the reason an answer engine would cite it.\n\nThe remediation pass closed three real defects the original audit had marked as passed: a 134-word four-sentence opening paragraph, an H2 (\"What is an online proposal link?\") carrying no number or named source, and an intro sentence that said the host takes the page down when the rest of the post says you do. It closed none of the three recorded failures, because the environment it ran in had page fetching disabled, so no source could be fetched or re-verified and no new citation could honestly be added.\n\nWhat the post still cannot overcome, unchanged by the fix pass: subhsandesh.in has 46 live proposal pages and ranked in none of the 11 SERPs measured for this cluster, so it starts with no authority on this query against incumbents that own the transactional intent; the single strongest number in the post, 40.0% password protection, is a platform-wide proxy across all 4,524 pages rather than the proposal-specific rate the argument really wants, and no proposal-specific figure exists for this batch; and two of the five citations were read only as abstracts. On an informational query with no featured snippet the post has a genuine opening, but on the head term \"online proposal link\" — which SERP testing showed is 7-of-8 B2B proposal software — it should not be expected to rank at all, and the romance-qualified variants are where any traffic will come from."
+    },
+    "generatedAt": "2026-09-17T00:00:00.000Z",
+    "structuralLimitations": [
+      {
+        "item": "[Batch honesty constraint — not a publish-checklist item] No proposal-specific first-party data exists",
+        "why": "Structural, per BRIEF.md. The `proposalpages` collection could not be queried for this batch — the read-only probe was blocked by the production-read policy — so no figure in this post is attributed to proposal pages. 40.0% password protection (1,809 of 4,524), 92.9% publish-and-share (4,204 of 4,524), 48.9% phone opens (25,008 of 51,164) and 11.3 average views per page are all platform-wide across 4,524 pages and 16 page types; 6.3 hours is the median first-save-to-last-edit gap sampled on /love-gf (n=1,136) and measures sender editing time, not recipient reply time. Each is labelled as such in body prose at every appearance, not only here. This post depends on the 40.0% figure more heavily than any other in the batch — it is the spine of the forwarding section, the comparison table and the opening — so the proxy is its single largest weakness. Condition that would close it: a permitted read-only probe of `proposalpages` returning roughly 500+ pages, the point at which a per-template password rate becomes publishable. Recorded here and not in `auditReport.failed` because `failed` entries must be verbatim publish-checklist strings and `passed` + `failed` must partition the 50 checklist items exactly."
+      }
+    ]
+  }
+}
