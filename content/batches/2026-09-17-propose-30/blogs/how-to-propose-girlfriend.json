@@ -1,0 +1,355 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Propose to Your Girlfriend — And What the Fear Gets Wrong",
+    "slug": "how-to-propose-girlfriend",
+    "excerpt": "In Indian English, proposing to a girlfriend usually means asking her out, not proposing marriage. Research says requesters underestimate a yes by 48%. What to say, where to say it, and when a staged proposal is the wrong idea.",
+    "metaTitle": "How to Propose to Your Girlfriend (Not a Marriage Proposal)",
+    "metaDescription": "How to propose to your girlfriend, Indian-English sense: it means asking her out, not a ring. Requesters underestimate a yes by 48%, so ask her plainly.",
+    "keywords": "how to propose girlfriend, how to propose a girl, propose day 2027, will you be my girlfriend, proposal lines for girlfriend",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-propose-girlfriend",
+    "ogType": "article",
+    "tags": [
+      "propose-day",
+      "romance",
+      "relationships",
+      "valentines-week",
+      "modern-romance"
+    ],
+    "keyTakeaways": [
+      "In Indian English \"propose\" usually means asking someone to be your girlfriend, not proposing marriage — the two questions need completely different settings.",
+      "Across requests made to more than 14,000 strangers, people underestimated how often they would be told yes by an average of 48%.",
+      "Two thirds of 1,897 adults in a seven-sample meta-analysis said their relationship began as a friendship, so most proposal advice targets the minority case.",
+      "The \"I love you\" page is SubhSandesh's most-created template platform-wide — 1,138 of 4,567 pages, 24.9% of everything built since 12 March 2026.",
+      "39.9% of creators platform-wide password-protect the page before sharing it (1,822 of 4,567), which is a fair read of how private this message is."
+    ],
+    "faqs": [
+      {
+        "question": "Does \"propose\" mean marriage in India?",
+        "answer": "Usually not. In Indian English, proposing to a girl normally means telling her you have feelings and asking her to be your girlfriend, while in British and American English it almost always means a marriage proposal. Work out which one you mean before you plan anything, because the two need completely different settings."
+      },
+      {
+        "question": "What should I actually say to her?",
+        "answer": "One sentence, ending in a question mark: \"I like you, more than as a friend — will you be my girlfriend?\" Vanessa Bohns's research on more than 14,000 requests shows direct asks get answered far more often than hints. Write it down beforehand so nerves do not turn it into a speech."
+      },
+      {
+        "question": "When is Propose Day in 2027?",
+        "answer": "Monday 8 February 2027. It is the second day of Valentine's week, not the first — Rose Day opens the week on Sunday 7 February and Valentine's Day closes it on Sunday 14 February. Because 2027 falls on a working day, the usable window is narrower than in 2026, when Propose Day was a Sunday."
+      },
+      {
+        "question": "Should I propose in person or over text?",
+        "answer": "In person if you can be alone with her, because a direct spoken question is the clearest version of the ask. Send something afterwards rather than instead — 48.9% of all page views across SubhSandesh happen on a phone (25,167 of 51,504), so what you send is what she rereads later."
+      },
+      {
+        "question": "What happens if she says no?",
+        "answer": "You almost certainly overestimate how badly it will go. Savitsky, Epley and Gilovich found that people anticipate far harsher judgment for a social misstep than observers actually deliver, and the beautiful mess research finds the same asymmetry for showing vulnerability. Say up front that a no is fine, then mean it."
+      },
+      {
+        "question": "Is it a bad idea to propose in front of friends?",
+        "answer": "For this question, yes. An audience changes what she is free to answer, not how she feels, and Bohns and DeVincent found that targets of romantic advances find refusing much harder than the person asking realises. Keep it to the two of you."
+      },
+      {
+        "question": "Do I need to give her a rose or a gift?",
+        "answer": "No. A rose is the Propose Day convention and it is a nice prop, but nothing in the research suggests an object changes the answer. The one thing worth having is something she can reopen the next morning, when the conversation has gone blurry."
+      },
+      {
+        "question": "How long should I wait before asking a friend out?",
+        "answer": "There is no measured number, but friends-first is the norm rather than the exception. In Stinson, Cameron and Hoplock's meta-analysis of seven samples (N = 1,897), two thirds of adults said their relationship began as a friendship. Being friends first is not a reason to delay."
+      },
+      {
+        "question": "Can I just send her a page instead of asking her face to face?",
+        "answer": "You can, and if you are long distance you may have to, but it is second best. A page is the keepsake; the question is still a question. If you are in the same room, a link is a worse version of a sentence."
+      },
+      {
+        "question": "What is the difference between the proposal page and the \"I love you\" page?",
+        "answer": "The proposal scrapbook ends in a YES button that grows every time she dodges it, which is a joke for a couple already heading towards a wedding. The \"I love you\" page is the one that fits \"will you be my girlfriend\" — it is also the most-created template on SubhSandesh, 1,138 of 4,567 pages, 24.9% platform-wide."
+      },
+      {
+        "question": "Does being shy make this harder than it needs to be?",
+        "answer": "It makes you worse at reading the result, not worse at the ask. In the 2018 liking-gap study, the shyest third of participants underestimated how much a conversation partner liked them by 1.14 points on a 7-point scale, against a non-significant 0.25 for the least shy."
+      },
+      {
+        "question": "Do you have data on how people build proposal pages specifically?",
+        "answer": "No, and we will not pretend otherwise. A read-only probe of the proposal-page collection was refused by our production-read policy, twice, so every figure on this page is either platform-wide across all 16 page types or sampled on the \"I love you\" page. The prose says which every time."
+      }
+    ],
+    "coverImageQuery": "young indian couple talking alone park evening",
+    "coverImagePrompt": "A photorealistic, warm-toned scene of a young Indian man and woman sitting alone on a low park wall at golden hour, mid-conversation, his hands nervous and her expression open and listening. Shallow depth of field, no other people in frame, clean negative space across the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Propose to Your Girlfriend — And What the Fear Gets Wrong\n\nIf you typed \"how to propose girlfriend\" into a search box, you are probably not shopping for a ring. In Indian English, *propose* usually means asking someone to be your girlfriend in the first place, and the advice for that is close to the opposite of engagement advice.\n\nAsk in plain words, in a place where she is not performing for an audience, and leave her a real way to say no. Two numbers from our own platform for scale: the \"I love you\" page is the single most-created template across SubhSandesh, 1,138 of 4,567 pages built since 12 March 2026, or 24.9% of everything created.\n\nAnd 39.9% of creators platform-wide, across all 16 page types, password-protect their page before they send it. This is a private message, not a performance. Below: what the word actually means, what the research says about your odds, the five things that decide whether the ask lands, and when a staged proposal is the wrong call.\n\n## What \"propose\" means when the person asking is Indian\n\nIn Indian English, *to propose a girl* means to tell her you have feelings and ask her to be your girlfriend. In British and American English, *to propose* almost always means a marriage proposal. Same verb, two completely different questions, and most of the pages ranking for this phrase quietly answer the wrong one.\n\nThat matters for what you do next. A marriage proposal is a public, planned, witnessed event. A \"will you be my girlfriend\" is a two-person conversation that works better with no witnesses at all.\n\nThe dated version of this question is Propose Day, 8 February, the second day of Valentine's week — not the first. In 2027 it lands on a **Monday**, with Rose Day opening the week on Sunday 7 February 2027 and Valentine's Day closing it on Sunday 14 February 2027.\n\nPropose Day 2026 fell on a Sunday. If you are used to having the whole day, 2027 is a working day and the usable window is narrower than you remember.\n\n## Your odds are better than you think, and there are numbers for it\n\nThe fear is real and it is also miscalibrated. In a review of studies in which participants made requests of more than 14,000 strangers, [Vanessa Bohns found that requesters underestimate compliance by an average of 48%](https://ecommons.cornell.edu/server/api/core/bitstreams/445e3b34-ce08-4f5b-8671-466f49963d40/content) — people say yes far more often than the person asking expects, largely because refusing a direct request is more awkward than the asker imagines.\n\nThe same pattern turns up in ordinary conversation. In [the liking-gap studies published in *Psychological Science* in 2018](https://clarkrelationshiplab.yale.edu/sites/default/files/files/BoothbyCooneySandstromClark2018.pdf), 36 strangers talked for five minutes and then rated each other, and they liked their partner more (mean 5.82 on a 7-point scale) than they believed their partner liked them (5.17).\n\nShyness made it worse: the shyest third misjudged by 1.14 points, the least shy by a statistically insignificant 0.25. If you are nervous enough to be reading this, you are in the group that is most wrong about how you are landing.\n\nThe thing you are most afraid of — looking pathetic — also has a name. [Bruk, Scholl and Bless call it the beautiful mess effect](https://self-compassion.org/wp-content/uploads/2021/11/Bruk-et-al.-2021-You-and-I-Both-Self-Compassion-Reduces-Self%E2%80%93Other.pdf): people judge their own displays of vulnerability harshly and other people's generously, and their 2021 paper opens on exactly your situation, being in love with a friend and wondering whether to confess.\n\n[Savitsky, Epley and Gilovich found the same asymmetry in 2001](https://cdn.prod.website-files.com/5c484e0f4aa6f839dc553c45/5c818f250431906545090748_SavitskyEpleyGilovich2001.pdf), putting 260 students through three imagined social blunders: actors expected to be judged far more harshly than observers said they would judge them.\n\nOne more finding reframes the whole question. In a meta-analysis of seven samples, [Stinson, Cameron and Hoplock report that two thirds of 1,897 adults said their romantic relationship started as a friendship](https://pubmed.ncbi.nlm.nih.gov/35251491/) rather than as a date between strangers — so most proposal advice is written for the minority case.\n\n## The five things that decide whether the ask lands\n\nEach item below covers the same four points in the same order: what it is, who it suits, the evidence behind it, and what to actually do.\n\n### 1. Say the question out loud, in one sentence\n\nThe ask is a single sentence ending in a question mark: \"I like you, more than as a friend — will you be my girlfriend?\" It suits everyone, including people who would much rather write a paragraph.\n\nThe evidence is Bohns's underestimation-of-compliance work: a direct request gets answered far more often than an implied one, and a hint is not a request. Write the sentence down before you say it, so nerves cannot turn it into a speech.\n\n### 2. Pick a moment where nobody is watching her\n\nA private ask means no restaurant table of friends, no group chat, no crowd of cousins. It suits almost everyone and is essential for anyone who dislikes attention.\n\nThe evidence is that an audience changes what she is free to answer, not how she feels. Walking somewhere, a parked car, an empty stretch of terrace — anywhere she can react without a second audience reading her face.\n\n### 3. Give her a real way to say no\n\nThis means saying out loud that a no is allowed and the friendship survives it. It suits anyone asking a friend, which the Stinson meta-analysis puts at two thirds of cases.\n\nThe evidence is Bohns and DeVincent's finding that the targets of romantic advances find refusing much harder than the person asking assumes. A yes you cornered her into is not the one you wanted.\n\n### 4. Build the ask out of what you two already are\n\nThis means using your actual history — the running joke, the day you met, the thing she always says — instead of borrowed lines. It suits friends-first couples above all.\n\nThe evidence is the liking gap: you have more credit with her than you think, so your own material outperforms anything copied off a quotes page. Pick three specific things only the two of you would recognise.\n\n### 5. Leave her something she can reopen afterwards\n\nThis is a message, a page or a letter she still has the next morning, when the conversation has gone blurry. It suits long distance and anyone who gets tongue-tied in person.\n\nThe evidence from our own platform is that 48.9% of all page views across SubhSandesh happen on a phone (25,167 of 51,504 views), so whatever you send has to survive being reread on a small screen at midnight. Keep it short enough to read twice.\n\n## Four ways to ask, compared\n\nThe table below compares the realistic options for this exact question, with the only first-party column we can honestly publish: each template's share of everything built on SubhSandesh, platform-wide.\n\n| Option | The question it actually asks | Share of all 4,567 pages (platform-wide) | Proposal-specific data? |\n|---|---|---|---|\n| Ask face to face, nothing prepared | Whatever you manage to say | 0% — nothing is recorded | No |\n| An \"I love you\" page | Will you be mine | 24.9% — 1,138 pages | Not applicable; this is the measured one |\n| A digital bouquet | Flowers, with no question in them | 24.1% — 1,101 pages | No |\n| A marriage-proposal scrapbook | Will you marry me | Not separately published | No — see the section below |\n\nThe takeaway is the ordering. The face-to-face row does the work, and anything you send is the thing she keeps afterwards; reverse that and you have sent a card instead of asking a question.\n\n## When a staged proposal is the wrong call\n\nOur [proposal scrapbook template](/proposal) is a story page ending in a YES button that grows every time she dodges it. For a couple already together and heading towards a wedding, that joke is the entire point.\n\nFor someone who has not said yes to anything yet, a button engineered to be hard to refuse is the exact mechanism you should be avoiding. That is not squeamishness.\n\n[Bohns and DeVincent, surveying 942 STEM graduate students and running a 385-person experiment](https://ecommons.cornell.edu/handle/1813/111287), found that people making unwanted romantic advances consistently fail to appreciate how uncomfortable refusal is for the other person. Pressure produces yeses; it does not produce relationships.\n\nSo for this keyword the honest recommendation is the [romantic \"I love you\" page](/love-gf) — the template behind 24.9% of everything our creators build platform-wide — used *after* she has said yes, as the thing she keeps. If you have not got as far as feelings and only want to see her alone first, the [date invitation page](/date-invitation) asks a smaller, easier question.\n\nSubhSandesh loses outright in two cases: when she has no smartphone, and when you are in the same room, where a link is a worse version of a sentence.\n\n## What our own data cannot tell you\n\nEvery SubhSandesh figure on this page is either platform-wide across all 16 page types or sampled on the \"I love you\" page, and the prose says which each time. There is a reason for that hedge.\n\nA read-only probe of the proposal-page collection was refused by our production-read policy, twice, so **no number on this page describes proposal pages specifically** and none should be read that way.\n\nWhat we can say, platform-wide: 92.7% of pages people start are actually published and shared (4,234 of 4,567). The median gap between a page's first save and its last edit is 6.4 hours — that one sampled on the \"I love you\" page, n=1,138, not on proposals.\n\nPeople start these, walk away, and come back to edit. Budget an evening, not ten minutes.\n\n## Sources\n\n- Vanessa K. Bohns, \"(Mis)Understanding Our Influence over Others: A Review of the Underestimation-of-Compliance Effect\", *Current Directions in Psychological Science*, 2016 — [Cornell eCommons copy](https://ecommons.cornell.edu/server/api/core/bitstreams/445e3b34-ce08-4f5b-8671-466f49963d40/content)\n- Erica J. Boothby, Gus Cooney, Gillian M. Sandstrom and Margaret S. Clark, \"The Liking Gap in Conversations\", *Psychological Science*, November 2018 — [Yale Clark Relationship Lab copy](https://clarkrelationshiplab.yale.edu/sites/default/files/files/BoothbyCooneySandstromClark2018.pdf)\n- Anna Bruk, Sabine G. Scholl and Herbert Bless, \"You and I Both: Self-Compassion Reduces Self–Other Differences in Evaluation of Showing Vulnerability\", *Personality and Social Psychology Bulletin*, 2021 — [full text PDF](https://self-compassion.org/wp-content/uploads/2021/11/Bruk-et-al.-2021-You-and-I-Both-Self-Compassion-Reduces-Self%E2%80%93Other.pdf)\n- Kenneth Savitsky, Nicholas Epley and Thomas Gilovich, \"Do Others Judge Us as Harshly as We Think?\", *Journal of Personality and Social Psychology*, 2001 — [author copy](https://cdn.prod.website-files.com/5c484e0f4aa6f839dc553c45/5c818f250431906545090748_SavitskyEpleyGilovich2001.pdf)\n- Danu Anthony Stinson, Jessica J. Cameron and Lisa B. Hoplock, \"The Friends-to-Lovers Pathway to Romance\", *Social Psychological and Personality Science*, July 2021 — [abstract on PubMed](https://pubmed.ncbi.nlm.nih.gov/35251491/)\n- Vanessa K. Bohns and Lauren A. DeVincent, \"Rejecting Unwanted Romantic Advances Is More Difficult Than Suitors Realize\", *Social Psychological and Personality Science*, May 2018 — [Cornell eCommons record](https://ecommons.cornell.edu/handle/1813/111287)\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-propose-girlfriend#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Courtship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Courtship",
+              "https://www.wikidata.org/wiki/Q376596"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Propose Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Propose_Day",
+              "https://www.wikidata.org/wiki/Q7250378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valentine's Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+              "https://www.wikidata.org/wiki/Q37587"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Indian English",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_English",
+              "https://www.wikidata.org/wiki/Q1348800"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Social rejection",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Social_rejection",
+              "https://www.wikidata.org/wiki/Q674328"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "(Mis)Understanding Our Influence over Others: A Review of the Underestimation-of-Compliance Effect",
+            "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/445e3b34-ce08-4f5b-8671-466f49963d40/content",
+            "datePublished": "2016-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Current Directions in Psychological Science (Cornell eCommons copy)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Liking Gap in Conversations: Do People Like Us More Than We Think?",
+            "url": "https://clarkrelationshiplab.yale.edu/sites/default/files/files/BoothbyCooneySandstromClark2018.pdf",
+            "datePublished": "2018-11-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Psychological Science (Yale Clark Relationship Lab copy)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "You and I Both: Self-Compassion Reduces Self-Other Differences in Evaluation of Showing Vulnerability",
+            "url": "https://self-compassion.org/wp-content/uploads/2021/11/Bruk-et-al.-2021-You-and-I-Both-Self-Compassion-Reduces-Self%E2%80%93Other.pdf",
+            "datePublished": "2021-07-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Personality and Social Psychology Bulletin"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Do Others Judge Us as Harshly as We Think? Overestimating the Impact of Our Failures, Shortcomings, and Mishaps",
+            "url": "https://cdn.prod.website-files.com/5c484e0f4aa6f839dc553c45/5c818f250431906545090748_SavitskyEpleyGilovich2001.pdf",
+            "datePublished": "2001-07-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Personality and Social Psychology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Friends-to-Lovers Pathway to Romance: Prevalent, Preferred, and Overlooked by Science",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35251491/",
+            "datePublished": "2021-07-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Social Psychological and Personality Science"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Rejecting Unwanted Romantic Advances Is More Difficult Than Suitors Realize",
+            "url": "https://ecommons.cornell.edu/handle/1813/111287",
+            "datePublished": "2018-05-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Social Psychological and Personality Science (Cornell eCommons record)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The five things that decide whether the ask lands",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Say the question out loud, in one sentence",
+            "description": "One sentence ending in a question mark. Direct requests are answered far more often than hints; requesters underestimate compliance by 48%."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Pick a moment where nobody is watching her",
+            "description": "No restaurant table of friends, no group chat, no crowd. An audience changes what she is free to answer, not how she feels."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Give her a real way to say no",
+            "description": "Say out loud that a no is allowed. Targets of romantic advances find refusing much harder than the person asking assumes."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Build the ask out of what you two already are",
+            "description": "Use your own history rather than borrowed lines. Two thirds of 1,897 adults said their relationship started as a friendship."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Leave her something she can reopen afterwards",
+            "description": "A message or page she still has the next morning. 48.9% of all SubhSandesh page views are on a phone (25,167 of 51,504)."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to propose girlfriend",
+    "angle": "Wins by being the only post that separates the Indian-English \"will you be my girlfriend\" ask from a marriage proposal, prices the reader's fear with real psychology (48% underestimation of compliance, the liking gap, the beautiful mess effect), and names the case where a staged proposal manufactures a yes — grounded in SubhSandesh's platform-wide figures, where the \"I love you\" page is 24.9% of 4,567 pages and 39.9% of creators password-protect before sharing.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/date-invitation"
+    ],
+    "factsUsed": [
+      "4,567 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-17",
+      "#1 page type: \"I love you\" page (/love-gf) — 1,138 created, 24.9% of all pages — measured 2026-09-17",
+      "#3 page type: digital bouquet (/bouquet-gf) — 1,101 created, 24.1% of all pages — measured 2026-09-17",
+      "39.9% of creators password-protect their page before sharing it (1,822 of 4,567) — measured 2026-09-17",
+      "48.9% of shared pages are opened on a phone (25,167 of 51,504 views) — measured 2026-09-17",
+      "92.7% of started pages are actually published and shared (4,234 of 4,567) — measured 2026-09-17",
+      "Median gap between a page's first save and its last edit: 6.4 hours — sampled on \"I love you\" page (/love-gf), n=1,138 — measured 2026-09-17"
+    ],
+    "sources": [
+      {
+        "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/445e3b34-ce08-4f5b-8671-466f49963d40/content",
+        "stat": "Across studies in which participants made requests of more than 14,000 strangers, requesters underestimated compliance by an average of 48%; the error is explained by requesters failing to appreciate how awkward it is to say no. Full text read.",
+        "publishedDate": "2016-01-01"
+      },
+      {
+        "url": "https://clarkrelationshiplab.yale.edu/sites/default/files/files/BoothbyCooneySandstromClark2018.pdf",
+        "stat": "Study 1a: 36 people held 5-minute conversations with a stranger and rated their partner higher (M = 5.82 on a 7-point scale) than they believed their partner rated them (M = 5.17), b = -0.65, p < .001. Shyness moderated the gap: high-shyness participants misjudged by 1.14 points, low-shyness by a non-significant 0.25. Full text read.",
+        "publishedDate": "2018-11-01"
+      },
+      {
+        "url": "https://self-compassion.org/wp-content/uploads/2021/11/Bruk-et-al.-2021-You-and-I-Both-Self-Compassion-Reduces-Self%E2%80%93Other.pdf",
+        "stat": "States the beautiful mess effect: people are overly critical of their own displays of vulnerability while observers evaluate others' vulnerability rather positively. The paper's opening example is deciding whether to confess love to a friend. Full text read.",
+        "publishedDate": "2021-07-19"
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/5c484e0f4aa6f839dc553c45/5c818f250431906545090748_SavitskyEpleyGilovich2001.pdf",
+        "stat": "Study 1: 260 students imagined one of three social blunders; actors anticipated being judged more harshly by observers than observers said they would judge them, across all three scenarios. Full text read (author-hosted copy; the journal record is closed access).",
+        "publishedDate": "2001-07-01"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35251491/",
+        "stat": "Meta-analysis of seven samples (N = 1,897): two thirds reported friends-first initiation, and friends-first was the preferred initiation method among university students; relationship-initiation research overwhelmingly studies strangers instead. ABSTRACT ONLY — full text is behind the publisher paywall.",
+        "publishedDate": "2021-07-12"
+      },
+      {
+        "url": "https://ecommons.cornell.edu/handle/1813/111287",
+        "stat": "Two preregistered studies (N = 942 STEM graduate students recalling real unwanted pursuit; N = 385 vignette experiment) found initiators of unrequited romantic advances fail to appreciate how uncomfortable it is for targets to refuse. ABSTRACT ONLY — read via the repository record and OpenAlex; full text not opened.",
+        "publishedDate": "2018-05-23"
+      }
+    ],
+    "structuralLimitations": [
+      "No proposal-specific data exists. A read-only probe of the `proposalpages` collection was refused by this machine's production-read policy in wave 1 and again on 2026-09-17, so every SubhSandesh figure in this post is labelled platform-wide (all 16 page types) or sampled on /love-gf, in the body prose and not only here. Closing condition: a successful read of the proposal-page collection.",
+      "The pricing block in content/facts.md is empty, so the post states no price, no free tier and no paid tier, and deliberately avoids the whole subject. Closing condition: someone fills in the manual pricing lines in facts.md.",
+      "Two of the six sources (Stinson et al. 2022 and Bohns & DeVincent 2018) are behind publisher paywalls; only their abstracts were read, via the Europe PMC and OpenAlex APIs and the Cornell eCommons record. Nothing is claimed beyond what those abstracts state.",
+      "No search-volume tool was available. The 3,000-10,000/month band for this keyword is an estimate and is not stated anywhere in the post as a measured volume."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The exact string \"how to propose girlfriend\" is in the slug and is quoted verbatim in the first sentence, but the H1 and metaTitle read \"How to Propose to Your Girlfriend\" because the raw query is not grammatical English. Forcing the ungrammatical string into the H1 and the SERP title would cost more in trust and click-through than the exact-match gains."
+        },
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "Length is fine at 59 characters, but the keyword occupies words 1–6 (\"How to Propose to Your Girlfriend\"), not the first five, for the same grammar reason. No rewrite gets the exact string into five words without breaking the sentence."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that tells the reader the query itself is ambiguous — Indian-English \"propose\" means asking her out, not marriage — and then prices the fear with numbers nobody in the top 10 cites: a 48% average underestimation of compliance across requests to 14,000+ strangers, a 1.14-point liking gap for the shyest third, and two thirds of relationships starting as friendships. The section arguing against our own flagship proposal template, on the evidence that targets find refusal harder than suitors realise, is the part no competitor selling proposal pages will ever write. Against that: the SERP is owned by Quora, TikTok and Facebook, where user-generated answers carry engagement signals a new blog post has none of, and SubhSandesh's domain authority is far below the gifting retailers also ranking here. Ranking takes months and this post cannot change that."
+    },
+    "generatedAt": "2026-09-17T10:17:55.730Z"
+  }
+}
