@@ -1,0 +1,351 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Quotes in Malayalam, Checked Line by Line",
+    "slug": "propose-day-quotes-in-malayalam",
+    "excerpt": "Ten Propose Day quotes in Malayalam in മലയാളം script, each with a Roman transliteration, an English gloss and the നീ / നിങ്ങൾ / താങ്കൾ register it carries. Fifteen were drafted and five cut, with the reason for each. Propose Day 2027 is Monday 8 February.",
+    "metaTitle": "Propose Day Quotes in Malayalam — 10 Lines, Each Checked",
+    "metaDescription": "Propose day quotes in Malayalam: 10 lines in Malayalam script with transliteration and gloss, each checked against a grammar, a dictionary and 2 corpora.",
+    "keywords": "propose day quotes malayalam, propose day quotes in malayalam, malayalam proposal lines, propose day 2027, malayalam love quotes",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-quotes-in-malayalam",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "malayalam",
+      "valentine week",
+      "quotes",
+      "kerala"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 falls on Monday 8 February, the second day of Valentine week; Rose Day opens it on Sunday 7 February.",
+      "Fifteen Malayalam lines were drafted for this page, ten published and five cut — each cut is listed with the reason it failed verification.",
+      "Malayalam verbs carry no person marking, so register sits entirely in the pronoun: നീ is informal and impolite, നിങ്ങൾ is the honorific singular, താങ്കൾ is respectful.",
+      "Kerala's 1971 script order brought Malayalam from roughly 1,200 graphemes down to a standardised 90, and the Unicode Standard defines joiner sequences for choosing between the two scripts that exist for no other Indic script.",
+      "None of the ten published lines was reviewed by a native Malayalam speaker; verification was dictionary, published grammar and corpus attestation only."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say 'I love you' in Malayalam?",
+        "answer": "ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു (ñān ninne snēhikkunnu) is the informal version, using നീ. For a polite or respectful reading, swap the pronoun: ഞാൻ നിങ്ങളെ സ്നേഹിക്കുന്നു or ഞാൻ താങ്കളെ സ്നേഹിക്കുന്നു. The verb does not change."
+      },
+      {
+        "question": "Is it rude to use നീ with someone in Malayalam?",
+        "answer": "It can be. Wiktionary's Malayalam entry marks നീ as informal and impolite, so it fits someone you already address that way and nobody else. If you are unsure, നിങ്ങൾ is the safer choice."
+      },
+      {
+        "question": "Should I use നിങ്ങൾ or താങ്കൾ when I propose?",
+        "answer": "നിങ്ങൾ doubles as a plural 'you all' and an honorific singular, so it reads as polite rather than formal. താങ്കൾ is more respectful and can read as distancing between partners. For a proposal to someone you know well, neither beats a line with no second-person pronoun at all."
+      },
+      {
+        "question": "Does the Malayalam verb change when I switch pronouns?",
+        "answer": "No. Caldwell's 1875 grammar records that the verb in ordinary Malayalam carries no personal terminations, and that the future in -um is impersonal. സ്നേഹിക്കുന്നു and വരുമോ stay identical across നീ, നിങ്ങൾ and താങ്കൾ."
+      },
+      {
+        "question": "How do you ask 'will you marry me' in Malayalam?",
+        "answer": "എന്നെ വിവാഹം കഴിക്കുമോ? (enne vivāhaṁ kaḻikkumō?). It carries no second-person pronoun, so it is register-neutral and works whoever you are addressing."
+      },
+      {
+        "question": "Why does Malayalam text look broken on someone else's phone?",
+        "answer": "Because Malayalam has two live orthographies and a very large conjunct inventory. The Unicode Standard defines joiner sequences to pick between traditional and reformed conjunct shapes — a mechanism it says is defined for Malayalam only — and the shape appears only where the recipient's font supports it."
+      },
+      {
+        "question": "What is the difference between പഴയ ലിപി and പുതിയ ലിപി?",
+        "answer": "പഴയ ലിപി is the traditional script with complex ligatures; പുതിയ ലിപി is the reformed script Kerala adopted by order effective 15 April 1971. The reform brought the grapheme count from around 1,200 to a standardised 90, and both scripts are still read today."
+      },
+      {
+        "question": "Is it safer to send a screenshot than the text itself?",
+        "answer": "For Malayalam, usually yes. A screenshot freezes your own rendering, so the recipient's font cannot change it. The cost is that the text cannot be copied, searched or read aloud by a screen reader."
+      },
+      {
+        "question": "Is Propose Day 2027 on the 7th or the 8th of February?",
+        "answer": "The 8th. Rose Day opens Valentine week on Sunday 7 February 2027 and Propose Day is the Monday after, 8 February. Valentine's Day closes the week on Sunday 14 February."
+      },
+      {
+        "question": "Were these Malayalam lines checked by a native speaker?",
+        "answer": "No, and that matters. Each line was checked against Wiktionary's Malayalam entries, Caldwell's 1875 grammar and exact-phrase searches on ml.wikipedia.org and ml.wikisource.org. That shows the wording occurs in published Malayalam; it does not show it reads naturally in a proposal."
+      },
+      {
+        "question": "Can I put a Malayalam line into a SubhSandesh page?",
+        "answer": "You can type it into the fields and it will be stored and displayed. The buttons and surrounding copy stay in English, and the page ships no Malayalam font of its own, so the rendering still depends on the reader's browser."
+      },
+      {
+        "question": "Should I write the line in Manglish instead of Malayalam script?",
+        "answer": "If you normally text that person in Manglish, yes — a sudden formal Malayalam sentence reads as found rather than written. Roman transliteration also sidesteps the font problem entirely, at the cost of looking less like a keepsake."
+      }
+    ],
+    "coverImageQuery": "malayalam script handwritten notebook close up",
+    "coverImagePrompt": "A close, shallow-depth photograph of a handwritten line of Malayalam script in blue ink on cream notebook paper, the pen still resting on the page. Warm window light from the left, soft shadows, muted palette. Clean negative space along the top third for a title overlay, 16:9. No readable English text, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Quotes in Malayalam, Checked Line by Line\n\nTen Propose Day quotes in Malayalam, each in മലയാളം script with a Roman transliteration, an English gloss and its politeness level, for Propose Day 2027 on **Monday 8 February**. Fifteen were drafted, ten published and five cut with a reason for each — and SubhSandesh has no Malayalam-specific data behind them, only platform-wide figures across 20 page types: 5,061 personalised pages created since 12 March 2026, of which 91.2% were published and shared (4,615 of 5,061). Below: the lines, the നീ / നിങ്ങൾ / താങ്കൾ register each carries, how each was checked, and why Malayalam can arrive broken.\n\n## Propose Day 2027 is Monday 8 February, and a Malayalam line is not a translated Hindi one\n\nValentine week 2027 opens with Rose Day on Sunday 7 February and closes on Sunday 14 February. Propose Day is the Monday between — a working day in Kerala, which matters if you planned this in person.\n\nAnd a Malayalam page is not a Hindi page with the words swapped: different script, different pronouns, and a verb that never changes with the person addressed.\n\n## What a Propose Day quote in Malayalam actually is\n\nA Propose Day quote in Malayalam is a short, self-contained sentence you copy and send on 8 February 2027, in മലയാളം script, addressed to one person. It is not a wish, which goes to people you are not proposing to, nor a message, which you write yourself. Everything below is copy-text.\n\nThe one thing a copied line cannot do is sound like you — the honest limit of the format.\n\n## നീ, നിങ്ങൾ and താങ്കൾ: in Malayalam the register lives in the pronoun alone\n\nRodney Moag's 1980 [university reference grammar of Malayalam](https://files.eric.ed.gov/fulltext/ED197626.pdf) puts it plainly: \"Malayalam has a total of three\" words for \"you\". Picking the wrong one is the mistake a native reader catches instantly. [Wiktionary's Malayalam entries](https://en.wiktionary.org/wiki/%E0%B4%A8%E0%B5%80) mark **നീ** (nī) informal and impolite, list **നിങ്ങൾ** (niṅṅaḷ) as both plural \"you all\" and an honorific singular \"you\", and give **താങ്കൾ** (tāṅkaḷ) as a respectful second-person singular.\n\nHere is what separates Malayalam from Hindi, Marathi or Bengali. In those languages the verb shifts with the person addressed, so register is carried twice, by the pronoun and by the ending.\n\nMalayalam does not. Robert Caldwell's *Comparative Grammar of the Dravidian Languages*, 2nd ed., 1875, states it flatly: [\"The verb in ordinary Malayāḷam is destitute of personal terminations\"](https://archive.org/details/in.ernet.dli.2015.459581), and the future in *-um* \"is altogether impersonal; no pronominal terminations are ever added to it\".\n\nSo സ്നേഹിക്കുന്നു (\"love\") and വരുമോ (\"will you come?\") are identical whether you address നീ, നിങ്ങൾ or താങ്കൾ. Swap the pronoun and the line changes register, with nothing else to adjust — which is why they are grouped by pronoun.\n\n## 10 Propose Day quotes in Malayalam, grouped by what they ask for\n\nAll ten, in four groups; each gives the lines, the register, when it fits and when not to use it.\n\n### 1. \"I love you\", in all three registers\n\n**ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു.** — *ñān ninne snēhikkunnu* — \"I love you.\"\n**ഞാൻ നിങ്ങളെ സ്നേഹിക്കുന്നു.** — *ñān niṅṅaḷe snēhikkunnu* — \"I love you.\"\n**ഞാൻ താങ്കളെ സ്നേഹിക്കുന്നു.** — *ñān tāṅkaḷe snēhikkunnu* — \"I love you.\"\n\n**Register:** നീ, നിങ്ങൾ, താങ്കൾ — intimate, polite, respectful. The verb is unchanged in all three.\n**When it fits:** as the opening line of a longer message.\n**When not to use it:** the first, for someone you have never addressed informally; the third reads as distancing to a long-term partner.\n\n### 2. Asking the question itself\n\n**എന്നെ വിവാഹം കഴിക്കുമോ?** — *enne vivāhaṁ kaḻikkumō?* — \"Will you marry me?\"\n**നീ എന്റെ കൂടെ വരുമോ?** — *nī ente kūṭe varumō?* — \"Will you come with me?\"\n**നിങ്ങൾ എന്റെ കൂടെ വരുമോ?** — *niṅṅaḷ ente kūṭe varumō?* — \"Will you come with me?\"\n\n**Register:** the first carries no second-person pronoun, so it is register-neutral; the others are നീ and നിങ്ങൾ.\n**When it fits:** the first is the actual proposal; the others ask without using the word.\n**When not to use it:** not the first, over text, to someone who has not discussed marriage with you.\n\n### 3. Lines for a relationship that already has history\n\n**ഞാൻ നിന്നെ കാത്തിരിക്കും.** — *ñān ninne kāttirikkuṁ* — \"I will wait for you.\"\n**നീ എന്റെ ഹൃദയമാണ്.** — *nī ente hr̥dayamāṇŭ* — \"You are my heart.\"\n\n**Register:** നീ in both; there is no polite version that does not sound strange.\n**When it fits:** a partner you already address informally, on a day when nothing new is being asked.\n**When not to use it:** \"I will wait for you\" answers the question in advance, so it is a poor line if you are asking one.\n\n### 4. Lines that ask for a shared future\n\n**നമുക്ക് ഒരുമിച്ച് ജീവിക്കാം.** — *namukku orumiccŭ jīvikkāṁ* — \"Let us live together.\"\n**നീ എന്റെ ജീവിതത്തിലേക്ക് വരുമോ?** — *nī ente jīvitattilēkkŭ varumō?* — \"Will you come into my life?\"\n\n**Register:** the first uses the inclusive \"we\" (നമുക്ക്), sidestepping the pronoun choice; the second is നീ.\n**When it fits:** a decision already half-made between you.\n**When not to use it:** neither suits a first approach; both assume the answer.\n\nThe harder question is what the line travels inside. A [proposal scrapbook page](/proposal) that builds your story and ends on a YES button gives it somewhere to land, not just a chat thread.\n\n## How every line was checked, and the five that were cut\n\nThree layers, and a line had to survive all three.\n\n- **Lexical:** every content word was looked up in its Malayalam Wiktionary entry.\n- **Morphological:** case forms and tense endings checked against Caldwell (1875) — the accusative in *-e*, the datives *ninakk'* and *namukku*, the impersonal future *-um*.\n- **Corpus:** each string was run as an exact-phrase search against ml.wikipedia.org and ml.wikisource.org; zero hits in both meant a cut.\n\nFive were cut:\n\n- **താങ്കൾ എന്റെ കൂടെ വരുമോ?** — grammatical, but respectful താങ്കൾ with familiar കൂടെ returned no corpus hit as a unit.\n- **എനിക്ക് നിന്നോട് ഇഷ്ടമാണ്** — the sociative form നിന്നോട് has no Malayalam dictionary entry, and the phrase returned one corpus hit, none in the other.\n- **നീ ഇല്ലാതെ എനിക്ക് ജീവിതമില്ല** — the possessive-existential frame could not be attested as a unit.\n- **എന്റെ കൈ പിടിക്കുമോ?** — an English idiom mapped onto a verb glossed \"catch, grip\", unattested on ml.wikipedia.\n- **നമുക്ക് ഒരുമിച്ച് ഒരു ജീവിതം തുടങ്ങാം** — verified, but duplicated a line already here.\n\nWhat this cannot do: **none of the ten lines was reviewed by a native speaker.** Corpus attestation proves a string occurs in Malayalam, not that it reads well.\n\n## Why Malayalam text arrives broken when you copy it between devices\n\nKerala reformed its own script by government order in 1971. The study of that reform in [PLOS ONE, August 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285781) records that a committee found writing consonants and diacritics separately rather than as ligatures would cut the grapheme count by 75%, and that the order — effective 15 April 1971 — brought it from around 1,200 to a standardised 90. Malayalam has been written in two scripts since: പഴയ ലിപി, the old, and പുതിയ ലിപി, the reformed.\n\nBoth remain in use, and both must be rendered. The typographers behind the Rachana fonts report in [TUGboat 44(2), 2023](https://tug.org/TUGboat/tb44-2/tb137radhakrishnan-malayalam.pdf) that up to four consonants can combine in one ligature, that a vowel sign can attach on both the left and right of the same consonant, and that RIT Rachana carries over 920 glyphs built from 117 base characters — a heavy burden for a phone font.\n\n[Chapter 12 of the Unicode Standard](https://www.unicode.org/versions/latest/core-spec/chapter-12/) defines invisible joiner characters that let text request a traditional ligature or a reformed open form, states that \"such sequences are defined for Malayalam only, and are left undefined for other Indic scripts\", and notes the shape appears only \"where the font in use supports it\". No other Indic script carries that mechanism — which is why a Malayalam line that looks right on your phone can reach someone else's with a conjunct split open.\n\n## Where to send the line, and what decides whether it renders\n\nThis turns on who controls the font when your recipient reads it.\n\n| Route | What decides whether the script renders | Reversible after sending | SubhSandesh platform-wide figure that bears on it |\n|---|---|---|---|\n| Pasted as text into a chat | Their device's Malayalam font | No | 48.4% of shared-page views are on a phone (27,185 of 56,152) |\n| A screenshot of your screen | Your font, frozen at capture | No | Not measured |\n| Read aloud on a call | No script involved | Yes | Not measured |\n| Typed into a shareable page | Their browser's font | Yes, editable after sending | 91.2% of started pages are published and shared (4,615 of 5,061) |\n\nA screenshot is the only route where you control the rendering; a page is the only one you can fix later.\n\n## When a Malayalam quote, or SubhSandesh, is the wrong choice\n\nStart with where this site loses. **Every SubhSandesh template is English-language.** You can type Malayalam into the fields and it will be stored and displayed, but the buttons and surrounding copy stay in English, and the page ships no Malayalam font — so the rendering risk above is not solved by using one. Need a fully Malayalam page? A screenshot serves you better.\n\nA copied line is also wrong when the person knows your Malayalam: if you normally text in Manglish, a sudden formal sentence reads as found rather than written.\n\nIf you are asking \"will you be my girlfriend\" rather than \"will you marry me\", the [I-love-you page for a partner](/love-gf) is the honest fit — the platform's #2 page type at 1,173 created, 23.2% of all pages — and it puts no marriage question to someone not expecting one. To browse first, start at the [full template list](/templates). The most-created type platform-wide is the apology dashboard, 1,347 pages, 26.6% of everything built.\n\nOne practical note: 38.7% of creators password-protect their page before sharing (1,961 of 5,061, all 20 page types) — useful if the line is one a family group chat should not see.\n\n## Sources\n\n- Nambiar, Kishore & Bhargava (3 August 2023). *The effect of script reform on levels of orthographic knowledge*. PLOS ONE 18(8): e0285781.\n- Radhakrishnan, Rajeesh & Hussain (2023). *Metafont/MetaPost and a complex Indic script: Malayalam*. TUGboat 44(2), 297-314.\n- The Unicode Consortium (2026). *The Unicode Standard, Version 18.0.0*, ch. 12 §12.9.\n- Caldwell, R. (1875). *A Comparative Grammar of the Dravidian Family of Languages*, 2nd ed. Trübner & Co.\n- Moag, R. F. (1980). *Malayalam: A University Course and Reference Grammar*. University of Michigan (ERIC ED197626).\n- Wiktionary, Malayalam entries, consulted 23 September 2026 for each word's gloss and register.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-quotes-in-malayalam#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Malayalam",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Malayalam",
+              "https://www.wikidata.org/wiki/Q36236"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Malayalam script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Malayalam_script",
+              "https://www.wikidata.org/wiki/Q1164129"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Kerala",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kerala",
+              "https://www.wikidata.org/wiki/Q1186"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valentine's Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+              "https://www.wikidata.org/wiki/Q37587"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The effect of script reform on levels of orthographic knowledge: Evidence from alphasyllabary Malayalam scripts",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285781",
+            "datePublished": "2023-08-03",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLOS"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Metafont/MetaPost and a complex Indic script: Malayalam",
+            "url": "https://tug.org/TUGboat/tb44-2/tb137radhakrishnan-malayalam.pdf",
+            "datePublished": "2023",
+            "publisher": {
+              "@type": "Organization",
+              "name": "TeX Users Group"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Unicode Standard, Version 18.0.0, Chapter 12: South and Central Asia-I",
+            "url": "https://www.unicode.org/versions/latest/core-spec/chapter-12/",
+            "datePublished": "2026",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "A Comparative Grammar of the Dravidian or South-Indian Family of Languages, 2nd edition",
+            "url": "https://archive.org/details/in.ernet.dli.2015.459581",
+            "datePublished": "1875",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Trubner & Co."
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Malayalam: A University Course and Reference Grammar",
+            "url": "https://files.eric.ed.gov/fulltext/ED197626.pdf",
+            "datePublished": "1980",
+            "author": {
+              "@type": "Person",
+              "name": "Rodney F. Moag"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Center for South and Southeast Asian Studies, University of Michigan"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary Malayalam entries",
+            "url": "https://en.wiktionary.org/wiki/%E0%B4%A8%E0%B5%80",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Propose Day quotes in Malayalam, grouped by what they ask for",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "\"I love you\", in all three registers",
+            "description": "Three lines built on the same verb, switching only the pronoun: നീ (informal), നിങ്ങൾ (polite), താങ്കൾ (respectful)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Asking the question itself",
+            "description": "എന്നെ വിവാഹം കഴിക്കുമോ? carries no second-person pronoun and is register-neutral; two softer 'will you come with me' versions follow in നീ and നിങ്ങൾ."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lines for a relationship that already has history",
+            "description": "Two നീ-tier lines for a partner you already address informally, on a day when nothing new is being asked."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Lines that ask for a shared future",
+            "description": "One line using the inclusive നമുക്ക், which sidesteps the pronoun choice entirely, and one in നീ."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day quotes malayalam",
+    "angle": "Wins by being the only Propose Day page in Malayalam that publishes its own verification ledger — 15 lines drafted, 10 published, 5 cut with the reason for each — and explains from Kerala's 1971 script order and the Unicode Standard why Malayalam is the one Indic script whose lines can arrive broken, grounded in SubhSandesh's platform-wide 91.2% publish-and-share rate across all 20 page types.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf"
+    ],
+    "factsUsed": [
+      "5,061 personalised pages created since 2026-03-12, across 20 page types — measured 2026-09-23",
+      "91.2% of started pages are actually published and shared (4,615 of 5,061) — measured 2026-09-23",
+      "48.4% of shared pages are opened on a phone (27,185 of 56,152 views) — measured 2026-09-23",
+      "38.7% of creators password-protect their page before sharing it (1,961 of 5,061) — measured 2026-09-23",
+      "#2 page type: \"I love you\" page (/love-gf) — 1,173 created, 23.2% of all pages — measured 2026-09-23",
+      "#1 page type: apology dashboard (/apology-dashboard) — 1,347 created, 26.6% of all pages — measured 2026-09-23"
+    ],
+    "sources": [
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285781",
+        "stat": "Kerala's 1971 order on the Malayalam script took effect 15 April 1971; a government committee found separating consonants and diacritics rather than writing complex ligatures could cut the grapheme count by 75%, bringing it from around 1,200 to a standardised 90 (18 vowels, 39 consonants)",
+        "publishedDate": "2023-08-03"
+      },
+      {
+        "url": "https://tug.org/TUGboat/tb44-2/tb137radhakrishnan-malayalam.pdf",
+        "stat": "Up to four consonants can be combined in one Malayalam ligature and a vowel sign can attach on both the left and right of the same consonant; the RIT Rachana font carries over 920 glyphs derived from a base table of 117 characters",
+        "publishedDate": "2023"
+      },
+      {
+        "url": "https://www.unicode.org/versions/latest/core-spec/chapter-12/",
+        "stat": "ZWJ/ZWNJ sequences may be used to request traditional ligatures or reformed-orthography open forms, and 'such sequences are defined for Malayalam only, and are left undefined for other Indic scripts'; the requested shape appears only 'where the font in use supports it'",
+        "publishedDate": "2026"
+      },
+      {
+        "url": "https://archive.org/details/in.ernet.dli.2015.459581",
+        "stat": "'The verb in ordinary Malayalam is destitute of personal terminations'; the future in -um 'is altogether impersonal; no pronominal terminations are ever added to it'; the Malayalam dative pronoun forms ninakk' and namukku",
+        "publishedDate": "1875"
+      },
+      {
+        "url": "https://files.eric.ed.gov/fulltext/ED197626.pdf",
+        "stat": "\"Malayalam has a total of three\" words for 'you' (Lesson 1, §1.6 Multiple Forms for He, She, and You), with the politest of the three described as usable 'in any situation without fear of insulting anyone'",
+        "publishedDate": "1980"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%B4%A8%E0%B5%80",
+        "stat": "Malayalam dictionary entries used to gloss every content word and to fix the register labels: നീ is marked informal and impolite, നിങ്ങൾ is 'you all' (2pl) and honorific 'you' (2sg), താങ്കൾ is a second-person singular pronoun"
+      }
+    ],
+    "structuralLimitations": [
+      "No proposal-specific data exists. A read-only probe of the proposalpages collection remains refused by this machine's production-read policy, so every SubhSandesh figure in this post is platform-wide across all 20 page types, and the body prose says so at every use. Nothing is attributed to proposal pages.",
+      "The pricing block in content/facts.md is still empty, so no price, free-tier or paid-tier claim appears anywhere in this post.",
+      "No SERP was measured for this keyword. The only India-served SERPs captured by this programme are the 11 from 2026-09-16, none of them Malayalam. The post therefore makes no claim about what any competing page contains, omits or dates, and no competitor page was opened at any point in this run.",
+      "The ten published Malayalam lines were NOT reviewed by a native Malayalam speaker. Verification was three-layer: lexical lookup in Wiktionary's Malayalam entries, morphology checked against Caldwell (1875), and exact-phrase corpus attestation on ml.wikipedia.org and ml.wikisource.org. Corpus attestation shows a string occurs in published Malayalam; it does not show that it reads naturally in a proposal. Closes when a native speaker reviews the ten lines.",
+      "Two of the four rows in the comparison table carry 'Not measured' in the first-party column, because SubhSandesh holds no data on screenshots sent outside the platform or on spoken proposals. Stated in the table rather than estimated.",
+      "Wiktionary is community-edited and not peer-reviewed. It was used only for lexical gloss and register labels, and every register claim it supports is cross-checked against Caldwell (1875) and corpus attestation.",
+      "No open-access research on Malayalam address terms or Kerala language-use sociolinguistics was found. Terms tried through findpapers.mjs (Crossref + Europe PMC): 'Malayalam pronouns honorifics address terms' and 'Kerala literacy language use sociolinguistics'; both returned off-topic results. The register section leans on an 1875 grammar and dictionary entries in consequence.",
+      "Zero WebSearch calls were spent on this post.",
+      "The Moag (1980) reference grammar was read as an OCR text layer of the ERIC scan; its Malayalam script did not survive OCR, so only its English prose was used — the three-pronoun statement and the politeness note — and no Malayalam form was taken from it."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "No SERP was measured for this keyword. The only India-served SERPs this programme has captured are the 11 from 2026-09-16, none of them Malayalam, so there is no measured top 5 to compare against. The verification ledger and the Unicode joiner point are original by construction, but that originality is unverified against incumbents. Closes when an India-served SERP for 'propose day quotes malayalam' is fetched and the top 5 pages are read."
+        }
+      ],
+      "honestAssessment": "The defensible reasons to cite this are two things no other page in the cluster has: a published verification ledger that names the five Malayalam lines cut and why each failed, and the Unicode Standard's statement that joiner sequences for selecting between traditional and reformed conjuncts are defined for Malayalam only — which is the real, citable reason a Malayalam line can arrive broken when a Hindi one does not. Against that, no SERP was measured, the ten lines have not been seen by a native speaker, and the February Indian-language query cycle belongs to MensXP, Zee, Webdunia, Times Now and Amar Ujala, whose domain authority is far above ours. Target is position 6-10, not 3, and this is a visibility asset judged on impressions: a copy-text query converts close to nothing, the reader takes a line and leaves, and every SubhSandesh template on the page is English-language, which the post says plainly rather than working around."
+    },
+    "generatedAt": "2026-09-23T16:40:00.000Z"
+  }
+}

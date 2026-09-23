@@ -1,0 +1,331 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Quotes in Telugu, Checked Against a Dictionary",
+    "slug": "propose-day-quotes-in-telugu",
+    "excerpt": "Eleven Telugu Propose Day lines in script, transliteration and English gloss, each verified word by word against Gwynn's Telugu-English dictionary and the Universal Dependencies Telugu treebank — plus the seven that were cut, and why.",
+    "metaTitle": "Propose Day Quotes in Telugu — 11 Lines, Each Verified",
+    "metaDescription": "Propose Day quotes in Telugu: 11 lines in script, transliteration and gloss, each checked against Gwynn's 1991 dictionary and a 6,465-token Telugu treebank.",
+    "keywords": "propose day quotes telugu, propose day quotes in telugu, telugu propose day lines, propose day 2027, telugu proposal message",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-quotes-in-telugu",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "telugu",
+      "valentine week",
+      "proposal",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 falls on Monday 8 February, the second day of Valentine week; Rose Day is Sunday 7 February.",
+      "Eleven Telugu lines are published here and seven were cut: every word had to be a headword in Gwynn's 1991 Telugu-English dictionary and every ending attested in a 6,465-token Telugu treebank.",
+      "Telugu marks the second person twice — నువ్వు against మీరు, and again on the verb, where -తావా becomes -తారా — so swapping the pronoun without swapping the ending breaks the line.",
+      "A 2018 Linguistic Data Consortium field document states Telugu has no sharp diglossia between its spoken and formal written varieties, so plain modern Telugu reads naturally aloud.",
+      "48.4% of the 56,152 views SubhSandesh has recorded opened on a phone, platform-wide across 20 page types, so the line has to render on a small screen."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day 2027?",
+        "answer": "Propose Day 2027 falls on Monday 8 February. It is the second day of Valentine week, after Rose Day on Sunday 7 February, and Valentine's Day closes the week on Sunday 14 February."
+      },
+      {
+        "question": "Should I use నువ్వు or మీరు when I propose in Telugu?",
+        "answer": "Use whichever you already use with them in conversation. Gwynn's dictionary glosses మీరు as the polite singular or plural you, and నువ్వు as the plain singular, and the verb ending has to change with the pronoun — -తావా for నువ్వు, -తారా for మీరు."
+      },
+      {
+        "question": "How do you say will you marry me in Telugu?",
+        "answer": "నన్ను పెళ్లి చేసుకుంటావా? (nannu peḷli cēsukuṇṭāvā) in the intimate register, or నన్ను పెళ్లి చేసుకుంటారా? (nannu peḷli cēsukuṇṭārā) in the polite one. Gwynn's entry for చేసుకొను lists the marry sense outright."
+      },
+      {
+        "question": "Is నేను నిన్ను ప్రేమిస్తున్నాను the normal way to say I love you in Telugu?",
+        "answer": "It is a correct and understood way to say it, built from ప్రేమించు, which Gwynn glosses as 'to love, fall in love with'. In everyday speech many people reach first for నువ్వు నాకు ఇష్టం, which is closer to 'I like you' and lands less heavily."
+      },
+      {
+        "question": "Why are there only 11 lines here instead of fifty?",
+        "answer": "Because 11 is how many survived verification. I drafted 18 and cut 7 whose words were not dictionary headwords or whose endings were not attested in the treebank, and a wrong line in a proposal is worse than no line."
+      },
+      {
+        "question": "Can I use a line from a Telugu film song or a modern poem?",
+        "answer": "Not from this page. Modern film lyrics and published poetry are under copyright, so nothing here is taken from them, and a borrowed film line also reads as film dialogue rather than as something you said."
+      },
+      {
+        "question": "Is written Telugu very different from spoken Telugu?",
+        "answer": "Much less than it once was. Arden's 1905 grammar describes a split wide enough that conversational speakers could not follow a written book, while the Linguistic Data Consortium's 2018 documentation states Telugu has no sharp diglossia between its spoken and formal written varieties."
+      },
+      {
+        "question": "Will the Telugu script show up correctly on WhatsApp or on a phone?",
+        "answer": "Modern phones render Telugu, which sits in Unicode U+0C00 to U+0C7F. The risk is older characters: the LDC documentation lists ఱ, the vocalic ఋ and ఌ series, ౘ and ౙ as no longer part of standard Telugu spelling, so text copied from a scanned book can look wrong."
+      },
+      {
+        "question": "What is a register-neutral Telugu line and when should I send one?",
+        "answer": "It is a line with no second-person pronoun in it, such as ఇది నా మనసులో మాట or నా మాట నిజం. Send one when you are not sure whether నువ్వు or మీరు is right, then follow it with a question that does carry the register."
+      },
+      {
+        "question": "Can I put a Telugu line on a SubhSandesh page if the page is in English?",
+        "answer": "Yes, but be clear about what you get. Every template's headings, buttons and prompts are English, so the Telugu is only the words you write; if your reader is not comfortable in English, a plain message is the better container."
+      },
+      {
+        "question": "Were these Telugu lines checked by a native speaker?",
+        "answer": "No. They were checked against J. P. L. Gwynn's 1991 Telugu-English dictionary and the 6,465-token Universal Dependencies Telugu treebank, and nothing beyond that — no native speaker reviewed them before publication."
+      }
+    ],
+    "coverImageQuery": "telugu script handwritten note love",
+    "coverImagePrompt": "A close photorealistic shot of a handwritten note in Telugu script resting on a wooden desk beside a phone showing a chat thread, warm afternoon light from the left. Shallow depth of field, the script sharp and legible, clean negative space across the top third for a title overlay, 16:9. Indian domestic setting, no faces. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Quotes in Telugu, Checked Against a Dictionary\n\nBelow are 11 Propose Day lines in Telugu, each in Telugu script with a Roman transliteration and an English gloss, and each checked word by word against J. P. L. Gwynn's *A Telugu-English Dictionary* and the Universal Dependencies Telugu treebank. I drafted 18 and cut 7 those two instruments could not confirm; the cuts are listed with reasons below.\n\nPropose Day 2027 falls on Monday 8 February, the second day of Valentine week. Two SubhSandesh numbers frame this page, both measured 2026-09-23 and both platform-wide across all 20 page types rather than specific to proposals: 5,061 personalised pages created since 12 March 2026, and 48.4% of the 56,152 recorded views opened on a phone.\n\n## What makes a Telugu Propose Day line correct, and not just Telugu\n\nA correct Telugu line is one where every content word is a real dictionary headword and every ending agrees with the pronoun you chose. Telugu marks the second person twice — in the pronoun, again on the verb — so a line can look fine and still be broken at the ending.\n\nGwynn's dictionary, published by Oxford University Press in 1991 and searchable at the University of Chicago's [Digital South Asia Library](https://dsal.uchicago.edu/dictionaries/gwynn/), settles the vocabulary. It does not settle endings.\n\nFor those I used the [Universal Dependencies Telugu-MTG treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG): 1,328 sentences and 6,465 tokens, hand-annotated from the example sentences in Krishnamurti and Gwynn's *A Grammar of Modern Telugu* (Oxford, 1985). Every ending below either appears there as a token, or is built from an affix pattern that appears there on a stem Gwynn lists.\n\n## నువ్వు or మీరు: the choice the verb has to follow\n\nTelugu has two ways to say \"you\" to one person, and the verb changes with the choice. Gwynn's entry for మీరు reads \"personal pron., polite sing. or pl. you\", while నీవు and నువ్వు share a single entry glossed \"pron. sing. you\" — నువ్వు being the everyday spoken shape of నీవు.\n\nThe treebank shows the agreement directly. It carries the imperative pair నువ్వు వెళ్ళు (*nuvvu veḷḷu*, \"you go\") against మీరు వెళ్ళండి (*mīru veḷḷaṁḍi*, polite), the same verb with -ండి added. Questions split the same way: four singular question forms ending -తావా, including వస్తావా (*vastāvā*, \"will you come?\"), against polite forms ending -తారా such as వెళ్తారా (*veḷtārā*, \"will you go?\").\n\nSo the rule for a proposal is blunt. If you already say నువ్వు to them, a మీరు line reads as a step backwards; if you never have, a నువ్వు line is presumptuous on the day you are asking. Swap the pronoun and the verb ending must move with it — line 3 below, నేను నిన్ను ప్రేమిస్తున్నాను, becomes నేను మిమ్మల్ని ప్రేమిస్తున్నాను in the polite register, object pronoun included.\n\n## 11 Telugu Propose Day lines, grouped by the moment they fit\n\nEach group gives the lines, the register and where they fit. It also says — the part most quote lists leave out — when not to use them.\n\n### 1. The first time you say it, in the నువ్వు register\n\n**Lines.** నువ్వు నాకు ఇష్టం. (*nuvvu nāku iṣṭaṁ* — \"I like you.\") · నాకు నువ్వు కావాలి. (*nāku nuvvu kāvāli* — \"I want you.\") · నేను నిన్ను ప్రేమిస్తున్నాను. (*nēnu ninnu prēmistunnānu* — \"I love you.\")\n\n**Register.** Intimate singular throughout. Every verb agrees with నువ్వు.\n\n**Where it fits.** Someone you already address as నువ్వు. Gwynn's entry for కావాలి gives the exact dative pattern in line 2, and the treebank carries the negative twin of line 1, ఇటువంటి గొడవ నాకు ఇష్టం లేదు.\n\n**When not to use it.** Not for someone you met through family or work. The pronoun, not the sentiment, is what reads as forward.\n\n### 2. Lines that ask a question and wait for the answer\n\n**Lines.** నాతో వస్తావా? (*nātō vastāvā* — \"Will you come with me?\") · నన్ను పెళ్లి చేసుకుంటావా? (*nannu peḷli cēsukuṇṭāvā* — \"Will you marry me?\")\n\n**Register.** Intimate singular. Both verbs carry the -తావా question ending.\n\n**Where it fits.** The actual ask, where you want a reply rather than a reaction. వస్తావా appears three times in the treebank as a token, and Gwynn's entry for చేసుకొను lists \"peḷḷi ~ to marry\" outright.\n\n**When not to use it.** Not in a public post or a group. A private answer becomes a performance.\n\n### 3. The same asks in the మీరు register\n\n**Lines.** మీరు నాకు ఇష్టం. (*mīru nāku iṣṭaṁ*) · మీరు నాతో ఉంటారా? (*mīru nātō uṇṭārā* — \"Will you be with me?\") · నన్ను పెళ్లి చేసుకుంటారా? (*nannu peḷli cēsukuṇṭārā*)\n\n**Register.** Polite singular. The verb ending moves from -తావా to -తారా.\n\n**Where it fits.** An arranged introduction, or a family setting where the intimate pronoun would land wrong. It is the safe default before you know.\n\n**When not to use it.** Not with a partner of several years. To them the polite register reads as distance, or as a joke, and neither is what you want.\n\n### 4. Short lines for a card, a status or a page's last screen\n\n**Lines.** ఇది నా మనసులో మాట. (*idi nā manasulō māṭa* — \"This is the word in my heart.\") · నా మాట నిజం. (*nā māṭa nijaṁ* — \"My word is true.\") · నాకు నువ్వు చాలు. (*nāku nuvvu cālu* — \"You are enough for me.\")\n\n**Register.** The first two carry no second-person pronoun, so they are register-neutral and safe when unsure. The third is intimate.\n\n**Where it fits.** A card, a caption, the closing screen of a page. Line 11 mirrors the treebank sentence నాకు ఈ డబ్బు చాలు word for word in structure.\n\n**When not to use it.** A register-neutral line will not carry the ask alone. Pair it with a question from group 2 or 3, or the reader admires a sentence instead of answering one.\n\nWith the line settled, the [proposal scrapbook page](/proposal) is where it stops being a message and becomes the thing they open — your story, screen by screen, ending on a YES button that grows every time they dodge it. Put the Telugu line on the last screen.\n\n## The seven lines I drafted and cut, and why\n\nI drafted 18 lines and published 11. If the word was not in Gwynn or the ending not in the treebank, the line went, however good it sounded.\n\nCut for vocabulary: **నీ జవాబు కోసం ఎదురు చూస్తున్నాను** — ఎదురుచూడు returned no headword. **నా జీవితానికి నీ తోడు కావాలి** — the dative జీవితానికి is neither a treebank token nor a headword. **నిన్ను ఎప్పటికీ వదలను** — వదలను could not be confirmed in either instrument.\n\nCut for form or register: **నువ్వే నా ప్రాణం** and **నా గుండెలో నువ్వే ఉన్నావు** — the emphatic నువ్వే does not appear in the corpus, and the first reads as film dialogue. **నువ్వు లేకుండా నేను ఉండలేను** — two corpus sentences pair నువ్వు with లేను, a form that is first person everywhere else in the same corpus, and I could not resolve the agreement.\n\nCut as padding: **మిమ్మల్ని ప్రేమిస్తున్నాను**. It is line 3 with the pronoun swapped, so it sits in the register section instead.\n\n## Telugu is less split between written and spoken than the old grammars said\n\nThis is the finding that changed the page. A. H. Arden's *A Progressive Grammar of the Telugu Language*, in the 1905 edition [scanned at the Internet Archive](https://archive.org/details/aprogressivegra00ardegoog), describes a gap so wide that speakers who used Telugu only for conversation \"cannot read a grammatically written book, or understand it, when read to them\" — and the book is built around it: one part colloquial, one part grammatical.\n\nA century later that framing does not hold. The Linguistic Data Consortium's [Language Specific Peculiarities Document for Telugu](https://catalog.ldc.upenn.edu/docs/LDC2018S16/LSP_303_final.pdf), written in 2018 to guide a speech collection, states that \"Telugu does not have a sharp diglossia between its spoken form and its formal written variety\", the written standard closely matching the central dialects of Guntur, Krishna and the Godavari districts.\n\nThat is good news. A line in plain modern Telugu reads naturally aloud, so the trap on Propose Day is not archaic grammar — it is register, and borrowed film diction.\n\n## What actually renders: script, phones and the channel you pick\n\nThe LDC document also fixes the technical detail. Telugu occupies Unicode U+0C00–U+0C7F, and several codepoints inside it — ఱ, the vocalic ఋ and ఌ series, ౘ and ౙ — are documented there as no longer part of standard Telugu spelling, which is why a copy-paste from a scanned book can look wrong.\n\nThe table compares four channels. SubhSandesh has measurements for one and honestly none for the other three.\n\n| Delivery | Editable after you send it | What reaches them | SubhSandesh measure, platform-wide, 2026-09-23 |\n|---|---|---|---|\n| WhatsApp or SMS text | No | Selectable Telugu text in a chat thread | Not measured — no chat data exists |\n| Image or story card | No; you re-export and re-post | A picture, so the script cannot be copied | Not measured |\n| Printed card | No | Paper, needing a Telugu-capable printer | Not measured |\n| A shareable page link | Yes, the page keeps changing after you send it | A link that opens in a browser | 48.4% of 56,152 views opened on a phone |\n\nOnly the link stays editable, and that matters: the median gap between a page's first save and its last edit is 2.4 hours, sampled on the apology dashboard template, n=1,348. People keep rewriting after they think they are done.\n\n## When a Telugu line on an English page is the wrong choice\n\nEvery SubhSandesh template is written in English — headings, buttons, prompts — so a Telugu reader gets their own line in their own script inside an English frame, and nothing more. If your reader does not read English comfortably, this is the wrong container and a plain WhatsApp message is better.\n\nThe second limit is the ask itself. [The Will You Marry Me page](/proposal) assumes a marriage proposal; if you are asking someone to be your girlfriend rather than your wife, the [I love you page](/love-gf) is the honest alternative, and lines 1, 2 and 6 fit it far better than the two పెళ్లి lines do.\n\nThe third is privacy: 38.7% of creators password-protect the page before sharing it, 1,961 of 5,061 pages, platform-wide. If you would not want a proposal link forwarded, that setting matters more than the wording.\n\n## Sources\n\n- A. H. Arden, *A Progressive Grammar of the Telugu Language*, 1905 — [Internet Archive](https://archive.org/details/aprogressivegra00ardegoog)\n- Linguistic Data Consortium, *Language Specific Peculiarities Document for Telugu*, 2018 — [LDC2018S16](https://catalog.ldc.upenn.edu/docs/LDC2018S16/LSP_303_final.pdf)\n- J. P. L. Gwynn, *A Telugu-English Dictionary*, Oxford University Press, 1991 — [Digital South Asia Library](https://dsal.uchicago.edu/dictionaries/gwynn/)\n- [Universal Dependencies Telugu-MTG treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG), 1,328 sentences, 6,465 tokens, data revision 2024-05-15\n- Taraka Rama and Sowmya Vajjala, *A Dependency Treebank for Telugu*, 2018 — [Iowa State University Digital Repository](https://dr.lib.iastate.edu/entities/publication/e9b16a69-79da-48a2-8e6d-f635b3a5038c)",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-quotes-in-telugu#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Telugu language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telugu_language",
+              "https://www.wikidata.org/wiki/Q8097"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Propose Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Propose_Day",
+              "https://www.wikidata.org/wiki/Q7250378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Diglossia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diglossia",
+              "https://www.wikidata.org/wiki/Q59203"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Telugu script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telugu_script",
+              "https://www.wikidata.org/wiki/Q570450"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Dravidian languages",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dravidian_languages",
+              "https://www.wikidata.org/wiki/Q33311"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "A Progressive Grammar of the Telugu Language",
+            "url": "https://archive.org/details/aprogressivegra00ardegoog",
+            "datePublished": "1905",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Internet Archive"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Language Specific Peculiarities Document for Telugu as Spoken in India (LDC2018S16)",
+            "url": "https://catalog.ldc.upenn.edu/docs/LDC2018S16/LSP_303_final.pdf",
+            "datePublished": "2018",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Linguistic Data Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Telugu-English Dictionary (Gwynn, 1991)",
+            "url": "https://dsal.uchicago.edu/dictionaries/gwynn/",
+            "datePublished": "1991",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Digital South Asia Library, University of Chicago"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Universal Dependencies Telugu-MTG treebank",
+            "url": "https://github.com/UniversalDependencies/UD_Telugu-MTG",
+            "datePublished": "2024-05-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universal Dependencies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Dependency Treebank for Telugu",
+            "url": "https://dr.lib.iastate.edu/entities/publication/e9b16a69-79da-48a2-8e6d-f635b3a5038c",
+            "datePublished": "2018-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Iowa State University Digital Repository"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "11 Telugu Propose Day lines, grouped by the moment they fit",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The first time you say it, in the నువ్వు register",
+            "description": "Three intimate-singular lines: నువ్వు నాకు ఇష్టం, నాకు నువ్వు కావాలి, నేను నిన్ను ప్రేమిస్తున్నాను."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lines that ask a question and wait for the answer",
+            "description": "Two lines carrying the -తావా question ending: నాతో వస్తావా, నన్ను పెళ్లి చేసుకుంటావా."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The same asks in the మీరు register",
+            "description": "Three polite-singular lines with the -తారా ending: మీరు నాకు ఇష్టం, మీరు నాతో ఉంటారా, నన్ను పెళ్లి చేసుకుంటారా."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Short lines for a card, a status or a page's last screen",
+            "description": "Three short lines, two of them register-neutral: ఇది నా మనసులో మాట, నా మాట నిజం, నాకు నువ్వు చాలు."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day quotes telugu",
+    "angle": "Wins by being the only Propose Day page that names the instrument behind every Telugu line — Gwynn's 1991 Telugu-English dictionary and the 6,465-token Universal Dependencies Telugu treebank drawn from Krishnamurti and Gwynn's grammar — publishes the 7 lines it cut and why, and frames it all with SubhSandesh's platform-wide 48.4% phone-open rate across 56,152 views.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf"
+    ],
+    "factsUsed": [
+      "5,061 personalised pages created since 2026-03-12, across 20 page types — measured 2026-09-23",
+      "48.4% of shared pages are opened on a phone (27,185 of 56,152 views) — measured 2026-09-23",
+      "56,152 recorded views of shared pages — measured 2026-09-23",
+      "Median gap between a page's first save and its last edit: 2.4 hours — sampled on apology dashboard (/apology-dashboard), n=1,348 — measured 2026-09-23",
+      "38.7% of creators password-protect their page before sharing it (1,961 of 5,061) — measured 2026-09-23"
+    ],
+    "sources": [
+      {
+        "url": "https://archive.org/details/aprogressivegra00ardegoog",
+        "stat": "Arden's grammar states the colloquial and grammatical dialects of Telugu differed so widely that speakers who used Telugu only for conversation 'cannot read a grammatically written book, or understand it, when read to them'; the book devotes one part to each dialect.",
+        "publishedDate": "1905"
+      },
+      {
+        "url": "https://catalog.ldc.upenn.edu/docs/LDC2018S16/LSP_303_final.pdf",
+        "stat": "'Telugu does not have a sharp diglossia between its spoken form and its formal written variety'; standard written Telugu closely matches the central dialects of Guntur, Krishna and the Godavari districts; Telugu occupies Unicode U+0C00-U+0C7F and several codepoints in that block are no longer part of standard Telugu spelling.",
+        "publishedDate": "2018"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/dictionaries/gwynn/",
+        "stat": "Gwynn glosses మీరు as 'personal pron., polite sing. or pl. you' and gives నీవు/నువ్వు a single entry 'pron. sing. you'; the entry for చేసుకొను lists 'peLLi ~ to marry'; the entry for కావాలి gives the dative pattern 'naaku Dabbu kaavaali'.",
+        "publishedDate": "1991"
+      },
+      {
+        "url": "https://github.com/UniversalDependencies/UD_Telugu-MTG",
+        "stat": "1,328 sentences and 6,465 tokens hand-annotated from the example sentences in Krishnamurti and Gwynn's A Grammar of Modern Telugu (1985); attests the imperative pair నువ్వు వెళ్ళు / మీరు వెళ్ళండి, four -తావా question forms and two -తారా polite forms.",
+        "publishedDate": "2024-05-15"
+      },
+      {
+        "url": "https://dr.lib.iastate.edu/entities/publication/e9b16a69-79da-48a2-8e6d-f635b3a5038c",
+        "stat": "Rama and Vajjala describe annotating 1,328 sentences from a Telugu grammar textbook under Universal Dependencies, calling it the first freely accessible and open dependency treebank for Telugu.",
+        "publishedDate": "2018-01-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Not verifiable. The only SERP pass was one US-served web search on 2026-09-23 that returned a result list; no incumbent page was fetched, so the post cannot claim a gap against what the top five actually contain. The claim would close if an India-served SERP were measured and the top five fetched."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "The H2s map to sub-queries I inferred from the query and from the two instruments, not to a measured fan-out. Phase 2 was run without fetching any ranking page, so the mapping is reasoned rather than evidenced."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this for one thing the Telugu quote pages cannot offer: every line is traceable to a named instrument — Gwynn's 1991 Telugu-English dictionary for the words, the 6,465-token Universal Dependencies Telugu treebank for the endings — and the 7 lines that failed verification are published with their reasons. The register section (నువ్వు against మీరు, with the verb ending following) is the most useful thing on the page, and the Arden-1905-versus-LDC-2018 contrast on diglossia is a claim no incumbent makes. This is a copy-text query with near-zero conversion: the searcher takes a line and leaves, so judge the page on impressions, not signups. The February Telugu SERP is an annual news cycle owned by publishers whose authority is far above ours, so target position 6-10, not 3, and expect months rather than weeks. The biggest single weakness is that no native Telugu speaker reviewed the lines."
+    },
+    "structuralLimitations": [
+      "The Telugu lines on this page were NOT reviewed by a native speaker. They were verified only against J. P. L. Gwynn's 1991 Telugu-English dictionary (via the Digital South Asia Library) and the 6,465-token Universal Dependencies Telugu-MTG treebank. Publish only if a native-speaker check is acceptable as a later step.",
+      "No proposal-specific data exists: the read-only probe of the proposalpages collection remains refused by this machine's production-read policy. Every SubhSandesh figure in the body is labelled in prose as platform-wide across 20 page types, or as sampled on the named template (the 2.4-hour median is sampled on /apology-dashboard, n=1,348).",
+      "The pricing block in content/facts.md is still empty, so the post states and implies no price, no free tier and no paid tier.",
+      "Phase 1 was a single US-served web search run on 2026-09-23 that returned a result list only. No incumbent page was fetched, no India-served SERP was measured, and the post therefore makes no claim about what any ranking page contains.",
+      "For Rama and Vajjala (2018) only the Iowa State repository record and its abstract were read; the full PDF was not fetched, so nothing beyond the abstract is cited from it.",
+      "The UD Telugu-MTG treebank is 6,465 tokens drawn from the example sentences of a single grammar book, so a form's absence from it is weak evidence. Where a needed form was absent, the stem was verified in Gwynn and the affix pattern verified on other stems in the treebank; where neither held, the line was cut.",
+      "Telugu orthographic variation is unresolved here: Gwynn's dictionary headword is పెళ్లి while the 1985 grammar examples in the treebank write పెళ్ళి. The page uses the dictionary headword spelling.",
+      "One corpus observation could not be resolved: two treebank sentences pair నువ్వు with లేను, a form that is first person elsewhere in the same corpus. A candidate line depending on that agreement was cut rather than guessed."
+    ],
+    "generatedAt": "2026-09-23T11:02:23.396Z"
+  }
+}

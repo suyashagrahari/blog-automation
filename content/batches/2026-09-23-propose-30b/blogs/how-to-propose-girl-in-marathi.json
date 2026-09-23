@@ -1,0 +1,355 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Propose to a Girl in Marathi: The Words and the Order",
+    "slug": "how-to-propose-girl-in-marathi",
+    "excerpt": "Marathi verbs agree with the speaker's gender, so a proposal line changes depending on who is saying it. Eight sentences, each in both forms, with transliteration, gloss and register — plus the one tense that carries no gender at all.",
+    "metaTitle": "How to Propose Girl in Marathi — Both Gender Forms",
+    "metaDescription": "How to propose girl in Marathi: 8 sentences, each in both speaker-gender forms, checked against a 4,176-token Marathi treebank, for Monday 8 February 2027.",
+    "keywords": "how to propose girl in marathi, propose in marathi, marathi proposal lines, propose day 2027 marathi, marathi propose message",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-propose-girl-in-marathi",
+    "ogType": "article",
+    "tags": [
+      "marathi",
+      "propose day",
+      "proposal",
+      "language",
+      "modern romance"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 is Monday 8 February — the only working day of Rose Day, Propose Day and Valentine's Day that week.",
+      "Marathi verbs agree with the speaker's gender: 360 of 721 verb tokens (50%) in the Universal Dependencies Marathi treebank carry a gender value, so every line here is printed in both forms.",
+      "The future tense is the exception — across all 466 sentences of that treebank, 22 finite future forms carry no gender feature at all, against 41 of 50 present-imperfective forms that do.",
+      "In Indian usage \"propose\" usually means the girlfriend ask, so the \"I love you\" page (/love-gf, 1,173 pages, 23.2% of everything created across 20 page types) fits more of this traffic than the marry-me scrapbook.",
+      "Twenty-one Marathi lines were drafted and eight published; the thirteen cuts each failed a treebank or dictionary check."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day 2027?",
+        "answer": "Monday 8 February 2027. It is the second day of Valentine week, after Rose Day on Sunday 7 February, and Valentine's Day itself falls on Sunday 14 February. Propose Day is the only working day of those three."
+      },
+      {
+        "question": "How do you say I love you in Marathi?",
+        "answer": "माझं तुझ्यावर प्रेम आहे (mājhaṁ tujhyāvar prem āhe). It does not change with the speaker's gender, because माझं agrees with प्रेम, which is a neuter noun in the Universal Dependencies Marathi treebank."
+      },
+      {
+        "question": "Does the Marathi line change if a girl is the one proposing?",
+        "answer": "Yes, in most tenses. मी सांगतो becomes मी सांगते, मी विचारतो becomes मी विचारते, and मी थांबतो becomes मी थांबते. Every line on this page is printed in both forms for that reason."
+      },
+      {
+        "question": "Should I use तू or तुम्ही when I propose?",
+        "answer": "तू if you are already close — Wiktionary glosses it as least formality, grammatically singular. तुम्ही is the mid-formality form, and it fits someone you do not know well or address respectfully."
+      },
+      {
+        "question": "Is Marathi just Hindi written in Devanagari?",
+        "answer": "No. The script is shared but the grammar is not. Marathi marks the ergative on third-person subjects only, where Hindi marks all persons, and it uses आहे, नाही, का and खूप where Hindi uses है, नहीं, क्यों and बहुत."
+      },
+      {
+        "question": "Can I write the line in English letters instead of Devanagari?",
+        "answer": "Yes, and sometimes you should. Plenty of Marathi speakers read English faster than they read Devanagari, so a transliteration she can read at a glance beats a beautiful line she has to decode."
+      },
+      {
+        "question": "Is it safe to run a Marathi proposal line through a translation app?",
+        "answer": "No translation system was tested for this page, so this is a grammar answer rather than a benchmark. A translator has to guess the speaker's gender to pick between करतो and करते, and there is nothing in an English input telling it which you are."
+      },
+      {
+        "question": "What do I say if she does not answer at all?",
+        "answer": "Use उत्तर आज नको, मी थांबतो — or थांबते if you are a woman — and then leave. Filling a thirty-second silence is how a clean ask turns into a negotiation."
+      },
+      {
+        "question": "What should I say if she says no?",
+        "answer": "ठीक आहे, मी समजू शकतो (or शकते), and then go home without sending a follow-up that night. Asking again later is a different conversation on a different day."
+      },
+      {
+        "question": "Which SubhSandesh page should I use for a Marathi proposal?",
+        "answer": "The \"I love you\" page (/love-gf) if you are asking her to be your girlfriend, which is what \"propose\" usually means in Indian usage, and the proposal scrapbook (/proposal) only if you mean marriage. Both templates are English-language; you supply the Marathi text."
+      },
+      {
+        "question": "How many Marathi lines were cut from this page, and why?",
+        "answer": "Thirteen of twenty-one. Each cut line used a form or a word sense that could not be confirmed in the Universal Dependencies Marathi treebank or a Marathi Wiktionary entry, or duplicated a line already written for a companion page."
+      }
+    ],
+    "coverImageQuery": "marathi couple conversation evening pune",
+    "coverImagePrompt": "A young Indian couple sitting on a low wall at dusk in a Maharashtrian town, mid-conversation, one of them mid-sentence and the other listening. Warm low light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Propose to a Girl in Marathi: The Words and the Order\n\nSay it in three moves: ask for two minutes, say one plain sentence, then hand her the decision and stop. The sentence is the hard part, because Marathi verbs agree with the speaker's gender — **मी सांगतो** if a man says it, **मी सांगते** if a woman does — so every line here is printed in both forms.\n\nSubhSandesh has no proposal-specific numbers to offer: a read-only probe of that collection is refused by this machine's production-read policy. What it has is platform-wide, across 20 page types — 5,061 personalised pages created since 2026-03-12, of which the \"I love you\" page (/love-gf) accounts for 1,173, 23.2% of everything created, and 38.7% of creators password-protect a page before sharing it.\n\nBelow: the sequence, eight checked sentences, and the one tense that sidesteps gender entirely.\n\nPropose Day 2027 is **Monday 8 February** — I checked the weekday rather than copying it. Rose Day is Sunday 7 February and Valentine's Day is Sunday 14 February, so Propose Day is the only weekday of the three.\n\n## What \"propose\" means in Marathi, and why it is usually not a marriage proposal\n\nIn Indian English, *propose* almost always means asking someone to be your girlfriend, not asking them to marry you, and Marathi keeps the two apart.\n\nThe relationship ask has no fixed Marathi phrase — it goes into ordinary sentences, which is why this query has no single \"right line\". The marriage ask does have a fixed word: **लग्न** (*lagna*), attested as an ordinary noun in the Universal Dependencies Marathi treebank, as in **लग्न करशील का?** Get that wrong on 8 February and you skip four years of a relationship in one sentence.\n\n## Why the same Marathi sentence changes when a woman is the one asking\n\nMarathi marks grammatical gender far more widely than English, and the verb is where it bites. In the [Universal Dependencies Marathi treebank](https://universaldependencies.org/treebanks/mr_ufal/mr_ufal-feat-Gender.html), a manually annotated corpus, 1,747 tokens — 45% of the total — carry a gender value, including 360 verb tokens, exactly 50% of all verbs.\n\nAll nouns carry gender too: **प्रेम** (*prem*, love) is annotated neuter, which is why the possessive before it is **माझं**, not माझा.\n\nSo there is no gender-neutral way to write most Marathi sentences, and a speaker hears the choice immediately. Worse, two genders are in play at once — yours, and hers. The treebank has **रडतोस** (masculine, second person) and **समजलीस** (feminine, second person) beside **सांगतो** and **आलो** (masculine, first person).\n\n## The one tense that does not make you choose\n\nI counted the released treebank files myself. Across all three splits — 466 sentences, 4,176 tokens — there are 22 finite future-tense verb forms, and **not one carries a gender feature**: करशील, मागशील, विचारीन, येईल, देईल, असेल, लागेल and the rest are identical whoever is speaking. Compare the present, where 41 of 50 finite imperfective forms are gender-marked; the nine that are not are plurals.\n\nThat is an instruction, not a curiosity. **Ask in the future tense and the sentence does not change** — which is why line 3 works for a man or a woman unedited.\n\n## Eight sentences for proposing in Marathi, in both speaker-gender forms\n\nEach gives the line, the register, when it fits and when it does not. Wiktionary's Marathi entries gloss **तू** as \"least formality, grammatically singular\" and **तुम्ही** as \"mid-level formality, grammatically plural\" — तू for someone you are close to, तुम्ही for someone you are not.\n\n### 1. Asking for two minutes\n\n**Both speakers:** मला तुला एक गोष्ट सांगायची आहे — आता वेळ आहे का? — *malā tulā ek goṣṭa sāṅgāycī āhe — ātā veḷ āhe kā?* — \"I have one thing to tell you. Is there time now?\"\n\n**Register:** तू. **Use it when** you want her sitting down, not mid-errand. **Skip it if** you are already in a serious conversation, where it sounds like a warning.\n\nThe verb does not change with your gender: **सांगायची** agrees with गोष्ट, a feminine noun, not with you.\n\n### 2. Saying you are about to be honest\n\n**Man speaking:** मी आज खरं सांगतो. **Woman speaking:** मी आज खरं सांगते. — *mī āj kharaṁ sāṅgato / sāṅgate* — \"I'll say it straight today.\"\n\n**Register:** तू or तुम्ही. **Use it when** you have circled the subject for weeks. **Skip it if** you then do not say the thing — it promises a landing.\n\nसांगतो is annotated first person masculine in the treebank; सांगते is its feminine counterpart, on the pattern of म्हणतो/म्हणते.\n\n### 3. The marriage ask, in the future tense\n\n**Both speakers:** तू माझ्याशी लग्न करशील का? — *tū mājhyāśī lagna karśīl kā?* — \"Will you marry me?\"\n\n**Register:** तू. **Use it when** you mean marriage and both families are a live topic. **Skip it if** you are asking her out for the first time.\n\nकरशील is second person future, and carries no gender at all.\n\n### 4. The relationship ask\n\n**Man speaking:** मी तुला विचारतो — आपण एकत्र येऊ या का? **Woman speaking:** मी तुला विचारते — आपण एकत्र येऊ या का? — *mī tulā vicārto / vicārte — āpaṇ ekatra yeū yā kā?* — \"I'm asking you — shall we be together?\"\n\n**Register:** तू. **Use it when** this is the ask most people mean by \"propose\". **Skip it if** you are already together — it reads as a step backwards.\n\nआपण is the inclusive \"we\" in the treebank, which makes the question joint rather than demanding.\n\n### 5. The love sentence, and the trap inside it\n\n**Both speakers:** माझं तुझ्यावर प्रेम आहे. — *mājhaṁ tujhyāvar prem āhe* — \"I love you.\" This one does **not** change, because माझं agrees with प्रेम, which is neuter.\n\n**But:** मी तुझ्यावर प्रेम करतो (man) / प्रेम करते (woman) does change, because there the verb agrees with you.\n\n**Register:** तू. **Use it when** the relationship already exists. **Skip it if** this is a first ask — it lands as a statement of fact, not a question, and leaves her nothing to answer.\n\n### 6. Taking the pressure off\n\n**Man speaking:** उत्तर आज नको, मी थांबतो. **Woman speaking:** उत्तर आज नको, मी थांबते. — *uttar āj nako, mī thāmbto / thāmbte* — \"I don't need the answer today. I'll wait.\"\n\n**Register:** तू. **Use it when** she has gone quiet. **Skip it if** you have used it once — said twice it becomes pressure in a polite coat.\n\n### 7. If the answer is no\n\n**Man speaking:** ठीक आहे, मी समजू शकतो. **Woman speaking:** ठीक आहे, मी समजू शकते. — *ṭhīk āhe, mī samjū śakto / śakte* — \"That's all right. I can understand.\"\n\n**Register:** तू. **Use it when** you want the friendship to survive the evening. **Skip it if** you do not mean it.\n\n### 8. The line you can put in writing afterwards\n\n**Both speakers:** आज सांगितलं ते खरं होतं, उद्या तेच असेल. — *āj sāṅgitlaṁ te kharaṁ hotaṁ, udyā tec asel* — \"What I said today was true. Tomorrow it will be the same.\"\n\n**Register:** तू. **Use it when** you are sending a message the next morning. **Skip it if** she has said no — it reads as re-asking.\n\nBoth verbs are gender-free — the safest kind of line for a page someone might read over her shoulder.\n\n**What was cut.** I drafted 21 lines and published 8. The thirteen cuts were boring rather than stylistic: आवडतेस, होशील and the आत्ता spelling are not attested in the treebank and have no Marathi Wiktionary entry; four leaned on सोबत, वाट and भर in senses I could not confirm; two used the relative जे; three overlapped with the companion pages [propose-day-quotes-in-marathi](/blog/propose-day-quotes-in-marathi), copy-text you lift, and [propose-day-wishes-in-marathi](/blog/propose-day-wishes-in-marathi), wishes sorted by register. This page is the method; those two are the lines.\n\n## The sequence: the ten minutes before, the sentence, and the silence after\n\nPick the moment before the words. A weekday Propose Day means she is at work or in class on 8 February, so the windows are morning, lunch, or after seven.\n\nThen: ask for the two minutes. Say one sentence, not three, and name the ask — girlfriend or marriage — inside it. Then stop.\n\nThe silence is the part nobody writes about, and filling it is how a clean ask becomes a negotiation. If she says nothing for thirty seconds, use line 6 and leave. If she says no, use line 7 and go home.\n\nAsking again later is a different conversation on a different day, and wants an apology-shaped page rather than a proposal-shaped one — SubhSandesh's [apology dashboard template](/apology-dashboard) is the most-built page on the platform, 1,347 of 5,061, 26.6% of everything created across 20 page types.\n\n## Which page fits which ask\n\nThese are English-language templates. They hold Marathi text fine, but the buttons, prompts and headings around it are in English.\n\n| What you are actually asking | The Marathi sentence | SubhSandesh page | Pages created, platform-wide across 20 page types, to 2026-09-23 |\n|---|---|---|---|\n| Will you be my girlfriend | मी तुला विचारतो / विचारते — आपण एकत्र येऊ या का? | [the \"I love you\" page](/love-gf) | 1,173 created, 23.2% of all pages |\n| Will you marry me | तू माझ्याशी लग्न करशील का? | [the proposal scrapbook](/proposal) | No proposal-specific figure exists; the probe is refused |\n| Asking again after a no or a fight | उत्तर आज नको. मी थांबतो / थांबते. | /apology-dashboard | 1,347 created, 26.6% of all pages |\n\nThe takeaway is the first row: most people searching this phrase want the girlfriend ask, so the marry-me scrapbook is the wrong tool. Build the \"I love you\" page and keep लग्न for later.\n\n## When a Marathi line, or a page, is the wrong choice\n\nIf she does not read Devanagari comfortably — plenty of Marathi speakers read English faster — a transliterated line beats a beautiful one she has to decode.\n\nIf you are in the same room, say it out loud. A link is a worse object than your voice at arm's length; the page is for what she keeps afterwards, or for distance.\n\nUnsure of your grammar? Use lines 1, 3, 5 and 8, which are gender-free.\n\nOne more limit: 48.4% of views on shared SubhSandesh pages are on a phone, 27,185 of 56,152. A page needing a wide screen loses half its audience.\n\n## Sources\n\n- [UD Marathi-UFAL: Gender statistics](https://universaldependencies.org/treebanks/mr_ufal/mr_ufal-feat-Gender.html) — gender counts by part of speech\n- [UD Marathi-UFAL treebank](https://universaldependencies.org/treebanks/mr_ufal/index.html) — provenance, genre, CC BY-SA 4.0\n- [UD_Marathi-UFAL release files](https://github.com/UniversalDependencies/UD_Marathi-UFAL) — the CoNLL-U files I counted\n- [Deo and Sharma, \"Typological Variation in the Ergative Morphology of Indo-Aryan Languages\" (manuscript, August 2002)](http://people.umass.edu/bhatt/papers/others/deo-sharma.pdf) — published in *Linguistic Typology* 10 (2006)\n- [Wiktionary: करणे](https://en.wiktionary.org/wiki/करणे) — Marathi conjugation and register glosses\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-propose-girl-in-marathi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Marathi language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Marathi_language",
+              "https://www.wikidata.org/wiki/Q1571"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Grammatical gender",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_gender",
+              "https://www.wikidata.org/wiki/Q162378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Agreement (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Agreement_(linguistics)",
+              "https://www.wikidata.org/wiki/Q829903"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Universal Dependencies",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Universal_Dependencies",
+              "https://www.wikidata.org/wiki/Q64830310"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valentine's Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+              "https://www.wikidata.org/wiki/Q37587"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "UD Marathi-UFAL: statistics of the Gender feature",
+            "url": "https://universaldependencies.org/treebanks/mr_ufal/mr_ufal-feat-Gender.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universal Dependencies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "UD Marathi-UFAL treebank",
+            "url": "https://universaldependencies.org/treebanks/mr_ufal/index.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universal Dependencies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "UD_Marathi-UFAL CoNLL-U release files",
+            "url": "https://github.com/UniversalDependencies/UD_Marathi-UFAL",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universal Dependencies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Typological Variation in the Ergative Morphology of Indo-Aryan Languages",
+            "url": "http://people.umass.edu/bhatt/papers/others/deo-sharma.pdf",
+            "datePublished": "2002-08-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Stanford University (manuscript); published in Linguistic Typology 10 (2006)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary: करणे (Marathi)",
+            "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A5%87",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight sentences for proposing in Marathi, in both speaker-gender forms",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Asking for two minutes",
+            "description": "मला तुला एक गोष्ट सांगायची आहे — आता वेळ आहे का? Register तू; identical for a man or a woman, because सांगायची agrees with गोष्ट."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Saying you are about to be honest",
+            "description": "मी आज खरं सांगतो (man) / मी आज खरं सांगते (woman). सांगतो is annotated first person masculine in the UD Marathi treebank."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The marriage ask, in the future tense",
+            "description": "तू माझ्याशी लग्न करशील का? Register तू; करशील is second person future and carries no gender feature at all."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The relationship ask",
+            "description": "मी तुला विचारतो / विचारते — आपण एकत्र येऊ या का? The ask most people mean by 'propose'; आपण is the inclusive we."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "The love sentence, and the trap inside it",
+            "description": "माझं तुझ्यावर प्रेम आहे does not change, because प्रेम is neuter; मी तुझ्यावर प्रेम करतो / करते does change."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Taking the pressure off",
+            "description": "उत्तर आज नको, मी थांबतो / थांबते. Use once, after the ask, and then leave."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "If the answer is no",
+            "description": "ठीक आहे, मी समजू शकतो / शकते. Say it only if you mean it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "The line you can put in writing afterwards",
+            "description": "आज सांगितलं ते खरं होतं, उद्या तेच असेल. Both verbs are gender-free, so it is safe on a shared page."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to propose girl in marathi",
+    "angle": "Wins by being the only Propose Day page that prints every Marathi line in both speaker-gender forms, verified against the manually annotated UD Marathi treebank, and that publishes an original count over that treebank showing the future tense carries no gender marking at all — 22 finite future forms, 0 gender-marked, against 41 of 50 in the present imperfective.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/apology-dashboard"
+    ],
+    "factsUsed": [
+      "5,061 personalised pages created since 2026-03-12, across 20 page types — measured 2026-09-23",
+      "#2 page type: \"I love you\" page (/love-gf) — 1,173 created, 23.2% of all pages — measured 2026-09-23",
+      "38.7% of creators password-protect their page before sharing it (1,961 of 5,061) — measured 2026-09-23",
+      "#1 page type: apology dashboard (/apology-dashboard) — 1,347 created, 26.6% of all pages — measured 2026-09-23",
+      "48.4% of shared pages are opened on a phone (27,185 of 56,152 views) — measured 2026-09-23"
+    ],
+    "sources": [
+      {
+        "url": "https://universaldependencies.org/treebanks/mr_ufal/mr_ufal-feat-Gender.html",
+        "stat": "1,747 tokens (45%) in UD Marathi-UFAL carry a Gender value; 360 VERB tokens, 50% of all verbs, are gender-marked; 100% of NOUN tokens carry gender and 96% of noun lemmas occur with only one value"
+      },
+      {
+        "url": "https://universaldependencies.org/treebanks/mr_ufal/index.html",
+        "stat": "UD Marathi-UFAL is manually annotated (lemmas, UPOS, features, relations) by Vinit Ravishankar, genre fiction and wiki, part of UD since v2.1, licensed CC BY-SA 4.0"
+      },
+      {
+        "url": "https://github.com/UniversalDependencies/UD_Marathi-UFAL",
+        "stat": "Own count over the released CoNLL-U files, all three splits: 466 sentences, 4,176 tokens; 22 finite Tense=Fut tokens of which 0 carry a Gender feature; 50 finite Tense=Pres|Aspect=Imp tokens of which 41 carry Gender"
+      },
+      {
+        "url": "http://people.umass.edu/bhatt/papers/others/deo-sharma.pdf",
+        "stat": "Marathi, with Punjabi, marks only third-person subjects with the ergative where Hindi and Nepali mark subjects of all persons; in Old Marathi and Middle Indo-Aryan the verb agrees with the highest nominative argument",
+        "publishedDate": "2002-08-01"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A5%87",
+        "stat": "Marathi conjugation of करणे, and the register glosses for तू (\"least formality, grammatically singular\") and तुम्ही (\"mid-level formality, grammatically plural\")"
+      }
+    ],
+    "structuralLimitations": [
+      "The Marathi on this page was NOT reviewed by a native speaker. Every published line was checked against the UD Marathi-UFAL treebank, an attested minimal pair inside it, or a Marathi Wiktionary entry, and thirteen of twenty-one drafted lines were cut for failing all three. That is a machine-verifiable standard, not a fluency judgement.",
+      "The second-person possessives तुझा / तुझी / तुझं / तुझ्यावर are absent from both the treebank and Wiktionary. They were confirmed only against the declension table in the English Wikipedia 'Marathi grammar' article, which sources it to Dhongde & Wali (2009). One published line, number 5, depends on that weaker tier. Wikipedia is not counted as a source and is not linked in the body.",
+      "The UD Marathi treebank is small — 466 sentences, 4,176 tokens, drawn from Wikisource stories and one Wikipedia article. Absence of a form from it is not evidence that the form is wrong, only that it is unattested there. The future-tense finding (22 tokens, 0 gender-marked) rests on 22 tokens.",
+      "Molesworth's Marathi-English dictionary at dsal.uchicago.edu was the intended lexical reference. It reached the batch's 3-post domain cap during this run, so lexical checks were downgraded to Wiktionary, a collaboratively edited source.",
+      "No pricing data exists in content/facts.md — the pricing block is still empty — so this post states no price, no free tier and no paid tier.",
+      "There is no proposal-specific first-party data. A read-only probe of the proposalpages collection is refused by this machine's production-read policy, so every SubhSandesh figure here is platform-wide across 20 page types or sampled on a named template, and the body prose says which.",
+      "Phase 1 was not a full SERP measurement. One WebSearch call was spent on the keyword and no ranking page was fetched, so the post makes no claim about what any competitor's page contains or where it ranks. The only India-served SERPs ever measured for this territory are the 11 in content/keywords/2026-09-16-propose-100/serps.md, measured 2026-09-16, and this keyword is not among them.",
+      "The two sibling cross-links (/blog/propose-day-quotes-in-marathi, /blog/propose-day-wishes-in-marathi) returned 0 results from Strapi on 2026-09-23. They will 404 until the wave-2 batch is published.",
+      "The /proposal and /love-gf templates are English-language. The body says so; there is no Marathi-language template on the platform, and the live corpus holds zero pages in any Indian language."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "The top 5 ranking pages were not fetched. The session WebSearch budget was 5 calls and one was spent on the SERP; no ranking page was retrieved, so no statement about what those pages do or do not contain can be verified. The 22-future-forms / 0-gender-marked count over the UD release files is an original measurement and appears in none of the five sources cited, but this item as written cannot be confirmed without reading the incumbents."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "No People Also Ask block or fan-out set was measured. Phase 2 was run as a cannibalisation analysis against the two wave-2 Marathi siblings, not as a SERP decomposition. The H2s come from the keyword's own sub-questions and from the grammar problem, not from an observed fan-out. Re-check after a SERP pass that records PAA for this phrase."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three internal links are TEMPLATE_LINKS URLs (/proposal, /love-gf, /apology-dashboard). Two further internal links point at sibling posts, /blog/propose-day-quotes-in-marathi and /blog/propose-day-wishes-in-marathi, which the batch brief requires to be linked by slug and which are not TEMPLATE_LINKS entries. Both slugs returned 0 results from Strapi on 2026-09-23, so they resolve only once wave 2 is published."
+        },
+        {
+          "item": "At least 1 of those is peer-reviewed or scholarly, and open-access",
+          "why": "Deo & Sharma is open-access and was published in Linguistic Typology 10 (2006), but the copy I read and cite is the August 2002 manuscript hosted on an institutional page, not the peer-reviewed version of record, which sits behind a De Gruyter paywall. The finding used is stated in the manuscript's own text. The UD treebank and its statistics pages are scholarly, curated and open, but are a resource rather than a peer-reviewed article."
+        }
+      ],
+      "honestAssessment": "This is a low-volume keyword, under 300 EST, and a page here is a correctness asset rather than a traffic asset: the thing an answer engine can quote when someone asks how to say this, and the thing a reader checks once and does not have to double-check. The reason to cite it over the incumbents is that it is the only page printing every Marathi line in both speaker-gender forms against a named, open corpus, and the only one carrying an original count showing that Marathi's future tense has no gender marking at all — 22 finite future forms, none gender-marked, against 41 of 50 present-imperfective forms. What it cannot overcome: these February SERPs belong to MensXP, Zee, Webdunia, Maharashtra Times, Loksatta and Amar Ujala, whose domain authority is far above this one, so the realistic target is position 6-10, not 3. What would change that is a native-speaker review of the Marathi and a larger verification corpus than 4,176 tokens."
+    },
+    "generatedAt": "2026-09-23T11:39:24.854Z"
+  }
+}

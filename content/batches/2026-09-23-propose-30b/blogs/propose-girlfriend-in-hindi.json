@@ -1,0 +1,354 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Girlfriend in Hindi: The One Line, Then Where to Go",
+    "slug": "propose-girlfriend-in-hindi",
+    "excerpt": "A proposal is a performative — saying it is doing it. Six Hindi lines in Devanagari, Roman and English with the तुम/आप/तू register marked, the four felicity conditions a proposal has to meet, and a decision tree routing you to the right one of ten Hindi pages.",
+    "metaTitle": "Propose Girlfriend in Hindi — 6 Lines and a Decision Tree",
+    "metaDescription": "Propose girlfriend in Hindi with one question, not a paragraph: 6 lines in Devanagari, Roman and English, register marked, and which of 10 Hindi pages you need.",
+    "keywords": "propose girlfriend in hindi, propose in hindi, hindi proposal lines, propose day 2027, tum aap tu register, propose karna meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-girlfriend-in-hindi",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "hindi",
+      "modern romance",
+      "valentine week",
+      "proposal"
+    ],
+    "keyTakeaways": [
+      "A proposal is a performative utterance: it cannot be true or false, only felicitous or a misfire — which is why the four felicity conditions, not the vocabulary, decide whether it lands.",
+      "Six Hindi lines here, each doing a different job, with तुम / आप / तू marked on every one; each word checked against the Hindi Dependency Treebank or the 16,475-sentence Tatoeba Hindi corpus.",
+      "In Indian usage propose karna usually means asking someone to be your girlfriend, so /love-gf — 1,173 pages, 23.2% of all 5,061 built platform-wide — fits most of this traffic better than the marriage-proposal scrapbook.",
+      "Propose Day 2027 is Monday 8 February, the second of Valentine week's eight dated days, which open on Rose Day, Sunday 7 February.",
+      "38.7% of SubhSandesh creators password-protect a page before sharing it (1,961 of 5,061, platform-wide across 20 page types)."
+    ],
+    "faqs": [
+      {
+        "question": "What does \"propose karna\" actually mean in Hindi?",
+        "answer": "In everyday Indian usage it almost always means asking someone to be your girlfriend or boyfriend, not asking them to marry you. Hindi has no native verb for the romantic ask — McGregor's Oxford Hindi-English Dictionary glosses प्रस्ताव as an introduction or a motion for discussion — which is why the English loan is used."
+      },
+      {
+        "question": "Which Hindi line should I send if I just want her to be my girlfriend?",
+        "answer": "क्या तुम मेरे साथ आगे बढ़ना चाहोगी? (Kya tum mere saath aage badhna chaahogi?) — \"Would you want to move forward with me?\" It is in the तुम register and it names a future thing she can agree to, which a compliment cannot."
+      },
+      {
+        "question": "Should I use तुम, आप or तू?",
+        "answer": "Use whichever one she already uses with you. तुम is the ordinary register between peers, आप creates respectful distance and is permanent in many families, and तू is either very intimate or rude depending on the relationship. A proposal is the wrong moment to change register."
+      },
+      {
+        "question": "Can a woman use these lines?",
+        "answer": "Yes, with the first-person verb agreement changed. कह रहा हूँ becomes कह रही हूँ, कर रहा becomes कर रही, and करूँगा becomes करूँगी. The lines addressed to her stay the same."
+      },
+      {
+        "question": "Is there a Hindi verb that means \"to propose\" the way English uses it?",
+        "answer": "Not for a romantic proposal. प्रस्ताव is the formal word — a motion, a proposal for discussion — and in the Hindi Dependency Treebank all 230 sentences containing it are parliamentary or commercial. The ask has to be carried by the question itself."
+      },
+      {
+        "question": "What if she does not answer at all?",
+        "answer": "That is usually a misfire rather than a refusal: the ask was read as banter, or there was no moment in which answering was possible. Line 3, मैं मज़ाक नहीं कर रहा, मैं सच कह रहा हूँ, exists to close off exactly that reading."
+      },
+      {
+        "question": "When is Propose Day 2027?",
+        "answer": "Monday 8 February 2027. It is the second day of Valentine week, after Rose Day on Sunday 7 February, and the week runs eight dated days to Valentine's Day on Sunday 14 February."
+      },
+      {
+        "question": "Do I have to write it in Devanagari?",
+        "answer": "No. Send it in whichever script she types in — the Devanagari here is given with a Roman transliteration for that reason. The script choice is covered in full on the propose message in Hindi page."
+      },
+      {
+        "question": "How many of these lines should I send at once?",
+        "answer": "Three: the setup, the ask, and the line that says what happens after her answer. Sent as one message rather than three, because only the first one shows in a notification preview."
+      },
+      {
+        "question": "Which SubhSandesh page fits a girlfriend proposal?",
+        "answer": "The romantic \"I love you\" page at /love-gf, which is 1,173 pages and 23.2% of all 5,061 built platform-wide across 20 page types. The /proposal scrapbook is built for the marriage question and is too much page for \"will you be my girlfriend\"."
+      },
+      {
+        "question": "Were these Hindi lines checked by a native speaker?",
+        "answer": "No. Every word was checked against the Hindi Dependency Treebank or the 16,475-sentence Tatoeba Hindi corpus, and every headword against a Hindi-English dictionary, but no native speaker reviewed them. Lines whose forms were not attested were cut rather than published."
+      },
+      {
+        "question": "How is this page different from the other Hindi propose pages?",
+        "answer": "This one is the hub: it answers the whole question briefly and then routes you to whichever of the ten Hindi pages matches what you are actually doing — a method, a message, a couplet, a greeting or a joke. The depth lives on those pages, not here."
+      }
+    ],
+    "coverImageQuery": "young indian couple talking phone devanagari",
+    "coverImagePrompt": "A young Indian man and woman sitting on a low wall at dusk, mid-conversation, his phone face-down beside him. Warm low light, shallow depth of field, clean negative space across the upper third for a title overlay, 16:9. No readable text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Girlfriend in Hindi: The One Line, Then Where to Go\n\nTo propose to your girlfriend in Hindi, ask one question in the pronoun she already uses with you, then stop talking: **क्या तुम मेरे साथ आगे बढ़ना चाहोगी?** (*Kya tum mere saath aage badhna chaahogi?* — \"Would you want to move forward with me?\"). A proposal does not describe how you feel. It is an act performed by saying it, which is why it can never be true or false — only successful or botched.\n\nTwo SubhSandesh numbers set the frame, both platform-wide across 5,061 personalised pages and 20 page types: 91.2% of started pages are published and shared (4,615 of 5,061), and 38.7% of creators password-protect the page before sending it (1,961 of 5,061). Propose Day 2027 falls on Monday 8 February.\n\nBelow: which of ten Hindi pages you need, six lines with the register marked, and the four conditions a proposal has to meet.\n\n## What makes a proposal a performative, not a sentence about feelings\n\nA proposal is a [performative utterance](https://en.wikipedia.org/wiki/Performative_utterance): saying it is doing it. The words do not report a fact about the world — they ask the world to change until it matches the words.\n\nSpeech act theory calls this the direction of fit. Katsuya Yamori's 2019 paper in the *IDRiM Journal* separates the two: a [constative utterance is word-to-world](https://www.idrimjournal.com/article/11663-disaster-information-from-the-viewpoint-of-speech-act-theory-constative-performative-and-declarative-utterances) — \"this is a pencil\" holds until you find it is pencil-shaped chocolate, and then you change the words. A performative runs the other way, world-to-word: nothing makes \"please open the door\" true or false.\n\nHold two Hindi sentences against that test. **तुम मुझे बहुत पसंद हो** (*tum mujhe bahut pasand ho*, \"I like you a lot\") reports something. **क्या तुम मेरे साथ आगे बढ़ना चाहोगी?** does something. Only the second is a proposal, and it is the one most people leave out.\n\n## Which of the ten Hindi pages you need, decided in nine questions\n\nTen SubhSandesh pages answer some version of this query in Hindi, and they are not versions of each other. Stop at the first yes.\n\n1. **You want a method, not words** — [how to propose to your girlfriend in Hindi](/blog/how-to-propose-girlfriend-in-hindi).\n2. **You are typing one message to one named person today** — [propose message in Hindi](/blog/propose-message-in-hindi).\n3. **You want a couplet and can tell a sher from a stanza** — [propose girlfriend shayari](/blog/propose-girlfriend-shayari).\n4. **You mix Hindi and English when you text her** — [Propose Day quotes in Hindi and English](/blog/propose-day-quotes-hindi-english).\n5. **You want a standalone quotable line** — [Propose Day quotes in Hindi](/blog/propose-day-quotes-in-hindi).\n6. **You are sending a greeting, not asking anything** — [Propose Day wishes in Hindi](/blog/propose-day-wishes-in-hindi), or, if it is only for her, [Propose Day wishes for a girlfriend in Hindi](/blog/propose-day-wishes-for-girlfriend-in-hindi).\n7. **She is already your wife** — [Propose Day quotes for a wife in Hindi](/blog/propose-day-quotes-for-wife-in-hindi).\n8. **You want her to laugh, not to decide** — [Propose Day jokes in Hindi](/blog/propose-day-jokes-in-hindi).\n9. **You are not certain what the day is** — [Propose Day meaning in Hindi](/blog/propose-day-meaning-in-hindi). Short answer: Monday 8 February 2027, the second of Valentine week's eight dated days, which opens on Rose Day, Sunday 7 February.\n\nNothing fits? Then you are in the right place: what is left is the ask.\n\n## Six lines that do six different jobs, with the register marked\n\nEvery word below is attested in the Hindi Dependency Treebank or the Tatoeba Hindi corpus, both linked at the end. None of it is film dialogue, lyric or forward.\n\n### 1. सुनो, मुझे तुमसे कुछ पूछना है।\n\n**Roman and English:** *Suno, mujhe tumse kuchh poochhna hai.* — \"Listen, I have something to ask you.\"\n\n**Register:** तुम. A woman says the same words.\n\n**What it does:** it opens the procedure. An act needs a recognised one before it can come off, and this tells her an ask is coming.\n\n**Use it when:** before anything else. पूछना takes से for the person asked — तुमसे, not तुमको.\n\n### 2. क्या तुम मेरे साथ आगे बढ़ना चाहोगी?\n\n**Roman and English:** *Kya tum mere saath aage badhna chaahogi?* — \"Would you want to move forward with me?\"\n\n**Register:** तुम. To a man, चाहोगे.\n\n**What it does:** this is the act. It names a future thing she can agree to, which a compliment never does.\n\n**Use it when:** straight after line 1. The frame *क्या तुम … चाहोगी?* is attested in ordinary conversational Hindi.\n\n### 3. मैं मज़ाक नहीं कर रहा, मैं सच कह रहा हूँ।\n\n**Roman and English:** *Main mazaak nahin kar raha, main sach kah raha hoon.* — \"I'm not joking, I'm telling you the truth.\"\n\n**Register:** तुम context. A woman says कर रही and कह रही हूँ.\n\n**What it does:** it closes off the joke reading. Some proposals are never refused at all — they are taken as banter and never answered.\n\n**Use it when:** you two joke constantly, or you hinted before and she laughed.\n\n### 4. तुम जो भी कहो, मैं तुमसे ऐसे ही बात करूँगा।\n\n**Roman and English:** *Tum jo bhi kaho, main tumse aise hi baat karoonga.* — \"Whatever you say, I'll talk to you exactly the same way.\"\n\n**Register:** तुम. A woman says करूँगी.\n\n**What it does:** it commits you to what happens after her answer — the part that decides whether she can answer honestly at all.\n\n**Use it when:** in the same message as the ask. Said later it is damage control.\n\n### 5. आप मेरे बारे में एक बार सोचिए।\n\n**Roman and English:** *Aap mere baare mein ek baar sochiye.* — \"Think about me, once.\"\n\n**Register:** आप. The shift changes the grammar: in आप the natural ask stops being a question and becomes a polite imperative.\n\n**What it does:** it asks for consideration, not a decision — what आप distance is for.\n\n**Use it when:** आप is already what you two use. Never promote her to आप for the occasion.\n\n### 6. तू मेरे साथ है या नहीं?\n\n**Roman and English:** *Tu mere saath hai ya nahin?* — \"Are you with me, or not?\"\n\n**Register:** तू, the most intimate form and the most dangerous.\n\n**What it does:** nothing but the ask. No setup, no softening, no room to think.\n\n**Use it when:** तू is already how you speak to each other. If you have never used it with her, do not start here.\n\n## The four conditions, and which one your proposal is failing\n\nA performative cannot be true or false. It can only come off or misfire, and what has to be in place for it to come off are its felicity conditions.\n\nChusni Hadiati's 2019 study in *Theory and Practice in Language Studies* sets out [the four conditions an utterance has to meet](https://www.academypublication.com/issues2/tpls/vol09/06/13.pdf): preparatory, propositional content, sincerity, essential. Her example is a promise: \"I would come to your house\" is not one, because propositional content requires a future act and *would* does not predicate one; \"I will come to your house\" does.\n\nRun a proposal through the same four and the failure modes stop being vague.\n\n**Preparatory** — you are the right person and this is a moment she can answer in. A group chat fails here, whatever the wording.\n\n**Propositional content** — the sentence must name a future act. \"मुझे तुम्हारी याद आती है\" names a present feeling, so it cannot be accepted or refused.\n\n**Sincerity** — you mean it. That is what line 3 secures.\n\n**Essential** — she recognises the utterance as the ask. Nothing you have not said counts, however clearly you feel it.\n\n## Which ask, which line, which page\n\nOne row per ask. Every SubhSandesh figure below is platform-wide across 20 page types, never measured on proposal pages.\n\n| What you are actually asking | Register | The Hindi line | SubhSandesh page, and what is measured |\n|---|---|---|---|\n| Will you be my girlfriend? | तुम | क्या तुम मेरे साथ आगे बढ़ना चाहोगी? | `/love-gf` — 1,173 pages, 23.2% of all 5,061 built |\n| Will you think about it? | आप | आप मेरे बारे में एक बार सोचिए। | `/love-gf` — most-viewed template, 16,902 views, 30.1% of 56,152 |\n| Will you marry me? | तुम or आप | covered in the how-to page, not here | `/proposal` — no page-level figure exists at all |\n| I am asking again, after a no | तुम | तुम जो भी कहो, मैं तुमसे ऐसे ही बात करूँगा। | `/apology-dashboard` — 1,347 pages, 26.6% platform-wide |\n\nRead row three carefully: it is where this traffic gets misrouted. In Indian usage *propose karna* almost always means asking someone to be your girlfriend, not to marry you — and Hindi has no native verb for it. McGregor's *Oxford Hindi-English Dictionary* glosses प्रस्ताव as an introduction, a proposal for discussion, a motion; in the Hindi Dependency Treebank all 230 sentences containing it are parliamentary or commercial. The English loan fills an empty slot.\n\nSo the [Will-You-Marry-Me proposal scrapbook](/proposal), which ends in a YES button that grows every time she dodges it, is the wrong template for most people who typed this query: it is built for the marriage question. Asking her to be your girlfriend, the [romantic \"I love you\" page](/love-gf) is the right size — 1,173 pages, 23.2% of everything built platform-wide. Asking again after a fight or a refusal, the [apology page](/apology-dashboard) is the honest one.\n\n## When the Hindi line is the wrong choice, and when our page is\n\nIf the two of you have run in English since the day you met, a Hindi sentence for the biggest question you have asked reads as a costume. Say it in whatever language your arguments happen in.\n\nAnd a built page is the wrong container while the question is open. 48.4% of views platform-wide land on a phone (27,185 of 56,152), so she is reading standing somewhere, with a link between her and your question — one more step at the moment you wanted none.\n\nThe median gap between a page's first save and its last edit is 2.4 hours, sampled on `/apology-dashboard`, n=1,348. Past a point, editing is avoidance. Take lines 1, 2 and 4, read them aloud, send them as one message.\n\nA page earns its place after a yes, or when the ask is marriage. Not before.\n\n## Sources\n\n- Katsuya Yamori, [Disaster Information from the Viewpoint of Speech Act Theory](https://www.idrimjournal.com/article/11663-disaster-information-from-the-viewpoint-of-speech-act-theory-constative-performative-and-declarative-utterances), *IDRiM Journal* 9(1):40–55, 25 July 2019.\n- Chusni Hadiati, [Felicity Conditions of the Speech Acts in Banyumasan Daily Conversation](https://www.academypublication.com/issues2/tpls/vol09/06/13.pdf), *Theory and Practice in Language Studies* 9(6):700–705, June 2019.\n- Hautli, Sulger and Butt, [Adding an Annotation Layer to the Hindi/Urdu Treebank](https://journals.colorado.edu/index.php/lilt/article/view/1263), *Linguistic Issues in Language Technology* 7, 2012 — abstract only.\n- [UD Hindi HDTB](https://universaldependencies.org/treebanks/hi_hdtb/index.html) — the treebank used to check attested forms.\n- [Tatoeba Hindi corpus](https://tatoeba.org/en/downloads), 16,475 sentences — for the second-person forms a news treebank lacks.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-girlfriend-in-hindi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Hindi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindi",
+              "https://www.wikidata.org/wiki/Q1568"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Performative utterance",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Performative_utterance",
+              "https://www.wikidata.org/wiki/Q965415"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Speech act",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Speech_act",
+              "https://www.wikidata.org/wiki/Q25481968"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "J. L. Austin",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/J._L._Austin",
+              "https://www.wikidata.org/wiki/Q272615"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Universal Dependencies",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Universal_Dependencies",
+              "https://www.wikidata.org/wiki/Q64830310"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Disaster Information from the Viewpoint of Speech Act Theory: Constative, Performative, and Declarative Utterances",
+            "url": "https://www.idrimjournal.com/article/11663-disaster-information-from-the-viewpoint-of-speech-act-theory-constative-performative-and-declarative-utterances",
+            "datePublished": "2019-07-25",
+            "publisher": {
+              "@type": "Organization",
+              "name": "IDRiM Journal"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Felicity Conditions of the Speech Acts in Banyumasan Daily Conversation",
+            "url": "https://www.academypublication.com/issues2/tpls/vol09/06/13.pdf",
+            "datePublished": "2019-06-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Theory and Practice in Language Studies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Adding an Annotation Layer to the Hindi/Urdu Treebank",
+            "url": "https://journals.colorado.edu/index.php/lilt/article/view/1263",
+            "datePublished": "2012-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Linguistic Issues in Language Technology"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "UD Hindi HDTB",
+            "url": "https://universaldependencies.org/treebanks/hi_hdtb/index.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universal Dependencies"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba Hindi sentence corpus",
+            "url": "https://tatoeba.org/en/downloads",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six Hindi proposal lines, by the job each one does",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "सुनो, मुझे तुमसे कुछ पूछना है।",
+            "description": "Suno, mujhe tumse kuchh poochhna hai — 'Listen, I have something to ask you.' Register: तुम. Opens the procedure so the question is not an ambush."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "क्या तुम मेरे साथ आगे बढ़ना चाहोगी?",
+            "description": "Kya tum mere saath aage badhna chaahogi — 'Would you want to move forward with me?' Register: तुम. The act itself; names a future thing she can agree to."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "मैं मज़ाक नहीं कर रहा, मैं सच कह रहा हूँ।",
+            "description": "Main mazaak nahin kar raha, main sach kah raha hoon — 'I'm not joking, I'm telling you the truth.' Register: तुम context. Secures the sincerity condition."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "तुम जो भी कहो, मैं तुमसे ऐसे ही बात करूँगा।",
+            "description": "Tum jo bhi kaho, main tumse aise hi baat karoonga — 'Whatever you say, I'll talk to you exactly the same way.' Register: तुम. Commits you to what follows her answer."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "आप मेरे बारे में एक बार सोचिए।",
+            "description": "Aap mere baare mein ek baar sochiye — 'Think about me, once.' Register: आप, where the ask becomes a polite imperative rather than a question."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "तू मेरे साथ है या नहीं?",
+            "description": "Tu mere saath hai ya nahin — 'Are you with me, or not?' Register: तू. Only for couples who already use तू."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose girlfriend in hindi",
+    "angle": "Wins by being the only post in this cluster that treats a Hindi proposal as a performative utterance rather than a nice sentence — mapping Austin's and Searle's felicity conditions onto the specific ways a proposal misfires — and, as the Hindi hub above ten sibling pages, opens with a nine-question decision tree that routes the reader to the right sibling by slug instead of re-covering it. Grounded in SubhSandesh's platform-wide 5,061 pages across 20 page types, and in a lexical finding nobody else prints: Hindi has no native verb for the romantic ask, which is why 'propose karna' borrows one.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/apology-dashboard"
+    ],
+    "factsUsed": [
+      "5,061 personalised pages created since 2026-03-12, across 20 page types — measured 2026-09-23",
+      "91.2% of started pages are actually published and shared (4,615 of 5,061) — measured 2026-09-23",
+      "38.7% of creators password-protect their page before sharing it (1,961 of 5,061) — measured 2026-09-23",
+      "#2 page type: \"I love you\" page (/love-gf) — 1,173 created, 23.2% of all pages — measured 2026-09-23",
+      "Most-viewed template: love-gf — 16,902 views, 30.1% of all page views — measured 2026-09-23",
+      "#1 page type: apology dashboard (/apology-dashboard) — 1,347 created, 26.6% of all pages — measured 2026-09-23",
+      "48.4% of shared pages are opened on a phone (27,185 of 56,152 views) — measured 2026-09-23",
+      "Median gap between a page's first save and its last edit: 2.4 hours — sampled on apology dashboard (/apology-dashboard), n=1,348 — measured 2026-09-23"
+    ],
+    "sources": [
+      {
+        "url": "https://www.idrimjournal.com/article/11663-disaster-information-from-the-viewpoint-of-speech-act-theory-constative-performative-and-declarative-utterances",
+        "stat": "Distinguishes constative utterances (word-to-world direction of fit, e.g. \"this is a pencil\") from performative utterances (world-to-word, e.g. \"please open the door\"); full text read.",
+        "publishedDate": "2019-07-25"
+      },
+      {
+        "url": "https://www.academypublication.com/issues2/tpls/vol09/06/13.pdf",
+        "stat": "Sets out the four felicity conditions an utterance must meet — preparatory, propositional content, sincerity and essential — with the worked example that \"I would come to your house\" fails the propositional-content condition because it does not predicate a future act; full text read.",
+        "publishedDate": "2019-06-01"
+      },
+      {
+        "url": "https://journals.colorado.edu/index.php/lilt/article/view/1263",
+        "stat": "Describes the Hindi/Urdu Treebank's existing annotation layers (phrase structure, dependency relations, predicate-argument structure) and proposes an LFG-derived dependency layer; abstract only read.",
+        "publishedDate": "2012-01-01"
+      },
+      {
+        "url": "https://universaldependencies.org/treebanks/hi_hdtb/index.html",
+        "stat": "UD Hindi HDTB, genre: news, CC BY-NC-SA 4.0 — the treebank used here to check attested Hindi forms; 230 of its sentences contain प्रस्ताव, all in parliamentary or commercial senses."
+      },
+      {
+        "url": "https://tatoeba.org/en/downloads",
+        "stat": "Tatoeba per-language Hindi export, 16,475 sentences, used to check the second-person तुम / तू forms absent from a news treebank; चाहोगी attested in the frame क्या तुम … चाहोगी?"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "No India-served SERP was measured for this keyword. One US-served WebSearch was run and returned quote and shayari listicles plus a gift retailer's blog, but none of the top pages were fetched, so no claim is made about what they do or do not contain. The felicity-conditions framing is believed to be unusual on this SERP; it is not asserted in the body."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "The three template links (/proposal, /love-gf, /apology-dashboard) are all real TEMPLATE_LINKS entries, but this page is the Hindi hub and carries ten additional /blog/<slug> links routing to sibling posts. Those are not TEMPLATE_LINKS entries, and as of 2026-09-23 none of the ten slugs is live in Strapi, so they resolve only once waves 2 and 3 publish."
+        }
+      ],
+      "honestAssessment": "The page has two things the quote listicles on this query structurally cannot carry: a felicity-conditions account of why a proposal misfires, tied to two open-access speech-act papers that were read in full, and a decision tree that routes to ten sibling Hindi pages instead of re-answering them. The lexical finding — that Hindi has no native verb for the romantic ask, with प्रस्ताव glossed as a motion for discussion and all 230 treebank occurrences parliamentary or commercial — is original to this page and checkable. What it cannot overcome is the February news cycle: this SERP is worked annually by MensXP, Zee, Webdunia, Times Now and Amar Ujala, whose domain authority is far above ours, so the realistic target is position 6-10 rather than 3, and the routing links only start paying once waves 2 and 3 are published to Strapi. No India-served SERP was measured, so nothing here describes what currently ranks."
+    },
+    "structuralLimitations": [
+      "The Hindi lines were NOT reviewed by a native speaker. Every word was checked against the UD Hindi HDTB treebank (genre: news) or the 16,475-sentence Tatoeba Hindi export, and every headword against McGregor's Oxford Hindi-English Dictionary via the Digital Dictionaries of South Asia; five drafted lines whose inflections were unattested in either corpus were cut rather than published.",
+      "McGregor's Oxford Hindi-English Dictionary at dsal.uchicago.edu was used for the headword and sense checks but is NOT listed in batchMeta.sources: capcheck.mjs showed dsal.uchicago.edu at the 3-post domain cap for this batch at the time of writing, so it is credited in prose and in this note instead of consuming a fourth slot.",
+      "There is still no proposal-specific first-party data. A read-only probe of the proposalpages collection remains refused by this machine's production-read policy, so every SubhSandesh figure on the page is platform-wide across 20 page types or sampled on the named template, and the body prose says which.",
+      "The pricing block in content/facts.md is empty, so no price, free tier or paid tier is stated or implied anywhere on the page.",
+      "Phase 1 is partial. One US-served WebSearch was run; no India-served SERP was measured and no ranking page was fetched, so the post describes no competitor's content and claims no current position.",
+      "The ten sibling slugs linked from the decision tree are written but not yet live in Strapi as of 2026-09-23, so those links resolve only after waves 2 and 3 publish.",
+      "The UD Hindi HDTB is licensed CC BY-NC-SA 4.0 and no text was reproduced from it; only attestation counts, which are facts rather than copyrightable expression, are cited."
+    ],
+    "generatedAt": "2026-09-23T11:30:00.000Z"
+  }
+}
