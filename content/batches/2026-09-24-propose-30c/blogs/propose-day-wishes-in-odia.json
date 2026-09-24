@@ -1,0 +1,369 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Wishes in Odia, Checked Against a Dictionary",
+    "slug": "propose-day-wishes-in-odia",
+    "excerpt": "Ten Propose Day wishes in Odia, each in the Odia script with a Roman transliteration and an English meaning. Every word was checked against Praharaj's Purnnachandra Odia Bhashakosha and every verb ending against the Universal Dependencies Odia treebank. Seven more lines were drafted and cut.",
+    "metaTitle": "Propose Day Wishes in Odia: 10 Dictionary-Checked Lines",
+    "metaDescription": "Propose Day wishes in Odia: 10 lines with transliteration and meaning, every word checked in Praharaj's dictionary, plus the tu/tume/apana register rule.",
+    "keywords": "propose day wishes odia, propose day wishes in odia, odia propose day message, propose day 2027 odia, odia love lines",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-wishes-in-odia",
+    "ogType": "article",
+    "tags": [
+      "propose-day",
+      "odia",
+      "valentine-week",
+      "wishes",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 is Monday 8 February; Rose Day is Sunday 7 February and Valentine's Day Sunday 14 February.",
+      "Ten Odia lines are published here out of seventeen drafted — every word traced to a headword in Praharaj's Purnnachandra Odia Bhashakosha, and seven cut with the dictionary evidence given.",
+      "Odia has three second-person singular pronouns; Sahoo (2013) places tume as the form for strangers of the same age-group, which is why all ten lines use it rather than tu.",
+      "The Universal Dependencies Odia treebank is 456 sentences and 5,818 tokens in total, and its one instance of ପ୍ରସ୍ତାବ is a bank-board proposal — Odia has no native verb for the romantic ask.",
+      "Platform-wide across 21 page types, 48.3% of shared pages are opened on a phone (27,499 of 56,886 views), so the Odia has to render on a handset."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day in 2027?",
+        "answer": "Monday 8 February 2027. It is the second day of Valentine week, after Rose Day on Sunday 7 February, and Valentine's Day itself falls on Sunday 14 February."
+      },
+      {
+        "question": "How do you say \"I love you\" in Odia?",
+        "answer": "ମୁଁ ତୁମକୁ ଭଲ ପାଉଛି (Muñ tumaku bhala pāuchi). Odia builds it on ଭଲ ପାଇବା, literally \"to find good\", which Praharaj's dictionary glosses at page 6055 as \"To love\"."
+      },
+      {
+        "question": "Is Odia just a version of Bengali?",
+        "answer": "No. They are siblings. Manish Minz's 2015 Typography Day paper traces both modern scripts back to proto-Odia, used from the 11th to the 14th century, after which Bengali kept the horizontal head-line and Odia curved it away. Different language, different script, different literature."
+      },
+      {
+        "question": "Should I use tu or tume when I propose in Odia?",
+        "answer": "Tume (ତୁମେ), unless you are already very close. Kalyanamalini Sahoo's 2013 study lists tume as the form used for colleagues, neighbours and strangers of the same age-group, while tu carries no honorific content and is also used for servants."
+      },
+      {
+        "question": "Will Odia text show up properly on WhatsApp?",
+        "answer": "Usually yes. The Odia block sits at U+0B00 to U+0B7F in Unicode, so the message travels as real text rather than as an image. The recipient's phone still needs an Odia font, which current Android and iOS ship; a very old handset may show empty boxes."
+      },
+      {
+        "question": "What does prastaba mean in Odia?",
+        "answer": "Not a romantic proposal. Praharaj glosses ପ୍ରସ୍ତାବ as \"Subject; matter; topic\", \"Chapter; section\" and \"Discussion\", and its single occurrence in the Universal Dependencies Odia treebank is a proposal from a bank board."
+      },
+      {
+        "question": "Can I send a Propose Day message in Sambalpuri instead?",
+        "answer": "Not from this page. Sambalpuri is one of eight Odia regional varieties named in a 2026 study by Panda and Jayaraj of IIT Indore, and there is no published Sambalpuri dictionary here to check lines against, so nothing Sambalpuri is offered."
+      },
+      {
+        "question": "Is Odia a classical language of India?",
+        "answer": "Yes. The Central Institute of Indian Languages, under the Ministry of Education, lists Odia among the classical languages with its own Centre of Excellence, alongside Kannada, Malayalam and Telugu."
+      },
+      {
+        "question": "Is the palm-leaf explanation for the round Odia letters actually proven?",
+        "answer": "Not as far as I could verify. Minz's 2015 paper reports it with the words \"it is said that\", and the Unicode Standard's related remark about palm leaves and letter shapes is hedged and covers South Indian scripts generally. It is the standard explanation, not a demonstrated one."
+      },
+      {
+        "question": "How many lines were cut, and why?",
+        "answer": "Seven of seventeen. Examples: ସାଥେ and ପ୍ରେମିକା return no headword in Praharaj at all; ବାହା is marked rural for marriage and otherwise means \"arm\"; and the bare imperative ରହ shares a headword whose first gloss is \"coition\"."
+      },
+      {
+        "question": "Should I propose in Odia or in English?",
+        "answer": "In Odia only if you already know which pronoun they use with you. Sahoo's finding is that communities of practice, not individuals, decide what counts as polite in Odia, so guessing the register is riskier than writing plainly in English."
+      }
+    ],
+    "coverImageQuery": "odia palm leaf manuscript stylus script",
+    "coverImagePrompt": "A close, warm-lit photograph of an inscribed Odia palm-leaf manuscript lying open on dark wood, the curved letterforms catching the light, with an iron stylus resting beside it. Shallow depth of field, soft daylight from the left, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Wishes in Odia, Checked Against a Dictionary\n\nPropose Day 2027 falls on **Monday 8 February**, and below are ten Propose Day wishes in Odia — each in ଓଡ଼ିଆ script, with a Roman transliteration and an English meaning. Every word was looked up in Praharaj's *Purnnachandra Odia Bhashakosha*, and every verb ending matched to a form occurring in the Universal Dependencies Odia treebank or in Tatoeba's Odia sentences.\n\nTwo SubhSandesh figures set expectations, both platform-wide across 21 page types rather than proposal-specific: 5,148 personalised pages created since 2026-03-12, and 48.3% of shared pages opened on a phone (27,499 of 56,886 views). A handset is where the Odia must render.\n\nSeven further lines were drafted and cut. This page gives the ten that survived, the ତୁ / ତୁମେ / ଆପଣ register choice, why Odia letters are shaped as they are, and what could not be verified.\n\n## What an Odia Propose Day wish is, and which \"propose\" it means\n\nAn Odia Propose Day wish is a short message in the Odia script for 8 February, the second day of Valentine week. It is usually sent as a WhatsApp message or an Instagram caption, and read rather than spoken.\n\nThe word matters. In Indian usage \"propose\" almost always means asking someone to be your girlfriend or boyfriend, not to marry you. Odia has no neat native verb for it either: Praharaj glosses ପ୍ରସ୍ତାବ (*prastāba*) as \"Subject; matter; topic\", \"Chapter; section\" and \"Discussion\" — no romantic sense at all, and its one occurrence in the Odia treebank is a proposal from a bank board. Line 3, which asks someone to be your ସାଙ୍ଗ, is what most people searching this want to say.\n\n## Ten Propose Day wishes in Odia, with transliteration and meaning\n\nEach entry gives the line, the gloss, who it suits and how it was checked. All ten sit at the **ତୁମ** level; the register section explains why.\n\n### 1. ମୁଁ ତୁମକୁ ଭଲ ପାଉଛି ।\n\n*Muñ tumaku bhala pāuchi* — \"I love you.\" Odia uses ଭଲ ପାଇବା, literally \"to find good\". For someone you have already told, or are telling plainly for the first time. Praharaj lists it at p. 6055 as \"To love\"; the `-ଉଛି` first-person ending is in the treebank in ମୁଁ … ଯାଉଛି.\n\n### 2. ତୁମେ ମୋ ଜୀବନ ।\n\n*Tume mo jībana* — \"You are my life.\" Less of an overstatement than it looks: Praharaj's ଜୀବନ entry (p. 3005) gives sense 7 as \"One's dearest person; beloved person\". Short enough for a status.\n\n### 3. ତୁମେ ମୋ ସାଙ୍ଗ ହେବ କି ?\n\n*Tume mo sāṅga heba ki?* — \"Will you be my companion?\" The real Propose Day ask, put as a question. ସାଙ୍ଗ is at p. 8361, \"Companionship; companion\"; the second-person future `-ବ` is in the treebank as ତୁମେମାନେ … ବଡ଼ ହେବ, the particle କି as ଦେଖିଲ କି ?\n\n### 4. ଆଜି ମୁଁ ତୁମକୁ ଗୋଟିଏ କଥା କହିବି ।\n\n*Āji muñ tumaku goṭie kathā kahibi* — \"Today I'll tell you one thing.\" An opener, sent before the real message. Praharaj marks ଗୋଟିଏ ଆଦରାର୍ଥକ, the respectful counting word, against ଗୋଟାଏ, the disrespectful one.\n\n### 5. ମୁଁ ତୁମ ସାଙ୍ଗରେ ରହିବାକୁ ଚାହୁଁଛି ।\n\n*Muñ tuma sāṅgare rahibāku cāhuñchi* — \"I want to stay with you.\" Less dramatic than line 2 and easier to answer, which is the point. ସାଙ୍ଗରେ and ରହିବ are both in the treebank; so is the want-frame, spelled ଚାହୁଁଚି there.\n\n### 6. ମୋ ମନ ତୁମ ପାଖରେ ।\n\n*Mo mana tuma pākhare* — \"My heart is with you.\" Four words, no verb, nothing to misread. Good for a caption where a longer line wraps. ମନ is at p. 6253; ପାଖ at p. 4707, \"Nearness; proximity\".\n\n### 7. ତୁମ ହସ ମୋ ଦିନର ସବୁଠାରୁ ଭଲ କଥା ।\n\n*Tuma hasa mo dinara sabuṭhāru bhala kathā* — \"Your laugh is the best thing in my day.\" Specific rather than declarative, so it works where lines 1 and 2 would be too much too soon. ହସ is at p. 9015, \"Laugh; laughter\"; ସବୁଠାରୁ ଭଲ is in the treebank as ସବୁଠାରୁ ଭଲ କାମ ଥିଲା.\n\n### 8. ମୁଁ ତୁମର ଉତ୍ତର ଅପେକ୍ଷା କରିବି ।\n\n*Muñ tumara uttara apekṣā karibi* — \"I will wait for your answer.\" Send it after the ask, not instead. ଉତ୍ତର is at p. 945, \"Reply; answer\"; ଅପେକ୍ଷା କରିବା at p. 395, \"To wait; to await\".\n\n### 9. ତୁମେ ଯାହା ଉତ୍ତର ଦେବ, ମୁଁ ମାନିବି ।\n\n*Tume yāhā uttara deba, muñ mānibi* — \"Whatever answer you give, I will accept it.\" The line worth sending. ମାନିବା is at p. 6471, \"To obey; to comply with\". If the answer is no, this is the last message, not the first of several.\n\n### 10. ମୁଁ ତୁମକୁ ବିବାହ କରିବାକୁ ଚାହୁଁଛି ।\n\n*Muñ tumaku bibāha karibāku cāhuñchi* — \"I want to marry you.\" The marriage version, for the minority of 8 February messages that mean it. ବିବାହ is at p. 5688, \"Marriage; wedding\"; the treebank sentence ମୁଁ ବିବାହ କରିବି ନାହିଁ has the same frame.\n\nIf the ask deserves more than a block of text, the [Will You Marry Me? proposal scrapbook](/proposal) is built for line 10 — your story, ending in a YES button that grows every time they dodge it. For lines 1 to 9, the girlfriend-or-boyfriend ask, the [\"I love you\" page](/love-gf) fits better: third most-created page type at 1,178 pages, 22.9% of everything created, and most-viewed at 16,998 views, 29.9% of all page views. Both interfaces are English: they carry your Odia, they do not write or check it.\n\n## ତୁ, ତୁମେ or ଆପଣ: the choice that decides whether a line lands\n\nOdia has three second-person singular pronouns, and the wrong one is what a native reader notices first. Kalyanamalini Sahoo's 2013 study in *Acta Linguistica Asiatica* sets out all three with their agreement.\n\n**ତୁ** (*tu*) is intimate — close friends, relatives, younger people. Sahoo records that, lacking honorific content, it is also used for servants and \"socially low class people\". None of the ten lines uses it. Praharaj is blunter, glossing ତୁ \"Thou (contemptuously used)\".\n\n**ତୁମେ** (*tume*) sits between them, and Sahoo lists its users precisely: in-laws, male family members, colleagues, **strangers of the same age-group**, neighbours, elders. Someone you are about to propose to is almost by definition in that band.\n\n**ଆପଣ** (*āpaṇa*) is the honorific, the one students use for a teacher, and takes its own ending — the imperative `-ନ୍ତୁ`, as in the treebank's ଆପଣ ଗରମ ପାଣି ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ. Line 3 becomes **ଆପଣ ମୋ ସାଙ୍ଗ ହେବେ କି ?** Use it if you have only ever addressed them formally.\n\n## Why Odia letters are round, and why that matters on a phone\n\nThe curved, umbrella-hooked Odia letters are usually explained by palm leaf. Manish Minz's 2015 Typography Day paper records the mechanics: Odia was incised on dried palm leaves called *Tari* with a metal stylus, a *Kitta lekhani*, the grooves rubbed with carbon-based ink and cleaned with sand. The paper says Bengali \"retained the horizontal tip line of the original script\" while \"it is said that Odia script changed them to curves due to the exigencies of the writing material, the palm leaf\".\n\nNote the hedge. Minz reports that explanation rather than demonstrating it, and the Unicode Standard's related remark about palm leaves and letter shapes covers South Indian scripts generally. I found nothing proving it for Odia, so I will not assert it.\n\nWhat is settled: Odia and Bengali are siblings, not variants. Minz traces both to proto-Odia, used from the 11th to the 14th century across Assam, Bengal and Odisha, with Odia's script fully formed under the Suryavanshi kings of 1435–1540. Odia is also a classical language: the Central Institute of Indian Languages, under the Ministry of Education, lists it with Kannada, Malayalam and Telugu, each with a Centre of Excellence.\n\nPractically, that means rendering. The Odia block sits at U+0B00–U+0B7F, so these lines travel as text, not pictures — but the phone needs an Odia font. Android and iOS ship one; a very old handset may show boxes.\n\n## Which Odia are you actually writing?\n\nThere is more than one. A 2026 paper by Dibya Prakash Panda and Thapasya Jayaraj of IIT Indore, in *Annali di Ca' Foscari: Serie Orientale*, calls Odia a continuum of regional varieties and analyses negation across eight: Kataki, Sambalpuri, Debagadia, Sundargadi, Singhbhumi, Baleswari, Desia and Ganjami. It is forthcoming and only the abstract is readable, so eight is all I take from it.\n\nThese ten lines are standard Odia. Someone who reads Sambalpuri at home will understand them, but as school Odia rather than as theirs.\n\n## Four ways to send an Odia line, compared\n\nThe container decides whether the script survives, and who can read it.\n\n| Delivery | Odia script | Who can open it | Platform-wide figure (21 page types) |\n|---|---|---|---|\n| WhatsApp message | Unicode text, U+0B00–U+0B7F | Anyone in the chat | Not measurable by us |\n| Instagram caption or story | Unicode text | Followers, plus reshares | Not measurable by us |\n| Screenshot or image | Pixels — not copyable | Anyone, no font needed | Not measurable by us |\n| A shareable SubhSandesh page | Unicode text in the page | Whoever has the link | 48.3% of 56,886 views on a phone; 38.5% password-protect before sharing (1,983 of 5,148) |\n\nA screenshot is the only option that survives a missing font, and the only one they cannot copy, search or reply to inline.\n\n## When an Odia line is the wrong thing to send\n\nIf you are in the same room, say it out loud. A written line is for distance, and 8 February 2027 is a working Monday — but it is not an improvement on speech.\n\nIf you do not know which pronoun they use with you, an Odia line is a guess dressed as a gesture. Sahoo's finding is that communities of practice, not individuals, decide what counts as polite. Ask a mutual friend, or write in English.\n\nIf the answer is no, line 9 is where it ends. A refusal is information, not an obstacle.\n\n## Sources\n\n- Kalyanamalini Sahoo, \"Pronouns, Address Forms and Politeness Strategies in Odia\", [*Acta Linguistica Asiatica* 3(1)](https://journals.uni-lj.si/ala/article/view/65), 28 June 2013. Open access, full text read.\n- Manish Minz, [\"A calligraphic approach to Odia script\"](https://www.typoday.in/2015/spk_papers/Manish%20Minz-Typographyday2015.pdf), Typography Day 2015. Full paper read.\n- [Classical Languages](https://www.ciil.org/clalanguages.php), Central Institute of Indian Languages, Ministry of Education, Government of India. The page gives no publication date.\n- Dibya Prakash Panda and Thapasya Jayaraj, [\"Negation in Regional Varieties of Odia\"](https://edizionicafoscari.unive.it/en/edizioni4/riviste/annali-di-ca-foscari-serie-orientale/2026/62/negation-in-regional-varieties-of-odia-synchronic/), *Annali di Ca' Foscari: Serie Orientale* 62, 2026. Accepted 24 June 2026, forthcoming, abstract only.\n- Verification instruments, credited not cited: Praharaj's *Purnnachandra Odia Bhashakosha* via [Digital Dictionaries of South Asia](https://dsal.uchicago.edu/dictionaries/praharaj/); the [Universal Dependencies Odia ODTB treebank](https://universaldependencies.org/treebanks/or_odtb/), 456 sentences, 5,818 tokens; Tatoeba's 402 Odia sentences; Unicode Standard chapter 12.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-wishes-in-odia#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Odia language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Odia_language",
+              "https://www.wikidata.org/wiki/Q33810"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Odia script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Odia_script",
+              "https://www.wikidata.org/wiki/Q1760127"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Propose Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Propose_Day",
+              "https://www.wikidata.org/wiki/Q7250378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Palm-leaf manuscript",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Palm-leaf_manuscript",
+              "https://www.wikidata.org/wiki/Q1641020"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Classical languages of India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Classical_languages_of_India",
+              "https://www.wikidata.org/wiki/Q116275530"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Pronouns, Address Forms and Politeness Strategies in Odia",
+            "url": "https://journals.uni-lj.si/ala/article/view/65",
+            "datePublished": "2013-06-28",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Ljubljana Press (Acta Linguistica Asiatica)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "A calligraphic approach to Odia script",
+            "url": "https://www.typoday.in/2015/spk_papers/Manish%20Minz-Typographyday2015.pdf",
+            "datePublished": "2015",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Typography Day"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Classical Languages",
+            "url": "https://www.ciil.org/clalanguages.php",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Central Institute of Indian Languages, Ministry of Education, Government of India"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Negation in Regional Varieties of Odia: Synchronic Patterns and Variations",
+            "url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/annali-di-ca-foscari-serie-orientale/2026/62/negation-in-regional-varieties-of-odia-synchronic/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Edizioni Ca’ Foscari — Venice University Press"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ten Propose Day wishes in Odia",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "ମୁଁ ତୁମକୁ ଭଲ ପାଉଛି ।",
+            "description": "I love you — Muñ tumaku bhala pāuchi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "ତୁମେ ମୋ ଜୀବନ ।",
+            "description": "You are my life — Tume mo jībana"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ତୁମେ ମୋ ସାଙ୍ଗ ହେବ କି ?",
+            "description": "Will you be my companion? — Tume mo sāṅga heba ki?"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ଆଜି ମୁଁ ତୁମକୁ ଗୋଟିଏ କଥା କହିବି ।",
+            "description": "Today I will tell you one thing — Āji muñ tumaku goṭie kathā kahibi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "ମୁଁ ତୁମ ସାଙ୍ଗରେ ରହିବାକୁ ଚାହୁଁଛି ।",
+            "description": "I want to stay with you — Muñ tuma sāṅgare rahibāku cāhuñchi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "ମୋ ମନ ତୁମ ପାଖରେ ।",
+            "description": "My heart is with you — Mo mana tuma pākhare"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "ତୁମ ହସ ମୋ ଦିନର ସବୁଠାରୁ ଭଲ କଥା ।",
+            "description": "Your laugh is the best thing in my day — Tuma hasa mo dinara sabuṭhāru bhala kathā"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "ମୁଁ ତୁମର ଉତ୍ତର ଅପେକ୍ଷା କରିବି ।",
+            "description": "I will wait for your answer — Muñ tumara uttara apekṣā karibi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "ତୁମେ ଯାହା ଉତ୍ତର ଦେବ, ମୁଁ ମାନିବି ।",
+            "description": "Whatever answer you give, I will accept it — Tume yāhā uttara deba, muñ mānibi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "ମୁଁ ତୁମକୁ ବିବାହ କରିବାକୁ ଚାହୁଁଛି ।",
+            "description": "I want to marry you — Muñ tumaku bibāha karibāku cāhuñchi"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day wishes odia",
+    "angle": "Wins by being the only Odia Propose Day page where every published line is traced to a headword in Praharaj's Purnnachandra Odia Bhashakosha and a verb ending attested in the Universal Dependencies Odia treebank, the tu/tume/apana register is marked from Sahoo (2013), and the seven cut lines are listed with the dictionary evidence that killed them.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,178 created, 22.9% of all pages — measured 2026-09-24",
+      "Most-viewed template: love-gf — 16,998 views, 29.9% of all page views — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (1,983 of 5,148) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://journals.uni-lj.si/ala/article/view/65",
+        "stat": "Odia has three second-person singular pronouns — tu (intimate: close friends, relatives, younger people; lacking honorific content it is also used for servants and \"socially low class people\"), tume (intermediate: in-laws, male family members, colleagues, strangers of the same age-group, neighbours, elders) and apana (honorific: students to a teacher), giving three levels of politeness — plain, simple polite, advanced polite — with the honorific command form karantu; politeness in Odia is set by communities of practice rather than by individual speech acts. Full text read via the PDF galley /ala/article/download/65/324 on 2026-09-24; data from the EMILLE/CIIL corpus plus the author's native-speaker judgements.",
+        "publishedDate": "2013-06-28"
+      },
+      {
+        "url": "https://www.typoday.in/2015/spk_papers/Manish%20Minz-Typographyday2015.pdf",
+        "stat": "Odia was incised on dried palm leaves called Tari with a metal stylus (Kitta lekhani / Loha kantaka), the grooves then rubbed with carbon-based ink and cleaned with sand; Bengali \"retained the horizontal tip line of the original script\" while \"it is said that Odia script changed them to curves due to the exigencies of the writing material, the palm leaf\" — the paper reports the palm-leaf explanation with that hedge rather than demonstrating it. Both modern Odia and modern Bengali descend from proto-Odia, used 11th-14th century AD across Assam, Bengal and Odisha; Odia script fully developed by the Suryavanshi kings (1435-1540 AD); \"Odia is now stated as one of the six classical languages of India\". Full PDF text extracted and read on 2026-09-24.",
+        "publishedDate": "2015"
+      },
+      {
+        "url": "https://www.ciil.org/clalanguages.php",
+        "stat": "The Central Institute of Indian Languages, Department of Higher Education, Ministry of Education, Government of India, lists ODIA in its List of Classical Languages alongside Kannada, Malayalam and Telugu, each with a Centre of Excellence for Studies at CIIL Mysore whose functions include procuring manuscripts and undertaking digitization. Page fetched 2026-09-24; it publishes no publication date (it shows \"Last updated on : 20/08/2024\", a modification date), so publishedDate is omitted."
+      },
+      {
+        "url": "https://edizionicafoscari.unive.it/en/edizioni4/riviste/annali-di-ca-foscari-serie-orientale/2026/62/negation-in-regional-varieties-of-odia-synchronic/",
+        "stat": "Odia \"exhibits substantial internal diversity and forms a continuum of regional varieties\"; the paper analyses standard negation across eight Odia varieties — Kataki, Sambalpuri, Debagadia, Sundargadi, Singhbhumi, Baleswari, Desia and Ganjami. Open access, peer reviewed, CC BY, Panda and Jayaraj (IIT Indore). ABSTRACT ONLY — the article is marked \"Published Forthcoming\" and its DOI 10.30687/AnnOr/2385-3042/2026/62/003 returned \"DOI Not Found\" on 2026-09-24, so no full text was available to read. Submitted 25 March 2026, accepted 24 June 2026; publishedDate omitted because the article has no publication date yet."
+      }
+    ],
+    "odiaLedger": {
+      "drafted": 17,
+      "published": 10,
+      "cut": 7,
+      "method": "Every published line decomposes into (a) headwords found in Praharaj's Purnnachandra Odia Bhashakosha via the Digital Dictionaries of South Asia, queried one headword at a time, and (b) a verb ending attested in UD Odia-ODTB (456 sentences, 5,818 tokens, pulled as CoNLL-U) or in Tatoeba's 402 Odia sentences. No line was written from memory or intuition.",
+      "cuts": [
+        "ତୁ ମୋ ଜୀବନ — Sahoo (2013, full text) records that tu lacks honorific content and is used for servants and \"socially low class people\"; Praharaj glosses ତୁ (p. 3498) \"Thou (contemptuously used)\". Wrong pronoun for an ask.",
+        "ମୁଁ ତୁମ ସାଥେ ରହିବି — ସାଥେ returns no headword in Praharaj, and neither does ସାଥୀ. Hindi/Bengali-shaped. Replaced throughout with ସାଙ୍ଗ / ସାଙ୍ଗରେ.",
+        "ତୁମେ ମୋ ପ୍ରେମିକା — ପ୍ରେମିକା returns no headword in Praharaj.",
+        "ମୁଁ ତୁମକୁ ବାହା ହେବାକୁ ଚାହୁଁଛି — Praharaj marks ବାହା (p. 5578) ଗ୍ରା. (rural/colloquial) for marriage and its ordinary sense is \"Arm; strength\". Replaced with ବିବାହ (p. 5688), which the treebank also attests.",
+        "ରହ ମୋ ପାଖରେ — Praharaj's headword ରହ (p. 7029) opens on \"Coition; copulation\", the Odia imperative appearing only later in the entry. Same failure mode as the wave-3 Kannada ಬಾಳು cut.",
+        "ମୁଁ ତୁମକୁ ଚାହେଁ — Praharaj glosses ଚାହିଁବା (p. 2634) \"to look at; to see; to wait in expectation\", not \"to desire\". Only the ...ବାକୁ ଚାହୁଁଛି frame was kept, which the treebank attests in the modern want sense.",
+        "ତୁମେ ଖୁସିରେ ରୁହ — ଖୁସି is attested (p. 2020, a Persian loan) but Praharaj also records a ଗ୍ରା. sense that is crude, and ରୁହ inherits the ରହ problem."
+      ]
+    },
+    "structuralLimitations": [
+      "THE ODIA WAS NOT REVIEWED BY A NATIVE SPEAKER. Every line is verified against published instruments — Praharaj's dictionary, the UD Odia treebank, Tatoeba and Sahoo (2013) — but verification is not the same as a fluent reader's judgement of whether a line sounds natural in a proposal. Have a native speaker read it before sending it.",
+      "Odia resources are materially thinner than for Hindi, Bengali or Marathi. The entire UD Odia-ODTB treebank is 456 sentences and 5,818 tokens, its genre is nonfiction and news, and it contains ZERO instances of ତୁ and ZERO of singular ତୁମେ (one ତୁମ, one ତୁମେମାନେ, two ଆପଣ). Tatoeba holds 402 Odia sentences. Second-person agreement had to be taken from those four Tatoeba sentences plus Sahoo's worked examples, not from a large corpus.",
+      "Praharaj's Purnnachandra Odia Bhashakosha was compiled 1931-1940. Its glosses are authoritative for attestation but can lag modern usage — the clearest case here is ଚାହିଁବା, which Praharaj glosses only as \"to look at / to wait\" while the treebank attests a modern \"want\" sense (ମୁଁ ... ଚାହୁଁଚି). Where dictionary and corpus disagree, the post says so rather than choosing silently.",
+      "Spelling variant carried into the body: the treebank writes the first-person \"want\" ଚାହୁଁଚି; the published lines use the standard ଚାହୁଁଛି. The -ଛି ending is separately attested (ODTB ଦେଖିପାରୁଛି; Tatoeba ତୁମେ ... ଭାବୁଛ) even though that exact spelling is not.",
+      "The palm-leaf explanation for the rounded Odia letterforms is REPORTED, NOT DEMONSTRATED. Minz (2015) states it with the hedge \"it is said that\"; the Unicode Standard's related remark is \"Some scholars suggest...\" and is about South Indian scripts generally rather than Odia specifically. No source I could fetch proves it. The body says this in prose.",
+      "Odia's classical-language status IS verified (CIIL, Ministry of Education, lists it with a Centre of Excellence; Minz records it independently), but I could not fetch a primary notification carrying the designation DATE, so the post gives no date for it.",
+      "Exempt instruments used under the BRIEF's 2026-09-24 exemption and credited in prose rather than spending sources slots: Praharaj / DSAL (dsal.uchicago.edu), UD Odia-ODTB (universaldependencies.org), Tatoeba, and chapter 12 of the Unicode Standard. Deliberate reuse, noted here so it is visible.",
+      "Phase 1 is one WebSearch call on 2026-09-24. The tool is US-served, not India-geo, so it is NOT the SERP an Odisha searcher sees, and none of this batch's keywords appears in the 11 India-served SERPs measured on 2026-09-16. No result page was fetched and nothing in the post describes what a competitor's page contains.",
+      "No proposal-specific data exists on this platform: the proposalpages probe is still refused by the production-read policy. Every figure in the body is labelled platform-wide across 21 page types or sampled on the named template.",
+      "The pricing block in content/facts.md is empty for a fourth batch. No price, free tier or paid tier is stated or implied anywhere in this post.",
+      "Same-publisher note for cap transparency: journals.uni-lj.si now appears in 2 posts in this cluster (a different Acta Linguistica Asiatica article, /ala/article/view/219, was spent in wave 3). edizionicafoscari.unive.it is a distinct hostname from the edizionicafoscari.it URL spent in wave 3, but it is the SAME publisher — flagged deliberately. capcheck.mjs was run at source selection and again immediately before saving.",
+      "The Ca' Foscari negation paper is cited from its ABSTRACT ONLY. It is marked \"Published Forthcoming\" and its DOI 10.30687/AnnOr/2385-3042/2026/62/003 returned \"DOI Not Found\" on 2026-09-24, so no full text exists to read yet.",
+      "Sibling /blog/ slugs in waves 1-3 are not TEMPLATE_LINKS entries and 404 until those waves publish, so the Bengali and Assamese siblings are distinguished in prose rather than linked.",
+      "No Sambalpuri or other regional-variety lines are offered, because no published dictionary for those varieties was available to check against. The post says so."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Unverifiable here. Phase 1 was a single WebSearch on 2026-09-24; the tool is US-served, not India-geo, and I fetched none of the ten results — one is a competitor gifting retailer the skill forbids reading and reproducing, and the BRIEF forbids describing pages I did not fetch. The claim is very likely true (no result appeared to pair script, transliteration, gloss and register) but I will not assert it from a result-list alone. Closes if an India-served SERP is captured and the non-competitor results are fetched."
+        },
+        {
+          "item": "One comparison table with real values, 3–5 rows",
+          "why": "Four rows, but three of the four cells in the first-party column read \"Not measurable by us\" — SubhSandesh has no visibility into WhatsApp or Instagram delivery, so no real value exists to put there. Only the SubhSandesh row carries figures (48.3% of 56,886 views on a phone; 38.5% password-protect, 1,983 of 5,148). Closes only if a cross-channel measure ever exists, which it does not."
+        }
+      ],
+      "honestAssessment": "Two prefixes of ordinal demand — this is a low-volume, copy-text query, and a page at this volume is a visibility asset judged on impressions and on being the page an answer engine quotes when someone asks how to say this in Odia, not a converting page. The searcher copies a line and leaves. Target position 6-10, not 3: the February Valentine-week SERP is an annual news cycle owned by MensXP, Zee, Webdunia and Times Now, and this domain has neither their authority nor their backlinks. What it does have that none of them do is a line-by-line audit trail — ten lines traced to Praharaj headwords and treebank-attested verb endings, seven cuts published with the evidence, and an explicit refusal to assert the palm-leaf story as proven. That is the citable asset. It cannot be checked by a native speaker here, which is the honest ceiling on it; and ranking takes months regardless."
+    },
+    "generatedAt": "2026-09-24T08:16:44.759Z"
+  }
+}

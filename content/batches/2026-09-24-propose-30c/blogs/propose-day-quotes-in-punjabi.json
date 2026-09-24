@@ -1,0 +1,314 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Quotes in Punjabi, Checked Against a Dictionary",
+    "slug": "propose-day-quotes-in-punjabi",
+    "excerpt": "Eleven Propose Day lines in Punjabi - Gurmukhi, transliteration, English gloss - with every content word checked in an 1895 Punjabi dictionary and every frame checked against a Gurmukhi corpus. Thirteen more were drafted and cut, with the gloss that killed each one.",
+    "metaTitle": "Propose Day Quotes in Punjabi — 11 Verified Gurmukhi Lines",
+    "metaDescription": "Propose day quotes in Punjabi: 11 lines in Gurmukhi with transliteration and gloss, every word checked in an 1895 Punjabi dictionary, and 13 more cut.",
+    "keywords": "propose day quotes in punjabi, propose day wishes in punjabi, punjabi propose day lines, gurmukhi propose lines, propose day message in punjabi",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-quotes-in-punjabi",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "punjabi",
+      "gurmukhi",
+      "valentine week",
+      "modern romance"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 is Monday 8 February, the second of Valentine week's eight dated days.",
+      "Eleven lines are published here and thirteen were cut; ਮਾਹੀ went because its first attested dictionary sense is \"a herdsman of buffaloes\", and ਦੁਨੀਆ because the headword is glossed \"Coriander\".",
+      "Punjabi has two second persons: ਤੂੰ takes the auxiliary ਏਂ, ਤੁਸੀਂ takes ਹੋ. In the 5,508-token corpus checked here, ਤੁਸੀਂ appears 23 times and ਤੂੰ 3.",
+      "Six Gurmukhi letters have two valid encodings, which is why ਜ਼ਿੰਦਗੀ returned zero dictionary headwords while ਜਿੰਦਗੀ returned one.",
+      "Platform-wide across 21 page types, 48.3% of 56,886 page views here happen on a phone, and 90.9% of started pages are published and shared (4,679 of 5,148)."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day 2027?",
+        "answer": "Monday 8 February 2027. It is the second day of Valentine week, after Rose Day on Sunday 7 February, and the week closes with Valentine's Day on Sunday 14 February 2027."
+      },
+      {
+        "question": "My crush and I are not close yet. Which Punjabi pronoun is safe?",
+        "answer": "Use ਤੁਸੀਂ (tusī̃) with the auxiliary ਹੋ. It reads as respectful rather than distant, and you can move to ਤੂੰ once things are settled. Going the other way, from ਤੂੰ back to ਤੁਸੀਂ, reads as a cold step back."
+      },
+      {
+        "question": "How do I say \"I love you\" in Punjabi?",
+        "answer": "The dictionary attests ਪਿਆਰ as \"Love, affection, friendship, attachment\", but the common phrasing built on it had no attestation in the corpora used here, so it was not published. The nearest verified line on this page is ਮੇਰਾ ਦਿਲ ਤੇਰੇ ਕੋਲ ਹੈ — merā dil tere kol hai, \"My heart is with you\"."
+      },
+      {
+        "question": "Can I just send the Roman transliteration instead of the Gurmukhi?",
+        "answer": "Yes, and for a reader who speaks Punjabi but reads it rarely, Roman is often kinder. The transliteration under each line is there for exactly that, and it also works if the reply comes back in the Pakistani script."
+      },
+      {
+        "question": "Will Gurmukhi show up properly on an iPhone or Android?",
+        "answer": "Yes. Gurmukhi is standard Unicode, encoded in the block U+0A00 to U+0A7F, and both platforms ship a font for it. What can break is a search: some letters have two valid encodings, so a pasted word may not match a stored one."
+      },
+      {
+        "question": "Is it okay to send a line from a Punjabi song?",
+        "answer": "Not from this page, and not as your own. Modern Punjabi song lyrics are copyrighted, and the person you are asking has almost certainly heard the line before. Every line here was written from dictionary-attested words instead."
+      },
+      {
+        "question": "What if they send something back in Shahmukhi?",
+        "answer": "Shahmukhi is Punjabi written in Perso-Arabic script, used in Pakistani Punjab. It is the same language, a different writing system. Paste it into a transliteration tool, or ask them for the Roman version — that is the one bridge that works in both directions."
+      },
+      {
+        "question": "Do these lines change if a girl is sending them?",
+        "answer": "Two of them do. ਮੈਂ ਤੇਰੇ ਨਾਲ ਬੁੱਢਾ ਹੋਣਾ ਚਾਹੁੰਦਾ ਹਾਂ becomes ਬੁੱਢੀ ਹੋਣਾ ਚਾਹੁੰਦੀ ਹਾਂ, and ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ becomes ਮੈਂ ਚਾਹੁੰਦੀ ਹਾਂ. Punjabi verbs agree with the speaker's gender."
+      },
+      {
+        "question": "Is there any point saying the line out loud instead of texting it?",
+        "answer": "Yes, and there is a linguistic reason as well as an obvious one. Punjabi carries lexical tone, which Gurmukhi does not mark in everyday writing, so a spoken line carries information a typed one drops."
+      },
+      {
+        "question": "Are Propose Day wishes in Punjabi the same as Propose Day quotes in Punjabi?",
+        "answer": "Not quite. A wish is addressed to someone who is already your partner and celebrates the day; a quote is the line you use to make the ask itself. The lines in group three on this page are asks, and the rest work as either."
+      },
+      {
+        "question": "Were these Punjabi lines checked by a native speaker?",
+        "answer": "No. They were checked against Singh's Panjabi Dictionary of 1895, the Universal Dependencies Punjabi treebanks and the Tatoeba Punjabi sentence exports — 5,508 tokens of corpus in total. That is instrument verification, not review, and a native reader may still prefer different phrasing."
+      },
+      {
+        "question": "Which page should I use if I am asking someone to be my girlfriend, not to marry me?",
+        "answer": "The \"I love you\" page rather than the proposal scrapbook. It is the third most-created template here at 1,178 pages, 22.9% of everything created, and the most-viewed at 16,998 views. Its own text is English; your Punjabi goes in the fields you fill."
+      }
+    ],
+    "coverImageQuery": "punjabi gurmukhi handwriting notebook",
+    "coverImagePrompt": "A close, warm photograph of a hand writing a short line of Gurmukhi script in pencil in an open notebook, on a wooden table in soft late-afternoon light. Shallow depth of field, the script legible but not the focus of the frame. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Quotes in Punjabi, Checked Against a Dictionary\n\nPropose Day 2027 falls on **Monday 8 February**, the second day of Valentine week, which opens with Rose Day on Sunday 7 February and closes on Sunday 14 February. Below are eleven Propose Day lines in Punjabi — Gurmukhi, Roman transliteration, English gloss — every content word looked up in a printed Punjabi–English dictionary and checked against two Gurmukhi corpora before it reached this page, with thirteen more drafted and cut, a reason given for each. The platform these get sent from has recorded 5,148 personalised pages created since 2026-03-12 across 21 page types, and 48.3% of its 56,886 views came from a phone — both platform-wide across all 21 page types, not proposal pages, because no proposal-specific figure exists here.\n\n## What a Propose Day quote in Punjabi actually is\n\nIt is a short line in **Gurmukhi**, the script Punjabi uses across Indian Punjab, stating the ask or the feeling behind it. Not a translated greeting card, and not a song lyric.\n\nThree things separate a line you can send from one you copied: a script the reader's phone renders, the right level of address, and words that mean what you think. This page does the third in the open.\n\nEvery word below was checked in Singh's *The Panjabi Dictionary* (1895) via the Digital Dictionaries of South Asia, and every grammatical frame against the Universal Dependencies **Punjabi-Rang** and **Punjabi-CS** treebanks plus the Tatoeba Punjabi exports. Those instruments are small: 250 treebank sentences and 3,810 tokens, plus 217 Gurmukhi and 77 Shahmukhi Tatoeba sentences — 5,508 tokens all told, so the dictionary carries most of the weight.\n\n## 11 Propose Day lines in Punjabi, with transliteration and gloss\n\n### 1. Lines that use ਤੂੰ (tū̃) — the intimate second person\n\n> **ਮੈਂ ਇਥੇ ਤੇਰੇ ਲਈ ਹਾਂ।** · *maĩ ithe tere laī hā̃* — \"I am here for you.\"\n> **ਤੂੰ ਮੇਰੇ ਨਾਲ ਏਂ, ਤੇ ਇਹ ਬਹੁਤ ਹੈ।** · *tū̃ mere nāl ẽ, te ih bahut hai* — \"You are with me, and that is plenty.\"\n> **ਮੇਰਾ ਦਿਲ ਤੇਰੇ ਕੋਲ ਹੈ।** · *merā dil tere kol hai* — \"My heart is with you.\"\n> **ਮੈਂ ਤੇਰੇ ਵਰਗਾ ਕੋਈ ਨਹੀਂ ਵੇਖਿਆ।** · *maĩ tere vargā koī nahī̃ vekhiā* — \"I have never seen anyone like you.\"\n\n**Who it suits:** someone you already talk to daily in Punjabi, without formality.\n**Register:** ਤੂੰ, intimate, auxiliary ਏਂ rather than ਹੈ.\n**What was checked:** ਦਿਲ glossed \"Heart, mind, soul\"; ਕੋਲ \"Near, by, with, in the keeping or possession of\"; ਵਰਗਾ \"Like, resembling, equal to\". The first line appears almost verbatim in Tatoeba.\n**When not to use it:** never on a first approach, never to someone older — ਤੂੰ from a stranger reads as rude, not warm.\n\n### 2. Lines that use ਤੁਸੀਂ (tusī̃) — the respectful second person\n\n> **ਕੀ ਤੁਹਾਨੂੰ ਮੇਰੇ ਉੱਤੇ ਭਰੋਸਾ ਹੈ?** · *kī tuhānū̃ mere utte bharosā hai?* — \"Do you trust me?\"\n> **ਕੀ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਜ਼ਿੰਦਗੀ ਗੁਜ਼ਾਰੋਗੇ?** · *kī tusī̃ mere nāl zindagī guzāroge?* — \"Will you spend a life with me?\"\n> **ਤੁਸੀਂ ਮੈਨੂੰ ਸਭ ਕੁਝ ਦੱਸ ਸਕਦੇ ਹੋ।** · *tusī̃ mainū̃ sabh kujh dass sakde ho* — \"You can tell me everything.\"\n> **ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ ਕਿ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਰਹੋ।** · *maĩ cāhundā hā̃ ki tusī̃ mere nāl raho* — \"I want you to stay with me.\"\n\n**Who it suits:** the commoner case — someone you like and are not yet intimate with.\n**Register:** ਤੁਸੀਂ, auxiliary ਹੋ, -ਓਗੇ future ending.\n**What was checked:** ਭਰੋਸਾ glossed \"Belief, faith; trust, hope\"; ਰਹਿਣਾ \"To stay, to remain\"; ਦੱਸਣਾ \"To show, to direct, to tell\". Line one is a verbatim Tatoeba sentence; the ਜ਼ਿੰਦਗੀ … ਗੁਜ਼ਾਰੀ pairing comes out of the Punjabi-Rang treebank.\n**When not to use it:** if you already use ਤੂੰ here, switching to ਤੁਸੀਂ reads as a cold step back.\n\n### 3. The ask itself\n\n> **ਕੀ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਵਿਆਹ ਕਰੋਗੇ?** · *kī tusī̃ mere nāl viāh karoge?* — \"Will you marry me?\"\n> **ਮੈਂ ਤੇਰੇ ਨਾਲ ਬੁੱਢਾ ਹੋਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।** · *maĩ tere nāl buḍḍhā hoṇā cāhundā hā̃* — \"I want to grow old with you.\"\n> **ਤੂੰ ਹਾਂ ਕਹਿ ਦੇ।** · *tū̃ hā̃ kahi de* — \"Just say yes.\"\n\n**Who it suits:** only the first is a marriage proposal; the other two are the softer ask most Propose Day searches want.\n**Register:** mixed on purpose — the marriage question in ਤੁਸੀਂ, the rest in ਤੂੰ.\n**What was checked:** ਵਿਆਹ glossed \"Marriage, a wedding\", and attested in Tatoeba; ਬੁੱਢਾ \"Old; an old man\"; ਹਾਂ \"Yes, indeed, very, exactly, well\".\n**When not to use it:** a female speaker sending line two needs ਬੁੱਢੀ ਹੋਣਾ ਚਾਹੁੰਦੀ ਹਾਂ. Punjabi verbs agree with the speaker's gender, and a leftover masculine form is the commonest sign a line was copied.\n\nIf the ask really is marriage, the **[proposal scrapbook page](/proposal)** is built for it — your story, then a YES button that grows every time they dodge it. If it is the softer ask, and in Indian usage \"propose\" usually is, the **[I love you page](/love-gf)** fits better: third most-created template here at 1,178 pages, 22.9% of everything created, and the most-viewed at 16,998 views, 29.9% of page views.\n\nBoth templates are **English-language**. Your Punjabi arrives because you paste these lines into the page's text fields, where they render as typed; the buttons and prompts stay English. That is the honest limit.\n\n## ਤੂੰ or ਤੁਸੀਂ: the choice a Punjabi reader notices first\n\nPunjabi has two second-person pronouns, and the verb, auxiliary and possessive follow whichever you pick. ਤੂੰ takes ਏਂ, ਤੇਰਾ, ਤੈਨੂੰ; ਤੁਸੀਂ takes ਹੋ, ਤੁਹਾਡਾ, ਤੁਹਾਨੂੰ. Getting one right and another wrong is what marks a machine translation.\n\nIn that 5,508-token corpus ਤੁਸੀਂ appears 23 times and ਤੂੰ only 3 — written corpora skew formal, which is why the intimate lines were checked against the treebank frame rather than assumed. The safe default for Propose Day is **ਤੁਸੀਂ**; you can move to ਤੂੰ later, and moving back is awkward.\n\n## Gurmukhi in India, Shahmukhi in Pakistan — and the dot that breaks search\n\nPunjabi is written in two different systems. [Chapter 12 of the Unicode Standard 17.0](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/) puts it plainly: Gurmukhi \"is used on an everyday basis in East Punjab. (West Punjab, now in Pakistan, uses the Arabic script.)\" That Perso-Arabic form is Shahmukhi.\n\nYour reader in India uses Gurmukhi, so everything above is Gurmukhi. It matters anyway: a line sent from Pakistan arrives in a script you likely cannot read, and the transliteration under every line works for either. The two are unequally supported — a [2026 PLOS ONE study building the first sentence-simplification corpus for Arabic-script Punjabi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344915), reporting a SARI score of 45.3, calls that script \"a linguistic facet that had previously received limited attention in natural language processing.\"\n\nInside Gurmukhi there is a second trap. Four modern spellings tried here — ਜ਼ਿੰਦਗੀ, ਖ਼ਾਸ, ਇਸ਼ਕ, ਗੁਜ਼ਾਰਨਾ — returned **zero** dictionary headwords; undotted ਜਿੰਦਗੀ, ਖਾਸ, ਇਸਕ, ਗੁਜਾਰਨਾ returned 1, 6, 1 and 2. The dot is the *pairin bindi*, \"primarily used to differentiate Urdu or Persian loan words\".\n\nSix letters — ਲ਼ ਸ਼ ਖ਼ ਗ਼ ਜ਼ ਫ਼ — are encoded twice in the [Unicode Character Database](https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt): once as one character, once as the plain letter plus `U+0A3C GURMUKHI SIGN NUKTA`. So one visible word can be two byte strings, and that, not a typo, is usually why a pasted Punjabi line finds nothing in a search box.\n\n| How you send it | Renders as typed? | What the reader needs | Platform-wide figure, 21 page types |\n|---|---|---|---|\n| Pasted into a chat app | Yes, Gurmukhi is standard Unicode | a Gurmukhi font | 48.3% of 56,886 views here are on a phone |\n| A screenshot | Yes, but nothing is selectable | nothing | — |\n| A shared page | Yes, it is a web page | one link | 90.9% of started pages get shared, 4,679 of 5,148 |\n\nA screenshot never breaks a font, and is the only route they cannot copy from.\n\n## Punjabi is tonal, which changes how the line sounds\n\nPunjabi is unusual among Indo-Aryan languages in carrying lexical tone. An [ACL 2022 paper on South Asian linguistic history](https://arxiv.org/abs/2203.12524) names a **\"Punjabi-type\"** class of tonal systems — Punjabi, Hindko, some Gujari varieties, Himachali languages and Kishtwari — and says it \"arises primarily from the disappearance of phonemic breathy voice.\"\n\nSo letters resembling Hindi's breathy consonants are not read that way in Punjabi. The Gurmukhi block even carries `U+0A51 GURMUKHI SIGN UDAAT`, which \"indicates a high tone\", though everyday writing never uses it — written Gurmukhi carries no tone marking, and the reader supplies it from knowing the word. Say the line aloud as well as sending it.\n\n## What got cut: 24 drafted, 11 published\n\nThirteen lines did not survive the dictionary:\n\n- **ਮਾਹੀ** — first attested sense \"a herdsman of buffaloes\"; \"a friend\" second.\n- **ਢੋਲ** — \"A drum … a beloved (in the last sense used in poetry).\" Drum first.\n- **ਦੁਨੀਆ** — the headword is glossed \"Coriander, *Coriandrum sativum*.\"\n- **ਸੰਗ** — first sense \"Shame.\"\n- **ਅਧੂਰਾ** — \"Half ready, half done … unfinished, defective.\" Not the emotional sense.\n- **ਵਾਅਦਾ**, ਵਾਇਦਾ, ਵਾਦਾ, ਇਕਰਾਰ — all zero headwords, so no verified way here to write \"I promise\".\n- **ਯਾਰ** — \"A friend, an intimate, a lover … an adulterer; a paramour.\" Risky in writing.\n\nNot one line here is a song lyric. Punjabi popular music owns this register more completely than any other Indian language's — which is exactly why these were built from dictionary words rather than borrowed.\n\n## When a Punjabi line is the wrong thing to send\n\nIf the person reads English more comfortably than Gurmukhi — common for Punjabi speakers raised outside Punjab — a Gurmukhi line is a performance aimed at you, not a message aimed at them. Send English.\n\nIf you are in the same room, say it. A link is worse than a sentence when they are in front of you.\n\nOn privacy: 38.5% of creators here password-protect a page before sharing, 1,983 of 5,148 — platform-wide, not proposal-specific. Every option is on the **[full template list](/templates)**.\n\n## Sources\n\n- Unicode Standard 17.0, Ch. 12 *South and Central Asia-I*, Gurmukhi section.\n- Unicode Character Database, `UnicodeData.txt`, current release.\n- Arora, Farris, Basu & Kolichala, *Computational historical linguistics and language diversity in South Asia*, ACL 2022 Theme Track, 23 March 2022.\n- Shehzad et al., *Automatic sentence simplification system for Arabic Script Punjabi*, PLOS ONE 21(6): e0344915, 11 June 2026 — abstract read, not full text.\n\nInstruments, credited not cited: Singh, *The Panjabi Dictionary* (1895) via the Digital Dictionaries of South Asia; the Universal Dependencies Punjabi-Rang and Punjabi-CS treebanks; Tatoeba's Punjabi exports.\n",
+    "readingTime": 9,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-quotes-in-punjabi#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Punjabi language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Punjabi_language",
+              "https://www.wikidata.org/wiki/Q58635"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Gurmukhi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gurmukhi",
+              "https://www.wikidata.org/wiki/Q689894"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Shahmukhi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Shahmukhi",
+              "https://www.wikidata.org/wiki/Q133800"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Punjab, India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Punjab,_India",
+              "https://www.wikidata.org/wiki/Q22424"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "The Unicode Standard 17.0, Chapter 12: South and Central Asia-I (Gurmukhi)",
+            "url": "https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode, Inc."
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unicode Character Database: UnicodeData.txt",
+            "url": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode, Inc."
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Computational historical linguistics and language diversity in South Asia",
+            "url": "https://arxiv.org/abs/2203.12524",
+            "datePublished": "2022-03-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Automatic sentence simplification system for Arabic Script Punjabi",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344915",
+            "datePublished": "2026-06-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Public Library of Science"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Propose Day lines in Punjabi, grouped by register",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Lines that use ਤੂੰ (tū̃) — the intimate second person",
+            "description": "Four lines for someone you already talk to daily in Punjabi. Auxiliary ਏਂ, not ਹੈ. Wrong on a first approach or to anyone older."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lines that use ਤੁਸੀਂ (tusī̃) — the respectful second person",
+            "description": "Four lines for the commoner case, someone you like and are not yet intimate with. Auxiliary ਹੋ and the -ਓਗੇ future ending."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The ask itself",
+            "description": "Three lines, of which only ਕੀ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਵਿਆਹ ਕਰੋਗੇ? is a marriage proposal; the other two are the softer ask. Verb endings change with the speaker's gender."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day quotes in punjabi",
+    "angle": "Wins by being the only Propose Day page in Punjabi that publishes its verification ledger - 24 lines drafted, 11 published, 13 cut with the dictionary gloss that killed each - alongside SubhSandesh's own 5,148 pages across 21 page types.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,178 created, 22.9% of all pages — measured 2026-09-24",
+      "Most-viewed template: love-gf — 16,998 views, 29.9% of all page views — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,679 of 5,148) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (1,983 of 5,148) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/",
+        "stat": "Gurmukhi \"is used on an everyday basis in East Punjab. (West Punjab, now in Pakistan, uses the Arabic script.)\"; the pairin bindi consonants are \"primarily used to differentiate Urdu or Persian loan words\"; U+0A51 GURMUKHI SIGN UDAAT \"indicates a high tone\"; the script is attributed to Angad, the second Sikh Guru (1504-1552 CE). Full section read 2026-09-24. The chapter carries no publication date of its own, so none is recorded."
+      },
+      {
+        "url": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt",
+        "stat": "The Gurmukhi block U+0A00-U+0A7F carries 80 assigned code points (U+0A01 to U+0A76), one U+0A3C GURMUKHI SIGN NUKTA, and six letters (LLA, SHA, KHHA, GHHA, ZA, FA) that each also decompose to a base letter plus U+0A3C. Parsed directly 2026-09-24."
+      },
+      {
+        "url": "https://arxiv.org/abs/2203.12524",
+        "stat": "Baart's classification puts Punjabi in a named \"Punjabi-type\" class of tonal systems alongside Hindko, some Gujari varieties, Himachali languages and Kishtwari; the system \"arises primarily from the disappearance of phonemic breathy voice\". Full text read via ar5iv; accepted to the ACL 2022 Theme Track.",
+        "publishedDate": "2022-03-23"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344915",
+        "stat": "PUSIM, a sentence-simplification corpus for Arabic-script (Shahmukhi) Punjabi, reports a SARI score of 45.3 and describes the script as \"a linguistic facet that had previously received limited attention in natural language processing\". Abstract and article metadata read; full text not read.",
+        "publishedDate": "2026-06-11"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop word \"in\" (propose-day-quotes-in-punjabi). It is the assigned slug and it matches the target keyword exactly, so removing the stop word would break the keyword-slug match this query needs. Kept deliberately; would close only if the keyword itself were retargeted."
+        },
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Passes on substance but not on evidence. The claims are original by construction - a 24/11/13 verification ledger and corpus counts measured on this machine on 2026-09-24 - but no ranking page was fetched (every result on the measured SERP is a competitor under references/competitors.md), so absence from the top 5 is inferred, not observed."
+        }
+      ],
+      "honestAssessment": "Target position 6-10, not 3. This SERP is an annual February news cycle held by large publishers and by shayari aggregators with years of accumulated links, and the domain is nowhere near them; a quotes query is also a copy-and-leave query, so this is a visibility asset judged on impressions, not a converting page, and it is not written to convert. What it has that the others do not is the verification: 11 lines published out of 24 drafted, each content word traced to a printed dictionary gloss and each grammatical frame to an attested corpus sentence, with the 13 cuts and their reasons on the page. An answer engine asked whether a Punjabi propose-day line is correct has a checkable source here and a list somewhere else. What would change the ceiling is a native-speaker review and an external link or two, neither of which exists today.",
+      "structuralLimitations": [
+        "The Punjabi lines were NOT reviewed by a native speaker. Verification was instrumental only: Singh's The Panjabi Dictionary (1895) via DSAL for headword senses, and the Universal Dependencies Punjabi-Rang and Punjabi-CS treebanks plus the Tatoeba Punjabi exports for attested forms. A native reader may still prefer different phrasing, and 1895 glosses can lag modern usage.",
+        "The whole free machine-readable Gurmukhi evidence base assembled for this post is 5,508 tokens and 2,055 types (UD: 250 sentences / 3,810 tokens / 1,374 types; Tatoeba: 217 Gurmukhi + 77 Shahmukhi sentences). That is tiny, so the corpus can confirm a form but cannot prove one absent. A third UD Punjabi repository, UD_Punjabi-PunTB, contains no .conllu file at all.",
+        "Exempt-URL reuse, declared per the BRIEF's mid-batch exemption: dsal.uchicago.edu, github.com/UniversalDependencies and downloads.tatoeba.org were used as verification instruments and credited in prose rather than in batchMeta.sources, keeping the source slots for research. unicode.org appears twice in sources as two distinct standards documents (the 17.0 core spec chapter and the UCD data file).",
+        "No proposal-specific data exists on this platform; the proposalpages probe remains refused. Every figure in the body is labelled in prose as platform-wide across 21 page types or as the named template's own number.",
+        "The pricing block in content/facts.md is empty for a fourth batch. No price, free tier or paid tier is stated or implied anywhere on the page.",
+        "Phase 1 is one WebSearch of the exact keyword on 2026-09-24, and no ranking page was fetched, because every result is a competitor under references/competitors.md. The post therefore describes no competitor page, claims no position, and makes no statement about what other pages do or do not contain. The single SERP observation recorded - a result title rendering \"Propose Day\" as ਪ੍ਰਸਤਾਵਿਤ ਦਿਨ - is in the research brief, not the post.",
+        "This post prints NO Punjabi-speaker population figure. censusindia.gov.in was unreachable from this machine, and no other source I fetched states one with a date.",
+        "Four sources, not five or six. Named and rejected: the SSAHO 2026 Gurmukhi bitext-corpus paper (ScienceDirect 403, no Crossref abstract, nothing readable); an SSRN Shahmukhi deep-learning preprint (403); the JALS Shahmukhi digital-vitality paper (venue rejected - jals.miard.org is not DOAJ-listed and charges publication fees); a Toronto Metropolitan University thesis on the Punjabi diaspora (read the abstract, off-lane); a Frontiers family-language-policy paper (Europe PMC 403, and fails the subject test).",
+        "No open-access, fetchable acoustic study of Punjabi tone was found. Searched via findpapers.mjs: \"Punjabi tone phonology study\", \"Punjabi tonogenesis murmured consonants acoustic\", \"Punjabi lexical tone acoustic analysis production perception\", \"Punjabi tonal language Indo-Aryan tone contrast\", \"Gurmukhi orthography tone representation Punjabi reading\", plus the full Journal of South Asian Linguistics archive including its Vol. 10 prosody special issue. The tone section therefore says no more than the ACL 2022 paper and the Unicode chapter say.",
+        "The PLOS ONE citation rests on the abstract and article metadata; the full text was not read.",
+        "Sibling /blog/ slugs from waves 1-3 are not TEMPLATE_LINKS entries and 404 until those waves publish, so no sibling post is linked from the body."
+      ]
+    },
+    "generatedAt": "2026-09-24T07:54:52.405Z"
+  }
+}

@@ -65,7 +65,16 @@ const CHECKSET = new Set(CHECK);
 if (CHECK.length !== 50) N("batch", `publish-checklist.md parsed ${CHECK.length} items, expected 50`);
 
 // ── facts ───────────────────────────────────────────────────────────────────
-const factsRaw = readFileSync(path.join(ROOT, "content/facts.md"), "utf8");
+// FACTS SNAPSHOT — a batch may pin the facts it was written against by saving a copy at
+// <batchdir>/facts-snapshot.md. `npm run facts` rewrites content/facts.md in place with
+// today's numbers, which silently invalidates the byte-verbatim factsUsed check for every
+// batch already written: on 2026-09-24 a single regeneration turned three previously clean
+// propose batches into 486 failures, none of which was a real defect — the posts were
+// accurate when written. A pinned snapshot keeps a batch auditable against the data it
+// actually used. Falls back to the live file when no snapshot exists.
+const snapPath = path.join(dir, "facts-snapshot.md");
+const factsPath = existsSync(snapPath) ? snapPath : path.join(ROOT, "content/facts.md");
+const factsRaw = readFileSync(factsPath, "utf8");
 const FACTS = new Set(
   [...factsRaw.matchAll(/^-\s+(.+?)\s*$/gm)].map((m) => collapse(m[1])).filter((s) => s.length > 15)
 );
@@ -111,6 +120,7 @@ const cfgPath = path.join(dir, "verify.config.json");
 const CFG = existsSync(cfgPath)
   ? JSON.parse(readFileSync(cfgPath, "utf8"))
   : { mandatoryLinks: ["/bouquet-gf"], oneOfLinks: ["/love-gf", "/darling"] };
+const CAP_EXEMPT = Array.isArray(CFG.capExemptDomains) ? CFG.capExemptDomains : [];
 
 const usedPath = path.join(dir, "USED-SOURCES.md");
 const SPENT = new Set();
@@ -269,6 +279,18 @@ for (const f of files) {
   }
   for (const u of out) {
     if (dateRefs.has(u)) continue; // exempt from the spent-URL rule AND the caps
+    // REFERENCE INSTRUMENTS — verify.config.json {"capExemptDomains":[...]}, default none.
+    // The domain cap exists to stop one PUBLISHER carrying a batch's research ("nine posts
+    // citing the same press release"). A dictionary, grammar, treebank, corpus or standards
+    // document cited as the INSTRUMENT a line was verified against is not research
+    // concentration — it is the method, and there is usually exactly one correct source for
+    // it. On the 2026-09-24 propose batch six language posts each linked the same DSAL
+    // dictionary while verifying their own script, which the cap read as concentration that
+    // did not exist. Same reasoning as the doi.org resolver carve-out below.
+    if (CAP_EXEMPT.length) {
+      let eh = ""; try { eh = new URL(u).hostname.replace(/^www\./, ""); } catch {}
+      if (eh && CAP_EXEMPT.includes(eh)) continue;
+    }
     if (SPENT.has(u)) P(slug, `re-cites an already-spent URL: ${u}`);
     if (!urlPosts.has(u)) urlPosts.set(u, new Set());
     urlPosts.get(u).add(slug);

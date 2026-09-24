@@ -1,0 +1,362 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Wishes in Urdu, Checked Against the Dictionary",
+    "slug": "propose-day-wishes-in-urdu",
+    "excerpt": "Ten Propose Day wishes and messages in Urdu, each checked word by word against Platts' dictionary and the 138,077-token UD Urdu treebank, with Roman transliteration, English gloss and the tum or aap register marked. Seven drafted lines were cut; every cut is listed with its reason.",
+    "metaTitle": "Propose Day Wishes in Urdu — 10 Dictionary-Checked Lines",
+    "metaDescription": "Propose Day wishes in Urdu: 10 lines checked word by word against Platts' dictionary and a 138,077-token treebank, each with Roman, English and register.",
+    "keywords": "propose day wishes in urdu, propose message in urdu, propose day wishes urdu, urdu propose lines, propose day 2027",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-wishes-in-urdu",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "urdu",
+      "valentine week",
+      "wishes",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 is Monday 8 February; Rose Day is Sunday 7 and Valentine's Day Sunday 14, so Valentine week runs eight dated days.",
+      "Ten Urdu lines here were checked against Platts' dictionary and the 138,077-token UD Urdu treebank; seven drafted lines were cut, one because its verb appears in the corpus only as a person's name.",
+      "Urdu usually leaves short vowels unwritten, so every line carries a Roman transliteration: one spelling can be read in two, three or four ways.",
+      "Use tum with a partner and aap with anyone else. The written form of tu appears 262 times in the treebank, but only 24 of those are the pronoun.",
+      "SubhSandesh's templates are English and left-to-right: 5,148 pages created across 21 page types, 38.5% password-protected, and none of them set Urdu in Nastaliq."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day in 2027?",
+        "answer": "Propose Day 2027 is Monday 8 February. Rose Day falls on Sunday 7 February and Valentine's Day on Sunday 14 February, so Propose Day lands on a working Monday rather than a weekend."
+      },
+      {
+        "question": "Is Urdu a different language from Hindi, or the same one?",
+        "answer": "At the everyday conversational layer they are one language written in two scripts. Bhatt's 2018 paper argues different scripts alone do not make two languages; the real divergence is in high-register vocabulary, where Hindi draws on Sanskrit and Urdu on Persian and Arabic."
+      },
+      {
+        "question": "My girlfriend speaks Urdu but cannot read the script. Should I still send it?",
+        "answer": "Send the Urdu line with the Roman transliteration underneath, exactly as they are laid out on this page. Plenty of fluent Urdu speakers in India never learned Nastaliq, and the Roman line means the message lands either way."
+      },
+      {
+        "question": "Which pronoun is safe if we normally text in Hinglish?",
+        "answer": "Use tum. It is the grade most Indian couples in their twenties use with each other, and every tum-grade line here was checked against the treebank for the right verb ending. Save aap for an early-stage ask or an older recipient."
+      },
+      {
+        "question": "Can I just use a couplet by Faiz or Jaun Elia instead?",
+        "answer": "No. Those poets are recent enough that their work is still under copyright, so their lines are not reproduced here. Every Urdu line on this page is original and verified word by word against Platts' dictionary."
+      },
+      {
+        "question": "Why did the full stop jump to the wrong side of my sentence?",
+        "answer": "That is bidirectional text behaving as specified. Unicode Standard Annex #9 says characters are stored in logical order and only the display is affected, so neutral punctuation beside an Urdu phrase can land on the opposite side. Keep the Urdu on a line of its own with Urdu punctuation."
+      },
+      {
+        "question": "Is a propose message in Urdu different from a propose day wish?",
+        "answer": "Slightly. A message is what you actually send to one person and usually carries an ask; a wish is shorter and can be a greeting for the day itself. Lines 1 to 9 here work as messages, and line 10 is the greeting."
+      },
+      {
+        "question": "Do I need to write the zer, pesh and zabar marks?",
+        "answer": "Ordinary written Urdu leaves them out, and so do the lines here. That is exactly why the transliteration matters: without the marks a word can be read in two, three or four ways and only context decides."
+      },
+      {
+        "question": "How do I type Urdu on an Indian phone?",
+        "answer": "Add Urdu as a keyboard language in your phone's settings, then switch to it in any messaging app. Typing it yourself usually renders better than pasting it into a web form, because your keyboard app already handles right-to-left layout."
+      },
+      {
+        "question": "Can I say these lines out loud instead of sending them?",
+        "answer": "Yes, and for someone who does not read the script it is often better. A spoken line carries the short vowels that the writing leaves out, which removes the ambiguity the transliteration exists to fix."
+      },
+      {
+        "question": "What should I send if I am proposing to someone older, or the family will read it?",
+        "answer": "Use the aap-grade lines, 8 and 9. Platts glosses aap as a reverential pronoun, 'You, Sir', and 26 of its 69 pronoun tokens in the UD Urdu treebank are explicitly tagged as the polite form."
+      }
+    ],
+    "coverImageQuery": "urdu calligraphy handwritten note paper",
+    "coverImagePrompt": "A close, photorealistic shot of a handwritten note in flowing Urdu Nastaliq calligraphy on warm cream paper, a fountain pen resting beside it, soft window light from the left. Shallow depth of field with clean negative space along the top third for a title overlay, 16:9. No legible English text, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Wishes in Urdu, Checked Against the Dictionary\n\nPropose Day wishes in Urdu are easy to find and hard to trust. Propose Day 2027 falls on **Monday 8 February**, a working day, and the ten lines below were each checked word by word against Platts' *Dictionary of Urdu, Classical Hindi and English* and the Universal Dependencies Urdu treebank before being published. Seventeen were drafted and seven cut, each with its reason.\n\nOn the tool side, SubhSandesh has 5,148 personalised pages created since 2026-03-12 across 21 page types, and 38.5% of creators password-protect a page before sharing it (1,983 of 5,148) — both platform-wide across all 21 page types, not proposal-page figures, because no proposal-specific data exists here. Every line carries a Roman transliteration, an English gloss and a register mark.\n\n## What a Propose Day wish in Urdu is, and why it needs a Roman line\n\nA Propose Day wish in Urdu is a short spoken line in the Perso-Arabic script, read right to left and set in Nastaʿlīq rather than the Naskh used for Arabic. It is not a translated Hindi wish, and not a ghazal couplet, which is a different artefact.\n\nAt the everyday conversational layer, Hindi and Urdu are one language written two ways. Sunil Kumar Bhatt's 2018 paper argues that [different scripts are not a sufficient basis for calling something two languages](https://e-flt.nus.edu.sg/v15s12018/bhatt.pdf), citing Serbian in Cyrillic and Latin.\n\nGrammarians agree: Peter Hook's 2026 paper in *Bhasha* describes a verb alternation as [a feature of \"Hindi-Urdu\" grammar](https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2026/1/toggling-signifiers-rising-and-falling-linked-verb/), one system. They diverge in the high register: Hindi draws on Sanskrit, Urdu on Persian and Arabic. Romantic Urdu sits on that seam.\n\nThe script is the other half. Urdu usually does not write its short vowels, so one spelling serves both *is* (\"this\") and *us* (\"that\"), and Bhatt's consequence is that such a word can be read in two, three or four ways.\n\nMany Indians also speak Urdu fluently without reading Nastaʿlīq: he records that most university Hindi-Urdu programmes teach Devanagari first and reach the Urdu script only around week six or seven. A proposal is the wrong place to make someone guess.\n\n## How each line on this page was verified\n\nTwo instruments, applied to every content word and inflected form. Platts' *[Dictionary of Urdu, Classical Hindi, and English](https://dsal.uchicago.edu/dictionaries/platts/)* at the Digital Dictionaries of South Asia, University of Chicago, for headwords and attested senses. Then the Universal Dependencies Urdu treebank UD_Urdu-UDTB — 5,130 sentences, 138,077 tokens — for whether a form occurs in real text and what part of speech it carries.\n\nThe treebank is newswire, and that bites. Five ordinary Urdu words for longing, love and trust — *tamannā*, *ārzū*, *pyār*, *ulfat*, *bharosā*, all in Platts — occur **zero** times in those 138,077 tokens. A 2021 study in *Corporum* inventoried Urdu conjunct predicates from the same corpus, describing [a noun plus a light verb acting as one constituent](https://journals.au.edu.pk/ojscrc/index.php/crc/article/view/129), the frame behind *muḥabbat hai*.\n\n## 10 Propose Day wishes and messages in Urdu\n\nEach entry gives the Urdu line, its transliteration, the English sense, register and dictionary check. The Urdu sits alone with Urdu punctuation only — the one arrangement that renders reliably in mixed-direction text.\n\n### 1. The plain one\n\nتم سے محبت ہے، اور آج کہنے کی ہمت ہوئی۔\n\n*tum se muḥabbat hai, aur āj kahne kī himmat huī*\n\n\"I love you, and today I found the courage to say it.\"\n\nRegister tum. Platts: *himmat*, \"resolution… courage\". For someone you talk to daily.\n\n### 2. The direct ask\n\nکیا تم میرے ساتھ رہو گی؟\n\n*kyā tum mere sāth raho gī?*\n\n\"Will you stay with me?\"\n\nRegister tum, to a woman; a man takes *raho ge*. Platts: *rahnā*, \"to remain, abide… continue\".\n\n### 3. The one that names what it is\n\nیہ دل کی بات ہے۔\n\n*yih dil kī bāt hai*\n\n\"This is a matter of the heart.\"\n\nRegister neutral. Platts lists *bāt* as \"saying… matter… proposal, aim\" — the noun already carries it.\n\n### 4. The consent line\n\nتمہاری مرضی سب سے پہلے ہے۔\n\n*tumhārī marzī sab se pahle hai*\n\n\"Your wish comes before everything.\"\n\nRegister tum. Platts: *marzī*, \"assent, consent; choice; will\" — the ordinary word for consent.\n\n### 5. The one that removes the deadline\n\nجواب کے لیے وقت لو۔\n\n*javāb ke liye waqt lo*\n\n\"Take your time over the answer.\"\n\nRegister tum. The imperative *lo* is one of only 20 imperatives in the treebank, tagged Polite=Infm — tum grade.\n\n### 6. The one that accepts a no\n\nجواب کچھ بھی ہو، مجھے منظور ہے۔\n\n*javāb kuchh bhī ho, mujhe manzūr hai*\n\n\"Whatever the answer is, I accept it.\"\n\nRegister tum-neutral. Platts: *manzūr*, \"approved of, admitted, accepted\". For proposing to a friend.\n\n### 7. The blessing, when you are not asking\n\nخدا کرے تم ہمیشہ خوش رہو۔\n\n*khudā kare tum hamesha khush raho*\n\n\"May you always be happy.\"\n\nRegister tum. Platts: *khush*, \"cheerful, glad, happy… content\". For Propose Day when you have decided not to propose.\n\n### 8. The respectful opener\n\nآپ سے ایک بات کرنی ہے، اگر اجازت ہو۔\n\n*āp se ek bāt karnī hai, agar ijāzat ho*\n\n\"There is something I want to say to you, if I may.\"\n\nRegister āp. Platts: *ijāzat*, \"permission, liberty, leave… sanction\". For an early-stage or formal ask.\n\n### 9. The āp-grade commitment\n\nمجھے آپ کا ساتھ ہمیشہ کے لیے چاہیے۔\n\n*mujhe āp kā sāth hamesha ke liye chāhiye*\n\n\"I want your companionship, always.\"\n\nRegister āp. Platts: *sāth*, \"company, society… together\"; *chāhiye* runs to 71 treebank tokens.\n\n### 10. The greeting\n\nآج کا دن مبارک ہو۔\n\n*āj kā din mubārak ho*\n\n\"May today be blessed for you.\"\n\nRegister neutral. Platts: *mubārak*, \"blessed; happy, auspicious\". Caution: 15 of its 20 treebank tokens are the proper noun Mubarak, so frequency misleads.\n\nTo send a line as more than a grey chat bubble, an [\"I love you\" page for a partner](/love-gf) holds a message and photo behind one link — third most-created here at 1,178 pages, 22.9% platform-wide, and most-viewed at 16,998 views. In Indian usage \"propose\" usually means asking someone to be your girlfriend, which fits most of this traffic; for the marriage ask, the [proposal scrapbook page](/proposal) is built around the question itself.\n\n## Tū, tum or āp — the register choice that matters most\n\nUrdu has three second-person pronouns, and choosing wrong is the most visible mistake a non-native writer makes. Every line above uses tum or āp.\n\nPlatts' entry for *tū* is unusually explicit: \"Thou (used to imply depreciation or contempt; or by way of familiarity, or endearment; or, in addressing the Deity, to imply extreme reverence).\" Contempt and endearment share one headword, and the reader decides which you meant.\n\nThe treebank shows why frequency lists mislead. The written form of *tū* appears 262 times, but only **24** are tagged a pronoun: 197 are a conjunction and 39 a particle, both roughly \"then\".\n\nPlatts labels *āp* \"pron. rever.\", and 26 of its 69 pronoun tokens are tagged Polite=Form.\n\nThe three forms, written:\n\nتو\n\nتم\n\nآپ\n\n| Pronoun | Platts sense | UD treebank pronoun tokens | Use for a proposal? |\n|---|---|---|---|\n| tū | familiarity, endearment or contempt | 24 of 262 total | No |\n| tum | 2nd person, plural form | 11 | Yes, default for a partner |\n| āp | reverential, \"You, Sir\" | 69, of which 26 Polite=Form | Yes, for an early or formal ask |\n\nOrnate is the other half. Harish Trivedi's 2017 study of Premchand — who founded the modern novel in both languages, publishing in Urdu from 1903 — records that he once wrote [a deliberately Persianised speech](https://revistaabralic.com.br/index.php/revista/article/view/379/628) for an audience he assumed was highly literate, and that one listener \"quaked before such heavy literary artillery\". If that register stopped a native speaker in 1936, it can lose a reader on WhatsApp in 2027.\n\n## What was cut, and why\n\nSeven drafted lines did not make it. Roman only, so a rejected line cannot be copied by accident.\n\n*kyā tum merī bano gī?* — *bano* occurs once, tagged a proper noun; the verb is unattested.\n\n*kyā tum merā sāth do gī?* — *do* occurs 142 times, 139 as the numeral \"two\", with zero verb tokens.\n\n*hāṅ yā nah, donoṅ qabūl haiṅ* — all three tokens of *hāṅ* are tagged a postposition, never the interjection \"yes\".\n\n*chalo, sāth chalte haiṅ* — *chalo* occurs once, tagged an interjection, not a verb.\n\n*tumhāre baghair din pūrā nahīṅ hotā* — 39 treebank tokens, but Platts returned no headword for *baghair*.\n\n*yih bāt bahut pahle kahnī thī* — *kahnī* occurs once, tagged a noun, and it also means \"elbow\".\n\n*har din tumhāre nām hai* — passed both instruments, cut on editorial grounds: it reads as an English greeting-card line put into Urdu.\n\nThe group built on *tamannā*, *ārzū*, *pyār*, *ulfat* and *bharosā* went for the reason above.\n\n## Where an Urdu line breaks on a web page\n\nUrdu is right-to-left and most template tools are not. The [Unicode Bidirectional Algorithm](https://www.unicode.org/reports/tr9/tr9-52.html), Unicode Standard Annex #9, revision 52 of 1 September 2026, states that bidirectional characters are interpreted in logical order and only the display is affected, and that implicit ordering is sometimes \"not sufficient to produce comprehensible text\". A full stop, bracket or Roman word beside an Urdu phrase can land on the side you did not intend, which is why every line here sits alone.\n\nThis is where SubhSandesh loses. The proposal scrapbook and the \"I love you\" page are English-language and left-to-right.\n\nAn Urdu line pasted into a field will store, but layout, buttons and copy stay English and LTR, and nothing sets your line in Nastaʿlīq. An Urdu reader gets your words, not an Urdu page.\n\nIf they read the script, their own keyboard app beats any template here; if they speak Urdu but cannot read it, the [voice dedication page](/dedication) fits better, because a recording carries the short vowels the writing leaves out.\n\nOne last limit: the median gap from a page's first save to its last edit is 2.2 hours, sampled on the apology dashboard, n=1,375, and 90.9% of started pages are published and shared (4,679 of 5,148) — both platform-wide across 21 page types. A same-evening habit, and 8 February 2027 is a Monday, so the Sunday before is the realistic window.\n\n## Sources\n\n- Bhatt, \"Teaching Hindi and Urdu as Hindi-Urdu\", *Electronic Journal of Foreign Language Teaching*, September 2018.\n- Trivedi, \"The Urdu Premchand and the Hindi Premchand\", *Revista Brasileira de Literatura Comparada*, 2017.\n- Hook, \"Toggling Signifiers\", *Bhasha*, Edizioni Ca' Foscari, 2026.\n- \"Urdu Conjunct Predicates from Urdu Universal Dependency Corpus\", *Corporum*, 2021 — abstract read, full text not retrieved.\n- Reference instruments, not research sources: *Unicode Standard Annex #9*, Unicode 18.0.0, revision 52, 1 September 2026; Platts' dictionary; and the UD_Urdu-UDTB treebank.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-wishes-in-urdu#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Urdu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Urdu",
+              "https://www.wikidata.org/wiki/Q1617"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Hindustani language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hindustani_language",
+              "https://www.wikidata.org/wiki/Q11051"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nastaliq",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nastaliq",
+              "https://www.wikidata.org/wiki/Q1133121"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Premchand",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Premchand",
+              "https://www.wikidata.org/wiki/Q174152"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valentine's Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+              "https://www.wikidata.org/wiki/Q37587"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Teaching Hindi and Urdu as Hindi-Urdu",
+            "url": "https://e-flt.nus.edu.sg/v15s12018/bhatt.pdf",
+            "datePublished": "2018-09-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Centre for Language Studies, National University of Singapore"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The Urdu Premchand and the Hindi Premchand",
+            "url": "https://revistaabralic.com.br/index.php/revista/article/view/379/628",
+            "datePublished": "2017-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Revista Brasileira de Literatura Comparada"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Toggling Signifiers: Rising and Falling Linked Verb Pairs in Hindi-Urdu",
+            "url": "https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2026/1/toggling-signifiers-rising-and-falling-linked-verb/",
+            "datePublished": "2026-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Edizioni Ca' Foscari"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Urdu Conjunct Predicates (N+V) Inventory from Urdu Universal Dependency Corpus",
+            "url": "https://journals.au.edu.pk/ojscrc/index.php/crc/article/view/129",
+            "datePublished": "2021-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Corporum: Journal of Corpus Linguistics"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "10 Propose Day wishes and messages in Urdu",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The plain one",
+            "description": "tum se muhabbat hai, aur aaj kahne ki himmat hui — 'I love you, and today I found the courage to say it.' Register tum."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The direct ask",
+            "description": "kya tum mere sath raho gi? — 'Will you stay with me?' Register tum; a man takes raho ge."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The one that names what it is",
+            "description": "yih dil ki bat hai — 'This is a matter of the heart.' Register neutral; Platts glosses bat as including 'proposal'."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The consent line",
+            "description": "tumhari marzi sab se pahle hai — 'Your wish comes before everything.' Register tum; marzi is the ordinary word for consent."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "The one that removes the deadline",
+            "description": "javab ke liye waqt lo — 'Take your time over the answer.' Register tum; lo is tagged Polite=Infm in the treebank."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "The one that accepts a no",
+            "description": "javab kuchh bhi ho, mujhe manzur hai — 'Whatever the answer is, I accept it.' Register tum-neutral."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "The blessing, when you are not asking",
+            "description": "khuda kare tum hamesha khush raho — 'May you always be happy.' Register tum; for when you have decided not to propose."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "The respectful opener",
+            "description": "aap se ek bat karni hai, agar ijazat ho — 'There is something I want to say to you, if I may.' Register aap."
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "The āp-grade commitment",
+            "description": "mujhe aap ka sath hamesha ke liye chahiye — 'I want your companionship, always.' Register aap; for a marriage ask."
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "The greeting",
+            "description": "aaj ka din mubarak ho — 'May today be blessed for you.' Register neutral; the Propose Day greeting itself."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day wishes in urdu",
+    "angle": "Wins by being the only post on this SERP that verifies each Urdu line against two named instruments — Platts' dictionary for the headword and the 138,077-token UD Urdu treebank for the written form — publishes the ledger of seven cuts with the token counts that caused them, and pairs that with SubhSandesh's platform-wide figures (5,148 pages across 21 page types, 38.5% password-protected).",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/dedication"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (1,983 of 5,148) — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,178 created, 22.9% of all pages — measured 2026-09-24",
+      "Most-viewed template: love-gf — 16,998 views, 29.9% of all page views — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,679 of 5,148) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.2 hours — sampled on apology dashboard (/apology-dashboard), n=1,375 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://e-flt.nus.edu.sg/v15s12018/bhatt.pdf",
+        "stat": "Peer-reviewed open-access paper (Electronic Journal of Foreign Language Teaching, Centre for Language Studies, NUS). States that different scripts are not a sufficient basis for classifying a language as two languages, citing Serbian in Cyrillic and Latin; that short vowels in Urdu are rarely written, so one spelling serves both 'is' and 'us' and a word can be read in two, three or four ways with only context deciding; that Hindi draws high-register vocabulary from Sanskrit and Urdu from Persian and Arabic while pronouns, postpositions and verbs stay highly similar; and that an overwhelming majority of North American Hindi-Urdu programmes teach Devanagari first, introducing Nastaliq around week six or seven. Full text read.",
+        "publishedDate": "2018-09-01"
+      },
+      {
+        "url": "https://revistaabralic.com.br/index.php/revista/article/view/379/628",
+        "stat": "Harish Trivedi, University of Delhi, in Revista Brasileira de Literatura Comparada (CC BY 4.0). States that Premchand (1880-1936) founded and consolidated the modern novel in both Urdu and Hindi, publishing novels and short stories in Urdu from 1903; and records that late in his career he wrote a remarkably Persianised speech on the assumption his audience would be highly literate, and that one prospective listener 'quaked before such heavy literary artillery' at a preview. Full text read.",
+        "publishedDate": "2017-01-01"
+      },
+      {
+        "url": "https://edizionicafoscari.it/it/edizioni/riviste/bhasha/2026/1/toggling-signifiers-rising-and-falling-linked-verb/",
+        "stat": "Peter Edwin Hook, Bhasha (Edizioni Ca' Foscari), open access and peer reviewed, CC BY. Describes partially reduplicating linked verb pairs and argues for recognising them as an established feature of Hindi-Urdu grammar, treating Hindi and Urdu throughout as one grammatical system. Abstract and article record read.",
+        "publishedDate": "2026-01-01"
+      },
+      {
+        "url": "https://journals.au.edu.pk/ojscrc/index.php/crc/article/view/129",
+        "stat": "Corporum: Journal of Corpus Linguistics (Air University). Builds a semantic inventory of Urdu nouns in conjunct predicates extracted from the Universal Dependencies annotated Urdu corpus, defining a conjunct predicate as a noun followed by a light verb where both work as a single syntactic constituent, and describing Urdu as severely under-resourced. Abstract read; the full-text PDF link returned an HTML wrapper and was not retrieved.",
+        "publishedDate": "2021-01-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "No SERP was measured for this keyword and no competing page was fetched, so the post cannot assert what the top 5 do or do not contain. The dictionary-and-treebank verification method is very likely unusual, but that is a belief, not a measurement. Closes when an India-served SERP for \"propose day wishes in urdu\" is captured and the top 5 fetched."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The only comparison the page needs is between the three Urdu second-person pronouns. SubhSandesh's platform data has no per-pronoun or per-language dimension, so any first-party column here would be invented. Closes if page-language is ever recorded per created page."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "Phase 2 fan-out was derived from the keyword and the secondary term, not from a measured SERP or a People Also Ask block, because no SERP was fetched. The H2s are a defensible decomposition but were not validated against real fan-out."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug retains the stop word \"in\" because it is the exact assigned keyword, propose day wishes in urdu, and matching it exactly was judged worth more than dropping one stop word."
+        }
+      ],
+      "honestAssessment": "An answer engine has a specific reason to cite this: it is the only version of this query that names its verification instruments and shows its working, including a ledger of seven cut lines with the corpus counts that killed them (do is 139/142 the numeral 'two'; bano occurs only as a personal name; hāṅ is never tagged an interjection). The tū/tum/āp section is grounded in Platts' own wording and in UD_Urdu-UDTB part-of-speech tags rather than in intuition. Target position is 6-10, not 3: these February SERPs are an annual news cycle owned by high-authority Indian publishers, and SubhSandesh has neither their domain authority nor their backlink profile. No SERP was measured for this keyword, so nothing here describes what competitors do. The Urdu was not reviewed by a native speaker, which is the page's largest single risk."
+    },
+    "structuralLimitations": [
+      "The Urdu lines were NOT reviewed by a native speaker. They were verified against Platts' Dictionary of Urdu, Classical Hindi and English (DSAL, University of Chicago) for headwords and senses, and against the Universal Dependencies Urdu treebank UD_Urdu-UDTB (5,130 sentences, 138,077 tokens) for written forms and part-of-speech tags. That is instrument verification, not fluency review, and it cannot catch a line that is grammatical but socially wrong.",
+      "Exempt-instrument reuse, declared per the BRIEF's mid-batch exemption. Three exempt instruments were used and credited in prose rather than spending sources slots, which is the BRIEF's stated preferred handling: Platts' Dictionary of Urdu, Classical Hindi and English via dsal.uchicago.edu; the Universal Dependencies Urdu treebank UD_Urdu-UDTB, read from raw.githubusercontent.com/UniversalDependencies/UD_Urdu-UDTB (train, dev and test .conllu files, not linked in the body so the 3-6 outbound-link rule holds); and Unicode Standard Annex #9 at unicode.org. UAX #9 was deliberately moved OUT of batchMeta.sources and citation because capcheck.mjs showed unicode.org already at the 3-post domain cap in this batch (propose-day-quotes-in-punjabi and propose-day-quotes-in-gujarati). It is still linked and quoted in the body, where it is labelled a standards document.",
+      "Phase 1 was not run. No SERP was fetched or measured for 'propose day wishes in urdu', and no competing page was read. Nothing in the post describes what any competitor does, and the audit records the two checklist items that depend on a measured SERP as failed rather than passed. Zero WebSearch calls were spent.",
+      "No proposal-specific first-party data exists: the proposalpages probe is still refused by this machine's production-read policy. Every figure in the body is labelled platform-wide across 21 page types, or sampled on the named template (/apology-dashboard, n=1,375).",
+      "The pricing block in content/facts.md is empty, so the post states no price, no free tier and no paid tier.",
+      "The UD Urdu treebank is newswire. It cannot attest romantic-register vocabulary at all: tamannā, ārzū, pyār, ulfat and bharosā return zero tokens across 138,077. Corpus absence there is evidence about the corpus, not proof that a word is wrong, and the post says so.",
+      "Right-to-left rendering was handled by keeping every Urdu string alone on its own line with Urdu punctuation only (، ۔ ؟) and never adjacent to Latin letters, asterisks, brackets or quotes. The comparison table uses Roman transliterations for the same reason. A programmatic check confirms no line in contentMarkdown mixes Urdu characters with Latin characters or punctuation.",
+      "One cut line, har din tumhāre nām hai, passed both instruments and was removed on editorial grounds rather than verification grounds. This is stated in the body so the ledger is not misread as purely mechanical.",
+      "The sibling post propose-girlfriend-shayari (batch 2026-09-17-propose-30) owns the ghazal-form lane — sher, matla, qafiya, radif — and its five sources are not reused here. This post does not explain the ghazal form; it names it once to say a wish is a different artefact.",
+      "The Corporum article's full-text PDF link returned an HTML wrapper rather than the PDF, so only its abstract was read; this is recorded in the body sources list and in batchMeta.sources."
+    ],
+    "generatedAt": "2026-09-24T08:15:05.997Z"
+  }
+}
