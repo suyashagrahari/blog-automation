@@ -1,0 +1,502 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Day Wishes in Assamese: 11 Lines I Could Verify",
+    "slug": "propose-day-wishes-in-assamese",
+    "excerpt": "11 Propose Day wishes in Assamese, each with Roman transliteration and an English gloss, and each checked against a 1962 Assamese dictionary, a 14,805-sentence corpus and the UD Assamese treebank. Propose Day 2027 is Monday 8 February.",
+    "metaTitle": "Propose Day Wishes in Assamese — 11 Verified Lines",
+    "metaDescription": "Propose day wishes in Assamese: 11 lines in অসমীয়া script with Roman and English, each checked against a 1962 dictionary and a 14,805-sentence corpus.",
+    "keywords": "propose day wishes assamese, propose day wishes in assamese, assamese propose day lines, i love you in assamese, assamese proposal message",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-day-wishes-in-assamese",
+    "ogType": "article",
+    "tags": [
+      "propose day",
+      "assamese",
+      "valentine week",
+      "proposal",
+      "indian languages"
+    ],
+    "keyTakeaways": [
+      "Propose Day 2027 is Monday 8 February; Rose Day is Sunday 7 February and Valentine's Day Sunday 14 February.",
+      "11 lines published from 16 drafted — the five cuts, and the reason each failed verification, are listed on the page.",
+      "Assamese writes ra as ৰ (U+09F0, aliased 'Assamese letter ra' in the Unicode Character Database 18.0.0), not the Bengali র (U+09B0); all 11 lines scan to zero occurrences of U+09B0.",
+      "Assamese has 32.6 million tokens in AI4Bharat's IndicCorp against Hindi's 1,860 million, and Google's cld3 does not detect the language at all — which is why autocorrect fails it.",
+      "48.3% of SubhSandesh's 56,886 recorded views open on a phone, platform-wide across 21 page types, measured 2026-09-24."
+    ],
+    "faqs": [
+      {
+        "question": "When is Propose Day 2027?",
+        "answer": "Propose Day 2027 is Monday 8 February. Rose Day falls on Sunday 7 February and Valentine's Day on Sunday 14 February, so Valentine week 2027 runs across eight dated days and Propose Day lands on a working Monday."
+      },
+      {
+        "question": "Is Assamese just a dialect of Bengali?",
+        "answer": "No. Assamese and Bengali are separate Indo-Aryan languages that share a script and a root. Archita Bhattacharyya's 2020 comparative analysis in Space and Culture, India puts their pronominals side by side — Assamese moi etiyao against Bengali ami ekhono, Assamese iyat against Bengali ekhane."
+      },
+      {
+        "question": "Should I use তই, তুমি or আপুনি when I propose?",
+        "answer": "তুমি is the safe default for someone your own age you already talk to. আপুনি suits someone older or someone you do not know well yet, and on a first ask it reads as respect. তই is only for people you grew up with."
+      },
+      {
+        "question": "How do you say I love you in Assamese?",
+        "answer": "মই তোমাক ভাল পাওঁ (moi tumak bhal pao) in the তুমি register. The honorific is মই আপোনাক ভাল পাওঁ and the intimate is মই তোক ভাল পাওঁ; only the object pronoun changes."
+      },
+      {
+        "question": "What is the difference between ৰ and র?",
+        "answer": "ৰ is U+09F0, which the Unicode Character Database 18.0.0 lists with the alias 'Assamese letter ra'. র is U+09B0, the Bengali ra. Assamese writing uses ৰ, so a র in the middle of an Assamese sentence usually means a Bengali keyboard produced it."
+      },
+      {
+        "question": "What is ৱ and why does it matter?",
+        "answer": "ৱ is U+09F1, aliased in the Unicode database as 'Assamese letter wa'. It is how Assamese writes words such as জীৱন and পোৱা. The 1962 Candrakanta Abhidhana headwords those same words with ব, which is one reason spellings drift online."
+      },
+      {
+        "question": "Can I use Google Translate for an Assamese proposal line?",
+        "answer": "It is the wrong tool for this. Assamese sits in class 2 of Joshi's six-class taxonomy where Hindi and Bengali sit at class 5, and Google's cld3 language identifier does not detect Assamese at all. The mistakes it makes are invisible unless you can read the result."
+      },
+      {
+        "question": "Should I send Assamese script or Roman letters?",
+        "answer": "Send the script if you typed it yourself on an Assamese keyboard, because Roman loses the ৰ and ৱ distinction entirely. If you are not sure her phone has an Assamese font, send both: script first, Roman underneath."
+      },
+      {
+        "question": "Will Assamese text show up correctly on her phone?",
+        "answer": "Usually yes, because Assamese uses the same Unicode block as Bengali and most phones ship that font. The real risk is not rendering but what you typed: a Bengali keyboard substitutes র for ৰ and the sentence quietly stops being Assamese."
+      },
+      {
+        "question": "Why are there only 11 lines here and not fifty?",
+        "answer": "Because I could only verify 11. I drafted 16 and cut five that no dictionary, corpus or treebank I had could confirm — the reasons for each cut are listed on the page. A wrong line in a proposal is worse than no line."
+      },
+      {
+        "question": "What should I do if she does not reply?",
+        "answer": "Nothing. Ask once and stop; the absence of a reply is the reply. Repeated messages after silence stop being romance, and no wording on this page changes that."
+      },
+      {
+        "question": "Does SubhSandesh have Assamese-language templates?",
+        "answer": "No. The templates, including the proposal scrapbook and the 'I love you' page, are English-language: you get the design, the animation and the shareable link, and you paste your own Assamese line into the message. There is no Assamese interface and no Assamese help text."
+      }
+    ],
+    "coverImageQuery": "assamese script handwriting notebook red rose",
+    "coverImagePrompt": "A close, warm photograph of a young Indian woman's hands holding a phone showing a short message in Assamese script, a single red rose resting on the table beside it. Soft natural window light, shallow depth of field, muted browns and deep red, clean negative space along the top third for a title overlay, 16:9. No readable text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Day Wishes in Assamese: 11 Lines I Could Verify\n\nPropose Day wishes in Assamese are what this page gives you: 11 lines, each in অসমীয়া script with a Roman reading, an English gloss, and the instrument I checked it against. Propose Day 2027 falls on Monday 8 February.\n\nI drafted 16 and published 11; the five that failed verification are listed below with the reason.\n\nTwo figures for scale, measured 2026-09-24 and both platform-wide across all 21 SubhSandesh page types: 5,148 personalised pages created since 2026-03-12, and 48.3% of the 56,886 recorded views opened on a phone — the screen your Assamese has to render on. Below: the তই / তুমি / আপুনি register decision, the lines, and how I confirmed the text is Assamese and not Bengali.\n\n## What a Propose Day wish in Assamese has to get right\n\nA Propose Day wish in Assamese is a short line sent on 8 February asking someone to be your girlfriend or boyfriend — in Indian usage that first ask, not a marriage proposal, is what \"propose\" means.\n\nValentine week 2027 runs eight dated days: Rose Day Sunday 7 February, Propose Day Monday 8 February, Valentine's Day Sunday 14 February. Monday is a working day, so the line is read between two other things.\n\nAssamese adds a requirement English does not have: you choose your \"you\" before your words, because the verb ending moves with it.\n\n## তই, তুমি or আপুনি: the register decides the verb, not just the pronoun\n\nAssamese has three second-person pronouns and they are not swappable. Seuji Sharma's study of Assamese nominal morphology in [Himalayan Linguistics 20(2)](https://escholarship.org/uc/item/2qr4s19d), Gauhati University, 2021, tabulates them with the accusative marker *-k*: তই (non-honorific) becomes তোক, তুমি (familiar) তোমাক, আপুনি (honorific) আপোনাক. First-person মই becomes মোক by the same rule.\n\nThe verb follows. In the future তুমি takes **-বা** (থাকিবা), আপুনি **-ব** (থাকিব), তই **-বি** (থাকিবি). Right pronoun with the wrong ending reads as an error, not warmth.\n\nFor this occasion: তুমি is the default for someone your own age you already talk to. আপুনি suits someone older, or someone you do not know well yet — on a first ask it reads as respect, not distance. তই belongs to people you grew up with, and lands as rude on anyone else.\n\n## 11 Propose Day wishes in Assamese, with transliteration and gloss\n\nEvery line carries four fields in order: Assamese, Roman reading, English, and where I checked it. \"Corpus\" means the Tatoeba Assamese collection, 14,805 sentences; \"dictionary\" means *Candrakanta Abhidhana*, published by Gauhati University in 1962 and digitised by the Digital Dictionaries of South Asia.\n\n### 1. মই তোমাক ভাল পাওঁ।\n\n*Moi tumak bhal pao.* — \"I love you.\" Checked: in the corpus verbatim; ভাল পা is a dictionary headword. Send it when the answer is already half yes.\n\n### 2. মই তোমাক মৰম কৰোঁ।\n\n*Moi tumak morom koro.* — \"I hold you dear.\" Checked: corpus verbatim; মৰম and কৰা are headwords. Warmer, less final than ভাল পাওঁ.\n\n### 3. তুমি মোৰ লগত নাচি ভাল পাবানে?\n\n*Tumi mor logot nasi bhal pabane?* — \"Would you like to dance with me?\" Checked: corpus verbatim. The lowest-stakes line here, and the one leaving a way back.\n\n### 4. তুমি মোৰ লগত থাকিবানে?\n\n*Tumi mor logot thakibane?* — \"Will you stay with me?\" Checked: composed from two verbatim strings, তুমি ঘৰতে থাকিবানে and মোৰ লগত, the latter in 56 sentences. The actual ask.\n\n### 5. মই তোমাৰ লগত গোটেই জীৱন থাকিব বিচাৰোঁ।\n\n*Moi tumar logot goteiy jibon thakib bisaro.* — \"I want to spend my whole life with you.\" Checked: থাকিব বিচাৰোঁ, গোটেই জীৱন and তোমাৰ লগত each appear verbatim. Too heavy for a first ask.\n\n### 6. মই তোমাৰ উত্তৰৰ বাবে ৰৈ আছোঁ।\n\n*Moi tumar uttoror babe roi aso.* — \"I am waiting for your answer.\" Checked: আপোনাৰ উত্তৰৰ বাবে ৰৈ আছোঁ is corpus verbatim; উত্তৰ and বাবে are headwords. Send once, never twice.\n\n### 7. মই আপোনাক ভাল পাওঁ।\n\n*Moi aponak bhal pao.* — \"I love you,\" honorific. Checked: মই আপোনাক বেয়া পাওঁ gives the frame; ভাল পাওঁ appears in 74 sentences. Use if আপুনি is already your register.\n\n### 8. আপুনি মোৰ লগত নাচি ভাল পাবনে?\n\n*Apuni mor logot nasi bhal pabne?* — \"Would you like to dance with me?\", honorific. Checked: corpus verbatim, beside its তুমি twin at line 3, showing the -বা / -ব contrast.\n\n### 9. মই আপোনাৰ উত্তৰৰ বাবে ৰৈ আছোঁ।\n\n*Moi aponar uttoror babe roi aso.* — \"I am waiting for your answer,\" honorific. Checked: corpus verbatim, with মই … ৰৈ আছোঁ attested separately. Waiting sounds patient, not pressing.\n\n### 10. মই তোক ভাল পাওঁ।\n\n*Moi tok bhal pao.* — \"I love you,\" intimate. Checked: মই তোক বেয়া পাওঁ gives the frame; তোক is Sharma's accusative of তই. Only for someone always called তই.\n\n### 11. তই মোৰ লগত থাকিবিনে?\n\n*Toi mor logot thakibine?* — \"Will you stay with me?\", intimate. Checked: তই ব'ষ্টনত ক'ত থাকিবি gives the -বি future, পাৰিবিনে the -বিনে question. The riskiest line here.\n\n## ৰ and ৱ: how I checked these lines are Assamese and not Bengali\n\nAssamese is a language of its own, not a Bengali variant. Archita Bhattacharyya's [comparative analysis of the two languages' pronominals](https://www.spaceandculture.in/index.php/spaceandculture/article/view/936) in *Space and Culture, India* (2020) sets the same sentences side by side — Assamese *moi etiyao* against Bengali *ami ekhono*, *iyat* against *ekhane* — and finds them rooted together but diverging in use.\n\nThey also share a Unicode block, and two letters separate them. The Unicode Character Database 18.0.0 names U+09F0 \"BENGALI LETTER RA WITH MIDDLE DIAGONAL\" and gives it the alias *Assamese letter ra* — that is ৰ. U+09F1 carries the alias *Assamese letter wa* — ৱ.\n\nBengali's own ra is U+09B0, র. A Bengali keyboard hands you র, and the sentence stops being Assamese.\n\nSo I ran a codepoint scan over all 11 lines: **zero occurrences of U+09B0**, 16 of ৰ, one of ৱ. A Bengali blocklist — আমি, আমার, তোমাকে, ভালোবাসি, করি, আছি, এখন, আপনাকে and 20 more — returned zero hits.\n\nI counted the same characters in the instruments. The 14,805-sentence corpus has 26,205 ৰ against 11 র, all 11 in Latin loanwords like প্র'চেছৰ.\n\nThe [UD_Assamese-AiW treebank](https://github.com/UniversalDependencies/UD_Assamese-AiW), 73 hand-annotated sentences, still carries six tokens with Bengali র — প্রশ্ন, দ্রাঘিমা, নির্দেশনা and three more — against 242 of ৰ. Linguists annotating by hand leak Bengali at one token in 114; your phone will do worse.\n\n## Why Assamese text is thin online, and where to send the line anyway\n\nThis is not a hunch. AI4Bharat's IndicCorp figures in [IndicNLPSuite](https://aclanthology.org/2020.findings-emnlp.445/), Findings of EMNLP 2020, put Assamese at 32.6 million tokens against Hindi's 1,860 million and Bengali's 836 million — the smallest collection in the set alongside Odia, and the language their model scored worst on.\n\nThe same group's [2023 follow-up](https://aclanthology.org/2023.acl-long.693/) places Assamese in class 2 of Joshi's six-class taxonomy, where Hindi and Bengali sit at class 5, and records that Google's cld3 identifier does not detect Assamese at all. A tool that cannot identify it cannot autocorrect it.\n\nThe drift shows up inside the instruments. The digitised *Candrakanta Abhidhana* returns no headword containing ৱ — it lists হোবা, পোবা and জীবন where current writing has হোৱা, পোৱা and জীৱন, confirmed in the corpus at 174, 170 and 70 hits against zero for the ব spellings. I followed the corpus, and flag it rather than hide it.\n\nWhere the line goes matters too. SubhSandesh's [animated \"I love you\" page](/love-gf) is the most-viewed template at 16,998 views, 29.9% of all page views measured 2026-09-24, and it fits this ask because in India \"propose\" means asking someone to be your girlfriend.\n\nThe [proposal scrapbook](/proposal) is the marriage version. Both are **English-language**: you get the design and the link, and paste your Assamese in yourself. There is no Assamese interface and no Assamese help text.\n\n| Way to send it | What she gets | What it costs | Platform-wide figure bearing on it |\n|---|---|---|---|\n| WhatsApp, Assamese script | the line as typed, ৰ and ৱ intact | nothing, if typed on an Assamese keyboard | 48.3% of 56,886 views open on a phone |\n| A page with script, Roman and gloss | all three readings at once | the template stays English | 90.9% of started pages are shared, 4,679 of 5,148 |\n| Roman only, *moi tumak bhal pao* | a line she reads fast, no font risk | the ৰ / ৱ distinction, which exists only in script | none — SubhSandesh measures pages, not messages |\n\nSend the script if you typed it yourself; add the Roman if her font is in doubt.\n\n## What I drafted, cut and published\n\nI drafted 16 and published 11. The five cuts are specific, not stylistic.\n\nতুমি মোৰ হ'বানে? (\"Will you be mine?\") — হ'বা appears 13 times in the corpus, every one a predicate adjective. The possessive reading is attested nowhere.\n\nমই তোমাৰ বাবে চিৰদিন ৰৈ থাকিম। (\"I'll wait for you forever.\") — চিৰদিন occurs once in 14,805 sentences, only as চিৰদিনৰ বাবে, and ৰৈ থাকিম is unattested. Also the wrong thing to promise someone who has not answered.\n\nআজি মই তোমাক এটা কথা ক'ব খুজিছোঁ। (\"I want to tell you something today.\") — এটা কথা ক returns zero corpus hits; no instrument settles the classifier.\n\nমোৰ জীৱনৰ সপোন তুমি। (\"You are the dream of my life.\") — সপোন is a headword, but জীৱনৰ সপোন returns zero hits and reads as a calque.\n\nমই তোৰ হাতখন ধৰিব বিচাৰোঁ। (\"I want to hold your hand.\") — হাতখন ধৰ appears once, in a sentence about pain.\n\n## When an Assamese Propose Day line is the wrong thing to send\n\nIf she writes to you in English, send English. A sudden switch into Assamese on 8 February reads as performance, and a wrong register is noticed before the sentiment is.\n\nIf you cannot type Assamese, do not paste translator output. This is the language the tooling gets wrong, and the failure is invisible to you — a Bengali র looks fine until a reader who knows it sees it.\n\nIf you are not close enough to ask, no line fixes that. If she does not answer, line 6 was your one send. Ask once, then stop; the absence of a reply is the reply.\n\n## Sources\n\n- Sharma, \"Morphophonemic variation in the nominal morphology of Assamese,\" *Himalayan Linguistics* 20(2), 2021, CC BY-NC-ND.\n- Kakwani et al., \"IndicNLPSuite,\" *Findings of EMNLP 2020*.\n- Doddapaneni et al., \"Towards Leaving No Indic Language Behind,\" *ACL 2023*.\n- Bhattacharyya, \"Pronominal in Assamese and Bengali Language,\" *Space and Culture, India* 8(3), 29 November 2020, CC BY.\n- Instruments, credited not cited: *Candrakanta Abhidhana* (Gauhati University, 1962) via the Digital Dictionaries of South Asia; the Tatoeba Assamese export; UD_Assamese-AiW; Unicode Character Database 18.0.0.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-day-wishes-in-assamese#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Assamese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assamese_language",
+              "https://www.wikidata.org/wiki/Q29401"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Propose Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Propose_Day",
+              "https://www.wikidata.org/wiki/Q7250378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Assamese alphabet",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assamese_alphabet",
+              "https://www.wikidata.org/wiki/Q191272"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Assam",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Assam",
+              "https://www.wikidata.org/wiki/Q1164"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Universal Dependencies",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Universal_Dependencies",
+              "https://www.wikidata.org/wiki/Q64830310"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Morphophonemic variation in the nominal morphology of Assamese",
+            "url": "https://escholarship.org/uc/item/2qr4s19d",
+            "datePublished": "2021",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Himalayan Linguistics, University of California"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages",
+            "url": "https://aclanthology.org/2020.findings-emnlp.445/",
+            "datePublished": "2020-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Towards Leaving No Indic Language Behind: Building Monolingual Corpora, Benchmark and Models for Indic Languages",
+            "url": "https://aclanthology.org/2023.acl-long.693/",
+            "datePublished": "2023-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Pronominal in Assamese and Bengali Language: A Comparative Analysis",
+            "url": "https://www.spaceandculture.in/index.php/spaceandculture/article/view/936",
+            "datePublished": "2020-11-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Space and Culture, India"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/propose-day-wishes-in-assamese#lines",
+        "name": "11 Propose Day wishes in Assamese",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 11,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "মই তোমাক ভাল পাওঁ।",
+            "description": "I love you — তুমি register, the exact sentence is attested in the Tatoeba Assamese corpus"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "মই তোমাক মৰম কৰোঁ।",
+            "description": "I hold you dear — তুমি register, মৰম is warmer and less final than ভাল পাওঁ"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "তুমি মোৰ লগত নাচি ভাল পাবানে?",
+            "description": "Would you like to dance with me? — তুমি register, the lowest-stakes ask on the page"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "তুমি মোৰ লগত থাকিবানে?",
+            "description": "Will you stay with me? — তুমি register, the actual Propose Day ask"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "মই তোমাৰ লগত গোটেই জীৱন থাকিব বিচাৰোঁ।",
+            "description": "I want to spend my whole life with you — তুমি register, too heavy for a first ask"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "মই তোমাৰ উত্তৰৰ বাবে ৰৈ আছোঁ।",
+            "description": "I am waiting for your answer — তুমি register, send it once and not twice"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "মই আপোনাক ভাল পাওঁ।",
+            "description": "I love you — আপুনি register, honorific"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "আপুনি মোৰ লগত নাচি ভাল পাবনে?",
+            "description": "Would you like to dance with me? — আপুনি register, the honorific twin of line 3"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "মই আপোনাৰ উত্তৰৰ বাবে ৰৈ আছোঁ।",
+            "description": "I am waiting for your answer — আপুনি register, waiting sounds patient rather than pressing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "মই তোক ভাল পাওঁ।",
+            "description": "I love you — তই register, only for someone you have always called তই"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "তই মোৰ লগত থাকিবিনে?",
+            "description": "Will you stay with me? — তই register, the riskiest line on the page"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/propose-day-wishes-in-assamese#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "When is Propose Day 2027?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Propose Day 2027 is Monday 8 February. Rose Day falls on Sunday 7 February and Valentine's Day on Sunday 14 February, so Valentine week 2027 runs across eight dated days and Propose Day lands on a working Monday."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Assamese just a dialect of Bengali?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Assamese and Bengali are separate Indo-Aryan languages that share a script and a root. Archita Bhattacharyya's 2020 comparative analysis in Space and Culture, India puts their pronominals side by side — Assamese moi etiyao against Bengali ami ekhono, Assamese iyat against Bengali ekhane."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I use তই, তুমি or আপুনি when I propose?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "তুমি is the safe default for someone your own age you already talk to. আপুনি suits someone older or someone you do not know well yet, and on a first ask it reads as respect. তই is only for people you grew up with."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you say I love you in Assamese?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "মই তোমাক ভাল পাওঁ (moi tumak bhal pao) in the তুমি register. The honorific is মই আপোনাক ভাল পাওঁ and the intimate is মই তোক ভাল পাওঁ; only the object pronoun changes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between ৰ and র?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ৰ is U+09F0, which the Unicode Character Database 18.0.0 lists with the alias 'Assamese letter ra'. র is U+09B0, the Bengali ra. Assamese writing uses ৰ, so a র in the middle of an Assamese sentence usually means a Bengali keyboard produced it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is ৱ and why does it matter?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ৱ is U+09F1, aliased in the Unicode database as 'Assamese letter wa'. It is how Assamese writes words such as জীৱন and পোৱা. The 1962 Candrakanta Abhidhana headwords those same words with ব, which is one reason spellings drift online."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I use Google Translate for an Assamese proposal line?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is the wrong tool for this. Assamese sits in class 2 of Joshi's six-class taxonomy where Hindi and Bengali sit at class 5, and Google's cld3 language identifier does not detect Assamese at all. The mistakes it makes are invisible unless you can read the result."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I send Assamese script or Roman letters?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Send the script if you typed it yourself on an Assamese keyboard, because Roman loses the ৰ and ৱ distinction entirely. If you are not sure her phone has an Assamese font, send both: script first, Roman underneath."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will Assamese text show up correctly on her phone?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Usually yes, because Assamese uses the same Unicode block as Bengali and most phones ship that font. The real risk is not rendering but what you typed: a Bengali keyboard substitutes র for ৰ and the sentence quietly stops being Assamese."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why are there only 11 lines here and not fifty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because I could only verify 11. I drafted 16 and cut five that no dictionary, corpus or treebank I had could confirm — the reasons for each cut are listed on the page. A wrong line in a proposal is worse than no line."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What should I do if she does not reply?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nothing. Ask once and stop; the absence of a reply is the reply. Repeated messages after silence stop being romance, and no wording on this page changes that."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does SubhSandesh have Assamese-language templates?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. The templates, including the proposal scrapbook and the 'I love you' page, are English-language: you get the design, the animation and the shareable link, and you paste your own Assamese line into the message. There is no Assamese interface and no Assamese help text."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose day wishes assamese",
+    "angle": "Wins by being the only Propose Day page that publishes its Assamese lines with the instrument each one was checked against — Candrakanta Abhidhana, a 14,805-sentence corpus and the 871-token UD_Assamese-AiW treebank — reports the five lines it cut and why, and proves the text is Assamese rather than Bengali with a codepoint scan returning zero occurrences of U+09B0, all priced against SubhSandesh's platform-wide 48.3% phone-open rate across 21 page types.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — measured 2026-09-24",
+      "Most-viewed template: love-gf — 16,998 views, 29.9% of all page views — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,679 of 5,148) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://escholarship.org/uc/item/2qr4s19d",
+        "stat": "Table 2 gives the Assamese accusative with -k for all four persons: mɔi+k → mʊk, tɔi+k → tʊk, tumi+k → tʊmak, apuni+k → apʊnak, labelling তই 2nd person non-honorific, তুমি 2nd person familiar and আপুনি 2nd person honorific; the genitive is tʊma + ɹ → tʊmaɹ",
+        "publishedDate": "2021"
+      },
+      {
+        "url": "https://aclanthology.org/2020.findings-emnlp.445/",
+        "stat": "IndicCorp de-duplicated monolingual corpus statistics, Table 1: Assamese 1.39 million sentences and 32.6 million tokens against Hindi 1,860 million and Bengali 836 million; the paper states Odia and Assamese have the smallest collections and that IndicBERT large performs poorest on Assamese and Odia",
+        "publishedDate": "2020-11"
+      },
+      {
+        "url": "https://aclanthology.org/2023.acl-long.693/",
+        "stat": "Table 14 assigns Assamese class 2 in the Joshi et al. (2020) taxonomy where Hindi, Bengali and Urdu sit at class 5; the language-identification section states that cld3 does not identify Assamese and Oriya",
+        "publishedDate": "2023-07"
+      },
+      {
+        "url": "https://www.spaceandculture.in/index.php/spaceandculture/article/view/936",
+        "stat": "Worked Assamese–Bengali pronominal contrasts for identical sentences: Assamese 'Moi etiyao bhat khoa nai' against Bengali 'Ami ekhono bhat khai nei', Assamese iyat against Bengali ekhane, Assamese zetiya/zidina against Bengali zakhan/zabe",
+        "publishedDate": "2020-11-29"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "No SERP was measured for this keyword. One US-served WebSearch on 2026-09-24 returned Pinterest, Wikipedia, TikTok and two Assamese anniversary-wishes blogs and no page dedicated to Propose Day wishes in Assamese; I fetched none of those results, so I cannot state what any ranking page contains. Closes when an India-served SERP for this keyword is captured and the top five pages are fetched."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug 'propose-day-wishes-in-assamese' was fixed by the batch assignment and carries the stop word 'in'. It is lowercase, hyphenated and free in Strapi; changing it is out of scope for this post."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over a generic wishes listicle: every Assamese line carries the instrument it was checked against, the page publishes what it cut and why, and the ৰ/ৱ claim is backed by a codepoint scan with measured baselines (26,205 ৰ against 11 র in a 14,805-sentence corpus; 242 against 6 in the 682-token UD_Assamese-AiW training and test data) rather than asserted. The IndicCorp token counts and the cld3 finding are checkable facts no wishes page carries. Realistic target is position 6–10, not 3: this is an annual February news cycle that MensXP, Zee, Webdunia and Amar Ujala own on far stronger domains, the keyword is copy-text intent with near-zero conversion, and no India-served SERP for it was ever measured, so nothing here should be read as a prediction about where it lands. It is a visibility asset judged on impressions, not a converting page. What would change the ceiling is a native Assamese speaker reviewing the lines, which has not happened."
+    },
+    "structuralLimitations": [
+      "The Assamese on this page has NOT been reviewed by a native speaker. Verification is instrument-based only: Candrakanta Abhidhana (Gauhati University, 1962) via the Digital Dictionaries of South Asia for headwords, the Tatoeba Assamese sentence export (14,805 sentences) for inflected forms and spacing, UD_Assamese-AiW (73 sentences, 871 tokens, UD v2.18) for word order, and the Unicode Character Database 18.0.0 for codepoint identity. Instruments attest that a form occurs; they cannot attest that it is the right thing to say to a particular person.",
+      "Resources for Assamese are materially thinner than for the other languages in this project. Its UD treebank holds 871 tokens where Hindi's holds 375K and Marathi's 122K; IndicCorp holds 32.6M Assamese tokens against 1,860M for Hindi. Every verification step here rests on a smaller evidence base than the Hindi, Bengali, Marathi, Kannada, Telugu and Malayalam posts in waves 2-3 did.",
+      "One orthographic conflict between instruments is unresolved and disclosed in body prose: the DSAL digitisation of Candrakanta Abhidhana returns no headword containing ৱ (U+09F1) and lists হোবা, পোবা and জীবন where current writing has হোৱা, পোৱা and জীৱন. I followed the modern corpus (174, 170 and 70 hits against zero for the ব spellings) for line 5. I measured the digitisation, not the 1962 print.",
+      "Exempt reference instruments were used and credited in prose rather than spending source slots, per the 2026-09-24 BRIEF exemption: dsal.uchicago.edu (Candrakanta Abhidhana), tatoeba.org, github.com/UniversalDependencies/UD_Assamese-AiW, universaldependencies.org and unicode.org. github.com/UniversalDependencies URLs for other languages appear in the wave-3 ban list; this is a different treebank and an exempt instrument, and the reuse of the domain is deliberate.",
+      "No SERP was measured. One US-served WebSearch on 2026-09-24 returned Pinterest, Wikipedia, TikTok and two Assamese anniversary-wishes blogs, and no page dedicated to Propose Day wishes in Assamese; none of those results was fetched. Nothing on this page describes what any competing page contains, and the inherited Phase 1 for this batch covers 11 India-served SERPs measured on 2026-09-16, none of which is this keyword.",
+      "The live corpus is NOT empty of Assamese: Strapi already carries love-letter-for-girlfriend-in-assamese (published 2026-09-02), which covers ৰ/ৱ, the তই/তুমি/আপুনি register and machine translation. That post deliberately withholds finished lines and verifies against English Wiktionary; this post publishes 11 finished lines for a dated occasion and verifies against a dictionary, a corpus and a treebank. Its sources (Mahanta 2012, Boruah 2020, Unicode 16.0, Biswas 2024, Nath and Gulzar 2026, Wiktionary) are disjoint from this post's. It is referenced in prose rather than linked, because /blog/ slugs are not TEMPLATE_LINKS entries.",
+      "That sibling uses spaceandculture.in for a different article (Biswas, 12(3), 2024); this post cites Bhattacharyya, 8(3), 2020. Same publisher domain, different URL, and the domain is not at cap in this batch.",
+      "Source-cap position at save time, re-checked immediately before writing: aclanthology.org is used by exactly three posts in this batch (propose-day-quotes-in-gujarati, propose-day-quotes-in-tamil and this one), which is at the 3-post domain cap and not over it; two sibling posts claimed it while this one was being researched. spaceandculture.in is at two posts, and escholarship.org at one. None of this post's four source URLs appears in any other post in the batch, and capcheck reports no banned URL used.",
+      "No price, free tier or paid tier is stated or implied anywhere: content/facts.md has an empty pricing block for a fourth batch.",
+      "No figure is attributed to proposal pages. The proposalpages probe is still refused by this machine's production-read policy, so every first-party figure here is labelled platform-wide across 21 page types or sampled on the named template, in body prose.",
+      "No Assamese-speaker population figure appears. The Census 2011 language statement linked from one source returned HTTP 404 on 2026-09-24, so no population claim is made.",
+      "The Tatoeba Assamese collection is largely translated from English rather than natively composed, so it attests grammatical form better than it attests idiom. Three of the 11 published lines are verbatim Tatoeba sentences; the other eight are composed from strings attested verbatim in it, and each H3 says which."
+    ],
+    "verificationLedger": {
+      "drafted": 16,
+      "published": 11,
+      "cut": 5,
+      "cuts": [
+        {
+          "line": "তুমি মোৰ হ'বানে?",
+          "gloss": "Will you be mine?",
+          "reason": "হ'বা occurs 13 times in the 14,805-sentence corpus and every instance is a predicate adjective (নিৰাশ নহ'বাঁ, তুমি শকত আৰু আপচু হ’বা নে…). The possessive predicate মোৰ হ'বা is attested nowhere and Candrakanta does not settle it."
+        },
+        {
+          "line": "মই তোমাৰ বাবে চিৰদিন ৰৈ থাকিম।",
+          "gloss": "I'll wait for you forever.",
+          "reason": "চিৰদিন occurs once in 14,805 sentences and only as চিৰদিনৰ বাবে; ৰৈ থাকিম is unattested. Also editorially wrong: it promises persistence to someone who has not answered."
+        },
+        {
+          "line": "আজি মই তোমাক এটা কথা ক'ব খুজিছোঁ।",
+          "gloss": "Today I want to tell you something.",
+          "reason": "The string 'এটা কথা ক' returns zero corpus hits. কথা is a Candrakanta headword and ক'ব খুজিছোঁ is attested, but no instrument settles the Assamese classifier for কথা in this frame."
+        },
+        {
+          "line": "মোৰ জীৱনৰ সপোন তুমি।",
+          "gloss": "You are the dream of my life.",
+          "reason": "সপোন is a Candrakanta headword and occurs 20 times in the corpus, but the genitive collocation জীৱনৰ সপোন returns zero hits. It reads as a calque from Hindi/Bengali and could not be verified."
+        },
+        {
+          "line": "মই তোৰ হাতখন ধৰিব বিচাৰোঁ।",
+          "gloss": "I want to hold your hand.",
+          "reason": "হাতখন ধৰ occurs once in the corpus, inside a sentence about pain (ভ্লাদিমিৰে মোৰ হাতখন ধৰোঁতে বিষাইছিল); তোৰ লগত and তোৰ হাত both return zero."
+        }
+      ],
+      "scriptCheck": "Codepoint scan over all 11 published lines: 0 occurrences of U+09B0 (র BENGALI LETTER RA), 16 of U+09F0 (ৰ, alias 'Assamese letter ra' in UCD 18.0.0), 1 of U+09F1 (ৱ, alias 'Assamese letter wa'). A 28-entry Bengali-form blocklist (আমি, আমার, আমাকে, তোমাকে, ভালোবাসি, করি, করছি, আছি, এখন, যখন, আপনি, আপনাকে, আপনার, তুই, তোকে, হবে, থাকবে, নয়, হয়েছে, দিয়ে, বলছি, চাই and others) returned 0 hits. Assamese markers present instead: মই in 7 lines, মোৰ in 4, কৰোঁ, পাওঁ, আছোঁ, ভাল পা in 5, নে? in 4. Baselines: Tatoeba Assamese 26,205 ৰ against 11 র (all 11 in Latin loanwords); UD_Assamese-AiW train+test 242 ৰ against 6 tokens carrying র, all conjunct-forming."
+    },
+    "generatedAt": "2026-09-24T08:19:36.492Z"
+  }
+}

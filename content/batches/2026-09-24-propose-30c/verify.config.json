@@ -1,0 +1,25 @@
+{
+  "mandatoryLinks": [
+    "/proposal"
+  ],
+  "oneOfLinks": [
+    "/love-gf",
+    "/apology-dashboard",
+    "/date-invitation",
+    "/court-of-love",
+    "/bouquet-gf",
+    "/train-ticket",
+    "/dedication"
+  ],
+  "_why": "Every post in this batch targets a proposal keyword and links https://subhsandesh.in/proposal as its primary template, so /proposal is genuinely mandatory here rather than an opt-out. The verifier's built-in default (mandatory /bouquet-gf, one-of /love-gf|/darling) is the bouquet-wave policy and is wrong for this batch — it would fail most of the 30 posts and the only way to force it green would be to inject an off-topic digital-bouquet link into a marriage-proposal post. The oneOfLinks list is the batch's 'give another option' rule: each post must also name at least one genuine ALTERNATIVE template with the reason it suits that reader better (/apology-dashboard when proposing after a fight, /love-gf when it is 'will you be my girlfriend' rather than marriage, /date-invitation for asking someone out, /court-of-love for a playful couple, /bouquet-gf when they want flowers not a question, /train-ticket for long distance). The 2-4 internal links from TEMPLATE_LINKS rule still applies and is enforced separately. AMENDED 2026-09-24: /dedication added to oneOfLinks. Wave 4 includes posts whose reader is NOT in a romantic relationship with the recipient — propose-day-quotes-for-parents is the clear case. For that reader none of the six romance templates is a genuine alternative, and /dedication (a radio show with your real voice introducing a song) is. The rule exists to force an HONEST alternative, so narrowing it to romance templates would have made the content worse, not better: the agent picked correctly and the config was wrong.",
+  "capExemptDomains": [
+    "dsal.uchicago.edu",
+    "universaldependencies.org",
+    "tatoeba.org",
+    "unicode.org",
+    "mha.gov.in",
+    "ncrb.gov.in",
+    "indiacode.nic.in"
+  ],
+  "_whyCapExempt": "Reference INSTRUMENTS, not research. Nine language posts in this batch verify their lines against a dictionary, grammar, treebank or corpus, and there is exactly one correct source for each. The domain cap exists to stop one publisher carrying the batch research; an instrument shared across posts is the method, not concentration. Statutes are here for the same reason — a section of the BNS has one correct citation. Research publishers are NOT exempt and stay capped at 3."
+}

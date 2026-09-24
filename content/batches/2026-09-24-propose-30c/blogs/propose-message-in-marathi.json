@@ -1,0 +1,361 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Propose Message in Marathi: 8 Messages Built on आपण",
+    "slug": "propose-message-in-marathi",
+    "excerpt": "Eight complete propose messages in Marathi, each with Roman transliteration, an English gloss, the तू or तुम्ही register and both speaker-gender forms — built on आपण, the inclusive \"we\" Hindi does not have. Twelve of twenty drafts were cut against Molesworth and a treebank.",
+    "metaTitle": "Propose Message in Marathi — 8 Dictionary-Checked Lines",
+    "metaDescription": "Propose message in Marathi: 8 complete messages with transliteration, the तू or तुम्ही register and both speaker-gender forms. 12 of 20 drafts were cut.",
+    "keywords": "propose message in marathi, marathi propose message for girlfriend, आपण vs आम्ही, marathi proposal message with transliteration, propose day message in marathi",
+    "canonicalURL": "https://subhsandesh.in/blog/propose-message-in-marathi",
+    "ogType": "article",
+    "tags": [
+      "marathi",
+      "proposal",
+      "propose day",
+      "language",
+      "modern romance"
+    ],
+    "keyTakeaways": [
+      "Marathi has a dedicated inclusive \"we\" — आपण means \"you and I\", आम्ही means \"I and others, not you\" — and picking the wrong one grammatically excludes the person you are proposing to.",
+      "Grambank codes the inclusive/exclusive feature as present for Marathi and absent for Hindi; of 16 Indo-Aryan languages coded for it, only Marathi and Maithili have it.",
+      "Twenty messages were drafted and twelve cut against Molesworth's 1857 dictionary, English Wiktionary and the UD Marathi-UFAL treebank; eight survived.",
+      "Six of the eight need no speaker-gender decision, which matters given 48.3% of SubhSandesh page views happen on a phone (27,499 of 56,886, measured 2026-09-24, platform-wide).",
+      "आपण is also the highest-formality second-person pronoun, so pair it with a first-person-plural verb such as करूया or राहूया to kill the ambiguity."
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between आपण and आम्ही in a Marathi proposal?",
+        "answer": "आपण includes the person you are speaking to — it means \"you and I\". आम्ही excludes them: \"I and some others, but not you\". In a proposal, आम्ही grammatically leaves out the person you are asking, which is the opposite of what the message is for."
+      },
+      {
+        "question": "Does Hindi have the same आपण and आम्ही distinction?",
+        "answer": "No. Grambank codes the inclusive/exclusive feature as absent for Hindi and present for Marathi. Across the 16 Indo-Aryan languages in that dataset with a code for the feature, only Marathi and Maithili are coded present, so a Hindi propose message cannot make the same move."
+      },
+      {
+        "question": "Can I just translate a Hindi propose message into Marathi?",
+        "answer": "Not word for word. Marathi uses आहे where Hindi uses है, खूप where Hindi uses बहुत, and फक्त where Hindi uses सिर्फ़, and it has an inclusive pronoun Hindi lacks. A transliterated Hindi line reads as Hindi in Devanagari, which a Marathi reader notices immediately."
+      },
+      {
+        "question": "Should I write तू or तुम्ही in a propose message?",
+        "answer": "तू is the least formal and grammatically singular; तुम्ही is mid-level formality and grammatically plural. Use तू for someone you already speak to casually, and तुम्ही for a first approach, someone older, or a phone a household may pick up."
+      },
+      {
+        "question": "Is आपण ever risky to use when proposing?",
+        "answer": "Yes. The same form आपण is also the highest-formality second-person pronoun, so on its own it can read as a distancing \"you\" rather than \"you and I\". Pairing it with a first-person-plural verb such as करूया or राहूया removes the ambiguity."
+      },
+      {
+        "question": "Do Marathi propose messages change if a woman is sending them?",
+        "answer": "Several of them do. Marathi verbs agree with the speaker's gender in the present and past, so विचारतो becomes विचारते and थांबलो becomes थांबले. Six of the eight messages here need no gender decision at all."
+      },
+      {
+        "question": "How long should a propose message in Marathi be?",
+        "answer": "One or two sentences is enough, and the messages here are deliberately that short. A longer message invites the reader to skim instead of answer, and the ask itself is the only part that has to land."
+      },
+      {
+        "question": "Should I send the message in Devanagari or in Roman Marathi?",
+        "answer": "Send Devanagari if the reader types in Devanagari, and Roman if they normally type Marathi in Latin script. Each message on this page carries both, so you can match whatever their chat history already looks like."
+      },
+      {
+        "question": "What should I send if the answer is no?",
+        "answer": "Send the line that makes the no survivable — नकार आला तरी चालेल — and then stop. A refusal is information, not an opening position, and repeated contact after one changes the situation entirely."
+      },
+      {
+        "question": "Should I send a message or build a page for a proposal?",
+        "answer": "Send the message if the whole content is one sentence. A page is worth building when there is a story to show, and 38.5% of SubhSandesh creators password-protect their page before sharing it, which matters when a phone is shared at home."
+      },
+      {
+        "question": "Is Propose Day the right day to send this?",
+        "answer": "It works on any day, which is the point of a message rather than a dated wish. Propose Day 2027 falls on Monday 8 February, a working day, so a single well-typed sentence generally beats anything more elaborate."
+      }
+    ],
+    "coverImageQuery": "marathi text message phone screen romantic",
+    "coverImagePrompt": "A close, photorealistic shot of a young Indian woman's hands holding a phone at night, a half-typed Marathi message in Devanagari glowing on the screen. Warm lamplight from the left, deep shadow behind, shallow depth of field, 16:9 with clean negative space along the top for a title overlay. No readable brand marks except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Propose Message in Marathi: 8 Messages Built on आपण\n\nA propose message in Marathi is a complete sentence you type into one person's chat box and send — not a quotable line, not a dated greeting, not a method. The eight below are in Devanagari with Roman transliteration and an English gloss, marked for the तू or तुम्ही register, and given in both speaker-gender forms wherever the verb inflects. All eight turn on आपण, the Marathi first-person plural that includes the person spoken to.\n\nFor scale: SubhSandesh has recorded 5,148 personalised pages created since 2026-03-12, across 21 page types, and 48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — both measured 2026-09-24, platform-wide, neither specific to proposals. Below: the pronoun, the messages, and the twelve lines cut.\n\n## What counts as a propose message, and what does not\n\nA message is addressed to one named person and expects a reply. A quote is a line anyone could read; a wish is pinned to a date; advice is a method.\n\nThat separation already does work here. The [Marathi Propose Day quotes page](/blog/propose-day-quotes-in-marathi) groups lines by who is asked, the [Marathi wishes page](/blog/propose-day-wishes-in-marathi) sorts them by register, and the [Marathi how-to-propose page](/blog/how-to-propose-girl-in-marathi) prints both speaker-gender forms. None of their lines is reused here.\n\nOne number before choosing between a message and a page: 90.9% of started SubhSandesh pages are published and shared (4,679 of 5,148), measured 2026-09-24, platform-wide across 21 page types. A message needs no page.\n\n## आपण or आम्ही: Marathi has a word for the \"us\" you are asking for\n\nMarathi separates an inclusive \"we\" from an exclusive one. आपण (āpaṇ) means *I and you*. आम्ही (āmhī) means *I and some others, but not you*.\n\nEnglish collapses both into *we*, and so does Hindi.\n\nThis is documented typology, not a folk claim. Grambank, the CC BY database built from published grammars, codes feature GB028 — \"Is there a distinction between inclusive and exclusive?\" — as **present** for [Marathi](https://grambank.clld.org/values/GB028-mara1378), citing Dhongde and Wali (2009: 48–50).\n\nAcross Grambank's release, 16 Indo-Aryan languages carry a GB028 code and only two are present: Marathi and Maithili. Hindi is absent, as are both Panjabis, Odia, Nepali, Kashmiri and, oddly, Konkan Marathi. Of 35 Dravidian languages coded, 26 are present.\n\n[Cysouw's WALS chapter](https://wals.info/chapter/39) records that no European language has the distinction, and that Kannada lost it under Indo-Aryan influence. Marathi sits on the other side of that contact zone and kept it.\n\nThe annotated Universal Dependencies Marathi-UFAL treebank — 466 sentences, 4,176 tokens — confirms it in data. Five tokens carry the `Clusivity` feature; all five read `In`, all five are pronouns marked `Number=Plur|Person=1`, and the only lemma is आपण. None is tagged `Ex`.\n\nThat matches Beata Moskal's 2018 [Glossa finding that ABA suppletion patterns do not arise in the 1SG–1EXCL–1INCL triple](https://www.glossa-journal.org/article/id/5098/), which she argues shows the inclusive is the most marked of the three. The special form is the one that includes you.\n\nPick आम्ही by mistake and the sentence grammatically excludes the person you are asking. And the choice is social work, not only grammar: Wieczorek's 2009 [*CADAAD* paper argues clusivity rests on a container schema, the speaker drawing the boundary of \"us\"](https://ugp.rug.nl/cadaad/article/view/42058), while Scotto di Carlo's [study of 2012 TED Talks found inclusive pronouns constructing positive politeness, so \"I\" and \"you\" become \"we\"](https://revistaiberica.org/index.php/iberica/article/view/137). Marathi does it in one word.\n\n### The catch\n\nआपण is not a clean win: the same form is also the highest-formality second-person pronoun, so आपण कोण? means \"Who are *you*?\". \n\nMolesworth's 1857 *Dictionary, Marathi and English* calls आपण \"a representative or referential pronoun, standing indifferently for I, thou, he, we, ye, they\" and records the honorific use — it never glosses an inclusive \"we\". The clusivity reading is modern, not Victorian.\n\nThe fix is mechanical: pair आपण with a first-person-plural verb and the ambiguity dies, because a second-person reading cannot take that ending. The treebank attests it — *आपण त्याच्यासाठी काही करूया*, *चला आपण जाऊ*.\n\n## 8 propose messages in Marathi\n\nWhere the verb agrees with the speaker's gender, both forms are given: first male speaker, then female.\n\n### 1. The plain ask\n\n**तुला एक विचारायचं आहे — आपण एकत्र सुरुवात करूया का?**\n*Tulā ek vicārāycha āhe — āpaṇ ekatra suruvāt karūyā kā?*\n\"There's one thing I want to ask you — shall we make a start together?\"\nRegister तू. No gendered form needed: विचारायचं and करूया serve both.\n\n### 2. After a long wait\n\n**मी खूप वेळ थांबलो. आज विचारतो — आपण एकत्र राहूया का?**\n**मी खूप वेळ थांबले. आज विचारते — आपण एकत्र राहूया का?**\n*Mī khūp veḷ thāmblo / thāmble. Āj vicārto / vicārte — āpaṇ ekatra rāhūyā kā?*\n\"I waited a long time. Today I'm asking — shall we be together?\"\nRegister तू. Gender marked twice: थांबलो/थांबले, विचारतो/विचारते.\n\n### 3. Respectful, for someone you do not know well\n\n**तुम्हाला हे सांगायला मला वेळ लागला. आपण एकत्र राहूया का?**\n*Tumhālā he sāngāylā malā veḷ lāglā. Āpaṇ ekatra rāhūyā kā?*\n\"It took me time to say this to you. Shall we be together?\"\nRegister तुम्ही, unmarked. Here the आपण ambiguity is harmless: the formality is already set, so it cannot read as a shift in tone.\n\n### 4. The marriage ask\n\n**तुला एक विचारतो. आपण लग्न करूया का?**\n**तुला एक विचारते. आपण लग्न करूया का?**\n*Tulā ek vicārto / vicārte. Āpaṇ lagna karūyā kā?*\n\"I'm asking you one thing. Shall we get married?\"\nRegister तू, marked on विचारतो/विचारते. The verb sits on आपण, not on her — the sentence the inclusive was made for.\n\n### 5. Taking the pressure off\n\n**उत्तर आज नको. तू विचार कर. मी थांबतो.**\n**उत्तर आज नको. तू विचार कर. मी थांबते.**\n*Uttar āj nako. Tū vicār kar. Mī thāmbto / thāmbte.*\n\"Not an answer today. You think about it. I'll wait.\"\nRegister तू, marked on थांबतो/थांबते. Send after the ask, never instead.\n\n### 6. Making a no survivable\n\n**नकार आला तरी चालेल. मी विचारलं, आणि आता तुला माहित आहे.**\n*Nakār ālā tarī cālel. Mī vicārlam, āṇi ātā tulā māhit āhe.*\n\"Even if a no comes, that's fine. I asked, and now you know.\"\nRegister तू, unmarked. If the answer is no, this is the last message: a refusal is information, not an opening bid.\n\n### 7. For a partner you already have\n\n**आपण एकत्र आहोत — हे मला आज पुन्हा सांगायचं आहे.**\n*Āpaṇ ekatra āhot — he malā āj punhā sāngāycha āhe.*\n\"We are together — I want to say that again today.\"\nRegister-neutral: no second-person pronoun appears, and आहोत, the first-person-plural copula, locks आपण into the inclusive reading.\n\n### 8. The one where आम्ही is correct\n\n**आम्ही दोघं एकत्र आहोत. हे तुम्हाला सांगायचं होतं.**\n*Āmhī doghaṁ ekatra āhot. He tumhālā sāngāycha hotam.*\n\"The two of us are together. I wanted to tell you that.\"\nRegister तुम्ही. Not sent to the person being proposed to — it goes to parents or a friend, and आम्ही is right because the reader is outside the couple.\n\n## Which message fits which chat\n\nSix of the eight need no gender decision, which matters when typing fast. The last column applies SubhSandesh's own 48.3% phone-view figure.\n\n| Message | Register | Gendered forms | Screen it lands on |\n|---|---|---|---|\n| 1, plain ask | तू | 0 | Private chat, lock screen |\n| 2 and 4, the real asks | तू | 2 each | Private chat, replied to alone |\n| 3, respectful | तुम्ही | 0 | A shared household phone |\n| 5 and 6, after the ask | तू | 1 and 0 | Same thread, minutes later |\n| 8, telling the family | तुम्ही | 0 | A screenshot-able group |\n\nThe likelier a second reader, the more you want तुम्ही.\n\n## How these were checked, and the twelve lines cut\n\nTwenty messages were drafted; twelve were cut. The standard was lexical: every content word had to appear in Molesworth via DSAL, in an English Wiktionary Marathi entry citing Berntsen, or as an attested token in UD Marathi-UFAL.\n\nThe cuts were not close calls. मला तू हवी आहेस — \"I want you\" — died because हवें returns zero Molesworth results and Wiktionary's हवा carries only \"air, wind, weather\". आवडणें and आवड return zero results too, so every line built on आवडतेस went.\n\nमोठा and एवढा have no Marathi Wiktionary section, killing two more. जमूया went because Molesworth glosses जमणें as \"to assemble; to congeal, coagulate\", not \"to be compatible\".\n\nA separate screen ran a Hindi blocklist over every Devanagari token — मैं, हम, तुम, तुम्हें, मुझे, मेरा, तेरा, हूँ, है, हैं, नहीं, प्यार, जिंदगी, बहुत, सिर्फ, लेकिन, और, भी, दिल, हमेशा — with zero hits. Marathi-only forms carry the load: आहे, आहोत, आणि, फक्त, तुला, आपण, आम्ही.\n\nIf the ask deserves more than a notification, a [proposal scrapbook page](/proposal) holds the story and ends on a YES button — and 38.5% of SubhSandesh creators password-protect their page before sharing (1,983 of 5,148, measured 2026-09-24, platform-wide), the number that matters when a phone is shared at home.\n\n## When a Marathi message, or a page, is the wrong choice\n\nThe templates are English-language. [The proposal scrapbook](/proposal) and every other page here are built in English; there is no Marathi template, and the live blog corpus holds zero pages in any Indian language. Your Marathi goes in the message, not the page.\n\n/proposal is also usually the wrong page here. In Indian usage \"propose\" almost always means asking someone to be your girlfriend or boyfriend, not to marry you, so a marriage scrapbook sent for a first ask reads as escalation. The [\"I love you\" page](/love-gf) fits better — third most-created page type at 1,178 pages, 22.9% of everything created, measured 2026-09-24 — and [The Invitation](/date-invitation) fits better still when you want a date, not a declaration.\n\nMost often, send nothing but the message. Messages 1, 4 and 6 do not improve when wrapped in anything. A page earns its place when there is a story to show, and is dead weight when the content is one rehearsed line.\n\nPropose Day 2027 falls on Monday 8 February, a working day — one more argument for one well-typed sentence.\n\n## Sources\n\n- [Grambank feature GB028 for Marathi](https://grambank.clld.org/values/GB028-mara1378) — present, citing Dhongde and Wali (2009: 48–50). CC BY 4.0, 2023.\n- [Cysouw, \"Inclusive/Exclusive Distinction in Independent Pronouns\", WALS chapter 39](https://wals.info/chapter/39), 2013.\n- [Moskal, \"Excluding exclusively the exclusive: Suppletion patterns in clusivity\", *Glossa* 3(1):130](https://www.glossa-journal.org/article/id/5098/), 2018.\n- [Scotto di Carlo, \"Patterns of clusivity in TED Talks\", *Ibérica* 35:119–144](https://revistaiberica.org/index.php/iberica/article/view/137), 2018 — abstract read, not the PDF.\n- [Wieczorek, \"You're either In or Out: Remarks on Clusivity\", *CADAAD* 3(2):118–129](https://ugp.rug.nl/cadaad/article/view/42058), 2009 — abstract read, not the PDF.\n\nInstruments, credited rather than counted as research: Molesworth's *Dictionary, Marathi and English* (1857) via DSAL, English Wiktionary's Marathi entries, and UD Marathi-UFAL.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/propose-message-in-marathi#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Marathi language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Marathi_language",
+              "https://www.wikidata.org/wiki/Q1571"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Clusivity",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Clusivity",
+              "https://www.wikidata.org/wiki/Q311784"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Universal Dependencies",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Universal_Dependencies",
+              "https://www.wikidata.org/wiki/Q64830310"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Propose Day",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Propose_Day",
+              "https://www.wikidata.org/wiki/Q7250378"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Maharashtra",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Maharashtra",
+              "https://www.wikidata.org/wiki/Q1191"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Grambank feature GB028 for Marathi",
+            "url": "https://grambank.clld.org/values/GB028-mara1378",
+            "datePublished": "2023",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Max Planck Institute for Evolutionary Anthropology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Inclusive/Exclusive Distinction in Independent Pronouns (WALS chapter 39)",
+            "url": "https://wals.info/chapter/39",
+            "datePublished": "2013",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Max Planck Institute for Evolutionary Anthropology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Excluding exclusively the exclusive: Suppletion patterns in clusivity",
+            "url": "https://www.glossa-journal.org/article/id/5098/",
+            "datePublished": "2018",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Glossa: a journal of general linguistics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Patterns of clusivity in TED Talks: When 'you' and 'I' become 'we'",
+            "url": "https://revistaiberica.org/index.php/iberica/article/view/137",
+            "datePublished": "2018",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Iberica (AELFE)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "This is to Say You're either In or Out: Some Remarks on Clusivity",
+            "url": "https://ugp.rug.nl/cadaad/article/view/42058",
+            "datePublished": "2009",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CADAAD Journal"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The plain ask",
+            "description": "तुला एक विचारायचं आहे — आपण एकत्र सुरुवात करूया का? Register तू; no speaker-gender form needed."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "After a long wait",
+            "description": "मी खूप वेळ थांबलो / थांबले. आज विचारतो / विचारते — आपण एकत्र राहूया का? Register तू; speaker gender marked twice."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Respectful, for someone you do not know well",
+            "description": "तुम्हाला हे सांगायला मला वेळ लागला. आपण एकत्र राहूया का? Register तुम्ही; unmarked for speaker gender."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The marriage ask",
+            "description": "तुला एक विचारतो / विचारते. आपण लग्न करूया का? Register तू; the verb sits on आपण, not on the addressee."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Taking the pressure off",
+            "description": "उत्तर आज नको. तू विचार कर. मी थांबतो / थांबते. Register तू; sent after the ask, never instead of it."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Making a no survivable",
+            "description": "नकार आला तरी चालेल. मी विचारलं, आणि आता तुला माहित आहे. Register तू; unmarked for speaker gender."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "For a partner you already have",
+            "description": "आपण एकत्र आहोत — हे मला आज पुन्हा सांगायचं आहे. Register-neutral; आहोत locks आपण into the inclusive reading."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "The one where आम्ही is correct",
+            "description": "आम्ही दोघं एकत्र आहोत. हे तुम्हाला सांगायचं होतं. Register तुम्ही; sent to family, not to the person being asked."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "propose message in marathi",
+    "angle": "Wins by being the only propose-message page built on Marathi clusivity — आपण as the inclusive \"we\" a proposal is asking for, against आम्ही which excludes the addressee — backed by an own count over Grambank's GB028 codes showing only 2 of 16 Indo-Aryan languages carry the feature while Hindi does not, and by the UD Marathi-UFAL treebank where all five Clusivity-tagged tokens read In and belong to आपण, with SubhSandesh's platform-wide 48.3% phone-view rate pricing the register decision.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/proposal",
+      "/love-gf",
+      "/date-invitation"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,679 of 5,148) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (1,983 of 5,148) — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,178 created, 22.9% of all pages — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://grambank.clld.org/values/GB028-mara1378",
+        "stat": "Grambank codes feature GB028, \"Is there a distinction between inclusive and exclusive?\", as present (value 1) for Marathi, referencing Dhongde and Wali (2009: 48-50). Own count over the Grambank CLDF release: of 16 Indo-Aryan languages carrying a GB028 code only Marathi and Maithili are coded present; Hindi, both Panjabis, Odia, Nepali, Kashmiri, Bhojpuri, Awadhi and Konkan Marathi are coded absent, while 26 of 35 Dravidian languages coded are present.",
+        "publishedDate": "2023"
+      },
+      {
+        "url": "https://wals.info/chapter/39",
+        "stat": "Michael Cysouw's WALS chapter on the inclusive/exclusive distinction in independent pronouns: the distinction is found in no European language, and the Dravidian language Kannada in the WALS sample has lost it under the influence of neighbouring Indo-Aryan languages.",
+        "publishedDate": "2013"
+      },
+      {
+        "url": "https://www.glossa-journal.org/article/id/5098/",
+        "stat": "Beata Moskal, \"Excluding exclusively the exclusive: Suppletion patterns in clusivity\": in the 1SG-1EXCL-1INCL triple, ABA suppletion patterns do not arise, which she argues supports the view that the inclusive is the most marked category of the three.",
+        "publishedDate": "2018"
+      },
+      {
+        "url": "https://revistaiberica.org/index.php/iberica/article/view/137",
+        "stat": "Giuseppina Scotto di Carlo's corpus study of the 2012 TED Talks: inclusive pronouns in the corpus construct positive politeness, and the distinction between 'I', the speaker, and 'you', the audience, gives way to 'we' in a common project. Abstract read; the PDF galley was not parseable.",
+        "publishedDate": "2018"
+      },
+      {
+        "url": "https://ugp.rug.nl/cadaad/article/view/42058",
+        "stat": "Anna Ewa Wieczorek, \"This is to Say You're either In or Out: Some Remarks on Clusivity\": clusivity rests on a container schema and a centre-periphery schema, with the speaker intentionally imposing boundaries demarcating 'us' and 'them'. Abstract read; the PDF was not parseable.",
+        "publishedDate": "2009"
+      }
+    ],
+    "structuralLimitations": [
+      "The Marathi on this page was NOT reviewed by a native speaker. Twenty messages were drafted and twelve cut; the eight published were checked word by word against Molesworth's Dictionary, Marathi and English (1857) via the Digital Dictionaries of South Asia, English Wiktionary's Marathi entries citing Berntsen, and the UD Marathi-UFAL treebank. That is a machine-verifiable standard, not a fluency judgement.",
+      "Two constructions rest on a pattern rather than a direct attestation. The first-person-plural hortative -ऊया is attested in the treebank on करणे (आपण त्याच्यासाठी काही करूया) and होणे (तुम्ही आम्ही होऊया) and on जाणे in Wiktionary (आपण जाऊयात का?); राहूया extends that regular pattern to राहणे, which is attested as a verb but not in this form. Likewise विचारलं is the colloquial spelling of the treebank's विचारले.",
+      "खूप is published on the second verification tier only. Molesworth's खूप headword is a homograph glossed as sharp pain or smarting of the eyes during ophthalmia; it is English Wiktionary, citing Berntsen, that supplies \"much, many, very\". पण and सुद्धा are in the same position, and were kept out of the published messages for that reason.",
+      "The Hindi blocklist screen (मैं, हम, तुम, तुम्हें, मुझे, मेरा, तेरा, हूँ, है, हैं, नहीं, प्यार, जिंदगी, बहुत, सिर्फ, लेकिन, और, भी, दिल, हमेशा) returned zero hits across the eight published messages. का was deliberately excluded from the blocklist: it is the Marathi sentence-final interrogative particle, attested in the treebank (तुला माहित आहे का?) and a homograph of the Hindi genitive, not a Hindi borrowing here.",
+      "Grambank's GB028 coding for Marathi is second-hand: it cites Dhongde and Wali (2009: 48-50), a grammar that was not read. The Indo-Aryan and Dravidian counts in the body are my own tally over Grambank's released CLDF values, not figures printed by Grambank.",
+      "Molesworth (1857) does not describe आपण as an inclusive first-person plural at all — it calls it a representative or referential pronoun standing indifferently for I, thou, he, we, ye, they, plus the honorific use. The clusivity reading of आपण is a modern grammatical description. The body says so rather than smoothing it over.",
+      "The UD Marathi-UFAL treebank is small: 466 sentences, 4,176 tokens. Five tokens carry the Clusivity feature and all five read In; no token reads Ex. Absence of a form from it is not evidence that the form is wrong, only that it is unattested there. The UD documentation page for Clusivity does not list Marathi among the languages with language-specific documentation for the feature, although the Marathi treebank uses it.",
+      "Ban-exempt instruments reused deliberately under the BRIEF's mid-batch exemption: Molesworth via dsal.uchicago.edu, English Wiktionary, and universaldependencies.org together with the UD_Marathi-UFAL CoNLL-U release. They are credited in prose and here rather than spending batchMeta.sources slots, which is the BRIEF's preferred handling.",
+      "Phase 1 was not a SERP measurement. One WebSearch call was spent on the keyword and no ranking page was fetched, so the post makes no claim about what any competitor's page contains or where it ranks. The search was US-served, not India-served. The only India-served SERPs ever measured for this territory are the 11 in content/keywords/2026-09-16-propose-100/serps.md, measured 2026-09-16, and this keyword is not among them.",
+      "No pricing data exists in content/facts.md — the pricing block is still empty — so this post states no price, no free tier and no paid tier.",
+      "There is no proposal-specific first-party data. A read-only probe of the proposalpages collection is refused by this machine's production-read policy, so every SubhSandesh figure here is platform-wide across 21 page types or sampled on a named template, and the body prose says which.",
+      "The /proposal, /love-gf and /date-invitation templates are English-language. The body says so; there is no Marathi-language template on the platform, and the live corpus holds zero pages in any Indian language.",
+      "The three sibling cross-links were checked against Strapi on 2026-09-24 and all three resolve (propose-day-quotes-in-marathi, propose-day-wishes-in-marathi, how-to-propose-girl-in-marathi), so they will not 404. They are internal links outside TEMPLATE_LINKS, which is recorded as a checklist failure rather than hidden here.",
+      "Two of the five sources — Iberica and CADAAD — were read as abstracts only. Both are open access, but the PDF galleys did not parse in this environment, so only what the abstract states is cited."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Phase 1 was one WebSearch call on the keyword; no ranking page was fetched, so no claim can honestly be made about what the top five contain. The original count over Grambank's GB028 codes is very unlikely to appear elsewhere, but 'unlikely' is not 'verified'. Closes when a India-served SERP is measured and the top five are fetched."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three of the internal links are sibling blog URLs (/blog/propose-day-quotes-in-marathi, /blog/propose-day-wishes-in-marathi, /blog/how-to-propose-girl-in-marathi), which are not TEMPLATE_LINKS entries. All three were verified live in Strapi on 2026-09-24 and resolve, so they are real URLs, but the item as written is not satisfied. The three template links (/proposal, /love-gf, /date-invitation) all exist in TEMPLATE_LINKS."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this over a Marathi quotes aggregator because it is the only page in this territory that explains why Marathi can express the exact 'us' a proposal is asking for, and backs that with two checkable things nobody else prints: Grambank's GB028 coding (present for Marathi, absent for Hindi, only 2 of 16 Indo-Aryan languages coded present) and the UD Marathi-UFAL treebank where all five Clusivity-tagged tokens read In and belong to आपण. It also publishes the cut ledger, which is a verifiability signal a copy-paste list cannot fake. Against that: this is a February news-cycle SERP owned by Marathi news and shayari properties with far more domain authority, the page is a visibility asset judged on impressions rather than a converting page, and position 6-10 is the realistic target, not 3. The Marathi was not reviewed by a native speaker, which is the single change that would most improve it."
+    },
+    "generatedAt": "2026-09-24T08:37:41.109Z"
+  }
+}

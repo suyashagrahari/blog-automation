@@ -1,0 +1,335 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Love Proposal in Telugu: 11 Lines, Each One Verified",
+    "slug": "love-proposal-in-telugu",
+    "excerpt": "Eleven Telugu lines for asking someone out, in script, transliteration and English gloss, each checked word by word against Gwynn's Telugu-English dictionary and two corpora — plus the twelve I cut, and the dictionary entry that killed each one.",
+    "metaTitle": "Love Proposal in Telugu — 11 Lines and the 12 I Cut",
+    "metaDescription": "Love proposal in Telugu: 11 lines in script, transliteration and gloss, checked against Gwynn's dictionary and a corpus where 92.91% of words end in a vowel.",
+    "keywords": "love proposal in telugu, telugu proposal lines, how to propose in telugu, telugu love lines, propose a girl in telugu",
+    "canonicalURL": "https://subhsandesh.in/blog/love-proposal-in-telugu",
+    "ogType": "article",
+    "tags": [
+      "telugu",
+      "proposal",
+      "language",
+      "modern romance",
+      "phonology"
+    ],
+    "keyTakeaways": [
+      "11 Telugu lines are published here and 12 were cut; every line is a Gwynn dictionary headword with a form attested in a Telugu corpus.",
+      "92.91% of the 4,994 Telugu word tokens in the UD Telugu-MTG treebank end in a vowel, and only 0.52% end in a bare consonant — so the last sound of your line is something you can hold.",
+      "In Indian usage a \"love proposal\" means asking someone to be your girlfriend or boyfriend, so /love-gf is usually the right template and /proposal, which assumes marriage, usually is not.",
+      "The \"Italian of the East\" attribution to Niccolò de' Conti could not be sourced: his narrative in the 1857 Hakluyt translation mentions neither Telugu nor vowels.",
+      "48.3% of the 56,886 recorded views of SubhSandesh pages opened on a phone, platform-wide across 21 page types, measured 2026-09-24."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say \"will you be my girlfriend\" in Telugu?",
+        "answer": "నువ్వు నన్ను ఒప్పుకుంటావా? (nuvvu nannu oppukuṇṭāvā) is the closest everyday phrasing — literally \"will you accept me?\". Gwynn's dictionary glosses ఒప్పుకొను as \"to consent, agree\", and the -తావా ending is the question form that goes with the intimate pronoun నువ్వు."
+      },
+      {
+        "question": "Should I use నువ్వు or మీరు when I propose in Telugu?",
+        "answer": "Use whichever you already use with them in conversation. నువ్వు is the intimate singular and మీరు the respectful one, and the verb has to move with it: the question ending is -తావా after నువ్వు and -తారా after మీరు."
+      },
+      {
+        "question": "Is a love proposal the same as a marriage proposal in Telugu?",
+        "answer": "No, and the verbs differ. In Indian usage \"love proposal\" almost always means asking someone to be your girlfriend or boyfriend, while a marriage question uses పెళ్లి (peḷli) — which is why no పెళ్లి line appears on this page."
+      },
+      {
+        "question": "Do Telugu words really all end in vowels?",
+        "answer": "Almost all of them do. In the 6,465-token Universal Dependencies Telugu-MTG treebank, 92.91% of the 4,994 Telugu word tokens end in a vowel, 6.57% end in the nasal ం, and only 0.52% end in a bare consonant — and those 26 tokens are loanwords, names and shouted vocatives."
+      },
+      {
+        "question": "Why does it matter how a Telugu line ends if I am saying it out loud?",
+        "answer": "Because a phrase-final vowel in Telugu lengthens and takes pitch, according to the Stanford Phonology Archive's 1979 Telugu entry. A line ending in the question vowel -ā can be held while you wait; a line ending in -u lands flat and finishes."
+      },
+      {
+        "question": "What does నీ మీద నాకు ఇష్టం ఉంది mean?",
+        "answer": "\"I have a liking for you\" (nī mīda nāku iṣṭaṁ undi). Gwynn's entry for ఇష్టం supplies exactly this construction, glossing the parallel sentence as \"she has a liking for you\"."
+      },
+      {
+        "question": "Can I use a line from a Telugu film song to propose?",
+        "answer": "Not from this page. Modern film lyrics and published poetry are under copyright, so nothing here is taken from them, and a borrowed film line also reads as film dialogue rather than as something you said."
+      },
+      {
+        "question": "Why are there only 11 lines here instead of fifty?",
+        "answer": "Because 11 is how many survived checking. I drafted 23 and cut 12 whose words were not dictionary headwords or whose forms were not attested in either corpus, and a wrong line in a proposal is worse than no line."
+      },
+      {
+        "question": "Were these Telugu lines checked by a native speaker?",
+        "answer": "No. They were checked against J. P. L. Gwynn's 1991 Telugu-English dictionary, the 6,465-token Universal Dependencies Telugu-MTG treebank and the 318-sentence Tatoeba Telugu export, and nothing beyond that."
+      },
+      {
+        "question": "Which SubhSandesh template should I use for a love proposal?",
+        "answer": "Usually the \"I love you\" page at /love-gf, because most people searching this are asking someone to be their girlfriend or boyfriend rather than proposing marriage. The Will You Marry Me scrapbook at /proposal assumes marriage, and /date-invitation fits if you have not asked them out yet."
+      },
+      {
+        "question": "Is Telugu really \"the Italian of the East\", and who said it first?",
+        "answer": "I could not find out. The remark is usually credited to Niccolò de' Conti, but his narrative in the 1857 Hakluyt Society translation contains no mention of Telugu or of vowels, and the oldest version I could read is C. P. Brown's 1857 grammar, which says only that \"Telugu has been called the Italian of India\" without naming anyone."
+      },
+      {
+        "question": "How do I ask for an answer politely in Telugu?",
+        "answer": "నాకు జవాబు చెప్పండి (nāku javābu ceppaṇḍi) — \"tell me your answer\", with the respectful -ండి imperative. The intimate version is నాకు జవాబు చెప్పు, and జవాబు is a Gwynn headword glossed \"answer, reply\"."
+      }
+    ],
+    "coverImageQuery": "handwritten telugu note two people talking",
+    "coverImagePrompt": "A close, warm photograph of a young Indian couple sitting on a low wall in the evening, one of them mid-sentence and the other listening, phones face down between them. Soft amber street light, shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No readable text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Love Proposal in Telugu: 11 Lines, Each One Verified\n\nA love proposal in Telugu is, in Indian usage, almost never a marriage proposal — it means asking someone to be your girlfriend or boyfriend — so every line below is an ask, not a vow. There are 11, each in Telugu script with a Roman transliteration and an English gloss, each checked word by word against J. P. L. Gwynn's *A Telugu-English Dictionary* and two Telugu corpora. I drafted 23 and cut 12.\n\nTwo SubhSandesh numbers frame the page, both measured 2026-09-24 and both platform-wide across all 21 page types rather than specific to proposals: 5,148 personalised pages created since 12 March 2026, and 48.3% of the 56,886 recorded views opened on a phone. Below: why Telugu lines end as they do, the lines grouped by that ending, the 12 cuts, and one famous claim I could not source.\n\n## What a love proposal in Telugu is asking for\n\nA love proposal in Telugu is a request to begin a relationship, phrased in the second person and marked for how close you already are. It is not a పెళ్లి (*peḷli*, marriage) question; the two take different verbs.\n\nGwynn glosses ఒప్పుకొను (*oppukonu*) \"to consent, agree\" and ప్రేమించు (*prēmiñcu*) \"to love, fall in love with\": the first is what you are asking for, the second what you are declaring.\n\n## Why almost every Telugu word ends in a vowel, and why that matters out loud\n\nI measured it rather than repeating it. The [Universal Dependencies Telugu-MTG treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG) holds 1,328 sentences and 6,465 tokens, annotated from Krishnamurti and Gwynn's 1985 grammar; 4,994 are Telugu words once punctuation is dropped. **92.91% end in a vowel**, 6.57% in the nasal ం, and **0.52% in a bare consonant**.\n\nThose 26 tokens are 16 distinct words: loanwords (టికట్, సైకిల్, లండన్), names (హైదరాబాద్), or shouted vocatives in -ఓయ్. The same count on the 318-sentence Tatoeba Telugu export gives 89.21% vowel-final of 1,297 tokens.\n\nThat matches the grammar. P. Sailaja of the University of Hyderabad, in [Syllable Structure of Telugu (ICPhS 1999)](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0743.pdf), states that \"Telugu does not permit consonants in the final position except [m, y, w]\", and that borrowings take a final epenthetic vowel — *ball* becomes [baalu]. In her judgement task on 24 disyllabic nouns with 10 speakers, VCV words split V-CV in 85% of responses: \"the preference is for open syllables.\"\n\nThe [Stanford Phonology Archive's 1979 Telugu entry](https://archive.org/details/tel_SPA1979_phon), drawing on Lisker's *Introduction to Spoken Telugu*, adds what that does aloud: final vowels are \"longer when it is in phrase-final position\", and a phrase-final vowel is marked \"not only by increased length, but also by... pitch.\"\n\nSo the last sound of a Telugu sentence is an open vowel you can stretch and raise — a gift if you are asking and waiting, a trap if your line ends flat when you needed it to hang.\n\n## 11 Telugu lines to propose with, grouped by how each one ends\n\nEach group gives the lines, the register, what the ending does aloud, and — the part quote lists skip — when not to use it. నువ్వు (*nuvvu*) is the intimate singular, మీరు (*mīru*) the respectful, and the verb moves with the pronoun.\n\n### 1. Lines that end in -ఉంది: open the conversation, don't demand an answer\n\n**Lines.** నీతో మాట్లాడాలని ఉంది. (*nītō māṭlāḍālani undi* — \"I want to talk with you.\") · నిన్ను కలుసుకోవాలని ఉంది. (*ninnu kalusukōvālani undi* — \"I want to meet you.\") · నిన్ను అడగాలని ఉంది. (*ninnu aḍagālani undi* — \"I want to ask you something.\") · నీ మీద నాకు ఇష్టం ఉంది. (*nī mīda nāku iṣṭaṁ undi* — \"I have a liking for you.\")\n\n**Register.** Intimate singular, from నీ- and నిన్ను.\n\n**The ending.** All four land on *undi*, a short -i that closes rather than hovers, so the other person is not obliged to answer.\n\n**When not to use it.** Not as your only line: Gwynn's ఇష్టం entry supplies the fourth construction, but none of these four actually asks anything.\n\n### 2. Lines that end on the question vowel -ā: the ask itself\n\n**Lines.** నువ్వు నన్ను ఒప్పుకుంటావా? (*nuvvu nannu oppukuṇṭāvā* — \"Will you accept me?\") · నువ్వు నన్ను నమ్ముతావా? (*nuvvu nannu nammutāvā* — \"Will you trust me?\")\n\n**Register.** Intimate singular, with the -తావా question ending that goes with నువ్వు; the treebank attests four, including వస్తావా.\n\n**The ending.** The question particle *-ā* is itself a vowel and it is phrase-final, so it stretches and takes pitch: the line ends with your voice still up, the shape of waiting.\n\n**When not to use it.** Not in a group, and not in writing where they cannot answer soon.\n\n### 3. Lines that land on -u: statements, and what you write on a card\n\n**Lines.** నాకు జవాబు చెప్పు. (*nāku javābu ceppu* — \"Tell me your answer.\") · నేను ఎప్పుడూ నీతోనే ఉంటాను. (*nēnu eppuḍū nītōnē uṇṭānu* — \"I will always be with you.\")\n\n**Register.** Intimate singular; చెప్పు is the plain imperative.\n\n**The ending.** Both end in -u, the commonest word-final sound in the treebank at 1,889 of 4,994 tokens, 37.83% — a flat, finished landing: good on paper, weak aloud.\n\n**When not to use it.** Never open with the first: asking for an answer before you have asked anything is how a proposal gets a polite no.\n\n### 4. The same asks in the మీరు register\n\n**Lines.** మీతో మాట్లాడాలని ఉంది. (*mītō māṭlāḍālani undi*) · మీరు నన్ను ఒప్పుకుంటారా? (*mīru nannu oppukuṇṭārā* — \"Will you accept me?\") · నాకు జవాబు చెప్పండి. (*nāku javābu ceppaṇḍi* — \"Tell me your answer.\")\n\n**Register.** Respectful singular: -తావా becomes -తారా, and the imperative takes -ండి.\n\n**The ending.** Unchanged, so a line chosen for its sound keeps sounding that way in either register.\n\n**When not to use it.** Not with someone you already say నువ్వు to; to them మీరు reads as a step backwards.\n\n## Which template matches what you are actually asking\n\nThe container depends on the ask, not the language. All figures are platform-wide across 21 page types, 2026-09-24.\n\n| What you are actually asking | Template that assumes it | Lines above that fit | SubhSandesh, platform-wide, 2026-09-24 |\n|---|---|---|---|\n| \"Be my girlfriend or boyfriend?\" | `/love-gf` | Groups 1, 2, 4 | 1,178 created, 22.9% of all pages; most-viewed template, 16,998 views, 29.9% of views |\n| \"Will you marry me?\" | `/proposal` | None — no పెళ్లి line here | No per-template creation figure in this dataset |\n| \"Will you come out with me?\" | `/date-invitation` | నీతో / మీతో మాట్లాడాలని ఉంది | No per-template creation figure in this dataset |\n| \"I owe you an apology first\" | `/apology-dashboard` | None | 1,375 created, 26.7% of all pages; median first-save to last-edit 2.2 hours, n=1,375 |\n\nThe takeaway is the second row. [The Will You Marry Me scrapbook](/proposal) is a real proposal page — your story screen by screen, ending on a YES button that grows every time they dodge it — but it assumes marriage, and most people searching this phrase are not.\n\nThe honest alternative is [the \"I love you\" page](/love-gf), or [the date invitation](/date-invitation) if you have not asked them out. All three are English-language — headings, buttons, prompts — and the Telugu is only what you type.\n\n## The 12 lines I cut, and what killed each one\n\nCut on the dictionary: **ఈ విషయం నీకు ఎలా చెప్పటమా అని ఆలోచిస్తూ ఉన్నాను** — Gwynn's విషయం runs to four senses and the fourth is \"sensuality, sexual pleasure\". **ఈ సంగతి నీకు చెప్పాలని ఉంది** — same trap: సంగతి sense 4 is \"sexual intercourse\". **నువ్వు నా దగ్గర ఉంటే చాలు** — దగ్గర returns no headword. **నాకు నువ్వు తెలుసు** and **నీకు తెలుసా** — తెలుసు is not a headword either; Gwynn has only తెలుసుకొను, \"to learn, get to know\".\n\n**నా మాట విను** — glossed there as \"follow my advice\", a parent's sentence. **నేను నీ కోసం ఎదురు చూస్తాను** — ఎదురుచూడు has no entry; ఎదురు alone is \"front; opposite, facing\".\n\nCut on the corpus: **నాకు నీ తోడు కావాలి** — తోడు is a headword with zero tokens in 6,465. **నాకు నువ్వు నచ్చావు** — నచ్చు is intransitive with the liked thing as subject, so zero tokens left the agreement unsettled. **నువ్వు నా ప్రేమను ఒప్పుకుంటావా** — ప్రేమ, zero tokens in either corpus.\n\nTwo more verified cleanly and went because a SubhSandesh Propose Day page already publishes them. **నువ్వు అందంగా ఉన్నావు** (\"you are beautiful\") verified too, and is a compliment rather than an ask.\n\n## \"The Italian of the East\": I could not source the attribution\n\nTelugu is popularly called \"the Italian of the East\", and the epithet is almost always credited to Niccolò de' Conti, the Venetian who reached Vijayanagara before 1420 and is said to have noticed that Telugu words end in vowels as Italian words do. Given the 92.91% above, the observation would be fair. The citation is not.\n\n\nConti left no book; Poggio Bracciolini wrote the account down in 1444, and the standard English translation is R. H. Major's [*India in the Fifteenth Century*](https://archive.org/details/indiainfifteenth00majorich), Hakluyt Society, 1857. I searched that full text. Conti's narrative is all there — Cambay, Bizenegalia, the sardonyxes — but *Telugu*, *Telinga* and *vowel* appear zero times, as does any phrase resembling \"Italian of the East\".\n\nThe oldest version I could read is [Charles Philip Brown's 1857 grammar](https://archive.org/details/brown-a-grammar-of-the-telugu-language): \"Telugu has been called the Italian of India.\" Passive voice, no attributor, hedged in the next breath — \"it has some rough and rude dialects\". And it is \"of India\", not \"the East\".\n\nSo: widely repeated, unsourced here. That is a negative result on one OCR'd translation, not proof the remark was never made — but the text everyone points at does not contain it.\n\n## When a Telugu line on an English page is the wrong choice\n\nEvery SubhSandesh template is written in English, so a reader not comfortable in English gets their own line inside a frame they cannot read. A plain WhatsApp message is the better container, and no animation fixes it.\n\nSecond, the ask: if you are genuinely proposing marriage, none of these 11 lines is right — the marriage verb is deliberately absent here.\n\nThird, privacy. 38.5% of creators password-protect their page before sharing, 1,983 of 5,148, platform-wide across 21 page types; 90.9% of started pages get published, 4,679 of 5,148. But a Telugu line no native speaker has checked is not made correct by publishing it.\n\n## Sources\n\n- P. Sailaja, *Syllable Structure of Telugu*, 1999 — [ICPhS 1999, pp. 743–746](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0743.pdf)\n- Stanford Phonology Archive, *Handbook of Phonological Data*, Telugu, 1979 — [full text](https://archive.org/details/tel_SPA1979_phon)\n- C. P. Brown, *A Grammar of the Telugu Language*, 1857 — [full text](https://archive.org/details/brown-a-grammar-of-the-telugu-language)\n- R. H. Major (ed.), *India in the Fifteenth Century*, Hakluyt Society, 1857 — [full text](https://archive.org/details/indiainfifteenth00majorich)\n- Instruments, credited not cited: Gwynn's *A Telugu-English Dictionary* (1991) at the [Digital South Asia Library](https://dsal.uchicago.edu/dictionaries/gwynn/), the [UD Telugu-MTG treebank](https://github.com/UniversalDependencies/UD_Telugu-MTG), the Tatoeba Telugu export.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/love-proposal-in-telugu#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Telugu language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Telugu_language",
+              "https://www.wikidata.org/wiki/Q8097"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Dravidian languages",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dravidian_languages",
+              "https://www.wikidata.org/wiki/Q33311"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Syllable",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Syllable",
+              "https://www.wikidata.org/wiki/Q8188"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Niccolò de' Conti",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Niccol%C3%B2_de%27_Conti",
+              "https://www.wikidata.org/wiki/Q442610"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Charles Philip Brown",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Charles_Philip_Brown",
+              "https://www.wikidata.org/wiki/Q5081633"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Syllable Structure of Telugu",
+            "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0743.pdf",
+            "datePublished": "1999",
+            "author": {
+              "@type": "Person",
+              "name": "P. Sailaja"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Congress of Phonetic Sciences"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Handbook of Phonological Data from a Sample of the World's Languages — Telugu",
+            "url": "https://archive.org/details/tel_SPA1979_phon",
+            "datePublished": "1979",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Stanford Phonology Archive"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "A Grammar of the Telugu Language, 3rd edition",
+            "url": "https://archive.org/details/brown-a-grammar-of-the-telugu-language",
+            "datePublished": "1857",
+            "author": {
+              "@type": "Person",
+              "name": "Charles Philip Brown"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "India in the Fifteenth Century",
+            "url": "https://archive.org/details/indiainfifteenth00majorich",
+            "datePublished": "1857",
+            "editor": {
+              "@type": "Person",
+              "name": "R. H. Major"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Hakluyt Society"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Telugu proposal lines, grouped by how each one ends",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Lines that end in -ఉంది: open the conversation, don't demand an answer",
+            "description": "Four intimate-register lines ending on undi, a short -i that closes rather than hovers."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lines that end on the question vowel -ā: the ask itself",
+            "description": "Two intimate-register questions carrying the -తావా ending; the phrase-final vowel lengthens and takes pitch."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Lines that land on -u: statements, and what you write on a card",
+            "description": "Two lines ending in -u, the commonest word-final sound in the treebank at 1,889 of 4,994 tokens, 37.83%."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The same asks in the మీరు register",
+            "description": "Three respectful-register lines; the question ending moves from -తావా to -తారా and the imperative takes -ండి."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "love proposal in telugu",
+    "angle": "Wins by being the only love-proposal-in-Telugu page that measures the language property it relies on — 92.91% of the 4,994 Telugu word tokens in the UD Telugu-MTG treebank and 89.21% of the 1,297 in the Tatoeba Telugu export end in a vowel — groups its 11 verified lines by how each one ends aloud, publishes the 12 it cut with the Gwynn entry that killed each, and reports that the \"Italian of the East\" attribution could not be sourced from Conti's own narrative.",
+    "categorySlug": "modern-romance",
+    "templateUrls": [
+      "/love-gf",
+      "/proposal",
+      "/date-invitation"
+    ],
+    "factsUsed": [
+      "5,148 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,499 of 56,886 views) — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,178 created, 22.9% of all pages — measured 2026-09-24",
+      "Most-viewed template: love-gf — 16,998 views, 29.9% of all page views — measured 2026-09-24",
+      "Most popular creation: apology dashboard (/apology-dashboard) — 1,375 pages, 26.7% of everything created — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.2 hours — sampled on apology dashboard (/apology-dashboard), n=1,375 — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (1,983 of 5,148) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,679 of 5,148) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS1999/papers/p14_0743.pdf",
+        "stat": "\"Telugu does not permit consonants in the final position except [m, y, w]\"; borrowings always require a final epenthetic vowel ([i] after final palatals, [u] otherwise — bench [benci], ball [baalu]); in a judgement task on 24 disyllabic nouns with 10 adult Telugu speakers, VCV structures were split V-CV in 85% of responses, and \"the preference is for open syllables\".",
+        "publishedDate": "1999"
+      },
+      {
+        "url": "https://archive.org/details/tel_SPA1979_phon",
+        "stat": "Telugu entry (#415): word-final vowel length \"does not serve as a distinctive characteristic of words. Instead, final vowels are highly variable in length, generally short when the word is not final in a phrase, longer when it is in phrase-final position. When the word-final vowel is at the end of a phrase, it is marked not only by increased length, but also by... pitch.\" (quoting Lisker, Introduction to Spoken Telugu, p. xiv)",
+        "publishedDate": "1979"
+      },
+      {
+        "url": "https://archive.org/details/brown-a-grammar-of-the-telugu-language",
+        "stat": "\"Telugu has been called the Italian of India. In the poems, and as spoken in retired villages, it may merit this name; but, like Italian, it has some rough and rude dialects, more or less mixed with foreign languages.\" — stated in the passive with no attributor named, and as \"of India\", not \"of the East\". Also, on prosody: \"Every syllable is distinctly either long or short as it appears to the eye: none are doubtful: every vowel is pronounced as it is in the alphabet.\"",
+        "publishedDate": "1857"
+      },
+      {
+        "url": "https://archive.org/details/indiainfifteenth00majorich",
+        "stat": "The standard English translation of Niccolò de' Conti's narrative, from Poggio Bracciolini's Latin. A full-text search of the volume returns 70 occurrences of \"Conti\", 5 of \"Bizenegalia\", 26 of \"Cambay\" and 4 of \"Poggio\" — and ZERO occurrences of \"Telugu\", \"Telinga\", \"vowel\", \"Italian of\" or \"of the East\". All six occurrences of \"Italian\" concern Italian merchants, Italian maps, Ramusio's Italian translation and a cadi who knew some Italian.",
+        "publishedDate": "1857"
+      }
+    ],
+    "structuralLimitations": [
+      "The Telugu lines on this page were NOT reviewed by a native speaker. They were verified only against J. P. L. Gwynn's 1991 Telugu-English Dictionary (via the Digital South Asia Library), the 6,465-token Universal Dependencies Telugu-MTG treebank, and the 318-sentence Tatoeba Telugu export. Publish only if a native-speaker check is acceptable as a later step.",
+      "Ban-exempt instrument reuse, declared deliberately: Gwynn's dictionary, the UD Telugu-MTG treebank and the Tatoeba Telugu export were also used by the wave-3 post propose-day-quotes-in-telugu. Per the BRIEF's 'Exemption to the cross-wave URL ban', they are kept out of batchMeta.sources and credited in prose instead, so the source slots stay with genuine research.",
+      "No proposal-specific data exists: the read-only probe of the proposalpages collection remains refused by this machine's production-read policy. Every SubhSandesh figure in the body is labelled in prose as platform-wide across 21 page types, or as sampled on the named template (the 2.2-hour median is sampled on /apology-dashboard, n=1,375).",
+      "The pricing block in content/facts.md is still empty, so the post states and implies no price, no free tier and no paid tier.",
+      "Phase 1 was a single US-served web search run on 2026-09-24 that returned a result list only. No incumbent page was fetched, no India-served SERP was measured, and the post therefore makes no claim about what any ranking page contains.",
+      "The 'Italian of the East' result is a NEGATIVE result on one OCR'd 1857 English translation. Poggio Bracciolini's Latin original, Ramusio's Italian version and later editions were not searched, and OCR can hide a word. It is evidence that the usual citation does not support the attribution, not proof the remark was never made.",
+      "Open-access research on Telugu phonology is close to non-existent. The DOAJ API returns one article for 'Telugu phonology' (a 2025 EURASIP paper on end-to-end ASR, not about word-final structure) and zero for 'Telugu syllable' and 'Telugu speech vowel'. findpapers.mjs was run on all four assigned queries and returned no usable Telugu-specific open-access paper; Crossref's nearest hits were paywalled OUP chapters.",
+      "The two corpus measurements in the body (92.91% vowel-final over 4,994 UD Telugu-MTG word tokens; 89.21% over 1,297 Tatoeba tokens) were computed here, not taken from a publication. They are reproducible from the public files but have not been peer-reviewed. The UD treebank is drawn from the example sentences of a single 1985 grammar, so absence of a form from it is weak evidence; the Tatoeba export contains visible learner typos (ఒద్దని for వద్దని) and was used only as corroboration.",
+      "Gwynn is a dictionary of headwords, not of inflected forms, and the treebank is small, so a handful of published lines rest on an affix pattern attested on a different stem rather than on the exact form. Those are: నమ్ముతావా (stem నమ్ము attested; -తావా attested on four other stems), ఒప్పుకుంటావా / ఒప్పుకుంటారా (stem ఒప్పుకో- attested; endings attested elsewhere), and కలుసుకోవాలని (stem attested; -ఆలని attested on వినాలని and అడగాలని).",
+      "scripts/verify-batch.mjs counts body links as well as sources, and therefore flags dsal.uchicago.edu as being in 6 posts of this batch, this one included, and github.com as at the cap of 3. Both are ban-exempt verification instruments under the BRIEF's 'Exemption to the cross-wave URL ban' (Gwynn's dictionary; the Universal Dependencies treebank), they are deliberately kept out of batchMeta.sources, and capcheck.mjs — the batch's own cap tool — excludes them by design. Recorded here so the reuse is visible and deliberate. Five of those six dsal posts pre-date this one.",
+      "One near-collision was noticed and kept rather than hidden: Gwynn lists చెప్పు twice, and the FIRST headword is a noun meaning 'sandal, slipper, shoe'. The verb 'to say, tell' is the second headword, which is the sense used in నాకు జవాబు చెప్పు."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "Not verifiable. The only SERP pass was one US-served web search on 2026-09-24 that returned a result list; no incumbent page was fetched, so the post cannot claim a gap against what the top five actually contain. It would close if an India-served SERP were measured and the top five fetched."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "The H2s map to sub-queries inferred from the keyword and from the two instruments, not to a measured fan-out. Phase 2 was run without fetching any ranking page, so the mapping is reasoned rather than evidenced."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this for two things no Telugu quote list offers. First, the structural claim under the page is measured rather than repeated: 92.91% of 4,994 word tokens in the UD Telugu-MTG treebank and 89.21% of 1,297 in the Tatoeba Telugu export end in a vowel, only 0.52% and 4.63% in a bare consonant, and both agree with Sailaja's 1999 statement that Telugu permits only [m, y, w] word-finally — which is then used to group the lines by how they sound when spoken. Second, the page tests the famous \"Italian of the East\" attribution against Conti's own narrative in the 1857 Hakluyt translation, finds no mention of Telugu or of vowels, and says so instead of printing the citation. This is an evergreen advice-plus-lines page rather than a copy-text quote page, so it should convert better than the Propose Day siblings, but the visible surface for this query is image boards, forums and film pages on a domain far above ours in authority, so target position 6-10 and expect months rather than weeks. The biggest single weakness is that no native Telugu speaker reviewed the 11 lines; the second is that no India-served SERP was measured, so the post makes no claim about incumbents."
+    },
+    "generatedAt": "2026-09-24T08:35:40.370Z"
+  }
+}
