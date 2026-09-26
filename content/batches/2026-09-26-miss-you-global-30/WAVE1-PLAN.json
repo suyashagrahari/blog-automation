@@ -1,0 +1,441 @@
+{
+  "batchId": "2026-09-26-miss-you-global-30",
+  "created": "2026-09-26",
+  "source": "content/keywords/2026-09-25-miss-you-global/keyword-inventory.csv",
+  "selectionBasis": "Of 150 inventory rows, 43 are already written (54 posts in 2026-09-25-miss-you-30 plus 905 live). 91 remain. The English side is exhausted; the remaining volume is non-English. Rows ranked by MEASURED winnability, not by the inventory's expected_clicks column, because its weakness counts are mostly SERP-ARCHETYPE (inferred) and the SERP-MEASURED ones were US-served. Two spot-checks proved the gap: de-de returns ten established German magazines against an inventory score of 4 weak; tr-tr has wikiHow at #1 against 'no editorial page exists'.",
+  "rows": [
+    {
+      "slug": "diferencia-entre-te-extrano-y-te-echo-de-menos",
+      "keyword": "diferencia entre te extraño y te echo de menos",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "es-es",
+      "tier": "A-grammar",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "Regional split: extrañar (LatAm) vs echar de menos (Spain). Verify against RAE and CORPES/CREA frequency, not from memory."
+    },
+    {
+      "slug": "te-echo-de-menos-significado",
+      "keyword": "te echo de menos significado",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "es-es",
+      "tier": "A-grammar",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "note": "Netflix series 'Te echo de menos' owns the bare head term in Spain — confirm on the SERP and say so. Etymology of 'echar de menos' from Portuguese 'achar menos' is a real, checkable claim."
+    },
+    {
+      "slug": "te-extrano-en-ingles-como-se-dice",
+      "keyword": "te extraño en ingles como se dice",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "mx-es",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Spanish-speaker asking for the English. Cover I miss you vs I long for you vs register."
+    },
+    {
+      "slug": "como-decir-te-extrano-sin-decirlo",
+      "keyword": "como decir te extraño sin decirlo",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "mx-es",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "note": "Spanish twin of the English c02 winner, which is live as say-i-miss-you-without-saying-it — do NOT translate that post, measure this SERP and build for it."
+    },
+    {
+      "slug": "saudade-ou-saudades-qual-o-certo",
+      "keyword": "saudade ou saudades qual o certo",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "A-grammar",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "note": "Singular vs plural usage question. Verify against a named Portuguese grammar/dictionary (Priberam, Michaelis, VOLP)."
+    },
+    {
+      "slug": "o-que-significa-saudade",
+      "keyword": "o que significa saudade",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "A-grammar",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "The untranslatability claim is a LEAD, not a fact — BRIEF.md section 3. Test it."
+    },
+    {
+      "slug": "saudade-em-ingles-como-se-diz",
+      "keyword": "saudade em ingles como se diz",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Sibling of o-que-significa-saudade — one is meaning, one is translation. State the split; cross-link."
+    },
+    {
+      "slug": "tu-me-manques-en-anglais",
+      "keyword": "tu me manques en anglais",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "The dative construction — 'you are missing FROM me' — is the real hook. Verify against a named source, not memory."
+    },
+    {
+      "slug": "comment-dire-tu-me-manques-autrement",
+      "keyword": "comment dire tu me manques autrement",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "note": "Incumbents on this cluster are product blogs (Lovebox, Flexilivre) — the same play as ours. Say what they do not."
+    },
+    {
+      "slug": "mi-manchi-in-inglese",
+      "keyword": "mi manchi in inglese",
+      "lang": "it",
+      "bodyLanguage": "Italian",
+      "region": "it-it",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Italian 'mi manchi' has the same dative shape as French 'tu me manques' — the subject is the person missed. Cross-link the French row if both land."
+    },
+    {
+      "slug": "come-dire-mi-manchi-in-modo-originale",
+      "keyword": "come dire mi manchi in modo originale",
+      "lang": "it",
+      "bodyLanguage": "Italian",
+      "region": "it-it",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "note": ""
+    },
+    {
+      "slug": "ich-vermisse-dich-in-zahlen",
+      "keyword": "ich vermisse dich in zahlen",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "A-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Number-code shorthand. The English sibling miss-you-number-code-meaning is WRITTEN — read it, do not translate it, and state the split. German codes differ (e.g. 143 is English-derived); verify which actually circulate in German."
+    },
+    {
+      "slug": "wie-sage-ich-ihm-dass-ich-ihn-vermisse",
+      "keyword": "wie sage ich ihm dass ich ihn vermisse",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "The de-de listicle SERPs are owned by national magazines (brigitte, wunderweib, tag24) — this advice-shaped query is the one German opening worth testing. Measure it."
+    },
+    {
+      "slug": "seni-ozledim-mesajina-verilecek-cevaplar",
+      "keyword": "seni ozledim mesajina verilecek cevaplar",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "C-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Best measured winnability in this wave: forum/Q&A-held (kizlarsoruyor x2, yandex yacevap x2, uludagsozluk, donanimhaber). CORRECTION to the inventory: wikiHow Turkey holds #1, so 'no editorial page exists' is FALSE. English sibling what-to-reply-when-someone-says-i-miss-you is WRITTEN — read it, do not translate it."
+    },
+    {
+      "slug": "seni-ozledim-ingilizce-nasil-yazilir",
+      "keyword": "seni ozledim ingilizce nasil yazilir",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Turkish agglutination: özledim already carries 'I' and past tense. That is the explainer no listicle gives."
+    },
+    {
+      "slug": "ozledim-demenin-farkli-yollari",
+      "keyword": "ozledim demenin farkli yollari",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "note": ""
+    },
+    {
+      "slug": "kangen-kamu-bahasa-inggris",
+      "keyword": "kangen kamu bahasa inggris",
+      "lang": "id",
+      "bodyLanguage": "Indonesian",
+      "region": "id-id",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "kangen vs rindu is a real register split — verify against KBBI (kbbi.kemdikbud.go.id), the national dictionary."
+    },
+    {
+      "slug": "kangen-kamu-bahasa-jawa",
+      "keyword": "kangen kamu bahasa jawa",
+      "lang": "id",
+      "bodyLanguage": "Indonesian",
+      "region": "id-id",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "Javanese has speech levels (ngoko/krama) — the honorific choice changes the line. Verify the level of every form you print; ISO jav."
+    },
+    {
+      "slug": "cara-bilang-kangen-tanpa-bilang-kangen",
+      "keyword": "cara bilang kangen tanpa bilang kangen",
+      "lang": "id",
+      "bodyLanguage": "Indonesian",
+      "region": "id-id",
+      "tier": "B-howto",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "note": ""
+    },
+    {
+      "slug": "skuchayu-po-tebe-ili-za-toboy-kak-pravilno",
+      "keyword": "скучаю по тебе или за тобой как правильно",
+      "lang": "ru",
+      "bodyLanguage": "Russian",
+      "region": "ru-ru",
+      "tier": "A-grammar",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "note": "The по/за case dispute is a genuine prescriptive-usage question. Cite Gramota.ru and a named academic grammar; say which is standard and which is regional/colloquial. Keyword is native script — the inventory romanised it for CSV safety."
+    },
+    {
+      "slug": "aitai-meaning-in-english",
+      "keyword": "aitai in english how to say",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-learner",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page — a learner query. 会いたい is 'I want to see you', not 'I miss you'; Japanese has no direct equivalent. Verify against a named dictionary and Tatoeba. Link the live hub /blog/i-miss-you-in-different-languages."
+    },
+    {
+      "slug": "bogoshipda-meaning-in-english",
+      "keyword": "bogoshipda in english meaning",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-learner",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page. 보고 싶다 is literally 'want to see'. The written sibling i-miss-you-in-korean covers the general question — READ IT, state the split, cross-link. Abort if it already owns this."
+    },
+    {
+      "slug": "wo-xiang-ni-meaning-in-english",
+      "keyword": "wo xiang ni meaning in english",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-learner",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page, learner query. 我想你 is literally \"I think of you\" — 想 spans think/want/miss, so whether it means \"miss\" is contextual. Verify against a named dictionary plus Tatoeba; link the live hub /blog/i-miss-you-in-different-languages."
+    },
+    {
+      "slug": "sinto-sua-falta-em-ingles",
+      "keyword": "sinto sua falta em ingles",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Sibling of saudade-em-ingles-como-se-diz: THAT row is the untranslatable noun, THIS row is the ordinary verb phrase people actually say. State the split and cross-link. Priberam redirects to /pt-pt/ — request /pt-br/ explicitly."
+    },
+    {
+      "slug": "tu-me-manques-en-arabe",
+      "keyword": "tu me manques en arabe",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "French to Arabic. Arabic marks the addressee gender, so there is no single answer — that is the post. Two Arabic siblings are WRITTEN in ../2026-09-25-miss-you-30/blogs/ (i-miss-you-in-arabic, how-to-say-i-miss-you-in-arabic-to-a-woman): read both, do NOT translate them, cite the instruments not the siblings."
+    },
+    {
+      "slug": "mi-manchi-in-spagnolo",
+      "keyword": "mi manchi in spagnolo",
+      "lang": "it",
+      "bodyLanguage": "Italian",
+      "region": "it-it",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Italian to Spanish. Both have the dative shape (mi manchi / me haces falta) but Spanish ALSO has te extrano / te echo de menos, which invert the subject. That contrast is the angle. Sibling diferencia-entre-te-extrano-y-te-echo-de-menos covers the Spanish pair — cross-link, stay in the Italian lane."
+    },
+    {
+      "slug": "seni-ozledim-kurtce-nasil-denir",
+      "keyword": "seni özledim kürtçe nasıl denir",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "Turkish to Kurdish. Kurmanji vs Sorani is a real split with different scripts (Latin vs Arabic-based) — say which you are giving. Verify ISO codes at iso639-3.sil.org (kmr, ckb, kur macrolanguage). The English sibling i-miss-you-in-kurdish is WRITTEN — read it, do not translate it; it already found a diacritic error in its #1 result."
+    },
+    {
+      "slug": "ik-mis-je-nu-al-betekenis",
+      "keyword": "ik mis je nu al betekenis",
+      "lang": "nl",
+      "bodyLanguage": "Dutch",
+      "region": "nl-nl",
+      "tier": "A-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "\"I already miss you\" — said before or at the moment of parting, not after. The anticipatory sense is the whole question. Verify against Van Dale / Woordenlijst; establish whether the phrase is idiomatic or compositional."
+    },
+    {
+      "slug": "tesknie-za-toba-po-angielsku",
+      "keyword": "tęsknię za tobą po angielsku",
+      "lang": "pl",
+      "bodyLanguage": "Polish",
+      "region": "pl-pl",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Polish tesknic takes za + instrumental — the same case-government question the Russian row covers for po/za. Verify against PWN (sjp.pwn.pl) and NKJP. Cross-link the Russian row if it lands."
+    },
+    {
+      "slug": "ich-vermisse-dich-auf-turkisch",
+      "keyword": "ich vermisse dich auf türkisch",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "A-translate",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Replaces bogoshipda-vs-bogosipeo, dropped 2026-09-26 on the bogoshipda agent's recommendation: that row was dictionary-form-vs-polite-form, i.e. speech levels, which the WRITTEN sibling i-miss-you-in-korean already owns — it would have been a third Korean page splitting one question. Turkish is Germany's largest immigrant language, so this is genuine cross-community demand. A translation query, so weaker incumbents than the de-de Spruche listicles that were measured as ten established magazines. Turkish forms must be verified against TDK (sozluk.gov.tr); the Turkish sibling seni-ozledim-mesajina-verilecek-cevaplar is on disk with the morphology already established."
+    }
+  ],
+  "revised": "2026-09-26: 7 rows swapped. mensagem-de-saudade-para-namorado ABORTED at Gate 4 on a live Google Brazil measurement (gl=br&hl=pt-BR&pws=0, two identical runs): 1 weak result in 8, eleven distinct established Portuguese publishers across the runs, Pensador holding 3 of 8 slots. The same agent reproduced the inventory row score EXACTLY with one US-served search, proving the inventory weakness counts for non-English rows are US artefacts. Combined with an earlier de-de measurement (ten established German magazines), the whole D-listicle tier was dropped rather than sent to six predictable aborts, and replaced with A-tier grammar/translation rows whose SERPs are forum and dictionary-scraper ground.",
+  "knownIssues": [
+    "/missyou-gf is defined in app/lib/prompt.ts:44 as \"I miss you page for a girlfriend/partner\" — VERIFIED at source. Any row whose recipient is male (e.g. wie-sage-ich-ihm-dass-ich-ihn-vermisse) carries a mandatory link that is both wrong-language and wrong-recipient, and must disclose that explicitly in body prose.",
+    "Priberam resolves but redirects to /pt-pt/; pt-BR rows must request /pt-br/<word>. Its sense 3 of saudade is a plant (Scabiosa atropurpurea) — a trap for anyone citing sense numbers.",
+    "serp-ddg.mjs was connect-timing-out and serp.mjs (Brave) returning 429 on 2026-09-26. Measure in-market by another route and say which you used; never infer a SERP.",
+    "905 live posts contain zero Portuguese, and by extension this domain has no published track record in any of these languages.",
+    "WORD CEILING RISK: the verifier hard-fails above 1800 words (plain whitespace split). tu-me-manques-en-anglais is at 1800 EXACTLY, o-que-significa-saudade at 1799, aitai-meaning-in-english at 1797. Several rows also owe a sibling cross-link that did not exist at their write time (French<->Italian dative pair; the three saudade rows; the two Indonesian rows; the two Korean rows). The quiescence cross-link pass MUST be word-neutral on those files - wrap existing prose in the link rather than adding a sentence, or trim an equal number of words. Agents from here on are told to aim for ~1750, not 1800.",
+    "BROWSER CONTENTION IS ON BOTH ROUTES - CORRECTED 2026-09-26. An earlier knownIssue and BRIEF section 3 both claimed the Playwright browser is per-agent and immune. IT IS NOT: one agent's navigation to its own Bing URL returned the German sibling's SERP, another's returned a Turkish sibling's SERP and a later evaluate() ran against the wrong location. Six agents have now caught cross-contamination on the shared Chrome AND on Playwright. There is no isolated browser here; self-authenticating every scrape is the only defence. BRIEF section 3 is corrected.",
+    "ORCHESTRATOR ERROR - checklist item 50 is NOT unsatisfiable. I told at least three agents '#50 schema file not found', relaying one agent's report without checking it. VERIFIED AT SOURCE: .claude/skills/blog-optimisation/references/article-json-schema.md exists, 196 lines, 11,783 bytes. The wie-sage-ich-ihm agent read it and passed the item honestly. AT QUIESCENCE: re-check every post whose auditReport fails item 50 with a 'file not found' why - that is a FIXABLE failure wrongly recorded as structural, and it is my error, not the agents'.",
+    "ORCHESTRATOR ERROR #2 - the Strapi slug item is NOT unsatisfiable, and ~10 posts carry a FALSE structural failure because I told agents 'Strapi offline'. EVIDENCE: three agents reached it fine and wrote 'Checked and clear' (tu-me-manques-en-arabe, ik-mis-je-nu-al-betekenis, te-extrano-en-ingles-como-se-dice, the last passing the item honestly after total:0). ROOT CAUSE: curl and WebFetch are BLOCKED by the project CLAUDE.md, so any agent reaching for those concluded the service was down; agents using ctx_execute or the browser got through. THE ORCHESTRATOR VERIFIED ALL 30 SLUGS ON 2026-09-26 VIA ctx_execute AND EVERY ONE RETURNED total:0 (free). AT QUIESCENCE: flip that item to passed in every post whose 'why' cites Strapi being offline/unreachable/credential-less, citing this check. Do NOT flip the ones that fail it for a different reason (e.g. sibling cross-links that 404 until those batches publish - that is a genuine, correctly-recorded limitation). Affected: bogoshipda-meaning-in-english, cara-bilang-kangen-tanpa-bilang-kangen, ich-vermisse-dich-auf-turkisch, mi-manchi-in-inglese, mi-manchi-in-spagnolo, o-que-significa-saudade, saudade-em-ingles-como-se-diz, seni-ozledim-ingilizce-nasil-yazilir, sinto-sua-falta-em-ingles, wie-sage-ich-ihm-dass-ich-ihn-vermisse, wo-xiang-ni-meaning-in-english.",
+    "CAP VIOLATIONS - RE-MEASURED 2026-09-26 at 26 posts (my earlier figure of 5 was an UNDERCOUNT; the come-dire-mi-manchi agent flagged 8 and was right). Journal cap is 3, URL cap is 2. *** Frontiers in Psychology: 8 posts, OVER BY 5 *** -> bogoshipda-meaning-in-english, ich-vermisse-dich-auf-turkisch, ik-mis-je-nu-al-betekenis, saudade-em-ingles-como-se-diz, seni-ozledim-ingilizce-nasil-yazilir, seni-ozledim-mesajina-verilecek-cevaplar, tu-me-manques-en-anglais, wie-sage-ich-ihm-dass-ich-ihn-vermisse. *** PNAS: 4 posts, OVER BY 1 *** -> ich-vermisse-dich-auf-turkisch, ik-mis-je-nu-al-betekenis, kangen-kamu-bahasa-inggris, mi-manchi-in-inglese. *** PMC13552847 (PNAS): 3 posts, URL cap 2 *** -> diferencia-entre-te-extrano-y-te-echo-de-menos, kangen-kamu-bahasa-inggris, mi-manchi-in-inglese. ROOT CAUSE (mine, not the agents'): capcheck.mjs counts HOSTNAMES and both journals are reached through europepmc.org / pmc.ncbi.nlm.nih.gov, which I marked cap-EXEMPT - so every agent's pre-write check read clean while the journal cap was breached. Agents that asked were told to avoid these only after post 16. REMEDIATION: swap the citation in the NEWEST offenders only, keeping the earliest 3 of each. Do NOT strip sources from finished posts wholesale - doing that in an earlier wave stripped a legitimate source from a completed post. Several agents recorded an unspent alternative in their reports; prefer those. Re-run this measurement after the last 3 rows land.",
+    "STRAPI - THE PRECISE FACT, so the quiescence pass does not flip items on a wrong reading. TWO different endpoints have been conflated. (a) LOCAL Strapi at 127.0.0.1:1337 is genuinely DOWN - the ozledim-demenin agent tested it properly with `nc -z` and got CLOSED/REFUSED, and it was right to say so. (b) PRODUCTION at https://strapi.subhsandesh.in/api/articles IS UP and is what the orchestrator used on 2026-09-26 to confirm all 30 slugs free (total:0 each) and to confirm which cross-link targets are live. So the checklist's slug check IS satisfiable - via the public API, reached with ctx_execute or the browser, NOT with curl or WebFetch, which this project's CLAUDE.md blocks and which is why several agents concluded the service was unreachable. When flipping the ~10 false failures, cite the production check; do NOT flip a post that failed it for a different, genuine reason (e.g. sibling cross-links that 404 until those batches publish, or an agent that correctly reported the local instance down)."
+  ]
+}

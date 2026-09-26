@@ -1,0 +1,6 @@
+{
+  "batchId": "2026-09-26-miss-you-global-30",
+  "createdAt": "2026-09-26",
+  "_note": "Stub written by the orchestrator so verify-batch.mjs can run while the wave is in flight; rebuilt from disk with scripts/rebuild-batch-json.mjs at quiescence. The blogs list is deliberately empty — the verifier's batch.json-vs-disk line is expected to fail until then.",
+  "blogs": []
+}

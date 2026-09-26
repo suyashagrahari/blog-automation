@@ -1,0 +1,365 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Seni Özledim Kürtçe Nasıl Denir: Önce Hangi Kürtçe, Sonra Hangi Şapka",
+    "slug": "seni-ozledim-kurtce-nasil-denir",
+    "excerpt": "Seni özledim Kürtçe nasıl denir sorusunun cevabı önce hangi Kürtçe olduğuna bağlı. Türkiye'de aradığınız neredeyse kesinlikle Kurmancî: Min bêriya te kir. Soranî'de satır Arap kökenli alfabeyle بیرت دەکەم olur. Her cümle Tatoeba derlemindeki numarasıyla birlikte veriliyor.",
+    "metaTitle": "Seni Özledim Kürtçe Nasıl Denir — Kurmancî mi, Soranî mi",
+    "metaDescription": "Seni özledim Kürtçe nasıl denir: Kurmancî'de Min bêriya te kir, Soranî'de بیرت دەکەم. ISO kütüğü 3 Kürt dili kaydeder; sıralanan 9 sayfa çeşit belirtmiyor.",
+    "keywords": "seni özledim kürtçe nasıl denir, kürtçe seni özledim, min bêriya te kir, kurmancî seni özledim, soranî seni özledim",
+    "canonicalURL": "https://subhsandesh.in/blog/seni-ozledim-kurtce-nasil-denir",
+    "ogType": "article",
+    "tags": [
+      "kürtçe",
+      "kurmancî",
+      "soranî",
+      "çeviri",
+      "özlem"
+    ],
+    "keyTakeaways": [
+      "Türkiye'deki bir alıcı için doğru çeşit Kurmancî (ISO 639-3: kmr) ve cümle Latin alfabesiyle Min bêriya te kir — Tatoeba'nın 4814057 numaralı cümlesi bunu doğrudan \"Seni özledim\" ile eşliyor.",
+      "ISO 639-3 kütüğü kur kodunu makrodil olarak kaydeder ve içinde tam olarak üç dil listeler: kmr, ckb, sdh. ku ise bir 639-3 kodu değildir ve kütükte 404 döner.",
+      "Şapka isteğe bağlı değil: bêrî \"özlem\", şapkasız berî ise \"önce\" demek. Derlemde bêriya yazımı 59 cümlede, bêrîya yazımı sıfır cümlede geçiyor.",
+      "Bu sorguda gördüğümüz dokuz organik sonucun dokuzu da düşük otoriteli ve hiçbiri hangi Kürtçeden söz ettiğini söylemiyor; birinci sıradaki sayfa cümleyi şapkasız \"min berîya te kir\" olarak veriyor.",
+      "Soranî satırı Arap kökenli alfabeyle yazılır ve görüntülemelerimizin %48,4'ü dokunmatik cihazlarda olduğu için yazı tipini bir telefonda sınamak gerekir."
+    ],
+    "faqs": [
+      {
+        "question": "\"Seni çok özledim\" Kürtçe nasıl yazılır?",
+        "answer": "Kurmancî'de Ez gelek bêriya te dikim — Tatoeba'nın 11057027 numaralı cümlesi bunu \"Seni çok özlüyorum\" ile eşliyor. Aynı cümlenin Soranî eşlemesi گەلێک بیرت دەکەم. Geçmiş zaman istiyorsanız Kurmancî'de Min bêriya te kir kalır ve başına \"gelek\" eklenebilir."
+      },
+      {
+        "question": "Kürtçenin ISO kodu ku mu, kur mu, kmr mi?",
+        "answer": "Üçü de farklı şeyler. ISO 639-3 kütüğünde kur, makrodil olarak \"Kurdish\"tir; ku onun ISO 639-1 karşılığıdır ve 639-3 kodu değildir — iso639-3.sil.org/code/ku adresi 404 döner. kmr ise kütükte ayrı ve bireysel bir dil olan Northern Kurdish'in, yani Kurmancî'nin kodudur."
+      },
+      {
+        "question": "Zazaca Kürtçenin bir lehçesi mi sayılıyor?",
+        "answer": "ISO 639-3 kütüğünde değil. kur makrodilinin içinde tam olarak üç dil listelenir: ckb, kmr ve sdh. Zazaca ayrı bir makrodil olarak zza kodu altında durur. Bu idari bir sınıflandırmadır ve kimsenin kimliğini tanımlamaz, ama bir çeviri ararken hangi kutuya baktığınızı belirler."
+      },
+      {
+        "question": "\"Bêriya te kirim\" diye bir kullanım var mı?",
+        "answer": "Ulaşabildiğimiz kayıtlarda yok. Tatoeba'nın Kurmancî derleminde kirim biçimi bu kalıpta sıfır cümlede geçiyor; geçmiş için kir 90'dan fazla cümlede kiriye ile birlikte görünüyor. Doğrulanmış biçimler Min bêriya te kir ve Bêriya te dikim'dir."
+      },
+      {
+        "question": "Kurmancî'de \"sen\" ve \"seni\" farklı mı yazılıyor?",
+        "answer": "Evet. İngilizce Wiktionary Kurmancî ikinci tekil zamiri tu olarak verir ve te'yi onun ilgili biçimi olarak listeler. Bu cümlede geçen te, tu'nun bükümlü hâlidir. Soranî'de aynı zamir تۆ'dur ve ekli biçimi ـت olarak cümleye girer."
+      },
+      {
+        "question": "Cümle alıcının kadın ya da erkek olmasına göre değişir mi?",
+        "answer": "Doğrulayabildiğimiz kayıtlarda değişmiyor. Wiktionary Kurmancî için tek bir ikinci tekil zamir listeler ve çeşitli cinsiyetlere ayrılmış bir ikinci tekil biçim vermez. Arapça yazan birinin alışık olduğu bu ayrımı burada yapmak zorunda değilsiniz."
+      },
+      {
+        "question": "Alıcımın Kurmancî mi Soranî mi konuştuğunu nasıl anlarım?",
+        "answer": "En hızlı yol alfabeyi sormaktır. Latin harflerle, ê î û ş ç kullanarak yazıyorsa Kurmancî; Arap kökenli bir alfabeyle yazıyorsa Soranî. Soramıyorsanız coğrafya makul bir ikinci ölçüttür: Wikidata Kurmancî'yi doğu Türkiye, kuzey Suriye, kuzey Irak ve Ermenistan'a, Soranî'yi Irak ve İran'a bağlar."
+      },
+      {
+        "question": "Soranî satırını WhatsApp'ta ya da bir web sayfasında göndersem düzgün görünür mü?",
+        "answer": "Test etmeden bilemezsiniz. Soranî'ye özgü harfleri taşımayan bir yazı tipi satırı kutucuk olarak gösterir ve bunu yazdığınız cihazda görmezsiniz. Görüntülemelerimizin %48,4'ü dokunmatik cihazlarda oluyor, yani kontrolü bir telefonda yapmak gerekiyor."
+      },
+      {
+        "question": "Ninem Kurmancî konuşuyor ama okuma yazması yok; ne yapmalıyım?",
+        "answer": "Yazılı satır bu durumda işe yaramaz; cümleyi sesli göndermek gerekir. Kasap ve Işık'ın Van'da 21 büyükanne-büyükbaba ve 22 torunla yaptığı çalışma, miras dili solarken yaşanan kopukluğun iki yönlü olduğunu bildiriyor — yani karşı tarafın da sizi anlamasını kolaylaştıran biçim önemlidir."
+      },
+      {
+        "question": "Bu sayfadaki cümleleri kendim nasıl doğrularım?",
+        "answer": "Cümle numaralarını Tatoeba'da açın: 4814057, 9822369, 11057027 ve 10812773. Her biri hangi dile eşlendiğini ve eşlemeyi kimin eklediğini gösterir. Kelime bazında doğrulama için İngilizce Wiktionary'de bêrî, berî, kirin ve dikim maddelerine bakın."
+      },
+      {
+        "question": "Mektubun tamamını Kürtçe yazmalı mıyım?",
+        "answer": "Gerekmiyor ve doğrulayamadığınız cümleleri yazmak riskli. Doğruladığınız tek satırı Kürtçe yazıp gerisini Türkçe bırakmak, hem kontrol edilebilir hem de karşı tarafa neden o satırı seçtiğinizi anlatmanıza yer bırakır."
+      }
+    ],
+    "coverImageQuery": "kurdish latin alphabet handwriting letter",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note on cream paper, a short line of Latin-script Kurmanji Kurdish visible with circumflex letters, a phone resting beside it showing a message thread. Soft window light from the left, shallow depth of field, clean negative space along the top for a title overlay, 16:9. No legible branding except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Seni Özledim Kürtçe Nasıl Denir: Önce Hangi Kürtçe, Sonra Hangi Şapka\n\nTürkiye'deki birine yazıyorsanız aradığınız Kürtçe neredeyse kesinlikle **Kurmancî**'dir ve cümle Latin alfabesiyle **Min bêriya te kir** diye yazılır. Tatoeba derlemindeki 4814057 numaralı cümle bunu doğrudan \"Seni özledim\" ile eşliyor. Hâlâ sürüyorsa şimdiki zaman **Bêriya te dikim** (\"Seni özlüyorum\"). Alıcınız Soranî konuşuyorsa satır Arap kökenli alfabeyle **بیرت دەکەم** olur — aynı dil ailesinin başka bir dili, başka bir yazı sistemi.\n\nKendi verimize de bakalım. /missyou-gf şablonunda başlatılan sayfaların %88,8'i gerçekten bitirilip paylaşılıyor (214'ün 190'ı, 2026-09-25 ölçümü); platform genelinde görüntülemelerin %48,4'ü dokunmatik bir cihazda açılıyor (2026-09-24 ölçümü). İkincisi burada önemli: şapkalı harfleri ve Arap kökenli alfabeyi sınayacağınız yer bir telefon ekranı.\n\nBaştan bir uyarı: veritabanımız hangi şablonun açıldığını kaydeder, kimin aldığını değil, ve hiçbir alan dile ya da ülkeye göre ayrılmış değildir. Buradaki hiçbir sayı \"Türk\" ya da \"Kürt\" bir sayı değildir.\n\n## \"Kürtçe\" ISO kütüğünde tek dil değil, üç dil\n\n[ISO 639-3 kütüğü](https://iso639-3.sil.org/code/kur) `kur` kodunu \"Kurdish\" adıyla, kapsamı **Macrolanguage** ve türü **Living** olarak kaydeder; 639-1 eşdeğeri `ku`, 639-2 eşdeğeri yine `kur`. İçinde tam olarak üç bireysel dil listelenir, üçü de \"Active\": `kmr` Northern Kurdish, `ckb` Central Kurdish, `sdh` Southern Kurdish.\n\nKüçük ama ölçülebilir bir ayrıntı: `iso639-3.sil.org/code/ku` adresi **404 döner**. `ku` bir ISO 639-3 kodu değildir; kütükte yalnızca `kur`un 639-1 karşılığı olarak görünür. Zazaca da bu listede yok — ayrı bir makrodil olarak `zza` altında durur, Kürtçenin içinde değil.\n\nBu üçlü kâğıt üzerinde bir ayrıntı gibi durur. Alfabede durmaz.\n\n## Türkiye'den yazıyorsanız doğru sütun Kurmancî\n\nWikidata Kurmancî'yi Q36163 altında \"doğu Türkiye, kuzey Suriye, kuzey Irak ve Ermenistan'da konuşulan Kürt dili\" diye tanımlar; Soranî'yi (Q36811) \"Irak ve İran'da konuşulan Kürt dili\" diye. Türkiye'den yazıyorsanız ve alıcınız da Türkiye'deyse, Soranî satırı yanlış soruya verilmiş doğru bir cevaptır.\n\nAyırt etmenin en hızlı yolu haritaya değil alfabeye bakmaktır: ê, î, û, ş, ç harfleriyle Latin yazı Kurmancî'dir; Arap kökenli yazı Soranî'dir. Emin değilseniz sorun. Tahmin, bu sorguda sıralanan dokuz sayfanın ortak hatası.\n\nSouthern Kurdish (`sdh`) için ise dürüst cevap şu: kütük onu kayıtlı ve yaşayan bir dil olarak gösteriyor, ama ulaşabildiğimiz hiçbir sözlük ya da derlemde \"seni özledim\" karşılığı bulamadık. O satırı uydurmaktansa boş bırakıyoruz.\n\n## Derlemde Türkçesiyle eşlenmiş cümleler\n\nBu sorguda sıraladığını gördüğümüz dokuz sonuçtan hiçbiri bir sözlüğe ya da derleme atıf yapmıyor. Tatoeba'nın Kurmancî derlemi ise doğrudan Türkçeye bağlanıyor:\n\n- **Min bêriya te kir.** — Türkçe eşlemesi \"Seni özledim\", İngilizcesi \"I miss you\" ([cümle 4814057](https://tatoeba.org/en/sentences/show/4814057)).\n- **Bêriya te dikim.** — \"Seni özlüyorum\" (cümle 9822369).\n- **Ez gelek bêriya te dikim.** — \"Seni çok özlüyorum\"; aynı cümlenin Soranî eşlemesi گەلێک بیرت دەکەم (cümle 11057027).\n- **Ez dizanim tu jî bêriya min dikî.** — \"Biliyorum, sen de beni özlüyorsun\" (cümle 9164103).\n\nDerlemde `bêriya` geçen 59 cümle var. Bu, bir liste yazısının tek satırından farklı türde bir kanıttır: cümleler başka dillere eşlenmiş ve eşlemeyi yapan kişinin kaydı görünür.\n\n## Özledim mi, özlüyorum mu — Kurmancî bunu ayrı kelimeyle yapar\n\nTDK Güncel Türkçe Sözlük [*özlemek*](https://sozluk.gov.tr/gts?ara=%C3%B6zlemek) için \"Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek\" tanımını verir. *Özledim* biçim olarak geçmiş zamandır, ama Türkçede şu an hissedileni anlatır.\n\nKurmancî bu ikisini ayırır. *kirin* fiilinin geçmiş gövdesi **kir**, şimdiki zaman gövdesi **dike**; birinci tekil şimdiki zaman **dikim** — İngilizce Wiktionary `dikim` maddesini \"verb form of kirin, 1s, pres\" diye etiketler.\n\nSonuç iki ayrı cümledir: **Min bêriya te kir** geçmiş gövdeyle \"Seni özledim\", **Bêriya te dikim** şimdiki zamanla \"Seni özlüyorum\". Sıralanan sayfaların çoğu bu ikisini aynı Türkçe karşılıkla, tek satırda veriyor.\n\n## Türkçe tek kelimeye sıkıştırır, Kurmancî dağıtır\n\nBurada gerçekten yapısal bir fark var ve derlemde görülebiliyor. Türkçede *özle-di-m* tek kelimedir: kök, görülen geçmiş zaman eki ve birinci tekil kişi eki üst üste binmiştir. Nesne ayrı durur, *seni* belirtme hâliyle.\n\nKurmancî'de aynı anlam dört kelimeye yayılır ve kişi fiilin üzerinde değildir. *Min bêriya te kir* cümlesinde **min** ayrı bir zamirdir — Wiktionary onu \"I, me, my\" diye verir — ve *kir* hiçbir kişi eki taşımaz.\n\nŞimdiki zamanda durum değişiyor: *Ez gelek bêriya te dikim* cümlesinde özne **ez**'dir ve fiil **-im** ekini alır. Yani geçmişte *min*, şimdide *ez*. Bu değişimi biz iddia etmiyoruz; Tatoeba'nın aynı derleminde iki cümle yan yana duruyor. Dilbilim yazınında bunun bir adı var, ama o adı veren çalışmalara açık erişimle ulaşamadığımız için etiketi yazmıyoruz.\n\n## Şapkasız yazarsanız kelime değişir\n\nKurmancî Latin alfabesinde **ê**, klavye zorladığı için atılabilecek bir aksan değil, ayrı bir harftir.\n\nİngilizce Wiktionary'de [**bêrî**](https://en.wiktionary.org/wiki/b%C3%AAr%C3%AE) Kurmancî'de dişil bir isimdir, karşılığı \"longing\"; türemiş biçimi *bêrî kirin*, \"to long\". Aynı sözlükte [**berî**](https://en.wiktionary.org/wiki/ber%C3%AE) — şapkasız — bir edattır, karşılığı \"before\", yani \"önce\".\n\nBu sorgunun **birinci sıradaki sonucu** olan Glosbe'nin Türkçe-Kürtçe sayfasını 2026-09-26'da getirdiğimizde, çeviriyi \"min berîya te kir\" olarak veriyordu; aynı sayfadaki ikinci madde ise \"min beriya te kiriye\" ile hiç şapka kullanmıyordu. İkinci sıradaki sayfa \"Bêrîya Te Kirîye\" yazıyor — dördüncü bir yazım.\n\nDerlem bu konuda tek sesli: `bêriya` yazımı 59 cümlede, `bêrîya` **sıfır** cümlede geçiyor; `kiriye` 90 cümlede, `kirîye` **sıfır** cümlede. Şapka ê'nin üstündedir ve orada kalır.\n\n## Google'ın çeviri kutusu başka bir cümle veriyor\n\nBu aramayı Türkiye'ye sunulmuş Google'da yaptığımızda organik sonuçların üstünde bir Google Çeviri kutusu çıkıyor ve \"seni özledim\" için **Ez bîra te dikim** veriyor. Sıralanan sayfalardan ikisi de aynı cümleyi tekrarlıyor.\n\nBu cümleyi ulaşabildiğimiz araçların hiçbirinde doğrulayamadık ve bunu söylemek uydurmaktan iyidir. Tatoeba'nın Kurmancî derleminde *bîra te dikim* **sıfır** cümlede geçiyor. *bîra* geçen 13 cümlenin hiçbiri \"özlemek\" anlamında değil: \"Nayê bîra min\" (Hatırlamıyorum), \"Ev wê tîne bîra min\" (Bu bana onu hatırlatıyor). Wiktionary Kurmancî *bîr* için \"memory\" ve \"well\" karşılıklarını verir.\n\nElli dokuza karşı sıfır. Bu, Google'ın yanlış olduğunun kanıtı değildir; hangi cümlenin kanıtlanabilir olduğunun kanıtıdır. Kontrol edilebilir bir satır göndermek istiyorsanız *bêriya* olanı gönderin.\n\n## Soranî yazacaksanız: alfabe de değişir, ekran da\n\nSoranî satırı derlemde doğrulanabiliyor: **بیرت دەکەم** (\"I miss you\", cümle 10812773) ve **زۆر بیرت دەکەم** (\"I miss you badly\"). Mantık Kurmancî'yle aynı: بیر *bîr* \"hafıza\", ikinci tekil ek ـت, ve کردن \"yapmak\" fiilinin birinci tekil şimdiki zamanı دەکەم.\n\nAsıl risk yazım değil, görüntü. Görüntülemelerimizin %48,4'ü dokunmatik cihazlarda oluyor ve Soranî'ye özgü harfleri taşımayan bir yazı tipi bu satırı kutucuk olarak gösterir. Soldan sağa bir sayfada satır sonundaki nokta da yanlış uca kayar. Soranî satırını kendi satırına koyun ve önce alıcının göreceği gibi kontrol edin.\n\n## Dört cümle yan yana\n\n| Cümle | Çeşit ve alfabe | Türkçesi | Doğrulandığı kayıt | Kendi verimizden not |\n|---|---|---|---|---|\n| Min bêriya te kir | Kurmancî (kmr), Latin | Seni özledim | Tatoeba 4814057, Türkçe eşleme | En güvenli varsayılan; Latin harfler İngilizce arayüzde bozulmaz |\n| Bêriya te dikim | Kurmancî (kmr), Latin | Seni özlüyorum | Tatoeba 9822369 | Bir sayfanın ilk kaydıyla son düzenlemesi arasında medyan 2,5 saat var — değiştirmek için vakit var |\n| Ez gelek bêriya te dikim | Kurmancî (kmr), Latin | Seni çok özlüyorum | Tatoeba 11057027 | Tek satır yerine mektubun içine |\n| بیرت دەکەم | Soranî (ckb), Arap kökenli | Seni özledim | Tatoeba 10812773 | Görüntülemelerin %48,4'ü dokunmatik cihazda — yazı tipini orada sınayın |\n\n## Bu sorguda şu anda ne sıralanıyor\n\nÖlçüm 2026-09-26, Türkiye'ye sunulmuş Google'da (`gl=tr&hl=tr&pws=0`), kişiselleştirme kapalı, gerçek bir tarayıcıda. İki kez çalıştırdık; ilk sekiz sonuç iki koşuda da aynı geldi, dokuzuncu değişti. Bir arama motoru, bir gün — genel bir sıralama değil.\n\nGördüğümüz dokuz organik sonucun dokuzu da düşük otoriteli: ikisi Glosbe'nin sözlük toplayıcı sayfası, ikisi küçük bir niş blogun alt sayfası, biri bir soru-cevap sitesi başlığı, biri 2017 tarihli bir forum konusu, ikisi sosyal medya gönderisi, biri yerel bir haber sitesinin \"aşk sözleri\" listesi. Ulusal bir yayıncı yok, sözlük kurumu yok.\n\nDokuzunun hiçbiri hangi Kürtçeden söz ettiğini söylemiyor. Soru-cevap sonucunda \"en iyi yanıt\" olarak işaretlenen cevap ise Kürtçe bile değil: \"I miss you\".\n\n## Ninenize yazacaksanız, bunun ölçülmüş bir tarafı var\n\nSıralanan sonuçlardan biri doğrudan \"Kürtçede seni özledim ninem nasıl denir\" sorusu. Bu tesadüf değil.\n\nSuleyman Kasap ve Nazim Işık, Van'da 21 büyükanne-büyükbaba ve 22 torunla yarı yapılandırılmış görüşmeler yaparak dil aşınmasının aile içi iletişime etkisini inceledi ([*International Journal of Kurdish Studies*](https://doi.org/10.21600/ijoks.1788166), 12(1), 51–63, 21 Mart 2026). Makalenin özeti, dil aşınmasının yalnızca iletişimi bozmadığını, kuşaklar arası ilişkileri zayıflattığını ve kültürel aktarımı azalttığını; büyükanne-büyükbabaların miras dilleri soldukça üzüntü ve kopukluk hissettiğini bildiriyor. Açık erişim; bu ortamda PDF ayrıştırılamadığı için yalnızca özet okundu.\n\nTürkçe-baskın bir torunsanız ve Kurmancî konuşan birine tek bir cümle yazmaya çalışıyorsanız, aradığınız şey aslında bir çeviri değil. O cümlenin doğru olması.\n\n## Kendi verimiz ne söyleyebilir, ne söyleyemez\n\nVeritabanı hangi şablonun açıldığını kaydeder, kimin aldığını değil. Hiçbir satır dile ya da ülkeye göre ayrılmış değildir: aşağıdaki hiçbir sayı Türkiye'ye ya da Kürtçeye ait değildir.\n\n/missyou-gf'te başlatılan sayfaların %88,8'i bitirilip paylaşılıyor (190/214); platformun tamamında bu oran %90,9 (5.199 sayfanın 4.724'ü). Bir sayfanın ilk kaydıyla son düzenlemesi arasındaki medyan süre 2,5 saat — ama bu rakam /apology-dashboard üzerinde, n=1.396 ile ölçüldü, miss-you sayfalarında değil.\n\nÜç uyarı her satırla birlikte gelir. Şehir, arka plan müziği ve \"birlikteyiz\" alanları varsayılanı olan seçicilerdir; yüksek doluluk oranı gönderenin tercihi sayılamaz. viewCount tekil ziyaretçiyi değil sayfa görüntülemesini sayar. Miss-you verisi 2026-07-28'den beri iki aylıktır ve n=214'tür, yani mevsimsel hiçbir çıkarım yapılamaz.\n\n## SubhSandesh sayfası bu okuyucu için nerede yanlış\n\nAçık konuşalım: [uzaktaki biri için \"seni özledim\" sayfası](https://subhsandesh.in/missyou-gf) **İngilizce** bir üründür. Başlıkları, düğmeleri ve alan etiketleri İngilizcedir, üstelik ürün tanımı gereği sevgili ya da partner için tasarlanmıştır. Siz Türkçe okuyorsunuz, Kürtçe yazacaksınız, arayüz İngilizce — üç ayrı uyumsuzluk. Ninenize yazacaksanız alıcı da yanlış, yani dört.\n\nBu yüzden dürüst alternatif [zaman kapsülü sayfası](https://subhsandesh.in/capsule): özlem mesafeden değil geçen zamandan kaynaklanıyorsa — solan bir dil, büyümüş bir torun — kapsül bu okuyucuya daha çok uyar ve partner odaklı bir etiketi yoktur. Arayüzü yine de İngilizcedir. [Şablonların tamamı](https://subhsandesh.in/templates) burada; fiyatlandırma konusunda hiçbir şey doğrulayamıyoruz, çünkü kendi kayıtlarımızda o bölüm boştur.\n\nKurmancî satırını Latin harflerle yazacaksanız İngilizce arayüz onu bozmaz. Soranî yazacaksanız yazı tipi sorunu arayüzden önce gelir.\n\nİngilizce okuyan biri için aynı soruyu başka bir SERP'te ele alan [Kürtçe \"I miss you\" yazımız](https://subhsandesh.in/blog/i-miss-you-in-kurdish) ayrı duruyor: orada okuyucunun iki çeşit arasında hiçbir önceliği yok, burada seçim büyük ölçüde zaten yapılmış. *Özledim* ile *özlüyorum* ayrımının İngilizce tarafı için [seni özledim İngilizce nasıl yazılır](https://subhsandesh.in/blog/seni-ozledim-ingilizce-nasil-yazilir), gelen mesaja ne yazılacağı için [seni özledim mesajına verilecek cevaplar](https://subhsandesh.in/blog/seni-ozledim-mesajina-verilecek-cevaplar).\n\n## Kaynaklar\n\n- ISO 639-3 kütüğü, `kur` ve `kmr` kayıtları — SIL Global. Yayın tarihi belirtilmiyor.\n- İngilizce Wiktionary, `bêrî`, `berî`, `kirin`, `dikim` maddeleri. Yayın tarihi belirtilmiyor.\n- Tatoeba, cümle 4814057 (Kurmancî–Türkçe) ve 10812773 (Soranî–İngilizce), CC BY 2.0 FR.\n- TDK Güncel Türkçe Sözlük, *özlemek* maddesi.\n- Kasap, S. & Işık, N., \"Kurdish Language Attrition and Its Influence on Intergenerational Communication in Turkey\", *International Journal of Kurdish Studies* 12(1), 51–63, 21 Mart 2026 — yalnızca özet okundu.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/seni-ozledim-kurtce-nasil-denir#post",
+        "inLanguage": "tr-TR",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Kurmancî",
+            "alternateName": "Northern Kurdish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kurmanji",
+              "https://www.wikidata.org/wiki/Q36163"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Kürtçe",
+            "alternateName": "Kurdish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kurdish_language",
+              "https://www.wikidata.org/wiki/Q36368"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Soranî",
+            "alternateName": "Central Kurdish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Central_Kurdish",
+              "https://www.wikidata.org/wiki/Q36811"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Türkçe",
+            "alternateName": "Turkish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Turkish_language",
+              "https://www.wikidata.org/wiki/Q256"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "ISO 639-3 registry, code kur (Kurdish, macrolanguage)",
+            "url": "https://iso639-3.sil.org/code/kur",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL Global"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary, entry bêrî (Northern Kurdish)",
+            "url": "https://en.wiktionary.org/wiki/b%C3%AAr%C3%AE",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 4814057, Kurmanji–Turkish",
+            "url": "https://tatoeba.org/en/sentences/show/4814057",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 10812773, Central Kurdish–English",
+            "url": "https://tatoeba.org/en/sentences/show/10812773",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "TDK Güncel Türkçe Sözlük, entry özlemek",
+            "url": "https://sozluk.gov.tr/gts?ara=%C3%B6zlemek",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Türk Dil Kurumu"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Kurdish Language Attrition and Its Influence on Intergenerational Communication in Turkey",
+            "url": "https://doi.org/10.21600/ijoks.1788166",
+            "datePublished": "2026-03-21",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Suleyman Kasap"
+              },
+              {
+                "@type": "Person",
+                "name": "Nazim Işık"
+              }
+            ],
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "International Journal of Kurdish Studies"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Doğrulanmış Kürtçe \"seni özledim\" cümleleri",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Min bêriya te kir — Kurmancî (kmr), Latin alfabesi, \"Seni özledim\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Bêriya te dikim — Kurmancî (kmr), Latin alfabesi, \"Seni özlüyorum\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ez gelek bêriya te dikim — Kurmancî (kmr), Latin alfabesi, \"Seni çok özlüyorum\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "بیرت دەکەم — Soranî (ckb), Arap kökenli alfabe, \"Seni özledim\""
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "seni özledim kürtçe nasıl denir",
+    "angle": "Wins by being the only post that tells a Turkish searcher which Kurdish they are actually looking for — Kurmanji, ISO 639-3 kmr, Latin script — and then prints only lines carrying a Tatoeba sentence id with a Turkish alignment, while showing that the #1 result spells the phrase without the circumflex that separates bêrî \"longing\" from berî \"before\".",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/capsule",
+      "/templates"
+    ],
+    "factsUsed": [
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://iso639-3.sil.org/code/kur",
+        "stat": "ISO 639-3 registers kur 'Kurdish' as a Macrolanguage, Living, 639-1 equivalent ku, with exactly three member languages: ckb Central Kurdish, kmr Northern Kurdish, sdh Southern Kurdish, all Active"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/b%C3%AAr%C3%AE",
+        "stat": "Northern Kurdish bêrî is a feminine noun glossed 'longing', with derived verb bêrî kirin 'to long'; the circumflex-less berî is the preposition 'before'"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/4814057",
+        "stat": "Kurmanji sentence 'Min bêriya te kir.' is linked directly to Turkish 'Seni özledim.' and English 'I miss you.'"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/10812773",
+        "stat": "Central Kurdish sentence 'بیرت دەکەم.' is linked to English 'I miss you.'"
+      },
+      {
+        "url": "https://sozluk.gov.tr/gts?ara=%C3%B6zlemek",
+        "stat": "TDK Güncel Türkçe Sözlük defines özlemek as 'Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek'"
+      },
+      {
+        "url": "https://doi.org/10.21600/ijoks.1788166",
+        "stat": "Semi-structured interviews with 21 grandparents and 22 grandchildren in Van, Turkey: language attrition disrupts communication, weakens intergenerational relationships and diminishes cultural transmission — abstract only",
+        "publishedDate": "2026-03-21"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Strapi'ye erişim yok: bu ortamdan canlı slug listesi sorgulanamadı, dolayısıyla slug'ın alınmış olup olmadığı doğrulanamadı. Yayın öncesi studio'da kontrol edilmeli."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "Fan-out alt sorguları ayrı bir Phase 2 çıktısı olarak üretilmedi; H2'ler ölçülen SERP'in People-Also-Ask kutusundan ve dokuz sonucun kapsamadığı boşluklardan türetildi. Yakın ama aynı şey değil, o yüzden geçti sayılmıyor."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "Gövdede hiç H3 yok, dolayısıyla ItemList'in aynalayacağı bir H3 dizisi yok. Yine de dört doğrulanmış cümleyi karşılaştırma tablosundaki sırayla veren bir ItemList eklendi; madde harfiyen okunduğunda karşılanamıyor."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Kaynak üst sınırları partinin tamamı yazıldıktan sonra sayılabilir; capcheck.mjs yazımdan hemen önce çalıştırıldı ve hiçbir host sınırda değildi, ama altı ajan aynı anda yazdığı için bu sayım bayat olabilir. Atıfta adı geçen dergi (International Journal of Kurdish Studies) partide başka hiçbir yazıda kullanılmıyor."
+        }
+      ],
+      "honestAssessment": "Ölçülen SERP'te gördüğümüz dokuz organik sonucun dokuzu da düşük otoriteli — iki sözlük toplayıcı sayfası, iki niş blog alt sayfası, bir soru-cevap başlığı, bir 2017 forumu, iki sosyal medya gönderisi ve bir yerel haber listesi — ve hiçbiri hangi Kürtçeden söz ettiğini söylemiyor. Bir yanıt motorunun bu sayfayı tercih etmesinin sebebi şu olabilir: her Kurmancî ve Soranî cümlesi, Türkçeye ya da İngilizceye eşlenmiş bir Tatoeba cümle numarasıyla veriliyor; ISO 639-3 kütüğünün kur/kmr/ckb/sdh kayıtları doğrudan okunup ku'nun 404 döndüğü gösteriliyor; ve birinci sıradaki sayfanın şapkasız \"min berîya te kir\" yazımı, Wiktionary'nin berî = \"before\" maddesiyle karşılaştırılarak kontrol edilebilir biçimde belgeleniyor. Doğrulayamadığımız her satır basılmadı ve neden kesildiği araştırma notunda yazılı — Google'ın kendi çeviri kutusunun verdiği \"Ez bîra te dikim\" dahil, ki derlemde bu kalıp sıfır cümlede geçiyor. Aşamayacağımız şeyler de açık: alan adının Türkçe ya da Kürtçe hiçbir yayın geçmişi yok (905 canlı yazının hepsi başka dillerde), ürün İngilizce ve bu okuyucu için üç yönlü uyumsuz, ve bu sorgu düşük hacimli bir uzun kuyruk. Sıralama aylar sürer; tahmin yürütmüyoruz."
+    },
+    "serpMeasurement": {
+      "measuredAt": "2026-09-26",
+      "route": "Google, real browser, gl=tr&hl=tr&pws=0&num=20 — run twice; ranks 1-8 identical, rank 9 differed",
+      "routesRefused": "serp-ddg.mjs UND_ERR_CONNECT_TIMEOUT on html.duckduckgo.com (tried once, not retried, per BRIEF §3). Bing and Brave not needed.",
+      "selfAuthenticated": "page title and all snippets carried the query and Turkish language on both loads; first PAA data-q was the query verbatim; nothing discarded",
+      "organicResultsSeen": 9,
+      "weakResults": 9,
+      "gate4": "PASS — no strong Turkish editorial incumbent, no dictionary or institutional page, two domains holding 4 of 9 slots"
+    },
+    "additionalChecks": [
+      "Gövde sözcük sayısı düz boşluk bölmesiyle 1.728 (hedef 1.500-1.800, ~1.750 nişanı); SSS'ler gövdede değil.",
+      "JSON.parse ile ayrıştırma doğrulandı; Türkçe ı/i/ş/ğ/ö/ü/ç, Kurmancî ê/î/û ve Soranî Arap kökenli harfler (بیرت دەکەم) yazımdan sonra byte düzeyinde yeniden okunup kontrol edildi.",
+      "kind alanı harfiyen \"blog-automation/batch-blog\" — references/article-json-schema.md (196 satır) okundu ve sözleşmeye göre doğrulandı.",
+      "Dört Wikidata QID'si Wikidata API'sinden etiketleriyle birlikte çekildi: Q36163 Kurmanji, Q36368 Kurdish language, Q36811 Sorani, Q256 Turkish. Hiçbiri yanlış varlığa çözülmüyor.",
+      "Fiyat koruması: ücretsiz/bedava/parasız/indirim ve herhangi bir rakam gövdede geçmiyor; pricecheck-intl.mjs çalıştırıldı.",
+      "Yasaklı kaynaklar kontrol edildi: Frontiers in Psychology yok, PNAS yok, PMC13552847 yok; harcanmış PMCID listesinin hiçbiri kullanılmadı. Atıftaki dergi adı: International Journal of Kurdish Studies.",
+      "Unpaywall ile açık erişim doğrulandı: 10.21600/ijoks.1788166 is_oa true, oa_status bronze. PDF ayrıştırılamadı; yalnızca DergiPark HTML özeti okundu.",
+      "Kesilen her Kürtçe satır ve gerekçesi research/seni-ozledim-kurtce-nasil-denir.md §3'te kayıtlı (on ayrı kesim).",
+      "Gövdedeki iç bağlantılar: /missyou-gf, /capsule, /templates (üç adet). Ayrıca /blog altında üç kardeş yazıya çapraz bağlantı var; doğrulayıcı bunları iç bağlantı saymıyor."
+    ],
+    "structuralLimitations": [
+      "PROMPT DÜZELTMESİ — ISO kodları: brief'in uyardığının aksine bu istemdeki dört kod da DOĞRU. iso639-3.sil.org kütüğü kmr'yi Northern Kurdish, ckb'yi Central Kurdish, sdh'yi Southern Kurdish (üçü de Active, Individual, Living) ve kur'u makrodil olarak kaydediyor. Hiçbiri kullanımdan kaldırılmış değil. Kütükte doğrulanan ek ayrıntı: /code/ku 404 döner, çünkü ku yalnızca 639-1 eşdeğeridir.",
+      "PROMPT DÜZELTMESİ — aday biçimler: istemin verdiği 'bêriya te kirim' Tatoeba'nın Kurmancî derleminde sıfır cümlede geçiyor ve basılmadı. 'bêrîya te dikim' biçimi doğru ama yazımı değil: derlemde bêriya 59, bêrîya 0 cümlede. Metinde Bêriya te dikim olarak basıldı ve fark açıkça anlatıldı.",
+      "Southern Kurdish (sdh) için hiçbir erişilebilir araçta 'seni özledim' karşılığı bulunamadı. Tatoeba'da sdh derlemi yok, Wiktionary'de ilgili madde yok. Satır basılmadı ve boşluk gövdede adıyla belirtildi.",
+      "Soranî için standartlaşmış bir Latin harf çevirisi bulunamadığı için romanizasyon (bîrt dekem) basılmadı; Tatoeba'nın ckb derlemi yalnızca Arap kökenli alfabededir.",
+      "min/ez değişimine dilbilim yazınındaki adını veremedik: konuyla doğrudan ilgili çalışma (10.1075/tilar.9.09mah, Kurmanji'de bölünmüş ergatif durum işaretlemesinin edinimi) Unpaywall'a göre kapalı erişim. Gövde bu değişimi derlemden betimliyor ve etiket kullanmıyor; brief'in dilbilgisi etiketi kuralı harfiyen uygulandı.",
+      "webonary.org hiç denenmedi: iki bağımsız satır 403 Cloudflare bildirdi ve brief onun etrafına bölüm kurmayı yasaklıyor.",
+      "Wiktionary API'si yaklaşık yedi hızlı çağrıdan sonra hız sınırına takıldı; 3,5 saniyelik gecikmeyle çözüldü. bêriya ve 'bêriya te kirin' sayfaları missingtitle döndü — brief'in çekimli biçim uyarısı doğrulandı; yalnızca sözlükbirim sayfaları kullanıldı.",
+      "Chyet 2003 ve McCarus & Abdulla 1967 taranmış sözlükleri bilerek kullanılmadı: İngilizce kardeş yazı ikisini de kullanıyor ve aynı kaynakları tekrarlamak bu yazıyı onun çevirisine dönüştürürdü. Bağımsız kapsama Wiktionary ve Tatoeba derleminden geldi.",
+      "İlk 150 kelimedeki iki birinci taraf verisi düşük çakışmalı: 48,4% dokunmatik cihaz ve 2,5 saatlik medyan düzenleme aralığı satırları 77 kardeş yazının hiçbirinde kullanılmamış, 90,9% oranı da öyle. Brief bu maddenin dürüstçe başarısız olmasını bekliyordu; bu satırda başarısız olmadı, çünkü çakışmanın tamamı facts-snapshot.md'nin miss-you bloğunda toplanmış durumda.",
+      "Ürün uyumsuzluğu bu satırda üç değil dört yönlü: İngilizce arayüz, Türkçe okuyucu, Kürtçe cümle ve — sıralanan sonuçlardan birinin doğrudan konusu olan nine/büyükanne durumunda — sevgili için tasarlanmış bir şablon. Gövdede açıkça yazılı."
+    ],
+    "generatedAt": "2026-09-26T15:28:30.889Z"
+  }
+}

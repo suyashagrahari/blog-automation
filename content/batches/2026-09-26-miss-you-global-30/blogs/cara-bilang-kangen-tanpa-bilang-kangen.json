@@ -1,0 +1,513 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Cara Bilang Kangen Tanpa Bilang Kangen: Yang Benar-Benar Tertulis di KBBI",
+    "slug": "cara-bilang-kangen-tanpa-bilang-kangen",
+    "excerpt": "Dari lima partikel yang biasa disebut penghalus, KBBI hanya mendefinisikan dong sebagai pelembut; nih dan deh justru menegaskan, dan kok tidak terjangkau di kamus daring. Alat yang sebenarnya ada di kata ganti, yang diberi label ragam oleh KBBI sendiri.",
+    "metaTitle": "Cara Bilang Kangen Tanpa Bilang Kangen: 5 Partikel KBBI",
+    "metaDescription": "Cara bilang kangen tanpa bilang kangen ada di kata ganti dan partikel. Dari 5 partikel yang sering disebut penghalus, KBBI hanya menyebut dong sebagai pelembut.",
+    "keywords": "cara bilang kangen tanpa bilang kangen, bilang kangen tanpa kata kangen, cara halus bilang kangen, partikel dong sih nih deh, kata ganti aku saya kamu anda, basa-basi kbbi",
+    "canonicalURL": "https://subhsandesh.in/blog/cara-bilang-kangen-tanpa-bilang-kangen",
+    "ogType": "article",
+    "tags": [
+      "bahasa indonesia",
+      "kangen",
+      "kbbi",
+      "partikel",
+      "hubungan jarak jauh"
+    ],
+    "keyTakeaways": [
+      "Dari 5 partikel yang biasa disebut penghalus (sih, dong, kok, nih, deh), KBBI hanya mendefinisikan *dong* sebagai \"pemanis atau pelembut maksud\".",
+      "*Nih* (\"ini dengan penegasan\") dan *deh* (\"mengukuhkan\") justru menegaskan menurut KBBI — kebalikan dari yang biasa diklaim; Wiktionary sepakat untuk *deh*.",
+      "Alat pelembut yang sebenarnya ada di kata ganti: KBBI menandai *aku*/*kamu* \"ragam akrab (atau kasar)\" dan *saya* \"ragam resmi atau biasa\".",
+      "Di Tatoeba, 4 dari 5 kalimat ber-*dong* adalah permintaan, dan 4 dari 5 terjemahan Inggrisnya tidak memuat padanan apa pun untuk *dong*.",
+      "Isyarat tanpa kata memang terbaca: 1.434 ketukan \"hug\" datang dari penerima di 138 dari 214 halaman rindu kami (n = 214, dua bulan, tidak dipilah per negara)."
+    ],
+    "faqs": [
+      {
+        "question": "Apakah *kangen* dan *rindu* benar-benar sama?",
+        "answer": "Tidak persis. KBBI memberi *kangen* label `cak` — bentuk kata percakapan, tidak baku — dan mendefinisikannya justru dengan kata *rindu*: \"ingin sekali bertemu; rindu\". Entri *rindu* sendiri tidak membawa label semacam itu. Jadi keduanya sedekat itu maknanya, tetapi berbeda tingkat kebakuannya."
+      },
+      {
+        "question": "Kalau orangnya belum terlalu akrab, kalimat apa yang paling aman?",
+        "answer": "Geser kata gantinya, bukan kata kerjanya. KBBI menandai *aku* dan *kamu* sebagai \"ragam akrab\" — dan *kamu* bahkan disertai keterangan \"atau kasar\" — sementara *saya* ditandai \"ragam resmi atau biasa\". Mengganti *aku kangen kamu* menjadi kalimat ber-*saya* langsung menurunkan suhunya tanpa mengubah isinya."
+      },
+      {
+        "question": "Apakah menambahkan *dong* membuat pesan terdengar manja?",
+        "answer": "KBBI tidak memakai kata \"manja\". Yang tertulis adalah \"pemanis atau pelembut maksud\". Di Tatoeba, 4 dari 5 kalimat Indonesia yang memakai *dong* adalah permintaan atau larangan — jadi fungsinya melunakkan sesuatu yang kalau polos akan terdengar seperti perintah."
+      },
+      {
+        "question": "Apakah *kok* termasuk partikel penghalus?",
+        "answer": "Saya tidak bisa memastikannya dari kamus. Dua cermin KBBI daring, kbbi.web.id dan kbbi.co.id, sama-sama hanya menyajikan entri \"kok, *n*, bola dalam permainan bulu tangkis\" untuk kata itu, dan halaman Wiktionary untuk *kok* tidak memuat bagian partikel bahasa Indonesia. Partikel itu jelas dipakai orang, tetapi tidak ada entri yang bisa saya kutip."
+      },
+      {
+        "question": "Kenapa label `cak` di KBBI bukan berarti kata itu salah?",
+        "answer": "`cak` menandai ragam cakapan — bentuk percakapan yang tidak baku, bukan bentuk yang keliru. Artinya kata itu tepat di pesan pribadi dan kurang tepat di surat resmi. *Dong*, *sih*, dan *nih* semuanya membawa label ini; *deh* membawa label `Jk`, yang menandai asal Jakarta."
+      },
+      {
+        "question": "Apakah bahasa Inggris punya padanan untuk *dong*?",
+        "answer": "Nyaris tidak. Di Tatoeba, 4 dari 5 terjemahan Inggris untuk kalimat ber-*dong* tidak memuat kata apa pun yang mewakilinya: *Jangan marah, dong* menjadi \"Don't be angry\". Satu-satunya yang terbawa memakai *question tag*, dan itu pun bukan padanan yang rapi."
+      },
+      {
+        "question": "Apakah bertanya \"udah makan?\" benar-benar dianggap menyampaikan rindu?",
+        "answer": "Kamus tidak mengatakannya sejauh itu. KBBI hanya mengakui kategorinya lewat entri *basa-basi*: ungkapan yang dipakai \"hanya untuk sopan santun dan tidak untuk menyampaikan informasi\", dengan contoh \"apa kabar?\". Apa yang ditangkap lawan bicaramu dari \"udah makan?\" bergantung pada hubungan kalian, bukan pada entri kamus."
+      },
+      {
+        "question": "Apakah boleh menulis kalimat tanpa kata ganti sama sekali?",
+        "answer": "Boleh, dan itu salah satu cara paling halus. Kalimat bahasa Indonesia sah tanpa subjek, sehingga \"Kepikiran kamu tadi\" tidak menyebutkan siapa yang memikirkan. Perasaannya tersampaikan, kepemilikannya tidak dinyatakan."
+      },
+      {
+        "question": "Apakah ada bukti bahwa orang Indonesia memang cenderung tidak langsung?",
+        "answer": "Ada, tetapi kecil dan spesifik. Sebuah studi 2026 di *Studies in English Language and Education* menemukan strategi tak langsung pada 56,25% permintaan — dengan n = 4 mahasiswa laki-laki asal Jawa Tengah, dalam konteks formal, lewat bermain peran. Itu bukan pengukuran tentang pasangan atau tentang rindu, dan tidak boleh dipakai untuk menggeneralisasi satu negara."
+      },
+      {
+        "question": "Kalau isyaratnya tidak ditangkap, apa yang sebaiknya dilakukan?",
+        "answer": "Katakan langsung. Seluruh alat di halaman ini bekerja dengan menyerahkan penafsiran kepada penerima, dan itu berarti ia bisa meleset. Kalau isyarat kedua juga lewat tanpa balasan, ketaklangsungan sudah berhenti melindungi siapa pun dan hanya menyisakan kebingungan."
+      },
+      {
+        "question": "Apakah semua angka di halaman ini berasal dari pengguna Indonesia?",
+        "answer": "Tidak. Basis data kami tidak dipilah menurut bahasa maupun negara, jadi tidak ada satu angka pun di sini yang bisa disebut angka Indonesia. Basis data itu juga hanya mencatat template mana yang dibuka, tidak pernah siapa yang menerimanya, dan n = 214 atas dua bulan pemakaian."
+      }
+    ],
+    "coverImageQuery": "indonesian woman typing phone message evening jakarta warm light",
+    "coverImagePrompt": "A young Indonesian woman sitting by an open window in a Jakarta apartment at dusk, warm amber light, phone in hand, a half-typed message on the screen, expression thoughtful and hesitant rather than sad, shallow depth of field, documentary photography",
+    "contentMarkdown": "# Cara Bilang Kangen Tanpa Bilang Kangen: Yang Benar-Benar Tertulis di KBBI\n\n**Cara bilang kangen tanpa bilang kangen** hampir selalu dicari dengan asumsi keliru: bahwa kamu perlu kalimat pengganti untuk kata *kangen*. Padahal bahasa Indonesia menaruh alat pelembutnya di kata ganti dan di partikel, bukan di kata *kangen* itu sendiri. Halaman ini memeriksa mana dari alat itu yang benar-benar tercatat di kamus.\n\nDua angka dari data kami sendiri lebih dulu, karena keduanya menunjukkan bahwa isyarat tanpa kata memang dibaca. Di template [halaman rindu kami](/missyou-gf), **1.434 ketukan \"hug\" tercatat dari penerima di 138 dari 214 halaman rindu — 64,5% menerima setidaknya satu, dan 512 ketukan datang di satu halaman saja**. Penerima membalas tanpa mengetik sepatah kata. Dan **28,0% pengirim memasang tanggal temu untuk hitung mundur (60 dari 214)**: sebuah tanggal, bukan sebuah pernyataan.\n\nBatasnya: n = 214 dan template baru hidup sejak 28 Juli 2026, jadi ini dua bulan data dan tidak ada klaim musiman yang bertahan di atasnya. Basis data kami mencatat **template mana yang dibuka, tidak pernah siapa yang menerimanya**, dan tidak satu pun angkanya dipilah menurut bahasa atau negara — tidak ada angka di sini yang khusus Indonesia. Ini perilaku pengguna sebuah produk, bukan potret pembaca Indonesia.\n\n## Kata gantimu sudah membawa jaraknya, dan KBBI memberinya label\n\nIni bagian yang paling sering dilewati. KBBI tidak sekadar mendaftar kata ganti orang; ia memberi tiap kata ganti sebuah label ragam.\n\n*Aku* didefinisikan sebagai \"yang berbicara atau yang menulis (**dalam ragam akrab**)\". *Kamu* adalah \"yang diajak bicara; yang disapa (**dalam ragam akrab atau kasar**)\" — perhatikan kata *kasar* itu, kamus sendiri yang menaruhnya. *Saya* adalah \"orang yang berbicara atau menulis (**dalam ragam resmi atau biasa**)\". Dan *Anda* adalah \"sapaan untuk orang yang diajak berbicara atau berkomunikasi (**tidak membedakan tingkat, kedudukan, dan umur**)\".\n\nArtinya, sebelum menyentuh kata kerjanya, kamu sudah memilih jarak. \"Aku kangen kamu\" dan \"Saya rindu Anda\" menyampaikan isi yang sama dengan suhu yang berbeda, dan perbedaan itu tertulis di entri kamus.\n\nDi sinilah letak sesuatu yang tidak dimiliki bahasa Inggris. Bahasa Inggris hanya punya satu *you*. Kalau kamu ingin melembutkan \"I miss you\" dalam bahasa Inggris, kamu harus mengganti kata kerjanya atau menambah pengantar. Dalam bahasa Indonesia, **kata gantinya sendiri bisa memikul jaraknya** — kamu bisa mempertahankan isi kalimat dan hanya menggeser satu kata.\n\nJadi cara pertama bilang kangen tanpa bilang kangen bukan mengganti *kangen*, melainkan memilih apakah kamu menulis *aku*, *saya*, atau tidak menulis kata ganti sama sekali — kalimat Indonesia sah tanpa subjek, dan \"Kepikiran kamu tadi\" tidak menyebut siapa yang memikirkan.\n\n## Dari lima partikel yang sering disebut, KBBI hanya menyebut satu sebagai pelembut\n\nBanyak daftar menyebut *sih*, *dong*, *kok*, *nih*, dan *deh* sebagai partikel penghalus. Saya memeriksa kelimanya di KBBI daring; hasilnya tidak mendukung klaim itu secara merata.\n\n**Hanya *dong* yang benar-benar didefinisikan sebagai pelembut.** KBBI memberinya label `p cak` (partikel, ragam cakapan) dan menuliskan: \"kata yang dipakai di belakang kata atau kalimat untuk **pemanis atau pelembut maksud**\", dengan contoh \"kalau bukan kamu, siapa -- yang harus membiayai adikmu?\". Itu kamus yang menyebut kata \"pelembut\", bukan saya.\n\n***Sih*** juga berlabel `p cak`, tetapi definisinya berbeda: \"kata penambah atau penegas dalam kalimat tanya, menyatakan **masih bimbang atau belum pasti benar**\". Jadi fungsinya bukan melembutkan perintah, melainkan menandai bahwa penanya belum pasti — yang kebetulan memang berguna kalau kamu ingin bertanya tanpa terdengar menuntut. Sense keduanya: \"memang; sebenarnya\".\n\n***Nih*** berlabel `p cak` dan artinya \"ini (**dengan penegasan**)\". ***Deh*** berlabel `Jk p` — Jakarta, bukan `cak` — dan artinya \"kata yang digunakan untuk **mengukuhkan** kata-kata atau maksud kawan bicara\". Keduanya menegaskan, bukan melembutkan; itu kebalikan dari yang biasa diklaim. Wiktionary bahasa Inggris memberi keterangan yang sama untuk *deh*: partikel \"(Jakarta, colloquial)\" yang \"adds emphasis at the end of a phrase or a sentence\", diserap dari Betawi *dèh*.\n\n***Kok*** tidak bisa saya pastikan sama sekali. Dua cermin KBBI daring, kbbi.web.id dan kbbi.co.id, sama-sama menjawab dengan entri \"kok *n* bola dalam permainan bulu tangkis\" — kok bulu tangkis, bukan partikelnya. Halaman Wiktionary untuk *kok* juga tidak memuat bagian partikel bahasa Indonesia. Partikel *kok* jelas hidup di percakapan, tetapi saya tidak punya entri kamus untuk mengutipnya, jadi saya tidak membuat klaim apa pun tentangnya di sini.\n\n## Yang tercatat sebagai pemakaian nyata di Tatoeba\n\nDefinisi kamus adalah satu hal; kalimat yang benar-benar ditulis orang adalah hal lain. Tatoeba, basis data kalimat contoh dengan terjemahan, memberi hitungan yang bisa dicek siapa saja.\n\nUntuk ***dong***, seluruh korpus Indonesia–Inggris hanya berisi **5 kalimat**, dan **4 dari 5 adalah permintaan atau larangan**: *Jangan marah, dong.* / *Ambilkan teh di kulkas dong.* / *Bawa gelas itu ke dapur dong.* / *Sedikit aja dong, aku mau coba.* Persis fungsi yang ditulis KBBI. Dan **4 dari 5 terjemahan Inggrisnya tidak memuat kata apa pun yang mewakili *dong***: pelembutnya hilang di perjalanan. Hanya satu terbawa, lewat *question tag*.\n\nUntuk ***sih***, korpus itu mencatat **19 kalimat**; saya bisa membaca **10** di halaman pertama API dan **8 dari 10 itu adalah kalimat tanya** — sesuai definisi KBBI. Dua sisanya cocok dengan sense kedua: *Ini parah banget sih* menjadi \"This is awful indeed\", dan *Telat sih tapi sekarang sudah terbiasa* menjadi \"It took long but...\". Jadi dua sense KBBI muncul sendiri di data pemakaian, tanpa saya paksa.\n\nSatu kalimat di sana justru contoh sempurna untuk pertanyaanmu: *Tau nggak sih? Kamu tuh cantik.* — diterjemahkan \"You know what? You're beautiful.\" Bentuknya pertanyaan, isinya pujian.\n\n## *Basa-basi*: KBBI sudah punya nama untuk \"udah makan?\"\n\nCara paling umum orang Indonesia menyampaikan rindu adalah menanyakan hal biasa: *lagi apa?*, *udah makan?*, *inget nggak...*. Saya tidak akan mengarang taksonomi untuk itu, karena KBBI sudah punya namanya.\n\n*Basa-basi*, sense 2: \"**ungkapan yang digunakan hanya untuk sopan santun dan tidak untuk menyampaikan informasi**, misalnya kalimat 'apa kabar?' yang diucapkan apabila kita bertemu dengan kawan.\" Kamus secara eksplisit mengakui adanya ujaran yang isinya bukan maksudnya.\n\nBatasnya perlu dijujurkan: contoh yang diberikan KBBI adalah \"apa kabar?\", **bukan** \"udah makan?\" atau \"lagi apa?\". Kamus menamai kategorinya, tidak mendaftar kalimat-kalimat itu. Jadi perlakukan *lagi apa?* dan *udah makan?* sebagai contoh dari kategori yang diakui kamus, bukan sebagai entri kamus. \"Sudah makan?\" sendiri terdaftar di Tatoeba dan diterjemahkan \"Have you already eaten?\" — terjemahan yang tidak membawa muatan perhatiannya.\n\nAda juga kata untuk rasa yang membuat orang memilih jalan memutar: *sungkan*, yang KBBI definisikan antara lain sebagai \"**merasa tidak enak hati**\" dan \"menaruh hormat; segan\".\n\n| Isyarat | Yang tercatat di sumber | Angka dari data kami (n = 214) |\n| --- | --- | --- |\n| Partikel *dong* | KBBI: \"pemanis atau pelembut maksud\"; 5 kalimat di Tatoeba, 4 di antaranya permintaan | tidak terukur |\n| Pilihan kata ganti | KBBI: *aku*/*kamu* \"ragam akrab (atau kasar)\", *saya* \"ragam resmi atau biasa\" | tidak terukur |\n| Basa-basi (\"udah makan?\") | KBBI: ungkapan \"hanya untuk sopan santun dan tidak untuk menyampaikan informasi\" | tidak terukur |\n| Pesan suara | tidak ada entri kamus; yang dibawa adalah nada, bukan kata | 13,6% pengirim merekam (29 dari 214) |\n| Ketukan \"hug\" dari penerima | balasan tanpa satu kata pun | 1.434 ketukan di 138 dari 214 halaman |\n\nTiga baris pertama punya entri kamus tanpa angka; dua terakhir punya angka tanpa entri kamus. Tidak ada sumber tunggal yang menutupi keduanya.\n\n## Apa yang benar-benar diukur penelitian, dan apa yang tidak\n\nKalau sebuah artikel menyebut \"budaya konteks tinggi\" tanpa sumber, abaikan. Yang bisa saya kutip: sebuah studi 2026 di *Studies in English Language and Education* (Universitas Syiah Kuala, akses terbuka, CC-BY) merekam pelajar laki-laki Jawa membuat permintaan dalam konteks formal, dan menemukan **strategi tak langsung konvensional dipakai pada 56,25% kasus, strategi langsung 43,75%**, dengan modifikasi eksternal berupa alasan pendukung muncul pada **81,25% kasus**.\n\nSekarang batasannya, dan batasannya besar. **n = 4.** Empat mahasiswa dari Jawa Tengah, lewat bermain peran, dalam **konteks formal**, membuat **permintaan** — bukan menyampaikan rindu kepada pasangan. Studi itu mendukung pernyataan bahwa ketaklangsungan punya bobot budaya di Indonesia; ia **tidak** mengukur apa yang sedang kamu lakukan di kolom chat, dan siapa pun yang memakainya untuk mengklaim \"orang Indonesia tidak suka bicara langsung soal perasaan\" sedang meregangkan sumbernya.\n\n## Kesalahan yang bisa dicek di hasil peringkat dua\n\nSaya mengukur SERP-nya sendiri, dan tiga hasil penerbit di sana menjawab pertanyaan berbahasa Indonesia dengan daftar kalimat **bahasa Inggris** — mereka membaca \"tanpa bilang kangen\" sebagai \"tanpa bilang *I miss you*\". Itu pertanyaan lain.\n\nYang bisa dicek lebih tajam ada di hasil peringkat dua, sebuah situs kursus bahasa Inggris. Pada butir keempat daftarnya, contoh kalimat yang diberikan berbunyi: *\"I was having fun, but I realized something's missing you.\"* Kalimat itu tidak gramatikal. *Something's missing you* berarti \"sesuatu merindukan**mu**\" — subjeknya jadi \"sesuatu\", persis kebalikan dari maksud yang dijelaskan artikelnya sendiri, yaitu \"ada yang kurang\". Dan pada butir ketujuh, daftar yang judulnya menjanjikan cara bilang kangen **tanpa** kata *miss* justru menawarkan \"I miss your energy\".\n\nKalau situs kursus bahasa Inggris memberi contoh rusak di posisi dua, itu ukuran jujur seberapa dangkal halaman-halaman ini diperiksa.\n\n## Kalau kamu menuliskannya di halaman, bukan di kolom chat\n\nKadang yang kamu butuhkan bukan kalimat pintar, melainkan tempat yang lebih lambat.\n\nKatakan terus terang apa yang akan kamu temukan: **/missyou-gf adalah halaman berbahasa Inggris**. Label dan seluruh teks antarmukanya bahasa Inggris — tidak ada versi bahasa Indonesia. Di kode produk kami template itu didefinisikan sebagai \"I miss you page for a girlfriend/partner\", jadi ia dirancang untuk pacar atau pasangan; kalau yang kamu tuju sahabat atau orang tua, sebagian isiannya terasa salah alamat. Isi yang kamu tulis sendiri boleh berbahasa Indonesia.\n\nDan ada ketegangan yang jujur untuk diakui di sini: seluruh tujuan halaman itu adalah **mengatakannya secara langsung**, sementara seluruh tujuan tulisan ini adalah tidak. Kalau kamu memang sedang memilih jalan memutar, halaman rindu mungkin justru bukan alat yang kamu cari minggu ini. **13,6% pengirim merekam pesan suara (29 dari 214)** — dan itu contoh yang lebih tepat: nada suaranya menyampaikan banyak hal tanpa kalimatnya harus menyebut apa-apa. Sekali lagi, angka-angka itu tidak dipilah per bahasa atau negara.\n\nKalau kamu ingin sesuatu yang lebih ringan dan tidak mengumumkan perasaan sejak baris pertama, [halaman *catch* yang lebih ringan](/catch) lebih cocok untuk isyarat yang tidak ingin langsung terbaca; [daftar template lengkapnya](/templates) memuat pilihan lain. Soal biaya kami tidak bisa memastikan apa pun di sini — basis data kami tidak memuat informasi semacam itu, jadi apakah sesuatu bisa dipakai tanpa membayar perlu kamu cek sendiri di halaman template.\n\nDua tulisan pendamping menjawab pertanyaan lain: untuk padanan bahasa Inggrisnya, baca [kangen kamu dalam bahasa Inggris dan apa yang hilang di situ](/blog/kangen-kamu-bahasa-inggris); untuk menuliskannya dalam bahasa Jawa dengan tingkat tutur yang benar, baca [kangen kamu bahasa Jawa: ngoko, krama, krama inggil](/blog/kangen-kamu-bahasa-jawa). Tulisan ini tidak membahas terjemahan maupun tingkat tutur — ia membahas bagaimana bahasa Indonesia melembutkan pesan tanpa mengganti kata *kangen*.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/cara-bilang-kangen-tanpa-bilang-kangen#post",
+        "inLanguage": "id-ID",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Bahasa Indonesia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indonesian_language",
+              "https://www.wikidata.org/wiki/Q9240"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Partikel (tata bahasa)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_particle",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Book",
+            "name": "Kamus Besar Bahasa Indonesia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kamus_Besar_Bahasa_Indonesia",
+              "https://www.wikidata.org/wiki/Q4200623"
+            ]
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Kesantunan berbahasa",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Politeness",
+              "https://www.wikidata.org/wiki/Q281287"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "url": "https://kbbi.web.id/dong",
+            "description": "KBBI labels dong `p cak` (particle, colloquial register) and defines it as \"kata yang dipakai di belakang kata atau kalimat untuk pemanis atau pelembut maksud\" — a word placed after a word or sentence to sweeten or SOFTEN the intent; the dictionary itself uses the word \"pelembut\""
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://kbbi.web.id/deh",
+            "description": "KBBI labels deh `Jk p` (Jakarta, particle) and defines it as \"kata yang digunakan untuk mengukuhkan kata-kata atau maksud kawan bicara\" — affirming, not softening; the same dictionary defines nih `p cak` as \"ini (dengan penegasan)\", also emphatic"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://kbbi.web.id/sih",
+            "description": "KBBI labels sih `p cak` and gives sense 1 as \"kata penambah atau penegas dalam kalimat tanya, menyatakan masih bimbang atau belum pasti benar\" and sense 2 as \"memang; sebenarnya\" — a hesitancy marker inside questions, not a softener of commands"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://kbbi.web.id/basa-basi",
+            "description": "KBBI sense 2 of basa-basi: \"ungkapan yang digunakan hanya untuk sopan santun dan tidak untuk menyampaikan informasi, misalnya kalimat 'apa kabar?' yang diucapkan apabila kita bertemu dengan kawan\" — the dictionary names the category of utterances whose content is not their purpose, and gives 'apa kabar?' as its example"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://tatoeba.org/en/api_v0/search?from=ind&to=eng&query=dong",
+            "description": "The Indonesian-to-English Tatoeba corpus returns 5 sentences containing dong as a standalone token; 4 of the 5 are requests or prohibitions (Jangan marah, dong / Ambilkan teh di kulkas dong / Bawa gelas itu ke dapur dong / Sedikit aja dong), and 4 of the 5 English translations contain no word corresponding to dong. The same corpus returns 19 sentences for sih, of which the 10 readable on the first API page include 8 questions"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://publications.usk.ac.id/index.php/siele/article/view/1100",
+            "description": "In a qualitative case study of 4 male university students from Central Java performing role-play requests in formal contexts, conventionally indirect strategies accounted for 56.25% of head acts, direct strategies 43.75%, and external modifications (supportive reasons) appeared in 81.25% of cases (Studies in English Language and Education, Universitas Syiah Kuala, gold open access, CC-BY)",
+            "datePublished": "2026-05-31"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/cara-bilang-kangen-tanpa-bilang-kangen#faq",
+        "inLanguage": "id-ID",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Apakah *kangen* dan *rindu* benar-benar sama?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tidak persis. KBBI memberi *kangen* label `cak` — bentuk kata percakapan, tidak baku — dan mendefinisikannya justru dengan kata *rindu*: \"ingin sekali bertemu; rindu\". Entri *rindu* sendiri tidak membawa label semacam itu. Jadi keduanya sedekat itu maknanya, tetapi berbeda tingkat kebakuannya."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kalau orangnya belum terlalu akrab, kalimat apa yang paling aman?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Geser kata gantinya, bukan kata kerjanya. KBBI menandai *aku* dan *kamu* sebagai \"ragam akrab\" — dan *kamu* bahkan disertai keterangan \"atau kasar\" — sementara *saya* ditandai \"ragam resmi atau biasa\". Mengganti *aku kangen kamu* menjadi kalimat ber-*saya* langsung menurunkan suhunya tanpa mengubah isinya."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah menambahkan *dong* membuat pesan terdengar manja?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "KBBI tidak memakai kata \"manja\". Yang tertulis adalah \"pemanis atau pelembut maksud\". Di Tatoeba, 4 dari 5 kalimat Indonesia yang memakai *dong* adalah permintaan atau larangan — jadi fungsinya melunakkan sesuatu yang kalau polos akan terdengar seperti perintah."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah *kok* termasuk partikel penghalus?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Saya tidak bisa memastikannya dari kamus. Dua cermin KBBI daring, kbbi.web.id dan kbbi.co.id, sama-sama hanya menyajikan entri \"kok, *n*, bola dalam permainan bulu tangkis\" untuk kata itu, dan halaman Wiktionary untuk *kok* tidak memuat bagian partikel bahasa Indonesia. Partikel itu jelas dipakai orang, tetapi tidak ada entri yang bisa saya kutip."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kenapa label `cak` di KBBI bukan berarti kata itu salah?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "`cak` menandai ragam cakapan — bentuk percakapan yang tidak baku, bukan bentuk yang keliru. Artinya kata itu tepat di pesan pribadi dan kurang tepat di surat resmi. *Dong*, *sih*, dan *nih* semuanya membawa label ini; *deh* membawa label `Jk`, yang menandai asal Jakarta."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah bahasa Inggris punya padanan untuk *dong*?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nyaris tidak. Di Tatoeba, 4 dari 5 terjemahan Inggris untuk kalimat ber-*dong* tidak memuat kata apa pun yang mewakilinya: *Jangan marah, dong* menjadi \"Don't be angry\". Satu-satunya yang terbawa memakai *question tag*, dan itu pun bukan padanan yang rapi."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah bertanya \"udah makan?\" benar-benar dianggap menyampaikan rindu?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Kamus tidak mengatakannya sejauh itu. KBBI hanya mengakui kategorinya lewat entri *basa-basi*: ungkapan yang dipakai \"hanya untuk sopan santun dan tidak untuk menyampaikan informasi\", dengan contoh \"apa kabar?\". Apa yang ditangkap lawan bicaramu dari \"udah makan?\" bergantung pada hubungan kalian, bukan pada entri kamus."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah boleh menulis kalimat tanpa kata ganti sama sekali?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Boleh, dan itu salah satu cara paling halus. Kalimat bahasa Indonesia sah tanpa subjek, sehingga \"Kepikiran kamu tadi\" tidak menyebutkan siapa yang memikirkan. Perasaannya tersampaikan, kepemilikannya tidak dinyatakan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah ada bukti bahwa orang Indonesia memang cenderung tidak langsung?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ada, tetapi kecil dan spesifik. Sebuah studi 2026 di *Studies in English Language and Education* menemukan strategi tak langsung pada 56,25% permintaan — dengan n = 4 mahasiswa laki-laki asal Jawa Tengah, dalam konteks formal, lewat bermain peran. Itu bukan pengukuran tentang pasangan atau tentang rindu, dan tidak boleh dipakai untuk menggeneralisasi satu negara."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kalau isyaratnya tidak ditangkap, apa yang sebaiknya dilakukan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Katakan langsung. Seluruh alat di halaman ini bekerja dengan menyerahkan penafsiran kepada penerima, dan itu berarti ia bisa meleset. Kalau isyarat kedua juga lewat tanpa balasan, ketaklangsungan sudah berhenti melindungi siapa pun dan hanya menyisakan kebingungan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah semua angka di halaman ini berasal dari pengguna Indonesia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tidak. Basis data kami tidak dipilah menurut bahasa maupun negara, jadi tidak ada satu angka pun di sini yang bisa disebut angka Indonesia. Basis data itu juga hanya mencatat template mana yang dibuka, tidak pernah siapa yang menerimanya, dan n = 214 atas dua bulan pemakaian."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "cara bilang kangen tanpa bilang kangen",
+    "angle": "Wins by being the only post on this SERP that CHECKS the received wisdom instead of repeating it: of the five particles every listicle calls softeners, KBBI defines exactly one (dong) as \"pemanis atau pelembut maksud\", labels nih and deh as EMPHATIC, and serves only a badminton shuttlecock for kok — and the real softening lever turns out to be the pronoun, which KBBI itself tags by register (aku/kamu 'ragam akrab atau kasar', saya 'ragam resmi atau biasa'). Nine of the ten measured Google results are UGC or English-phrase listicles; none cites a dictionary.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "bodyLanguage": "Indonesian",
+    "region": "id-id",
+    "factsUsed": [
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://kbbi.web.id/dong",
+        "stat": "KBBI labels dong `p cak` (particle, colloquial register) and defines it as \"kata yang dipakai di belakang kata atau kalimat untuk pemanis atau pelembut maksud\" — a word placed after a word or sentence to sweeten or SOFTEN the intent; the dictionary itself uses the word \"pelembut\""
+      },
+      {
+        "url": "https://kbbi.web.id/deh",
+        "stat": "KBBI labels deh `Jk p` (Jakarta, particle) and defines it as \"kata yang digunakan untuk mengukuhkan kata-kata atau maksud kawan bicara\" — affirming, not softening; the same dictionary defines nih `p cak` as \"ini (dengan penegasan)\", also emphatic"
+      },
+      {
+        "url": "https://kbbi.web.id/sih",
+        "stat": "KBBI labels sih `p cak` and gives sense 1 as \"kata penambah atau penegas dalam kalimat tanya, menyatakan masih bimbang atau belum pasti benar\" and sense 2 as \"memang; sebenarnya\" — a hesitancy marker inside questions, not a softener of commands"
+      },
+      {
+        "url": "https://kbbi.web.id/basa-basi",
+        "stat": "KBBI sense 2 of basa-basi: \"ungkapan yang digunakan hanya untuk sopan santun dan tidak untuk menyampaikan informasi, misalnya kalimat 'apa kabar?' yang diucapkan apabila kita bertemu dengan kawan\" — the dictionary names the category of utterances whose content is not their purpose, and gives 'apa kabar?' as its example"
+      },
+      {
+        "url": "https://tatoeba.org/en/api_v0/search?from=ind&to=eng&query=dong",
+        "stat": "The Indonesian-to-English Tatoeba corpus returns 5 sentences containing dong as a standalone token; 4 of the 5 are requests or prohibitions (Jangan marah, dong / Ambilkan teh di kulkas dong / Bawa gelas itu ke dapur dong / Sedikit aja dong), and 4 of the 5 English translations contain no word corresponding to dong. The same corpus returns 19 sentences for sih, of which the 10 readable on the first API page include 8 questions"
+      },
+      {
+        "url": "https://publications.usk.ac.id/index.php/siele/article/view/1100",
+        "stat": "In a qualitative case study of 4 male university students from Central Java performing role-play requests in formal contexts, conventionally indirect strategies accounted for 56.25% of head acts, direct strategies 43.75%, and external modifications (supportive reasons) appeared in 81.25% of cases (Studies in English Language and Education, Universitas Syiah Kuala, gold open access, CC-BY)",
+        "publishedDate": "2026-05-31"
+      }
+    ],
+    "serp": {
+      "measuredAt": "2026-09-26",
+      "route": "PRIMARY: Google served to the Indonesian market in an ISOLATED Playwright browser (per-agent, not the shared Chrome) — google.com/search?q=cara+bilang+kangen+tanpa+bilang+kangen&gl=id&hl=id&pws=0&num=20. Self-authenticated before recording: the returned page carried my own query in the search box and documentElement.lang='id'. CONFIRMATION RUN: Google returned /sorry/index HTTP 429 on the second attempt; the captcha was NOT clicked. The second measurement was therefore taken on Bing setlang=id&mkt=id-ID in the same isolated Playwright browser and is labelled an INSTRUMENT SUBSTITUTION — a different index, reported separately rather than merged.",
+      "runs": 2,
+      "runAgreement": "The two runs are NOT comparable and are not presented as agreeing: run 1 is Google id-ID (9 organic results) and run 2 is Bing id-ID (9 organic results), because Google rate-limited before a second identical run was possible. The two indexes return substantially different fields — see googleVsBing below. Google is the SERP the Indonesian reader sees and is the one Gate 4 was applied to.",
+      "aiBlockPresent": true,
+      "aiBlockNote": "Google served a 'Ringkasan AI' (AI Overview) with the sub-headings 'Cara Halus Lewat Pesan', 'Aksi Langsung Tanpa Banyak Kata', 'Cara Mengungkapkan Kangen Lewat Kata-Kata' and 'Cara Mengungkapkan Kangen Tanpa Kata-Kata'.",
+      "results": [
+        {
+          "pos": 1,
+          "domain": "x.com",
+          "type": "social post (X, @radenrauf, Feb 2022, 22.9k likes)",
+          "weak": true
+        },
+        {
+          "pos": 2,
+          "domain": "kelasonlinemrbob.com",
+          "type": "English-course blog listicle, answers the Indonesian query with English phrases",
+          "weak": true
+        },
+        {
+          "pos": 3,
+          "domain": "instagram.com",
+          "type": "social post (@bund.lifetainment, 510+ likes)",
+          "weak": true
+        },
+        {
+          "pos": 4,
+          "domain": "quora.com",
+          "type": "Q&A thread, 10+ answers, 3 years old",
+          "weak": true
+        },
+        {
+          "pos": 5,
+          "domain": "tiktok.com",
+          "type": "short video (@heny, 344.9k views)",
+          "weak": true
+        },
+        {
+          "pos": 6,
+          "domain": "cosmopolitan.co.id",
+          "type": "national magazine article — also an English-phrase listicle",
+          "weak": false
+        },
+        {
+          "pos": 7,
+          "domain": "threads.net",
+          "type": "social post (@sadzvianip, 8 months old)",
+          "weak": true
+        },
+        {
+          "pos": 8,
+          "domain": "englishvit.com",
+          "type": "English-course article, English phrases",
+          "weak": true
+        },
+        {
+          "pos": 9,
+          "domain": "hipwee.com",
+          "type": "Indonesian lifestyle portal, article dated 22 Feb 2020",
+          "weak": true
+        }
+      ],
+      "weakCount": 8,
+      "weakCountBasis": "8 of the 9 organic results I actually saw on Google id-ID. Google returned 9 organic results for num=20, not 10; I did not invent a tenth. Only cosmopolitan.co.id is strong national editorial. hipwee.com is counted weak on age (Feb 2020) and thinness, which is a judgement call — counting it strong would still leave 7 of 9 weak.",
+      "gate4": "PROCEED. 8 of 9 measured Google results are weak: five are UGC (X, Instagram, Quora, TikTok, Threads), two are English-course listicles that answer the Indonesian question with English sentences, and one is a six-year-old lifestyle post. Zero of the nine cites any dictionary. The single strong result, Cosmopolitan Indonesia, answers a different question ('selain I miss you'). A post that reads KBBI and counts Tatoeba has an unoccupied position here.",
+      "googleVsBing": "MATERIAL DIFFERENCE, REPORTED RATHER THAN RECONCILED. Bing id-ID returns a far stronger field: Sonora.id (1), Hipwee (2), kumparan.com (3), Cosmopolitan Indonesia (4), Liputan6.com (5), kelasonlinemrbob.com (6), Kompasiana (7), IDN Times (8), timenews.co.id (9) — five established national portals, roughly 3 of 9 weak, which would be a much tighter Gate 4. NONE of Kumparan, Liputan6, Sonora or IDN Times appears anywhere in Google's nine. Gate 4 was applied to Google because Google is overwhelmingly the index Indonesian readers use, but the Bing field is recorded here because it materially changes the risk picture and a reviewer should see it.",
+      "orchestratorPredictionCheck": "The task prompt predicted the SERP would 'possibly' be owned by national portals (Kumparan, Liputan6, Merdeka, Sonora, IDN Times). On Google id-ID that prediction is WRONG — zero of those five domains rank in the top 9. On Bing id-ID it is largely RIGHT — four of the five rank. The prediction was untestable as stated because it did not name an index."
+    },
+    "checkableErrorFound": "TWO, both in the Google result at position 2 (kelasonlinemrbob.com, 'Kelas Online Mr.BOB Kampung Inggris', an English-teaching business). (1) UNGRAMMATICAL ENGLISH IN A TEACHING EXAMPLE: item 4 of its list offers the example sentence \"I was having fun, but I realized something's missing you.\" That parses as 'something is missing YOU' — 'something' becomes the one doing the missing — which is the opposite of the meaning the article's own gloss gives it ('ada yang kurang' / 'kayaknya ada yang kurang'). (2) THE LIST BREAKS ITS OWN STATED RULE: the page promises ten ways to say kangen 'tanpa harus ngomong \"I miss you\"' and its item 3 explicitly says 'tanpa kata \"miss\"', yet item 7 is \"I miss your energy\". Both are checkable by anyone opening the page. A third, weaker observation: three of the four publisher results on the Indonesian SERP (kelasonlinemrbob #2, Cosmopolitan #6, Englishvit #8) answer the Indonesian query with lists of ENGLISH phrases, reading 'tanpa bilang kangen' as 'tanpa bilang I miss you'.",
+    "claimsCut": [
+      "CUT: 'the particles sih, dong, kok, nih, deh all carry the softening this reader wants' (the task prompt's framing). KBBI supports it for dong ONLY. nih is 'ini (dengan penegasan)' and deh is 'mengukuhkan' — both emphatic, the opposite of softening. Rewrote the section as a verification rather than a description.",
+      "CUT: any claim at all about the particle kok. Both KBBI mirrors (kbbi.web.id, kbbi.co.id) serve only 'kok, n, bola dalam permainan bulu tangkis' — the badminton shuttlecock — and en.wiktionary.org/wiki/kok has no Indonesian particle section (its only 'Indonesian' hit is a descendants list for koki). This is exactly the BRIEF's HTTP-200-wrong-entry trap and it is recorded in the body as an honest negative.",
+      "CUT: a taxonomy of what 'lagi apa?', 'udah makan?' and 'inget nggak...' each convey. Nothing sourceable exists. Replaced with KBBI's own entry for basa-basi, and the body states explicitly that KBBI's example is 'apa kabar?' and NOT these phrases.",
+      "CUT: 'Indonesian is a high-context culture' and every unsourced face-saving / indirect-communication claim. Replaced with one open-access study, with its n = 4 and its formal-request scope stated in the body.",
+      "CUT: a sentence claiming the SiELE study shows Indonesians avoid stating feelings directly. It measured REQUESTS in FORMAL contexts by four male EFL learners, and the body says so.",
+      "CUT: an internal link to /blog/say-i-miss-you-without-saying-it. The task prompt states that post is 'already live'; it is NOT. content/keywords/strapi-live-articles.json holds 905 live articles and contains zero of the 54 slugs in content/batches/2026-09-25-miss-you-30, including that one. Linking it would have shipped a 404. Read it for differentiation, did not link it.",
+      "CUT: a claim that englishvit.com's ranking URL 404s. The SERP only showed a truncated display URL; the URL I probed was my own reconstruction, so the 404 is evidence about my guess, not about their page.",
+      "CUT: any price, tier or 'tanpa membayar' assertion. The body says the database holds no pricing data and sends the reader to /templates to check.",
+      "CUT: a claim that the KBBI entry for kangen has exactly two derivatives versus rindu's five. The kangen entry was read directly (mengangeni, kangen-kangenan = 2), but the rindu entry response was truncated before its derivative list ended, so the count of five is the sibling's and not independently re-verified here. The FAQ states only the label difference, which was read on both pages."
+    ],
+    "instrumentsThatRefused": [
+      "Google id-ID, second run — HTTP 429 /sorry/index. Captcha NOT clicked. Switched to Bing and labelled it.",
+      "kbbi.web.id — HTTP 503 on three consecutive requests when fetched without delay; all entries were re-fetched successfully with a 1.5-2s pause between requests.",
+      "publications.usk.ac.id (SiELE landing page) — HTTP 468 to a scripted UA AND to the isolated Playwright browser. The abstract was read in full via the Crossref REST API and cross-checked against OpenAlex's inverted index; the two agree word-for-word. ABSTRACT ONLY — no full text, no PDF.",
+      "ejournal.upi.edu (Indonesian Journal of Applied Linguistics) — HTTP 403 Cloudflare 'Just a moment...'. Not cited.",
+      "tatoeba.org API pagination — ?page=2 returns HTML, not JSON. Only the first page of the sih result set (10 of 19 sentences) was readable, and the body says '10 of 19' rather than generalising over all 19.",
+      "en.wiktionary.org/wiki/sih and /nih — both pages exist but neither has an Indonesian section. Honest negatives, not cited."
+    ],
+    "countsObtained": {
+      "KBBI entries fetched and headword-verified on the page before citing": 11,
+      "of the 5 particles named in the task prompt, ones KBBI defines as a softener": 1,
+      "of the 5 particles, ones KBBI defines as emphatic (the opposite)": 2,
+      "of the 5 particles, ones with no reachable KBBI or Wiktionary particle entry": 2,
+      "Tatoeba ind-eng sentences containing dong as a standalone token": 5,
+      "of those, requests or prohibitions": 4,
+      "of those, English translations containing no word corresponding to dong": 4,
+      "Tatoeba ind-eng sentences containing sih (total reported by the API)": 19,
+      "of the 10 sih sentences readable on the first API page, ones that are questions": 8,
+      "measured Google id-ID results citing any named dictionary": 0,
+      "measured Google id-ID publisher results answering the Indonesian query with English phrases": 3,
+      "Wikidata QIDs guessed before checking that turned out wrong": 2
+    },
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Slug 'cara-bilang-kangen-tanpa-bilang-kangen' contains the Indonesian stop words 'tanpa' and repeats 'bilang'. It cannot be shortened without losing the exact-match primary keyword, which is the whole basis of the row. Would close only if the row's keyword changed."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Strapi is offline in this environment, so slug availability could not be checked against the live collection. Verified instead against content/keywords/strapi-live-articles.json (905 live articles): no article with this slug exists there. Would close on a live Strapi query."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "No ItemList is present. The body deliberately does not rank or number the signals — the comparison table is unordered and the post argues against building a taxonomy it cannot source. Adding an ItemList would assert an order the evidence does not support. Would close only if the body were restructured into a ranked list."
+        },
+        {
+          "item": "Batch JSON validates against references/article-json-schema.md",
+          "why": "references/article-json-schema.md could not be located in this checkout (references/ resolves to .claude/skills/blog-optimisation/references/, which contains publish-checklist.md but no article-json-schema.md). The file was instead validated with JSON.parse and shape-matched field-by-field against a sibling in the same batch. Would close when the schema file is available."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Source caps are enforced by the orchestrator at quiescence, not by this agent mid-write. capcheck.mjs was run immediately before writing and reported no banned URL, no domain at cap and no URL at cap; five of the six sources are cap-exempt reference instruments (kbbi.web.id, tatoeba.org). The SiELE article is a first use in this batch. Recorded as failed because the count is a batch-wide property this post cannot verify alone."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The three first-party facts fail the swap test against a sibling. The 1,434 hug taps, 28.0% reunion date and 13.6% voice note lines appear in 45, 42 and 51 of the 71 posts across the two miss-you batches, and all three are used by say-i-miss-you-without-saying-it in the 2026-09-25 batch. Every less-collided line was already taken by the two Indonesian siblings. The six third-party sources DO pass the swap test — none could sit in another post in this batch. Failed honestly rather than hidden."
+        }
+      ],
+      "additionalChecks": [
+        "JSON.parse round-trips this file cleanly; no unescaped double quote survived the write.",
+        "Every sameAs QID was resolved against the Wikidata API before use. Two QIDs I had guessed were WRONG and were discarded: Q1626846 resolves to 'Acebo', a municipality in Cáceres, Spain (not Tatoeba, which is Q495456), and Q12473617 resolves to nothing at all (KBBI is Q4200623). This is the same class of error as the sibling's Cambodian-scarf 'Krama'.",
+        "HTTP 200 was not treated as confirmation. The headword was read on every KBBI page before citing it — which is how the kok trap was caught: both mirrors return 200 and serve the badminton shuttlecock.",
+        "pricecheck-intl.mjs run against this slug before saving.",
+        "capcheck.mjs run immediately before writing: no banned URL used, no domain at cap, no URL at cap.",
+        "All three factsUsed strings were assert-checked byte-for-byte against facts-snapshot.md by the build script, which throws if any is not verbatim.",
+        "Fact collision was measured by PARSING each sibling's batchMeta.factsUsed, not by grepping raw file text. A first grep-based pass reported the 1,434 and 214 lines as unused by anyone; that was WRONG, because both contain double quotes that are backslash-escaped in the JSON source. The corrected parse shows them at 45/71 and 60/71.",
+        "The two Indonesian siblings were read in full before drafting; no section, count or source is shared with either.",
+        "Both live English posts named in the prompt were read. Neither was translated and neither is linked.",
+        "Body word count 1,761 by plain whitespace split, excluding FAQs — inside 1,500-1,800 and at the ~1,750 target the WAVE1-PLAN word-ceiling note asks for.",
+        "FAQs appear only in article.faqs and the FAQPage JSON-LD. Checked: none of the 11 FAQ questions restates a body H2.",
+        "templateUrls checked against TEMPLATE_LINKS in app/lib/prompt.ts; /missyou-gf is the mandatory one and its definition at line 44 is quoted in the body.",
+        "The price guard was satisfied in Indonesian: no gratis / cuma-cuma / tanpa biaya and no figure. The refusal uses the siblings' 'tanpa membayar' phrasing to avoid a false positive on harga/biaya.",
+        "The SERP was measured in an ISOLATED Playwright browser, never the shared Chrome, and the returned page was self-authenticated (own query string, lang=id) before any position was recorded.",
+        "No dialog, click, submission or captcha interaction occurred in any browser."
+      ],
+      "honestAssessment": "An answer engine would cite this over the nine measured Google pages because it is the only one that checked. Every ranking result asserts that sih/dong/kok/nih/deh soften; this post opened all five entries and found KBBI supports that for one of them, contradicts it for two, and cannot be reached for two. That is a falsifiable claim with an entry reference behind it, and it is the opposite of what the SERP says. The pronoun spine — KBBI's own 'ragam akrab / ragam resmi' labels — is verified rather than asserted, and it is genuinely the lever English lacks, which is the one place where the orchestrator's framing held up under checking. The weakest part is the first-party data: all three facts are heavily collided and all three are shared with an English sibling, because the two Indonesian siblings had already taken every less-used line. Item 34 is failed for that, honestly. The SiELE study is thin support (n = 4, formal requests) and the body says so rather than leaning on it. The real uncertainty is Gate 4: Google says 8 of 9 weak and PROCEED, Bing says the national portals own this query, and I have no way to reconcile two indexes — I reported both rather than picking the one that suited the decision."
+    },
+    "structuralLimitations": [
+      "The task prompt asserts /blog/say-i-miss-you-without-saying-it is 'already live'. It is not. strapi-live-articles.json lists 905 live articles and none of the 54 slugs in the 2026-09-25 batch appears among them. The cross-link was dropped rather than shipping a 404; the post still differentiates from it in prose.",
+      "The prompt's framing that the particles 'carry exactly the softening this reader wants' is only one-fifth supported by KBBI. dong yes; sih marks hesitancy inside questions; nih and deh are emphatic; kok is unreachable. The post is built on the verified subset.",
+      "The prompt predicted national portals (Kumparan, Liputan6, Merdeka, Sonora, IDN Times) would own this SERP. Zero of them rank on Google id-ID; four of five rank on Bing id-ID. The prediction was index-dependent and stated without an index.",
+      "Gate 4 rests on a single Google run, because Google 429'd the confirmation attempt. The confirmation was taken on a different index (Bing) and is reported as such rather than merged into a single weak count.",
+      "The SiELE citation is ABSTRACT ONLY. The publisher landing page returns HTTP 468 to both a scripted UA and a real isolated browser; the abstract was read via the Crossref REST API and independently confirmed against OpenAlex. No full text or PDF was parsed.",
+      "Only 10 of the 19 Tatoeba sih sentences were readable, because the API's page parameter returns HTML. Every sih count in the body is stated as 'of the 10 I could read'.",
+      "No claim is made about the particle kok anywhere in the post, because no dictionary entry for it could be reached on either KBBI mirror or on Wiktionary.",
+      "KBBI's basa-basi entry names the category but does not list 'udah makan?' or 'lagi apa?'. The body presents those as examples of a dictionary-recognised category, explicitly not as dictionary entries.",
+      "All six sources except the SiELE article are cap-exempt reference instruments (kbbi.web.id, tatoeba.org). This is unavoidable for a row whose whole claim is lexical, and it means capcheck cannot meaningfully differentiate this post's source set from its siblings'.",
+      "The three first-party facts collide at 45, 42 and 51 of 71 posts across the two miss-you batches, and all three are shared with say-i-miss-you-without-saying-it. Every line below 42 was already taken by kangen-kamu-bahasa-inggris or kangen-kamu-bahasa-jawa. Checklist item 34 is failed rather than argued away.",
+      "The mandatory /missyou-gf link is in tension with the post's own thesis — the page exists to say it directly, this post is about not doing that. The body names the tension rather than smoothing it over, and points the reader at /catch for a lighter signal.",
+      "No figure in this post is Indonesian. The database is not segmented by language or country and records which template was opened, never who received it. Both disclosures are in body prose, not only here."
+    ],
+    "generatedAt": "2026-09-26T14:48:00.340Z"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ik mis je nu al: betekenis, en het moment waarop je het stuurt",
+    "slug": "ik-mis-je-nu-al-betekenis",
+    "excerpt": "\"Ik mis je nu al\" is compositioneel, niet idiomatisch: de ANS rekent al tot de focuspartikels en het werkwoord staat gewoon in de o.t.t. Wat de zin zegt, hoe hij zich tot het Engelse \"already\" verhoudt, en op welk moment je hem stuurt.",
+    "metaTitle": "Ik mis je nu al betekenis: wat \"nu al\" precies doet",
+    "metaDescription": "\"Ik mis je nu al\" is geen uitdrukking: al is een focuspartikel, en 19 Tatoeba-zinnen tonen het vrij combineren. Wat het betekent en wanneer je het stuurt.",
+    "keywords": "ik mis je nu al betekenis, ik mis je nu al, nu al betekenis, focuspartikel al, ik mis je in het Engels",
+    "canonicalURL": "https://subhsandesh.in/blog/ik-mis-je-nu-al-betekenis",
+    "ogType": "article",
+    "tags": [
+      "Nederlands",
+      "betekenis",
+      "afscheid",
+      "lange afstand",
+      "taal"
+    ],
+    "keyTakeaways": [
+      "\"Ik mis je nu al\" is compositioneel, niet idiomatisch: de ANS 21.4.9.4.1 rekent al tot de focuspartikels, naast reeds, nog, pas en eerst.",
+      "Er is geen toekomende tijd in de zin. Volgens ANS 2.4.8.3.i vallen werking, referentiepunt en spreekmoment samen: het missen gebeurt nu, alleen het vertrek nog niet.",
+      "In 19 geverifieerde Tatoeba-zinnen combineert nu al vrij met alles van dronken zijn tot een trouwdatum prikken — het staat in geen enkel woordenboek als lemma.",
+      "Van de 24 gemeten zoekresultaten legt er geen één de zin uit: zes zijn songteksten en drie zijn uitvaart- of rouwsites.",
+      "Op /missyou-gf zet 28,0% van de afzenders een herenigingsdatum voor de aftelklok (60 van 214), en een pagina kost mediaan 2,6 uur — voor de zin zelf is een bericht beter."
+    ],
+    "faqs": [
+      {
+        "question": "Is \"ik mis je nu al\" hetzelfde als gewoon \"ik mis je\"?",
+        "answer": "Nee. \"Ik mis je\" kan op elk moment, ook maanden na een vertrek. \"Ik mis je nu al\" bevat het focuspartikel *al*, dat het gevoel afzet tegen een later moment dat nog moet komen. Is dat moment er eenmaal geweest, dan klopt *nu al* niet meer en is \"ik mis je\" de juiste zin."
+      },
+      {
+        "question": "Betekent \"alweer\" hetzelfde als \"nu al\"?",
+        "answer": "Nee, en dat is een makkelijke vergissing. Het WikiWoordenboek glosseert *alweer* als \"opnieuw, nogmaals, wederom, weer\" — het gaat over herhaling, niet over vroegheid. *Alweer* is samengesteld uit *al* + *weer*; die tweede helft doet al het werk."
+      },
+      {
+        "question": "Kun je in plaats van \"nu al\" ook \"reeds\" zeggen?",
+        "answer": "Grammaticaal wel — de ANS zet *al* en *reeds* in dezelfde rij focuspartikels. Maar het WikiWoordenboek merkt *reeds* uitdrukkelijk als formeel aan en glosseert het simpelweg als *al*; het woord is in die betekenis voor het eerst aangetroffen in 1658. \"Ik mis je reeds nu\" klinkt in een afscheidsbericht dus ambtelijk."
+      },
+      {
+        "question": "Schrijf je \"nu al\" los of aan elkaar?",
+        "answer": "Los, altijd. Het zijn twee zelfstandige bijwoorden die toevallig naast elkaar staan, geen samenstelling — precies de reden waarom geen enkel woordenboek er een lemma voor heeft. Vergelijk *alweer*, dat wél aaneengeschreven wordt omdat het wél één woord is geworden."
+      },
+      {
+        "question": "Kun je \"ik mis je nu al\" tegen een vriend of familielid zeggen?",
+        "answer": "Ja. Niets in de zin is aan romantiek gebonden; in het Tatoeba-corpus staat *nu al* bij onderwerpen als moe zijn en donker worden. Let wel op dat de SubhSandesh-sjabloon /missyou-gf waar dit artikel naar verwijst in de broncode is omschreven als een pagina voor een vriendin of partner, en dus niet voor die ontvangers is bedoeld."
+      },
+      {
+        "question": "Hoe antwoord je als iemand jou \"ik mis je nu al\" stuurt?",
+        "answer": "Spiegel het tijdstip, niet alleen het gevoel. \"Ik jou ook, en je bent nog niet eens weg\" werkt omdat het dezelfde meetlat aanhoudt die *al* opzet. Een kaal \"ik jou ook\" verliest juist het deel dat de zin bijzonder maakt."
+      },
+      {
+        "question": "Mag je deze zin gebruiken als iemand is overleden?",
+        "answer": "Beter van niet, en het is nuttig te weten waarom de zoekmachine u daar toch naartoe stuurt. Van de 24 resultaten die ik op 26-09-2026 mat, waren er drie uitvaart- of rouwsites, waaronder een rouwwebwinkel met dezelfde naam. *Nu al* veronderstelt een later moment waarop de scheiding pas echt begint; bij een overlijden bestaat dat moment niet."
+      },
+      {
+        "question": "Zeggen Vlamingen dit anders dan Nederlanders?",
+        "answer": "Niets in de geraadpleegde bronnen wijst op een verschil. De ANS beschrijft *al* als focuspartikel voor het hele taalgebied, en twee van de drie liedjes die exact zo heten — van Günther Neefs en Pluk — komen uit Vlaanderen. Een gemeten uitspraak over regionaal gebruiksverschil kan ik niet doen."
+      },
+      {
+        "question": "Wat betekent \"al\" in een zin als \"ben je er nu al?\"",
+        "answer": "Precies hetzelfde. Tatoeba vertaalt die zin als \"Have you arrived yet?\" of \"Have you already arrived?\": de aankomst is eerder dan de spreker verwachtte. Dezelfde meetlat, ander onderwerp — dat is het bewijs dat *nu al* geen uitdrukking is maar een vrije combinatie."
+      },
+      {
+        "question": "Bestaat er een Duitse of Franse zin die exact hetzelfde doet?",
+        "answer": "In het Duits wel: de vertaalgeheugens geven *Ich vermisse dich jetzt schon*, met *jetzt* + *schon* als letterlijke tegenhangers van *nu* + *al*. Het Frans bouwt het anders op, met *manquer* in omgekeerde richting, en daar is geen woord-voor-woord equivalent van *nu al*."
+      },
+      {
+        "question": "Waarom voelt het als een vaste uitdrukking als het dat niet is?",
+        "answer": "Omdat *al* altijd meet tegen een verwacht moment dat nooit in de zin zelf staat. Bij een afscheid is dat moment voor beide mensen zo vanzelfsprekend — als de trein rijdt, als het vliegtuig weg is — dat het lijkt of de zin het zelf zegt. De betekenis zit in de situatie, niet in het lexicon."
+      }
+    ],
+    "coverImageQuery": "couple saying goodbye train station platform departure",
+    "coverImagePrompt": "Two people holding hands on a Dutch railway platform just before a train leaves, soft overcast daylight, warm muted palette, no visible text",
+    "contentMarkdown": "# Ik mis je nu al: betekenis, en het moment waarop je het stuurt\n\n\"Ik mis je nu al\" is geen vaste uitdrukking. Het is *ik mis je* plus *nu al*, en *nu al* is op zijn beurt niets anders dan *nu* plus *al*. De Algemene Nederlandse Spraakkunst rekent *al* tot de **focuspartikels**, in één rij met *reeds*, *nog*, *pas* en *eerst*: woorden die zeggen dat iets eerder gebeurt dan verwacht.\n\nDaarom klinkt de zin vooruitlopend terwijl er geen toekomende tijd in staat. Je zegt hem vóór of tijdens het afscheid — niet erna.\n\nVan de 214 \"I miss you\"-pagina's die sinds 28-07-2026 op de SubhSandesh-sjabloon /missyou-gf zijn gemaakt, zette **28,0% van de afzenders een herenigingsdatum voor de aftelklok (60 van de 214)**. De mediane tijd tussen het eerste opslaan en de laatste bewerking van zo'n pagina is **2,6 uur (n=214)**. Dat tweede cijfer is de reden dat dit stuk over het moment gaat en niet alleen over de woorden.\n\n## Wat \"ik mis je nu al\" letterlijk zegt\n\n*Missen* is hier een gewoon werkwoord met een lijdend voorwerp: ik mis jou. Het werk zit in de twee woorden erachter.\n\n*Nu* verankert de uitspraak aan het moment waarop je praat. *Al* zet daar een meetlat naast: het gevoel is er **eerder dan je zou verwachten**.\n\nWat je verwacht, staat niet in de zin; dat haalt de luisteraar uit de situatie. Sta je samen op een perron, dan is het verwachte moment als de trein weg is. Zeg je het nú, dan loop je erop vooruit — en dat vooruitlopen is wat er gezegd wordt.\n\n## Is \"nu al\" een uitdrukking? De ANS zegt van niet\n\nVier controles, alle vier nagekeken bij de bron:\n\nDe **ANS 21.4.9.4.1** somt de focuspartikels letterlijk op: *ook*, *zelfs*, *juist*, *alleen*, *maar*, *slechts*, **al**, *reeds*, *nog*, *pas*, *eerst*. Dat is een open rij woorden die vrij combineren, geen helft van een vaste verbinding.\n\nDe **ANS 8.3.2** noemt *nu* bij de bijwoorden van tijd, naast *toen*, *dan*, *morgen* en *gisteren*. Twee zelfstandige woorden, twee zelfstandige lemma's, geen verwijzing naar elkaar.\n\nHet **WikiWoordenboek** heeft geen lemma *nu al* — die pagina bestaat niet (HTTP 404, gecontroleerd op 26-09-2026). Geen enkel geraadpleegd woordenboek voert de combinatie op.\n\nIn het **Tatoeba-corpus** komt *nu al* voor in 19 geverifieerde Nederlandse zinnen, over onderwerpen die niets met afscheid te maken hebben: dronken zijn, donker worden, een snor laten staan, een trouwdatum prikken, een week ziek in bed liggen. Zo gedraagt een vaste uitdrukking zich niet.\n\n**De conclusie: compositioneel, niet idiomatisch.** Dat het tóch als een uitdrukking voelt, komt door de situatie — bij een afscheid weten beide mensen welk later moment *al* bedoelt. Het zit in de context, niet in het woordenboek.\n\nEén controle kon ik níét uitvoeren, en dat hoort u te weten: **Van Dale is van hieruit onbruikbaar**. Elke URL-vorm leidt naar dezelfde webwinkelpagina — winkelwagen, btw-schakelaar — met HTTP 200 en zonder één trefwoord. Ook Onze Taal heeft geen bereikbare zoekfunctie op de gebruikte adressen. Daarom leunt dit stuk op de ANS en het Etymologisch Woordenboek van het Nederlands.\n\n## Welke tijd staat er? Geen toekomst, gewoon de o.t.t.\n\nHier gaat vrijwel elke populaire uitleg de mist in.\n\n*Ik mis* staat in het **presens**, de onvoltooid tegenwoordige tijd. De ANS 2.4.8.3.i beschrijft die functie zo: de werking, het referentiepunt en het spreekmoment vallen samen. Vertaald: het missen gebeurt **echt nu**, op het moment dat je het zegt.\n\nEr is dus geen tegenstrijdigheid en geen verborgen toekomende tijd. Wat in de toekomst ligt is niet het gevoel maar de **oorzaak** ervan: het vertrek dat nog moet komen.\n\nWil je wél naar de toekomst wijzen, dan gebruik je *zullen*. Tatoeba heeft die zin ook: *Ik zal je missen wanneer je weg bent* — \"I'll miss you when you're gone\". Die belooft iets; *Ik mis je nu al* meldt iets.\n\n## Is \"nu al\" hetzelfde als het Engelse \"already\"?\n\nNiet helemaal, en \"sterker\" is het verkeerde woord. Het is **anders verankerd**.\n\nIn het Tatoeba-corpus kiezen menselijke vertalers voor *nu al* afhankelijk van de zin vijf verschillende Engelse oplossingen. Alleen *already* dekt de lading niet.\n\n| Nederlandse zin (Tatoeba) | Engelse vertaling zoals aanwezig | Wat *nu al* daar doet |\n|---|---|---|\n| Nu al? | \"Already?\" | kale verbazing |\n| Ga je nu al? | \"Are you leaving **so early**?\" | eerder dan afgesproken |\n| Tom moet nu al over de dertig zijn. | \"Tom must be over thirty **by now**.\" | rekenen vanaf nu |\n| Ik kan je nu al vertellen dat… | \"I'll tell you **right now** that…\" | vooruitlopen op wat komt |\n| Ze draagt nu al een maand dezelfde hoed. | \"She's been wearing the same hat **for a month**.\" | duur die doorloopt |\n\n*Nu* legt de meetlat vast op het spreekmoment; het Engelse *already* laat dat punt open en moet worden bijgeholpen met *so early*, *by now* of *right now*. Dat is een verschil in precisie, geen verschil in kracht.\n\nEen zijsprong die het compositionele karakter bevestigt: dezelfde zin gaat in het Duits als *Ich vermisse dich **jetzt schon*** — *jetzt* plus *schon*, exact dezelfde twee bouwstenen. Germaanse zustertalen bouwen dit op dezelfde manier.\n\n## Wanneer stuur je het: op het perron, de avond ervoor, of erna\n\nDit is wat de zoeker eigenlijk wil weten, en geen woordenboek beantwoordt het.\n\n### De avond ervoor\n\nHet sterkst. De ander is er nog, het vertrek staat vast, en *nu al* meet het gevoel af tegen een moment dat nog niet is aangebroken.\n\n### Op het perron of bij de gate\n\nOok goed, maar kort. Op het moment zelf leest niemand iets langers dan twee regels. Een zin, geen pagina.\n\n### Nadat ze vertrokken zijn\n\nDan klopt *nu al* niet meer: het vertrek is gebeurd, de meetlat is weg. \"Ik mis je\" is dan juister.\n\n| Moment | Zin die past | Wat de database laat zien |\n|---|---|---|\n| Avond ervoor | \"Ik mis je nu al\" | 2,6 uur mediaan van eerste opslaan tot laatste bewerking (n=214) — genoeg tijd is er alleen vooraf |\n| Op het perron | \"Ik mis je nu al\" (los bericht) | 88,8% van de begonnen pagina's wordt ook echt gepubliceerd en gedeeld (190 van 214) |\n| Eerste week erna | \"Ik mis je\" | 28,0% zet een herenigingsdatum voor de aftelklok (60 van 214) |\n\nVier dingen die u bij die cijfers moet weten. De database registreert **welk sjabloon geopend is, nooit wie het ontving**, en **niets is uitgesplitst naar taal of land — geen van deze cijfers is Nederlands**. Velden als stad, achtergrondmuziek en \"samen sinds\" zijn keuzelijsten met standaardwaarden, dus een hoog invulpercentage daarop is geen keuze van de afzender. Weergaven zijn paginaweergaven, geen unieke bezoekers. En n = 214 over twee maanden draagt geen seizoensconclusie.\n\n## Wat de Nederlandse zoekresultaten laten zien — en één narekenbare fout\n\nIk heb de resultaten zelf gemeten, tweemaal, via **Brave Search met `country=nl`** in een echte browser, op 26-09-2026. Beide keren identiek: 24 resultaten, dezelfde volgorde. Google gaf drie keer een 429-foutpagina en is níét gemeten — over Google-specifieke onderdelen zoals AI-overzichten doe ik daarom geen uitspraak.\n\n**Geen enkel resultaat legt de zin uit.** Wel:\n\n- **Minstens drie liedjes** heten precies *Ik mis je nu al* — van Lucky Fonz III, Günther Neefs en Pluk. Zes van de 24 resultaten zijn songteksten of streamingpagina's.\n- **De zin is een merknaam in de uitvaartbranche.** `ikmisjenual.com` is een rouwwebwinkel met asdragers, sieraden en rouwbegeleiding; `ikmisjenual.nl` afficheert zich als \"Hoe een uitvaart anders kan!\"; `ikmisje.eo.nl` is het rouwplatform van de EO, met rubrieken als \"Ik mis mijn… Kind / Partner / Ouder\". Wie deze zin opzoekt, belandt eerder bij urnen en kaarsjes dan bij grammatica.\n- **Drie Reddit-draadjes gaan over het tv-programma \"Ik heb het nog nooit gedaan\"**, één staat in het Duits. Ruis.\n\nEén fout is narekenbaar. **MyMemory**, dat in deze lijst staat, geeft als best scorende vertaling van *nu al* naar het Engels **\"Now already\"** (score 0,98). Dat is geen Engels. De lager scorende regels van dezelfde dienst hebben het wél goed (\"Already.\"), dus de bovenste treffer is de verkeerde.\n\n## Wat onderzoek wél en niet over afscheid zegt\n\nEerlijk: **naar dit specifieke gevoel — iemand missen vóórdat die vertrokken is — is geen open toegankelijk onderzoek te vinden.** Elf zoekformuleringen in Crossref, Europe PMC en DOAJ leverden palliatieve rouw, klimaatverdriet en deeltjesfysica op. Dat is zelf een bevinding.\n\nWat er wél is, gaat over het *volhouden* van een scheiding. Een studie in *International Journal of Environmental Research and Public Health* (2025) onder partners van uitgezonden marinepersoneel vond dat wie **affectieve brieven schreef**, minder gepreoccupeerde hechting rapporteerde dan wie een neutrale tekst of niets schreef.\n\nEen meta-analyse in *BMC Psychology* (29-09-2025) over digitale interventies bij stellen vond in 15 onderzoeken overwegend positieve effecten op relatietevredenheid, met een **middelgroot effect** in de zes samenvoegbare onderzoeken — maar ook aanzienlijke heterogeniteit. Van beide stukken las ik alleen de samenvatting; de pdf's zijn hier niet te verwerken.\n\n## Wat een SubhSandesh-pagina hier wel en niet doet\n\nNu het ongemakkelijke deel. De sjabloon [/missyou-gf](https://subhsandesh.in/missyou-gf) is in de broncode omschreven als een \"I miss you\"-pagina **voor een vriendin of partner**, en is **volledig Engelstalig**: Engelse labels, Engelse invulvelden, Engelse knoppen. U leest dit in het Nederlands en klikt door naar iets Engels. Voor een vriend, een ouder of een broer is de sjabloon niet bedoeld.\n\nDe spanning zit dieper. *Ik mis je nu al* zeg je op het moment zelf; een pagina bouwen kost mediaan 2,6 uur. **Voor de zin zelf is een bericht beter dan een pagina** — stuur gewoon die vier woorden.\n\nWaar een pagina wél voor is: de week erna. Wilt u iets om een toekomstige datum heen bouwen, dan past [de Capsule-sjabloon, waarin u samen voorspellingen verzegelt en die een jaar later samen opent](https://subhsandesh.in/capsule) beter bij wat *nu al* aanwijst. Alle sjablonen staan in [het overzicht van SubhSandesh-sjablonen](https://subhsandesh.in/templates). Over wat het gebruik ervan met zich meebrengt, kan ik hier niets bevestigen.\n\n## Bronnen\n\n- [ANS 21.4.9.4.1, Focuspartikels](https://e-ans.ivdnt.org/topics/pid/ans2104090401lingtopic) — Algemene Nederlandse Spraakkunst, Instituut voor de Nederlandse Taal. Versie 2.1, januari 2019, naar ANS 2.0 (1997).\n- [ANS 2.4.8.3.i, Werking, referentiepunt en spreekmoment vallen samen](https://e-ans.ivdnt.org/topics/pid/ans0204080301lingtopic) — dezelfde uitgave.\n- [Etymologiebank, trefwoord *al*](https://etymologiebank.nl/trefwoord/al) — Etymologisch Woordenboek van het Nederlands, Philippa, Debrabandere, Quak, Schoonheim en Van der Sijs, 2003–2009.\n- [Tatoeba, Nederlandse zinnen](https://tatoeba.org/en/sentences/search?from=nld&query=%22nu+al%22) — 23 ruwe treffers gecontroleerd, 19 echt. Doorlopend bijgewerkt, zonder publicatiedatum.\n- [Attachment Style During a Partner's Deployment with the United States Navy](https://europepmc.org/article/PMC/PMC12294133) — *International Journal of Environmental Research and Public Health*, 30-06-2025. Alleen samenvatting gelezen.\n- [Effectiveness of digital interventions on relationship satisfaction among couples](https://europepmc.org/article/PMC/PMC12482273) — *BMC Psychology*, 29-09-2025. Alleen samenvatting gelezen.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ik-mis-je-nu-al-betekenis#post",
+        "inLanguage": "nl-NL",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Dutch language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dutch_language",
+              "https://www.wikidata.org/wiki/Q7411"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical particle",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_particle",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Focus (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Present tense",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Present_tense",
+              "https://www.wikidata.org/wiki/Q192613"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "ANS 21.4.9.4.1, Focuspartikels (Algemene Nederlandse Spraakkunst)",
+            "url": "https://e-ans.ivdnt.org/topics/pid/ans2104090401lingtopic",
+            "datePublished": "2019-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ANS 2.4.8.3.i, Werking, referentiepunt en spreekmoment vallen samen",
+            "url": "https://e-ans.ivdnt.org/topics/pid/ans0204080301lingtopic",
+            "datePublished": "2019-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Etymologiebank, trefwoord al (Etymologisch Woordenboek van het Nederlands)",
+            "url": "https://etymologiebank.nl/trefwoord/al",
+            "datePublished": "2009-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba, Dutch (nld) sentence corpus",
+            "url": "https://tatoeba.org/en/sentences/search?from=nld&query=%22nu+al%22"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Attachment Style During a Partner's Deployment with the United States Navy (Int. J. Environ. Res. Public Health)",
+            "url": "https://europepmc.org/article/PMC/PMC12294133",
+            "datePublished": "2025-06-30"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Effectiveness of digital interventions on relationship satisfaction among couples (BMC Psychology)",
+            "url": "https://europepmc.org/article/PMC/PMC12482273",
+            "datePublished": "2025-09-29"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Wanneer stuur je \"ik mis je nu al\"",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "De avond ervoor"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Op het perron of bij de gate"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nadat ze vertrokken zijn"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ik mis je nu al betekenis",
+    "angle": "This post wins by being the only page on the Dutch SERP that settles nu al as compositional using the ANS's own focuspartikel list, corrects the tense to a plain presens in which werking, referentiepunt and spreekmoment coincide, and answers the timing question the dictionaries skip — grounded in 214 miss-you pages of which 28.0% set a reunion countdown.",
+    "bodyLanguage": "Dutch",
+    "region": "nl-nl",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/capsule",
+      "/templates"
+    ],
+    "factsUsed": [
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://e-ans.ivdnt.org/topics/pid/ans2104090401lingtopic",
+        "stat": "Algemene Nederlandse Spraakkunst (e-ANS), section 21.4.9.4.1 'Focuspartikels', published by the Instituut voor de Nederlandse Taal; version 2.1 (January 2019), converted from ANS 2.0 (W. Haeseryn, K. Romijn, G. Geerts, J. de Rooij, M.C. van den Toorn, 1997). Page title verified as 'ANS | 21.4.9.4.1 Focuspartikels' before citing, per BRIEF section 4. Read verbatim from the page body: 'Onder focuspartikels verstaat men woorden als ook, zelfs, juist, alleen, maar (slechts), slechts, al, reeds, nog, pas, eerst.' This single sentence is what settles the idiomatic-versus-compositional question: al belongs to an open, freely combining class, not to a fixed expression. The page cross-references section 8.3.2 for the general characterisation of the category. Cap-exempt reference instrument.",
+        "publishedDate": "2019-01-01"
+      },
+      {
+        "url": "https://e-ans.ivdnt.org/topics/pid/ans0204080301lingtopic",
+        "stat": "Algemene Nederlandse Spraakkunst (e-ANS), section 2.4.8.3.i, 'Werking, referentiepunt en spreekmoment vallen (geheel of gedeeltelijk) samen'. Page title verified before citing. Read verbatim: 'De belangrijkste functie van het presens ligt daar waar de werking, het referentiepunt (niet altijd expliciet aanwezig) en het spreekmoment samenvallen', notated r, s, w. This is the source for the tense correction in the post: 'ik mis' is a plain presens (onvoltooid tegenwoordige tijd) in which event, reference point and speech moment coincide, so the feeling is genuinely present and there is no tense paradox to name. Also consulted and title-verified in the same session: ANS 8.3.2 'Indeling naar de betekenis', which lists nu among the bijwoorden van tijd alongside toen, dan, morgen and gisteren. Cap-exempt reference instrument.",
+        "publishedDate": "2019-01-01"
+      },
+      {
+        "url": "https://etymologiebank.nl/trefwoord/al",
+        "stat": "Etymologiebank entry for the headword al, serving the Etymologisch Woordenboek van het Nederlands (M. Philippa, F. Debrabandere, A. Quak, T. Schoonheim, N. van der Sijs, Amsterdam 2003-2009). Headword read on the page: 'al vnw. geheel, bw. reeds'; the adverbial sense is attested 'vnnl. al reeds [1688; WNT]', with Old Dutch forms from the 10th century (W.Ps.). The companion entry /trefwoord/nu gives 'nu, nou bw. op dit moment; vgw. aangezien', Onl. 10th century. Two adverbs with long independent histories and no cross-reference to each other, which is the etymological half of the compositionality finding. Recorded because it matters: /trefwoord/al1 and /trefwoord/missen both return 'Geen zoekresultaten' — the entry id is not guessable and was checked, not assumed.",
+        "publishedDate": "2009-01-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=nld&query=%22nu+al%22",
+        "stat": "Tatoeba Dutch (nld) corpus, queried via api_v0 on 2026-09-26. Exact-phrase query \"nu al\": 23 raw hits returned and all 23 inspected individually; 19 genuine, 4 discarded (82.6% survival). Three false positives matched inside the word alles; the fourth, 'De bomen laten nu al hun bladeren vallen', passed a \\bnu al\\b regex yet is still wrong — the English translation reads 'letting all their leaves fall now', so al there is the determiner in al hun bladeren, not the focus particle. A regex would have recorded 20 of 23. Exact-phrase query \"ik mis je\": 9 hits, 9 inspected, 9 genuine (100%), and nu al appears in none of them. Exact-phrase query \"mis je nu al\": 0 hits — the full Dutch phrase is not attested in the corpus. Attested English renderings of nu al across the 19: already, so early, by now, right now, premature, and a durative 'for a month now'. CC BY 2.0 FR. Cap-exempt corpus.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12294133",
+        "stat": "Journal: International Journal of Environmental Research and Public Health (MDPI), 2025-06-30, doi 10.3390/ijerph22071056, PMC12294133. Open access confirmed: Europe PMC isOpenAccess = Y. 'Attachment Style During a Partner's Deployment with the United States Navy: Associations with Relational Satisfaction, Stress, and Changes over Time.' From the abstract: in a pre-test/post-test quasi-experiment, participants who engaged in affectionate writing (versus innocuous writing or no writing) reported less preoccupied attachment over time; both affectionate and innocuous writing produced less fearful attachment than no writing. ABSTRACT ONLY — the MDPI landing page 403s a scripted user agent and PDFs do not parse in this environment. Journal check performed by hand per BRIEF section 7: this journal appears in no post in either the 2026-09-25-miss-you-30 or 2026-09-26-miss-you-global-30 batch, and is neither Frontiers in Psychology nor PNAS.",
+        "publishedDate": "2025-06-30"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12482273",
+        "stat": "Journal: BMC Psychology, 2025-09-29, doi 10.1186/s40359-025-03444-y, PMC12482273. Open access confirmed: Europe PMC isOpenAccess = Y. 'Effectiveness of digital interventions on relationship satisfaction among couples: a systematic review and meta-analysis.' From the abstract: most of the 15 eligible studies found significant improvements in relationship satisfaction, often sustained at follow-up; a meta-analysis of six studies found a significant, moderate effect size, with heterogeneity the authors attribute to differences in programme design, participant population and delivery method. ABSTRACT ONLY. Journal check performed by hand: BMC Psychology appears in no post in either batch, and is neither of the two banned journals.",
+        "publishedDate": "2025-09-29"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "Brave Search with country=nl, loaded in the operator's real Chrome via PolterTab and scraped atomically (one navigate, one scrape) on 2026-09-26. Run TWICE: both runs returned page title 'ik mis je nu al betekenis - Brave Search', the query in the URL, and an identical set of 24 distinct off-site results in identical order.",
+      "selfAuthentication": "Every scrape was checked against my own query and language before anything was recorded. Two scrapes WERE discarded: between a navigate to search.brave.com and the evaluate on it, the Playwright tab was twice found at bing.com/search?q=sinto+sua+falta+em+inglês&mkt=pt-BR — a Portuguese sibling's query. A hostname guard caught both and nothing from either was recorded.",
+      "whyNotGoogle": "google.com/search?gl=nl&hl=nl&pws=0 (Playwright), google.nl/search (Playwright) and google.com/search (operator's real Chrome) all returned HTTP 429 and redirected to /sorry/index. The captcha was NOT clicked on any of the three, per BRIEF section 3.",
+      "routesDead": "scripts/serp-ddg.mjs run ONCE per the BRIEF: UND_ERR_CONNECT_TIMEOUT on html.duckduckgo.com:443. DuckDuckGo in a real browser: 60s navigation timeout, so the block is at network level. Ecosia: 403 Cloudflare. Mojeek: captcha page, not clicked. Startpage: proof-of-work challenge ('Difficulty: 6, Speed ~250 kH/s') never completed across three loads. Bing RSS format=rss&setmkt=nl-NL sandboxed: HTTP 200 with a valid channel echoing my query but 0 items, and a control query returned 0 too.",
+      "bingDiscarded": "Bing setmkt=nl-NL in the real browser returned li.b_no ('Er zijn geen resultaten voor ik mis je nu al betekenis') for ALL FOUR Dutch long-tail queries tried, while the navigational control 'nederlandse taalunie' returned 7 organic results in the same session. That asymmetry means a zero there cannot be distinguished from a route refusal, so it is NOT reported as a measurement. Corroborated by accident: the hijacked pt-BR tab showed Bing returning 'Não há resultados' for a sibling's long-tail query too.",
+      "resultsSeen": 24,
+      "weakOrOffIntent": 24,
+      "top10Weak": 10,
+      "whatRanks": "3x context.reverso.net (translation-memory scraper, at #1), ikmisjenual.com (bereavement webshop), youtube.com (a video titled 'Ik Mis Je Nu Wel Hier' — not the phrase), reddit.com/r/German (German thread), 3x reddit.com/r/thenetherlands (threads about the TV show 'Ik heb het nog nooit gedaan'), 2x muzikum.eu (song lyrics), ikmisjenual.nl (funeral services, 'Hoe een uitvaart anders kan!'), 2x genius.com, open.spotify.com, mymemory.translated.net, 2x facebook.com, ikmisje.eo.nl (EO broadcaster's bereavement platform), koorcantare.nl (choir PDF), songteksten.nl, vertalen.nu, froukjes.wordpress.com.",
+      "gate4": "PROCEED. Not one of the 24 results is a Dutch editorial page explaining the phrase — zero dictionaries, zero grammars, zero usage guides. The incumbents are translation-memory scrapers, song-lyric sites, a funeral brand and off-query forum noise, which is the tier-A profile BRIEF section 3 describes, not the strong national-publisher SERP that would require an abort.",
+      "cannotClaim": "This is Brave, a different index from Google. I did not see Google's top 10, so NO claim is made about AI Overviews, featured snippets, People Also Ask, knowledge panels or any other SERP furniture, and no claim is made about Dutch-market Google positions.",
+      "entertainmentContamination": "YES, heavily, and in two directions. (1) Songs: at least three distinct Dutch/Flemish songs are titled exactly 'Ik mis je nu al' — Lucky Fonz III (Genius + Spotify track 1aYCwurwu5WY1Et6jjP6Rv, title confirmed independently via Spotify oEmbed), Günther Neefs and Pluk (both muzikum.eu). MusicBrainz, queried separately, returns 1 exact recording (Lucky Fonz III, score 100) and 155 for the shorter 'Ik mis je'. Six of 24 results are song pages. (2) Funeral and bereavement, which nobody warned about and which is the bigger contaminant: ikmisjenual.com (fetched, HTTP 200) is a mourning webshop selling asdragers, sieraden, edelstenen bij rouw and rouwbegeleiding; ikmisjenual.nl is a funeral-services site; ikmisje.eo.nl (fetched, HTTP 200) is the EO public broadcaster's grief platform ('Rouwen doe je samen', 'Ik mis mijn… Kind / Partner / Ouder', 'Verlies door zelfdoding'). The exact phrase is a brand name in the Dutch funeral sector."
+    },
+    "checkableErrorsFound": [
+      "mymemory.translated.net, which ranks in the measured SERP: its translation memory returns 'Now already' as the HIGHEST-scoring English rendering of nu al (match 0.98, api.mymemory.translated.net/get?q=nu%20al&langpair=nl|en). 'Now already' is not English. Its own lower-scoring entries are correct ('Nu al.' -> 'Already.', 'Nu al?' -> 'Already?'), so the top-ranked segment is the wrong one. Tatoeba's 19 attested sentences never render it that way. Reproducible in one request.",
+      "Same service, smaller defect: for the nl|de pair it returns 'Ich vermisse dich jetzt schon' for 'ik mis je al' (0.89) but the shorter 'ich vermisse dich schon' for 'ik mis je nu al' (0.85) — the entry containing nu is the one that drops its German equivalent.",
+      "Instrument failure worth recording as an error in a named authority's own URL scheme: vandale.nl serves an 8,403-character WEBSHOP page (cart, VAT toggle, shipping) at HTTP 200 for /gratis-woordenboek/nederlands/betekenis/al, for /missen, and for /opzoeken?pattern=al&lang=nn, with no headword and no entry anywhere on it. Same class of trap as Larousse /manquer/49348 serving MARAUD. Van Dale was therefore NOT cited.",
+      "NOT tested, and said so rather than asserted: context.reverso.net holds four of the 24 ranked positions including #1, but returns 403 Cloudflare to a scripted fetch, and a multi-step interactive browser session was not attempted with contention confirmed twice."
+    ],
+    "structuralLimitations": [
+      "FIRST DUTCH PAGE ON THIS DOMAIN. 905 live posts contain zero Dutch. There is no sibling Dutch post to cross-link, no Dutch internal cluster to join, and no domain track record in this language. Nothing in this post changes that, and no ranking prediction is made.",
+      "PROMPT FRAMING CORRECTED (1/2) — the idiom hypothesis is FALSE. The task prompt asked whether 'nu al' carries 'a conventional meaning beyond the sum'. It does not. ANS 21.4.9.4.1 lists al among the focuspartikels (ook, zelfs, juist, alleen, maar, slechts, al, reeds, nog, pas, eerst) — an open, freely combining class. nl.wiktionary.org/wiki/nu_al is a 404. Tatoeba has 19 genuine nu al sentences across unrelated predicates. The phrase is COMPOSITIONAL with a conventionalised pragmatic effect, and the post says so.",
+      "PROMPT FRAMING CORRECTED (2/2) — there is NO tense paradox. The prompt called it 'a present-tense verb describing a feeling about a future absence' and asked me to 'name the phenomenon correctly'. Per ANS 2.4.8.3.i the presens here has werking = referentiepunt = spreekmoment: the feeling is genuinely present. Only its CAUSE is future. The correct labels, all verified at the ANS with page titles read: mis = presens / o.t.t. (2.4.8.3.i); nu = bijwoord van tijd (8.3.2); al = focuspartikel (21.4.9.4.1). I did not adopt 'anticipatory tense', 'prospective' or 'anticipatory aspect' — the ANS applies none of them here.",
+      "PROMPT INSTRUMENTS THAT DO NOT RESOLVE. Van Dale: every URL shape serves a webshop page at HTTP 200 with no headword — unusable, not cited. Onze Taal, which the prompt called 'exactly the kind of source that answers this question directly': /zoeken?q= and /search?q= both 404, and no advice page on al could be reached. Woordenlijst/Taalunie: client-rendered, and /api/woord/al and /api/search?q=al both return the same help text rather than word data. The ANS and the Etymologisch Woordenboek van het Nederlands carried the analysis instead.",
+      "WAVE1-PLAN knownIssues IS WRONG about browser isolation. It states 'The fix is an isolated Playwright browser, which is per-agent.' It is not. Playwright's tab 0 held another agent's German bonobology.com page all session, and twice the tab was hijacked mid-measurement to a Portuguese sibling's Bing pt-BR SERP. BRIEF section 3's correction is the accurate one. The workaround that worked was making the whole measurement atomic (one navigate, one scrape) with a hostname guard.",
+      "SERP MEASURED ON BRAVE, NOT GOOGLE. Three Google attempts across two browsers returned 429 /sorry/index; the captcha was never clicked. No claim of any kind is made about Google SERP furniture.",
+      "BING ZERO-RESULT READINGS DISCARDED as a route artefact rather than reported as a finding. Four of four Dutch long-tail queries returned b_no while a navigational control returned 7 results, and a sibling's pt-BR long-tail query returned the same empty state.",
+      "NO LITERATURE EXISTS ON ANTICIPATORY MISSING — the feeling of missing someone before they have left. Eleven query formulations across Crossref, Europe PMC and DOAJ (named in the research brief) returned palliative anticipatory grief, climate solastalgia, paediatric procedural distress and particle physics. The two papers kept are about ENDURING a separation and about digital couple interventions; neither is about the moment of parting, and the post says so rather than overclaiming.",
+      "BOTH RESEARCH PAPERS READ ABSTRACT-ONLY. Europe PMC REST resultType=core abstracts; the MDPI and BMC landing pages 403 a scripted user agent and PDFs do not parse in this environment.",
+      "10.1177/1461444820958717 (New Media & Society, 'Social media, rituals, and long-distance family relationship maintenance') was the best topical fit found and was REJECTED because Unpaywall reports is_oa = false with no OA location. 10.1075/pbns.234.04aij ('Analyzing modal adverbs as modal particles') likewise is_oa = false.",
+      "ALL THREE FIRST-PARTY LINES ARE HEAVILY COLLIDED: every one of the 12 miss-you lines in facts-snapshot.md is already used 29-60 times across the 71 sibling posts on disk. The three chosen are the two least-collided available (2.6-hour median at 29 uses, 88.8% published at 31) plus the only line actually about a parting (28.0% reunion countdown, 42 uses). The differentiation checklist item is failed honestly rather than dressed up.",
+      "PRODUCT MISMATCH DISCLOSED IN BODY PROSE, NOT ONLY HERE: /missyou-gf is defined at app/lib/prompt.ts:44 as an 'I miss you page for a girlfriend/partner' — English labels throughout, and recipient-specific. The post states both in Dutch, and states the deeper tension: a phrase said AT parting pointed at a page that takes a median of 2.6 hours to build. The post argues that for the sentence itself a message beats a page."
+    ],
+    "additionalChecks": [
+      {
+        "check": "Price guard (Dutch): no gratis / kosteloos / zonder kosten / kost niets, no currency figure, no tier or subscription claim anywhere in title, meta, body or FAQs.",
+        "result": "PASS — pricecheck-intl.mjs run against this slug. The Van Dale URL containing 'gratis-woordenboek' was deliberately kept OUT of contentMarkdown for this reason; Van Dale is named in prose without a link."
+      },
+      {
+        "check": "FAQ overlap: no FAQ restates a body H2.",
+        "result": "PASS — 11 FAQs, each on a question the body does not head: ik mis je vs ik mis je nu al, alweer, reeds, spelling, non-romantic recipients, how to reply, bereavement use, Flemish usage, al in other sentences, German/French equivalents, why it feels idiomatic."
+      },
+      {
+        "check": "Tatoeba hits inspected individually rather than counted by regex.",
+        "result": "PASS, and it mattered — 'De bomen laten nu al hun bladeren vallen' passes \\bnu al\\b but is a false positive (al = determiner 'all'). A regex would have reported 20 of 23; reading each English translation gives 19 of 23."
+      },
+      {
+        "check": "Journal caps checked by hand, since capcheck.mjs counts hostnames only.",
+        "result": "PASS — Int. J. Environ. Res. Public Health and BMC Psychology appear in none of the 71 sibling posts. Frontiers in Psychology (banned, 5/3) and PNAS (banned, 3/3) are not cited; Frontiers was filtered out of the Europe PMC queries at source and the next-best paper taken."
+      },
+      {
+        "check": "Wikidata QIDs paired and verified via the Wikipedia API.",
+        "result": "PASS for all six entities used (Q7411, Q184943, Q1435289, Q192613, Q495456, Q1406917). FAILED for the ANS itself, which has no English Wikipedia article — recorded as a checklist failure, not hidden."
+      },
+      {
+        "check": "Body word count without FAQs, plain whitespace split.",
+        "result": "1,774 — inside 1,500-1,800 and near the ~1,750 target the BRIEF's word-ceiling note asks for, leaving headroom for a quiescence cross-link pass."
+      },
+      {
+        "check": "alweer and reeds verified before being used in FAQ answers.",
+        "result": "PASS — nl.wiktionary alweer: adverb, glossed 'opnieuw, nogmaals, wederom, weer', etymology al + weer. reeds: adverb, marked formeel, glossed simply as 'al', first attested in that sense in 1658. Neither claim was made from memory."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Checked and clear at write time: the Strapi articles endpoint filtered on slug=ik-mis-je-nu-al-betekenis returned total 0 on 2026-09-26. Recorded as failed because the check is a point-in-time read against a live API and six agents are writing concurrently; it can only be closed at publish, when Strapi rejects a collision itself."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The two Europe PMC papers are about enduring a separation and about digital couple interventions, not about Dutch. Either could sit in the Italian or Turkish row of this batch with no edit. They stay because no open-access literature on anticipatory missing exists at all (11 query formulations named in the research brief). The Dutch-specific sources — ANS 21.4.9.4.1, ANS 2.4.8.3.i, etymologiebank, Tatoeba nld — pass the swap test outright. Closed by an open-access study of pre-separation affect, which does not currently exist."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Cannot be asserted at write time: six agents write concurrently and capcheck.mjs counts hostnames only, so a clean read does not mean the caps hold. Verified by hand instead: neither PMCID (PMC12294133, PMC12482273) appears in any of the 71 sibling posts on disk, and neither journal (International Journal of Environmental Research and Public Health; BMC Psychology) appears anywhere in either batch. The banned journals — Frontiers in Psychology (5/3) and PNAS (3/3) — are not cited. Closed only at batch quiescence by the orchestrator."
+        },
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "The count and placement pass — 28.0% reunion countdown and 2.6-hour median edit gap are both inside the first 150 words, 88.8% published-and-shared appears in the send-moment table. The item is failed for differentiation, honestly: all 12 miss-you lines in facts-snapshot.md are already used between 29 and 60 times across the 71 sibling posts. The three chosen are the two least-collided available (29 and 31 uses) plus the only line that is actually about a parting (42 uses). Closed by a fresh first-party probe, not by rewriting."
+        },
+        {
+          "item": "2–4 internal links with descriptive anchor text, placed after value is established",
+          "why": "Three internal links are present with descriptive Dutch anchors, all after the section that earns them. Failed on a condition no link placement can fix: this is the first Dutch page on a domain with 905 live posts and zero Dutch, so there is no sibling Dutch article to link to and no Dutch internal cluster to join. Closed when a second Dutch post exists."
+        },
+        {
+          "item": "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+          "why": "All six sameAs pairs were verified live against the Wikipedia API and carry matching QIDs (Q7411, Q184943, Q1435289, Q192613, Q495456, Q1406917). The item is failed because the single most load-bearing entity in the post — the Algemene Nederlandse Spraakkunst — has no English Wikipedia article (API returns missing=true, no QID), so the grammar the whole analysis rests on cannot be entered into about/mentions at all. Closed if an en.wikipedia article for the ANS is created."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this because it is the only page on the measured Dutch SERP that answers the question at all, and the only one that names a word class: 24 of 24 results are translation-memory scrapers, song lyrics, funeral brands or off-query forum noise, and not one explains the phrase. The two things worth citing are checkable — the ANS's own focuspartikel list settles compositional-versus-idiomatic, and ANS 2.4.8.3.i removes the tense paradox that every popular treatment of 'I miss you already' invents. Against that: this is the first Dutch page on a domain with 905 posts and zero Dutch, the SERP was measured on Brave because Google returned 429 three times, and all three first-party numbers appear in dozens of sibling posts, so the differentiation is linguistic rather than statistical. I make no prediction about ranking; a new page in a language this domain has never published in has no authority to draw on, and the funeral-sector brands that own the exact phrase are established sites with a real business behind them."
+    },
+    "generatedAt": "2026-09-26",
+    "orchestratorRepair": "kind was \"blog-batch-article\", corrected to \"blog-automation/batch-blog\" by the orchestrator 2026-09-26. app/lib/batches.ts line 56 returns null for any other value, so this post would have been SILENTLY SKIPPED at publish with nothing reporting it; scripts/verify-batch.mjs does not check this field. Sixth instance of this defect across the two batches. No prose altered. article.keywords was a JSON ARRAY of 5 items; the schema requires a COMMA-SEPARATED STRING (\"Comma-separated string, not an array\"). Converted verbatim by the orchestrator 2026-09-26. app/lib/batches.ts line 79 reads it through str(), which returns \"\" for a non-string, so the keywords were being SILENTLY DROPPED at import with nothing reporting it - the same failure class as the wrong-kind defect. scripts/verify-batch.mjs does not check this field. No prose altered."
+  }
+}

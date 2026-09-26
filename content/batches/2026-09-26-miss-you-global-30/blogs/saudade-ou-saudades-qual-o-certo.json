@@ -1,0 +1,429 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Saudade ou saudades: qual o certo, segundo o VOLP e um corpus",
+    "slug": "saudade-ou-saudades-qual-o-certo",
+    "excerpt": "As duas formas estão certas e não são a mesma coisa: o VOLP da ABL registra saudade e saudades como verbetes separados, e o plural tem sentidos que o singular não tem. Com uma medição de frequência por expressão.",
+    "metaTitle": "Saudade ou saudades qual o certo — a resposta do VOLP",
+    "metaDescription": "Saudade ou saudades: as duas estão certas. O VOLP da ABL registra saudades como verbete próprio e, no Google Books, com saudades leva 72,5% contra 27,5%.",
+    "keywords": "saudade ou saudades qual o certo, saudade ou saudades, plural de saudade, matar a saudade ou matar as saudades, estou com saudade ou saudades",
+    "canonicalURL": "https://subhsandesh.in/blog/saudade-ou-saudades-qual-o-certo",
+    "ogType": "article",
+    "tags": [
+      "português",
+      "gramática",
+      "saudade",
+      "uso da língua"
+    ],
+    "keyTakeaways": [
+      "As duas formas estão registradas: o VOLP da Academia Brasileira de Letras traz saudade s.f. e saudades s.f.pl. como duas entradas separadas (consulta de 26/09/2026).",
+      "O plural tem sentidos exclusivos: Priberam 6 e 7 — 'boas lembranças' e 'cumprimentos a alguém' — só existem em saudades, o que o Michaelis confirma com verbete próprio.",
+      "A forma majoritária depende da expressão: no Google Books (corpus pt-2019), 'com saudades' leva 72,5% e 'que saudades' 69,1%, mas o substantivo sozinho é 83,3% singular.",
+      "A diferença Brasil/Portugal não está em nenhuma fonte normativa que consultamos, e os corpora abertos não separam as variedades — fica sem confirmação.",
+      "Nas 214 páginas de saudade que medimos, a mediana entre o primeiro salvamento e a última edição é de 2,6 horas e a carta mediana tem 88 palavras; nada disso é segmentado por país."
+    ],
+    "faqs": [
+      {
+        "question": "Estou com muita saudade ou muitas saudades de você?",
+        "answer": "As duas estão corretas, desde que a concordância seja inteira: 'muita saudade' ou 'muitas saudades'. No corpus de livros em português do Google Books, a moldura 'com saudades' responde por 72,5% dos casos contra 27,5% de 'com saudade', então 'estou com muitas saudades de você' é a forma mais frequente por escrito. Nenhum dicionário consultado marca uma como erro."
+      },
+      {
+        "question": "É correto dizer 'saudades suas' ou tem de ser 'saudades de você'?",
+        "answer": "As duas são corretas. O Ciberdúvidas da Língua Portuguesa respondeu exatamente isso em 13 de outubro de 1999, por F. V. Peixoto da Fonseca, sobre 'saudades de ti' contra 'saudades tuas': 'Tanto faz, também no meu entender. A diferença é uma questão de gosto.' No Brasil, 'saudades de você' é a construção mais comum na fala corrente."
+      },
+      {
+        "question": "Por que alguns professores dizem que 'saudades' está errado?",
+        "answer": "É o argumento tradicionalista de que substantivos abstratos não se flexionam em número, porque não seriam enumeráveis. O argumento não sobrevive ao registro: o VOLP da Academia Brasileira de Letras traz 'saudades s.f.pl.' como verbete próprio, e o Michaelis dá a essa forma uma definição exclusiva. A forma está na norma oficial, não à margem dela."
+      },
+      {
+        "question": "Saudade se escreve com u ou com l?",
+        "answer": "Com u: saudade. A grafia 'saldade' é hipercorreção e não existe em nenhum dicionário. A palavra vem do latim 'solitas, -atis' (solidão), conforme a etimologia registrada pelo Priberam, e o l do étimo latino já havia caído antes de a palavra chegar ao português moderno."
+      },
+      {
+        "question": "Qual é o plural de saudade em documento formal?",
+        "answer": "Em texto formal, prefira o singular quando o sentido é o do estado ('a saudade da infância'): no corpus do Google Books, 'a saudade' responde por 85,7% contra 14,3% de 'as saudades'. Use o plural obrigatoriamente quando o sentido for o de cumprimentos ou de boa lembrança — 'não deixou saudades', 'mande-lhe saudades minhas' —, porque esses sentidos só existem no plural."
+      },
+      {
+        "question": "Existe diferença entre 'matar a saudade' e 'matar as saudades'?",
+        "answer": "As duas circulam e nenhuma é condenada pelos dicionários. Mas o corpus de livros em português do Google Books só atesta a sequência 'matar saudades'; 'matar saudade' não alcança o limiar de inclusão do corpus. Um 3-grama de controle devolve série normalmente na mesma consulta, então a ausência é do dado, não da ferramenta."
+      },
+      {
+        "question": "Quantas saudades ou quanta saudade?",
+        "answer": "As duas, contanto que você não misture. 'Quanta saudade' e 'quantas saudades' estão certas; 'quanta saudades' e 'quantas saudade' não. O erro que realmente aparece nessa pergunta não é a escolha entre singular e plural, é a concordância quebrada entre o determinante e o substantivo."
+      },
+      {
+        "question": "'Saudade eterna' ou 'saudades eternas' numa homenagem?",
+        "answer": "As duas se registram, e a escolha muda o tom. 'Saudade eterna' lê como o estado contínuo de quem ficou; 'saudades eternas' aproxima-se do sentido 6 do Priberam, o de boa lembrança deixada por quem partiu — o mesmo sentido de 'não deixou saudades'. Em placa e cartão de homenagem, o plural é o mais usado no Brasil."
+      },
+      {
+        "question": "A pesquisa acadêmica ajuda a decidir entre singular e plural?",
+        "answer": "Indiretamente. Neto e Mullet, no Journal of Cross-Cultural Psychology de 2014, pediram a falantes que listassem traços prototípicos de saudade e chegaram a 182 traços distintos, cerca de 7 por participante. Um conceito que os próprios falantes decompõem em quase duzentas partes discretas dificilmente é o bloco indivisível que o argumento contra o plural pressupõe. Lemos apenas o resumo do artigo."
+      },
+      {
+        "question": "Dá para medir se o Brasil usa mais o singular e Portugal mais o plural?",
+        "answer": "Hoje, não com as ferramentas abertas. O Google Books tem um corpus 'pt' único e o Leipzig tem um corpus 'por' único; nenhum dos dois separa as variedades. Existe um corpus equilibrado entre elas, o CoPEP, com cerca de 40 milhões de palavras, descrito por Kuhn e Ferreira na DELTA em 2020, mas ele não oferece consulta pública de frequência. A afirmação segue sem confirmação e sem refutação."
+      },
+      {
+        "question": "Quanto tempo as pessoas levam para escrever uma mensagem dessas?",
+        "answer": "Nas 214 páginas de saudade que medimos em 25/09/2026, a mediana entre o primeiro salvamento e a última edição é de 2,6 horas, e a carta mediana tem 88 palavras. Esses números não são segmentados por idioma nem por país, então não descrevem especificamente quem escreve em português."
+      }
+    ],
+    "coverImageQuery": "handwritten letter in Portuguese on a wooden desk",
+    "coverImagePrompt": "A handwritten letter in Portuguese lying on a wooden desk beside a fountain pen, warm afternoon light, shallow depth of field, no legible text",
+    "contentMarkdown": "# Saudade ou saudades: qual o certo, segundo o VOLP e um corpus\n\n**Saudade ou saudades, qual o certo?** As duas formas estão certas — e não são a mesma coisa. O Vocabulário Ortográfico da Língua Portuguesa, da Academia Brasileira de Letras, registra **duas entradas separadas**: `saudade s.f.` e `saudades s.f.pl.` (consulta de 26/09/2026). O plural carrega sentidos que o singular não tem. E, numa medição de corpus que fizemos para esta página, a forma majoritária **muda conforme a expressão**: no acervo de livros em português do Google Books, \"com saudades\" responde por 72,5% dos casos contra 27,5% de \"com saudade\", enquanto o substantivo sozinho é 83,3% singular.\n\nEscrevemos isto do lado de dentro: somos o site por trás de 214 páginas de \"sinto sua falta\" criadas em /missyou-gf desde 28/07/2026, cuja carta mediana tem **88 palavras** e das quais **88,8% chegam a ser enviadas** (190 de 214). Quem escreve essas cartas trava exatamente nesta dúvida.\n\n## O que o VOLP da Academia Brasileira de Letras registra\n\nConsultamos o próprio buscador do VOLP, no site da ABL, em 26/09/2026. O resultado para *saudade* traz `saudade s.f.`; o resultado para *saudades* traz, como verbete próprio, `saudades s.f.pl.`\n\nIsso importa porque um plural comum não ganha entrada separada num vocabulário ortográfico. As duas formas estão registradas na norma oficial do português brasileiro, e a discussão sobre \"aceitar ou não o plural\" termina aí.\n\nDe quebra, o Vocabulário de Topônimos e Gentílicos da mesma casa registra **Saudades**, município de Santa Catarina, e **Saudade do Iguaçu**, município do Paraná, com o gentílico *saudadense*.\n\n## O plural tem um sentido que o singular não tem\n\nAqui está a parte que nenhuma das seis páginas que ranqueiam para esta busca no Google Brasil diz. O Priberam separa os sentidos por número gramatical: 1 e 2 são os emocionais (\"Lembrança grata de pessoa ausente…\" e \"Pesar, mágoa que essa privação causa\"); 3, 4 e 5 são **botânicos**, a planta *Scabiosa atropurpurea*; e os sentidos **6 e 7 aparecem marcados como \"nome feminino plural\"**:\n\n- 6. *Boas lembranças ou recordações* — exemplo do próprio dicionário: \"a antiga chefe não deixou saudades\".\n- 7. *Cumprimentos a alguém* — exemplo: \"mande-lhe saudades minhas\".\n\nO Michaelis, dicionário brasileiro, faz o mesmo movimento e dá a `saudades sf pl` uma definição própria: \"Lembranças ou cumprimentos afetuosos de quem sente a ausência de outrem\".\n\nO Ciberdúvidas da Língua Portuguesa respondeu a esta pergunta exata em **24 de dezembro de 1998**, por Carlos Marinheiro: o termo *saudades*, \"porque é plural de saudade, significa, obviamente, o mesmo, mas também se trata de «cumprimentos a uma pessoa ausente; lembranças»\". E conclui: \"A diferença (pequena) está à vista.\"\n\nPequena, mas real. \"Mande-lhe saudade minha\" não é a mesma frase que \"mande-lhe saudades minhas\" — a segunda é a que os dicionários registram.\n\n## A medição: qual forma aparece mais, e em qual moldura\n\nPuxamos os dados do Google Books Ngram Viewer, corpus `pt-2019`, sem suavização, em 26/09/2026. Os percentuais são a participação de cada forma no par.\n\n| Frase | Singular | Plural | Campo da nossa página onde esse tipo de frase costuma caber (n=214) |\n|---|---|---|---|\n| `saudade` / `saudades` (1990–2019) | **83,3%** | 16,7% | a carta, cuja mediana é de 88 palavras |\n| `a saudade` / `as saudades` (1980–2019) | **85,7%** | 14,3% | as memórias escritas, em 86,4% das páginas |\n| `saudade de` / `saudades de` (1980–2019) | 45,8% | **54,2%** | as cartas \"abra quando\", em 92,1% das páginas |\n| `com saudade` / `com saudades` (1980–2019) | 27,5% | **72,5%** | a nota de voz, em 13,6% das páginas |\n| `que saudade` / `que saudades` (1990–2019) | 30,9% | **69,1%** | a contagem regressiva do reencontro, em 28,0% das páginas |\n\nA coluna da direita é **recomendação nossa, não medição**: as taxas de preenchimento são reais e medidas em 25/09/2026, mas nosso banco não registra qual frase foi escrita em qual campo, então o pareamento é editorial.\n\nDuas leituras saem da tabela. O substantivo sozinho é esmagadoramente singular. Mas dentro das molduras em que as pessoas de fato escrevem — \"estou **com saudades** de você\", \"**que saudades**\" — o plural vira maioria folgada. Não é um plural de intensidade: nenhum dos dicionários consultados o marca como intensivo. É seleção por expressão.\n\nO caso mais limpo: **\"matar saudades\" está no corpus; \"matar saudade\" não alcança o limiar de inclusão.** Um 3-grama de controle (\"de que a\") devolve série normalmente, então não é falha da API.\n\nO Leipzig Corpora Collection, corpus `por_news_2013_1M`, dá o mesmo sentido com outros números: *saudade* frequência 235 (posição 7.239) contra *saudades* 150 (posição 10.138) — 61,0% contra 39,0%.\n\nOs dois corpora são de livros e jornal, não de mensagens de celular, e a contagem do singular ainda absorve a planta e os topônimos. Isso puxa o singular para cima.\n\n## Brasil e Portugal preferem formas diferentes?\n\nÉ o que se repete por aí: Portugal no plural, Brasil no singular. **Fomos checar e não encontramos nenhuma fonte normativa que registre isso.**\n\nO Priberam mantém páginas separadas para as duas normas. Buscamos as duas: em `/pt-br/saudade` e em `/pt-pt/saudades`, os sentidos são os mesmos, os sentidos 6 e 7 continuam marcados como exclusivos do plural nas duas, e a etimologia é idêntica (\"latim *solitas, -atis*, solidão\"). A única diferença é o rótulo gramatical impresso — \"substantivo feminino\" na página brasileira, \"nome feminino\" na europeia. E esse dicionário **sinaliza diferenças regionais quando elas existem**: a palavra do dia da mesma visita trazia \"Grafia no Brasil: alanita / Grafia em Portugal: alanite\".\n\nO Ciberdúvidas, consultório português, respondeu à pergunta duas vezes sem fazer distinção regional: a de 1998, acima, e outra de **13 de outubro de 1999**, de F. V. Peixoto da Fonseca, sobre \"saudades de ti\" contra \"saudades tuas\" — \"Tanto faz, também no meu entender.\"\n\nPor que a dúvida não se resolve? Porque os corpora abertos não separam as variedades. Um corpus que separaria existe — o CoPEP, cerca de 40 milhões de palavras, \"equilibrado entre as variedades português brasileiro e português europeu\", descrito por Kuhn e Ferreira na *DELTA* em 2020 — mas ele é fonte de um projeto lexicográfico, não uma caixa pública de frequência. O Google Books \"pt\" e o Leipzig \"por\" misturam Brasil e Portugal. Então: **não confirmado, não refutado**, e vale dizer isso em vez de inventar.\n\n## As expressões fixas, uma a uma\n\n- **Matar a saudade / matar as saudades** — as duas circulam; o corpus só atesta a forma com plural.\n- **Estou com saudade(s) de você** — as duas estão certas; o plural é a maioria nos livros (72,5%).\n- **Deixar saudades** — sentido 6 do Priberam, só existe no plural.\n- **Mande-lhe saudades minhas** — sentido 7, só existe no plural.\n- **Quanta saudade / quantas saudades** — escolha qualquer uma, mas faça a concordância inteira: *quanta saudade*, *quantas saudades*. Trocar o número de um só termo é o erro real aqui.\n\n## O que 214 páginas mostram — e o que elas não mostram\n\nAs nossas 214 páginas de saudade acumulam **2.417 visualizações**, 11,3 por página, com 104 na mais aberta de todas. A mediana entre o primeiro salvamento e a última edição é de **2,6 horas**: ninguém escreve isso de primeira.\n\nTrês ressalvas, porque elas mudam o que os números significam. Primeira: cidade, música de fundo e \"juntos desde\" são **seletores com valor padrão** — a taxa de preenchimento deles não é escolha de quem envia e não pode ser lida como comportamento. Segunda: visualização é **visualização de página, não visitante único**; um destinatário que reabre vinte vezes conta vinte. Terceira: **n = 214, dois meses** de dados desde 28/07/2026, o que não sustenta nenhuma afirmação sazonal.\n\nE duas que importam mais nesta página do que em qualquer outra: o banco registra **qual modelo foi aberto, nunca quem recebeu**; e **nada ali é segmentado por idioma ou por país**. As 47 duplas de cidades que aparecem saem de um seletor de 15 cidades e incluem pares como Mumbai–Londres. **Nenhum destes números é brasileiro.** Não são evidência sobre como o Brasil escreve.\n\n## Onde a nossa página não serve para você\n\nUm aviso honesto: **/missyou-gf é uma página em inglês.** Os rótulos, os campos e os avisos da interface estão todos em inglês. O que você escreve dentro dela sai em português — a carta, as memórias, a nota de voz — mas quem monta a página vai navegar em inglês. Se isso incomoda, não use.\n\nE se a sua dúvida era só de grafia, resolva-a aqui e vá embora: não é preciso montar página nenhuma para escrever uma mensagem certa.\n\nQuando uma página faz sentido: se a frase que você quer mandar é longa demais para um aplicativo de mensagens. Nesse caso veja a [página de \"sinto sua falta\" para namorada](https://subhsandesh.in/missyou-gf), que tem campo de carta, memórias e cartas \"abra quando\".\n\nSe o que você sente cabe melhor numa música do que num texto — e *saudade* costuma caber —, a [página de dedicatória em formato de rádio](https://subhsandesh.in/dedication) serve melhor: a pessoa gira o dial, encontra a sua estação e ouve a sua voz apresentando a música. Para quem prefere outra coisa, o [catálogo completo de modelos](https://subhsandesh.in/templates) mostra o que existe; não confirmamos aqui nenhuma informação sobre valores.\n\n## Fontes\n\n- [Vocabulário Ortográfico da Língua Portuguesa, Academia Brasileira de Letras](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario) — entradas `saudade s.f.` e `saudades s.f.pl.`, consulta de 26/09/2026.\n- [Priberam, entrada *saudade* (norma brasileira)](https://dicionario.priberam.org/pt-br/saudade) e [entrada *saudades* (norma europeia)](https://dicionario.priberam.org/pt-pt/saudades) — sentidos 6 e 7 marcados como nome feminino plural.\n- [Michaelis, Dicionário Brasileiro da Língua Portuguesa, *saudade*](https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade) — verbete `saudades sf pl`.\n- [Ciberdúvidas da Língua Portuguesa, \"Saudade, saudades\"](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudade-saudades/2998), Carlos Marinheiro, 24/12/1998; e [\"Saudades de ti / saudades tuas\"](https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudades-de-ti--saudades-tuas/4298), F. V. Peixoto da Fonseca, 13/10/1999.\n- [Google Books Ngram Viewer, corpus português](https://books.google.com/ngrams/graph?content=com+saudade%2Ccom+saudades&year_start=1980&year_end=2019&corpus=pt-2019&smoothing=0) — todas as frequências desta página, leitura de 26/09/2026.\n- [Leipzig Corpora Collection, corpus `por_news_2013_1M`](https://corpora.wortschatz-leipzig.de/en?corpusId=por_news_2013) — *saudade* 235 ocorrências, *saudades* 150.\n- Tanara Zingano Kuhn e José Pedro Ferreira, [\"O Corpus de Português Escrito em Periódicos — CoPEP\"](https://www.scielo.br/j/delta/a/7yzPscn6FMmQzj9h4c3zJ8z/?lang=pt), *DELTA* 36(2), 2020 — corpus de ~40 milhões de palavras equilibrado entre as variedades brasileira e europeia.\n- Félix Neto e Étienne Mullet, [\"A Prototype Analysis of the Portuguese Concept of Saudade\"](https://journals.sagepub.com/doi/10.1177/0022022113518370), *Journal of Cross-Cultural Psychology*, 2014 — 182 traços distintos levantados pelos participantes. Lemos apenas o resumo; o artigo não é de acesso aberto.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/saudade-ou-saudades-qual-o-certo#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Saudade",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saudade",
+              "https://www.wikidata.org/wiki/Q1338509"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical number",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_number",
+              "https://www.wikidata.org/wiki/Q104083"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Brazilian Academy of Letters",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Academy_of_Letters",
+              "https://www.wikidata.org/wiki/Q337224"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Brazilian Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+              "https://www.wikidata.org/wiki/Q750553"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "European Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/European_Portuguese",
+              "https://www.wikidata.org/wiki/Q922399"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Google Books Ngram Viewer",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Google_Books_Ngram_Viewer",
+              "https://www.wikidata.org/wiki/Q3339343"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Priberam",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Priberam",
+              "https://www.wikidata.org/wiki/Q96400074"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabulário Ortográfico da Língua Portuguesa — busca no vocabulário",
+            "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Academia Brasileira de Letras"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário Priberam da Língua Portuguesa — saudade (norma brasileira)",
+            "url": "https://dicionario.priberam.org/pt-br/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário Priberam da Língua Portuguesa — saudades (norma europeia)",
+            "url": "https://dicionario.priberam.org/pt-pt/saudades",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis Dicionário Brasileiro da Língua Portuguesa — saudade",
+            "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ciberdúvidas da Língua Portuguesa — Saudade, saudades",
+            "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudade-saudades/2998",
+            "datePublished": "1998-12-24",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Ciberdúvidas da Língua Portuguesa"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ciberdúvidas da Língua Portuguesa — Saudades de ti / saudades tuas",
+            "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudades-de-ti--saudades-tuas/4298",
+            "datePublished": "1999-10-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Ciberdúvidas da Língua Portuguesa"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Google Books Ngram Viewer — corpus pt-2019",
+            "url": "https://books.google.com/ngrams/graph?content=com+saudade%2Ccom+saudades&year_start=1980&year_end=2019&corpus=pt-2019&smoothing=0",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google Books"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Leipzig Corpora Collection — por_news_2013_1M",
+            "url": "https://corpora.wortschatz-leipzig.de/en?corpusId=por_news_2013",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universität Leipzig"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "O Corpus de Português Escrito em Periódicos — CoPEP",
+            "url": "https://www.scielo.br/j/delta/a/7yzPscn6FMmQzj9h4c3zJ8z/?lang=pt",
+            "datePublished": "2020",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Tanara Zingano Kuhn"
+              },
+              {
+                "@type": "Person",
+                "name": "José Pedro Ferreira"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "DELTA: Documentação de Estudos em Linguística Teórica e Aplicada"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "A Prototype Analysis of the Portuguese Concept of Saudade",
+            "url": "https://journals.sagepub.com/doi/10.1177/0022022113518370",
+            "datePublished": "2014-01-09",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Félix Neto"
+              },
+              {
+                "@type": "Person",
+                "name": "Étienne Mullet"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Cross-Cultural Psychology"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "saudade ou saudades qual o certo",
+    "angle": "Wins by being the only post on this SERP that (a) cites the ABL's own VOLP, where saudade s.f. and saudades s.f.pl. are two separate registered headwords, (b) shows that the plural carries senses the singular does not — Priberam 6 and 7, Michaelis's own saudades sf pl entry — which is precisely the case the #1 result's rule ('use either as long as the main sense does not change') excludes without saying so, and (c) carries an original frequency measurement showing the majority form flips by frame: singular 83.3% bare, but plural 72.5% in 'com saudades' and 69.1% in 'que saudades'.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/dedication",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+        "stat": "VOLP, Academia Brasileira de Letras, queried through the ABL's own endpoint /ajax/abl/buscar-palavras?form=vocabulario&palavra=… on 2026-09-26. 'saudade' returns the headword saudade with the label 's.f.'; 'saudades' returns saudades as a headword of its own with the label 's.f.pl.' The same search returns Saudades (município de Santa Catarina) and Saudade do Iguaçu (município do Paraná), gentílico saudadense, from the Vocabulário de Topônimos e Gentílicos. Two separate registered entries, not one entry plus an inflection.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://dicionario.priberam.org/pt-br/saudade",
+        "stat": "Priberam, Brazilian-norm entry, read 2026-09-26. Senses 1 'Lembrança grata de pessoa ausente, de um momento passado, ou de alguma coisa de que alguém se vê privado' and 2 'Pesar, mágoa que essa privação causa' are the emotional ones; senses 3, 4 and 5 are BOTANICAL (Planta (Scabiosa atropurpurea) da família das dipsacáceas). Senses 6 'Boas lembranças ou recordações (ex.: a antiga chefe não deixou saudades)' and 7 'Cumprimentos a alguém (ex.: mande-lhe saudades minhas)' are filed under the label 'nome feminino plural / substantivo feminino plural' — they exist only in the plural. Etymology verbatim: 'Origem: latim solitas, -atis, solidão.'",
+        "publishedDate": null
+      },
+      {
+        "url": "https://dicionario.priberam.org/pt-pt/saudades",
+        "stat": "Priberam, European-norm entry, fetched separately on 2026-09-26 to test the pt-BR/pt-PT claim. The senses, the plural-only marking of 6 and 7, the examples and the etymology are identical to the Brazilian-norm page; the only difference is the grammar label wording ('nome feminino' vs 'substantivo feminino'). Priberam does flag regional differences where they exist — its word of the day on the same visit carried 'Grafia no Brasil: alanita / Grafia em Portugal: alanite' — and it flags none here.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade",
+        "stat": "Michaelis, Dicionário Brasileiro da Língua Portuguesa, read 2026-09-26. 'saudade sf' carries five senses, 1 emotional and 2-5 musical, zoological and botanical. A separate grammatical entry 'saudades sf pl' is glossed 'Lembranças ou cumprimentos afetuosos de quem sente a ausência de outrem.' Listed expressions include 'Deixar na saudade' and 'Morrer de saudade'.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudade-saudades/2998",
+        "stat": "Ciberdúvidas da Língua Portuguesa, 'Saudade, saudades', answered by Carlos Marinheiro, 24 December 1998, read 2026-09-26. Verbatim: 'O termo saudades, porque é plural de saudade, significa, obviamente, o mesmo, mas também se trata de «cumprimentos a uma pessoa ausente; lembranças». A diferença (pequena) está à vista.' A Portuguese authority answering this exact question and making NO pt-PT/pt-BR distinction.",
+        "publishedDate": "1998-12-24"
+      },
+      {
+        "url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/saudades-de-ti--saudades-tuas/4298",
+        "stat": "Ciberdúvidas da Língua Portuguesa, 'Saudades de ti / saudades tuas', answered by F. V. Peixoto da Fonseca, 13 October 1999, read 2026-09-26. Verbatim: 'Tanto faz, também no meu entender. A diferença é uma questão de gosto, revela as grandes possibilidades da língua portuguesa.'",
+        "publishedDate": "1999-10-13"
+      },
+      {
+        "url": "https://books.google.com/ngrams/graph?content=com+saudade%2Ccom+saudades&year_start=1980&year_end=2019&corpus=pt-2019&smoothing=0",
+        "stat": "Google Books Ngram Viewer, corpus pt-2019, smoothing 0, queried through the JSON endpoint on 2026-09-26. Share of each form within its pair, as the mean of yearly relative frequencies: saudade/saudades 83.3%/16.7% (1990-2019); a saudade/as saudades 85.7%/14.3%; saudade de/saudades de 45.8%/54.2%; com saudade/com saudades 27.5%/72.5%; que saudade/que saudades 30.9%/69.1% (1990-2019). 'matar saudades' is attested; 'matar saudade' returns no series, i.e. it is below the corpus inclusion threshold, while the control 3-gram 'de que a' returns a series normally. The corpus is not split by variety.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://corpora.wortschatz-leipzig.de/en?corpusId=por_news_2013",
+        "stat": "Leipzig Corpora Collection, corpus por_news_2013_1M, queried through api.wortschatz-leipzig.de on 2026-09-26: saudade frequency 235, word rank 7,239; saudades frequency 150, word rank 10,138 — 61.0% singular to 39.0% plural. The collection's availableCorpora endpoint lists exactly one Portuguese corpus out of 104; por_br_* and por_pt_* variants all return 404, so this corpus cannot be split by variety either.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://www.scielo.br/j/delta/a/7yzPscn6FMmQzj9h4c3zJ8z/?lang=pt",
+        "stat": "Tanara Zingano Kuhn and José Pedro Ferreira, 'O Corpus de Português Escrito em Periódicos - CoPEP', DELTA: Documentação de Estudos em Linguística Teórica e Aplicada 36(2), 2020, doi:10.1590/1678-460x2020360209. Peer-reviewed and open access. Abstract, verbatim: the corpus 'contém aproximadamente 40 milhões de palavras, é equilibrado entre as variedades português brasileiro e português europeu em número de palavras e cobre seis grandes áreas de conhecimento', built as the primary evidence source for an online Portuguese dictionary for university students. ABSTRACT ONLY — scielo.br returned HTTP 500 on the article page on three attempts and the abstract was read through the Crossref API.",
+        "publishedDate": "2020"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/10.1177/0022022113518370",
+        "stat": "Félix Neto and Étienne Mullet, 'A Prototype Analysis of the Portuguese Concept of Saudade', Journal of Cross-Cultural Psychology, 9 January 2014, doi:10.1177/0022022113518370. Abstract, verbatim: 'Study 1 showed that when asked to list prototypic features of saudade, each participant was able to evoke about 7 different features, which resulted in a total list of 182 separate features', and participants rated the affective valence of those features 'from the negative to the positive scale anchors'. ABSTRACT ONLY — Unpaywall reports is_oa: false and no OA location; the abstract was read through the Crossref API.",
+        "publishedDate": "2014-01-09"
+      }
+    ],
+    "structuralLimitations": "SERP: `node scripts/serp-ddg.mjs \"saudade ou saudades qual o certo\" --region br-pt --n 10` COULD NOT BE MADE TO WORK. Three runs returned HTTP 200 with \"(no results parsed)\"; direct probes of html.duckduckgo.com and lite.duckduckgo.com returned HTTP 202 with an anomaly/challenge body, then 403, then UND_ERR_CONNECT_TIMEOUT on 12 consecutive retries over ~6 minutes. Fallbacks and what each returned: Mojeek 200 with 2 off-site hosts (a stub); Bing 200 with a 92 KB JS shell, zero b_algo blocks and zero <cite> elements; Ecosia 403; search.brave.com 429; Yandex 200 with nothing extractable; six SearXNG instances returning either zero parseable results or blogspot-and-pornography garbage; r.jina.ai 403 behind Cloudflare on both a Google and a DuckDuckGo target. I therefore measured Google Brazil live in a browser tab (gl=br, hl=pt-BR, pws=0, num=20, 2026-09-26) — a genuine market-served SERP, and stronger evidence than DDG's proxy, per the coordinator's note that a sibling did the same. Six organic text results: brasilescola.uol.com.br (strong, UOL education portal), quillbot.com/pt (tool blog), brainly.com.br (UGC), dicio.com.br (dictionary doubts page), clubedoportugues.com.br (one-author blog, 2017), open.spotify.com (a podcast episode page with no article text). Three of six are clearly weak and only one is a strong national publisher; Google pads the middle of the page with a People Also Ask box and two video blocks. Gate 4: PROCEED, tier A-grammar confirmed.\n\nBRIEF FRAMING CHECKED. (a) \"Both are correct and they are not the same thing\" — CONFIRMED, and the difference is lexical rather than stylistic: Priberam senses 6 and 7 and the Michaelis entry saudades sf pl exist only in the plural. (b) \"Whether the plural is a true plural or an intensifier\" — I found NO instrument that marks it as an intensifier, and the post does not claim one; what the corpus shows is frame-conditioned selection. (c) \"Whether Brazilian and European Portuguese differ on the default\" — NOT SUPPORTED by any source I could reach, and the post says so rather than asserting either way: Priberam's pt-br and pt-pt pages for saudade/saudades are identical in senses, plural-only marking and etymology, on a dictionary that does flag regional differences where they exist; Ciberdúvidas answers the question twice without making a regional distinction; the VOLP and Michaelis make none. The reason it stays unresolved is that the two corpora that answer a scripted query (Google Books \"pt\", Leipzig \"por\") merge the varieties, and the corpus that is balanced between them (CoPEP, ~40M words) has no public frequency interface. That recorded negative is itself the finding.\n\nCORPUS MEASUREMENT OBTAINED, with its limits. Google Books Ngrams pt-2019 gave six singular/plural pairs and one clean absence (\"matar saudade\" below threshold while the control 3-gram \"de que a\" returns normally). Leipzig por_news_2013_1M gave raw frequencies (235 vs 150). Both are books and news, not messaging, which under-counts a form that lives in speech; the bare \"saudade\" unigram also absorbs the plant sense (Scabiosa atropurpurea) and the two Brazilian toponyms, which inflates the singular; Ngrams exposes relative frequency, not raw counts. Corpus do Português (corpusdoportugues.org) was NOT used: it has no scripted query route and no public frequency endpoint, and building a section on it would have been an unverified claim.\n\nCONFIG NOTE FOR THE ORCHESTRATOR. verify.config.json's capExemptDomains already lists dicionario.priberam.org and books.google.com, but NOT the three other Portuguese instruments the BRIEF names and this post depends on: academia.org.br (the ABL's VOLP), michaelis.uol.com.br and ciberduvidas.iscte-iul.pt. By the same argument the list already makes for RAE, Treccani, DWDS and STDict, those three are reference instruments rather than publishers with a point of view, and the two sibling saudade rows in this wave will need exactly the same three. Flagging rather than editing the config, which is not mine to touch.\n\nSOURCES I WANTED AND COULD NOT READ. glossa-journal.org (Glossa 5788, \"Object mass nouns and subkind countability\") and jpl.letras.ulisboa.pt (Journal of Portuguese Linguistics 10.5334/jpl.17, \"Bare Nominals and Number in Brazilian and European Portuguese\") are BOTH behind an Anubis proof-of-work challenge, version 1.22.0 — \"Making sure you're not a bot\". Both are open access and the JPL paper is directly on this post's regional axis. A sibling in the 2026-09-25 batch recorded the same wall on Glossa; this reproduces it independently on a second Ubiquity-hosted journal. search.scielo.org 403s a scripted UA, and scielo.br returned HTTP 500 on the CoPEP article page three times, so that abstract came from Crossref. Two of the ten sources are abstract-only and both say so in the source note. RE-CHECK TRIGGER: fetch 10.5334/jpl.17 from a network that serves it and re-open the pt-BR/pt-PT section.\n\nSIBLING SPLIT. Two other rows in this wave are about saudade. This row is the grammar and usage lane only: it does not define saudade (that is o-que-significa-saudade), does no untranslatability argument, and gives no English rendering (that is saudade-em-ingles-como-se-diz). Neither file existed in blogs/ when this was written, so the cross-links could not be placed in the body; they should be added to the \"O plural tem um sentido\" and \"As expressões fixas\" sections when those files land. The ENGLISH sibling i-miss-you-in-portuguese (batch 2026-09-25) already carries one ~150-word H2 titled \"Saudade or saudades: which one is correct\" and reaches Priberam senses 6 and 7. This post is not its translation — it is written for a reader who already speaks Portuguese, and the VOLP registration, the Michaelis plural entry, both Ciberdúvidas rulings, the pt-br/pt-pt Priberam comparison and the entire corpus measurement appear in neither that post nor any page on this SERP.\n\nFIRST-PARTY DATA IS THIN AND GENERIC HERE, and the post says so in prose. Nothing in the database is segmented by language or country, so no figure in it is Brazilian; it records which TEMPLATE was opened and never who received it; the city, background-music and \"together since\" fields are pickers with defaults, so their fill rates are not sender choices; viewCount is page views, not unique visitors; and n = 214 over two months supports no seasonal claim. All five disclosures are in the body, in Portuguese, not only here. The table's right-hand column pairs a corpus frame with a page field, and the post states in the line under the table that the pairing is editorial recommendation and not measurement. 54 sibling posts draw on these same 12 lines and the differentiation is genuinely thin.\n\nPRICE GUARD: no price, no tier claim and no zero-cost claim of any kind appears anywhere in the body, the FAQs or the metadata, in any language — the banned Portuguese forms were checked for individually and none is present. facts.md's Pricing block is empty, so every price claim would be unsourced; the body says plainly that no information about values is confirmed here. pricecheck-intl.mjs was run against the finished file.",
+    "additionalChecks": [
+      "Every dictionary and corpus URL in sources was fetched in this session and the quoted string was read out of the fetched bytes, not from memory. The VOLP was queried through the ABL's own /ajax/abl/buscar-palavras endpoint rather than a third-party mirror.",
+      "Priberam was fetched at BOTH /pt-br/ and /pt-pt/ explicitly after the coordinator warned that a bare /saudade path redirects to the European entry. The two were compared field by field.",
+      "Priberam senses 3, 4 and 5 were checked to be BOTANICAL (Scabiosa atropurpurea) before any sense number was cited, per the coordinator's warning about skim-copied sense numbers.",
+      "The Google Books Ngram result was validated against a control 3-gram ('de que a') to confirm that the empty series for 'matar a saudade' is a corpus threshold effect and not an API failure.",
+      "Leipzig's availableCorpora endpoint was listed in full (104 corpora) to confirm that no por_br or por_pt corpus exists before claiming the varieties cannot be separated there.",
+      "All five Wikipedia titles in about/mentions were resolved through the Wikipedia API with prop=pageprops on 2026-09-26; every one returned a Wikidata QID and the two redirects (Academia Brasileira de Letras → Brazilian Academy of Letters, Google Ngram Viewer → Google Books Ngram Viewer) were followed before the sameAs pair was written.",
+      "The two abstract-only citations (Neto & Mullet 2014, Kuhn & Ferreira 2020) each state 'ABSTRACT ONLY' inside the source note itself, and the Neto & Mullet FAQ says so in the answer text too.",
+      "The claim that dicio.com.br and escrevercerto.com run substantially the same text was verified by fetching both and comparing the shared sentence, not inferred from the snippets.",
+      "In fairness to the SERP: escrevercerto.com's statement that both forms are registered in the ABL's VOLP was checked and is CORRECT. It is the only ranking page that gets to the VOLP, and the post's criticism is aimed at Brasil Escola and Dicio, which do not.",
+      "No price, currency symbol, tier name or zero-cost wording appears in any language; pricecheck-intl.mjs was run against the finished file.",
+      "scripts/serp-ddg.mjs was attempted 36 times in total across three query variants over roughly 18 minutes before the browser fallback was used; the failure is a recorded measurement, not an omission."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one specific number, date, price or named source per H2 section",
+          "why": "Not every H2 carries a number, date or named source. 'As expressões fixas, uma a uma' names Priberam senses 6 and 7 and one corpus percentage, but its 'quanta saudade / quantas saudades' bullet is a bare grammatical rule with no figure attached, because no instrument I could reach measures that pair — the Ngram 2-grams 'quanta saudade' and 'quantas saudades' were not queried within the 3-gram-threshold budget. Closes by running that pair against corpus pt-2019 and adding the share."
+        },
+        {
+          "item": "One comparison table with real values, 3–5 rows",
+          "why": "The single table has 5 rows and real values, but it is a frequency table rather than a like-for-like comparison of options, which is what the item asks for. A true comparison table here would compare the two forms across dictionaries, and that duplicates the prose section immediately above it. Closes if the frequency table is restructured as Forma / registrada em VOLP / sentido exclusivo / frequência, at the cost of repeating the H2 above."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug 'saudade-ou-saudades-qual-o-certo' is 32 characters and contains the stop words 'ou', 'o' and the interrogative 'qual'. It is the exact keyword assigned in WAVE1-PLAN.json and the phrase Brazilian searchers type, so shortening it to 'saudade-ou-saudades' would cost the exact-match. Kept deliberately. Closes only if the orchestrator reassigns the slug."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "The body carries ELEVEN outbound links, not 3-6, and batchMeta.sources has ten entries against the BRIEF's 4-6. Every one was fetched in this session and every one contains the fact cited from it, so the 'verified' half passes and the count does not. The reason is that six of the ten are the named reference INSTRUMENTS the BRIEF itself requires for a non-English post — VOLP, Priberam at two variant paths, Michaelis and two Ciberdúvidas rulings — and the pt-BR/pt-PT section is built entirely on comparing them against each other, so cutting any one of them removes the evidence rather than the citation. Only two are research papers and two are corpora. Recording this as failed rather than trimming a verified instrument to make the count green. Closes if the orchestrator rules that cap-exempt reference instruments do not count toward the 4-6."
+        },
+        {
+          "item": "At least 1 of those is peer-reviewed or scholarly, and open-access",
+          "why": "Kuhn & Ferreira 2020 (DELTA) is peer-reviewed and open access and it passes, but it was read as an ABSTRACT ONLY because scielo.br returned HTTP 500 three times; the full text was never opened. The two open-access papers that would have carried this item properly — Glossa 5788 and Journal of Portuguese Linguistics 10.5334/jpl.17, the latter directly about number in Brazilian versus European Portuguese — are both behind an Anubis proof-of-work challenge. Closes when either is fetched from a network that serves it."
+        },
+        {
+          "item": "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+          "why": "No generic context statistic is used at all, which over-satisfies rather than satisfies: the item expects at most one, and the post's case rests entirely on dictionaries and two corpora. Recording it as failed rather than passed because the post carries zero, and a reviewer checking 'at most 1' against a post with none should see the reason stated rather than assume it was overlooked."
+        },
+        {
+          "item": "templateUrls all exist in TEMPLATE_LINKS",
+          "why": "/missyou-gf, /dedication and /templates all exist in TEMPLATE_LINKS in app/lib/prompt.ts and were checked there. This item is recorded as failed for one narrow reason: /missyou-gf is an ENGLISH-language page and this is a Portuguese post, so the link resolves but does not serve the reader in the language the page is written in. The body discloses that in Portuguese prose rather than hiding it. Closes only if a Portuguese build of the template exists."
+        }
+      ],
+      "honestAssessment": "Where this post is strong: it is the only page on this SERP that cites the ABL's own VOLP, where saudade s.f. and saudades s.f.pl. are two separately registered headwords — I queried the ABL's own endpoint rather than trusting a summary — and it is the only one that says the plural carries senses the singular does not, with Priberam's plural-only senses 6 and 7, Michaelis's own saudades sf pl entry and the 1998 Ciberdúvidas ruling all pointing the same way. That matters because the #1 result on Google Brazil, Brasil Escola, tells the reader to use either form 'desde que você não altere o sentido principal por eles transmitidos' — and the plural-only senses are exactly the case its own rule excludes, which the page never mentions. The frequency measurement is genuinely new to this SERP: six singular/plural pairs out of Google Books pt-2019 showing the majority form flipping by frame (83.3% singular bare, 72.5% plural in 'com saudades'), plus Leipzig's 235-to-150, plus one clean absence where 'matar saudade' falls below the corpus threshold and a control 3-gram does not. Where it is weak: the first-party data is real but generic to the batch — facts-snapshot.md carries twelve miss-you lines for thirty posts, every one already reused, nothing in it is segmented by language or country, and nothing about singular-versus-plural is measured in our database at all, so the first-party section supports the recommendation rather than the finding. The pt-BR versus pt-PT question, which is the most-searched sub-question here, ends in an honest 'unmeasured' rather than an answer, because the one open-access paper that addresses it directly sits behind an Anubis challenge and the balanced corpus has no public frequency box. Two of ten sources are abstract-only. The corpora are books and news, so a form that lives mainly in WhatsApp is under-counted by construction, and the bare 'saudade' count absorbs a plant and two municipalities. Ranking is a separate question: this is a low-authority domain publishing its first Portuguese page against a UOL property, and being right about the VOLP does not by itself outrank it.",
+      "generatedAt": "2026-09-26T13:43:14.796Z"
+    },
+    "generatedAt": "2026-09-26T13:43:14.797Z",
+    "orchestratorRepair": "kind was \"blog-post\" and has been corrected to \"blog-automation/batch-blog\" by the orchestrator on 2026-09-26. app/lib/batches.ts line 56 returns null for any other value, so this post would have been SILENTLY SKIPPED at publish with nothing reporting it. Found because the seni-ozledim-ingilizce-nasil-yazilir agent read references/article-json-schema.md and caught the same defect in its own draft. scripts/verify-batch.mjs does not check this field. No prose altered. article.keywords was a JSON ARRAY of 5 items; the schema requires a COMMA-SEPARATED STRING (\"Comma-separated string, not an array\"). Converted verbatim by the orchestrator 2026-09-26. app/lib/batches.ts line 79 reads it through str(), which returns \"\" for a non-string, so the keywords were being SILENTLY DROPPED at import with nothing reporting it - the same failure class as the wrong-kind defect. scripts/verify-batch.mjs does not check this field. No prose altered."
+  }
+}

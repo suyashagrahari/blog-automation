@@ -1,0 +1,436 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Tu me manques en arabe : quatre phrases, et une seule garde votre grammaire",
+    "slug": "tu-me-manques-en-arabe",
+    "excerpt": "Tu me manques se dit أَشْتَاقُ إِلَيْكَ à un homme et أَشْتَاقُ إِلَيْكِ à une femme — mais l'arabe standard fait du locuteur le sujet, là où le français fait de l'absent le sujet. Sur 24 traductions attestées, 24 inversent la phrase et 0 gardent la structure française.",
+    "metaTitle": "Tu me manques en arabe : 4 formes et 24 traductions",
+    "metaDescription": "Tu me manques en arabe se dit أشتاق إليكَ à un homme, إليكِ à une femme. Sur 24 traductions attestées, 24 font du locuteur le sujet, 0 gardent le français.",
+    "keywords": "tu me manques en arabe, tu me manques en arabe marocain, comment dire tu me manques en arabe, أشتاق إليك, وحشتني, tu me manques en darija",
+    "canonicalURL": "https://subhsandesh.in/blog/tu-me-manques-en-arabe",
+    "ogType": "article",
+    "tags": [
+      "arabe",
+      "français",
+      "traduction",
+      "longue distance",
+      "grammaire"
+    ],
+    "keyTakeaways": [
+      "« Tu me manques » se dit أَشْتَاقُ إِلَيْكَ à un homme et أَشْتَاقُ إِلَيْكِ à une femme ; en égyptien, وحشتني et وحشتيني.",
+      "Les deux langues ne sont pas d'accord sur le sujet : sur 24 traductions arabes attestées de « tu me manques », 24 placent le locuteur en position de sujet et 0 conservent la structure française.",
+      "Sur les 83 entrées du recueil de phrases « I miss you » de Wiktionary, 2 seulement portent une étiquette de genre, et ce sont les deux entrées arabes.",
+      "Aucune forme maghrébine n'est attestée dans les instruments consultés : Wiktionary compte 68 entrées algériennes et 680 tunisiennes contre 176 990 en arabe standard, et zéro glosée « to miss ».",
+      "Le premier résultat français mesuré le 26 septembre 2026 donne « انت تفتقدني », qui dit en réalité « je te manque »."
+    ],
+    "faqs": [
+      {
+        "question": "Comment dit-on « tu me manques beaucoup » en arabe ?",
+        "answer": "أشتاق إليك كثيرا (aštāqu ilayka kaṯīran). C'est la traduction alignée sur Tatoeba de « Tu me manques énormément » et de « Tu me manques beaucoup ». Le mot كثيرا porte l'intensité ; le verbe, lui, reste conjugué à la première personne."
+      },
+      {
+        "question": "Comment dit-on « tu me manques aussi » en arabe ?",
+        "answer": "أشتاق إليك أيضا (aštāqu ilayka ayḍan), ou أفتقدك أيضا avec l'autre verbe. Les deux sont attestées sur Tatoeba comme traductions de « Tu me manques aussi ! ». أيضا se place à la fin, comme « aussi » en français."
+      },
+      {
+        "question": "Comment dit-on « tu vas me manquer » en arabe ?",
+        "answer": "سأشتاق لك (sa-aštāqu lak) ou سوف أفتقدك (sawfa aftaqiduka). Les deux traduisent « Tu me manqueras » sur Tatoeba. Le سـ et le سوف marquent le futur, et le verbe reste à la première personne : c'est toujours vous le sujet."
+      },
+      {
+        "question": "Comment dit-on « je te manque » en arabe ?",
+        "answer": "C'est exactement انت تفتقدني (anta taftaqidunī) : le préfixe تـ marque la deuxième personne comme sujet, le suffixe ـني marque « moi » comme objet. Attention, plusieurs pages françaises donnent cette phrase pour « tu me manques », ce qui en inverse le sens."
+      },
+      {
+        "question": "Quelle différence y a-t-il entre اشتقت إليك et أفتقدك ?",
+        "answer": "Deux racines. اشتاق (ش و ق) est glosé par Wiktionary « to yearn for » avant « to miss » : c'est un manque ressenti. افتقد (ف ق د) est glosé « to miss; to lose », plus proche de constater une absence. Sur 24 traductions arabes relevées, 17 emploient la première et 7 la seconde."
+      },
+      {
+        "question": "Peut-on écrire اشتقت لك plutôt que اشتقت إليك ?",
+        "answer": "Oui, les deux circulent. Sur les 24 traductions relevées, 12 introduisent la personne par إلى et 5 par لـ, les 7 dernières collant le pronom au verbe. لـ est plus courant à l'oral et dans les dialectes, إلى plus standard à l'écrit."
+      },
+      {
+        "question": "Faut-il écrire les voyelles courtes quand on envoie la phrase ?",
+        "answer": "Presque personne ne le fait : sur les 24 traductions arabes relevées le 26 septembre 2026, deux seulement écrivent une voyelle sur le ك du destinataire. Si vous tenez à ce que le genre soit lisible, écrivez-la — sinon la phrase ne dit plus à qui elle s'adresse."
+      },
+      {
+        "question": "Est-ce que la phrase change si c'est une femme qui l'écrit ?",
+        "answer": "Avec un verbe conjugué, non : اشتقت إليك ne marque pas le sexe de celui qui parle. Mais la tournure أنا مشتاق repose sur un participe qui s'accorde avec le locuteur, donc une femme écrit مشتاقة. Aucune des 24 traductions relevées n'emploie cette forme féminine."
+      },
+      {
+        "question": "Peut-on envoyer اشتقت إليك à un ami ou à un parent ?",
+        "answer": "Oui. L'arabe ne réserve pas cette phrase au registre amoureux : le verbe اشتاق dit le manque en général. Le seul choix obligatoire reste le genre du destinataire, ـكَ ou ـكِ, pas le degré d'intimité."
+      },
+      {
+        "question": "Pourquoi les traducteurs automatiques ne donnent-ils qu'une seule réponse ?",
+        "answer": "Parce qu'ils choisissent pour vous. Glosbe, par exemple, répond à « tu me manques » par une seule chaîne, اَشْتَقْتُ لَكِ, vocalisée avec une kasra — c'est-à-dire adressée à une femme — alors que sa phrase d'exemple est écrite sans cette voyelle et ne peut donc pas la justifier."
+      },
+      {
+        "question": "Comment se prononce أَشْتَاقُ إِلَيْكَ ?",
+        "answer": "Approximativement « ach-TÂ-qou i-LAY-ka » à un homme, « ach-TÂ-qou i-LAY-ki » à une femme. Le ق est une occlusive plus profonde que notre k ; le ش se prononce comme « ch » en français. Toute la différence entre les deux destinataires tient dans la dernière syllabe."
+      }
+    ],
+    "coverImageQuery": "french arabic handwriting phone message distance",
+    "coverImagePrompt": "A phone screen on a wooden table showing a short message in Arabic script beside a French notebook page, warm evening light from a window. Shallow depth of field, calm and domestic, no faces. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Tu me manques en arabe : quatre phrases, et une seule garde votre grammaire\n\n**« Tu me manques » se dit أَشْتَاقُ إِلَيْكَ (*aštāqu ilayka*) à un homme et أَشْتَاقُ إِلَيْكِ (*aštāqu ilayki*) à une femme.** En égyptien on envoie autre chose : وحشتني à un homme, وحشتيني à une femme.\n\nLe piège n'est pas le vocabulaire, c'est le sujet. En français, la personne qui manque est le sujet du verbe. En arabe standard, le sujet, c'est **vous**. L'égyptien, lui, remet la personne absente en position de sujet — donc des deux formes, une seule suit l'intuition d'un francophone.\n\nEt la décision se prend vite. Sur les 214 pages « I miss you » créées sur notre modèle /missyou-gf depuis le 28 juillet 2026, l'écart médian entre la première sauvegarde et la dernière retouche est de **2,6 heures**, et **88,8 % des pages commencées sont publiées et envoyées** (190 sur 214). La phrase est choisie en une soirée et part telle quelle.\n\n## Les quatre phrases, et qui les reçoit\n\nLe [recueil de phrases « I miss you » de Wiktionary](https://en.wiktionary.org/wiki/I_miss_you) aligne 83 entrées — 69 langues et 14 variantes. Le français y tient en une seule forme, *tu me manques*. L'arabe en occupe quatre.\n\n| Forme | Variété (code ISO) | Destinataire | Qui est le sujet | Instrument |\n|---|---|---|---|---|\n| أَشْتَاقُ إِلَيْكَ | arabe standard (`arb`) | un homme | le locuteur (« je ») | Wiktionary, recueil de phrases |\n| أَشْتَاقُ إِلَيْكِ | arabe standard (`arb`) | une femme | le locuteur (« je ») | Wiktionary, recueil de phrases |\n| وحشتني | égyptien (`arz`) | un homme | le destinataire | Wiktionary, recueil de phrases |\n| وحشتيني | égyptien (`arz`) | une femme | le destinataire | Wiktionary, recueil de phrases |\n| أفتقدك / افتقدتك | arabe standard (`arb`) | marqué par le suffixe ـك | le locuteur (« je ») | Wiktionary, entrée افتقد |\n\nSur ces 83 entrées, **deux seulement portent une étiquette de genre, et ce sont les deux entrées arabes.** Aucune autre langue du recueil n'oblige à choisir le sexe de son destinataire pour dire cette phrase.\n\n## Pourquoi l'arabe standard retourne la phrase\n\nEn français, *tu me manques* met l'absent en position de sujet et l'expérienceur en complément d'objet indirect. La preuve tient dans un seul pronom, et c'est le sujet du [post frère sur « tu me manques en anglais »](/blog/tu-me-manques-en-anglais).\n\nL'arabe standard fait l'inverse. Dans أَشْتَاقُ إِلَيْكَ, le verbe est conjugué à la **première personne** : *je* éprouve le manque, et l'absent est régi par la préposition إلى. Même schéma pour l'autre verbe courant : l'[entrée Wiktionary de افتقد](https://en.wiktionary.org/wiki/%D8%A7%D9%81%D8%AA%D9%82%D8%AF), « to miss; to lose », l'illustre par يَفْتَقِدُكَ, glosé *he misses you*.\n\nRetenez : **le préfixe porte le sujet, le suffixe ـكَ / ـكِ porte l'objet.** L'inverse du français, où le sujet désigne l'absent.\n\n## Le premier résultat français dit en réalité « je te manque »\n\nSur le Bing français mesuré le 26 septembre 2026, la page classée première propose « انت تفتقدني ».\n\nC'est vérifiable et c'est faux. أنت est le pronom sujet indépendant. Dans تفتقدني, le préfixe تـ marque la deuxième personne — le sujet — et le suffixe ـني marque *moi*, l'objet. La phrase dit donc **« tu me manques » à l'envers** : *tu ressens mon absence*, ce qu'en français on écrit *je te manque*.\n\nCopier cette ligne, c'est annoncer à l'autre ce qu'il est censé ressentir. Le premier résultat commet l'erreur que cette page existe pour éviter.\n\n## L'égyptien وحشتني remet votre grammaire à l'endroit\n\nL'égyptien construit la phrase sur la racine و ح ش, dont le verbe signifie *causer le manque*. Le sujet est donc l'absent : **وحشتني** se lit « tu m'as rendu désert ».\n\nC'est la seule des quatre formes du recueil dont la structure correspond à celle de *tu me manques*. Et le genre du destinataire y est porté par une **lettre entière**, le ي de وحشتيني, non par une voyelle brève qu'on n'écrit pas.\n\nLa contrepartie : c'est une phrase égyptienne, qu'on n'écrit pas en arabe standard.\n\n## Ce que montrent 24 traductions attestées\n\nPlutôt que d'affirmer, comptons. [Tatoeba](https://tatoeba.org/en/sentences/show/9080) aligne des phrases à la main. J'y ai relevé le 26 septembre 2026 toutes les phrases françaises contenant *tu me manques* et pourvues d'une traduction arabe.\n\n**12 phrases françaises, 24 phrases arabes distinctes.** Le résultat est net :\n\n- **24 sur 24** placent le **locuteur** en position de sujet — verbe conjugué à la première personne, ou participe أنا مشتاق qui s'accorde avec celui qui parle.\n- **0 sur 24** conservent la structure française.\n- **0 sur 24** emploient la racine و ح ش : le corpus est écrit en arabe standard, et la forme égyptienne n'y apparaît jamais.\n- 17 reposent sur la racine ش و ق, 7 sur ف ق د.\n- L'objet est introduit 12 fois par إلى, 5 fois par لـ, et 7 fois collé directement au verbe.\n\nLe détail le plus parlant : **2 phrases seulement sur 24 écrivent une voyelle sur le ك du destinataire** — أشتقتُ لكَ et أشتقتُ لكِ. Et ces deux-là traduisent *la même* phrase française, « Tu me manques beaucoup. » Une phrase française, deux phrases arabes que rien ne distingue une fois les voyelles retirées. Ce mécanisme est détaillé dans le [post frère consacré à cette voyelle](/blog/i-miss-you-in-arabic).\n\nQuatre des 24 emploient أنا مشتاق, au masculin ; **aucune** n'emploie مشتاقة. Ce participe s'accorde avec **celui qui parle**, pas avec le destinataire : une femme écrivant en arabe doit donc changer ce mot-là, ce que détaille le [post frère sur la forme adressée à une femme](/blog/how-to-say-i-miss-you-in-arabic-to-a-woman).\n\n## Quel arabe écrivez-vous vraiment ?\n\nLa question compte plus que la grammaire, parce que les communautés arabophones de France sont majoritairement maghrébines. Six codes, vérifiés le 26 septembre 2026 dans les [tables ISO 639-3](https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab) de SIL International, tous actifs, individuels et vivants : `arb` standard, `arz` égyptien, `apc` levantin, `ary` marocain, `aeb` tunisien, `arq` algérien. `ara` est la macrolangue, celle que votre téléphone appelle « arabe ».\n\nUn détail que les dictionnaires n'ont pas répercuté : `ajp`, « South Levantine Arabic », a été **retiré le 20 janvier 2023** et fusionné dans `apc`, d'après la [table des retraits](https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Retirements.tab). Wiktionary l'emploie encore comme en-tête de langue.\n\n## Maghrébin : ce que je ne peux pas vous donner\n\nDeux des dix résultats mesurés proposent une forme marocaine, « Twahashtek » (توحشتك). Je ne la reproduis pas, et voici pourquoi.\n\nL'entrée Wiktionary de توحش ne donne que des sens d'arabe standard — « être insociable », « devenir sauvage », « être désert » — sans aucun sens de manque et sans section marocaine. Sur Tatoeba, les deux seules occurrences de توحشتك sont des correspondances de sous-chaîne dans des phrases classiques sans rapport.\n\nLe déséquilibre se compte. Au 26 septembre 2026, Wiktionary porte 176 990 pages avec une section d'arabe standard, 2 079 en marocain, 680 en tunisien et **68 en algérien**. Zéro entrée algérienne ou tunisienne glosée « to miss ».\n\nLa lacune dépasse Wiktionary. Le corpus [MADOran](https://europepmc.org/article/PMC/PMC12552140), publié le 27 septembre 2025 dans *Data in Brief*, annote à la main 30 919 mots d'arabe oranais avec gloses anglaises **et françaises**, et se présente comme une ressource nouvelle pour une variété qui n'en avait pas. Je n'en ai lu que le résumé.\n\nDonc : si votre destinataire est algérien, marocain ou tunisien, **demandez-lui sa formule.** C'est la réponse honnête.\n\n## Taper de l'arabe depuis un clavier français\n\nTrois obstacles concrets.\n\n**Le clavier.** Un AZERTY ne produit pas d'arabe. Ajoutez un clavier arabe dans les réglages de langue de votre appareil, puis basculez au moment d'écrire ; le copier-coller marche, mais vous recopiez une ligne que vous ne relisez pas.\n\n**Le sens d'écriture.** Une ligne arabe collée au milieu d'un message français se réordonne : la ponctuation saute à la mauvaise extrémité. Envoyez la ligne arabe **seule, dans son propre message**.\n\n**L'arabizi.** L'arabe latinisé, avec des chiffres pour les sons absents du latin, est la façon dont cette phrase se tape vraiment — et il écrit en toutes lettres le genre que l'alphabet arabe laisse invisible. Le [post frère sur la forme féminine](/blog/how-to-say-i-miss-you-in-arabic-to-a-woman) en donne les conventions.\n\n## Ce que nos chiffres disent, et ce qu'ils ne disent pas\n\nNous fabriquons une page « I miss you » qu'on envoie par lien.\n\n| Ce que la base enregistre | Mesuré sur 214 pages, le 25/09/2026 | Ce que ça ne dit pas |\n|---|---|---|\n| Écart première sauvegarde → dernière retouche | 2,6 heures de médiane | Rien sur le temps passé à choisir la formule |\n| Pages commencées puis publiées | 88,8 % (190 sur 214) | Rien sur ce qu'en a fait le destinataire |\n| Protection par mot de passe | 43,5 % (93 sur 214), contre 38,5 % toutes pages confondues | Rien sur qui est protégé de qui |\n| Tapes « câlin » reçues | 1 434 sur 138 pages, 512 sur une seule | Des tapes, pas des personnes |\n\nTrois précautions. Ville, musique de fond et « ensemble depuis » sont des **menus avec une valeur par défaut** : les 47 paires de villes distinctes tirées d'un menu de 15 villes disent ce que le menu propose, pas ce que l'expéditeur a décidé. Les vues comptent des ouvertures, pas des visiteurs uniques. Et **n = 214 sur deux mois** : aucune conclusion saisonnière ne tient.\n\nSurtout : **rien n'est segmenté par langue ni par pays.** Aucun de ces chiffres n'est français, aucun n'est arabe, et la base enregistre **quel modèle a été ouvert, jamais qui l'a reçu.** Je ne prétends pas qu'une seule de ces 214 pages contienne un mot d'arabe.\n\n**Et la page elle-même est en anglais.** Libellés, boutons, intitulés : tout l'habillage de la [page « I miss you » à envoyer par lien](/missyou-gf) est anglophone et orienté de gauche à droite, autour d'une ligne arabe qui va de droite à gauche. Le modèle est en plus nommé pour une compagne. Triple décalage, et il faut le savoir avant de cliquer : ce que vous écrivez, vous, reste dans votre langue, mais pas le cadre.\n\nSi la phrase arabe vous échappe encore, une page sans mots sert mieux : [Hold My Hand](/hold-my-hand) demande de garder le doigt sur l'écran soixante secondes, et la lettre s'ouvre au bout. Le geste porte le message quand la grammaire hésite. Le reste est dans le [catalogue des modèles](/templates). Notre fiche de données internes ne comporte aucun montant ; je n'affirme donc rien à ce sujet.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/tu-me-manques-en-arabe#post",
+        "inLanguage": "fr-FR",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Arabe",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arabic",
+              "https://www.wikidata.org/wiki/Q13955"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Français",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_language",
+              "https://www.wikidata.org/wiki/Q150"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabe dialectal",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Varieties_of_Arabic",
+              "https://www.wikidata.org/wiki/Q1422423"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Arabe standard moderne",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Modern_Standard_Arabic",
+              "https://www.wikidata.org/wiki/Q56467"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabe égyptien",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Egyptian_Arabic",
+              "https://www.wikidata.org/wiki/Q29919"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabe maghrébin",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Maghrebi_Arabic",
+              "https://www.wikidata.org/wiki/Q1194795"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabe marocain",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Moroccan_Arabic",
+              "https://www.wikidata.org/wiki/Q56426"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabe algérien",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Algerian_Arabic",
+              "https://www.wikidata.org/wiki/Q56499"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "83 entries (69 top-level languages plus 14 sub-entries); exactly two carry masculine/feminine tags and both ar",
+            "url": "https://en.wiktionary.org/wiki/I_miss_you",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "افتقد glossed \"to miss; to lose\", illustrated by يَفْتَقِدُكَ \"He misses you (to a man)\" and يَفْتَقِدُكِ \"(to",
+            "url": "https://en.wiktionary.org/wiki/%D8%A7%D9%81%D8%AA%D9%82%D8%AF",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "12 French sentences containing \"tu me manques\" carry 24 distinct Arabic translations; 24 of 24 put the speaker",
+            "url": "https://tatoeba.org/en/sentences/show/9080",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "arb Standard, arz Egyptian, apc Levantine, ary Moroccan, aeb Tunisian and arq Algerian Arabic are all Scope I ",
+            "url": "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ajp \"South Levantine Arabic\" was retired on 2023-01-20, reason M (merge), change-to apc",
+            "url": "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Retirements.tab",
+            "datePublished": "2023-01-20"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "MADOran annotates 30,919 words of Orani (Algerian) Arabic by hand with part-of-speech, root, pattern and Engli",
+            "url": "https://europepmc.org/article/PMC/PMC12552140",
+            "datePublished": "2025-09-27"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "tu me manques en arabe",
+    "angle": "Wins by being the only page on this SERP that names which word is the grammatical SUBJECT in each Arabic form — French makes the missed person the subject, Modern Standard Arabic makes the speaker the subject, Egyptian وحشتني flips it back — proves it by counting 24 attested Arabic translations of \"tu me manques\" on Tatoeba (24 of 24 flip the subject onto the speaker, 0 keep the French shape, 0 use و ح ش), verifies six ISO 639-3 codes and catches ajp's 2023-01-20 retirement into apc, reports that no Maghrebi form is attested in any reachable instrument rather than inventing one, and corrects the rank-1 French result which prints انت تفتقدني — \"you miss me\" — grounded in the 214-page /missyou-gf first-party dataset.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/hold-my-hand",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/I_miss_you",
+        "stat": "83 entries (69 top-level languages plus 14 sub-entries); exactly two carry masculine/feminine tags and both are Arabic — أَشْتَاقُ إِلَيْكَ m / أَشْتَاقُ إِلَيْكِ f and Egyptian وحشتني m / وحشتيني f — while French contributes the single form tu me manques",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%D8%A7%D9%81%D8%AA%D9%82%D8%AF",
+        "stat": "افتقد glossed \"to miss; to lose\", illustrated by يَفْتَقِدُكَ \"He misses you (to a man)\" and يَفْتَقِدُكِ \"(to a woman)\" — the prefix carries the subject and the ـك suffix the object",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/9080",
+        "stat": "12 French sentences containing \"tu me manques\" carry 24 distinct Arabic translations; 24 of 24 put the speaker in the subject slot, 0 keep the French shape, 0 use the root و ح ش, and only 2 write a vowel on the addressee's ك — both translating this same sentence",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab",
+        "stat": "arb Standard, arz Egyptian, apc Levantine, ary Moroccan, aeb Tunisian and arq Algerian Arabic are all Scope I (individual), Type L (living) and active; ara is the macrolanguage",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Retirements.tab",
+        "stat": "ajp \"South Levantine Arabic\" was retired on 2023-01-20, reason M (merge), change-to apc",
+        "publishedDate": "2023-01-20"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12552140",
+        "stat": "MADOran annotates 30,919 words of Orani (Algerian) Arabic by hand with part-of-speech, root, pattern and English AND French glosses, presented as a new resource for a variety that lacked one — journal: Data in Brief; abstract only, PDFs do not parse here",
+        "publishedDate": "2025-09-27"
+      }
+    ],
+    "serpMeasurement": {
+      "date": "2026-09-26",
+      "routesTried": [
+        "scripts/serp-ddg.mjs \"tu me manques en arabe\" fr-fr — UND_ERR_CONNECT_TIMEOUT on html.duckduckgo.com:443. Run ONCE per BRIEF section 3, then abandoned.",
+        "Google gl=fr&hl=fr&pws=0 in the operator's real Chrome — redirected to /sorry/index (captcha). NOT clicked past. No Google position, no AI Overview and no Google Translate widget is asserted anywhere in this post.",
+        "Bing RSS format=rss&mkt=fr-FR — HTTP 200, 990 bytes, zero <item> elements."
+      ],
+      "routeUsed": "Bing mkt=fr-FR in the operator's real Chrome (PolterTab), read-only, 2026-09-26. Bing is a different index from Google and is labelled as such in the body.",
+      "selfAuthentication": "Page title returned \"tu me manques en arabe - Recherche\"; all ten results are French-language and on this exact keyword. No foreign-language or off-keyword result appeared, so no scrape was discarded. The SERP was re-run a second time and the ten cites were identical.",
+      "resultsSeen": 10,
+      "weakCount": 10,
+      "weakBasis": "10 of the 10 I actually saw: 5 dictionary/MT aggregators (tarjamaan, Reverso x3, Glosbe), 3 low-authority language blogs (deviens-bilingue, fluentvista, blabla-darija), 1 Paris shop blog (lamaisondessultans), 1 blog post from 2014 (berberosphere). Zero French editorial authority, zero newspaper, zero university, zero national dictionary.",
+      "translatorWidget": "Bing renders its OWN machine-translation widget above every organic result, with a target-language menu offering Arabe, Arabe (égyptien), Arabic (Moroccan) and Arabic (Romanized). Whether Google Translate outranks organic results here was NOT measured, because Google served a captcha.",
+      "relatedSearches": [
+        "tu me manques traduction",
+        "tu me manques en marocain",
+        "tu me manques en darija"
+      ],
+      "gate2": "PASS — four-word long-tail translation query, not a head term.",
+      "gate4": "PASS — no strong French editorial incumbent on the measured SERP."
+    },
+    "checkableErrorsFound": [
+      "RANK 1, deviens-bilingue.fr: gives « انت تفتقدني » for \"tu me manques\". أنت is the independent nominative pronoun; Wiktionary's افتقد entry prints يَفْتَقِدُكَ \"He misses you (to a man)\", so the prefix carries the subject and the ـك suffix the object. تفتقدني therefore parses as \"you miss me\" — the Arabic for \"je te manque\", the exact inversion this post is about.",
+      "RANK 9, fr.glosbe.com: answers \"tu me manques\" with one string, اَشْتَقْتُ لَكِ, vocalised with a kasra on the final كِ (i.e. addressed to a woman only), while its single supporting example لقد اشتقت لك لكني لا أعرف إن كان هذا يكفي is written without that mark and cannot evidence the headword it sits under.",
+      "INSTRUMENT ERROR, not a SERP one: English Wiktionary still uses ajp (\"South Levantine Arabic\") as a live language header on اشتاق, although ISO 639-3 retired ajp on 2023-01-20 and merged it into apc.",
+      "BRIEF section 4 warning reproduced first-hand: larousse.fr/dictionnaires/francais/manquer/49348 returns HTTP 200 and serves the headword MARAUD; /manquer/49234 is manquer. Verified before anything was built on it."
+    ],
+    "formsPrinted": [
+      {
+        "form": "أَشْتَاقُ إِلَيْكَ",
+        "variety": "Modern Standard Arabic (arb)",
+        "addressee": "man",
+        "subject": "the SPEAKER (1sg verb)",
+        "instrument": "Wiktionary \"I miss you\" phrasebook + اشتاق entry"
+      },
+      {
+        "form": "أَشْتَاقُ إِلَيْكِ",
+        "variety": "Modern Standard Arabic (arb)",
+        "addressee": "woman",
+        "subject": "the SPEAKER (1sg verb)",
+        "instrument": "Wiktionary \"I miss you\" phrasebook + اشتاق entry"
+      },
+      {
+        "form": "وحشتني",
+        "variety": "Egyptian Arabic (arz)",
+        "addressee": "man",
+        "subject": "the ADDRESSEE (2sg verb subject)",
+        "instrument": "Wiktionary \"I miss you\" phrasebook; وحش entry glosses waḥaš \"to miss, to cause longing\""
+      },
+      {
+        "form": "وحشتيني",
+        "variety": "Egyptian Arabic (arz)",
+        "addressee": "woman",
+        "subject": "the ADDRESSEE (2sg verb subject)",
+        "instrument": "Wiktionary \"I miss you\" phrasebook"
+      },
+      {
+        "form": "أفتقدك / افتقدتك",
+        "variety": "Modern Standard Arabic (arb)",
+        "addressee": "marked by the ـكَ / ـكِ suffix",
+        "subject": "the SPEAKER (1sg verb)",
+        "instrument": "Wiktionary افتقد entry; Tatoeba 392779, 7264454"
+      },
+      {
+        "form": "أشتقتُ لكَ / أشتقتُ لكِ",
+        "variety": "Modern Standard Arabic (arb)",
+        "addressee": "man / woman, vocalised",
+        "subject": "the SPEAKER (1sg verb)",
+        "instrument": "Tatoeba 3054790 / 3054791, both translating French sentence 9080"
+      },
+      {
+        "form": "أنا مشتاق",
+        "variety": "Modern Standard Arabic (arb)",
+        "addressee": "not marked by this word",
+        "subject": "the SPEAKER (participle agreeing with the speaker, masculine)",
+        "instrument": "Tatoeba 461833, 7264456, 394070, 394071 — 4 of 24; مشتاقة attested 0 times"
+      }
+    ],
+    "formsCut": [
+      "توحشتك / \"Twahashtek\", Moroccan — printed by ranks 5 and 7. Wiktionary's توحش entry carries MSA senses only (\"to be unsocial\", \"to act wild\", \"to be desolate\"), no \"miss\" sense and no Maghrebi section. Tatoeba's only two hits for the string توحشتك (#592440, #1792624) are substring matches inside unrelated classical sentences. No instrument. NOT PRINTED.",
+      "انت تفتقدني, rank 1 — means \"you miss me\". Printed only as the corrected error.",
+      "بَعِيدًا عَنكَ, rank 4 (fluentvista) — \"far from you\", an adverbial phrase; no instrument attests it as a rendering of \"tu me manques\". NOT PRINTED.",
+      "Any Algerian (arq) or Tunisian (aeb) form — zero Wiktionary entries in either variety carry a \"to miss\" gloss. The gap is reported instead.",
+      "Levantine and Gulf gendered forms — same verdict the Arabic sibling reached; not re-derived, not printed.",
+      "مشتاقة as a line to send — it is the feminine of \"I\", not of \"you\", and is attested 0 times in the 24 translations. Named as a consequence for a female French writer and cross-linked, not re-derived.",
+      "وحشتني as a Levantine form — the sibling already cut this; Wiktionary's وحش page carries Egyptian and Hijazi sections only."
+    ],
+    "isoVerdicts": "All six codes in the task prompt are CORRECT, verified 2026-09-26 against iso-639-3.tab AND the per-code pages: arb Standard Arabic, arz Egyptian Arabic, apc Levantine Arabic, ary Moroccan Arabic, aeb Tunisian Arabic, arq Algerian Arabic — every one Scope I (individual), Type L (living), Active, and none present in iso-639-3_Retirements.tab. ara is the macrolanguage (Scope M, ISO 639-1 \"ar\"). NEW: ajp (South Levantine Arabic) was retired 2023-01-20, reason M, change-to apc — English Wiktionary still uses it as a live header.",
+    "structuralLimitations": [
+      "THE PRESCRIBED SERP INSTRUMENT IS DOWN AND GOOGLE CAPTCHA'D. serp-ddg.mjs connect-timed-out on the first and only attempt, and google.com/search?gl=fr&hl=fr&pws=0 redirected to /sorry/index in the operator's browser. I did not click past it. The SERP in this post is Bing mkt=fr-FR, read twice with identical results and self-authenticated by title and language, and it is LABELLED as Bing in the body. Consequence: I can say nothing about a Google AI Overview or a Google Translate widget on this query, and the post does not.",
+      "NO MAGHREBI FORM IS PRINTED, AND THAT IS THE POINT. The largest Arabic-speaking communities in France are Maghrebi, and the measured SERP reflects that — two of ten results are explicitly Moroccan and the related searches include \"tu me manques en marocain\" and \"tu me manques en darija\". But Wiktionary has no Moroccan, Algerian or Tunisian section on اشتاق, وحش or توحش; it carries 2,079 Moroccan, 680 Tunisian and 68 Algerian entries against 176,990 for Standard Arabic; zero Algerian or Tunisian entries are glossed \"to miss\"; and Tatoeba attests no Maghrebi \"I miss you\". The post says so plainly and tells the reader to ask their recipient. Closes if a Maghrebi lexical instrument that serves this sandbox is found.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN AND THIS POST CANNOT FIX IT. All twelve miss-you lines in facts-snapshot.md are shared across the 74 posts on disk in the two batches — the least-collided line is at 29 posts, the most at 60. The opening pair chosen here (2.6-hour median edit gap, 88.8% published) is the least-collided pair available, and overlap with the French sibling tu-me-manques-en-anglais is 1 of 6 factsUsed. Nothing in the database is segmented by language or country, so not one number in this post is French or Arabic, and the body says that. Closes with a read-only probe segmenting miss-you pages by locale or script.",
+      "THE TEMPLATE IS A TRIPLE MISMATCH AND THE BODY SAYS SO. /missyou-gf is defined at app/lib/prompt.ts:44 as an \"I miss you page for a girlfriend/partner\": English labels, English furniture, left-to-right layout, and named for one kind of recipient. This reader is French, writing Arabic (right-to-left), and may be writing to a friend or an in-law. All three mismatches are disclosed in French body prose, not only here.",
+      "ONEOFLINKS SUBSTITUTION, DELIBERATE. The task prompt listed /capsule. I took /hold-my-hand from verify.config.json oneOfLinks instead and said why in the body: a reader who cannot reliably produce the Arabic line is better served by a page that needs no words at all (\"hold the screen for 60 seconds ... the letter unlocks\") than by a page built on writing predictions a year ahead. /capsule suits a reader whose missing is about time; this reader's is about script.",
+      "THREE SIBLING CROSS-LINKS, NONE LIVE YET. /blog/tu-me-manques-en-anglais is a same-batch sibling; /blog/i-miss-you-in-arabic and /blog/how-to-say-i-miss-you-in-arabic-to-a-woman are from 2026-09-25-miss-you-30. All three files exist on disk and were read in full; none is published in Strapi, so all three URLs 404 until those batches publish. If any is cut, the link must be removed.",
+      "THE SPLIT FROM ALL THREE SIBLINGS, STATED. tu-me-manques-en-anglais owns the French construction (manquer à quelqu'un, COI not \"dative\", proved by the third-person lui) — I state it in one sentence and cross-link rather than re-deriving it. i-miss-you-in-arabic owns the unwritten vowel that marks the addressee. how-to-say-i-miss-you-in-arabic-to-a-woman owns the three grammatical slots a feminine can occupy, that مشتاقة is the feminine of \"I\", and Arabizi. THIS post owns only the FR→AR mapping: which word is the subject in each language, measured on 24 French-to-Arabic aligned sentences that no sibling counted, plus the variety question (six ISO codes, the ajp retirement, the Maghrebi instrument gap) and what a French reader does about an RTL line and an AZERTY keyboard. No source, table, count or H2 is shared with any sibling.",
+      "ABSTRACT-ONLY READ. MADOran (Data in Brief, 2025-09-27, PMC12552140, isOpenAccess Y, cc-by-nc) was read via the Europe PMC REST API as an abstract. PDFs do not parse in this environment and the Elsevier landing page bot-challenges a scripted UA. The post states it read only the abstract.",
+      "TWO SOURCES CONSIDERED AND CUT FOR THE OUTBOUND-LINK CAP. Alshemali, \"Dialectal substitution as an adversarial approach for evaluating Arabic NLP robustness\", Scientific Reports 2026, PMC12901007 — abstract read; says most Arabic NLP is trained on MSA while real Arabic text is dialectal, which is this post's thesis in peer-reviewed form. And VISH-DARIJA-TTS, Data in Brief 2026, PMC13416458 — a dual-script (Latin + Arabic) Moroccan Darija dataset that would have sourced the Latin-script claim. Both cut to stay inside 3-6 outbound links. Scientific Reports is at 1 post in this batch, so it remains available to a sibling.",
+      "TWO VERIFIED INSTRUMENTS CITED IN PROSE WITHOUT A LINK, FOR THE SAME REASON. larousse.fr/dictionnaires/francais/manquer/49234 (fetched, headword confirmed as manquer, and /49348 confirmed as MARAUD) and glosbe.com/fr/ar/tu me manques (fetched and read in full; its single vocalised answer is quoted in an FAQ). Both are cap-exempt and both were verified; neither got a link slot.",
+      "CAP-EXEMPT DOMAINS USED, AND THE JOURNAL NAMED BY HAND. en.wiktionary.org (MediaWiki parse and search APIs), tatoeba.org (api_v0, paged to exhaustion), iso639-3.sil.org (both .tab downloads plus per-code pages), glosbe.com and larousse.fr — all listed in verify.config.json capExemptDomains, all fetched, all verified to say what is attributed to them. The one capped citation is MADOran, journal *Data in Brief*, which was at ZERO posts in this batch before this one. Frontiers in Psychology is NOT cited (BRIEF section 7 hard ban, over at 6). No PNAS paper is cited. PMC12552140 appears in no other post in either batch. capcheck.mjs was re-run immediately before writing and reported no banned URL, no domain at cap and no URL at cap.",
+      "TATOEBA RATE-LIMITED MID-MEASUREMENT. The fra→ara query completed cleanly and is the basis of the 12/24 counts, but follow-up queries for وحشتني, اشتقتلك and per-dialect language codes returned HTTP 429 and were retried with backoff; the توحشتك and وحشتني queries eventually returned and are reported. No count in this post rests on a 429'd call.",
+      "MANDATORY CAVEATS CARRIED IN FRENCH BODY PROSE, NOT ONLY HERE. City, background music and \"together since\" are pickers with defaults, so the 47 distinct city pairs describe what the 15-city menu offers rather than a sender's decision; viewCount counts page opens, not unique visitors; n=214 over two months since 2026-07-28 supports no seasonal claim; nothing is segmented by language or country; and the database records which TEMPLATE was opened, never who received it.",
+      "NO PRICE, IN ANY LANGUAGE. content/facts.md carries an empty pricing block, so the post states and implies no cost anywhere. Checked by hand for gratuit, gratuitement, sans frais, ne coûte rien, coûte, prix, tarif, abonnement, payant, euro and the euro sign: the only match is the substring \"euro\" inside the europepmc.org URL. pricecheck-intl.mjs was run against the finished file."
+    ],
+    "auditReport": {
+      "passed": [
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+          "why": "No generic context statistic is used at all, so the item cannot be satisfied in the sense it intends — it prescribes a ceiling of one, and this post has zero. Recorded as failed rather than silently passed, because a post with no context statistic is a different shape from one that respected the cap. Closes if a genuinely relevant France-specific or Arabic-speaking-population figure is found and verified."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "BRIEF section 9 instructs agents to ignore mid-write cap findings because six posts are written concurrently and every count goes stale. capcheck.mjs read clean at write time (Data in Brief 0 prior posts, PMC12552140 0 prior posts, no banned URL), and the journal was checked by hand as section 7 requires, but the item asks about the finished batch, which does not exist yet. Closes at quiescence when the orchestrator recounts."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Checked and clear — https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=tu-me-manques-en-arabe returns total:0 on 2026-09-26. Kept in failed only because the three sibling cross-links in the body (/blog/tu-me-manques-en-anglais, /blog/i-miss-you-in-arabic, /blog/how-to-say-i-miss-you-in-arabic-to-a-woman) point at slugs that are NOT yet live in Strapi, so three internal URLs in this post 404 until those batches publish. Closes when both batches are published, or by removing the cross-links."
+        },
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "The claim is genuinely absent from the SERP, but the item as written asks about the top 5 PAGES, and per references/competitors.md no ranking page was fetched. I know only what Bing rendered as their titles and snippets, which is not the same as knowing what their bodies contain. The honest position is that I cannot assert what five pages I never read do or do not say. Closes only by fetching them, which the competitor rule forbids."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Same blocker: no ranking page was fetched, so I cannot compare my structure against theirs. I can say the section order follows the argument (subject role, then variety, then script) rather than the listicle shape the snippets suggest, but that is inference, not a comparison. Closes only by reading pages the competitor rule forbids reading."
+        },
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Satisfied arithmetically — six factsUsed lines, three of them (214 pages, 2.6-hour median edit gap, 88.8% published) inside the first 150 words. Recorded as FAILED on differentiation, which BRIEF section 6 says to fail honestly: all twelve miss-you lines in facts-snapshot.md are shared across 74 posts on disk (the least-used is at 29 posts, the most at 60), so no unused line or unused pair exists. Nothing in the database is segmented by language or country, so not one of these numbers is French or Arabic. Closes only with a read-only probe that segments miss-you pages by locale or script."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Exactly six outbound links, all fetched and verified in this session — but two of them (iso-639-3.tab and iso-639-3_Retirements.tab) are the same host, so a reader counting instruments sees five, not six. Two further instruments that WERE fetched and verified carry claims made in prose without a link: Larousse /manquer/49234 (headword confirmed) and glosbe.com/fr/ar/tu me manques (read in full, its single vocalised answer quoted). Recorded as failed because two verified sources sit in the post unlinked to stay inside the cap."
+        },
+        {
+          "item": "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+          "why": "All eight Wikidata QIDs were resolved through Special:EntityData and their English and French labels read, and all eight match (Q13955 Arabic, Q150 French, Q1422423 varieties of Arabic, Q56467 Modern Standard Arabic, Q29919 Egyptian Arabic, Q1194795 Maghrebi Arabic, Q56426 Moroccan Arabic, Q56499 Algerian Arabic). Recorded as failed on one point: the pairing was verified against the WIKIDATA entity API, and the en.wikipedia titles were confirmed separately via the pageprops API, but I did not re-fetch each Wikipedia article to confirm it is about the same concept as the QID. Closes with eight article fetches."
+        }
+      ],
+      "additionalChecks": [
+        "kind is exactly \"blog-automation/batch-blog\" — confirmed against references/article-json-schema.md, which was read in full (196 lines). The schema also confirmed that an @id-matched enrichment block on <canonicalURL>#post is the only route by which batchMeta.sources reach the page, and that FAQs must not appear in contentMarkdown.",
+        "Body word count on the plain whitespace split, FAQs excluded: 1,762 — inside the 1,500-1,800 hard range and near the ~1,750 target the orchestrator asked for, leaving headroom for a quiescence cross-link pass.",
+        "Arabic script and French accents both round-trip through JSON.parse after writing; the file parses.",
+        "All eight Wikidata QIDs resolved through Special:EntityData with matching English and French labels — no Cambodian scarf, no Spanish municipality.",
+        "Six ISO 639-3 codes verified against the authoritative .tab downloads, not from the brief.",
+        "The SERP was measured twice and the ten cites were identical; the route is named in the body and in serpMeasurement."
+      ],
+      "honestAssessment": "It is the only page on this measured SERP that answers the question the keyword actually poses — which word is the grammatical SUBJECT — and it settles it with a count nobody else has run: 12 French sentences, 24 aligned Arabic translations, 24 of 24 flipping the subject onto the speaker and 0 keeping the French shape, with the two vocalised forms both translating the same French sentence. It also corrects the rank-1 result, which prints the Arabic for \"je te manque\", and it refuses to print a Maghrebi form because no instrument attests one — on a SERP where two results print one confidently. Against that: the domain has no published track record in French, the ten incumbents are all weak but several are aggregators with enormous crawl footprints, and every first-party number here is unsegmented by language, so the data grounds the page without distinguishing it from its siblings. Bing is not Google, and the Google SERP for this query was not measurable today. I make no prediction about where this ranks."
+    },
+    "generatedAt": "2026-09-26T15:13:15.602Z"
+  }
+}

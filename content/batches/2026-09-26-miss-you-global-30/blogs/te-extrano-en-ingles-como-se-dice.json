@@ -1,0 +1,291 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Te extraño en inglés: cómo se dice, y las tres cosas que el inglés no marca",
+    "slug": "te-extrano-en-ingles-como-se-dice",
+    "excerpt": "«Te extraño» en inglés es «I miss you», y eso es toda la traducción. Lo medible es lo que se pierde: en 632 oraciones leídas, el inglés no marca si hablas a una persona o a varias, y «I missed you» cubre por igual «te extrañé» y «te extrañaba».",
+    "metaTitle": "Te extraño en inglés: cómo se dice y qué pierde el inglés",
+    "metaDescription": "«Te extraño» en inglés es «I miss you». Medido en 632 oraciones: el inglés no marca el número, y «I missed you» cubre igual «te extrañé» y «te extrañaba».",
+    "keywords": "te extraño en ingles como se dice, te extraño en inglés, cómo se dice te extraño en inglés, te extrañé en inglés, te añoro en inglés, I miss you traducción",
+    "canonicalURL": "https://subhsandesh.in/blog/te-extrano-en-ingles-como-se-dice",
+    "ogType": "article",
+    "tags": [
+      "español",
+      "inglés",
+      "traducción",
+      "distancia",
+      "gramática"
+    ],
+    "keyTakeaways": [
+      "«Te extraño» en inglés es «I miss you»: las dos lenguas ponen a quien habla en posición de sujeto, a diferencia del francés «tu me manques» y del italiano «mi manchi».",
+      "El inglés no marca el número del destinatario: tres oraciones españolas distintas, una con «te» y dos con «los», llevan la misma cadena «I'll miss you when you're gone.»",
+      "No hay correspondencia uno a uno de tiempos: «I missed you» traduce tanto «te extrañé» como «te extrañaba» como «te he extrañado»; lo que decide la forma inglesa es si la ausencia ya terminó.",
+      "«I yearn for you» devuelve 0 oraciones en el corpus inglés de Tatoeba frente a las 110 de «I miss you»; de 15 resultados brutos de «long for you», solo 8 sobreviven a la inspección.",
+      "En las 214 páginas de /missyou-gf medidas, la carta mediana tiene 88 palabras y el 43.5% se envía protegida con contraseña (93 de 214)."
+    ],
+    "faqs": [
+      {
+        "question": "¿«I miss you» sirve para un amigo o solo para una pareja?",
+        "answer": "Sirve para los dos. En el corpus aparece dirigido a familia y a compañeros sin ninguna carga romántica: «Te extrañamos anoche.» se traduce como «We missed you last night.» y «Bienvenido de vuelta, Tom. Te extrañamos.» como «Welcome back, Tom. We've missed you.» El inglés no tiene un registro aparte para esto, igual que el español."
+      },
+      {
+        "question": "¿Cómo se dice «te extraño mucho» en inglés?",
+        "answer": "«I miss you very much», «I miss you so much» o «I miss you a lot». Las tres están atestiguadas como traducciones de «Te extraño muchísimo» en el mismo corpus, junto con «I miss you badly» y «I miss you dearly». Ninguna es más correcta que otra; «so much» es la más frecuente en mensajes."
+      },
+      {
+        "question": "¿Cómo se dice «te voy a extrañar» en inglés?",
+        "answer": "«I'll miss you» o «I'm going to miss you». «Te voy a extrañar tanto.» aparece traducido de las dos maneras en la misma entrada del corpus. Ojo: esa misma forma española en plural, «Los voy a extrañar», devuelve exactamente la misma cadena inglesa, así que el número se pierde."
+      },
+      {
+        "question": "¿Qué contesto si alguien me escribe «I miss you»?",
+        "answer": "«I miss you too» es la respuesta atestiguada, con o sin coma: el corpus recoge «I miss you too!» y «I miss you, too.» como traducciones de «¡Te extraño también!». Si quieres sonar menos automático, «I've been missing you too» traslada que la ausencia viene de lejos."
+      },
+      {
+        "question": "¿Está bien decir «I am missing you»?",
+        "answer": "Sí, está atestiguado: es una de las diez traducciones inglesas registradas para la oración «Te extraño.» El continuo suena algo más intenso y momentáneo que «I miss you», que es la forma neutra. Para un mensaje suelto, «I miss you» es la opción segura."
+      },
+      {
+        "question": "¿«Miss» lleva preposición? ¿Se dice «I miss for you»?",
+        "answer": "No. «Miss» es transitivo en esta acepción y el objeto va directamente detrás: «I miss you», nunca «I miss for you» ni «I miss to you». La preposición aparece con otros verbos: «long for you», «yearn for» algo. Confundirlos es el error más frecuente al traducir desde el español."
+      },
+      {
+        "question": "¿Cómo se dice «te extraño, papá» en inglés?",
+        "answer": "«I miss you, Dad.» El corpus recoge esa traducción literalmente, igual que «Mom, I miss you.» para «Mamá, te extraño.» El vocativo va separado por coma en inglés, exactamente como en español, y la frase no cambia por ser familiar en vez de romántica."
+      },
+      {
+        "question": "¿«I miss you» suena demasiado directo en inglés?",
+        "answer": "No especialmente. Con 110 oraciones registradas en el corpus inglés de Tatoeba es una de las frases afectivas más corrientes. Lo que sí suena marcado es «I long for you», con solo 8 apariciones verificadas, y lo que directamente no se usa es «I yearn for you», con cero."
+      },
+      {
+        "question": "¿Hay alguna forma de decir en inglés que extrañas a varias personas?",
+        "answer": "Hay que añadirlo con palabras, porque el pronombre no lo marca: «I miss you both», «I miss all of you», «I miss you guys». Sin ese añadido, «I miss you» es idéntico tanto si escribes a una persona como a cinco, cosa que el español resuelve con el clítico «te» o «los»."
+      },
+      {
+        "question": "¿Importa escribir «extraño» sin acento o «ingles» sin tilde al buscar?",
+        "answer": "Para el buscador no: Google iguala las formas con y sin tilde, y por eso esta consulta se escribe habitualmente sin acentos. Para el mensaje sí importa, porque «extraño» sin contexto también es el adjetivo «raro» y el sustantivo «desconocido», que es como se traduce la mayoría de las veces que aparece en el corpus."
+      }
+    ],
+    "coverImageQuery": "spanish speaker typing english message phone night",
+    "coverImagePrompt": "A warm, photorealistic close-up of a young woman at a kitchen table at night, typing a short message on her phone; a Spanish-English dictionary lies open beside her, out of focus. Soft lamplight, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible text on the screen, and only a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Te extraño en inglés: cómo se dice, y las tres cosas que el inglés no marca\n\n**«Te extraño» en inglés se dice «I miss you».** Esa es la respuesta entera y puedes copiarla ahora mismo.\n\nEl resto de esta página existe porque lo que viene después sí varía. En las 214 páginas de «I miss you» creadas en nuestra plantilla desde el 28 de julio de 2026 —el 4.1% de las 5,221 páginas repartidas en 44 colecciones— la carta mediana tiene **88 palabras** y la más larga llega a 1,024. Tres palabras se traducen solas; las otras ochenta y cinco cuestan.\n\nAdemás, el **43.5%** de quienes envían una protege la página con contraseña antes de compartirla (93 de 214), frente al 38.5% de la plataforma entera: el segmento más reservado que hemos medido.\n\nUna advertencia que viaja con cada cifra: **nada de lo que medimos está segmentado por idioma ni por país.** Ninguno de estos números es español ni mexicano. La base registra qué *plantilla* se abrió, nunca quién la recibió, y ninguno de estos campos es un selector con valor por defecto. Son 214 páginas en dos meses, así que ninguna afirmación estacional se sostiene, y `viewCount` cuenta vistas, no visitantes distintos.\n\n## Por qué esta traducción sale tan barata: el sujeto coincide\n\nEn «te extraño» el sujeto gramatical eres **tú, el que escribe**. En «I miss you» ocurre lo mismo: *I* es el sujeto y *you* el objeto. Las dos lenguas ponen a la misma persona en el mismo lugar.\n\nEso no es lo normal: el francés *tu me manques* y el italiano *mi manchi* invierten los papeles —la persona ausente es el sujeto—, como documentan con diccionario las páginas hermanas sobre [cómo se traduce «tu me manques» al inglés](https://subhsandesh.in/blog/tu-me-manques-en-anglais) y [cómo se traduce «mi manchi» al inglés](https://subhsandesh.in/blog/mi-manchi-in-inglese). Aquí no hay nada que invertir.\n\nEsta página no repite a sus dos hermanas en español: la [diferencia entre «te extraño» y «te echo de menos»](https://subhsandesh.in/blog/diferencia-entre-te-extrano-y-te-echo-de-menos) ya midió la cuestión regional y el [significado de «te echo de menos»](https://subhsandesh.in/blog/te-echo-de-menos-significado) ya desglosó las acepciones del DLE. Aquí solo se trata del inglés.\n\n## Lo que el inglés no puede marcar: cuántas personas\n\nEl español marca en el clítico si le hablas a una persona o a varias. El inglés no tiene dónde ponerlo, y en el corpus se ve.\n\nEn Tatoeba, [tres oraciones españolas distintas llevan la **misma cadena inglesa, palabra por palabra**](https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=extra%C3%B1%C3%A9): `Te voy a extrañar cuando no estés.` (una persona), `Los voy a extrañar cuando se vayan.` y `Los voy a extrañar cuando no estén.` (un grupo). Las tres dan *«I'll miss you when you're gone.»*\n\nEn la otra dirección sí se conserva: `Te extrañamos.` da *«We miss you.»*, porque el inglés está obligado a escribir el pronombre sujeto. Lo que el español pone en la terminación del verbo, el inglés lo recupera; lo que pone en el clítico, lo pierde. Si escribes a varias personas y quieres que se note, hay que añadirlo aparte: *I miss you both*, *I miss all of you*.\n\n## El tiempo verbal es la trampa, y no funciona como te han dicho\n\nLa idea intuitiva es que cada tiempo español «tiene» un tiempo inglés. Leí una por una todas las oraciones en pasado del corpus y no es así.\n\nDe las oraciones en **pretérito** (`extrañé`, `extrañaste`, `extrañó`) el inglés da *did … miss* cinco veces, *missed* una, *have … missed* una y hasta *do … miss* una. De las de **imperfecto** (`extrañaba`), *missed* nueve y *have missed* dos. De las de **perfecto compuesto** (`he extrañado`), *have missed* tres, *missed* una y *miss* una.\n\nNinguna forma inglesa pertenece a un solo tiempo español. La prueba: `Te extrañaba mucho.` da *«I missed you very much.»*, y `Te he extrañado.` da también *«I missed you.»* Y el pretérito `¿Me extrañaste?` carga tres formas inglesas a la vez: *«Did you miss me?»*, *«Have you missed me?»* y *«Do you miss me?»*\n\n**La conclusión real es más útil que la falsa:** el contraste español entre pretérito e imperfecto no es expresable en inglés, porque *I missed you* cubre los dos. Lo que decide la forma inglesa no es qué pasado usaste, sino si la ausencia **ya terminó**: si la persona volvió, *I missed you*; si sigue lejos, *I've missed you*.\n\n## Una sola frase española, diez traducciones inglesas\n\nLa oración 436802 de Tatoeba es `Te extraño.` y lleva **diez** traducciones inglesas distintas: *I miss you.* · *You're not here, so I'm really sad.* · *I'm lonely without you.* · *You've been missed.* · *I'm longing for you.* · *I miss you guys.* · *I'm missing you.* · *I missed you.* · *I'll miss you.* · *I miss you!*\n\nTres de ellas ni siquiera usan el verbo *miss* y tres cambian el tiempo o el número. Es una advertencia sobre el corpus tanto como sobre el inglés: Tatoeba lo escriben voluntarios y contiene pares enlazados indirectamente, así que todas las cifras de esta página salen de oraciones que leí una por una.\n\n| Lo que quieres decir | Inglés atestiguado | Lo que el inglés no marca | Dato de las 214 páginas |\n|---|---|---|---|\n| te extraño (a una persona) | *I miss you* — 110 oraciones en el corpus inglés | nada: el sujeto coincide | carta mediana de 88 palabras |\n| los extraño (a varias) | *I miss you* — la misma cadena, idéntica | el número del destinatario | 28.0% fijan fecha de reencuentro (60 de 214) |\n| te extrañé / te extrañaba | *I missed you* — sin distinción entre ambos | el aspecto | 43.5% protegen con contraseña (93 de 214) |\n| te añoro | *I long for you* — 8 de 15 resultados sobrevivieron | el registro literario | 4.1% de 5,221 páginas son de este tipo |\n| te añoro, con *yearn* | *I yearn for you* — **0 oraciones** | no existe la opción | — |\n\n## «Añorar» no tiene una palabra inglesa propia, y «yearn» no se envía\n\nEl [*Diccionario de la lengua española* da a `añorar` **una sola acepción**](https://dle.rae.es/a%C3%B1orar): «Recordar con pena la ausencia, privación o pérdida de alguien o algo muy querido». Una, frente a las ocho de `extrañar`. Su etimología no es latina sino catalana (*Del cat. enyorar*), y entre sus sinónimos el propio diccionario pone `extrañar`.\n\nEl inglés no tiene esa palabra. En las 22 oraciones con `añorar` del corpus —las leí todas— dieciocho usan el verbo: **diez** se traducen con `miss`, **siete** con `long for` o `long to`, **una** con `want` y **ninguna** con `yearn`. La única dirigida a una persona, `Te añoramos muchísimo.`, sale como *«We've missed you so much.»*\n\nY sobre `yearn`, el dato que conviene conocer antes de enviarlo: [**la cadena «I yearn for you» devuelve cero resultados en todo el corpus inglés de Tatoeba.**](https://tatoeba.org/en/sentences/search?from=eng&query=%22yearn+for+you%22) El verbo existe —72 oraciones lo contienen— pero **ninguna de las 72 lleva destinatario en segunda persona**: *I yearn for victory*, *I yearn for your voice*, *She yearns for her family*. Nunca *I yearn for you*.\n\n`I long for you` sí está atestiguado, aunque menos de lo que parece: de 15 resultados brutos **7 no sobreviven a la inspección** (*«The journey is long for you»* es el adjetivo, no el verbo). Quedan 8, frente a las 110 de *I miss you*.\n\n## «Miss» tiene quince acepciones, y la tuya es la sexta\n\nQue la traducción sea fácil no significa que la palabra inglesa sea simple. El [Wikcionario inglés lista **quince acepciones verbales** de `miss`](https://en.wiktionary.org/wiki/miss); la que buscas es la **número seis**: «To become aware of the loss or absence of; to feel the want or need of, sometimes with regret; to feel sadness at the absence of somebody or something».\n\nAntes de ella hay cinco sentidos sin relación: fallar un tiro, esquivar algo, no alcanzar un objetivo, faltar a una reunión, escapar de algo. De ahí que *I missed you* pueda significar también «no te encontré», según el contexto.\n\nQue el mapa entre lenguas no sea uno a uno es lo esperable. Un [estudio de 2024 en *Scientific Reports* construyó una red de polisemia](https://europepmc.org/article/PMC/PMC10928072) sobre 60 vocabularios básicos en **61 idiomas**, con 11,841 acepciones de 3,736 entradas, y obtuvo 2,941 nodos unidos por 3,573 aristas: los sentidos se ramifican distinto en cada lengua. Y un [trabajo de 2025 en *PLoS ONE* sobre griego de herencia encuentra](https://europepmc.org/article/PMC/PMC12080926) que los rasgos **φ (persona y número) y el aspecto** son los elementos que más se reorganizan en el verbo bajo contacto con otra lengua: los dos que el español marca en `extrañar` y el inglés no. De ambos leí solo el resumen.\n\n## Lo que devuelve Google si buscas esto en México\n\nMedí el SERP el 26 de septiembre de 2026 en Google servido a México (`gl=mx`, `hl=es-419`, `pws=0`), en un navegador real, dos veces, con resultados idénticos. Lo digo porque una posición sin ruta declarada no vale nada.\n\nLo primero de la página no es un resultado: es un **widget de Google Traductor** que ya muestra *I miss you*. Debajo hay un bloque de Modo IA. Los **siete** resultados orgánicos que llegué a ver son cuatro agregadores automáticos de diccionario o corpus, dos reels de Instagram y un micrositio: ninguno cita a la RAE, ningún diccionario de inglés, ni cuenta nada.\n\nDos defectos comprobables: el resultado en tercera posición devuelve **HTTP 500** por dos rutas independientes, y el widget ofrece variantes «(femenino)» y «(masculino)» para una frase que no marca género en ninguna de las dos lenguas; ambas casillas llegaron vacías.\n\n## Qué enviar, y por qué la plantilla que enlazamos está en inglés\n\nLa [plantilla de página «I miss you»](/missyou-gf) está definida en nuestro código como página «para una novia o pareja»: **sus etiquetas, sus textos y sus botones están en inglés** y está pensada para un destinatario romántico. Si la persona a la que escribes no lee inglés, es la elección equivocada y no deberías enviarla. Y si solo venías por la traducción, ya la tienes en la primera línea: no necesitas nada nuestro.\n\nPara quien sí quiera enviar algo, dos datos: el **28.0%** de quienes crean una de estas páginas fija una fecha de reencuentro para la cuenta regresiva (60 de 214), y la carta mediana son 88 palabras, no un ensayo. Si lo que pesa es la distancia y no una sola carta, [una racha diaria de un toque al día](/streak) encaja mejor: guarda una palabra por día en vez de pedirte un texto largo de una vez. El [catálogo completo de plantillas](/templates) está ahí si ninguna encaja; sobre condiciones de uso o tarifas no puedo confirmar nada aquí.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/te-extrano-en-ingles-como-se-dice#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Español",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Inglés",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/English_language",
+              "https://www.wikidata.org/wiki/Q1860"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Book",
+            "name": "Diccionario de la lengua española",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diccionario_de_la_lengua_espa%C3%B1ola",
+              "https://www.wikidata.org/wiki/Q675538"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "DLE, s",
+            "url": "https://dle.rae.es/a%C3%B1orar"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English 'miss' carries 15 top-level verb senses",
+            "url": "https://en.wiktionary.org/wiki/miss"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba returns 692 Spanish sentences for the extrañar family (the search is lemma-normalising, so every infle",
+            "url": "https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=extra%C3%B1%C3%A9"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The string 'yearn for you' returns 0 sentences in Tatoeba's English corpus",
+            "url": "https://tatoeba.org/en/sentences/search?from=eng&query=%22yearn+for+you%22"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Scientific Reports (2024), 'Shared structure of fundamental human experience revealed by polysemy network of b",
+            "url": "https://europepmc.org/article/PMC/PMC10928072",
+            "datePublished": "2024-03-11"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "PLoS ONE (2025), 'Novel forms for the expression of aspect in heritage Greek across majority languages'",
+            "url": "https://europepmc.org/article/PMC/PMC12080926",
+            "datePublished": "2025-05-15"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "te extraño en ingles como se dice",
+    "angle": "Wins by being the only page on this measured mx-es SERP that answers the query in its first line and then counts what the English cannot carry — three Spanish sentences that collapse into one identical English string, a measured tense table showing 'I missed you' covers preterite, imperfect and present perfect alike, and 'I yearn for you' at zero attestations against 110 for 'I miss you' — grounded in the 214-page /missyou-gf dataset.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://dle.rae.es/a%C3%B1orar",
+        "stat": "DLE, s.v. añorar (Del cat. enyorar): a single numbered sense — '1. tr. Recordar con pena la ausencia, privación o pérdida de alguien o algo muy querido. U. t. c. intr.' — against the eight the same dictionary gives extrañar. Listed synonyms: extrañar, recordar, pensar, meditar; antonym: olvidar. Headword on the fetched page confirmed as añorar. Read in a real browser: dle.rae.es returns 403 to a scripted fetch after the first request."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/miss",
+        "stat": "English 'miss' carries 15 top-level verb senses. The 'miss someone' reading is sense 6 — 'To become aware of the loss or absence of; to feel the want or need of, sometimes with regret; to feel sadness at the absence of somebody or something' — behind fail to hit, avoid hitting, fail to achieve, fail to attend and avoid or escape. Wiktionary folds the cognitive and the emotional readings into that one sense."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=extra%C3%B1%C3%A9",
+        "stat": "Tatoeba returns 692 Spanish sentences for the extrañar family (the search is lemma-normalising, so every inflected form returns the same set); 632 were harvested and read on 2026-09-26. Three distinct sentences — Te voy a extrañar cuando no estés. / Los voy a extrañar cuando se vayan. / Los voy a extrañar cuando no estén. — carry the identical English string 'I'll miss you when you're gone.' Among past forms: imperfect gives 'missed' 9 times and 'have missed' twice; preterite gives 'did … miss' 5 times, 'missed' once, 'have … missed' once, 'do … miss' once; present perfect gives 'have missed' 3 times, 'missed' once, 'miss' once. Sentence 436802, 'Te extraño.', carries ten distinct English translations."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=eng&query=%22yearn+for+you%22",
+        "stat": "The string 'yearn for you' returns 0 sentences in Tatoeba's English corpus. 72 English sentences contain 'yearn' and not one takes a second-person addressee. 'long for you' returns 15 raw hits, of which 8 survive inspection as the verb with a human addressee — 'The journey is long for you' and 'The road is long for you' are the adjective. 'I miss you' returns 110 English sentences. Of the 22 Spanish sentences containing añorar, the 18 verb uses translate as 'miss' 10 times, 'long for'/'long to' 7 times and 'want' once, never as 'yearn'."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10928072",
+        "stat": "Scientific Reports (2024), 'Shared structure of fundamental human experience revealed by polysemy network of basic vocabularies across languages': a semantic network built from 60 basic vocabularies in 61 languages, 11,841 senses from 3,736 entries, giving 2,941 nodes connected by 3,573 edges. Open access, CC BY; abstract only, the PDF does not parse in this environment.",
+        "publishedDate": "2024-03-11"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12080926",
+        "stat": "PLoS ONE (2025), 'Novel forms for the expression of aspect in heritage Greek across majority languages': the abstract reports that φ-features (person and number) and aspect are the most re-organised elements encoded in the verbs of heritage speakers compared with monolingually-raised controls. Open access, CC BY; abstract only.",
+        "publishedDate": "2025-05-15"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug is assigned by the batch plan and reproduces the query verbatim, so it carries the stop words «en», «como» and «se» and drops the tilde in «ingles». It would close only by renaming the row, which would break the plan's slug contract and the sibling cross-links already pointing at it."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the six sources are keyword-specific (the DLE entry for añorar, the Wiktionary entry for English 'miss', and two Tatoeba queries counted by hand for this exact pair). The two journal articles do not fully pass: the Scientific Reports polysemy network and the PLoS ONE aspect paper could each sit in another translation row in this batch with different framing. They stay because no paper specific to Spanish-to-English rendering of 'miss' is open-access and unspent — the four search strings tried are named in the research brief, and the only Spanish-aspect hits were both Frontiers in Psychology, which this batch has banned."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Not verifiable at write time: six agents write concurrently and the counts go stale within minutes. Named for a human instead — journals cited are Scientific Reports (this batch's second post to use it) and PLoS ONE (also second). Nothing from Frontiers in Psychology or PNAS, and none of PMC13552847, PMC6684791, PMC12409917, PMC11878271 or PMC8669216. Closes when the orchestrator recounts at quiescence."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body ranks and numbers nothing — there is no ordered list and no H3 sequence for an ItemList to mirror, and inventing one to satisfy the item would be schema padding. Closes only if a genuinely ranked section is added, which this page does not need."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over the seven pages measured because it is the only one of them that counts anything: four aggregators, two Instagram reels and a micro-site returning HTTP 500 all print «I miss you» and stop, while this page shows three Spanish sentences collapsing into one identical English string, a tense table where no English form belongs to exactly one Spanish tense, and «I yearn for you» at zero attestations against 110 for «I miss you». What it cannot overcome is the Google Translate widget that sits above every organic result and already answers the query — that is a click ceiling, not a ranking one, and it is the honest limit on this keyword. Domain authority is also nil here: 905 live posts and not one in Spanish, so this is the site's first page in the language.",
+      "additionalChecks": [
+        "SERP measured 2026-09-26 on Google served to Mexico (gl=mx, hl=es-419, pws=0, num=20) in the operator's real browser, read-only, and RUN TWICE with identical results. serp-ddg.mjs was tried once and returned UND_ERR_CONNECT_TIMEOUT on html.duckduckgo.com, as the brief predicted; it was not retried.",
+        "SELF-AUTHENTICATION: both runs were confirmed as mine before anything was recorded — the Translate widget's source field read «te extraño», its aria-label read «Texto traducido: I miss you», the interface chrome was Spanish and every organic title contained the query.",
+        "CONTENTION CAUGHT AND DISCARDED: navigating to the #1 result returned the French sibling's SERP instead (French UI, headline «Arrête de Dire Tu me Manques en Français»). Nothing from that page was recorded and the #1 result's body was never read; the post claims only titles, hosts and page types for the ranking set.",
+        "WEAK COUNT 7 of 7, and 7 is the number actually seen at num=20. Gate 4 verdict PROCEED: no strong Spanish editorial incumbent exists on this SERP.",
+        "CHECKABLE ERRORS IN THE RANKING SET: the result at position 3 (inglesxdia.tech/lecs/miss_you) serves HTTP 500 on two independent routes, and the Translate widget offers «(femenino)» and «(masculino)» variants for a string that encodes gender in neither language — both slots rendered empty.",
+        "FIRST-PARTY DIFFERENTIATION — FAILED, and recorded rather than hidden. All twelve /missyou-gf lines in facts-snapshot.md are already used between the two Spanish siblings (eight in one, six in the other; union twelve of twelve). The four cited here are the least-collided available batch-wide (5, 6, 6 and 12 prior uses). Nothing unused remained.",
+        "MANDATORY CAVEATS all carried in Spanish body prose, not only here: nothing is segmented by language or country and no figure is Spanish or Mexican; the database records which TEMPLATE was opened, never who received it; viewCount is page views, not unique visitors; n = 214 over two months, so no seasonal claim survives; and none of the four cited fields is a picker with a default.",
+        "KEYWORD ORTHOGRAPHY: the target query is written without diacritics («ingles», «como»). The H1, metaTitle and opening line use the correctly-spelled Spanish forms, which Google folds to the same tokens; writing «ingles» unaccented in Spanish prose would be a spelling error. Item 14 is recorded as passed on that basis.",
+        "WIKIPEDIA: zero Wikipedia links in the body. The four wikipedia.org URLs appear only as sameAs entity identifiers inside the JSON-LD enrichment block, each paired with a Wikidata QID verified through the Wikipedia API on 2026-09-26 — Q1321 Spanish, Q1860 English, Q495456 Tatoeba, Q675538 Diccionario de la lengua española.",
+        "ABSTRACT-ONLY: both journal citations were read as abstracts through the Europe PMC REST API; both are is_oa = Y and CC BY. PDFs do not parse in this environment.",
+        "NEGATIVE RECORDED: dle.rae.es returns 403 to a scripted fetch after the first request (five attempts, two user agents, with back-off). The añorar entry was read in the real browser and the headword on the page was confirmed before citing. No CORPES or CREA frequency figure exists for a multiword locution, so none is claimed.",
+        "SLUG CHECKED IN STRAPI on 2026-09-26: filters[slug][$eq]=te-extrano-en-ingles-como-se-dice returned total 0, so item 25 is genuinely satisfiable and is recorded as passed rather than as a structural failure.",
+        "SCHEMA REFERENCE READ: .claude/skills/blog-optimisation/references/article-json-schema.md, 196 lines. kind confirmed as exactly \"blog-automation/batch-blog\"; structuredData is an array carrying one @id-matched enrichment block on <canonicalURL>#post and no renderer-built type without a matching @id.",
+        "CROSS-LINKS: four sibling posts linked in body prose — both Spanish siblings (the regional question and the meaning of the other phrase, neither re-argued here) and the French and Italian rows for the one-line subject-inversion contrast. Separately, three template links from TEMPLATE_LINKS satisfy the 2–4 internal-link rule.",
+        "PRICE GUARD: no gratis, gratuito, sin costo, no cuesta nada, no price and no tier claim anywhere in the Spanish body or FAQs; pricecheck-intl.mjs run before saving."
+      ]
+    },
+    "structuralLimitations": [
+      "The Google Translate widget answers this query above every organic result and will absorb the clicks of every searcher who only wanted the three words. That ceiling is measured, not assumed, and it is stated in the post.",
+      "First-party differentiation against the two Spanish siblings is thin: all twelve /missyou-gf lines were already spent between them before this row was written.",
+      "The 632-sentence Tatoeba harvest is 632 of 692; the remaining 60 sat on pages that 403'd after repeated back-off. The shortfall is recorded rather than estimated, and no figure in the post depends on the missing 60.",
+      "Tatoeba is a user-contributed sentence corpus, not a balanced frequency corpus. Two defects surfaced in my own reading (sentence 1427867 lists «I will miss you» for «Me extrañarás», and 436802 reads a singular «te» as «you guys»); both were recorded and neither was used as evidence.",
+      "Only titles, hosts and page types are claimed for the ranking set. Two of the seven results were unreadable — one Cloudflare-challenged, one serving HTTP 500 — and the attempt to read the #1 result returned another agent's SERP and was discarded.",
+      "Both journal citations are abstract-only, and neither is about Spanish-to-English specifically; the swap test is recorded as failed for them in the audit.",
+      "The site has 905 live posts and none in Spanish, so there is no published track record in this language to build on."
+    ],
+    "generatedAt": "2026-09-26T15:21:08.608Z"
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Aitai in English: What 会いたい Actually Says, and How to Answer It",
+    "slug": "aitai-meaning-in-english",
+    "excerpt": "Aitai in English is \"I want to see you\", not \"I miss you\" — 会う plus the desiderative -たい. Across the 95 English translations Tatoeba holds for 会いたい sentences, 87 use \"see\" or \"meet\" and 7 use \"miss\".",
+    "metaTitle": "Aitai in English — Only 7 of 95 English Glosses Say Miss",
+    "metaDescription": "Aitai in English means \"I want to see you\": 会う plus the desiderative -たい. Of 95 attested English translations of 会いたい, 87 say see or meet, 7 say miss.",
+    "keywords": "aitai in english how to say, aitai meaning, 会いたい meaning in english, what does aitai mean, aitai vs sabishii, japanese i miss you",
+    "canonicalURL": "https://subhsandesh.in/blog/aitai-meaning-in-english",
+    "ogType": "article",
+    "tags": [
+      "japanese",
+      "language",
+      "long-distance",
+      "translation",
+      "miss-you"
+    ],
+    "keyTakeaways": [
+      "会いたい is 会う (\"to meet; to encounter; to see\", JMdict, JLPT N5) plus the desiderative suffix -たい. It is not the volitional — that is 会おう — and there is no 会いたい entry in JMdict or on Wiktionary at all.",
+      "Of the 95 English translations Tatoeba holds across the 58 attested 会いたい sentences, 87 (91.6%) use \"see\" or \"meet\" and 7 (7.4%) use a form of \"miss\".",
+      "\"Japanese has no word for I miss you\" is overstated: JMdict glosses 恋しい as \"yearned for; longed for; missed\". What Japanese lacks is a transitive verb taking the absent person as its object, so the gap is syntactic, not lexical.",
+      "会う is intransitive and takes に, never を — 君に会いたい. English \"miss\" is transitive, which is the structural reason the two sentences cannot line up.",
+      "SubhSandesh's miss-you figures (n = 214, median 2.6 hours from first save to last edit, 88.8% shared) come from a database with no language or country field, so none of them is Japanese."
+    ],
+    "faqs": [
+      {
+        "question": "Is aitai romantic, or can I say it to a friend?",
+        "answer": "It is not inherently romantic. 会いたい reports a wish to see someone, and Tatoeba's attested examples include お父さんに会いたいな (about a father) and お友達に会いたいの？(about friends). Tone comes from who you send it to and what sits around it, not from the word."
+      },
+      {
+        "question": "Someone sent me 会いたい — do they love me?",
+        "answer": "Not necessarily. 会いたい states that they want to see you, which is warm but is a different claim from 好き or 愛してる. Read it as a plain, sincere wish to meet rather than a confession."
+      },
+      {
+        "question": "How do I write aitai in hiragana and kanji?",
+        "answer": "Hiragana あいたい, kanji 会いたい. You will also see 逢いたい in lyrics and letters, using a non-everyday kanji for the same reading. The codepoints are standard Unicode — 会 is U+4F1A, い is U+3044, た is U+305F — so it renders on any modern phone."
+      },
+      {
+        "question": "Why do song titles and anime use 会いたい so often?",
+        "answer": "Because it does two jobs at once in four syllables: it states a wish and implies an absence without naming it. English needs a clause to do that, which is part of why translations of the same line differ so widely."
+      },
+      {
+        "question": "What is the difference between 会いたい and 会おう?",
+        "answer": "会いたい is the desiderative — \"I want to meet\". 会おう is the volitional — \"let's meet\". The first reports a feeling; the second proposes a plan. Learner pages collapse them, and they are not interchangeable."
+      },
+      {
+        "question": "Can I say 会いたい about a place, a food or a pet?",
+        "answer": "Not comfortably for a place or a food, because 会う is about meeting a being rather than revisiting a thing. 恋しい is the usual choice there. A pet you meet is fine."
+      },
+      {
+        "question": "Is 会いたい rude to send to a boss or a teacher?",
+        "answer": "It is plain form, so it is too casual for someone clearly senior to you. The polite and humble alternatives exist and matter; the companion post on the four Japanese phrases works through which to use for which recipient."
+      },
+      {
+        "question": "How do I say the opposite — that I do not want to meet?",
+        "answer": "会いたくない. It is a well-attested form and is blunter in Japanese than \"I'd rather not\" is in English, so it is not a soft refusal."
+      },
+      {
+        "question": "Is 会いたいです just the polite version of 会いたい?",
+        "answer": "Adding です makes it polite, but politeness and humility are separate axes in Japanese and the second is what a senior recipient usually calls for. Do not assume です alone covers every upward case."
+      },
+      {
+        "question": "Why do translation sites disagree about what aitai means?",
+        "answer": "Because both readings are attested. In the 95 English translations Tatoeba holds for 会いたい sentences, 87 use \"see\" or \"meet\" and 7 use \"miss\" — so a site sampling a handful of examples can honestly land on either answer."
+      },
+      {
+        "question": "Does SubhSandesh have a Japanese-language version?",
+        "answer": "No. Every template is English — labels, prompts and all the furniture around your text. You can type Japanese into the fields and it will display correctly, but the page will not be a Japanese page."
+      },
+      {
+        "question": "Do the SubhSandesh numbers in this post describe Japanese users?",
+        "answer": "No, and this is worth being clear about. The database has no language or country field at all, so none of the 214 miss-you pages is identifiable as Japanese. The figures describe what people do with that template, full stop."
+      }
+    ],
+    "coverImageQuery": "japanese text message phone night longing",
+    "coverImagePrompt": "A phone held in one hand at night, screen showing a short Japanese message in a chat bubble, the rest of the room dark and out of focus. Cool blue screen light against warm ambient shadow, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible branding and no text other than the indistinct chat bubbles.",
+    "contentMarkdown": "# Aitai in English: What 会いたい Actually Says, and How to Answer It\n\n**Aitai in English is \"I want to see you\", not \"I miss you\".** 会いたい is the verb 会う (*au*, \"to meet; to encounter; to see\") plus the desiderative suffix ‑たい, so it reports the speaker's own wish, not the absent person. I read all 1,000 sentences Tatoeba's Japanese–English search returns for 会いたい: 58 genuinely contain it, and across their **95 English translations, 7 use a form of \"miss\" and 87 use \"see\" or \"meet\"**. That is both what it means and how to say it back. On the SubhSandesh side the phrase is rarely the whole message — the median miss-you page takes **2.6 hours between its first save and its last edit (n = 214)**, and **88.8% of started miss-you pages are finished and shared (190 of 214)**.\n\n## What does aitai mean in English, literally?\n\n会いたい is two pieces, both in open dictionaries.\n\nThe stem is 会う (*au*). [Jisho's entry](https://jisho.org/word/%E4%BC%9A%E3%81%86), drawn from JMdict/EDICT, classes it as a \"Godan verb with 'u' ending, Intransitive verb\" and glosses sense 1 as \"to meet; to encounter; to see\". It is JLPT N5 — first-month vocabulary.\n\nThe suffix is ‑たい. [Wiktionary's たい entry](https://en.wiktionary.org/wiki/%E3%81%9F%E3%81%84) defines it as \"Used to form the desiderative of verbs: want (to do); hope (to do)\", notes that it \"Attaches to the 連用形 (ren'yōkei, continuative or stem form)\", and that \"the result is conjugated like an adjective\".\n\nSo 会い + たい = \"want to meet\". Neither entry mentions missing anyone.\n\nOne correction worth making: ‑たい is the **desiderative**, not the volitional. The volitional of 会う is 会おう (*aō*), \"let's meet\" — a different form with a different job. Wiktionary derives ‑たい from たし, a shift from Old Japanese いたし (\"painful\", modern 痛い), attested as a suffix by *The Tale of the Heike*, before 1330.\n\n## The grammar point English speakers keep missing\n\nEnglish *miss* is transitive: the person you miss is the direct object, *I miss **you***.\n\n会う is intransitive — JMdict marks it so — and the person met arrives on the particle に, never を. The attested shape is 君に会いたい, as in Tatoeba sentence [5544971](https://tatoeba.org/en/sentences/show/5544971).\n\nThat fact does most of the work here. Japanese is not declining to say \"I miss you\" out of reserve; it has no verb that puts the absent person in the object slot, so the sentence gets rebuilt around a different subject.\n\n## How 会いたい is actually translated: 95 glosses, counted\n\nTatoeba's Japanese→English search for 会いたい returns 1,000 sentences across 100 pages. I read all of them on 26 September 2026. **58 actually contain the substring 会いたい** and carry at least one English translation, holding **95 translation pairs** between them.\n\n- **87 of 95 (91.6%)** use \"see\" or \"meet\" — \"I want to see you\", \"I'd like to see you again\", \"I'm dying to see you\".\n- **7 of 95 (7.4%)** use a form of \"miss\".\n- 1 uses neither: 私はあなたに会いたい気持ちを抑える事ができません。 → \"I can't hold back my longing for you.\"\n\nAll seven \"miss\" glosses, checkable by sentence number: 会いたい！(13182095) and 会いたいよ！(13182085), both \"I miss you!\"; お友達に会いたいの？(10185207); お父さんに会いたいな。(11875880); トムはメアリーに会いたい。(10666321); 私に会いたいの？(4272415), glossed both \"Do you want to see me?\" and \"Do you miss me?\"; and one of six translations on 君に会いたい。(5544971), where \"I miss you so much\" sits beside \"I want to see you\".\n\nNarrow to the 15 sentences where the person met is the addressee or unstated — the case a reader actually has — and 3 carry a \"miss\" gloss. A minority still, but a larger one.\n\nTwo limits. Tatoeba is volunteer-translated, not balanced, and leans on a recurring cast (\"Tom\", \"Mary\"), over-representing third-person examples. And the search is tokenised, not literal: 942 of the 1,000 results — 会社, 教会, 会計 — contain no 会いたい at all, so any figure quoted from its raw count runs about seventeen times too large.\n\nThe corpus even holds a sentence its own grammar note discourages: トムはメアリーに会いたい。is third-person ‑たい, where Wiktionary says that outside questions ‑たい \"is used mainly to talk about the speaker's own wants\", with ‑たがる for anyone else.\n\n## Does Japanese really have no word for \"I miss you\"?\n\nEvery page on this query repeats that claim, and it is overstated.\n\nJapanese has a word whose dictionary gloss contains the English word *missed*. [Jisho's entry for 恋しい](https://jisho.org/word/%E6%81%8B%E3%81%97%E3%81%84) (*koishii*, i-adjective, JLPT N2) reads, in full: \"yearned for; longed for; missed\". That is JMdict's own wording. A language with a lemma glossed \"missed\" does not lack a word for missing someone.\n\nWhat Japanese lacks is the *sentence shape*. 恋しい is an adjective and the thing longed for is its grammatical **subject**: 君が恋しい is nearer \"you are longed-for\" than \"I miss you\". The gap is syntactic, not lexical — and that distinction is the whole correction.\n\nThere is a name for the real version. [\"Crowdsourcing lexical diversity\"](https://europepmc.org/article/PMC/PMC12714898), in *Frontiers in Artificial Intelligence* on 5 December 2025, targets \"the lack of an explicit indication of untranslatability, also known as **cross-lingual lexical gaps**, when a term has no equivalent in another language\", finding 2,140 such gaps between English and Arabic and 951 between Standard Indonesian and Banjarese. Its point is that dictionaries rarely mark gaps at all — which is how learner pages end up asserting one bigger than it is. I read the abstract and record, not the full text.\n\n## 寂しい and 恋しい: which is about you, which about them\n\nThree phrases, three subjects, and the subject decides which to send.\n\n**会いたい** — subject: you. A wish to meet.\n\n**寂しい** (*sabishii*) — subject: also you, but a state rather than a wish. [Jisho](https://jisho.org/word/%E5%AF%82%E3%81%97%E3%81%84) gives \"lonely (e.g. person, feeling); lonesome; forlorn\", i-adjective, JLPT N4. It says nothing about the other person; alone it means \"I am lonely\", and the addressee is left to infer their own role in it. That is a different sentence from English \"I miss you\" in every respect except the feeling behind it.\n\n**恋しい** — subject: them. The only one of the three where the absent person takes the subject slot, and the only one JMdict glosses \"missed\".\n\nIf you want the English sentence's centre of gravity — the absent person as what the sentence is *about* — 恋しい is the closer match, while 会いたい is what people actually text. Those are different criteria, which is why the phrase lists disagree with each other.\n\n| What you mean | Japanese | Dictionary gloss (source) | Subject | Page feature that carries it, and its usage rate (n = 214) |\n|---|---|---|---|---|\n| \"I want to see you\" | 会いたい | no lemma; 会う \"to meet; to encounter; to see\" + ‑たい (JMdict / Wiktionary) | the speaker | reunion countdown — 28.0% of senders (60 of 214) |\n| \"I'm lonely without you\" | 寂しい | \"lonely; lonesome; forlorn\" (JMdict) | the speaker | voice note — 13.6% of senders (29 of 214) |\n| \"You are what I long for\" | 恋しい | \"yearned for; longed for; missed\" (JMdict) | the absent person | written memories — 86.4% of pages (185 of 214) |\n| \"I missed you\" (past) | 会いたかった | past of 会いたい; no dictionary lemma | the speaker | \"open when\" letters — 92.1% of pages (197 of 214) |\n\nThe right-hand column is a pairing I am making, not a measured correlation. The rates are real; which phrase suits which feature is editorial judgement.\n\n## What to send back when someone texts you 会いたい\n\nIf 会いたい lands in your messages, it reports the sender's wish to see you. It is warm, it is plain form, and it is not by itself a declaration of love.\n\nThe reply that matches its shape is the same wish returned, not a different word. For the past — what you say once you finally do meet — the attested form is 会いたかった: 君に会いたかったよ。(Tatoeba 178633) is glossed by its contributors as \"How I've missed you!\" and \"I've been wanting to see you.\" Notice where *miss* surfaces most readily. It is the past form, which fits a period that has ended.\n\nRegister is a separate decision, and 会いたい is plain form — sending it upward to someone senior is the error that costs something.\n\nIf your reply runs longer than a text, [a page built for saying you miss someone](https://subhsandesh.in/missyou-gf) gives the phrase somewhere to sit — a letter, a countdown, a recorded voice. The median letter there is 88 words.\n\n## Where this page, and this product, will let you down\n\nThe SubhSandesh figures come from a database **not segmented by language or country**. None of those 214 miss-you pages is identified as Japanese, Japan-based or written in Japanese — there is no such field. It records **which template was opened, never who received it**, so \"miss-you page\" names the template, not the relationship. Further: viewCount counts page views, not unique visitors; n = 214 over about two months supports no seasonal claim; and the city, music and \"together since\" fields are pickers with defaults, so their fill rates are nobody's choice — which is why every figure above comes from a sender-written field.\n\nThe product is **entirely in English** — labels, prompts, furniture, with no Japanese interface. 会いたい renders fine (会 is U+4F1A, い is U+3044, た is U+305F, all standard Unicode), but the page around it will be English.\n\nAnd the miss-you page is defined in this site's own template list as an \"I miss you page for a girlfriend/partner\". It is recipient-specific. If you are sending 会いたい to a friend, a sibling or a grandparent, that framing is wrong and editing will not fix it. For a friend you rarely see, [the daily-streak page](https://subhsandesh.in/streak) is the better build — one tap a day from each of you, a word kept at each check-in — because it answers 会いたい with recurrence rather than romance. If neither fits, [the full template list](https://subhsandesh.in/templates) is the honest place to start. What any of it costs, I cannot tell you: this site's own facts file leaves that block blank, so any figure here would be invented.\n\nComing from the other direction — wanting to *say* it rather than decode it? The companion post on [choosing between the four Japanese phrases for \"I miss you\"](https://subhsandesh.in/blog/i-miss-you-in-japanese) sorts them by register and recipient.\n\n## Sources\n\nDictionary and corpus entries publish no date, so none is given.\n\n- [Jisho — 会う (JMdict/EDICT)](https://jisho.org/word/%E4%BC%9A%E3%81%86): Godan verb, intransitive; \"to meet; to encounter; to see\", N5.\n- [Wiktionary — たい](https://en.wiktionary.org/wiki/%E3%81%9F%E3%81%84): desiderative suffix; attaches to the 連用形.\n- [Jisho — 恋しい](https://jisho.org/word/%E6%81%8B%E3%81%97%E3%81%84): \"yearned for; longed for; missed\", N2.\n- [Jisho — 寂しい](https://jisho.org/word/%E5%AF%82%E3%81%97%E3%81%84): \"lonely; lonesome; forlorn\", N4.\n- [Tatoeba sentence 5544971](https://tatoeba.org/en/sentences/show/5544971): 君に会いたい。with six English translations; the corpus count above reads all 1,000 search results.\n- [Crowdsourcing lexical diversity](https://europepmc.org/article/PMC/PMC12714898), *Frontiers in Artificial Intelligence*, 5 December 2025. Abstract read; full text not.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/aitai-meaning-in-english#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Japanese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Japanese_language",
+              "https://www.wikidata.org/wiki/Q5287"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Desiderative mood",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Desiderative_mood",
+              "https://www.wikidata.org/wiki/Q1200631"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Japanese grammar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Japanese_grammar",
+              "https://www.wikidata.org/wiki/Q1343874"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "JMdict",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/JMdict",
+              "https://www.wikidata.org/wiki/Q3045873"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wiktionary",
+              "https://www.wikidata.org/wiki/Q151"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Jisho entry for 会う (JMdict/EDICT)",
+            "url": "https://jisho.org/word/%E4%BC%9A%E3%81%86",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Electronic Dictionary Research and Development Group"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary entry for たい",
+            "url": "https://en.wiktionary.org/wiki/%E3%81%9F%E3%81%84",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Jisho entry for 恋しい (JMdict/EDICT)",
+            "url": "https://jisho.org/word/%E6%81%8B%E3%81%97%E3%81%84",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Electronic Dictionary Research and Development Group"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Jisho entry for 寂しい (JMdict/EDICT)",
+            "url": "https://jisho.org/word/%E5%AF%82%E3%81%97%E3%81%84",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Electronic Dictionary Research and Development Group"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 5544971 — 君に会いたい。",
+            "url": "https://tatoeba.org/en/sentences/show/5544971",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Crowdsourcing lexical diversity",
+            "url": "https://europepmc.org/article/PMC/PMC12714898",
+            "datePublished": "2025-12-05",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "aitai in english how to say",
+    "angle": "Wins by being the only post on this query that counts how 会いたい is actually rendered into English — all 1,000 results of Tatoeba's Japanese→English search read, 58 attested sentences, 95 translation pairs, 87 using see/meet against 7 using miss — and by correcting the SERP-wide claim that Japanese has no word for missing someone, since JMdict glosses 恋しい as \"missed\" and the real gap is syntactic.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://jisho.org/word/%E4%BC%9A%E3%81%86",
+        "stat": "JMdict/EDICT classes 会う (au) as a 'Godan verb with u ending, Intransitive verb' and glosses sense 1 'to meet; to encounter; to see', JLPT N5 — there is no 会いたい lemma"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E3%81%9F%E3%81%84",
+        "stat": "-たい is defined as 'Used to form the desiderative of verbs: want (to do); hope (to do)', attaches to the 連用形 (ren'yōkei, continuative or stem form), the result 'is conjugated like an adjective', and outside questions it 'is used mainly to talk about the speaker's own wants', with -たがる for a third party; from たし, a shift from Old Japanese いたし 'painful', attested as a verbal suffix by The Tale of the Heike, before 1330"
+      },
+      {
+        "url": "https://jisho.org/word/%E6%81%8B%E3%81%97%E3%81%84",
+        "stat": "JMdict/EDICT glosses 恋しい (koishii), i-adjective, JLPT N2, as 'yearned for; longed for; missed' — a Japanese lemma whose dictionary gloss contains the English word 'missed'"
+      },
+      {
+        "url": "https://jisho.org/word/%E5%AF%82%E3%81%97%E3%81%84",
+        "stat": "JMdict/EDICT glosses 寂しい (sabishii), i-adjective, JLPT N4, sense 1 as 'lonely (e.g. person, feeling); lonesome; forlorn' — a predicate on the speaker's own state with no argument slot for the absent person"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/5544971",
+        "stat": "君に会いたい。carries six English translations, five using 'see' or 'meet' and one 'I miss you so much'; across the whole Tatoeba Japanese→English search for 会いたい (1,000 results read 2026-09-26, 58 containing the string, 95 translation pairs) 87 pairs use 'see'/'meet' and 7 use a form of 'miss'"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12714898",
+        "stat": "Names the phenomenon 'cross-lingual lexical gaps, when a term has no equivalent in another language' and reports that lexical-semantic resources suffer from 'the lack of an explicit indication of untranslatability'; its crowdsourced case studies identified 2,140 such gaps between English and Arabic and 951 between Standard Indonesian and Banjarese. Journal: Frontiers in Artificial Intelligence. Abstract and Europe PMC record read; full text not read.",
+        "publishedDate": "2025-12-05"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The keyword 'aitai in english how to say' appears in the H1, metaTitle and first 100 words only as its head, 'aitai in English'. The slug is fixed by WAVE1-PLAN.json as aitai-meaning-in-english and carries 'aitai' and 'in-english' but not 'how to say' — which checklist item 24 would ban as stop words anyway. The two rules conflict and the slug rule wins."
+        },
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "metaTitle is 56 characters and leads with 'Aitai in English', but the exact keyword string 'aitai in english how to say' cannot sit in its first five words without ungrammatical stuffing. Length, separator, differentiator and booster rules all pass; the exact-phrase clause does not."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three of the four internal links (/missyou-gf, /streak, /templates) are TEMPLATE_LINKS URLs. The fourth is the mandated cross-link to the sibling post at /blog/i-miss-you-in-japanese, which BRIEF section 1 requires and which is a published Strapi article (verified HTTP 200, Strapi id 2562), not a template. Closing this would mean dropping a link the brief makes compulsory."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Six of the seven candidate sources are Japanese-specific dictionary or corpus entries that cannot move to another row. 'Crowdsourcing lexical diversity' (PMC12714898) fails the swap test honestly: it is about cross-lingual lexical gaps in general, not about Japanese, so it could sit in the Vietnamese, Turkish or Portuguese rows of this batch unchanged. It is kept because it supplies the technical term the post's central correction turns on, and because no Japanese-specific peer-reviewed open-access paper on this question was found. Searches tried: 'emotion words translation equivalence Japanese English', 'untranslatable emotion concepts cross-cultural lexicon semantic', 'desiderative construction Japanese second language learners acquisition', 'Japanese expression of affection romantic partners communication culture'."
+        }
+      ],
+      "additionalChecks": [
+        "BRIEF section 0 — framing claims tested. (a) The prompt called -たい 'volitional/desiderative'. Wiktionary's たい entry gives DESIDERATIVE; the volitional of 会う is 会おう. Terminology corrected in the body. (b) The prompt asked for a Wiktionary entry for 会いたい: en.wiktionary.org/wiki/会いたい returns 404 / missingtitle, as does 会いたかった. 会う and 寂しい resolve 200. Built on the たい entry instead. (c) The prompt's premise that Japanese has no equivalent is overstated — see the body's fourth H2.",
+        "GATE 2 — the task prompt's proposed angle ('会いたい is not I miss you; does Japanese have a word for it?') is the written sibling's thesis near-verbatim: i-miss-you-in-japanese.json opens with it and owns it as H2 #1. Writing to that angle would have produced a twin. The post was rebuilt around the reverse translation direction and a measurement the sibling does not have. Split stated in research/aitai-meaning-in-english.md section 2 and cross-linked in the body.",
+        "SERP route — serp-ddg.mjs failed with ConnectTimeoutError on html.duckduckgo.com:443 and serp.mjs failed with a Brave 429 after 4 attempts, exactly as the row's knownIssues predicted. Measured instead with two harness WebSearch calls (US-served, matching the us-en region). This is a measured SERP, not an inferred one, but it is the harness index rather than Google's.",
+        "GATE 4 — 9 of 10 results weak: two answers.com Q&A pages, two mymemory.translated.net MT-memory pages, a Quora thread, a Facebook post, definitions.net, an off-topic Wikipedia entry for the given name 'Ai', and en.wiktionary.org/wiki/aitai. One borderline editorial page (thisis-japan.com). PROCEED.",
+        "Checkable errors in ranking results, found and silently corrected rather than cited: thisis-japan.com (#2) labels 会いたい 'Adjective' where JMdict has no 会いたい lemma and classes 会う as a Godan intransitive verb, and calls 会い the 'continuous form' where Wiktionary names it the 連用形, the continuative or stem form. Separately, en.wiktionary.org/wiki/aitai ranks top-5 while containing no gloss of 会いたい at all — its sections are Italian (a form of aitare), a bare Japanese romanization pointer, and Latvian (dative of aita, 'sheep').",
+        "Tatoeba method, so it is reproducible: api_v0/search?from=jpn&to=eng&query=会いたい paginated to exhaustion — 100 pages, 1,000 sentences, read 2026-09-26. The search is tokenised, not literal, so results were filtered on substring containment; 942 of 1,000 contain no 会いたい (会社, 教会, 会計). 58 remain with at least one English translation, holding 95 translation pairs. Sentence-level: 50 see/meet only, 5 miss only, 2 both, 1 neither. Sentence IDs 5544971, 178633 and 13182095 independently re-fetched via api_v0/sentence.",
+        "A caveat on the count's fairness, stated in the body: Tatoeba is volunteer-translated and its 'Tom/Mary' sentence stock over-represents third-person examples where English avoids 'miss' for reasons unrelated to Japanese. The second-person subset is reported separately: 15 sentences, 3 carrying a 'miss' gloss.",
+        "Cross-batch note, not acted on because it is not my file: the sibling i-miss-you-in-japanese.json states 'Tatoeba holds 220 sentences containing 会いたいです'. A substring-filtered scan finds 3 in the first 100 results. The discrepancy matches the tokenised-search inflation measured here, where the raw result count runs roughly 17x the true substring count.",
+        "Price guard — pricecheck-intl.mjs run on this slug before finishing. No price, tier, subscription or free claim in any language. facts-snapshot.md Pricing is empty and the body says plainly that cost cannot be confirmed.",
+        "First-party differentiation is THIN and this is the honest structural weakness. Counted across all 492 blog files in content/batches: the least-collided line used here (median 2.6 hours, n=214) already appears in 22 posts and the second (88.8% published and shared) in 24. Every other miss-you line runs 30 to 60. The Tatoeba count is the only genuinely unique measurement on this page.",
+        "Mandatory caveats in body prose, final H2: pickers with defaults (city, music, 'together since'), viewCount as page views not unique visitors, n=214 over two months, plus the two this batch adds — nothing is segmented by language or country and no figure is Japanese, and the database records which TEMPLATE was opened, never who received it.",
+        "Product-fit disclosure: /missyou-gf is defined in app/lib/prompt.ts as an 'I miss you page for a girlfriend/partner' and is therefore recipient-specific. The body says so and argues against it for a friend, sibling or grandparent, offering /streak as the better build for a friend and /templates otherwise.",
+        "Live hub checked: https://subhsandesh.in/blog/i-miss-you-in-different-languages returns 200 and gives 'Japanese: 会いたい (aitai — ai-tie) or あなたが恋しいです'. It gets the word right but presents 会いたい flatly as 'I miss you' with no indication that it is a want-to-meet form — the gap this post fills. Not linked from the body because four internal links is the cap and the sibling cross-link is more useful to the reader.",
+        "All links verified HTTP 200 before shipping: /missyou-gf, /streak, /templates, /blog/i-miss-you-in-japanese (published, Strapi id 2562), all six outbound sources. Slug confirmed free in Strapi (0 results). Category slug miss-you-across-miles confirmed live.",
+        "Paragraph length: the body is 2-3 sentences throughout except the first paragraph of the final H2, which runs to four, and the seven-glosses enumeration, which is one long semicolon-separated sentence by design so the IDs stay together.",
+        "capcheck.mjs run immediately before writing. doi.org, journals.plos.org and arxiv.org are at cap 3 and were avoided. frontiersin.org had one slot left; PMC12714898 takes it to 3, at the cap and not over. The journal is named in the citation as Frontiers in Artificial Intelligence, distinct from the Frontiers in Psychology titles the batch already uses, per BRIEF section 7.",
+        "Sources deliberately rejected: PMC8669216 (long-distance texting) is spent in 7 sibling posts; PMC10165400 (Heliyon, Japanese conjugation processing) is already the Japanese sibling's; PMC12228877 (Japanese achievement emotions) fails the subject test, being about medical students in a classroom.",
+        "PDFs were not parsed anywhere in this row. PMC12714898 was read as abstract plus Europe PMC record only, and the body states this in prose."
+      ],
+      "honestAssessment": "An answer engine should cite this over the ten pages analysed because it is the only one carrying a measurement: all 1,000 results of Tatoeba's Japanese-English search for 会いたい read, 58 attested sentences isolated, and 87 of their 95 English translations shown to use \"see\" or \"meet\" against 7 using \"miss\" — with every \"miss\" sentence listed by ID so the count can be re-run. It is also the only page that tests rather than repeats the claim that Japanese has no word for \"I miss you\", and it lands on a correction that is checkable in one click: JMdict glosses 恋しい as \"missed\", so the gap is syntactic, not lexical. The SERP is unusually weak for a page with this much verifiable substance — nine of ten results are Q&A farms, MT-memory aggregators or dictionary pages with no gloss at all — which makes this the strongest Gate 4 case in the batch. Two real weaknesses. The first-party data is the same twelve lines fifty-four siblings draw on, and the two least-collided are already in 22 and 24 posts, so the SubhSandesh material differentiates this page barely at all; the Tatoeba count is doing nearly all of the work. And the domain is low-authority with no Japanese-language signals, so ranking will take months regardless of how good the evidence is."
+    },
+    "structuralLimitations": [
+      "The task prompt's angle was already the written sibling's thesis. i-miss-you-in-japanese.json opens on 'Japanese has no verb meaning to miss someone' and its first H2 is 'Does Japanese have a word that means to miss someone?' — the exact question the prompt asked me to build on. That is the eighth-plus instance of the pattern BRIEF section 0 warns about. The row was not aborted because the keyword is a genuinely different query in the opposite translation direction and a genuinely new measurement was available; had neither been true, ABORT would have been right.",
+      "The prompt instructed citing Wiktionary entries for 会いたい. That entry does not exist — en.wiktionary.org/wiki/会いたい returns 404 / missingtitle, and so does 会いたかった. This is the second time a dictionary reference written into a brief from memory has 404'd. The たい entry carries the morphology and was used instead.",
+      "The prompt's grammatical terminology was imprecise: -たい is the desiderative, while the volitional of 会う is 会おう. The post states both and names the distinction, because collapsing them is one of the errors visible on the ranking pages.",
+      "Neither SERP script worked. serp-ddg.mjs connect-timed out on html.duckduckgo.com:443 and serp.mjs hit a Brave 429 after four attempts. The SERP was measured with the harness WebSearch tool instead, which is a real index and US-served, matching us-en — but it is not Google, so position numbers should be read as ordering within that index rather than as Google ranks.",
+      "The Tatoeba count's denominator is a volunteer corpus, not a balanced one. Its recurring 'Tom'/'Mary' sentence stock over-represents third-person examples, where English would avoid 'miss' for reasons unrelated to Japanese. The second-person subset (15 sentences, 3 with a 'miss' gloss) is reported alongside the headline figure rather than instead of it, and neither figure is presented as a frequency in natural Japanese.",
+      "One source fails the swap test. 'Crowdsourcing lexical diversity' is about cross-lingual lexical gaps in general and could sit unchanged in several other rows of this batch. It was kept because it supplies the technical term the post's central correction depends on and because no Japanese-specific peer-reviewed open-access paper on this question surfaced across four Crossref and Europe PMC searches. Closing this would need such a paper to exist.",
+      "First-party differentiation is thin. The twelve miss-you lines are shared with 54 siblings; the two least-collided are already in 22 and 24 posts. Nothing in the database is segmented by language or country and it records which template was opened rather than who received it, so no figure here is Japanese and none can be made so without a new field being added upstream.",
+      "Cut for lack of evidence rather than space: a claim that 私も is the attested reply (no corpus support, was about to be asserted from memory); a register comparison of お会いしたい against 会いたいです (counts of 22 and 3 came from a 10-page-capped scan and were floors, not totals, and a full re-scan would have cost roughly four minutes per form); a frequency claim about 会いたかった (same problem). The register question is handed to the sibling post by link, which covers it properly.",
+      "Cut for the link cap: the Wiktionary entry for 寂しい, which dates the word to the Man'yōshū (c. 759 CE) as sabusi and derives it from 荒ぶ. It resolves HTTP 200 and the facts are real; seven outbound links exceeded the checklist's 3-6 and batchMeta.sources caps at 6."
+    ],
+    "generatedAt": "2026-09-26T13:59:38.626Z"
+  }
+}
