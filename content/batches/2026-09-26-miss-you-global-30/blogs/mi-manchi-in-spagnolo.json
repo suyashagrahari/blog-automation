@@ -1,0 +1,416 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Mi manchi in spagnolo: «te extraño», «te echo de menos» e la forma che sembra giusta e non lo è",
+    "slug": "mi-manchi-in-spagnolo",
+    "excerpt": "«Mi manchi» in spagnolo è «te extraño» o «te echo de menos». Su 22 frasi italiano-spagnolo attestate su Tatoeba, 22 su 22 spostano il soggetto su chi parla. «Me haces falta» esiste, ma il dizionario la definisce necessità; e «me faltas» non significa affatto questo.",
+    "metaTitle": "Mi manchi in spagnolo: perché «me faltas» non funziona",
+    "metaDescription": "Mi manchi in spagnolo è «te extraño» o «te echo de menos»: su 22 frasi attestate 22 rovesciano il soggetto, e «me haces falta» dice «mi sei necessario».",
+    "keywords": "mi manchi in spagnolo, te extraño, te echo de menos, me haces falta, me faltas, mi manchi tanto in spagnolo",
+    "canonicalURL": "https://subhsandesh.in/blog/mi-manchi-in-spagnolo",
+    "ogType": "article",
+    "tags": [
+      "spagnolo",
+      "italiano",
+      "traduzione",
+      "lontananza",
+      "grammatica"
+    ],
+    "keyTakeaways": [
+      "«Mi manchi» in spagnolo si dice «te extraño» o «te echo de menos»: su 22 frasi italiano-spagnolo attestate nel corpus Tatoeba, 22 su 22 mettono chi parla come soggetto e zero conservano la forma italiana.",
+      "«Me haces falta» conserva la struttura di *mi manchi*, ma il dizionario dell'Accademia definisce *hacer falta* «Ser precisa para algún fin»: dice «mi sei necessario», non «sento la tua mancanza». Nelle frasi spagnole di Tatoeba compare solo con oggetti, e in 6 casi su 9 traduce l'italiano *ho bisogno di*.",
+      "«Me faltas» è il falso amico: *faltar* ha undici accezioni nel dizionario e nessuna è la mancanza affettiva di una persona — l'accezione 9 è addirittura «trattare qualcuno con mancanza di rispetto».",
+      "Il dizionario non marca come regionale né *extrañar* né *echar de menos*: la divisione Spagna / America Latina è di frequenza e di registro, non di correttezza.",
+      "Il modello /missyou-gf che questa pagina collega è in inglese ed è definito nel codice come pagina per una fidanzata: nelle 214 pagine misurate nulla è segmentato per lingua o per paese, e il database registra quale modello è stato aperto, mai chi lo ha ricevuto."
+    ],
+    "faqs": [
+      {
+        "question": "«Mi manchi tanto» come si dice in spagnolo?",
+        "answer": "«Te extraño mucho» oppure «Te echo mucho de menos». Attenzione alla posizione dell'avverbio: *mucho* va fra *echo* e *de menos*, non alla fine. Nel corpus Tatoeba la frase *Mi manchi tanto* (#3137826) è allineata proprio a «Te echo mucho de menos» e «Te extraño mucho»."
+      },
+      {
+        "question": "Come si dice «mi sei mancato» al passato?",
+        "answer": "«Te extrañé» o «Te eché de menos». Notate che il soggetto resta chi parla anche al passato: l'italiano *mi sei mancato* ha voi come soggetto, lo spagnolo no. Nella coppia italiano-spagnolo di Tatoeba le frasi con *mi sei mancato* sono 11 e nessuna conserva la forma italiana."
+      },
+      {
+        "question": "E «mi mancherai», al futuro?",
+        "answer": "«Te echaré de menos» o «Te voy a extrañar». La frase #3001289 di Tatoeba, *Tu mi mancherai*, è allineata a entrambe, più alla forma plurale «Os echaré de menos» per quando parlate a più persone in Spagna."
+      },
+      {
+        "question": "Come si chiede «ti manco?» in spagnolo?",
+        "answer": "«¿Me extrañas?» o «¿Me echas de menos?». Qui il ribaltamento si vede benissimo: in italiano il soggetto sono io, in spagnolo siete voi, e il pronome passa da *ti* a *me*. È la costruzione che un calco sbaglia più spesso."
+      },
+      {
+        "question": "Si scrive «echo de menos» o «hecho de menos»?",
+        "answer": "Sempre *echo*, senza h. È la prima persona singolare del verbo *echar*, non il participio di *hacer*. Il dizionario dell'Accademia registra la locuzione sotto la voce *echar*, non sotto *menos*, e lo abbiamo verificato: la voce *menos* non la contiene affatto."
+      },
+      {
+        "question": "Posso dire «me haces falta» a un amico o a un familiare?",
+        "answer": "Potete, ma sappiate cosa dite. Il dizionario definisce *hacer falta* «Ser precisa para algún fin», essere necessaria a uno scopo, e la locuzione *hacerle a una persona falta alguien o algo* come «No tenerlo cuando sería necesario o provechoso». Suona come bisogno, non come tenerezza, e a un amico può risultare più pesante del previsto."
+      },
+      {
+        "question": "Qual è la differenza fra «te extraño» e «te añoro»?",
+        "answer": "*Añorar* è registrato dal dizionario come sinonimo di *extrañar* all'accezione 2, ma appartiene a un registro letterario e non è quello che si scrive in un messaggio. Nelle 22 frasi italiano-spagnolo che ho contato compare zero volte."
+      },
+      {
+        "question": "Come si dice «mi mancate» a più persone?",
+        "answer": "«Os echo de menos» in Spagna, «Los extraño» o «Las extraño» in America Latina, dove *vosotros* non si usa. Tatoeba allinea *Mi mancate ragazzi* (#2557847) a «Os extraño»."
+      },
+      {
+        "question": "E «mi manca casa mia» o «mi manca il mio cane»?",
+        "answer": "Con le cose e gli animali la regola non cambia: «Extraño mi casa», «Echo de menos a mi perro», sempre con chi parla come soggetto. L'eccezione è la mancanza materiale: *Mi manca un calzino* diventa «Me falta un calcetín», con *faltar*, perché lì si tratta davvero di una cosa che non c'è."
+      },
+      {
+        "question": "Esiste una versione italiana della pagina che linkate?",
+        "answer": "No. La pagina «I miss you» di SubhSandesh è interamente in inglese ed è pensata per una fidanzata o una partner, quindi per un lettore italiano che scrive in spagnolo è sbagliata due volte. Lo diciamo nel corpo dell'articolo e non consigliamo di usarla se il destinatario non rientra in quel caso."
+      }
+    ],
+    "coverImageQuery": "italian woman writing message phone window rain",
+    "coverImagePrompt": "A photorealistic scene of a woman in her late twenties at a kitchen table by a rain-streaked window in an Italian apartment, typing a message on her phone, a small Spanish-Italian dictionary open beside her. Warm interior light against a cool grey afternoon outside, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No readable text on screen, no lettering except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Mi manchi in spagnolo: «te extraño», «te echo de menos» e la forma che sembra giusta e non lo è\n\nChi cerca **mi manchi in spagnolo** trova due rese corrette, «te extraño» e «te echo de menos», e una terza che sembra la più fedele e dice un'altra cosa. Su 22 frasi italiane con *mi manchi* allineate allo spagnolo nel corpus Tatoeba, misurate il 26 settembre 2026, *echar de menos* compare in 15 e *extrañar* in 10 (una frase italiana ha spesso più traduzioni spagnole, quindi i numeri si sovrappongono). *Me haces falta*: zero. *Me faltas*: zero. E tutte e 22 spostano il soggetto dall'altra parte.\n\nMisuro anche i nostri dati. Le pagine \"I miss you\" di SubhSandesh nominano 47 coppie di città distinte, prese da un menu di 15 voci, comprese coppie transfrontaliere come Mumbai-Londra e Berlino-Londra; e i destinatari hanno toccato 1.434 volte il pulsante \"hug\", con 138 pagine su 214 che ne hanno ricevuto almeno uno e 512 tocchi su una pagina sola.\n\n## Le tre opzioni spagnole, e quale mandare davvero\n\nSe dovete scegliere e basta: **mandate «te echo de menos» a qualcuno in Spagna e «te extraño» in America Latina, senza temere di sbagliare** — il dizionario dell'Accademia non marca come regionale né l'una né l'altra. La differenza è di frequenza e di registro, non di correttezza.\n\n| Forma spagnola | Chi è il soggetto | Cosa dice il dizionario dell'Accademia | Frasi Tatoeba (su 22) |\n|---|---|---|---|\n| *te extraño* | chi parla | *extrañar*, acc. 2: «Echar de menos a alguien o algo, sentir su falta» | 10 |\n| *te echo de menos* | chi parla | *echar de menos*: «Advertir o notar su falta» e «Tener sentimiento y pena por su falta» | 15 |\n| *me haces falta* | la persona che manca | *hacer falta*: «Ser precisa para algún fin» | 0 |\n| *me faltas* | la persona che manca | *faltar*: nessuna delle 11 accezioni è «sentire la mancanza di una persona» | 0 |\n| *te añoro* | chi parla | *añorar* è dato come sinonimo di *extrañar* | 0 |\n\n## Chi è il soggetto: due lingue che non sono d'accordo\n\nIn italiano, in *mi manchi*, **il soggetto siete voi**: siete voi che mancate, io sono il complemento. Il [Vocabolario Treccani](https://www.treccani.it/vocabolario/mancare/) lo dice all'accezione 1.c di *mancare*, dove il verbo è `intr. (aus. essere)`: «Con il compl. di termine, in frasi quali *mi manchi*, *mi sei mancato*, *ci mancherai*, *ci manca molto* e sim., riferite a persona di cui si sente, si è sentita o si sentirà la lontananza».\n\nL'etichetta giusta è quella che usa il dizionario, **complemento di termine**, non \"dativo\", che in italiano moderno non è un caso.\n\nIn *te extraño* e *te echo de menos*, invece, **il soggetto è chi parla**: il verbo è alla prima persona — *extraño*, *echo* — e *te* è complemento oggetto. Ecco perché la traduzione parola per parola fallisce: l'italiano mette al centro chi è assente, lo spagnolo chi resta.\n\n## Le 22 frasi attestate: come lo spagnolo rende davvero «mi manchi»\n\n[Tatoeba](https://tatoeba.org/en/sentences/show/4378) è un corpus aperto di frasi tradotte da volontari. Ho interrogato la coppia italiano-spagnolo il 26 settembre 2026: la ricerca larga dà 116 frasi, scaricate tutte e filtrate sulla stringa letterale, che ne lascia **22 con dentro *mi manchi***.\n\nIl risultato è netto. **In 22 casi su 22 la resa spagnola mette chi parla come soggetto. In zero casi su 22 lo spagnolo conserva la forma italiana.**\n\n*Mi manchi.* (#4378) è allineata sia a «Te extraño» sia a «Te echo de menos»; *Mi manchi tanto, amore!* (#3239425) dà «¡Te extraño mucho, amor!».\n\nVale il confronto con la coppia italiano-inglese, che ho trattato in [mi manchi in inglese](/blog/mi-manchi-in-inglese): lì le frasi con *mi manchi* sono 32, e sono 32 su 32 a soggetto rovesciato. L'italiano è l'eccezione.\n\n## «Me haces falta»: stessa forma dell'italiano, significato diverso\n\n*Me haces falta* è l'unica delle tre che conserva la struttura di *mi manchi*: il verbo concorda con voi, la persona che manca, e *me* è chi sente la mancanza. È il gemello strutturale, e molte pagine lo presentano per questo come la traduzione più fedele.\n\nIl dizionario dice un'altra cosa. Alla [voce *falta*](https://dle.rae.es/falta) la locuzione **hacer falta** è definita «Dicho de una persona o de una cosa: **Ser precisa para algún fin**», essere necessaria a uno scopo, e *hacerle a una persona falta alguien o algo* è glossata «No tenerlo cuando sería necesario o provechoso».\n\nCioè: *me haces falta* dice **«mi sei necessario»**, non «sento la tua mancanza». È una dichiarazione di bisogno, non di nostalgia.\n\nIl corpus conferma. Nelle frasi spagnole di Tatoeba le nove occorrenze di *me hace falta* riguardano tutte oggetti — farina, denaro, un calzino, un martello — e **sei su nove sono allineate all'italiano *ho bisogno di***. La seconda persona, *me haces falta*, non compare affatto.\n\nNon è sbagliato mandarlo, ma dite una cosa più pesante e meno tenera di quanto pensiate.\n\n## «Me faltas» non vuol dire «mi manchi»\n\nQui c'è il falso amico, ed è il più insidioso: *mancare* e *faltar* sono cognati, stessa radice e stesso significato di base.\n\nIl [Diccionario de la lengua española](https://dle.rae.es/faltar) dà a *faltar* **undici accezioni, e nessuna è «sentire la mancanza affettiva di una persona»**. Ruotano attorno a tre nuclei: non esserci a sufficienza, essere assenti da dove si dovrebbe stare, venir meno a un obbligo — compresa l'accezione 9, «trattare qualcuno con mancanza di rispetto», il *faltar al respeto* di tutti i giorni.\n\nQuindi **me faltas** non dice «mi manchi»: oscilla fra «non ci sei», «mi vieni meno» e «mi manchi di rispetto». Chi vi ama capirà dal contesto, ma avrete scritto qualcosa che il dizionario non autorizza.\n\nLa somiglianza però è reale altrove: Treccani registra *gli manca una rotella*, lo spagnolo dice *faltarle un tornillo*, e tutt'e due usano il verbo come eufemismo per la morte — *è mancato all'affetto dei suoi cari*, e *faltar* accezione 2, «consumirse, acabar, fallecer». I cognati si separano esattamente sul sentimento.\n\n## Un errore verificabile in un risultato che si posiziona oggi\n\nIl 26 settembre 2026 ho misurato la SERP italiana per questa chiave su Google servito a `gl=it&hl=it&pws=0`, nel browser reale: otto risultati organici, il sesto è wikiHow.it.\n\nAl passo su *te extraño* scrive: «il verbo extrañar significa \"perdere\", mentre *te* corrisponde al pronome \"tu\". Letteralmente, il termine si traduce con \"ti perdo\"».\n\nSono due errori in una frase sola. Primo: alla voce *extrañar* il dizionario dell'Accademia dà otto accezioni e **nessuna è *perder***; l'accezione 2 è «Echar de menos a alguien o algo, sentir su falta», e l'etimologia è `extraneāre`, «trattare come un estraneo». Secondo: *te* è complemento oggetto, non il pronome soggetto *tú* — e **la stessa pagina si contraddice tre passi dopo**, scrivendo correttamente che «la persona con cui stai parlando resta il complemento oggetto della frase».\n\nNessuno degli otto risultati cita il dizionario dell'Accademia, il Panispanico dei dubbi, Treccani o un corpus. È il motivo per cui questa pagina esiste.\n\n## Cosa ho potuto misurare e cosa no\n\nLa SERP è **una sola misurazione**: l'esecuzione di controllo è stata bloccata da Google con `/sorry/index`, e Bing servito a `mkt=it-IT` ha restituito zero risultati. Ho contato 8 risultati su 8 visti, non dieci.\n\nI corpora dell'Accademia — CORPES XXI e CREA — rispondono **403** a qualunque richiesta automatica: qui non c'è nessuna frequenza ricavata da loro, e anche le voci del [dizionario](https://dle.rae.es/echar) sono state lette nel browser perché a uno script rispondono 403. Tatoeba, dal canto suo, è un corpus di volontari: 22 frasi sono poche, e vanno lette come «così è stato tradotto», non «così si traduce sempre».\n\nPer lo spagnolo interno c'è la pagina sorella [differenza fra te extraño e te echo de menos](/blog/diferencia-entre-te-extrano-y-te-echo-de-menos), scritta in spagnolo per chi lo spagnolo lo parla già.\n\n## Cosa dicono i nostri 214 dati, e cosa non dicono\n\nLe 214 pagine \"I miss you\" create su SubhSandesh dal 28 luglio 2026 dicono qualcosa su come si manda un messaggio a distanza, e nulla sulla lingua.\n\n| Cosa misuriamo | Valore | Su quante pagine |\n|---|---|---|\n| Coppie di città distinte nominate | 47, da un menu di 15 voci | 214 |\n| Tocchi \"hug\" registrati dai destinatari | 1.434 (512 su una pagina sola) | 138 su 214 |\n| Chi protegge la pagina con password prima di condividerla | 43,5% (contro il 38,5% della piattaforma) | 93 su 214 |\n| Visualizzazioni registrate | 2.417, 11,3 per pagina | 214 |\n\nQuattro avvertenze vincolanti. **Primo: nel nostro database non esiste nessuna segmentazione per lingua o per paese, e il database registra quale MODELLO è stato aperto, mai chi lo ha ricevuto** — nessuno di questi numeri è italiano o spagnolo. Secondo: la città e i campi analoghi sono selettori con un valore predefinito, quindi un tasso di compilazione alto non è una scelta di chi scrive. Terzo: le 2.417 visualizzazioni sono aperture di pagina, non visitatori unici. Quarto: n = 214 su due mesi, e nessuna affermazione stagionale regge.\n\nUna cosa però la dicono: 1.434 tocchi su un pulsante senza parole, in una pagina dove si poteva scrivere. Quando la lingua è incerta, il gesto regge da solo.\n\n## Dove la nostra pagina non fa al caso vostro\n\nIl disallineamento qui è doppio. La [pagina \"I miss you\"](/missyou-gf) che abbiamo costruito è definita nel nostro codice (`app/lib/prompt.ts`, riga 44) come pagina per una fidanzata o una partner, ed è **interamente in inglese**: etichette, istruzioni, testi di contorno. Voi scrivete in italiano una frase in spagnolo, e l'interfaccia vi parlerà in una terza lingua.\n\nSe il destinatario non è una partner — un genitore, una sorella, un amico a Madrid — il modello è sbagliato due volte e non ho un equivalente da darvi: scrivete il messaggio e basta.\n\nSe invece la distanza è la cosa vera, [Streak, il conteggio giornaliero a due](/streak) regge meglio: non vi chiede una dichiarazione in spagnolo, vi chiede di esserci ogni giorno. Il catalogo è su [tutti i modelli SubhSandesh](/templates). Sulle condizioni di accesso non affermo nulla: la nostra scheda dati interna non le contiene.\n\n## Fonti\n\nUn dato di sfondo, da citare con cautela: [uno studio fMRI del 2024](https://europepmc.org/article/PMC/PMC11337870) su bilingui italiano-inglese ha trovato attivazioni più forti per le parole emotive nella lingua madre che nella seconda, in aree legate ad attenzione, memoria episodica e affetto — **ma senza alcun effetto comportamentale rilevabile**. Gli autori lo leggono come compatibile con una risonanza emotiva più forte nella lingua nativa. La seconda lingua dello studio però era l'inglese, e ho letto solo l'abstract: è una suggestione, non la prova che *te echo de menos* vi costi meno di *mi manchi*.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/mi-manchi-in-spagnolo#post",
+        "inLanguage": "it",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Italiano",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Italian_language",
+              "https://www.wikidata.org/wiki/Q652"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Spagnolo",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Falso amico",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/False_friend",
+              "https://www.wikidata.org/wiki/Q202961"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Real Academia Española",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+              "https://www.wikidata.org/wiki/Q11993457"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Diccionario de la lengua española",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diccionario_de_la_lengua_espa%C3%B1ola",
+              "https://www.wikidata.org/wiki/Q675538"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Treccani",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Treccani",
+              "https://www.wikidata.org/wiki/Q731361"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "url": "https://www.treccani.it/vocabolario/mancare/",
+            "name": "Vocabolario Treccani, voce mancare",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Istituto della Enciclopedia Italiana — Vocabolario Treccani online"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://dle.rae.es/faltar",
+            "name": "Diccionario de la lengua española, voce faltar",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://dle.rae.es/falta",
+            "name": "Diccionario de la lengua española, voce falta (locuzione hacer falta)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://dle.rae.es/echar",
+            "name": "Diccionario de la lengua española, voce echar (locuzione echar de menos)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://tatoeba.org/en/sentences/show/4378",
+            "name": "Tatoeba, corpus italiano-spagnolo, misurazione 2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://europepmc.org/article/PMC/PMC11337870",
+            "name": "Neurocognitive mechanisms of emotional interference in native and foreign languages: evidence from proficient bilinguals",
+            "datePublished": "2024-08-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Behavioral Neuroscience, vol. 18 (Frontiers Media SA, CC BY)"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "mi manchi in spagnolo",
+    "angle": "Wins by being the only post on this SERP that tests all three Spanish options against the Real Academia's own entries and counts how the Italian-to-Spanish alignments actually go: 22 attested Tatoeba \"mi manchi\" sentences, 22 of 22 with the speaker as subject, 0 preserving the Italian shape, 0 using \"me haces falta\" and 0 using \"me faltas\"; the DLE defines hacer falta as \"Ser precisa para algun fin\" (necessity, not affection) and gives faltar eleven senses none of which is missing a person, so the cognate of mancare is the trap. Not one of the eight measured results mentions \"me faltas\", cites the DLE, the DPD, Treccani or any corpus, and the sixth glosses extranar as \"perdere\" and calls te the subject pronoun tu — both contradicted by the dictionary and by the same page three steps later.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "bodyLanguage": "Italian",
+    "region": "it-it",
+    "tier": "A-translate",
+    "factsUsed": [
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "stat": "Vocabolario Treccani, voce mancare, headword 'v. intr. e tr. [der. di manco] (io manco, tu manchi, ecc.)'. Sense 1 is 'intr. (aus. essere)'. Sense 1.c: 'Con il compl. di termine, in frasi quali mi manchi, mi sei mancato, ci mancherai, ci manca molto e sim., riferite a persona di cui si sente, si e sentita o si sentira la lontananza, e quindi il desiderio e il rimpianto' — the same sense also carries the death euphemism ('e mancato all'affetto dei suoi cari') and the Manzoni citation («Lucia, volete voi mancarmi ora?»). Sense 1.a gives 'gli manca una (o qualche) rotella'. Sense 2 is 'intr. (aus. avere)' — 'Essere privo (di qualche cosa): una persona che manca di coraggio'. Full entry fetched and read 2026-09-26. The grammatical label used in this post is Treccani's own, complemento di termine.",
+        "publisher": "Istituto della Enciclopedia Italiana — Vocabolario Treccani online"
+      },
+      {
+        "url": "https://dle.rae.es/faltar",
+        "stat": "Diccionario de la lengua española, entry faltar (De falta), eleven senses, read in full 2026-09-26. NONE of the eleven is the affective 'to miss a person'. 1 'Dicho de una cualidad o de una circunstancia: No existir en lo que debiera tenerla'; 2 'Consumirse, acabar, fallecer'; 3 'fallar'; 4 'No acudir a una cita u obligacion'; 5 'Dicho de una persona o de una cosa: Estar ausente del lugar en que suele estar'; 6 'No estar donde deberia'; 7 'Dicho de una persona: No corresponder a lo que es, o no cumplir con lo que debe. Falto a la lealtad, a la nobleza'; 8 'Dejar de asistir a alguien'; 9 'Tratar con desconsideracion o sin el debido respeto a alguien'; 10 'Tener que transcurrir el tiempo que se indica'; 11 desus. 'carecer'. The entry 403s a scripted fetch (Cloudflare) and was read in the operator's browser.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+      },
+      {
+        "url": "https://dle.rae.es/falta",
+        "stat": "Diccionario de la lengua española, entry falta, locution section, read in full 2026-09-26. 'hacer falta 1. loc. verb. Dicho de una persona o de una cosa: Ser precisa para algun fin. 2. loc. verb. Dicho de una persona: No estar preparada en el momento oportuno. 3. loc. verb. desus. Dicho de una persona o de una cosa: Causar dano su carencia.' And 'hacerle a una persona falta alguien o algo 1. loc. verb. No tenerlo cuando seria necesario o provechoso.' Also 'echar en falta 1. loc. verb. Echar de menos.' The RAE therefore defines hacer falta as necessity and usefulness, not as affection. Read in the operator's browser; the host 403s a script.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+      },
+      {
+        "url": "https://dle.rae.es/echar",
+        "stat": "Diccionario de la lengua española, entry echar (Del lat. iactare), locution section, read in full 2026-09-26. 'echar de menos algo o a alguien 1. loc. verb. Advertir o notar su falta. 2. loc. verb. Tener sentimiento y pena por su falta.' And 'echar menos algo o a alguien 1. loc. verb. echar de menos.' Two readings — one neutral, one affective — live inside the same locution, so the neutral/affective split some pages assign to echar en falta versus echar de menos is not what the dictionary records. Checked separately: dle.rae.es/menos does NOT carry the locution; it is filed under the verb. Read in the operator's browser; the host 403s a script.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/4378",
+        "stat": "Tatoeba, Italian-Spanish corpus, measured 2026-09-26 via api_v0/search (from=ita, to=spa, trans_to=spa). The loose query \"mi manchi\" returns 116 sentences; all 116 were paginated and filtered on the literal Italian string, leaving 22 strict matches. Of those 22: echar de menos appears in 15, extranar in 10 (non-exclusive — one Italian sentence often carries several Spanish alignments), hacer falta in 0, faltar in 0, anorar in 0. 22 of 22 put the speaker in subject position; 0 of 22 preserve the Italian shape. Sentence 4378 'Mi manchi.' is aligned to 'Te extrano' and 'Te echo de menos'; 3239425 'Mi manchi tanto, amore!' to '¡Te extrano mucho, amor!'; 2180977 'Come mi manchi!' to '¡Como te echo de menos!'. The cognate test: strict \"mi manca un\" (a thing) is 2 of 2 rendered with faltar — 6910665 'Mi manca un calzino' to 'Me falta un calcetin' — while strict \"mi mancano\" with people is 0 of 4 — 2565313 'Mi mancano i miei bambini' to 'Extrano a mis hijos' / 'Echo de menos a mis hijos'. In the Spanish corpus, strict \"me faltas\" returns 0 sentences, and all 9 strict \"me hace falta\" sentences take a thing (harina, dinero, un calcetin, un martillo), 6 of the 9 aligned to Italian 'ho bisogno di', not to 'mi manca'."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11337870",
+        "stat": "Del Maschio N, Sulpizio S, Bellini C, Del Mauro G, Giannachi M, Buga D, Fedeli D, Perani D, Abutalebi J, 'Neurocognitive mechanisms of emotional interference in native and foreign languages: evidence from proficient bilinguals', Frontiers in Behavioral Neuroscience, vol. 18, doi 10.3389/fnbeh.2024.1392005, PMC11337870. ABSTRACT ONLY — the PDF does not parse in this environment. Open access confirmed via Unpaywall before citing: is_oa true, oa_status gold, licence CC BY. Abstract: the sample comprised 'proficient Italian-English bilinguals who learned their L2 during childhood mainly in instructional rather than immersive contexts'; 'In spite of no detectable behavioural effects, we found stronger brain activations for L1 versus L2 emotional words in sectors of the posteromedial cortex involved in attention modulation, episodic memory, and affective processing'; the authors read this as 'consistent with the hypothesis of a stronger emotional resonance when processing words in a native language'. The L2 was English, not Spanish.",
+        "publishedDate": "2024-08-07",
+        "publisher": "Frontiers in Behavioral Neuroscience, vol. 18 (Frontiers Media SA, CC BY)"
+      }
+    ],
+    "serpMeasurement": {
+      "query": "mi manchi in spagnolo",
+      "market": "it-it",
+      "measuredAt": "2026-09-26",
+      "route": "Google served to it-IT in the operator's real browser, gl=it&hl=it&pws=0&num=20. ONE clean run only.",
+      "routesThatFailed": [
+        "scripts/serp-ddg.mjs — run once as BRIEF section 3 instructs; html.duckduckgo.com:443 UND_ERR_CONNECT_TIMEOUT. Not retried.",
+        "scripts/serp.mjs (Brave) — not attempted; BRIEF records a hard 429.",
+        "Google confirmation run — /sorry/index twice, so there is no second Google measurement.",
+        "Bing mkt=it-IT&setlang=it in the real browser — served an explicit zero-result page (\"Non sono disponibili risultati per mi manchi in spagnolo\"). The BRIEF's Bing fallback did NOT work for this query."
+      ],
+      "contentionObserved": "A mid-session scrape returned google.com/sorry/index?continue=...saudade+em+ingles...&hl=pt-BR — another agent's Portuguese query inside the shared tab. Discarded, not recorded, and re-fetched. Every recorded scrape was self-authenticated: the returned titles are Italian and contain the query terms.",
+      "resultsSeen": 8,
+      "resultsCounted": "8 of the 8 I actually saw. Google returned 8 organic results in the rendered page (scrollHeight 1039px; a smart-scroll added nothing), so 8 is what was served, not 8 of 10 seen.",
+      "results": [
+        {
+          "position": 1,
+          "host": "context.reverso.net",
+          "type": "machine-aligned bilingual example bank",
+          "weak": true
+        },
+        {
+          "position": 2,
+          "host": "spanishschoolvalencia.com/it/",
+          "type": "language-school blog post in Italian (El Rincon del Tandem), ~1,325 words — the only genuine Italian editorial, and it cites no dictionary",
+          "weak": false
+        },
+        {
+          "position": 3,
+          "host": "it.bab.la",
+          "type": "dictionary aggregator",
+          "weak": true
+        },
+        {
+          "position": 4,
+          "host": "reddit.com/r/learnspanish",
+          "type": "forum thread, written in English, surfaced with ?tl=it",
+          "weak": true
+        },
+        {
+          "position": 5,
+          "host": "it.glosbe.com",
+          "type": "aggregator, ~327 words, headed \"Traduzioni automatiche\"",
+          "weak": true
+        },
+        {
+          "position": 6,
+          "host": "wikihow.it",
+          "type": "translated how-to, ~2,639 words, references are spanishdict.com pages",
+          "weak": true
+        },
+        {
+          "position": 7,
+          "host": "tiktok.com",
+          "type": "short video, not a page",
+          "weak": true
+        },
+        {
+          "position": 8,
+          "host": "dizionario.reverso.net",
+          "type": "Reverso again — Reverso takes 2 of the 8 slots",
+          "weak": true
+        }
+      ],
+      "weakCount": "7 of 8",
+      "zeroCite": "None of the eight cites the RAE, the DLE, the DPD, Treccani, the Crusca or any corpus.",
+      "gate4": "PROCEED. The top of the SERP is one language-school blog post plus seven aggregators, a forum thread in the wrong language and a video. No strong Italian editorial incumbent.",
+      "checkableError": "wikiHow.it (#6), section \"Dire a Qualcuno che ti Manca\", step on te extrano: «il verbo extranar significa \"perdere\", mentre te corrisponde al pronome \"tu\". Letteralmente, il termine si traduce con \"ti perdo\".» Two errors in one sentence. (1) extranar does not mean perder: dle.rae.es/extranar gives eight senses, none of them perder; sense 2 is «Echar de menos a alguien o algo, sentir su falta», and the etymology is extraneare, \"tratar como a un extrano\". (2) te in te extrano is the direct-object pronoun, not the subject pronoun tu — and the SAME page contradicts itself three steps later: «la persona con cui stai parlando resta il complemento oggetto della frase». Secondary divergence, reported as such and not as an error: spanishschoolvalencia.com (#2) asserts that echar en falta marks plain absence and echar de menos the emotional reading; the DLE records no such split — dle.rae.es/falta gives «echar en falta 1. loc. verb. Echar de menos» flat, and dle.rae.es/echar files BOTH readings inside echar de menos itself."
+    },
+    "additionalChecks": [
+      "capcheck.mjs run immediately before writing: no banned URL used in this batch, no domain at cap, no URL at cap. The journal named in the one scholarly citation is Frontiers in Behavioral Neuroscience — new to this batch, which so far uses Frontiers in Psychology (a different journal) in two posts.",
+      "Deliberately avoided per the row brief and confirmed unused here: PMC13552847 (PNAS, already in three sibling posts), doi.org, journals.plos.org, MDPI Languages 11(3):36, the Vietri chapter. Two PLoS ONE candidates surfaced by findpapers.mjs (PMC3651159, PMC12221082) were rejected on that ground alone, not on quality.",
+      "Open access checked BEFORE citing, not inferred from the title: Unpaywall on 10.3389/fnbeh.2024.1392005 returned is_oa true, oa_status gold, licence CC BY, publisher Frontiers Media SA. Abstract only — the PDF does not parse in this environment, and the body says so.",
+      "Zero WebSearch calls used on this row. Paper discovery ran entirely through findpapers.mjs (Crossref + Europe PMC) and the Europe PMC REST API.",
+      "dle.rae.es/extranar was fetched and read in full (eight senses, no regional mark on any of them, sense 2 «Echar de menos a alguien o algo, sentir su falta», etymology extraneare) and is quoted in the body, but deliberately NOT hyperlinked, to stay inside the 6-outbound-link ceiling. The Spanish sibling post carries that link.",
+      "en.wiktionary.org/wiki/faltar resolves (MediaWiki parse API, HTTP 200); its Spanish section gives five senses — lack, remain, be absent, miss an appointment — and no affective \"miss a person\" sense, independently corroborating the DLE. Verified, not linked, same ceiling.",
+      "dle.rae.es/menos was checked on the chance it filed the locution. It does not: echar de menos lives under echar. Negative recorded rather than assumed.",
+      "The grammatical label in the body is Treccani's own, complemento di termine, taken from a first-hand fetch of the entry and not from the sibling post. The word \"dativo\" appears once and only to say it is the wrong label for modern Italian.",
+      "Internal links total 5: three from TEMPLATE_LINKS (/missyou-gf, /streak, /templates, all three verified present in app/lib/prompt.ts) plus two sibling blog cross-links (/blog/mi-manchi-in-inglese, /blog/diferencia-entre-te-extrano-y-te-echo-de-menos). The checklist item counts 2-4 internal links from TEMPLATE_LINKS, which is satisfied at 3; the two blog cross-links are owed by the batch brief and are recorded here rather than counted against that item.",
+      "/missyou-gf verified at source, not from the brief: app/lib/prompt.ts line 44 defines it as \"'I miss you' page for a girlfriend/partner\". The body discloses in Italian prose that it is English-language AND recipient-specific, and argues against using it when the recipient is not a partner.",
+      "pricecheck-intl.mjs run against this slug before saving. No banned Italian term (gratis / gratuito / gratuitamente / senza costi / non costa nulla), no price, no abbonamento, no tier claim. The one place the reader would expect one says plainly that the internal data sheet does not contain it.",
+      "Body word count 1,781 excluding FAQs, plain whitespace split — deliberately kept under the 1,789-1,800 band the batch brief flags as fragile, and both owed sibling cross-links are already placed, so no later word-adding pass is owed on this file.",
+      "Framing claims in the row prompt that I checked before building on them: \"me haces falta keeps the Italian shape but may carry a different weight (need vs missing)\" — CONFIRMED by dle.rae.es/falta, which defines hacer falta as «Ser precisa para algun fin». \"Does me faltas work?\" — it does not, and dle.rae.es/faltar gives the reason across eleven senses. \"Italian mi manchi makes the missed person the subject, Spanish te extrano/te echo de menos make the speaker the subject\" — CONFIRMED by Treccani 1.c and by 22 of 22 Tatoeba alignments. No false framing claim found in this row's prompt."
+    ],
+    "structuralLimitations": [
+      "The SERP is a single measurement. Google refused the confirmation run with /sorry/index and Bing mkt=it-IT returned zero results for this query, so there is no second index to compare against. Recorded in the body, not only here.",
+      "Every RAE corpus host (CORPES XXI, CREA) 403s a script, so no frequency figure from them appears anywhere in this post. Tatoeba carries the counting instead, and the body states what Tatoeba is and how small 22 sentences are.",
+      "The four RAE dictionary entries 403 a scripted fetch behind Cloudflare and had to be read in the operator's real browser. Each one was re-loaded and self-authenticated by headword before anything was quoted from it.",
+      "Positions 1, 3 and 8 (context.reverso.net, it.bab.la, dizionario.reverso.net) all 403 a scripted UA, and reddit.com returned a one-word shell. Their page types are inferred from the SERP title and the host, not from a fetched body. Stated rather than presented as a full competitor read.",
+      "No open-access study of Italian speakers producing Spanish affective formulae exists that I could reach. Search terms tried through findpapers.mjs: \"false friends Italian Spanish cognates cross-linguistic influence\", \"Italian Spanish closely related languages transfer intercomprehension learners\" (Europe PMC returned nothing at all), \"expressing love affection emotion words second language romantic partner\", \"emotional resonance first language versus second language emotion words bilinguals\". The closest reachable work is an Italian-English fMRI study whose L2 is English, not Spanish, and whose behavioural measures showed nothing — both limits are stated in the body.",
+      "First-party differentiation is thin. facts-snapshot.md offers twelve miss-you lines already shared across 54+ sibling posts; the two least-collided (47 city pairs, 1,434 hug taps) were each already used by two other posts. This post shares zero lines with the Italian sibling and two with the Spanish sibling, which is the best available separation, not a good one.",
+      "Nothing in the database is segmented by language or country, and it records which TEMPLATE was opened, never who received it. No figure in this post is Italian or Spanish, and the body says so in its own sentence rather than in a footnote.",
+      "The mandatory template /missyou-gf is mismatched twice for this reader: English-language interface, and recipient-specific to a girlfriend or partner. The post discloses this in body prose and tells the reader not to use it when the recipient is a parent, a sibling or a friend."
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "The facts are present (47 city pairs and 1,434 hug taps inside the first 150 words, plus 43.5% password-protection and 2,417 views later), but the differentiation is thin and I am recording it rather than hiding it: facts-snapshot.md offers twelve miss-you lines shared across 54+ sibling posts, and the two least-collided of them were already used by two other posts each. No permutation of these twelve is genuinely unique to this page. Would close only with a new probe of the database."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug mi-manchi-in-spagnolo keeps the Italian stop words \"in\" and the clitic \"mi\" because the exact-match keyword is the phrase itself; stripping them would give manchi-spagnolo, which no reader types and which breaks the keyword-in-slug requirement. Structural trade-off, taken deliberately. Would close only if the target keyword changed."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Not verifiable in this run: the Strapi check (strapi.subhsandesh.in/api/articles?filters[slug][$eq]=mi-manchi-in-spagnolo) is offline for this batch, as recorded for every sibling row. Would close by re-running that query before publish."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Three of the six sources share the host dle.rae.es, which is above the raw 3-post domain count even though they are three different headwords. dle.rae.es is listed as a cap-exempt reference INSTRUMENT in verify.config.json and treccani.it and tatoeba.org are too, so the intended reading is that this item is satisfied; I record it as failed rather than assert a pass on a rule the script and the config disagree about. The only capped publisher named here is Frontiers in Behavioral Neuroscience, new to this batch and in 1 post. capcheck.mjs was run immediately before writing and reported no banned URL, no domain at cap and no URL at cap."
+        },
+        {
+          "item": "No figure, chart, table or substantial passage reproduced from a source",
+          "why": "The post quotes four dictionary definitions verbatim (Treccani 1.c, DLE faltar, DLE hacer falta, DLE echar de menos) and one sentence of a ranking competitor page. Each is a short quoted definition used as evidence and attributed in place, not a reproduced figure or table — but they are verbatim passages from sources, so I am flagging it rather than asserting a clean pass."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body contains no H3s and ranks nothing ordinally — the two tables are comparisons, not rankings — so there is no list for an ItemList to mirror. Adding one would fabricate an ordering the prose does not assert."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this over the eight measured results because it is the only one that carries numbers and dictionary entries rather than assertions: 22 of 22 attested Italian-to-Spanish alignments with the subject flipped, 0 using \"me haces falta\" and 0 using \"me faltas\", the RAE's own definition of hacer falta as necessity rather than affection, eleven senses of faltar none of which is missing a person, and a checkable self-contradiction in the sixth result. Not one of the eight cites the RAE, Treccani or any corpus, and none of them raises \"me faltas\" at all, so the central claim here has no competing version on this SERP. Against that: subhsandesh.in has 905 live posts and none in Italian, so the domain has no track record in this language; Reverso, bab.la, Glosbe and wikiHow carry authority this page cannot match in the near term; and the first-party data, while real, is not segmented by language and therefore supports the post's argument only obliquely. Ranking takes months and I am not predicting an outcome."
+    },
+    "generatedAt": "2026-09-26T14:37:25.037Z"
+  }
+}

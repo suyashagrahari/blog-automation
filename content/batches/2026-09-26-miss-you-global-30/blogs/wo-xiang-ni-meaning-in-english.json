@@ -1,0 +1,358 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "What \"Wo Xiang Ni\" (我想你) Actually Means in English",
+    "slug": "wo-xiang-ni-meaning-in-english",
+    "excerpt": "我想你 means \"I miss you\" only as a complete clause. Of the 31 Tatoeba sentences containing it, 3 are translated \"miss\", 18 \"I think that you…\" and 9 \"I want you to…\" — and three dictionaries have no entry for the phrase at all.",
+    "metaTitle": "Wo Xiang Ni Meaning in English — 想 Is Not Simply \"Miss\"",
+    "metaDescription": "Wo xiang ni (我想你) means \"I miss you\" only when the sentence ends there. Of 31 attested Tatoeba sentences, just 3 read \"miss\" and 18 read \"I think that you\".",
+    "keywords": "wo xiang ni meaning in english, 我想你 meaning, wo xiang ni, xiang vs xiangnian, third tone sandhi mandarin",
+    "canonicalURL": "https://subhsandesh.in/blog/wo-xiang-ni-meaning-in-english",
+    "ogType": "article",
+    "tags": [
+      "mandarin",
+      "chinese",
+      "translation",
+      "long-distance",
+      "language-learning"
+    ],
+    "keyTakeaways": [
+      "我想你 means \"I miss you\" only when the clause ends at 你. Of the 31 Tatoeba sentences containing the string, 18 are translated \"I think that you…\" and 9 \"I want you to…\".",
+      "CC-CEDICT, 漢典 and English Wiktionary all list \"miss\" as the fourth or fifth sense of 想, behind \"think\" — and none of the three has any entry for 我想你 itself.",
+      "Strip the tone marks and wo xiang ni is also 我像你, \"I'm like you\": 想 is xiǎng (third tone, U+60F3), 像 is xiàng (fourth tone, U+50CF).",
+      "Adding a degree adverb removes the ambiguity entirely — all 12 corpus sentences pairing 很, 非常, 好 or 多麼 with 想你 are translated with \"miss\".",
+      "Across 214 SubhSandesh miss-you pages there were 2,417 views, 11.3 per page, and 43.5% of senders locked the page with a password before sharing it."
+    ],
+    "faqs": [
+      {
+        "question": "Is 我想你 written the same way in Traditional and Simplified Chinese?",
+        "answer": "Yes. CC-CEDICT lists all three characters with identical traditional and simplified forms — 我 我, 想 想, 你 你 — so the phrase is unchanged in either script. Their codepoints are U+6211, U+60F3 and U+4F60, all in the CJK Unified Ideographs block charted at unicode.org."
+      },
+      {
+        "question": "What does 我想你了 mean, and why do people add 了?",
+        "answer": "CC-CEDICT gives 了 (le) three jobs: completed-action marker, modal particle indicating a change of state, and modal particle intensifying the preceding clause. On 我想你了 it is the second or third of those, so it reads closer to “I'm missing you now” than to a plain statement."
+      },
+      {
+        "question": "Can I send 我想你 to a friend or to my parents, or is it only for a partner?",
+        "answer": "Nothing in the dictionary entries restricts it by relationship. The real risk is structural, not social: keep the clause ending at 你. In the corpus, 想念 takes objects as ordinary as 大学 (college) and 波士顿 (Boston), so the miss-family verbs are not reserved for romance."
+      },
+      {
+        "question": "Why does my translation app always give “I miss you”?",
+        "answer": "Because it returns the single most probable mapping for the string. Across the 31 attested Tatoeba sentences that contain 我想你, that reading covers 3 of them. The app is not wrong so much as it is answering a different question than the one you asked."
+      },
+      {
+        "question": "Is 我想念你 more formal than 我想你?",
+        "answer": "It is not a formality difference, it is a lexical one. 想念 is a dedicated verb with no “think that” or “want to” reading at all, and English Wiktionary tags it Elementary Mandarin. Using it removes the ambiguity rather than raising the register."
+      },
+      {
+        "question": "What does 我好想你 mean?",
+        "answer": "“I miss you so much.” 好 here is a degree adverb. All 12 corpus sentences pairing 很, 非常, 好 or 多麼 with 想你 are translated with “miss”, with no exceptions in the set."
+      },
+      {
+        "question": "Does 我向你 mean anything?",
+        "answer": "Not on its own. 向 (xiàng, U+5411) is glossed by CC-CEDICT as “towards; to face; to turn towards”, and it needs a verb after it to complete the sentence. It shares the toneless spelling xiang with 想 but is fourth tone, not third."
+      },
+      {
+        "question": "What is the Unicode codepoint for 想?",
+        "answer": "U+60F3. It sits in the CJK Unified Ideographs block, U+4E00 to U+9FFF, whose code chart is published at unicode.org. 像 is U+50CF and 向 is U+5411 — three separate codepoints for what a tone-stripped romanisation flattens into one string."
+      },
+      {
+        "question": "Is 思念 ever the wrong word to use?",
+        "answer": "It is never ungrammatical, but it is marked. Of its nine attested Tatoeba sentences, four use it as a noun rather than a verb, and English Wiktionary's only two citations for it are song lyrics — one from 月亮代表我的心. In a text message it reads the way “long for” reads in English."
+      },
+      {
+        "question": "Do I need the tone marks when I actually text someone?",
+        "answer": "No, because you would send the characters, not the romanisation. 想 and 像 are visually distinct and unambiguous on screen. Tone marks matter only when the phrase is written in pinyin, which is exactly the situation this search comes from."
+      },
+      {
+        "question": "Is 我想你 what a Cantonese speaker would say?",
+        "answer": "Usually not. English Wiktionary gives 掛住 two Cantonese senses, “to think about, to miss” and “to be preoccupied with”, so 我掛住你 is the Cantonese form. The same entry's Mandarin sense of 掛住 is “to get caught (on a thorny object, such as a nail)”, which is not a message you want to send by accident."
+      }
+    ],
+    "coverImageQuery": "chinese characters handwritten notebook ink",
+    "coverImagePrompt": "A close, photorealistic overhead shot of a learner's notebook on a wooden desk, three Chinese characters written in ink with pinyin tone marks pencilled underneath, a dictionary open and out of focus beside it. Warm side light, shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No legible text beyond the handwriting, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# What \"Wo Xiang Ni\" (我想你) Actually Means in English\n\n**Wo xiang ni** is 我想你, and when it stands alone as a complete sentence it means **\"I miss you.\"** When anything follows 你, it almost always stops meaning that. In the Tatoeba corpus, 31 attested Mandarin sentences contain the literal string 我想你. Only 3 are translated with \"miss.\" Eighteen are translated \"I think that you…\" and nine are \"I want you to…\". Every one of the three \"miss\" readings ends the clause at 你; all 28 others continue into a verb phrase.\n\nThat distinction is invisible in a toneless romanisation, and it matters if you are about to send it. On SubhSandesh's own \"I miss you\" pages, recipients tapped the on-screen hug **1,434 times across 138 of 214 pages** — 64.5% of pages got at least one — and **43.5% of senders (93 of 214) password-protected the page** before sharing it, against 38.5% platform-wide. People are careful with this sentence. It deserves to be the sentence they meant.\n\n## Three dictionaries have no entry for 我想你 at all\n\nThis is the first thing worth knowing, and no ranking page says it.\n\nCC-CEDICT, the open Chinese-English dictionary published by MDBG, contains 125,115 entries. Twenty-one of them begin with 我, including whole sentences such as 我也是醉了 (\"I can't even\") and 我的天 (\"OMG\"). 我想你 is not one of them.\n\nEnglish Wiktionary returns `missingtitle` for 我想你. 漢典 (zdic.net) returns a 404 reading 「route snapshot 不存在」.\n\nThat is not an oversight. 我想你 is a sentence assembled by grammar — pronoun, verb, pronoun — not a lexical item, so no dictionary lists it. Which means every gloss you read for it is somebody's inference from the verb in the middle.\n\n## 想 has five senses, and \"miss\" is the fifth\n\nHere is CC-CEDICT's complete entry for 想 (xiǎng, U+60F3), in the publisher's own order:\n\n1. to think (about)\n2. to think of; to devise\n3. to think (that); to believe (that)\n4. to desire; to want (to)\n5. to miss (feel wistful about the absence of)\n\nSo \"miss\" is a listed sense, not an invention — but it is the last of five, behind three flavours of *think* and one of *want*. 漢典's 基本解釋 orders it the same way: 思索 (ponder) → 推測 (infer) → 希望、打算 (hope, plan) → 懷念、惦記 (cherish, keep in mind) → 像 (resemble). English Wiktionary lists eight senses for the Chinese character and puts \"to miss (to feel the absence of someone or something)\" fifth.\n\nThree independent lexicographic projects, three different editorial teams, and all three bury \"miss\" behind \"think.\"\n\n## Anything after 你 makes it a different sentence\n\nThe 國語辭典 entry served on 漢典 gives 想 a sense 4, 「認為、覺得」 — *to consider, to feel that*. Its illustrative example is 「我想你應該回家一趟。」 — \"I think you ought to go home for a bit.\"\n\nThe dictionary's own example sentence for *that* sense opens with the exact string 我想你. It does not mean \"I miss you.\"\n\nThe Tatoeba corpus agrees, and quantifies it. Of the 31 sentences containing 我想你: 我想你饿了 → \"I think you're hungry.\" 我想你把真相告诉我 → \"I want you to tell me the truth.\" 我想你快点好 → \"I hope you'll get better soon.\" The only two sentences where 我想你 is the entire clause — 我想你! and 我想你。— are both translated \"I miss you,\" with zero exceptions in either direction.\n\nThe rule, then, is structural rather than lexical: **我想你 followed by a full stop is \"I miss you.\" 我想你 followed by anything else is \"I think you…\" or \"I want you to…\".**\n\n## Without tone marks, \"wo xiang ni\" is two different sentences\n\nYou typed *wo xiang ni*. Hanyu Pinyin writes it *wǒ xiǎng nǐ*. The diacritic is not decoration.\n\n想 is **xiǎng**, third tone. **像** (U+50CF) and **向** (U+5411) are both **xiàng**, fourth tone — different words. CC-CEDICT glosses 像 as \"to resemble; to be like; to look as if.\"\n\nSo 我像你 is also *wo xiang ni* once you strip the tones, and it is a perfectly grammatical sentence meaning **\"I'm like you\"** or \"I look like you.\" Send that to someone you are missing and you have told them you resemble them.\n\nThe two characters are genuinely entangled, not merely homographic in romanisation: 漢典's fifth basic sense of 想 is simply 像, illustrated with Li Bai's line 「雲想衣裳花想容」. A learner reading a tone-stripped transcription has no way to see any of this.\n\n## Three third tones in a row, and what actually happens to the sound\n\nHere is where most pages stop being useful. 我 (wǒ), 想 (xiǎng) and 你 (nǐ) are **all three third tone**. The phrase is not two low tones followed by something else — it is three in a row.\n\nMandarin does not let that stand. The phenomenon has a name: **third tone sandhi**, a phonological alternation, not a spelling rule. A 2026 study in *PLoS ONE* states it plainly: the Mandarin low tone (T3) alters when followed by another T3, and \"the resulting F0 is superficially the same as that of the rising tone (T2).\" Its ten pairs of native-speaker participants showed measurable confusion when a task forced sandhi to apply.\n\nTwo consequences for you. First, what you say does not match what pinyin writes, because pinyin records the underlying tones, not the surface ones. Second, the exact surface pattern across three syllables depends on how you group them, and reputable sources disagree — so we are not going to print one answer here as though it were settled.\n\nDifficulty here is real and persistent. A 2025 study in *Brain Sciences* recorded Mandarin tone production from beginner, intermediate and advanced L2 learners and found the ranking of hard tone sequences stayed the same at every proficiency level; only accuracy moved. Learning more Chinese does not make the sequence easier, it just makes you better at it.\n\n## 想念 or 思念: which one to actually send\n\nBoth are dedicated \"miss/long for\" words, and English Wiktionary gives them word-for-word identical glosses: \"to miss; to think of; to yearn for; to reminisce.\" CC-CEDICT does not. It orders 想念 as *to miss / to remember with longing / to long to see again*, and 思念 as *to think of / to long for / to miss*. Same instrument family, different lead sense.\n\n| | 我想你 | 想念 (xiǎngniàn) | 思念 (sīniàn) |\n|---|---|---|---|\n| Dictionary entry exists | No (0 of 125,115 CC-CEDICT entries) | Yes | Yes |\n| CC-CEDICT's first gloss | — | \"to miss\" | \"to think of\" |\n| Wiktionary level tag | — | Elementary Mandarin | Intermediate Mandarin |\n| Tatoeba sentences containing it | 31 | 37 | 9 |\n| Typical object in those sentences | a person | a person, a city, a college | the old days, longing itself |\n| Safe in a text message | Only as a whole sentence | Yes | Reads like a lyric |\n\nThe corpus settles it. 想念 appears in 37 attested sentences with ordinary objects — 我想念你, 我想念大学, 我想念波士顿. 思念 appears in nine, four of which use it as a noun, one of which is about night-blooming jasmine symbolising 思念 in literature. Wiktionary's only two citations for 思念 are song lyrics, one of them from *The Moon Represents My Heart*.\n\nThere is a simpler fix than choosing between them. Add a degree adverb. Of the 12 corpus sentences pairing 很, 非常, 好 or 多麼 with 想你, **all 12** are translated with \"miss\" — 我很想你, 我非常想你, 我好想你. Not one is read as \"think.\" One character removes the entire ambiguity.\n\n## What the pages ranking for this get wrong\n\nWe measured this search on Bing's en-US market through an isolated browser on 26 September 2026, because Google returned HTTP 429 on two attempts. Of the nine organic results we actually saw, eight were user-generated Q&A, dictionary scrapers, social posts or an off-topic domain; one was a language-school article.\n\nBing's AI answer box, identical across two authenticated runs, contains a checkable contradiction. It lists 想 (xiang) = \"miss\" **or** \"think of,\" then concludes: \"Thus, the literal translation is 'I miss you'.\" Both cannot hold. \"Literal\" is precisely what the missing-reading is not — it is the fifth sense in CC-CEDICT, fifth in Wiktionary and fourth in 漢典, behind *think* in all three. The answer box also never mentions tone sandhi, despite printing the pinyin.\n\nOur own [guide to saying \"I miss you\" in different languages](/blog/i-miss-you-in-different-languages) has the same gap: it lists 我想你 with a flat gloss and no flag that the reading depends on the clause ending there. This page is the correction.\n\n## If you are the one sending it\n\nWhen you have the sentence right, the page carrying it matters less than people think — but here is what our own data shows, with its limits stated up front.\n\nAcross 214 pages built on the [I miss you page for a girlfriend or partner](/missyou-gf) since 28 July 2026, there were **2,417 recorded views, 11.3 per page on average, and 104 on the single most-opened page**. That figure is page views, not unique visitors — one person reopening a page twenty times is twenty views. The sample is two months and n=214, so no seasonal reading survives it.\n\nTwo disclosures matter more here than anywhere. **Nothing in our database is segmented by language or country, so no number on this page is a Chinese figure** — it is a platform-wide figure that happens to be the honest one we have. And the database records **which template was opened, never who received it**, so nothing here tells you anything about recipients. Fields such as city, background music and \"together since\" are pickers with defaults, and their fill rates are not sender choices.\n\nBe warned about the fit. That template is an **English-language page, and it is built for a girlfriend or partner specifically** — English labels, English prompts, English furniture throughout. If you are a learner writing to a teacher, a friend or your parents, it is the wrong page and we would rather say so. A [one-tap-a-day streak page](/streak) suits the long-distance case better, because the point is showing up daily rather than declaring anything, and it is not recipient-specific. If neither fits, [browse the full template list](/templates) instead. Our own records carry nothing at all about plans or billing, so we are not going to state anything on that either way.\n\nAnd if 我想你 is what you want to send, send 我很想你. The corpus is unanimous about that one.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/wo-xiang-ni-meaning-in-english#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Mandarin Chinese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mandarin_Chinese",
+              "https://www.wikidata.org/wiki/Q9192"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Pinyin",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Pinyin",
+              "https://www.wikidata.org/wiki/Q42222"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tone sandhi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tone_sandhi",
+              "https://www.wikidata.org/wiki/Q1577090"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "CEDICT",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/CEDICT",
+              "https://www.wikidata.org/wiki/Q2931247"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "CC-CEDICT's entry for 想 [xiang3] lists five senses in order — to think (about) / to think of; to devise / to t",
+            "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E6%83%B3",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "漢典 (zdic.net) orders the 基本解釋 of 想 as 思索 → 推測、認為 → 希望、打算 → 懷念、惦記 → 像, putting the missing sense fourth of five",
+            "url": "https://www.zdic.net/hans/%E6%83%B3",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary's Chinese section for 想 lists eight senses and places 'to miss (to feel the absence of some",
+            "url": "https://en.wiktionary.org/wiki/%E6%83%B3",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A search for 我想你 restricted to Mandarin with English translations reports 511 results; inspected individually,",
+            "url": "https://tatoeba.org/en/sentences/search?from=cmn&to=eng&query=%E6%88%91%E6%83%B3%E4%BD%A0",
+            "datePublished": "2026-09-26"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pelzl, Tatsumi, Cui, Viswanathan & Olmstead, 'Studying mandarin tone sandhi in interaction', PLoS ONE 21(8), C",
+            "url": "https://europepmc.org/article/PMC/PMC13489460",
+            "datePublished": "2026-08-19"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Fu, Lee & Zheng, 'Korean Learners' Acquisition of Mandarin Disyllabic Tone Sequences Across Proficiency Levels",
+            "url": "https://europepmc.org/article/PMC/PMC12839057",
+            "datePublished": "2025-12-24"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The five senses of 想 (xiǎng) as listed by CC-CEDICT, in the publisher's order",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "to think (about)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "to think of; to devise"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "to think (that); to believe (that)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "to desire; to want (to)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "to miss (feel wistful about the absence of)"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "wo xiang ni meaning in english",
+    "angle": "Wins by being the only post that measures how 我想你 is actually translated in an attested corpus — 31 contiguous Tatoeba sentences, of which 3 read \"miss\" and 18 read \"I think that you…\" — against three dictionaries that have no entry for the phrase at all, and grounds the send decision in 214 real miss-you pages.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E6%83%B3",
+        "stat": "CC-CEDICT's entry for 想 [xiang3] lists five senses in order — to think (about) / to think of; to devise / to think (that); to believe (that) / to desire; to want (to) / to miss (feel wistful about the absence of). The full CC-CEDICT release carries 125,115 entries, 21 of which begin with 我, and 我想你 is not among them. 想念 is glossed 'to miss / to remember with longing / to long to see again'; 思念 is glossed 'to think of / to long for / to miss'; 像 [xiang4] is 'to resemble; to be like'. CC-CEDICT, CC BY-SA 4.0, published by MDBG.",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E6%83%B3",
+        "stat": "漢典 (zdic.net) orders the 基本解釋 of 想 as 思索 → 推測、認為 → 希望、打算 → 懷念、惦記 → 像, putting the missing sense fourth of five. Its 國語辭典 section gives sense 4 as 「認為、覺得」 and illustrates it with the sentence 「我想你應該回家一趟。」 — 'I think you ought to go home for a bit'. A lookup of 我想你 itself returns HTTP 404, 「route snapshot 不存在」.",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%E6%83%B3",
+        "stat": "English Wiktionary's Chinese section for 想 lists eight senses and places 'to miss (to feel the absence of someone or something)' fifth, behind three 'think' senses and 'to want; to wish for; to desire'. Its usage note records that in the want sense 想 also renders 'would like'. A query for 我想你 returns missingtitle. The entries for 想念 and 思念 carry word-for-word identical glosses — 'to miss; to think of; to yearn for; to reminisce' — but tag 想念 Elementary Mandarin and 思念 Intermediate Mandarin, and 思念's only two quotations are song lyrics, one from 月亮代表我的心 (1973).",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=cmn&to=eng&query=%E6%88%91%E6%83%B3%E4%BD%A0",
+        "stat": "A search for 我想你 restricted to Mandarin with English translations reports 511 results; inspected individually, 31 contain the contiguous string 我想你. Of those, 3 are translated with 'miss', 18 with 'I think / suppose / guess / assume that you…', 9 with 'I want you to…' and 1 with 'I hope you…'. The only two sentences in which 我想你 is the entire clause are both translated 'I miss you'. A parallel search returns 37 attested sentences containing 想念 against 9 containing 思念, and all 12 sentences pairing a degree adverb (很, 非常, 好, 多麼) with 想你 are translated with 'miss'. Tatoeba sentences are CC BY 2.0 FR.",
+        "publishedDate": "2026-09-26"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13489460",
+        "stat": "Pelzl, Tatsumi, Cui, Viswanathan & Olmstead, 'Studying mandarin tone sandhi in interaction', PLoS ONE 21(8), CC BY: 'The Mandarin low tone (T3) undergoes an alteration, third tone sandhi, when followed by another T3. The resulting F0 is superficially the same as that of the rising tone (T2) and has the potential to induce confusion.' Ten pairs of L1 Chinese participants completed an interactive phrase-matching task, and task performance showed clear evidence of sandhi-induced ambiguity. Abstract read via the Europe PMC REST API; the article landing page returns 403 to a scripted request and the PDF does not parse here.",
+        "publishedDate": "2026-08-19"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12839057",
+        "stat": "Fu, Lee & Zheng, 'Korean Learners' Acquisition of Mandarin Disyllabic Tone Sequences Across Proficiency Levels', Brain Sciences 16(1), CC BY: Mandarin tone production was recorded from beginner, intermediate and advanced L2 learners, and 'across groups, tone sequence rankings were consistent, differing mainly in accuracy rates' — the hardest sequences stayed hardest at every proficiency level. Abstract read via the Europe PMC REST API; landing page 403s a scripted request.",
+        "publishedDate": "2025-12-24"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS"
+      ],
+      "failed": [
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The target keyword 'wo xiang ni meaning in english' is six words long, so it cannot fit inside the first five words of a 50-60 character metaTitle. The exact keyword does open the metaTitle and occupies words 1-6; the item as written is arithmetically unsatisfiable for a six-word keyword."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop word 'in', which is unavoidable: the keyword is 'wo xiang ni meaning in english' and dropping 'in' would break exact-match with the query the row targets."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Strapi was unreachable from this environment during the write, so the live slug-collision check at strapi.subhsandesh.in could not be run. Re-check with the articles endpoint filtered on slug before publishing."
+        },
+        {
+          "item": "2–4 internal links with descriptive anchor text, placed after value is established",
+          "why": "Four internal links are present. Three (/missyou-gf, /streak, /templates) are TEMPLATE_LINKS URLs with descriptive anchors placed after the section that earns them. The fourth is the cross-link to the live hub /blog/i-miss-you-in-different-languages, which the row mandates; it is a real internal URL but it is a blog route, not a template route."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Same cause as above: /blog/i-miss-you-in-different-languages is a genuine internal URL and resolves 200, but it is not a member of TEMPLATE_LINKS. The three template links all are."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Caps are enforced by the orchestrator at batch quiescence, and capcheck.mjs reports only a mid-write count that goes stale while six agents write at once. Verified at write time that none of the six URLs appears in a sibling file and that no banned URL is used; PLoS ONE and Brain Sciences are each cited zero times elsewhere in this batch. Cannot be asserted true for the finished batch from inside one post."
+        },
+        {
+          "item": "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+          "why": "about/mentions carry five entities whose Wikidata QIDs were paired against the live Wikipedia API in this session (Mandarin Chinese Q9192, Pinyin Q42222, Tone sandhi Q1577090, CEDICT Q2931247 — note the CC-CEDICT title redirects to CEDICT — and Tatoeba Q495456). Verified, but recorded here rather than in passed because the redirect means the sameAs URL and the article title are not byte-identical."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body's only ordered list is the five CC-CEDICT senses of 想, numbered inside an H2 rather than broken out as five H3s. An ItemList mirroring those five senses in order is emitted, but it mirrors a prose-numbered list, not H3 headings as the item specifies."
+        },
+        {
+          "item": "Batch JSON validates against references/article-json-schema.md",
+          "why": "references/article-json-schema.md does not exist at the repository root; the contract lives at .claude/skills/blog-optimisation/references/article-json-schema.md. The file was validated field-by-field against that copy and parses as JSON, but the item's named path does not resolve."
+        }
+      ],
+      "additionalChecks": [
+        "SERP measured 2026-09-26 on Bing en-US (mkt=en-US&setlang=en) through an isolated Playwright browser, twice, after Google returned HTTP 429 on gl=us&hl=en&pws=0. Both runs self-authenticated: the search box contained the exact query and every result was on-topic.",
+        "CONTENTION WARNING, contradicting BRIEF §3: the isolated Playwright browser is NOT per-agent in this session. A second navigation returned the German sibling row's SERP for 'wie sage ich ihm dass ich ihn vermisse' under my own Bing URL. That run was discarded and not recorded; only the two self-authenticated runs are reported.",
+        "Weak count: 8 of the 9 organic results actually seen (HiNative ×2, WordHippo, Reddit, glarity.app, Lemon8, an off-topic domain, Google Translate). One editorial page. A second index (harness WebSearch, US-served, 1 call) returned 9 of 9 weak: MyMemory ×3, Quora, a forum, TikTok, a spam subdomain, Wikipedia 'Xiang (surname)' and Urban Dictionary. Gate 4: PASS.",
+        "The orchestrator predicted a song-title or song-lyric collision. Measured on two indexes, there are zero song-lyric results. The prediction was wrong for this row.",
+        "Checkable error in a ranking result: Bing's AI answer box, identical across two authenticated runs, lists 想 (xiang) = 'miss' OR 'think of' and then concludes 'Thus, the literal translation is I miss you.' It cannot be both one of two senses and the literal one; CC-CEDICT, Wiktionary and 漢典 all order 'miss' behind 'think'. The box never mentions tone sandhi despite printing the pinyin.",
+        "Framing correction to the row prompt: the prompt said 我想 is 'two third tones in a row'. It is three — 我 wǒ, 想 xiǎng and 你 nǐ are all Tone 3. Verified against Wiktionary's zh-pron for each character.",
+        "Framing correction to the row prompt: the prompt said 我想你 + verb means 'I want you to…'. That reading is real (9 of 31 attested) but it is not the main one. The dictionary-attested continuation is 認為、覺得 — 漢典's 國語辭典 illustrates that sense with 「我想你應該回家一趟。」 — and 'I think that you…' is 18 of 31 in the corpus.",
+        "Terminology check: the label is third tone sandhi (T3 sandhi), a phonological alternation. The post does not print a single surface tone pattern for the trisyllabic string, because the cited source covers the disyllabic case only and trisyllabic output is grouping-dependent.",
+        "Tatoeba tokenisation: the raw reported count is 511 and only 31 survive inspection — a 6.1% survival rate, so any figure quoted off the raw count runs ~16× too high. 309 of the 511 contain neither 我想 nor 想你. The false positives are themselves evidence: 我很想你, 我非常想你, 我想念你 all translate with 'miss', while 我想看你 and 我想親吻你 translate with 'want'.",
+        "Sibling check: no post in ../2026-09-25-miss-you-30/blogs/ or in this batch owns Mandarin. miss-you-number-code-meaning.json touches 我想你 in passing while testing whether 530 exists as a numeric code, and already cites Wiktionary 想 sense 5 and the raw Tatoeba count of 511. This post does not abort because that row's subject is numeric codes; the overlap is one sentence, and this post's corpus inspection, the 31-sentence breakdown and the sandhi and 像 material are all new.",
+        "Hub gap confirmed by fetching /blog/i-miss-you-in-different-languages: it lists 'Mandarin: 我想你 (wǒ xiǎng nǐ — wo shyang nee)' with a flat 'I miss you' gloss, no clause-boundary flag and no mention of tone sandhi. Same shape of gap the Japanese sibling found for 会いたい.",
+        "Price guard: no price, tier, or cost-free claim appears anywhere in the body, FAQs or metadata. pricecheck-intl.mjs run clean before saving.",
+        "Facts differentiation is thin and that is a structural weakness, not a hidden one. These 12 lines now serve 59+ siblings. factsUsed here deliberately avoids the three most-collided lines (the 214-page total at 9 uses, the 86.4% memories line at 8, the 2.6-hour median at 6) and takes the hug-tap line (2 prior uses) and the password line (3). The two nearest siblings, aitai-meaning-in-english and bogoshipda-meaning-in-english, share none of the three lines used here."
+      ],
+      "honestAssessment": "An answer engine should cite this over the nine pages measured because it is the only one carrying a number: 31 inspected corpus sentences with a 3/18/9/1 translation split, against a raw search count of 511 that every other source would have quoted uninspected. It is also the only one that states the clause-boundary rule, the only one that flags 我像你 as a same-spelling hazard, and the only one that says three dictionaries have no entry for the phrase. The weaknesses are real: the domain has no published Mandarin track record, no first-party figure here is Chinese or segmented by language, and the tone-sandhi section deliberately stops short of the trisyllabic surface pattern because the peer-reviewed source covers only the disyllabic case. Against a SERP that is 8-of-9 user-generated content with an AI answer box that contradicts itself, the content case is strong; domain authority remains the binding constraint and that takes months, not weeks."
+    },
+    "structuralLimitations": [
+      "The single best-fitting paper for this row — 'Native and non-native lexical processing in Mandarin: pinyin and tone representation' (Frontiers in Psychology, 2026, PMC13422493) — was NOT cited because Frontiers in Psychology is already at the three-post cap in this batch (seni-ozledim, bogoshipda, tu-me-manques). Hayes-Harb & Cheng (PMC4891949), the other obvious Pinyin source, is on the spent list. Brain Sciences was substituted; it is about Korean-L1 learners rather than English-L1 ones, which is disclosed in the body as an L2-learner finding rather than an English-speaker finding.",
+      "PLoS ONE was spent four times in the PREVIOUS batch (2026-09-25-miss-you-30) and the row prompt flags journals.plos.org as a domain to avoid. It is cited once here, via europepmc.org, because PMC13489460 is the definitive 2026 statement of the third-tone-sandhi rule and its ambiguity and no unspent equivalent exists. In this batch its count is one. Flagged for the orchestrator to overrule if the cap is read across batches.",
+      "Both peer-reviewed sources were read as ABSTRACTS ONLY, via the Europe PMC REST API. The europepmc.org article landing pages return 403 to a scripted user agent and PDFs do not parse in this environment. No claim is made beyond abstract text.",
+      "The trisyllabic surface tone pattern of wǒ xiǎng nǐ is deliberately not printed. The cited PLoS ONE study covers the disyllabic T3+T3 case; trisyllabic output depends on prosodic grouping and the literature disagrees. Asserting one pattern would have been the kind of invented precision this batch has been burned by. CUT: an earlier draft line giving the surface form as 'wó xiáng nǐ'.",
+      "CUT: a claim that 我想你 + verb means 'I want you to…' as the primary alternative reading. The corpus makes it the second alternative (9 of 31) behind 'I think that you…' (18 of 31), and 漢典's 國語辭典 attests the latter with the exact string. The prompt's framing was directionally right and quantitatively wrong.",
+      "CUT: a Cantonese section. 掛住 is verified on Wiktionary as Cantonese 'to think about, to miss' with a Mandarin sense of 'to get caught (on a thorny object)', but a full Cantonese treatment is a different keyword and would have pushed the body past 1,800 words. It survives as one FAQ.",
+      "CUT: 想 sense 6 on Wiktionary, 'to resemble', as a standalone point. 漢典 carries the same sense with Li Bai's 「雲想衣裳花想容」, so it is attested, but it is classical rather than something a text-message writer will meet, and it was folded into one sentence in the tone-marks section instead.",
+      "capcheck.mjs was run immediately before writing and reported no banned URL in use, no domain at cap and no URL at cap in this batch. Six agents write concurrently, so that count was already stale when this file was saved.",
+      "Nothing in the gifts database is segmented by language or country, so no figure in this post is a Chinese figure, and the database records which template was opened, never who received it. Both are disclosed in body prose, not only here. viewCount is page views rather than unique visitors, n=214 covers two months from 2026-07-28, and the city, background-music and 'together since' fields are pickers with defaults whose fill rates are not sender choices — the post cites none of the picker fields."
+    ],
+    "generatedAt": "2026-09-26T14:32:07.190Z"
+  }
+}

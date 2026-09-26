@@ -1,0 +1,399 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Saudade em inglês: como se diz, moldura por moldura",
+    "slug": "saudade-em-ingles-como-se-diz",
+    "excerpt": "Saudade em inglês não é uma palavra, é uma moldura: I miss you para pessoa, I'm homesick para lugar, longing para o abstrato. Em 142 pares do Tatoeba, 87,3% das traduções trocam o substantivo português pelo verbo inglês miss — e a despedida “saudades, Maria” não tem equivalente nenhum.",
+    "metaTitle": "Saudade em inglês como se diz — 5 molduras, 5 respostas",
+    "metaDescription": "Saudade em inglês depende da moldura: I miss you para pessoa, I'm homesick para casa, longing no abstrato. Em 142 pares do Tatoeba, 87,3% viram o verbo miss.",
+    "keywords": "saudade em ingles como se diz, como se diz saudade em ingles, saudade em ingles, traducao de saudade para o ingles, i miss you significado",
+    "canonicalURL": "https://subhsandesh.in/blog/saudade-em-ingles-como-se-diz",
+    "ogType": "article",
+    "tags": [
+      "português",
+      "inglês",
+      "tradução",
+      "saudade"
+    ],
+    "keyTakeaways": [
+      "Não há uma palavra: há cinco molduras. Pessoa = I miss you; casa = I'm homesick; tempo = I miss those days; abstrato = longing; despedida = nada.",
+      "Saudade é substantivo, o inglês natural é verbo. Em 142 pares português-inglês do Tatoeba, 87,3% (124) traduzem com o verbo “miss”.",
+      "O auxiliar de tradução do Priberam devolve duas palavras para saudade e para saudades: “homesickness; yearning” — e nenhuma delas é “miss”.",
+      "“I yearn for you” tem ZERO sentenças no corpus inglês do Tatoeba, contra 110 de “I miss you”. Dicionário não é uso.",
+      "A despedida “saudades, Maria” não tem equivalente: o Michaelis a traduz por “compliments, affectionate greetings”, fórmula de carta antiga."
+    ],
+    "coverImageQuery": "person typing a message in English on a phone at night",
+    "coverImagePrompt": "A hand holding a phone at night, a half-typed message visible on screen, a warm lamp out of focus behind, a Portuguese-English dictionary open face-down on the table, editorial photography, shallow depth of field, no legible text overlay.",
+    "contentMarkdown": "# Saudade em inglês: como se diz, moldura por moldura\n\nSaudade em inglês não se diz com uma palavra: se diz escolhendo a moldura certa. Para uma pessoa, *I miss you*. Para um lugar, *I miss home* ou *I'm homesick*. Para um tempo que passou, *I miss those days*. Para a emoção em abstrato, *longing*. E na despedida de uma mensagem — aquele *saudades, Maria* no fim do bilhete — o inglês simplesmente não fecha assim. Cada uma dessas linhas foi conferida em dicionário e em corpus antes de entrar aqui, em 26/09/2026.\n\nQuem escreve essa mensagem demora. No nosso banco, a mediana entre o primeiro salvamento de uma página de saudade e a última edição é de 2,6 horas (n = 214, medido em 25/09/2026), e 88,8% das páginas começadas terminam publicadas e enviadas (190 de 214, medido em 25/09/2026). Nenhum desses números é brasileiro, e eu volto a esse ponto antes do fim.\n\n## A moldura decide a palavra, não o dicionário\n\nA pergunta \"qual é a palavra em inglês para saudade\" não tem resposta porque está mal posta. O que existe é um conjunto de molduras, cada uma com uma solução diferente e um dicionário atrás dela.\n\n| Moldura | O que escrever em inglês | Quem autoriza | Sentenças no Tatoeba (26/09/2026) |\n| --- | --- | --- | --- |\n| Uma pessoa | *I miss you* | Michaelis PT-EN, acepção 1, com exemplo próprio | 110 |\n| Casa, cidade, país | *I miss home* / *I'm homesick* | Priberam (auxiliar EN: *homesickness*); Michaelis, expressão \"ter saudade da sua terra\" | 2 e 3 |\n| Um tempo que passou | *I miss those days* / *nostalgia* | Michaelis PT-EN, acepção 2: \"homesickness, nostalgia\" | 1 |\n| A emoção em abstrato | *longing* / *yearning* | Priberam (auxiliar EN: *yearning*); Michaelis, acepção 1 | *I yearn for you*: 0 |\n| Despedida de carta | não há equivalente | Priberam, acepções 6 e 7; Michaelis, \"saudades\" sf pl | — |\n\nRepare na última linha. É a única moldura em que a resposta honesta é \"não dá\", e é justamente a que mais gente usa.\n\n## O que os dicionários bilíngues realmente entregam\n\nO Priberam tem um bloco chamado \"Auxiliares de tradução\" dentro da entrada de *saudade*, com botão para espanhol, francês e inglês. Segui o botão. A página de destino traz uma linha inteira: **\"saudade nome homesickness; yearning.\"** Duas palavras, e nenhuma delas é *miss*.\n\nA rota engana, e vale registrar: o link funciona em `dicionario.priberam.org/Traduzir/EN/saudade`, mas `dicionario.priberam.org/pt-br/Traduzir/EN/saudade` devolve \"Página não encontrada\". O prefixo da norma brasileira, obrigatório para ver a definição, derruba o auxiliar. E pedir o plural não muda nada: `/Traduzir/EN/saudades` devolve a mesma entrada de duas palavras.\n\nO Michaelis, na edição Português-Inglês (Moderno), é bem mais generoso: cinco acepções numeradas, incluindo \"longing, yearning (for someone), fond remembrance\" e \"homesickness, nostalgia\". Por que a mesma palavra também tem acepções de botânica e de música é assunto da entrada monolíngue, e nosso post [sobre o que significa saudade, sentido por sentido](https://subhsandesh.in/blog/o-que-significa-saudade) faz esse trabalho.\n\n## O substantivo vira verbo: é isso que ninguém avisa\n\nAqui está o fato que explica a sensação de que \"não existe a palavra\". *Saudade* é um substantivo feminino. O inglês natural é um **verbo**.\n\nO próprio Michaelis demonstra isso sem comentar. As acepções que ele lista são substantivos — *longing*, *yearning*, *fond remembrance* — mas os exemplos que ele imprime logo em seguida largam todos eles: \"estou cada vez com mais saudade de você / *I miss you more and more every day*\"; \"tenho muita saudade dele / *I miss him very much*\". O verbete oferece substantivos e traduz com verbo.\n\nDá para medir. Puxei do Tatoeba todas as sentenças em português que contêm *saudade* e têm tradução para o inglês: 142 pares únicos, em 26/09/2026. Em **124 deles, 87,3%, a tradução inglesa usa o verbo *miss***. Sete usam um substantivo ou adjetivo (*longing*, *yearning*, *homesick*). Os onze restantes fogem por completo: cinco traduzem \"não sinto saudade de nada\" como *I have no regrets*, e \"a saudade aumenta o amor\" vira o provérbio *absence makes the heart grow fonder*.\n\nOu seja: você não está procurando uma palavra que falta. Você está mudando de classe gramatical, e por isso a tradução nunca \"cabe\".\n\n## *Longing*, *yearning*, *nostalgia*: o que o corpus não sustenta\n\nOs três aparecem em dicionário. Nem os três aparecem em uso.\n\nNo corpus inglês do Tatoeba, em 26/09/2026: *I miss you* tem **110** sentenças. *I long for you* tem **5**. **\"I yearn for you\" tem ZERO** — nenhuma sentença inglesa no acervo inteiro. *I miss home* tem 2, *I'm homesick* tem 3, *I miss those days* tem 1.\n\nA leitura prática: *longing* e *yearning* funcionam como substantivo dentro de uma frase sobre o sentimento (\"a longing I can't explain\"), e não como mensagem dirigida a alguém. Se você escrever *I yearn for you* hoje à noite, escreve uma frase que o corpus não registra nenhuma vez. *Nostalgia* falha pelo lado oposto: é a palavra do tempo, não da pessoa.\n\n## \"Saudades, Maria\": a despedida que o inglês não fecha\n\nEsta é a parte mais útil do post, e é a que os dicionários confirmam por omissão.\n\nO Priberam registra, sob \"saudades, substantivo feminino plural\", a acepção 6, \"Boas lembranças ou recordações\", e a acepção 7, **\"Cumprimentos a alguém\"**, com exemplo próprio: \"mande-lhe saudades minhas\". O Michaelis monolingue repete: \"saudades sf pl — Lembranças ou cumprimentos afetuosos de quem sente a ausência de outrem\". Na edição bilíngue, ele traduz essa acepção como \"compliments, affectionate greetings to absent persons\" — fórmula epistolar que ninguém escreve num aplicativo de mensagem em 2026.\n\nE o auxiliar de tradução do Priberam, que é a ferramenta que um brasileiro apressado vai usar, **não tem gloss nenhum para essa acepção**: ele devolve \"homesickness; yearning\" tanto para *saudade* quanto para *saudades*. O dicionário tem um sentido que a sua própria ferramenta bilíngue não cobre.\n\nNa prática: uma carta em inglês termina com *Miss you,* / *Missing you,* seguido do nome, ou não termina com nada. Não existe substantivo de despedida. Sobre quando escrever *saudade* e quando escrever *saudades*, a decisão é de português, e está resolvida em [saudade ou saudades, segundo o VOLP e um corpus](https://subhsandesh.in/blog/saudade-ou-saudades-qual-o-certo).\n\n## Você pode simplesmente escrever *saudade* em inglês\n\nO Wiktionary tem uma entrada **inglesa** para *saudade*: substantivo incontável, pronúncia registrada /saʊˈdɑːdə/, empréstimo do português, definido como \"a feeling of melancholy and wistful yearning for something that is absent, impossible or lost\". Não é uma curiosidade: é a palavra funcionando como palavra inglesa.\n\nManter a palavra da sua língua dentro de uma frase em inglês não é falha de vocabulário: é exatamente o que o Wiktionary registra ao dar a *saudade* uma entrada inglesa própria, com pronúncia e definição. E o vocabulário emocional é mesmo mais rico na primeira língua — um estudo de 2025 no *Journal of Intelligence*, com 66 adolescentes de nível A2, mediu significativamente mais respostas para *Amor* do que para *Love* na mesma tarefa (t = −8,866).\n\nEntão a frase mais precisa que você pode mandar talvez seja híbrida: *I miss you — saudade, the word we don't have in English.*\n\n## O SERP que eu medi, e um erro verificável dentro dele\n\nUma posição sem instrumento não vale nada, então digo qual usei. O Google br-pt não abriu: sete tentativas caíram na página de verificação `/sorry/index`. Medi pelo **feed RSS do Bing com mercado pt-BR**, rodado duas vezes com resultado idêntico, em 26/09/2026. Não é o Google, e portanto **não sei** se um widget de tradução aparece acima de tudo nesse SERP — não medi, e não afirmo.\n\nO que o Bing pt-BR devolve para \"saudade em inglês como se diz\" são dez blogs de ensino de inglês. Seis dos dez são sites pequenos de professor individual, um deles hospedado em `blogspot.com`. Nenhum cita uma entrada de dicionário com endereço.\n\nE há um erro conferível. A página em 5º lugar, de `chavedoingles.com.br`, publicada em 20/05/2026, afirma no corpo: \"O inglês simplesmente não tem uma palavra única que carregue todo esse significado\". Mais abaixo, na FAQ da mesma página, ela pergunta \"'Saudade' existe no dicionário inglês?\" e responde: \"Sim! A palavra foi incluída no dicionário Oxford\". A página se contradiz sozinha, numa única leitura, e é a contradição que a entrada inglesa do Wiktionary desfaz.\n\n## O que 214 páginas mostram, e o que elas não mostram\n\nAs páginas de saudade do nosso banco nomeiam 47 pares distintos de cidades, sorteados de um seletor de 15 cidades, incluindo pares que cruzam fronteira, como Mumbai-Londres e Berlim-Londres (medido em 25/09/2026).\n\nAgora as ressalvas, maiores que o número. A cidade é um **seletor com valor padrão**: a taxa de preenchimento não é escolha de quem envia e não pode ser lida como comportamento. São n = 214 páginas e o modelo entrou no ar em 28/07/2026 — dois meses, sem leitura sazonal possível. A contagem de visualizações conta aberturas de página, não visitantes únicos. E o principal: **nada no banco é segmentado por idioma ou por país, e o registro guarda qual modelo foi aberto, nunca quem recebeu.** Nenhum desses números é brasileiro.\n\n## Onde a nossa página não serve para você\n\nA [página de \"sinto sua falta\" da SubhSandesh](https://subhsandesh.in/missyou-gf) é **inteiramente em inglês**: rótulos, botões, instruções e os títulos das cartas \"open when\". No código do produto ela é descrita como página de saudade para namorada ou parceira, então também é específica quanto a quem recebe. No seu caso o idioma pesa menos que o normal — você veio querendo escrever em inglês —, mas é uma tela em inglês que você vai preencher.\n\nE se você só precisava da tradução, não precisa de nada nosso. Feche esta página e mande *I miss you*. Resolve.\n\nSe a sua saudade é de distância contínua e não de uma mensagem única, o [Streak, uma marcação diária de dois toques](https://subhsandesh.in/streak) serve melhor: cada dia guarda uma palavra, e em cem dias existe um diário que ninguém planejou escrever. Não afirmamos aqui nada sobre planos ou cobrança; o [catálogo de modelos](https://subhsandesh.in/templates) mostra o que existe.\n\n## Fontes\n\n- [Priberam, *saudade* (norma brasileira)](https://dicionario.priberam.org/pt-br/saudade) e o [auxiliar de tradução para o inglês](https://dicionario.priberam.org/Traduzir/EN/saudade)\n- [Michaelis, Português-Inglês (Moderno), *saudade*](https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=saudade)\n- [Michaelis, Dicionário Brasileiro da Língua Portuguesa, *saudade*](https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade)\n- [Wiktionary, *saudade*, seções inglesa e portuguesa](https://en.wiktionary.org/wiki/saudade)\n- [Tatoeba, busca em português e inglês](https://tatoeba.org/en/sentences/search?query=saudade&from=por&to=eng)\n- [\"Understanding *Love* in the L1 and the Additional Language\", *Journal of Intelligence*, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12842814/)\n",
+    "readingTime": 8,
+    "faqs": [
+      {
+        "question": "Como se diz “estou com saudades de você” em inglês?",
+        "answer": "“I miss you.” O próprio Michaelis Português-Inglês imprime essa equivalência no exemplo da acepção 1: “estou cada vez com mais saudade de você / I miss you more and more every day”. Se quiser marcar duração, “I’ve been missing you” funciona; “I have saudades of you” não existe em inglês."
+      },
+      {
+        "question": "Qual é a diferença entre “I miss you” e “I missed you”?",
+        "answer": "“I miss you” é agora: você está sentindo neste momento. “I missed you” é passado e costuma ser dito no reencontro, depois que a ausência acabou. No Tatoeba as duas formas convivem nas traduções de “senti saudade”, e a escolha segue o tempo verbal da frase em português, não a intensidade."
+      },
+      {
+        "question": "Posso usar “homesick” para saudade de uma pessoa?",
+        "answer": "Não. O Michaelis coloca “homesickness” na acepção 2 e traz a expressão “ter saudade da sua terra ou pátria — to be homesick”: a palavra é de lugar, terra ou casa. Para pessoa, é “I miss you”. No corpus do Tatoeba, as duas únicas frases com “homesick” entre as traduções de saudade são “sente saudades de casa”."
+      },
+      {
+        "question": "Como se diz “matar as saudades” em inglês?",
+        "answer": "Não com o verbo “miss”. O Wiktionary registra “matar saudades” como “to catch up (with someone)”, e o Michaelis dá “matar ou desafogar saudades — to visit or see again a person or place one likes very much”. É um encontro, e o inglês descreve o encontro, não o sentimento."
+      },
+      {
+        "question": "E “meu coração tem saudade de você”?",
+        "answer": "O Michaelis Português-Inglês lista essa expressão inteira e a traduz por “my heart aches for”. É uma das poucas linhas do verbete em que o inglês responde com uma imagem própria em vez de um equivalente palavra a palavra, e por isso soa literato em vez de traduzido."
+      },
+      {
+        "question": "Posso terminar a mensagem só com “Missing you”?",
+        "answer": "Sim, e é o mais próximo que existe. O inglês não tem substantivo de despedida: fecha com “Miss you,” ou “Missing you,” seguido do nome, ou não fecha com nada. O que o Michaelis oferece para a acepção plural é “compliments, affectionate greetings to absent persons”, fórmula de carta antiga que hoje soaria estranha."
+      },
+      {
+        "question": "Como se pronuncia “saudade” quando um falante de inglês diz a palavra?",
+        "answer": "O Wiktionary registra, na seção inglesa da palavra, a pronúncia /saʊˈdɑːdə/ — algo como “sau-DÁ-də”, com a sílaba tônica no meio e o final reduzido. Não é a pronúncia brasileira, mas é a que um leitor de inglês vai usar ao ler a palavra em voz alta."
+      },
+      {
+        "question": "“Yearning” e “longing” são a mesma coisa?",
+        "answer": "São próximos no dicionário e muito diferentes no uso. O Michaelis Inglês-Português define “yearning” como “anseio, anelo, desejo ardente, aspiração, saudade”. Mas no Tatoeba “I long for you” aparece 5 vezes e “I yearn for you” nenhuma. “Yearning” sobrevive como substantivo em texto, não como frase dirigida a alguém."
+      },
+      {
+        "question": "“Nostalgia” serve quando a saudade é de uma pessoa viva?",
+        "answer": "Não é a melhor escolha. O Michaelis coloca “nostalgia” junto de “homesickness” na acepção 2, que é a do tempo e do lugar. Para uma pessoa que está viva e longe, “nostalgia” soa como se ela tivesse ficado no passado — e é exatamente o que você não quer dizer."
+      },
+      {
+        "question": "Existe em português um verbo único equivalente a “to miss”?",
+        "answer": "Não há um verbo simples. O português monta a ideia com verbo leve mais substantivo: “sentir saudade de”, “ter saudade de”, “sentir falta de”. O inglês resolve com um verbo transitivo único, “to miss”, que pede objeto direto. É a mesma assimetria vista do outro lado."
+      },
+      {
+        "question": "Escrever “saudades” no plural muda a tradução para o inglês?",
+        "answer": "Não muda nada em inglês. O auxiliar de tradução do Priberam devolve a mesma entrada, “homesickness; yearning”, para saudade e para saudades, e o inglês usa o verbo nos dois casos. A escolha entre singular e plural é uma decisão de português, tratada no nosso post sobre saudade ou saudades."
+      }
+    ],
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/saudade-em-ingles-como-se-diz#post",
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário Priberam da Língua Portuguesa — saudade (norma brasileira)",
+            "url": "https://dicionario.priberam.org/pt-br/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário Priberam — auxiliar de tradução de saudade para inglês",
+            "url": "https://dicionario.priberam.org/Traduzir/EN/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis Dicionário Português-Inglês (Moderno) — saudade",
+            "url": "https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis Dicionário Brasileiro da Língua Portuguesa — saudade",
+            "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — saudade (seções inglesa e portuguesa)",
+            "url": "https://en.wiktionary.org/wiki/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba — sentenças em português com saudade e suas traduções inglesas",
+            "url": "https://tatoeba.org/en/sentences/search?query=saudade&from=por&to=eng",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Understanding Love in the L1 and the Additional Language: Evidence from Semantic Fluency and Graph Analysis",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12842814/",
+            "datePublished": "2025",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Intelligence"
+            }
+          }
+        ],
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Saudade",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saudade",
+              "https://www.wikidata.org/wiki/Q1338509"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Translation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Translation",
+              "https://www.wikidata.org/wiki/Q7553"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Brazilian Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+              "https://www.wikidata.org/wiki/Q750553"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Portuguese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Portuguese_language",
+              "https://www.wikidata.org/wiki/Q5146"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Homesickness",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Homesickness",
+              "https://www.wikidata.org/wiki/Q1595931"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Loanword",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Loanword",
+              "https://www.wikidata.org/wiki/Q103808"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valediction",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valediction",
+              "https://www.wikidata.org/wiki/Q15076965"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Second language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Second_language",
+              "https://www.wikidata.org/wiki/Q125421"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wiktionary",
+              "https://www.wikidata.org/wiki/Q151"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Priberam",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Priberam",
+              "https://www.wikidata.org/wiki/Q96400074"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis (dictionary)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Michaelis_(dictionary)",
+              "https://www.wikidata.org/wiki/Q10266116"
+            ]
+          }
+        ],
+        "inLanguage": "pt-BR"
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "saudade em ingles como se diz",
+    "angle": "The English rendering of saudade is chosen by FRAME, not by finding one magic word — and the reason 'there is no word' feels true is that a Portuguese noun becomes an English verb, which is measurable: 87.3% of 142 parallel sentences in Tatoeba translate saudade with the verb 'miss'. The one frame with genuinely no English equivalent is the letter sign-off, which Priberam records at sense 7 and its own translation aid cannot gloss.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://dicionario.priberam.org/pt-br/saudade",
+        "stat": "Dicionario Priberam da Lingua Portuguesa, Brazilian-norm entry (the /pt-br/ prefix must be requested explicitly; a bare path serves pt-PT), read 2026-09-26. Under 'saudades, substantivo feminino plural' it carries sense 6, 'Boas lembrancas ou recordacoes', and sense 7, 'Cumprimentos a alguem', with the dictionary's own example 'mande-lhe saudades minhas' — the letter-sign-off sense. The entry also carries a block headed 'Auxiliares de traducao / Traduzir \"saudade\" para: Espanhol / Frances / Ingles'.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://dicionario.priberam.org/Traduzir/EN/saudade",
+        "stat": "Priberam's own Portuguese-to-English translation aid, read 2026-09-26. The ENTIRE English content it returns is 'saudade nome homesickness; yearning.' — two nouns, and neither is 'miss'. Requesting /Traduzir/EN/saudades returns the SAME single entry, so the aid does not distinguish the plural. Route caveat, verified this session: the mirrored path dicionario.priberam.org/pt-br/Traduzir/EN/saudade returns 'Pagina nao encontrada', i.e. the pt-BR prefix that is required for the definition breaks the translation aid. Nothing in this aid glosses the sign-off sense the monolingual entry records at sense 7.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=saudade",
+        "stat": "Michaelis, Dicionario Portugues-Ingles (Moderno), Editora Melhoramentos, read 2026-09-26. Five numbered senses, verbatim: '1 longing, yearning (for someone), fond remembrance: estou cada vez com mais saudade de voce / I miss you more and more every day: tenho muita saudade dele / I miss him very much. 2 homesickness, nostalgia. 3 Bot scabious, columbine. 4 bras a seamen's song. 5 saudades bras compliments, affectionate greetings to absent persons.' Expressions: 'matar ou desafogar saudades to visit or see again a person or place one likes very much'; 'meu coracao tem saudade de my heart aches for'; 'ter saudade da sua terra ou patria to be homesick, have a longing or hankering for one's home or country.' This entry is the post's central evidence for the noun-to-verb shift: every gloss in sense 1 is a NOUN, every example sentence printed under it translates with the VERB 'miss'.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=saudade",
+        "stat": "Michaelis, Dicionario Brasileiro da Lingua Portuguesa (monolingual), read 2026-09-26. Carries a separate plural headword, verbatim: 'saudades sf pl Lembrancas ou cumprimentos afetuosos de quem sente a ausencia de outrem.' This is the greeting / sign-off sense, and it agrees with Priberam sense 7. Etymology verbatim: 'alt do lat solitatem.' Senses 3 to 5 are zoological and botanical, not emotional.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/saudade",
+        "stat": "Wiktionary, page source read through action=raw on 2026-09-26. The page carries a full ENGLISH section: {{en-noun|-}} (uncountable), pronunciation /saʊˈdɑːdə/, etymology 'borrowed from Portuguese', definition 'A feeling of melancholy and wistful yearning for something that is absent, impossible or lost.' English has borrowed the word as an English headword. The Portuguese section glosses the noun as 'wistfulness, melancholy, nostalgia, yearning, longing; the feeling of missing something or someone' and its three usage examples all translate with an English VERB: 'sentir saudade de alguem' = to miss someone; 'ter saudades de casa' = to miss home, to feel homesick; 'matar saudades' = to catch up (with someone). On the Arabic sawda' theory the entry says 'no strong evidence exists for the latter'.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?query=saudade&from=por&to=eng",
+        "stat": "Tatoeba parallel corpus, measured through its api_v0 search endpoint on 2026-09-26. Pulling every Portuguese sentence containing 'saudade' that has an English translation gave 142 unique PT-EN pairs: 124 of them (87.3%) render the Portuguese NOUN with the English VERB 'miss'; 7 use a noun or adjective (longing, yearning, homesick); 11 do something else, of which 5 translate 'nao sinto saudade de nada' as 'I have no regrets' and one renders 'a saudade aumenta o amor' as the proverb 'absence makes the heart grow fonder'. Separate phrase counts in the English corpus the same day: 'I miss you' 110 sentences, 'I long for you' 5, 'I miss home' 2, \"I'm homesick\" 3, 'I miss those days' 1, and 'I yearn for you' ZERO.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12842814/",
+        "stat": "'Understanding Love in the L1 and the Additional Language: Evidence from Semantic Fluency and Graph Analysis', Journal of Intelligence, 2025 (doi:10.3390/jintelligence14010003), open access, full text read on PMC 2026-09-26. 66 participants at A2 English, semantic-fluency task on the prompts Amor and Love: significantly more responses in L1 than in L2 (Spanish-only t = -8.866, p < 0.001), and the paper concludes L2 responses were 'probably mediated by L1 translation equivalents'. Cited for the claim that the emotional lexicon is richer in the first language. Journal named for the cap: Journal of Intelligence (MDPI). The mdpi.com landing page is on the batch brief's 403 list and was NOT fetched; the PMC deposit was.",
+        "publishedDate": "2025"
+      }
+    ],
+    "structuralLimitations": "1) SERP INSTRUMENT SUBSTITUTED. serp-ddg.mjs was tried ONCE per the brief and failed with UND_ERR_CONNECT_TIMEOUT to html.duckduckgo.com:443. Google br-pt was then attempted seven times in the shared browser (www.google.com and www.google.com.br, gl=br&hl=pt-BR&pws=0, with and without num= and with and without the circumflex) and every single one redirected to /sorry/index. Yep 403, Qwant a DataDome captcha, Mojeek a 5.5 KB stub, Startpage an Anubis challenge, Bing's HTML page a degraded bot-detection shell. The route that worked is Bing's RSS endpoint, www.bing.com/search?...&format=rss&setmkt=pt-BR, run twice with identical output. It is named as a substitution in the body. CONSEQUENCE: the Translate-widget question in my task prompt is UNANSWERED — an RSS feed carries no SERP furniture — and the post says so rather than asserting either way. 2) SHARED-BROWSER CONTENTION CONFIRMED. Twice a navigation I issued returned another agent's page: once 'kangen kamu bahasa jawa' (gl=id) and once 'mi manchi in spagnolo' (gl=it). Every scrape in this post was self-authenticated against my own query string before being recorded; nothing from another agent's tab was used. 3) LINE CUT: I had drafted a section on Linguee and Glosbe as attested-usage evidence. Cut — Tatoeba gives a countable, reproducible parallel corpus and the other two would have added assertion without a number. 4) LINE CUT: an Aulete citation. Aulete resolves and was read ('[F.: Do lat. solitate (m)]', sense 1 marked '[Tb. us. no pl.]'), but its content is etymology and the plural note, which are the two sibling posts' lanes, not mine. Removed from sources rather than padded in. 5) REFINEMENT to a sibling's finding, recorded because it is a narrowing and not a contradiction: o-que-significa-saudade reports that no dictionary mentions Arabic sawda'. Wiktionary's Portuguese etymology DOES mention it, as a theorised contributing factor, and immediately adds 'though no strong evidence exists for the latter'. The sibling's conclusion stands; the absolute form of the statement does not. 6) PDFs were not parsed; both papers were read as PMC full text through pmc.ncbi.nlm.nih.gov, whose pages serve a scripted UA. europepmc.org/article/PMC/... returns 403 to a script and was therefore NOT used as the citation URL. 7) The keyword is six words long, so checklist item 15's 'exact keyword in the first five words' is satisfiable only by starting the title with it, which the metaTitle does. 8) The batch has a FOURTH Portuguese translation row, sinto-sua-falta-em-ingles, which was not on disk at write time. It is a different source phrase and its lane is the 'sinto sua falta' construction, not the noun saudade; no cross-link could be written to a file that does not exist.\n\nCITATION REMOVED, NOT REPLACED (orchestrator, 2026-09-26). The sentence 'Manter a palavra da sua língua dentro de uma frase em inglês é prática documentada' was supported by 'Negotiating language in family texts: case-study of transnational families in Finland' (Frontiers in Psychology, 2025, PMC12823517), which classified isolated home-language insertions in family text messages as a phatic device. That journal stood in six posts of this batch against a cap of three, so the citation had to go. No honest replacement was found and the paper was NOT swapped for a near-miss: the claim is now carried by an instrument already in the post, the English-language Wiktionary entry for saudade, and the sentence was rewritten to say only what that entry supports. Search terms tried against Crossref and Europe PMC (findpapers.mjs), all open-access-filtered: 'code-switching insertion emotional word heritage language family communication bilingual'; 'translanguaging WhatsApp text messages migrant families multilingual digital communication'; 'family language policy home language use affection migrant parents children'; 'nonce borrowing single-word code-switching bilingual corpus community discourse'; 'emotion-related code-switching bilingual speakers L1 emotion words language choice Pavlenko'; 'bilingual speakers use native language emotion word English sentence insertion single word'; 'untranslatable emotion word borrowing English loanword lexical gap'. Everything returned was either the same Frontiers in Psychology paper, a PLoS ONE paper (PLoS ONE is itself at the cap of three in this batch), a paywalled sociolinguistics chapter (Unpaywall is_oa = false), or a study too far from the claim to cite without stretching it — the closest near-misses were 'Social acquisition context matters: increased neural responses for native but not nonnative taboo words' (Cognitive, Affective & Behavioral Neuroscience, 2022, PMC8983556), which compares American with British English dialect and not L1 with L2, and 'The impact of language context on inter-brain synchrony in bilingual families' (Frontiers in Cognition, 2025, PMC13281112), whose result on language choice is null. Both were rejected rather than stretched.",
+    "additionalChecks": [
+      "Priberam requested at /pt-br/saudade explicitly. VERIFIED: the entry served is the Brazilian norm and carries plural senses 6 and 7.",
+      "Priberam English translation aid route VERIFIED at /Traduzir/EN/saudade (HTTP 200, correct word). The mirrored /pt-br/Traduzir/EN/saudade returns 'Pagina nao encontrada' — this explains the 404 a sibling reported and is recorded in the body.",
+      "Michaelis bilingual edition reached by probing the dictionary selector's own data-rep/data-from/data-to attributes (r=1&f=0&t=1 is Portugues-Ingles Moderno). VERIFIED the served page is the saudade entry and not another word.",
+      "Every dictionary URL was checked for the 'HTTP 200 serving a different word' failure named in the brief. All four resolve to saudade.",
+      "Wiktionary read through action=raw rather than the rendered page, so the English and Portuguese sections were read from source and not from a rendering that might merge them.",
+      "Tatoeba counts taken from api_v0 with quoted multi-word queries. NOTE: single-word quoted queries are stemmed by that engine ('longing' returns sentences containing 'long'), so ONLY multi-word phrase counts are reported in the post.",
+      "SERP run twice (Bing RSS, setmkt=pt-BR) with byte-identical ten results, per the brief's re-run requirement.",
+      "Gate 4 applied: 6 of the 10 measured results are small individual-teacher sites, one on blogspot.com; no dictionary, no national language authority and no strong Brazilian editorial publisher appears in the ten. Verdict PROCEED.",
+      "Checkable error located in a measured ranking result: chavedoingles.com.br at position 5 self-refutes on one page ('O ingles simplesmente nao tem uma palavra unica' vs 'Saudade existe no dicionario ingles? Sim!').",
+      "Split from o-que-significa-saudade stated in the body: that post is the dictionary's senses, this post is what you type in English. Split from saudade-ou-saudades-qual-o-certo stated in the body: that post is the Portuguese singular/plural decision, this post shows the English does not change either way. Both cross-linked.",
+      "Untranslatability is NOT re-argued here and the plural question is NOT re-decided here; both are pointed at the siblings, per the task instruction.",
+      "Price guard: pricecheck-intl.mjs run on this slug before saving. The product paragraph says 'Nao afirmamos aqui nada sobre planos ou cobranca' and avoids the flagged tokens including 'preco' inside a refusal.",
+      "Three mandatory first-party caveats written in Portuguese BODY PROSE, not only in the audit: the city field is a picker with defaults, viewCount is page views and not unique visitors, and n = 214 over two months supports no seasonal reading. The fourth and most important — nothing in the database is segmented by language or country, and the record stores which template was opened and never who received it — is stated in the same paragraph.",
+      "factsUsed strings copied byte-verbatim in English from facts-snapshot.md, not retyped.",
+      "Internal links: /missyou-gf (mandatory), /streak (the named alternative, with the reason it suits a reader whose distance is continuous), /templates. The two /blog cross-links are excluded from the verifier's internal-link count by design and are not counted against the 2-4.",
+      "All 9 sameAs pairs in about/mentions resolved through the Wikipedia API in one call; every QID returned by pageprops.wikibase_item, none guessed."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The table's rows are translation frames and the unit of every first-party number we hold is a PAGE. Our database records which template was opened and is not segmented by language or country, so no measured figure can legitimately vary from 'a pessoa' to 'a despedida'. Inventing a column would be an editorial guess dressed as data. Closes only if a first-party measurement exists whose unit is a linguistic frame."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug 'saudade-em-ingles-como-se-diz' contains the stop words 'em', 'como' and 'se'. It is the exact keyword assigned in WAVE1-PLAN.json and the phrase Brazilian searchers type; shortening it to 'saudade-em-ingles' would drop the interrogative that IS the query. Kept deliberately. Closes only if the orchestrator reassigns the slug."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "UNVERIFIABLE FROM HERE. No Strapi endpoint or credentials exist in this environment. The strongest offline check available was run: no file named saudade-em-ingles-como-se-diz.json exists in any batch under content/batches/. Closes when someone with Strapi access queries the slug before publish."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "The body carries SEVEN outbound links against the item's 3-6, and batchMeta.sources has seven entries against the brief's 4-6 (it was eight; the orchestrator removed one on 2026-09-26 under the journal cap). Every one was fetched this session and verified to contain the fact cited from it, so the 'verified' half passes and the count does not. The seven are five distinct instruments/publishers (Priberam x2 routes, Michaelis x2 editions, Wiktionary, Tatoeba, and one open-access paper) and the doubled pairs carry different facts: Priberam's translation aid is a different page from its definition, and the Michaelis bilingual edition is a different dictionary from its monolingual one. Cutting to six would delete the post's two central pieces of evidence. Closes only by dropping a real source."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "One of the seven sources would survive a swap. The Tatoeba measurement (142 saudade pairs), both Priberam pages and both Michaelis entries are saudade-specific and cannot move. 'Understanding Love in the L1 and the Additional Language' (Journal of Intelligence, 2025) is about L1/L2 emotion vocabulary in general and could sit unchanged in mi-manchi-in-inglese or tu-me-manques-en-anglais. The second movable source, 'Negotiating language in family texts' (Frontiers in Psychology, 2025), was REMOVED by the orchestrator on 2026-09-26 under the journal cap and not replaced — see structuralLimitations for the search terms tried. Recorded honestly rather than disguised by rewriting the stat. Closes if a study specific to Portuguese-English emotion translation is found that is open access and not already spent by the sibling batch."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "The source-cap item cannot be satisfied as written by any post in this batch. Priberam, Michaelis, Wiktionary and Tatoeba are reference INSTRUMENTS listed as cap-exempt in this batch's verify.config.json, and they already appear in more than three sibling posts because the batch's own language-verification rule requires them. capcheck.mjs was run immediately before writing and reported no banned URL, no domain at cap 3 and no URL at cap 2 among the capped hosts. The one remaining journal is named in the citation so a human can count it: Journal of Intelligence. Frontiers in Psychology was removed from this post on 2026-09-26 because it stood in six posts of this batch against a journal cap of three — a breach capcheck.mjs could not see, since it counts hostnames and the paper was reached through the cap-exempt europepmc/PMC hosts. Closes only if the checklist item is amended to exempt reference instruments, which verify.config.json already does."
+        }
+      ],
+      "honestAssessment": "The brief's angle held up on every point I could test, and the checkable part is stronger than the framing suggested. The noun-to-verb shift is real and measurable: 142 Portuguese sentences containing 'saudade' that have English translations in Tatoeba, 124 of them (87.3%) rendered with the verb 'miss', and the Michaelis bilingual entry demonstrates the same thing against itself — every gloss in its sense 1 is a noun, every example sentence it prints under that gloss translates with a verb. The sign-off finding held too, and better than expected: Priberam records the greeting sense at 7 ('Cumprimentos a alguem', example 'mande-lhe saudades minhas') and its OWN English translation aid has no gloss for it, returning 'homesickness; yearning' for both singular and plural. One dictionary, two pages, a sense its bilingual tool cannot reach. The 'I yearn for you' zero reproduced exactly. What I could NOT do is measure Google. Seven navigations to google.com with gl=br&hl=pt-BR&pws=0 all landed on /sorry/index, and the shared browser was visibly clobbered twice mid-task by sibling agents (an Indonesian and an Italian SERP arrived in my tab). I fell back to the Bing RSS endpoint with setmkt=pt-BR, ran it twice with identical ten results, and labelled it as an instrument substitution in the body. The direct consequence is that I do not know whether a Google Translate widget outranks everything on this query; I said so in the post rather than guessing, and that is a genuine hole in the Gate 4 evidence. The first-party differentiation is thin and I am not going to pretend otherwise: all twelve miss-you lines in facts-snapshot.md are already spent across 64 sibling posts, the least-collided line has 26 prior uses, and both saudade siblings between them have touched every one. I picked the three lowest-collision lines the meaning sibling did not use (2.6-hour median edit gap, 88.8% published, 47 city pairs) and disclosed in prose that none of the numbers is Brazilian. The weakest part of the post is the product section, which is honest to the point of arguing the reader away: if they only needed the translation, they need nothing from us, and I wrote that sentence."
+    },
+    "generatedAt": "2026-09-26T14:33:10.779Z",
+    "orchestratorRepair": "kind was \"blog-post\" and has been corrected to \"blog-automation/batch-blog\" by the orchestrator on 2026-09-26. app/lib/batches.ts line 56 returns null for any other value, so this post would have been SILENTLY SKIPPED at publish with nothing reporting it. Found because the seni-ozledim-ingilizce-nasil-yazilir agent read references/article-json-schema.md and caught the same defect in its own draft. scripts/verify-batch.mjs does not check this field. No prose altered.\n\nSOURCE-CAP REPAIR, 2026-09-26, orchestrator. REMOVED: https://pmc.ncbi.nlm.nih.gov/articles/PMC12823517/ — 'Negotiating language in family texts: case-study of transnational families in Finland', journal FRONTIERS IN PSYCHOLOGY, 2025. WHY: measured at quiescence across the 30 posts of this batch, Frontiers in Psychology stood in at least six posts against a cap of three journal appearances. capcheck.mjs reported clean because it counts HOSTNAMES, and the paper is reached through pmc.ncbi.nlm.nih.gov, a cap-exempt host — so no agent's pre-write check could see the breach. REPLACED BY: nothing. No open-access paper was found that supports the same claim without stretching; the search terms tried and the two near-misses rejected are recorded in structuralLimitations. The sentence was rewritten so the post no longer leans on a source it does not have: the claim that keeping a Portuguese word inside an English sentence is legitimate is now carried by the English-language Wiktionary entry for saudade, which the post already cites and which is the stronger instrument for it. NO ARGUMENT WAS ALTERED — the paragraph still concludes with the hybrid sentence it always concluded with, and the second half of the claim (emotional vocabulary is richer in the first language) still rests on the same Journal of Intelligence study, untouched. Word count 1771 -> 1744. Sources 8 -> 7; body outbound links 8 -> 7. Audit arithmetic unchanged at 44 passed / 6 failed; three why-texts were rewritten to describe the removal. MEASUREMENT CORRECTION, recorded by the orchestrator after the swaps: the brief for this repair said Frontiers in Psychology stood in SIX posts; a full re-measure that also resolves PubMed-ID (MED) links and journal-less stat strings finds it stood in SEVEN. The seventh is te-echo-de-menos-significado, which cites PMC6684791 ('Figuring Out How Verb-Particle Constructions Are Understood During L1 and L2 Reading', Frontiers in Psychology 10:1733, doi 10.3389/fpsyg.2019.01733) through europepmc.org without naming the journal in its stat string, which is why every count so far has missed it. After these three swaps the journal therefore sits at FOUR posts, still one over the cap of three. That post is outside this repair's edit mandate (only four files were authorised) and is left untouched and reported upward instead of being quietly edited. article.keywords was a JSON ARRAY of 5 items; the schema requires a COMMA-SEPARATED STRING (\"Comma-separated string, not an array\"). Converted verbatim by the orchestrator 2026-09-26. app/lib/batches.ts line 79 reads it through str(), which returns \"\" for a non-string, so the keywords were being SILENTLY DROPPED at import with nothing reporting it - the same failure class as the wrong-kind defect. scripts/verify-batch.mjs does not check this field. No prose altered."
+  }
+}

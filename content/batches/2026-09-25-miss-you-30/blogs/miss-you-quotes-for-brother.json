@@ -1,5 +1,5 @@
 {
-  "kind": "blog-article",
+  "kind": "blog-automation/batch-blog",
   "version": 1,
   "article": {
     "title": "Miss You Quotes for Brother, When There Is No Channel for One",
@@ -297,6 +297,7 @@
       "honestAssessment": "Two things here are not on the other nine pages and are checkable: the register argument (a banter-only relationship has nowhere for a sincere line to land, so the line has to travel inside the joke) and a living/bereaved split placed in the first 150 words, which measurement showed 0 of the 6 mixed-reader results do - three bury the bereaved reader in a subordinate clause and three say nothing before the first list. The first-party segment behind it (n=214, 43.5% password-protected against 38.5% platform-wide, 1,434 recipient hug taps) is not published by anyone else. Against that: the situation sort overlaps with three competitors' buckets, which I measured and recorded rather than claiming a gap that is not there; two of four sources are about men in general rather than brothers; and the first-party lines are shared with 15 to 46 sibling posts, so the data is original to the platform but no longer original within the batch. Domain authority against momjunction and firstcry is not something this post changes, and ranking takes months - I am not predicting an outcome.",
       "generatedAt": "2026-09-25T13:14:56.970Z"
     },
-    "generatedAt": "2026-09-25T13:14:56.971Z"
+    "generatedAt": "2026-09-25T13:14:56.971Z",
+    "orchestratorRepair": "kind was \"blog-article\" and has been corrected to \"blog-automation/batch-blog\" by the orchestrator on 2026-09-26. app/lib/batches.ts line 56 returns null for any other value, so this post would have been SILENTLY SKIPPED at publish with nothing reporting it. Found because the seni-ozledim-ingilizce-nasil-yazilir agent read references/article-json-schema.md and caught the same defect in its own draft. scripts/verify-batch.mjs does not check this field. No prose altered."
   }
 }

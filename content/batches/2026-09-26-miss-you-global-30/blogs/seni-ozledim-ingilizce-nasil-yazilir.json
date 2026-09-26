@@ -1,0 +1,447 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Seni Özledim İngilizce Nasıl Yazılır? Ölçülmüş Bir Cevap",
+    "slug": "seni-ozledim-ingilizce-nasil-yazilir",
+    "excerpt": "Seni özledim İngilizce'de \"I miss you\" yazılır — ama özledim biçimbilimsel olarak geçmiş zamandır ve Tatoeba'da tek tek incelenen 31 cümlenin 52 İngilizce çevirisinden 42'si geçmiş zamanlı çıktı. TDK maddeleri, sayılmış corpus kanıtı ve ölçülmüş bir SERP ile.",
+    "metaTitle": "Seni özledim ingilizce nasıl yazılır: 52 çeviri sayıldı",
+    "metaDescription": "Seni özledim ingilizce nasıl yazılır? I miss you — ama Tatoeba'da sayılan 52 çevirinin 42'si geçmiş zamanlı: I missed you. Farkı TDK maddeleriyle açıyoruz.",
+    "keywords": "seni özledim ingilizce nasıl yazılır, seni özledim ingilizcesi, i miss you türkçesi, özledim mi özlüyorum mu, seni özledim ingilizce çeviri, i missed you ne demek, sizi özledim ingilizce",
+    "canonicalURL": "https://subhsandesh.in/blog/seni-ozledim-ingilizce-nasil-yazilir",
+    "ogType": "article",
+    "tags": [
+      "ingilizce",
+      "türkçe",
+      "çeviri",
+      "özlem",
+      "uzak mesafe"
+    ],
+    "keyTakeaways": [
+      "Seni özledim İngilizce'de \"I miss you\" yazılır; kelimesi kelimesine karşılığı ise \"I've missed you\"dur, çünkü *özledim* -di ekiyle kurulmuş geçmiş zamandır.",
+      "Tatoeba'da 26 Eylül 2026'da tek tek incelenen 31 attested *seni … özledim* cümlesinin 52 İngilizce çevirisi: 24 basit geçmiş, 18 yakın geçmiş, 9 şimdiki-geniş, 1 diğer.",
+      "Buna karşılık *seni özlüyorum* için attested 14 cümlenin *miss* ile çevrilen 12'sinin 12'si de basit şimdiki zaman — geçmiş zamanlı tek çeviri yok.",
+      "Google Çeviri 26 Eylül 2026'da *Seni özledim*, *Seni özlüyorum* ve *Sizi özledim* cümlelerinin üçünü de tek bir \"I miss you\" dizgesine indirdi; tek başına *Özledim.* için \"I miss.\" verdi.",
+      "Bing'in tr-TR pazarında gördüğümüz 9 organik sonucun 8'i zayıf ve Google Çeviri'nin ana sayfası iki kez sıralanıyor; tek editoryal sayfa 8.059 karakterde *özledim*'i 1, *özlüyorum*'u 4 kez anıyor."
+    ],
+    "faqs": [
+      {
+        "question": "\"Seni çok özledim\" için hangi İngilizce cümleyi kullanmalıyım?",
+        "answer": "Ayrılık sürerken \"I miss you so much\", kavuşmadan sonra ya da geçmişe bakarak \"I missed you so much\". Tatoeba'da bu kalıbın attested örnekleri ikiye de gidiyor: #3147313 \"Seni çok özledim!\" için \"I missed you so much!\", #1257594 \"Seni çok özlüyorum.\" için \"I miss you so much.\" Ölçüm 26 Eylül 2026."
+      },
+      {
+        "question": "Karşı taraf \"I miss you\" yazdıysa, \"ben de\" demek için ne yazarım?",
+        "answer": "\"I missed you too\" ya da \"I miss you too\". Tatoeba #2084958 \"Ben de seni özledim.\" cümlesini \"I missed you too.\" ve \"I've missed you, too.\" olarak, #13679201 \"Ben de seni özledim, Tom.\" cümlesini \"I miss you, too, Tom.\" olarak kaydediyor — yani ikisi de attested."
+      },
+      {
+        "question": "Sadece \"Miss you\" yazmak doğru mu?",
+        "answer": "Mesajlaşmada yaygın ama eksiltili bir biçimdir: İngilizce özne düşürmeye izin vermeyen bir dildir ve \"Miss you\" ancak samimi yazışmada kısaltma olarak çalışır. Türkçedeki *Özledim.* ise eksiltili değil, tam bir cümledir; fark tam burada."
+      },
+      {
+        "question": "\"Ben de\" mi, \"bende\" mi yazılır?",
+        "answer": "Ayrı: \"Ben de seni özledim.\" TDK Güncel Türkçe Sözlük'te **bende** ayrı bir madde başıdır, Farsça kökenlidir ve karşılığı \"► köle\" olarak verilir. Bitişik yazdığınızda cümleye bambaşka bir sözcük girmiş olur."
+      },
+      {
+        "question": "\"I've missed you\" ile \"I missed you\" arasında fark var mı?",
+        "answer": "Var, ve *seni özledim* için ikisi de attested. Tek tek incelediğimiz 31 cümlenin 52 İngilizce çevirisinde 24 basit geçmiş (\"I missed you\") ve 18 yakın geçmiş (\"I've missed you\") sayıldı. Yakın geçmiş, özlemin şimdiye kadar sürdüğünü de taşır; bu yüzden hâlâ ayrıyken en güvenli seçenektir."
+      },
+      {
+        "question": "Özlemek fiilinin tek İngilizce karşılığı \"miss\" mi?",
+        "answer": "Hayır. Wiktionary fiili \"to miss, to feel the absence of someone or something\" diye tanımlar; Tatoeba'da attested çeviriler arasında \"long for\" da var — #3326605 \"Seni özlüyorum.\" için \"I long for you.\", #5768813 \"Seni son derece özledim.\" için \"I longed for you deeply.\" \"Long for\" daha edebî ve daha yoğun durur."
+      },
+      {
+        "question": "\"Miss you\" ile \"missing you\" arasında fark var mı?",
+        "answer": "\"I'm missing you\" şu anki, sürmekte olan bir duruma işaret eder ve Türkçedeki *özlüyorum*'a daha yakındır: Tatoeba #5162198 \"Ben seni özlüyorum.\" cümlesini tam olarak \"I'm missing you.\" diye çevirir. \"I miss you\" ise nötr ve çok daha yaygın biçimdir."
+      },
+      {
+        "question": "Arkadaşıma ya da aileme \"sizi özledim\" demek için hangi İngilizce cümle uygun?",
+        "answer": "İngilizcede çokluk *you* ile işaretlenemediği için yanına bir ad konur. Tatoeba'daki üç attested örnekten ikisi tam olarak bunu yapıyor: #3697027 \"Sizi özledim çocuklar.\" için \"I missed you kids.\", #3140526 \"Sizi gerçekten özledim arkadaşlar.\" için \"I really missed you guys.\" \"I miss you all\" ve \"I miss you both\" da aynı işi görür."
+      },
+      {
+        "question": "\"I miss you\" mesajına İngilizce nasıl cevap verilir?",
+        "answer": "En yaygın karşılık \"I miss you too\". Türkçe tarafındaki cevap seçeneklerini ayrı bir yazıda, mesajın ne demek istediğine göre ayırdık; bu sayfa yalnızca çeviriyi ele alıyor."
+      },
+      {
+        "question": "Tatoeba nedir; sayıları neden oradan aldınız?",
+        "answer": "Tatoeba, gönüllülerin katkısıyla büyüyen açık bir örnek cümle veri tabanıdır ve cümleleri diller arası eşleştirir. Sayıları oradan aldık çünkü sözlük \"ne demek\" sorusunu, corpus ise \"insanlar gerçekte nasıl çevirmiş\" sorusunu yanıtlar. Arama belirteç tabanlı olduğu için her kaydı tek tek denetledik: *özledim* için dönen 124 sonucun yalnızca 80'i gerçekten bu biçimi içeriyordu."
+      },
+      {
+        "question": "Bu sayfadaki SubhSandesh sayıları Türkiye'ye mi ait?",
+        "answer": "Hayır. Veri tabanımızda dile ya da ülkeye göre hiçbir ayrım yoktur, dolayısıyla buradaki hiçbir sayı Türkiye'ye ya da Türkçeye ait değildir. Kayıt ayrıca yalnızca hangi şablonun açıldığını tutar, kimin aldığını değil; ve n = 214 iki aylık bir penceredir."
+      }
+    ],
+    "coverImageQuery": "handwritten note in Turkish and English side by side on a desk",
+    "coverImagePrompt": "A close, softly lit overhead photograph of a small paper note on a wooden desk, two short handwritten lines one above the other — the upper line in Turkish, the lower line its English rendering — a pen resting beside it and a phone face-down at the edge of the frame. Warm evening light, shallow depth of field, no faces, no logos, no readable brand marks.",
+    "contentMarkdown": "# Seni Özledim İngilizce Nasıl Yazılır? Ölçülmüş Bir Cevap\n\nSeni özledim İngilizce nasıl yazılır sorusunun en kısa cevabı **I miss you**. Doğru cevabı biraz daha ince: *özledim* biçim bilgisi açısından geçmiş zamandır ve Tatoeba'da 26 Eylül 2026'da tek tek incelediğimiz 31 attested *seni … özledim* cümlesinin 52 İngilizce çevirisinden 42'si (%80,8) geçmiş zamanlı çıktı — 24 tanesi *I missed you*, 18 tanesi *I've missed you*, yalnızca 9 tanesi *I miss you*.\n\nCümleyi yazdıktan sonra nereye koyacağınız ayrı bir soru. SubhSandesh'in `/missyou-gf` şablonunda oluşturulan 214 sayfanın %92,1'i (197'si) en az bir \"açtığında oku\" mektubu taşıyor ve bu sayfalar toplam 2.417 kez görüntülenmiş, sayfa başına ortalama 11,3 görüntülenme ile. Bu sayıların tamamı bir uyarıyla gelir ve o uyarıyı aşağıda tek tek yazıyoruz.\n\nİş bölümü şu: Türkçe kardeş yazımız [seni özledim mesajına verilecek cevaplar](https://subhsandesh.in/blog/seni-ozledim-mesajina-verilecek-cevaplar) mesaja ne **yanıt** verileceğini ele alıyor; bu sayfa mesajın kendisinin İngilizceye **nasıl** geçtiğini.\n\n## Özledim tek başına bir cümledir, İngilizce aynı şeyi üç kelimeyle söyler\n\nTDK Güncel Türkçe Sözlük'ün \"kişi eki\" maddesi eki şöyle tanımlıyor: \"Fiil çekimlerinde kişiyi gösteren ek; şahıs eki: geldi-m, gelir-iz, gelmiş-sin.\" Yani *özle-di-m* sözcüğündeki **-m** doğrudan \"ben\"i taşır.\n\nAynı sözlüğün [\"görülen geçmiş zaman\" maddesi](https://sozluk.gov.tr/gts?ara=g%C3%B6r%C3%BClen%20ge%C3%A7mi%C5%9F%20zaman) de ortadaki eki adlandırıyor: \"-dı ekiyle kurulan zaman; belirli geçmiş zaman, -di'li geçmiş zaman.\" Böylece tek sözcükte üç bilgi birden var: kim, ne zaman, ne yaptı.\n\nİngilizcede bunun karşılığı yok. *I missed you* üç sözcüktür ve baştaki *I* düşürülemez; düşürüldüğünde cümle çöker. Türkçede ise *Özledim.* tek başına tam bir cümledir.\n\nNesne de aynı biçimde eklenir. TDK'nin \"belirtme durumu\" maddesi bunu \"Adın fiile -ı eki aracılığıyla bağlandığı durumu; yükleme durumu, yükleme hâli, akuzatif\" diye tanımlar; Wiktionary'nin *seni* maddesi (pageid 264838) de aynı şeyi söyler: *seni*, *sen*'in belirtme (accusative) hâlidir. Bu yüzden **\"Ben seni özledim\" demeye gerek yoktur** — *ben* yalnızca vurgu içindir.\n\n## Özledim geçmiş zamandır — İngilizcesi neden çoğu zaman \"I missed you\"?\n\nTDK'nin \"görülen geçmiş zaman\" tanımı açık: fiilin belirttiği kavramın \"içinde bulunan zamandan önce bitmiş olduğunu\" bildirir. Buna karşılık [TDK'nin *özlemek* maddesi](https://sozluk.gov.tr/gts?ara=%C3%B6zlemek) fiili bir **şimdiki isteğe** bağlar: \"Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek.\"\n\nÇelişki tam burada. Ek geçmişi gösteriyor, anlam şu anki bir durumu anlatıyor. İngilizce çevirmen de bu ikisinden birini seçmek zorunda kalıyor.\n\nSayılar bu seçimi gösteriyor. Tatoeba'nın açık arama ucundan *özledim* için 124 sonuç döndü; ancak arama belirteç tabanlı olduğu için bunların yalnızca 80'i gerçekten *özledim* biçimini içeriyordu — kalan 44'ü *özledi*, *özledin*, *özlediler* gibi başka çekimlerdi. Bu 80 cümlenin 31'inde nesne *seni* idi. O 31 cümlenin 52 İngilizce çevirisi şöyle dağılıyor: **24 basit geçmiş** (*I missed you*), **18 yakın geçmiş** (*I've missed you*), **9 geniş/şimdiki** (*I miss you*), 1 diğer.\n\n[İngilizce Wiktionary'nin *özlemek* maddesi](https://en.wiktionary.org/wiki/%C3%B6zlemek) de aynı ikiliği taşıyor. Madde fiili \"to miss, to feel the absence of someone or something\" diye tanımlıyor, örneğini geniş zamanla veriyor — \"Seni özlerim. — I miss you.\" — ve ardından bir kullanım notu ekliyor: \"This verb is frequently used in the past tense: Seni özledim. — I miss(ed) you.\" Parantezi sözlüğün kendisi koymuş.\n\nTek cümlede görmek isterseniz [Tatoeba #630939](https://tatoeba.org/en/sentences/show/630939) tam olarak bu: *\"Seni özledim.\"* cümlesi hem \"I miss you.\" hem \"I missed you.\" çevirileriyle kayıtlı.\n\nPratik sonuç: **I've missed you** her iki okumayı da taşıyan tek biçimdir. Hâlâ uzaktaysanız ve \"şu anda\" demek istiyorsanız *I miss you* doğrudur; ama o zaman Türkçesi de değişir.\n\n## Özledim mi, özlüyorum mu? Sayılmış fark\n\nTDK \"şimdiki zaman\"ı \"-yor, -makta ekleriyle kurulan zaman\" diye tanımlar ve oluşun \"içinde bulunulan zaman içinde yapılmakta olduğunu\" bildirdiğini söyler. *Özlüyorum* budur.\n\nAynı yöntemle sayıldığında tablo tersine dönüyor. Tatoeba *özlüyorum* için 259 sonuç bildirdi; çektiğimiz 140 sonucun 89'u gerçekten bu biçimi içeriyordu ve 14'ünde nesne *seni* idi. Bu 14 cümlenin *miss* fiiliyle çevrilen 12'sinin **12'si de basit şimdiki zaman**: \"I miss you\", \"I'm missing you\", \"I still miss you\". Geçmiş zamanlı tek çeviri yok.\n\nYani eşleme şudur: *seni özlüyorum* → **I miss you**; *seni özledim* → **I missed you / I've missed you**, ve ancak bağlam zorlarsa *I miss you*.\n\nBu ayrımı yaparken kaynağın sınırını da söylemek gerekiyor. Tatoeba gönüllü katkısıyla büyür ve hatalı çeviri barındırır: #10000372 *\"Seni öpmeyi özlüyorum\"* cümlesini \"I regret kissing you\" diye çevirmiş; doğrusu \"I miss kissing you\" olurdu. Sayımlarımızı bu yüzden tek tek gözle denetledik ve kaç kaydın elendiğini yukarıda yazdık.\n\n## Hangi cümleyi ne zaman yazmalısınız\n\n| Yazmak istediğiniz şey | Türkçesi | İngilizcesi | Tatoeba'da sayılan (26 Eylül 2026) | SubhSandesh'te ölçülen (n=214) |\n| --- | --- | --- | --- | --- |\n| Şu anda, o hâlâ uzaktayken | Seni özlüyorum | I miss you | *miss* ile çevrilen 12 cümlenin 12'si şimdiki zaman | 2.417 görüntülenme, sayfa başına 11,3 |\n| Kelimesi kelimesine \"seni özledim\" | Seni özledim | I've missed you | 52 çevirinin 18'i yakın geçmiş | 197 sayfada (%92,1) en az bir \"açtığında oku\" mektubu |\n| Kavuştuğunuzda, ayrılık bittiğinde | Seni özledim | I missed you | 52 çevirinin 24'ü basit geçmiş | 47 farklı şehir çifti adlandırılmış |\n| Birden fazla kişiye ya da saygı için | Sizi özledim | I miss you (all) | yalnızca 3 attested cümle | ölçülmedi |\n\nSon sütundaki üç sayı SubhSandesh'in kendi veri tabanından gelir ve hiçbiri Türkiye'ye ya da Türkçeye ait değildir; bu ayrımı aşağıda açıyoruz.\n\n## Seni mi, sizi mi? İngilizce bu farkı taşıyamıyor\n\nTDK'nin *siz* maddesi iki ayrı anlam verir: \"Çokluk ikinci kişi zamiri\" ve \"Bir kişiye saygı ve incelik belirtisi olarak kullanılan bir seslenme sözü.\" Yani *sizi özledim* ya birden fazla kişiye ya da tek bir kişiye saygıyla söylenmiş olabilir. Wiktionary de *sizi* biçimini *siz*'in belirtme hâli olarak kaydeder.\n\nİngilizcede bu ayrımı taşıyacak bir biçim yok; tek bir *you* var. Tatoeba'da *sizi … özledim* için yalnızca 3 attested cümle bulduk — *seni* için 31 vardı — ve üçü de \"I missed you\" ya da \"I miss you\" ile çevrilmiş. İkisi çoğulluğu geri kazanmak için İngilizceye bir ad eklemiş: #3697027 \"I missed you kids\", #3140526 \"I really missed you guys.\"\n\nn = 3 çok küçük bir sayıdır ve bundan oran çıkarılmaz. Ama yönü nettir: İngilizce yazarken saygı ya da çokluk ayrımını *you*'nun kendisiyle değil, yanına koyduğunuz sözcükle belirtirsiniz — *I miss you all*, *I miss you both*, ya da doğrudan adla.\n\n## Bu aramanın en üstünde bir çeviri kutusu var — ve altı cümleyi ikiye indiriyor\n\nBu sorgunun SERP'ini 26 Eylül 2026'da ölçtük. Google'ın Türkiye'ye sunulan sonuçları (`gl=tr&hl=tr&pws=0`) art arda iki kez `/sorry/index` ile HTTP 429 döndürdü, bu yüzden ölçümü Bing'in `mkt=tr-TR` pazarından aldık ve iki kez aynı sonucu doğruladık. Bing farklı bir dizindir; bu bir **alet değişikliğidir**.\n\nGördüğümüz 9 organik sonucun 8'i zayıf: iki Tureng terim listesi, iki Reverso Context makine hizalı çeviri dökümü, bir kullanıcı sorusu (tr.hinative.com), bir makine çevirisi sayfası (ingilizcesi.com — sayfanın kendisi \"makine çevirisi ile yapılmış\" olduğunu yazıyor) ve **iki kez Google Çeviri'nin ana sayfası**. Bing'in kendi çeviri kutusu da listenin ikinci sırasında. Hiçbirinde *-di* ekinden, belirtme hâlinden ya da *özledim/özlüyorum* farkından tek satır yok.\n\nGeriye kalan tek editoryal sayfa (organik #5, lovelanguages.io) başlığında *Seni Özlüyorum Nasıl Söylenir* diyor. 8.059 karakterlik metninde *özlüyorum* 4 kez, *özledim* 1 kez geçiyor. Yani *özledim* sorusuna yanıt olarak sıralanan tek yazı, *özledim*'i konuşmuyor — sessizce başka bir çekime geçiyor.\n\nÇeviri kutusunun kendisini de ölçtük. `translate.googleapis.com` ucundan 26 Eylül 2026'da alınan çıktılar:\n\n- *Seni özledim.* → \"I miss you.\"\n- *Seni özlüyorum.* → \"I miss you.\"\n- *Sizi özledim.* → \"I miss you.\"\n- *Özledim.* → \"I miss.\"\n\nZaman farkı da, saygı farkı da siliniyor: üç ayrı Türkçe cümle tek bir İngilizce dizgeye iniyor. Ters yönde de aynısı — *I miss you*, *I missed you* ve *I have missed you* üçü birden \"Seni özledim.\" dönüyor. Gidiş-dönüş yaptırdığımızda *Sizi özledim* geri **Seni özledim** olarak geliyor: saygı biçimi sessizce senli benli hâle indiriliyor, TDK'nin *siz* maddesindeki \"saygı ve incelik\" anlamına rağmen. Tek başına *Özledim.* ise \"I miss.\" çıkıyor, ki bu İngilizce bir cümle değildir.\n\nBu yalnızca bizim gözlemimiz değil. [Tosun'un 2024'te *Cognitive Research: Principles and Implications* dergisinde yayımlanan açık erişimli çalışması](https://europepmc.org/article/PMC/PMC10873250) 36 Türkçe-İngilizce iki dilliye makine çevirilerini değerlendirtmiş ve geç iki dillilerin, özellikle birinci elden kanıt cümlelerinde, doğruluğu erken iki dillilerden daha iyi ayırt ettiğini bulmuş. Yalnızca özeti okuyabildik.\n\n[Antonova-Unlu ve Bayram'ın 2023 tarihli çalışması](https://europepmc.org/article/PMC/PMC10723160) aynı bölgeye bakıyor: Almanya'dan dönen 28 Türkçe miras dili konuşurunu 28 tek dilli konuşurla karşılaştırmış ve testini bilinçli olarak **belirtme hâli işaretlemesi**, ulaç yapıları ve kanıtsallık üzerine kurmuş. *Seni*'deki o -i eki, uzakta yaşamış konuşurlarda ölçülebilir biçimde zorlanan yerlerden biri. Bunun da yalnızca özetini okuduk.\n\n## Cümleyi yazdıktan sonra: onu nereye koyacaksınız\n\nBurada dürüst olmamız gereken bir nokta var. `/missyou-gf`, kod tabanımızda (`app/lib/prompt.ts`, satır 44) tam olarak şöyle tanımlıdır: \"'I miss you' page for a girlfriend/partner\". Sayfanın arayüzü, etiketleri ve yönlendirmeleri **İngilizcedir** ve alıcı olarak sevgili/eş varsayılır. Türkçe bir arayüz yoktur. Tıkladığınızda göreceğiniz şey budur.\n\nSayılarımızın sınırı da aynı ölçüde nettir. Veri tabanımızda **dile ya da ülkeye göre hiçbir ayrım yoktur** — buradaki hiçbir sayı Türkiye'ye ait değildir — ve kayıt yalnızca **hangi şablonun açıldığını** tutar, kimin aldığını değil. `viewCount` tekil ziyaretçi değil, sayfa görüntülenmesi sayar: bir kişinin sayfayı yirmi kez açması yirmi görüntülenmedir. n = 214 ve şablon 28 Temmuz 2026'da yayına girdi; bu iki aylık bir penceredir ve hiçbir mevsimsel çıkarım taşımaz.\n\nBu sınırlar içinde şunları söyleyebiliriz: 214 sayfanın %92,1'i (197'si) en az bir \"açtığında oku\" mektubu taşıyor, ortalama 3,2 ve en çok 6 mektupla. Sayfalar toplam 2.417 kez görüntülenmiş, sayfa başına 11,3. Ve sayfalarda 47 farklı şehir çifti adlandırılmış — Mumbai–Londra, Berlin–Londra gibi sınır aşan çiftler dâhil. Şu kadarını eklemek şart: şehir alanı **varsayılanı olan bir seçicidir**, serbest metin değil; dolayısıyla 47 sayısı bir gönderici tercihi değil, seçicinin kapsamıdır.\n\nDil ayrımı taşımayan bir veri kümesinde bunun okuyucuya faydası şudur: bir \"açtığında oku\" mektubu, cümleyi hangi dilde yazdığınızdan bağımsız çalışır. *I've missed you* satırını bir sayfaya koymak istiyorsanız [sevgiliniz için hazırlanan \"seni özledim\" sayfası](/missyou-gf) o satırı taşıyacak yerdir; arayüzün İngilizce olduğunu bilerek.\n\nUzaklık zamanla ölçülüyorsa başka bir şablon daha uygun olabilir: [her gün tek dokunuşla büyüyen ortak seri sayfası](/streak) günlük bir temas bırakır ve yüz gün sonra ikinizin de yazmayı planlamadığı bir günlük çıkarır — tek seferlik bir mektuptan farklı bir iş yapar. Hangi şablonların var olduğunu görmek isterseniz [şablon listesinin tamamı](/templates) burada; ne kadara mal olduğu bu veri kümesinden doğrulanamıyor, o yüzden bu konuda bir şey söylemiyoruz.\n\n## SubhSandesh'in bu okuyucu için yanlış olduğu yer\n\nAçık konuşalım: yalnızca çeviriyi arıyorduysanız bizden hiçbir şeye ihtiyacınız yok. Cevap yukarıda — *I've missed you*, ya da şu an için *I miss you* — ve sekmeyi kapatabilirsiniz. Bir şablon o cümleyi daha doğru yapmaz.\n\nİkinci sınır daha ağır: Türkçe yazıp İngilizce bir arayüze giren gönderici için sürtünme gerçektir. Etiketlerimiz ve yönlendirmelerimiz İngilizcedir; Türkçe yerelleştirme yoktur. Bu sayfayı Türkçe yazdık, ürünü Türkçeleştirmedik.\n\nÜçüncüsü: 905 yayımlanmış yazımızın içinde Türkçe yazılmış tek bir yazı yok. Bu alanda geçmişimiz olmadığını da kayda geçiriyoruz.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/seni-ozledim-ingilizce-nasil-yazilir#post",
+        "inLanguage": "tr",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Türkçe",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Turkish_language",
+              "https://www.wikidata.org/wiki/Q256"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "İngilizce",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/English_language",
+              "https://www.wikidata.org/wiki/Q1860"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Belirtme durumu (akuzatif)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Accusative_case",
+              "https://www.wikidata.org/wiki/Q146078"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Türk Dil Kurumu",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Turkish_Language_Association",
+              "https://www.wikidata.org/wiki/Q1569712"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Google Çeviri",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Google_Translate",
+              "https://www.wikidata.org/wiki/Q135622"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Eklemeli dil (agglutination)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Agglutination",
+              "https://www.wikidata.org/wiki/Q393272"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Makine çevirisi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Machine_translation",
+              "https://www.wikidata.org/wiki/Q79798"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "TDK Güncel Türkçe Sözlük — özlemek",
+            "url": "https://sozluk.gov.tr/gts?ara=%C3%B6zlemek",
+            "description": "TDK Güncel Türkçe Sözlük, madde 'özlemek', gts ucundan 26 Eylül 2026'da HTTP 200 ile alındı. Fiil '[-i]' etiketli, yani belirtme (accusative) durumu alır — 'seni'yi mümkün kılan budur — ve tanım bir ŞİMDİKİ isteği anlatır: 'Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek.' Aynı uçtan aynı gün alınan diğer maddeler: 'kişi eki' ('Fiil çekimlerinde kişiyi gösteren ek; şahıs eki: geldi-m, gelir-iz, gelmiş-sin'), 'belirtme durumu' ('Adın fiile -ı eki aracılığıyla bağlandığı durumu; yükleme durumu, yükleme hâli, akuzatif'), 'şimdiki zaman' ('-yor, -makta ekleriyle kurulan zaman'), 'siz' (iki anlam: 'Çokluk ikinci kişi zamiri' ve 'Bir kişiye saygı ve incelik belirtisi olarak kullanılan bir seslenme sözü') ve 'bende' (Farsça, 'eskimiş', '► köle').",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Türk Dil Kurumu"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "TDK Güncel Türkçe Sözlük — görülen geçmiş zaman",
+            "url": "https://sozluk.gov.tr/gts?ara=g%C3%B6r%C3%BClen%20ge%C3%A7mi%C5%9F%20zaman",
+            "description": "TDK Güncel Türkçe Sözlük, madde 'görülen geçmiş zaman', 26 Eylül 2026'da HTTP 200: 'Fiilin belirttiği kavramın, içinde bulunan zamandan önce bitmiş olduğunu bildiren ve -dı ekiyle kurulan zaman; belirli geçmiş zaman, -di'li geçmiş zaman: al-dı, bil-di, saç-tı, seç-ti vb.' Bu, 'özledim'in biçimbilimsel olarak geçmiş zamanlı olduğunu resmî sözlükten doğrular.",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Türk Dil Kurumu"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — özlemek (Turkish)",
+            "url": "https://en.wiktionary.org/wiki/%C3%B6zlemek",
+            "description": "İngilizce Wiktionary, 'özlemek' (pageid 1860473), MediaWiki API üzerinden 26 Eylül 2026'da alındı: 'to miss, to feel the absence of someone or something', örnek geniş zamanla — 'Seni özlerim. — I miss you.' — ve kullanım notu: 'This verb is frequently used in the past tense: Seni özledim. — I miss(ed) you.' Parantezli 'miss(ed)' sözlüğün kendi ihtiyatıdır. Aynı API çağrısı 'özledim' ve 'özlüyorum' başlıklarının Wiktionary'de MEVCUT OLMADIĞINI (missingtitle) gösterdi; 'seni' (pageid 264838) ise 'inflection of sen, accusative' der.",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence #630939 — Seni özledim.",
+            "url": "https://tatoeba.org/en/sentences/show/630939",
+            "description": "Tatoeba Türkçe cümle #630939, 'Seni özledim.', 26 Eylül 2026: aynı cümle hem 'I miss you.' hem 'I missed you.' hem 'I've missed you.' çevirileriyle kayıtlı. Aynı gün api_v0 arama ucuyla sayılan daha geniş tablo: 'özledim' için dönen 124 sonucun 80'i gerçekten bu biçimi içeriyordu (arama belirteç tabanlı), 31'inde nesne 'seni' idi ve bu 31 cümlenin 52 İngilizce çevirisi 24 basit geçmiş / 18 yakın geçmiş / 9 şimdiki-geniş / 1 diğer olarak dağıldı. 'özlüyorum' için 259 sonuç döndü, çekilen 140'ın 89'u biçimi içeriyordu, 14'ünde nesne 'seni' idi ve 'miss' ile çevrilen 12'sinin 12'si de basit şimdiki zamandı.",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Machine translation: Turkish-English bilingual speakers' accuracy detection of evidentiality and preference of MT",
+            "url": "https://europepmc.org/article/PMC/PMC10873250",
+            "description": "Tosun S. (2024), 'Machine translation: Turkish-English bilingual speakers' accuracy detection of evidentiality and preference of MT', Cognitive Research: Principles and Implications, doi:10.1186/s41235-024-00535-z, Europe PMC'de isOpenAccess=Y, lisans CC BY. YALNIZCA ÖZET OKUNDU — europepmc.org açılış sayfası betik UA'sına HTTP 403 döner; kayıt Europe PMC REST API'sinden alındı. Özet: 36 Türkçe-İngilizce iki dilliye her iki yönde makine çevirileri gösterilmiş; geç iki dilliler, özellikle birinci elden (firsthand) kanıt cümlelerinde, çeviri doğruluğunu erken iki dillilerden daha iyi ayırt etmiş.",
+            "datePublished": "2024",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cognitive Research: Principles and Implications"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The role of external factors on the reactivation of the heritage language of Turkish-German returnees",
+            "url": "https://europepmc.org/article/PMC/PMC10723160",
+            "description": "Antonova-Unlu E. & Bayram F. (2023), 'The role of external factors on the reactivation of the heritage language of Turkish-German returnees', Frontiers in Psychology, doi:10.3389/fpsyg.2023.1156779, Europe PMC'de isOpenAccess=Y, lisans CC BY. YALNIZCA ÖZET OKUNDU — açılış sayfası betik UA'sına 403 döner. Özet: Türkiye'ye dönen 28 Türkçe miras dili konuşuru ile 28 tek dilli kontrol; dil yeterliği bir boşluk doldurma testi ve bir hata düzeltme göreviyle ölçülmüş ve görev bilinçli olarak ulaç yapıları, kanıtsallık ve DOĞRUDAN NESNE DURUM İŞARETLEMESİ üzerine kurulmuş — yani 'seni'deki -i eki.",
+            "datePublished": "2023",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Psychology"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "seni özledim ingilizce nasıl yazılır",
+    "angle": "Wins by being the only page on this SERP that MEASURES the tense question instead of asserting it: TDK's own entries establish that -di is the görülen geçmiş zaman and that özlemek [-i] denotes a PRESENT desire, and 31 hand-inspected Tatoeba sentences settle what speakers actually do with that clash — 42 of 52 English translations are past-marked, against 12 of 12 present for özlüyorum — while the machine-translation layer that occupies the top of the SERP collapses six distinct sentences into two strings and demotes sizi to seni, all grounded in 214 real miss-you pages of which 92.1% carry an 'open when' letter.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "bodyLanguage": "Turkish",
+    "region": "tr-tr",
+    "tier": "A-translate",
+    "factsUsed": [
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://sozluk.gov.tr/gts?ara=%C3%B6zlemek",
+        "name": "TDK Güncel Türkçe Sözlük — özlemek",
+        "publisher": "Türk Dil Kurumu",
+        "stat": "TDK Güncel Türkçe Sözlük, madde 'özlemek', gts ucundan 26 Eylül 2026'da HTTP 200 ile alındı. Fiil '[-i]' etiketli, yani belirtme (accusative) durumu alır — 'seni'yi mümkün kılan budur — ve tanım bir ŞİMDİKİ isteği anlatır: 'Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek.' Aynı uçtan aynı gün alınan diğer maddeler: 'kişi eki' ('Fiil çekimlerinde kişiyi gösteren ek; şahıs eki: geldi-m, gelir-iz, gelmiş-sin'), 'belirtme durumu' ('Adın fiile -ı eki aracılığıyla bağlandığı durumu; yükleme durumu, yükleme hâli, akuzatif'), 'şimdiki zaman' ('-yor, -makta ekleriyle kurulan zaman'), 'siz' (iki anlam: 'Çokluk ikinci kişi zamiri' ve 'Bir kişiye saygı ve incelik belirtisi olarak kullanılan bir seslenme sözü') ve 'bende' (Farsça, 'eskimiş', '► köle')."
+      },
+      {
+        "url": "https://sozluk.gov.tr/gts?ara=g%C3%B6r%C3%BClen%20ge%C3%A7mi%C5%9F%20zaman",
+        "name": "TDK Güncel Türkçe Sözlük — görülen geçmiş zaman",
+        "publisher": "Türk Dil Kurumu",
+        "stat": "TDK Güncel Türkçe Sözlük, madde 'görülen geçmiş zaman', 26 Eylül 2026'da HTTP 200: 'Fiilin belirttiği kavramın, içinde bulunan zamandan önce bitmiş olduğunu bildiren ve -dı ekiyle kurulan zaman; belirli geçmiş zaman, -di'li geçmiş zaman: al-dı, bil-di, saç-tı, seç-ti vb.' Bu, 'özledim'in biçimbilimsel olarak geçmiş zamanlı olduğunu resmî sözlükten doğrular."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%C3%B6zlemek",
+        "name": "Wiktionary — özlemek (Turkish)",
+        "publisher": "Wikimedia Foundation",
+        "stat": "İngilizce Wiktionary, 'özlemek' (pageid 1860473), MediaWiki API üzerinden 26 Eylül 2026'da alındı: 'to miss, to feel the absence of someone or something', örnek geniş zamanla — 'Seni özlerim. — I miss you.' — ve kullanım notu: 'This verb is frequently used in the past tense: Seni özledim. — I miss(ed) you.' Parantezli 'miss(ed)' sözlüğün kendi ihtiyatıdır. Aynı API çağrısı 'özledim' ve 'özlüyorum' başlıklarının Wiktionary'de MEVCUT OLMADIĞINI (missingtitle) gösterdi; 'seni' (pageid 264838) ise 'inflection of sen, accusative' der."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/630939",
+        "name": "Tatoeba sentence #630939 — Seni özledim.",
+        "publisher": "Tatoeba",
+        "stat": "Tatoeba Türkçe cümle #630939, 'Seni özledim.', 26 Eylül 2026: aynı cümle hem 'I miss you.' hem 'I missed you.' hem 'I've missed you.' çevirileriyle kayıtlı. Aynı gün api_v0 arama ucuyla sayılan daha geniş tablo: 'özledim' için dönen 124 sonucun 80'i gerçekten bu biçimi içeriyordu (arama belirteç tabanlı), 31'inde nesne 'seni' idi ve bu 31 cümlenin 52 İngilizce çevirisi 24 basit geçmiş / 18 yakın geçmiş / 9 şimdiki-geniş / 1 diğer olarak dağıldı. 'özlüyorum' için 259 sonuç döndü, çekilen 140'ın 89'u biçimi içeriyordu, 14'ünde nesne 'seni' idi ve 'miss' ile çevrilen 12'sinin 12'si de basit şimdiki zamandı."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10873250",
+        "name": "Machine translation: Turkish-English bilingual speakers' accuracy detection of evidentiality and preference of MT",
+        "publisher": "Cognitive Research: Principles and Implications",
+        "stat": "Tosun S. (2024), 'Machine translation: Turkish-English bilingual speakers' accuracy detection of evidentiality and preference of MT', Cognitive Research: Principles and Implications, doi:10.1186/s41235-024-00535-z, Europe PMC'de isOpenAccess=Y, lisans CC BY. YALNIZCA ÖZET OKUNDU — europepmc.org açılış sayfası betik UA'sına HTTP 403 döner; kayıt Europe PMC REST API'sinden alındı. Özet: 36 Türkçe-İngilizce iki dilliye her iki yönde makine çevirileri gösterilmiş; geç iki dilliler, özellikle birinci elden (firsthand) kanıt cümlelerinde, çeviri doğruluğunu erken iki dillilerden daha iyi ayırt etmiş.",
+        "publishedDate": "2024"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10723160",
+        "name": "The role of external factors on the reactivation of the heritage language of Turkish-German returnees",
+        "publisher": "Frontiers in Psychology",
+        "stat": "Antonova-Unlu E. & Bayram F. (2023), 'The role of external factors on the reactivation of the heritage language of Turkish-German returnees', Frontiers in Psychology, doi:10.3389/fpsyg.2023.1156779, Europe PMC'de isOpenAccess=Y, lisans CC BY. YALNIZCA ÖZET OKUNDU — açılış sayfası betik UA'sına 403 döner. Özet: Türkiye'ye dönen 28 Türkçe miras dili konuşuru ile 28 tek dilli kontrol; dil yeterliği bir boşluk doldurma testi ve bir hata düzeltme göreviyle ölçülmüş ve görev bilinçli olarak ulaç yapıları, kanıtsallık ve DOĞRUDAN NESNE DURUM İŞARETLEMESİ üzerine kurulmuş — yani 'seni'deki -i eki.",
+        "publishedDate": "2023"
+      }
+    ],
+    "serpMeasurement": {
+      "query": "seni özledim ingilizce nasıl yazılır",
+      "region": "tr-tr",
+      "measuredAt": "2026-09-26",
+      "method": "INSTRUMENT SUBSTITUTION, STATED. Google served to Turkey (gl=tr&hl=tr&pws=0) returned /sorry/index with HTTP 429 on two separate attempts — once through the Playwright MCP browser and once through the shared real Chrome (PolterTab) — so no Google SERP was obtained and none is reported. The measurement below is Bing with mkt=tr-TR&setlang=tr, loaded twice in a real browser, returning an IDENTICAL result set both times. Every scrape was self-authenticated by reading the page's own search box back (value = 'seni özledim ingilizce nasıl yazılır') and confirming Turkish chrome ('Arama', 'Bazı sonuçlar kaldırıldı'). Bing is a different index from Google and the positions must be read as Bing's, not Google's. NOTE FOR THE BRIEF: BRIEF §3 calls the Playwright browser 'isolated ... per-agent'. IT IS NOT. Mid-call the Playwright page navigated itself to https://www.bonobology.com/de/Ich-vermisse-deine-Nachrichten-für-ihn/ — a German sibling's competitor page — destroying my execution context. I opened my own tab (index 1) and combined navigate+extract into a single atomic call to shrink the contention window.",
+      "organicResults": 9,
+      "weakResults": 8,
+      "resultsSeen": "9 of 9 organic results on page 1 were seen and recorded; no ranks were inferred.",
+      "results": [
+        {
+          "rank": 1,
+          "url": "https://tureng.com/tr/turkce-ingilizce/seni%20%C3%B6zledim",
+          "type": "bilingual term bank (word-pair list, no prose, no grammar)",
+          "weak": true
+        },
+        {
+          "rank": 2,
+          "url": "https://tureng.com/tr/turkce-ingilizce/%C3%B6zledim",
+          "type": "bilingual term bank, same domain a second time",
+          "weak": true
+        },
+        {
+          "rank": 3,
+          "url": "https://translate.google.com.tr",
+          "type": "machine-translation tool homepage — carries no content about the query at all",
+          "weak": true
+        },
+        {
+          "rank": 4,
+          "url": "https://context.reverso.net/%C3%A7eviri/t%C3%BCrk%C3%A7e-ingilizce/Seni+%C3%B6zledim",
+          "type": "machine-aligned translation-memory dump",
+          "weak": true
+        },
+        {
+          "rank": 5,
+          "url": "https://www.lovelanguages.io/learn/tr/en/ingilizce-ozlem-ifadeleri-turkce/",
+          "type": "the ONLY editorial page on the SERP — fetched and read in a real browser (a scripted fetch gets a Vercel bot checkpoint, HTTP 429). H1: 'İngilizce Özlem İfadeleri: Seni Özlüyorum Nasıl Söylenir'. In 8,059 characters it uses özlüyorum 4 times and özledim once, and has no grammar section at all: its H2s are Özlemi Dile Getirmek, Temel Özlem İfadeleri, Duygusal ve Derin İfadeler, Mesajlaşma için Kısa İfadeler, Romantik ve Poetik İfadeler, Kullanım İpuçları, Kültürel Notlar, Sonuç.",
+          "weak": false
+        },
+        {
+          "rank": 6,
+          "url": "https://tr.hinative.com/questions/24509504",
+          "type": "user-generated Q&A",
+          "weak": true
+        },
+        {
+          "rank": 7,
+          "url": "https://context.reverso.net/%C3%A7eviri/t%C3%BCrk%C3%A7e-ingilizce/nas%C4%B1l+%C3%B6zledim",
+          "type": "machine-aligned translation-memory dump, off-query phrase",
+          "weak": true
+        },
+        {
+          "rank": 8,
+          "url": "https://translate.google.com",
+          "type": "machine-translation tool homepage, a second time on the same SERP",
+          "weak": true
+        },
+        {
+          "rank": 9,
+          "url": "https://www.ingilizcesi.com/ceviri/ozledim-seni",
+          "type": "auto-generated MT output page — fetched, HTTP 200; the page itself states its output is 'makine çevirisi ile yapılmış' and disclaims responsibility. Gives 'I missed you'.",
+          "weak": true
+        }
+      ],
+      "serpFeatures": "TWO machine-translation surfaces sit above or inside the organic block. (1) A Bing QnA answer card at the very top: 'I miss you — \"Seni özledim\" İngilizce'de \"I miss you\" olarak çevrilebilir…', attributed to Tureng. (2) Bing's own inline TRANSLATOR widget (li.b_ans.b_mop, language selector 'Otomatik olarak algıla / Türkçe / …') sitting between organic 1 and organic 2. On top of that, Google Translate's homepage takes two of the nine organic slots. So yes — a translate widget outranks everything, and it is a real structural ceiling on this query.",
+      "gate4Verdict": "PASS, with the ceiling named. 8 of the 9 organic results I actually saw are weak — two term-bank pages, two translation-memory dumps, one UGC question, one self-declared machine-translation page, and the Google Translate homepage TWICE. There is no Turkish editorial property, no national publisher, and no dictionary authority with grammatical prose anywhere in the top 9. Not one result explains the -di past, the belirtme durumu on 'seni', or the özledim/özlüyorum split. The one non-weak result (rank 5) is editorial but answers a different Turkish word than the query asks about. The honest ceiling is that I will not outrank a translation widget for the bare lookup — but the widget's answer is wrong-shaped and nothing on the page corrects it, which is exactly the gap this post fills.",
+      "whatIncumbentsAlreadyDo": "They translate the string and stop. Tureng returns word pairs; Reverso returns aligned sentence fragments; ingilizcesi.com returns a machine output it disclaims; hinative returns one user's opinion; Google Translate returns a single string with no explanation. The only page that writes prose (lovelanguages.io, rank 5) is a phrase list organised by mood — Temel / Duygusal / Mesajlaşma / Romantik — with zero morphology, and its own title silently swaps the queried özledim for özlüyorum. Nobody on this SERP counts anything, cites TDK, or acknowledges that özledim is past-marked.",
+      "checkableErrorFound": "TWO, both reproducible. (1) THE MACHINE-TRANSLATION LAYER THAT OCCUPIES THE TOP OF THIS SERP COLLAPSES SIX SENTENCES INTO TWO. Measured 2026-09-26 against translate.googleapis.com (the public gtx endpoint), tr→en: 'Seni özledim.' → 'I miss you.'; 'Seni özlüyorum.' → 'I miss you.'; 'Sizi özledim.' → 'I miss you.' — three sentences differing in TENSE and in REGISTER, one output string. And en→tr: 'I miss you.', 'I missed you.' and 'I have missed you.' all → 'Seni özledim.' Round-tripping 'Sizi özledim.' returns 'Seni özledim.', i.e. the tool silently demotes the polite/plural form to the informal singular, against TDK's own 'siz' entry, whose second sense is 'Bir kişiye saygı ve incelik belirtisi olarak kullanılan bir seslenme sözü'. Worst of all, the bare one-word Turkish sentence 'Özledim.' — which is a complete sentence, and the premise of this whole page — comes back as 'I miss.', which is not a grammatical English sentence. Google Translate's homepage ranks TWICE on this SERP. (2) THE ONLY EDITORIAL PAGE ON THE SERP ANSWERS A DIFFERENT WORD. lovelanguages.io at rank 5 is titled 'Seni Özlüyorum Nasıl Söylenir' and, in 8,059 characters read in a real browser, uses özlüyorum 4 times against özledim once, with no grammar section. This independently reproduces what the Turkish reply-lane sibling found on wikiHow Türkçe — a title about özledim whose body switches to özlüyorum — on a different page, a different SERP and a different publisher. My corpus counts explain WHY that switch keeps happening: özlüyorum is the form that actually maps one-to-one onto the English 'I miss you' these pages want to teach (12 of 12 attested), while özledim does not (9 of 52)."
+    },
+    "additionalChecks": [
+      "ORCHESTRATOR FRAMING CORRECTED — MY PROMPT'S CENTRAL CLAIM IS HALF WRONG. It states: 'Turkish özledim is morphologically past (-di), but the natural English is the present \"I miss you\", not \"I missed you\".' The first half VERIFIED (TDK 'görülen geçmiş zaman': '-dı ekiyle kurulan zaman'). The second half is CONTRADICTED by the strongest instrument available: across 31 hand-inspected attested 'seni … özledim' sentences, 52 English translations split 24 simple past / 18 present perfect / 9 simple present / 1 other — 80.8% past-marked. The present 'I miss you' is what özlÜYORUM maps to (12 of 12), not what özledim maps to. The post is built on the measured mapping, not on the prompt's.",
+      "TATOEBA TOKENISATION SURVIVAL RATES RECORDED, as the brief demanded. 'özledim': API reported 124 hits, all 124 fetched, only 80 actually contained the string (44 were özledi / özledin / özlediler / özledi̇k), and 31 of those 80 carried 'seni'. 'özlüyorum': 259 reported, 140 fetched, 89 contained the string, 14 carried 'seni'. 'sizi … özledim': 3 only. Every survivor was printed and read individually before being counted.",
+      "A TATOEBA TRANSLATION ERROR FOUND AND DISCLOSED IN THE BODY, rather than quietly dropped: sentence #10000372 'Seni öpmeyi özlüyorum.' is glossed 'I'm yearning to see you...' in one pull and the related #4008437 'Seni öpmeyi özlüyorum' family carries 'I regret kissing you', which is not what the Turkish says. The post names this and explains that every count was eyeballed because of it.",
+      "SPLIT FROM THE TURKISH SIBLING STATED IN ONE SENTENCE AND CROSS-LINKED. seni-ozledim-mesajina-verilecek-cevaplar owns REPLIES; this page owns TRANSLATION INTO ENGLISH. The cross-link is a /blog/ URL, which verify-batch.mjs excludes from the 2-4 internal-link count, so it does not displace a template link.",
+      "NO LINE WAS TAKEN FROM THE SIBLING. The sibling established -m = 1sg, seni = accusative and 'bende' = köle; those three are re-verified here against the same TDK/Wiktionary entries and used only as the setup for a different question. Every number in this post — the 52-translation tense split, the 12-of-12 özlüyorum result, the 3 sizi sentences, the Google Translate collapse, the lovelanguages.io character counts — was measured fresh for this page.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN AND THIS IS THE HONEST NUMBER. The twelve miss-you lines in facts-snapshot.md are shared across 54+ sibling posts. I counted collisions across all 12 blogs already written in this batch and deliberately picked three lines the Turkish sibling did NOT use: the 92.1% 'open when' letters line, the 2,417-views line, and the 47-city-pairs line. Even so, each of those three appears in 4 other posts in this batch. The differentiation is carried by the corpus counts and the SERP measurement, not by the first-party data.",
+      "THE CITY-PAIR FIGURE IS PRESENTED AS PICKER COVERAGE, NOT SENDER BEHAVIOUR, in body prose — as the brief requires for city / background music / 'together since'.",
+      "PRICE GUARD: pricecheck-intl.mjs run against this slug and clean. No price, no currency, no tier claim, and none of ücretsiz / bedava / parasız / fiyat / abonelik anywhere in title, meta, body or FAQs. Where cost would naturally come up the post says it cannot be confirmed from this data set and links /templates. Note: the ingilizcesi.com page I fetched contains 'ücretsiz' in its own boilerplate; I deliberately did not quote that sentence.",
+      "PRODUCT MISMATCH DISCLOSED IN TURKISH BODY PROSE, not only in the audit: /missyou-gf is quoted from app/lib/prompt.ts line 44 as \"'I miss you' page for a girlfriend/partner\", and the post states plainly that the interface, labels and prompts are English, that there is no Turkish localisation, and that a reader who only needed the translation needs nothing from us.",
+      "THREE MANDATORY CAVEATS PLUS THE TWO BATCH-SPECIFIC ONES ARE ALL IN BODY PROSE IN TURKISH: pickers-with-defaults, viewCount = page views not unique visitors, n=214 over two months with no seasonal claim, nothing in the database segmented by language or country (no figure is Turkish), and the database records which TEMPLATE was opened, never who received it.",
+      "SERP ROUTE NAMED IN THE POST ITSELF, not only in metadata: the body states that Google returned HTTP 429 twice and that the measurement is Bing mkt=tr-TR, and calls it an instrument substitution.",
+      "BRIEF CORRECTION REPORTED: BRIEF §3 names the Playwright MCP browser as 'isolated ... per-agent'. In this run it was NOT — my page was navigated out from under me to a German sibling's bonobology.com page mid-call. Working around it needed a dedicated tab plus atomic navigate+extract calls.",
+      "URL RESOLUTION CHECKED BEFORE CITING, per the brief's 'HTTP 200 is not confirmation' rule. https://tatoeba.org/en/search?from=tur&to=eng&query=özledim returns 404 and was NOT cited; https://tatoeba.org/en/sentences/search?... returns 200. en.wiktionary.org/wiki/özledim and /özlüyorum are both missingtitle, so the lemma page özlemek was used instead. Every TDK entry was read back by its headword field before being quoted.",
+      "PEER-REVIEWED SOURCES ARE ABSTRACT-ONLY AND SAY SO. Both Europe PMC landing pages return HTTP 403 to a scripted UA; the records were read through the Europe PMC REST API, which confirmed isOpenAccess=Y and licence CC BY for both. No PDF was parsed.",
+      "SPENT SOURCES AVOIDED as instructed: PMC13550703, PMC13337705 and PMC13552847 are not cited, and no doi.org, journals.plos.org or arxiv.org URL appears anywhere in the record.",
+      "SECOND ORCHESTRATOR CLAIM CHECKED AND REJECTED: my prompt listed checklist item #50 (Batch JSON validates against references/article-json-schema.md) among the known-unsatisfiable items because the schema file is supposedly not found. IT EXISTS at .claude/skills/blog-optimisation/references/article-json-schema.md. Reading it caught a real defect: my draft carried kind = subhsandesh.blog.article, while the contract requires blog-automation/batch-blog or app/lib/batches.ts silently skips the file. Fixed, validated with the schema doc's own validator, and item #50 is therefore recorded as PASSED, not failed.",
+      "ZERO WebSearch CALLS USED. All sourcing went through findpapers.mjs (Crossref + Europe PMC), the Europe PMC REST API, the TDK gts endpoint, the MediaWiki API and the Tatoeba api_v0 endpoint.",
+      "NO COMPETITOR IS LINKED. tureng.com, context.reverso.net, tr.hinative.com, ingilizcesi.com and lovelanguages.io are named as measured SERP results in plain text only; none is a hyperlink."
+    ],
+    "structuralLimitations": [
+      "THE PROMPT'S TENSE FRAMING WAS WRONG AND THE POST SAYS THE OPPOSITE. See additionalChecks item 1. The brief predicted 'the natural English is the present I miss you, not I missed you'; the corpus says 42 of 52 attested translations of seni … özledim are past-marked. This is the single most load-bearing correction in the record.",
+      "NO GOOGLE SERP EXISTS FOR THIS POST. Google served to Turkey returned HTTP 429 twice, through two different browsers. Every position reported is Bing mkt=tr-TR. Bing is a different index with a different long tail; the Turkish-language coverage of a niche translation query may differ on Google, and ranks 1-9 should not be transferred.",
+      "n = 3 FOR THE REGISTER TEST. Only three attested 'sizi … özledim' sentences exist in Tatoeba against 31 with 'seni'. That is enough to show the direction — English recovers plurality with an added noun ('you kids', 'you guys') rather than with 'you' itself — and nowhere near enough for a rate. The post states this in body prose.",
+      "TATOEBA IS VOLUNTEER-BUILT AND CONTAINS ERRORS. One is named in the body (#10000372 / the 'Seni öpmeyi özlüyorum' family). The tense tally is therefore a count of how CONTRIBUTORS rendered these sentences, not a professional translation corpus; it is the best attested-usage instrument available for this pair and it is labelled as such.",
+      "THE TENSE TALLY IS PER-TRANSLATION, NOT PER-SENTENCE. 31 Turkish sentences carry 52 English translations, and sentences with more translations weigh more. Counted per sentence instead, the split is 23 past-only, 7 present-only and 1 carrying both — the same direction, a slightly weaker ratio. Both numbers are in the record; the body uses the per-translation figure and states the denominator.",
+      "ONLY ABSTRACTS WERE READ for both peer-reviewed sources; europepmc.org landing pages 403 a scripted UA and PDFs do not parse in this environment. Neither claim in the post goes beyond what its abstract states.",
+      "FRONTIERS IN PSYCHOLOGY IS AT OR NEAR THE DOMAIN CAP IN THIS BATCH. PMC10723160 is at least the third Frontiers in Psychology article cited across the 13 posts written so far. It is retained because it is the only located study that tests Turkish DIRECT OBJECT CASE MARKING — the exact -i suffix on 'seni' — but if the orchestrator's quiescence recount puts the publisher over three posts, this is the citation to cut, and the post survives without it.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN. Three facts were chosen to avoid the Turkish sibling entirely, but each still appears in four other posts in this batch. No first-party line in facts-snapshot.md is about translation, about Turkish, or about a Turkish sender — the database has no language or country segmentation at all — so the first-party data supports the 'where do I put this sentence' section and nothing else. It cannot support the linguistic argument, and the post does not pretend otherwise.",
+      "NOTHING WAS CUT FROM THE LINGUISTIC ARGUMENT FOR LACK OF A SOURCE, but two lines were: (a) a planned claim that 'seni özledim' is the more common form in Turkish messaging — no corpus available to me measures Turkish messaging frequency, so it is not in the post; (b) a planned pronunciation FAQ giving a Turkish respelling of 'I miss you' — no dictionary I could fetch publishes one, and the SERP's own respelling ('Ay mis yu so mah') is unsourced, so the FAQ was replaced with the I've-missed-you / I-missed-you question instead.",
+      "THE PLAYWRIGHT BROWSER IS NOT ISOLATED IN THIS SESSION, contrary to BRIEF §3 and WAVE1-PLAN knownIssues. Documented in additionalChecks. Any later row relying on 'isolated Playwright' for a clean SERP should verify the page it got back, exactly as the shared-Chrome rule already requires."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "STRUCTURAL — the slug must carry the keyword verbatim, and the keyword 'seni özledim ingilizce nasıl yazılır' contains the Turkish interrogative 'nasıl' and the copular-adjacent 'yazılır'. Dropping them would break the exact-match H1/slug/metaTitle alignment the query needs. Closes only if the orchestrator accepts a shortened slug at the cost of exact-match."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "STRUCTURAL — Strapi (strapi.subhsandesh.in) was not reachable from this agent, so 'not already taken' could not be checked against the live CMS. The pinned 905-post live corpus contains no post at this slug and no Turkish-language post at all. Closes when Strapi is reachable."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "STRUCTURAL / DEFERRED — source caps are counted in POSTS per batch and six agents write concurrently, so any count taken now is stale. capcheck.mjs was run immediately before writing and reported zero banned URLs and zero domains at cap. sozluk.gov.tr, en.wiktionary.org, tatoeba.org and europepmc.org are all on the batch's cap-exempt instrument list; the journals named are Cognitive Research: Principles and Implications (first use in this batch) and Frontiers in Psychology (at least the third use in this batch — flagged honestly). Closes at quiescence when the orchestrator recounts."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "STRUCTURAL — the body ranks and numbers nothing. Its one table is a mapping table (Turkish sentence to English rendering), not an ordered list, and no H3 sequence exists to mirror. Emitting an ItemList would describe structure the page does not have. Closes only if a ranked list is added, which this keyword does not warrant."
+        }
+      ],
+      "honestAssessment": "An answer engine should cite this over the nine pages measured because it is the only one of them that answers the question with counted evidence rather than a string. Tureng, Reverso, hinative, ingilizcesi.com and Google Translate all return 'I miss you' and stop; the single editorial page on the SERP is titled about a different Turkish word than the query asks about and contains no morphology at all. This post establishes from TDK's own entries that özledim is görülen geçmiş zaman while özlemek denotes a present desire, then settles the resulting clash with 31 hand-inspected Tatoeba sentences whose 52 English translations run 80.8% past-marked — against 12 of 12 present for özlüyorum — and documents that the machine-translation layer sitting at the top of the SERP collapses six distinct sentences into two strings and silently demotes 'sizi' to 'seni'. Those four numbers do not exist anywhere else on this SERP. What would undercut it: the SERP is Bing, not Google, because Google rate-limited twice; the register finding rests on three sentences; Tatoeba is volunteer-built and one bad gloss is named in the body; both peer-reviewed sources are abstract-only; and the first-party data is genuinely weak for this keyword, since nothing in the database is segmented by language or country and none of it is about translation. This post will not outrank a translation widget for the bare lookup, and I do not claim it will rank at all — the domain has 905 live posts and not one of them is in Turkish. Its realistic value is citation by an answer engine asked whether 'seni özledim' means 'I miss you' or 'I missed you', which is a question the current top ten does not answer."
+    },
+    "generatedAt": "2026-09-26T14:43:03.935Z"
+  }
+}

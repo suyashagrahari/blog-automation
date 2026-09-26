@@ -1,0 +1,404 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Özledim Demenin Farklı Yolları: Sözlüğün Onayladığı Beş Cümle",
+    "slug": "ozledim-demenin-farkli-yollari",
+    "excerpt": "TDK'de özledim yerine bir kişiye söylenebilecek beş gerçek alternatif var. Her biri sözlük maddesiyle, Tatoeba'da elle incelenmiş örneklerle ve elenenlerin gerekçesiyle birlikte.",
+    "metaTitle": "Özledim Demenin Farklı Yolları: TDK'ye Göre 5 Cümle",
+    "metaDescription": "Özledim demenin farklı yolları sınırlıdır: TDK'de bir kişiye söylenebilecek beş alternatif var. Her biri sözlük maddesi ve Tatoeba örneğiyle doğrulandı.",
+    "keywords": "özledim demenin farklı yolları, seni özledim yerine ne denir, özledim eş anlamlısı, sana hasretim, burnumda tütüyorsun, göreceğim geldi",
+    "canonicalURL": "https://subhsandesh.in/blog/ozledim-demenin-farkli-yollari",
+    "ogType": "article",
+    "tags": [
+      "turkce",
+      "ozlem",
+      "tdk",
+      "uzak-mesafe",
+      "dil"
+    ],
+    "keyTakeaways": [
+      "TDK'nin kendi maddelerine göre hasret, özlenti, tahassür ve iştiyak doğrudan \"► özlem\"e gönderme yapar — yani sözlüksel olarak eş anlamlıdırlar; farkları köken, yoğunluk ve dizilimdedir.",
+      "Tatoeba'da hasret için dönen 31 cümlenin 28'i bir yerden bahsediyor (vatan, ev, sıla) ve yalnızca biri bir kişiye sesleniyor: \"Ben sana hasretim\" — yönelme durumuyla, belirtme durumuyla değil.",
+      "\"Burnumda tütüyorsun\" TDK'de kayıtlıdır (\"çok özlemek\") ve özneyi karşıdakine geçirir; \"içim gitti\" ise elenmiştir, çünkü TDK'nin içi gitmek maddesi içi sürmek'e, o da \"ishal olmak\"a gönderir.",
+      "Ölçülen SERP'te dokuz sonuçtan yedisi zayıf ve iki Türk yayıncının ikisi de cümle değil davranış öneriyor; hiçbiri bir sözlük maddesine dayanmıyor."
+    ],
+    "faqs": [
+      {
+        "question": "\"Sana hasretim\" mi, \"seni hasretim\" mi doğru?",
+        "answer": "\"Sana hasretim\" doğrudur. Tatoeba'da bulduğumuz ve bir kişiye seslenen tek hasret cümlesi \"Ben sana hasretim\" biçiminde, yönelme durumuyla kurulmuş. Bunun nedeni hasret'in bir isim olması: *özlemek* fiili TDK'de [-i] etiketli olduğu için *seni* alır, ama *hasret* ad olarak yönelme durumuyla bağlanır. \"Seni hasretim\" Türkçede kurulmaz."
+      },
+      {
+        "question": "\"Burnumda tütüyorsun\" gerçek bir ifade mi, yoksa şiirsel bir uydurma mı?",
+        "answer": "Gerçek ve sözlükte kayıtlı. TDK Güncel Türkçe Sözlük'te *burnunda tütmek* maddesi \"çok özlemek\" olarak tanımlanıyor ve Osman Cemal Kaygılı'dan bir örnek taşıyor. Tatoeba'da da \"Burnumda tütüyorsun\" cümlesi \"I long for you\" çevirisiyle kayıtlı. Yalnız unutmayın: tanımın içinde \"çok\" var, yani nötr bir eşdeğer değil, pekiştirmedir."
+      },
+      {
+        "question": "\"İçim gitti\" özlem anlatmak için kullanılabilir mi?",
+        "answer": "Kullanmayın. TDK'nin *içi gitmek* maddesinin birinci anlamı *içi sürmek*'e gönderme yapıyor ve o madde \"ishal olmak\" diyor. İkinci anlamı ise bir şeyi yapmayı veya elde etmeyi çok istemek — bir kişiyi özlemek değil. Sevdiğiniz birine yazdığınızda istemediğiniz bir çağrışım riski var."
+      },
+      {
+        "question": "Hasret ve özlem arasında anlam farkı var mı?",
+        "answer": "TDK'ye göre yok: *hasret* maddesinin tanımının tamamı \"► özlem\", yani doğrudan bir gönderme. Fark anlamda değil kökende ve üslupta. TDK *hasret*'e \"Arapça ḥasret\" köken etiketi koyarken *özlem* hiçbir etiket taşımaz, ve Tatoeba'daki 31 hasret cümlesinin 28'i bir kişiden değil bir yerden (vatan, ev, sıla) bahsediyor."
+      },
+      {
+        "question": "Bir kişiye \"özlem\" kelimesiyle seslenebilir miyim?",
+        "answer": "Pratikte zor. Tatoeba'da *özlem* için hayatta kalan 17 cümlenin hiçbiri bir kişiye seslenmiyor: vatan özlemi, yurt özlemi, ev özlemi, meyve, arkadaşlık, barış. Bu ailenin kişiye yönelen üyesi isim değil fiildir — yani *özlemek*. Bir kişi için *özlem* kullanacaksanız \"sana özlem duyuyorum\" gibi bir kuruluş gerekir ve bu belirgin biçimde resmî durur."
+      },
+      {
+        "question": "\"Göreceğim geldi\" sözlükte var mı?",
+        "answer": "Bağımsız bir madde olarak yok; aratıldığında \"Sonuç bulunamadı\" dönüyor. Ama *özlemek* maddesinin tanımının son cümleciği tam olarak \"göreceği gelmek\". Yani bu bir deyim değil, TDK'nin *özlemek* için verdiği kendi açımlaması — ve alternatifler arasında en doğal, en az zorlama duranı bu."
+      },
+      {
+        "question": "Mesajımda ı, ş, ğ gibi harfler bozuk görünürse ne yapmalıyım?",
+        "answer": "Bu yazının önerdiği cümlelerin hepsi Türkçe özel harf içeriyor ve hiçbirini kısaltmanızı önermiyoruz. Telefonunuzun klavye dili Türkçe değilse büyük I ile İ karışabilir. Mesajı göndermeden önce ekranda okuyup ı ile i'yi, ş ile s'yi gözle doğrulamak en pratik çözümdür."
+      },
+      {
+        "question": "Farklı bir cümle kullanmak mesajımı daha etkili yapar mı?",
+        "answer": "Otomatik olarak yapmaz. Memory & Cognition dergisindeki açık erişimli bir göz izleme çalışması, bir deyimin değiştirilmiş biçimlerinin kalıplaşmış biçime göre belirgin biçimde daha uzun okuma ve daha fazla yeniden okuma gerektirdiğini ölçtü. Çalışma İngilizce üzerine ve 47 kişilik, ama yönü açık: farklılık okura bir işlem yükü getirir. Cümleyi tekrardan kaçmak için değil, başka bir şey söylemek istediğiniz için değiştirin."
+      },
+      {
+        "question": "Bu ifadeleri iş arkadaşıma veya bir büyüğüme yazabilir miyim?",
+        "answer": "*Burnumda tütüyorsun* ve *sana hasretim* yoğun ve samimi ifadelerdir; iş bağlamında yersiz durur. Mesafeli bir ilişkide *yokluğunuzu hissediyorum* ya da yalnızca *sizi özledim* daha güvenlidir. Saygı çoğulu *siz* ile kurulum için kardeş yazılarımızdaki seni/sizi ayrımına bakabilirsiniz."
+      },
+      {
+        "question": "\"Hasretlik\" kelimesini \"özledim\" yerine kullanabilir miyim?",
+        "answer": "Anlamı aynı değil. TDK *hasretlik*'i \"sevilen bir şey veya kimseden ayrı kalma durumu, ayrılık\" diye tanımlıyor — yani duygunun değil, ayrı olma durumunun adı. \"Hasretlik çekiyorum\" ayrılığın kendisinden söz eder; \"seni özledim\" ise doğrudan size dair bir duygu bildirir."
+      },
+      {
+        "question": "Bu yazıdaki sayılar Türkiye'deki kullanıcılardan mı geliyor?",
+        "answer": "Hayır, ve bunu açıkça belirtmek önemli. SubhSandesh veritabanındaki hiçbir veri dile veya ülkeye göre ayrılmamıştır; veritabanı yalnızca hangi şablonun açıldığını kaydeder, kimin aldığını asla kaydetmez. Buradaki hiçbir rakam Türkiye'ye ait değildir ve hiçbir Türkçe dil önerisinin kanıtı değildir. Dil iddialarının tamamı TDK ve Tatoeba'ya dayanıyor."
+      },
+      {
+        "question": "Neden bu aramada sıralanan sayfalar cümle değil davranış öneriyor?",
+        "answer": "Ölçtüğümüz kadarıyla bu sorgunun ticari değeri düşük ve iki gerçek Türk yayıncı da konuyu ilişki içeriği olarak ele almış. En üstteki Türkçe listeli içerik 2017 tarihli bir marka iş birliği ve on bir maddesinin on biri de sosyal medya davranışı; ulusal gazetenin galeri içeriği de altı davranış sayıyor. Dokuz sonucun hiçbiri bir sözlük maddesine dayanmıyor."
+      }
+    ],
+    "coverImageQuery": "turkish dictionary open handwritten letter",
+    "coverImagePrompt": "A warm, photorealistic close-up of an open Turkish dictionary page beside a half-written handwritten letter and a phone showing a message draft, on a wooden desk in soft afternoon light. Shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible text, no watermark except a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# Özledim Demenin Farklı Yolları: Sözlüğün Gerçekten Onayladığı Beş Cümle\n\nKısa cevap: **özledim demenin farklı yolları** aranırken umulanın aksine, TDK Güncel Türkçe Sözlük'te bir **kişiye** söyleyebileceğiniz gerçek alternatif sayısı beşi geçmiyor — ve bunlar işe yaradığında, *özledim*'le aynı anlama geldikleri için değil, cümlede başka bir şey yaptıkları için yarıyor. SubhSandesh'te kayıtlı 3.843 üretici var ve kayıtlı üretici başına ortalama sayfa sayısı 1,35 — yani tipik kişi hayatında bir tek sayfa kuruyor.\n\nTek sayfa, tek mesaj, çoğu zaman tek cümle. O yüzden hangi cümleyi seçtiğiniz gerçekten önemli, ve o yüzden bu yazıda her öneri sözlükten okunmuş bir maddeye dayanıyor.\n\nAşağıdaki her cümlenin arkasında `sozluk.gov.tr` üzerinden 26 Eylül 2026'da çekilmiş bir TDK maddesi ve çoğu için Tatoeba'da elle incelenmiş gerçek bir örnek cümle var. Eleyip attıklarımızı da yazdık, çünkü elemelerin gerekçesi listenin kendisinden daha bilgilendirici.\n\n## Bu aramada şu anda ne sıralanıyor\n\nBunu tahmin etmedik, ölçtük: Google, gerçek tarayıcı, `gl=tr&hl=tr&pws=0`, kişiselleştirme kapalı, iki kez çalıştırıldı ve dokuz sonuç da iki turda aynı geldi. Dokuz organik sonucun yedisi forum, sözlük kullanıcı içeriği, tek bir Instagram gönderisi ya da çeviri yığını.\n\nDördü Türkçe sorunun cevabı bile değil: biri bir Filipin subreddit'indeki İngilizce başlığın Türkçeye makine çevirisi, biri bir Hint ilişki sitesinin çevrilmiş klasörü (URL'si hâlâ İngilizce), biri Arapça'da özlem anlatmayı öğreten bir uygulama blogu, biri de \"100 dilde seni özledim\" listesi.\n\nGeriye iki gerçek Türk yayıncı kalıyor ve asıl bulgu burada. Birinci sıradaki listeli içerik, künyesinde \"Coca-Cola Türkiye — Onedio Üyesi\" yazan, 14.02.2017 tarihli bir reklam içeriği; \"11 farklı yol\"un on biri de sosyal medya davranışı: 135 hafta önceki fotoğrafı beğenmek, her tweete kalp atmak, Snapchat videosunu tekrar tekrar izlemek.\n\n**İçinde tek bir Türkçe cümle alternatifi yok.** Ulusal bir gazetenin galeri içeriği de aynısını yapıyor: DÜŞÜNCELİ HAREKET, ŞARKILAR, FOTOĞRAFLAR, GELECEK PLANLARI. Altısı da davranış.\n\nYani bu sorguda kimse \"ne yazayım\" sorusuna cevap vermiyor; herkes \"ne yapayım\" sorusuna cevap veriyor. Dokuz sonuçtan hiçbiri de bir sözlük maddesine dayanmıyor.\n\n## TDK'nin kendi maddeleri: dokuz seçenek, tek bir anlam\n\nBu yazıya \"Türkçede gerçek alternatifler var ve bunlar eş anlamlı değil\" varsayımıyla başladık. **Sözlük bunu doğrulamadı.** TDK'nin maddeleri okunduğunda, alternatiflerin neredeyse tamamı *özlem* ya da *özlemek*'in kendisiyle tanımlanıyor:\n\n- **hasret** → tanımın tamamı: \"► özlem\"\n- **özlenti** → \"► özlem\"\n- **tahassür** → \"► özlem\"\n- **iştiyak** → \"► özleme\"\n- **hasret kalmak** → \"özlemek\"\n- **hasret çekmek** → \"özlem duymak\"\n- **hasretini çekmek** → \"**çok** özlemek\"\n- **burnunda tütmek** → \"**çok** özlemek\"\n- **gözünde tütmek** → \"**çok** özlemek\"\n\nYani resmî sözlüğün kendi hesabına göre bunlar sözlüksel olarak eş anlamlı. Onları ayıran şey anlam değil, dört başka şey: **yoğunluk** (üç tanesinin tanımının içinde doğrudan \"çok\" geçiyor), **köken ve dolayısıyla üslup**, **güncellik** (ikisi \"eskimiş\" etiketli) ve **cümledeki dizilim** — kimin özne olduğu.\n\nBu dördü de sözlükte okunabilen etiketler. *özledim*'deki **-m** kişi ekinin ve *özlemek*'in aldığı **[-i]** belirtme durumunun ayrıntısı için, bunu madde madde açan kardeş yazımıza bakın: [seni özledim mesajına verilecek cevaplar](https://subhsandesh.in/blog/seni-ozledim-mesajina-verilecek-cevaplar). Burada o çözümlemeyi tekrarlamıyoruz.\n\n## Hasret: Arapça bir ödünç — ve ölçülmüş bir alışkanlığı var\n\n[TDK *hasret* maddesine](https://sozluk.gov.tr/gts?ara=hasret) **\"Arapça ḥasret\"** köken etiketi koyuyor; *özlemek*, *özlem* ve *özlenti* hiçbir köken etiketi taşımıyor. [İngilizce Wiktionary](https://en.wiktionary.org/wiki/hasret) aynı şeyi bağımsız olarak doğruluyor: \"Osmanlı Türkçesi حسرت, Arapça حَسْرَة (ḥasra)\" ve anlam olarak \"longing (**melancholic** desire)\" — TDK'nin çıplak \"► özlem\"ine ek olarak *melankolik* niteliğini veriyor. *International Journal of English Linguistics* dergisinde yayımlanan açık erişimli bir çalışma ([Alshammari & Alshammari, 2020](https://doi.org/10.5539/ijel.v10n5p388)) Arapça kökenli 250 Türkçe ödünç kelimeden oluşan bir derlemi inceleyip bunların ünlü uyumu, ünlü türemesi ve ikizleşme çözülmesi gibi süreçlerden geçerek Türkçeleştiğini gösteriyor — yani *hasret* dile tam yerleşmiş bir ödünç, yabancı bir kelime değil.\n\nAma üslup farkı iddiasını da ölçtük. Tatoeba'da *hasret* için dönen 31 cümlenin 31'i de gerçekten bu kelimeyi içeriyordu.\n\n**Bu 31 cümlenin 28'i bir yerden bahsediyor**: *vatan hasreti*, *ev hasreti*, *sıla hasreti*, *memleket hasreti* — hepsi İngilizceye \"homesick\" diye çevrilmiş. Üçü yer değil, ve bunlardan **tam bir tanesi bir kişiye sesleniyor**: \"Ben sana hasretim\", İngilizce çevirileri \"I pine for you\" ve \"I'm languishing for you\".\n\nİki ayrıntı önemli. Birincisi: *sana*, **yönelme durumu** — *özlemek*'in istediği *seni* belirtme durumu değil. Yani bu yalnızca üslup farkı değil, dilbilgisel olarak başka bir yapı.\n\nİkincisi: çevirmenler *miss* değil *pine* ve *languish* gibi işaretli, edebî fiiller seçmiş. Aynı derlemde *özlem* ismi için hayatta kalan 17 cümlenin **hiçbiri bir kişiye seslenmiyor** (vatan, yurt, ev, meyve, arkadaşlık, barış). Bu ailenin kişiye yönelen üyesi isim değil, **fiil**.\n\n**Pratik sonuç:** *Sana hasretim* gerçek ve güzel bir cümle, ama derlemdeki ağırlığı yer özlemine ait. Sevdiğiniz kişiye yazdığınızda daha ağır, daha edebî, biraz da \"memleket özlemi\" tınısı taşıyan bir seçim yapmış oluyorsunuz. Bazen tam olarak istenen budur.\n\n## Burnumda tütüyorsun: özneyi değiştiren cümle\n\nBu, listedeki en ilginç seçenek ve sözlükte gerçekten var. TDK [**burnunda tütmek** maddesini](https://sozluk.gov.tr/gts?ara=burnunda%20t%C3%BCtmek) \"çok özlemek\" diye tanımlıyor ve Osman Cemal Kaygılı'dan örnek veriyor: \"Benim Nazlılarım, Gülizarlarım hatta Ethemlerim **burnumda tütmeye** başladı.\" İkiz maddesi **gözünde tütmek** de yine \"çok özlemek\".\n\nTatoeba'da art arda iki numarayla duran bir asgari çift buldum: [#5495688](https://tatoeba.org/en/sentences/show/5495688) \"**Burnumda tütüyorsun.**\" ve #5495689 \"**Gözümde tütüyorsun.**\" — ikisinin de İngilizce çevirisi \"I long for you.\" Derlemdeki tüm kanıt bu iki cümleden ibaret; n = 2, ve bunu olduğu gibi söylüyoruz.\n\nAsıl mesele yapıda. *Seni özledim*'de özne benim, siz nesnesiniz. *Burnumda tütüyorsun*'da fiil **-sun** ekini alıyor: özne **sizsiniz**, ben ise bir organın üzerindeki iyelik ekine indirgenmiş durumdayım.\n\nAlmancadan Türkçeye bakan kardeş yazımız [Almanca \"ich vermisse dich\" karşılığı](https://subhsandesh.in/blog/ich-vermisse-dich-auf-turkisch) Türkçedeki tek çatı çevirmesinin *özlenmek* olduğunu ve onun \"nesnesiz\" etiketiyle özleyeni tamamen sildiğini gösteriyor. Bu doğru — ama çatı sistemi için doğru. *Burnumda tütüyorsun* aynı devrilmeyi **sözlüksel olarak** yapıyor ve özleyeni silmiyor, yalnızca geri plana atıyor.\n\nAlmancanın *du fehlst mir*'ine Türkçede en yakın duran yapı bu.\n\nBir uyarı: TDK tanımı \"**çok** özlemek\". Bu nötr bir eşdeğer değil, bir pekiştirme. Günlük bir mesajda abartılı durabilir.\n\n## Sözlükte başlığı olmayan ikisi\n\n**\"Göreceğim geldi\"** TDK'de bağımsız bir madde değil — aratıldığında \"Sonuç bulunamadı\" dönüyor. Ama *özlemek* maddesinin tanımının **son cümleciği**: \"…görmeyi, ona kavuşmayı istemek, **göreceği gelmek**\".\n\nYani bu bir deyim değil, sözlüğün *özledim* için kendi verdiği açımlama. Tam da bu yüzden en doğal, en az zorlama alternatif: yeni bir şey söylemiyorsunuz, aynı şeyi sözlüğün kendi kelimeleriyle söylüyorsunuz.\n\n**\"Yokluğunu hissediyorum\"** ise sözlükte hiç yok — ne deyim olarak ne de başka türlü. Bileşimsel bir ifade: TDK *yokluk*'u \"yok olma, bulunmama durumu\" ve ikinci anlamıyla \"göz önünde bulunmama\", *hissetmek*'i de \"► duymak\" diye veriyor. Tatoeba'da tam bu dizgiyi arattığımızda sıfır sonuç geldi; ama küçük bir derlemdeki sıfır, yokluk kanıtı değildir — nitekim aynı derlemde #12920763 \"**Yokluğunu çok hissettim.**\" cümlesi doğrudan \"I missed you a lot\" diye çevrilmiş.\n\nYani ifade kullanımda var, sözlükte yok. Bunu bir örnek olarak sunuyoruz, kalıplaşmış bir deyim olarak değil.\n\n## Elediklerimiz ve gerekçeleri\n\n**\"İçim gitti\" — elendi.** Bu yazıya aday olarak girmişti. TDK'nin **içi gitmek** maddesinin birinci anlamı \"**içi sürmek**\"e gönderme yapıyor ve **içi sürmek** maddesi \"**ishal olmak**\" diyor.\n\nİkinci anlamı da \"bir şeyi yapmayı veya elde etmeyi çok istemek\" — bir kişiyi özlemek değil. Sevdiğinize yazmayın.\n\n**\"Tahassür\" ve \"iştiyak\" — elendi.** İkisi de TDK'de \"eskimiş\" etiketli. Canlı seçenek diye sunmak okuru yanıltırdı.\n\n**\"Sıla\", \"gurbet\", \"firkat\" — elendi.** Üçü de Arapça kökenli, üçü de yer ya da ayrılık hakkında; hiçbiri bir kişiye seslenmiyor. **\"Hasretlik\"** de eşdeğer değil: TDK onu \"ayrı kalma durumu, ayrılık\" diye tanımlıyor — duygunun değil, durumun adı.\n\n## Beş cümle yan yana\n\n| Cümle | TDK'deki dayanağı | Ne yapar | Ne zaman |\n|---|---|---|---|\n| Seni özledim | *özlemek* [-i], köken etiketi yok | Nötr, standart | Her zaman |\n| Göreceğim geldi | *özlemek* tanımının kendi açımlaması | Yumuşak, doğal | Günlük mesaj |\n| Sana hasretim | *hasret*, Arapça ḥasret, \"► özlem\" | Ağır, edebî; yönelme durumu | Uzun ayrılık |\n| Burnumda tütüyorsun | *burnunda tütmek*, \"çok özlemek\" | Özneyi karşıya geçirir | Yoğun an |\n| Yokluğunu hissediyorum | Sözlükte deyim değil; bileşimsel | Sakin, mesafeli | Resmî ilişki |\n\n## Farklı söylemek her zaman iyi bir fikir mi?\n\nDürüst cevap: hayır. *Memory & Cognition* dergisinde yayımlanan açık erişimli bir göz izleme çalışması ([Carrol & Segaert, 2024](https://europepmc.org/article/PMC/PMC10896937); 47 anadili İngilizce olan katılımcı) tam bunu ölçüyor: bir deyimin **değiştirilmiş** biçimleri, hem kalıplaşmış özgün biçime hem de düz anlamlı cümlelere kıyasla **belirgin biçimde daha uzun okuma süresi ve daha fazla geri dönüp yeniden okuma** gerektiriyor.\n\nSınırları açık: çalışma İngilizce üzerine, 47 kişilik, laboratuvarda okuma ölçüyor — aşk mesajı okumayı değil. Ama yön bellidir.\n\nBir aşk mesajında bu maliyetin bir bedeli var: farklı olsun diye seçilmiş bir cümle, tanımı gereği daha az alışıldıktır, ve alışılmadık bir satır duygudan çok **emek** gibi okunabilir. Bu yüzden önerimiz şu: cümleyi, tekrardan kaçmak için değil, **başka bir şey söylemek istediğiniz için** değiştirin — daha yoğun olmak için (*burnumda tütüyorsun*), karşıdakini cümlenin öznesi yapmak için, ya da daha edebî bir tona geçmek için (*sana hasretim*). *Seni özledim* bir hayal gücü eksikliği değil; dilin gerçekten taşıdığı biçim odur.\n\n## Kendi verimiz ne söyleyebilir, ne söyleyemez\n\nSubhSandesh'in veritabanında 3.843 kayıtlı üretici ve kayıtlı üretici başına 1,35 sayfa var; en çok görüntülenen şablon /love-gf, 17.093 görüntülenmeyle tüm sayfa görüntülemelerinin %29,7'si. /missyou-gf sayfalarında ilk kayıt ile son düzenleme arasındaki medyan süre 2,6 saat (n = 214) — insanlar cümlelerini yazıp bırakmıyor, saatlerce üzerinde oynuyor.\n\nBunların **ne olmadığını** açıkça söylemek gerekiyor. Görüntülenme sayısı **tekil ziyaretçi değil, sayfa görüntülemesidir**; bir kişi sayfayı yirmi kez açarsa yirmi görüntülenmedir. /missyou-gf verisi n = 214 ve iki aylık; buradan hiçbir mevsimsel sonuç çıkarılamaz.\n\nEn önemlisi: **veritabanı yalnızca hangi şablonun açıldığını kaydeder, kimin aldığını asla kaydetmez, ve hiçbir veri dile veya ülkeye göre ayrılmamıştır.** Buradaki hiçbir sayı Türkiye'ye ait değildir ve bu yazıdaki hiçbir Türkçe önerinin kanıtı değildir. Türkçe iddiaların tamamı TDK ve Tatoeba'ya dayanıyor; bu sayılar yalnızca insanların mesaj yazarken nasıl davrandığını gösteriyor.\n\n## Bağlantı verdiğimiz sayfa İngilizce\n\nBunu baştan söyleyelim: [/missyou-gf özlem sayfası](https://subhsandesh.in/missyou-gf) **İngilizce bir üründür.** Ürünün kendi tanımında \"bir sevgili/partner için 'seni özledim' sayfası\" olarak geçiyor; arayüz etiketleri, alan adları ve yönlendirme metinleri İngilizcedir. Türkçe yazdığınız cümle sayfanın içine elbette Türkçe girer ve ı, ş, ğ, ö, ü, ç harfleri sorunsuz görünür — ama çevresindeki her şeyi alıcınız İngilizce okuyacaktır.\n\nAlıcınız İngilizce arayüzle rahat değilse, bu yazıda üzerinde bunca durduğumuz özenli cümlenin etkisini kıracaktır. Dürüst tavsiyemiz: buna değip değmeyeceğine, cümleyi yazdıktan sonra karar verin.\n\nTek bir cümle seçtiyseniz — ki bu yazının önerdiği şey bu — [Catch sayfası](https://subhsandesh.in/catch) daha iyi oturabilir: mektup gökyüzünden **her seferinde tek satır** düşer ve alıcı onu kendi yüzüyle yakalar. Uzun bir mektup değil, tek ve dikkatle seçilmiş bir satır göndereceksen, o satırın tek başına düşmesi onu bir paragrafın içine gömmekten iyidir.\n\nUyarısı aynı: onun etiketleri de İngilizce, ayrıca kamera kullanır ve her alıcı bunu istemez. Kullanım koşullarına dair burada bir iddiada bulunmuyoruz; güncel durumu [şablon listesi](https://subhsandesh.in/templates) üzerinden görebilirsiniz.\n\nCümlenizi İngilizceye çevirmeniz gerekiyorsa, hangi zamanın doğru olduğunu ölçen kardeş yazımız işinizi görür: [seni özledim İngilizce nasıl yazılır](https://subhsandesh.in/blog/seni-ozledim-ingilizce-nasil-yazilir).",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ozledim-demenin-farkli-yollari#post",
+        "inLanguage": "tr-TR",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Turkish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Turkish_language",
+              "https://www.wikidata.org/wiki/Q256"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabic language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arabic",
+              "https://www.wikidata.org/wiki/Q13955"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "hasret"
+          },
+          {
+            "@type": "Thing",
+            "name": "burnunda tütmek"
+          },
+          {
+            "@type": "Thing",
+            "name": "özlemek"
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "TDK Güncel Türkçe Sözlük — özlemek, hasret, burnunda tütmek, içi sürmek",
+            "url": "https://sozluk.gov.tr/gts?ara=hasret",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Türk Dil Kurumu"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba Turkish sentence #5495688 — Burnumda tütüyorsun.",
+            "url": "https://tatoeba.org/en/sentences/show/5495688",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "As easy as cake or a piece of pie? Processing idiom variation and the contribution of individual cognitive differences",
+            "url": "https://europepmc.org/article/PMC/PMC10896937",
+            "datePublished": "2023-09-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Memory & Cognition"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary — hasret (Turkish), etymology and gloss",
+            "url": "https://en.wiktionary.org/wiki/hasret",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Adaptation of Turkish Loanwords Originating from Arabic",
+            "url": "https://doi.org/10.5539/ijel.v10n5p388",
+            "datePublished": "2020-09-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of English Linguistics"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Özledim demenin TDK'de dayanağı olan alternatifleri",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Seni özledim — özlemek [-i], nötr ve standart"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Göreceğim geldi — TDK'nin özlemek tanımının kendi açımlaması"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sana hasretim — Arapça kökenli, edebî, yönelme durumu"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Burnumda tütüyorsun — TDK'de \"çok özlemek\", özneyi karşıya geçirir"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Yokluğunu hissediyorum — sözlükte deyim değil, bileşimsel"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "özledim demenin farklı yolları",
+    "angle": "Wins by being the only page on this SERP built from TDK entries read at the headword, and the only one anywhere that reports what the dictionary actually says about the premise: nine TDK headwords (hasret, özlenti, tahassür, iştiyak, hasret kalmak, hasret çekmek, hasretini çekmek, burnunda tütmek, gözünde tütmek) are defined BY özlem/özlemek itself, so they are lexical synonyms and what separates them is intensity, Arabic-loan register, currency and argument structure — measured: 28 of 31 Tatoeba hasret sentences name a PLACE and exactly one addresses a person (\"Ben sana hasretim\" → \"I pine for you\", DATIVE not accusative), while burnunda/gözünde tütmek carry 2sg subject agreement (\"Burnumda tütüyorsun\" → \"I long for you\") and so achieve lexically the du-fehlst-mir inversion the German sibling showed the voice system cannot. 7 of 9 ranking results are weak, both Turkish publishers list behaviours rather than phrases, and 0 of 9 cite a dictionary.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "factsUsed": [
+      "3,843 registered creators — measured 2026-09-24",
+      "Average pages per registered creator: 1.35 — measured 2026-09-24",
+      "Most-viewed template: love-gf — 17,093 views, 29.7% of all page views — measured 2026-09-24",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://sozluk.gov.tr/gts?ara=hasret",
+        "stat": "TDK Güncel Türkçe Sözlük, fetched 2026-09-26 via the public gts endpoint (HTTP 200); the headword on every delivered response was read before citing, per BRIEF §4. THE CENTRAL FINDING, verbatim: hasret is tagged 'Arapça ḥasret' and its ENTIRE definition is '► özlem'. Same session, same endpoint: özlenti '► özlem'; tahassür (Arapça taḥassur, eskimiş) '► özlem'; iştiyak (Arapça iştiyāḳ, eskimiş) '► özleme'; hasret kalmak 'özlemek'; hasret çekmek 'özlem duymak'; hasretini çekmek 'çok özlemek'; burnunda tütmek 'çok özlemek' with the citation 'Benim Nazlılarım, Gülizarlarım hatta Ethemlerim burnumda tütmeye başladı' (Osman Cemal Kaygılı); gözünde tütmek 'çok özlemek'; hasretlik 'Sevilen bir şey veya kimseden ayrı kalma durumu, ayrılık'; hasret gidermek 'özleme son vermek, kavuşmak'; özlem 'Bir kimseyi veya bir şeyi görme, kavuşma isteği; özlenti, hasret, tahassür'; özlemek [-i] 'Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek'; yokluk 'Yok olma, bulunmama durumu' / 'Göz önünde bulunmama; gaybubet'; hissetmek '► duymak'. THE CUT: içi gitmek sense 1 is a cross-reference to içi sürmek, and içi sürmek = 'ishal olmak' — which is why 'içim gitti' was removed from this post. NOTE ON METHOD: 'göreceğim geldi', 'göresi gelmek' and 'özlem duymak' all return 'Sonuç bulunamadı' — TDK does not headword them, so they are cited only as TDK's own defining glosses inside özlemek and hasret çekmek, and the body says so. TDK marks loan origin in the 'lisan' field; özlemek, özlem and özlenti carry none. Cap-exempt reference instrument; TDK publishes no date on dictionary entries."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/5495688",
+        "stat": "Tatoeba Turkish sentence #5495688, 'Burnumda tütüyorsun.', glossed 'I long for you.', fetched 2026-09-26 through the public api_v0 search endpoint. Its consecutive twin #5495689 'Gözümde tütüyorsun.' carries the same gloss — a minimal pair, and the only two attestations in the corpus (n=2, stated as n=2 in the body). Both show -sun 2sg agreement, i.e. the MISSED person is the grammatical subject. HAND-INSPECTED COUNTS from the same session, search is tokenised so every raw hit was checked individually: 'hasret' 31 reported / 31 fetched / 31 literal survivors, of which 28 name a PLACE (vatan, ev, sıla, memleket hasreti, all glossed 'homesick') and exactly ONE addresses a person — #4766169 'Ben sana hasretim' → 'I pine for you.' / 'I'm languishing for you.', with DATIVE sana, not the accusative seni that özlemek [-i] requires. 'özlem' 18 reported / 17 survivors, NONE addressing a person. 'burnumda' 190 reported / 30 fetched / 2 survivors (6.7%). 'tütüyorsun' 6 reported / 2 survivors. 'içim gitti' 653 reported / 0 survivors on page 1 — the loudest tokenisation false positive measured here. 'özledim' 124 reported, matching the sibling row's independent count. ZEROS NOT TREATED AS ABSENCE: 'yokluğunu hissediyorum' returned 0, yet #12920763 'Yokluğunu çok hissettim.' is glossed 'I missed you a lot.' — so the construction is attested even though the exact string is not. Cap-exempt reference instrument; Tatoeba publishes no date per sentence."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/hasret",
+        "stat": "English Wiktionary, Turkish section of 'hasret' (pageid 1873448), fetched 2026-09-26 via the MediaWiki API; the Turkish section was located and read before citing. Etymology verbatim: 'From Ottoman Turkish حسرت (hasret), from Arabic حَسْرَة (ḥasra).' Noun gloss: 'longing (melancholic desire)', 'Synonym: özlem'. This independently corroborates TDK's 'Arapça ḥasret' lisan tag from a second source, and adds the register word 'melancholic' that TDK's bare '► özlem' does not carry. The entry cites Nişanyan Sözlük. Checked in the same call: 'burnunda tütmek' is MISSINGTITLE on Wiktionary, so the idiom rests on TDK alone and the body does not overstate it. Wiktionary publishes no article-level date."
+      },
+      {
+        "url": "https://doi.org/10.5539/ijel.v10n5p388",
+        "publishedDate": "2020-09-23",
+        "stat": "Alshammari W.F. & Alshammari A.R. (2020), 'Adaptation of Turkish Loanwords Originating from Arabic', JOURNAL: International Journal of English Linguistics 10(5) (named here for the BRIEF §7 cap — it is NOT Frontiers in Psychology and NOT PNAS, both banned). doi:10.5539/ijel.v10n5p388. Unpaywall returns is_oa true, oa_status gold, licence CC BY. ABSTRACT ONLY — the ccsenet full text is a PDF and PDFs do not parse in this environment; the record was read via the Crossref API. Abstract: a corpus of 250 Turkish loanwords of Arabic origin was compared with their Arabic counterparts; adaptation is mostly phonological — substitution, deletion, degemination, vowel harmony and epenthesis — with faithfulness to the Arabic source violated in order to satisfy Turkish phonological constraints, and Arabic feminine singular/plural morphemes treated as part of the root. Used in the body only for the narrow claim that hasret is a fully nativised loan rather than a foreign word; the paper says nothing about register or about missing someone, and the body does not imply otherwise."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10896937",
+        "publishedDate": "2023-09-19",
+        "stat": "Carrol G. & Segaert K. (2024), 'As easy as cake or a piece of pie? Processing idiom variation and the contribution of individual cognitive differences', JOURNAL: Memory & Cognition 52(2) (named here for the BRIEF §7 cap — NOT Frontiers in Psychology, NOT PNAS). doi:10.3758/s13421-023-01463-x, PMC10896937. Unpaywall is_oa true, oa_status hybrid; Europe PMC isOpenAccess Y, licence cc by. ABSTRACT ONLY — the Springer landing page 403s a scripted UA and PDFs do not parse here; the record was read through the Europe PMC REST API. Eye-tracking while reading plus cross-modal priming, n = 47 university-level native speakers of English: idioms (play with fire) were compared with creative VARIANTS (play with acid) and literal controls (play with toys). Abstract verbatim in part: variants 'showed significantly longer overall reading times, with more rereading required compared with other conditions', and 'variants were treated more like literal phrases than novel metaphors, with subsequent effort required to make sense of these'. LIMITS STATED IN BODY PROSE: the study is on English, n = 47, and measures lab reading rather than reading a love message."
+      }
+    ],
+    "serpMeasurement": {
+      "route": "Google in the real browser (PolterTab), gl=tr&hl=tr&pws=0&num=20, run twice with byte-identical hrefs across both runs. serp-ddg.mjs was tried ONCE per BRIEF §3 and returned UND_ERR_CONNECT_TIMEOUT against html.duckduckgo.com:443; no further retries. Self-authenticated: page title returned 'özledim demenin farklı yolları - Google'da Ara' and all nine h3s were Turkish and on this keyword, so this is not another agent's SERP.",
+      "measuredOn": "2026-09-26",
+      "resultsSeen": 9,
+      "weakCount": 7,
+      "results": [
+        {
+          "position": 1,
+          "host": "kizlarsoruyor.com",
+          "type": "Turkish Q&A forum, UGC",
+          "weak": true
+        },
+        {
+          "position": 2,
+          "host": "eksisozluk.com",
+          "type": "collaborative UGC sözlük",
+          "weak": true
+        },
+        {
+          "position": 3,
+          "host": "reddit.com/r/CasualPH",
+          "type": "Filipino subreddit, English thread served with ?tl=tr machine translation",
+          "weak": true
+        },
+        {
+          "position": 4,
+          "host": "instagram.com",
+          "type": "single Instagram post",
+          "weak": true
+        },
+        {
+          "position": 5,
+          "host": "onedio.com",
+          "type": "listicle — Coca-Cola Türkiye branded advertorial dated 14.02.2017; all 11 items are social-media behaviours, zero Turkish phrases",
+          "weak": false
+        },
+        {
+          "position": 6,
+          "host": "bonobology.com/tr/",
+          "type": "Indian relationship site, machine-translated subfolder with an English URL slug",
+          "weak": true
+        },
+        {
+          "position": 7,
+          "host": "blog.alifbee.com/tr/",
+          "type": "Arabic-learning app blog — about Arabic, not Turkish",
+          "weak": true
+        },
+        {
+          "position": 8,
+          "host": "posta.com.tr",
+          "type": "national newspaper galeri slideshow, 2023-11-28; six items, all behaviours, zero phrases",
+          "weak": false
+        },
+        {
+          "position": 9,
+          "host": "tercumex.com.tr",
+          "type": "translation agency, 'I miss you in 100 languages'",
+          "weak": true
+        }
+      ],
+      "gate4Verdict": "PROCEED. 7 of 9 weak; only two mainstream Turkish publishers rank and both sit in the weakest format they own. 4 of 9 results do not answer the Turkish query at all. 0 of 9 cite TDK or any dictionary. This is not the strong national-publisher wall that aborted the br-pt listicle row.",
+      "checkableFindingInRankingResult": "The #5 result (onedio.com), the highest-ranking piece of genuine Turkish editorial for a query asking how to SAY özledim differently, contains no Turkish phrase at all — all 11 'ways' are social-media behaviours (liking a 135-week-old photo, favouriting tweets, Snapchat replays, #tb and #özledim hashtags), the byline reads 'Coca-Cola Türkiye — Onedio Üyesi' and the date is 14.02.2017. Verified by opening the page and reading it. DELIBERATELY NOT ASSERTED: Onedio's closing 'Bende Son Durum: Çok Özledim' uses bende as the correct locative of ben, NOT the Persian bende '► köle' that the German sibling caught at beluka.de — checked and cleared rather than accused."
+    },
+    "structuralLimitations": [
+      "PROMPT FRAMING CORRECTED AT SOURCE (BRIEF §0). The task prompt asserts 'Turkish has real alternatives and they are not synonyms.' TDK says the opposite and the body follows TDK: hasret, özlenti and tahassür are bare cross-references '► özlem', iştiyak is '► özleme', hasret kalmak is 'özlemek', hasret çekmek is 'özlem duymak', and hasretini çekmek / burnunda tütmek / gözünde tütmek are all 'çok özlemek'. Nine headwords defined BY özlem or özlemek itself. They ARE lexical synonyms; what separates them is intensity, loan origin, currency and argument structure, and that is what the post argues instead.",
+      "THE REGISTER/ORIGIN AXIS HELD, and is sourced rather than asserted: TDK marks loan origin in its 'lisan' field and tags hasret 'Arapça ḥasret', tahassür 'Arapça taḥassur', iştiyak 'Arapça iştiyāḳ', while özlemek, özlem and özlenti carry no tag. English Wiktionary corroborates independently (Ottoman Turkish حسرت < Arabic حَسْرَة) and adds 'melancholic' to the gloss.",
+      "THE POST ARGUES AGAINST ITS OWN KEYWORD'S PREMISE. Carrol & Segaert (Memory & Cognition) measured that idiom variants require significantly longer reading and more rereading than canonical forms, so the body tells the reader to change the phrase only when they mean something different — more intensity, or to make the other person the subject — and not to avoid repetition. 'Seni özledim' is presented as the form the language actually carries, not a failure of imagination.",
+      "LINES CUT, WITH THE DICTIONARY REASON (BRIEF §4). 'İçim gitti' was offered by the task prompt and is CUT: TDK's içi gitmek sense 1 cross-references içi sürmek, which is 'ishal olmak'; sense 2 is wanting to do or obtain something, not missing a person. 'Tahassür' and 'iştiyak' CUT as both are tagged 'eskimiş'. 'Sıla', 'gurbet', 'firkat' CUT — all Arabic-tagged and all about place or separation, none addressing a person. 'Hasretlik' CUT as a substitute: TDK defines it as 'ayrılık', the state of being apart, not the feeling. 'Göresi gelmek' CUT: 'Sonuç bulunamadı' at TDK.",
+      "EXTENSION OF A SIBLING, NOT A CONTRADICTION. ich-vermisse-dich-auf-turkisch concluded that Turkish's only inversion is the passive özlenmek, which being 'nesnesiz' deletes the misser. That holds for the VOICE system. This post shows that burnunda/gözünde tütmek achieve the German du-fehlst-mir shape LEXICALLY — the missed person takes 2sg subject agreement and the misser survives as a possessive on a body part. The sibling is credited in body prose, and its özlenmek finding is pointed at rather than re-derived.",
+      "TATOEBA n IS SMALL AND SAID TO BE SMALL. The burnumda/gözümde evidence is exactly two sentences and the body states n = 2. Zeros were not reported as absence: 'yokluğunu hissediyorum' returned 0 hits, yet 'Yokluğunu çok hissettim.' (#12920763) is glossed 'I missed you a lot.', so the construction is attested and the body presents it as an example rather than a dictionary idiom.",
+      "SOURCE SWAPPED ON CAP GROUNDS, NOT ARGUED. Scientific Reports (PMC10073073, 'Love and affectionate touch toward romantic partners all over the world') was a good subject fit but the journal is already named in 2 posts in this batch, and taking it to 3 would leave no headroom with six agents writing at once — dropped. Separately, 'Echoes of the Turkish language reform: attitudes to Arabic and Persian loanwords in discourse' (Turkish Studies 2025, doi:10.1080/14683849.2024.2447874) was a near-perfect match for the register axis but Unpaywall returns is_oa false / closed, so the second-best open-access loanword paper was used instead.",
+      "FIRST-PARTY DIFFERENTIATION IS PARTLY THIN AND MEASURED. Three of the four factsUsed lines ('3,843 registered creators', 'Average pages per registered creator: 1.35', 'Most-viewed template: love-gf — 17,093 views') appear in ZERO other posts in this batch — checked by grep before writing. The fourth, the 2.6-hour median edit gap, appears in 12 sibling posts and was kept anyway because it is the only line in facts-snapshot.md that measures revision time, which is precisely what this post is about. Stated here rather than hidden.",
+      "TWO SOURCES ARE ABSTRACT-ONLY. Both peer-reviewed citations (IJEL, Memory & Cognition) were read as abstracts via the Crossref and Europe PMC REST APIs; the ccsenet and Springer full texts are PDFs, which do not parse in this environment, and the Springer landing page 403s a scripted UA."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The post's only comparison table is a lexical one — sentence, TDK entry that licenses it, what it does grammatically, when to use it — and no first-party figure belongs in any of its columns without inventing a link between SubhSandesh's usage data and Turkish phrasing that the database cannot support (nothing in it is segmented by language or country). Bolting a first-party column onto a dictionary table would be exactly the false implication BRIEF section 6 forbids. Closes only if a future facts snapshot segments by language, which would make a genuine column possible."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "TESTED, not assumed. Strapi's configured host (http://localhost:1337, per app/lib/storage.ts:27) was queried from the sandbox with fetch — /_health, an articles filter on this slug and a categories filter all returned 'fetch failed' — and then checked from the host itself: 'nc -z 127.0.0.1 1337' reports the port CLOSED/REFUSED and lsof shows no listener. So this is not the blocked-tool artefact that made earlier agents report Strapi offline; the server genuinely is not running. No collision check was possible. The slug matches the filename and the assigned keyword. Closes the moment Strapi is up and the slug is queried."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The Memory & Cognition citation (Carrol & Segaert 2024, idiom variation costs longer reading and more rereading) does NOT pass the swap test: two other rows in this batch — comment-dire-tu-me-manques-autrement and come-dire-mi-manchi-in-modo-originale — are being asked the same 'say it differently' question, and this paper would sit unchanged in either. It is reported as a failure rather than hidden because it is load-bearing for this post's central honest tension and no equally direct, non-banned, open-access substitute was found. The other four sources are specific to Turkish (TDK entries on hasret/burnunda tütmek/içi sürmek, hand-counted Tatoeba distributions, the Wiktionary hasret etymology, and a corpus study of Arabic-origin Turkish loanwords) and could not move to another row."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "An ItemList IS present and mirrors the body's five-sentence comparison table in exactly the same order (seni özledim, göreceğim geldi, sana hasretim, burnumda tütüyorsun, yokluğunu hissediyorum). But the body contains no H3 headings at all, so the item's literal requirement — mirroring the H3s in the same order — cannot be satisfied as written. Recorded as failed rather than quietly reinterpreted. Closes if the body is restructured to carry an H3 per alternative."
+        }
+      ],
+      "additionalChecks": [
+        "BRIEF section 3 SERP measured and self-authenticated: serp-ddg.mjs tried ONCE (UND_ERR_CONNECT_TIMEOUT), then Google in the real browser gl=tr&hl=tr&pws=0, run TWICE with byte-identical hrefs. Page title and all nine h3s confirmed Turkish and on this keyword before a single position was recorded. 7 of 9 weak. Gate 4: PROCEED.",
+        "Checklist item 30 reading, stated openly: 'internal links' is counted here as the three TEMPLATE_LINKS anchors (/missyou-gf, /catch, /templates), because item 31 immediately after defines an internal link as 'a real URL from TEMPLATE_LINKS'. The body additionally carries THREE sibling blog cross-links (seni-ozledim-mesajina-verilecek-cevaplar, ich-vermisse-dich-auf-turkisch, seni-ozledim-ingilizce-nasil-yazilir), which the row required and which are real /blog/ URLs but not TEMPLATE_LINKS entries. Six internal anchors in total; flagged here rather than buried.",
+        "Price guard: pricecheck-intl.mjs run against this slug — '1 file(s), no cost claim in any guarded language'. No ücretsiz / bedava / parasız / fiyat / ücret and no price, tier or subscription claim anywhere; the template section says only that no usage-terms claim is made here and links /templates.",
+        "Journal names given for the BRIEF section 7 cap, which capcheck.mjs cannot see: International Journal of English Linguistics and Memory & Cognition. NEITHER is Frontiers in Psychology (banned; now measured at 8 posts against a cap of 3) nor PNAS (banned). Neither PMC10896937 nor doi 10.5539/ijel.v10n5p388 appears anywhere in this batch or in 2026-09-25-miss-you-30 — checked by grep on the exact identifiers.",
+        "Scientific Reports (PMC10073073) was rejected on cap grounds although capcheck read clean: the journal is already named in 2 posts in this batch and taking it to 3 would leave no headroom with six agents writing concurrently. Turkish Studies doi:10.1080/14683849.2024.2447874 was rejected on access grounds (Unpaywall is_oa false, closed) despite being the best subject match for the register axis.",
+        "Both scholarly sources are ABSTRACT-ONLY, read via the Crossref and Europe PMC REST APIs; ccsenet and Springer full texts are PDFs, which do not parse here, and the Springer landing page 403s a scripted UA. Open access confirmed at Unpaywall before citing: IJEL is_oa true / gold / CC BY; Memory & Cognition is_oa true / hybrid / CC BY, Europe PMC isOpenAccess Y.",
+        "Wikidata QIDs verified at Special:EntityData AND paired against the Wikipedia API: 'Turkish language' resolves to Q256 and 'Arabic' to Q13955, both non-missing, no redirects. Q34125 was checked speculatively, resolves to TETUM, and is not used anywhere.",
+        "Every TDK entry was read at the headword on the delivered response per BRIEF section 4; no entry was cited from a URL shape alone. 'göreceğim geldi', 'göresi gelmek' and 'özlem duymak' all return 'Sonuç bulunamadı' and are cited only as TDK's own defining glosses inside özlemek and hasret çekmek, which the body states explicitly.",
+        "An accusation was CHECKED AND DROPPED: the #5 ranking result closes with 'Bende Son Durum: Çok Özledim'. That is the correct locative of ben, NOT the Persian 'bende' ('► köle', slave) that the German sibling caught at beluka.de. No error claim was made against it.",
+        "First-party differentiation measured by grep before writing: three of the four factsUsed lines (3,843 registered creators; 1.35 pages per creator; love-gf 17,093 views) appear in ZERO other posts in this batch. The fourth (2.6-hour median edit gap) appears in 12 sibling posts and was kept anyway, because it is the only line in facts-snapshot.md that measures revision time — the subject of this post. Differentiation is genuine but partial.",
+        "All four mandatory first-party caveats are in Turkish BODY PROSE, not only here: views are page views and not unique visitors; n = 214 over two months so no seasonal claim; the database records only which TEMPLATE was opened and never who received it; and nothing is segmented by language or country, so NO figure here is Turkish. No picker-with-default field (city, background music, 'together since') is cited at all.",
+        "Product mismatch disclosed in Turkish body prose per BRIEF section 2: /missyou-gf is stated to be an English-language product, defined at app/lib/prompt.ts:44 as an 'I miss you page for a girlfriend/partner', with English interface labels, and the reader is told plainly to decide whether it is worth it AFTER writing the sentence. /catch was chosen with concrete reasoning — it delivers a letter one line at a time, which suits a reader who has settled on a single careful sentence rather than a paragraph — and its own limits (English labels, camera use) are named.",
+        "SERP RE-AUTHENTICATED ON CONTENT, not on the navigation response, after the coordinator's warning that a correct page title in a navigate result is not proof of ownership. A third pass used an ATOMIC per-record extraction (title and href grouped inside the same result container in one call, so the two cannot straddle a page swap): 9 records, 0 dropped, all nine titles Turkish and on this keyword, and all nine hrefs identical to both earlier runs. Three consistent observations of the same nine results. No position in this post rests on a navigate-then-read pair alone.",
+        "FIRST-PARTY FACTS DELIBERATELY DRAWN FROM THE UNCOLLIDED PLATFORM-WIDE BLOCK. Three of the four factsUsed lines (3,843 registered creators; 1.35 pages per registered creator; love-gf 17,093 views / 29.7%) are on the coordinator's measured 'untouched' list and appear in ZERO other posts across both batches. The fourth, the 2.6-hour miss-you median edit gap, is collided but was kept on merit: it is the only line in facts-snapshot.md that measures revision time, which is this post's subject. A mix, not a green-washing swap — and no line was bolted on that the body does not actually use. All four verified byte-verbatim against facts-snapshot.md before writing.",
+        "Body word count 1,753 on the plain whitespace split, inside the 1,500-1,800 hard range and on the ~1,750 target the WAVE1-PLAN knownIssue asks for, leaving ceiling headroom for the quiescence cross-link pass. The six outbound links were added by wrapping existing prose rather than adding sentences, so they cost 0 words. Paragraphs: 0 of 38 exceed 3 sentences."
+      ],
+      "honestAssessment": "PROCEED, and the strongest thing in this post is that it contradicts the brief that commissioned it. The task prompt asserted that Turkish's alternatives to özledim 'are not synonyms'. TDK says otherwise and the post follows TDK: hasret, özlenti and tahassür are bare cross-references '► özlem', iştiyak is '► özleme', hasret kalmak is 'özlemek', hasret çekmek is 'özlem duymak', and hasretini çekmek, burnunda tütmek and gözünde tütmek are all 'çok özlemek'. Nine headwords defined by özlem or özlemek itself. What actually separates them — intensity, Arabic-loan register, currency, and which participant is the grammatical subject — is all readable in TDK's own tags, and that is what the post is built on instead.\n\nThe register axis held and was measured rather than asserted. TDK marks hasret 'Arapça ḥasret' while özlemek, özlem and özlenti carry no lisan tag; Wiktionary corroborates independently (Ottoman Turkish حسرت < Arabic حَسْرَة) and adds 'melancholic' to the gloss. Then Tatoeba settled what no dictionary could: of 31 hasret sentences, 28 name a PLACE (vatan, ev, sıla, memleket — all glossed 'homesick') and exactly ONE addresses a person, 'Ben sana hasretim', glossed 'I pine for you' / 'I'm languishing for you' — and it takes DATIVE sana, not the accusative seni that özlemek [-i] requires. None of the 17 surviving özlem sentences addresses a person at all. That is a real, countable finding and it is the post's best asset.\n\nThe second asset is structural and extends a sibling rather than repeating it. burnunda tütmek and gözünde tütmek are both TDK-defined as 'çok özlemek', and Tatoeba carries a minimal pair at consecutive IDs — #5495688 'Burnumda tütüyorsun' and #5495689 'Gözümde tütüyorsun', both 'I long for you' — in which -sun makes the MISSED person the subject. The German sibling concluded that Turkish's only inversion is the passive özlenmek, which being nesnesiz deletes the misser; that holds for the voice system, but these idioms achieve the du-fehlst-mir shape lexically without deleting anyone. n = 2, and the body says n = 2.\n\nThe post argues against its own keyword. Carrol & Segaert measured that varied idioms need significantly longer reading and more rereading, so the advice is to change the phrase only when you mean something different — more intensity, or to move the other person into subject position — not to avoid repeating yourself. 'İçim gitti', which the brief offered, was cut outright because TDK's içi gitmek sense 1 cross-references içi sürmek, which is 'ishal olmak'.\n\nHonest weaknesses. Four items stay failed and three are real. The Memory & Cognition source fails the swap test and would sit unchanged in the French and Italian 'say it differently' rows — declared rather than hidden, because nothing equally direct was available that was not banned or paywalled. The comparison table carries no first-party column, and it should not: no figure in this database is Turkish, so a column would be a false implication. The ItemList mirrors the body's five-sentence table but the body has no H3s, so the item cannot be satisfied as literally written. Only the Strapi slug check is a pure environment limit.\n\nRanking outlook. The SERP is genuinely weak — 7 of 9 results are forums, UGC, a machine-translated Filipino Reddit thread, an Instagram post, an Arabic-learning blog and a '100 languages' page — and the two real Turkish publishers both answer the wrong question: Onedio's #5 is a Coca-Cola advertorial from 14.02.2017 whose eleven 'ways' are all social-media behaviours and which contains no Turkish phrase at all, and Posta's gallery lists six more behaviours. Nobody on this SERP cites a dictionary. That is a real gap and this post fills it. Against it: this domain has 905 live posts and zero in Turkish, so it has no track record in the language, and kizlarsoruyor and Ekşi Sözlük hold enormous topical authority in tr-tr. Expect this to earn long-tail queries (sana hasretim, burnumda tütüyorsun, hasret ile özlem farkı) well before it touches the head term, if it touches it at all."
+    },
+    "generatedAt": "2026-09-26T15:32:37.699Z"
+  }
+}

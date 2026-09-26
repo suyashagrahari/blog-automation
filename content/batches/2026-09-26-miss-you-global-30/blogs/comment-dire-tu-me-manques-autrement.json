@@ -1,0 +1,334 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Comment dire « tu me manques » autrement en français",
+    "slug": "comment-dire-tu-me-manques-autrement",
+    "excerpt": "« Il me tarde de te revoir », « j'ai hâte de te revoir », « je pense à toi » : trois formules attestées, trois sens différents. Ce que dit chaque entrée de dictionnaire, et pourquoi toute phrase commençant par « je » change la personne dont on parle.",
+    "metaTitle": "Comment dire tu me manques autrement : 5 formules testées",
+    "metaDescription": "Comment dire tu me manques autrement : 5 formules vérifiées dans le Larousse et comptées sur Tatoeba. « Vivement que » : 6 emplois réels sur 18 résultats.",
+    "keywords": "comment dire tu me manques autrement, autre façon de dire tu me manques, il me tarde de te revoir, tu me manques synonyme, je pense à toi ou tu me manques",
+    "canonicalURL": "https://subhsandesh.in/blog/comment-dire-tu-me-manques-autrement",
+    "ogType": "article",
+    "tags": [
+      "français",
+      "tu me manques",
+      "vocabulaire",
+      "longue distance",
+      "dictionnaire"
+    ],
+    "keyTakeaways": [
+      "« Il me tarde de te revoir » est la seule variante attestée qui vous laisse en complément d'objet indirect, comme « tu me manques » : le Larousse la glose « je suis impatient ».",
+      "Toute formule qui passe à « je » — je pense à toi, j'ai hâte — change le sujet de la phrase : l'entrée penser du Larousse ne mentionne ni absence, ni vide, ni manque.",
+      "« Vivement que » : sur 18 résultats bruts de Tatoeba, 6 seulement sont de vrais emplois de la locution, et aucun ne porte sur une personne aimée.",
+      "Le résultat n° 1 de Google France propose « tu me manques vachement » sans marque de registre, alors que le Larousse classe vachement « Populaire ».",
+      "Sur nos 214 pages /missyou-gf, 1 434 « hugs » ont été tapés par les destinataires sur 138 pages (64,5 %) et l'écart médian d'édition est de 2,6 heures."
+    ],
+    "faqs": [
+      {
+        "question": "« Tu me manques » et « je pense à toi », est-ce la même chose ?",
+        "answer": "Non. Le Larousse glose manquer par « Créer un vide, un manque par son absence » et penser à par « Songer à quelqu'un, l'évoquer par la pensée » — sans aucune mention d'absence. La première phrase parle de l'autre, la seconde parle de vous."
+      },
+      {
+        "question": "Quelle est la façon la plus élégante de dire « tu me manques » sans le dire ?",
+        "answer": "« Il me tarde de te revoir. » C'est la seule variante attestée qui vous laisse en complément d'objet indirect, comme dans « tu me manques ». Le Larousse la glose « je suis impatient », donc elle ajoute de l'attente au manque plutôt que de le remplacer."
+      },
+      {
+        "question": "Peut-on écrire « il me tarde que tu rentres » ?",
+        "answer": "Oui. La rubrique Difficultés du Larousse donne la double construction : « Il me (te, lui, etc.) tarde de (+ infinitif), que (+ subjonctif) », avec pour exemple « il me tarde que nous soyons arrivés »."
+      },
+      {
+        "question": "« Vivement que je te revoie » est-il correct ?",
+        "answer": "La tournure existe, mais sur 18 résultats bruts de Tatoeba seuls 6 sont de vrais emplois de la locution de souhait, et aucun ne porte sur une personne aimée — l'un d'eux souhaite même le départ de quelqu'un. Le Larousse n'en donne qu'un exemple, « Vivement dimanche ! », avec un nom et non un subjonctif."
+      },
+      {
+        "question": "Dit-on « vous me manquez » à une seule personne ?",
+        "answer": "Oui, au vouvoiement, et la phrase est aussi celle du pluriel. Tatoeba compte 22 phrases françaises contenant littéralement « vous me manquez » sur 33 résultats bruts ; le corpus ne distingue pas les deux emplois."
+      },
+      {
+        "question": "Peut-on dire « tu me manques vachement » ?",
+        "answer": "Mieux vaut éviter dans un message tendre. Le Larousse marque vachement « Populaire » et le range avec bigrement, bougrement et drôlement. « Terriblement » figure dans la même liste sans marque de registre et convient partout."
+      },
+      {
+        "question": "Comment dire qu'une personne me manque sans employer le verbe manquer ?",
+        "answer": "« Ton absence me pèse » et « tu laisses un vide en moi » gardent l'autre comme sujet ou comme cause. Ce sont des images, pas des entrées de dictionnaire : elles ne sont pas figées et leur effet dépend entièrement de votre relation."
+      },
+      {
+        "question": "Faut-il vraiment chercher une autre formule ?",
+        "answer": "Pas forcément. Une phrase choisie parce qu'elle est différente est moins idiomatique, et se lit souvent comme un effort de rédaction. Une étude publiée dans PLoS ONE le 2 juillet 2025 (n = 260) a mesuré que la réactivité perçue d'un message prédisait la proximité ressentie — pas son originalité."
+      },
+      {
+        "question": "Quelle formule choisir si l'on connaît la date des retrouvailles ?",
+        "answer": "« J'ai hâte de te revoir. » Le Larousse glose avoir hâte de par « être très pressé de faire quelque chose », ce qui suppose un terme connu. Sans date de retour, la formule promet un calendrier que vous n'avez pas."
+      },
+      {
+        "question": "« Le temps me tarde » se dit-il encore ?",
+        "answer": "Le Larousse le signale comme appartenant à la langue littéraire. Dans un message courant, la forme attendue est « il me tarde »."
+      },
+      {
+        "question": "Ces formules valent-elles aussi pour un ami ou un parent ?",
+        "answer": "Oui, mais leur charge change. « Il me tarde de te revoir » et « tu me manques » passent avec la famille et les amis proches ; les images de vide et d'absence sont, elles, presque toujours lues comme amoureuses."
+      },
+      {
+        "question": "Combien de phrases françaises avec « tu me manques » sont réellement attestées ?",
+        "answer": "Sur Tatoeba, 57 résultats bruts pour la requête entre guillemets, dont 48 contiennent littéralement la suite de mots ; les 9 autres sont des formes fléchies comme « tu me manquais » ou « tu me manqueras »."
+      }
+    ],
+    "coverImageQuery": "french handwritten love letter distance",
+    "coverImagePrompt": "A handwritten French note on cream paper resting on a wooden table beside a cold cup of coffee and a phone lying face down, soft window light from the left, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No legible text on the note, and no watermark other than a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# Comment dire « tu me manques » autrement en français\n\nComment dire « tu me manques » autrement : les formules réellement attestées par les dictionnaires français sont **« il me tarde de te revoir »**, **« j'ai hâte de te revoir »** et **« je pense à toi »** — mais aucune des trois ne dit la même chose que « tu me manques », et une seule laisse la personne absente au centre de la phrase. Sur les 214 pages « I miss you » créées sur notre modèle `/missyou-gf` depuis le 28 juillet 2026, les destinataires ont tapé **1 434 fois** le bouton « hug », et 138 pages sur 214 — **64,5 %** — en ont reçu au moins un ; l'écart médian entre la première sauvegarde et la dernière retouche est de **2,6 heures**. Deux heures et demie de réécriture : ce qu'on cherche n'est pas un synonyme plus rare, c'est la phrase juste.\n\nCette page ne refait pas la grammaire de *manquer* — notre article sur [la traduction de « tu me manques » en anglais](/blog/tu-me-manques-en-anglais) s'en charge. Ici, une seule question : **qu'est-ce que chaque formule de remplacement dit réellement, d'après son entrée de dictionnaire ?**\n\n## Changer de formule, c'est changer de sujet\n\nLe [Larousse classe *manquer*](https://www.larousse.fr/dictionnaires/francais/manquer/49234) au sens qui nous occupe comme verbe transitif indirect, sens 3 : « Créer un vide, un manque par son absence : *Ses enfants lui manquent.* » La personne absente est le sujet grammatical ; vous, vous êtes le complément.\n\nOuvrez maintenant l'[entrée *penser*](https://www.larousse.fr/dictionnaires/francais/penser/59268), verbe transitif indirect, sens 1 : « Songer à quelqu'un, quelque chose, l'évoquer par la pensée, l'avoir présent à l'esprit : *Je pense souvent à lui.* » Le mot *absence* n'y figure pas. Ni *vide*, ni *manque*.\n\nAucun des huit résultats mesurés le 26 septembre 2026 sur `google.fr` ne le signale, et l'Aperçu IA de Google se trompe en rangeant « Je pense à toi tout le temps » parmi les « expressions proches ». **« Tu me manques » parle de l'autre. « Je pense à toi » parle de vous.** Les deux phrases sont correctes ; elles n'ont simplement pas le même sujet.\n\nRègle de lecture : **toute formule qui commence par « je » vous remet au centre.** Ce n'est pas une faute, c'est un déplacement — encore faut-il le vouloir.\n\n## « Il me tarde de te revoir » : la seule variante qui vous laisse à votre place\n\nL'[entrée *tarder* du Larousse](https://www.larousse.fr/dictionnaires/francais/tarder/76714) donne, à la rubrique Expressions : « Il me tarde ou, dans la langue littéraire, le temps me tarde, **je suis impatient** : *Il lui tarde que ce procès se termine.* » Regardez le pronom : *lui*, jamais *le* — le test même qui identifie le complément d'objet indirect de *manquer*.\n\nLa rubrique Difficultés précise la construction : « Il me (te, lui, etc.) tarde de (+ infinitif), que (+ subjonctif) » — donc **« il me tarde de te revoir »** et **« il me tarde que tu rentres »** sont tous deux corrects.\n\nMais lisez la glose : *je suis impatient*. Pas *je ressens un vide*. La forme survit — vous restez le complément, comme dans « tu me manques » — et le sens se déplace vers l'attente. C'est la seule formule de cette page qui ajoute quelque chose sans vous ramener au centre.\n\nUne nuance : le Larousse marque **« le temps me tarde » comme littéraire**. La variante courante est « il me tarde ».\n\n## « J'ai hâte de te revoir » : de l'impatience, pas du manque\n\nLe Larousse définit *hâte* (entrée n° 39181) comme « Grande promptitude à faire quelque chose, allant jusqu'à la précipitation », et donne en expression : « Avoir hâte de, que, **être très pressé** de faire quelque chose », avec pour construction « Avoir hâte de (+ infinitif) : *j'ai hâte de la voir.* »\n\n*Pressé*, donc. « J'ai hâte de te revoir » est une phrase sur le temps qui reste avant les retrouvailles : parfaitement idiomatique, et juste quand la date est connue.\n\nCe que vous y perdez, c'est le sujet. Sur Tatoeba, les 22 phrases françaises contenant « hâte de te » ont toutes cette structure — *J'ai hâte de te voir*, *Il a hâte de te rencontrer* — et pas une ne parle d'absence. Si la personne est loin sans date de retour, la formule promet un calendrier que vous n'avez pas.\n\n## « Vivement que je te revoie » : attesté, mais pas pour une personne\n\nMise en garde méthodologique. Le corpus [Tatoeba](https://tatoeba.org/en/sentences/search?query=%22vivement+que%22&from=fra) renvoie sur « vivement que » **18 résultats bruts, dont 8 seulement contiennent réellement la suite de mots** : les autres sont des artefacts de recherche par mots isolés — « Il ne vivait que pour elle », « Je suis plus vive que vous », « Le robot semblait tellement vivant que… ».\n\nSur ces 8, deux emploient *vivement* comme adverbe d'intensité (« J'espère vivement que… »), pas la locution de souhait. Il reste **6 usages réels sur 18 résultats bruts, un tiers.**\n\nEt les voici, toutes les six : *Vivement que ça s'arrête ! Vivement que ça se termine ! Vivement que commence la saison des pluies. Vivement que se termine la saison des pluies. Vivement que Tom rentre à la maison.* Puis ***Vivement que Tom s'en aille !*** Pas une ne dit à quelqu'un qu'il manque ; la dernière souhaite le départ d'une personne.\n\nLe Larousse, à l'entrée *vivement*, ne donne à ce sens qu'un exemple : « Vivement dimanche ! » — *vivement* + nom, pas *vivement que* + subjonctif. **Faute de pouvoir sourcer ce que la tournure transmet dans une phrase d'amour, je ne la recommande pas** : c'est un exemple, pas un conseil.\n\n## Ce que chaque formule fait vraiment\n\n| Formule | Sujet de la phrase | Ce que le dictionnaire glose | Attestations Tatoeba (retenues / brutes) |\n|---|---|---|---|\n| Tu me manques | l'autre | « Créer un vide, un manque par son absence » (Larousse, *manquer*) | 48 / 57 |\n| Vous me manquez | l'autre | même entrée ; vouvoiement ou pluriel, la phrase est identique | 22 / 33 |\n| Il me tarde de te revoir | l'autre (vous restez complément) | « je suis impatient » (Larousse, *tarder*) | 10 / 10 |\n| J'ai hâte de te revoir | vous | « être très pressé de faire quelque chose » (Larousse, *hâte*) | 22 / 22 |\n| Je pense à toi | vous | « Songer à quelqu'un, l'évoquer par la pensée » (Larousse, *penser*) | 19 / 22 |\n\nSur « vous me manquez » : les 22 phrases retenues ne distinguent pas vouvoiement et pluriel — la seule variation disponible ici, là où [le dire en arabe](/blog/tu-me-manques-en-arabe) oblige à marquer le genre.\n\n## Une erreur vérifiable dans le premier résultat\n\nLe résultat n° 1 mesuré le 26 septembre 2026, une page d'enseignement du français bien faite par ailleurs, propose d'intensifier la phrase ainsi : « Tu me manques **énormément / vachement / vraiment / intensément / infiniment**… », sans étiquette de registre.\n\nOr le [Larousse marque *vachement*](https://www.larousse.fr/dictionnaires/francais/vachement/80872) « **Populaire.** Indique un très haut degré : *Un film vachement drôle* », avec pour synonymes *bigrement*, *bougrement*, *drôlement* — tous familiers. Ce n'est pas une faute de grammaire, c'est une étiquette manquante, vérifiable en un clic : « Tu me manques vachement » n'est pas un registre de lettre d'amour, et rien dans une liste où l'adverbe voisine *infiniment* ne permet de le deviner.\n\n*Terriblement*, en revanche, figure dans la même liste de synonymes sans marque de registre : « tu me manques terriblement » passe partout.\n\n## Faut-il vraiment le dire autrement ?\n\nVoici la conclusion inconfortable de cette page. Une phrase choisie **parce qu'elle est différente** est, par construction, moins idiomatique — et dans un message d'amour, une tournure rare se lit comme un effort de rédaction plutôt que comme un sentiment.\n\nLes chiffres vont dans ce sens. « Tu me manques » compte 48 phrases françaises attestées sur Tatoeba ; « vivement que », six, dont aucune sur une personne aimée. Et une étude publiée dans *PLoS ONE* le 2 juillet 2025 ([n = 260](https://europepmc.org/article/PMC/PMC12221085)) a mesuré que les messages perçus comme **plus réactifs** prédisaient une proximité et une satisfaction relationnelle plus élevées : c'est la réactivité qui est mesurée, jamais l'originalité de la formule. Nous n'avons lu que le résumé.\n\nDonc, honnêtement : **ajoutez « il me tarde de te revoir »** quand vous voulez de l'impatience en plus du manque, gardez « tu me manques » pour le manque lui-même, et changez plutôt le détail autour — le jour, le lieu, la chose précise qui vous rappelle la personne. Remplacer le verbe par une image plus rare éloigne presque toujours la phrase de celui à qui elle s'adresse.\n\n## Ce que nos chiffres montrent — et ce qu'ils ne montrent pas\n\nNos 214 pages `/missyou-gf` disent quelque chose sur la façon dont on envoie ce message, et rien sur les mots employés : **la base enregistre quel modèle a été ouvert, jamais qui l'a reçu, ni le texte écrit.** Elle n'est segmentée ni par langue ni par pays : **aucun de ces chiffres n'est français.** Et ce sont 214 pages sur deux mois — trop peu pour le moindre effet de saison.\n\nCe qu'on y voit : **43,5 % des expéditeurs protègent la page par mot de passe** (93 sur 214) contre 38,5 % sur toute la plateforme — le segment le plus discret mesuré ; et **88,8 % des pages commencées sont partagées** (190 sur 214). Les pages nomment 47 paires de villes, dont Mumbai-Londres et Berlin-Londres — mais la ville est un sélecteur à valeur par défaut, comme la musique de fond et le champ « ensemble depuis », donc ce remplissage n'est pas un choix d'expéditeur. Le compteur de vues compte des ouvertures, pas des visiteurs uniques.\n\nLe point où nous perdons : **notre [page « I miss you » pour une amoureuse](/missyou-gf) est en anglais.** Libellés, invites et boutons sont en anglais, et elle est écrite pour une petite amie ou une partenaire — doublement décalée si vous écrivez en français, ou à un homme. Pour un texte français, [la lettre qui tombe du ciel, ligne à ligne](/catch) est le meilleur choix : les lignes sont celles que **vous** écrivez, rien n'est jamais verrouillé, et le destinataire n'a aucune consigne anglaise à comprendre pour lire votre phrase. Nous ne pouvons rien confirmer sur les conditions tarifaires depuis nos données ; l'[aperçu des modèles](/templates) est le seul endroit où les vérifier.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/comment-dire-tu-me-manques-autrement#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "French",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_language",
+              "https://www.wikidata.org/wiki/Q150"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Book",
+            "name": "Larousse, Dictionnaire de français",
+            "url": "https://www.larousse.fr/dictionnaires/francais"
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba, corpus de phrases français-anglais",
+            "url": "https://tatoeba.org/en/"
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse — manquer (verbe transitif indirect, sens 3)",
+            "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse — penser (verbe transitif indirect, sens 1)",
+            "url": "https://www.larousse.fr/dictionnaires/francais/penser/59268",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse — tarder (Expressions et Difficultés)",
+            "url": "https://www.larousse.fr/dictionnaires/francais/tarder/76714",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse — vachement (Populaire)",
+            "url": "https://www.larousse.fr/dictionnaires/francais/vachement/80872",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba — comptage des attestations françaises, relevé 2026-09-26",
+            "url": "https://tatoeba.org/en/sentences/search?query=%22vivement+que%22&from=fra",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The impact of emojis on perceived responsiveness and relationship satisfaction in text messaging",
+            "url": "https://europepmc.org/article/PMC/PMC12221085",
+            "datePublished": "2025-07-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLoS ONE"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "comment dire tu me manques autrement",
+    "angle": "Wins by being the only post on this SERP that reads the actual Larousse entries for manquer, penser, tarder, hâte and vachement, shows that every alternative switching to « je » changes who the sentence is about, counts each alternative on Tatoeba with the survivor rate stated (« vivement que »: 6 real uses of 18 raw hits, none about a loved person), corrects a register error in the rank-1 result, and then argues against its own keyword — grounded in the 214-page /missyou-gf dataset.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "bodyLanguage": "French",
+    "region": "fr-fr",
+    "tier": "B-howto",
+    "factsUsed": [
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234",
+        "stat": "Larousse, entrée manquer (id 49234, tête d'article vérifiée) : verbe transitif indirect, sens 3 « Créer un vide, un manque par son absence : Ses enfants lui manquent. » — le pronom lui atteste le complément d'objet indirect. L'id 49348 cité ailleurs renvoie à MARAUD et n'a pas été utilisé."
+      },
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/penser/59268",
+        "stat": "Larousse, entrée penser (id 59268) : verbe transitif indirect, sens 1 « Songer à quelqu'un, quelque chose, l'évoquer par la pensée, l'avoir présent à l'esprit : Je pense souvent à lui. » — aucune mention d'absence, de vide ni de manque dans la définition."
+      },
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/tarder/76714",
+        "stat": "Larousse, entrée tarder (id 76714), Expressions : « Il me tarde ou, dans la langue littéraire, le temps me tarde, je suis impatient : Il lui tarde que ce procès se termine. » ; Difficultés/CONSTRUCTION : « Il me (te, lui, etc.) tarde de (+ infinitif), que (+ subjonctif) : il lui tarde d'agir ; il me tarde que nous soyons arrivés. »"
+      },
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/vachement/80872",
+        "stat": "Larousse, entrée vachement (id 80872) : « Populaire. Indique un très haut degré : Un film vachement drôle », synonymes bigrement (familier), bougrement (familier), drôlement (familier), formidablement, terriblement — terriblement étant le seul sans marque de registre."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?query=%22vivement+que%22&from=fra",
+        "stat": "Tatoeba, relevé le 2026-09-26 via api_v0/search (from=fra), chaque résultat inspecté individuellement : « tu me manques » 48 phrases retenues sur 57 brutes ; « vous me manquez » 22 sur 33 ; « il me tarde » 10 sur 10, dont 3 visent une personne ; « hâte de te » 22 sur 22 ; « je pense à toi » 19 sur 22 ; « vivement que » 8 sur 18 bruts, dont 2 emplois adverbiaux (« J'espère vivement que »), soit 6 emplois réels de la locution de souhait, aucun portant sur une personne aimée."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12221085",
+        "stat": "« The impact of emojis on perceived responsiveness and relationship satisfaction in text messaging », PLoS ONE, doi 10.1371/journal.pone.0326189, CC BY, n = 260 — résumé seul consulté, texte intégral non lu : les messages perçus comme plus réactifs sont jugés plus proches et prédisent une satisfaction relationnelle plus élevée. Journal nommé pour le plafond : PLoS ONE.",
+        "publishedDate": "2025-07-02"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "Google served to the French market in the operator's real Chrome (PolterTab), gl=fr&hl=fr&pws=0&num=20, run twice with identical results; scripts/serp-ddg.mjs tried once and failed with UND_ERR_CONNECT_TIMEOUT on html.duckduckgo.com:443",
+      "date": "2026-09-26",
+      "organicSeen": 8,
+      "weakCount": 6,
+      "results": [
+        "1. francaisavecpierre.com — FLE teaching blog, exact-match title, 12 numbered phrases, dated 10/05/2024 — medium-strong",
+        "2. lovenspa.fr — e-commerce (spa) blog listicle « 100 SMS chauds » — weak",
+        "3. flexilivre.com — photo-book product blog « 50 idées de messages », Google flags « Termes manquants : autrement » — weak",
+        "4. the-love-room.com — product blog « 7 façons de dire tu me manques à un homme » — weak",
+        "5. fr.lovebox.love — connected-object product blog « 10 messages pour dire tu me manques » — weak",
+        "6. citations.ouest-france.fr — quotations sub-site of a national newspaper; strong domain, aggregated-quote page — mixed",
+        "7. alexandrecormont.com — relationship coach, under /recuperer-un-ex/, off-intent — weak",
+        "8. lebeauthe.com — tea e-commerce blog « TOP 100 » — weak"
+      ],
+      "features": "AI Overview / « Aperçu IA » present, citing Français avec Pierre, Le Beau Thé and the-love-room.com, and itself listing « Je pense à toi tout le temps » as an « expression proche » of tu me manques. A YouTube video block (8NXh1lcwXYo) with four timestamp deep-links. NO Google Translate widget — the French sibling measured one above every organic result on its translation-shaped query; this advice-shaped query has none.",
+      "gate4": "PROCEED. Not the Brazilian D-listicle case: six of the eight results I actually saw are product blogs running unsourced phrase lists — the same play as ours, without evidence. Not one of the eight cites a dictionary entry, a corpus count or any source. Ranks 9-10 were not seen and are not reported.",
+      "selfAuthentication": "Both loads contained my own query string and French result text. A third load, of cnrtl.fr in the same browser, returned a Turkish sibling's Onedio page and was DISCARDED — note the navigate call reported status ok AND the correct page title while the body was another agent's."
+    },
+    "additionalChecks": [
+      "Larousse entry ids verified by reading the headword on the fetched page before citing: manquer/49234, penser/59268, tarder/76714, hâte/39181, vivement/82310, vachement/80872. The brief's warning is real — /manquer/49348 serves MARAUD and was never used.",
+      "Tatoeba search is tokenised: every hit was retrieved and inspected individually, and both the raw and surviving counts are printed in the body and in sources. « vivement que » survived at 33% (6 of 18); « tu me manques » at 84% (48 of 57).",
+      "Wikidata QIDs verified via the Wikipedia API: French language = Q150 (confirmed). Long-distance relationship = Q1406917 — my first guess Q1211037 was WRONG and was discarded before use.",
+      "Internal links: 3 from TEMPLATE_LINKS (/missyou-gf, /catch, /templates) plus 2 blog-to-blog cross-links, to the French siblings /blog/tu-me-manques-en-anglais (grammar of manquer) and /blog/tu-me-manques-en-arabe (which appeared on disk only after this body was drafted; the link was added by rewrapping existing prose rather than adding a sentence, and the body lost 8 words elsewhere to stay clear of the 1,800 ceiling). Neither is a template URL and both are counted separately from checklist item 31.",
+      "Outbound links: exactly 6, matching batchMeta.sources one-to-one. The Larousse hâte entry (39181) is quoted in the body with its entry number but deliberately NOT hyperlinked, to keep the outbound-link count inside the 3-6 range.",
+      "Price guard: no occurrence of gratuit, gratuitement, sans frais, ne coûte rien, or any figure in euros; the body states that tariff conditions cannot be confirmed from our data and points at /templates. « Le prix à payer » was rewritten to « Ce que vous y perdez » so no price token appears at all.",
+      "Zero competitor links: the rank-1 page whose register error is corrected is described by page type and date, never linked or named as a URL.",
+      "Body word count 1,780 on a plain whitespace split, inside 1,500-1,800 with 20 words of headroom for a later cross-link pass.",
+      "article.faqs holds 12 questions, none of which restates a body H2; no FAQ heading appears in contentMarkdown."
+    ],
+    "structuralLimitations": [
+      "CNRTL/TLFi could not be read. cnrtl.fr is now a JavaScript single-page application: GET /definition/tarder and /definition/vivement both return HTTP 200 with a 914-byte empty shell (<body id=\"app\"></body>, title « Portail lexical »), and /api/definition/<word> returns 400. dictionnaire-academie.fr/search returns 196 KB of SPA shell with zero /article/ links and api.dictionnaire-academie.fr does not resolve. The French sibling cited CNRTL successfully earlier the same day, so this may be a recent change. Consequence recorded rather than worked around.",
+      "The browser fallback for CNRTL was contaminated: browser_navigate reported status ok and the correct page title for https://www.cnrtl.fr/definition/vivement, and the very next read returned a Turkish sibling's Onedio article « Sevgilinize 'Seni Özledim' Demenin 11 Farklı Yolu ». Discarded, not recorded. The lesson for later rows: a correct title in the navigate response is NOT self-authentication.",
+      "CUT: « vivement que je te revoie » was cut from the recommendations. It is attested (6 real uses of 18 raw Tatoeba hits) but the Larousse vivement entry exemplifies the optative only as « Vivement dimanche ! », i.e. vivement + noun, and none of the six attested uses is about missing a person — one wishes a person away. It stays in the body as an example that is explicitly not recommended.",
+      "CUT: « ton absence me pèse » and « tu laisses un vide en moi » were not given sections. They are images, not fixed locutions, and no dictionary entry licenses what they convey. They appear only in an FAQ, labelled as images rather than attestations.",
+      "CUT as a source: Scientific Reports PMC10073073 (affectionate touch, 37 countries) — a grep across both batches matched 'Scientific Reports' in 6 files, so the journal is at or over the 3-post cap. Health Psychology Open PMC12678730 (gratitude in older couples) was genuinely relevant and was cut only to keep sources at 6.",
+      "REFUSED under BRIEF section 7: a search for 'affectionate communication' returned two Frontiers in Psychology papers in its top eight (PMC12679299, PMC11882564). Both refused; PLoS ONE PMC12221085 taken instead. No PNAS paper, no PMC13552847.",
+      "First-party differentiation is thin by construction. Twelve /missyou-gf lines are shared across 54+ sibling posts. The French sibling spent the 88-word letter median, the 92.1% open-when rate, the 86.4% memory rate, the 28.0% reunion-date rate, the 13.6% voice-note rate and the 2,417 views; this post deliberately took the 1,434 hug taps, the 2.6-hour edit median, the 43.5% password rate, the 88.8% publish rate and the 47 city pairs instead. The 214-page denominator is unavoidably shared.",
+      "The comparison table carries no first-party column, and checklist item 10 is failed honestly for that reason: the database stores which template was opened, never the message text, so there is no per-phrase first-party number that is not invented."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table's five rows are the French formulas, and our database records which TEMPLATE was opened, never the text of the message, so no first-party number exists per phrase. A column of first-party values would have to be invented or an unrelated figure pinned to an arbitrary row; both are fabrication. First-party data therefore lives in its own H2 instead. This closes only if the product ever stores message text, which it does not."
+        },
+        {
+          "item": "Slug is not already taken in Strapi",
+          "why": "Checked once against https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=comment-dire-tu-me-manques-autrement on 2026-09-26 and the result was empty (total 0), so the slug was free at write time. It cannot be re-asserted at publish time from inside this row, and five other agents are writing concurrently. Re-check before publishing."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Cannot be counted from inside this row. Five agents write concurrently and blogs/ changes underneath any count I take. What I did verify: PMC12221085 appears in no file of either batch (note PMC12221082, one digit apart, IS spent by a sibling); PLoS ONE is named in one other post of this batch (wo-xiang-ni-meaning-in-english), making this the 2nd of 3; larousse.fr and tatoeba.org are cap-exempt instruments. Frontiers in Psychology and PNAS were refused outright per BRIEF section 7."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body ranks nothing and numbers nothing — there are no H3s and no ordered list of recommendations, only five parallel formulas compared in a table. An ItemList would have to impose an order the text does not assert."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that quotes the dictionary entries instead of listing phrases: the Larousse gloss of penser contains no word for absence, which is what actually proves that « je pense à toi » is not a paraphrase of « tu me manques », and nobody ranking — including Google's own AI Overview, which explicitly calls it an « expression proche » — says so. The Tatoeba counts are reported with their survivor rates (6 real uses of 18 raw hits for « vivement que »), which is the kind of number an answer engine can lift and a competitor cannot fake. The post then argues against its own keyword, recommending « il me tarde de te revoir » as the single honest addition and otherwise keeping « tu me manques ». Against that: the domain publishes in French for the first time with zero French track record across 905 live posts, the mandatory product link is an English page written for a girlfriend, and the incumbent at rank 1 is a well-established FLE brand. Expect citation before ranking, if either."
+    },
+    "generatedAt": "2026-09-26T15:28:00.860153Z"
+  }
+}
