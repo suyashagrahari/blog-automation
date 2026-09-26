@@ -1,0 +1,349 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in French: Tu Me Manques and Its Exact Opposite",
+    "slug": "i-miss-you-in-french",
+    "excerpt": "Tu me manques makes the absent person the subject of the verb, which is why je te manque means the opposite. Every form is checked against a corpus sentence, the Académie and Larousse are quoted on the verb class, and the construction is dated to 1563.",
+    "metaTitle": "I Miss You in French — Every Form Checked in a Corpus",
+    "metaDescription": "I miss you in French is tu me manques: the absent person is the subject. All six forms checked in a corpus, plus 214 miss-you pages with 88-word median letters.",
+    "keywords": "i miss you in french, tu me manques, je te manque, tu me manques beaucoup, how to say i miss you in french",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-french",
+    "ogType": "article",
+    "tags": [
+      "french",
+      "miss-you",
+      "long-distance",
+      "translation",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Tu me manques makes the absent person the grammatical subject — the Académie française files it as the intransitive manquer à quelqu'un, \"faire défaut à la personne, aux personnes à qui on serait nécessaire\".",
+      "Je te manque is not a stronger version of the same thing: it means \"you miss me\", and Tatoeba sentence 2089526 glosses it exactly that way.",
+      "The construction is older than the feeling it now carries — CNRTL dates manquer à + noun to 1563, but the earliest affective example the TLFi prints is Michelet's Journal of 1834.",
+      "No French dictionary calls this a \"dative experiencer\": the Académie says manquer à quelqu'un, Larousse files the identical sense as verbe transitif indirect, and the two disagree on the verb class.",
+      "Across 214 miss-you pages measured on 2026-09-25 the median letter is 88 words, 43.5% are password-protected against 38.5% platform-wide, and recipients tapped a \"hug\" 1,434 times across 138 of them."
+    ],
+    "faqs": [
+      {
+        "question": "How do you pronounce \"tu me manques\"?",
+        "answer": "The CNRTL conjugator gives tu manques as \\ty mɑ̃k\\ — the final -s is silent and the vowel is nasal, so the verb lands close to an English \"monk\" with the k barely released. The whole phrase runs \\ty mə mɑ̃k\\. A voice note beats any phonetic respelling, and 13.6% of miss-you senders record one."
+      },
+      {
+        "question": "Is \"tu me manques\" romantic, or can I say it to a friend?",
+        "answer": "Either. The Académie française attaches no relationship restriction to the sense and illustrates it with \"Ses amis lui manquent\" — his friends, not a partner. The tone comes from what you write around the line, not from the line."
+      },
+      {
+        "question": "How do I say \"I miss you too\" in French?",
+        "answer": "Tu me manques aussi ! — attested as \"I miss you too!\" (Tatoeba 1683186). Nothing about the pronouns moves; aussi is simply added."
+      },
+      {
+        "question": "How do I say \"I'll miss you\" before someone leaves?",
+        "answer": "Tu vas me manquer. (Tatoeba 10203) is the everyday version. Tu me manqueras beaucoup. is attested as \"I'll miss you very much\" (1243521), and to more than one person it is Vous allez me manquer. (1843030)."
+      },
+      {
+        "question": "Can I say \"je m'ennuie de toi\" instead?",
+        "answer": "Not on my evidence. It is widely listed as a Québécois alternative, but a search of the French–English corpus for that exact phrase returned zero sentences, and neither the Académie's ninth edition nor Larousse lemmatises it under manquer. This post does not print lines it could not attest."
+      },
+      {
+        "question": "Is \"vous me manquez\" formal or plural?",
+        "answer": "Both, and the corpus cannot separate them: Tatoeba 385358 carries \"I miss you.\" and \"I miss you guys.\" as translations of the same sentence. Send it to a group, or to one person you would not call tu."
+      },
+      {
+        "question": "How do I say \"I missed you\" in French, in the past?",
+        "answer": "Tu me manquais. — the imperfect, glossed \"I missed you\" (Tatoeba 11916214), for a stretch of absence that has ended. The pronouns stay exactly where they are."
+      },
+      {
+        "question": "What do I text back when someone sends me \"tu me manques\"?",
+        "answer": "Tu me manques aussi. (Tatoeba 1683186). Resist writing je te manque aussi — that says \"you miss me too\", which is a statement about them rather than a reply."
+      },
+      {
+        "question": "Does French have a single untranslatable word for missing someone, like saudade?",
+        "answer": "Not one I could verify. I read the Académie's ninth edition and Larousse under manquer and neither offers a single-word noun for this feeling, and I did not fetch entries for candidate words, so this post names none."
+      },
+      {
+        "question": "Should I write the whole message in French or just the one line?",
+        "answer": "Just the line, unless you can read the reply. Across 214 miss-you pages measured on 2026-09-25 the median letter runs 88 words — about one phone screen, which is room for one French sentence and two specific memories, not a French essay."
+      }
+    ],
+    "coverImageQuery": "handwritten french note long distance couple",
+    "coverImagePrompt": "A close, warm photograph of a short handwritten note in French resting on a café table beside a phone face-down, soft late-afternoon window light from the left, shallow depth of field. Muted slate-blue and cream tones, clean negative space across the top third for a title overlay, 16:9. No legible text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in French: Tu Me Manques and Its Exact Opposite\n\nI miss you in French is **tu me manques**, and the sentence runs the other way round from the English. French makes the absent person the grammatical subject: *tu* does the missing, *me* is the one it happens to. The Académie française files it under the intransitive verb as \"**Manquer à quelqu'un**, faire défaut à la personne, aux personnes à qui on serait nécessaire\", and glosses the feeling as *nous avons déploré votre absence*. Swap the pronouns and you invert it — **je te manque** means \"you miss me\", exactly as the Tatoeba corpus translates it. Across 214 miss-you pages built on this platform since 2026-07-28 the median letter runs 88 words, the longest 1,024, and 43.5% of senders password-protect the page before sharing, against 38.5% platform-wide. Below: every cell of the paradigm with a corpus sentence behind it, the intensifiers people search, and where the verb came from.\n\n## Why tu me manques puts the other person in the subject seat\n\nIn English, *I* am the subject and *you* are the object. In French the roles swap: the absent person becomes the subject, and the person left behind is an indirect object introduced by *à* — which surfaces as *me*, *te*, *lui*, *nous*, *vous* or *leur*.\n\nThe [CNRTL's TLFi entry for *manquer*](https://www.cnrtl.fr/definition/manquer) heads the construction \"**Manquer à qqc./à qqn.** [Le suj. désigne ce qui est absent et qui serait nécessaire, souhaitable]\". The emotional reading is its own numbered sense: \"Faire cruellement défaut sur le plan affectif.\"\n\nOne correction, because nearly every page repeats it — including this site's own [50-language hub](https://subhsandesh.in/blog/i-miss-you-in-different-languages). *Tu me manques* is not \"you are missing **from** me\". The *à* marks the person who suffers the lack, not a place: Larousse glosses it \"créer un vide, un manque par son absence\". The literal reading is \"**you are lacking to me**\".\n\n## Every form you might need, with an attested sentence behind it\n\n*Manquer* is a regular *-er* verb, so the endings are ordinary. Deciding which pronoun goes where is not. Each row below carries a sentence id from the [Tatoeba corpus](https://tatoeba.org/en/sentences/show/3124).\n\n| French | What it means | Grammatical subject | Tatoeba |\n|---|---|---|---|\n| Tu me manques. | I miss you. (one person, informal) | tu — them | 3124 |\n| Vous me manquez. | I miss you. (several people, or formal) | vous — them | 385358 |\n| Il me manque. / Elle me manque. | I miss him. / I miss her. | il / elle | 479787 / 2003446 |\n| Ils me manquent. | I miss them. | ils | 2089407 |\n| Tu nous manques. | We miss you. | tu — them | 4777511 |\n| **Je te manque.** | **You miss me.** | je — you | 2089526 |\n\nThe last row is the one to watch. Two footnotes on the rest. *Vous me manquez* is ambiguous between the plural and the polite singular, so to one person it sounds distant or formal — send it to a group, or to someone you would not call *tu*. And the CNRTL conjugator gives *manque*, *manques* and *manquent* one pronunciation, \\mɑ̃k\\, so *il me manque* and *ils me manquent* are identical out loud. The agreement is a spelling problem, not a speaking one.\n\n## Je te manque is the opposite, and it is easy to send by accident\n\n**Je te manque** means \"you miss me\". Tatoeba glosses sentence 2089526 exactly that way, with 2089480 (*Je te manquerai.* — \"You will miss me.\") and 2089420 (*Je te manquais.* — \"You missed me.\") behind it.\n\nWhy the slip is natural: the English sentence starts with *I*, and *je* is the word for *I*. Every instinct says to open with the matching subject pronoun. In French that instinct produces a sentence telling someone how they feel about you — sent unprompted, either a boast or a demand.\n\nNobody has measured how often learners do it. I searched Crossref and Europe PMC for French experiencer verbs and second-language argument-structure errors and found nothing open-access covering *manquer*, so this post claims only that the reversed form is attested and means the opposite.\n\n## Tu me manques beaucoup, tellement, énormément\n\nAll three are attested and they are not interchangeable in weight.\n\n*Tu me manques beaucoup.* (Tatoeba 9080) is the plain, safe intensifier — \"I miss you very much\". *Tu me manques tellement.* (1186068) carries the feeling; it is glossed \"I miss you so much\" and takes an exclamation mark in two of its three corpus hits. *Tu me manques énormément.* (397212) is the strongest, glossed \"I miss you dearly\", and also the thinnest evidence here — one sentence against four for the other two. I print it because it is attested, not because it is common.\n\nTwo more worth having: *Tu me manques déjà.* (2482558), \"I miss you already\", for the hour after someone leaves, and *Tu me manquais.* (11916214), the past tense, for when they are back.\n\n## Where manquer came from, and what French actually calls this construction\n\nThis part comes from the CNRTL, the state-funded lexical portal run by ATILF and the CNRS, and no competing page carries it.\n\n*Manquer* is not native French. The CNRTL etymology records it as borrowed from Italian *mancare*, from *manco* \"absent, perdu; privé d'un bien matériel ou moral\", from Latin *mancus* — \"mutilé, estropié; défectueux, incomplet\", the same root as *manchot*. The verb's first French attestation is 1546, in Rabelais's *Tiers Livre*.\n\nThe *manquer à* construction is dated separately and is nearly as old: **1563**, in Belleau's *La Reconnue*, glossed \"faire défaut à (quelqu'un)\" — but with a *thing* as subject. A person missing a person is a later settlement: the earliest example the TLFi prints for the affective sense is Michelet's *Journal* of 1834, and the line is \"*Tu me manques essentiellement*\". The sentence you would text tonight is already in a French diary from 1834.\n\nNow the name. The dictionaries do not call this a \"dative experiencer\". The [Académie française](https://www.dictionnaire-academie.fr/article/A9M0575) files it as the intransitive verb plus *manquer à quelqu'un*; [Larousse](https://www.larousse.fr/dictionnaires/francais/manquer/49234) files the identical sense as *verbe transitif indirect*. The two national references disagree about the verb class and agree about the shape: *manquer à* plus an indirect object.\n\n\"Dative Experiencer\" is a real term, but it belongs to syntax, not lexicography. [Lisa Figura's 2026 study of Old French psych verbs](https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/) defines the class as one \"where the dative object is the Experiencer and the nominative subject encodes the Stimulus\" — which fits *tu me manques* precisely. But her five verbs are *chaloir, convenir, estovoir, faillir* and *loisir*; *manquer* is not among them, because it was not in French yet. Her conclusion cautions against the label: \"*à* cannot be considered a reliable dative marker in Old French.\"\n\nOne disambiguation, for anyone who searched the French phrase and got a film. *Tu me manques* is also a [2019 Bolivian drama](https://fr.wikipedia.org/wiki/Tu_me_manques) by Rodrigo Bellott, Bolivia's entry for Best International Feature at the 92nd Academy Awards.\n\n## What 214 miss-you pages say about the words around the phrase\n\nGetting the phrase right is the small half. Measured on 2026-09-25 across the 214 pages built on the [miss-you page for a partner](https://subhsandesh.in/missyou-gf), here is what senders put around a line like this.\n\n| What the sender adds | Share of the 214 pages | How much | Why it matters to a French line |\n|---|---|---|---|\n| The letter itself | every page | median 88 words, longest 1,024 | one phone screen — room for one French line plus two memories |\n| \"Open when\" letter | 92.1% (197 of 214) | 3.2 per page, 6 at most | the phrase can head one of them instead of the whole page |\n| Written memory | 86.4% (185 of 214) | 4.5 per page, 12 at most | a memory is what makes a borrowed phrase sound meant |\n| Reunion countdown | 28.0% (60 of 214) | one date | pairs naturally with *tu me manques déjà* |\n| Voice note | 13.6% (29 of 214) | — | the only way to get \\mɑ̃k\\ right for them |\n\nThe takeaway is the first row: 88 words is short. A French sentence you cannot expand on will use a tenth of it.\n\nRecipients respond to gesture more than to length. Across 138 of the 214 pages they tapped a \"hug\" 1,434 times, with 512 of those on a single page — receiver-side behaviour, and the reason the [hold-my-hand page](https://subhsandesh.in/hold-my-hand) is the honest alternative for this particular reader: French hands the action to the person who left, and that template does the same thing, making the recipient hold the screen for sixty seconds before the letter opens. If the missing is about time rather than distance, the [year-long capsule](https://subhsandesh.in/capsule) fits the 28.0% who set a reunion date better than a page does.\n\nThree limits, stated because they matter. The city, background-music and \"together since\" fields are **pickers with defaults**, so the 47 distinct city pairs those pages name — Mumbai-London and Berlin-London among them — come from a 15-city picker and are not free-text sender choices. The view counts behind these pages are page views, not unique visitors; one recipient reopening a page twenty times is twenty views. And n = 214 over two months, since the template went live on 2026-07-28, which is far too little for any seasonal claim.\n\n## When a French line is the wrong thing to send\n\nIf your French stops at the phrase, do not build the page in French. The reply comes back in French, and a page you cannot read turns their answer into homework.\n\nSend English if French is their second language and English is fluent — one French line inside an English message reads as effort; a whole French page reads as a performance. And send nothing digital if you are in the same city this week. 43.5% of these senders lock the page behind a password, which tells you this is a format for people genuinely apart.\n\nIf the missing follows a fight rather than a distance, *tu me manques* is the wrong sentence in any language. It is a statement about absence, and an argument is not an absence.\n\n## Sources\n\n- CNRTL, *Trésor de la langue française informatisé*, entry **manquer** (ATILF / CNRS) — https://www.cnrtl.fr/definition/manquer\n- Académie française, *Dictionnaire*, 9e édition, entry **MANQUER** — https://www.dictionnaire-academie.fr/article/A9M0575\n- Larousse, *Dictionnaire de français*, entry **manquer** — https://www.larousse.fr/dictionnaires/francais/manquer/49234\n- Lisa Figura, \"Dative Experiencer Psych Verbs in Old French – The Role of the Preposition *à*\", *Psych Predicates in Romance Languages*, LiVVaL 8, Edizioni Ca' Foscari, 29 April 2026, CC BY — https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/\n- Tatoeba, French–English sentence corpus, ids beside every line — https://tatoeba.org/en/sentences/show/3124",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-french#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "French language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_language",
+              "https://www.wikidata.org/wiki/Q150"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "CreativeWork",
+            "name": "Trésor de la langue française informatisé",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tr%C3%A9sor_de_la_langue_fran%C3%A7aise_informatis%C3%A9",
+              "https://www.wikidata.org/wiki/Q3541344"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Académie Française",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Acad%C3%A9mie_Fran%C3%A7aise",
+              "https://www.wikidata.org/wiki/Q161806"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Larousse",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Larousse",
+              "https://www.wikidata.org/wiki/Q355851"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Trésor de la langue française informatisé — manquer",
+            "url": "https://www.cnrtl.fr/definition/manquer",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ATILF — CNRS / Université de Lorraine"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dictionnaire de l'Académie française, 9e édition — MANQUER",
+            "url": "https://www.dictionnaire-academie.fr/article/A9M0575",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Académie française"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse, Dictionnaire de français — manquer",
+            "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Dative Experiencer Psych Verbs in Old French – The Role of the Preposition à",
+            "url": "https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/",
+            "datePublished": "2026-04-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Edizioni Ca' Foscari — Venice University Press"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — French–English sentence corpus",
+            "url": "https://tatoeba.org/en/sentences/show/3124",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Saying \"I miss you\" in French — the manquer à paradigm",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Tu me manques.",
+            "description": "\"I miss you\" to one person, informal. The subject is tu — the person who is absent. Attested: Tatoeba 3124."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Vous me manquez.",
+            "description": "\"I miss you\" to several people, or formally to one. Attested: Tatoeba 385358, glossed both \"I miss you.\" and \"I miss you guys.\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Il me manque. / Elle me manque.",
+            "description": "\"I miss him.\" / \"I miss her.\" Attested: Tatoeba 479787 and 2003446."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ils me manquent.",
+            "description": "\"I miss them.\" Identical in speech to il me manque — the CNRTL conjugator gives both \\mɑ̃k\\. Attested: Tatoeba 2089407."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Tu nous manques.",
+            "description": "\"We miss you.\" Only the indirect object changes. Attested: Tatoeba 4777511."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Je te manque.",
+            "description": "\"You miss me\" — the reversal trap, not a stronger form of tu me manques. Attested: Tatoeba 2089526."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in french",
+    "angle": "Wins by being the only post on this query that prints the whole manquer à paradigm with a Tatoeba sentence id behind every cell, dates the construction from the CNRTL (verb into French 1546, manquer à + noun 1563, the affective use illustrated by Michelet's Journal of 1834), reports that the Académie and Larousse file the identical sense in two different verb classes, and sets that beside 214 measured miss-you pages whose median letter is 88 words.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/hold-my-hand",
+      "/capsule"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/manquer",
+        "stat": "TLFi entry MANQUER heads the construction 'Manquer à qqc./à qqn. [Le suj. désigne ce qui est absent et qui serait nécessaire, souhaitable]' and gives the affective reading its own sense, I.A.3, 'Faire cruellement défaut sur le plan affectif. Manquer à qqn.', illustrated with 'Tu me manques essentiellement, et pourtant je ne puis me repentir de ne pas t'avoir amenée' (Michelet, Journal, 1834, p. 750). The etymology section dates the intransitive verb to 1546 (Rabelais, Tiers Livre) and 'Manquer à + subst.' to 1563 (R. Belleau, La Reconnue), and derives the verb from Italian mancare, from manco, from Latin mancus 'mutilé, estropié; défectueux, incomplet' (cf. manchot). The conjugator gives je manque \\ʒə mɑ̃k\\, tu manques \\ty mɑ̃k\\, il/elle/on manque, nous manquons, vous manquez, ils/elles manquent — three cells sharing one pronunciation"
+      },
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9M0575",
+        "stat": "Dictionnaire de l'Académie française, 9e édition, MANQUER: 'Étymologie : xvie siècle. Emprunté de l'italien mancare, de même sens.' Filed as 'I. Verbe intransitif. A. Faire défaut. … 3. Manquer à quelqu'un, faire défaut à la personne, aux personnes à qui on serait nécessaire', with the person sub-case 'En parlant d'une personne. Ses amis lui manquent. Vous nous avez bien manqué aujourd'hui, nous avons déploré votre absence.' The Academy uses no technical term for the construction"
+      },
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234",
+        "stat": "Larousse, manquer: etymology '(italien mancare, de manco, défectueux, du latin mancus)'. The 'I miss you' sense is filed not as intransitive but as 'manquer verbe transitif indirect … 3. Créer un vide, un manque par son absence : Ses enfants lui manquent.' — so Larousse and the Académie assign the same sense to two different verb classes"
+      },
+      {
+        "url": "https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/",
+        "stat": "Lisa Figura, 'Dative Experiencer Psych Verbs in Old French – The Role of the Preposition à', Psych Predicates in Romance Languages, LiVVaL 8, Edizioni Ca' Foscari. Defines the class studied as Belletti and Rizzi's third, 'where the dative object is the Experiencer and the nominative subject encodes the Stimulus' (pp. 229-230). The five verbs analysed are chaloir, convenir, estovoir, faillir and loisir — manquer is not among them. Conclusion, verbatim: 'Consequently, à cannot be considered a reliable dative marker in Old French.' Open access, CC BY; full chapter read from the book PDF",
+        "publishedDate": "2026-04-29"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/3124",
+        "stat": "Tatoeba French-English corpus, the attestation instrument for every French line printed. Tu me manques. = 'I miss you.' (3124, 46 corpus hits); Vous me manquez. = 'I miss you. / I miss you guys.' (385358); Il me manque. = 'I miss him.' (479787); Elle me manque. = 'I miss her.' (2003446); Ils me manquent. = 'I miss them.' (2089407); Tu nous manques. = 'We miss you.' (4777511); Je te manque. = 'You miss me.' (2089526); Tu me manques beaucoup. = 'I miss you very much.' (9080); Tu me manques tellement. = 'I miss you so much.' (1186068); Tu me manques énormément. = 'I miss you dearly.' (397212, one hit); Tu me manques déjà. = 'I miss you already.' (2482558); Tu me manquais. = 'I missed you.' (11916214); Tu me manques aussi ! = 'I miss you too!' (1683186); Tu vas me manquer. = \"I'll miss you.\" (10203); Vous allez me manquer. = \"I'm going to miss you.\" (1843030)"
+      }
+    ],
+    "structuralLimitations": [
+      "PROMPT CLAIM FALSIFIED — 'a Harlan Coben Netflix series called Tu me manques contaminates the French head term'. It does not exist. The Coben Netflix adaptation is Missing You (2025 TV series); the Wikipedia API returns NO French-language article for it (action=query&prop=langlinks&lllang=fr on 'Missing You (2025 TV series)' comes back empty). The article actually titled Tu me manques, on both fr. and en.wikipedia, is Q67960905 — a 2019 Bolivian romantic drama written and directed by Rodrigo Bellott, Bolivia's entry for Best International Feature at the 92nd Academy Awards. The contaminating entity is real; the brief named the wrong one. The post prints the Bolivian film, with the Wikipedia link, as its one entity-disambiguation sentence.",
+      "PROMPT CLAIM CORRECTED — 'tu me manques = you are missing FROM me'. Wrong preposition, and SubhSandesh's own live hub prints the same error. The dictionaries are unambiguous that à marks the person who suffers the lack, not a place or source: Académie 9e, 'faire défaut à la personne, aux personnes à qui on serait nécessaire'; Larousse, 'créer un vide, un manque par son absence'; TLFi's usage note, '[+ compl. prép. désignant la pers., la chose qui éprouve le besoin … qui souffre de l'absence]'. The accurate literal reading is 'you are lacking TO me'. Corrected in body prose, with the hub named as one of the pages that has it wrong.",
+      "SECOND CHECK ANSWERED — 'dative experiencer' vs manquer à + indirect object. No French dictionary entry for this verb uses the term. Académie 9e: 'Manquer à quelqu'un', filed under I. Verbe intransitif. Larousse: the identical sense filed under 'manquer verbe transitif indirect'. TLFi: 'Trans. indir. Manquer à + subst.' So the two national references disagree on the verb CLASS while agreeing on the shape. 'Dative Experiencer' is a genuine label in Romance generative syntax — Figura 2026 defines the class as Belletti and Rizzi's third, 'where the dative object is the Experiencer and the nominative subject encodes the Stimulus', which does describe tu me manques — but (a) it is a syntactician's category, not a lexicographic one, (b) manquer is not among the five verbs she analyses (chaloir, convenir, estovoir, faillir, loisir) and could not be, since CNRTL dates manquer into French at 1546, after the Old French period, and (c) her conclusion is a caution against the label: 'à cannot be considered a reliable dative marker in Old French'. The post therefore prints manquer à + indirect object as the name and reports the syntax term as a term rather than adopting it.",
+      "LINES CUT, not printed, and why. (1) 'Je m'ennuie de toi' — the Québécois form on several lists; exact-phrase search of the French-English corpus returned 0 sentences and it is not lemmatised under manquer by the Académie or Larousse. It became an FAQ answering why it is absent rather than a printed line. (2) 'Tu me manques trop' — 0 corpus hits. (3) 'Tu me manques mon amour' — 0 corpus hits, no lemma. (4) 'Je pense à toi' — attested (Tatoeba 332309) but glossed 'I'm thinking about you', a different sentence; cut because listing it as 'I miss you' is the error the post is about. (5) \"J'ai hâte de te revoir\" — one corpus hit (128151), glossed 'I'm looking forward to seeing you', not missing. (6) 'Tu me manques comme la mer manque au poisson' and similar poetic lines from the SERP — no dictionary or corpus check possible. (7) 'Tu me manques déjà mon cœur' / 'mon amour' vocative extensions — unattested in that word order. (8) The gloss 'you are missing from me' — cut and replaced, see above. (9) The second Tatoeba translation of 2003446, 'I miss you' for Elle me manque — a loose pairing; only 'I miss her.' is printed. Eight lines cut, one gloss replaced.",
+      "AGAINST THE LIVE HUB /blog/i-miss-you-in-different-languages (fetched 2026-09-25): the hub gives French one line inside a 50+ language list ('French: Tu me manques (too muh mahngk)'), one FAQ and one copy-paste example. It names no dictionary, no verb class, no attestation and no date, and it prints the 'missing from me' gloss. This post does not restate the hub's table; it supplies the dictionary, corpus and dating layer underneath that one row, and it corrects the preposition. It links up to the hub rather than competing with it.",
+      "AGAINST THE LIVE SIBLINGS: 81 live articles carry 'miss' in the slug and none is French — a Strapi query on filters[slug][$contains]=french across all live articles returns 0. The nearest are i-miss-you-in-marathi, i-miss-you-in-tamil-words and the hub itself. Language is one of the three never-duplicate axes in the BRIEF, so this is a new row, not a merge candidate.",
+      "NOT MEASURED, SO NOT CLAIMED: how often English speakers actually produce je te manque for 'I miss you'. findpapers.mjs (Crossref + Europe PMC, no WebSearch cost) was run on 'French psych verbs experiencer argument structure', 'second language learners argument structure errors', 'emotion verbs cross-linguistic' and 'French manquer experiencer construction learners'. Crossref returns adjacent work — Bordeaux 2018 on French experiencer verbs and the Universal Freezing Hypothesis, SSLA on overpassivization — but none measures this error, none mentions manquer, and none is open access. The post says in prose that nobody has measured it and claims only that the reversed form is attested and means the opposite.",
+      "SOURCE ACCESS METHOD, disclosed because it affects reproducibility: cnrtl.fr is now a Vue single-page application and the HTML served at /definition/manquer is an empty shell (914 bytes). The entry was read from the portal's own public endpoint, https://www.cnrtl.fr/api/word/manquer/verbe, which returns the TLFi, Académie 9e/8e/4e, Littré, DMF, etymology, synonyms and conjugation sections as one document. The URL cited in the post is the human-facing one, which renders the same text in a browser. Similarly, dictionnaire-academie.fr has a JS-driven search with no server-rendered result links; the article id A9M0575 was found by scanning /article/A9M0520-A9M0600 and reading the headword out of each page. And larousse.fr/dictionnaires/francais/manquer/49386 is marchantiale, not manquer — the correct id is 49234, reached by following /dictionnaires/francais/manquer.",
+      "TWO TABLES, and which one the checklist item refers to. The audited 'one comparison table with real values, 3-5 rows' is the first-party table in the 214-pages section: five rows, every value measured on 2026-09-25, two of its four columns first-party. The paradigm grid earlier in the post is a second table at six rows, one row over the guidance, kept at six because the brief's paradigm has six cells and dropping one would leave a gap a reader would hit.",
+      "ITEMLIST MIRRORS TABLE ROWS, NOT H3s. The post has no H3s — the paradigm is a table rather than six subsections, because six near-identical H3 blocks would have cost roughly 200 words of the 1,800 for no retrieval gain. The ItemList in structuredData therefore mirrors the six paradigm table rows in body order rather than a heading sequence. Flagging it because the checklist item says 'mirroring the H3s in the same order' and there are none to mirror.",
+      "SERP: one WebSearch, US-served, 2026-09-25, query 'i miss you in french', nine results — readle-app.com, talkinfrench.com, rocketlanguages.com, mathildekien.com, quora.com, lingoculture.com, copycatcafe.com, context.reverso.net, mermaidhangout.substack.com. Structure only was recorded; nothing is cited, linked or paraphrased. All nine assert the reversed word order and none cites a dictionary, dates the construction, or prints the paradigm with a source per cell. No AI Overview claim is made in either direction, because the search tool does not expose one.",
+      "COMPETITOR OBSERVATION, not a citation: the French-language sibling SERP supplied with this brief has two product blogs at positions 1 and 2 — a connected message box and a photo-book service — ranking on an emotional-message keyword. That is this site's own model already working in French. Recorded here per references/competitors.md and deliberately absent from the post, which neither links nor paraphrases them. I did not run that French SERP myself, so I make no claim about it beyond what the brief supplied.",
+      "SOURCE READ DEPTH: the Figura chapter was read in full from the book PDF (978-88-6969-962-7, pp. 229-258), not at abstract level — the verb list, the Belletti and Rizzi framing and the conclusion sentence all come from the body text. It is open access under CC BY and nothing here is paywalled. It is cited at its publisher URL rather than through doi.org, because capcheck reports doi.org with only one post slot left in this batch and a resolver is not the publisher."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "The opening move — state tu me manques, then explain that the word order is reversed — is the headline on all nine SERP results, and the intensifier section and the je te manque warning are also table stakes on that set. The paradigm table with a corpus id per cell, the 1546/1563/1834 dating and the verb-class disagreement are mine, but the section skeleton converges with the competing pages and calling it independent would be dishonest."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Two paragraphs run longer. The opening answer paragraph is six sentences because references/page-structure.md requires the direct answer, two-to-four numbers and a scope line inside one block. The intensifier paragraph is four sentences because grading three phrases in parallel is what makes the block machine-extractable. Everything else in the post is within range."
+        }
+      ],
+      "honestAssessment": "An answer engine has three specific reasons to cite this over the nine pages on the query: it is the only one that puts a Tatoeba sentence id behind every cell of the manquer à paradigm including the reversal trap, the only one that dates the construction (verb into French 1546, manquer à + noun 1563, the affective use first illustrated by Michelet in 1834), and the only one that reports the Académie and Larousse assigning the identical sense to two different verb classes. It also corrects the 'missing from me' gloss that every competing page and this site's own hub repeat. The 214-page first-party layer — 88-word median letter, 43.5% password use against 38.5% platform-wide, 1,434 recipient hug taps across 138 pages — is unavailable to any language site. Against that: rocketlanguages.com and talkinfrench.com are established language brands on their own turf with domain authority far above this one, this is a US-market English query where SubhSandesh has no French footprint at all, and the post carries no measurement of the learner error it warns about because none exists open-access. Ranking takes months and I am not predicting one. What would most change the odds is a corpus frequency count of je te manque in learner French, which would need a learner corpus this run could not reach."
+    },
+    "generatedAt": "2026-09-25T07:13:58.142Z"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Russian, and the Argument Russians Are Having",
+    "slug": "i-miss-you-in-russian",
+    "excerpt": "я скучаю по тебе takes по plus the dative. Gramota.ru ruled скучаю за тобой outside the literary language in 2018, Ushakov marks it regional, and the Russian book corpus makes it 58.6 times rarer. Plus по вам vs по вас, dated to 2012, and what 214 miss-you pages contain.",
+    "metaTitle": "I Miss You in Russian — The Case Gramota Says Is Right",
+    "metaDescription": "I miss you in Russian is я скучаю по тебе, по plus the dative. Gramota puts скучаю за тобой outside the literary language; the book corpus makes it 58x rarer.",
+    "keywords": "i miss you in russian, miss you in russian, скучаю по тебе или за тобой, скучаю по вам или по вас, how to say i miss you in russian",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-russian",
+    "ogType": "article",
+    "tags": [
+      "russian",
+      "miss-you",
+      "language",
+      "long-distance",
+      "translation"
+    ],
+    "keyTakeaways": [
+      "I miss you in Russian is я скучаю по тебе — по plus the dative, to one person you address as ты.",
+      "Gramota.ru's reference service ruled on 8 September 2018 that скучать за кем-либо «не является нормативным, выходит за рамки русского литературного языка»; Ushakov has marked за кем-чем as областное, regional, since the 1930s.",
+      "It is rare rather than absent: 58.6 times rarer than по тебе in the 2019 Russian book corpus, and 0 sentences against 193 on Tatoeba.",
+      "For вы, use скучаю по вам. The corpus has it ahead of скучаю по вас every year since 2012 — the same year a reference dictionary declared the older government obsolete.",
+      "Across 214 miss-you pages measured on 2026-09-25 the median letter runs 88 words, 43.5% are password-protected against 38.5% platform-wide, and recipients tapped a hug 1,434 times on 138 of them."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say I miss you in Russian?",
+        "answer": "Я скучаю по тебе (ya skuchayu po tebe) — по plus the dative, to one person you address as ты. For someone you address as вы, use скучаю по вам. Romanizations here follow BGN/PCGN 1947."
+      },
+      {
+        "question": "My friend from the south says скучаю за тобой. Is she making a mistake?",
+        "answer": "Not in the sense of not knowing the word. Ushakov's dictionary has marked за кем-чем as областное — regional — since the 1930s, and Gramota.ru's 2018 answer says скучать за кем-либо falls outside the literary language. In writing, use по тебе."
+      },
+      {
+        "question": "What does мне тебя не хватает actually mean word for word?",
+        "answer": "\"Of you, there is not enough for me.\" мне is dative, тебя genitive, and the sentence has no grammatical subject, so the missing happens to you rather than being done by you. In the 2019 Russian book corpus it is slightly more frequent than я скучаю по тебе."
+      },
+      {
+        "question": "Should I write скучаю по вам or скучаю по вас to a teacher or a boss?",
+        "answer": "скучаю по вам. Gramota calls по вас the old norm and по вам the new one, and a 2012 dictionary of grammatical combinability marks the older prepositional government obsolete. In the book corpus по вам has been ahead of по вас every year since 2012."
+      },
+      {
+        "question": "Is я по тебе скучаю different from я скучаю по тебе?",
+        "answer": "Same words, same meaning, different emphasis. Fronting по тебе puts the weight on the person and reads as spoken rather than written. The book corpus puts the verb-first order ahead by roughly 1.34 to 1 at 2019, so both are ordinary."
+      },
+      {
+        "question": "How do I say I miss you so much in Russian?",
+        "answer": "Я так скучаю по тебе or я очень скучаю по тебе. They sit at 6.02 × 10⁻⁹ and 5.82 × 10⁻⁹ in the 2019 book corpus, close enough that neither is stronger — pick the one that scans better in your sentence."
+      },
+      {
+        "question": "Why do dictionaries print скуча́ть with an accent over the а?",
+        "answer": "That is a stress mark, U+0301 COMBINING ACUTE ACCENT, and it is a teaching aid rather than part of the spelling. Ushakov's entry shows it. If you copy from a dictionary, delete the mark before you send the line."
+      },
+      {
+        "question": "Can I just send it in Latin letters if they cannot read Cyrillic?",
+        "answer": "You can, but it stops being a message. Transliteration is a pronunciation aid, and a recipient who cannot read Cyrillic is better served by the English sentence plus a recording of you saying the Russian one."
+      },
+      {
+        "question": "Does скучать work for missing a place or a thing, not a person?",
+        "answer": "Yes. Ushakov's own examples are Скучать по друзьям, Скучать по работе and Скучать по театру — friends, work, the theatre. The government is the same: по plus the dative."
+      },
+      {
+        "question": "Why does searching скучаю по тебе bring up TV episodes?",
+        "answer": "Because the phrase is also screen and song material. Of 206 Russian-market autocomplete completions harvested for this batch, 35 are сериал, смотреть онлайн, актёры, дорама, OST or аккорды queries, and they do not all point at one title — Russian Wikipedia has no article under that exact name."
+      }
+    ],
+    "coverImageQuery": "russian handwriting letter cyrillic desk",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note in Cyrillic script resting on a wooden desk beside a phone showing a message thread, lit by low evening light from a window. Shallow depth of field, muted winter palette, clean negative space along the top third for a title overlay, 16:9. No legible text beyond a few soft-focus Cyrillic letters, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Russian, and the Argument Russians Are Having\n\nI miss you in Russian is **я скучаю по тебе** (*ya skuchayu po tebe*) — по plus the dative case, sent to one person you are close to. The variant **скучаю за тобой** (*skuchayu za toboy*) is the one Russians actually argue about, and [Gramota.ru, the state-backed reference portal, answered it on 8 September 2018](https://gramota.ru/spravka/vopros/298024): скучать за кем-либо «не является нормативным, выходит за рамки русского литературного языка» — not normative, outside the literary language.\n\nThat is the prescriptive verdict; the descriptive one is narrower, and this page gives both, plus the second dispute (по вам or по вас) and what 214 «I miss you» pages on SubhSandesh contain — a median letter of 88 words, and 1,434 hug taps sent back by recipients.\n\n## Is it скучаю по тебе or скучаю за тобой?\n\nBoth exist; only one is standard.\n\nUshakov's dictionary, compiled 1935–40, gives the verb's government as [«по ком-чем или по кому-чему (за кем-чем ·обл.·)»](https://gufo.me/dict/ushakov/%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%82%D1%8C). The tag `обл.` is *областное*, regional — ninety years ago за was already filed as dialect rather than error, a softer verdict than Gramota's.\n\nThe corpus gives the size of it. In the [Google Books Ngram Viewer's Russian corpus](https://books.google.com/ngrams/graph?content=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE+%D1%82%D0%B5%D0%B1%D0%B5%2C%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&year_start=1900&year_end=2019&corpus=ru-2019&smoothing=3), at 2019 «скучаю по тебе» runs at 2.44 × 10⁻⁷ against 4.17 × 10⁻⁹ for «скучаю за тобой» — **58.6 times rarer**, but not zero. That corpus is edited books, so a form living in speech is under-counted by construction.\n\n[Tatoeba is harder on it](https://tatoeba.org/en/sentences/search?query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&from=rus): 193 Russian sentences match «скучаю по тебе», **none** match «скучаю за тобой».\n\nSo: send по тебе. But someone who writes за тобой is using a regional form one national dictionary has recorded for ninety years and a national portal declines to admit. Neither names the region, and neither does this page.\n\nOur [fifty-language \"I miss you\" hub](https://subhsandesh.in/blog/i-miss-you-in-different-languages) gives Russian one line and a pronunciation gloss — right for a fifty-language table, and not repeated here. This page adds the case, the two disputes and the dates the norms moved.\n\n## The four lines worth sending, and what each one says\n\nFour constructions carry the meaning, and they are not interchangeable.\n\n### 1. я скучаю по тебе (*ya skuchayu po tebe*)\n\nLiterally \"I am bored-for you\": скучать is the verb for being bored, and по takes the dative. The default written form, at 4.72 × 10⁻⁸ in the 2019 book corpus. Send it to one person you already address as ты — neutral enough to open with, warm enough to stand alone.\n\n### 2. я по тебе скучаю (*ya po tebe skuchayu*)\n\nThe same four words, object ahead of the verb. The stock answer that the orders are \"interchangeable\" is roughly right but not equal: the corpus puts this at 3.53 × 10⁻⁸ against 4.72 × 10⁻⁸, about 1.34 to 1. Fronting по тебе weights *you*, and reads as spoken rather than written — which is why it suits a recorded line better than a typed one.\n\n### 3. я так скучаю по тебе (*ya tak skuchayu po tebe*)\n\n\"I miss you so much.\" так and очень are near-identical in frequency — 6.02 × 10⁻⁹ against 5.82 × 10⁻⁹ at 2019 — so pick by rhythm, not strength. Put it mid-letter, not at the opening: an intensifier in the first sentence leaves nowhere to go, and the median letter on these pages runs 88 words, about four sentences.\n\n### 4. мне тебя не хватает (*mne tebya ne khvatayet*)\n\n\"Of you, there is not enough for me.\" мне is dative, тебя genitive, and there is no grammatical subject — the missing happens *to* you. Endresen and Janda, in [Frontiers in Psychology, November 2020](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.574353/full), describe the pattern: the Russian dative encodes a state that \"happens\" to the person, implying \"lack of agentivity and control\". Nor is it a minor variant — at 2019 it runs at 5.07 × 10⁻⁸, slightly *more* frequent than «я скучаю по тебе».\n\nWhat each is for, against what people build around it on SubhSandesh's own miss-you pages:\n\n| Line | What it literally says | Books-corpus frequency, 2019 | Where it fits on a page, from 214 miss-you pages |\n|---|---|---|---|\n| я скучаю по тебе | \"I am bored-for you\", по + dative | 4.72 × 10⁻⁸ | The letter's opening line; median letter 88 words, longest 1,024 |\n| я по тебе скучаю | Same words, object fronted | 3.53 × 10⁻⁸ | A spoken line — 13.6% of senders record a voice note |\n| я так скучаю по тебе | \"I so miss you\" | 6.02 × 10⁻⁹ | Inside a memory; 86.4% of pages carry at least one, 4.5 on average |\n| мне тебя не хватает | \"Of you there is not enough for me\" | 5.07 × 10⁻⁸ | Beside a reunion countdown; 28.0% of senders set a date |\n\nThe two most frequent lines disagree about who is doing the missing, and both are correct.\n\n## по вам or по вас, and why it only bites with вы\n\nWith ты there is nothing to choose: the dative and the prepositional of ты are both **тебе**, so по тебе is right whichever case you think you are using. The question appears only with вы, where the dative is вам and the prepositional вас — and there the reference books disagree in print.\n\nGramota's 2018 answer lays it out. Rozental's *Управление в русском языке* prescribes скучать по кому-чему for nouns and third-person pronouns but **скучать по ком** for first and second person plural — «скучаем по вас» — and the 2005 reissue still says so. *Русская грамматика* (1980) calls the two plain variants; Lazutkina's 2012 dictionary of grammatical combinability calls по ком-чем **устарелым**, obsolete. Gramota's summary: «Скучаю по вас – старая норма; по вам – новая.»\n\nThe corpus dates the handover: «скучаю по вам» first overtakes «скучаю по вас» in **2012** and has led every year since — 1.30 × 10⁻⁸ against 9.13 × 10⁻⁹ by 2019. Lazutkina declared the older government obsolete in 2012 as well, so codification and crossover land in the same year.\n\nPractical rule: **скучаю по вам** to anyone you address as вы — newer norm, more frequent form, and what a 2012 reference work recommends. «Скучаю о вас», at 2.51 × 10⁻⁹, is rarest of the three and reads as literary.\n\n## Writing Russian that survives the send\n\nTwo mechanical things break this line between keyboard and screen.\n\n**Stress marks are not spelling.** Dictionary entries print the headword accented — Ushakov's page shows «Скуч/а́/ть», the acute being U+0301 COMBINING ACUTE ACCENT on the а. Copy the entry and you paste the mark with it. Russians do not write it; delete it.\n\n**Everything here is one Unicode block.** с is U+0441, к U+043A, ч U+0447, all inside Cyrillic at U+0400–U+04FF, so any font with Cyrillic coverage renders the phrase whole.\n\nEvery romanization here is [BGN/PCGN 1947](https://assets.publishing.service.gov.uk/media/636cd2828fa8f5357a0c652c/ROMANIZATION_OF_RUSSIAN_2022_final.pdf), revalidated November 2022. Its Note 1 is why хватает comes out *khvatayet*, not *khvataet*: е is written `ye` after a vowel.\n\n## Who is searching this, and the title problem in the Russian results\n\nEnglish-language demand is small and American: in this batch's autocomplete harvest `i miss you in russian` surfaced under one prefix in the US market only and `miss you in russian` under two, also US-only — neither in the UK or India harvests.\n\nRussian-language demand is much larger and badly contaminated. Of 206 `ru-ru` completions, 35 are screen or music queries — сериал, смотреть онлайн, актёры, дорама, OST, аккорды — and they do not all point at one title: one pairs the phrase with a thriller novelist's name, another says дорама, a Korean drama. \n\nRussian Wikipedia has **no article under the exact title «Скучаю по тебе»**; the nearest is «Уже скучаю по тебе», the 2015 film *Miss You Already*. This page therefore names no series.\n\nThe useful rows are the argument itself: `скучаю по тебе или за тобой`, `скучаю по тебе или за тобой как правильно` and `скучаю по тебе или по вас` are live completions. Native speakers are asking both questions.\n\n## What 214 miss-you pages say about the words around the line\n\nA Russian phrase is rarely sent alone. On the [«I miss you» page template](https://subhsandesh.in/missyou-gf), 214 pages have been built since 2026-07-28 — 4.1% of 5,221 pages across 44 collections. Two months of data, so nothing here supports a seasonal claim.\n\nPrivacy stands out. 43.5% of miss-you senders password-protect the page before sharing, 93 of 214, against 38.5% platform-wide — the most private segment measured. People are careful with this sentence in a way they are not with a birthday.\n\nRecipients answer back: across 138 of the 214 pages they tapped a hug 1,434 times, 512 on one page. The pages recorded 2,417 views, 11.3 per page, 104 on the most-opened — page views, not unique visitors, so one recipient reopening a page twenty times counts twenty.\n\nOne number needs care. The 47 city pairs those pages name, cross-border ones like Mumbai–London included, come from a 15-city **picker with a default**, so they describe the picker as much as the senders; same for background music and \"together since\". The sender-chosen fields are the password, voice note, reunion date, letter and memories.\n\nIf your real message is *when* rather than *how much*, the [long-distance train ticket page](https://subhsandesh.in/train-ticket) fits better: скучать is imperfective, saying the state continues but never until when — and 28.0% of senders answer that by setting a reunion date.\n\n## When a Russian line is the wrong thing to send\n\nIf neither of you reads Cyrillic, transliterating is worse than sending nothing in Russian: *ya skuchayu po tebe* is a BGN/PCGN pronunciation aid, not a message, and reads as a party trick.\n\nIf the relationship is formal enough that you hesitated over вам versus вас, the safer move is not to send a miss-you line at all. Russian marks the ты/вы boundary explicitly, and crossing it by accident is conspicuous.\n\nAnd if the person is in the same room, a page is the wrong object. Everything above concerns a sentence that has to travel; when it does not, say it.\n\n## Sources\n\n- [Gramota.ru, reference answer № 298024](https://gramota.ru/spravka/vopros/298024), 8 September 2018 — скучать за кем-либо is not normative; по вас old norm, по вам new; Rozental, Русская грамматика 1980 and Lazutkina 2012 compared.\n- [Ushakov, *Толковый словарь русского языка*, 1935–40](https://gufo.me/dict/ushakov/%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%82%D1%8C) — «по ком-чем или по кому-чему (за кем-чем ·обл.·)».\n- [Google Books Ngram Viewer, Russian corpus ru-2019](https://books.google.com/ngrams/graph?content=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE+%D1%82%D0%B5%D0%B1%D0%B5%2C%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&year_start=1900&year_end=2019&corpus=ru-2019&smoothing=3) — every frequency figure here, smoothing 3, read 2026-09-25.\n- [Tatoeba, Russian search](https://tatoeba.org/en/sentences/search?query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&from=rus) — 0 sentences for скучаю за тобой, 193 for скучаю по тебе.\n- [Endresen and Janda, *Frontiers in Psychology* 11:574353](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.574353/full), 20 November 2020 — the dative as non-agentive experiencer.\n- [BGN/PCGN 1947 Romanization of Russian](https://assets.publishing.service.gov.uk/media/636cd2828fa8f5357a0c652c/ROMANIZATION_OF_RUSSIAN_2022_final.pdf), November 2022.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-russian#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Russian language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Russian_language",
+              "https://www.wikidata.org/wiki/Q7737"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Dative case",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dative_case",
+              "https://www.wikidata.org/wiki/Q145599"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Adpositional case",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Adpositional_case",
+              "https://www.wikidata.org/wiki/Q117226378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Cyrillic script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Cyrillic_script",
+              "https://www.wikidata.org/wiki/Q8209"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Romanization of Russian",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Romanization_of_Russian",
+              "https://www.wikidata.org/wiki/Q6453319"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Gramota.ru",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Gramota.ru",
+              "https://www.wikidata.org/wiki/Q4147664"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Google Books Ngram Viewer",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Google_Books_Ngram_Viewer",
+              "https://www.wikidata.org/wiki/Q3339343"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "url": "https://gramota.ru/spravka/vopros/298024",
+            "name": "Gramota.ru reference-service answer № 298024: скучаю по вам или скучаю по вас",
+            "datePublished": "2018-09-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Gramota.ru"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://gufo.me/dict/ushakov/%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%82%D1%8C",
+            "name": "Ушаков, Толковый словарь русского языка — скучать",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Gufo.me"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://books.google.com/ngrams/graph?content=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE+%D1%82%D0%B5%D0%B1%D0%B5%2C%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&year_start=1900&year_end=2019&corpus=ru-2019&smoothing=3",
+            "name": "Google Books Ngram Viewer, Russian corpus ru-2019 — скучаю по тебе vs скучаю за тобой",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google Books"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://tatoeba.org/en/sentences/search?query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&from=rus",
+            "name": "Tatoeba Russian sentence search — скучаю за тобой",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.574353/full",
+            "name": "Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian",
+            "datePublished": "2020-11-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Psychology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://assets.publishing.service.gov.uk/media/636cd2828fa8f5357a0c652c/ROMANIZATION_OF_RUSSIAN_2022_final.pdf",
+            "name": "Romanization of Russian, BGN/PCGN 1947 System",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Permanent Committee on Geographical Names"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four Russian ways to say I miss you",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "я скучаю по тебе (ya skuchayu po tebe)",
+            "description": "по plus the dative, literally \"I am bored-for you\". The default written form, 4.72 × 10⁻⁸ in the 2019 Russian book corpus. For one person you address as ты."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "я по тебе скучаю (ya po tebe skuchayu)",
+            "description": "Same words with the object fronted, 3.53 × 10⁻⁸ at 2019 — about 1.34 to 1 behind the verb-first order. Reads as spoken, so it suits a recorded line."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "я так скучаю по тебе (ya tak skuchayu po tebe)",
+            "description": "\"I miss you so much\", 6.02 × 10⁻⁹ at 2019, near-identical to я очень скучаю по тебе at 5.82 × 10⁻⁹. Belongs mid-letter, not at the opening."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "мне тебя не хватает (mne tebya ne khvatayet)",
+            "description": "Dative experiencer, genitive object, no subject: \"of you there is not enough for me\". At 5.07 × 10⁻⁸ it is slightly more frequent than я скучаю по тебе."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in russian",
+    "angle": "Wins by being the only post that settles «скучаю по тебе» vs «скучаю за тобой» and «по вам» vs «по вас» against Gramota.ru's own dated answer and Ushakov's «обл.» marking, then dates the по вам / по вас inversion to 2012 with a corpus measurement — paired with recipient-side evidence from 214 /missyou-gf pages, 138 of which recorded at least one hug tap.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/train-ticket"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://gramota.ru/spravka/vopros/298024",
+        "stat": "Gramota.ru reference-service answer № 298024: «Скучаю по вас – старая норма; по вам – новая… в наши дни эти варианты конкурируют.» Rozental's Управление в русском языке prescribes скучать по кому-чему for nouns and 3rd-person pronouns but скучать по ком for 1st/2nd person plural (скучаем по вас), and the 2005 reissue keeps that. Русская грамматика (1980) treats по вам and по вас as variants; Lazutkina's Словарь грамматической сочетаемости (2012) calls по ком-чем устарелым. On за: «вариант скучать за кем-либо… не является нормативным, выходит за рамки русского литературного языка.»",
+        "publishedDate": "2018-09-08"
+      },
+      {
+        "url": "https://gufo.me/dict/ushakov/%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%82%D1%8C",
+        "stat": "Ushakov, Толковый словарь русского языка (1935–40), скучать sense 2: «по ком-чем или по кому-чему (за кем-чем ·обл.·)» — за is marked областное, regional. The same page prints the headword as «Скуч/а́/ть», carrying U+0301 COMBINING ACUTE ACCENT, and gives the examples Скучать по друзьям / по работе / по театру. Compiled 1935–40; the mirror publishes no entry date, so none is recorded."
+      },
+      {
+        "url": "https://books.google.com/ngrams/graph?content=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%BF%D0%BE+%D1%82%D0%B5%D0%B1%D0%B5%2C%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&year_start=1900&year_end=2019&corpus=ru-2019&smoothing=3",
+        "stat": "Google Books Ngram Viewer, Russian corpus ru-2019, smoothing 3, values at year 2019: скучаю по тебе 2.442e-7 vs скучаю за тобой 4.168e-9 (58.6× rarer); я скучаю по тебе 4.718e-8 vs я по тебе скучаю 3.525e-8; мне тебя не хватает 5.071e-8; я так скучаю по тебе 6.016e-9 vs я очень скучаю по тебе 5.823e-9; скучаю по вам 1.299e-8 vs скучаю по вас 9.131e-9 vs скучаю о вас 2.512e-9. Year-by-year, скучаю по вам first exceeds скучаю по вас in 2012 and has led every year since."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E+%D0%B7%D0%B0+%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&from=rus",
+        "stat": "Tatoeba Russian-to-English sentence search, read 2026-09-25: «скучаю за тобой» returns 0 sentences, while the paired query «скучаю по тебе» returns 193, «я по тебе скучаю» 122, «скучаю по вам» 137 and «мне тебя не хватает» 47."
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.574353/full",
+        "stat": "Endresen, A. and Janda, L. A., 'Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian', Frontiers in Psychology 11:574353. Documents the Russian Constructicon, 'over two thousand two hundred constructions' illustrated from the Russian National Corpus, and describes Russian encoding a non-agentive experiencer in the dative — a state that 'happens' to the subject, implying 'lack of agentivity and control'. Open access, full text read.",
+        "publishedDate": "2020-11-20"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/636cd2828fa8f5357a0c652c/ROMANIZATION_OF_RUSSIAN_2022_final.pdf",
+        "stat": "BGN/PCGN 1947 Romanization of Russian, PCGN, page marked 'Checked for validity and accuracy – November 2022'. ч→ch, ю→yu, ы→y, я→ya, х→kh, ь→ʹ, and Note 1: е is romanized ye initially and after the vowel characters a, e, ё, и, о, у, ы, э, ю, я — which is why хватает romanizes khvatayet. The table also prints each letter's Unicode code points (0410;0430 onward)."
+      }
+    ],
+    "structuralLimitations": [
+      "BRIEF §0 — PROMPT CLAIM CONFIRMED, and with a better source than the one named. The prompt said the harvest returned «скучаю по тебе или за тобой» as a top query. It does: autocomplete-merged.csv has that row at 4 prefix hits and relevance 1250, plus «скучаю по тебе или за тобой как правильно», «скучаю по тебе или за тобой стихи», «скучаю по тебе и за тобой» and — the prompt did not mention this one — «скучаю по тебе или по вас». The second dispute is in the harvest too, which is why it gets its own H2 rather than a footnote.",
+      "BRIEF §0 — PROMPT CLAIM NOT CONFIRMED. The prompt said за тобой is \"widely heard in southern Russian and Ukrainian-influenced speech\". Neither fetched source says so. Ushakov marks it «обл.», областное, and names no region. Gramota says it falls outside the literary language and names no region. I did verify independently that Ukrainian скучати governs за + instrumental (en.wiktionary.org/wiki/скучати, fetched 2026-09-25, «to feel longing, to long for, to miss — за + instrumental or без + genitive»), and сумувати likewise, so the structural parallel is real — but nothing I fetched establishes the direction of influence for the Russian form. The body therefore prints only what Ushakov and Gramota say, and says explicitly that neither names the region.",
+      "BRIEF §0 — PROMPT PREMISE PARTLY FALSIFIED. The prompt framed Gramota as the prescriptive answer and the corpus as the possible dissent. The real split runs inside the prescriptive sources. Gramota's own answer records that Rozental's Управление в русском языке prescribes скучать по ком (по вас) for 1st/2nd person plural and that the 2005 reissue still does, while Lazutkina's 2012 dictionary calls that government устарелым. Two reference works in print at the same time recommend opposite forms. The corpus does not dissent from the portal; it dates the handover.",
+      "RUSCORPORA NOT REACHED — the prompt named ruscorpora.ru as evidence. Its search results are not server-rendered (processing.ruscorpora.ru/search.xml returns a 408 KB Nuxt shell with no hit counts, and the only served bundle, /_nuxt/DB7MF3Yk.js, is 232 bytes), and /api/search returns 404. I could not obtain a single RNC frequency without a browser session, so I did not cite one. The corpus figures in this post are Google Books ru-2019 and Tatoeba, and the post names both instruments and the year and smoothing used. The Frontiers source cited does describe the Russian Constructicon as illustrated from the RNC, which is the only RNC claim this post makes.",
+      "CORPUS CAVEAT STATED IN BODY — Google Books ru-2019 is edited, published prose. A form that lives mainly in speech is under-represented there by construction, so 58.6× is the size of the gap in print, not in conversation. This is said in the body, not only here.",
+      "LINE CUT 1 — «скучаю за тобой» as a sendable variant in the comparison table. Kept in the post only as the thing being ruled on. Gramota excludes it and Tatoeba has zero sentences for it, so printing it as an option would be printing a line no fetched source supports.",
+      "LINE CUT 2 — «соскучился по тебе» (perfective, \"I have come to miss you\"). It appears in Gramota's own search index, but I never fetched an entry for соскучиться, and deriving it from the aspect pair is derivation, not verification. Cut rather than printed unattested.",
+      "LINE CUT 3 — stress marks on the finite forms: скуча́ю, тебе́, хвата́ет. Ushakov's page marks stress on the infinitive only («Скуч/а́/ть»). Marking скуча́ю would be reading it off the paradigm rather than off a fetched entry, so the post prints unaccented Cyrillic plus BGN/PCGN romanization, and uses the infinitive's mark only to explain the copy-paste hazard.",
+      "LINE CUT 4 — «я тебя люблю и скучаю», suggested by the harvest row «скучаю по тебе люблю тебя». Composed by me, no dictionary or corpus attestation fetched, cut.",
+      "LINE CUT 5 — «скучаю по нам» (\"I miss us\"). Gramota's answer covers по нас / по нам for the 1st person plural pronoun, but only in the abstract; I fetched no attested sentence and measured no frequency for this exact string, so it was cut rather than extrapolated from по вам.",
+      "LINE CUT 6 — «скучаю по тебе, моя любовь» and similar vocative tails from the ru-ru harvest (любимый, дорогая). Every one would have been my own composition. Cut.",
+      "LINE CUT 7 — the Ozhegov–Shvedova entry via gufo.me, which marks скучаю по вас as «устар. и прост.» and was fully fetched and verified. Dropped from the body and the sources purely to keep outbound links at six: Gramota's answer already carries the same verdict with a date and a fuller comparison, so the second link would have been redundant rather than load-bearing.",
+      "LINE CUT 8 — Hentschel, G., 'Ukrainian and Russian in the lexicon of Ukrainian Suržyk', Russian Linguistics 48 (2023), CC BY, doi:10.1007/s11185-023-09286-9. I read the full text via the Europe PMC REST API (PMC10728287) and it is the best subject match this post could have had for the contact story. Cut because the coordinator's mid-task update put europepmc.org == pmc.ncbi.nlm.nih.gov at the 3-post cap, link.springer.com serves a 3 KB anti-bot page for both the article and the PDF, and citing it via doi.org would have taken the batch's last doi.org slot for a paper whose own author states that competitions which are not purely lexical — such as which preposition a verb takes — are outside the study's scope. Frontiers 11:574353 was used instead: weaker on contact, directly load-bearing on the dative experiencer.",
+      "SERP — MEASURED, NOT PREDICTED. One WebSearch on the exact keyword, 2026-09-25. Results: memrise.com, learntherussianlanguage.com, two Quora threads, en.bab.la, learnrussian101.com, learnrussianwords.com, two Wikipedia song articles (You Are My Only Love; I Miss You (Sarah Engels song)), context.reverso.net. No competitor page was fetched, quoted, linked or paraphrased, so this post makes no structural claim about what those pages contain — only that no result title and no part of the engine's own generated summary named a Russian reference authority, cited a corpus, or mentioned either dispute. That summary did assert that the two word orders are \"interchangeable\"; the post tests it instead of repeating it, and finds about 1.34 to 1.",
+      "TV-SERIES TRAP — handled with a measurement, not silence. 35 of the 206 ru-ru completions are screen or music queries. They do not converge on one title: one row names a thriller novelist, another says дорама (Korean drama), another OST, another аккорды. Russian Wikipedia returns `missing` for the exact title «Скучаю по тебе» (action=query&titles=, 2026-09-25); the only intitle match is «Уже скучаю по тебе», the 2015 film Miss You Already. The post therefore names no series and says why, which is the honest version of the warning in my prompt.",
+      "WHAT THIS ADDS OVER THE HUB — the live hub /blog/i-miss-you-in-different-languages (Strapi id 1360, 1,276 words) gives Russian exactly one line: \"Russian: Я скучаю по тебе (ya skoo-CHAH-yu po TEH-beh)\". It names no case, no register, no variant and no dispute. Its table is not restated here. This page adds the government of the verb, both disputes with dated sources, the 2012 corpus crossover, the transliteration standard, the Unicode mechanics and the first-party channel data.",
+      "CANNIBALISATION — zero live slugs contain \"russian\" (checked against strapi-live-articles.json, 905 articles, and the batch's site-baseline.md), and none of the 81 live \"miss\" slugs is a Slavic-language spoke. On the BRIEF's three-axis test this differs on the language axis from every one of them. No merge recommended.",
+      "INTERNAL LINKS — the hub link is a live Strapi article URL, not a TEMPLATE_LINKS entry; verify-batch.mjs excludes /blog paths from the internal-link check by design, and the two template links (/missyou-gf, /train-ticket) are both in TEMPLATE_LINKS. /train-ticket was chosen over the more-used /dedication on merit: скучать is imperfective and open-ended, it never says until when, and 28.0% of senders answer that by setting a reunion date — the ticket page is built around exactly that gap.",
+      "CAP-EXEMPT DOMAINS USED — tatoeba.org and gramota.ru, both listed in verify.config.json capExemptDomains (gramota.ru and ruscorpora.ru were added to that list mid-batch; capcheck.mjs, re-run immediately before saving, reported 0 domains at the cap and frontiersin.org at 2 posts including this one). Both were fetched — Tatoeba via api_v0 search, Gramota at the answer URL printed — and each verified to contain the claim attributed to it. en.wiktionary.org and unicode.org were fetched during research (скучать, скучати, сумувати, ты; Blocks.txt and UnicodeData.txt for the Cyrillic block and U+0301/U+0451) but are not cited, so they consume nothing.",
+      "FIRST-PARTY LIMIT — /missyou-gf letter text is unconstrained input and carries no language tag, so the platform cannot say what share of the 214 senders wrote any Russian at all. The comparison table's first-party column is therefore about the channel (letter, voice note, memory, reunion date), never about the Russian line itself, and the body says so. The three mandatory caveats — pickers with defaults, viewCount as page views rather than unique visitors, and n=214 over two months since 2026-07-28 — are all in body prose.",
+      "LICENCE — Endresen & Janda (2020) is CC BY; nothing is reproduced beyond two short quoted phrases and the finding is stated in the post's own words. Tatoeba sentences are CC BY 2.0 FR and are referenced by count and search, not reproduced. The Gramota and Ushakov quotations are single clauses of lexicographic marking, quoted for identification."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Six outbound links, all fetched — but two of them are not byte-identical to what I verified. The Google Books figures were read from the JSON endpoint (books.google.com/ngrams/json?content=…&corpus=ru-2019&smoothing=3) while the body links the human graph UI at /ngrams/graph with the same query string, and the Tatoeba counts were read from /en/api_v0/search?from=rus&to=eng while the body links /en/sentences/search with the same query. Same host, same parameters, different path: a reader following either link runs the query I ran, but a strict reading of \"fetched and verified\" is that I verified the data endpoint and linked the interface. The other four — gramota.ru/spravka/vopros/298024, the Ushakov entry, the Frontiers full text and the BGN/PCGN PDF — were fetched at exactly the URL printed."
+        }
+      ],
+      "honestAssessment": "It is the only page on the measured SERP that answers «скучаю по тебе или за тобой» with Gramota.ru's own dated ruling and Ushakov's «обл.» marking rather than an opinion, and the only one anywhere I can find that dates the по вам / по вас inversion — the corpus crossover and Lazutkina's 2012 dictionary land in the same year, which is a claim no competing page makes because no competing page measures anything. The recipient-side numbers from 214 /missyou-gf pages are unavailable to anyone else by construction. Against that: subhsandesh.in has no authority at all on Russian-language queries, the English-language demand for this exact phrase surfaced in one US prefix in our own harvest, and the Russian-language head term is drowning in screen and song traffic that this page deliberately does not chase. Ranking depends on months of domain signals this post cannot supply."
+    },
+    "generatedAt": "2026-09-25T07:54:06.369Z"
+  }
+}

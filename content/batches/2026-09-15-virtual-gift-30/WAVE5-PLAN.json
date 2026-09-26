@@ -1,0 +1,223 @@
+{
+  "wave": 5,
+  "batchId": "2026-09-15-virtual-gift-30",
+  "generated": "2026-09-25T10:06:14.341Z",
+  "provenance": "Candidates queued during wave 4 but unscreenable - both DuckDuckGo and Brave were rate-limited. Screened 2026-09-25 after limits reset, on DuckDuckGo kl=in-en (genuine India SERPs, better evidence than wave 4 US-served Brave). Firecrawl was tried first and returned HTTP 402 (no credits).",
+  "theFinding": "The `how to surprise <person>` shape continues to hold on India SERPs: 4-8 of 10 editorial across all 9 rows, low ecommerce, low vendor. This wave extends it to FAMILY and FRIEND recipients (sister, brother, parents, mom, friend), which the batch has barely touched - 86 posts skew heavily partner-facing.",
+  "selectionRule": "Stemmed keyword dedupe vs 86 posts primaries+secondaries (reject >=0.80), SERP overlap vs all 4 prior waves (reject >=6/10 written, >=5/10 selected). Zero rejections - this ground is genuinely unclaimed.",
+  "posts": [
+    {
+      "n": 1,
+      "slug": "how-to-surprise-your-sister",
+      "kw": "how to surprise your sister",
+      "blogResultsInSerp": "8/10",
+      "templateUrls": [
+        "/catch",
+        "/rewind",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.5,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": "birthday-surprise-page-for-sister",
+      "slugCollision": false
+    },
+    {
+      "n": 2,
+      "slug": "how-to-surprise-a-friend-on-their-birthday",
+      "kw": "how to surprise friend on birthday",
+      "blogResultsInSerp": "7/10",
+      "templateUrls": [
+        "/searched",
+        "/flags",
+        "/birthday-gf"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 1,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.4,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": "birthday-wish-website-for-friend",
+      "slugCollision": false
+    },
+    {
+      "n": 3,
+      "slug": "how-to-surprise-best-friend-on-friendship-day",
+      "kw": "how to surprise best friend on friendship day",
+      "blogResultsInSerp": "6/10",
+      "templateUrls": [
+        "/streak",
+        "/nutrition",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 1,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.29,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": "digital-gift-ideas-for-best-friend",
+      "slugCollision": false
+    },
+    {
+      "n": 4,
+      "slug": "how-to-surprise-your-parents",
+      "kw": "how to surprise your parents",
+      "blogResultsInSerp": "6/10",
+      "templateUrls": [
+        "/watch",
+        "/rewind",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.5,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": null,
+      "slugCollision": false
+    },
+    {
+      "n": 5,
+      "slug": "how-to-surprise-someone-at-midnight",
+      "kw": "how to surprise on birthday midnight",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/birthday-gf",
+        "/capsule",
+        "/hold-my-hand"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.4,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": null,
+      "slugCollision": false
+    },
+    {
+      "n": 6,
+      "slug": "how-to-surprise-husband-on-birthday",
+      "kw": "how to surprise husband on birthday",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/loveflix",
+        "/challan",
+        "/recharge"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.6,
+      "nearestClaimedKw": "how to surprise husband on anniversary",
+      "mustReadSibling": "how-to-surprise-husband-on-anniversary",
+      "slugCollision": false
+    },
+    {
+      "n": 7,
+      "slug": "how-to-surprise-best-friend-birthday-online",
+      "kw": "how to surprise best friend on her birthday online",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/catch",
+        "/photo-puzzle",
+        "/templates"
+      ],
+      "categorySlug": "digital-gifts-romance",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 3,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.43,
+      "nearestClaimedKw": "online birthday surprise for sister",
+      "mustReadSibling": "birthday-website-for-best-friend",
+      "slugCollision": false
+    },
+    {
+      "n": 8,
+      "slug": "how-to-surprise-your-brother",
+      "kw": "how to surprise your brother",
+      "blogResultsInSerp": "5/10",
+      "templateUrls": [
+        "/court-of-love",
+        "/legal-notice",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.5,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": null,
+      "slugCollision": false
+    },
+    {
+      "n": 9,
+      "slug": "how-to-surprise-mom-on-her-birthday",
+      "kw": "how to surprise mom on her birthday",
+      "blogResultsInSerp": "4/10",
+      "templateUrls": [
+        "/dedication",
+        "/watch",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "note": "GENUINE INDIA SERP - DuckDuckGo recovered, unlike wave 4 which was US-served Brave."
+      },
+      "overlapWithWritten": 0,
+      "nearestWritten": null,
+      "stemmedKwSim": 0.4,
+      "nearestClaimedKw": "how to surprise someone",
+      "mustReadSibling": null,
+      "slugCollision": false
+    }
+  ],
+  "categoryCorrection": {
+    "finding": "ORCHESTRATOR ERROR. WAVE5-PLAN originally assigned categorySlug `digital-gifts-romance` to every row, including four whose recipient is family (sister, brother, parents, mother). Filing a sibling or parent post under a romance hub is the exact register error this wave exists to avoid.",
+    "howItSurfaced": "The sister agent swapped to `family-and-continuity` on its own initiative and flagged it loudly. The parents agent independently reached the same conclusion but correctly kept the assigned value and reported it rather than deviating. Both behaviours were right.",
+    "resolution": "All four family rows now carry `family-and-continuity`, which is an established live category in this batch (wave 1 used it for birthday-surprise-page-for-sister and long-distance-gift-for-mom). The already-written parents post was corrected on disk.",
+    "friendRowsLeftAlone": "Friend-recipient rows keep `digital-gifts-romance`. Eight published friend posts already sit there (virtual-gift-for-best-friend, digital-gift-ideas-for-best-friend and others); moving only the new ones would split the cluster across two hubs for no gain. Worth revisiting batch-wide, but not by halves mid-wave."
+  }
+}

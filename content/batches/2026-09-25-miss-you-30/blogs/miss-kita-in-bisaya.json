@@ -1,0 +1,342 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "What \"Miss Kita\" Means in Bisaya, and What to Say Instead",
+    "slug": "miss-kita-in-bisaya",
+    "excerpt": "\"Miss kita\" is Tagalog grammar, not Bisaya. The Cebuano line is \"Gimingaw ko nimo\" — with the dictionary entries behind it, the pronoun that causes the mix-up, and what 214 first-party miss-you pages show about how the message actually travels.",
+    "metaTitle": "Miss Kita in Bisaya — Tagalog Grammar, Cebuano Lines",
+    "metaDescription": "Miss kita in Bisaya is Tagalog grammar, not Bisaya. The Cebuano line is \"Gimingaw ko nimo\", checked against Wiktionary, with data from 214 miss-you pages.",
+    "keywords": "miss kita in bisaya, gimingaw ko nimo, i miss you in bisaya, gi-miss tika, cebuano i miss you, miss kita meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-kita-in-bisaya",
+    "ogType": "article",
+    "tags": [
+      "bisaya",
+      "cebuano",
+      "miss you",
+      "language",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "\"Miss kita\" is Tagalog: Wiktionary's Tagalog entry defines kita as the pronoun replacing ko ka / ko ikaw, while the Cebuano entry records no I-to-you sense at all.",
+      "The Bisaya line is \"Gimingaw ko nimo\"; the attested Cebuano corpus sentence is \"Samot pa kong gimingaw nimo ron\" — \"I'm missing you more than ever\".",
+      "Cebuano does have a native verb for missing someone — hidlaw, glossed 'to yearn; to long' — so the English loanword coexists with it rather than filling a gap.",
+      "Across 214 miss-you pages on SubhSandesh, 43.5% of senders password-protect the page against 38.5% platform-wide, and the median letter runs 88 words.",
+      "Recipients tapped 1,434 hugs across 138 of those 214 pages, 512 of them on a single page — the response side that no translation page can measure."
+    ],
+    "faqs": [
+      {
+        "question": "What does miss kita actually mean, word by word?",
+        "answer": "It is the English verb \"miss\" plus the Tagalog pronoun kita, which Wiktionary defines as the form replacing ko ka or ko ikaw — \"I\" and \"you\" in one word. So it reads as \"I miss you\", built on Tagalog grammar rather than Bisaya."
+      },
+      {
+        "question": "Is Bisaya the same language as Cebuano?",
+        "answer": "Cebuano speakers usually call their own language Bisaya or Binisaya, so for most people searching this phrase the two words mean the same thing. But Waray and Hiligaynon speakers also call their languages Bisaya, and gimingaw is not their word."
+      },
+      {
+        "question": "How do you pronounce gimingaw?",
+        "answer": "Wiktionary gives it as /ɡiˈmiŋaw/, roughly gi-MI-ngaw, with the stress on the middle syllable and the ng sounding like the ng in singer. The final syllable ends in a w glide, not a hard vowel."
+      },
+      {
+        "question": "What is the difference between gimingaw and gi-miss tika?",
+        "answer": "Gimingaw uses the native Cebuano root mingaw, while gi-miss tika takes the English verb and gives it Cebuano affixes and a Cebuano pronoun. Both are ordinary Bisaya; the second is more typical of how people under 40 text."
+      },
+      {
+        "question": "Can I just say miss kita to a Bisaya speaker anyway?",
+        "answer": "Yes, and they will understand it, because Tagalog is taught nationally in the Philippines. It simply signals that you reached for Filipino rather than their own language, which is the whole reason people look up the Bisaya version."
+      },
+      {
+        "question": "What does nimo mean in Bisaya?",
+        "answer": "Nimo is the Cebuano oblique form of \"you\", and it is where the person being missed goes in a sentence like \"Gimingaw ko nimo\". Cebuano keeps the two pronouns separate instead of fusing them the way Tagalog kita does."
+      },
+      {
+        "question": "Is kita used in Cebuano at all?",
+        "answer": "Yes, but with different meanings. Wiktionary's Cebuano entry lists the inclusive \"we / us\", the hortative \"let us\" as in Adto ta for \"Let's go\", and a humble colloquial \"I\" used to downplay oneself."
+      },
+      {
+        "question": "Does hidlaw mean the same thing as gimingaw?",
+        "answer": "They overlap but are not interchangeable. Hidlaw is a verb glossed as yearning or longing, often for something in the past, while gimingaw is an adjective closer to homesick or lonely."
+      },
+      {
+        "question": "How long should an I miss you message be?",
+        "answer": "The median letter across 214 miss-you pages on SubhSandesh is 88 words, and the longest is 1,024. Eighty-eight words is about one honest paragraph, which is roughly a verified Bisaya line plus one specific memory."
+      },
+      {
+        "question": "Should I password-protect a page like this before I send it?",
+        "answer": "43.5% of miss-you senders do, against 38.5% of creators across the whole platform, which makes this the most private segment measured. It only helps if the recipient reads on their own device, though — on a shared phone a password is a barrier rather than a protection."
+      },
+      {
+        "question": "What should I write underneath the Bisaya line?",
+        "answer": "One specific memory, not a second translated phrase. A named place or a dated moment does more work than a second line in a language you do not speak, and it fits inside the 88-word median comfortably."
+      },
+      {
+        "question": "Is it worth recording a voice note instead of typing the line?",
+        "answer": "If you are unsure of the pronunciation, yes — a borrowed phrase usually goes wrong in spelling before it goes wrong in speech. Only 13.6% of miss-you senders record a voice note today, so it is also the less expected thing to receive."
+      }
+    ],
+    "coverImageQuery": "filipino video call long distance night",
+    "coverImagePrompt": "A photorealistic scene of a young Filipina woman on a video call at night in a small apartment, phone propped against a mug, warm lamplight on one side of her face and the cool screen glow on the other. Shallow depth of field, quiet and unposed, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# What \"Miss Kita\" Means in Bisaya, and What to Say Instead\n\n\"Miss kita\" is Tagalog, not Bisaya. The Bisaya line is **\"Gimingaw ko nimo.\"** The word doing the work in \"miss kita\" is the Tagalog pronoun *kita*, which [English Wiktionary's Tagalog entry](https://en.wiktionary.org/wiki/kita#Tagalog) defines as the form that replaces *ko ka* or *ko ikaw* — \"I\" and \"you\" fused into one word, the same piece that makes *mahal kita* mean \"I love you\". Wiktionary's Cebuano entry for the same spelling has no such sense. This page gives the Bisaya lines from fetched dictionary entries, explains the grammar the translation sites skip, and sets both against 214 \"I miss you\" pages built on SubhSandesh since 28 July 2026 — where 43.5% of senders password-protect the page against 38.5% across the whole platform, and the median letter runs 88 words.\n\n## Is \"miss kita\" Bisaya or Tagalog?\n\nTagalog. Wiktionary's Tagalog entry for *kita* glosses it as the pronoun replacing *ko ka* or *ko ikaw*, and lists *mahal kita* and *gusto kita* as its derived terms. Drop an English verb into that slot and you get *miss kita*.\n\nThe Cebuano entry records three different senses: the inclusive \"we / us\"; the hortative \"let us\", as in *Adto ta* — \"Let's go\"; and a colloquial, self-deprecating \"I / me\". None of them carries a speaker across to a listener.\n\nSo a Bisaya speaker will understand \"miss kita\" — Tagalog is taught nationally — but will not produce it. Cebuano puts the person being missed in the oblique form *nimo*, \"you\", and keeps the pronouns separate.\n\nThat single difference is why so many searches for this phrase end on a forum thread. The phrase is Tagalog; the question behind it is Bisaya.\n\n## The Bisaya words for missing someone\n\nEach item below is glossed from a fetched Wiktionary entry or an attested corpus sentence, not from a translation widget. They run from the full sentence you can send today down to the roots underneath it.\n\n### 1. Gimingaw ko nimo\n\nThe everyday Bisaya \"I miss you\". *Gimingaw* is the *gi-* form of *mingaw*, *ko* is \"I\", *nimo* is \"you\". It is supported directly by the attested sentence in item 2, which contains this exact frame. Send it to a partner, a parent or a close friend; it carries no formality marking either way, so nothing about it can land wrong.\n\n### 2. Samot pa kong gimingaw nimo ron\n\n\"I'm missing you more than ever\" — an [attested Cebuano sentence on Tatoeba](https://tatoeba.org/en/sentences/search?query=gimingaw&from=ceb), with that English gloss supplied by the corpus. It is the strongest single line in this post, because it is not a dictionary construction: somebody wrote it as a sentence and a translator paired it. Use it when \"I miss you\" on its own has started to feel thin.\n\n### 3. Gimingaw\n\nThe word by itself. [Wiktionary's Cebuano entry](https://en.wiktionary.org/wiki/gimingaw) gives it as an adjective meaning \"homesick\" and \"lonely\", formed from the prefix *gi-* and the root *mingaw*. Worth knowing on its own because it is what a Bisaya speaker abroad will post without any pronoun attached — the state, not the message.\n\n### 4. Hidlaw\n\nThe native Cebuano **verb**: \"to yearn; to long, have a strong desire (for something)\", and also \"to long for something in the past with melancholy, nostalgically\", per [Wiktionary's *hidlaw* entry](https://en.wiktionary.org/wiki/hidlaw). Its derived noun is *kahidlaw*. This is the word to reach for when the feeling is closer to longing than to a text message. Wiktionary supplies the lemma and its senses but no example sentence, so this post prints the word rather than inventing a sentence around it.\n\n### 5. Mingaw\n\nThe root under *gimingaw*: an adjective meaning \"deserted\", \"lonely\", \"lonesome\", with *makamingaw* and *mingawon* among its derived forms. It describes a place as readily as a person, which is why \"the house is *mingaw* without you\" is a more natural Bisaya thought than a direct translation of \"I miss you\" would suggest.\n\n## Does Bisaya have its own word for missing someone?\n\nYes, and this is worth saying plainly because the opposite is repeated constantly: that Philippine languages simply borrowed English \"miss\" because they had nothing of their own. For Cebuano that is not true. *Hidlaw* is recorded as a native verb covering yearning and longing, *mingaw* and *gimingaw* cover the loneliness side, and the Tatoeba sentence shows the native root being used in real prose rather than the loanword.\n\nWhat is true is that the loanword **coexists** with them. \"Gi-miss tika\" is ordinary Bisaya code-switching, not a gap being plugged. The English verb takes Cebuano affixes and a Cebuano pronoun and behaves like a Cebuano word.\n\nThere is a long history of describing Cebuano through English categories and getting it wrong. In a 2022 open-access paper in the *Recoletos Multidisciplinary Research Journal*, [De Catalina and De Catalina's account of the Yapian classification](https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1221) records that Bishop Manuel Yap of Carcar, Cebu objected as early as 1947 that Visayan-Cebuano vocabulary does not fit the English eight-parts-of-speech scheme imposed after 1898. A \"translate this phrase\" box is the same mistake in a smaller box.\n\nOne line was cut from this post for the same reason. *Namingaw* returned HTTP 404 on English Wiktionary on 25 September 2026 — no entry — so it is not printed here.\n\n## What 214 miss-you pages show about how the line travels\n\nSubhSandesh's own `/missyou-gf` template has carried 214 pages since it went live on 28 July 2026, 4.1% of the 5,221 pages across 44 collections. That segment behaves unlike the rest of the platform in one measurable way: 43.5% of those senders password-protect the page before sharing it, against 38.5% platform-wide. It is the most private segment measured here.\n\nThe length answer is also concrete. The median miss-you letter is **88 words** and the longest is 1,024. Eighty-eight words is roughly one honest paragraph — which is about as much as a verified Bisaya line plus one memory takes.\n\nRecipients do something no translation page can see. Across 138 of the 214 pages, 1,434 \"hug\" taps were recorded, 512 of them on a single page. That is the other side of the message responding, repeatedly, to something they were sent.\n\nThree limits travel with all of those numbers. The city, background-music and \"together since\" fields are **pickers with defaults**, so their fill rates are not sender choices and nothing here is derived from them. `viewCount` counts page views, not unique visitors — one person reopening a page twenty times is twenty views. And n = 214 over two months supports no seasonal claim of any kind.\n\nIf the message is going to someone in another country rather than another city, the [miss-you page for a partner](/missyou-gf) is the format these numbers describe: one link, a letter, and a page the recipient can open more than once.\n\n## Who usually sends it, and why the voice matters\n\nThe people searching this phrase are very often separated by work. In *Overseeing From Overseas* (2021), a peer-reviewed open-access study of 89 university students with one or both parents working abroad, [Repalam, Brion and Reginaldo found](https://iiari.org/journal_article/irssrv1-3-172/) that 84 of the 89 — 94.3% — used Facebook often or all the time to stay in contact, and that online contact was **mostly initiated by the parent abroad**, while the children did not fully share details of their lives in return.\n\nThat asymmetry is the practical argument for sending something rather than typing something. A page is a thing the other person opens when they are ready, not a message they have to answer.\n\nIt is also the argument for saying the line aloud. Only 13.6% of miss-you senders record a voice note, and 28.0% set a reunion date for the countdown. If you are unsure of the pronunciation, the [radio-dedication page](/dedication) suits this reader better than a typed page does: it is built around your own recorded voice introducing a song, so \"Gimingaw ko nimo\" gets spoken instead of spelled, which is where a borrowed line usually goes wrong.\n\n## Bisaya, Tagalog or English: which line to send\n\nOne sentence of comparison, then the table: what changes is not the meaning but who the line signals you made an effort for.\n\n| Line | Language it actually is | Who it lands with | First-party context (n = 214 miss-you pages) |\n|---|---|---|---|\n| Gimingaw ko nimo | Cebuano (Bisaya) | A Bisaya speaker from Cebu, Bohol, Negros or Mindanao | Sits inside the median 88-word letter with room to spare |\n| Miss kita / Nami-miss kita | Tagalog | Anyone in the Philippines; reads as Manila-default | Same field, same length budget |\n| Gi-miss tika | Cebuano with an English verb | Bisaya speakers under 40, in text | The everyday register, closest to how it is typed |\n| I miss you | English | Everyone; signals no particular effort | 43.5% of senders password-protect the page carrying it |\n\nThe takeaway: the Bisaya line is not more romantic than the Tagalog one, it is more specific — and specificity is the whole reason to bother with the original language at all.\n\n## When a Bisaya line is the wrong thing to send\n\nIf the person you are writing to is Waray or Hiligaynon, \"Bisaya\" is their word for their own language too, and *gimingaw* is not it. Check which Bisayan language before you send anything. This post covers Cebuano only.\n\nIf they are in the same room, send nothing. A page is a format for distance, and 214 pages measured over two months cannot tell you otherwise.\n\nAnd if the recipient has no smartphone, or reads on a shared device where a password is a barrier rather than a protection, a written card beats any link. Password-protection is the defining behaviour of this segment, which means the page assumes a private device. Where that assumption fails, [browse the other templates](/templates) or write it by hand.\n\n## Sources\n\n- English Wiktionary, *kita* — Tagalog and Cebuano entries: https://en.wiktionary.org/wiki/kita\n- English Wiktionary, *hidlaw* (Cebuano verb): https://en.wiktionary.org/wiki/hidlaw\n- English Wiktionary, *gimingaw* (Cebuano adjective): https://en.wiktionary.org/wiki/gimingaw\n- Tatoeba, attested Cebuano sentence with *gimingaw*: https://tatoeba.org/en/sentences/search?query=gimingaw&from=ceb\n- Repalam, M. C. R., Brion, R. B. & Reginaldo, A. L., \"Overseeing From Overseas: The Role of ICT in Sustaining Parental Relationships\", *International Review of Social Sciences Research* 1(3), September 2021, CC BY 4.0: https://iiari.org/journal_article/irssrv1-3-172/\n- De Catalina, J. Z. & De Catalina, E. C., \"The Yapian Classification of the Vocabulary of the Austronesian Visayan-Cebuano Language\", *Recoletos Multidisciplinary Research Journal*, 29 June 2022: https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1221",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-kita-in-bisaya#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Cebuano language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Cebuano_language",
+              "https://www.wikidata.org/wiki/Q33239"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Tagalog language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tagalog_language",
+              "https://www.wikidata.org/wiki/Q34057"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Visayans",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Visayans",
+              "https://www.wikidata.org/wiki/Q1290600"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Overseas Filipino Worker",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Overseas_Filipino_Worker",
+              "https://www.wikidata.org/wiki/Q55628193"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "kita — Tagalog and Cebuano entries",
+            "url": "https://en.wiktionary.org/wiki/kita",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "hidlaw — Cebuano verb entry",
+            "url": "https://en.wiktionary.org/wiki/hidlaw",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "gimingaw — Cebuano adjective entry",
+            "url": "https://en.wiktionary.org/wiki/gimingaw",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Attested Cebuano sentences containing gimingaw",
+            "url": "https://tatoeba.org/en/sentences/search?query=gimingaw&from=ceb",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Overseeing From Overseas: The Role of ICT in Sustaining Parental Relationships",
+            "url": "https://iiari.org/journal_article/irssrv1-3-172/",
+            "datePublished": "2021-09-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Institute of Industry and Academic Research Incorporated"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The Yapian Classification of the Vocabulary of the Austronesian Visayan-Cebuano Language",
+            "url": "https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1221",
+            "datePublished": "2022-06-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of San Jose-Recoletos"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The Bisaya words for missing someone",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Gimingaw ko nimo",
+            "description": "The everyday Bisaya 'I miss you'; gimingaw is the gi- form of mingaw, ko is 'I', nimo is the oblique 'you'."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Samot pa kong gimingaw nimo ron",
+            "description": "Attested Cebuano sentence on Tatoeba, glossed 'I'm missing you more than ever.'"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Gimingaw",
+            "description": "Cebuano adjective from gi- + mingaw: 'homesick', 'lonely'."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Hidlaw",
+            "description": "Native Cebuano verb: 'to yearn; to long, have a strong desire (for something)'; derived noun kahidlaw."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Mingaw",
+            "description": "The root adjective: 'deserted', 'lonely', 'lonesome'; derived forms makamingaw and mingawon."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss kita in bisaya",
+    "angle": "Wins by being the only post that shows 'miss kita' is Tagalog grammar rather than Bisaya, gives the Cebuano lines from fetched Wiktionary entries and one attested Tatoeba sentence, and sets them against 214 first-party miss-you pages where 43.5% of senders password-protect the page against 38.5% platform-wide.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/dedication"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/kita",
+        "stat": "Tagalog kita 'replaces ko ka or ko ikaw (I or my and you)', with mahal kita and gusto kita as derived terms; the Cebuano entry records only inclusive 'we/us', the hortative 'let's', and a colloquial self-deprecating 'I'"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/hidlaw",
+        "stat": "hidlaw, Cebuano verb: 'to yearn; to long, have a strong desire (for something)', also 'to long for something in the past with melancholy, nostalgically'; derived term kahidlaw"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/gimingaw",
+        "stat": "gimingaw, Cebuano adjective from gi- + mingaw: 'homesick', 'lonely'; IPA /ɡiˈmiŋaw/"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?query=gimingaw&from=ceb",
+        "stat": "Attested Cebuano sentence 'Samot pa kong gimingaw nimo ron.' glossed 'I'm missing you more than ever.'"
+      },
+      {
+        "url": "https://iiari.org/journal_article/irssrv1-3-172/",
+        "stat": "Of 89 university students with one or both parents working overseas, 84 (94.3%) used Facebook often or all the time; online contact was mostly initiated by the parent abroad, while children did not fully share details of their lives",
+        "publishedDate": "2021-09-01"
+      },
+      {
+        "url": "https://rmrj.usjr.edu.ph/rmrj/index.php/RMRJ/article/view/1221",
+        "stat": "Bishop Manuel Yap of Carcar, Cebu objected as early as 1947 that Visayan-Cebuano vocabulary does not fit the English eight-parts-of-speech classification introduced after 1898",
+        "publishedDate": "2022-06-29"
+      }
+    ],
+    "structuralLimitations": [
+      "THE LEAD IS REFUTED FOR CEBUANO. The task prompt asserted that 'there is no native Tagalog, Bisaya or Ilocano verb for to miss — the English loanword is used across all of them'. English Wiktionary's Cebuano entry for hidlaw gives it explicitly as a VERB meaning 'to yearn; to long, have a strong desire (for something)', with the derived noun kahidlaw; mingaw is an adjective 'deserted / lonely / lonesome' with the derived gimingaw 'homesick, lonely'; and Tatoeba carries the attested Cebuano sentence 'Samot pa kong gimingaw nimo ron' glossed 'I'm missing you more than ever', using the native root rather than the loanword. Cebuano's English loanword coexists with native vocabulary; it does not fill a lexical gap. The post says this in body prose.",
+      "THE PROMPT'S GRAMMAR CLAIM IS ALSO WRONG, AND THE POST IS BUILT ON THE CORRECTION. The prompt stated that kita in 'miss kita' is 'Cebuano/Bisaya grammar … the first-person-singular-acting-on-second-person portmanteau pronoun'. Wiktionary's Cebuano entry for kita records only three senses — inclusive 'we/us', the hortative 'let's' (Adto ta, 'Let's go'), and a colloquial self-deprecating 'I/me'. The I-acting-on-you sense belongs to the TAGALOG entry, which defines kita as replacing ko ka / ko ikaw and lists mahal kita and gusto kita as derived terms. 'Miss kita' therefore parses as Tagalog, which is the post's angle.",
+      "LINE CUT: namingaw. English Wiktionary returned HTTP 404 for /wiki/namingaw on 2026-09-25, so the word is not printed anywhere in the post rather than being glossed from memory.",
+      "NOT TESTED: Tagalog and Ilocano. The lead was refuted for Cebuano only. Nothing in the post claims whether Tagalog or Ilocano has a native verb for 'to miss', because neither was checked against a dictionary in this run.",
+      "WOLFF NOT REACHABLE. No open, fetchable full text of Wolff's A Dictionary of Cebuano Visayan was available; dsal.uchicago.edu hosts South Asian dictionaries and carries no Philippine lexicon. Every Cebuano gloss here rests on English Wiktionary entries plus one Tatoeba sentence, and the post does not claim a Wolff citation it does not have.",
+      "CANNIBALISATION CHECK. The closest live pages are /blog/i-miss-you-in-different-languages and /blog/i-miss-you-in-tamil-words. The hub was fetched on 2026-09-25: its only Philippine line is 'Tagalog (Filipino): Miss na kita / Nami-miss kita' inside a 50+ item list, with no Bisaya or Cebuano entry anywhere, no grammar and no dictionary citation. This post does three things neither page does — it identifies the phrase as Tagalog rather than Bisaya, it glosses five Cebuano items each against a fetched lexicographic entry, and it attaches recipient-side behaviour (1,434 hug taps across 138 of 214 pages) that a translation list cannot carry. It links up to the hub's axis rather than restating its table. Language is one of the three non-duplicate axes named in the BRIEF, so this is a spoke, not a merge candidate.",
+      "SERP INHERITED, NOT RE-RUN, AND US-SERVED. The SERP for this keyword was measured in the keyword run on 2026-09-25 against a US-served Google (mymemory.translated.net, tiktok.com x2, forum.wordreference.com, three off-intent en.wikipedia.org articles, wordhippo.com, medium.com; weakness 8/10). No India-served SERP exists for this keyword and none was run here, so no claim in the post describes what competitors rank for.",
+      "REGIONAL VARIATION UNMEASURED. Cebuano, Boholano, Davaoeño and Surigaonon differ, and nothing fetched measures which region uses which line. The post covers Cebuano only and says so where it names Waray and Hiligaynon.",
+      "SOURCE CAP FORCED A SUBSTITUTION. findpapers.mjs returned strong Europe PMC candidates on transnational Filipino families, but pmc.ncbi.nlm.nih.gov is at the 3-post cap and the BRIEF counts europepmc.org as the same domain, so none was usable. DOAJ's REiLA paper 'Linguistic Borrowing of English Words and Utterances among Philippine's Generation Z in Cebuano Visayan' (2022) returned HTTP 403 and was dropped rather than cited unread."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "\"The Bisaya words for missing someone\" is a five-item vocabulary list and cannot be answered in 2-3 sentences without dropping four of the five entries. Structural: the post's whole value is that each word carries its own fetched dictionary gloss, and collapsing them would delete the evidence. Closes only if the lexical items move to their own page."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The IIARI OFW/ICT study (n=89) is about Filipino families separated by overseas work, so it could sit unchanged in any other Philippine-language keyword in this batch. The four language sources and the Cebuano-vocabulary paper could not. Recorded rather than swapped, because no non-capped OA study of Filipino separation more specific to Cebuano was reachable — pmc.ncbi.nlm.nih.gov/europepmc.org is at the 3-post cap and REiLA returned HTTP 403."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that identifies 'miss kita' as Tagalog rather than Bisaya and backs every Cebuano line with a named dictionary entry or an attested corpus sentence, and the recipient-side numbers — 1,434 hug taps across 138 of 214 pages — cannot be published by anyone else. Against that: the SERP is weak but shallow, the competing pages are TikToks and a translation-memory dump that carry no domain authority to beat, and SubhSandesh has no authority in Philippine linguistics, so citation by an answer engine is more plausible than a top Google position within months."
+    },
+    "generatedAt": "2026-09-25T06:45:54.843Z"
+  }
+}

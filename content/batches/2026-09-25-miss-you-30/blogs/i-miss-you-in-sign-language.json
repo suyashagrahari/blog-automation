@@ -1,0 +1,361 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Sign Language: Which One, and Why It Needs Video",
+    "slug": "i-miss-you-in-sign-language",
+    "excerpt": "There is no single sign language: ISO 639-3 gives ASL, BSL, ISL, NGT, LSF and Auslan six separate codes. ASL-LEX 2.0 codes the sign MISS at the chin, not the nose, and gives it the highest neighbourhood density of all 2,723 signs — which is why this needs a video, not a paragraph.",
+    "metaTitle": "I Miss You in Sign Language: ASL, BSL and ISL Are Not One",
+    "metaDescription": "I miss you in sign language depends on which one. ASL-LEX codes the ASL sign MISS at the chin, not the nose, and BSL SignBank's 2 miss entries mean neither.",
+    "keywords": "i miss you in sign language, asl sign for miss, i miss you in asl, indian sign language i miss you, bsl sign for miss, ily handshape meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-sign-language",
+    "ogType": "article",
+    "tags": [
+      "sign language",
+      "asl",
+      "indian sign language",
+      "miss you",
+      "deaf"
+    ],
+    "keyTakeaways": [
+      "There is no universal sign language: ISO 639-3 registers American, British, Indian, Dutch and French Sign Languages and Auslan under six separate codes — ase, bfi, ins, dse, fsl, asf.",
+      "ASL-LEX 2.0 codes the sign MISS (entry G_02_049) as a “1” handshape at the chin — not the nose — one-handed, with contact and no path movement.",
+      "🤟 is I-LOVE-YOU (ASL-LEX F_01_102, Unicode “love-you gesture”); its listed translations are “I love you, ILY, love” and miss is not among them.",
+      "MISS has the highest phonological neighbourhood density in ASL-LEX — 50, against a median of 3 across all 2,723 signs — so a written description cannot specify it.",
+      "BSL SignBank returns two entries for the English word miss (disappoint; mistake) and neither means longing; ISLRTC publishes the Indian Sign Language dictionary as video only."
+    ],
+    "faqs": [
+      {
+        "question": "Do deaf people in India and America use the same signs?",
+        "answer": "No. ISO 639-3 registers Indian Sign Language as ins and American Sign Language as ase — separate individual living languages with separate lexicons. A sign learned from an ASL dictionary will not be understood as Indian Sign Language."
+      },
+      {
+        "question": "What is the ASL sign for miss?",
+        "answer": "ASL-LEX 2.0 records it as entry G_02_049, SignBank gloss MISS, with the English translations disappointed, miss, pine for and yearn for. It is coded as a “1” handshape at the chin, one-handed, with contact and no path movement. Watch the entry's video rather than working from that description."
+      },
+      {
+        "question": "Is the ASL sign for miss made at the nose or the chin?",
+        "answer": "ASL-LEX 2.0 codes it MajorLocation Head, MinorLocation Chin. Only 101 of the database's 2,723 signs (3.7%) are coded at the chin, and MISS is one of them — so pages that place it at the nose are describing something else."
+      },
+      {
+        "question": "Does 🤟 mean I miss you?",
+        "answer": "No. The ILY handshape is ASL-LEX entry F_01_102, SignBank gloss I-LOVE-YOU, and its listed translations are “I love you, ILY, love”. Unicode names the emoji U+1F91F “love-you gesture”. Miss is not one of its meanings."
+      },
+      {
+        "question": "What is the difference between MISS and MISSING in ASL?",
+        "answer": "They are unrelated signs. ASL-LEX codes MISS (G_02_049) at the chin as a one-handed sign, while the entry English calls missing is E_02_017, whose SignBank gloss is GONE — depleted, empty, gone, pass away, used up. English collapses two meanings into one word; ASL does not."
+      },
+      {
+        "question": "Why do sign language guides keep telling me to watch a video?",
+        "answer": "Because signs are movement and prose cannot specify one. ASL-LEX gives MISS a phonological neighbourhood density of 50 — the highest of all 2,723 signs, against a median of 3 — and two other signs, SERIOUS and the sign glossed BITTER, carry values identical to it on every coded field."
+      },
+      {
+        "question": "How do I say I miss you in Indian Sign Language?",
+        "answer": "Look it up in the ISLRTC dictionary and watch it. The Indian Sign Language Research and Training Centre publishes the national ISL dictionary as video — a dictionary website, a YouTube channel, a Drive folder and an open dataset — with no text entry carrying phonological coding, so no honest written description exists to reproduce."
+      },
+      {
+        "question": "How do I say I miss you in British Sign Language?",
+        "answer": "BSL SignBank returns two signs for the English word miss, and neither means longing. One is keyworded disappointment, disappoint, disappointed, miss; the other miss, err, error, mistake, wrong, misunderstand. Searches for longing, yearn, absent and want return nothing at all."
+      },
+      {
+        "question": "Do I have to make the facial expression, or is the hand enough?",
+        "answer": "The face is part of the grammar, not decoration. Wiktionary's ASL entries write it into the production description itself — the entry for ANGRY opens “produced with an angry scowl” — and a 2026 PLOS ONE production experiment on Dutch Sign Language found non-manual marking distinguishing question forms."
+      },
+      {
+        "question": "Is it okay for a hearing person to use a sign in a message?",
+        "answer": "If both of you are hearing, it is borrowing someone's working language as an ornament, and that is worth not doing. If your recipient is Deaf or signs, learning the sign from their own language's dictionary and filming yourself is the point of the exercise."
+      }
+    ],
+    "coverImageQuery": "two people signing video call laptop",
+    "coverImagePrompt": "A photorealistic scene of a young Indian woman on a laptop video call, hands raised mid-sign, face lit by the screen in a warm evening room. Her expression is part of the message, so keep the face clearly visible and unobscured. Shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Sign Language: Which One, and Why It Needs Video\n\nThere is no single \"sign language\", so there is no single answer. In American Sign Language the sign glossed MISS — the one whose dictionary translations are *pine for* and *yearn for* — is recorded in the [ASL-LEX 2.0 lexical database](https://asl-lex.org/) as a \"1\" handshape at the **chin**, one-handed, with contact and no path movement. British Sign Language is a different language, and [UCL's BSL SignBank](https://bslsignbank.ucl.ac.uk/dictionary/search/?query=miss) returns two entries for the English word *miss*, neither of which means longing for someone. Indian Sign Language has its own national dictionary from ISLRTC, and it is published as video, not text. Of the 214 \"I miss you\" pages built on SubhSandesh's /missyou-gf template since 2026-07-28, 13.6% carry a voice note — the one field on that page a Deaf recipient cannot use. Below: which sign belongs to which language, what each database actually records, and why the last step has to be a video.\n\n## \"Sign language\" is not one language\n\nA signed language is a full natural language with its own vocabulary, grammar and history, carried in the visual-manual channel rather than the vocal one. There is no universal version, and there never was.\n\nThe international standard says so plainly. [ISO 639-3](https://iso639-3.sil.org/code/ase) registers American Sign Language, British Sign Language, Indian Sign Language, Dutch Sign Language, French Sign Language and Auslan under six separate codes — `ase`, `bfi`, `ins`, `dse`, `fsl`, `asf` — each classed Individual and Living. Six codes, six languages.\n\nASL and BSL are not mutually intelligible and are not even related. ASL fingerspells on one hand, BSL on two. So \"how do you say I miss you in sign language\" is the same shape of question as \"how do you say it in European\", and every sign below is labelled with its language.\n\n## Six entries, six named languages and databases\n\nASL-LEX 2.0 is a lexical database of 2,723 American Sign Language signs, each coded on handshape, location, movement and contact. Its public data file was parsed for this article, so every ASL value below is the database's own. For each entry: the language, what the database records, and what it does not mean.\n\n### 1. ASL — MISS, entry code G_02_049\n\nASL-LEX records this under the SignBank gloss MISS, translations \"disappointed, miss, pine for, yearn for\". The coding: handshape \"1\" (index finger, fully open, thumb closed), one-handed, major location Head, **minor location Chin**, contact present, movement \"None\", duration 834 ms.\n\nThis is the sign people mean when they search this phrase. Thirty-two raters scored it 2.875 of 7 for iconicity against the prompt \"TO MISS SOMEONE\", and ASL-LEX classes it **Arbitrary**: it does not look like its meaning, so guessing it from a photo fails.\n\n### 2. ASL — GONE, the sign English calls \"missing\", entry code E_02_017\n\nA different sign entirely. Its SignBank gloss is GONE, translations \"depleted, empty, gone, missing, pass away, used up\".\n\nIt is asymmetrical with two handshapes, located at the Palm and moving away from the hand, no contact — nothing in common with G_02_049. English uses *missing* for both \"I miss you\" and \"the keys are missing\"; ASL does not.\n\n### 3. ASL — LONELY, entry code B_03_078, one parameter away\n\nLONELY is coded with the same handshape \"1\" at the same location, Head/Chin, with contact — identical to MISS except that it has straight, repeated movement where MISS has none.\n\nIts translations are \"all alone, alone, lonely, lonesome\". Two signs a written description renders almost identically are different words, and motion is what separates them.\n\n### 4. ASL — I-LOVE-YOU, the 🤟 handshape, entry code F_01_102\n\nThe ILY handshape combines the fingerspelled I, L and Y — ASL-LEX flags it `Initialized = 1`, built from letters. Its SignBank gloss is I-LOVE-YOU, translations \"I love you, ILY, love\".\n\n**\"Miss\" is not among them.** Unicode names the matching emoji U+1F91F \"love-you gesture\", from Emoji 5.0. It is one-handed, repeated straight movement in neutral space, no contact — different from MISS on every coded parameter. Send 🤟 meaning \"I miss you\" and you have said something else.\n\n### 5. BSL — the two entries SignBank returns for \"miss\"\n\nUCL's BSL SignBank is the reference database for British Sign Language. Searching *miss* returns \"4 full or partial matches\", and the two signs behind it carry these keyword sets:\n\n**miss-1:** disappointment, disappoint, disappointed, miss. **miss-2:** miss, err, error, mistake, wrong, misunderstand, misunderstanding. **Neither means \"to long for someone.\"**\n\n*Longing*, *yearn*, *absent* and *want* return no entry at all. SignBank publishes video and no written form description, so none is reproduced here.\n\n### 6. ISL — what ISLRTC publishes, and what this page will not describe\n\nIndian Sign Language has a national dictionary from the [Indian Sign Language Research and Training Centre](https://islrtc.nic.in/isl-dictionary/), a body under the Department of Empowerment of Persons with Disabilities, established 28 September 2015 after a campaign by India's Deaf community.\n\nThe dictionary is distributed as video — a website, a YouTube channel, a Drive folder and an open dataset released under NDSAP by the Ministry of Social Justice and Empowerment. **There is no text entry with phonological coding, so this page prints no ISL description of \"I miss you\".** Go and watch it. ISLRTC's own statement of need cites the 2011 Census figure of about 50 lakh deaf people in India; a query this Indian deserves the Indian dictionary, not a footnote.\n\n## Is there one sign for \"I miss you\"? No, and the face is part of the grammar\n\nNone of the three databases consulted lists a single lexical sign meaning \"I miss you\". What exists is a construction — a pronoun, the verb, a pointing reference to the addressee — plus non-manual marking on the face, head and body.\n\nNon-manual markers are grammar, not expression. A production experiment on Dutch Sign Language [published open-access in PLOS ONE on 29 July 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354015) found that NGT polar questions differ by polarity marking, question tags and non-manual marking — and that, contrary to what the previous literature predicted, raised eyebrows are *not* consistently used. The authors propose a head or body forward position as the main marker instead.\n\nThe lexicon shows it too. [Wiktionary's ASL entries](https://en.wiktionary.org/wiki/Claw5@NearNose-PalmBack) write the face into the production description: ANGRY begins \"This one-handed ASL sign is produced with an angry scowl\", and the entry glossed DON'T-MIND is \"usually made while twisting the head from side to side\". The face is part of the word, not styling.\n\n## A written description of a sign is not a sign\n\nASL-LEX records a phonological neighbourhood density for every entry — how many other signs sit one parameter change away. Across all 2,723 signs the median is 3 and the mean 5.0.\n\n**MISS scores 50, the highest value in the entire database**, ahead of seven signs tied at 47. The sign this article is about is the most confusable one ASL-LEX has measured.\n\nFourteen signs are coded with a \"1\" handshape at the chin, and two — SERIOUS and the sign glossed BITTER, \"bitter, disappoint, nasty, sour, yucky\" — carry values identical to MISS on every phonological field. Three words, one coded form, because the differences live in movement, timing and the face. Treat any written description, including the ones above, as a label for finding the right video, never as instructions for producing the sign.\n\n## How to actually send it, compared\n\nThese are the measured fields on SubhSandesh's miss-you pages, n = 214 over the two months since the template went live on 2026-07-28 — too short for a seasonal claim, too small for a per-city rate.\n\n| Channel on a miss-you page | Works for a Deaf recipient | Can carry a sign correctly | Used by senders, n = 214 |\n|---|---|---|---|\n| Written letter | Yes | No — prose cannot specify movement | Every page; median 88 words, longest 1,024 |\n| Voice note | No — audio only | No | 13.6% (29 of 214) |\n| Reunion countdown | Yes | Not applicable | 28.0% (60 of 214) |\n| Recipient \"hug\" tap | Yes | Not applicable | 1,434 taps across 138 of 214 pages |\n| Video of you signing | Yes | Yes — the only format that can | Not a field measured on the template |\n\nThe takeaway is the bottom row: the only channel that carries a sign is the one the template does not have. Film it and give it a page — a [video page built for one person](/watch), with chapters and a pinned comment, fits a message that has to move.\n\n## When a signed message is the wrong thing to send\n\nIf you and your partner are both hearing, borrowing a sign for a caption is not what these languages are for. ISL and ASL are the working languages of Deaf communities, and using one as decoration is a small unkindness dressed as a sweet idea. Send words in a language you both use.\n\nIf your recipient is Deaf, the honest ranking puts SubhSandesh second. Learn the sign from their language's dictionary, film yourself, send that. A [miss-you page](/missyou-gf) is a good frame around the video and a good home for the letter — the median one runs 88 words — but it is the frame, not the message.\n\nTwo limits on the numbers above. The 2,417 recorded views across those pages are page views, not unique visitors, so one person reopening a page twenty times reads as twenty.\n\nAnd the 47 city pairs the pages name come from a 15-city picker with a default, so they describe the picker as much as the senders; the genuinely chosen fields are the password, the voice note, the reunion date, the letter, the memories and the open-when letters. On the first of those, miss-you senders are the most private segment measured here: 43.5% password-protect the page, against 38.5% platform-wide.\n\nFor the spoken versions of this phrase, the [I miss you in different languages hub](/blog/i-miss-you-in-different-languages) covers 50-plus. That hub is spoken languages only; this page is its one signed entry, which is a different kind of language and needs a different kind of answer.\n\n## Sources\n\n- [ASL-LEX 2.0](https://asl-lex.org/) — Sevcikova Sehyr, Caselli, Cohen-Goldberg & Emmorey; 2,723 ASL signs. Data file parsed for codes G_02_049, E_02_017, B_03_078, F_01_102.\n- [ISO 639-3 registry](https://iso639-3.sil.org/code/ase) — SIL International; separate codes `ase`, `bfi`, `ins`, `dse`, `fsl`, `asf`.\n- [BSL SignBank, UCL DCAL](https://bslsignbank.ucl.ac.uk/dictionary/search/?query=miss) — the two BSL entries returned for *miss*.\n- Oomen, Esselink & Roelofsen, [\"Polar questions in Dutch Sign Language (NGT)\"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354015), *PLOS ONE* 21(7): e0354015, 29 July 2026.\n- [ISLRTC](https://islrtc.nic.in/isl-dictionary/) — Indian Sign Language Dictionary, Government of India.\n- [Wiktionary ASL entries](https://en.wiktionary.org/wiki/Claw5@NearNose-PalmBack) — production descriptions that include non-manual markers.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-sign-language#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "American Sign Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/American_Sign_Language",
+              "https://www.wikidata.org/wiki/Q14759"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Indian Sign Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indo-Pakistani_Sign_Language",
+              "https://www.wikidata.org/wiki/Q3306265"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "British Sign Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/British_Sign_Language",
+              "https://www.wikidata.org/wiki/Q33000"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Dutch Sign Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dutch_Sign_Language",
+              "https://www.wikidata.org/wiki/Q2201099"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nonmanual feature",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nonmanual_feature",
+              "https://www.wikidata.org/wiki/Q5421699"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "ILY sign",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/ILY_sign",
+              "https://www.wikidata.org/wiki/Q5971828"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "Dataset",
+            "name": "ASL-LEX 2.0: A lexical database of American Sign Language",
+            "url": "https://asl-lex.org/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ASL-LEX"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "ISO 639-3 registry entry: ase, American Sign Language",
+            "url": "https://iso639-3.sil.org/code/ase",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL International"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "BSL SignBank: entries returned for “miss”",
+            "url": "https://bslsignbank.ucl.ac.uk/dictionary/search/?query=miss",
+            "publisher": {
+              "@type": "Organization",
+              "name": "UCL Deafness Cognition and Language Research Centre"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Polar questions in Dutch Sign Language (NGT): A production experiment",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354015",
+            "datePublished": "2026-07-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PLOS"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Indian Sign Language Dictionary",
+            "url": "https://islrtc.nic.in/isl-dictionary/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Indian Sign Language Research and Training Centre"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary ASL entry Claw5@NearNose-PalmBack (ANGRY)",
+            "url": "https://en.wiktionary.org/wiki/Claw5@NearNose-PalmBack",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six dictionary entries for “I miss you”, each in a named signed language",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "ASL — MISS, entry code G_02_049",
+            "description": "ASL-LEX 2.0: handshape “1”, one-handed, MajorLocation Head, MinorLocation Chin, contact, movement None, 834 ms. Translations: disappointed, miss, pine for, yearn for."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "ASL — GONE, the sign English calls “missing”, entry code E_02_017",
+            "description": "ASL-LEX 2.0: asymmetrical, two handshapes, location Palm moving away from the hand, no contact. SignBank gloss GONE; translations depleted, empty, gone, missing, pass away, used up."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ASL — LONELY, entry code B_03_078, one parameter away",
+            "description": "ASL-LEX 2.0: same handshape “1” at Head/Chin with contact, differing from MISS only in straight repeated movement. Translations: all alone, alone, lonely, lonesome."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ASL — I-LOVE-YOU, the ILY handshape, entry code F_01_102",
+            "description": "ASL-LEX 2.0: handshape “ily”, Initialized = 1, one-handed, repeated straight movement in neutral space, no contact. Translations: I love you, ILY, love. Unicode U+1F91F is named love-you gesture."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "BSL — the two entries SignBank returns for “miss”",
+            "description": "BSL SignBank: miss-1 keyworded disappointment, disappoint, disappointed, miss; miss-2 keyworded miss, err, error, mistake, wrong, misunderstand. Neither means longing."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "ISL — what ISLRTC publishes, and what this page will not describe",
+            "description": "ISLRTC publishes the national Indian Sign Language dictionary as video only — website, YouTube channel, Drive folder and an NDSAP open dataset — with no text entry carrying phonological coding, so no written ISL description is given here."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in sign language",
+    "angle": "Wins by being the only post that answers this from ASL-LEX 2.0's own phonological coding — proving from the parsed database that the sign people want is coded at the chin, not the nose, that it holds the highest phonological neighbourhood density of all 2,723 signs (50, against a median of 3), and that SERIOUS and BITTER share its exact coded form — paired with ISO 639-3's six separate language codes, BSL SignBank's two “miss” entries that mean neither, ISLRTC's video-only ISL dictionary, and the first-party finding that 13.6% of 214 miss-you senders record a voice note, the one field a Deaf recipient cannot use.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/watch"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://asl-lex.org/",
+        "stat": "ASL-LEX 2.0, a lexical database of 2,723 American Sign Language signs with phonological coding (Sevcikova Sehyr, Caselli, Cohen-Goldberg & Emmorey). The public data file behind the visualisation, https://asl-lex.org/visualization/data/sign_props.json, was fetched and parsed in full in this session: 2,723 records. Entry `miss` (Code G_02_049): Handshape \"1\", SelectedFingers \"i\", Flexion FullyOpen, ThumbPosition Closed, SignType OneHanded, Movement None, RepeatedMovement 0, MajorLocation Head, MinorLocation Chin, Contact 1, SignDuration 834 ms, SignFrequency(M) 5.423 (N=27), Iconicity(M) 2.875 (N=32) type Arbitrary against the prompt \"TO MISS SOMEONE\", SignBankAnnotationID MISS, SignBankEnglishTranslations \"disappointed, miss, pine for, yearn for\", Neighborhood Density 50. Entry `missing` (E_02_017): SignBank gloss GONE, translations \"depleted, empty, gone, missing, pass away, used up\". Entry `lonely` (B_03_078): same handshape and Head/Chin location as miss, differing only in Straight repeated movement. Entry `I_love_you` (F_01_102): Handshape \"ily\", Initialized = 1, SignBank gloss I-LOVE-YOU, translations \"I love you, ILY, love\". Computed directly from the file: 101 of 2,723 signs (3.7%) coded MinorLocation Chin; neighbourhood density median 3, mean 5.0, maximum 50 held by `miss` alone, with seven signs tied at 47; 14 signs coded handshape 1 at Head/Chin, of which `serious` (B_01_071) and `sour` (F_03_060, gloss BITTER) match `miss` on every phonological field. Cap-exempt reference instrument per capcheck. The site publishes no date."
+      },
+      {
+        "url": "https://iso639-3.sil.org/code/ase",
+        "stat": "ISO 639-3 registry, SIL International (registration authority). Code pages fetched for ase American Sign Language, bfi British Sign Language, ins Indian Sign Language, dse Dutch Sign Language, fsl French Sign Language and asf Auslan (Australian Sign Language). Each is listed Status Active, Scope Individual, Language Type Living — six separate individual living languages, which is the primary-standard proof that \"sign language\" is not one language. Cap-exempt reference instrument. The registry publishes no per-entry date."
+      },
+      {
+        "url": "https://bslsignbank.ucl.ac.uk/dictionary/search/?query=miss",
+        "stat": "BSL SignBank, UCL Deafness Cognition and Language Research Centre. A search for \"miss\" returns \"4 full or partial matches\" (miss, missile, missionary, missioner). The two signs reached from miss carry these keyword sets, read from the entry pages: /dictionary/words/miss-1.html — \"disappointment, disappoint, disappointed, miss\"; /dictionary/words/miss-2.html — \"miss, err, error, mistake, wrong, misunderstand, misunderstanding\". Neither carries a \"long for someone\" sense. Searches for longing, yearn, absent and want return no entry; lonely returns two and love returns two. Each entry publishes a video and no written form description. Fetched in this session; the site publishes no date."
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354015",
+        "stat": "Oomen, M., Esselink, L. & Roelofsen, F., \"Polar questions in Dutch Sign Language (NGT): A production experiment\", PLOS ONE 21(7): e0354015. Peer-reviewed, open access (CC-BY); the article page was fetched and the abstract read in full. The study identifies a range of NGT polar question forms differing in polarity marking, presence of question tags and use of non-manual markers, and reports that, contrary to expectation given the previous literature on polar questions in sign languages, raised eyebrows are not consistently used — brow lowering is also common — leading the authors to suggest that a head or body forward position, not raised eyebrows, is the main polar question marker in NGT. Received 2025-10-17, accepted 2026-07-02, published 2026-07-29. Full text is open; only the abstract was relied on for the figures quoted.",
+        "publishedDate": "2026-07-29"
+      },
+      {
+        "url": "https://islrtc.nic.in/isl-dictionary/",
+        "stat": "Indian Sign Language Research and Training Centre (ISLRTC), Government of India. The ISL Dictionary page was fetched: the dictionary is distributed as video via a dictionary website, a YouTube channel, a Google Drive folder and an open dataset on data.gov.in (catalog page also fetched — contributor Ministry of Social Justice and Empowerment / Department of Empowerment of Persons with Disabilities, released under the National Data Sharing and Accessibility Policy, Published On 07/02/2024, Updated On 18/02/2025). No text entry with phonological coding is published, so no ISL sign is described in this post. The centre's About page (islrtc.nic.in/about-department/about-islrtc/, Publish Date July 8, 2024) records ISLRTC's establishment on 28 September 2015 as a Society under DEPwD, MSJE, and states: \"As per the 2011 Census, the total population of deaf persons in India numbered about 50 lakh.\" That Census figure is this post's single generic context statistic. Cap-exempt reference instrument per capcheck."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/Claw5@NearNose-PalmBack",
+        "stat": "English Wiktionary ASL entry, title in sign notation, gloss ANGRY. Its Production section opens: \"This one-handed ASL sign is produced with an angry scowl\" — the non-manual marker is written into the lexical entry itself. Also fetched: 1@Nose-FingerBack 1@FromNose-FingerForward (gloss DON'T-MIND), whose production note specifies it is \"usually made while twisting the head from side to side (the typical “no” headshake)\"; Y@InsideChesthigh-PalmDown Sidetoside (SAME-AS), carrying Stokoe notation ØY≿; and the English entry `miss`, which separates the noun sense \"a failure to physically hit\" from verb sense 11 \"to become aware of the loss or absence of… to feel sadness at the absence of somebody\". A full-text search of Wiktionary for an ASL entry glossed MISS returns nothing — Wiktionary's ASL coverage is about a hundred lemmas and MISS is not among them, which is why the ASL claims here rest on ASL-LEX. Cap-exempt reference instrument. Wiktionary publishes no per-entry date."
+      }
+    ],
+    "structuralLimitations": [
+      "THE TASK PROMPT'S CENTRAL ANATOMICAL CLAIM IS WRONG, AND THE DATABASE SAYS SO. The prompt instructed: \"The ASL sign for MISS (the one made at the nose)\". ASL-LEX 2.0 codes entry `miss` (G_02_049) as MajorLocation Head, MinorLocation **Chin** — not Nose. The file was fetched and parsed in this session; a direct count over all 2,723 records gives 101 signs (3.7%) coded at the chin, matching the entry's own MinorLocation.2.0Frequency of 0.037. The post states the chin, the H1 promise rests on it, and the prompt's framing was discarded rather than built on. This is the BRIEF §0 check working as intended.",
+      "THE CENTRAL CLAIM IS MEASURED FROM A STANDARDS REGISTRY, NOT ASSERTED. \"Sign language is not one language\" is proved from ISO 639-3 itself: six code pages were fetched (ase, bfi, ins, dse, fsl, asf) and each reads Status Active, Scope Individual, Language Type Living. Indian Sign Language holds its own code `ins`, distinct from `ase` and `bfi`. That is the same standard of proof the sibling post miss-you-emoji-meaning set with Unicode's emoji-test.txt.",
+      "THE CONFUSABILITY FINDING IS COMPUTED, AND IT IS THE POST'S BEST CLAIM. ASL-LEX's Neighborhood Density 2.0 field was read for all 2,723 records: median 3, mean 5.0, maximum 50 — and 50 belongs to `miss` alone, ahead of seven signs tied at 47 (humble, promise, blood, tomato, true_business, plain, dedicate_1). Separately, 14 signs are coded handshape \"1\" at Head/Chin, and two of them — `serious` (B_01_071) and `sour` (F_03_060, SignBank gloss BITTER) — carry values identical to `miss` on every phonological field in the database, while `lonely` (B_03_078) differs only in movement. Three unrelated meanings, one coded form. That is the measured version of \"a still description is not a sign\", and nothing on the SERP carries it.",
+      "SIGNS I REFUSED TO DESCRIBE, AND WHY. (1) The ASL sign for MISS meaning \"failed to catch\" — ASL-LEX 2.0 contains no entry for that sense; the only neighbouring entry is `missing` (E_02_017) whose gloss is GONE. Since I could not source the catch sign to a named dictionary, the post does not describe it and says the two senses are unrelated using GONE instead, which IS sourced. (2) Any ISL form for \"I miss you\" — ISLRTC publishes the national dictionary as video only, with no text entry carrying phonological coding, and the dictionary's own host divyangjan.depwd.gov.in timed out on two attempts from this session. The reader is sent to ISLRTC rather than given an invented description. (3) Any BSL form description — BSL SignBank publishes video and keyword sets, not written form descriptions, so only the keyword sets are quoted. (4) Any single lexical sign meaning \"I miss you\" in any language — none of the three databases consulted lists one, and the post says so rather than inventing a construction.",
+      "CAP STATE CHANGED UNDER THE TASK PROMPT, AND LIVE CAPCHECK WAS TRUSTED. The prompt stated europepmc.org == pmc.ncbi.nlm.nih.gov and diksiyonaryo.ph were at cap 3. The live run of capcheck.mjs immediately before saving reports \"DOMAINS AT CAP 3: none\" and now lists asl-lex.org, islrtc.nic.in, iso639-3.sil.org, en.wiktionary.org, europepmc.org and pmc.ncbi.nlm.nih.gov among the cap-exempt reference instruments. Four of this post's six sources are therefore cap-exempt; bslsignbank.ucl.ac.uk appears in no other post in the batch; journals.plos.org was at 2 of 3 and this post takes the last slot. Re-run before any further PLOS citation in this batch.",
+      "CANNIBALISATION — THE HUB WAS FETCHED AND COUNTED, NOT ASSUMED. /blog/i-miss-you-in-different-languages returns HTTP 200 with ~5,549 rendered words across 50+ spoken languages, and the string \"sign language\" appears in it ZERO times. A grep of strapi-live-articles.json (905 live articles) for sign / deaf / asl in the slug returns only birthday-banner, sign-in-sheet and design-page slugs — no signed-language article exists on the site. What this post adds to the hub is the one signed entry: a language family the hub does not cover at all, with database codes, phonological parameters and the honest refusal to print what cannot be sourced. No merge is recommended and no line of the hub's table is restated.",
+      "THE THREE MANDATORY FIRST-PARTY CAVEATS APPEAR IN BODY PROSE. (1) n = 214 over the two months since the template went live on 2026-07-28, \"too short for a seasonal claim, too small for a per-city rate\" — stated in the sentence introducing the comparison table. (2) The 2,417 recorded views are page views, not unique visitors, with the twenty-reopens example — stated in the closing section. (3) The 47 city pairs come from a 15-city picker with a default and describe the picker as much as the senders; the genuinely sender-chosen fields are named in the same paragraph — also in the closing section.",
+      "SERP RUN, NOT PREDICTED — AND THE ENGINE'S OWN SYNTHESIS WAS WRONG ABOUT BSL. One WebSearch on the exact keyword on 2026-09-25 returned ten results: a jewellery retailer's \"Ultimate Guide\" post (www2.parklanejewelry.com), aslbloom.com, signingsavvy.com, lifeprint.com, lead-academy.org, handspeak.com, a Facebook group post, a Pinterest pin, pocketsign.org and signlanguage-translator.com. No AI Overview or featured snippet was returned. No university, government body, lexical database or peer-reviewed work appears anywhere on page one; asl-lex.org, bslsignbank.ucl.ac.uk and islrtc.nic.in are all absent. None was linked, cited or paraphrased. The synthesis generated from those pages gave a single ASL recipe and a single BSL recipe without ever asking which language was meant, and asserted for BSL \"place two fingers on your throat while signing miss\" — BSL SignBank's two entries for miss mean disappoint and mistake, and neither means longing. That mis-answer is the gap this post fills.",
+      "SOURCES THAT COULD NOT BE READ, RECORDED RATHER THAN HIDDEN. link.springer.com (ASL-LEX 1.0, Behavior Research Methods, doi 10.3758/s13428-016-0742-0), academic.oup.com (ASL-LEX 2.0, Journal of Deaf Studies and Deaf Education 26(2):263–277, doi 10.1093/deafed/enaa038) and degruyterbrill.com (SignGram Blueprint, doi 10.1515/9781501511806) all returned bot challenges — \"Client Challenge\", HTTP 403 and \"verify that you're not a robot\" respectively. Nothing is cited from any of them, and the ASL-LEX claims rest on the database's own public data file plus the OSF project record (osf.io/zpha4, created 2020-05-14, title confirming the 2,723-sign scope), which was fetched successfully but left out of batchMeta.sources to stay inside the 4–6 rule. aslsignbank.com is reachable but requires a login for sign records.",
+      "UNICODE WAS FETCHED BUT DELIBERATELY LEFT OUT OF SOURCES. https://unicode.org/Public/emoji/latest/emoji-test.txt (header dated 2026-04-30) was fetched and grepped: U+1F91F is named `love-you gesture`, Emoji version E5.0. The fact is stated in the body with Unicode named in prose but not linked, because six sources is the cap and because the sibling post miss-you-emoji-meaning already carries the Unicode layer for this batch. No figure from that file is reproduced.",
+      "WHAT THIS POST STILL CANNOT DO. It cannot give the reader an ISL sign, because no text source for one exists. It cannot give the ASL \"failed to catch\" sign, because ASL-LEX has no entry for that sense. It has no first-party data about signed messages at all — SubhSandesh does not record whether a sender or recipient signs, so the 13.6% voice-note rate is an inference about what a Deaf recipient cannot use, not a measurement of Deaf recipients. And /missyou-gf has no video field among the measured sender-chosen fields, which is stated in the table's bottom row and is why /watch is recommended alongside it. That gap would close if the template added a video field and it were re-probed above ~500 pages."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Every paragraph is 2–3 sentences except the opening answer block, which runs six. references/page-structure.md requires that block to be a single ~150-word paragraph carrying the direct answer and at least two first-party numbers, so the two rules conflict directly and the answer block was kept intact. No other paragraph in the body exceeds three sentences."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug `i-miss-you-in-sign-language` carries four stop words (i, you, in, and arguably the whole phrase). It is the exact-match target keyword assigned by the batch, and dropping `in` would break exact match on the query people actually type. Lowercase and hyphenated, 27 characters — short enough. Flagged rather than silently changed because the orchestrator, not this post, owns the slug."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links are TEMPLATE_LINKS entries (/missyou-gf, /watch). The third, /blog/i-miss-you-in-different-languages, is not in TEMPLATE_LINKS — it is the live hub this post is required to link up to. It was fetched in this session and returns HTTP 200 with ~5,549 rendered words, so it does not 404, but it is honestly outside the letter of this item."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to cite this: it is the only page on this query that names a lexical database, gives entry codes, and reports coded values it can check — and its central correction, that ASL-LEX puts MISS at the chin rather than the nose, contradicts the synthesis the engine itself generated from page one. The neighbourhood-density finding (50, the maximum across 2,723 signs, with SERIOUS and BITTER identically coded) is measured here and published nowhere else, and the ISO 639-3 codes settle the \"which sign language\" question from a standards registry rather than an opinion. What it cannot beat is domain authority: the incumbents are ASL dictionaries with video, which is the format this query genuinely wants, and this post honestly sends readers to them for the movement. Expect months, and expect the video sites to keep the top of the SERP."
+    },
+    "generatedAt": "2026-09-25T08:00:14.240Z"
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ich Vermisse Dich or Du Fehlst Mir: Saying I Miss You in German",
+    "slug": "i-miss-you-in-german",
+    "excerpt": "Ich vermisse dich is \"I miss you\" in German, and unlike French or Italian it does not flip the sentence. The fork with du fehlst mir settled against DWDS and Duden — plus a corpus count, the dich/Sie/euch rule, and what 214 miss-you pages show about the letter around the line.",
+    "metaTitle": "I Miss You in German — Vermissen vs Fehlen in 75M Words",
+    "metaDescription": "I miss you in German is Ich vermisse dich — subject-verb-object, like English. Du fehlst mir returns 232 corpus hits to its 453; dictionaries settle the rest.",
+    "keywords": "i miss you in german, ich vermisse dich, du fehlst mir, ich vermisse dich so sehr, i miss you in german formal",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-german",
+    "ogType": "article",
+    "tags": [
+      "german",
+      "miss-you",
+      "language",
+      "long-distance",
+      "translation"
+    ],
+    "keyTakeaways": [
+      "Ich vermisse dich is subject-verb-object exactly as in English — ich nominative, dich accusative — so German is the one major European language here that asks you to re-map nothing.",
+      "Du fehlst mir does invert, and it is not the \"warmer\" or \"more common\" one: DWDS and Duden both define fehlen's person-sense using vermissen, never the reverse.",
+      "Counted over 75,520,701 words of German film dialogue, ich vermisse dich returns 453 hits against 232 for du fehlst mir — 410 to 223 on the exact present-tense string.",
+      "Send Ich vermisse Sie to anyone you address as Sie; the corpus holds only 9 capital-Sie uses against 410 du forms, because film dialogue is almost all between intimates.",
+      "43.5% of miss-you senders password-protect the page before sharing it, 93 of 214, against 38.5% platform-wide — and recipients tapped a hug 1,434 times across 138 of those pages."
+    ],
+    "faqs": [
+      {
+        "question": "How do you pronounce \"Ich vermisse dich\"?",
+        "answer": "Roughly ikh fair-MISS-uh dikh. Duden marks the stress on the second syllable of vermissen, and both instances of -ch here are the soft front ch, closer to the h in \"huge\" than to a k."
+      },
+      {
+        "question": "Is it \"Ich vermisse dich\" or \"Ich vermisse dir\"?",
+        "answer": "Always dich. DWDS lists vermissen with an accusative object (mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen), and dir is dative. Ich vermisse dir is simply ungrammatical."
+      },
+      {
+        "question": "What does \"Du fehlst mir\" literally mean in English?",
+        "answer": "\"You are missing, to me.\" Du is the nominative subject and mir a dative experiencer, so the person missed is the grammatical subject. DWDS glosses this sense of fehlen as sehr vermisst, entbehrt werden — to be greatly missed."
+      },
+      {
+        "question": "Can I say \"Du fehlst mich\"?",
+        "answer": "No. Fehlen takes a dative, never an accusative, so it is du fehlst mir. This is the single most common mistake English speakers make with the construction, because English has no case ending to warn them."
+      },
+      {
+        "question": "How do I say \"I miss you\" to my German boss?",
+        "answer": "Ich vermisse Sie, with a capital S mid-sentence. Sie is the formal address and you keep it for anyone you do not already call du. Sending the du form upward reads as presumptuous rather than warm."
+      },
+      {
+        "question": "How do I say \"I miss you\" to more than one person?",
+        "answer": "Ich vermisse euch, where euch is the accusative of the plural ihr — for a family, a group of friends or a team. It is attested as Tatoeba sentence 385357 and turns up 35 times in the DWDS subtitle corpus."
+      },
+      {
+        "question": "How do I say \"I missed you\" about the past?",
+        "answer": "Ich habe dich vermisst, the perfect tense, which is what Germans actually use in speech rather than the simple past. It returns 297 hits in the DWDS subtitle corpus, against 105 for the fehlen equivalent du hast mir gefehlt."
+      },
+      {
+        "question": "How do I say \"I miss you so much\" in German?",
+        "answer": "Ich vermisse dich so sehr, or Ich vermisse dich sehr for the plainer version. The plain one is attested as Tatoeba sentence 607221; the so sehr version has no Tatoeba sentence but 25 occurrences in the subtitle corpus."
+      },
+      {
+        "question": "Does \"Du fehlst\" on its own mean \"I miss you\"?",
+        "answer": "No, and this is worth knowing. Without the dative, DWDS gives fehlen the sense abwesend sein — to be absent, as in er hat zwei Tage unentschuldigt gefehlt. Du fehlst alone says you were marked absent."
+      },
+      {
+        "question": "Do I need a German keyboard to type these lines?",
+        "answer": "No. Neither Ich vermisse dich nor Du fehlst mir contains an umlaut or an ß, so an ordinary English keyboard types both exactly. You only need the special characters for words like Nähe or müssen."
+      },
+      {
+        "question": "How do I reply when someone writes \"Ich vermisse dich\"?",
+        "answer": "Ich vermisse dich auch — \"I miss you too\" — which returns 80 hits in the DWDS subtitle corpus. If they wrote the other construction, mirror it back as Du fehlst mir auch, which returns 32."
+      }
+    ],
+    "coverImageQuery": "handwritten german letter desk window light",
+    "coverImagePrompt": "A close, warm photograph of a handwritten letter on a pale wooden desk, the words \"Ich vermisse dich\" visible in ink near the top, a phone face-down beside it and low afternoon light from a window. Shallow depth of field, muted greys and warm paper tones, clean negative space across the upper third for a title overlay, 16:9. No text other than the handwritten German and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ich Vermisse Dich or Du Fehlst Mir: Saying I Miss You in German\n\nTo say **i miss you in German**, write **Ich vermisse dich**. An English speaker can build it word for word — *ich* nominative, *vermissen* the verb, *dich* accusative object, in that order. The second construction, **Du fehlst mir**, does invert: \"you are missing to me\". Which is more common is asserted on every page about this and counted on none, so this one counted: across 75,520,701 words of German film dialogue in the [DWDS Filmuntertitel corpus](https://www.dwds.de/d/korpora/untertitel), *ich vermisse dich* returns 453 hits to 232 for *du fehlst mir*. Below: what Germany's reference dictionaries say about the pair, the *dich* / *Sie* / *euch* decision that can genuinely offend, and what 214 \"I miss you\" pages built on SubhSandesh since 2026-07-28 show about the letter around the line — a median of 88 words, 43.5% locked behind a password.\n\n## What \"Ich vermisse dich\" literally says\n\n*Vermissen* is a weak transitive verb taking an accusative object. [DWDS](https://www.dwds.de/wb/vermissen) gives its principal parts as *vermisst, vermisste, hat vermisst* and defines its first sense as being aware with regret that someone is no longer near you, and feeling it as a personal lack.\n\nIts collocation block is the useful part: **mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen.** The objects German corpora attach to this verb are people.\n\n*Dich* is the accusative of *du*, so the shape is identical to English: I — miss — you. French *tu me manques* and Italian *mi manchi* swap the roles, and Spanish offers three constructions; sibling posts cover those. German asks you to re-map nothing, and Pfeifer's etymology on that same DWDS page explains why: *missen* and English *to miss* descend from one Germanic root.\n\nOne trap. In the passive, *vermisst* is the missing-persons word: DWDS lists *Besatzungsmitglieder, Passagiere, Bergleute werden vermisst*, crew and miners *reported missing*. *Ich vermisse dich* is affectionate; *Du wirst vermisst* is a police notice.\n\n## Du fehlst mir, and what the dictionaries say about it\n\n*Fehlen* is the second construction and it genuinely inverts: *du* is nominative, the one missing, and *mir* a dative experiencer. *Du fehlst mich* is the commonest error; the verb never takes an accusative.\n\nNow the part no page on this subject prints. [DWDS defines the person-sense of *fehlen*](https://www.dwds.de/wb/fehlen) — sense 1b, ⟨jmd. fehlt jmdm.⟩ — as **sehr vermisst, entbehrt werden**, \"to be greatly missed\": it defines *fehlen* using *vermissen*. [Duden does the same](https://www.duden.de/rechtschreibung/fehlen), glossing its fourth sense *[sehnlich] herbeigewünscht, vermisst werden*.\n\nNeither defines *vermissen* in terms of *fehlen*. The direction runs one way, making *vermissen* the primitive and this sense of *fehlen* the derived one — and both glosses smuggle in an intensifier, *sehr* and *sehnlich*. What the dictionaries encode is strength, not warmth.\n\nDWDS then prints, as its illustrative quotation for that sense, a line from a 2022 collection of text-message phrases: *\"Ich vermisse dich, du fehlst mir, komm bitte zurück.\"* Both constructions, one sentence, *vermissen* first — Germans use them together, not as rivals.\n\nGerman dative-experiencer verbs are also less rigid than the textbook suggests. Somers, Jenset and Barðdal's 2024 study in *Lingua*, on 200 corpus tokens for each of fourteen alternating verbs, found that apparent dative-first verbs such as *gefallen* run nominative-first 58% of the time. *Fehlen* is not in their set, so that describes the class rather than this sentence — but it is why the \"inverted\" line still starts with *du*.\n\nThe trap with *fehlen* is what it does without the dative. DWDS sense 2a, ⟨jmd. fehlt⟩, is simply *abwesend sein* — *er hat zwei Tage unentschuldigt gefehlt*. **Du fehlst mir** is tender; **Du fehlst** alone means you were marked absent.\n\n## Is \"du fehlst mir\" really more common? 75 million words say no\n\nThat *du fehlst mir* is both more common and warmer is repeated on every page ranking for this phrase. Half of it is testable.\n\nThe DWDS Filmuntertitel corpus is built from the German side of opensubtitles.org: 11,993 documents, 75,520,701 tokens, all classified as spoken register. It is the closest publicly countable thing to a transcript of German talk.\n\nCounted there, *ich vermisse dich* returns 453 hits and *du fehlst mir* 232; restricted to the exact present-tense string, 410 to 223. The gap survives every variation tested: 297 for *ich habe dich vermisst* to 105 for *du hast mir gefehlt*, and 80 for the reply *ich vermisse dich auch* to 32 for *du fehlst mir auch*. DWDS's 107-million-token blog collection agrees at 25 to 12.\n\nWhere the count goes the other way it is too small to mean anything: 3 to 6 in the 20th-century DWDS-Kernkorpus, 3 to 9 in the historical Deutsches Textarchiv. Literary German may well have preferred *fehlen*; six hits cannot establish it.\n\nThree limits, stated rather than buried. Subtitle dialogue over-represents intimacy, so it shows which form dominates *this kind of sentence*, not German as a whole. \"Warmer\" is not a countable property at all, so this page drops that half of the claim rather than restating it. And lemma counts do not help: *fehlen* has 7,740,436 hits to *vermissen*'s 1,172,332 across DWDS's 53.4-billion-token set, but *fehlen* mostly means \"to be lacking\", as in *es fehlt an Geld*.\n\n| German line | What it literally says | Hits in 75.5M words | Fit on a miss-you page |\n|---|---|---|---|\n| Ich vermisse dich | I miss you | 410 | Headline line; 86.4% of 214 pages carry a memory |\n| Du fehlst mir | You are missing to me | 223 | Opens a letter; median 88 words |\n| Ich habe dich vermisst | I have missed you | 297 | A reunion; 28.0% set a reunion date |\n| Ich vermisse dich so sehr | I miss you so much | 25 | A voice note; 13.6% record one |\n| Ich vermisse Sie | I miss you, formal | 9 | Rarely right here |\n\nRead the last row twice: nine against 410. Film dialogue is overwhelmingly between intimates, which tells you about the corpus, not your inbox.\n\n## dich, Sie or euch — the choice that can actually offend\n\nGerman makes you declare the relationship in the pronoun. There is no neutral option, and sending a *du* form upward is a social error, not a stylistic one.\n\n### Ich vermisse dich — informal, one person\n\nFor a partner, a sibling, a close friend, anyone you already address as *du*. Attested on [Tatoeba as sentence 110](https://tatoeba.org/en/sentences/show/110), translated \"I miss you\" and \"I pine for you\". This is the form with 410 corpus hits.\n\n### Ich vermisse Sie — formal, one person or several\n\nCapital *Sie* mid-sentence is the formal address: a manager, a teacher, a partner's parents who have not offered *du*. Attested as Tatoeba sentence 385356. If you use *Sie* elsewhere, do not drop it here because it feels warmer; it reads as presumption.\n\n### Ich vermisse euch — informal, more than one person\n\n*Euch* is the accusative of *ihr*, the plural *du*: a family, a group of friends, a team. Attested as Tatoeba sentence 385357, with 35 subtitle-corpus occurrences. The *fehlen* counterparts, *Sie fehlen mir* and *Ihr fehlt mir*, have no exact Tatoeba sentence, so they are named rather than recommended.\n\n## What people search, what is attested, and what hijacks the phrase\n\n*Ich vermisse dich sehr* is the safe strengthener: Tatoeba sentence 607221, carrying six English translations from \"very much\" to \"dearly\", and matching Duden's own example *den Freund sehr vermissen*. *Du fehlst mir sehr* is sentence 527924.\n\n*Ich vermisse dich so sehr* has no exact Tatoeba sentence but 25 subtitle-corpus occurrences, so the corpus stands behind it here. *Du fehlst mir so sehr* has nine, as does *ich vermisse dich jetzt schon*.\n\nThree lines drafted for this page were cut for returning **zero hits in 75.5 million words**: *ich vermisse dich schmerzlich*, *du gehst mir ab* and *mir fehlt deine Nähe*. DWDS's thesaurus panel already marks *schmerzlich vermissen* elevated and formulaic; the corpus confirms nobody says it to a person.\n\nExpect one complication if you search the German phrase rather than the English: it is also a television title. German Wikipedia carries an article named exactly [*Ich vermisse dich*](https://de.wikipedia.org/wiki/Ich_vermisse_dich) — the Netflix series from Harlan Coben's *Missing You*, released 1 January 2025 under that German title. For the one-line version in fifty-odd other languages, [our hub on saying I miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages) carries the table; this page is the depth under its German row.\n\n## What the page around the line does, and the limits of that data\n\nAcross 214 pages created on the [miss-you page for a partner](https://subhsandesh.in/missyou-gf) since that template went live on 2026-07-28, the median letter runs 88 words and the longest 1,024. Eighty-eight words is one screen: the German line, one memory, one sentence about when you next meet.\n\nThe number worth knowing before you write is the privacy one. 43.5% of miss-you senders password-protect the page before sharing — 93 of 214, against 38.5% platform-wide, the most private segment measured here. Recipients tapped a hug 1,434 times across 138 of the 214 pages, 512 on one page: a return signal a chat message never produces.\n\nThree limits, plainly. The 47 city pairs these pages name, Berlin–London included, come from a **15-city picker with defaults** — not sender choices, so nothing about geography follows. The 2,417 recorded views are **page views, not unique visitors**: one recipient reopening a page twenty times counts twenty times. And n = 214 over two months supports no seasonal claim.\n\n## When a German line is the wrong thing to send\n\nIf the person reads English comfortably and your German stops at this sentence, send the German line with an English letter under it. A whole phrasebook message compounds register errors, and the *Sie* / *du* slip is the one nobody will tell you about.\n\nIf what you are missing is daily rather than dramatic, this template is not the best fit either. *Fehlen* means something closer to \"not sufficiently present\", and one big page answers a different feeling. [Streak](https://subhsandesh.in/streak) — one tap a day each, every check-in keeping a word, a diary after a hundred days neither of you meant to write — suits the everyday version better.\n\nAnd if you are in the same city this week, say it out loud. Nothing sent over a link competes with four syllables in person.\n\n## Sources\n\n- [DWDS — *vermissen*](https://www.dwds.de/wb/vermissen), Digitales Wörterbuch der deutschen Sprache\n- [DWDS — *fehlen*](https://www.dwds.de/wb/fehlen), Digitales Wörterbuch der deutschen Sprache\n- [Duden — *fehlen*](https://www.duden.de/rechtschreibung/fehlen), Bibliographisches Institut\n- [DWDS Filmuntertitel corpus](https://www.dwds.de/d/korpora/untertitel) — 11,993 documents, 75,520,701 tokens\n- Somers, Jenset & Barðdal (2024), [\"Subjecthood and argument structure of synonymous Dat-Nom/Nom-Dat verbs\"](https://biblio.ugent.be/publication/01J96HWNJ856GF7QG8BT799BEV), *Lingua* 247:103833\n- [Tatoeba — *Ich vermisse dich.*, sentence 110](https://tatoeba.org/en/sentences/show/110), CC BY 2.0 FR\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-german#pronoun-forms",
+        "name": "Which German \"I miss you\" to send, by pronoun",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Ich vermisse dich — informal, one person",
+            "description": "For a partner, sibling or close friend you already address as du. Attested as Tatoeba sentence 110 and the form with 410 hits in the DWDS subtitle corpus."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Ich vermisse Sie — formal, one person or several",
+            "description": "Capital Sie mid-sentence is the formal address, for a manager, a teacher or a partner's parents who have not offered du. Attested as Tatoeba sentence 385356; 9 occurrences in the corpus."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ich vermisse euch — informal, more than one person",
+            "description": "Euch is the accusative of plural ihr, for a family, a group of friends or a team. Attested as Tatoeba sentence 385357; 35 occurrences in the corpus."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-german#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "German grammar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/German_grammar",
+              "https://www.wikidata.org/wiki/Q524124"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "German language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/German_language",
+              "https://www.wikidata.org/wiki/Q188"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Accusative case",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Accusative_case",
+              "https://www.wikidata.org/wiki/Q146078"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Dative case",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dative_case",
+              "https://www.wikidata.org/wiki/Q145599"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "T–V distinction",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/T%E2%80%93V_distinction",
+              "https://www.wikidata.org/wiki/Q1124935"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Digitales Wörterbuch der deutschen Sprache",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Digitales_W%C3%B6rterbuch_der_deutschen_Sprache",
+              "https://www.wikidata.org/wiki/Q1225026"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Duden",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Duden",
+              "https://www.wikidata.org/wiki/Q511823"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ich vermisse dich (Missing You, 2025 television series)",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Ich_vermisse_dich",
+              "https://www.wikidata.org/wiki/Q124795248"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS — vermissen",
+            "url": "https://www.dwds.de/wb/vermissen",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Berlin-Brandenburgische Akademie der Wissenschaften"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS — fehlen",
+            "url": "https://www.dwds.de/wb/fehlen",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Berlin-Brandenburgische Akademie der Wissenschaften"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Duden — fehlen",
+            "url": "https://www.duden.de/rechtschreibung/fehlen",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bibliographisches Institut"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS Filmuntertitel corpus",
+            "url": "https://www.dwds.de/d/korpora/untertitel",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Berlin-Brandenburgische Akademie der Wissenschaften"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Subjecthood and argument structure of synonymous Dat-Nom/Nom-Dat verbs across German and Icelandic",
+            "url": "https://biblio.ugent.be/publication/01J96HWNJ856GF7QG8BT799BEV",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Elsevier / Ghent University"
+            },
+            "datePublished": "2024-10-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 110 — Ich vermisse dich.",
+            "url": "https://tatoeba.org/en/sentences/show/110",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-german#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do you pronounce \"Ich vermisse dich\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Roughly ikh fair-MISS-uh dikh. Duden marks the stress on the second syllable of vermissen, and both instances of -ch here are the soft front ch, closer to the h in \"huge\" than to a k."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is it \"Ich vermisse dich\" or \"Ich vermisse dir\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Always dich. DWDS lists vermissen with an accusative object (mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen), and dir is dative. Ich vermisse dir is simply ungrammatical."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does \"Du fehlst mir\" literally mean in English?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "\"You are missing, to me.\" Du is the nominative subject and mir a dative experiencer, so the person missed is the grammatical subject. DWDS glosses this sense of fehlen as sehr vermisst, entbehrt werden — to be greatly missed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I say \"Du fehlst mich\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Fehlen takes a dative, never an accusative, so it is du fehlst mir. This is the single most common mistake English speakers make with the construction, because English has no case ending to warn them."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say \"I miss you\" to my German boss?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ich vermisse Sie, with a capital S mid-sentence. Sie is the formal address and you keep it for anyone you do not already call du. Sending the du form upward reads as presumptuous rather than warm."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say \"I miss you\" to more than one person?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ich vermisse euch, where euch is the accusative of the plural ihr — for a family, a group of friends or a team. It is attested as Tatoeba sentence 385357 and turns up 35 times in the DWDS subtitle corpus."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say \"I missed you\" about the past?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ich habe dich vermisst, the perfect tense, which is what Germans actually use in speech rather than the simple past. It returns 297 hits in the DWDS subtitle corpus, against 105 for the fehlen equivalent du hast mir gefehlt."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say \"I miss you so much\" in German?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ich vermisse dich so sehr, or Ich vermisse dich sehr for the plainer version. The plain one is attested as Tatoeba sentence 607221; the so sehr version has no Tatoeba sentence but 25 occurrences in the subtitle corpus."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does \"Du fehlst\" on its own mean \"I miss you\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, and this is worth knowing. Without the dative, DWDS gives fehlen the sense abwesend sein — to be absent, as in er hat zwei Tage unentschuldigt gefehlt. Du fehlst alone says you were marked absent."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a German keyboard to type these lines?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Neither Ich vermisse dich nor Du fehlst mir contains an umlaut or an ß, so an ordinary English keyboard types both exactly. You only need the special characters for words like Nähe or müssen."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I reply when someone writes \"Ich vermisse dich\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ich vermisse dich auch — \"I miss you too\" — which returns 80 hits in the DWDS subtitle corpus. If they wrote the other construction, mirror it back as Du fehlst mir auch, which returns 32."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in german",
+    "angle": "Wins by being the only post on this SERP that settles ich vermisse dich vs du fehlst mir with evidence — DWDS and Duden both define fehlen's person-sense using vermissen, and 75,520,701 words of DWDS subtitle dialogue return 453 hits to 232 — then pairs the dich/Sie/euch rule with recipient-side data from 214 /missyou-gf pages.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dwds.de/wb/vermissen",
+        "stat": "vermissen is listed as Verb · vermisst, vermisste, hat vermisst; sense 1 ⟨jmd. vermisst jmdn., etw.⟩ with the collocation block \"mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen\"; sense 2 carries the passive collocates \"Besatzungsmitglieder, Passagiere, Bewohner, Bergleute werden vermisst\". Pfeifer's etymology on the same page derives missen and English \"to miss\" from Germanic *missjan, and vermissen from Old High German firmissen (9th c.). The openThesaurus panel marks \"schmerzlich vermissen\" geh. and floskelhaft."
+      },
+      {
+        "url": "https://www.dwds.de/wb/fehlen",
+        "stat": "fehlen sense 1b ⟨jmd. fehlt jmdm.⟩ is glossed \"sehr vermisst, entbehrt werden\" — the person-sense of fehlen defined using vermissen — and the entry's illustrative quotation is \"Ich vermisse dich, du fehlst mir, komm bitte zurück, lass mich hier nicht alleine\" (SMS Sprüche, 13.06.2022). Sense 2a ⟨jmd. fehlt⟩ is \"abwesend sein\", with the example \"er hat zwei Tage unentschuldigt gefehlt\"."
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/fehlen",
+        "stat": "Duden gives fehlen as a schwaches Verb and glosses its fourth sense \"[sehnlich] herbeigewünscht, vermisst werden\", example \"du wirst/deine Hilfe wird mir sehr fehlen\" — so Duden also defines the person-sense of fehlen using vermisst. Its third sense is \"(von Menschen) … abwesend sein\", example \"die Kinder haben schon öfter unentschuldigt gefehlt\"."
+      },
+      {
+        "url": "https://www.dwds.de/d/korpora/untertitel",
+        "stat": "The DWDS Filmuntertitel corpus is built from the German-language part of opensubtitles.org and holds 11 993 documents, 9 758 785 sentences and 75 520 701 tokens. Counted over it through DWDS's public DDC endpoint, \"ich vermisse dich\" returns 453 hits against 232 for \"du fehlst mir\" (410 to 223 restricted to the exact present-tense surface string); 297 to 105 in the perfect; 80 to 32 for the \"auch\" reply; and 0 hits for \"ich vermisse dich schmerzlich\", \"du gehst mir ab\" and \"mir fehlt deine Nähe\"."
+      },
+      {
+        "url": "https://biblio.ugent.be/publication/01J96HWNJ856GF7QG8BT799BEV",
+        "stat": "A set of 15 German verbs licensing a dative and a nominative argument was compared with 15 Icelandic ones, 200 corpus tokens per verb for the 14 alternating verbs (2,800 tokens). Apparent Dat-Nom verbs in German such as gefallen are in fact alternating Dat-Nom/Nom-Dat verbs; in the double-NP configuration the gefallen class occurs nominative-first 58% of the time and dative-first 42%. fehlen is not in the verb set.",
+        "publishedDate": "2024-10-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/110",
+        "stat": "The German sentence \"Ich vermisse dich.\" carries nine English translations in the corpus, including \"I miss you.\", \"I pine for you.\" and \"I long for you.\" The sibling sentences verified by exact match are 540957 (Du fehlst mir.), 385356 (Ich vermisse Sie.), 385357 (Ich vermisse euch.), 607221 (Ich vermisse dich sehr.), 527924 (Du fehlst mir sehr.) and 11081429 (Ich habe dich vermisst.); no exact sentence exists for \"Ich vermisse dich so sehr.\", \"Du fehlst mir so sehr.\", \"Ihr fehlt mir.\" or \"Sie fehlen mir.\""
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences because references/page-structure.md prescribes answer + two-to-four numbers + a scope sentence inside one extractable block. Every other paragraph in the body is two or three sentences. The two rules conflict and the answer-paragraph rule wins."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop words \"i\" and \"in\" because it is the exact target keyword and matches the naming of the other translation spokes under the live hub. Structural: it closes only by giving up exact-match with the query."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links (/missyou-gf, /streak) are from TEMPLATE_LINKS. The third, /blog/i-miss-you-in-different-languages, is a live Strapi article (id 1360, verified 2026-09-25) that BRIEF §2 requires every translation spoke to link up to. TEMPLATE_LINKS lists templates only, so a hub link can never satisfy this item as written."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Both substantial ranking pages open on the same two constructions in the same order (Ich vermisse dich, then Du fehlst mir), and so does this one. That ordering is a fact about German — there are two constructions and one is the default — but the item asks about structure and the opening structure matches. Everything after it differs: neither page carries a table, FAQ markup, a dictionary citation, a corpus count, or a register rule. Structural: it closes only by not covering the two constructions, which is table stakes."
+        },
+        {
+          "item": "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+          "why": "Zero generic context statistics are used, so the item is satisfied in substance. It is recorded here rather than in passed because \"at most 1\" was read as presupposing one, and reporting a vacuous pass would overstate the source work. No PIB, TRAI, Census or MEA figure appears anywhere in the post."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that cites a dictionary or counts a corpus, and both yield claims no competitor states: DWDS and Duden define fehlen's person-sense using vermissen and never the reverse, and ich vermisse dich outnumbers du fehlst mir 453 to 232 across 75.5 million words of German dialogue — which falsifies the \"more common\" half of the claim every competing page repeats, while the \"warmer\" half is dropped as untestable rather than restated. Add the dich/Sie/euch send-to rule, three lines cut for zero corpus hits, and recipient-side data nobody else measures, and there are four separate reasons to cite it. What it cannot overcome: fluentu.com and lingoda.com are established language-learning domains with years of topical links, while subhsandesh.in is a gifting site with no German-language authority, so an answer engine may cite this for the corpus point while Google still ranks them above it. Ranking, if it happens, takes months."
+    },
+    "structuralLimitations": [
+      "BRIEF §0 CORRECTION (raised mid-task by the orchestrator, and re-checked here) — the prompt said \"a Harlan Coben Netflix series localised as Ich vermisse dich also contaminates the German head term\". The orchestrator later flagged that a sibling agent had falsified the equivalent French claim and asked me not to assert a localised title on its say-so. I verified the German case independently through the MediaWiki and Wikidata APIs before printing anything: de.wikipedia carries an article titled exactly \"Ich vermisse dich\" with no redirect, its Wikidata item is Q124795248, its opening line reads \"Ich vermisse dich (Originaltitel: Missing You) ist eine Fernsehserie, die auf dem gleichnamigen Buch von Harlan Coben beruht … am 1. Januar 2025 auf Netflix veröffentlicht\", and Q124795248's German label is \"Ich vermisse dich\" with the enwiki sitelink \"Missing You (2025 TV series)\". So the claim holds for German, and the post states it with the German Wikipedia article as the link. The French sibling's finding does not transfer: it concerns a French article that does not exist and Q67960905, a 2019 Bolivian film, neither of which bears on the German title.",
+      "BRIEF §1 COMPLIANCE — what I did NOT claim. The prompt's SERP context was for the German-language sibling query `ich vermisse dich sprüche`, not for `ich vermisse dich`. I never ran a German-market SERP, so the first draft's line that the series \"now occupies much of that result page\" was cut and replaced with the entity fact alone. The post makes no claim about what ranks on any German-language SERP.",
+      "PROMPT CLAIM TESTED AND FALSIFIED IN PART — the prompt asked me to test rather than assert that du fehlst mir is \"warmer\" or \"more common\" than ich vermisse dich, and said DWDS corpus data could answer it. It can, with one correction to the method. DWDS's public frequency API explicitly refuses multi-word expressions (\"Für Mehrwortausdrücke … ist diese Angabe nicht verfügbar\"), so lemma frequency is the only thing it returns: fehlen 7,740,436 hits to vermissen's 1,172,332 over 53,362,074,529 tokens. That number is worthless here, because fehlen's dominant senses are shortage and absence. The answerable route is DWDS's public DDC/dstar corpus endpoint, and it gives the opposite of the folklore: ich vermisse dich 453 to du fehlst mir 232 in the 75.5M-token Filmuntertitel corpus, 25 to 12 in the 107M-token blogs corpus. The \"more common\" claim is false in every contemporary corpus large enough to test it. The \"warmer\" claim is not testable by counting at all and was dropped rather than repeated.",
+      "WHERE THE EVIDENCE GOES THE OTHER WAY, AND WHY IT IS NOT USED TO CLAIM ANYTHING — in the DWDS-Kernkorpus (20th century) the counts are 3 to 6, in Kernkorpus 21 2 to 3, and in the Deutsches Textarchiv 3 to 9, all favouring du fehlst mir. Single digits support no claim in either direction, and the post says so instead of quietly reporting only the corpora that agree with it.",
+      "METHOD NOTE ON THE COUNTS — a DDC quoted string is case-insensitive and expands inflection, so \"ich vermisse dich\" also returns Ich vermisste dich and Ich vermiss dich. Every figure printed as a form count was re-derived from the returned KWIC surface strings, not from the raw hit total; that is where 410 (present-tense exact) against the 453 raw total comes from. The same re-derivation separated capital Sie (9, formal address) from lowercase sie (114, her/them) inside the 129 raw hits for \"ich vermisse sie\", which a raw count would have conflated.",
+      "LINE CUT 1 — ich vermisse dich schmerzlich. Zero hits in 75,520,701 words, and DWDS's own openThesaurus panel marks schmerzlich vermissen \"geh.\" and \"floskelhaft\" (elevated, formulaic). Cut as a line to send; kept in the body only as an example of a cut.",
+      "LINE CUT 2 — du gehst mir ab, the Austrian/Bavarian variant. Zero hits in the subtitle corpus and no entry fetched from DWDS or Duden to stand behind it. Cut rather than printed on a competitor's authority.",
+      "LINE CUT 3 — mir fehlt deine Nähe (\"I miss your closeness\"). Zero hits. Cut.",
+      "LINE CUT 4 — Sie fehlen mir and Ihr fehlt mir, the fehlen counterparts of the formal and plural forms. No exact Tatoeba sentence for either, and the quoted-string corpus counts for them are unusable because DDC conflates the ihr/sie lemma (both queries return the identical 69-hit set). They are named in the body as existing, never recommended as lines to send.",
+      "LINE CUT 5 — ich vermiss dich voll, the colloquial intensifier. The bare ich vermiss dich is attested (31 occurrences), but the voll variant was not verified against any fetched source, so the whole line was cut rather than assembled from an attested half.",
+      "LINE CUT 6 — an IPA transcription for vermissen. DWDS's pronunciation field on that entry returns an error and prints no IPA, so the FAQ gives Duden's stress marking (verm-I-ssen) and a plain-English approximation instead of an IPA string I would have had to invent. DWDS does print [ˈfeːlən] for fehlen, which is why only that verb could have carried one.",
+      "LINE CUT 7 — the claim that ich vermisse dich so sehr is \"standard\". It has no exact Tatoeba sentence, only 25 subtitle-corpus occurrences, and the post says which source stands behind it rather than implying both do.",
+      "LINE CUT 8 — a sentence contrasting German with French, Italian and Spanish at length. Cut to one clause on the BRIEF's instruction not to re-explain sibling posts' grammar; the contrast survives as a single sentence naming tu me manques and mi manchi without analysing them.",
+      "WHAT THIS DOES THAT THE HUB DOES NOT — the live hub /blog/i-miss-you-in-different-languages (Strapi id 1360) gives German exactly one line: \"German: Ich vermisse dich (ikh fer-MIS-uh dikh)\". It never mentions du fehlst mir, carries no register information, and cites nothing. Its table is not restated here. This page adds the second construction, both dictionary entries, the corpus count, the dich/Sie/euch rule, the fehlen-without-dative trap, the vermisst missing-persons trap, and the first-party channel data — German-specific depth a fifty-language table cannot carry.",
+      "CANNIBALISATION — of the 1,200 live slugs pulled from Strapi on 2026-09-25, zero contain \"german\" or \"deutsch\", and none of the 81 live \"miss\" slugs is a translation spoke for any European language (the live spokes are Hindi, Marathi, Tamil, Telugu, Kannada, Malayalam, Bengali, Punjabi, Gujarati and Urdu). On the BRIEF's three-axis test this differs on the language axis from every one of them. No merge recommended.",
+      "SOURCE CAPS — capcheck.mjs was re-run immediately before saving, per the BRIEF's warning that the first four posts ran against a broken version. Its current output shows no domain and no URL at cap for anything used here: dwds.de, duden.de and biblio.ugent.be are each new to this batch at 1 post, and tatoeba.org is in capExemptDomains. The near-cap domains it named (doi.org, europepmc.org, journals.plos.org, edizionicafoscari.it, diksiyonaryo.ph) are not used. All six sibling posts' sources arrays were read directly to confirm no overlap.",
+      "CAP-EXEMPT DOMAIN USED — tatoeba.org, listed in verify.config.json capExemptDomains. It was fetched, not assumed: every sentence cited was confirmed by exact-match query against the api_v0 search endpoint with from=deu&to=eng, and the four sentences that returned no exact match are recorded above as cuts rather than silently omitted.",
+      "PEER-REVIEWED SOURCE, AND ITS HONEST LIMIT — Somers, Jenset & Barðdal (2024) in Lingua was fetched in full as the green open-access copy from Ghent University and read, not cited from an abstract. Its German verb set is dünken, gefallen, grauen, leidtun, zufallen, entgehen, genügen, geziemen, nützen and reichen. fehlen is not among them, so the paper is cited for what German dative-experiencer verbs do as a class and the post says so in the same sentence. findpapers.mjs was run on all three suggested queries; the closest German-specific alternative (Proost, \"The argument structure of psych-verbs\", IDS Mannheim, doi:10.1515/9783110457155-002) is green OA but its repository served an anti-bot challenge, and an unreadable source is not a citable one.",
+      "SERP LIMIT — five of the nine results were fetchable and were parsed programmatically for headings, table count, FAQPage markup and any occurrence of dwds.de, duden.de or \"corpus\": fluentu.com (2,166 words), lingoda.com (1,817), memrise.com (674), deutschgym.com (250), learnwitholiver.com (131). None carries a table, FAQ markup, a dictionary citation or a corpus count. Pinterest, Quora and the DeepL permalink were not analysed. No competing page is linked, cited or paraphrased anywhere in the post.",
+      "FIRST-PARTY LIMIT — /missyou-gf letter text is free input and is not language-tagged, so the platform cannot say how many of the 214 senders wrote any German at all. The table's fourth column is therefore about the channel and the page's own fields, never about which German line anyone used, and the body does not imply otherwise.",
+      "TEMPLATE CHOICE — /missyou-gf is batch-mandatory and is also where the first-party data comes from. The alternative is /streak, chosen on merit rather than availability: fehlen's core sense is \"not sufficiently present\", a daily low-grade absence, and /streak is the only template in oneOfLinks built for a repeated rather than a one-shot message. /dedication (already in four posts) and /catch (two) were passed over as over-used in this batch and less apt for this reader."
+    ],
+    "generatedAt": "2026-09-25T07:23:28.831Z"
+  }
+}

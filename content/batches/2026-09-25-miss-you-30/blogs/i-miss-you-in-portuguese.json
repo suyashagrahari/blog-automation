@@ -1,0 +1,370 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Portuguese: The Feeling Is a Noun You Carry",
+    "slug": "i-miss-you-in-portuguese",
+    "excerpt": "Tenho saudades tuas and estou com saudades de você both say \"I have longings of you\" — Portuguese answers this with a noun, not a verb. Every line is graded against Priberam and the Michaelis, the saudade-or-saudades question is settled, and the untranslatability claim is tested and refused.",
+    "metaTitle": "I Miss You in Portuguese — Saudade Is a Noun You Possess",
+    "metaDescription": "I miss you in Portuguese is tenho saudades tuas or estou com saudades de você. All 5 lines checked against Priberam and the Michaelis, plus 214 measured pages.",
+    "keywords": "i miss you in portuguese, tenho saudades tuas, estou com saudades de voce, sinto sua falta, saudade or saudades, how to say i miss you in portuguese",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-portuguese",
+    "ogType": "article",
+    "tags": [
+      "portuguese",
+      "miss-you",
+      "long-distance",
+      "translation",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Portuguese answers \"I miss you\" with a noun: tenho saudades tuas (Portugal) and estou com saudades de você (Brazil) both literally say \"I have longings of you\".",
+      "Saudade and saudades are interchangeable for missing a person — Wiktionary says the plural is used \"with no change in meaning\" — but only the plural doubles as a greeting.",
+      "Sinto sua falta is ambiguous: sua is the third-person possessive, so Tatoeba sentence 393677 is translated both \"I miss you badly\" and \"I miss her so much\".",
+      "Saudade is not untranslatable. Priberam translates it into three languages, English borrowed it, and the Porto Saudade Scale (2021) measures it as a single latent factor.",
+      "Across 214 miss-you pages measured on 2026-09-25 the median letter is 88 words and 43.5% of senders password-protect the page, against 38.5% platform-wide."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say I miss you in Brazilian Portuguese?",
+        "answer": "Estou com saudades de você, or sinto sua falta in ordinary speech. Both are attested in the Tatoeba Portuguese-English corpus as \"I miss you\" (sentences 893304 and 347660). Brazilians use você rather than tu across most of the country, which is why the de você form is the safer default there."
+      },
+      {
+        "question": "What does saudade mean in English?",
+        "answer": "Wiktionary glosses it as wistfulness, melancholy, nostalgia, yearning or longing — the feeling of missing something or someone. Priberam's Portuguese definition is \"Lembrança grata de pessoa ausente\", a fond memory of an absent person, plus the sorrow that absence causes. No single English word covers it, but a short phrase does."
+      },
+      {
+        "question": "Should I write saudade or saudades?",
+        "answer": "Either. Wiktionary states that the plural saudades \"may also be used with no change in meaning\", and the corpus has Estou com saudades de você and Estou com saudade de você both translated \"I miss you\". Only the plural carries the extra greeting sense, as in mande-lhe saudades minhas, give them my regards."
+      },
+      {
+        "question": "Is tenho saudades tuas Portugal-only?",
+        "answer": "Not quite. Tuas belongs to the tu pronoun system, which is the familiar default in Portugal but also survives in Rio Grande do Sul, Rio de Janeiro, Santa Catarina, Brasília and most of northeastern Brazil. It is a tu-relationship sentence rather than a border marker, and it would read as archaic to a São Paulo recipient."
+      },
+      {
+        "question": "Can sinto sua falta mean something other than I miss you?",
+        "answer": "Yes, and this is the trap. Sua is primarily the third-person possessive, his or her, which Portuguese also uses for você. Tatoeba sentence 393677, Eu sinto muito a sua falta, carries both \"I miss you badly\" and \"I miss her so much\" as translations. Use sinto falta de você if the ambiguity matters."
+      },
+      {
+        "question": "Did Portuguese sailors invent the word saudade?",
+        "answer": "No. The Old Galician-Portuguese ancestor soydade is attested in the thirteenth-century lyric, including a cantiga by King Denis of Portugal reading \"con vossa soydade viver\" — to live missing you. That is generations before the voyages the story attaches it to. Both Priberam and the Michaelis trace it to Latin solitas or solitatem, solitude."
+      },
+      {
+        "question": "Is it true that saudade cannot be translated?",
+        "answer": "That claim does not survive a dictionary. Priberam translates the word into Spanish, French and English on its own entry page, English has borrowed it outright, and Félix Neto's Porto Saudade Scale (2021) measures it as a single latent factor. The accurate statement is that saudade has no single English equivalent and needs a phrase."
+      },
+      {
+        "question": "Is tô com saudade de você correct Portuguese?",
+        "answer": "Tô is real — Wiktionary records it as the Brazilian informal spelling of estou, with tou as the Portuguese equivalent. But that exact sentence returned no hit in the Portuguese-English corpus checked for this post, so it is treated here as spoken and texted usage rather than an attested written line. Estou com saudade de você is the form with corpus backing."
+      },
+      {
+        "question": "How long should a miss-you message be?",
+        "answer": "About one phone screen. Across 214 miss-you pages measured on 2026-09-25 the median letter runs 88 words and the longest reaches 1,024. Eighty-eight words leaves room for the Portuguese line, an English gloss and two specific memories, which is roughly what 86.4% of those senders actually wrote."
+      },
+      {
+        "question": "What is sodade, as in the Cesária Évora song?",
+        "answer": "The same word. Wiktionary lists sodade as a dialectal pronunciation spelling of saudade found in some European and northeastern Brazilian dialects, and records the Cape Verdean Creole noun sodade as inherited directly from Portuguese saudade. The Michaelis lists sodade and soidade as variants inside its own saudade entry."
+      }
+    ],
+    "coverImageQuery": "lisbon window letter longing distance",
+    "coverImagePrompt": "A warm, photorealistic still life on a windowsill in soft late-afternoon light: a handwritten letter in Portuguese, a phone face-down beside it, and a sprig of purple scabiosa in a small glass. Shallow depth of field, muted blues and terracotta, clean negative space in the upper third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Portuguese: The Feeling Is a Noun You Carry\n\n\"I miss you\" in Portuguese is **tenho saudades tuas** in Portugal and **estou com saudades de você** in Brazil. Both literally say \"I have longings of you\" — the feeling is a thing you possess, not an action you perform. The plainer alternative, and what Brazilians reach for in ordinary speech, is **sinto sua falta**, \"I feel your lack\". Across the 214 \"I miss you\" pages built on SubhSandesh since 2026-07-28, the median letter runs 88 words and the longest is 1,024; 43.5% of those senders password-protect the page before sharing it, against 38.5% platform-wide, which makes them the most private segment measured here. Below, every line is checked against Priberam and the Michaelis, the *saudade* or *saudades* question is settled, and the claim that *saudade* cannot be translated is tested rather than repeated.\n\n## What each Portuguese line actually says\n\n*Saudade* is a feminine noun, and Portuguese builds \"I miss you\" by hanging it on a light verb — *ter* (to have), *sentir* (to feel) or *estar com* (to be with). There is no ordinary Portuguese verb facing English *to miss*; there is a noun and three ways to hold it.\n\n[Priberam, the Portuguese reference dictionary](https://dicionario.priberam.org/saudade), gives sense 1 as \"Lembrança grata de pessoa ausente, de um momento passado, ou de alguma coisa de que alguém se vê privado\" — a fond memory of an absent person or a past moment. [The Michaelis](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/saudade/), the Brazilian standard, reads \"Sentimento nostálgico e melancólico associado à recordação de pessoa ou coisa ausente, distante ou extinta\". Both also file *saudade* as a garden plant, *Scabiosa atropurpurea* — a word on a seed packet is not guarding much mystique.\n\n| Line | Who says it | What it literally says | Corpus id |\n|---|---|---|---|\n| Tenho saudades tuas | Portugal, and any *tu* speaker | I have longings of-yours | 7004996 |\n| Estou com saudades de você | Brazil | I am with longings of you | 893304 |\n| Sinto saudade de você | Both | I feel longing of you | 5080642 |\n| Sinto sua falta | Brazil, everyday speech | I feel your lack | 347660 |\n| Que saudades de você! | Both, as an exclamation | What longings of you! | 7189225 |\n\nThe split is a pronoun split, not a border. *Tuas* belongs to the *tu* system, which [Wiktionary's usage notes for *você*](https://en.wiktionary.org/wiki/voc%C3%AA) record as the familiar form in Portugal, where *você* instead marks \"an intermediate degree of formality\". In most of Brazil *você* has displaced *tu*, though *tu* is still live in Rio Grande do Sul, Rio de Janeiro, Santa Catarina, Brasília and most of the Northeast. So *tenho saudades tuas* is a *tu*-relationship sentence rather than a Portugal-only one.\n\n## Saudade or saudades: which one is correct\n\nBoth, and this is a question Portuguese speakers themselves type into a search box. For missing a person the two are interchangeable: Wiktionary states that \"to miss (someone) may be translated as *ter saudade*, *sentir saudade* or *estar com saudade*\", and that \"the plural *saudades* may also be used with no change in meaning\". The corpus bears that out in minimal pairs: *Estou com saudades de você.* (893304) and *Estou com saudade de você!* (6055887) are both translated \"I miss you\".\n\nThe plural carries two senses the singular lacks, and that is the whole difference. Priberam files them as sense 6, \"Boas lembranças ou recordações\", and sense 7, \"Cumprimentos a alguém\", with the example *mande-lhe saudades minhas* — give them my regards. Use either for a person; use the plural when you are sending greetings through someone else.\n\n## Sinto sua falta, and the trap hidden inside it\n\n*Sinto sua falta* is the sentence the *saudade* romance crowds out, and it is what a Brazilian is most likely to type. *Falta* is plain vocabulary: Wiktionary's first sense is \"lack\", from Vulgar Latin *fallita*, the root behind English *fault*, and under *sentir falta* it means \"the condition of missing someone or something\".\n\nHere is what the phrase lists do not print. *Sua* is not primarily \"your\" — it is the third-person possessive, \"his\" or \"her\", which Portuguese also presses into service for *você*. So *sinto sua falta* is genuinely ambiguous, and the corpus shows it: sentence 393677, *Eu sinto muito a sua falta.*, carries two English translations side by side, \"I miss you badly\" and \"I miss her so much\".\n\nWhen that matters, *sinto falta de você* (5519740) and *tenho saudades tuas* (7004996) can only mean one thing. *Vou sentir sua falta* (2044280), \"I will miss you\", inherits the same ambiguity.\n\n## Is saudade actually untranslatable?\n\nNo, and the claim comes apart the moment you open a dictionary. Priberam's entry offers translations into Spanish, French and English. Wiktionary glosses the noun as \"wistfulness, melancholy, nostalgia, yearning, longing\" and carries an English headword for it — English borrowed the word, which is what languages do with a lexical gap.\n\nIn [Time in Portuguese saudade and other words of longing](https://press-files.anu.edu.au/downloads/press/n7194/pdf/ch11.pdf), her chapter in the ANU Press volume *Meaning, Life and Culture* (15 December 2020, open access), Zuzanna Bułat Silva calls *saudade* \"a key emotion term in Portuguese, usually translated into English as longing, missing, homesickness or nostalgia\" — then explicates it across fifteen lines of Natural Semantic Metalanguage, which is to say ordinary cross-translatable English.\n\nIt also survives being measured. Félix Neto's [Porto Saudade Scale](https://miss.psychopen.eu/index.php/miss/article/view/11049), in *Measurement Instruments for the Social Sciences* on 4 February 2021, validated a brief instrument across three studies; factor analysis \"demonstrated a single latent saudade factor\". A feeling nobody outside Portuguese can reach does not sit still for a confirmatory factor analysis.\n\nThe one source that does assert untranslatability hedges it. Bułat Silva quotes Machado's *Grande Dicionário da Língua Portuguesa* of 1981 calling *saudade* \"a word that probably doesn't have equivalents in other languages\" — *probably*, and neither Priberam nor the Michaelis follows it there. The defensible version is narrower and more useful: **saudade has no single English word and needs a phrase.**\n\nOur own [I miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages) hub does not claim untranslatability — I checked, because the brief for this post assumed it did. It does say, unsourced, that *saudade* \"carries more bittersweet depth than the English 'I miss you'\", and it prints one undifferentiated Portuguese row while telling readers elsewhere that \"Region matters\".\n\n## Where saudade comes from, and why the sailors did not invent it\n\nBoth dictionaries agree on the root, and neither mentions a ship. Priberam: \"Origem: latim *solitas*, *-atis*, solidão\" — solitude. The Michaelis: \"alt do lat *solitatem*\", the Latin word that also gave Spanish *soledad*.\n\nThe familiar story — that *saudade* was born among sixteenth-century sailors and the families waiting for them — fails a date check. The Old Galician-Portuguese ancestor *soydade* is attested in the thirteenth-century lyric, and [Wiktionary's entry for it](https://en.wiktionary.org/wiki/soydade) quotes King Denis of Portugal: *Non poss'eu, meu amigo, con vossa soydade viver* — \"My friend, I can't live missing you.\" That is the modern sense exactly, generations before the caravels. Bułat Silva reports the Discoveries account with the words \"it is said to have emerged\".\n\nGenuinely unsettled is the sound: *soydade* ought to have given *soidade*. Wiktionary records the irregular development as \"the subject of many theories\", most likely influenced by *saudar*, \"to wish good health\", and records the popular derivation from Arabic *sawdāʾ*, \"black bile\", with a flat verdict: \"no strong evidence exists\".\n\n## What 214 miss-you pages say about the words around the phrase\n\nMeasured on 2026-09-25 across the 214 pages built on the [miss-you page for a partner](https://subhsandesh.in/missyou-gf), the median letter is 88 words and the longest 1,024 — about one phone screen, room for the Portuguese line, a translation and two memories.\n\n| What senders do | Miss-you pages (n=214) | Platform-wide |\n|---|---|---|\n| Password-protect before sharing | 43.5% (93 of 214) | 38.5% |\n| Write at least one memory | 86.4% (185), 4.5 on average | not measured |\n| Add an \"open when\" letter | 92.1% (197), 3.2 on average | not measured |\n| Set a reunion countdown | 28.0% (60) | not measured |\n| Record a voice note | 13.6% (29) | not measured |\n\nRecipients answer with a gesture rather than words: 1,434 \"hug\" taps across 138 of the 214 pages, 512 on one page alone.\n\nThree limits, because they change what the numbers mean. The city, background-music and \"together since\" fields are pickers with defaults, so the 47 city pairs these pages name — Mumbai-London and Berlin-London among them — are picker selections, not sender behaviour. The view counts are page views, not unique visitors; one recipient reopening a page twenty times is twenty views. And n = 214 over two months, since the template went live on 2026-07-28, far too little to carry a seasonal claim.\n\nTwo other pages fit this word. [The Last Piece photo jigsaw](https://subhsandesh.in/photo-puzzle) hides a letter behind a puzzle whose final piece is not in the box — the shape of the feeling itself — and suits a sender who would rather the missing be felt than announced. And because Portuguese allows *saudades do futuro*, saudade for what has not happened yet, [the sealed Capsule page](https://subhsandesh.in/capsule) fits better when the distance is time.\n\n## When a Portuguese line is the wrong thing to send\n\nIf your Portuguese stops at the phrase, do not build the whole page in it. The reply comes back in Portuguese, and a page you cannot read is worse than an English one that sounds like you.\n\nGet the variety right or leave it out. *Tenho saudades tuas* sent to a São Paulo recipient who has never used *tu* reads like Shakespeare. If you do not know which form they use, *sinto saudade de você* (5080642) is attested in both.\n\nAnd if the missing follows a fight rather than a distance, none of these is your sentence. In that 214-page segment 43.5% of senders locked the page behind a password — a format for people genuinely apart, not for people who owe each other an apology.\n\n## Sources\n\n- Priberam, *Dicionário da Língua Portuguesa*, **saudade** — https://dicionario.priberam.org/saudade\n- *Michaelis Dicionário Brasileiro da Língua Portuguesa*, **saudade** — https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/saudade/\n- Wiktionary, **saudade** — etymology and usage notes — https://en.wiktionary.org/wiki/saudade\n- Wiktionary, **soydade** — Old Galician-Portuguese, King Denis attestation — https://en.wiktionary.org/wiki/soydade\n- Zuzanna Bułat Silva, \"Time in Portuguese saudade and other words of longing\", *Meaning, Life and Culture*, ANU Press, 15 December 2020 — https://press-files.anu.edu.au/downloads/press/n7194/pdf/ch11.pdf\n- Félix Neto, \"Psychometric Properties of the Porto Saudade Scale\", *Measurement Instruments for the Social Sciences* 3(1), 4 February 2021, CC BY — https://miss.psychopen.eu/index.php/miss/article/view/11049\n\nEvery Portuguese line above was checked against the [Tatoeba Portuguese–English corpus](https://tatoeba.org/en/sentences/show/347660), with its sentence id printed beside it.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-portuguese#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Saudade",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saudade",
+              "https://www.wikidata.org/wiki/Q1338509"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Portuguese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Portuguese_language",
+              "https://www.wikidata.org/wiki/Q5146"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Brazilian Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+              "https://www.wikidata.org/wiki/Q750553"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Galician–Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Galician%E2%80%93Portuguese",
+              "https://www.wikidata.org/wiki/Q1072111"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Denis of Portugal",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Denis_of_Portugal",
+              "https://www.wikidata.org/wiki/Q212890"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Natural semantic metalanguage",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Natural_semantic_metalanguage",
+              "https://www.wikidata.org/wiki/Q1929599"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário da Língua Portuguesa — saudade",
+            "url": "https://dicionario.priberam.org/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis Dicionário Brasileiro da Língua Portuguesa — saudade",
+            "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/saudade/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — saudade",
+            "url": "https://en.wiktionary.org/wiki/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — soydade (Old Galician-Portuguese)",
+            "url": "https://en.wiktionary.org/wiki/soydade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Time in Portuguese saudade and other words of longing",
+            "url": "https://press-files.anu.edu.au/downloads/press/n7194/pdf/ch11.pdf",
+            "datePublished": "2020-12-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ANU Press"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Psychometric Properties of the Porto Saudade Scale",
+            "url": "https://miss.psychopen.eu/index.php/miss/article/view/11049",
+            "datePublished": "2021-02-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Measurement Instruments for the Social Sciences (PsychOpen GOLD)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ways to say \"I miss you\" in Portuguese",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Tenho saudades tuas",
+            "description": "Portugal, and any tu speaker. Literally \"I have longings of-yours\". Attested in Tatoeba as \"I miss you\" (7004996)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Estou com saudades de você",
+            "description": "Brazil. Literally \"I am with longings of you\". Attested in Tatoeba as \"I miss you\" (893304)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sinto saudade de você",
+            "description": "Portugal and Brazil. Literally \"I feel longing of you\". Attested in Tatoeba as \"I still miss you\" (5080642)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sinto sua falta",
+            "description": "Brazil, everyday speech. Literally \"I feel your lack\". Attested in Tatoeba as \"I miss you\" (347660), but sua is ambiguous between your and his/her."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Que saudades de você!",
+            "description": "Portugal and Brazil, as an exclamation. Literally \"What longings of you!\". Attested in Tatoeba as \"How I miss you\" (7189225)."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in portuguese",
+    "angle": "Wins by being the only post on this query that grades every Portuguese line against Priberam and the Michaelis with a Tatoeba sentence id behind each one, settles saudade versus saudades from the dictionaries rather than by feel, shows from the corpus that sinto sua falta is ambiguous between \"I miss you\" and \"I miss her\", dates soydade to the thirteenth-century lyric to kill the sailors origin story, and refuses the untranslatability claim on the evidence of two national dictionaries, an NSM explication and a validated psychometric scale — set beside 214 measured miss-you pages whose median letter is 88 words.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/photo-puzzle",
+      "/capsule"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://dicionario.priberam.org/saudade",
+        "stat": "Priberam, Dicionário da Língua Portuguesa, entry saudade, nome feminino. Sense 1: 'Lembrança grata de pessoa ausente, de um momento passado, ou de alguma coisa de que alguém se vê privado.' Sense 2: 'Pesar, mágoa que essa privação causa.' Senses 3-5 are botanical — 'Planta (Scabiosa atropurpurea) da família das dipsacáceas. (Mais usado no plural.) = ESCABIOSA, SUSPIRO'. The plural is lemmatised separately as 'saudades, nome feminino plural', sense 6 'Boas lembranças ou recordações (ex.: a antiga chefe não deixou saudades)' and sense 7 'Cumprimentos a alguém (ex.: mande-lhe saudades minhas)'. Etymology, verbatim: 'Origem: latim solitas, -atis, solidão.' The entry carries translation aids into Spanish, French and English and makes NO untranslatability claim"
+      },
+      {
+        "url": "https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/saudade/",
+        "stat": "Michaelis, Dicionário Brasileiro da Língua Portuguesa, entry saudade, sf. Sense 1: 'Sentimento nostálgico e melancólico associado à recordação de pessoa ou coisa ausente, distante ou extinta, ou à ausência de coisas, prazeres e emoções experimentadas e já passadas, consideradas bens positivos e desejáveis; sodade, soidade.' Sense 2 is musical, 'Cantiga entoada por marinheiros em alto-mar'. Senses 4-5 botanical, 'Erva (Scabiosa atropurpurea) … flor-de-viúva, viúva'. Plural: 'saudades sf pl Lembranças ou cumprimentos afetuosos de quem sente a ausência de outrem.' Idioms listed include 'Morrer de saudade, fig: sentir saudades exageradas de alguém.' Etymology, verbatim: 'ETIMOLOGIA alt do lat solitatem.' No untranslatability claim"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/saudade",
+        "stat": "Wiktionary, Portuguese entry saudade. Glossed 'wistfulness, melancholy, nostalgia, yearning, longing; the feeling of missing something or someone'. Usage note, verbatim: 'The verb to miss (someone) may be translated as ter saudade (to have saudade), sentir saudade (to feel saudade) or estar com saudade (lit. to be with saudade). The plural saudades may also be used with no change in meaning.' Etymology: inherited from Old Galician-Portuguese soydade/suydade/soedade, from Latin solitas, sōlitātem 'solitude', dated to the 16th century for the modern form; 'The irregular phonetic development is the subject of many theories. It was very likely influenced by saudar (to wish good health) and related words, especially the homonym saudade (salvation, from Latin *salūtātem)'; a proposed analogy with Arabic سَوْدَاء (melancholy, lit. black bile) is recorded with the words 'though no strong evidence exists for the latter'. Rhymes are split Brazil /ad͡ʒi/ against Portugal /adɨ/. Descendants include Kabuverdianu sodade and a borrowed ENGLISH entry, 'A feeling of melancholy and wistful yearning for something that is absent, impossible or lost'. Referenced to Leo Pap, 'On the etymology of Portuguese SAUDADE: an instance of multiple causation?', WORD 43(1), 1992"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/soydade",
+        "stat": "Wiktionary, Old Galician-Portuguese entry soydade (alt. soedade, soidade, suidade, suydade), 'the feeling of missing something or someone', from Latin sōlitātem. Attestation quoted on the entry, from the Cancioneiro da Biblioteca Nacional, King Denis of Portugal, B 578 'Non poss'eu meu amigo': 'Non posseu meu amigo / Cõ uossa soydade / Viuer', translated 'My friend, I can't live missing you'. The Galician entry for saudade on the same project dates soydade/suydade to the 13th century in the Cantigas de Santa Maria"
+      },
+      {
+        "url": "https://press-files.anu.edu.au/downloads/press/n7194/pdf/ch11.pdf",
+        "stat": "Zuzanna Bułat Silva, 'Time in Portuguese saudade and other words of longing', chapter 11 of Meaning, Life and Culture: In conversation with Anna Wierzbicka, ANU Press, open access. Opens section 4 with 'Saudade is a key emotion term in Portuguese, usually translated into English as longing, missing, homesickness or nostalgia', reports the Discoveries origin story with the hedge 'It is said to have emerged during the times of Great Portuguese Discoveries', quotes Machado's Grande Dicionário da Língua Portuguesa (1981: 13) calling saudade 'a word that probably doesn't have equivalents in other languages', and gives a fifteen-line Natural Semantic Metalanguage explication headed 'Tenho saudades de …' whose lines include 'some time before something very good was happening to me for some time', 'I know it can't happen anymore' and 'it is good if someone can feel something like this'. Also records saudades do futuro, 'saudades of the future', and the hunger parallel morrer de saudade / matar saudade. Full chapter read from the ANU Press PDF, pp. 211-220",
+        "publishedDate": "2020-12-15"
+      },
+      {
+        "url": "https://miss.psychopen.eu/index.php/miss/article/view/11049",
+        "stat": "Félix Neto, 'Psychometric Properties of the Porto Saudade Scale', Measurement Instruments for the Social Sciences 3(1), article e11049, CC BY. Abstract, verbatim: 'Saudade involves psychosocial reactions to several circumstances involving deprivation from loved people and/or familiar locations… Exploratory factor analysis of the PSS demonstrated a single latent saudade factor. The confirmatory factor analysis showed that the single latent model of the PSS is adequate and possesses good internal consistency… Saudade was more frequently reported among females than among males.' Peer-reviewed and open access; abstract read at the publisher landing page, full PDF not read",
+        "publishedDate": "2021-02-04"
+      }
+    ],
+    "structuralLimitations": [
+      "PROMPT CLAIM FALSIFIED — 'our own live hub /blog/i-miss-you-in-different-languages may already assert untranslatability'. It does not. I fetched it on 2026-09-25 and searched the rendered text: the string 'untranslat' does not occur anywhere on the page. What the hub DOES carry, unsourced, is a comparative-depth claim — 'Portuguese \"saudade\" carries more bittersweet depth than the English I miss you' — and it files saudade under a 'Poetic' tone row beside Persian 'delam barayat tang shode'. The Spanish sibling hit a real hub error; this one is a hub claim I could not verify rather than a hub error I could correct, and the post says so in those terms rather than announcing a correction it did not earn.",
+      "AGAINST THE LIVE HUB, what this post adds. The hub gives Portuguese ONE undifferentiated row inside a 50+ language list — 'Portuguese: Tenho saudades de você / Sinto sua falta (TEHN-yoh sow-DAH-jeez / SEEN-toh SOO-ah FAL-tah)' — plus one FAQ saying 'In Brazilian Portuguese say Sinto sua falta … or Tenho saudades de você … the latter is more poetic and commonly used in Portugal and Brazil'. Three things are wrong or missing there, and this post supplies them: (a) no PT/BR distinction is drawn even though the hub separately tells readers 'Region matters' and does split Spanish into two rows; (b) the phonetic rendering 'sow-DAH-jeez' is the Brazilian palatalised form attached to a phrase the hub says is used in Portugal too — Wiktionary's rhyme entry splits it Brazil /ad͡ʒi/ against Portugal /adɨ/; (c) the hub prints 'Sinto sua falta' with no mention that sua is the third-person possessive, so the sentence also reads 'I miss him/her'. This post does not restate the hub's table; it links up to it and supplies the dictionary, corpus and pronoun layer under that one row.",
+      "AGAINST THE LIVE SIBLINGS: 81 live articles carry 'miss' in the slug and none is Portuguese. A Strapi query on filters[slug][$contains]=portug across all live articles returns 0, and so does $contains=saudade. The nearest neighbours are the hub and the Indian-language rows. Language is one of the three never-duplicate axes in the BRIEF, so this is a new row and not a merge candidate.",
+      "THE BIG CLAIM, TESTED AND REFUSED AS STATED. 'Saudade is untranslatable' does not survive the sources. (1) Priberam defines it in two ordinary Portuguese sentences and offers translation aids into Spanish, French and English on the entry itself. (2) The Michaelis defines it in one sentence and lists sodade and soidade as synonyms. (3) Wiktionary gives five English glosses and carries a borrowed ENGLISH headword for saudade, plus descendants in Esperanto, French, Italian and Spanish — a word that travels is not untranslatable. (4) Bułat Silva, writing the Natural Semantic Metalanguage treatment of it, opens with 'usually translated into English as longing, missing, homesickness or nostalgia' and then explicates the whole concept in fifteen lines of simple cross-translatable English. (5) Neto's Porto Saudade Scale operationalises it as a single latent factor with good internal consistency across three studies. The ONLY source I found carrying the claim is Machado's Grande Dicionário da Língua Portuguesa (1981: 13), quoted by Bułat Silva, and it hedges: 'a word that PROBABLY doesn't have equivalents in other languages'. Verdict printed in the post: saudade is translatable but not by a single English word, which is a different and defensible statement. Exactly the outcome the brief predicted, reached independently from the sources.",
+      "ETYMOLOGY — SUPPORTED, with one folk theory flagged. Both national-standard dictionaries carry the Latin derivation and neither mentions sailors: Priberam 'Origem: latim solitas, -atis, solidão'; Michaelis 'ETIMOLOGIA alt do lat solitatem'. Wiktionary adds the intermediate stage, Old Galician-Portuguese soydade/suydade/soedade, and treats the irregular au for oi as 'the subject of many theories' — 'very likely influenced by saudar (to wish good health)' and the homonym saudade 'salvation' from Latin *salūtātem, plus erudite hypercorrection of oi to au (compare coisa with the Latinism causa). So the saudar influence the brief named IS documented, but as one strand of a multiple-causation account, not as the derivation; Wiktionary references it to Leo Pap, WORD 43(1), 1992, whose title is itself 'an instance of multiple causation?'. The Arabic sawdāʾ 'black bile' derivation, widely repeated online, is recorded by Wiktionary with the words 'though no strong evidence exists for the latter'. That is this post's analogue of the Spanish sibling's achar menos finding: a popular etymology whose only fetchable source disclaims it.",
+      "THE SAILORS STORY, DATED AND KILLED. Wiktionary's Old Galician-Portuguese entry for soydade quotes the Cancioneiro da Biblioteca Nacional, King Denis of Portugal, B 578: 'Non posseu meu amigo / Cõ uossa soydade / Viuer', 'My friend, I can't live missing you' — the exact modern sense. The Galician entry on the same project dates soydade/suydade to the 13th century in the Cantigas de Santa Maria. That is generations before the voyages the story attaches the word to. Bułat Silva reports the Discoveries account with the hedge 'It is said to have emerged', which is a scholar declining to vouch for it. I did NOT cite a Wikipedia date for the Age of Discoveries and make no dated claim about it; the post says only 'generations before the caravels', which the thirteenth-century attestation supports on its own.",
+      "SAUDADE vs SAUDADES, settled from sources rather than feel — the harvest shows Brazilians themselves searching 'saudades ou saudade'. Wiktionary's usage note is explicit: 'The plural saudades may also be used with no change in meaning.' The corpus confirms it in minimal pairs translated identically: Estou com saudades de você (893304) and Estou com saudade de você! (6055887), both 'I miss you'; Sinto saudades de você, faz uma semana que não te vejo (1305946) and Ainda sinto saudade de você (5080642). The plural carries two senses the singular does not — Priberam 6 'Boas lembranças ou recordações' and 7 'Cumprimentos a alguém (ex.: mande-lhe saudades minhas)', matching Michaelis's 'saudades sf pl Lembranças ou cumprimentos afetuosos de quem sente a ausência de outrem'. I did NOT run a frequency count and the post claims no relative frequency between the two.",
+      "PT vs BR, stated more precisely than the brief did. The brief framed it as 'tenho saudades tuas (PT) against estou com saudades de você (BR)'. The evidence makes it a PRONOUN split rather than a border: tuas requires the tu system, which Wiktionary's você usage notes record as the familiar form in Portugal (where você is 'an intermediate degree of formality … generally used in situations of little intimacy'), while in most of Brazil você displaced tu — but tu remains live in Rio Grande do Sul, Rio de Janeiro, Santa Catarina, Brasília and most Northeastern states, and 'teu, te, and to a lesser extent ti and contigo, are widely used alongside você in Brazilian dialects that do not use tu'. So tenho saudades tuas is a tu-relationship sentence, not a Portugal-only string. Printed that way.",
+      "ORIGINAL CLAIM NOT ON ANY COMPETING PAGE: sinto sua falta is ambiguous. Wiktionary's entry for seu/sua files it first as the THIRD-person singular possessive (his/her/its), with Portuguese also using it for você. Tatoeba sentence 393677, 'Eu sinto muito a sua falta.', carries two English translations side by side — 'I miss you badly' and 'I miss her so much'. The disambiguated alternatives are sinto falta de você (5519740) and tenho saudades tuas (7004996). Our own hub prints 'Sinto sua falta' as the Brazilian casual option with no such warning.",
+      "LINES CUT, not printed, and why. (1) 'Tenho saudades de ti.' — the de ti form that appears on several phrase lists; exact-phrase search of the Portuguese-English corpus returned 0 sentences, while 'Tenho saudades tuas.' returned 2, so the attested one is printed and this one is not. (2) 'Tô com saudade de você.' — 0 corpus hits. Wiktionary does lemmatise tô as the Brazilian informal spelling of estou (with tou as the Portugal form), so the spelling is real; the sentence is demoted to an FAQ that says exactly that rather than printed as a recommended line. (3) 'Sinto sua falta todos os dias.' — 0 corpus hits. (4) 'Sinto falta de você.' as a bare sentence — 0 hits in that exact form; the attested 'Eu sinto falta de você o tempo todo.' (5519740) is cited instead. (5) 'Matar saudades' as a printable miss-you line — it is real and Bułat Silva discusses the hunger metaphor, but Wiktionary glosses it 'to catch up (with someone)', which is a different sentence, so it is not listed as a way to say 'I miss you'. (6) 'Saudade — a little corner of me keeps waiting for you', the ready-made line our own hub offers, and similar poetic one-liners from the SERP — no dictionary or corpus check is possible on invented sentences. (7) The gloss 'saudade has no translation in any other language', which the SERP's own summary asserted — cut and replaced with the graded verdict above. (8) 'Que saudade!' as a bare exclamation without a complement — the 53 corpus hits on that pattern attach a complement, so the printed line is 'Que saudades de você!' (7189225). Eight lines cut, one gloss replaced.",
+      "SERP: one WebSearch, US-served, 2026-09-25, query 'i miss you in portuguese', ten results — instagram.com, memrise.com, learnwitholiver.com, quora.com ×2, en.wikipedia.org ×3 (two unrelated songs plus the Saudade entity page), elon.io, online-translator.com. Structure only was recorded; nothing is cited, linked or paraphrased. This is the thinnest competitor set of any big-language query measured in this batch: there is no long-form article among them, only phrasebook rows, forum answers, a translator widget and entity pages. The search tool's own summary asserted that saudade 'has no translation to any other language' with no source, which is the claim this post exists to test. No AI Overview claim is made in either direction, because the search tool does not expose one.",
+      "COMPETITOR OBSERVATION, not a citation: the Portuguese-language sibling SERP supplied with this brief (query 'mensagem de saudade para namorado') is eight message-farm and social results plus one funeral-wreath retailer ranking off-intent, graded 5/10 and the weakest big-language SERP measured in the run. Recorded here per references/competitors.md and deliberately absent from the post, which neither links nor paraphrases any of them. I did not run that Portuguese-language SERP myself and make no claim about it beyond what the brief supplied.",
+      "SOURCES I COULD NOT REACH, disclosed because the brief named them. The Academia das Ciências de Lisboa dictionary (dicionario.acad-ciencias.pt) is behind an Anubis proof-of-work challenge and returns a JavaScript interstitial, not the entry. Infopédia (Porto Editora) returns HTTP 403 behind a Cloudflare JS check. Machado's Grande Dicionário da Língua Portuguesa (1981) is not online; it is quoted here only as Bułat Silva quotes it, and the post attributes it that way. Zuzanna Bułat Silva's 'Saudade – a Key Portuguese Emotion', Emotion Review 4(2), 2012 — the paper the ANU chapter builds on — is closed access (OpenAlex oa_status: closed), so it is NOT cited; its abstract, which glosses saudade as 'roughly nostalgia', was read but the post rests on the open-access 2020 chapter instead. Leo Pap's 1992 WORD article is bronze OA at tandfonline but was not read in full, so it is not cited either — only Wiktionary's reference to it is reported.",
+      "SOURCE READ DEPTH: the ANU Press chapter was read in FULL from the publisher PDF (pp. 211-220 of Meaning, Life and Culture), not at abstract level — the four-word English gloss, the 'it is said to have emerged' hedge, the Machado quotation and the fifteen-line explication all come from the body text. The Porto Saudade Scale was read at ABSTRACT level from the publisher landing page; it is CC BY and not paywalled, but the full PDF was not read, and the only claims taken from it are the two sentences quoted. Nothing cited in this post is paywalled.",
+      "TWO TABLES, and which one the checklist item refers to. The audited 'one comparison table with real values, 3-5 rows' is the first-party table in the 214-pages section: five rows, every value measured on 2026-09-25, and one of its three columns is first-party. The phrase table earlier in the post is a second table at five rows whose columns are dictionary, register and corpus values, with no first-party column, because the miss-you segment records no message language — the /missyou-gf probes capture letter length, password use, hug taps and reunion dates, but nothing that could be broken down by which Portuguese phrase a sender used.",
+      "ITEMLIST MIRRORS TABLE ROWS, NOT H3s. The post has no H3s — the five phrases are a table rather than five subsections, because five near-identical H3 blocks would have cost roughly 200 words of the 1,800 for no retrieval gain. The ItemList in structuredData therefore mirrors the five phrase-table rows in body order rather than a heading sequence, and it is unordered: these are five registers of the same thing, not a ranking. Flagging it because the checklist item says 'mirroring the H3s in the same order' and there are none to mirror.",
+      "NOT MEASURED, SO NOT CLAIMED: how often Brazilians actually choose sinto sua falta over estou com saudades de você. No frequency count was run — Corpus do Português and the Linguateca corpora expose no public JSON endpoint reachable from this run, and Tatoeba hit counts measure contributor behaviour rather than population usage. findpapers.mjs (Crossref + Europe PMC, no WebSearch cost) was run on 'saudade emotion concept', 'untranslatable emotion words cross-cultural' and 'natural semantic metalanguage emotion'; the saudade-specific hits it surfaced were either closed access (Emotion Review 2012) or off-subject (Brazilian cinema, cardiology obituary). The open-access saudade literature was found instead through OpenAlex, which is how the ANU chapter and the Porto Saudade Scale reached this post.",
+      "CAP AND DOMAIN CHOICES, made deliberately. No source here uses doi.org, europepmc.org or pmc.ncbi.nlm.nih.gov: the ANU chapter and the Porto Saudade Scale are cited at their publisher landing pages (press-files.anu.edu.au, miss.psychopen.eu), both at zero posts in this batch, so the mid-run cap correction on the PMC family and the resolver cost this post nothing and closed no slot for a sibling. capcheck.mjs was re-run immediately before saving."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Two paragraphs run longer. The opening answer paragraph is five sentences because references/page-structure.md requires the direct answer, two-to-four numbers and a scope line inside one block. The first paragraph of the saudade/saudades section is four, because the dictionary ruling and the corpus minimal pair have to sit together or the answer reads as an assertion. Every other paragraph in the post is within range."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Eight unique outbound URLs, two over the literal cap. Four carry research claims (dicionario.priberam.org, michaelis.uol.com.br, press-files.anu.edu.au, miss.psychopen.eu); the other four — en.wiktionary.org ×3 and tatoeba.org — are the reference instruments this batch's verify.config.json exempts from the source cap, and the batch's own rule that every non-English line be verified against a fetched source requires them. On the exempt reading the post is at four; on a literal count of body URLs it is at eight. Every one was fetched and verified."
+        }
+      ],
+      "honestAssessment": "An answer engine has four specific reasons to cite this over the ten results on the query, none of which is a long-form article: it is the only page that grades every Portuguese line against both Priberam and the Michaelis with a corpus sentence id behind each one; the only one that reports sinto sua falta as ambiguous between \"I miss you\" and \"I miss her\" with the Tatoeba sentence that proves it; the only one that dates soydade into the thirteenth-century lyric and so retires the Portuguese-sailors origin story; and the only one that tests the untranslatability claim instead of repeating it, refusing it on two dictionaries, an NSM explication and a validated psychometric scale, and reporting that the one source carrying the claim says \"probably\". The 214-page first-party layer — 88-word median letter, 43.5% password use against 38.5% platform-wide, 1,434 recipient hug taps across 138 pages — is unavailable to any language site. Against that: this is a US-market English query where SubhSandesh has no Portuguese footprint at all, Wikipedia's own Saudade article already occupies the conceptual answer with far more authority than this domain has, and the post carries no frequency count for the phrase choice it advises on, because none is publicly reachable. Ranking takes months and I am not predicting one. What would most change the odds is a corpus frequency count of sinto sua falta against estou com saudades de você by country, which would need a Portuguese corpus with a public endpoint this run could not reach."
+    },
+    "generatedAt": "2026-09-25T07:43:04.860Z"
+  }
+}

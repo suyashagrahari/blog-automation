@@ -1,0 +1,349 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Kurdish: Which Kurdish, and the Circumflex That Decides",
+    "slug": "i-miss-you-in-kurdish",
+    "excerpt": "\"I miss you\" in Kurdish depends on which Kurdish. Kurmanji says min bêrîya te kir, which Chyet's Yale dictionary glosses \"I miss you (polite formula)\"; Sorani says بیرت دەکەم, \"I do your memory\", a phrase no Sorani dictionary carries. ISO 639-3 registers three Kurdish languages, not one.",
+    "metaTitle": "I Miss You in Kurdish — Two Languages, Two Different Lines",
+    "metaDescription": "I miss you in Kurdish is min bêrîya te kir in Kurmanji and بیرت دەکەم in Sorani. ISO 639-3 registers 3 Kurdish languages, and 0 of 10 results cite a dictionary.",
+    "keywords": "i miss you in kurdish, i miss you in kurmanji, i miss you in sorani, min bêrîya te kir, bîrt dekem meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-kurdish",
+    "ogType": "article",
+    "tags": [
+      "kurdish",
+      "kurmanji",
+      "sorani",
+      "miss-you",
+      "language"
+    ],
+    "keyTakeaways": [
+      "ISO 639-3 registers Kurdish (kur) as a macrolanguage containing three separate languages — ckb Central Kurdish, kmr Northern Kurdish and sdh Southern Kurdish — so \"I miss you in Kurdish\" has no single answer.",
+      "Kurmanji: min bêrîya te kir, glossed \"I miss you (polite formula)\" in Chyet's Kurdish–English Dictionary (Yale, 2003). It is literally \"I did your longing\", a past-tense form used for a present feeling.",
+      "Sorani: بیرت دەکەم (bîrt dekem), \"I do your memory\". McCarus and Abdulla's 1967 Sulaimania dictionary has no idiom for missing a person at all; its only \"to miss\" entry, la dest dan, means missing an opportunity.",
+      "Of the ten results measured for this query on 2026-09-25, three name a variety in the title and zero cite a dictionary; four different Kurmanji strings appear across the set.",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) against 38.5% platform-wide, and the median letter runs 88 words — though no first-party figure here is Kurdish-specific."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say I miss you in Kurdish?",
+        "answer": "It depends which Kurdish. In Kurmanji (Northern Kurdish, Latin script) it is min bêrîya te kir — Chyet's Yale dictionary glosses that exact sentence \"I miss you (polite formula)\". In Sorani (Central Kurdish, Arabic-based script) people send بیرت دەکەم, romanised bîrt dekem, literally \"I do your memory\"."
+      },
+      {
+        "question": "What is the difference between bêrî and bîr?",
+        "answer": "Chyet enters bêrî as \"longing, yearning, homesickness\" and bîr as \"memory\", and both form a phrase with kirin, \"to do\". bêrî is the mainstream choice for missing a person; the bîr version, ez bîra te dikim, is marked regional in Chyet and his own example sentence is about missing a house, not a person."
+      },
+      {
+        "question": "Why is min bêrîya te kir in the past tense?",
+        "answer": "Because kir is the past stem of kirin, \"to do\", so the sentence literally says \"I did your longing\". Kurmanji uses that form for a feeling you have right now. English Wiktionary's phrasebook gives the perfect, min bêrîya te kiriye, instead. Both are in use and neither is a plain present tense."
+      },
+      {
+        "question": "Does dropping the circumflex on bêrî matter?",
+        "answer": "Yes. In the Kurdish Latin alphabet ê is a separate letter, not an accent. Wiktionary has berî as the preposition \"before\" and Chyet has a separate berî headword meaning \"desert, wilderness, plain\", so writing berîya instead of bêrîya points at a different word entirely."
+      },
+      {
+        "question": "Is there a Kurdish word that means missing someone?",
+        "answer": "Not as a single verb in either main variety. Kurmanji builds it from a noun meaning longing plus \"to do\". Sorani builds it from a noun meaning memory plus \"to do\", and McCarus and Abdulla's 1967 dictionary lists no idiom for missing a person under bîr — only homesickness, remembering, forgetting and thinking of."
+      },
+      {
+        "question": "Does the line change if I am writing to a man or a woman?",
+        "answer": "No. This is the difference from Arabic, where the sentence changes with the addressee's gender. Wiktionary's Kurmanji pronoun table lists one second-person singular, tu with oblique te, and its Central Kurdish entry lists one, تۆ. There is no male and female version to pick between."
+      },
+      {
+        "question": "Is Zazaki a kind of Kurdish?",
+        "answer": "The ISO register says no: Zaza has its own macrolanguage code zza, covering diq Dimli and kiu Kirmanjki, sitting beside Kurdish rather than inside it. Sağlam, Özek, Buran and Gooskens measured text-level mutual intelligibility between Kurmanji and Zazaki among 243 students in Elâzığ and found it below 40% in both directions."
+      },
+      {
+        "question": "Why does بیرت دەکەم look broken up when I paste it?",
+        "answer": "Because U+06D5, which Unicode names DOTLESS TEH MARBUTA, has joining type R. Right-joining letters never connect to what follows, so the word genuinely separates twice. That is correct typography rather than a rendering fault, and it is worth knowing before you assume something is wrong."
+      },
+      {
+        "question": "Can I just write the Sorani line in English letters?",
+        "answer": "Yes, and many people do. bîrt dekem is readable to a Sorani speaker, survives any font, and avoids the right-to-left problem inside an English page. It loses the look of the script, so a recorded voice note is often the better trade — 13.6% of our miss-you senders record one, 29 of 214."
+      },
+      {
+        "question": "What about Southern Kurdish?",
+        "answer": "Southern Kurdish is the third language in the ISO register, code sdh, spoken around Kermanshah and Ilam. I could not verify a Southern Kurdish form of this phrase against a dictionary for this post, so none is printed here. Wiktionary's regional boxes do give sdh equivalents for individual words, such as ت for \"you\"."
+      }
+    ],
+    "coverImageQuery": "kurdish latin and arabic script handwriting letter",
+    "coverImagePrompt": "A close, photorealistic overhead shot of two short handwritten lines on cream paper — one in Latin script with circumflex letters, one in an Arabic-based script — lying beside a phone on a dark wooden table. Warm late-afternoon side light, shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Kurdish: Which Kurdish, and the Circumflex That Decides\n\n\"I miss you\" in Kurdish has no single answer, because Kurdish is not one language. In **Kurmanji** — Northern Kurdish, written in Latin script across Turkey and Syria — it is **min bêrîya te kir**, and Michael Chyet's Yale dictionary glosses that exact sentence \"I miss you (polite formula)\". In **Sorani** — Central Kurdish, written in an Arabic-based script across Iraq and Iran — the line people send is **بیرت دەکەم** (bîrt dekem), literally \"I do your memory\".\n\nHand someone one of those without saying which it is and you have given them a coin flip.\n\nOn our own miss-you pages the median sender takes 2.6 hours between first save and last edit (n=214), and 88.8% of started pages are finished and shared (190 of 214). People rewrite this line before they send it. Choosing the variety is the first rewrite, and no page ranking for this query does it for you.\n\n## \"Kurdish\" is three languages in the ISO register, not one\n\nThe [ISO 639-3 registry](https://iso639-3.sil.org/code/kur) records `kur`, Kurdish, as a **macrolanguage**, and lists exactly three individual languages inside it: `ckb` Central Kurdish, `kmr` Northern Kurdish and `sdh` Southern Kurdish. All three are marked Active and Living, and `kur` is what the two-letter code `ku` maps to.\n\nTwo things people expect in that list are not in it. **Zaza** has its own macrolanguage code, `zza`, covering `diq` Dimli and `kiu` Kirmanjki — registered beside Kurdish, not inside it. English Wiktionary does the same, listing Zazaki as a top-level language in its own right.\n\nThe distance is measurable, not merely administrative. Sağlam, Özek, Buran and Gooskens tested [243 students aged 14–19 across nine districts of Elâzığ](https://dergipark.org.tr/en/pub/dad/article/1696092), a Turkish province where both are spoken, and found text-level mutual intelligibility between Kurmanji and Zazaki \"remains below 40% for both languages\" (*Dilbilim Araştırmaları Dergisi* 36(3), 2026).\n\n## The Kurmanji line, and the circumflex that decides what it means\n\nChyet's [*Kurdish–English Dictionary / Ferhenga Kurmancî–Inglîzî*](https://archive.org/details/kurdishenglishdictionarymichaell.chyet_202001) (Yale University Press, 2003) enters **bêrî** as a feminine noun: \"longing, yearning, homesickness\". The idiom *bêriya … kirin* is glossed \"to desire, miss, be impatient for\", and the entry prints two examples: *Min bêriya te kir* — \"I miss you (polite formula)\" — and *Min bêriya welêt kir*, \"I am homesick\".\n\nLook at the tense. *kir* is the past stem of *kirin*, \"to do\", so the sentence reads literally \"I did your longing\", and Kurmanji uses that past form for a feeling you have right now. [English Wiktionary's phrasebook](https://en.wiktionary.org/wiki/I_miss_you) gives the perfect instead, **min bêrîya te kiriye**, \"I have done your longing\". Both circulate. Neither is the plain present an English speaker would expect.\n\nThen the circumflex. **bêrî** is longing. **berî**, the same letters without the circumflex on the e, is a different word: Wiktionary has it as the Kurmanji preposition \"before\", and Chyet carries a separate *berî* headword meaning \"desert, wilderness, plain\". The page ranking first for this query prints the phrase as *min berîya te kir*, with no circumflex on that e. In the Kurdish Latin alphabet ê is a letter, not an accent you may drop when the keyboard is awkward.\n\n## The Sorani line, and the dictionary gap behind it\n\nSorani has no verb for missing a person, and the dictionaries are blunt about it.\n\nMcCarus and Abdulla's [*Kurdish–English Dictionary (Dialect of Sulaimania, Iraq)*](https://archive.org/details/AKurdishEnglishDictionaryDialectOfSulaimaniaIraq) (University of Michigan Press, 1967) enters **bîr** as \"thought, idea; reflection; memory; reminiscence, recollection; mind\". Its idioms cover homesickness (*bîr-î malawa*), remembering (*la bîr-î … bûn*), forgetting (*la bîr çûnawa*) and *bîr la … kirdin*, \"to think of, recall, mention\". Not one is \"to miss a person\".\n\nThe only place English *miss* appears there as a verb is under *dest*, \"hand\": *la dest dan*, \"to miss, not to avail oneself of something\". An opportunity, not a person. Two further English–Kurdish dictionaries on archive.org, the Zanko and the Pocket English–Kurdish, agree: their *miss* entries give *le dest dan* and *le dest çûn*, losing, plus *ne-pêkan*, failing to hit.\n\nSo **بیرت دەکەم** is assembled rather than looked up: بیر *bîr*, \"memory, mind\", the second-person clitic ـت, and دەکەم *dekem*, first-person present of کردن *kirdin*, \"to do\". \"I do your memory.\" Every morpheme sits in Wiktionary's Central Kurdish entries; the whole phrase sits in none of the dictionaries I could search, and saying so is more useful than pretending otherwise.\n\nNeither language marks the recipient's gender, which Arabic speakers expect to have to decide. Wiktionary's Kurmanji pronoun table lists one second-person singular, *tu* (oblique *te*), and its Central Kurdish entry lists one, تۆ.\n\n## The four candidate lines, side by side\n\n| Line | Variety | Literally | Verified against | In a page like ours |\n|---|---|---|---|---|\n| min bêrîya te kir | Kurmanji (kmr) | \"I did your longing\" | Chyet 2003, entry *bêrî*: \"I miss you (polite formula)\" | safest default; Latin script sits in English furniture unchanged |\n| min bêrîya te kiriye | Kurmanji (kmr) | \"I have done your longing\" | Wiktionary phrasebook — the only Kurdish line it carries | same, a shade more formal |\n| ez bîra te dikim | Kurmanji, regional | \"I do your memory\" | Chyet, entry *bîr* sense 2, marked regional; his example is about a house | only if you know they say it that way |\n| بیرت دەکەم | Sorani (ckb) | \"I do your memory\" | morphemes in Wiktionary's ckb entries; whole phrase in no dictionary | put it in the voice note — 13.6% of our senders record one (29 of 214) |\n\n## How to tell which Kurdish your recipient speaks\n\nAsk which alphabet they write it in. That settles it faster than any map: Latin letters with ê, î, û, ş and ç mean Kurmanji, an Arabic-based script means Sorani. Wiktionary helps here too, since each Kurdish headword carries a regional box pairing the forms: تۆ for `ckb` against *tu* for `kmr` and ت for `sdh`.\n\nIf you cannot ask, geography is a decent second. Turkey and Syria are Kurmanji; Sulaymaniyah, Erbil, Kirkuk and Sanandaj are Sorani. Duhok is the trap: Kurmanji-speaking inside an Arabic-script country.\n\nAnd if they say only \"Kurdish\", take it at face value: for many speakers the macrolanguage label is the identity. Send the line you verified, name the variety beside it, and let them correct you.\n\n## What this search result page actually hands you\n\nMeasured on 2026-09-25 across the ten organic results for this query on a DuckDuckGo India search: one engine, one day, not a Google ranking.\n\nThree of ten name a variety in the title; five name one anywhere on the page. Two disambiguate in the URL, one path ending `-kurdish-sorani/` and another from the same site at plain `-kurdish/`. **Zero of ten cite a dictionary** — no lexicographer, no publisher, no page reference.\n\nThey also disagree with each other. Four different Kurmanji strings appear across the set: one gives *min berîya te kir*, two give *ez bîra te dikim*, one gives *Bêriya te dikim*. A fifth returns a Sorani string filed under plain \"Kurdish\", unlabelled.\n\nCoverage is thinner than ten results suggests. Two would not respond to a fetch that day, two returned 403, and one renders no translation without JavaScript. The result ranking first is a dictionary aggregator whose Sorani side is empty: ask it for \"I miss you\" in Central Kurdish and it answers that it has no translation.\n\n## Sending an Arabic-script line inside an English page\n\nSorani is not written with the Arabic letters you may already have installed. Unicode's [ArabicShaping.txt](https://www.unicode.org/Public/UCD/latest/ucd/ArabicShaping.txt), version 18.0.0 dated 2026-08-18, lists U+06CC FARSI YEH and U+06A9 KEHEH, which Sorani uses where Arabic uses ي and ك, and U+06D5, named \"DOTLESS TEH MARBUTA\", with joining type **R**.\n\nRight-joining means that letter never connects to what follows it, so دەکەم genuinely breaks into pieces on screen, twice. That is correct typography, not a fault. Three consequences:\n\n- A font with Arabic coverage can still be missing ڕ, ێ, ۆ and ڵ. You get boxes, and you will not see them while previewing on the device you typed on.\n- In a left-to-right page the trailing full stop jumps to the wrong end of the phrase. Give the Sorani a line of its own.\n- Romanised Sorani — *bîrt dekem* — is what most people type on a phone anyway, and it survives any font.\n\n## What 214 miss-you pages show about the letter around the line\n\nThese pages are not a Kurdish sample. The database records which template was opened, never who received it and never what language anyone wrote in, so nothing below is Kurdish-specific.\n\nThe median miss-you letter runs 88 words and the longest is 1,024 (n=214). Eighty-eight words is roughly one screen — room for the verified line, its literal gloss, and why you chose that variety.\n\n43.5% of senders password-protect the page before sharing it (93 of 214), against 38.5% across the platform. Pages name 47 distinct city pairs, including cross-border ones such as Berlin–London, though the city field is a picker with defaults, so that reflects what the list offers rather than what senders chose to say.\n\nThree caveats travel with all of it: n = 214 over two months since 2026-07-28, so no seasonal reading survives; recorded views are page views, not unique visitors; picker fields are not sender behaviour.\n\n## Where our page is the wrong choice\n\nThe [miss-you page for someone far away](https://subhsandesh.in/missyou-gf) is built for this reader, and its Latin-script furniture is honest for a Kurmanji line. For Sorani it is a compromise: the headings, buttons and countdown labels around your sentence stay English and left-to-right, with no right-to-left layout to switch into. Where that would bother the person receiving it, a recorded voice note carries the line with no script at all.\n\nIf you would rather the words themselves were the gift, [the falling-letter page](https://subhsandesh.in/catch) drops one line at a time and suits a short verified phrase better than a page full of English chrome; [the full template list](https://subhsandesh.in/templates) has the rest.\n\nOne gap worth naming: our own [guide to saying it in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages) claims 50-plus languages and carries no Kurdish row — no Kurmanji, no Sorani. This page is that missing row, with the dictionary work a table could never hold.\n\n## Sources\n\n- ISO 639-3 registry, code `kur` — no publication date given.\n- Chyet, *Kurdish–English Dictionary*, Yale University Press, 2003.\n- McCarus and Abdulla, *A Kurdish–English Dictionary (Dialect of Sulaimania, Iraq)*, University of Michigan Press, 1967.\n- English Wiktionary, \"I miss you\" phrasebook — no publication date.\n- Unicode Character Database, ArabicShaping.txt 18.0.0, 18 August 2026.\n- Sağlam, Özek, Buran and Gooskens, *Dilbilim Araştırmaları Dergisi* 36(3), 2026-01-27.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-kurdish#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Kurdish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kurdish_language",
+              "https://www.wikidata.org/wiki/Q36368"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Kurmanji",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kurmanji",
+              "https://www.wikidata.org/wiki/Q36163"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Central Kurdish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Central_Kurdish",
+              "https://www.wikidata.org/wiki/Q36811"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Southern Kurdish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Southern_Kurdish",
+              "https://www.wikidata.org/wiki/Q1496597"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Zaza language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Zaza_language",
+              "https://www.wikidata.org/wiki/Q10199"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Kurdish alphabets",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kurdish_alphabets",
+              "https://www.wikidata.org/wiki/Q1416219"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "ISO 639 macrolanguage",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/ISO_639_macrolanguage",
+              "https://www.wikidata.org/wiki/Q152559"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Mutual intelligibility",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mutual_intelligibility",
+              "https://www.wikidata.org/wiki/Q829257"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "ISO 639-3 registry entry for kur: Kurdish is a macrolanguage containing ckb, kmr and sdh",
+            "url": "https://iso639-3.sil.org/code/kur"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michael L. Chyet, Kurdish–English Dictionary / Ferhenga Kurmancî–Inglîzî, Yale University Press, 2003 — entries bêrî, berî and bîr",
+            "url": "https://archive.org/details/kurdishenglishdictionarymichaell.chyet_202001",
+            "datePublished": "2003"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Ernest N. McCarus and Jamal J. Abdulla, A Kurdish–English Dictionary (Dialect of Sulaimania, Iraq), University of Michigan Press, 1967 — entries bîr and dest",
+            "url": "https://archive.org/details/AKurdishEnglishDictionaryDialectOfSulaimaniaIraq",
+            "datePublished": "1967"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary's \"I miss you\" phrasebook entry: Kurdish appears only as Northern Kurdish, and Zazaki is listed as its own top-level language",
+            "url": "https://en.wiktionary.org/wiki/I_miss_you"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unicode Character Database, ArabicShaping.txt version 18.0.0 — U+06D5 DOTLESS TEH MARBUTA, joining type R; U+06A9 KEHEH; U+06CC FARSI YEH",
+            "url": "https://www.unicode.org/Public/UCD/latest/ucd/ArabicShaping.txt",
+            "datePublished": "2026-08-18"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Sağlam, Özek, Buran and Gooskens, \"Assessing mutual intelligibility between Kurmanji and Zazaki spoken in Elazığ at text level\", Dilbilim Araştırmaları Dergisi 36(3), 97–120",
+            "url": "https://dergipark.org.tr/en/pub/dad/article/1696092",
+            "datePublished": "2026-01-27"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Four candidate ways to say \"I miss you\" in Kurdish",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "min bêrîya te kir — Kurmanji (kmr)",
+            "description": "Literally \"I did your longing\". Chyet 2003 prints this sentence in the entry for bêrî and glosses it \"I miss you (polite formula)\". The safest default; Latin script sits unchanged inside an English page."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "min bêrîya te kiriye — Kurmanji (kmr)",
+            "description": "The perfect, \"I have done your longing\". This is the only Kurdish line English Wiktionary's \"I miss you\" phrasebook carries. Slightly more formal than the simple past form."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ez bîra te dikim — Kurmanji, regional",
+            "description": "Literally \"I do your memory\", built on bîr rather than bêrî. Chyet marks this sense of bîr as regional and his example sentence is about missing a house. Use only if you know the recipient says it that way."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "بیرت دەکەم (bîrt dekem) — Sorani (ckb)",
+            "description": "Literally \"I do your memory\". Every morpheme is in English Wiktionary's Central Kurdish entries, but the whole phrase is in none of the Sorani dictionaries searched. Romanise it or record it as a voice note."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in kurdish",
+    "angle": "Wins by being the only page on this SERP that treats \"Kurdish\" as the ISO macrolanguage it is and prints both varieties with the dictionary that verifies each: Chyet 2003 glosses min bêrîya te kir as \"I miss you (polite formula)\" while McCarus and Abdulla 1967 records no Sorani idiom for missing a person at all, so بیرت دەکەم is shown as an assembled phrase rather than a translation — sitting next to a measurement of the ten ranking results (3 of 10 name a variety in the title, 0 of 10 cite a dictionary, 4 different Kurmanji strings across the set), the U+06D5 joining behaviour that makes the Sorani line break on screen, and recipient-side data from 214 /missyou-gf pages.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://iso639-3.sil.org/code/kur",
+        "stat": "SIL's ISO 639-3 registry, entry for kur. Kurdish is listed with Scope = Macrolanguage, Type = Living, Code Sets 639-2 and 639-3, 639-1 equivalent ku. Its member individual languages are given as exactly three, all Active: ckb Central Kurdish, kmr Northern Kurdish, sdh Southern Kurdish. Checked separately on the same registry: zza Zaza is a macrolanguage in its own right (Scope = Macrolanguage, members diq Dimli and kiu Kirmanjki) and is not a member of kur; lki Laki is a separate individual language. The kmr, ckb and sdh pages each state \"is a member of the macrolanguage Kurdish\"."
+      },
+      {
+        "url": "https://archive.org/details/kurdishenglishdictionarymichaell.chyet_202001",
+        "stat": "Michael L. Chyet, Kurdish–English Dictionary = Ferhenga Kurmancî–Inglîzî, with selected etymologies by Martin Schwartz, Yale Language Series, Yale University Press, copyright 2003, ISBN 0-300-09152-4 (all read off the scan's own title and copyright pages). Entry bêrî, f.: \"longing, yearning, homesickness\"; the idiom -bêriya ... kirin (BX) is glossed \"to desire, miss, be impatient for\" and the entry prints \"Min bêriya te kir (JB3) I miss you (polite formula)\" and \"Min bêriya welêt kir (JB3) I am homesick\". A separate headword berî II is \"desert, wilderness, plain\". Entry bîr, sense 2, \"longing, homesickness (Ag/Kp)\": \"-bîra fk-ê kirin (Kp/Ag) to miss, be homesick for: Ez bîra mala xwe dikim (Kp) I am homesick\", with the cross-reference \"Sor bîr = 'mind, memory'\". The scan's OCR strips circumflexes, so headword spellings were confirmed against English Wiktionary's separate bêrî and berî entries.",
+        "publishedDate": "2003"
+      },
+      {
+        "url": "https://archive.org/details/AKurdishEnglishDictionaryDialectOfSulaimaniaIraq",
+        "stat": "Ernest N. McCarus with Jamal J. Abdulla, A Kurdish–English Dictionary (Dialect of Sulaimania, Iraq), University of Michigan Press, 1967, prepared under a United States Office of Education contract (from the scan's preface). Entry bîr: \"thought, idea; reflection; memory; reminiscence, recollection; mind\", with the idioms bîr-î malawa \"homesickness\", bîr-î malawa k. \"to be homesick\", la bîr-î ... \"to remember, recall\", la bîr çûnawa \"to forget\", bîr la ... k. \"to think of, recall, mention s.th.\" and bîr xistnawa \"to remind s.o. of\". No idiom in the entry means missing a person. A full-text search of the scan for the English verb \"miss\" returns exactly one lexical entry, under dest \"hand\": \"la dest dan, la dezdan to miss, not to avail o.s. of s.th.\". Two further English–Kurdish (Sorani) dictionaries scanned on archive.org agree: the Zanko Dictionary English-Kurdish and the Pocket English–Kurdish Dictionary both gloss the verb miss as le dest dan / le dest çûn (losing) and ne-pêkan (failing to hit), with no emotional sense.",
+        "publishedDate": "1967"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/I_miss_you",
+        "stat": "English Wiktionary's \"I miss you\" phrasebook entry. Its translation table carries exactly one Kurdish line, nested under a bare \"Kurdish:\" header as \"Northern Kurdish: min bêrîya te kiriye\" — there is no Central Kurdish (Sorani) or Southern Kurdish entry. Zazaki appears as a separate top-level language in the same table, not under Kurdish. Checked alongside: the main \"miss\" entry has ten translation tables by sense, and the only Kurdish line on the whole page sits in table 4, \"to be late for something\" (Central Kurdish لەدەسچون); the table for \"to feel the absence of someone or something\" has no Kurdish entry at all. Entry bêrî (Northern Kurdish) is a feminine noun \"longing\" with derived term bêrî kirin \"to long\", verb form given as bêrî dike / bêrî kir; entry berî (Northern Kurdish) is the preposition \"before\"; entry بیر (Central Kurdish) is \"memory, mind\"; entry کردن (Central Kurdish) is \"to do, to make\"."
+      },
+      {
+        "url": "https://www.unicode.org/Public/UCD/latest/ucd/ArabicShaping.txt",
+        "stat": "Unicode Character Database, ArabicShaping-18.0.0.txt, file header dated 2026-08-18. Lines read directly: \"06D5; DOTLESS TEH MARBUTA; R; TEH MARBUTA\", \"06A9; KEHEH; D; GAF\", \"06CC; FARSI YEH; D; FARSI YEH\", \"0695; REH WITH V BELOW; R; REH\", \"06CE; FARSI YEH WITH V ABOVE; D; FARSI YEH\", \"06C6; WAW WITH V ABOVE; R; WAW\", \"06B5; LAM WITH V ABOVE; D; LAM\". The Sorani string بیرت دەکەم is composed of U+0628, U+06CC, U+0631, U+062A, U+0020, U+062F, U+06D5, U+06A9, U+06D5, U+0645 — that is, it uses FARSI YEH and KEHEH rather than the Arabic ARABIC LETTER YEH and ARABIC LETTER KAF, and contains U+06D5 twice, whose joining type R prevents it joining the following letter.",
+        "publishedDate": "2026-08-18"
+      },
+      {
+        "url": "https://dergipark.org.tr/en/pub/dad/article/1696092",
+        "stat": "Sağlam, Özek, Buran and Gooskens, \"Assessing mutual intelligibility between Kurmanji and Zazaki spoken in Elazığ at text level\", Dilbilim Araştırmaları Dergisi (Journal of Linguistics Research) 36(3), pages 97–120, published 2026-01-27, doi 10.18492/dad.1696092, open access per Unpaywall (publishedVersion at the publisher). From the abstract: 243 participants aged 14–19 drawn from nine district centres of Elâzığ province, 27 per district, tested with B1-level text-based tests; \"The findings indicate that mutual intelligibility between Kurmanji and Zazaki remains below 40% for both languages\"; no significant difference between attitudes and functional test results, but a significant correlation between exposure and functional test scores. Abstract and article metadata read; the PDF was not parsed.",
+        "publishedDate": "2026-01-27"
+      }
+    ],
+    "structuralLimitations": [
+      "TASK-PROMPT CORRECTION, and it is load-bearing. The prompt stated that \"Southern Kurdish and Zazaki/Gorani\" are \"also in play and contested as Kurdish at all\". Half of that is right and half is not. ISO 639-3 puts Southern Kurdish (sdh) inside the Kurdish macrolanguage alongside ckb and kmr, so it is not contested there. Zaza is NOT inside it: zza is a macrolanguage of its own covering diq and kiu. Gorani has no membership of kur either. English Wiktionary independently lists Zazaki as a top-level language beside Kurdish. The post therefore says the register treats Zaza as separate rather than repeating that its status is merely contested.",
+      "BRIEF INSTRUMENT CHECK. BRIEF.md warns that its dictionary list has been wrong twice and must be re-verified. Of the cap-exempt instruments named in the task prompt: en.wiktionary.org, iso639-3.sil.org, unicode.org, glosbe.com and tatoeba.org all resolve. webonary.org returns HTTP 403 behind a Cloudflare challenge and was unusable. ethnologue.com was not fetched because iso639-3.sil.org already carried the codes and their macrolanguage membership. No BRIEF.md reference failed to resolve for this row, because no DSAL dictionary was needed: DSAL serves South Asian languages and has no Kurdish dictionary.",
+      "PRIMARY-SOURCE SUBSTITUTION, disclosed. Neither Kurdish dictionary used here is served by a dictionary portal with query URLs and page anchors, the way DSAL serves Carter or Kittel. Both were read as full-text OCR of scans on archive.org, which is why entries are cited by headword rather than by page number — the OCR of these scans interleaves page numbers with body text and I could not attribute a page reliably. The OCR also strips Kurdish circumflexes, so every headword spelling in this post was confirmed against English Wiktionary's separate entries before being printed.",
+      "NO ATTESTED SORANI SENTENCE. The post prints بیرت دەکەم with every morpheme verified against English Wiktionary's Central Kurdish entries, but no dictionary consulted contains the assembled phrase, and the post says so in body prose. Glosbe's English-to-Sorani dictionary returns \"Currently, we have no translations for I miss you in the dictionary\". The only attestation found anywhere was a crowd-sourced translation-memory row on a page ranking for this query, which is not citable. A Sorani corpus with query URLs, or a modern Sorani-English dictionary served online, would close this.",
+      "NO SOUTHERN KURDISH FORM. sdh is one of the three ISO members and the post names it, but no verified Southern Kurdish rendering of the phrase was found in any instrument, so none is printed. The FAQ says this outright rather than inventing one.",
+      "RESEARCH GAP, and it is the honest weakness of the sourcing. The peer-reviewed source measures Kurmanji against ZAZAKI, not Kurmanji against Sorani, because no open-access study of Kurmanji-Sorani mutual intelligibility surfaced through Crossref or Europe PMC. Searches run: \"Kurdish dialectology Kurmanji Sorani\", \"Kurmanji Sorani mutual intelligibility standardization\", \"Kurdish diaspora language maintenance\", \"Kurdish alphabet script orthography identity\", \"Kurdish language variety identity speakers\". The nearest match, Geoffrey Haig's \"Calibrating Kurmanji and Sorani\" (Routledge Handbook on the Kurds, 2018), is closed access with no OA location per Unpaywall. Zero WebSearch calls were spent.",
+      "SOURCES CONSIDERED AND CUT. (a) Yarahmadi, \"Language Shift Among Speakers of Kalhuri Kurdish in Iran\", International Journal of Kurdish Studies 7(1) 2021, n=1,000 in Kermanshah — directly on-subject for Southern Kurdish, cut because a DOAJ journal search for the title returns 0 results and the venue could not be confirmed as indexed. (b) \"Gorani: A Distinct and Independent Language Not a Variety of the So-called Kurdish\", International Journal of Language & Linguistics 2023 — cut on venue: the publisher appears on predatory-publisher lists and BRIEF.md section 4 warns that Crossref indexes such journals. (c) The PLoS ONE paper on Hawleri civic identity — cut because PLoS ONE is already at the batch's journal cap. (d) Özek, Sağlam and Gooskens 2021 in Applied Linguistics Review, the pilot study for the 2026 paper actually cited — cut because De Gruyter returned an empty HTTP 202 to every fetch, so only the Crossref-deposited abstract was readable and the 2026 paper supersedes it with a larger sample.",
+      "CANNIBALISATION. Checked against the language spokes already in this batch (Arabic, Sinhala, Sanskrit, Korean, Japanese, Russian, Spanish, French, German, Italian, Portuguese, Tagalog, Bisaya, Ilocano, Waray, Nepali, Kannada, sign language) and against the 81 live miss-you slugs. Language is one of the three axes BRIEF.md names as never a duplicate, and no live or batch page covers Kurdish. Closest sibling is i-miss-you-in-arabic, which shares the Arabic-script rendering problem; this post does not repeat its gender-marking argument because Kurdish does not mark addressee gender, and says so. The live hub /blog/i-miss-you-in-different-languages was fetched on 2026-09-25: it advertises 50+ languages and contains no occurrence of \"Kurdish\", \"Kurmanji\" or \"Sorani\". This post is linked up to it as the missing row.",
+      "SERP MEASUREMENT, with its limits. The ten URLs came from SERPS-WAVE2.md (DuckDuckGo kl=in-en, 2026-09-25). Live titles and bodies were fetched on 2026-09-25 for seven of them. howtosayguide.com (two results) refused TCP connections from this network entirely, so their content is unknown and only their URL paths are used as evidence. hinative.com (two results) returned HTTP 403 behind a challenge. linguashop.com returns a page whose translation is not rendered without JavaScript. So \"zero of ten cite a dictionary\" is measured on the seven that returned content plus the two howtosayguide URL paths; it is not a claim about pages I could not read, and the post states the reachability failures rather than hiding them.",
+      "FIRST-PARTY DATA IS NOT KURDISH-SPECIFIC and the post says so in the body. The database records which TEMPLATE was opened, never who received it and never what language was written. n = 214 over two months since 2026-07-28; viewCount is page views, not unique visitors; the city, background-music and \"together since\" fields are pickers with defaults, so the 47 city pairs reflect a 15-city list rather than sender choice. All three caveats appear in body prose."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Four internal links. Three are TEMPLATE_LINKS entries (/missyou-gf, /catch, /templates). The fourth is https://subhsandesh.in/blog/i-miss-you-in-different-languages, the live translation hub that BRIEF.md section 2 makes mandatory for a language spoke. It is a blog URL, so it cannot appear in TEMPLATE_LINKS. Recorded rather than dropped, because dropping it would breach the BRIEF."
+        },
+        {
+          "item": "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+          "why": "Passes on five of six, but records a real weakness underneath: the one peer-reviewed source (Saglam et al. 2026) measures Kurmanji against ZAZAKI, not Kurmanji against Sorani. No open-access study measuring Kurmanji-Sorani mutual intelligibility was found via Crossref or Europe PMC; the nearest, Haig's 'Calibrating Kurmanji and Sorani' (Routledge Handbook on the Kurds, 2018, doi:10.4324/9781315627427-9), is closed access with no OA location per Unpaywall. Re-check if that chapter is ever deposited."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body has no H3s at all — the four candidate lines are table rows, not headings, because four near-identical H3s would have pushed the body past 1,800 words. The ItemList in structuredData mirrors the four TABLE ROWS in order instead. Recorded as failed because the item specifies H3s and there are none to mirror."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "No paywalled citation is used, so the item is vacuously satisfiable — but the one journal source was read as abstract-and-metadata only (Crossref-deposited abstract plus the DergiPark landing page), not full text, and the PDF was not parsed. Recorded here rather than claimed as a pass, because the post does not state that limitation in body prose."
+        }
+      ],
+      "honestAssessment": "It would be cited because it is the only page on this query that answers the question the query actually contains — which Kurdish — and can show its work: ISO 639-3's macrolanguage record, Chyet's own gloss of min bêrîya te kir as \"I miss you (polite formula)\", and McCarus and Abdulla's Sorani entry for bîr that contains no idiom for missing a person, which makes بیرت دەکەم an assembled phrase rather than a translation. Three of ten ranking results name a variety in the title and none cites a dictionary, so the bar is low and the differentiation is real. What it cannot overcome is domain authority against Glosbe, HiNative and MyMemory, and one sourcing weakness it does not hide: the only peer-reviewed number in the post measures Kurmanji against Zazaki, not against Sorani, because no open-access Kurmanji-Sorani intelligibility study was findable. Ranking takes months and this makes no prediction about it."
+    },
+    "generatedAt": "2026-09-25T12:27:36.265Z"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Miss Kita in Bicol: What the Phrase Actually Says",
+    "slug": "miss-kita-in-bicol",
+    "excerpt": "\"Miss kita\" reads as \"miss us\" in Central Bikol, where kita is the inclusive we. The line Bikol uses is hidaw taka na, from a native verb attested in the 1865 Lisboa Vocabulario, with taka the portmanteau replacing ko ika.",
+    "metaTitle": "Miss Kita in Bicol — Hidaw Taka Na, and Why Kita Is Wrong",
+    "metaDescription": "Miss kita is not Bikol grammar: kita means we or us. Central Bikol says hidaw taka na, a native verb in Lisboa 1865, and ISO lists eight Bikol languages.",
+    "keywords": "miss kita in bicol, hidaw taka na, i miss you in bikol, central bikol, namimiss taka, bikol taka pronoun",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-kita-in-bicol",
+    "ogType": "article",
+    "tags": [
+      "bikol",
+      "language",
+      "philippines",
+      "long-distance",
+      "translation"
+    ],
+    "keyTakeaways": [
+      "\"Miss kita\" is not Bikol: in Central Bikol kita is the inclusive \"we, us\", so the string reads \"miss us\".",
+      "The Bikol line is hidaw taka na — hidaw is a native verb Wiktionary glosses \"to miss someone\", not the English loanword.",
+      "taka is a portmanteau pronoun replacing ko ika, and it appears in six Central Bikol phrases including padaba taka and gusto taka.",
+      "ISO 639-3 lists bik as a macrolanguage with eight members; Albay Bikol [bhk] was deprecated on 2010-01-15 and Masbatenyo is not a member at all.",
+      "Across 214 miss-you pages the median letter is 88 words and 43.5% are password-protected, against 38.5% platform-wide — the line is an opening, not the message."
+    ],
+    "faqs": [
+      {
+        "question": "How do you pronounce hidaw taka na?",
+        "answer": "Wiktionary records two stress patterns for the verb, hídaw and hidáw, and gives the hyphenation hi-daw. Taka is taká, stressed on the second syllable, and na is unstressed. Because the stress contrast on hidaw is the one thing writing cannot carry, a short voice note does more work here than a careful spelling."
+      },
+      {
+        "question": "Is Bicolano the same thing as Bikol?",
+        "answer": "Bicolano is the Spanish-derived name for the people and, loosely, the speech; Bikol is the name the ISO 639-3 register uses for the macrolanguage bik. They are not two languages. The two top-ranking pages for this query run \"Bicol\" and \"Bicolano\" as separate guides, which is a formatting decision rather than a linguistic one."
+      },
+      {
+        "question": "Should I write taka as one word or two?",
+        "answer": "Wiktionary lemmatises it as one word, taka, and so do the five sibling phrases it lists — padaba taka, padangat taka, namumutan taka, gusto taka, muya taka. Glosbe's Tagalog-Bikol entry spells the same pronoun as two words, ta ka. One word is the dictionary form; two words is common in casual writing and will be read without trouble."
+      },
+      {
+        "question": "What does ta ka mean if you read it as two separate words?",
+        "answer": "Nothing anyone means. In Wiktionary's Central Bikol pronoun grid ta is the short ergative form of the first-person plural inclusive and ka is the short absolute second-person singular, so \"ta ka\" reads as \"we, including you\" plus \"you\". The portmanteau taka is a separate lemma that is not derivable from the grid."
+      },
+      {
+        "question": "Can I just say miss na miss kita to a Bikol speaker?",
+        "answer": "You will be understood, because that is Tagalog and Tagalog is taught nationally. But kita in Central Bikol is the inclusive \"we, us\", so the phrase is not saying what you think in Bikol. If you want the Bikol version of the intensified form, keep the Bikol pronoun: miss na miss taka."
+      },
+      {
+        "question": "Does Masbatenyo use the same word?",
+        "answer": "Masbatenyo is spoken inside the Bicol Region but its ISO 639-3 record, msb, carries no macrolanguage line at all, so it is not one of the eight Bikol languages. Wiktionary holds 380 Masbatenyo lemmas against 6,612 Central Bikol ones, and a full-text search of the Masbatenyo entries on 2026-09-25 returned nothing glossed \"lonely\" and nothing glossed \"to miss\"."
+      },
+      {
+        "question": "Is there a Bikol word for homesick?",
+        "answer": "Not one that Wiktionary glosses that way — a search of its Central Bikol entries for \"homesick\" on 2026-09-25 returned zero results. The nearest are pungaw, \"lonely, depressed, desolate, bleak, gloomy\", and mapungaw, \"to become lonely\". Both describe the state of the person left behind rather than the missing of a specific person, which is hidaw's job."
+      },
+      {
+        "question": "Why do translation apps get Bikol wrong so often?",
+        "answer": "Because most of them do not carry it. MyMemory's public API, which serves two of the ten results for this query, rejects both bik and bcl as target languages outright, and its best match for \"miss na kita in bicol\" is \"i miss you in Chicago.\" Tatoeba holds just 15 Central Bikol sentences in total, none of them about missing anyone, so there is very little for a system to learn from."
+      },
+      {
+        "question": "Is hidaw used in Albay and Sorsogon too, or only around Naga?",
+        "answer": "I could not verify that from the sources reachable here, and I would rather say so than guess. Lisboa's 1865 vocabulary is Old Bikol and predates the modern boundaries; Albay's old ISO code bhk was retired in 2010 and split into four separate languages. If the person you are writing to is from Albay or Sorsogon, ask them which word they use before you send it."
+      },
+      {
+        "question": "Which is more affectionate in Bikol, padaba taka or namumutan taka?",
+        "answer": "Wiktionary tags namumutan taka as literary and formal, and lists padaba taka and padangat taka as its synonyms, which makes padaba taka the everyday one. That labelling is about register, not about strength of feeling. The same choice applies to hidaw taka na, which reads as more deliberate than the borrowed namimiss taka."
+      },
+      {
+        "question": "How long should the message be around the line itself?",
+        "answer": "Longer than the line. Across the 214 miss-you pages measured on 2026-09-25 the median letter runs 88 words and the longest is 1,024, so one translated sentence is an opening rather than the message. That figure is platform-wide, not Bikol-specific, since the database records which template was opened and never who received it."
+      },
+      {
+        "question": "Is it worth password-protecting a page built around a line like this?",
+        "answer": "It is the norm in this segment: 43.5% of miss-you senders password-protect the page before sharing it, 93 of 214, against 38.5% across the whole platform. The caveat is that n = 214 over two months, so the gap is a measured difference rather than a seasonal trend. If the line is going to be read by someone at a shared desk, the password is the obvious precaution."
+      }
+    ],
+    "coverImageQuery": "old spanish philippine dictionary page handwriting",
+    "coverImagePrompt": "A close, photorealistic overhead shot of an open nineteenth-century Spanish-Philippine dictionary, the thin yellowed paper lit by warm window light from the left, with a modern phone resting face-down beside it. Shallow depth of field so only a few dictionary columns are sharp. Clean negative space along the top third for a title overlay, 16:9. No legible text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Miss Kita in Bicol: What the Phrase Actually Says\n\n**\"Miss kita\" is not a Bikol sentence.** In Central Bikol, *kita* is the first-person plural inclusive pronoun — \"we; us (inclusive of the person spoken to)\" — so the string reads *miss us*, not *I miss you*. The line Bikol actually uses is **hidaw taka na**, and unusually for a Philippine language it is built on a native verb rather than the English loanword.\n\nSubhSandesh has 214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections, and 88.8% of started miss-you pages are published and shared (190 of 214). The median gap between first save and last edit is 2.6 hours — not the behaviour of people firing off a one-liner.\n\nTwo disclosures: n = 214 over two months, so no seasonal reading survives it, and **no figure here is Bikol-specific** — the database records which template was opened, never who received it or in what language.\n\n## Is \"miss kita\" correct Bikol?\n\nNo, and the pronoun is why. Wiktionary's Central Bikol entry for *kitá* gives \"we; us (inclusive of the person spoken to)\", with the example *Luwas na kita* — \"Let us get out.\" Cebuano, Waray and Tagalog carry the same inclusive *kita*, but Tagalog additionally fuses *ko* + *ikaw* into a second *kita* meaning \"I … you\". Bikol fuses those into **taka** instead.\n\nSo \"miss kita\" is Tagalog grammar wearing a Bikol label. The sibling post on [why there is no Tagalog word for \"miss\"](https://subhsandesh.in/blog/no-tagalog-word-for-miss) handles the Tagalog half; this one stays in Bikol.\n\n## Which Bikol? The ISO register lists eight\n\n\"Bikol\" is not one language. In the ISO 639-3 register, **bik is a macrolanguage** with eight active member languages: Central Bikol (bcl), Southern Catanduanes Bikol (bln), Rinconada Bikol (bto), Northern Catanduanes Bikol (cts), West Albay Bikol (fbl), Libon Bikol (lbl), Miraya Bikol (rbl) and Buhi'non Bikol (ubl).\n\nTwo corrections worth carrying. **\"Albay Bikol\" [bhk] is a deprecated code**, retired 2010-01-15 under change request 2009-078 and split into fbl, lbl, rbl and bto.\n\nAnd **Masbatenyo [msb] is not in the Bikol macrolanguage at all**, despite being spoken inside the Bicol Region — its ISO record carries no macrolanguage line. \"Pandan Bikol\" appears nowhere in the eight.\n\nEverything below is Central Bikol — the Naga and Legazpi variety, ISO bcl — unless it says otherwise. No ranking page says that sentence.\n\n## hidaw taka na, taken apart\n\nWiktionary carries **hidaw taka na** as a Central Bikol phrasebook entry glossed \"I miss you\". Here is what each piece does.\n\n### 1. hidaw — the native verb\n\n*hídaw / hidáw*, Central Bikol verb: \"to miss someone; to feel the absence of an acquaintance.\" Not a loan, not a calque. Its derived terms are *maghidaw*, *hidawon* and *hidaw taka na*.\n\n### 2. taka — the pronoun that is not on the grid\n\n*taká* is a Central Bikol pronoun in its own right: \"Second-person form, used when speaking directly to the receiver of a verb, combining the first- and second-person. Replacement for **ko ika** (I or my *and* you).\" Its usage example is *padaba taka*, \"I love you.\"\n\nThis is the part the forum answers get wrong by writing it as two words. Wiktionary's Central Bikol pronoun grid has *ta* as the **short ergative form of the first-person plural inclusive** (full form *nyato*, absolute *kita*) and *ka* as the **short absolute second-person singular**.\n\nRead as two cells, \"ta ka\" is \"we (inclusive, ergative) + you\", which is not a sentence anybody means. *taka* is a portmanteau, lemmatised as one word, and it is not derivable from the grid.\n\n### 3. na — the \"already\"\n\nThe enclitic *na* marks \"already\". *Hidaw taka* is the bare statement; *hidaw taka na* is what you send after a while apart.\n\n### 4. The frame is productive\n\n*taka* is not a fossil inside one phrase. Wiktionary lemmatises six Central Bikol phrases on the frame: *namumutan taka* (literary, \"I love you\"), *padaba taka*, *padangat taka*, *gusto taka*, *muya taka* and *hidaw taka na*. Swap the verb, keep the pronoun.\n\nRinconada Bikol does not do this. Its entry for *payabâ* (\"beloved; sweetheart\") lists the derived term **payaba ko ika** — *ko ika*, spelled out, uncontracted. Different variety, different grammar, which is why a single \"correct\" answer to this keyword does not exist.\n\n## So what about namimiss taka?\n\nYou will hear *namimiss taka* and *na-miss taka* from Bikol speakers, and both are real spoken usage — English *miss* with Bikol affixation and the Bikol pronoun. Be clear about their status, though: **Wiktionary has no entry for *namimiss*, *nami-miss*, *miss taka* or *namimiss taka*** in any Bikol variety, and Glosbe's English–Bikol dictionary returns \"Currently, we have no translations for I miss you in the dictionary.\" Checked 2026-09-25.\n\nThe borrowed line is attested in life and absent from the reference works; the native line is the reverse. Say the borrowed one aloud; write the native one down.\n\n## What the 1865 Bikol dictionary has under HIDAO\n\nFray Marcos de Lisboa's *Vocabulario de la lengua Bicol*, reprinted at the Colegio de Santo Tomás in Manila in 1865 from a manuscript by a friar who died in 1628, carries the headword **HIDAO**: \"lo que falta, ó se echa menos\" — what is lacking, or is missed. Its Spanish-to-Bikol index is blunter: \"*Echar menos lo que falta, ó se muere.* Hidao, pp.\"\n\nNote *ó se muere*, \"or has died\". The entry runs through *nahidao*, *hinihidao*, *hinihidauan* and *nahihidao*, glossing the last as what is missed \"por muerte, ó por otra causa\". Bikol's native word for missing someone has covered bereavement for four centuries, which makes it heavier than the loan.\n\nJason Lobel's study of Old Bikol verb paradigms in *Oceanic Linguistics* 43(2), 2004, pages 469–497, draws on the same Lisboa vocabulary and compares Old Bikol with Rinconada Bikol and Waray-Waray — confirmation that these varieties diverge in verb morphology, not only spelling.\n\n## What the results for this keyword actually say\n\nI ran the India SERP for \"miss kita in bicol\" on 2026-09-25 and read every result I could reach: ten results across six domains, howtosayguide twice, mymemory twice, two Facebook posts. **Not one names a Bikol variety**, and only one is a dictionary.\n\n| Result | What it offers for this query | Names a variety? |\n|---|---|---|\n| howtosayguide ×2 (#1, #2) | \"Bicol\" and \"Bicolano\" run as two separate guides | Not fetchable — Cloudflare challenge on three routes |\n| answers.com (#3) | The whole answer is \"atik ssim n\" — the query reversed | No |\n| kitamasarite.blogspot (#5) | Scraped fragments, Spanish *extrañar*, no Bikol form | No |\n| mymemory ×2 (#7, #9) | Machine-translation memory dumps | No |\n| glosbe (#10) | \"We have no translations for I miss you in the dictionary\" | No |\n\nAnswers.com renders *mahal kita* as \"namomotan **ta ka**\" and \"namomotan ko **ikaw**\" on one page — but *ikaw* is Tagalog; the Central Bikol absolute is *ika*, which is what the *taka* entry says the portmanteau replaces.\n\n**The checkable error is MyMemory's, and it reproduces.** Query its public API for \"miss na kita in bicol\" and the top match returns as **\"i miss you in Chicago.\"** — match 0.85, quality 70, created by \"MT!\". The engine read *bicol* as a place name and normalised it to Chicago.\n\nAsk that API for Bikol as a target language and it answers \"'BIK' IS AN INVALID TARGET LANGUAGE\"; *bcl* is refused too. Two of the ten ranking results run on a system that does not support the language in the query.\n\nThe research agrees the resources are thin. Pandes and Martinez, at the 32nd International Conference on Computers in Education in November 2024, built a morphological analyser for Rinconada Bikol because it is a \"low-resource language with limited linguistic data\", reaching 0.90 precision and an F1 of 0.95.\n\n## What 214 miss-you pages show about the message around the line\n\nA translated line is one sentence; the pages people send are longer. Across the 214 miss-you pages the **median letter is 88 words and the longest is 1,024**, so the Bikol line is an opening, not the message.\n\n**43.5% of miss-you senders password-protect the page before sharing it (93 of 214), against 38.5% across the whole platform** — the most private segment measured here. And 13.6% record a voice note (29 of 214), which is the part that matters for Bikol: *hidaw* has a stress contrast (*hídaw* / *hidáw*) that no written line carries.\n\nThe pages name 47 distinct city pairs from a 15-city picker, including Mumbai–London. That field is a **picker with defaults**, so it reports the options offered rather than a sender's choice, and says nothing about where Bikol speakers live. View counts are page opens, not unique visitors, which is why no engagement figure appears here.\n\n| What you want to send | Line to use | Variety it belongs to | Verified against | Fits which of the 214 pages |\n|---|---|---|---|---|\n| The dictionary-solid line | *Hidaw taka na* | Central Bikol (bcl) | Wiktionary phrasebook entry, 2026-09-25 | The 86.4% that carry a written memory |\n| What you'd actually say aloud | *Namimiss taka* | Central Bikol (bcl), spoken only | Unattested in Wiktionary and Glosbe | The 13.6% with a voice note |\n| A Rinconada reader | *Payaba ko ika* frame | Rinconada Bikol (bto) | Wiktionary, 59 lemmas total | Any, with the variety named |\n\n## When a Bikol line is the wrong thing to send\n\nIf the person reads Bikol second and English first, a Bikol opening can land as a performance rather than a message. Send it in the language you two argue in.\n\nThe honest limit of the template: the ['I miss you' page for a partner](/missyou-gf) is built for this reader — a letter, a countdown, a voice note — but **its furniture is English**. Buttons, labels and prompts are all English, so a Bikol line sits in an English frame. There is no Bikol interface, and pretending otherwise would not survive the recipient opening it.\n\nIf you want a letter rather than a page, [Catch](/catch) fits better: it drops the letter a line at a time and locks nothing, which suits a message you are still editing 2.6 hours later. Otherwise [browse the full template set](/templates).\n\nThe live hub [I miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages) covers 50-plus — but carries one Philippine line, Tagalog, and no Bikol, which is why this page exists.\n\n## Sources\n\n- [Wiktionary, Central Bikol *hidaw*](https://en.wiktionary.org/wiki/hidaw)\n- [Wiktionary, Central Bikol *taka*](https://en.wiktionary.org/wiki/taka)\n- [ISO 639-3, macrolanguage bik](https://iso639-3.sil.org/code/bik)\n- [Lisboa, *Vocabulario de la lengua Bicol*, Manila 1865](https://archive.org/details/aqa2025.0001.001.umich.edu)\n- [Lobel, *Oceanic Linguistics* 43(2), 2004](https://api.crossref.org/works/10.1353/ol.2005.0007) — abstract only\n- [Pandes & Martinez, ICCE 2024](https://library.apsce.net/index.php/ICCE/article/view/4922)",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-kita-in-bicol#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Central Bikol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Central_Bikol",
+              "https://www.wikidata.org/wiki/Q33284"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bikol languages",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bikol_languages",
+              "https://www.wikidata.org/wiki/Q35455"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Rinconada Bikol language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Rinconada_Bikol_language",
+              "https://www.wikidata.org/wiki/Q12633026"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Masbatenyo language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Masbatenyo_language",
+              "https://www.wikidata.org/wiki/Q33948"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Bicol Region",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bicol_Region",
+              "https://www.wikidata.org/wiki/Q13662"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Mark of Lisbon",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mark_of_Lisbon",
+              "https://www.wikidata.org/wiki/Q6770515"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — Central Bikol hidaw",
+            "url": "https://en.wiktionary.org/wiki/hidaw",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — Central Bikol taka",
+            "url": "https://en.wiktionary.org/wiki/taka",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ISO 639-3 registration authority record for bik (Bikol)",
+            "url": "https://iso639-3.sil.org/code/bik",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL Global"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Vocabulario de la lengua Bicol",
+            "url": "https://archive.org/details/aqa2025.0001.001.umich.edu",
+            "datePublished": "1865",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Establecimiento Tipográfico del Colegio de Santo Tomás, Manila"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Old Bikol -um- vs. mag- and the Loss of a Morphological Paradigm",
+            "url": "https://api.crossref.org/works/10.1353/ol.2005.0007",
+            "datePublished": "2004-12-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Oceanic Linguistics (University of Hawai'i Press)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Mapping Morphological Patterns: A Framework for Rinconada Bikol Language Morphological Analysis and Stemming",
+            "url": "https://library.apsce.net/index.php/ICCE/article/view/4922",
+            "datePublished": "2024-11-25",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Asia-Pacific Society for Computers in Education"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "hidaw taka na, taken apart",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "hidaw — the native verb"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "taka — the pronoun that is not on the grid"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "na — the “already”"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The frame is productive"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss kita in bicol",
+    "angle": "Wins by being the only post that answers this keyword variety-by-variety — ISO 639-3 registers bik as a macrolanguage with eight members, so Central Bikol's hidaw taka na (a native verb, glossed 'to miss someone', and HIDAO in Lisboa's 1865 Vocabulario) is not Rinconada's uncontracted payaba ko ika — and the only one that takes apart taka as a portmanteau replacing ko ika rather than the two grid cells ta + ka, set against 214 first-party miss-you pages where the median letter runs 88 words and 88.8% of started pages are published.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/hidaw",
+        "stat": "Central Bikol verb hidaw (hídaw, hidáw): 'to miss someone; to feel the absence of an acquaintance', with derived terms maghidaw, hidawon and hidaw taka na. Fetched 2026-09-25."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/taka",
+        "stat": "Central Bikol pronoun taká: 'Second-person form, used when speaking directly to the receiver of a verb, combining the first- and second-person. Replacement for ko ika (I or my and you)', with the example padaba taka 'I love you'. Fetched 2026-09-25."
+      },
+      {
+        "url": "https://iso639-3.sil.org/code/bik",
+        "stat": "ISO 639-3 registers bik 'Bikol' as a MACROLANGUAGE with eight active members — bcl Central Bikol, bln Southern Catanduanes Bikol, bto Rinconada Bikol, cts Northern Catanduanes Bikol, fbl West Albay Bikol, lbl Libon Bikol, rbl Miraya Bikol, ubl Buhi'non Bikol — and records bhk Albay Bicolano as Deprecated 2010-01-15 under change request 2009-078. Fetched 2026-09-25."
+      },
+      {
+        "url": "https://archive.org/details/aqa2025.0001.001.umich.edu",
+        "stat": "Lisboa, Vocabulario de la lengua Bicol, Manila: Est. Tip. del Colegio de Santo Tomas, 1865 (compiler d. 1628). Headword HIDAO: 'lo que falta, ó se echa menos'; Spanish-to-Bikol index: 'Echar menos lo que falta, ó se muere. Hidao, pp.'; nahihidao glossed as what is missed 'por muerte, ó por otra causa'. Read from the item's OCR text layer 2026-09-25.",
+        "publishedDate": "1865"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1353/ol.2005.0007",
+        "stat": "Lobel, 'Old Bikol -um- vs. mag- and the Loss of a Morphological Paradigm', Oceanic Linguistics 43(2), pp. 469–497. Abstract: 'Evidence is presented from Fr. Marcos de Lisboa's seventeenth-century Vocabulario de la Lengua Bicol that many Old Bikol verbs had contrasting -um- and mag- conjugations… compared with those of Waray-Waray, Southern Tagalog, and Rinconada Bikol.' ABSTRACT ONLY — the article is on Project MUSE and Unpaywall reports no open-access location.",
+        "publishedDate": "2004-12-01"
+      },
+      {
+        "url": "https://library.apsce.net/index.php/ICCE/article/view/4922",
+        "stat": "Pandes & Martinez, 'Mapping Morphological Patterns: A Framework for Rinconada Bikol Language Morphological Analysis and Stemming', ICCE 2024 (32nd International Conference on Computers in Education). Rinconada Bikol is treated as a 'Low-resource language with limited linguistic data'; the analyser reports 0.90 precision, 1.00 recall and an F1 of 0.95. Open-access landing page read 2026-09-25.",
+        "publishedDate": "2024-11-25"
+      }
+    ],
+    "serpMeasurement": {
+      "engine": "ddg-html kl=in-en, scripts/serp-ddg.mjs, 2026-09-25",
+      "resultsReturned": 10,
+      "distinctDomains": 6,
+      "duplicatedDomains": "howtosayguide ×2 (#1, #2), mymemory ×2 (#7, #9), facebook.com ×2 (#4, #6, excluded as social by the tool)",
+      "namingABikolVariety": 0,
+      "citingAnyDictionary": "1 of 10 is a dictionary (glosbe #10) and it returns 'Currently, we have no translations for I miss you in the dictionary'",
+      "subhsandeshPresent": false,
+      "unreachable": "howtosayguide.com #1 and #2 — Cloudflare managed challenge on direct fetch, r.jina.ai and two CORS proxies; brainly.ph (in the stored SERP, off the live one) returns 403",
+      "checkableError": "MyMemory (results #7 and #9) renders 'miss na kita in bicol' as 'i miss you in Chicago.' (match 0.85, quality 70, created-by MT!) via its public API, and rejects both bik and bcl as target languages — 'BIK IS AN INVALID TARGET LANGUAGE'. Reproducible at https://api.mymemory.translated.net/get?q=miss%20na%20kita%20in%20bicol&langpair=tl%7Cen",
+      "secondError": "answers.com (#3) answers the exact query with 'atik ssim n' — the query string reversed — and on the same page glosses mahal kita as 'namomotan ko ikaw', using the Tagalog absolute ikaw where Central Bikol has ika."
+    },
+    "structuralLimitations": [
+      "BRIEF CLAIM CORRECTED. The task prompt listed 'Masbatenyo' as a Bikol variety and 'bhk' as a live Albay Bikol code. Neither survives the ISO 639-3 register: msb Masbatenyo carries no macrolanguage line and is not one of the eight members of bik, and bhk Albay Bicolano was Deprecated on 2010-01-15 under change request 2009-078, split into fbl, lbl, rbl and bto. 'Pandan Bikol' appears nowhere in the eight member names; the Catanduanes varieties are cts and bln. Corrected in the body.",
+      "SET THESIS REFINED, NOT RE-ARGUED. The Philippine set's headline finding is that 'miss' is the borrowed English word across these languages. Central Bikol is the sharpest counter-example in the set: Wiktionary glosses hidaw as 'to miss someone; to feel the absence of an acquaintance', and its 'I miss you' phrasebook page carries 106 translations across 73 language codes of which exactly two are Philippine — Central Bikol (hidaw taka na) and Kapampangan. Tagalog, Cebuano, Ilocano, Waray, Hiligaynon, Pangasinan, Masbatenyo and Rinconada are all absent from that page. The post states this in two sentences and cross-links no-tagalog-word-for-miss rather than re-arguing it.",
+      "DICTIONARY RESOLUTION CHECKED BEFORE USE, as BRIEF.md §3 requires after the Monier-Williams and Clough/Carter corrections. webonary.org (SIL), named in the task prompt as a cap-exempt instrument, is Cloudflare-blocked from this environment: both https://www.webonary.org/?s=bikol and ?s=bicol returned 403 'Sorry, you have been blocked' on 2026-09-25, so no section was built on it. dsal.uchicago.edu holds no Bikol dictionary and was not used. ethnologue.com was not needed once the ISO register served the variety codes directly. diksiyonaryo.ph (KWF) is a Filipino dictionary, already cited by the Tagalog sibling, and has no Bikol headwords, so it was left alone.",
+      "TOP TWO RESULTS UNREADABLE. howtosayguide.com ranks #1 and #2 for this keyword and is behind a Cloudflare managed challenge; direct fetch, r.jina.ai and two CORS proxies all failed on 2026-09-25. The SERP measurements in the body count those two by title and URL only and say so. Re-check when a fetcher that clears the challenge is available.",
+      "CANNIBALISATION. The live site has 81 miss-you pages and none is about Bikol; the live hub /blog/i-miss-you-in-different-languages was fetched on 2026-09-25 and carries exactly one Philippine line, Tagalog ('Miss na kita / Nami-miss kita'), with no Bikol, Cebuano, Ilocano or Waray. The in-batch siblings are language rows on the language axis, which BRIEF.md §2 treats as a genuine difference. This post's specific non-overlap: the Ilocano row owns 'kita is not a fused pronoun in Ilocano'; this row owns the opposite finding — Bikol DOES fuse, into taka, and the fusion is variety-specific (Rinconada spells out ko ika).",
+      "BORROWED FORM UNATTESTED. namimiss taka / na-miss taka is the form the whole SERP gestures at, and it has no Wiktionary entry in any Bikol variety (namimiss, nami-miss, miss taka and namimiss taka all return 'page does not exist'), while Glosbe's English-Bikol dictionary returns no translation for 'miss' or 'I miss you'. The post reports it as real spoken usage that the reference works do not record, rather than asserting a spelling.",
+      "CORPUS ABSENCE, MEASURED. Tatoeba holds 15 Central Bikol sentences in total; all 15 were read on 2026-09-25 and none is about missing anyone (they are greetings, Paaram, Salamat, Marhay na aga and similar). Wiktionary lemma counts on the same date: Central Bikol 6,612, Masbatenyo 380, Rinconada Bikol 59 — against Tagalog 33,406 and Cebuano 15,515. Nothing here can be said about Rinconada usage beyond what its 59 lemmas record.",
+      "NO BIKOL-SPECIFIC FIRST-PARTY DATA EXISTS. Every first-party figure is platform-wide or /missyou-gf-wide. The database records which template was opened, never who received it or in what language, so no figure in this post is evidence about Bikol senders. Stated in the body's third paragraph. n = 214 over two months; the city field is a picker with defaults; viewCount is page views, not unique visitors.",
+      "PDFs DO NOT PARSE HERE. Both scholarly sources were read as abstract-and-metadata: Lobel 2004 from its Crossref record (Project MUSE, no OA location in Unpaywall), Pandes & Martinez 2024 from the open-access ICCE landing page. Lorenzana's 'Phonological, Lexical, and Morphological Analysis of the Philippine East Miraya Bikol-Pilar Dialect' (Bicol University Research and Development Journal, 2020, doi 10.47789/burdj.mbtcbbgs.20182101.3) was read the same way and is NOT cited, because journal.bicol-u.edu.ph serves its site homepage for every article path and doi.org is at the batch cap of 3."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "The two top-ranked results (howtosayguide.com/how-to-say-i-miss-you-in-bicol/ and /how-to-say-i-miss-you-in-bicolano/) are behind a Cloudflare managed challenge and returned no body on three routes (direct fetch, r.jina.ai, two CORS proxies) on 2026-09-25, so the no-mirroring check rests on the eight results that could be read. Closes when those two pages are readable from any fetcher available here."
+        },
+        {
+          "item": "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+          "why": "Two sources clear the subject test on research grounds (Lobel 2004 on Old Bikol verb paradigms; Pandes & Martinez 2024 on Rinconada Bikol morphology). The other four are reference instruments — Wiktionary, ISO 639-3, Lisboa 1865 — which are about the language but are lexicography rather than research. Counting only the research half, the post is at exactly 2, with no margin. Closes if an open-access study of Bikol pronoun morphology or of Bikol-English code-switching becomes readable; Springer's Language Resources and Evaluation paper on the Rinconada Nabua corpus (doi 10.1007/s10579-024-09782-4) is the obvious candidate and is paywalled with no OA location in Unpaywall."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that names which Bikol it is talking about, and it can prove the answer three ways a translation dump cannot: Wiktionary's phrasebook entry hidaw taka na, the taka portmanteau entry that explains what 'ta ka' actually is, and the HIDAO headword in Lisboa's 1865 Vocabulario. The SERP it enters is the weakest in the batch — ten results, six domains, none naming a variety, one a dictionary that is empty on the question — and two of them run on a system that answers 'i miss you in Chicago.' and rejects Bikol as a target language, which is a reproducible error an answer engine can check. What it cannot overcome: subhsandesh.in has no authority on Philippine linguistics, the query is low-volume and diaspora-shaped, and the two top-ranked pages could not be read at all, so the differentiation is measured against eight of ten results rather than all ten. Ranking here would take months and is not something this post can predict."
+    },
+    "generatedAt": "2026-09-25T12:28:29.082Z"
+  }
+}

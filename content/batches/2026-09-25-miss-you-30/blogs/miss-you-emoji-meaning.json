@@ -1,0 +1,358 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Miss You Emoji Meaning: Unicode Has Never Encoded One",
+    "slug": "miss-you-emoji-meaning",
+    "excerpt": "There is no \"miss you\" emoji. Of the 3,966 fully-qualified emoji sequences in Unicode 18.0, none is named for missing someone. Here is the codepoint, the CLDR short name and the release version for every emoji people send instead — and what the research says about being read correctly.",
+    "metaTitle": "Miss You Emoji Meaning: None of 3,966 Emoji Say It",
+    "metaDescription": "Miss you emoji meaning, checked against Unicode 18.0: none of 3,966 emoji is named for it. Codepoints and versions for 🥺 🫂 💔 🥹, and what each is read as.",
+    "keywords": "miss you emoji meaning, is there a miss you emoji, 🥺 meaning, 🫂 people hugging emoji, emoji codepoint unicode version",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-you-emoji-meaning",
+    "ogType": "article",
+    "tags": [
+      "emoji",
+      "unicode",
+      "miss you",
+      "texting",
+      "first-party data"
+    ],
+    "keyTakeaways": [
+      "There is no \"miss you\" emoji: of 3,966 fully-qualified emoji sequences in Unicode 18.0, none carries miss, longing, lonely, yearn or nostalgia in its name.",
+      "🥺 needs Unicode 11.0 (2018), 🫂 needs 13.0 (2020) and 🥹 and 🫰 need 14.0 (2021); 💔 😢 😭 😔 all date to Unicode 6.0 in 2010 and render nearly everywhere.",
+      "Two people rating the same emoji rendering disagreed on its sentiment 25% of the time, and adding surrounding text did not reduce that across 2,482 participants.",
+      "😢 scores +0.007 in the Emoji Sentiment Ranking across 749 occurrences — indistinguishable from neutral, not reliably read as sad.",
+      "Recipients of our 214 miss-you pages sent back 1,434 hug taps across 138 of them, answering with a gesture instead of a word."
+    ],
+    "faqs": [
+      {
+        "question": "What emoji should I send to say I miss you?",
+        "answer": "There is no emoji that means it, so pick by what the other person will read rather than by a list. 🫂 U+1FAC2 people hugging is the most literal, and 💔 U+1F494 broken heart is the one most likely to be over-read as a breakup."
+      },
+      {
+        "question": "What does 🥺 actually mean?",
+        "answer": "Its CLDR short name is pleading face and its formal Unicode character name is FACE WITH PLEADING EYES, both meaning asking rather than missing. It was added in Unicode 11.0, released in 2018, so it will not show on a phone whose emoji font is older than that."
+      },
+      {
+        "question": "What does the 🫂 hugging emoji mean?",
+        "answer": "🫂 is U+1FAC2, CLDR short name people hugging, added in Unicode 13.0 in 2020. It has no faces, no gender and no skin tone, which is why it reads the same whether you send it to a partner or to a parent."
+      },
+      {
+        "question": "Is 💔 too strong for just missing someone?",
+        "answer": "Often, yes. 💔 U+1F494 broken heart scores −0.121 in the Emoji Sentiment Ranking and carries breakup and bereavement meanings alongside ordinary absence, so a recipient has to guess which one you meant."
+      },
+      {
+        "question": "Why does the emoji I sent show up as a blank box on their phone?",
+        "answer": "That box is called tofu, and it means their emoji font predates the character. 🥹 and 🫰 both need Unicode 14.0 from 2021, while 💔 😢 😭 😔 date to Unicode 6.0 in 2010 and render nearly everywhere."
+      },
+      {
+        "question": "What is the difference between 🥹 and 😂?",
+        "answer": "They are different characters. 🥹 is U+1F979, face holding back tears, added in Unicode 14.0; 😂 is U+1F602, face with tears of joy, from Unicode 6.0. Mixing the two names up is one of the most common errors in emoji explainers."
+      },
+      {
+        "question": "Does 😢 mean the person is actually sad?",
+        "answer": "Not reliably. In the Emoji Sentiment Ranking 😢 scores +0.007 across 749 occurrences, with 39.1% of human annotations positive against 38.4% negative — statistically indistinguishable from neutral."
+      },
+      {
+        "question": "Do emoji mean something different to Gen Z?",
+        "answer": "For a handful of emoji that have actually been tested, yes. A 2024 Language@Internet survey found Gen Z respondents rated 😊 and 👍 as more passive-aggressive than older respondents did, but nobody has measured how any generation reads 🥺 as I miss you."
+      },
+      {
+        "question": "Is it better to send an emoji or write a sentence?",
+        "answer": "Adding words helps less than people expect: a study of 2,482 participants found interpretation stayed about as variable with surrounding text as without it. On our own miss-you pages the median written letter runs 88 words, and the longest is 1,024."
+      },
+      {
+        "question": "What is a CLDR short name?",
+        "answer": "It is the descriptive label your keyboard search and screen reader use for an emoji, published in Unicode's emoji-test.txt. It is not the same string as the formal character name in UnicodeData.txt, and for 🤗 the two disagree: HUGGING FACE against smiling face with open hands."
+      }
+    ],
+    "coverImageQuery": "phone keyboard emoji picker close up",
+    "coverImagePrompt": "A close, photorealistic macro shot of a phone screen showing an open emoji keyboard, one face emoji mid-tap under a thumb, the rest of the grid softly out of focus. Cool evening light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No readable text on screen except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Miss You Emoji Meaning: Unicode Has Never Encoded One\n\nThere is no \"miss you\" emoji. Unicode has never encoded one. Of the 3,966 fully-qualified emoji sequences in [emoji-test.txt for Unicode 18.0](https://unicode.org/Public/emoji/latest/emoji-test.txt), dated 30 April 2026, not one carries *miss*, *longing*, *lonely*, *yearn* or *nostalgia* in its name. So the real question behind *miss you emoji meaning* is which of 🥺 🫂 💔 😢 😭 🥹 😔 🫰 gets **read** as \"I miss you\" — a different question with a different answer. The receiving end seems to know this already: recipients of our miss-you pages sent back 1,434 hug taps across 138 of 214 pages, a gesture rather than a word, while the median written letter on those pages runs 88 words. Below: every codepoint, the version each arrived in, what the research says about being understood, and when to stop reaching for a glyph.\n\n## Is there a \"miss you\" emoji in Unicode?\n\nNo. Unicode encodes characters, not sentiments, and no character in the standard is defined as meaning \"I miss you\". The Consortium publishes the complete list as a plain text file, `emoji-test.txt`, and the current one covers Unicode 18.0.\n\nSearch all 3,966 of its CLDR short names for *miss*, *longing*, *lonely*, *yearn* or *nostalgia* and one line comes back: 🪘 **long drum**, a false positive on \"long\". There is no second hit.\n\nWhat exists instead is a set of faces and symbols people have pressed into service. Each has an official name, a codepoint and a release version, and none of the three is \"miss you\".\n\n## Eight emoji people send for \"I miss you\", and what Unicode calls each\n\nEvery name and codepoint below comes from `emoji-test.txt`, every release version from [DerivedAge.txt in the Unicode Character Database](https://www.unicode.org/Public/UCD/latest/ucd/DerivedAge.txt), dated 29 June 2026.\n\n### 1. 🥺 — U+1F97A, pleading face\n\nUnicode 11.0, 2018. CLDR short name *pleading face*; formal character name FACE WITH PLEADING EYES. It means asking, not missing. It reads as \"I want something from you\" — close enough to longing that it became the default, far enough that it also reads as wheedling.\n\n### 2. 🫂 — U+1FAC2, people hugging\n\nUnicode 13.0, 2020. Two featureless figures: no faces, no gender, no skin tone. It survives being sent to a parent as easily as to a partner, and it is the only one here that depicts what someone missing a person actually wants.\n\n### 3. 💔 — U+1F494, broken heart\n\nUnicode 6.0, 2010, so it renders on essentially any phone still switched on. Its problem is severity: it is the emoji of a breakup and a bereavement as much as of a Tuesday apart, and nothing in it says which you meant.\n\n### 4. 😢 — U+1F622, crying face\n\nUnicode 6.0, 2010. In the Emoji Sentiment Ranking it scores +0.007 across 749 occurrences — indistinguishable from neutral, 39.1% of annotations positive against 38.4% negative. The crying face is not reliably read as sad.\n\n### 5. 😭 — U+1F62D, loudly crying face\n\nUnicode 6.0, 2010. It scores −0.093 over 5,526 occurrences, so it reads as more negative than 😢 despite being the one people reach for when being theatrical. It is by a wide margin the most-used of this group.\n\n### 6. 🥹 — U+1F979, face holding back tears\n\nUnicode 14.0, 2021, the newest face here and the riskiest to send. It is *not* \"face with tears of joy\" — that is 😂, U+1F602 — a mix-up common enough that machine-written answers to this query have printed the wrong name for it.\n\n### 7. 😔 — U+1F614, pensive face\n\nUnicode 6.0, 2010. The most negative of the group in the sentiment lexicon at −0.146 across 1,205 occurrences, 46.4% of annotations negative. To signal low mood rather than affection, this is the one that lands.\n\n### 8. 🫰 — U+1FAF0, hand with index finger and thumb crossed\n\nUnicode 14.0, 2021. The finger heart. Its official name describes a hand position and says nothing about affection: the meaning is conventional, learned from Korean popular culture, invisible to anyone who has not learned it.\n\n## The official name and the name on your phone are two different strings\n\nUnicode publishes two names per emoji and they are not the same object. `UnicodeData.txt` carries the immutable formal character name — for 🥺, FACE WITH PLEADING EYES. `emoji-test.txt` carries the CLDR short name your keyboard search and screen reader use — for 🥺, *pleading face*.\n\nUsually they differ cosmetically. Sometimes they contradict each other. 🤗 is formally HUGGING FACE, fixed at Unicode 8.0 in 2015 and unchangeable; its CLDR short name is *smiling face with open hands*. One says the gesture is a hug, the other says open palms.\n\nSo there is no single authority to appeal to when someone reads your emoji differently from the way you meant it: \"the official meaning\" is two strings from two processes.\n\n## Why the emoji you pick is not always the emoji they see\n\nTwo failures sit between your keyboard and their screen, both invisible to you.\n\nThe first is age. 💔 😢 😭 😔 all date to Unicode 6.0 in 2010 and render almost anywhere. 🥺 needs Unicode 11.0 from 2018, 🫂 needs 13.0 from 2020, and 🥹 and 🫰 both need 14.0 from 2021. A phone that stopped taking system updates before its emoji font was refreshed shows a tofu box — a blank rectangle — instead. The message still sends. You never find out.\n\nThe second is drawing. The standard fixes the codepoint and the name, not the picture. Apple, Google, Samsung and WhatsApp each draw the same codepoint their own way, and Miller and colleagues at the University of Minnesota showed in [their ICWSM 2016 study of emoji interpretation](https://ojs.aaai.org/index.php/ICWSM/article/view/14757) that when two people rated the **same** rendering, they disagreed on whether its sentiment was positive, neutral or negative 25% of the time. Across platforms the disagreement grows.\n\n## What the research says about being read correctly\n\nThe obvious fix — wrap the emoji in words — has been tested and does less than people assume. In a [follow-up study with 2,482 participants](https://ojs.aaai.org/index.php/ICWSM/article/view/14901) published on 3 May 2017, the same group had people interpret emoji in isolation and inside several textual contexts. Miscommunication potential came out roughly the same either way.\n\nSentiment is measurable, at least for the older characters. The [Emoji Sentiment Ranking v1.0](http://kt.ijs.si/data/Emoji_sentiment_ranking/) is the source of every score above: 751 emoji ranked from 1.6 million tweets in 13 European languages, labelled by 83 annotators. It has one hard limit. Built in 2015, it predates 🥺, 🫂, 🥹 and 🫰, which therefore have no score — the emoji people now reach for first are the least studied.\n\nOn generational reading there is one measured result, narrower than the claims made about it. Zhukova and Herring's [2024 survey in *Language@Internet*](https://scholarworks.iu.edu/journals/index.php/li/article/view/40800) found Gen Z respondents rated the smile 😊 and thumbs up 👍 as **more** passive-aggressive than older respondents did, while older respondents rated 🔥 and 💣 more negatively. That is what was tested. Nobody has measured how any generation reads 🥺 as \"I miss you\".\n\n## How to choose, compared\n\nFour ways of sending the same feeling, and what each guarantees. The last column is our own data from the 214 miss-you pages created since 28 July 2026 — two months of it, which is why no seasonal pattern is claimed here.\n\n| What you send | Needs a font from | Measured interpretation disagreement | Our 214 miss-you pages |\n|---|---|---|---|\n| One emoji, 🥺 U+1F97A | 2018 (Unicode 11.0) | 25% on identical renderings | 86.4% of pages carry a written memory too |\n| An emoji plus a sentence | 2018 (Unicode 11.0) | unchanged by context, N = 2,482 | median letter 88 words, longest 1,024 |\n| A recorded voice note | no font needed | not studied | 13.6% of senders, 29 of 214 |\n| A page with a hug button | no font needed | one meaning, one action | 1,434 taps across 138 of 214 pages |\n\nAmbiguity is a property of the glyph, not of the sender. Both bottom rows work by taking the glyph out of the path.\n\n## When an emoji is the wrong thing to send\n\nWhen the other person is already upset, an emoji is the wrong choice, and 💔 is the worst of the eight: it reads as rupture rather than absence. When the relationship is new, 🫰 or 🥹 land as noise for anyone below Unicode 14.0 or outside the culture that taught them. When someone has said plainly that they want words, a picture is an evasion.\n\nA SubhSandesh page is sometimes wrong too. If you are in the same city and can go, go. If their phone renders 🥹 as a box, an animated page may struggle on it. And our 2,417 recorded views of miss-you pages are page views, not unique visitors — one person reopening a page twenty times counts as twenty.\n\nA page earns its place when the message has to be private, or has to outlast a scroll. Miss-you senders are the most private segment we have measured: 43.5% password-protect the page before sharing, against 38.5% platform-wide, and the [private miss-you page](https://subhsandesh.in/missyou-gf) is built for that reader. If the trouble is words rather than privacy, [Hold My Hand](https://subhsandesh.in/hold-my-hand) suits this reader better: the recipient holds the screen for sixty seconds and a letter unlocks — one unambiguous gesture instead of a glyph whose meaning depends on their font. Everything else sits in the [full template list](https://subhsandesh.in/templates).\n\nOne caveat on our own figures: the 47 city pairs those pages name come from a 15-city picker with a default, so they describe the picker as much as the senders and are not presented here as a choice. The fields senders genuinely chose — password, letter, voice note, reunion date — are the ones quoted above.\n\n## Sources\n\n- Unicode Consortium. \"[emoji-test.txt, Unicode Emoji 18.0](https://unicode.org/Public/emoji/latest/emoji-test.txt).\" File dated 30 April 2026.\n- Unicode Consortium. \"[DerivedAge.txt, Unicode Character Database 18.0.0](https://www.unicode.org/Public/UCD/latest/ucd/DerivedAge.txt).\" File dated 29 June 2026.\n- Miller, H., et al. \"['Blissfully Happy' or 'Ready to Fight': Varying Interpretations of Emoji](https://ojs.aaai.org/index.php/ICWSM/article/view/14757).\" *Proceedings of the International AAAI Conference on Web and Social Media* 10(1), 259–268. The AAAI record dates the deposit 4 August 2021; the paper is the ICWSM 2016 proceedings.\n- Miller, H., et al. \"[Understanding Emoji Ambiguity in Context](https://ojs.aaai.org/index.php/ICWSM/article/view/14901).\" *Proceedings of the International AAAI Conference on Web and Social Media* 11(1), 152–161, 3 May 2017.\n- Kralj Novak, P., Smailović, J., Sluban, B., & Mozetič, I. \"[Emoji Sentiment Ranking v1.0](http://kt.ijs.si/data/Emoji_sentiment_ranking/).\" Jožef Stefan Institute; the page publishes no date, so none is recorded.\n- Zhukova, M., & Herring, S. C. \"[Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type](https://scholarworks.iu.edu/journals/index.php/li/article/view/40800).\" *Language@Internet* 22, 20 December 2024. Peer-reviewed, open access.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-you-emoji-meaning#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Emoji",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Emoji",
+              "https://www.wikidata.org/wiki/Q1049294"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Unicode Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode_Consortium",
+              "https://www.wikidata.org/wiki/Q1572774"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Common Locale Data Repository",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Common_Locale_Data_Repository",
+              "https://www.wikidata.org/wiki/Q2986828"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "emoji-test.txt, Unicode Emoji 18.0",
+            "url": "https://unicode.org/Public/emoji/latest/emoji-test.txt",
+            "datePublished": "2026-04-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DerivedAge.txt, Unicode Character Database 18.0.0",
+            "url": "https://www.unicode.org/Public/UCD/latest/ucd/DerivedAge.txt",
+            "datePublished": "2026-06-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "“Blissfully Happy” or “Ready to Fight”: Varying Interpretations of Emoji",
+            "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14757",
+            "datePublished": "2021-08-04",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for the Advancement of Artificial Intelligence"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Understanding Emoji Ambiguity in Context: The Role of Text in Emoji-Related Miscommunication",
+            "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14901",
+            "datePublished": "2017-05-03",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for the Advancement of Artificial Intelligence"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Emoji Sentiment Ranking v1.0",
+            "url": "http://kt.ijs.si/data/Emoji_sentiment_ranking/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Jožef Stefan Institute"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type",
+            "url": "https://scholarworks.iu.edu/journals/index.php/li/article/view/40800",
+            "datePublished": "2024-12-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Language@Internet"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Eight emoji people send for “I miss you”, and what Unicode calls each",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "🥺 — U+1F97A, pleading face",
+            "description": "CLDR short name pleading face; formal character name FACE WITH PLEADING EYES. Added in Unicode 11.0, released 2018. Means asking, not missing."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "🫂 — U+1FAC2, people hugging",
+            "description": "CLDR short name people hugging. Added in Unicode 13.0, released 2020. No faces, no gender, no skin tone; the most literal option in the set."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "💔 — U+1F494, broken heart",
+            "description": "Added in Unicode 6.0, released 2010. Emoji Sentiment Ranking score −0.121 over 328 occurrences. Carries breakup and bereavement meanings as well as absence."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "😢 — U+1F622, crying face",
+            "description": "Added in Unicode 6.0, 2010. Emoji Sentiment Ranking score +0.007 over 749 occurrences, 39.1% positive annotations against 38.4% negative."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "😭 — U+1F62D, loudly crying face",
+            "description": "Added in Unicode 6.0, 2010. Emoji Sentiment Ranking score −0.093 over 5,526 occurrences, the most-used emoji in this group."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "🥹 — U+1F979, face holding back tears",
+            "description": "Added in Unicode 14.0, released 2021. Distinct from 😂 U+1F602, face with tears of joy, from Unicode 6.0."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "😔 — U+1F614, pensive face",
+            "description": "Added in Unicode 6.0, 2010. Emoji Sentiment Ranking score −0.146 over 1,205 occurrences, 46.4% negative annotations: the most negative of the group."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "🫰 — U+1FAF0, hand with index finger and thumb crossed",
+            "description": "Added in Unicode 14.0, 2021. The official name describes a hand position only; the affectionate meaning is conventional, from Korean popular culture."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss you emoji meaning",
+    "angle": "Wins by being the only post that answers this from the Unicode Character Database itself — proving by measurement that none of the 3,966 fully-qualified emoji sequences in Unicode 18.0 is named for missing someone, giving the codepoint, CLDR short name and release version for all eight candidates — and pairing that with recipient-side behaviour no competitor measures: 1,434 hug taps across 138 of 214 miss-you pages.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/hold-my-hand"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://unicode.org/Public/emoji/latest/emoji-test.txt",
+        "stat": "Unicode Emoji 18.0 data file, header dated 2026-04-30. Parsed in full: 3,966 fully-qualified emoji sequences. A regex over every CLDR short name for miss / longing / lonely / yearn / nostalgia returns exactly one line, 🪘 long drum, a false positive on \"long\". Supplies the CLDR short name and emoji release version for 🥺 (E11.0), 🫂 (E13.0), 💔 😢 😭 😔 💌 (E0.6), 🥹 🫰 🫶 (E14.0) and 🤗 (E1.0, short name \"smiling face with open hands\"). Cap-exempt reference instrument per verify.config.json; fetched and parsed in this session.",
+        "publishedDate": "2026-04-30"
+      },
+      {
+        "url": "https://www.unicode.org/Public/UCD/latest/ucd/DerivedAge.txt",
+        "stat": "DerivedAge-18.0.0.txt, header dated 2026-06-29. Gives the Unicode version in which each codepoint was first assigned: U+1F97A 11.0, U+1FAC2 13.0, U+1F494 6.0, U+1F622 6.0, U+1F62D 6.0, U+1F979 14.0, U+1F614 6.0, U+1FAF0 14.0, U+1F917 8.0. Cross-checked against UnicodeData.txt for the formal character names. Cap-exempt reference instrument; fetched and parsed in this session.",
+        "publishedDate": "2026-06-29"
+      },
+      {
+        "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14757",
+        "stat": "Miller et al., ICWSM proceedings vol. 10(1), 259–268. Online survey of interpretations of popular emoji rendered for multiple platforms: where participants rated the same emoji rendering, they disagreed on whether the sentiment was positive, neutral or negative 25% of the time, and disagreement increased when renderings came from different platforms. Open access. Abstract and full bibliographic record read; the PDF itself was not opened, and every figure cited here is stated in the abstract. The AAAI OJS record carries Published: 2021-08-04 for the 2016 proceedings paper, which is the date recorded here.",
+        "publishedDate": "2021-08-04"
+      },
+      {
+        "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14901",
+        "stat": "Miller et al., ICWSM proceedings vol. 11(1), 152–161. Controlled study with 2,482 participants interpreting emoji both in isolation and in multiple textual contexts: the authors state their results do NOT support the prior hypothesis that context reduces miscommunication — potential for miscommunication was roughly the same in both conditions. Open access. Abstract and full bibliographic record read; the PDF itself was not opened, and every figure cited here is stated in the abstract.",
+        "publishedDate": "2017-05-03"
+      },
+      {
+        "url": "http://kt.ijs.si/data/Emoji_sentiment_ranking/",
+        "stat": "Emoji Sentiment Ranking v1.0 (Kralj Novak, Smailović, Sluban, Mozetič), Jožef Stefan Institute. 751 emoji scored from 1.6 million tweets in 13 European languages labelled by 83 human annotators. Rows read directly from the table: 😢 U+1F622 score +0.007 over 749 occurrences (neg .384 / neut .225 / pos .391); 😭 U+1F62D −0.093 over 5,526; 😔 U+1F614 −0.146 over 1,205 (neg .464); 💔 U+1F494 −0.121 over 328. The lexicon predates 🥺 🫂 🥹 🫰, which carry no score. The page publishes no date, so publishedDate is omitted rather than invented."
+      },
+      {
+        "url": "https://scholarworks.iu.edu/journals/index.php/li/article/view/40800",
+        "stat": "Zhukova, M. & Herring, S. C., \"Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type\", Language@Internet vol. 22, Special Issue on Graphicons in Digital Communication. Online survey rating text-plus-emoji combinations: non-binary and Gen Z respondents perceived emoji-containing messages as more sarcastic, passive-aggressive and threatening; younger generations rated 😊 and 👍 as more passive-aggressive, while 🔥 and 💣 were rated more negatively by older generations. Peer-reviewed, open access. Abstract read in full on the publisher page; the PDF was not opened.",
+        "publishedDate": "2024-12-20"
+      }
+    ],
+    "structuralLimitations": [
+      "THE FRAMING CLAIM IN THE TASK PROMPT IS RIGHT ON THE CENTRAL FACT AND WRONG ON ONE DETAIL, and the detail turned out to be the post's third-best section. The prompt said to 'give the exact codepoint and CLDR short name for every emoji you print — e.g. U+1F97A PLEADING FACE', treating the official name and the CLDR short name as one string. They are two strings from two different processes. UnicodeData.txt gives U+1F97A the immutable formal character name FACE WITH PLEADING EYES; emoji-test.txt gives it the CLDR short name 'pleading face'. For 🤗 U+1F917 they disagree outright: formal name HUGGING FACE, CLDR short name 'smiling face with open hands'. Both files were fetched and parsed in this session. The post prints both names where they differ and devotes an H2 to the divergence, because 'what is the official meaning' has two answers and that is the honest one.",
+      "THE CENTRAL FACT IS NOT ASSERTED, IT IS MEASURED. emoji-test.txt for Unicode 18.0 (header dated 2026-04-30) was parsed in full: 3,966 fully-qualified emoji sequences. A regex over every CLDR short name for miss / longing / lonely / yearn / nostalgia returns one line, 🪘 long drum, which is a false positive on the substring 'long'. That is the claim in the H1 and it is reproducible from the cited file in one command.",
+      "CANNIBALISATION — BOTH LIVE SLUGS WERE FETCHED AND READ BEFORE DRAFTING, AND NO MERGE IS RECOMMENDED. /blog/i-miss-you-message (~5,800 rendered words) mentions emoji twice, both times as advice ('a photo beats empty emoji', 'avoid using too many'). /blog/cute-ways-to-say-i-miss-you-over-text (~7,900 words) mentions emoji four times, once as an example line ('Miss you ❤️'). Neither names a single emoji formally, gives a codepoint, gives a Unicode version, distinguishes a formal name from a CLDR short name, or cites any research on emoji interpretation. Both are message listicles organised by relationship and tone — 120+ and 70+ lines. This post is about the GLYPH; those are about the SENTENCE. The overlap is the word 'miss' and nothing else, so the honest difference is real: this post adds the Unicode layer (codepoints, release versions, tofu failure), the interpretation-research layer (Miller 2016/2017, the Emoji Sentiment Ranking, Zhukova & Herring 2024) and the recipient-side first-party layer (1,434 hug taps). It does not repeat their message lines and prints none.",
+      "THE SIBLING'S PLOS FINDING IS NOT CONTRADICTED AND NOT RE-CITED. say-i-miss-you-without-saying-it publishes the 2025 PLOS One result that perceived responsiveness did NOT significantly predict likability (b = 0.18, p = .10). This post makes no claim of the 'add an emoji and they will like you more' kind in any form — its whole argument runs the other way, that a glyph is an unreliable carrier. journals.plos.org stood at 2 of 3 posts when capcheck was first run and the coordinator's mid-task update confirmed it is now the last slot in the batch; no claim here needs it, so the slot was deliberately left for another agent. Emoji research is concentrated in PLOS ONE, which made this a real constraint rather than a formality; it was met by going to ICWSM (ojs.aaai.org), Language@Internet (scholarworks.iu.edu) and the Jožef Stefan Institute lexicon instead. The peer-reviewed open-access requirement is satisfied three times over without PLOS, so nothing was dropped for the cap.",
+      "SERP RUN, NOT PREDICTED — AND THE ENGINE'S OWN SUMMARY GOT AN OFFICIAL NAME WRONG. One WebSearch on the exact keyword on 2026-09-25 returned: emojipedia.org/search (treated as a competitor page per the task brief, not read, not cited, not paraphrased), a TikTok discover page, a Pinterest pin, three copy-paste emoji farms (emoj.info, emojis.wiki, emojicombos.com) and four Wikipedia pages, three of which are about a song or a disambiguation and answer nothing. No AI Overview or featured snippet was returned in the result set, and no unicode.org result appears anywhere on page one. The synthesis generated from those pages called 🥹 'face with tear of joy'; 🥹 is U+1F979 FACE HOLDING BACK TEARS, and 'face with tears of joy' is 😂 U+1F602. That mis-naming is cited inside the post as evidence of the gap.",
+      "NO CLAIM IS MADE ABOUT WHAT ANY EMOJI MEANS TO GEN Z BEYOND WHAT WAS MEASURED. Zhukova & Herring (2024) tested 😊 👍 🔥 💣 and found Gen Z respondents rated the smile and thumbs up as more passive-aggressive than older respondents did. That is exactly what the post reports, and the post then states plainly that nobody has measured how any generation reads 🥺 as 'I miss you'. The folk-wisdom genre this keyword usually attracts is named and refused rather than reproduced.",
+      "ABSTRACT-ONLY READING IS DISCLOSED FOR THREE SOURCES. For Miller et al. 2016, Miller et al. 2017 and Zhukova & Herring 2024 the publisher abstract and bibliographic record were read in full; the PDFs were not opened. Every figure quoted from those three (25% polarity disagreement, N = 2,482 and the no-support-for-context finding, the Gen Z passive-aggression result) is stated verbatim in the abstract, so nothing is inferred beyond it. None of the three is paywalled — all are open access — so the checklist's paywall clause does not bite, but the limitation is recorded here rather than left implicit.",
+      "THE MILLER 2016 DATE IS THE PUBLISHER'S, NOT THE CONFERENCE'S. The AAAI OJS record for '“Blissfully Happy” or “Ready to Fight”' states Published: 2021-08-04 and its own suggested citation reads (2021), although the paper is the ICWSM 2016 proceedings paper, vol. 10(1), 259–268. batchMeta.sources and the citation block record the date the page itself publishes; the body names the conference year. The Emoji Sentiment Ranking page publishes no date at all, so publishedDate is omitted there rather than invented.",
+      "THE THREE MANDATORY FIRST-PARTY CAVEATS APPEAR IN BODY PROSE, NOT ONLY HERE. (1) The 47 city pairs come from a 15-city picker with a default, so they describe the picker as much as the senders — stated in the closing paragraph of the objection section, which also names the fields senders genuinely chose. (2) The 2,417 views are page views, not unique visitors — stated in the same section, with the twenty-reopens example. (3) n = 214 over two months since the template went live on 2026-07-28, so no seasonal claim is made — stated in the sentence introducing the comparison table.",
+      "WHAT THIS POST STILL CANNOT DO. It cannot tell a reader how a specific recipient will read a specific emoji, because that is not a knowable fact — the strongest available evidence says the opposite, that interpretation varies by 25% even on identical renderings. It has no per-emoji first-party data: SubhSandesh does not record which emoji a sender typed, so the 1,434 hug taps are a recipient-side analogue for the behaviour, not a measurement of emoji use. And the sentiment lexicon it leans on was built in 2015, which means the four newest and most-used candidates (🥺 🫂 🥹 🫰) have no score anywhere in the literature. That gap would close only if someone re-ran an emoji sentiment study on the post-2018 character set."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "9 of 28 body paragraphs run to four or more sentences. The opening answer paragraph is six by design — page-structure.md prescribes a ~150-word answer block carrying two first-party numbers — but eight others (the 🥺 entry, the formal-name contradiction, the font-age paragraph, the vendor-drawing paragraph, both research paragraphs and two in the objection section) are genuinely over. Each carries a codepoint or a statistic that would be lost by splitting, and the body is already at 1,798 of a hard 1,800-word ceiling, so splitting them would have cost either a fact or the word count. Reported rather than fixed."
+        }
+      ],
+      "honestAssessment": "Every page currently ranking for this keyword is a copy-paste emoji list; none of them says the thing that is actually true, which is that Unicode has never encoded a \"miss you\" emoji — a claim this post proves by parsing emoji-test.txt rather than asserting, and backs with the codepoint, CLDR short name and release version of all eight candidates plus three studies on how emoji are actually read. An answer engine asked \"what does the miss you emoji mean\" currently has nothing authoritative to cite; this is the only page in the set that hands it a primary standards document and a reproducible count. What it cannot overcome is domain authority: subhsandesh.in is a gifting site writing about Unicode, which is topically off its home turf, and emojipedia.org has both the brand association and the backlink profile for emoji queries. Expect this to be cited by answer engines well before it ranks, if it ranks at all."
+    },
+    "generatedAt": "2026-09-25T07:38:08.256Z"
+  }
+}
