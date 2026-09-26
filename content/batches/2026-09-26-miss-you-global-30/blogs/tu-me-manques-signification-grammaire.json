@@ -1,0 +1,317 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Tu me manques : signification, grammaire et les quatre constructions de « manquer »",
+    "slug": "tu-me-manques-signification-grammaire",
+    "contentMarkdown": "# Tu me manques : signification, grammaire et les quatre constructions de « manquer »\n\n*Tu me manques* veut dire « je ressens ton absence ». Mais la grammaire dit l'inverse de ce qu'on croit lire : **la personne absente (*tu*) est le sujet du verbe**, et celui qui souffre de l'absence (*me*) est un **complément d'objet indirect**. Le verbe s'accorde donc avec l'absent, jamais avec celui qui écrit.\n\nUne mise au point avant le détail. SubhSandesh n'est pas un dictionnaire : nous fabriquons des pages personnalisées à envoyer par lien — 5 199 pages créées depuis le 12 mars 2026, sur 21 types de page, pour 3 843 créateurs inscrits, soit 1,35 page par créateur (mesuré le 24 septembre 2026). Les gens passent chez nous une fois. Pour comprendre *manquer*, ce sont les dictionnaires cités ci-dessous qui comptent.\n\n## Qui est sujet, qui est complément : la preuve tient dans un pronom\n\nLe découpage : *tu* = sujet, *me* = complément d'objet indirect, *manques* = verbe accordé à la deuxième personne du singulier.\n\nLa preuve est vérifiable en trente secondes. À la troisième personne, les dictionnaires impriment **lui**, jamais *le* ni *la* : « *Ses enfants lui manquent* » (Larousse), « *Ses amis lui manquent* » (Académie). *Lui* est la forme du complément indirect ; *le* et *la* celles du complément direct.\n\nCette distinction commande l'accord du participe passé, plus bas. Le passage vers l'anglais est traité ailleurs, dans notre [article sur « tu me manques » en anglais](/blog/tu-me-manques-en-anglais) ; cette page-ci reste sur le verbe français.\n\n## Les quatre constructions de « manquer », et pourquoi une seule s'inverse\n\nLe Larousse ne donne pas une entrée *manquer* mais cinq blocs. Le sens change avec la construction, et une seule met l'absent en position de sujet.\n\n| Étiquette du Larousse | Construction | Sens | Exemple | Qui est sujet |\n|---|---|---|---|---|\n| verbe intransitif | *manquer* seul | faire défaut, être en moins | « Un bouton manque à sa veste. » | ce qui fait défaut |\n| verbe transitif indirect | *manquer à* quelqu'un | créer un vide par son absence | « Ses enfants lui manquent. » | **la personne absente** |\n| verbe transitif indirect | *manquer de* quelque chose | ne pas avoir en quantité suffisante | « La sauce manque de sel. » | celui qui est dépourvu |\n| verbe transitif | *manquer* quelque chose (COD) | ne pas atteindre, rater | « Manquer son train. » | celui qui rate |\n| — | *manquer de* + infinitif | faillir, être sur le point de | « Il a manqué se faire renverser par la voiture. » | celui qui a failli |\n\nLa deuxième ligne est la seule qui s'inverse, et la confusion vient de la quatrième : dans *j'ai manqué le train*, c'est bien moi le sujet et le complément est direct. On applique ce schéma à l'affectif et on produit *je manque toi*, ou pire, *je te manque*.\n\n## L'origine : un emprunt à l'italien, au XVIᵉ siècle\n\nL'étymologie, imprimée par les deux dictionnaires, explique la construction. L'Académie française écrit : « Étymologie : XVIᵉ siècle. Emprunté de l'italien *mancare*, de même sens. » Le Larousse précise la chaîne complète : « italien *mancare*, de *manco*, défectueux, du latin *mancus* ».\n\n*Mancus*, en latin, veut dire estropié, défectueux. L'idée de départ n'est donc pas un sentiment mais **un défaut, une pièce absente** : le verbe décrit ce qui manque à un ensemble, pas ce qu'éprouve quelqu'un.\n\nD'où la clé du problème. L'Académie range le sens affectif sous « I. Verbe intransitif. **A. Faire défaut.** 3. *Manquer à quelqu'un* », avec la sous-rubrique « En parlant d'une personne. *Ses amis lui manquent.* » Autrement dit : « ses amis lui manquent » est classé dans le même tiroir que « l'argent lui manque ». Le français traite la personne absente comme **une ressource qui fait défaut** — et une ressource qui fait défaut est grammaticalement un sujet.\n\nUn mot sur le *à* de *manquer à quelqu'un*. Dans une étude sur l'ancien français, Lisa Figura conclut que cette préposition ne marque pas le cas de façon fiable : elle appartient à l'entrée lexicale du verbe, et il n'y a donc rien à en déduire.\n\n## Le paradigme complet : le verbe suit l'absent\n\nLe test est toujours le même — **le sujet est la personne absente** — et il vaut pour toutes les personnes :\n\n- **Je te manque.** Je suis absent ; c'est toi qui ressens.\n- **Tu me manques.** Tu es absent ; c'est moi.\n- **Elle me manque.** / **Il lui manque.**\n- **Nous vous manquons.** / **Vous nous manquez.**\n- **Ils me manquent.** / **Elles me manquent.**\n\nL'accord se fait avec l'absent, pas avec le pronom placé juste avant le verbe : *mes parents me manquent* prend *-ent* parce que le sujet est *mes parents*.\n\nLe corpus bilingue Tatoeba permet de chiffrer le paradigme. Relevé le 27 septembre 2026, côté français : 46 phrases contenant « tu me manques », 29 « vous me manquez », 33 « me manquent » avec un sujet absent au pluriel (*Elles me manquent*, *Vos blagues me manquent*), 22 « il me manque », et **5 seulement « je te manque »**. La forme inversée est donc environ neuf fois plus rare que la forme correcte. La recherche de Tatoeba ignore les diacritiques : j'ai relu les phrases de chaque série.\n\n## « Je te manque » : l'Office québécois de la langue française le juge incorrect\n\nLa plupart des pages traitent ce point comme une étourderie de débutant. Une autorité officielle le classe autrement : comme un **anglicisme de syntaxe**.\n\nLa Banque de dépannage linguistique de l'Office québécois de la langue française range la question sous « Emprunts syntaxiques » et écrit : « Utiliser *je te manque* au lieu de *tu me manques* est une construction calquée sur l'anglais *I miss you*. Puisque cet emploi ne respecte pas la syntaxe française du verbe *manquer*, il est jugé incorrect. »\n\nL'Office donne ses propres corrections :\n\n- « Pauvre petite fille, son ourson lui manque ! » — et non : *elle manque son ourson*.\n- « Elle est partie depuis trois mois et elle me manque terriblement. » — et non : *et je la manque terriblement*.\n\nIl ajoute une nuance qu'aucune autre page mesurée ne donne : « *Je vous ai manqué* est tout à fait correcte en français pour signifier que l'on n'a pas réussi à rencontrer la personne que l'on devait voir. » La suite de mots *je te manque* n'est donc pas interdite ; elle est fautive seulement quand on lui fait porter le sens anglais.\n\n## L'accord du participe : « tu m'as manqué » ne prend jamais de *e*\n\nAvec l'auxiliaire *avoir*, le participe s'accorde uniquement avec un complément d'objet **direct** placé avant lui. Ici le complément est indirect : il n'y a donc jamais d'accord, quel que soit le genre :\n\n- *Tu m'as manqué.* — qu'on l'écrive à une femme ou à un homme.\n- *Vous m'avez manqué.*\n- *Tu nous as manqué.*\n\nSur Tatoeba, les phrases du sens affectif que j'ai lues gardent toutes *manqué* invariable.\n\nBasculez vers le sens « rater », quatrième ligne du tableau : le complément redevient direct et l'accord reparaît. *La cible, je l'ai manquée.* C'est donc **l'accord qui distingue les deux sens**.\n\n## Une erreur vérifiable dans un résultat de première page\n\nJ'ai mesuré la page de résultats française le 27 septembre 2026, deux fois, avec le même jeu de sites : des blogs de cours de français, un podcast, une fiche d'orthographe, celle de l'Office québécois. Aucun dictionnaire de référence n'y figure.\n\nL'un des sites classés, french-iceberg.com, écrit : « C'est la personne qui manque qui est le sujet de la phrase, et la personne qui ressent l'absence qui devient le **complément d'objet**. » *Complément d'objet* sans précision se lit comme un complément direct. Il est indirect, et le *lui* des dictionnaires le prouve : l'étiquette est fausse même si l'intuition est juste.\n\nLa même page se contredit sur un second point : elle donne la transcription /ty mə mɑ̃k/, note que « le *s* final reste muet », puis conseille de « faire la liaison ». Il n'y a aucune liaison dans *tu me manques* : une liaison suppose une consonne muette prononcée devant une voyelle, et la phrase n'en contient aucune.\n\nPour les linguistes, *manquer* appartient à une classe bien décrite : les prédicats psychologiques où l'expérienceur n'est pas le sujet, comme l'italien *mi manchi*. Qu'ils restent difficiles n'étonne pas — une étude de C. Kang et E. Oh, parue en 2026 dans le *Journal of Psycholinguistic Research*, constate que même les apprenants les plus avancés gardent une hésitation résiduelle entre deux types de verbes intransitifs voisins.\n\n## Ce que nos chiffres montrent, et ce dont vous n'avez sans doute pas besoin\n\nSoyons net sur le produit. La page que nous proposons, /missyou-gf, est définie en interne comme une « *I miss you* page for a girlfriend/partner » : **l'interface est en anglais**, et le modèle vise un ou une partenaire, pas un parent ni un ami. Si vous êtes venu vérifier une règle de grammaire, vous avez votre réponse plus haut.\n\n| Mesuré dans notre base | Valeur | Ce que le chiffre ne dit pas |\n|---|---|---|\n| Pages créées depuis le 12 mars 2026 | 5 199, sur 21 types de page | rien sur la langue du lecteur |\n| Créateurs inscrits | 3 843, soit 1,35 page par créateur | rien sur une habitude installée |\n| Pages ouvertes sur téléphone | 48,3 % (27 725 vues sur 57 456) | rien sur qui les a reçues |\n\nDeux réserves, et elles comptent ici plus qu'ailleurs : **rien n'est segmenté par langue ni par pays**, donc aucun de ces chiffres ne décrit des francophones ; et **la base enregistre quel modèle a été ouvert, jamais qui l'a reçu**. C'est du volume, pas du public.\n\nLà où nous perdons franchement : nous n'avons aucune autorité sur le français, et un lecteur de grammaire fait mieux d'aller lire le Larousse et l'Académie. Si vous vouliez écrire la phrase à quelqu'un, la [page « I miss you » à envoyer par lien](/missyou-gf) fait l'envoi ponctuel, la [capsule à ouvrir dans un an](/capsule) convient mieux à une séparation datée, et le [catalogue des modèles](/templates) montre le reste. Vérifiez l'orthographe : c'est *tu me manques*, avec un *s*, parce que le sujet est *tu*.",
+    "excerpt": "« Tu me manques » : la personne absente est le sujet du verbe, celui qui ressent l'absence est complément d'objet indirect. Le Larousse distingue quatre constructions de manquer et une seule s'inverse. Étymologie, paradigme complet et la règle d'accord du participe.",
+    "metaTitle": "Tu me manques : signification, grammaire, 4 constructions",
+    "metaDescription": "Tu me manques : signification et grammaire. La personne absente est le sujet, « me » le complément indirect. Larousse donne 4 constructions, Tatoeba 46 phrases.",
+    "keywords": "tu me manques signification grammaire, tu me manques ou tu me manque, manquer à quelqu'un grammaire, je te manque signification, conjugaison verbe manquer, tu m'as manqué accord, manquer construction verbe",
+    "canonicalURL": "https://subhsandesh.in/blog/tu-me-manques-signification-grammaire",
+    "ogType": "article",
+    "tags": [
+      "grammaire française",
+      "verbe manquer",
+      "tu me manques",
+      "conjugaison",
+      "anglicisme"
+    ],
+    "keyTakeaways": [
+      "Dans « tu me manques », la personne absente (tu) est le sujet et celui qui ressent l'absence (me) est un complément d'objet indirect — la preuve est le lui des dictionnaires, jamais le ou la.",
+      "Le Larousse donne cinq blocs de construction pour manquer ; une seule, manquer à quelqu'un, met l'absent en position de sujet.",
+      "Le verbe est un emprunt du XVIᵉ siècle à l'italien mancare, du latin mancus « défectueux » — l'absent est traité comme une ressource qui fait défaut.",
+      "L'Office québécois de la langue française classe « je te manque » au sens de I miss you parmi les emprunts syntaxiques et le juge incorrect.",
+      "Relevé sur Tatoeba le 27 septembre 2026 : 46 phrases avec « tu me manques » contre 5 avec « je te manque », soit environ neuf fois moins."
+    ],
+    "faqs": [
+      {
+        "question": "Écrit-on « tu me manque » ou « tu me manques » ?",
+        "answer": "« Tu me manques », avec un s. Le sujet du verbe est tu, deuxième personne du singulier, et le verbe s'accorde avec lui. Le pronom me glissé entre le sujet et le verbe ne change rien à la terminaison : il est complément, pas sujet."
+      },
+      {
+        "question": "Peut-on dire « tu manques à moi » ?",
+        "answer": "Non. Avec un pronom personnel, le français utilise la forme atone placée avant le verbe : tu me manques. La construction manquer à + personne existe, mais avec un nom ou un groupe nominal : « Tu manques à tes parents. »"
+      },
+      {
+        "question": "Pourquoi dit-on « ça me manque » pour une chose ?",
+        "answer": "Parce que la construction ne réclame pas une personne absente, seulement quelque chose qui fait défaut. Le Larousse classe ce sens sous « créer un vide, un manque par son absence ». Le sujet reste la chose absente : « Le soleil me manque. »"
+      },
+      {
+        "question": "Dit-on « il me manque cinq euros » ou « je manque cinq euros » ?",
+        "answer": "« Il me manque cinq euros. » C'est la tournure impersonnelle : le sujet grammatical est il, la somme absente est ce qui fait défaut, et me désigne celui à qui elle fait défaut. « Je manque cinq euros » n'est pas français."
+      },
+      {
+        "question": "« Tu me manques » s'emploie-t-il entre amis ou en famille ?",
+        "answer": "Oui, sans difficulté. L'Académie française donne l'exemple « Ses amis lui manquent » et le Larousse « Ses enfants lui manquent ». La phrase n'est pas réservée au couple ; c'est le contexte, pas la grammaire, qui lui donne sa couleur."
+      },
+      {
+        "question": "Quel est le contraire de « tu me manques » ?",
+        "answer": "Il n'existe pas d'antonyme direct d'usage courant. On exprime l'idée par une autre tournure : « je n'ai pas eu le temps de penser à toi », ou, à l'inverse, on annonce la fin du manque avec « je te retrouve bientôt »."
+      },
+      {
+        "question": "« Manquer » a-t-il un autre sens avec la préposition à ?",
+        "answer": "Oui, deux. « Manquer à sa parole, à ses devoirs » signifie se soustraire à une obligation. Et, au sens que le Larousse marque Littéraire, « manquer à quelqu'un » veut dire lui manquer de respect : « Il ne tolère pas qu'on lui manque. »"
+      },
+      {
+        "question": "Le verbe se conjugue-t-il avec avoir ou avec être aux temps composés ?",
+        "answer": "Avec avoir : tu m'as manqué, vous m'avez manqué. La forme « tu m'es manqué » n'existe pas. Le participe reste invariable dans le sens affectif, puisque le complément qui précède est indirect."
+      },
+      {
+        "question": "Le nom « le manque » vient-il du même mot ?",
+        "answer": "Oui, de la même famille. Le Larousse fait remonter le verbe à l'italien mancare, lui-même tiré de manco, « défectueux », du latin mancus. Le nom et le verbe partagent donc l'idée de départ : quelque chose fait défaut."
+      },
+      {
+        "question": "Pourquoi les traducteurs automatiques se trompent-ils sur cette phrase ?",
+        "answer": "Parce que l'ordre des mots est trompeur : tu me manques et I miss you commencent tous deux par la personne, mais ce n'est pas la même. Un rendu mot à mot produit l'inversion exacte du sens voulu."
+      },
+      {
+        "question": "Comment retenir la règle en une seule phrase ?",
+        "answer": "Le sujet est celui qui est parti. Tu me manques veut dire que tu es loin ; je te manque veut dire que je suis loin. Si vous hésitez, remplacez par un nom : « Paul me manque » se comprend tout de suite."
+      }
+    ],
+    "coverImageQuery": "french dictionary open grammar page",
+    "coverImagePrompt": "An open French dictionary photographed from above on a warm wooden desk, the page showing a verb entry with small printed examples. Soft natural window light from the left, shallow depth of field. A pencil rests in the gutter of the book. Calm, scholarly, editorial still life with muted paper tones.",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@id": "https://subhsandesh.in/blog/tu-me-manques-signification-grammaire#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Langue française",
+            "sameAs": "https://en.wikipedia.org/wiki/French_language",
+            "identifier": "Q150"
+          },
+          {
+            "@type": "Thing",
+            "name": "Complément d'objet",
+            "sameAs": "https://en.wikipedia.org/wiki/Object_(grammar)",
+            "identifier": "Q175026"
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Langue italienne",
+            "sameAs": "https://en.wikipedia.org/wiki/Italian_language",
+            "identifier": "Q652"
+          },
+          {
+            "@type": "Thing",
+            "name": "Latin",
+            "sameAs": "https://en.wikipedia.org/wiki/Latin",
+            "identifier": "Q397"
+          },
+          {
+            "@type": "Organization",
+            "name": "Académie française",
+            "sameAs": "https://en.wikipedia.org/wiki/Acad%C3%A9mie_Fran%C3%A7aise",
+            "identifier": "Q161806"
+          },
+          {
+            "@type": "Organization",
+            "name": "Office québécois de la langue française",
+            "sameAs": "https://en.wikipedia.org/wiki/Office_qu%C3%A9b%C3%A9cois_de_la_langue_fran%C3%A7aise",
+            "identifier": "Q2578454"
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Larousse, Dictionnaire de français, entrée « manquer »",
+            "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dictionnaire de l'Académie française, 9e édition, article « manquer »",
+            "url": "https://www.dictionnaire-academie.fr/article/A9M0575"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Office québécois de la langue française, Banque de dépannage linguistique, « Emploi déconseillé de je te manque à la place de tu me manques »",
+            "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22719/les-emprunts-a-langlais/emprunts-syntaxiques/emploi-deconseille-de-je-te-manque-a-la-place-de-tu-me-manques"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba, corpus de phrases bilingues, relevé du 27 septembre 2026",
+            "url": "https://tatoeba.org/en/sentences/show/3124"
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Lisa Figura, « Dative Experiencer Psych Verbs in Old French – The Role of the Preposition à », Psych Predicates in Romance Languages",
+            "url": "https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/",
+            "datePublished": "2026-04-29"
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "C. Kang et E. Oh, « Overpassivization Revisited: Disentangling Syntax and Semantics in Causes of Errors », Journal of Psycholinguistic Research",
+            "url": "https://europepmc.org/article/PMC/PMC12894207",
+            "datePublished": "2026-02-11"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Les constructions du verbe manquer",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "manquer (verbe intransitif) — faire défaut, être en moins"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "manquer à quelqu'un (verbe transitif indirect) — créer un vide par son absence"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "manquer de quelque chose (verbe transitif indirect) — ne pas avoir en quantité suffisante"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "manquer quelque chose (verbe transitif, COD) — ne pas atteindre, rater"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "manquer de + infinitif — faillir, être sur le point de"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "tu me manques signification grammaire",
+    "angle": "Wins by being the only post that treats « tu me manques » as a question about the VERB rather than about translation: the five Larousse constructions side by side with only one inverting, the 16th-century borrowing from Italian mancare that explains why the absent person is the subject, the full paradigm counted on Tatoeba, and the Office québécois de la langue française ruling that « je te manque » in the English sense is a catalogued syntactic anglicism — none of which the translation sibling contains.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/capsule",
+      "/templates"
+    ],
+    "factsUsed": [
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "3,843 registered creators — measured 2026-09-24",
+      "Average pages per registered creator: 1.35 — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/manquer/49234",
+        "stat": "Larousse, entrée manquer, fetched 2026-09-27 and headword confirmed (the entry is « manquer », not MARAUD): five construction blocks — « manquer verbe intransitif », « manquer verbe transitif indirect », « manquer verbe transitif », « être manqué verbe passif », « se manquer verbe pronominal ». Etymology printed in the head block: « (italien mancare, de manco, défectueux, du latin mancus) ». v.t.ind. sense 3: « Créer un vide, un manque par son absence : Ses enfants lui manquent. » v.i. sense 3: « Un bouton manque à sa veste. » v.t.ind. sense 1: « La sauce manque de sel. » v.t. sense 2: « Manquer son train. » v.i. sense 5: « Il a manqué se faire renverser par la voiture. » v.t.ind. sense 5, marked Littéraire: « Se conduire à l'égard de quelqu'un de manière irrespectueuse : Il ne tolère pas qu'on lui manque. »"
+      },
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9M0575",
+        "stat": "Dictionnaire de l'Académie française, 9e édition, article manquer, fetched 2026-09-27 and headword confirmed: « MANQUER conjugaison verbe intransitif et transitif. Étymologie : XVIe siècle. Emprunté de l'italien mancare, de même sens. » The affective sense is filed under « I. Verbe intransitif. A. Faire défaut. 3. Manquer à quelqu'un, faire défaut à la personne, aux personnes à qui on serait nécessaire », with the sub-entry « En parlant d'une personne. Ses amis lui manquent. » — the same rubric that carries « L'argent lui manque pour acheter cette maison. »",
+        "publishedDate": "2019-01-01"
+      },
+      {
+        "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22719/les-emprunts-a-langlais/emprunts-syntaxiques/emploi-deconseille-de-je-te-manque-a-la-place-de-tu-me-manques",
+        "stat": "Office québécois de la langue française, Banque de dépannage linguistique, filed under « Les emprunts à l'anglais › Emprunts syntaxiques › Manquer », fetched 2026-09-27: « Utiliser je te manque au lieu de tu me manques est une construction calquée sur l'anglais I miss you. Puisque cet emploi ne respecte pas la syntaxe française du verbe manquer, il est jugé incorrect. » Corrected pairs given by the OQLF: « Pauvre petite fille, son ourson lui manque ! » (et non : elle manque son ourson) ; « Elle est partie depuis trois mois et elle me manque terriblement. » (et non : et je la manque terriblement). It also states that « Je vous ai manqué est tout à fait correcte en français pour signifier que l'on n'a pas réussi à rencontrer la personne que l'on devait voir », equivalent to « Je vous ai raté »."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/3124",
+        "stat": "Tatoeba, French side, counted 2026-09-27 via the api_v0 search endpoint and each result set read by hand: 46 sentences containing « tu me manques », 29 containing « vous me manquez », 33 containing « me manquent » with a plural absent subject (Elles me manquent ; Vos blagues me manquent), 22 containing « il me manque », and 5 containing « je te manque » — roughly nine times fewer than the correct form. Sentences returned for « tu m'as manqué » (16) and « vous m'avez manqué » (5) keep the participle invariable in the affective sense. Tatoeba's search is diacritic-insensitive, so the counts were verified by reading the sentences, not by trusting the matcher."
+      },
+      {
+        "url": "https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-962-7/dative-experiencer-psych-verbs-in-old-french-the-r/",
+        "stat": "Lisa Figura, « Dative Experiencer Psych Verbs in Old French – The Role of the Preposition à », in Psych Predicates in Romance Languages (LiVVaL 8), Edizioni Ca' Foscari — open access, peer reviewed, CC BY. Abstract read on the publisher's page 2026-09-27; full chapter PDF not read. It investigates the omission of the preposition à with dative-Experiencer psych verbs in Old French and concludes that « à does not indicate dative case in a reliable way », the preposition belonging to the verb's lexical entry rather than to a case system.",
+        "publishedDate": "2026-04-29"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12894207",
+        "stat": "C. Kang and E. Oh, « Overpassivization Revisited: Disentangling Syntax and Semantics in Causes of Errors », Journal of Psycholinguistic Research 55(2):19, CC BY, full text read 2026-09-27 via the Europe PMC REST full-text XML. Across two experiments the study finds no conclusive evidence that L2 learners derive unaccusatives and passives alike, and reports that « even the five most native-like learners showed residual optionality », their divergent performance indicating that highly advanced learners may still lack fully distinct syntactic representations for the two types of intransitives.",
+        "publishedDate": "2026-02-11"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Wikipedia links: 0–2, entities only",
+          "why": "Zero Wikipedia links in the body. Wikipedia appears only as sameAs identifiers inside structuredData about/mentions, which item 44 requires. The item allows 0, so this is recorded rather than fixed — noting it here so the 0 is a decision and not an oversight."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "The Figura chapter (Edizioni Ca' Foscari) is open access and peer reviewed, but I read only the publisher's abstract page, not the chapter PDF — the brief warns PDFs do not parse. The MDPI article Languages 11(3):36, considered as a second scholarly source, was dropped entirely because mdpi.com serves a 2.2 KB bot challenge and I could not read it. Disclosure is made here and in the source note; closing it needs the chapter PDF read in full."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The ItemList mirrors the five construction rows of the comparison table, not H3s — the body uses no H3s at all. The order matches the table exactly. Recorded as failed because the item names H3s specifically; it would close by promoting the five constructions to H3 headings, which would cost words the 1,800 ceiling cannot spare."
+        }
+      ],
+      "additionalChecks": [
+        "SERP measured, not assumed. Route: scripts/serp-ddg.mjs, which the BRIEF recorded as connect-timing-out on 2026-09-26 but which WORKED on 2026-09-27 — reported to the orchestrator. Run once with the default in-en region, then twice with --region fr-fr. The two fr-fr runs returned the same set of hosts with a minor ordering shuffle, which is the stability control the BRIEF asks for. Self-authenticated: every result is French-language and about tu me manques.",
+        "Measured fr-fr SERP, 10 results seen: francaisavecpierre.com (French-course brand, on the je te manque / tu me manques split), francaissansfautes.fr (small blog), vitrinelinguistique.oqlf.gouv.qc.ca (government language authority), hitcf.com (TCF revision aid), hellofrench.com (French-course site, on manquer de / à / manquer), french-iceberg.com (small blog), orthodidacte.com (spelling brand, on the -s), julie-la-plus-belle.com (content farm, 1,913 words with no grammatical analysis at all), smartlink.ausha.co (podcast host, not an article), frenchlearner.com (English-language site). Weak: 6 of 10. Gate 4 PASS.",
+        "NO Google Translate widget and NO AI Overview on this query by either route — a third SERP shape, distinct from the translation sibling's (Translate above every organic result) and from the advice-shaped French sibling's (AI Overview, no widget). A grammar query returns teaching pages, not a machine answer.",
+        "Duplicate check against blogs/tu-me-manques-en-anglais.json, read in full before drafting. That post owns: the English rendering, the 90-translation Tatoeba count, the three-dictionaries-three-labels disagreement, the tu/vous register loss, the English mirror structures, and the gymglish « passive » error. This post owns: the five Larousse construction blocks, the 16th-century Italian etymology with the Académie's own dating, the Académie's filing of the affective sense under « faire défaut », the person-by-person paradigm with its own Tatoeba counts, the OQLF anglicism ruling, and the past-participle agreement rule. The single overlapping fact is the lui-not-le/la proof, compressed to three sentences and immediately cross-linked, because no grammar post can omit it.",
+        "CNRTL TESTED AND DEAD for this agent: https://www.cnrtl.fr/definition/manquer and /etymologie/manquer both return HTTP 200 with a 914-byte shell whose only text is « Portail lexical ». Reported as asked. The sibling cites cnrtl.fr; I did not re-cite a page I could not read, and took the etymology from Larousse and the Académie instead, which is a better source for it anyway.",
+        "Headword read before citing, per the MARAUD/DEZILITER/Van Dale warning. Larousse /manquer/49234 returned the manquer entry (title « Définitions : manquer, être manqué, se manquer »), no MARAUD. Académie A9M0575 returned « MANQUER ». Both confirmed by string test, not by HTTP status.",
+        "Checkable error found in a ranking result: french-iceberg.com calls the experiencer a « complément d'objet » (unqualified, i.e. direct) when it is indirect, and in the same page instructs the reader to « faire la liaison » in tu me manques while its own transcription /ty mə mɑ̃k/ and its own note that the final s is silent rule any liaison out. Named in prose, not linked — zero competitor links.",
+        "Etymology verdict: the Italian-borrowing hypothesis HELD, on two independent named authorities. Académie 9e: « XVIe siècle. Emprunté de l'italien mancare, de même sens. » Larousse: « italien mancare, de manco, défectueux, du latin mancus ». It was carried into the post only because both authorities print it.",
+        "Price guard: pricecheck-intl.mjs run against the finished file. No occurrence of gratuit, gratuitement, sans frais, ne coûte rien, euro, prix or any figure presented as a price.",
+        "« Dative » does not appear in the French body. The body says complément d'objet indirect throughout. The typological label appears only inside batchMeta.sources, where it is part of a cited work's own title.",
+        "doi.org is at cap 3 for this batch per capcheck.mjs, so both scholarly sources are cited at the publisher's own URL instead of through the resolver. Journals named for the human cap count: Psych Predicates in Romance Languages (Edizioni Ca' Foscari, LiVVaL 8) and Journal of Psycholinguistic Research (Springer). Neither is on the hard-ban list; no Frontiers in Psychology, no PNAS, no PLoS ONE, no Scientific Reports, and neither spent PMCID (PMC8330882, PMC12221085) is reused.",
+        "Internal links, 4: /missyou-gf, /capsule and /templates are all present in TEMPLATE_LINKS in app/lib/prompt.ts. The fourth, /blog/tu-me-manques-en-anglais, is the sibling cross-link the BRIEF requires; it is not in TEMPLATE_LINKS by design but was confirmed live on Strapi production (total:1) on 2026-09-27. Item 31 is recorded as passed on that basis and flagged here so the distinction is visible.",
+        "Slug check (item 25) satisfied through Strapi PRODUCTION at https://strapi.subhsandesh.in/api/articles via ctx_execute, not curl or WebFetch: tu-me-manques-signification-grammaire returns total:0. The same call confirmed tu-me-manques-en-anglais at total:1, so the cross-link target is live.",
+        "All five Wikidata QIDs in structuredData were resolved against the live Wikipedia API on 2026-09-27 and paired with the sameAs that carries them: Q150 French language, Q175026 Object (grammar), Q652 Italian language, Q397 Latin, Q161806 Académie Française, Q2578454 Office québécois de la langue française. None was taken from memory."
+      ],
+      "honestAssessment": "This row was sent to me as the highest duplicate risk in the wave, with instructions to abort if the SERP wanted what the translation sibling already gives. It does not, and the SERP is what decided it. The measured fr-fr page carries no translation aggregator and no Google Translate widget — the two things that dominate the sibling's query — and instead returns French-course pages, a spelling brand, and the Office québécois de la langue française. That is a reader who has already understood the phrase and wants the verb explained, which is a different job. The strongest thing on the page is not mine: it is the OQLF classifying « je te manque » in the English sense as a catalogued syntactic anglicism rather than a slip, plus the nuance that « Je vous ai manqué » is perfectly correct in the sense of having failed to meet someone. I would not have found that by reasoning; it came out of the SERP I was told to measure. The etymology held on two authorities and carries real explanatory weight: the Académie files « Ses amis lui manquent » in the same rubric as « L'argent lui manque », which is why the absent person is a subject — they are grammatically a missing resource. Weaknesses, plainly. The lui-not-le/la proof is shared with the sibling and there is no honest way around that. The scholarly sourcing is the thinnest part: the Old French chapter is exactly on subject but I read only its abstract, and the MDPI paper I wanted as a second was unreadable behind a bot challenge, so I dropped it rather than cite a page I had not opened — the Kang and Oh paper that replaced it is about English L2 learners and is the loosest fit in the list. The first-party data is honest but nearly irrelevant to the reader, and I said so in the body rather than dressing it up: nothing is segmented by language or country, so none of those numbers describes a French speaker, and the product itself is an English-labelled page for a girlfriend or partner. A reader who came for the grammar should take the answer and leave, and the post tells them that."
+    },
+    "generatedAt": "2026-09-26T19:30:13.182Z"
+  }
+}

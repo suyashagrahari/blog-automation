@@ -1,0 +1,365 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Скучаю по тебе на английском: I miss you, I missed you — и что теряется по дороге",
+    "slug": "skuchayu-po-tebe-na-angliyskom",
+    "excerpt": "«Скучаю по тебе» на английском — I miss you. В 75 из 83 засвидетельствованных на Tatoeba переводов стоит простое настоящее, а не I am missing you. Разбираем, что английский теряет: род говорящего в прошедшем, совершенный вид «соскучился» и многозначность слова «тоска».",
+    "metaTitle": "Скучаю по тебе на английском — I miss you в 75 из 83",
+    "metaDescription": "«Скучаю по тебе» на английском — I miss you: 75 из 83 зафиксированных переводов дают простое настоящее, а не I am missing you. Род и вид при этом теряются.",
+    "keywords": "скучаю по тебе на английском, как сказать скучаю по тебе на английском, я скучаю по тебе перевод, соскучился по тебе на английском, скучал по тебе на английском, i miss you перевод на русский",
+    "canonicalURL": "https://subhsandesh.in/blog/skuchayu-po-tebe-na-angliyskom",
+    "ogType": "article",
+    "tags": [
+      "английский",
+      "перевод",
+      "скучаю по тебе",
+      "грамматика",
+      "на расстоянии"
+    ],
+    "keyTakeaways": [
+      "«Скучаю по тебе» на английском — I miss you; длящаяся форма I'm missing you встретилась 3 раза на 83 засвидетельствованных перевода.",
+      "Русское прошедшее различает род говорящего, английское — нет: 13 минимальных пар «скучал / скучала» переведены одинаково.",
+      "Совершенный вид «соскучился» английский передаёт временем: 40 из 51 перевода — present perfect I've missed you, против 31,2% у несовершенного прошедшего.",
+      "«Тоска» переводима: все 50 найденных предложений переведены, чаще всего словом homesick (22 раза), а два словарных значения из трёх — это скука.",
+      "Над органической выдачей по этому запросу стоят три блока Google — Переводчик, «Вопросы по теме» и «Обзор от ИИ», — и в последнем есть проверяемая ошибка про длящуюся форму."
+    ],
+    "faqs": [
+      {
+        "question": "Как написать «скучаю по тебе» латиницей, если у получателя не отображается кириллица?",
+        "answer": "Отправлять транслитерацию вроде skuchayu po tebe не стоит: англоязычный получатель её не прочитает, а русскоязычный прочитает с усилием. Пишите сразу I miss you — это та же мысль на языке, который читается без подготовки. Транслитерация уместна разве что как подпись рядом с английской строкой."
+      },
+      {
+        "question": "Можно ли писать I miss u в переписке?",
+        "answer": "Да, это обычное сокращение в неформальной переписке, наравне с miss u. В письме, открытке или сообщении человеку старше вас лучше писать полностью: I miss you. Сокращение экономит два символа и заметно снижает вес фразы."
+      },
+      {
+        "question": "Что значит IMY?",
+        "answer": "IMY — аббревиатура от I miss you, используется в чатах и комментариях. Есть и усиленный вариант IMYSM, то есть I miss you so much. Обе формы читаются как дружеские; для серьёзного признания они слишком легковесны."
+      },
+      {
+        "question": "Прозвучит ли I miss you so much романтично, если я пишу другу?",
+        "answer": "Нет, в английском это нейтральная фраза. Её без неловкости пишут друзьям, родителям, коллегам после отпуска. Романтику задаёт контекст и усиление: I miss you so much от партнёра читается иначе, чем то же самое от однокурсника."
+      },
+      {
+        "question": "Чем I miss you отличается от I long for you?",
+        "answer": "I miss you — повседневная фраза. Long for заметно книжнее и сильнее: это «томиться, страстно желать». В выгрузке Tatoeba варианты вроде I pine for you и I'm languishing for you встретились по одному разу на 83 перевода, то есть это редкость, а не норма."
+      },
+      {
+        "question": "Что ответить на сообщение I miss you so much?",
+        "answer": "Симметричный ответ — I miss you too или короче, Miss you too. Если хочется теплее: I've missed you too, форма present perfect, которая добавляет «всё это время». Если отвечать взаимностью не хочется, нейтральный выход — That's sweet, hope we see each other soon."
+      },
+      {
+        "question": "Правильно ли Google Переводчик переводит «скучаю по тебе»?",
+        "answer": "На нашем запросе виджет Переводчика в выдаче 27.09.2026 отдал miss you — без подлежащего I. Как перевод словосочетания это верно, но отправлять такую строку нельзя: получится обрывок, а не предложение. Подлежащее придётся дописать самому."
+      },
+      {
+        "question": "Как сказать «я скучал по тебе весь день»?",
+        "answer": "I missed you all day — простое прошедшее, если день закончился. Если день ещё идёт, естественнее I've missed you all day, present perfect. Разница ровно та же, что между «скучал» и «соскучился»: завершённый отрезок против связи с настоящим."
+      },
+      {
+        "question": "«Скучаю по дому» — это тоже miss?",
+        "answer": "Да: I miss home или, чаще, I'm homesick. По нашей выгрузке именно homesick оказалось самым частым английским соответствием для русской «тоски» — 22 раза из 50 предложений. Отдельного слова для тоски по дому английский не потерял, наоборот, у него оно как раз есть."
+      },
+      {
+        "question": "Нужно ли ставить I перед miss you в конце письма или sms?",
+        "answer": "В письменной фразе — да. Miss you без подлежащего существует и звучит естественно в конце сообщения или подписи, как «скучаю» без «я». Но если фраза стоит сама по себе и должна быть полноценным предложением, подлежащее обязательно."
+      }
+    ],
+    "coverImageQuery": "russian english phrasebook handwritten note",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note on cream paper lying on a wooden desk beside a phone showing an open messaging app. The note carries two short handwritten lines, one in Cyrillic script and one in Latin script, softly out of focus so neither is fully legible. Late afternoon window light, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No readable text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Скучаю по тебе на английском: I miss you, I missed you — и что теряется по дороге\n\n«Скучаю по тебе» на английском — **I miss you**. Если нужно было только это, дальше можно не читать.\n\nВсё остальное здесь — про то, что русская форма несёт, а английская не несёт. Мы не словарь и не переводчик: SubhSandesh — конструктор персональных страниц, 5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24, при среднем Average views per created page: 11.1 — measured 2026-09-24. Ни одна наша цифра не разбита по языку или стране — подробнее об этом ниже.\n\nПадежный спор — «скучаю по тебе» или «скучаю за тобой» — разбирает соседний материал: [скучаю по тебе или за тобой, разбор по словарям](https://subhsandesh.in/blog/skuchayu-po-tebe-ili-za-toboy-kak-pravilno). Здесь мы его не повторяем: наша половина — английская сторона перевода.\n\n## Почему не «I am missing you»: 75 переводов из 83\n\nРусское *скучаю* — несовершенный вид, длящееся состояние. Логично ждать, что по-английски это будет длящаяся форма *I am missing you*. Это не так.\n\nМы выгрузили из [Tatoeba](https://tatoeba.org/en/sentences/search?from=rus&to=eng&query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%B1%D0%B5) все русские предложения по запросу «скучаю по тебе» с английскими переводами (прогон 2026-09-27). Поиск там идёт по словоформам, а не по строке: сервис отдал 193 совпадения, но буквально фразу содержали только 47 из них — выжило 24,4%.\n\nУ этих 47 предложений 83 английских перевода. Простое настоящее (*I miss you*, *Tom misses you*) — 75 из 83. Длящаяся форма *I'm missing you* — 3. Плюс два будущих, один прошедший и два разовых варианта: *I pine for you* и *I'm languishing for you*.\n\nНа более широкой выборке — 204 русских предложения с формами *скучаю / скучает / скучают*, 284 перевода — картина та же: 266 простых настоящих (93,7%) против 10 длящихся (3,5%). Английское *miss* ведёт себя как глагол состояния, а глаголы состояния сопротивляются продолженному времени. Несовершенный вид здесь передаётся не продолженной формой, а самой обычной.\n\n## Скучал или скучала: род, который английский стирает\n\nВот настоящая потеря. Русское прошедшее время маркирует род говорящего: *я скучал* и *я скучала* — разные формы. Парадигму видно в метасловаре Грамоты, в статье [скучать](https://gramota.ru/meta/skuchat): мужской род *скуча́л*, женский *скуча́ла*.\n\nАнглийский такого показателя не имеет вовсе. В той же выгрузке нашлось 13 минимальных пар — русских предложений, отличающихся только родом глагола, — и 16 английских строк, засвидетельствованных для обеих форм сразу.\n\nСамая простая пара: «Я скучал по тебе» и «Я скучала по тебе» переведены одинаково, *I missed you*. То же с «Я так по тебе скучал / скучала» → *I've missed you so much*. Получатель английской строки не узнает из неё, пишет ему мужчина или женщина.\n\nЭто не изъян английского и не повод искать обходной путь. Просто если пол отправителя должен читаться, его придётся вынести за пределы глагола — в подпись, в фотографию, в обращение.\n\n## Соскучился — это «I've missed you», а не «I missed you»\n\n*Соскучился* — совершенный вид, отдельное слово, а не форма от *скучать*. Большой толковый словарь через Грамоту определяет [соскучиться](https://gramota.ru/meta/soskuchitsya) начинательными глаголами: «Почувствовать скуку» и «Затоскова́ть без кого-, чего-либо» — не «испытывать», а «начать испытывать».\n\nУ английского для этого есть форма, и она измерима. По запросу *соскучился* Tatoeba отдала 36 предложений; пять из них — идиома «с тобой не соскучишься» (*There's never a dull moment with you*), другое значение, мы их отложили. Осталось 31 предложение и 51 перевод: 40 из них в present perfect (*I've missed you*) — 78,4%.\n\nСравните с несовершенным прошедшим: 116 предложений с *скучал / скучала*, 170 переводов, из них в present perfect только 53 — 31,2%, а простое прошедшее *I missed you* даёт 101 перевод.\n\nКонтраст вида английский передаёт не лексикой, а выбором времени. *Я скучал по тебе* → *I missed you*. *Я соскучился по тебе* → *I've missed you*. Разница в английском есть — просто она живёт не там, где её ищут.\n\n## Очень, ужасно, безумно: как усиливают по-английски\n\nУсиление переносится почти буквально и выглядит скучнее, чем ожидаешь. «Я очень скучаю по тебе» в корпусе передано как *I miss you very much*, *I miss you a lot*, *I miss you dearly*, *I miss you badly*, *I miss you so much*. «Я ужасно скучала по тебе» — *I've missed you terribly*.\n\nОтдельно стоят *I pine for you* и *I'm languishing for you*: оба засвидетельствованы, оба редки (по одному разу на 83 перевода) и оба заметно литературнее русского «скучаю». В переписке они прочитаются как цитата, а не как признание.\n\n## Пять русских форм и их английские соответствия\n\nДоля ниже считается от английских переводов в соответствующей выборке Tatoeba, прогон 2026-09-27.\n\n### Настоящее: скучаю по тебе\n\n*I miss you* — 75 из 83 переводов, 90,4%.\n\n### Прошедшее мужского рода: скучал\n\n*I missed you*, простое прошедшее — 101 из 170 переводов выборки прошедшего времени.\n\n### Прошедшее женского рода: скучала\n\n*I missed you*, та же строка: род в английском не выражается, 13 минимальных пар.\n\n### Совершенный вид: соскучился\n\n*I've missed you*, present perfect — 40 из 51 перевода, 78,4%.\n\n### Будущее: буду скучать\n\n*I'll miss you* и *I'm going to miss you* — обе формы засвидетельствованы.\n\n| Русская форма | Английская форма | Что измерено | Что теряется |\n|---|---|---|---|\n| скучаю по тебе | I miss you | 75 из 83 переводов | вид: простое настоящее вместо длящегося |\n| я скучал | I missed you | 101 из 170 | род говорящего |\n| я скучала | I missed you | та же строка | род говорящего |\n| я соскучился | I've missed you | 40 из 51 | вид передан временем |\n| буду скучать | I'll miss you | засвидетельствовано | ничего существенного |\n\n## Тоска: правда ли её нельзя перевести\n\nПро *тоску* принято говорить, что она непереводима. Мы проверили это тремя способами, и утверждение не выдержало ни одного.\n\nПервый: словарь. Большой толковый словарь русских существительных через Грамоту даёт у [тоски](https://gramota.ru/meta/toska) синонимы «уныние, печаль, грусть, меланхолия, разг. хандра, устар. ипохондрия, устар. сплин, тревога». Три из восьми — *меланхолия*, *ипохондрия*, *сплин* — заимствования из того самого западноевропейского словаря, которому слова якобы не хватает; *сплин* — это английское *spleen*.\n\nВторой: другие языки. Английский Wiktionary в статье [тоска](https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%81%D0%BA%D0%B0) возводит слово к праславянскому *\\*tъska* и даёт три значения простыми английскими словами: melancholy, depression; boredom, ennui, weariness; longing, yearning. Праславянская реконструкция значит «пустота; меланхолия, скорбь» и дала потомков в чешском (*teskný*), польском (*tęskny*), словацком (*tesklivý*), украинском и белорусском. Слово, которого «нет у других», унаследовано как минимум пятью славянскими языками.\n\nТретий: корпус. По запросам *тоска*, *тоскую*, *тосковать* Tatoeba дала 50 уникальных русских предложений, и все 50 буквально содержат корень — потерь на словоформы здесь не было. Переведены тоже все 50, без пропусков и без транслитерации *toska*. Чаще всего — *homesick / homesickness*, 22 раза; дальше *longing* (7), *yearn* (6), *melancholy*, *pine*, *sadness*, *anguish*, *grief*, *sorrow*, *wistfulness*, *nostalgia*.\n\n«Тоска.» при этом переведено как *How boring*, а «Тоска зелёная» — как *Dead boring*: это второе словарное значение, БТС даёт «Гнетущая, томительная скука». Слово многозначно, и английский выбирает значение по контексту.\n\nОговорка: Tatoeba — база предложений от волонтёров, а не сбалансированный корпус, и 50 предложений мало. Это проверка одного утверждения на доступных данных, а не опровержение теории.\n\n## Что стоит над выдачей — и две проверяемые ошибки в ней\n\nВыдачу мы измерили сами, 2026-09-27, в реальном браузере: Google, отданный на Россию (`gl=ru&hl=ru&pws=0`), два одинаковых прогона. Скрипт DuckDuckGo вызывали один раз, он вернул «no results parsed».\n\nНад органикой стоят три блока: виджет Google Переводчика, «Вопросы по теме» и «Обзор от ИИ». Запрос отвечен трижды до первой ссылки, и потолок здесь ставит не конкурент, а сам Google. Виджет на нашем запросе выдаёт *miss you*, без *I*.\n\nДальше 11 органических результатов, которые мы действительно видели. Десять из одиннадцати — словари, базы параллельных примеров, приложения и короткие видео (Reverso дважды, Яндекс Переводчик, Glosbe, Memrise, Instagram, TikTok, YouTube и две небольшие языковые площадки); редакционный материал ровно один.\n\nОшибка первая, в «Обзоре от ИИ»: там написано «I'm missing you — Я скучаю (процесс происходит прямо сейчас)». По нашей выгрузке длящаяся форма — 3 перевода из 83. Блок подаёт редкий вариант как естественный способ выразить длящееся состояние, хотя длящееся состояние английский выражает как раз простым настоящим.\n\nОшибка вторая, в сниппете третьего результата (Яндекс Переводчик; сниппет прочитан одинаково в обоих прогонах): «Я скучаю по тебе очень сильно» → *I missed you so much*, а рядом «Я так скучала по тебе» → *I miss you*. Настоящее отдано прошедшим, прошедшее — настоящим, в одном сниппете.\n\n## Что вы увидите, если отправите это страницей\n\nЗдесь нужна прямота. Страница [«I miss you» для любимого человека](/missyou-gf) — англоязычная: заголовки, подписи полей и кнопки на английском, а в коде шаблон описан как «I miss you page for a girlfriend/partner» (`app/lib/prompt.ts`, строка 44) — то есть адресован девушке или партнёрше. Русская строка внутри наберётся и отобразится, но рамка вокруг неё останется латинской.\n\nНаши цифры подтверждают это с неудобной стороны: Most-viewed template: love-gf — 17,093 views, 29.7% of all page views — measured 2026-09-24, и 48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24.\n\nТри оговорки обязательны. Просмотры — это просмотры страницы, а не уникальные посетители: один получатель, открывший ссылку двадцать раз, даёт двадцать просмотров. База фиксирует, какой шаблон открывали, и никогда — кто получил ссылку. И ничего в ней не сегментировано по языку или стране: ни одна цифра выше не является русской, и выдавать её за русскую мы не будем.\n\nЧто входит в страницу и на каких условиях — смотрите [актуальный список шаблонов](/templates); подтвердить это по нашим данным мы не можем, блок с условиями в наших фактах пуст.\n\n## Когда наша страница вам не нужна\n\nЕсли вы искали перевод, вы получили его во второй строке этого текста, и больше вам от нас ничего не нужно. Это нормальный исход.\n\nСтраница уместна в другом случае: когда «скучаю» — не разовое сообщение, а то, что повторяется месяцами на расстоянии. Показатель Average pages per registered creator: 1.35 — measured 2026-09-24 честно говорит, что большинство создаёт одну страницу и уходит.\n\nДля регулярности лучше подходит [страница-стрик на двоих](/streak): там каждый день — одно касание, а не новый текст. Если связь нужна ежедневная, разовая страница проигрывает ей по устройству задачи.\n\n## Источники\n\n- Грамота.ру, метасловарь, [скучать](https://gramota.ru/meta/skuchat) — БТС: два значения («испытывать скуку» и «томиться, тосковать без кого-, чего-либо») и парадигма с формами *скуча́л / скуча́ла*.\n- Грамота.ру, метасловарь, [соскучиться](https://gramota.ru/meta/soskuchitsya) — БТС: «Почувствовать скуку»; «Затоскова́ть без кого-, чего-либо».\n- Грамота.ру, метасловарь, [тоска](https://gramota.ru/meta/toska) — БТС и Большой толковый словарь русских существительных: три значения и ряд синонимов с *меланхолией*, *ипохондрией* и *сплином*.\n- [Tatoeba](https://tatoeba.org/en/sentences/search?from=rus&to=eng&query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%B1%D0%B5), выгрузка rus→eng 2026-09-27 — все подсчёты выше.\n- [Wiktionary, тоска](https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%81%D0%BA%D0%B0) — этимология от праславянского *\\*tъska*, три английских толкования, цитата 2018 года.\n- [Palanichamy и Trojovský, «Overview and challenges of machine translation for contextually appropriate translations», iScience, 12.09.2024](https://europepmc.org/article/PMC/PMC11465115) — обзор, прочитанный полностью: среди причин ошибок машинного перевода отдельно названы падежи («Some languages, such as Latin, German, or Russian, employ grammatical cases») и спряжение («Modifications to verbs to indicate tense, mood, aspect, and agreement with the subject. Errors in conjugation can alter meaning»).",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/skuchayu-po-tebe-na-angliyskom#post",
+        "inLanguage": "ru",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Русский язык",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Russian_language",
+              "https://www.wikidata.org/wiki/Q7737"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Грамматический вид",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_aspect",
+              "https://www.wikidata.org/wiki/Q208084"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Грамматический род",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_gender",
+              "https://www.wikidata.org/wiki/Q162378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Непереводимость",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Untranslatability",
+              "https://www.wikidata.org/wiki/Q2706268"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Глагол состояния",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Stative_verb",
+              "https://www.wikidata.org/wiki/Q1562262"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Грамота.ру, метасловарь: скучать (Большой толковый словарь русского языка)",
+            "url": "https://gramota.ru/meta/skuchat",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Грамота.ру"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Грамота.ру, метасловарь: соскучиться (Большой толковый словарь русского языка)",
+            "url": "https://gramota.ru/meta/soskuchitsya",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Грамота.ру"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Грамота.ру, метасловарь: тоска (БТС и Большой толковый словарь русских существительных)",
+            "url": "https://gramota.ru/meta/toska",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Грамота.ру"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba, выгрузка rus→eng по формам скучать / соскучиться / тосковать",
+            "url": "https://tatoeba.org/en/sentences/search?from=rus&to=eng&query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%B1%D0%B5",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary: тоска",
+            "url": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%81%D0%BA%D0%B0",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Overview and challenges of machine translation for contextually appropriate translations",
+            "url": "https://europepmc.org/article/PMC/PMC11465115",
+            "datePublished": "2024-09-12",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "iScience"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Elsevier (Cell Press)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/skuchayu-po-tebe-na-angliyskom#forms",
+        "name": "Пять русских форм и их английские соответствия",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Настоящее: скучаю по тебе — I miss you"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Прошедшее мужского рода: скучал — I missed you"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Прошедшее женского рода: скучала — I missed you"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Совершенный вид: соскучился — I've missed you"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Будущее: буду скучать — I'll miss you"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "скучаю по тебе на английском",
+    "angle": "Wins by being the only page on this SERP that measures how attested rus→eng sentence pairs actually render скучать — 75 of 83 translations of «скучаю по тебе» use the English simple present, not the progressive — and that shows what English drops: the speaker's gender in the past (13 minimal pairs rendered identically) and the perfective соскучился, which surfaces as present perfect in 40 of 51 translations.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "Most-viewed template: love-gf — 17,093 views, 29.7% of all page views — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average pages per registered creator: 1.35 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://gramota.ru/meta/skuchat",
+        "stat": "Gramota.ru metaslovar, headword скучать verified on the page. Большой толковый словарь русского языка gives two senses: «1. Испытывать скуку.» and «2. (о ком-чём, по ком-чём, по кому-чему) Томиться, тосковать без кого-, чего-либо.» The same page prints the full paradigm, including Формы прошедшего времени: мужской род скуча́л, женский род скуча́ла — the dictionary evidence that Russian marks the speaker's gender in the past tense."
+      },
+      {
+        "url": "https://gramota.ru/meta/soskuchitsya",
+        "stat": "Gramota.ru metaslovar, headword соскучиться verified on the page. Большой толковый словарь русского языка: «1. Почувствовать скуку… 2. (о ком-чём, по кому-чему и) разг. (по ком-чём, без кого-чего) Затосковать без кого-, чего-либо.» Both definitions use inchoative verbs (почувствовать, затосковать), i.e. 'come to feel', which is the perfective semantics English carries with the present perfect. The page also carries «С тобой не соскучишься» as a separate idiomatic use."
+      },
+      {
+        "url": "https://gramota.ru/meta/toska",
+        "stat": "Gramota.ru metaslovar, headword тоска verified on the page. Большой толковый словарь русского языка gives three senses, two of them boredom: «1. Тяжёлое гнетущее чувство, душевная тревога, грусть, уныние. 2. разг. Гнетущая, томительная скука… Тоска зелёная. 3. О том, что вызывает… состояние душевного томления, сильной скуки, уныния.» Большой толковый словарь русских существительных lists as synonyms of sense 2: «уныние, печаль, грусть, меланхолия, разг. хандра, устар. ипохондрия, устар. сплин, тревога» — three of the eight are West European borrowings, сплин being English spleen."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=rus&to=eng&query=%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8E%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%B1%D0%B5",
+        "stat": "Tatoeba rus→eng, harvested via the public api_v0 search endpoint on 2026-09-27. Query «скучаю по тебе»: 193 raw hits reported, 47 sentences (24.4%) literally contain the string — the search is tokenised. Those 47 carry 83 English translations: 75 simple present (90.4%), 3 present progressive, 2 future, 1 simple past, 2 one-off (I pine for you; I'm languishing for you). Wider present-tense set: 204 sentences, 284 translations, 266 simple present (93.7%) against 10 progressive (3.5%). Imperfective past: 116 sentences, 170 translations, 101 simple past and 53 present perfect (31.2%); 13 minimal pairs differ only in скучал/скучала and 16 English strings are attested for both genders. Perfective соскучиться: 36 raw hits, 5 of them the idiom «не соскучишься», leaving 31 sentences and 51 translations, 40 of them present perfect (78.4%). Queries тоска/тоскую/тосковать: 50 unique sentences, all 50 literally containing тоск- and all 50 translated, most often homesick/homesickness (22), then longing (7) and yearn (6).",
+        "publishedDate": "2026-09-27"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%81%D0%BA%D0%B0",
+        "stat": "Wiktionary entry тоска (headword verified): inherited from Proto-Slavic *tъska, glossed in three numbered senses — «melancholy, depression», «boredom, ennui, weariness», «longing, yearning» — with a 2018 song citation (Молчат дома, «Тоска»). The Proto-Slavic reconstruction page for *tъska glosses it «emptiness; melancholy, sorrow, grief» and lists descendants in Czech (teskný), Polish (tęskny), Slovak (tesklivý), Ukrainian and Belarusian."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11465115",
+        "stat": "Palanichamy & Trojovský, \"Overview and challenges of machine translation for contextually appropriate translations\", iScience, 12 September 2024, doi 10.1016/j.isci.2024.110878, CC BY, Unpaywall is_oa=true (gold). Full text read via the Europe PMC REST fullTextXML endpoint (233,594 bytes), not the abstract. Names grammatical case — «Some languages, such as Latin, German, or Russian, employ grammatical cases to indicate the function of nouns and pronouns in a sentence» — and verb conjugation — «Modifications to verbs to indicate tense, mood, aspect, and agreement with the subject. Errors in conjugation can alter meaning» — among the structural causes of machine-translation error, with polysemy disambiguation as the review's central theme (43 occurrences).",
+        "publishedDate": "2024-09-12"
+      }
+    ],
+    "structuralLimitations": [
+      "BRIEF §0 — PROMPT FRAMING MEASURED, AND HALF OF IT WAS WRONG. The prompt asked what имперфектив скучаю maps to, 'I miss you' or 'I am missing you', and warned that a Turkish sibling found its own assumption half wrong with 80.8% of translations past-marked. Measured on Tatoeba rus→eng 2026-09-27: for Russian PRESENT-tense скучать the Turkish result does NOT replicate at all. Of 284 English translations of 204 present-tense sentences, exactly 1 is past-marked (0.4%); 266 are simple present (93.7%) and 10 are progressive (3.5%). On the narrow «скучаю по тебе» set, 75 of 83 are simple present. So the answer is 'I miss you', and the intuitive imperfective→progressive mapping is the thing that is wrong, not the simple present. The likely reason is lexical rather than aspectual: English miss is a stative verb.",
+      "BRIEF §0 — PROMPT CLAIM CORRECTED. The prompt says соскучился 'means something English has no single form for (\"I've come to miss you\" / \"I've missed you\")'. English does have a single form for it and the corpus picks it: 40 of 51 translations of соскучиться sentences (78.4%) are present perfect, against 31.2% for the imperfective past. The Russian perfective/imperfective contrast survives translation — it is re-encoded as a tense choice rather than lost. That is stated in the body.",
+      "BRIEF §0 — PROMPT CLAIM ABOUT ТОСКА TESTED AND REJECTED, three ways, as the prompt asked. (a) Gramota's own Большой толковый словарь русских существительных lists меланхолия, устар. ипохондрия and устар. сплин among eight synonyms — three West European borrowings, сплин being English spleen. (b) English Wiktionary glosses тоска in three plain senses and derives it from Proto-Slavic *tъska, whose descendants include Czech teskný, Polish tęskny, Slovak tesklivý, Ukrainian and Belarusian — so at least five other languages inherited the word, which also confirms the Polish sibling's *tъsk-/tęsknota claim independently. (c) All 50 тоск- sentences found on Tatoeba were translated into English, most often by the entirely ordinary word homesick (22 of 50). NO Nabokov gloss is cited: en.wikipedia has no Toska article (checked via the API, search returned a band and a TV list), and no reachable source for the commentary quotation was found, so the famous gloss is deliberately absent rather than repeated from memory.",
+      "SIBLING SPLIT, stated in the body in one sentence and cross-linked: skuchayu-po-tebe-ili-za-toboy-kak-pravilno owns the CASE dispute (по+дательный normative per Gramota № 274269; за+творительный outside the literary language per № 332860; the Rosenthal / Ожегов–Шведова contradiction over по вас; and the point that ты has one form тебе for both dative and prepositional). None of that is re-derived here. This post owns the ENGLISH rendering. The sibling is live in production Strapi (id 2752, verified 2026-09-27), so the cross-link resolves today.",
+      "NKRJa WAS NOT RE-RUN, deliberately. The sibling obtained its corpus counts through the real browser and owns them; ruscorpora.ru serves a SPA whose /api/search 404s, its results URL carries an opaque base64 protobuf that cannot be constructed offline, and BRIEF §3 says interactive multi-step browser work is exactly what contention corrupts. Every corpus count in this post is Tatoeba, labelled as such, with its own limitation recorded. Nothing here is attributed to NKRJa.",
+      "TATOEBA IS NOT A BALANCED CORPUS and the post says so in body prose. It is a volunteer sentence bank; many translations are learner-contributed, a sentence may carry several English translations of uneven quality, and the тоска sample is n=50. The percentages here describe attested translation practice in that bank, not frequencies in Russian. The tokenisation loss is reported rather than hidden: the query «скучаю по тебе» returned 193 raw hits of which 47 (24.4%) literally contain the string, and the query «скучал» hit the API's 1000 result cap, so no rate was computed from it.",
+      "SERP INSTRUMENT, disclosed in body prose. scripts/serp-ddg.mjs was called ONCE per BRIEF §3 (twice in total, because the first call parsed the flags in the wrong order and sent the literal string 'ru-ru' as the query — a script-argument bug, not a network result; the corrected call returned '(no results parsed)'). The measured SERP is Google served to Russia, gl=ru&hl=ru&pws=0, in the operator's real Chrome, read only, run twice on 2026-09-27; both runs returned an identical set of 11 external hosts and the same three answer blocks above the organic results, which is the self-authentication BRIEF §3 requires. Every page read was in Russian and contained this keyword; nothing from another agent's SERP was recorded. Bing and Brave were not needed and were not run.",
+      "RANK NUMBERS ARE NOT CLAIMED BEYOND WHAT WAS SEEN. 11 external hosts were captured in DOM order and one of them, surferseo.com, was discarded as a browser-extension artefact rather than an organic result; the count reported in the body is 'the 11 organic results we actually saw'. Positions 9-10 of a canonical top-10 are not asserted, and no competitor page is linked.",
+      "THE FIRST-PARTY FACTS ARE PLATFORM-WIDE AND THE POST SAYS SO. All five factsUsed lines are platform-wide, chosen deliberately away from the six heavily-collided miss-you lines (the sibling spent 2.6 h edit gap, 88.8% published, 86.4% memories and the 214-page line; measured across both batches those miss-you lines carry 34-64 posts each). Two of the five lines chosen here — 'Average views per created page: 11.1' and 'Most-viewed template: love-gf' — had 0 and 1 prior uses respectively. The mandatory caveats are in body prose: views are page views not unique visitors, the database records which TEMPLATE was opened and never who received it, and nothing is segmented by language or country, so no figure in this post is Russian.",
+      "THE PRODUCT MISMATCH IS DISCLOSED IN RUSSIAN PROSE, not only in the audit. /missyou-gf is defined at app/lib/prompt.ts:44 as an 'I miss you page for a girlfriend/partner' — English labels and a girlfriend/partner recipient — and the body says plainly that a Cyrillic line will sit inside Latin-script furniture, and that a reader who only needed the translation needs nothing from SubhSandesh. No price, tier or cost claim appears anywhere; pricecheck-intl.mjs was run clean on this slug."
+    ],
+    "additionalChecks": [
+      "Price guard: node content/batches/2026-09-26-miss-you-global-30/pricecheck-intl.mjs skuchayu-po-tebe-na-angliyskom — run before saving, clean. No бесплатно / без оплаты / даром / ничего не стоит / free / any figure with a currency appears in the body, FAQs or metadata.",
+      "Source caps: node capcheck.mjs run immediately before writing — no banned URL used, doi.org at cap 3 and deliberately avoided (publisher/repository URLs cited instead). All six source hosts (gramota.ru ×3, tatoeba.org, en.wiktionary.org, europepmc.org) are cap-exempt instruments. JOURNAL NAMED FOR THE HUMAN COUNT: iScience (Elsevier / Cell Press). It is not Frontiers in Psychology, not PNAS, not PLoS ONE and not Scientific Reports. PMC11465115 appears in no other post in either batch. PMC8669216 (J. Social and Personal Relationships) was found by findpapers and REJECTED because it is already in 3 posts of this batch, over the URL cap of 2. PMC12599338, spent by the sibling, was not reused.",
+      "Strapi checks run through ctx_execute against production on 2026-09-27: slug skuchayu-po-tebe-na-angliyskom returns total:0 (free); categorySlug miss-you-across-miles exists among the 10 live categories; the sibling article skuchayu-po-tebe-ili-za-toboy-kak-pravilno exists (id 2752), so the cross-link resolves.",
+      "Wikidata QIDs paired in structuredData were each verified live against the Wikipedia API (action=query&prop=pageprops), not from memory: Q7737 Russian language, Q208084 Grammatical aspect, Q162378 Grammatical gender, Q2706268 Untranslatability, Q1562262 Stative verb, Q495456 Tatoeba. No redirects fired and every title resolved.",
+      "Dictionary headwords were read on the page before citing, per BRIEF §4: gramota.ru/meta/skuchat serves «скучать», /meta/soskuchitsya serves «соскучиться», /meta/toska serves «тоска», en.wiktionary.org/wiki/тоска serves тоска. None of the MARAUD/DEZILITER traps applies here. The Europe PMC LANDING page 403s a scripted UA; the full text was read via the Europe PMC REST fullTextXML endpoint (233,594 bytes), so 'abstract only' is not claimed. No PDF was needed; the MDPI PDF for the one candidate that had no fullTextXML (Journal of Intelligence, PMC12842814) returned a 2,317-byte HTML bot-challenge at HTTP 200, so that paper was dropped rather than cited from its abstract.",
+      "Internal-link placement: three of the four internal links (/missyou-gf, /templates, /streak) sit in the last two sections, after the sections that earn them. The fourth, the sibling cross-link, is deliberately in the third paragraph because its job is to route a reader who wanted the case dispute away from this page immediately — that placement is a routing decision, not a CTA.",
+      "CHECKABLE ERRORS FOUND IN RANKING RESULTS, both recorded in the body without linking the pages. (1) Google's own «Обзор от ИИ» for this query glosses «I'm missing you — Я скучаю (процесс происходит прямо сейчас)»; the progressive is 3 of 83 attested translations (3.6%), and the ongoing imperfective is rendered by the SIMPLE present 90.4% of the time, so the block presents the marked minority form as the natural one. (2) The snippet Google serves for the #3 result, translate.yandex.ru, pairs «Я скучаю по тебе очень сильно» (present) with 'I missed you so much' (past) and «Я так скучала по тебе» (past, feminine) with 'I miss you' (present) — both directions inverted in one snippet, read identically on two runs. A third, weaker one is noted here only: begin-english.ru, the single editorial result, lists «Your presence makes me a happy person» and «I look forward to seeing you again» among ways to say «я скучаю» — both describe presence or a future meeting rather than absence — and glosses 'I long for you' as «Я скучаю по тебе» two lines before glossing 'to long for somebody' as «тосковать по кому-то».",
+      "GATE 4 VERDICT: PROCEED. 10 of the 11 organic results actually seen are dictionaries, parallel-example banks, app pages and short video; exactly one is an editorial article. That is the weak field BRIEF §3 describes for an A/B row. The real ceiling is not the organic competition but the three Google-owned answer blocks stacked above it — a Translate widget, «Вопросы по теме» and an AI Overview — which is why this post is built to be worth reading AFTER the one-line answer rather than to win the one-line answer.",
+      "Word count 1,779 by plain whitespace split, inside the 1,500-1,800 hard range and near the ~1,750 target BRIEF knownIssues asks for, leaving headroom for a later word-neutral cross-link pass."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Ни один столбец таблицы не является first-party. База SubhSandesh не сегментирована по языку или стране и фиксирует, какой шаблон открывали, а не кому его отправили, поэтому любой наш столбец рядом с русской глагольной формой подразумевал бы сегментацию, которой не существует. Закроется только если база начнёт сегментировать страницы по языку; до тех пор first-party цифры вынесены в прозу вместе с оговорками."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Пять источников из шести привязаны к русскому языку и переехать не могут. Шестой — обзор машинного перевода в iScience (PMC11465115) — мог бы без изменений стоять в любом другом переводном посте этой пачки. Он оставлен потому, что это единственный рецензируемый открытый источник, которого требует чек-лист, и потому что цитируемая из него фраза про падежи прямо называет русский. Закроется, если найдётся рецензируемая открытая работа именно о переводе русского вида или русского прошедшего времени; findpapers.mjs по двум запросам такой не вернул."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "Платных источников нет, но запись о способе чтения нужна: посадочная страница europepmc.org/article/PMC/PMC11465115 отдаёт 403 скриптовому клиенту, поэтому полный текст iScience читался через REST-эндпоинт Europe PMC (fullTextXML, 233 594 байта) — прочитан целиком, не реферат. Пункт оставлен в failed, потому что формально он про платный доступ, а здесь ограничение другое: бот-защита посадочной страницы. Закроется, если посадочная страница начнёт отдаваться скрипту."
+        }
+      ],
+      "honestAssessment": "This is the only page on this SERP that measured anything: 193 raw Tatoeba hits reduced to 47 real ones, 83 attested English translations counted, and the result — 75 simple present against 3 progressive — contradicts Google's own AI Overview on the same query, which calls I'm missing you the form for an ongoing process. It is also the only page that shows what English drops (13 minimal pairs where скучал and скучала become the same English string) and the only one that tests the тоска untranslatability claim instead of repeating it. What it cannot overcome is the top of the page: a Google Translate widget, a People-Also-Ask block and an AI Overview all answer «I miss you» before the first organic link, so the addressable click is the reader who wanted more than the two words, and that is a minority of this query's volume. The domain also has no published track record in Russian — 905 live posts, none of them Russian before this batch — so expect months and treat the citation surface (answer engines quoting the counts) as the realistic near-term payoff rather than a rank."
+    },
+    "generatedAt": "2026-09-26T20:20:42.141Z",
+    "orchestratorRepair": "Checklist items 'Every internal link is a real URL from TEMPLATE_LINKS' and '2-4 internal links with descriptive anchor text' were recorded as FAILED because this post carries a /blog/ sibling cross-link that BRIEF.md mandates but that is not a TEMPLATE_LINKS entry. Flipped to passed by the orchestrator 2026-09-27 on the enforcing code's own definition: scripts/verify-batch.mjs line 226 and line 235 both apply .filter((p) => !p.startsWith('/blog')), so /blog/ cross-links are excluded from BOTH the 2-4 count AND the TEMPLATE_LINKS membership check. Re-measured with the verifier's exact logic: this post has 3 body internal links, all members of TEMPLATE_LINKS. The ambiguity was created by my brief, not by the agent, and the agent's reading was defensible - it simply took the checklist's plain wording rather than the tool's definition. No prose altered."
+  }
+}

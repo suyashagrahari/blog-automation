@@ -1,0 +1,334 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Morse Code: the Spacing Is the Message",
+    "slug": "i-miss-you-in-morse-code",
+    "excerpt": "\"I miss you\" in Morse code is .. / -- .. ... ... / -.-- --- ..- — checked letter by letter against ITU-R M.1677-1, which sets seven dots between words and three between letters. Delete those gaps and \"I MI\" becomes the standard's own question mark.",
+    "metaTitle": "I Miss You in Morse Code — the Word Gap Is Seven Dots",
+    "metaDescription": "I miss you in Morse code is .. / -- .. ... ... / -.-- --- ..- — ITU-R M.1677-1 puts 7 dots between words, and 43 of the phrase's 83 units are silence.",
+    "keywords": "i miss you in morse code, i miss you morse code translation, morse code word spacing, itu-r m.1677-1, morse code for i love you",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-morse-code",
+    "ogType": "article",
+    "tags": [
+      "morse code",
+      "long distance",
+      "miss you",
+      "standards",
+      "messaging"
+    ],
+    "keyTakeaways": [
+      "\"I miss you\" is `.. / -- .. ... ... / -.-- --- ..-`, with every letter read off clause 1.1.1 of Recommendation ITU-R M.1677-1 rather than a blog's chart.",
+      "Clause 2 sets the gap between two letters at three dots and between two words at seven — the seven-dot gap is what a pasted text string cannot carry.",
+      "Run the gaps out of \"I MISS\" and you get, in order, the ITU question mark `..--..`, the letter Z, the figure 5 and the eight-dot Error signal.",
+      "The whole phrase is 83 dot units and 43 of them — 51.8% — are silence; the two word gaps alone are 14 units.",
+      "Unicode defines no Morse character at all: zero of the 41,342 lines in UnicodeData.txt name one."
+    ],
+    "faqs": [
+      {
+        "question": "What is \"I love you\" in Morse code, for comparison?",
+        "answer": "Read off the same ITU-R M.1677-1 table it is `.. / .-.. --- ...- . / -.-- --- ..-`, where L is `.-..`, O is `---`, V is `...-` and E is a single dot. By the standard's own dot arithmetic it runs 93 dot units against 83 for \"I miss you\", so it is the longer of the two, not the shorter."
+      },
+      {
+        "question": "Is SOS defined in the same document as the Morse alphabet?",
+        "answer": "No. The string \"SOS\" does not appear anywhere in ITU-R M.1677-1, and neither does the word \"distress\". What the Recommendation does carry, at clause 1.1.3, are service signals such as Understood `...-.`, Wait `.-...`, Error (eight dots) and End of work `...-.-`. The distress signal lives in the Radio Regulations, not in this text."
+      },
+      {
+        "question": "Does Morse code tell capital letters from lowercase?",
+        "answer": "No. Clause 1.1.1 lists each letter once, set in lowercase, with a single signal apiece — there is no separate capital form. The only letter variant the table admits at all is an accented e, given as `..-..`."
+      },
+      {
+        "question": "Should I type dots or middle dots when I write it out?",
+        "answer": "Either reads fine, because no character is specified for the job. The ITU's own document sets dots as U+002E FULL STOP and dashes as U+2212 MINUS SIGN; the popular `·−·· −−− ···− ·` style uses U+00B7 MIDDLE DOT. Pick one and be consistent, because the choice carries no meaning."
+      },
+      {
+        "question": "Does the recipient need an app to read a Morse message?",
+        "answer": "Almost certainly, unless they have been trained. Since the FCC removed the five words-per-minute telegraphy requirement in December 2006, no United States amateur radio licence has tested the ability to receive Morse at all."
+      },
+      {
+        "question": "What does IMY look like in Morse code?",
+        "answer": "IMY is one abbreviation rather than three words, so it takes letter gaps and no word gaps: `.. -- -.--`. That is 29 dot units, against 83 for the full phrase — a little over a third of the length."
+      },
+      {
+        "question": "Is Morse code still used officially anywhere?",
+        "answer": "ITU-R M.1677-1 says so in its own preamble, recording that the code \"continues to be used in some radiocommunication services including the amateur and amateur-satellite services, and to a diminishing extent in the mobile and fixed services\". That was the ITU's own assessment when the text was approved in October 2009."
+      },
+      {
+        "question": "Does the standard have a signal for the @ sign?",
+        "answer": "Yes, and it is the newest thing in the table: @ is `.--.-.` at clause 1.1.3, carried with a footnote recording that in December 2002 the French General Committee on Terminology approved the term \"arobase\" for the symbol in e-mail addresses."
+      },
+      {
+        "question": "Is it safe to put this phrase on a bracelet or a tattoo?",
+        "answer": "Check the gaps before anything permanent, because that is where these designs go wrong. Beads or links set at even spacing render the gap between two letters and the gap between two words identically, and the standard needs one to be three dots and the other seven."
+      },
+      {
+        "question": "How is this different from the number codes like 143?",
+        "answer": "A number code stands in for the words and has to be agreed between two people in advance; Morse spells the words out and is fully specified in a public standard. They fail in opposite directions — one because nobody agreed on it, the other because almost nobody can decode it."
+      }
+    ],
+    "coverImageQuery": "telegraph key brass close up",
+    "coverImagePrompt": "A close, photorealistic macro of an old brass telegraph key on a dark wooden desk, a single warm lamp raking across it from the left, deep shadow behind. Shallow depth of field so the knob is sharp and the background falls away. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Morse Code: the Spacing Is the Message\n\n**\"I miss you\" in Morse code is `.. / -- .. ... ... / -.-- --- ..-`** — I is `..`, MISS is `-- .. ... ...`, YOU is `-.-- --- ..-`. Every letter below is checked against Recommendation ITU-R M.1677-1 (10/2009), the ITU text that defines International Morse code, rather than against another page's table.\n\nThe part almost nobody reprints is clause 2: a dash equals three dots, the gap between two letters equals three dots, and the gap between **two words equals seven dots**. Typed as characters that seven-dot gap has nowhere to live, which is why the string needs slashes — and why deleting them turns the opening of the phrase into the standard's own question mark.\n\nThat matters more than the cipher. Of 5,199 personalised pages built on SubhSandesh since 2026-03-12, 90.9% were published and shared (4,724 of 5,199), so what fails is rarely the wording. And 1.35 pages per registered creator says most senders build once — the awkward fact under any private code.\n\n## The encoding, letter by letter, from the ITU table\n\nClause 1.1.1 of M.1677-1 prints the whole alphabet. Read off it, the six letters this phrase needs are **I** = `..`, **M** = `--`, **S** = `...`, **Y** = `-.--`, **O** = `---` and **U** = `..-`.\n\nAssembled in order that gives `..` / `-- .. ... ...` / `-.-- --- ..-`: eight letters, 22 marks, and no other rendering is correct in International Morse.\n\nOne detail worth having: the ITU sets its dashes in U+2212 MINUS SIGN and its dots in U+002E FULL STOP, while the hyphen on your keyboard is U+002D HYPHEN-MINUS. The standard's own typography is not the one you are copying.\n\n## What the standard actually says about spacing\n\nClause 2 is four lines long and is the entire timing specification.\n\n| Element | ITU-R M.1677-1, clause 2 | What the ranking pages call it |\n|---|---|---|\n| Dash | equal to three dots (2.1) | 3 units |\n| Gap inside one letter | equal to one dot (2.2) | 1 unit |\n| Gap between two letters | equal to three dots (2.3) | 3 units |\n| Gap between two words | equal to seven dots (2.4) | 7 units |\n| The word \"unit\" | never appears in the document | the standard unit |\n\nThe right-hand column is not wrong, but it is not the standard's language either: M.1677-1 never uses the word \"unit\", and defines everything as a multiple of one dot.\n\nThat is a tell. The six pages ranking for this phrase all reprint the 1/3/1/3/7 chart, three invoke \"ITU\" by name, and not one cites a recommendation number.\n\n## Delete the gaps and the message changes\n\nRun the letters of \"I MISS\" together with no letter gaps, and check the result against the ITU's own tables:\n\n- **I + M + I** is `..--..`, which clause 1.1.3 lists as the question mark, glossed as a \"request for repetition of a transmission not understood\".\n- **M + I** is `--..`, which clause 1.1.1 gives as the letter **Z**.\n- **I + S** is `.....`, which clause 1.1.2 gives as the figure **5**.\n- **I + S + S** is `........` — eight dots, which clause 1.1.3 lists as **Error**.\n\nSo an unspaced \"I MISS\" contains, in order, a request to repeat, a Z, a 5 and the error signal.\n\nThis is not a curiosity. The Recommendation builds its own service signals out of run-together letters — `-.-.-`, the starting signal, is K and A joined — so collapsing a gap is how the code makes new symbols. Spacing is part of the alphabet, not presentation.\n\nOne ranking page gets this half right. A tool site on page one states that \"MISS and YOU are exactly the same length at 10 signals each\" — true by mark count, false by the only length the standard defines.\n\nUnder clause 2.1 a dash is three dots, so MISS runs 29 dot units and YOU runs 37: YOU is 28% longer. The same page's claim that IMY fits nearly three times inside the full phrase does check out, at 29 units against 83.\n\n## There is no Morse character in Unicode\n\nIf the seven-dot gap cannot survive being typed, is there a correct way to type Morse at all? No. Searching the current Unicode Character Database for names containing \"MORSE\" returns zero hits across all 41,000-odd assigned lines — no Morse block, no dot character, no dash character.\n\nPeople borrow U+002E FULL STOP, U+00B7 MIDDLE DOT (the `·−·· −−− ···− ·` style), U+002D HYPHEN-MINUS or U+2212 MINUS SIGN instead. All are legible; none is specified. The slash is stranger still, because Morse already has a character for \"/\" — clause 1.1.3 assigns it `-..-.`.\n\n## The phrase is 83 dot units, and half of it is silence\n\nBecause the standard defines every gap in dots, the phrase has an exact length. I is 3 units, MISS is 29 and YOU is 37, plus two seven-dot word gaps: **\"I MISS YOU\" is 83 dot units.**\n\nOnly 40 of those are key-down. The other 43 — 51.8% of the message — are silence, and the two word gaps alone are 14 units, 16.9% of the whole.\n\nSo the larger half carries no sound, and the part everyone deletes is a sixth of it. At 20 words per minute the phrase takes about 5.0 seconds; at the 5 words-per-minute a beginner manages, about 20.\n\n## Who can still read it\n\nIn the United States, receiving Morse was a licence requirement until the FCC's Report and Order in WT Docket No. 05-235 (FCC 06-178, adopted 15 December 2006) removed it, eliminating \"the requirement that an individual demonstrate five wpm proficiency in telegraphy\" for the General and Amateur Extra Class licences. No US amateur licence has tested reception since.\n\nAn archaeology note from the same order: the FCC defines international Morse by pointing at \"ITU-T Recommendation F.1 (March, 1998), Division B\". M.1677-1 states in its own footnote that Division B of F.1, which also addressed the Morse code, has been withdrawn — so the definition the 2006 order points at no longer exists.\n\nWhere trained reception still matters is assistive technology. A 2026 study in *Sensors* built an electrooculography interface letting a person with locked-in syndrome compose Arabic letters by Morse-coded eye movements, reporting an information transfer rate of **10.43 letters per minute** and 83.96% ± 4.59% classification accuracy — roughly 46 seconds for eight letters. There, Morse is the only channel, not a flourish.\n\n## When the puzzle is the point, and when it isn't\n\nA code the recipient cannot read is a puzzle, not a message. That is not automatically bad; the question is whether the decoding is part of the gift.\n\nIt works when the object outlives the sentence and there is time to explain it: a bracelet, a tattoo, a ring engraving, a shared in-joke. The median SubhSandesh page runs 2.5 hours from first save to last edit (sampled on the apology dashboard, n = 1,396) — deliberate composing.\n\nIt fails when the message has a job to do. A string of dots hands the other person homework and a chance to get it wrong. 48.3% of shared page views happen on a phone (27,725 of 57,456) — one hand, no patience for a lookup table.\n\n| How you send it | What the recipient needs | Length | First-party evidence it lands |\n|---|---|---|---|\n| Morse pasted as text | A translator, or clause 1.1.1 | 22 marks, word gaps lost | none — a pasted string reports nothing back |\n| Morse tapped or flashed | Trained reception; the US 5-wpm exam ended in 2006 | 83 dot units, ≈5.0 s at 20 WPM | none |\n| Morse on an assistive interface | The device decodes, not the person | 10.43 letters/min measured | peer-reviewed, n = 10 subjects |\n| A page written in plain English | A tap | one link | 90.9% of started pages are published and shared (4,724 of 5,199) |\n| A daily one-tap streak | Nothing, no text at all | one tap a day | 1.35 pages per registered creator — most build once |\n\n[Streak](/streak) is the honest version of the Morse instinct: a rhythm the other person can join, with no text to get right and nothing to decode. If the message is really \"I miss you\" and you want it read today, the plain-English [I-miss-you page](/missyou-gf) does that job — but know what it is. The site's own template list defines it as an \"'I miss you' page for a girlfriend/partner\", so sending it to a friend, a sibling or a parent means using a page written for someone else.\n\nFor the numeric side — 143, 459, 07734, the Mandarin 520 family — we keep a separate page on [miss you number code meaning](https://subhsandesh.in/blog/miss-you-number-code-meaning). Those codes stand in for the words and must be agreed in advance; Morse spells the words out, is fully specified, and fails for the opposite reason: almost nobody carries the decoder.\n\n## Where this page loses\n\nEvery SubhSandesh figure above is platform-wide, none of it segmented by language or country, so nothing here is a US number — and the database records which template was opened, never who received it. The 48.3% figure counts page views, not unique visitors: one recipient opening a page twenty times is twenty views.\n\nWe hold no first-party data on Morse, and if you want an audio tone, a flasher or a copy button, the tool sites on this SERP have them and we do not. What none of them has is the seven-dot gap. We cannot confirm any commercial terms from our own records and will not state any; the [template gallery](/templates) is where to look.\n\n## Sources\n\n- [Recommendation ITU-R M.1677-1 (10/2009), *International Morse code*, ITU-R](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1677-1-200910-I!!PDF-E.pdf). Letters at 1.1.1, figures 1.1.2, punctuation and service signals 1.1.3, spacing clause 2.\n- [Unicode Character Database, `UnicodeData.txt` (current release), Unicode Consortium](https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt).\n- [Federal Communications Commission, Report and Order and Order on Reconsideration, WT Docket No. 05-235 (FCC 06-178), released 19 December 2006](https://docs.fcc.gov/public/attachments/FCC-06-178A1.txt).\n- Alzahrani, Alomari, Alkilani, Alghamdi and Melhem, \"Design and Performance Evaluation of a Low-Cost High-SNR EOG Sensing System for Arabic Locked-In Syndrome Communication\", [*Sensors* 26(8):2425, 15 April 2026](https://europepmc.org/articles/PMC13120290) (open access, CC BY). Abstract read via the Europe PMC REST API; the full text was not opened.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-morse-code#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Morse code",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Morse_code",
+              "https://www.wikidata.org/wiki/Q79897"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "International Telecommunication Union",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/International_Telecommunication_Union",
+              "https://www.wikidata.org/wiki/Q376150"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Federal Communications Commission",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Federal_Communications_Commission",
+              "https://www.wikidata.org/wiki/Q128831"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode_Consortium",
+              "https://www.wikidata.org/wiki/Q1572774"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Recommendation ITU-R M.1677-1, International Morse code",
+            "url": "https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1677-1-200910-I!!PDF-E.pdf",
+            "datePublished": "2009-10-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Telecommunication Union"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Unicode Character Database — UnicodeData.txt",
+            "url": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "Legislation",
+            "name": "Report and Order and Order on Reconsideration, WT Docket No. 05-235 (FCC 06-178)",
+            "url": "https://docs.fcc.gov/public/attachments/FCC-06-178A1.txt",
+            "datePublished": "2006-12-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Design and Performance Evaluation of a Low-Cost High-SNR EOG Sensing System for Arabic Locked-In Syndrome Communication",
+            "url": "https://europepmc.org/articles/PMC13120290",
+            "datePublished": "2026-04-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Sensors (MDPI)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "\"I MISS YOU\" letter by letter in International Morse code (ITU-R M.1677-1, clause 1.1.1)",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "I = .."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "M = --"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "I = .."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "S = ..."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "S = ..."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Y = -.--"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "O = ---"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "U = ..-"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in morse code",
+    "angle": "Wins by being the only post that reads every letter off Recommendation ITU-R M.1677-1 itself, measures the phrase at 83 dot units under its clause 2, and proves that the pasted string everyone copies destroys the seven-dot word gap the standard requires — turning \"I MI\" into the ITU's own question mark, \"MI\" into Z, \"IS\" into the figure 5 and \"ISS\" into the eight-dot Error signal — set against 5,199 SubhSandesh pages of which 90.9% actually get sent.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "Average pages per registered creator: 1.35 — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1677-1-200910-I!!PDF-E.pdf",
+        "stat": "Recommendation ITU-R M.1677-1 (10/2009), International Morse code, ITU Radiocommunication Sector. Read in full (text extracted from the ITU's own PDF). Clause 1.1.1 gives the 26 letters, from which every letter printed in this post was read: i `..`, m `--`, s `...`, y `-.--`, o `---`, u `..-`. Clause 1.1.2 gives figure 5 as `.....`; clause 1.1.3 gives the question mark `..--..` glossed \"request for repetition of a transmission not understood\", Error as eight dots, the fraction bar `-..-.` and @ as `.--.-.`. Clause 2 is the whole timing specification: 2.1 \"A dash is equal to three dots\", 2.2 one dot inside a letter, 2.3 \"The space between two letters is equal to three dots\", 2.4 \"The space between two words is equal to seven dots\". The document never uses the word \"unit\", never mentions SOS or distress, and its footnote records that Division B of ITU-T Recommendation F.1 has been withdrawn. Standards body, primary source; itu.int appears in no other post in this batch.",
+        "publishedDate": "2009-10-01"
+      },
+      {
+        "url": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt",
+        "stat": "Unicode Character Database, UnicodeData.txt, current release, fetched 2026-09-27 and parsed in full: 41,342 lines, of which zero contain \"MORSE\" in the character name. There is no Morse block and no Morse dot or dash character in Unicode. The same file was used to confirm the names of the glyphs people substitute: U+002E FULL STOP, U+002D HYPHEN-MINUS, U+00B7 MIDDLE DOT, U+2022 BULLET, U+2013 EN DASH and U+2212 MINUS SIGN. Cap-exempt reference instrument per verify.config.json; the file carries no publication date, so publishedDate is omitted rather than invented."
+      },
+      {
+        "url": "https://docs.fcc.gov/public/attachments/FCC-06-178A1.txt",
+        "stat": "Federal Communications Commission, Report and Order and Order on Reconsideration in WT Docket No. 05-235 (FCC 06-178), adopted 15 December 2006, released 19 December 2006. Read from the FCC's own document server. It amends Part 97 \"to eliminate the requirement that an individual demonstrate five wpm proficiency in telegraphy in order to qualify for a General or Amateur Extra Class operator license\", and defines the code by reference to \"ITU-T Recommendation F.1 (March, 1998), Division B\" — the division ITU-R M.1677-1 states has been withdrawn. It also records that \"The WRC-03 Final Acts applicable to the amateur service became effective on July 5, 2003.\" Primary regulatory source; fcc.gov appears in no other post in this batch.",
+        "publishedDate": "2006-12-19"
+      },
+      {
+        "url": "https://europepmc.org/articles/PMC13120290",
+        "stat": "Alzahrani SI, Alomari N, Alkilani S, Alghamdi L, Melhem B, \"Design and Performance Evaluation of a Low-Cost High-SNR EOG Sensing System for Arabic Locked-In Syndrome Communication\", Sensors 26(8):2425, first published 2026-04-15, doi 10.3390/s26082425, PMC13120290, open access CC BY. An electrooculography interface with \"a Morse code-based interface [that] enabled Arabic letter composition\", tested on ten healthy subjects, reporting mean classification accuracy 83.96% ± 4.59% and an information transfer rate of 10.43 letters per minute. ABSTRACT AND BIBLIOGRAPHIC RECORD ONLY, read via the Europe PMC REST API on 2026-09-27; the full text and PDF were not opened. Reached through Europe PMC, a cap-exempt repository. THE JOURNAL NAMED IN THIS CITATION IS Sensors (MDPI), which appears in no other post in this batch or in the 2026-09-25 sibling batch — checked by hand, because capcheck.mjs counts hostnames and cannot see journal names.",
+        "publishedDate": "2026-04-15"
+      }
+    ],
+    "structuralLimitations": [
+      "PROMPT FRAMING CHECKED AND CONFIRMED, with one correction. The orchestrator said to cite ITU-R M.1677-1 rather than a blog table — correct, and the PDF parses fine here (pdftotext on the ITU's own R-REC-M.1677-1-200910-I!!PDF-E.pdf, 1,456,560 bytes, 13,113 characters of text). It predicted a checkable error in a ranking result: found one, but NOT the one the search engine's own synthesis suggested. The WebSearch answer summary claimed letters are separated by \"one dot duration\" and words by \"about three dot durations\", which is every gap shifted down one level from clause 2. I fetched all six ranking pages and NONE of them says that: they all print the correct 1/3/1/3/7 chart. The error was the engine's synthesis, not a page, and I am not reporting it as a competitor error.",
+      "THE CHECKABLE ERROR THAT IS REAL, and it is about length rather than the chart. themorselab.com, which ranked on the measured SERP and heads its page \"International Morse Code ITU Standard\", states: \"One of the more unusual things about this phrase is that MISS and YOU are exactly the same length at 10 signals each.\" True by mark count. False by the only length ITU-R M.1677-1 defines: clause 2.1 makes a dash equal to three dots, so MISS is 29 dot units and YOU is 37, and YOU is 28% longer. The same page's other arithmetic claim — that IMY fits nearly three times inside the full phrase — does check out at 29 against 83, and is reported as correct in the post.",
+      "NO LETTER ERROR FOUND ON ANY RANKING PAGE. I extracted every Morse string from the six pages I could fetch and decoded each against the ITU tables. All six give `.. / -- .. ... ... / -.-- --- ..-` and every letter claim that parsed cleanly matched clause 1.1.1. An earlier regex pass appeared to show mismatches for M, Y and O; those were artefacts of the pages typesetting \"M - -\" with spaces, and were discarded rather than reported. The closest thing to a defect is morsecodee.com, which presents \"the complete Morse code for I MISS YOU\" as `.. -- .. ... ... -.-- --- ..-` with letter gaps only and no word divider at all — the exact collapse this post is about, but a rendering choice rather than a wrong letter.",
+      "WHAT NO RANKING PAGE DOES. None of the six mentions the run-together collisions (`..--..` = question mark, `--..` = Z, `.....` = 5, `........` = Error), none uses the word \"ambiguous\", none computes the phrase in dot units, none cites a recommendation number, and none notes that Unicode defines no Morse character. Three invoke \"ITU\" by name without naming the document.",
+      "SIBLING SPLIT, AND A CLAIM OF ITS THAT THIS POST QUALIFIES. The live /blog/miss-you-number-code-meaning (Strapi id 2604, published 2026-09-26) owns the numeric codes and mentions Morse exactly once: \"Morse code gets asked in the same breath and is a different question: it is a transliteration, not a code, so 'I miss you' has one rendering and any translator gives it to you.\" The first half is right and the split is clean. The second half is what this post complicates: there is one correct rendering of the LETTERS, but the standard's word gap is a timing rule that no translator's output string preserves, so what a translator hands you is under-specified rather than complete. The cross-link is placed in the body and the sibling was read in full before writing. ABORT was considered on the ground that the sibling already answers the Morse question; it does not — one sentence, no encoding, no spacing, no authority.",
+      "GERMAN SIBLING NOT CROSS-LINKED, deliberately. /blog/ich-vermisse-dich-in-zahlen is live (Strapi id 2724) and its findings (German Wiktionary files 143 as English; gn8 works by syllable rebus) are genuinely interesting, but it is a German-language page and this row is us-en. Sending an English searcher to a German post is a bounce. Recorded here instead of forced into the body.",
+      "SERP MEASURED VIA THE HARNESS WebSearch TOOL, two calls, no browser. This is a us-en row, so a US-served index matches the reader and BRIEF section 3 names this route as legitimate for us-en; the one caveat is that it is not Google and the ranks are that index's, not Google's. serp-ddg.mjs was not run: the brief's ONE-ATTEMPT rule exists to stop grinding, and WebSearch answered in two calls. Call 1 (\"i miss you in morse code\") returned a translator tool at #1 (morsecodetranslator.com), a Pinterest ideas page, one topical page (allmorsecode.com) and six Wikipedia articles about songs called \"I Miss You\" — entity confusion, not competition. Call 2, a longer-tail spacing query, returned NINE Morse-tool domains and nothing else: morsetranslator.com, morsecodehub.com, morse-code-translator.co.uk, allmorsecode.com, themorselab.com, clickcalculators.com, morse-codetranslator.net, morsecodereader.com, morsecodee.com. Weak count: 9 of 9 actually seen on call 2, and 8 of 9 on call 1. Zero established editorial publishers on either. Gate 4 verdict: PROCEED — this is the weakest SERP in the batch.",
+      "THE TOOL-WIDGET CEILING THE BRIEF PREDICTED IS REAL AND IT HOLDS. Rank 1 on the head query is a bare Morse translator, and the entire second SERP is translator sites. A text page cannot outrank a working translator for someone who only wants the string, and this post does not pretend otherwise — it is written for the reader who already has the string and wants to know whether it is right.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN AND THIS IS A HONEST FAILURE OF THE DATASET, not of the draft. There is no Morse data, no code data and no language segmentation in the gifts database at all. The five lines used are platform-wide and were chosen for low collision with the 46 sibling posts (the six miss-you-specific lines are each carried by 48-63 posts); 90.9%, 1.35 pages per creator and the 2.5-hour median are among the eight platform lines used roughly once. They support the argument rather than decorating it — 1.35 pages per creator is the reason a private cipher rarely pays for itself — but a reader could fairly say the data is about the product, not about Morse.",
+      "SOURCES: 4, of which 1 is peer-reviewed and open access (Sensors, CC BY, abstract only — PDFs and landing pages were not opened). The journal named is Sensors (MDPI), checked by hand against both batches and used by no other post; the BRIEF's banned journals (Frontiers in Psychology, PNAS, PLoS ONE, Scientific Reports) are not cited. doi.org is at cap 3 in this batch, so the Sensors paper is linked through europepmc.org instead. capcheck.mjs was run from the repo root immediately before writing and reported no banned URL and no domain at cap among the four used.",
+      "PDF HANDLING, contrary to the brief's blanket note. The brief says PDFs do not parse here. The ITU PDF did: `pdftotext -layout` is on PATH in the ctx_execute sandbox and produced the complete Recommendation including the letter table and clause 2. Worth knowing for any later row that needs a standard.",
+      "STRAPI AND SCHEMA, both satisfiable and both checked. https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=i-miss-you-in-morse-code returns total:0 via ctx_execute — the slug is free. references/article-json-schema.md was read in full (196 lines): kind is \"blog-automation/batch-blog\" and article.keywords is a comma-separated STRING, not an array.",
+      "BROWSER CONTENTION AVOIDED ENTIRELY. No browser tool was used on this row, so no scrape could be another agent's. Every competitor page was fetched by direct HTTP from the sandbox and saved per-host before being read; morsecodehub.com refused the connection and is counted as unread rather than guessed at, which is why the weak count says \"actually seen\"."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "Structural, not fixable while the keyword stands. The target keyword \"i miss you in morse code\" is itself six words, so it cannot sit INSIDE the first five words of any title that contains it. It starts at word 1 instead, which is the strictest front-loading available, and the title is 53 characters. Closes only if the row's keyword is shortened."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Structural. The slug is fixed by WAVE2-PLAN.json as the exact keyword, i-miss-you-in-morse-code, which carries the stop words \"in\" and \"you\". Dropping them would break the slug/keyword/filename agreement the batch checks for and lose the exact-match path. Closes only if the orchestrator reassigns the slug."
+        }
+      ],
+      "additionalChecks": [
+        "Every letter printed in the post re-derived programmatically from the ITU letter table parsed out of the Recommendation (26 letters recovered), not typed from memory: i `..`, m `--`, s `...`, y `-.--`, o `---`, u `..-`.",
+        "All four run-together collisions were found by machine search of the ITU letter, figure and punctuation tables, not asserted: `..--..` (question mark), `--..` (Z), `.....` (5), `........` (Error).",
+        "83 dot units, 40 key-down, 43 silent, 29 for MISS and 37 for YOU all computed from clauses 2.1-2.4 rather than quoted from anywhere.",
+        "All four Wikidata QIDs confirmed twice — by wbsearchentities and by the Wikipedia pageprops wikibase_item — Q79897 Morse code, Q376150 ITU, Q128831 FCC, Q1572774 Unicode Consortium.",
+        "pricecheck-intl.mjs run on this slug; no price, tier or \"free\" claim anywhere in the post.",
+        "No table, figure or substantial passage reproduced from a source: 6 of the ITU's 26 letters appear, plus four restated clause values in a table of my own columns and short quoted phrases.",
+        "/missyou-gf disclosed in body prose as recipient-specific, quoting app/lib/prompt.ts:44 verbatim (\"'I miss you' page for a girlfriend/partner\"), and /streak taken from oneOfLinks with a stated reason.",
+        "Paragraph length measured rather than eyeballed, after masking code spans, codepoints and clause numbers so Morse dots are not counted as full stops: 28 body paragraphs, maximum 3 sentences each. An earlier draft had one four-sentence paragraph (the checkable-error one) and it was split rather than recorded as a failure.",
+        "Mandatory caveats carried in body prose, not only here: nothing is segmented by language or country, the database records which TEMPLATE was opened and never who received it, and viewCount is page views rather than unique visitors."
+      ],
+      "honestAssessment": "It is the only page on this SERP that reads the standard instead of a chart, and the four run-together collisions — \"I MI\" being the ITU's own request-for-repetition signal, then Z, 5 and the eight-dot Error — are checkable in one document and appear nowhere in the nine ranking results. The 83-dot-unit measurement and the zero-Morse-characters-in-Unicode finding are likewise absent from all of them. What it cannot do is beat a working translator widget for a reader who only wants the string, and it has no audio, no flasher and no copy button; the domain is also new to this topic with no backlinks into it, so this is a citation play for answer engines rather than a rank play against the tool farms."
+    },
+    "generatedAt": "2026-09-26T19:35:29.721Z"
+  }
+}

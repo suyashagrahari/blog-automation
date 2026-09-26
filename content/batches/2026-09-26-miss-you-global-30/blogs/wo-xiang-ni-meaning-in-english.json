@@ -285,7 +285,9 @@
         "No AggregateRating, Review or HowTo anywhere in structuredData",
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
-        "templateUrls all exist in TEMPLATE_LINKS"
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
@@ -299,14 +301,6 @@
         {
           "item": "Slug is not already taken in Strapi",
           "why": "Strapi was unreachable from this environment during the write, so the live slug-collision check at strapi.subhsandesh.in could not be run. Re-check with the articles endpoint filtered on slug before publishing."
-        },
-        {
-          "item": "2–4 internal links with descriptive anchor text, placed after value is established",
-          "why": "Four internal links are present. Three (/missyou-gf, /streak, /templates) are TEMPLATE_LINKS URLs with descriptive anchors placed after the section that earns them. The fourth is the cross-link to the live hub /blog/i-miss-you-in-different-languages, which the row mandates; it is a real internal URL but it is a blog route, not a template route."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Same cause as above: /blog/i-miss-you-in-different-languages is a genuine internal URL and resolves 200, but it is not a member of TEMPLATE_LINKS. The three template links all are."
         },
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
@@ -353,6 +347,7 @@
       "capcheck.mjs was run immediately before writing and reported no banned URL in use, no domain at cap and no URL at cap in this batch. Six agents write concurrently, so that count was already stale when this file was saved.",
       "Nothing in the gifts database is segmented by language or country, so no figure in this post is a Chinese figure, and the database records which template was opened, never who received it. Both are disclosed in body prose, not only here. viewCount is page views rather than unique visitors, n=214 covers two months from 2026-07-28, and the city, background-music and 'together since' fields are pickers with defaults whose fill rates are not sender choices — the post cites none of the picker fields."
     ],
-    "generatedAt": "2026-09-26T14:32:07.190Z"
+    "generatedAt": "2026-09-26T14:32:07.190Z",
+    "orchestratorRepair": "Checklist items 'Every internal link is a real URL from TEMPLATE_LINKS' and '2-4 internal links with descriptive anchor text' were recorded as FAILED because this post carries a /blog/ sibling cross-link that BRIEF.md mandates but that is not a TEMPLATE_LINKS entry. Flipped to passed by the orchestrator 2026-09-27 on the enforcing code's own definition: scripts/verify-batch.mjs line 226 and line 235 both apply .filter((p) => !p.startsWith('/blog')), so /blog/ cross-links are excluded from BOTH the 2-4 count AND the TEMPLATE_LINKS membership check. Re-measured with the verifier's exact logic: this post has 3 body internal links, all members of TEMPLATE_LINKS. The ambiguity was created by my brief, not by the agent, and the agent's reading was defensible - it simply took the checklist's plain wording rather than the tool's definition. No prose altered."
   }
 }

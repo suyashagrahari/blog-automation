@@ -288,7 +288,8 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
       ],
       "failed": [
         {
@@ -298,10 +299,6 @@
         {
           "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
           "why": "metaTitle is 56 characters and leads with 'Aitai in English', but the exact keyword string 'aitai in english how to say' cannot sit in its first five words without ungrammatical stuffing. Length, separator, differentiator and booster rules all pass; the exact-phrase clause does not."
-        },
-        {
-          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
-          "why": "Three of the four internal links (/missyou-gf, /streak, /templates) are TEMPLATE_LINKS URLs. The fourth is the mandated cross-link to the sibling post at /blog/i-miss-you-in-japanese, which BRIEF section 1 requires and which is a published Strapi article (verified HTTP 200, Strapi id 2562), not a template. Closing this would mean dropping a link the brief makes compulsory."
         },
         {
           "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
@@ -341,6 +338,7 @@
       "Cut for lack of evidence rather than space: a claim that 私も is the attested reply (no corpus support, was about to be asserted from memory); a register comparison of お会いしたい against 会いたいです (counts of 22 and 3 came from a 10-page-capped scan and were floors, not totals, and a full re-scan would have cost roughly four minutes per form); a frequency claim about 会いたかった (same problem). The register question is handed to the sibling post by link, which covers it properly.",
       "Cut for the link cap: the Wiktionary entry for 寂しい, which dates the word to the Man'yōshū (c. 759 CE) as sabusi and derives it from 荒ぶ. It resolves HTTP 200 and the facts are real; seven outbound links exceeded the checklist's 3-6 and batchMeta.sources caps at 6."
     ],
-    "generatedAt": "2026-09-26T13:59:38.626Z"
+    "generatedAt": "2026-09-26T13:59:38.626Z",
+    "orchestratorRepair": "Checklist items 'Every internal link is a real URL from TEMPLATE_LINKS' and '2-4 internal links with descriptive anchor text' were recorded as FAILED because this post carries a /blog/ sibling cross-link that BRIEF.md mandates but that is not a TEMPLATE_LINKS entry. Flipped to passed by the orchestrator 2026-09-27 on the enforcing code's own definition: scripts/verify-batch.mjs line 226 and line 235 both apply .filter((p) => !p.startsWith('/blog')), so /blog/ cross-links are excluded from BOTH the 2-4 count AND the TEMPLATE_LINKS membership check. Re-measured with the verifier's exact logic: this post has 3 body internal links, all members of TEMPLATE_LINKS. The ambiguity was created by my brief, not by the agent, and the agent's reading was defensible - it simply took the checklist's plain wording rather than the tool's definition. No prose altered."
   }
 }

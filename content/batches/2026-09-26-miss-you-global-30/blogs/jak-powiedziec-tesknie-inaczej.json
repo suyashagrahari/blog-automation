@@ -1,0 +1,338 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Jak powiedzieć „tęsknię” inaczej — i co na to Narodowy Korpus Języka Polskiego",
+    "slug": "jak-powiedziec-tesknie-inaczej",
+    "excerpt": "Pięć realnych zamienników „tęsknię”, każdy sprawdzony w zrównoważonym podkorpusie NKJP (240 192 461 słów). Dwie formy, które podsuwa pierwsza dziesiątka Google, mają zero wystąpień, a jedna trzecia „tęskno mi” to Norwid.",
+    "metaTitle": "Jak powiedzieć tęsknię inaczej: 5 form z korpusu NKJP",
+    "metaDescription": "Jak powiedzieć tęsknię inaczej: 5 form sprawdzonych w podkorpusie NKJP (240 mln słów). „Tęskno mi” to w 22 z 60 wystąpień Norwid, a dwa zamienniki mają zero.",
+    "keywords": "jak powiedzieć tęsknię inaczej, inne słowo na tęsknię, synonim tęsknię za tobą, brakuje mi ciebie czy tęsknię za tobą, stęskniłem się za tobą",
+    "canonicalURL": "https://subhsandesh.in/blog/jak-powiedziec-tesknie-inaczej",
+    "ogType": "article",
+    "tags": [
+      "tęsknota",
+      "język polski",
+      "na odległość",
+      "korpus",
+      "gramatyka"
+    ],
+    "keyTakeaways": [
+      "W zrównoważonym podkorpusie NKJP (240 192 461 słów) „tęsknię za tobą” ma 39 akapitów w 34 tekstach, „brakuje mi ciebie” 21 w 20, a „stęskniłam się” 41 w 33 — to są realne zamienniki.",
+      "„Brakuje mi ciebie” nie ma podmiotu: Poradnia PWN nr 23173 stwierdza, że brak w funkcji czasownika „odmienia się tylko przez czasy i tryby”, czyli ani przez osobę, ani przez liczbę.",
+      "22 z 60 obejrzanych wystąpień „tęskno mi” to refren „Mojej piosnki” Norwida, a „tęskno mi za tobą” ma na 240 milionów słów jedno wystąpienie.",
+      "Dwie formy podsuwane przez wyniki 1 i 4 w Google — „zatęsknić się” i „cnić się” — mają w tym samym korpusie zero wystąpień.",
+      "Nasze strony „tęsknię” są edytowane przez 2,6 godziny (mediana, n=214), a 86,4% z nich zawiera spisane wspomnienie: nadawcy rozbudowują treść, nie słownik."
+    ],
+    "faqs": [
+      {
+        "question": "Jak zastąpić słowo „tęsknić”?",
+        "answer": "Realnych zamienników jest pięć: stęsknić się (forma dokonana, za + narzędnik), brakuje mi ciebie (konstrukcja bezpodmiotowa), tęskno mi (przysłówek orzekający, głównie o miejscach), myślę o tobie (o + miejscownik, inne znaczenie) i rzeczownik tęsknota. Reszta list z wyszukiwarki to albo formy przestarzałe, albo takie, których w Narodowym Korpusie Języka Polskiego nie ma ani razu."
+      },
+      {
+        "question": "Czy „brakuje mi ciebie” znaczy to samo co „tęsknię za tobą”?",
+        "answer": "Nie do końca. Wikisłownik definiuje brakować jako „być w zbyt małej ilości lub liczbie, nie wystarczać” — to zdanie o niedoborze, a nie o uczuciu skierowanym do kogoś. Brakuje mi ciebie mówi więc o codziennym braku, tęsknię za tobą o stanie emocjonalnym. W korpusie pierwsza forma ma 21 akapitów, druga 39."
+      },
+      {
+        "question": "Jaki przypadek rządzi po „brakuje mi”?",
+        "answer": "Celownik dla osoby przeżywającej (mi) i dopełniacz dla tego, czego brakuje. Na zaimku tego nie widać, bo ciebie jest i dopełniaczem, i biernikiem — rozstrzyga przykład rzeczownikowy z Wikisłownika: „Brakuje mi moich ulubionych butów”, nie „buty”."
+      },
+      {
+        "question": "Której formy użyć, pisząc do przyjaciółki albo do mamy, a nie do partnera?",
+        "answer": "Stęsknić się nie jest w żaden sposób zarezerwowane dla związku — w korpusie pojawia się z siostrą, ciocią, synkiem, kolegami, przyjacielem i „za wami”. Tęsknię za tobą też jest neutralne. Ostrożnie natomiast z tęskno mi, które w 22 z 60 wystąpień jest cytatem z Norwida i brzmi uroczyście niezależnie od adresata."
+      },
+      {
+        "question": "Co dokładnie zmienia „stęskniłem się” wobec „tęsknię”?",
+        "answer": "Aspekt i rodzaj. Tęsknię to stan trwający, stęskniłem się to stan dopełniony — „nazbierało się”. Dodatkowo forma pokazuje płeć mówiącego, czego angielskie „I missed you” nie potrafi. W korpusie stęskniłam się ma 41 akapitów w 33 tekstach, stęskniłem się 34 w 30."
+      },
+      {
+        "question": "Czy „tęskno mi za tobą” brzmi dobrze w wiadomości?",
+        "answer": "Brzmi jak cytat, bo nim jest. W zrównoważonym podkorpusie NKJP „tęskno mi” ma 54 akapity, ale 22 z 60 obejrzanych wystąpień to refren „Tęskno mi, Panie…” z „Mojej piosnki” Norwida. Samo „tęskno mi za tobą” ma dokładnie jedno wystąpienie na 240 milionów słów."
+      },
+      {
+        "question": "Czy „myślę o tobie” to synonim „tęsknię za tobą”?",
+        "answer": "Nie, to inny komunikat. Wikisłownik podaje składnię myśleć o + miejscownik, bez żadnego z przyimków tęsknoty. Myślę o tobie mówi, że ktoś zajmuje twoje myśli; tęsknię za tobą mówi, że jego brak ci doskwiera. Jest za to formą najszerzej rozsianą po korpusie: 102 akapity w 78 tekstach."
+      },
+      {
+        "question": "Czy „tęsknica” i „utęsknienie” nadają się do wiadomości?",
+        "answer": "Rzadko. Wikisłownik opisuje tęsknicę jako książkową i poetycką, a w mitologii słowiańskiej jako demona uosabiającego tęsknotę; utęsknienie w znaczeniu „tęsknota za kimś” jest oznaczone jako przestarzałe i żyje właściwie tylko we frazie „oczekiwać z utęsknieniem”. W korpusie tęsknica ma 8 akapitów."
+      },
+      {
+        "question": "Dlaczego słowniki synonimów podają formy, których nikt nie używa?",
+        "answer": "Bo zestawiają hasła, a nie zdania. Wynik pierwszy w Google podaje „zatęsknić się”, którego Wikisłownik nie ma jako hasła, a Słownik Synonimów PWN podaje „cknić się” i „cnić się”, oznaczone jako przestarzałe. Wszystkie trzy mają w zrównoważonym podkorpusie NKJP zero wystąpień."
+      },
+      {
+        "question": "Czy „brakować” jest synonimem „tęsknić”?",
+        "answer": "Dwie strony z pierwszej dziesiątki tak twierdzą i to pułapka. Tęsknić ma podmiot w mianowniku, brakować nie ma podmiotu wcale, więc podmiana słowa na słowo daje zdanie niegramatyczne. To dwie konstrukcje, które tłumaczą to samo zdanie angielskie, a nie dwa wymienne wyrazy."
+      },
+      {
+        "question": "Czy oryginalne sformułowanie robi lepsze wrażenie niż zwykłe?",
+        "answer": "Niekoniecznie. Przegląd badań nad językiem formulicznym z 2024 roku przypomina, że wyrażenia utarte są „przechowywane i wydobywane z pamięci w całości”, a nie budowane przez gramatykę. Podmiana wyrazu przenosi zdanie na tor analityczny — odbiorca musi je przeliczyć, zamiast rozpoznać."
+      },
+      {
+        "question": "Ile czasu ludzie naprawdę spędzają nad takim jednym zdaniem?",
+        "answer": "U nas mediana odstępu między pierwszym zapisem a ostatnią edycją strony „tęsknię” to 2,6 godziny przy n=214. Liczba ogólnoplatformowa, 2,5 godziny, jest osobnym pomiarem próbkowanym na szablonie /apology-dashboard przy n=1 396 — to nie ta sama wartość. Różnica to sześć minut."
+      }
+    ],
+    "coverImageQuery": "polish handwritten letter desk lamp night",
+    "coverImagePrompt": "A photorealistic close-up of a half-written handwritten letter in Polish on a wooden desk at night, one sentence crossed out and rewritten twice, warm lamplight from the left, a phone face-down beside it. Shallow depth of field, 16:9, clean negative space across the top third for a title overlay. No legible text beyond a few blurred cursive strokes, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Jak powiedzieć „tęsknię\" inaczej — i co na to Narodowy Korpus Języka Polskiego\n\nPytanie brzmi zwykle tak: jak powiedzieć tęsknię inaczej, żeby nie zabrzmiało jak wszyscy. Odpowiedź krótka: da się, ale wariantów jest mniej, niż obiecuje pierwsza dziesiątka Google. Sprawdziłem każdy z nich w zrównoważonym podkorpusie NKJP (240 192 461 słów) przez wyszukiwarkę PELCRA, oglądając każde trafienie z osobna. Realnych zamienników jest pięć, a nie siedemdziesiąt sześć.\n\nMediana odstępu między pierwszym zapisem a ostatnią edycją strony „tęsknię\" u nas to **2,6 godziny, n=214** — ludzie przepisują jedno zdanie przez pół popołudnia. A **86,4% tych stron (185 z 214) zawiera przynajmniej jedno spisane wspomnienie**, średnio 4,5. To podpowiedź: nadawcy i tak nie szukają nowego czasownika, tylko konkretu.\n\n## Pięć form, które naprawdę istnieją\n\nLiczby to akapity z NKJP i liczba różnych tekstów, w których wystąpiły.\n\n| Forma | Część mowy / aspekt | Rząd | NKJP: akapity / teksty |\n| --- | --- | --- | --- |\n| tęsknię za tobą | czasownik, niedokonany | za + narzędnik | 39 / 34 |\n| myślę o tobie | czasownik, niedokonany | o + miejscownik | 102 / 78 |\n| tęskno mi | przysłówek orzekający | do + dopełniacz | 54 / 31 |\n| stęskniłam się za tobą | czasownik, dokonany | za + narzędnik | 41 / 33 |\n| brakuje mi ciebie | czasownik nieprzechodni | celownik + dopełniacz | 21 / 20 |\n\nDwie formy podsuwane przez synonimowniki nie mają w korpusie ani jednego wystąpienia.\n\n## „Brakuje mi ciebie\" nie ma podmiotu — i nie działa jak francuskie *tu me manques*\n\nTo najciekawsza forma na liście i zwykle najgorzej opisana. Polska Wikisłownikowa definicja *brakować* w znaczeniu (1.1) brzmi: „czasownik nieprzechodni niedokonany\", „być w zbyt małej ilości lub liczbie, nie wystarczać\".\n\nPrzykład z tego samego hasła rozstrzyga kwestię przypadka: *Brakuje mi moich ulubionych **butów***. Nie „buty\", tylko „butów\" — dopełniacz. Osoba przeżywająca jest w celowniku (*mi*), rzecz brakująca w dopełniaczu.\n\nNa zaimku tego nie widać, bo *ciebie* jest zarówno dopełniaczem, jak i biernikiem. Dlatego diagnostyczne jest rzeczownikowe *butów*, nie zaimek.\n\nKonsekwencja jest mocniejsza, niż się wydaje. Poradnia Językowa PWN, odpowiedź nr 23173 z 7 stycznia 2024 r. (Adam Wolański), o wyrazie *brak* w tej funkcji: „Wyraz *brak* pełni w nich funkcję czasownika. W funkcji tej słowo to odmienia się tylko przez czasy i tryby\".\n\nTylko przez czasy i tryby. Nie przez osobę, nie przez liczbę. Sprawdź sam: *brakuje mi ciebie* — *brakuje mi was* — *brakuje mi ich*. Czasownik ani drgnie.\n\nI tu pada ważne rozróżnienie, które w polskich tekstach o tęsknocie prawie nie występuje. Francuskie *tu me manques* ma podmiot w mianowniku — to *ty* jesteś podmiotem, a czasownik się z tobą zgadza. Polskie *brakuje mi ciebie* nie ma podmiotu w ogóle. To konstrukcja bezpodmiotowa, trzeci wzorzec, nie kopia francuskiego.\n\n## „Stęskniłem\" czy „stęskniłam\": polski mówi to, czego angielski nie umie\n\n*Stęsknić się* to forma dokonana i rządzi tak samo jak *tęsknić*: za + narzędnik. Korpus to potwierdza — 24 wystąpienia *stęskniłem się za* i 32 *stęskniłam się za*, wszystkie obejrzane, wszystkie z narzędnikiem.\n\nRóżnica jest w aspekcie. *Tęsknię* to stan trwający. *Stęskniłem się* to stan, który się dopełnił — „nazbierało się tego\". Po polsku to jedno słowo, po angielsku trzeba dopisać zdanie.\n\nDo tego dochodzi rzecz, której angielskie *I missed you* nie potrafi: rodzaj mówiącego. W NKJP *stęskniłam się* ma 41 akapitów w 33 tekstach, *stęskniłem się* — 34 w 30. Forma żeńska jest częstsza od męskiej, a obie razem biją *tęsknię za tobą*.\n\n## „Tęskno mi\" w jednej trzeciej przypadków to Norwid\n\nTo najbardziej „poetycki\" zamiennik na liście i najgorszy wybór do wiadomości — ale nie dlatego, że jest rzadki. Wręcz przeciwnie: 54 akapity.\n\nRzecz w tym, z ilu tekstów. Zaledwie 31, a **22 z 60 obejrzanych wystąpień to *Moja piosnka* Cypriana Kamila Norwida** — refren „Tęskno mi, Panie…\", cytowany w prasie, w podręcznikach i w wykonaniu Czesława Niemena. W wydaniu Tadeusza Piniego z 1934 roku wszystkie dopełnienia w tym wierszu są takie same: „Do kraju tego\", „do rzeczy innej\", „do beztęsknoty\". Miejsca i pojęcia. Ani razu osoba.\n\nW całym podkorpusie *tęskno mi za tobą* ma **jedno** wystąpienie. Jedno, na 240 milionów słów.\n\nJeśli to wyślesz, odbiorca usłyszy wiersz z 1854 roku, nie ciebie. To nie zarzut wobec Norwida — informacja o tym, czyim głosem mówisz.\n\n## „Myślę o tobie\" to inne zdanie, nie inny sposób powiedzenia tego samego\n\nWikisłownik podaje składnię jednoznacznie: *myśleć o* + miejscownik (albo *nad* + narzędnik). Nie ma tu żadnego z przyimków tęsknoty.\n\nNie ma też tego znaczenia. *Myślę o tobie* mówi, że ktoś zajmuje twoje myśli. *Tęsknię za tobą* mówi, że jego brak ci doskwiera. To dwa różne komunikaty, a nie dwa opakowania jednego.\n\nJest za to najczęstsze: 102 akapity w 78 tekstach, czyli najszerzej rozsiane po korpusie ze wszystkiego, co sprawdziłem. Jeśli szukasz czegoś neutralniejszego i mniej zobowiązującego — to jest ta forma. Tylko nazwij rzecz po imieniu: to złagodzenie, nie synonim.\n\n## Czego w korpusie nie ma, a co proponuje pierwsza dziesiątka\n\nZmierzyłem SERP dla frazy „jak powiedzieć tęsknię inaczej\" 27 września 2026 w Google z parametrami rynkowymi `gl=pl&hl=pl&pws=0`, dwa przebiegi, identyczne wyniki. Cała dziesiątka to automatyczne słowniki synonimów i bazy tłumaczeń — sześć różnych domen, dwie z nich dwa razy. Ani jednej strony redakcyjnej.\n\nI tu robi się niewygodnie. Wynik pierwszy, synonim.net, podaje jako „najpopularniejsze wyrazy bliskoznaczne\" między innymi *zatęsknić się* i *zapamiętać się w tęsknocie*. W NKJP: **0 i 0**. *Zatęsknić się* nie ma nawet hasła w Wikisłowniku — hasłem jest *zatęsknić*, bez „się\".\n\nWynik czwarty to Słownik Synonimów PWN, który proponuje *cknić się* i *cnić się*. Wikisłownik opisuje *cnić się* jako „czasownik niewłaściwy zwrotny niedokonany\" z kwalifikatorem **przestarzały**, a jedyny cytat przy haśle pochodzi z piosenki Krzysztofa Krawczyka. W NKJP: **0 i 0**.\n\nWynik siódmy, synonim.com.pl, podaje jako „inne określenia słowa Tęsknie\": *nietęskniąca, nietęskniącą, nietęskniące, nietęskniącego*. To odmiana zaprzeczonego imiesłowu *nietęskniący* — czyli formy o znaczeniu odwrotnym, wpisane do listy synonimów jako wiersze tabeli deklinacyjnej.\n\nWyniki szósty i dziesiąty podają *brakować* jako synonim *tęsknić*. Po tym, co wyżej, widać dlaczego to pułapka: *tęsknić* ma podmiot w mianowniku, *brakować* nie ma podmiotu wcale. Zamiana słowa na słowo daje zdanie niegramatyczne.\n\n## Dlaczego podmiana wyrazu psuje zdanie\n\nPrzegląd badań nad językiem formulicznym opublikowany w *International Journal of Language & Communication Disorders* (Davis, Troutman-Jordan i Maclagan, 2024, licencja CC BY-NC) przypomina definicję, którą autorzy uważają za wciąż najlepszą: sekwencja elementów znaczeniowych, która jest „prefabrykowana — to znaczy przechowywana i wydobywana z pamięci w całości w chwili użycia, a nie generowana ani analizowana przez gramatykę\" (Wray i Perkins, 2000).\n\nPraca omawia dwutorowy model przetwarzania: wyrażenia formuliczne idą drogą „holistyczną\", nowe — „analityczną\", według zasady wolnego wyboru. *Tęsknię za tobą* jest formułą. Podmień w niej czasownik, a odbiorca musi ją przeliczyć zamiast rozpoznać.\n\nTo nie znaczy, że zawsze jest źle — znaczy, że cena jest realna.\n\n## Co pokazują nasze własne dane\n\nDwie nasze liczby wyglądają podobnie i mierzą co innego — nie wolno ich mylić. Mediana odstępu pierwszy zapis – ostatnia edycja dla stron „tęsknię\" to 2,6 godziny przy n=214. Liczba ogólnoplatformowa, 2,5 godziny, jest próbkowana na zupełnie innym szablonie (/apology-dashboard) przy n=1 396. To dwa osobne pomiary, nie jedna wartość.\n\n| Pomiar | Mediana | Próba | Na czym mierzone |\n| --- | --- | --- | --- |\n| Strony „tęsknię\" | 2,6 godz. | n=214 | /missyou-gf |\n| Cała platforma | 2,5 godz. | n=1 396 | /apology-dashboard |\n\nRóżnica to sześć minut. Wniosek jest przyziemny: ludzie nie szukają nowego czasownika dłużej, niż szukają słów do przeprosin.\n\nZa to **92,1% stron „tęsknię\" (197 z 214) ma przynajmniej jeden list „otwórz, kiedy…\"**, średnio 3,2. Razem z 86,4% stron ze spisanym wspomnieniem to jest odpowiedź na pytanie z tytułu: nadawcy rozbudowują treść, nie słownik.\n\nCztery zastrzeżenia, bez których te liczby wprowadzają w błąd. Po pierwsze, miasto, muzyka w tle i data „razem od\" to listy wyboru z wartościami domyślnymi — ich wypełnienie nie jest decyzją nadawcy. Po drugie, `viewCount` liczy odsłony, nie unikalnych odbiorców. Po trzecie, n=214 to dwa miesiące danych, więc żaden wniosek sezonowy się z tego nie obroni.\n\nPo czwarte i najważniejsze tutaj: **nasza baza zapisuje, który szablon został otwarty, a nigdy kto go dostał, i nic w niej nie jest podzielone według języka ani kraju.** Żadna z tych liczb nie jest „polska\". Nie wiem, ilu z tych 214 nadawców pisało po polsku, i nikt tego nie wie.\n\n## Co zobaczysz po kliknięciu — strona jest po angielsku\n\nMuszę to powiedzieć wprost. [Strona „tęsknię za tobą\"](/missyou-gf) jest w naszym kodzie (`app/lib/prompt.ts`, linia 44) opisana jako „I miss you page for a girlfriend/partner\" — cały interfejs, wszystkie etykiety i podpowiedzi są po angielsku, wersji polskiej nie ma. Szablon jest adresowany do partnerki, więc jeśli piszesz do chłopaka, mamy, przyjaciela — rozbieżność zobaczysz od razu.\n\nTwój własny tekst możesz oczywiście napisać po polsku, z pełnymi ogonkami. Angielskie są ramy, nie treść.\n\nJeśli problem polega na tym, że jedno zdanie to za mało, a nie na tym, że jest złe, lepiej pasuje [list, który spada linijka po linijce](/catch): odbiorca łapie kolejne wersy, nic nie jest zablokowane. To rozwiązanie na „powiedz więcej\", a nie „powiedz inaczej\" — i to właśnie pokazują nasze dane o wspomnieniach i listach „otwórz, kiedy…\".\n\nCeny nie podam, bo blok cenowy w naszych danych jest pusty i nie mam czego zacytować. Aktualny stan sprawdzisz w [spisie szablonów](/templates).\n\n## Kiedy nie potrzebujesz od nas niczego\n\nJeśli przyszedłeś tu po jedno słowo, masz je wyżej i możesz zamknąć kartę. Wyślij *stęskniłem się za tobą* albo *stęskniłam się za tobą*, jeśli chcesz zaznaczyć, że to się nazbierało — i że mówi to kobieta albo mężczyzna. Wyślij *brakuje mi ciebie*, jeśli chodzi o codzienny brak, a nie o uczucie.\n\nA jeśli chcesz powiedzieć to mocniej — zostaw czasownik w spokoju i dopisz szczegół. Korpus mówi to samo co nasze dane: *tęsknię za tobą* ma 39 akapitów w 34 różnych tekstach i działa właśnie dlatego, że jest zużyte. Nowość kupuje się kosztem rozpoznawalności, a w wiadomości do kogoś bliskiego to zły kurs wymiany.\n\nTekst siostrzany, [jak przetłumaczyć „tęsknię za tobą\" na angielski](https://subhsandesh.in/blog/tesknie-za-toba-po-angielsku), opisuje rząd *za* i *do* oraz to, co ginie w tłumaczeniu; ten dotyczy wyłącznie polskich zamienników.\n\n## Źródła\n\n- Poradnia Językowa PWN, odpowiedź nr 23173 „brak jako czasownik\", 7.01.2024, Adam Wolański — [archiwum Wayback Machine](http://web.archive.org/web/20240812073621/https://sjp.pwn.pl/poradnia/haslo/brak-jako-czasownik;23173.html) (sjp.pwn.pl odpowiada 403 na każde żądanie z tego środowiska)\n- Wikisłownik, hasło [brakować](https://pl.wiktionary.org/wiki/brakowa%C4%87) oraz hasło [cnić się](https://pl.wiktionary.org/wiki/cni%C4%87_si%C4%99)\n- Narodowy Korpus Języka Polskiego, podkorpus zrównoważony, przez wyszukiwarkę [PELCRA](https://pelcra-nkjp.clarin-pl.eu/) (zapytania z 27.09.2026)\n- Cyprian Kamil Norwid, *Moja piosnka*, wyd. Tadeusz Pini 1934 — [Wikiźródła](https://pl.wikisource.org/wiki/Moja_piosnka_(Do_kraju_tego...))\n- Davis, Troutman-Jordan, Maclagan, „Your phrases matter\", *International Journal of Language & Communication Disorders* 59(1), 2024 — [Europe PMC](https://europepmc.org/article/PMC/PMC13507567)\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/jak-powiedziec-tesknie-inaczej#post",
+        "inLanguage": "pl-PL",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Język polski",
+            "sameAs": [
+              "https://pl.wikipedia.org/wiki/J%C4%99zyk_polski",
+              "https://www.wikidata.org/wiki/Q809"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Narodowy Korpus Języka Polskiego",
+            "sameAs": [
+              "https://pl.wikipedia.org/wiki/Narodowy_Korpus_J%C4%99zyka_Polskiego",
+              "https://www.wikidata.org/wiki/Q6971865"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Person",
+            "name": "Cyprian Kamil Norwid",
+            "sameAs": [
+              "https://pl.wikipedia.org/wiki/Cyprian_Kamil_Norwid",
+              "https://www.wikidata.org/wiki/Q340122"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Formulaic language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Formulaic_language",
+              "https://www.wikidata.org/wiki/Q11073520"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Poradnia Językowa PWN, odpowiedź nr 23173 „brak jako czasownik”",
+            "url": "http://web.archive.org/web/20240812073621/https://sjp.pwn.pl/poradnia/haslo/brak-jako-czasownik;23173.html",
+            "datePublished": "2024-01-07",
+            "author": {
+              "@type": "Person",
+              "name": "Adam Wolański"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wydawnictwo Naukowe PWN"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wikisłownik, hasło „brakować”",
+            "url": "https://pl.wiktionary.org/wiki/brakowa%C4%87",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wikisłownik, hasło „cnić się”",
+            "url": "https://pl.wiktionary.org/wiki/cni%C4%87_si%C4%99",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Narodowy Korpus Języka Polskiego, podkorpus zrównoważony (wyszukiwarka PELCRA)",
+            "url": "https://pelcra-nkjp.clarin-pl.eu/",
+            "datePublished": "2026-09-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PELCRA, Uniwersytet Łódzki / CLARIN-PL"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cyprian Kamil Norwid, „Moja piosnka” (wyd. Tadeusz Pini, 1934)",
+            "url": "https://pl.wikisource.org/wiki/Moja_piosnka_(Do_kraju_tego...)",
+            "datePublished": "1934-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Spółka Wydawnicza „Parnas Polski”"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Your phrases matter: Third waves in research approaches and new contexts for formulaic language",
+            "url": "https://europepmc.org/article/PMC/PMC13507567",
+            "datePublished": "2024-01-01",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "International Journal of Language & Communication Disorders"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiley / Royal College of Speech and Language Therapists"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "jak powiedzieć tęsknię inaczej",
+    "angle": "Wins by being the only post that measures every proposed Polish alternative to „tęsknię” against the balanced subcorpus of the National Corpus of Polish, finds that two of the forms the top-ranking synonym dictionaries name first have zero attestations and that a third of „tęskno mi” is one Norwid poem, and then argues — with SubhSandesh's own 2.6-hour median edit gap and 86.4% written-memory rate on /missyou-gf — that the reader should change the detail rather than the verb.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/catch",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "http://web.archive.org/web/20240812073621/https://sjp.pwn.pl/poradnia/haslo/brak-jako-czasownik;23173.html",
+        "stat": "Poradnia Językowa PWN, odpowiedź nr 23173 „brak jako czasownik”, 7.01.2024, Adam Wolański: „Wyraz brak pełni w nich funkcję czasownika. W funkcji tej słowo to odmienia się tylko przez czasy i tryby. Jego czas teraźniejszy to właśnie brak jest albo krócej – brak.” Read through the Wayback Machine because sjp.pwn.pl returns HTTP 403 to every request from this environment; the headword on the fetched snapshot was read and confirmed to be „brak jako czasownik” before anything was built on it. This is the licence for the post's central claim: the brak/brakować construction has no person and no number, therefore no grammatical subject.",
+        "publishedDate": "2024-01-07"
+      },
+      {
+        "url": "https://pl.wiktionary.org/wiki/brakowa%C4%87",
+        "stat": "Wikisłownik, hasło brakować, znaczenie (1.1): „czasownik nieprzechodni niedokonany”, „być w zbyt małej ilości lub liczbie, nie wystarczać”, with the example „Brakuje mi moich ulubionych butów, które zostawiłem w domu” — butów is genitive plural (nominative would be buty), which is what fixes the complement case, since the pronoun ciebie is syncretic between genitive and accusative and shows nothing. The same entry glosses (1.1) into French as manquer, Italian mancare and Spanish faltar, which is the cross-linguistic hook for the tu me manques contrast.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://pl.wiktionary.org/wiki/cni%C4%87_si%C4%99",
+        "stat": "Wikisłownik, hasło cnić się: „czasownik niewłaściwy zwrotny niedokonany”, znaczenie (1.1) marked {{przest}} (przestarzały) and glossed „tęsknić do kogoś, czegoś albo za kimś, za czymś”; the entry's only citation is a Krzysztof Krawczyk song, „Parostatek”. Cited because the Słownik Synonimów PWN page ranking fourth for this keyword offers cknić się / cnić się as synonyms of tęsknić; cknić się redirects to cknić in Wikisłownik and both forms return zero paragraphs in the balanced NKJP.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://pelcra-nkjp.clarin-pl.eu/",
+        "stat": "Narodowy Korpus Języka Polskiego, podkorpus zrównoważony, 240 192 461 słów, queried through the PELCRA NKJPSpanSearch servlet on 2026-09-27 with the form's own defaults sent verbatim (span=0, sort=srodek, second_sort=lewa, groupBy=---, m_nkjpSubcorpus=balanced, m_date_from=RRRR, m_date_to=RRRR, dummystring=ąĄćĆęĘłŁńŃóÓśŚźŹżŻ). Every hit inspected individually and split into exact word order / free word order. Akapity / różne teksty: tęsknię za tobą 39/34 (30 in the query's own order), myślę o tobie 102/78 (73), tęskno mi 54/31 (49, of which 22 of the 60 inspected rows are Norwid's „Moja piosnka”), stęskniłam się 41/33 (31), stęskniłem się 34/30 (29), brakuje mi ciebie 21/20 (12), tęsknię do ciebie 11/3 (8), brak mi ciebie 9/8 (2), tęsknota za tobą 6/6, tęskno mi za tobą 1, brakuje mi cię 1. Zero paragraphs: zatęsknić się, cknić się, cnić się, zapamiętać się w tęsknocie, schnąć z tęsknoty, usychać z tęsknoty, nietęskniący. The header count is a SPAN count, not a phrase count — three identical runs returned 39 for tęsknię za tobą while only 30 are in that word order.",
+        "publishedDate": "2026-09-27"
+      },
+      {
+        "url": "https://pl.wikisource.org/wiki/Moja_piosnka_(Do_kraju_tego...)",
+        "stat": "Cyprian Kamil Norwid, „Moja piosnka”, in Dzieła Cyprjana Norwida, ed. Tadeusz Pini, Spółka Wydawnicza „Parnas Polski”, Warszawa 1934, public domain. Six stanzas, each closing on the refrain „Tęskno mi, Panie…”, plus the lines „Tęskno mi jeszcze i do rzeczy innej” and „Tęskno mi ówdzie”. Every complement in the poem is do + dopełniacz and every one of them is a place or an abstraction — „Do kraju tego”, „do rzeczy innej”, „do beztęsknoty” — never a person. Read in full to check that claim rather than asserting it from the corpus snippets.",
+        "publishedDate": "1934-01-01"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13507567",
+        "stat": "Boyd H. Davis, Meredith Troutman-Jordan & Margaret Maclagan, „Your phrases matter: Third waves in research approaches and new contexts for formulaic language”, International Journal of Language & Communication Disorders 59(1), 2024, 84–93, doi 10.1111/1460-6984.12915, CC BY-NC, isOpenAccess=Y. FULL TEXT READ through the Europe PMC fullTextXML endpoint (90,309 bytes of JATS). The paper restates the definition the authors still prefer, from Wray & Perkins (2000:1): a formulaic sequence is „prefabricated: that is, stored and retrieved whole from memory at the time of use, rather than being subject to generation or analysis by the language grammar”, and summarises Van Lancker Sidtis's dual-process model, under which formulaic and novel language are processed „as analytic and holistic, and as governed by principles of open choice and idiom”. Journal named so the batch's journal cap is checkable by hand: International Journal of Language & Communication Disorders, first use in this batch.",
+        "publishedDate": "2024-01-01"
+      }
+    ],
+    "structuralLimitations": [
+      "BRIEF §0 — PROMPT FRAMING: ONE LOAD-BEARING CLAIM WAS WRONG AND THE CORRECTION IS THE POST'S SPINE. The prompt asked whether „brakuje mi ciebie” inverts like French „tu me manques”, and said that if it does, that is the post's spine. IT DOES NOT, AND THE TRUE ANSWER IS BETTER. French makes the missed person a NOMINATIVE SUBJECT and the verb agrees with them (tu me manques, 2sg). Polish brakować has NO SUBJECT AT ALL: Wikisłownik marks it „czasownik nieprzechodni” and its own example „Brakuje mi moich ulubionych butów” puts the missed thing in the DOPEŁNIACZ (butów, not buty) and the experiencer in the CELOWNIK (mi). Poradnia PWN nr 23173 (Adam Wolański, 7.01.2024) closes it: brak in this function „odmienia się tylko przez czasy i tryby” — not by person, not by number. The reader-checkable proof is that brakuje never changes across brakuje mi ciebie / was / ich. So Polish is a THIRD pattern, not a copy of French, and the body says so.",
+      "BRIEF §0 — SECOND PROMPT ERROR, MEASURED: THE SOURCE-CAP LIST WAS WRONG ON TWO JOURNALS. The prompt said „At 2 (one slot): PNAS, Eur J Psychotraumatology, Memory & Cognition, Behavioral Sciences, IJERPH”. A grep across content/batches/*/blogs/ before writing returned Memory & Cognition in 7 posts and IJERPH / International Journal of Environmental Research and Public Health in 8. Both are OVER the cap of 3, not at 2. Two otherwise excellent candidates were dropped on that measurement: PMC13407966 (Memory & Cognition, „Native speakers kick buckets, but learners kick doors”, which was the single best topical fit for the argument about swapping a word inside a fixed expression, and is additionally already in 3 posts against a URL cap of 2) and PMC12294133 (IJERPH, partner deployment). Recording this so the orchestrator can fix the list for later rows.",
+      "A SOURCE WAS READ IN FULL AND THEN CUT TO STAY INSIDE THE OUTBOUND-LINK CAP. PMC12627139, „The effects of contextual diversity on lexical processing: A scoping review”, Psychonomic Bulletin & Review 2025, CC BY, was fetched via fullTextXML (351,530 bytes) and read. It reports N = 145 included studies, 61 of them on word-form processing, 92.86% interrater agreement on the 10% double-screened sample, and the finding that contextual diversity — the number of distinct documents in which a word occurs — explains significantly more variance in lexical decision and word-naming latency than raw word frequency. That is the scientific licence for why this post prints DOCUMENT counts (34 texts, 31 texts, 3 texts) beside paragraph counts rather than paragraph counts alone. It was cut only because checklist item 25 caps outbound links at 6 and the Polish instruments are load-bearing. Psychonomic Bulletin & Review was measured at 0 prior posts and remains unspent for a later row.",
+      "NKJP COUNTS DO NOT MATCH THE SIBLING'S, AND THE DISCREPANCY IS EXPLAINED RATHER THAN HIDDEN. The sibling post tesknie-za-toba-po-angielsku records „tęsknię za tobą 30 / tęsknię do ciebie 8” from the same servlet with the same documented parameters. Three identical runs here returned a header of 39 and 11. The cause is that PELCRA NKJPSpanSearch is a SPAN search, not a phrase search: it also matches the same words in a different order (za tobą tęsknię, do Ciebie tęsknię). Inspecting every row and splitting them reconciles the two figures exactly — 30 of the 39 are in the query's own word order and 8 of the 11 are. The sibling's numbers are its exact-order counts; the header number is not a phrase count. The body prints both, and this post's tables use the header (construction) count with the exact-order count named in the source note.",
+      "PWN IS STILL 403 AND WSJP WAS NOT USABLE. sjp.pwn.pl returns HTTP 403 to every request from this environment, confirming the sibling's finding; the Poradnia ruling was recovered through the Wayback Machine (snapshot 20240812073621) and the headword on the fetched page was read and confirmed before anything was built on it, per the Larousse/MARAUD and DWDS/DEZILITER warnings. doroszewski.pwn.pl does not resolve at all (fetch failed, not 403). wsjp.pl/haslo/do_druku/45789/brakowac returns HTTP 404. No PWN dictionary entry and no WSJP entry is cited anywhere in this post; the only PWN material used is the archived Poradnia answer.",
+      "LINES CUT, AND WHY. (1) „Myślami jestem przy tobie”, named in the row note as a candidate, returns ZERO paragraphs in the balanced NKJP and is not printed anywhere. (2) „Nie mogę się doczekać” was cut on meaning, not frequency: it has 275 paragraphs but points at a future reunion rather than a present absence, so it is not a way of saying „tęsknię” at all. (3) „Brak mi ciebie” was cut from the main table: 9 paragraphs in 8 texts, and only 2 of the 10 collected rows are in that word order, one of them a cross-sentence artefact („mi brak. Ciebie”). (4) „Tęsknica” and „utęsknienie” survive only in an FAQ, because Wikisłownik marks the first książkowe/poetyckie (and, in sense 1.2, a Slavic-mythology demon) and the second przestarzałe. (5) „Jestem stęskniony/stęskniona” has 2 paragraphs each and was cut as too thin to print.",
+      "CORPUS HYGIENE: PELCRA does not respect sentence boundaries, so every hit was inspected. „Brak mi ciebie” returned 10 real rows of which one was „mi brak. Ciebie” (a sentence boundary inside the span) and seven were free word order, leaving 2 in the query's order. „Myślę o tobie” returned 101 rows of which 2 crossed a boundary. Two bold spans on every result page are the servlet's own hit count and timing string and were discarded programmatically, not counted as matches. The full/balanced switch was also checked: m_nkjpSubcorpus=full searches 1,524,696,745 words and returns 112 for „tęsknię za tobą”, but the balanced 240,192,461-word subcorpus was used throughout for comparability with the sibling post, and nothing from the full corpus is printed.",
+      "SERP: MEASURED ON GOOGLE SERVED TO POLAND, TWICE, WITH IDENTICAL RESULTS. serp-ddg.mjs was run ONCE against html.duckduckgo.com with --region pl-pl and returned „(no results parsed)”; per BRIEF §3 it was not retried. Google with gl=pl&hl=pl&pws=0 then served a real Polish SERP through the operator's real Chrome on the first attempt, with no /sorry redirect and no captcha, and a second load of the same URL returned the same ten results in the same order. Self-authentication was done on the CONTENT, not the navigation response: every result is a Polish page about tęsknić/tęsknie, and Google appended its own „Nie zawiera: powiedzieć” note to the synoniminaczej.pl result and „Nie zawiera: inaczej” to the pl.glosbe.com result, which are machine-checkable proof that the index was answering THIS query. No Bing, Brave or Yahoo route was needed and none is claimed.",
+      "SERP RESULT AND GATE 4 — PROCEED, ON THE WEAKEST TOP TEN ANY ROW IN THIS BATCH HAS MEASURED. All ten organic results on 2026-09-27 are automatically generated synonym dictionaries or translation memories, across six distinct domains, two of which appear twice: synonim.net (1 and 3), synonimy.pl (2 and 8), sjp.pwn.pl Słownik Synonimów (4), synonyms.reverso.net (5), synoniminaczej.pl (6), synonim.com.pl (7), wyrazy.pl (9), pl.glosbe.com (10). The weak count is 10 of the 10 I actually saw. Not one editorial page, not one page written for a person composing a message, and not one page that names a case, an aspect or a corpus figure. A People Also Ask block carried four questions — „Jak zastąpić słowo tęsknić?”, „Jak inaczej nazwać tęsknotę?”, „Jaki jest synonim słowa tęsknię za tobą?”, „Jakie są synonimy słowa tęsknie?” — whose answer panels all rendered „Wystąpił błąd”; those four questions were used as fan-out sub-queries and are answered in the FAQs, but nothing is claimed about the error itself.",
+      "CHECKABLE ERRORS IN RANKING RESULTS — THREE, ALL VERIFIABLE BY A READER AGAINST A NAMED ENTRY, AND NONE OF THE PAGES IS LINKED. (1) Rank 1, synonim.net, offers „zatęsknić się” and „zapamiętać się w tęsknocie” as the most popular synonyms of tęsknić; „zatęsknić się” has no Wikisłownik headword at all (the headword is zatęsknić, without się) and both return ZERO paragraphs in the balanced NKJP. (2) Rank 4, the Słownik Synonimów PWN, offers „cknić się” and „cnić się”; Wikisłownik marks cnić się przestarzały and „czasownik niewłaściwy”, its only citation is a Krzysztof Krawczyk song, cknić się is a redirect, and both return ZERO paragraphs. (3) Rank 7, synonim.com.pl, lists as „inne określenia słowa Tęsknie” the forms nietęskniąca, nietęskniącą, nietęskniące, nietęskniącego, nietęskniącej, nietęskniącemu — the declension of the NEGATED participle nietęskniący, i.e. words of the opposite meaning and a different part of speech, pasted in as synonyms. Ranks 6 and 10 additionally give „brakować” as a synonym of „tęsknić”, which is the substitution this post shows to be ungrammatical.",
+      "THE POST ARGUES AGAINST ITS OWN KEYWORD, AND THE EVIDENCE IS MEASURED RATHER THAN BORROWED. Three sibling rows reached the same tension from Treccani, Larousse and TDK; Polish falls the same way and the corpus says so more bluntly than any of them. Two of the alternatives the ranking pages name first are unattested in 240 million words, a third of the most poetic one is a single 1854 poem, and the form that does work best (stęsknić się) is not a different phrase at all — it is the same verb in the perfective. The body's closing advice is to keep the verb and change the detail. That is the opposite of what the keyword asks for and it is said plainly rather than buried.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN AND ITEM 1 PASSES ON SUBSTANCE, NOT ON NOVELTY. A count of batchMeta.factsUsed across both batches on disk gives the six miss-you lines usages between 35 and 65 posts. The least-collided miss-you lines were taken (2.6-hour edit gap at 35, written memories at 37, open-when letters at 38) plus one platform-wide line at ZERO prior uses (38.5% password-protection) and the /apology-dashboard edit-gap line at 4. The two edit-gap lines are deliberately used TOGETHER and are explicitly distinguished in body prose and in a table, because BRIEF §6 records them being conflated: 2.6 hours is n=214 on /missyou-gf, 2.5 hours is n=1,396 sampled on /apology-dashboard, and they are two measurements, not one. The moat here is the corpus work and the SERP measurement, not the first-party numbers.",
+      "PRODUCT MISMATCH IS DISCLOSED IN POLISH BODY PROSE, WITH THE SOURCE LINE NAMED. /missyou-gf is defined at app/lib/prompt.ts:44 as „I miss you page for a girlfriend/partner” — verified at source. The body states that the page and every label on it are English with no Polish version, that the template is addressed to a female partner so a reader writing to a boyfriend, a mother or a friend will see a mismatch immediately, and that only the sender's own text is Polish. /catch was checked against prompt.ts before being accepted and was kept rather than swapped: its description („a letter that falls from the sky one line at a time… nothing is ever locked, each catch just adds a line”) is a „say more” tool, which is exactly what this post concludes the reader needs instead of a different verb, and it is linked to the 86.4% / 92.1% figures that establish that conclusion.",
+      "PRICE GUARD: no price, tier, subscription or „costs nothing” claim appears in any language. The Polish banned set (darmowy, bezpłatny, za darmo, nic nie kosztuje, gratis, darmo) was regex-checked against the finished body, FAQs, title, metaTitle, metaDescription, excerpt and keyTakeaways and returns no match. The body says plainly that the pricing block in our data is empty so no price can be confirmed, and links /templates instead. pricecheck-intl.mjs was run on this slug.",
+      "DOMAIN TRACK RECORD AND SCOPE. This is the second Polish page this site would ever publish and the first is not yet live; 905 live articles contain zero Polish, so there are no Polish-language authority signals of any kind. Nothing here should be read as a prediction. Separately: no open-access peer-reviewed work on Polish verb government was found — Europe PMC returns nothing for Slavic valency queries and the sibling already documented that Walenty, the IPI PAN valence dictionary, is dead. The syntax in this post is therefore carried entirely by the dictionary, the Poradnia ruling and the corpus, which is stated in the body."
+    ],
+    "additionalChecks": [
+      "Strapi production checked on 2026-09-27 via ctx_execute (curl and WebFetch are blocked by the project CLAUDE.md): https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=jak-powiedziec-tesknie-inaczej returned HTTP 200 with meta.pagination.total = 0, so the slug is free. The same route returned the live category list and confirmed miss-you-across-miles is a real Strapi category slug.",
+      "The schema validator printed inside references/article-json-schema.md was run against this file and reports no problems, so checklist item 50 is passed on substance rather than recorded as unsatisfiable.",
+      "Every Wikidata QID in structuredData was resolved through the Wikipedia API's pageprops.wikibase_item rather than from memory: Q809 (Język polski / Polish language), Q6971865 (Narodowy Korpus Języka Polskiego / National Corpus of Polish), Q340122 (Cyprian Kamil Norwid — note the Wikidata label is „Cyprian Norwid”), Q11073520 (Formulaic language).",
+      "Quotation length was checked against checklist item 38: the longest verbatim quotation from any source is the two-sentence Poradnia ruling and the one-sentence Wray & Perkins definition, plus three short phrases from a public-domain 1854 poem. No figure, chart or table is reproduced from any source; both tables in the body are built from measurements made here.",
+      "No competitor page is linked. synonim.net, synonimy.pl, synoniminaczej.pl, synonim.com.pl, wyrazy.pl, pl.glosbe.com, synonyms.reverso.net and the PWN Słownik Synonimów are named in the body where their errors are checkable, and none of them carries a link.",
+      "Tatoeba was deliberately NOT used. The sibling measured the Polish set at 43 za-forms and 0 do-forms and then refused to treat the zero as evidence because NKJP showed 8 and 41 for the same strings. With a working NKJP route returning document-level counts as well as paragraph counts, a second, much smaller corpus would have added noise rather than evidence, so no Tatoeba figure appears anywhere in this post."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "Slug „jak-powiedziec-tesknie-inaczej” carries the Polish stop words „jak” and „inaczej” and strips the diacritics from the keyword (powiedzieć → powiedziec, tęsknię → tesknie). Both are imposed by the row: the slug must be ASCII and must mirror the assigned keyword. Closing this would mean changing the assigned slug, which is out of scope for one post."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of six sources pass the swap test, but two fail it as written. The PELCRA/NKJP root URL already sits unchanged in this batch's other Polish post (tesknie-za-toba-po-angielsku), because it is the only corpus interface that works for Polish — it is the instrument, not a citation, but the item makes no such carve-out. The formulaic-language review could also sit unchanged in the Italian, French, Spanish or Turkish „say it differently” rows, whose conclusions it supports equally. Both are kept because the corpus counts are this post's entire moat and the review is the only scholarly licence for the argument against the keyword, but the item as written fails."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "Cannot be verified from inside one post. capcheck.mjs was run immediately before writing and reported no banned URLs, no domain at cap and no URL at cap — but BRIEF §7 documents that the cap that actually bites is on the JOURNAL named in the citation, which no script reads. My one journal is International Journal of Language & Communication Disorders (Wiley/RCSLT), measured at 0 prior posts across content/batches/*/blogs/ before writing. Frontiers in Psychology, PLoS ONE, Scientific Reports, BMC Psychology and PNAS were avoided entirely. Memory & Cognition and IJERPH were measured at 7 and 8 posts respectively and rejected, against a prompt that described both as having a slot free. Only the orchestrator can confirm at quiescence."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body has no H3 headings, so there is nothing for an ItemList to mirror. The five alternative forms are presented as a table rather than a ranked list, and the ten SERP positions are described in prose without being ranked as a body list. Adding H3s purely to host an ItemList would be padding against item 23. Would close if the post grew a genuinely ranked H3 list."
+        }
+      ],
+      "honestAssessment": "Every one of the ten pages ranking for this keyword is an automatically generated synonym list, and not one of them checks whether the words it offers are actually used. This post does: it prints paragraph AND document counts from the balanced 240,192,461-word subcorpus of the National Corpus of Polish for every candidate, shows that two of the forms the top-ranking pages name first have zero attestations, shows that 22 of 60 uses of „tęskno mi” are one Norwid poem, and fixes the grammar of „brakuje mi ciebie” against a named Poradnia PWN ruling rather than against a thesaurus. An answer engine asked „how do I say tęsknię differently” has nothing else to cite that contains a number. The post also argues against its own keyword — keep the verb, change the detail — which is the honest conclusion and the one the corpus supports. What it cannot overcome: this domain has 905 live articles and zero in Polish, so it has no Polish-language authority of any kind, the incumbents are entrenched programmatic dictionaries that Google has been serving for years, and ranking here would take months if it happens at all."
+    },
+    "generatedAt": "2026-09-26T20:21:55.676Z"
+  }
+}

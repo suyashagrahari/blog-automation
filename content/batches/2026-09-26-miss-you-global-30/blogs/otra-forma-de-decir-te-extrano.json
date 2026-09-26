@@ -1,0 +1,373 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Otra forma de decir te extraño: lo que el diccionario sí autoriza",
+    "slug": "otra-forma-de-decir-te-extrano",
+    "excerpt": "Medimos 94 traducciones españolas atestiguadas de frases inglesas con «I miss you»: solo hay tres construcciones y 92 son «te extraño» o «te echo de menos». El DLE no avala «te anhelo» y define «me haces falta» como necesidad, no como cariño.",
+    "metaTitle": "Otra forma de decir te extraño: 3 fórmulas en 94 frases",
+    "metaDescription": "Otra forma de decir te extraño: el corpus solo da 3 construcciones en 94 traducciones atestiguadas, y el DLE no avala «te anhelo» ni «me haces falta».",
+    "keywords": "otra forma de decir te extraño, formas de decir te extraño, sinónimos de te extraño, te añoro significado, me haces falta o te extraño",
+    "canonicalURL": "https://subhsandesh.in/blog/otra-forma-de-decir-te-extrano",
+    "ogType": "article",
+    "tags": [
+      "español",
+      "te extraño",
+      "rae",
+      "larga distancia",
+      "vocabulario"
+    ],
+    "keyTakeaways": [
+      "En las 94 traducciones españolas atestiguadas de frases inglesas con «I miss you» solo aparecen tres construcciones, y 92 de las 94 son «te extraño» o «te echo de menos».",
+      "El DLE le imprime a extrañar exactamente dos sinónimos, añorar y recordar; ni anhelar, ni hacer falta, ni necesitar figuran entre ellos.",
+      "«Me haces falta» está definido en el DLE como «Ser precisa para algún fin»: de los 24 resultados de Tatoeba, cero están en segunda persona y todos llevan objeto inanimado.",
+      "«Te añoro» no aparece ni una vez en los 38 resultados de añoro del corpus español de Tatoeba; añorar se usa para sitios y épocas.",
+      "De las 94 traducciones, 53 varían por un intensificador y 15 por una circunstancia: la variación real está en el detalle, no en el verbo."
+    ],
+    "faqs": [
+      {
+        "question": "¿Puedo escribirle «te extraño» a alguien en España?",
+        "answer": "Sí. El Diccionario de la lengua española no marca extrañar como americanismo ni echar de menos como españolismo: la acepción 2 de extrañar es literalmente «Echar de menos a alguien o algo». Se te notará el acento, no el error. La comparación completa entre las dos fórmulas está en nuestro artículo sobre la diferencia entre «te extraño» y «te echo de menos»."
+      },
+      {
+        "question": "¿«Te extraño» vale para un amigo o solo para una pareja?",
+        "answer": "Vale para cualquiera. La definición del DLE habla de «alguien o algo» sin restringir el vínculo, y entre las 94 traducciones que medimos hay frases dirigidas a «mamá», a «papá» y a un grupo («Os echo de menos a todos»). El registro lo fija el resto del mensaje, no el verbo."
+      },
+      {
+        "question": "¿Qué diferencia hay entre «te extrañé» y «te extrañaba»?",
+        "answer": "El aspecto. El pretérito «te extrañé» cierra el periodo: se refiere a una ausencia que ya terminó, y por eso aparece traduciendo «I missed you» al reencontrarse. El imperfecto «te extrañaba» deja la ausencia abierta o la sitúa como fondo de otra cosa. Ambos aparecen en el corpus: «Te extrañé mucho» y «Te extrañaba mucho»."
+      },
+      {
+        "question": "¿«Te necesito» es una forma de decir «te extraño»?",
+        "answer": "No exactamente. El DLE define necesitar como «Tener necesidad de alguien o algo», lo hace venir del latín medieval necessitare, «obligar, compeler», y le da como sinónimos precisar, requerir, pedir, demandar, urgir y exigir. Es una frase más exigente de lo que parece, y no figura entre los sinónimos que el diccionario le reconoce a extrañar."
+      },
+      {
+        "question": "¿Sirve «no es lo mismo sin ti»?",
+        "answer": "Sirve como frase, pero no es un sinónimo lexicalizado: no es una locución recogida en el diccionario, sino una paráfrasis. No aparece en ninguna de las 94 traducciones españolas que medimos. Dice algo parecido dando un rodeo más largo, así que funciona mejor acompañando a la frase directa que sustituyéndola."
+      },
+      {
+        "question": "¿Y «cuento los días para verte»?",
+        "answer": "Es lo contrario de un sinónimo: en vez de nombrar la ausencia, nombra el reencuentro. Tampoco aparece en ninguna de las 94 traducciones medidas. Como añadido sí funciona, porque aporta el dato concreto que la frase suelta no tiene; el 28.0% de quienes crean una página de «te extraño» con nosotros fija una fecha de reencuentro (60 de 214)."
+      },
+      {
+        "question": "¿Hay una versión más formal para escribirle a un familiar mayor?",
+        "answer": "El DLE no marca ninguna de estas formas como coloquial o formal, así que el registro no lo cambia el verbo. Lo cambian el tratamiento y el marco: «lo extraño mucho» con usted, un saludo completo y una despedida. La frase en sí se queda igual."
+      },
+      {
+        "question": "¿Es mejor escribirlo o mandarlo en una nota de voz?",
+        "answer": "Las palabras son las mismas en los dos casos, así que la decisión no es de vocabulario. La voz añade el detalle que el texto no lleva —el tono, la hora, el ruido de fondo—, que es justo donde está la variación real según nuestras mediciones del corpus."
+      },
+      {
+        "question": "¿Puedo usar «te extraño» y «te echo de menos» en el mismo mensaje?",
+        "answer": "Sí, y el corpus lo hace: una de las frases medidas es «Te extraño y extraño pasar tiempo contigo». Repetir el verbo con objetos distintos suena natural; encadenar dos sinónimos seguidos, «te extraño, te añoro, te anhelo», suena a lista y no a mensaje."
+      },
+      {
+        "question": "¿Y si prefiero decirlo en inglés?",
+        "answer": "Es otra pregunta y tiene respuesta propia: en inglés el sujeto coincide con el español, pero el tiempo verbal no funciona igual. Lo tratamos aparte en el artículo sobre cómo se dice «te extraño» en inglés."
+      }
+    ],
+    "coverImageQuery": "diccionario español abierto mensaje teléfono",
+    "coverImagePrompt": "A warm, photorealistic still life on a wooden desk: an open Spanish dictionary with a phone resting on the page, the screen showing an unsent message bubble. Soft window light from the left, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No legible text on the phone, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Otra forma de decir te extraño: lo que el diccionario sí autoriza\n\nSi buscas **otra forma de decir te extraño**, la respuesta honesta es que hay muchas menos de las que prometen las listas. El 27 de septiembre de 2026 medimos las 41 frases inglesas con *I miss you* que el corpus abierto Tatoeba tiene traducidas al español: dan **94 traducciones y solo tres construcciones**, y 92 de esas 94 son «te extraño» o «te echo de menos». Lo que cambia entre una y otra no es el verbo, es el detalle que le cuelgas. Nuestros datos apuntan al mismo sitio: las páginas de «te extraño» de SubhSandesh acumulan 2,417 vistas registradas, 11.3 por página de media y 104 en la más abierta de todas, y el 28.0% de quienes las envían fija una fecha de reencuentro para la cuenta atrás (60 de 214). Casi nadie encuentra una palabra nueva; quien quiere que la frase pese le añade algo concreto.\n\n## Tres construcciones en 94 traducciones, y ninguna cuarta\n\nPedimos a [Tatoeba](https://tatoeba.org/en/sentences/search?from=eng&to=spa&query=%22I+miss+you%22) las frases inglesas con *I miss you* que tienen traducción española. Son 41, leídas una a una: las 41 son de verdad *I miss* (26) o *I missed* (15), sin un falso positivo, raro en un buscador que separa por palabras sueltas. Entre ellas hay 94 traducciones españolas:\n\n- **47** usan *echar de menos*.\n- **45** usan *extrañar*.\n- **2** usan *hacer falta*, y son la misma frase: «Me has hecho falta», en pretérito.\n- **0** usan *añorar*; **0** *anhelar*; **0** dicen «siento tu ausencia», «no es lo mismo sin ti» ni «cuento los días».\n\nNoventa y dos de 94 son las dos fórmulas que ya conocías: el español no tiene una tercera vía.\n\n## El DLE le reconoce a «extrañar» exactamente un sinónimo\n\nLa [entrada *extrañar* del Diccionario de la lengua española](https://dle.rae.es/extra%C3%B1ar) tiene ocho acepciones; la segunda es la nuestra: «Echar de menos a alguien o algo, sentir su falta». Debajo imprime sus sinónimos, y son dos: **añorar** y **recordar**.\n\nNo aparecen ahí *anhelar*, *hacer falta* ni *necesitar*, que son justo las tres que recomiendan las listas que hoy posicionan. Si buscas una alternativa avalada por la Academia, el catálogo entero tiene un solo nombre.\n\nCuál de las dos enviar y a quién está resuelto en [la diferencia entre «te extraño» y «te echo de menos»](/blog/diferencia-entre-te-extrano-y-te-echo-de-menos) y en [qué significa «te echo de menos»](/blog/te-echo-de-menos-significado).\n\n## «Te añoro» existe en el diccionario y casi no existe en el uso\n\nLa [entrada *añorar*](https://dle.rae.es/a%C3%B1orar) viene del catalán *enyorar*: «Recordar con pena la ausencia, privación o **pérdida** de alguien o algo muy querido». No lleva marca regional, literaria ni de desuso. Pero mete «pérdida» en el centro, y eso ya no es una distancia temporal.\n\nEl uso lo confirma. Buscamos *añoro* en el corpus español de Tatoeba: 38 resultados en bruto, leídos uno por uno. Seis no son el verbo sino el sustantivo *añoranza*, así que quedan 32 usos verbales, y de esos solo cinco tienen una persona como objeto: «Mary añora a su marido», «Ella añora mucho a su familia», un diablillo que «añora a sus padres» y «Te añoramos muchísimo», la única en segunda persona y en plural: *nosotros*, no *yo*.\n\n**Ni una de las 38 dice «te añoro».** Las demás añoran Boston, «mi país», la universidad, el verano, los tiempos de los zares y la comida tailandesa: *añorar* es el verbo de echar de menos un sitio y una época, no de escribirle a alguien esta noche.\n\n## «Me haces falta» dice «me eres necesario», no «te extraño»\n\nEs la que más se recomienda, porque parece la más tierna. La [entrada *falta*](https://dle.rae.es/falta) dice otra cosa: la locución **hacer falta** es «Dicho de una persona o de una cosa: **Ser precisa para algún fin**», y *hacerle a una persona falta alguien o algo*, «No tenerlo cuando sería necesario o provechoso».\n\nEs una declaración de necesidad, no de cariño. El corpus lo remata: los 24 resultados que devuelve Tatoeba al buscar «me haces falta» son, sin excepción, **me hace falta** en tercera persona y con objeto inanimado —harina, dinero, un martillo, un calcetín—. Cero en segunda persona: la forma que te proponen enviar no aparece. Un artículo hermano llegó a lo mismo desde el italiano, donde *mi manchi* sí tiene esa estructura.\n\n## «Te anhelo» es el error que hoy encabeza esta búsqueda\n\nEl 27 de septiembre de 2026, el primer resultado de Google servido a México (`gl=mx&hl=es-419&pws=0`, medido dos veces con listado idéntico) es un artículo de LanguageTool que el propio buscador etiqueta «Traducido por Google · Ver original (English)»: una página inglesa sobre alternativas inglesas. Sus dos primeras propuestas: «Mi corazón te anhela» y «Anhelo estar contigo».\n\nLa [entrada *anhelar*](https://dle.rae.es/anhelar) las desautoriza. Su acepción 1 es «Tener ansia o deseo vehemente de conseguir **algo**», con los ejemplos *Anhelar empleos, honras, dignidades*; las otras dos están marcadas **desus.** El objeto de *anhelar* es una cosa que se quiere conseguir, no una persona a la que se echa de menos.\n\nTatoeba dice lo mismo: de las 57 frases españolas con *anhelo* se anhela «la paz», «algo inalcanzable», «sueños imposibles», y las dos que devuelve «te anhelo» no contienen la frase. El primer resultado te propone un calco del inglés *yearn*.\n\n## «Te echo en falta» es la misma locución con otra preposición\n\nEn esa misma entrada *falta*, el DLE registra **echar en falta** con una definición de tres palabras: «Echar de menos». No es una alternativa; es la misma locución con otra preposición. Importa porque el sexto resultado, la versión española de LanguageTool, titula su lista «10 formas de decir \"te echo de menos\" **sin decirlo**» y abre con «Te echo mucho en falta»; su número 4, «Te extraño y extraño pasar tiempo contigo», lo dice. Seis de sus diez propuestas usan el vocabulario del original: *falta* cuatro veces, *extrañar* una, *añorar* otra. Los artículos hermanos en italiano, francés y turco encontraron la misma forma: el diccionario acaba definiendo las «alternativas» por medio del original.\n\nHay además un error comprobable en esa página: entre sus oraciones de ejemplo imprime «¡No sabes **cuándo** te echo en falta!», con el *cuándo* interrogativo donde hace falta el exclamativo *cuánto*. Lo publica una empresa de corrección ortográfica.\n\n## Las cinco fórmulas, comparadas\n\nFaltan dos. La entrada *ausencia* tiene seis acepciones y ninguna es un sentimiento: la cuarta está marcada **Der.**, «Condición legal de la persona cuyo paradero se ignora», y en Tatoeba las once frases con «tu ausencia» son administrativas («Tienes que dar cuenta de tu ausencia»). Y *necesitar* es «Tener necesidad de alguien o algo», del latín *necessitare*, «obligar, compeler».\n\n| Fórmula | Sujeto gramatical | Qué dice el DLE | Atestiguada en Tatoeba | En nuestras 214 páginas |\n| --- | --- | --- | --- | --- |\n| te extraño | quien habla | *extrañar* ac. 2: «Echar de menos a alguien o algo, sentir su falta» | 45 de 94 | — |\n| te echo de menos | quien habla | *falta*, **echar en falta**: «Echar de menos» | 47 de 94 | — |\n| me haces falta | la persona ausente | *falta*, **hacer falta**: «Ser precisa para algún fin» | 0 de 24 en 2.ª persona | — |\n| te añoro | quien habla | *añorar*: «Recordar con pena la ausencia, privación o pérdida» | 0 de 38 | — |\n| fechar la frase con un reencuentro | quien habla | — | — | 28.0% (60 de 214) |\n\n## Lo que sí cambia de verdad: el detalle, no el verbo\n\nVolvamos a las 94 traducciones. Cincuenta y tres llevan un intensificador (*mucho*, *muchísimo*, *tanto*, *cuánto*). Quince llevan una circunstancia: «Te extraño cuando no estás acá», «Anoche os eché de menos», «Te extrañé mucho cuando estabas en Francia». Seis nombran a quien la recibe y veintiséis van desnudas. Toda la variación está en lo que se le cuelga, nunca en el verbo.\n\nHay un motivo para preferirlo. Un estudio de acceso abierto de 2026 en *Cognitive Processing* ([Europe PMC, PMC13424393](https://europepmc.org/article/PMC/PMC13424393)) midió tiempos de reacción de 70 estudiantes de inglés ante expresiones binomiales fijas y halló que **las formas convencionales se procesan más rápido que las novedosas**. Leímos el texto completo y sus límites son claros: son aprendices, no nativos; son binomios del tipo «pan y mantequilla», no declaraciones de afecto; y un tiempo de reacción no mide ternura. Pero una fórmula rara obliga a detenerse.\n\n## Qué mide nuestra base de datos, y dónde no te servimos\n\nCuatro advertencias, sin las cuales las cifras se leen mal:\n\n1. **Nada está segmentado por idioma ni por país.** Ninguna cifra de aquí es mexicana, española ni argentina.\n2. **La base registra qué plantilla se abrió, nunca quién la recibió.**\n3. La muestra es n = 214 desde el 2026-07-28: dos meses, de los que no se deriva ninguna estacionalidad.\n4. Ciudad, música de fondo y «juntos desde» son selectores con valores por defecto: su tasa de relleno no es una decisión de quien envía. Y el contador cuenta vistas, no visitantes únicos.\n\nCon esa reserva: la plataforma acumula 57,456 vistas registradas, 11.1 de media por página creada, y el 38.5% de quienes crean una la protegen con contraseña antes de compartirla (2,000 de 5,199). Eso dice que se usa para cosas privadas, no que funcione. Si la frase se te ha gastado de repetirla, ninguna página lo arregla.\n\n## Qué enviar, y por qué la página que enlazamos está en inglés\n\nConviene decirlo antes: nuestra plantilla [«I miss you» para tu pareja](/missyou-gf) está descrita internamente como una página de «te extraño» para una novia o pareja, y **toda su interfaz y sus instrucciones están en inglés**. El texto lo escribes tú en español, pero lo que lo rodea no lo estará. Si quien la recibe no lee inglés, es la elección equivocada.\n\nPara este artículo encaja mejor otra: [Streak, un toque al día entre dos personas](/streak), donde cada check-in guarda una palabra y a los cien días hay un diario que ninguno se propuso escribir. Si «te extraño» suena hueco de tanto repetirlo, esto es lo contrario de buscar un sinónimo: la misma frase cada día, acumulando algo distinto debajo. También está en inglés. El catálogo está en [la lista de plantillas](/templates).\n\nNuestro fichero de datos tiene vacío el apartado de condiciones de uso, así que aquí no publicamos ninguna cifra sobre eso.\n\nSi lo que querías era decirlo sin decirlo —con una indirecta, un diminutivo o un «ojalá»—, esa es la operación contraria a esta y está tratada en [cómo decir te extraño sin decirlo](/blog/como-decir-te-extrano-sin-decirlo). Para la traducción, [cómo se dice «te extraño» en inglés](/blog/te-extrano-en-ingles-como-se-dice).",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/otra-forma-de-decir-te-extrano#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Spanish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Mexican Spanish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mexican_Spanish",
+              "https://www.wikidata.org/wiki/Q616620"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Diccionario de la lengua española",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diccionario_de_la_lengua_espa%C3%B1ola",
+              "https://www.wikidata.org/wiki/Q675538"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Royal Spanish Academy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+              "https://www.wikidata.org/wiki/Q11993457"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Synonym",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Synonym",
+              "https://www.wikidata.org/wiki/Q42106"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Formulaic language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Formulaic_language",
+              "https://www.wikidata.org/wiki/Q11073520"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª edición",
+            "url": "https://dle.rae.es/extra%C3%B1ar",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª edición",
+            "url": "https://dle.rae.es/falta",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª edición",
+            "url": "https://dle.rae.es/anhelar",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª edición",
+            "url": "https://dle.rae.es/a%C3%B1orar",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — frases inglesas con «I miss you» y sus traducciones españolas",
+            "url": "https://tatoeba.org/en/sentences/search?from=eng&to=spa&query=%22I+miss+you%22",
+            "datePublished": "2026-09-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Cognitive processes of binomial expressions across modalities: a study of EFL Arab learners",
+            "url": "https://europepmc.org/article/PMC/PMC13424393",
+            "datePublished": "2026-04-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Cognitive Processing"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Fórmulas españolas para decir «te extraño», en el orden de la tabla del artículo",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "te extraño — 45 de 94 traducciones atestiguadas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "te echo de menos — 47 de 94 traducciones atestiguadas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "me haces falta — 0 de 24 resultados en segunda persona; el DLE lo define como necesidad"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "te añoro — 0 de 38 resultados; añorar se usa para sitios y épocas"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "te anhelo — 0 atestiguaciones; el DLE da a anhelar un objeto de cosa"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "otra forma de decir te extraño",
+    "angle": "Gana por ser el único resultado que mide cuántas alternativas existen de verdad —94 traducciones atestiguadas, tres construcciones— y comprueba cada «sinónimo» recomendado contra su entrada real del DLE, concluyendo contra su propia palabra clave: la variación está en el detalle, no en el verbo.",
+    "bodyLanguage": "Spanish",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "57,456 recorded views of shared pages — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://dle.rae.es/extra%C3%B1ar",
+        "stat": "extrañar, acepción 2: «Echar de menos a alguien o algo, sentir su falta»; sinónimos impresos: añorar, recordar (ocho acepciones en total)",
+        "publishedDate": "2023-12-01"
+      },
+      {
+        "url": "https://dle.rae.es/falta",
+        "stat": "locución «echar en falta» definida como «Echar de menos»; locución «hacer falta»: «Dicho de una persona o de una cosa: Ser precisa para algún fin»",
+        "publishedDate": "2023-12-01"
+      },
+      {
+        "url": "https://dle.rae.es/anhelar",
+        "stat": "anhelar, acepción 1: «Tener ansia o deseo vehemente de conseguir algo» (ejemplos: empleos, honras, dignidades); acepciones 2 y 3 marcadas desus.",
+        "publishedDate": "2023-12-01"
+      },
+      {
+        "url": "https://dle.rae.es/a%C3%B1orar",
+        "stat": "añorar, del cat. enyorar: «Recordar con pena la ausencia, privación o pérdida de alguien o algo muy querido»; sin marca regional, literaria ni de desuso",
+        "publishedDate": "2023-12-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=eng&to=spa&query=%22I+miss+you%22",
+        "stat": "41 frases inglesas con «I miss you» y 94 traducciones españolas: 47 echar de menos, 45 extrañar, 2 hacer falta, 0 añorar, 0 anhelar — medido 2026-09-27",
+        "publishedDate": "2026-09-27"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13424393",
+        "stat": "Cognitive Processing (2026): 70 estudiantes de inglés; las expresiones binomiales convencionales se procesan más rápido que las novedosas en modalidad visual y auditiva",
+        "publishedDate": "2026-04-22"
+      }
+    ],
+    "serpMeasurement": "Ruta: serp-ddg.mjs --region mx-es una sola vez (devolvió «no results parsed», sin reintentos, conforme al BRIEF §3). Después Google servido a México en el navegador real, gl=mx&hl=es-419&pws=0, el 2026-09-27, cargado dos veces con listado idéntico y autenticado sobre el contenido leído (mi consulta, en español, pie de página «Los resultados no están personalizados · México»). Ocho resultados orgánicos vistos más un paquete de vídeos y un resumen de IA; no inventé posiciones que no viera. Orgánicos por orden: (1) languagetool.org/insights/post/word-choice-i-miss-you-synonyms — artículo INGLÉS servido con la etiqueta «Traducido por Google · Ver original (English)»; (2) wikihow.com/Other-Ways-to-Say-I-Miss-You — inglés, igualmente traducido; (3) quillbot.com/es/blog — listicle español nativo de una herramienta de escritura con IA; (4) baselang.com/blog/vocabulary/i-miss-you-in-spanish — blog inglés para estudiantes de español, traducido; (5) reddit.com/r/AskWomen — hilo inglés servido con ?tl=es-419; (6) languagetool.org/insights/es/publicacion/frases-para-decir-te-echo-de-menos — listicle español nativo, citado además por el resumen de IA de Google; (7) facebook.com/LaMejorCuernavaca — publicación social; (8) serpadres.es/familia/48132.html — revista española, listicle de 50 frases. Paquete de vídeos: YouTube (LAE Madrid) y dos TikTok. CONTEO DE DÉBILES: 7 de los 8 que vi son débiles para esta consulta —cuatro son páginas inglesas traducidas automáticamente que enumeran alternativas INGLESAS, dos son redes sociales y una es un listicle de herramienta de IA—; solo serpadres.es es un editor español establecido, y publica un listicle sin una sola cita lexicográfica. CERO resultados citan el DLE, el DPD, FundéuRAE o un corpus. Gate 4: PROCEDER.",
+    "structuralLimitations": [
+      "El prompt del orquestador daba a Memory & Cognition «una plaza libre» y me señalaba el estudio de variación de modismos (PMC10896937). Lo comprobé en disco: esa revista aparece en cuatro archivos de este lote y ese PMCID ya lo cita ozledim-demenin-farkli-yollari para exactamente mi argumento. Lo descarté por gemelo y por tope de revista, y cité en su lugar Cognitive Processing (PMC13424393), que no aparece en ningún otro archivo del lote. La afirmación del prompt era incorrecta.",
+      "Leí también el texto completo de «Between distance and duty: emotional labor in transnational fatherhood among Pakistani migrants in Italy» (Frontiers in Sociology, 2025, PMC12434326, 30 entrevistas en profundidad) y lo corté: habría sido un séptimo enlace saliente, por encima del tope de seis. Frontiers in Sociology no aparece citada en ningún otro archivo del lote, así que queda libre para quien la quiera.",
+      "dle.rae.es devuelve 403 a cualquier petición desde el entorno de scripts (probado con cinco entradas, todas 403 con 5.8 KB de cuerpo). Las seis entradas que cito las leí en el navegador real y confirmé el lema impreso en cada página antes de citarla, porque un HTTP 200 no garantiza la entrada correcta.",
+      "Tres entradas del DLE consultadas y verificadas —ausencia, necesitar y la conjugación de añorar— se citan por su nombre sin enlace, para no pasar del tope de seis enlaces salientes.",
+      "La búsqueda de Tatoeba separa por palabras sueltas y hay que inspeccionar los resultados uno a uno. Lo hice: «me haces falta» da 24 resultados en bruto y sobreviven CERO (los 24 son «me hace falta» en tercera persona); «añoro» da 38 en bruto, de los que 32 son usos verbales y ninguno es «te añoro»; «te anhelo» da 2 y sobrevive cero. En cambio, la consulta inglesa «I miss you» con traducción española dio 41 frases y sobrevivieron las 41, sin un solo falso positivo.",
+      "Una ausencia en Tatoeba no prueba que una frase no exista: prueba que no está atestiguada en ese corpus, que es pequeño y voluntario. Digo «no aparece en el corpus», nunca «no se dice». Los corpus de la RAE (CORPES, CREA) devuelven 403 a un script y habrían sido la comprobación complementaria.",
+      "Los enlaces internos a los artículos hermanos se comprobaron contra la API de producción de Strapi el 2026-09-27: los cuatro (como-decir-te-extrano-sin-decirlo, diferencia-entre-te-extrano-y-te-echo-de-menos, te-echo-de-menos-significado, te-extrano-en-ingles-como-se-dice) devuelven total=1, es decir, ya están publicados y no darán 404.",
+      "La fila mexicana traía /catch entre sus plantillas, pero ese enlace ya lo usa el hermano como-decir-te-extrano-sin-decirlo y encaja con su tesis («sin decirlo»), no con la mía. Leí las descripciones de app/lib/prompt.ts y cambié a /streak, que está en oneOfLinks de verify.config.json y es la única cuya mecánica —un toque al día, una palabra guardada por check-in— coincide con la conclusión del artículo: repetir la misma frase añadiendo un detalle distinto.",
+      "Las cinco publicaciones españolas hermanas ya habían gastado casi todo el bloque de datos de «te extraño». Tomé las líneas menos colisionadas que quedaban: las 2,417 vistas del segmento, la fecha de reencuentro, y tres líneas de toda la plataforma que ningún hermano español había usado (57,456 vistas, 11.1 de media por página, 38.5% con contraseña). La diferenciación por datos propios en este artículo es fina y conviene decirlo.",
+      "No uso ninguna de las dos líneas de intervalo de edición (2.6 h del segmento de «te extraño», n=214; 2.5 h de toda la plataforma muestreada en /apology-dashboard, n=1,396) precisamente para no confundirlas.",
+      "Las entradas del DLE y Tatoeba son hosts exentos del tope por URL según verify.config.json, así que dle.rae.es/añorar se reutiliza aquí aunque ya lo citen dos artículos hermanos. Lo hago constar."
+    ],
+    "additionalChecks": [
+      "Recuento de palabras del cuerpo (split por espacios en blanco, sin FAQ): 1.774, dentro de 1.500–1.800 y por debajo del techo con margen, como pide el knownIssue sobre el techo de palabras.",
+      "pricecheck-intl.mjs ejecutado sobre este archivo: sin coincidencias. El artículo no escribe gratis, gratuito, sin costo, precio ni ninguna cifra monetaria.",
+      "capcheck.mjs ejecutado justo antes de escribir: ninguna URL prohibida, ninguna URL en el tope de 2, doi.org en el tope de 3 y no lo uso.",
+      "Revistas nombradas para que el orquestador pueda contarlas a mano: Cognitive Processing (0 apariciones previas en el lote). Frontiers in Psychology, PLoS ONE, Scientific Reports, BMC Psychology, PNAS y Memory & Cognition evitadas a propósito.",
+      "QID de Wikidata comprobados uno a uno contra la API: Q1321 (Spanish), Q616620 (Mexican Spanish), Q675538 (Diccionario de la lengua española), Q11993457 (Royal Spanish Academy), Q495456 (Tatoeba), Q42106 (Synonym), Q11073520 (Formulaic language). Comprobé además que Q181503 NO es la RAE sino un pintor belga, por si alguien lo copia de memoria.",
+      "Lema confirmado en cada página del DLE leída: anhelar, añorar, ausencia, extrañar, falta, necesitar. Ninguna sustitución tipo MARAUD/DEZILITER.",
+      "Texto completo leído por fullTextXML de Europe PMC para los dos artículos considerados (PMC13424393, 119 KB; PMC12434326, 115 KB). Cero citas solo de resumen.",
+      "Slug comprobado en la API de producción de Strapi el 2026-09-27: total=0, libre.",
+      "categorySlug comprobado contra /api/categories de producción: miss-you-across-miles existe entre las diez categorías vivas.",
+      "SERP medida dos veces con listado idéntico y autenticada sobre el contenido leído, no sobre el título de la respuesta de navegación.",
+      "Punto 15 del checklist: la palabra clave tiene SEIS palabras, así que no cabe entera dentro de las cinco primeras del metaTitle; ocupa las posiciones 1 a 6, que es la colocación más temprana posible. Lo doy por cumplido en espíritu y lo hago constar aquí.",
+      "Punto 30 del checklist: el artículo lleva 4 enlaces internos a artículos hermanos (dentro del rango 2-4) más los 3 enlaces de plantilla, que el punto 31 y templateUrls gobiernan aparte. Si el punto 30 se lee incluyendo las plantillas, serían 7 y quedaría fuera de rango."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Los seis enlaces salientes se leyeron y verificaron uno a uno (cuatro entradas del DLE en el navegador real, la búsqueda de Tatoeba por su API y el texto completo JATS del artículo de Cognitive Processing). Queda fallando solo porque tres entradas más del DLE que sí consulté y cito por su nombre —ausencia, necesitar y la conjugación de añorar— no llevan enlace: añadirlas habría subido a nueve enlaces salientes, fuera del tope de seis. Lo cerraría subir el tope o mover ausencia y necesitar a un artículo propio."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "No puedo verificarlo yo: el recuento de dominios y URL por lote solo es fiable en reposo, y seis agentes escriben a la vez. Medido antes de escribir, capcheck.mjs daba limpio y ninguna de mis URL estaba gastada; el riesgo real de este lote es el nombre de la revista, que capcheck no ve. Lo cerraría el recuento del orquestador al final del lote."
+        }
+      ],
+      "honestAssessment": "Es el único resultado de esta SERP que cuenta cuántas alternativas existen de verdad en lugar de enumerarlas: 94 traducciones atestiguadas, tres construcciones, y cada «sinónimo» recomendado contrastado con su entrada real del DLE. Y argumenta contra su propia palabra clave, que es lo más citable que tenía a mano: el español no ofrece una tercera vía, así que «otra forma» no es buen consejo para las dos palabras, y sí lo es para el detalle que las acompaña. El error comprobable —el primer resultado, un artículo inglés traducido automáticamente que propone «te anhelo», un verbo que el DLE define con objeto de cosa y con dos acepciones en desuso— es el activo más fuerte, y el segundo es el «cuándo» por «cuánto» en la página española de una empresa de corrección ortográfica. La SERP es débil (7 de 8 resultados vistos), no hay ni un diccionario citado en ella y el hueco es real. En contra: el dominio no tiene historial publicado en español, la diferenciación por datos propios es fina porque cinco hermanos españoles ya gastaron casi todo el bloque de «te extraño», y la plantilla que enlazo está en inglés, cosa que digo en el cuerpo. El artículo de Cognitive Processing es un apoyo lateral —aprendices de inglés, binomios, tiempos de reacción— y lo presento como tal, no como prueba de que un mensaje conmueva más."
+    },
+    "generatedAt": "2026-09-26T20:22:07.506Z"
+  }
+}

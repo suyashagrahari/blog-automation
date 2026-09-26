@@ -1,0 +1,408 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Te echo de menos en català: la forma que licencia el diccionario normativo",
+    "slug": "te-echo-de-menos-en-catalan",
+    "excerpt": "En catalán se dice «et trobo a faltar», y el DIEC2 la guarda bajo faltar, no bajo trobar. «T'enyoro» también es normativa: sus tres acepciones van marcadas [LC], lèxic comú. Ocho frases catalán-castellano atestiguadas y las formas de valenciano, central y balear.",
+    "metaTitle": "Te echo de menos en català: qué forma fija el DIEC2",
+    "metaDescription": "En catalán se dice «et trobo a faltar»: el DIEC2 la guarda bajo faltar, acepción 2 2. 8 de 8 frases catalán-castellano la traducen por «echo de menos».",
+    "keywords": "te echo de menos en català, et trobo a faltar, t'enyoro, enyorar catalán, te echo de menos en catalán, enyorança",
+    "canonicalURL": "https://subhsandesh.in/blog/te-echo-de-menos-en-catalan",
+    "ogType": "article",
+    "tags": [
+      "catalan",
+      "espanol",
+      "traduccion",
+      "echar-de-menos",
+      "diccionario"
+    ],
+    "keyTakeaways": [
+      "«Et trobo a faltar» es la forma normativa: el DIEC2 la recoge bajo la entrada faltar, acepción 2 2, no bajo trobar.",
+      "El sujeto eres tú, igual que en castellano: los pronombres atestiguados son el, la, els (complemento directo), nunca li.",
+      "«Enyorar» no es literario ni regional: sus tres acepciones del DIEC2 llevan la marca [LC], lèxic comú.",
+      "Las primeras personas cambian por variedad: trobo y enyoro (central), trobe y enyore (valenciano), trob y enyor (balear).",
+      "Enyorança y saudade no comparten origen: el DCVB da el latín ignorare y el Priberam da solitas para saudade."
+    ],
+    "faqs": [
+      {
+        "question": "¿Cómo se dice «te echaré de menos» en catalán?",
+        "answer": "«Et trobaré a faltar». No hay que inventar nada: es literalmente el ejemplo que el DIEC2 pone en la acepción 2 2 de faltar, «Quan te'n vagis, et trobaré a faltar». En valenciano el futuro es igual, porque la diferencia dialectal está en el presente, no en el futuro."
+      },
+      {
+        "question": "¿Cómo se dice «te echo de menos» en mallorquín?",
+        "answer": "«Et trob a faltar», o «t'enyor» si prefieres el verbo. El conjugador del DIEC2 etiqueta trob y enyor como las primeras personas del presente en balear, frente a trobo y enyoro en el catalán central. Es la diferencia que más se nota cuando alguien copia una frase de internet sin mirar de dónde es el destinatario."
+      },
+      {
+        "question": "¿Se escribe «et trobo a faltar» o «et trobo en falta»?",
+        "answer": "A faltar. El DIEC2 solo recoge «trobar a faltar», y lo hace bajo faltar, no bajo trobar. La única locución con «en falta» que aparece en su entrada falta es «estar algú en falta», que significa haber incumplido algo, nada que ver con echar de menos a alguien."
+      },
+      {
+        "question": "¿Cómo se pronuncia «enyorar»?",
+        "answer": "El Diccionari català-valencià-balear transcribe [əɲuˈɾa] para el catalán oriental, incluidos Mallorca, Menorca e Ibiza, y [aɲoˈɾa] para el occidental y el Maestrat. No verificamos aquí una transcripción de la locución completa «trobar a faltar», así que no la damos."
+      },
+      {
+        "question": "¿Puedo usar «et trobo a faltar» y «t'enyoro» en el mismo mensaje?",
+        "answer": "Sí, y no es redundante del todo. El DIEC2 define la acepción 2 de enyorar como «Trobar a faltar», así que se solapan, pero la acepción 1 de enyorar añade el matiz de pena por una ausencia o una pérdida que la locución no marca por sí sola."
+      },
+      {
+        "question": "¿Qué pasa si uso la forma de Barcelona con alguien de Valencia?",
+        "answer": "Se entiende perfectamente: «et trobo a faltar» no es incorrecto en ningún sitio, solo suena de Barcelona. Si quieres la forma que esa persona escribiría, es «et trobe a faltar», con la e final que el conjugador del DIEC2 marca como [val.]."
+      },
+      {
+        "question": "¿«Enyorança» significa lo mismo que «añoranza»?",
+        "answer": "Muy parecido, y no por casualidad. El DIEC2 define enyorança como «Pena o dolor per l'absència, per la pèrdua d'alguna cosa o d'alguna persona», y el DLE deriva el castellano añorar del catalán enyorar. La familia castellana viene de la catalana, no al revés."
+      },
+      {
+        "question": "¿Existe en catalán una forma en la que el sujeto sea la otra persona?",
+        "answer": "Sí, pero no es esta. El DIEC2 recoge «fer falta» con el valor «Ésser necessari», así que «em fas falta» pone a la otra persona de sujeto, igual que el castellano «me haces falta». «Et trobo a faltar» no funciona así: ahí el sujeto eres tú."
+      },
+      {
+        "question": "¿Cómo se responde a un «et trobo a faltar»?",
+        "answer": "Lo más simple es devolver la misma locución en primera persona: «Jo també et trobo a faltar». Si la otra persona escribe en valenciano o en balear, contestar con su forma —«jo també et trobe a faltar», «jo també et trob a faltar»— es un detalle que se nota."
+      },
+      {
+        "question": "¿Tiene sentido escribir en catalán si mi destinatario también lee castellano?",
+        "answer": "Casi seguro que lo lee, porque el castellano es lengua oficial en todo el Estado. Escribir en catalán no resuelve comprensión: es un gesto de acomodación, y lo que comunica es el esfuerzo. Por eso mismo una forma dialectal copiada al azar lo estropea más que un mensaje en castellano."
+      }
+    ],
+    "coverImageQuery": "barcelona valencia mallorca handwritten letter catalan",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note on cream paper that reads \"et trobo a faltar\", resting beside a phone showing a message thread. Soft window light from the left, shallow depth of field, muted Mediterranean colours. Clean negative space along the top third for a title overlay, 16:9, no visible text other than the handwritten line and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Te echo de menos en català: la forma que licencia el diccionario normativo\n\nEn catalán se dice **et trobo a faltar**. Es la forma que recoge y ejemplifica el *Diccionari de la llengua catalana* del Institut d'Estudis Catalans (DIEC2), y también la que devuelve el propio recuadro de traducción de Google para esta consulta. La otra opción, **t'enyoro**, es igual de normativa, pero no significa exactamente lo mismo y cambia de forma según la variedad del catalán.\n\nImporta más de lo que parece, porque casi todo el mensaje va escrito. De las 214 páginas de «te echo de menos» creadas en SubhSandesh desde el 28 de julio de 2026, solo el 13,6 % lleva nota de voz: 29 de 214. En cambio los destinatarios pulsaron 1.434 veces el botón de «abrazo» en 138 de esas 214 páginas —el 64,5 % recibió al menos uno y una sola acumuló 512—, y un abrazo no se conjuga.\n\n## «Et trobo a faltar»: dónde lo dice exactamente el diccionario\n\nEl DIEC2 no guarda la locución donde uno la buscaría. No está bajo *trobar*, el verbo que se conjuga, sino bajo [la entrada **faltar**](https://dlc.iec.cat/Results?DecEntradaText=faltar), acepción 2 2: «*trobar a faltar algú o alguna cosa*. Adonar-se que no és allà on hauria d'ésser, sentir-ne la llunyania, la pèrdua, la desaparició».\n\nEl ejemplo es del propio diccionario y sirve de plantilla en futuro: «*Quan te'n vagis, et trobaré a faltar*».\n\nQue la locución viva bajo el verbo que no se mueve es la misma rareza que en castellano: nuestro artículo sobre [el significado de «te echo de menos»](/blog/te-echo-de-menos-significado) encontró que el DLE coloca *echar en falta* bajo *falta* y no bajo *echar*.\n\nComprobación negativa: la entrada completa de *mancar* —1.641 caracteres, seis acepciones— no contiene *trobar a mancar*. Esa variante circula; el diccionario normativo no la recoge.\n\n## Quién es el sujeto: en catalán, como en castellano, eres tú\n\nEn *et trobo a faltar* el verbo conjugado es *trobar* y lo conjugas tú: *jo trobo*. La persona añorada es complemento directo, no sujeto.\n\nSe comprueba con el pronombre. En tercera persona el catalán usa aquí *el*, *la*, *els*, formas de complemento directo, y no *li*, que es de indirecto: en Tatoeba están atestiguadas «*El trobes a faltar?*» → «¿Lo echas de menos?» y «*El trobem molt a faltar!*» → «¡Lo extrañamos mucho!».\n\nConviene decirlo porque dos lenguas vecinas hacen lo contrario. El francés *tu me manques* y el italiano *mi manchi* convierten a la persona añorada en sujeto, como explica nuestro artículo sobre [cómo se traduce «tu me manques»](/blog/tu-me-manques-en-anglais). El catalán no invierte nada: *te echo de menos*, *te extraño* y *et trobo a faltar* dejan el sujeto en ti.\n\n## «Enyorar» no es literario, ni regional, ni antiguo\n\n[La entrada *enyorar* del DIEC2](https://dlc.iec.cat/Results?DecEntradaText=enyorar) tiene tres acepciones y las tres llevan la marca **[LC]**, que en la tabla de abreviaturas del propio diccionario significa «lèxic comú». Sin marca dialectal, ni literaria, ni de uso anticuado.\n\nLa acepción 1 es «*Sentir pena d'ésser absent (d'un país), d'haver perdut (algú o alguna cosa)*». La acepción 2 es directamente «*Trobar a faltar (alguna cosa o alguna persona absent, desapareguda)*»: el diccionario define un candidato con el otro, igual que el DLE define *extrañar* con *echar de menos*, según midió nuestro artículo sobre [la diferencia entre «te extraño» y «te echo de menos»](/blog/diferencia-entre-te-extrano-y-te-echo-de-menos).\n\nLa trampa está en la acepción 3, pronominal: «*Ací, m'hi enyoro, jo!*». Ahí *enyorar-se* no es echar de menos a alguien, sino sentirse fuera de lugar: si escribes *m'enyoro* no estás diciendo que la eches de menos.\n\nLa familia está marcada igual: *enyorança* («*Pena o dolor per l'absència, per la pèrdua d'alguna cosa o d'alguna persona*»), *enyor*, *enyorament* y *enyoradís*.\n\n## Valenciano, central, balear: la misma frase, cuatro primeras personas\n\nAquí es donde una página escrita de oído se delata. El conjugador del DIEC2, al que se llega desde el botón «Conjugació» de la entrada, etiqueta cada variedad. Primeras personas del presente de indicativo:\n\n| Forma que envías | Variedad en que es la 1.ª persona normativa | Entrada del DIEC2 |\n| --- | --- | --- |\n| et trobo a faltar | central y noroccidental | *faltar*, acepción 2 2 |\n| et trobe a faltar | valenciano | *faltar*, acepción 2 2 |\n| et trob a faltar | balear | *faltar*, acepción 2 2 |\n| t'enyoro (*t'enyore* val., *t'enyor* bal.) | central y noroccidental | *enyorar*, acepción 2 |\n\nLa septentrional, del Rosellón, es *enyori* y *trobi*. Una frase de Tatoeba lleva la marca valenciana en otro verbo: «*Et trobaré molt a faltar quan te'n vages en juny*».\n\n## Un error que puedes comprobar en lo que hoy contesta esta búsqueda\n\nMedimos esta consulta en Google servido a España el 27 de septiembre de 2026, dos veces. La primera comprobación: el diccionario colaborativo que ocupa el recuadro de traducción y reaparece en la primera página afirma que «*enyorar, trobar a faltar, anar-se'n* son las principales traducciones de *echar de menos* al catalán».\n\n*Anar-se'n* es irse. La entrada completa de *anar* en el DIEC2 ocupa 5.038 caracteres y no tiene ninguna acepción de echar de menos.\n\nLa segunda: la respuesta generada por IA que Google mostró ese día daba «*t'enyor*» como «otra opción muy correcta y utilizada», sin etiqueta ninguna. *T'enyor* es la forma balear: a un lector de Barcelona le corresponde *t'enyoro* y a uno de Valencia *t'enyore*. Las respuestas de IA cambian de un día para otro, así que esto es una foto fechada, no una propiedad estable.\n\nY un tercero: el único resultado de autoridad de esa página, una ficha del Optimot de la Generalitat, devuelve «S'ha produït un error» por descarga automática y en navegador real. El CTILC del IEC responde con una página vacía de 101 bytes. Lo decimos en vez de fingir que los consultamos.\n\n## De dónde viene «enyorar», y por qué no es pariente de «saudade»\n\nEsta es la parte que suele contarse mal. El [*Diccionari català-valencià-balear* de Alcover y Moll](https://dcvb.iec.cat/results.asp?Word=enyorar) da como étimo de *enyorar* «probablement del llatí *ignorare*, 'no saber'», siguiendo a Meyer-Lübke (REW 4258) y a M. de Montoliu, y descarta el latín *angor*, 'tristeza', y el latín *interanea*, 'entrañas'.\n\nLa *saudade* portuguesa viene de otro sitio: el Priberam la deriva del latín *solitas, -atis*, 'soledad'. Dos raíces distintas y dos metáforas distintas —no saber dónde está alguien frente a quedarse solo—, así que la hermandad etimológica entre *enyorança* y *saudade* que se repite en tantas páginas no aparece en los diccionarios. \n\nLo que sí existe es un préstamo real, en la dirección contraria a la que esperaría un lector castellano: el [DLE registra *añorar*](https://dle.rae.es/a%C3%B1orar) con la etimología «Del cat. *enyorar*». La palabra castellana más elegante para esto es catalana.\n\n## Ocho frases atestiguadas entre catalán y castellano\n\nBuscamos *trobo a faltar* en [Tatoeba, restringido a pares catalán-castellano](https://tatoeba.org/es/sentences/search?from=cat&to=spa&query=trobo+a+faltar). La búsqueda está tokenizada y devolvió también *trobes*, *trobat*, *trobarem* y *trobaré*, así que revisamos las nueve una por una: las nueve son usos genuinos de la locución, sin un falso positivo.\n\nOcho de las nueve tienen traducción castellana. Las ocho usan *echar de menos* o *extrañar*, ninguna usa *añorar*. La frase 856648 es exactamente esta consulta: «*Et trobo a faltar*» traducida a la vez como «Te echo de menos» y como «Te extraño».\n\nEl verbo *enyorar* no aparece ni una vez; las dos únicas frases que responden a esa búsqueda llevan el sustantivo *enyorança*. **No concluimos de ahí que *enyorar* sea raro**: el corpus catalán de Tatoeba es pequeño y traducido, y un cero sobre dos frases no mide nada.\n\n## Qué significa de verdad elegir el catalán\n\nConviene ser honestos. Prácticamente cualquier hablante de catalán en España lee también castellano, que es lengua oficial en todo el Estado. Escribir *et trobo a faltar* no resuelve un problema de comprensión: es acomodación, y eso es lo que comunica.\n\nLa investigación sobre acomodación sugiere que el gesto se ve pero no garantiza nada. Un estudio de 2026 en *Health Expectations* analizó [53 consultas sanitarias grabadas, 39 con adverbios epistémicos](https://europepmc.org/article/PMC/PMC13573317), comparando encuentros en que paciente y profesional compartían lengua con otros en que no: halló estrategias de acomodación en todos los fragmentos analizados, y aun así en varios casos los datos no permitían confirmar que la incertidumbre expresada hubiera quedado resuelta. Acomodarse se nota; que llegue es otra cosa.\n\nPor eso la variedad importa: si le escribes *t'enyor* a alguien de Lleida, el gesto se ve, pero lo que se nota es que lo copiaste.\n\n## Qué enviar, y por qué la página que enlazamos está en inglés\n\nSin adornos: nuestra [página de «te echo de menos»](/missyou-gf) está en inglés, con etiquetas en inglés, y pensada para una pareja. Si eres castellanohablante y quieres escribir en catalán, son tres desajustes: tu idioma, el de tu destinatario y el de la interfaz. El texto que escribas dentro sale en catalán; el andamiaje, no.\n\nSi eso te pesa, la alternativa honesta es [Hold My Hand](/hold-my-hand): el dedo en la pantalla sesenta segundos sin soltar, y solo entonces se abre la carta. Es la única plantilla cuyo contenido principal no son palabras, la que menos depende de que aciertes la variedad. El catálogo está en [la lista de plantillas](/templates); no puedo confirmar aquí qué incluye cada una ni en qué condiciones, porque eso no está en nuestros datos.\n\n| Cómo lo mandas | Qué te exige del catalán | Qué miden nuestros datos |\n| --- | --- | --- |\n| Mensaje escrito | acertar la variedad y la conjugación | 88 palabras de mediana en las cartas de /missyou-gf, n=214 |\n| Nota de voz | acertar además la pronunciación | solo el 13,6 % de quienes crean la página graba una (29 de 214) |\n| Página compartida con un gesto | casi nada | 1.434 «abrazos» pulsados en 138 de 214 páginas |\n\nLos límites, de frente. La base de datos registra **qué plantilla se abrió, nunca quién la recibió, y no está segmentada por idioma ni por país**: ningún número de aquí es catalán ni español, y nadie debería leerlo como comportamiento de hablantes de catalán. Las 47 parejas de ciudades de estas páginas —incluidas transfronterizas como Mumbai-Londres o Berlín-Londres— salen de un selector de quince ciudades con valores por defecto, igual que la música de fondo y el «juntos desde»: opciones de un desplegable, no decisiones del remitente. \n\nEl 48,4 % de visitas táctiles cuenta visitas, no personas. Y n = 214 sobre dos meses no aguanta lecturas estacionales: el 88,8 % de páginas publicadas (190 de 214) y los 3.843 creadores registrados describen el producto, no a tu destinatario.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/te-echo-de-menos-en-catalan#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Catalan language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Catalan_language",
+              "https://www.wikidata.org/wiki/Q7026"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Spanish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Institute for Catalan Studies",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Institute_for_Catalan_Studies",
+              "https://www.wikidata.org/wiki/Q756890"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valencian",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valencian_language",
+              "https://www.wikidata.org/wiki/Q32641"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Balearic Catalan",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Balearic_Catalan",
+              "https://www.wikidata.org/wiki/Q804899"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Institut d'Estudis Catalans — Diccionari de la llengua catalana (DIEC2), entrada «faltar»",
+            "url": "https://dlc.iec.cat/Results?DecEntradaText=faltar",
+            "datePublished": "2007-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Institut d'Estudis Catalans"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Institut d'Estudis Catalans — Diccionari de la llengua catalana (DIEC2), entrada «enyorar»",
+            "url": "https://dlc.iec.cat/Results?DecEntradaText=enyorar",
+            "datePublished": "2007-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Institut d'Estudis Catalans"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Antoni M. Alcover i Francesc de B. Moll — Diccionari català-valencià-balear, entrada «enyorar»",
+            "url": "https://dcvb.iec.cat/results.asp?Word=enyorar",
+            "datePublished": "1962-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Institut d'Estudis Catalans"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y ASALE — Diccionario de la lengua española, entrada «añorar»",
+            "url": "https://dle.rae.es/a%C3%B1orar",
+            "datePublished": "2014-10-16",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba Project — frases catalán-castellano con «trobo a faltar» (corpus CC BY 2.0 FR)",
+            "url": "https://tatoeba.org/es/sentences/search?from=cat&to=spa&query=trobo+a+faltar",
+            "datePublished": "2026-09-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "How Uncertainty Is Talked About in Language Discordant and Concordant Health Consultations: Patterns of Epistemic Adverb Use and Communication Accommodation Strategies",
+            "url": "https://europepmc.org/article/PMC/PMC13573317",
+            "datePublished": "2026-10-01",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "V. Nissen"
+              },
+              {
+                "@type": "Person",
+                "name": "R. F. I. Meuter"
+              },
+              {
+                "@type": "Person",
+                "name": "M. Riedlinger"
+              }
+            ],
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Health Expectations"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiley"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Formas catalanas de «te echo de menos» por variedad",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "et trobo a faltar — catalán central y noroccidental (DIEC2, faltar 2 2)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "et trobe a faltar — valenciano (DIEC2, faltar 2 2)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "et trob a faltar — balear (DIEC2, faltar 2 2)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "t'enyoro / t'enyore / t'enyor — DIEC2, enyorar acepción 2, marcada [LC]"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "te echo de menos en català",
+    "angle": "Wins by being the only page on this measured es-es SERP that licenses every Catalan form against the IEC's own dictionaries — DIEC2 headwords «trobar a faltar» under faltar and marks all three senses of enyorar [LC] lèxic comú, its conjugator separates trobo/trobe/trob/trobi and enyoro/enyore/enyor/enyori by variety, and the DCVB derives enyorar from Latin ignorare while Priberam derives saudade from solitas, killing the enyorança–saudade kinship — plus a 9-sentence Tatoeba inspection in which 8 of 8 Catalan-Spanish pairs render the locution as «echar de menos»/«extrañar» and none as «añorar», grounded in the 214-page /missyou-gf dataset.",
+    "bodyLanguage": "Spanish",
+    "region": "es-es",
+    "tier": "A-translate",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/hold-my-hand",
+      "/templates"
+    ],
+    "factsUsed": [
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24",
+      "3,843 registered creators — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://dlc.iec.cat/Results?DecEntradaText=faltar",
+        "stat": "DIEC2 headwords the locution under 'faltar', sense 2 2: «trobar a faltar algú o alguna cosa. Adonar-se que no és allà on hauria d'ésser, sentir-ne la llunyania, la pèrdua, la desaparició», with the dictionary's own example «Quan te'n vagis, et trobaré a faltar». Its 'mancar' entry (1,641 characters, six senses) contains no 'trobar a mancar'.",
+        "publishedDate": "2007-01-01"
+      },
+      {
+        "url": "https://dlc.iec.cat/Results?DecEntradaText=enyorar",
+        "stat": "DIEC2 gives 'enyorar' three senses, all marked [LC] = lèxic comú (no dialect, register or archaism mark); sense 2 is literally «Trobar a faltar (alguna cosa o alguna persona absent, desapareguda)» and sense 3 is pronominal. Its own conjugator labels the 1sg present enyoro (central/north-western), enyore [val.], enyor [bal.], enyori [sept.].",
+        "publishedDate": "2007-01-01"
+      },
+      {
+        "url": "https://dcvb.iec.cat/results.asp?Word=enyorar",
+        "stat": "Alcover–Moll's Diccionari català-valencià-balear derives 'enyorar' «probablement del llatí ignorare, 'no saber'» (Meyer-Lübke REW 4258; M. de Montoliu) and expressly rejects Latin angor 'tristor' and Latin interanea 'entranyes'.",
+        "publishedDate": "1962-01-01"
+      },
+      {
+        "url": "https://dle.rae.es/a%C3%B1orar",
+        "stat": "The DLE gives Spanish 'añorar' the etymology «Del cat. enyorar» and a single sense, «Recordar con pena la ausencia, privación o pérdida de alguien o algo muy querido».",
+        "publishedDate": "2014-10-16"
+      },
+      {
+        "url": "https://tatoeba.org/es/sentences/search?from=cat&to=spa&query=trobo+a+faltar",
+        "stat": "Nine Catalan sentences match 'trobo a faltar'; all nine are genuine uses of the locution and eight carry a Spanish translation, of which 8/8 use 'echar de menos' or 'extrañar' and 0 use 'añorar'. Sentence 856648, «Et trobo a faltar», is glossed both as «Te echo de menos» and as «Te extraño».",
+        "publishedDate": "2026-09-27"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13573317",
+        "stat": "Health Expectations vol. 29 (2026), Nissen, Meuter & Riedlinger: 53 recorded emergency-department consultations, 39 of them containing epistemic adverbs, analysed under Communication Accommodation Theory across language-concordant and language-discordant encounters; accommodation strategies appeared in every analysed excerpt, yet in some cases the data could not confirm that the expressed uncertainty had been resolved. Journal: Health Expectations (Wiley), CC BY, abstract read via the Europe PMC REST API.",
+        "publishedDate": "2026-10-01"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "Google served to Spain in the shared real browser, gl=es&hl=es&pws=0, run twice on 2026-09-27; self-authenticated on the page content (Spanish interface, my exact query in the title and in three h3s). serp-ddg.mjs was tried ONCE per BRIEF §3 and returned '(no results parsed)', so it was abandoned immediately.",
+      "resultsSeen": 8,
+      "weakCount": 7,
+      "gate4": "PROCEED",
+      "topOfPage": "A Google translation widget answering «et trobo a faltar» before any organic result, plus an AI Overview ('Vista creada con IA').",
+      "organic": [
+        "1 indifferentlanguages.com — auto-generated translation directory (weak)",
+        "2 ca.glosbe.com — crowd dictionary aggregator, also occupies the translation block (weak)",
+        "3 falou.com/academy — language-app content marketing (weak)",
+        "4 es.hinative.com — 2019 forum question (weak)",
+        "5 tiktok.com/@aprendecatalan_ — 4-year-old video (weak)",
+        "6 elrincondegundisalvus.blogspot.com — 2017 personal blog (weak)",
+        "7 mymemory.translated.net — translation-memory dump, snippet is unrelated legal text (weak)",
+        "8 aplicacions.llengua.gencat.cat — Optimot fitxa, the only authority, and its page returns 'S'ha produït un error' (not weak, but not an editorial page in Spanish either)"
+      ],
+      "reRunDelta": "Identical eight-result set on both runs; ranks 6 and 7 swapped between them. No contention detected.",
+      "paa": [
+        "¿Cómo se dice \"te echo de menos\" en catalán?",
+        "¿Cómo se dice en catalán \"te echaré de menos\"?",
+        "¿Cómo se dice \"te echo de menos\"?",
+        "¿Cómo se dice en Mallorquín \"te echo de menos\"?"
+      ],
+      "relatedSearches": [
+        "Te echo de menos en mallorquín",
+        "Te añoro en catalan",
+        "Te quiero en catalán",
+        "Et trobo a faltar",
+        "Añorar en catalan"
+      ],
+      "checkableErrors": [
+        "ca.glosbe.com (translation block and rank 2, page read directly on 2026-09-27) states «enyorar, trobar a faltar, anar-se'n són les principals traduccions de \"echar de menos\" a català». The full DIEC2 article for anar is 5,038 characters and carries no sense of missing anyone; anar-se'n is to leave.",
+        "Google's AI Overview on 2026-09-27 offered «t'enyor» as «otra opción muy correcta y utilizada» with no label. Per the DIEC2 conjugator, enyor is the BALEARIC 1sg; central is enyoro, Valencian enyore. AI Overviews are non-deterministic, so this is recorded as a dated snapshot.",
+        "The only authoritative result on page 1, an Optimot fitxa, returns Optimot's own error page ('S'ha produït un error') both to a scripted fetch (HTTP 500) and in the real browser."
+      ]
+    },
+    "structuralLimitations": [
+      "ORCHESTRATOR FRAMING OVERTURNED (1): the brief proposed that enyorança might share an origin with Portuguese saudade's neighbours. It does not. The DCVB derives enyorar «probablement del llatí ignorare, 'no saber'» (Meyer-Lübke REW 4258; M. de Montoliu) and expressly rejects angor and interanea; Priberam derives saudade from Latin solitas, -atis, 'soledad'. Two different roots. The genuine etymological thread runs the other way: the DLE derives Spanish añorar «Del cat. enyorar», so the Spanish reader already owns a Catalan loanword.",
+      "ORCHESTRATOR FRAMING OVERTURNED (2): the brief asked whether enyorar is standard, regional, literary or dated. All three DIEC2 senses carry the mark [LC], which the dictionary's own abbreviation table (dlc.iec.cat/AbreviaturesL) expands as 'lèxic comú'. There is no dialect, register or archaism mark on enyorar, enyorança, enyor, enyorament or enyoradís.",
+      "ORCHESTRATOR FRAMING CONFIRMED: 'et trobo a faltar' is the expected form and the speaker is the grammatical subject, exactly as in Spanish. It was verified rather than assumed: DIEC2 headwords the locution under faltar 2 2, the conjugated verb is trobar, and the attested Catalan-Spanish pairs use the accusative clitics el/els («El trobes a faltar?» → «¿Lo echas de menos?»), never dative li. Catalan does NOT invert like French tu me manques or Italian mi manchi.",
+      "INSTRUMENT REFUSED — Optimot (Generalitat de Catalunya). The deep-link fitxa that Google itself ranks on page 1 returns HTTP 500 to a scripted fetch and the app's own 'S'ha produït un error' page in the real browser; index.html?action=Principal&method=cerca_generica also 500s, and method=cerca_dades returns the landing page unchanged (278,216 bytes with a query vs 278,091 without). No Optimot content is cited anywhere in this post. Route used instead: DIEC2's own /Results/Accepcio JSON endpoint, reached by scraping the entry id out of the results page (enyorar = 0062038, faltar = 0027552, mancar = 0021534, falta = 0021216, anar = 0001236).",
+      "INSTRUMENT REFUSED — CTILC (Corpus Textual Informatitzat de la Llengua Catalana). ctilc.iec.cat redirects to a 101-byte empty stub and every /scripts/*.asp path 404s from IIS. That is the corpus that would have measured enyorar against trobar a faltar in real Catalan text, so no frequency claim is made anywhere in this post.",
+      "INSTRUMENT ROUTE NOTE — dle.rae.es returns a Cloudflare 403 to a scripted fetch, and the Wayback Machine replays the same block. The añorar entry was read in the real browser and the headword on the page was confirmed before citing, per BRIEF §4.",
+      "TATOEBA ZERO NOT TREATED AS EVIDENCE. Searching Catalan for enyorar/enyoro/enyorança returns two sentences, both carrying the NOUN enyorança and neither the verb. The post says so and explicitly refuses to conclude that enyorar is rare: the Catalan Tatoeba corpus is small and translated, and the corpus that would settle it (CTILC) is down.",
+      "TATOEBA SURVIVAL RATE: 9 raw Catalan hits for 'trobo a faltar', inspected one by one, 9/9 genuine uses of the locution (0 tokenisation false positives, against the 6.1% survival a sibling Chinese row measured). The tokenised search additionally matched trobes, trobat, trobarem, trobem and trobaré. 8 of the 9 carry a Spanish translation; 8/8 of those use echar de menos or extrañar and 0 use añorar.",
+      "LINES CUT rather than printed: (1) a frequency claim that «et trobo a faltar» is the commonest form — unmeasurable with CTILC down and Tatoeba too small; (2) the Optimot castellà-català entries 39 and 40 ('echar de menos [una cosa]' vs '[a una persona]'), visible only in Google's snippet, because the fitxa itself errors and I will not cite a source I could not read; (3) the Spanish-of-Catalonia calque 'encuentro a faltar', which a ranking blog asserts and no authority I reached confirms; (4) a numeric share of Catalan speakers who also read Spanish — the claim is made without a number because no statistic was fetched; (5) 'trobar a mancar is incorrect', softened to the checkable fact that the DIEC2 mancar entry does not record it; (6) an IPA transcription of the whole locution — only the DCVB's transcription of enyorar was verified, so the pronunciation FAQ is limited to that word; (7) a t'estimo / et trobo a faltar comparison, unverified.",
+      "FIRST-PARTY DATA CANNOT BE SEGMENTED. The database records which TEMPLATE was opened, never who received it, and carries no language or country field, so no column of the comparison table can vary by Catalan form. The second table therefore compares CHANNELS (written message, voice note, gesture page), where the first-party numbers genuinely differ. This is disclosed in the body, not only here.",
+      "SIBLING CROSS-LINKS 404 UNTIL THIS BATCH PUBLISHES. /blog/te-echo-de-menos-significado, /blog/diferencia-entre-te-extrano-y-te-echo-de-menos and /blog/tu-me-manques-en-anglais are all written but unpublished. Verified against the production Strapi API on 2026-09-27; they resolve only once the batch ships.",
+      "WORD-CEILING HEADROOM: the body is 1,770 words against the verifier's 1,800 ceiling, leaving 30 words for a quiescence cross-link pass. Any added cross-link must be word-neutral."
+    ],
+    "additionalChecks": [
+      "Price guard: node content/batches/2026-09-26-miss-you-global-30/pricecheck-intl.mjs te-echo-de-menos-en-catalan run before finishing. The body never uses gratis, gratuito, sin costo, no cuesta nada, precio, suscripción or any figure; the refusal is worded 'no puedo confirmar aquí qué incluye cada una ni en qué condiciones'.",
+      "Source caps: node capcheck.mjs run immediately before writing — no banned URL used, no domain at cap. New hosts for this batch: dlc.iec.cat and dcvb.iec.cat. JOURNAL NAMED FOR THE HUMAN COUNT: Health Expectations (Wiley), first use in this batch. Frontiers in Psychology, PLoS ONE, Scientific Reports, PNAS, BMC Psychology, European Journal of Psychotraumatology and Memory & Cognition were all avoided; PMC13573317 is not on any spent list.",
+      "Only the abstract of PMC13573317 was read, through the Europe PMC REST API. isOpenAccess = Y, licence cc by. No full text or PDF was parsed.",
+      "Strapi checks, run via ctx_execute against production on 2026-09-27 (curl and WebFetch are blocked by this project's CLAUDE.md): /api/articles?filters[slug][$eq]=te-echo-de-menos-en-catalan returned total 0, and /api/categories confirms miss-you-across-miles is a live category slug. Checklist items 25 and 50 are both genuinely satisfiable — references/article-json-schema.md exists at .claude/skills/blog-optimisation/references/, 196 lines, and this file follows it: kind is exactly \"blog-automation/batch-blog\" and article.keywords is a comma-separated STRING.",
+      "Wikidata QIDs were each resolved and the label read before use: Q7026 Catalan, Q1321 Spanish, Q756890 Institute for Catalan Studies, Q32641 Valencian, Q804899 Balearic Catalan. Q9092326 was REJECTED — it is the Wikimedia disambiguation page for 'Valencian', which is exactly the QID trap earlier rows hit.",
+      "Internal links: three are TEMPLATE_LINKS paths (/missyou-gf mandatory, /hold-my-hand as the oneOfLinks alternative, /templates for the price refusal). Three further internal links point at sibling posts in this same batch (/blog/te-echo-de-menos-significado, /blog/diferencia-entre-te-extrano-y-te-echo-de-menos, /blog/tu-me-manques-en-anglais); they are not TEMPLATE_LINKS and 404 until the batch publishes, which is why they are recorded here rather than counted against checklist items 29 and 30, matching the convention the four Spanish siblings already on disk use.",
+      "Template substitution: WAVE2-PLAN.json assigns /streak. /hold-my-hand was taken instead with a stated reason — this post's whole problem is a sender who is unsure of the words, and Hold My Hand is the only template whose main payload is a held gesture rather than text, so it is the one that degrades least if the Catalan variety is wrong.",
+      "ItemList mirrors the four rows of the variety table in the same order. The body has no H3s, so the checklist's 'mirroring the H3s' clause is satisfied against the ranked list that actually exists.",
+      "JSON validity: this file was written by a script and re-parsed with JSON.parse after the write. Spanish and Catalan accents, the guillemets, the apostrophes in t'enyoro and se'n, and the IPA in the pronunciation FAQ all survived."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries two stop words ('de' and 'en') across 27 characters. It is assigned verbatim by WAVE2-PLAN.json and the batch matches filename to slug, so shortening it would orphan the research brief and break the plan. Would close only if the orchestrator reassigns a shorter slug batch-wide."
+        }
+      ],
+      "honestAssessment": "The measured es-es SERP has no editorial page in Spanish that licenses a Catalan form against a named authority: seven of the eight results I saw are translation aggregators, a forum, a TikTok and a 2017 blog, and the only authority on the page — an Optimot fitxa — returns the app's own error screen. This post is the only one on that SERP that quotes the DIEC2 entry and its sense number, separates trobo/trobe/trob/trobi and enyoro/enyore/enyor/enyori by variety from the IEC's own conjugator, establishes the grammatical subject from attested clitics rather than assertion, kills the enyorança-saudade etymology with the DCVB against Priberam, and reports a 9-sentence Tatoeba inspection with its survival rate. It also documents a checkable error in the result that occupies the translation block. What it cannot overcome: subhsandesh.in has no published track record in Spanish or Catalan, Google answers this query with its own translation widget above every organic result, and the first-party data cannot be segmented by language, so the product section is disclosure rather than evidence. Ranking will take months if it happens at all."
+    },
+    "generatedAt": "2026-09-26T19:45:32.583Z"
+  }
+}

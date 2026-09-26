@@ -1,0 +1,367 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Aku Rindu Kamu Bahasa Mandarin: 我想你 — dan Kapan Kalimat Itu Berarti \"Aku Mau Kamu…\"",
+    "slug": "aku-rindu-kamu-bahasa-mandarin",
+    "excerpt": "Aku rindu kamu bahasa Mandarin adalah 我想你 — tapi hanya kalau kalimat berhenti di 你. Dari 221 kalimat korpus Tatoeba, 我想 dibaca \"ingin\" 66 kali. Plus: kangen dan rindu jatuh ke empat kalimat Mandarin yang sama persis, dan satu kesalahan yang bisa dicek di hasil peringkat satu.",
+    "metaTitle": "Aku Rindu Kamu Bahasa Mandarin — 我想你 dan Aturan Klausa",
+    "metaDescription": "Aku rindu kamu bahasa Mandarin: 我想你, tapi hanya bila kalimat berhenti tepat di 你. Dari 221 kalimat korpus Tatoeba, 我想 dibaca \"ingin\" 66 kali, bukan rindu.",
+    "keywords": "aku rindu kamu bahasa mandarin, wo xiang ni artinya, 我想你, rindu dalam bahasa mandarin, kangen bahasa mandarin, 我想念你",
+    "canonicalURL": "https://subhsandesh.in/blog/aku-rindu-kamu-bahasa-mandarin",
+    "ogType": "article",
+    "tags": [
+      "bahasa mandarin",
+      "rindu",
+      "kangen",
+      "pinyin",
+      "hubungan jarak jauh"
+    ],
+    "keyTakeaways": [
+      "我想你 (wǒ xiǎng nǐ) berarti \"aku rindu kamu\" HANYA ketika 你 adalah kata terakhir: dari 221 kalimat Mandarin berpasangan Indonesia di Tatoeba, dua yang berhenti di 你 dibaca rindu dan dua yang berlanjut dibaca \"ingin\" dan \"pikir\".",
+      "Belahan kangen/rindu tidak selamat ke bahasa Mandarin: \"Aku kangen kamu.\", \"Aku rindu kamu.\" dan \"Saya rindu Anda.\" membawa himpunan empat terjemahan Mandarin yang identik.",
+      "我想 diikuti apa pun selain 你 diterjemahkan \"ingin\" atau \"mau\" 66 kali dari 77 kalimat yang punya padanan Indonesia — bacaan bakunya bukan rindu.",
+      "Tanpa tanda nada, wo xiang ni bertabrakan dengan 我像你 (\"aku mirip kamu\"), karena 想 nada ketiga dan 像 nada keempat.",
+      "Nilai tengah panjang surat di 214 halaman miss-you kami adalah 88 kata, yang terpanjang 1.024 kata — satu kalimat Mandarin tidak perlu memikul semuanya."
+    ],
+    "faqs": [
+      {
+        "question": "Apakah saya perlu menambahkan 了 di belakang 我想你?",
+        "answer": "Tidak wajib. Dua kalimat yang benar-benar terpasang ke bahasa Indonesia di Tatoeba — 我想你。 dan 我很想你。 — keduanya tanpa 了. Satu-satunya kalimat ber-了 di himpunan 221 kalimat yang saya hitung adalah 汤姆想念波士顿了, yang diterjemahkan lurus \"Tom merindukan Boston\". Banyak halaman menjelaskan 了 sebagai penanda perubahan keadaan; saya tidak memverifikasi klaim itu ke entri kamus mana pun, jadi saya tidak mengulanginya di sini."
+      },
+      {
+        "question": "Bagaimana menanyakan balik \"apakah kamu juga rindu aku?\"",
+        "answer": "Bentuk cerminnya 你想我吗? (nǐ xiǎng wǒ ma?), dan ia mengikuti pola yang sama: kata gantinya jatuh di akhir sebelum partikel tanya. Catatan jujur — himpunan 221 kalimat Mandarin berpasangan Indonesia yang saya hitung tidak memuat satu pun kalimat 你想我, jadi ini kesimpulan dari aturan posisi klausa, bukan sesuatu yang saya lihat langsung terjemahannya di korpus."
+      },
+      {
+        "question": "Apa bedanya 想念 dan 挂念?",
+        "answer": "漢典 memberi 挂念 (guà niàn) gloss 想念;牵挂 dan 国语辞典-nya 心中系念 — rindu yang bercampur cemas, \"tidak tenang\" soal orang itu. 想念 tidak membawa muatan itu. Kalau yang kamu rasakan sekadar ingin bertemu, 想念 lebih tepat; 挂念 lebih pas untuk orang yang kamu khawatirkan keadaannya."
+      },
+      {
+        "question": "Bolehkah saya mengirim pinyin saja tanpa aksara Han?",
+        "answer": "Bisa, tapi kamu membuang informasi. Tanpa tanda nada, wo xiang ni bisa terbaca 我想你 (rindu), 我像你 (mirip kamu) atau mengarah ke 向 (menghadap). Aksara Han tidak pernah ambigu, jadi cara paling aman adalah menulis 我想你 dan menaruh pinyin di kurung."
+      },
+      {
+        "question": "Apakah bahasa Mandarin punya kata rindu yang \"tidak baku\" seperti kangen?",
+        "answer": "Entri 漢典 yang saya baca untuk 想念, 思念, 挂念 dan 怀念 tidak memuat label ragam yang sebanding dengan label `cak` yang KBBI pasang pada kangen. Yang membedakan pilihan Mandarin adalah intensitas, jarak waktu dan posisi dalam klausa — bukan baku lawan percakapan."
+      },
+      {
+        "question": "Bagaimana menulis \"aku sangat merindukanmu\"?",
+        "answer": "我非常想你 (wǒ fēi cháng xiǎng nǐ) atau 我真的很想你 (wǒ zhēn de hěn xiǎng nǐ). Keduanya menempelkan keterangan derajat sebelum 想, dan keterangan derajat inilah yang mengunci bacaan \"rindu\" — di korpus, 想 yang didahului 很 atau 非常 tidak pernah terbaca \"ingin\"."
+      },
+      {
+        "question": "Apakah 我想你 sama dengan 我爱你?",
+        "answer": "Tidak, dan ini keliru yang benar-benar beredar: salah satu hasil peringkat sepuluh di Google Indonesia memuat 我想你 di dalam daftar \"cara mengatakan aku cinta kamu\". Tidak ada satu pun makna \"cinta\" di entri 想 pada kamus mana pun yang saya buka. 我爱你 adalah kalimat yang lain dan jauh lebih berat."
+      },
+      {
+        "question": "Kalau saya sudah terlanjur mengirim 我怀念你, apa yang terjadi?",
+        "answer": "Kemungkinan besar penerimanya mengerti maksudmu dan menganggapnya lucu. Tapi 漢典 memberi 怀念 makna kedua \"kenangan atas orang, benda dan peristiwa yang sudah lewat\", dengan terjemahan \"to cherish the memory of… reminisce\", jadi kalimat itu memang terdengar seperti mengenang orang yang tidak ada lagi. Susulan 我想你 sudah cukup membereskannya."
+      },
+      {
+        "question": "Kode bahasa apa yang saya pakai untuk mencari sendiri di Tatoeba?",
+        "answer": "ind untuk bahasa Indonesia dan cmn untuk Mandarin — itulah kode yang diterima API Tatoeba dan yang saya pakai untuk semua hitungan di artikel ini. Pasangan ind↔cmn tipis: seluruh keluarga rindu hanya menghasilkan 10 kalimat, dan kangen satu kalimat. Tipis bukan berarti kosong, tapi jangan berharap ratusan contoh."
+      },
+      {
+        "question": "Kalau penerimanya bukan pacar, apakah 我想你 tetap aman?",
+        "answer": "Bahasa Mandarin tidak menandai penerima di dalam kata kerjanya seperti bahasa Jawa menandai lawan bicara lewat tingkat tutur. 我想你 dipakai ke teman, keluarga maupun pasangan; yang mengubah suhunya adalah keterangan derajat dan panjang pesannya, bukan kata kerjanya. Untuk orang tua atau guru, 我想念你 terdengar lebih hangat dan lebih sopan tanpa terasa merayu."
+      }
+    ],
+    "coverImageQuery": "chinese characters handwritten note phone indonesia",
+    "coverImagePrompt": "A close, photorealistic shot of a phone screen resting on a wooden desk, showing a short chat message with the Chinese characters 我想你 typed into it, an Indonesian keyboard layout visible below. Warm evening lamp light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Aku Rindu Kamu Bahasa Mandarin: 我想你 — dan Kapan Kalimat Itu Berarti \"Aku Mau Kamu…\"\n\nAku rindu kamu bahasa Mandarin, jawaban singkatnya: **我想你** (wǒ xiǎng nǐ) — tapi hanya kalau kalimatmu berhenti tepat di situ. Kalau lebih berat: **我很想你** (wǒ hěn xiǎng nǐ). Untuk orang yang sudah lama tidak kamu temui: **我想念你** (wǒ xiǎng niàn nǐ).\n\nSatu aturan tidak disebut oleh satu pun dari sembilan hasil yang saya ukur di Google Indonesia: begitu kalimat berlanjut melewati 你, artinya berubah menjadi \"aku mau kamu…\" atau \"aku pikir kamu…\". Bukan rindu.\n\nUkuran yang wajar, dari data kami sendiri: 214 halaman \"I miss you\" dibuat di /missyou-gf sejak 28 Juli 2026, 4,1% dari 5.221 halaman di 44 koleksi (diukur 25 September 2026). Nilai tengah panjang suratnya **88 kata**, yang terpanjang 1.024 kata, n=214 (diukur 25 September 2026). Satu kalimat Mandarin tidak perlu memikul semuanya.\n\n## Korpus mencatat: *kangen* dan *rindu* jatuh ke kalimat Mandarin yang sama persis\n\nBahasa Indonesia membelah ruang ini berdasarkan **ragam**. KBBI memberi [`kangen` label `cak`](https://kbbi.web.id/kangen) — bentuk percakapan, tidak baku — dan mendefinisikannya justru dengan kata lain: *\"ingin sekali bertemu; rindu\"*. [Entri `rindu` sendiri tidak berlabel sama sekali](https://kbbi.web.id/rindu), punya dua makna, dan menurunkan lima kata (merindu, merindukan, rinduan, perindu, kerinduan) melawan dua milik `kangen`.\n\nPertanyaannya: apakah belahan itu selamat ketika dipindah ke bahasa Mandarin? Saya hitung di [Tatoeba, korpus kalimat berpasangan yang bisa kamu cek sendiri](https://tatoeba.org/en/api_v0/search?from=ind&to=cmn&query=rindu).\n\nJawabannya tidak. Kalimat **#902834 \"Aku kangen kamu.\"**, **#3807609 \"Aku rindu kamu.\"** dan **#902837 \"Saya rindu Anda.\"** membawa **himpunan terjemahan Mandarin yang identik**: 我很想你。/ 我好想念你。/ 我想你。/ 我想念你。 Tiga tingkat keakraban yang berbeda dalam bahasa Indonesia — kasual, netral, hormat — dipetakan ke empat kalimat Mandarin yang sama.\n\nJadi pilihan Mandarin-mu tidak dibelah oleh **ragam**. Ia dibelah oleh **intensitas** (很, 非常), oleh **jarak waktu** (想念), dan yang paling penting oleh **posisi dalam klausa**. Kalau kamu mencari padanan satu-lawan-satu untuk *kangen* versus *rindu*, padanan itu tidak ada.\n\n## Apa pun setelah 你, kalimatmu berubah jadi \"aku mau kamu…\"\n\nIni bagian yang paling mahal kalau salah, dan saya memverifikasinya sendiri di pasangan Indonesia–Mandarin, bukan mengutip.\n\nSaya ambil seluruh 221 kalimat Mandarin di Tatoeba yang mengandung 想 dan punya terjemahan Indonesia. Empat di antaranya berbentuk 我(…)想你:\n\n- **我想你。** → \"Aku kangen kamu.\" / \"Aku rindu kamu.\" / \"Saya rindu Anda.\" — **rindu**\n- **我很想你。** → keempat kalimat yang sama — **rindu**\n- **我想你讀一讀這本書。** → \"Saya ingin kamu baca buku ini.\" — **mau**, bukan rindu\n- **我想你的答案是對的。** → \"Aku pikir jawabanmu benar.\" — **pikir**, bukan rindu\n\nDua dari dua yang berhenti di 你 dibaca rindu. Nol dari dua yang berlanjut dibaca rindu. Tanpa kecualian.\n\nYang keempat jebakan halus: di situ 你 bukan objek, melainkan pemilik — 你的答案, \"jawabanmu\". Huruf sama, peran lain.\n\nBesarnya risiko: di seluruh 221 kalimat itu, 我想 diikuti apa pun selain 你 diterjemahkan **ingin atau mau sebanyak 66 kali**, pikir atau kira 3 kali, sisanya 8. Bacaan baku dari 我想 dalam bahasa Indonesia adalah *ingin*. Rindu adalah pengecualiannya, dan pengecualian itu hanya berlaku ketika 你 adalah kata terakhir.\n\n## 我想你, 我很想你, atau 我想念你 — mana yang dikirim\n\n| Bentuk | Nada rasa | Kapan dipakai | Bukti entri/korpus | Pembanding data kami |\n|---|---|---|---|---|\n| 我想你 (wǒ xiǎng nǐ) | netral, sehari-hari | pesan biasa, jarak pendek | 4 terjemahan Tatoeba, semuanya \"rindu/kangen\" | pesan sependek ini muat di 88 kata nilai tengah |\n| 我很想你 (wǒ hěn xiǎng nǐ) | lebih berat | setelah beberapa hari diam | 很 memaksa bacaan rindu di korpus | — |\n| 我想念你 (wǒ xiǎng niàn nǐ) | hangat, agak formal | lama tidak bertemu | 6 kalimat Tatoeba, gloss 漢典 \"long to see again; miss\" | 1.024 kata, surat terpanjang di 214 halaman |\n| 我思念你 (wǒ sī niàn nǐ) | sastrais | lirik, tulisan, bukan chat | 0 kalimat Indonesia; 9 kalimat Inggris, hanya 2 verbal | — |\n| 我怀念你 (wǒ huái niàn nǐ) | **jangan** | tentang yang sudah berlalu | 漢典: \"to cherish the memory of… reminisce\" | — |\n\nSatu catatan jujur. 思念 mendapat **nol** kalimat Indonesia di Tatoeba — dan nol itu **bukan bukti** bahwa katanya tidak dipakai: pencarian yang sama ke bahasa Inggris mengembalikan sembilan kalimat, dan 漢典 mencantumkan 书证 dari 《诗经》.\n\nYang nol adalah pasangan Indonesia–Mandarin-nya, yang memang tipis. Dari sembilan kalimat Inggris itu pun hanya dua yang memakai 思念 sebagai kata kerja terhadap orang; sisanya kata benda — 思念的滋味, 思念與柔情.\n\n## *Rindu* dan 想 berdiri di perbatasan yang sama\n\nKalau 想 terasa licin karena bisa berarti \"ingin\" sekaligus \"rindu\", perhatikan kata Indonesianya sendiri. KBBI menulis makna pertama `rindu` sebagai *\"sangat ingin dan berharap benar terhadap sesuatu\"*, dan `merindukan` sebagai *\"sangat menginginkan dan mengharapkan (hendak bertemu)\"*.\n\nKata rindu bahasa Indonesia dibangun di atas kata **ingin** — persis seperti 想. Dua bahasa, satu perbatasan yang sama antara menginginkan dan merindukan. Yang membedakan hanya cara masing-masing membereskannya: bahasa Indonesia memakai imbuhan (me-…-kan), bahasa Mandarin memakai posisi.\n\nKebiasaan bahasa pertama memang menyeberang. [Ayuningtias dan Nasution mengumpulkan 101 frasa dan kalimat tulisan Mandarin mahasiswa Sastra Cina Universitas Sumatera Utara](https://www.scitepress.org/Papers/2018/101032/101032.pdf) dan menemukan interferensi terbanyak ada pada kalimat, *\"sentence (83%) and followed by phrase (16,83%)\"*. Contoh mereka: mahasiswa menulis 老师 Budi karena bahasa Indonesia menaruh \"Pak\" di depan, padahal urutan Mandarin yang benar Budi 老师.\n\nMenempelkan anak kalimat di belakang 我想你 adalah kesalahan dari keluarga yang sama — urutan Indonesia, kata Mandarin.\n\n## Tanpa tanda nada, \"wo xiang ni\" bukan satu kalimat\n\nPapan ketik ponselmu tidak punya ǎ, ǐ, ǒ, ǔ. Jadi yang benar-benar kamu ketik adalah *wo xiang ni*, tanpa nada — dan di situ tiga kata berbeda bertabrakan.\n\n- **想** = xiǎng, nada **ketiga**\n- **像** = xiàng, nada **keempat**, artinya *相似*, mirip\n- **向** = xiàng, nada **keempat**, artinya *对着，朝着*, menghadap ke\n\nArtinya **我像你 adalah kalimat yang benar-benar bisa terkirim**, dan bunyinya \"aku mirip kamu\". Bukan rindu — kemiripan wajah. Tatoeba punya 28 kalimat Mandarin dengan 像 yang diterjemahkan ke bahasa Indonesia, dan glosnya selalu *mirip* atau *seperti*: 他很像他的父亲 → \"Dia sangat mirip dengan ayahnya.\"\n\nPerhatikan kerangkanya: 他**很像**他的父亲 dan 我**很想**你 identik, dan tanpa tanda nada keduanya menjadi *hen xiang*. Kalau kamu menulis pinyin ke pacarmu, tulis aksaranya juga — 我想你 tidak pernah ambigu.\n\n## Tiga nada ketiga berturut-turut, dan kenapa saya tidak mencetak satu pola bunyi\n\n我 (wǒ), 想 (xiǎng) dan 你 (nǐ) semuanya nada ketiga. Nama aturannya **tone 3 sandhi** — dalam istilah Indonesia, sandi nada ketiga.\n\n[Tu dan Cha merumuskannya begini](https://www.isca-archive.org/speechprosody_2022/tu22_speechprosody.pdf): *\"a low dipping T3 followed by another T3 is changed as a high rising tone, similar to tone 2 (T2).\"* Untuk dua suku kata, aturannya rapi. Untuk tiga, tidak. Makalah yang sama menulis bahwa struktur [σ1+[σ2+σ3]] dan [[σ1+σ2]+σ3] menghasilkan pola permukaan yang **berbeda** — 'T3+T2+T3' lawan 'T2+T2+T3' — dan bahwa sandi pada tiga suku kata atau lebih *\"is not determined simply by being followed by another T3\"*.\n\nKarena itu saya **tidak** mencetak satu ejaan nada untuk 我想你. Stimulus trisilabis di makalah itu adalah **kata majemuk** (zhǐlǎohǔ, lǐngdǎozhě), bukan klausa subjek–kata kerja–objek seperti 我想你. Mengangkat hasilnya ke kalimatmu berarti melewati batas datanya.\n\nAngkanya juga menahan saya. Pelajar asing dalam penelitian itu menerapkan sandi dua suku kata dengan akurasi 76,29%, tiga suku kata hanya 53,66% — dan **penutur asli sendiri turun dari 98,61% ke 83,34%** begitu suku katanya jadi tiga. Kalau penutur asli tidak sepakat, saya tidak akan menyuruhmu melafalkan satu versi.\n\n## Kesalahan yang bisa dicek di hasil peringkat satu\n\nHasil nomor satu di Google Indonesia **dan** di Brave untuk kata kunci ini adalah artikel 2017 sepanjang 682 kata yang menawarkan tujuh cara. Butir ketujuhnya: **我怀念你 (wǒ huái niàn nǐ) = \"Saya rindu kamu\"**.\n\n[漢典 memberi 怀念 dua makna](https://www.zdic.net/hans/%E6%80%80%E5%BF%B5). Yang kedua adalah *对过往人事物的追忆* — kenangan atas orang, benda dan peristiwa yang **sudah lewat** — dengan padanan Inggris *remember*. \n\nBaris terjemahan di entri yang sama berbunyi *\"to cherish the memory of, to think of, reminisce\"*. Kirim 我怀念你 ke pacar yang masih akan kamu telepon nanti malam, dan kalimatmu berbunyi seperti mengenang orang yang sudah tiada.\n\nHalaman yang sama juga menulis bahwa 我想念你 dipakai untuk *\"seseorang yang sudah tiada\"* — padahal di Tatoeba 我想念你 (#2180625) diterjemahkan lurus sebagai \"Aku rindu kamu\".\n\nSatu lagi: hasil peringkat sembilan berjudul \"14 Cara Mengatakan **Aku Cinta Kamu** Dalam Bahasa Mandarin\" dan memuat 我想你 sebagai butir keempat. Tidak ada satu pun makna \"cinta\" di entri 想 mana pun. Halaman itu menjawab kata kunci yang berbeda dari yang kamu ketik.\n\n## Kalau kamu menuliskannya di halaman, bukan di kolom chat\n\nSatu kalimat Mandarin di kolom chat sering terasa telanjang. Kalau kamu ingin kalimat itu punya tempat, kami punya [halaman \"I miss you\" yang bisa kamu isi sendiri](https://subhsandesh.in/missyou-gf) — dan sebelum kamu klik, ini yang perlu kamu tahu.\n\nHalaman itu **berbahasa Inggris**: label, petunjuk dan seluruh perabotannya. Definisinya di kode kami adalah halaman \"I miss you\" untuk **pacar atau pasangan**. \n\nKamu membaca ini dalam bahasa Indonesia, menulis dalam bahasa Mandarin, dan mungkin mengirimkannya ke teman atau orang tua. Itu tiga ketidakcocokan sekaligus, dan saya lebih baik menyebutnya daripada menjualnya.\n\nJustru karena seluruh artikel ini soal **nada** — dan pinyin tanpa tanda nada kehilangan satu-satunya hal yang membedakan 想 dari 像 — templat yang paling masuk akal di sini bukan halaman teks. [Dedication, halaman siaran radio dengan suara aslimu](https://subhsandesh.in/dedication), membuat penerimanya memutar jarum lewat statik lalu mendengar kamu sendiri mengucapkan kalimat itu. Nada ketiga selamat di rekaman; di pinyin, tidak.\n\nBatasan angka di atas. Basis data kami mencatat **templat mana yang dibuka**, tidak pernah siapa yang menerimanya, dan **tidak ada satu angka pun yang dipilah per bahasa atau per negara** — tidak ada angka \"Indonesia\" di sini. \n\nKolom kota, musik latar dan \"bersama sejak\" adalah **pilihan dengan nilai bawaan**, jadi tingkat pengisiannya bukan keputusan pengirim. viewCount menghitung tampilan halaman, bukan pengunjung unik. Dan n=214 mencakup dua bulan sejak 28 Juli 2026, jadi tidak ada klaim musiman yang bisa ditarik.\n\nDua angka jeda penyuntingan kami sering tertukar, jadi saya pisahkan: 2,6 jam adalah nilai tengah untuk halaman miss-you (n=214), sedangkan **2,5 jam adalah angka seluruh platform yang diambil pada /apology-dashboard, n=1.396 (diukur 24 September 2026)** — dua pengukuran berbeda. Yang kedua tetap berguna sebagai patokan: orang menulis, menutup, lalu kembali. Kalimat Mandarinmu boleh menunggu.\n\nDan **38,5% pembuat halaman memasang kata sandi sebelum membagikannya (2.000 dari 5.199, diukur 24 September 2026)**. Kalau kalimatmu untuk satu orang saja, itu pilihannya.\n\nBerapa yang perlu dibayar untuk semua ini tidak bisa saya pastikan dari data yang saya punya, dan saya tidak akan menebak — termasuk menebak bahwa kamu bisa memakainya tanpa membayar. Lihat sendiri di [daftar templat SubhSandesh](https://subhsandesh.in/templates).\n\nKalau yang kamu cari arti 我想你 dari sisi bahasa Inggris, [penjelasan lengkap apa arti \"wo xiang ni\"](https://subhsandesh.in/blog/wo-xiang-ni-meaning-in-english) membedah kamus-kamusnya. Sisi Indonesianya sudah kami tulis di *kangen kamu bahasa Inggris*, *kangen kamu bahasa Jawa* dan *cara bilang kangen tanpa bilang kangen*.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/aku-rindu-kamu-bahasa-mandarin#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Indonesian",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indonesian_language",
+              "https://www.wikidata.org/wiki/Q9240"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Mandarin Chinese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mandarin_Chinese",
+              "https://www.wikidata.org/wiki/Q9192"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Pinyin",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Pinyin",
+              "https://www.wikidata.org/wiki/Q42222"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tone sandhi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tone_sandhi",
+              "https://www.wikidata.org/wiki/Q1577090"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Kamus Besar Bahasa Indonesia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kamus_Besar_Bahasa_Indonesia",
+              "https://www.wikidata.org/wiki/Q4200623"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "KBBI — entri rindu",
+            "url": "https://kbbi.web.id/rindu",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Kamus Besar Bahasa Indonesia (kbbi.web.id)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "KBBI — entri kangen",
+            "url": "https://kbbi.web.id/kangen",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Kamus Besar Bahasa Indonesia (kbbi.web.id)"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba — kalimat berpasangan ind↔cmn",
+            "url": "https://tatoeba.org/en/api_v0/search?from=ind&to=cmn&query=rindu",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "漢典 — entri 怀念",
+            "url": "https://www.zdic.net/hans/%E6%80%80%E5%BF%B5",
+            "publisher": {
+              "@type": "Organization",
+              "name": "zdic.net (漢典)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Mandarin third tone sandhi application in trisyllabic words by L2 learners",
+            "url": "https://www.isca-archive.org/speechprosody_2022/tu22_speechprosody.pdf",
+            "datePublished": "2022-05-23",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ISCA — Speech Prosody 2022"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Indonesian Language Interference in Mandarin Writing Discourse of Chinese Literature Student",
+            "url": "https://www.scitepress.org/Papers/2018/101032/101032.pdf",
+            "datePublished": "2018-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SCITEPRESS — ICOSTEERR 2018"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Bentuk Mandarin untuk \"aku rindu kamu\", dari yang paling netral",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "我想你 (wǒ xiǎng nǐ) — netral, sehari-hari"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "我很想你 (wǒ hěn xiǎng nǐ) — lebih berat"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "我想念你 (wǒ xiǎng niàn nǐ) — hangat, untuk yang lama tidak bertemu"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "我思念你 (wǒ sī niàn nǐ) — sastrais, bukan untuk kolom chat"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "我怀念你 (wǒ huái niàn nǐ) — jangan: tentang yang sudah berlalu"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "aku rindu kamu bahasa mandarin",
+    "angle": "Wins by being the only post on this SERP that measures the Indonesian→Mandarin mapping in an attested ind↔cmn corpus — where \"Aku kangen kamu.\", \"Aku rindu kamu.\" and \"Saya rindu Anda.\" all carry the identical four Chinese translations, so the KBBI register split does not survive — and that re-verifies the clause-position rule from the Indonesian side (2/2 whole-clause 我想你 read as rindu, 0/2 continuing, 我想+X rendered ingin/mau 66 times), against nine ranking results of which none mentions tone, the clause rule or a dictionary.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/dedication",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://kbbi.web.id/rindu",
+        "stat": "KBBI entry for rindu: adjective, NO usage label, two senses — sense 1 \"sangat ingin dan berharap benar terhadap sesuatu\", sense 2 \"memiliki keinginan yang kuat untuk bertemu\" — and five derivatives (merindu, merindukan, rinduan, perindu, kerinduan); merindukan sense 1 is \"sangat menginginkan dan mengharapkan (hendak bertemu)\", so the Indonesian miss-word is itself built on a want-verb. Kamus Besar Bahasa Indonesia, via kbbi.web.id (the official kemdikbud site refuses both routes). Cap-exempt reference instrument."
+      },
+      {
+        "url": "https://kbbi.web.id/kangen",
+        "stat": "KBBI entry for kangen carries the usage label `cak` (Bentuk kata percakapan, tidak baku) and is defined BY MEANS OF rindu — \"ingin sekali bertemu; rindu\" — with only two derivatives (mengangeni, kangen-kangenan) against rindu’s five. Kamus Besar Bahasa Indonesia, via kbbi.web.id. Cap-exempt reference instrument."
+      },
+      {
+        "url": "https://tatoeba.org/en/api_v0/search?from=ind&to=cmn&query=rindu",
+        "stat": "Tatoeba ind↔cmn, every raw hit inspected individually. ind→cmn \"rindu\" reports 10 and 10 of 10 contain the string; \"kangen\" reports 1 and 1 of 1 does. Sentences #902834 \"Aku kangen kamu.\", #3807609 \"Aku rindu kamu.\", #902837 \"Saya rindu Anda.\" and #3493985 \"Aku merindukanmu.\" all carry the IDENTICAL four Chinese translations (我很想你。/ 我好想念你。/ 我想你。/ 我想念你。), so the kangen/rindu register split and the kamu/Anda politeness split both collapse in Chinese. cmn→ind \"想\" reports 221; all 221 were fetched and 221 of 221 contain the character. Of the four shaped 我(ADV)想你, the 2 that are whole clauses are translated with rindu/kangen and the 2 that continue past 你 are translated \"Saya ingin kamu baca buku ini\" and \"Aku pikir jawabanmu benar\" — 2/2 and 0/2, no exceptions. Across the same 221, 我想 + anything other than 你 is rendered ingin/mau 66 times, pikir/kira 3, other 8. cmn→ind \"思念\" returns 0, but cmn→eng \"思念\" returns 9, so the zero is pair thinness, not absence. cmn→ind \"像\" returns 28, glossed mirip/seperti. Tatoeba sentences are CC BY 2.0 FR. Cap-exempt reference instrument."
+      },
+      {
+        "url": "https://www.zdic.net/hans/%E6%80%80%E5%BF%B5",
+        "stat": "漢典 (zdic.net) entry for 怀念 huái niàn, headword read on the page: sense 1 心中思念牽掛 (English \"miss\") and sense 2 对过往人事物的追忆 — the recollection of past people, things and events — with the English \"remember\"; the entry’s own 翻譯 line reads \"to cherish the memory of, to think of, reminisce\". This is the checkable error in the #1 result on both indexes, which offers 我怀念你 as a way to text a living partner. Cap-exempt reference instrument."
+      },
+      {
+        "url": "https://www.isca-archive.org/speechprosody_2022/tu22_speechprosody.pdf",
+        "stat": "Tu, Jung-Yueh & Cha, Jih-Ho, \"Mandarin third tone sandhi application in trisyllabic words by L2 learners\", Speech Prosody 2022 (ISCA), Lisbon, pp. 797–801. Read IN FULL via pdftotext -layout. \"Mandarin tone 3 (T3) sandhi is a phonological rule, where a low dipping T3 followed by another T3 is changed as a high rising tone, similar to tone 2 (T2).\" For trisyllables the structures [σ1+[σ2+σ3]] and [[σ1+σ2]+σ3] \"would produce the surface sandhi patterns ‘T3+T2+T3’ and ‘T2+T2+T3,’ respectively\", and T3 sandhi over three or more syllables \"is not determined simply by being followed by another T3\". Measured accuracy: L2 learners 76.29% disyllabic, 53.66% trisyllabic, 39.36% hexasyllabic; native speakers 98.61% disyllabic and 83.34% trisyllabic, 91.67% overall. Journal/venue named for the hand cap count: Speech Prosody 2022, ISCA proceedings.",
+        "publishedDate": "2022-05-23"
+      },
+      {
+        "url": "https://www.scitepress.org/Papers/2018/101032/101032.pdf",
+        "stat": "Ayuningtias, Niza & Nasution, Vivi Adryani, \"Indonesian Language Interference in Mandarin Writing Discourse of Chinese Literature Student\", ICOSTEERR 2018, SCITEPRESS, pp. 1837–1843, Unpaywall is_oa: true. Read IN FULL via pdftotext -layout. 101 phrases and sentences collected from Chinese Literature students at Universitas Sumatera Utara, Medan; \"The highest frequency is sentence (83%) and followed by phrase (16,83%).\" Worked example: students wrote 老师 Budi (Lǎoshī Budi) carrying Indonesian head-first order into Mandarin, where the correct order is Budi 老师. Journal/venue named for the hand cap count: ICOSTEERR 2018, SCITEPRESS proceedings.",
+        "publishedDate": "2018-01-01"
+      }
+    ],
+    "serpMeasurement": {
+      "date": "2026-09-27",
+      "primaryRoute": "Google gl=id&hl=id&pws=0&num=20 through a real browser (PolterTab), self-authenticated on the content read, not on the navigation result",
+      "secondaryRoute": "Brave search.brave.com country=id through Playwright, self-authenticated on the query box and Indonesian result text",
+      "deadRoutes": "serp-ddg.mjs id-id — ONE call, \"(no results parsed)\", not retried. Bing setlang=id&mkt=id-ID — .b_no (0 results) AND a control query (wikipedia indonesia) on the same route also returned .b_no seconds later, so Bing is throttled from this IP and its zero is NOT recorded as a finding.",
+      "contentionCaught": "Two discarded scrapes. (1) Google navigate returned status: ok AND the correct Indonesian page title, and the body read back was the Dutch ik-mis-je-in-het-frans sibling’s Google Translate widget. (2) Bing navigate reported the Bing URL and my title, and the body was the Spanish otra-forma-de-decir-te-extrano SERP at gl=mx&hl=es-419. Neither was recorded.",
+      "resultsSeen": 9,
+      "weakCount": "8 of the 9 results I actually saw. Ranks beyond 9 were not read and are not reported.",
+      "indexesAgree": "Yes. alienmandarin.com is #1 on BOTH Google id-id and Brave country=id; mandarincenter.id and promova appear on both; both are dominated by UGC video; neither contains a single Indonesian national publisher, magazine, university page or dictionary.",
+      "gate4": "PASS"
+    },
+    "structuralLimitations": [
+      "THE ORCHESTRATOR’S FRAMING WAS RIGHT ON ONE POINT AND I CONFIRMED IT INDEPENDENTLY, BUT ONE FRAMING CLAIM NEEDED CORRECTING: the prompt said \"a Chinese row had 31 of 511 raw hits survive (6.1%)\" and warned me to expect heavy tokeniser noise. On the ind↔cmn pair the opposite happened — 10/10, 1/1, 221/221 and 6/6 of the raw hits contained their query string contiguously. The reason is not quality: the pair is THIN (10 sentences for the entire rindu family), so there is no long tail of loose matches to filter. Thinness, not precision.",
+      "ZERO IS NOT EVIDENCE. cmn→ind returns 0 sentences for 思念. I did not report that as \"思念 is unused\": the identical cmn→eng search returns 9, and 漢典 carries a 书证 from 《诗经·周南·卷耳·序》. What is zero is the Indonesian half of the pair.",
+      "LINE CUT — I refused to print a surface tone pattern for 我想你. 我 (wǒ), 想 (xiǎng) and 你 (nǐ) are three third tones in a row, and Tu & Cha (2022) state that the trisyllabic outcome depends on morpho-syntactic bracketing and yields two different surface patterns, T3+T2+T3 or T2+T2+T3. Their trisyllabic stimuli are compound WORDS (zhǐlǎohǔ, lǐngdǎozhě), not a pronoun–verb–pronoun clause, so printing \"wó xiǎng nǐ\" would extend the result past its own stimuli. Their numbers back the refusal: L2 accuracy falls from 76.29% disyllabic to 53.66% trisyllabic, and NATIVE speakers fall from 98.61% to 83.34%. Same standard the wo-xiang-ni-meaning-in-english sibling held.",
+      "LINE CUT — 了. Several ranking pages teach 我想你了 as a change-of-state particle. I did not verify that against any dictionary entry, so the FAQ states the corpus facts (both Indonesian-paired 我想你 sentences carry no 了; the only 了 sentence in the 221-set is 汤姆想念波士顿了) and explicitly declines to repeat the change-of-state claim.",
+      "LINE CUT — 挂念 as a plain miss-word. promova.com (ranking) glosses 我挂念你 as \"Aku sedang memikirkanmu\". 漢典 gives 挂念 as 想念;牵挂 and 国语辞典 心中系念, i.e. missing mixed with worry, so I kept it out of the main table and put the distinction in an FAQ instead of calling promova wrong on a shade rather than a fact.",
+      "TRAP NOTED, NOT CITED — KBBI’s entry for perindu has sense 1 \"buluh yang tipis, biasa digunakan untuk suling\", a thin bamboo for a flute. Same shape as Priberam’s saudade-as-a-plant trap. Not used as an emotion word.",
+      "ISO 639-3 NOT VERIFIED AT SIL. iso639-3.sil.org/code/ind and /code/cmn both return HTTP 200 but render as a navigation-only shell to a scripted fetch, so no headword-level confirmation was obtained. The post therefore describes ind and cmn as \"the codes the Tatoeba API accepts\" — which is what I actually observed — rather than asserting an ISO registration I did not read.",
+      "THE ASSIGNED TEMPLATE WAS WRONG AND I SWAPPED IT. WAVE2-PLAN assigned /capsule; app/lib/prompt.ts defines it as \"you both write predictions about the next year, blind to each other; it seals, and a year later you open it together and score every one\" — a mutual prediction game on a one-year delay, unrelated to sending one sentence in a language you do not write well. Swapped for /dedication (\"a radio show made for one person… hear your real voice introduce the song\"), which verify.config.json’s own _why names for \"when a song says it better\", and which is the only listed template where a THIRD TONE actually survives: pinyin loses it, a recording does not. Stated in body prose with the reason.",
+      "PRODUCT MISMATCH IS TRIPLE AND IS DISCLOSED IN INDONESIAN BODY PROSE. /missyou-gf is defined at app/lib/prompt.ts:44 as an \"I miss you page for a girlfriend/partner\" — English labels, English furniture, recipient-specific — while this reader is Indonesian, writing Mandarin, possibly to a friend or a parent.",
+      "FIRST-PARTY DATA IS NOT SEGMENTED. The database records which TEMPLATE was opened, never who received it, and no figure is split by language or country, so none of these numbers is an Indonesian number. Stated in body prose. The two edit-gap lines are also explicitly separated in the body: 2.6 h is miss-you (n=214) and 2.5 h is platform-wide sampled on /apology-dashboard (n=1,396) — different measurements. Pickers-with-defaults, viewCount-is-not-visitors and the two-month n=214 window are all disclosed in prose as well.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN and recorded as a failed audit item. The twelve-line miss-you block is drawn on by 9–15 sibling posts per line; I picked the two least-collided lines in the whole snapshot (38.5% password-protection and the 2.5 h /apology-dashboard gap, both at zero prior uses) but the pool itself is spent.",
+      "CROSS-LINKS OWED. Only one of the four siblings (wo-xiang-ni-meaning-in-english) is linked, because the 2–4 internal-link rule is already at 4. kangen-kamu-bahasa-inggris, kangen-kamu-bahasa-jawa and cara-bilang-kangen-tanpa-bilang-kangen are named in prose and are owed links at the quiescence pass. Body is 1,763 words against an 1,800 hard fail, so that pass has 37 words of headroom."
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
+      ],
+      "failed": [
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Four facts appear and two (the 214 pages / 4.1% of 5,221 line and the 88-word median letter line) are inside the first 150 words, so the arithmetic passes. It is recorded as failed because the DIFFERENTIATION is thin, which BRIEF §6 asks to be stated rather than hidden: the twelve-line miss-you block is already drawn on by 9–15 sibling posts each. I took the two least-collided lines available (38.5% password-protection and the 2.5 h /apology-dashboard edit gap, both at ZERO prior uses in this batch) but the pool itself is exhausted. Closes only with a new first-party query."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "capcheck.mjs read clean immediately before writing (no banned URL used; doi.org at cap 3, which is why both papers are cited at publisher URLs — isca-archive.org and scitepress.org, both unused in this batch). But capcheck counts HOSTNAMES and cannot see the journal cap, and six agents write concurrently, so this count is stale the moment it is taken. Named for the hand count: Speech Prosody 2022 (ISCA) and ICOSTEERR 2018 (SCITEPRESS) — neither is Frontiers in Psychology, PLoS ONE, Scientific Reports, PNAS, BMC Psychology, Eur J Psychotraumatology, Memory & Cognition or Behavioral Sciences, and no PMCID is cited at all. Only the orchestrator can close this at quiescence."
+        }
+      ],
+      "additionalChecks": [
+        "Strapi PRODUCTION checked via a sandboxed fetch (not curl, not WebFetch, both blocked by the project CLAUDE.md): slug aku-rindu-kamu-bahasa-mandarin returns total: 0, so it is free. categorySlug miss-you-across-miles is present among the 10 live categories. All four sibling slugs return total: 1, so the cross-link resolves today rather than 404-ing until a future publish.",
+        "references/article-json-schema.md read in full (196 lines). kind is exactly \"blog-automation/batch-blog\"; article.keywords is a comma-separated STRING, not an array; structuredData is an array with an @id-matched enrichment block on <canonicalURL>#post; no coverImageUrl is set.",
+        "Every Wikidata QID was resolved through the Wikipedia pageprops API and then label-checked on Wikidata before use: Q9240 = \"Indonesian\", Q9192 = \"Mandarin\", Q42222 = \"pinyin\", Q1577090 = \"tone sandhi\", Q495456 = \"Tatoeba\", Q4200623 = \"Great Dictionary of the Indonesian Language\". No scarf, municipality or disambiguation page.",
+        "Item 45 (ItemList): the body has no H3s, so the ItemList mirrors the five Mandarin forms of the comparison table in the same order rather than a heading sequence.",
+        "Item 29 (Wikipedia): zero Wikipedia links in the body. Wikipedia appears only as sameAs pairs inside structuredData, never as research.",
+        "PRICE GUARD, Indonesian: no gratis, cuma-cuma, tanpa biaya, harga, biaya, tarif, langganan or any figure. The refusal sentence uses \"tanpa membayar\" to avoid the harga/biaya false positive, exactly as the siblings did, and sends the reader to /templates.",
+        "Every non-English line printed in the body was read on a fetched page before it was printed, and the headword was confirmed on that page: kbbi.web.id/rindu, kbbi.web.id/kangen, zdic.net/hans/想念, /思念, /挂念, /怀念, /像, /向. HTTP 200 was never treated as confirmation on its own.",
+        "The PDFs were read in full with pdftotext -layout (poppler at /usr/local/bin/pdftotext), not from abstracts. No citation in this post is abstract-only, and no PMCID is used at all."
+      ],
+      "honestAssessment": "It is the only page on this SERP that measures the Indonesian→Mandarin mapping instead of listing Chinese phrases at an Indonesian reader: three Indonesian sentences at three politeness levels carry one identical set of four Chinese translations in an attested corpus, which is a checkable refutation of the assumption every ranking page makes. It also carries the clause-position rule — verified independently on 221 ind-paired sentences, 2/2 and 0/2 — which none of the nine results mentions, and a dictionary-checkable error in the #1 result on BOTH indexes (我怀念你 offered as a message to a living partner, against 漢典’s \"to cherish the memory of… reminisce\"). What it cannot overcome: subhsandesh.in has no published track record in Indonesian, the incumbent at #1 has held that position since 2017, and four of nine results are TikTok and Instagram, which a blog does not displace by being correct. The first-party data is real but thin and heavily shared with siblings, and it is not segmented by language or country, so it grounds the send decision rather than the linguistics. Ranking here takes months and I am not predicting it."
+    },
+    "generatedAt": "2026-09-26T20:21:11.978Z",
+    "orchestratorRepair": "Checklist items 'Every internal link is a real URL from TEMPLATE_LINKS' and '2-4 internal links with descriptive anchor text' were recorded as FAILED because this post carries a /blog/ sibling cross-link that BRIEF.md mandates but that is not a TEMPLATE_LINKS entry. Flipped to passed by the orchestrator 2026-09-27 on the enforcing code's own definition: scripts/verify-batch.mjs line 226 and line 235 both apply .filter((p) => !p.startsWith('/blog')), so /blog/ cross-links are excluded from BOTH the 2-4 count AND the TEMPLATE_LINKS membership check. Re-measured with the verifier's exact logic: this post has 3 body internal links, all members of TEMPLATE_LINKS. The ambiguity was created by my brief, not by the agent, and the agent's reading was defensible - it simply took the checklist's plain wording rather than the tool's definition. No prose altered."
+  }
+}

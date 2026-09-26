@@ -1,0 +1,333 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ik mis je in het Frans: waarom \"tu me manques\" de zin omkeert",
+    "slug": "ik-mis-je-in-het-frans",
+    "excerpt": "\"Ik mis je\" is in het Frans tu me manques, en die zin keert om wie het onderwerp is: niet u, maar de persoon die u mist. Van de 8 Franse vertalingen die Tatoeba aan de Nederlandse zin koppelt, bewaart er geen enkele de Nederlandse vorm.",
+    "metaTitle": "Ik mis je in het Frans — de omkering, ANS en 11 zinnen",
+    "metaDescription": "Ik mis je in het Frans is tu me manques: daar is de gemiste persoon het onderwerp. Van 8 Franse vertalingen op Tatoeba bewaart er 0 de Nederlandse vorm.",
+    "keywords": "ik mis je in het frans, tu me manques betekenis, je te manque, ik mis jou in het frans, ik mis u in het frans, frans missen werkwoord",
+    "canonicalURL": "https://subhsandesh.in/blog/ik-mis-je-in-het-frans",
+    "ogType": "article",
+    "tags": [
+      "frans",
+      "nederlands",
+      "grammatica",
+      "vertalen",
+      "afstand"
+    ],
+    "keyTakeaways": [
+      "\"Ik mis je\" is tu me manques — het Frans maakt de gemiste persoon het onderwerp, het Nederlands maakt die het lijdend voorwerp.",
+      "Je te manque betekent het omgekeerde: \"jij mist mij\". De enige Tatoeba-zin met die vorm wordt in het Nederlands vertaald als \"Je zult me missen\".",
+      "Van 8 Franse vertalingen van \"ik mis je\" in Tatoeba bewaart er 0 de Nederlandse volgorde; 7 van de 8 hits overleefden individuele inspectie.",
+      "Nederlands heeft de Franse constructie wél: de ANS noemt mankeren en ontbreken bij het ondervindend voorwerp — mankeren is in 1588 uit het Frans geleend, missen hoort er niet bij.",
+      "Van 214 miss-you-pagina's zet 43,5% (93) er een wachtwoord op, tegen 38,5% platformbreed — het meest afgeschermde segment dat wij gemeten hebben."
+    ],
+    "faqs": [
+      {
+        "question": "Hoe zeg je \"ik mis je\" in het Frans?",
+        "answer": "Tu me manques. Let op wie daar het onderwerp is: tu, de persoon die u mist. Letterlijk staat er \"jij ontbreekt aan mij\". Het Nederlandse ik verschuift naar me, het complément d'objet indirect."
+      },
+      {
+        "question": "Betekent \"je te manque\" dan \"ik mis je\"?",
+        "answer": "Nee, precies andersom: het betekent \"jij mist mij\". De enige Franse zin met die vorm in het Tatoeba-corpus, nummer 2089480, is Je te manquerai, en de Nederlandse vertaling daarvan luidt \"Je zult me missen\"."
+      },
+      {
+        "question": "Wanneer gebruik ik \"vous me manquez\" in plaats van \"tu me manques\"?",
+        "answer": "Wanneer u iemand met u aanspreekt, en wanneer u meer dan één persoon mist. Nederlands heeft hier vier vormen (je, jou, jullie, u) en Frans maar twee, dus jullie en u vallen in het Frans allebei op vous."
+      },
+      {
+        "question": "Hoe zeg je \"ik heb je gemist\" in het Frans?",
+        "answer": "Tu m'as manqué. Het corpus bevat drie zinnen met die vorm, waaronder Tu m'as manqué pendant que tu étais en France, en het voltooid deelwoord blijft in alle drie onveranderd — ook als u tegen een vrouw spreekt."
+      },
+      {
+        "question": "Hoe zeg je \"ik mis hem\" of \"ik mis haar\" in het Frans?",
+        "answer": "Il me manque en elle me manque. Het patroon blijft hetzelfde: de afwezige persoon is het onderwerp, u bent het complement. Tatoeba koppelt Il me manque rechtstreeks aan \"Ik mis hem\" en Elle me manque aan \"Ik mis haar\"."
+      },
+      {
+        "question": "Waarom lijkt \"il me manque une chaussette\" op dezelfde zin?",
+        "answer": "Omdat het dezelfde constructie is met een onpersoonlijke il. Die zin staat in Tatoeba met de Nederlandse vertaling \"Ik mis een sok\" — Frans zet het ontbrekende voorop, Nederlands zet de persoon voorop. Dat is de omkering in het klein."
+      },
+      {
+        "question": "Hoe zeg ik \"wij missen je\" in het Frans?",
+        "answer": "Tu nous manques. Het onderwerp blijft de afwezige persoon; alleen het complement wordt meervoud. Tatoeba koppelt die zin rechtstreeks aan \"We missen je\"."
+      },
+      {
+        "question": "Hoe zeg ik \"ik mis jullie allemaal\"?",
+        "answer": "Vous me manquez tous. De zin staat in Tatoeba met precies die Nederlandse vertaling. Tous staat achteraan en hoort bij vous, niet bij me."
+      },
+      {
+        "question": "Is \"ik mis jou\" met nadruk anders dan \"ik mis je\"?",
+        "answer": "Het is contrastief, niet emotioneler. De ANS maakt de volle vorm jou verplicht in tegenstellingen, dus \"ik mis jóu, niet hem\". In het Frans verdwijnt dat verschil: beide worden tu me manques, eventueel met c'est toi qui me manques voor nadruk."
+      },
+      {
+        "question": "Hoe spreek je \"tu me manques\" ongeveer uit?",
+        "answer": "Ruwweg als \"tuu muh mank\": de slot-s van manques klinkt niet, en de u van tu is de Franse voorklinker, niet de Nederlandse oe. De klemtoon ligt op de laatste lettergreep."
+      },
+      {
+        "question": "Kan ik \"tu me manques\" ook naar een vriend of familielid sturen?",
+        "answer": "Ja. Manquer à quelqu'un is niet uitsluitend romantisch; Tatoeba koppelt Elle me manque encore terriblement en Il me manque plus que jamais aan gewone Nederlandse missen-zinnen. De keuze tussen tu en vous hangt af van de relatie, niet van het gevoel."
+      },
+      {
+        "question": "Moet ik accenten typen als ik dit in een bericht zet?",
+        "answer": "Voor tu me manques niet — die zin bevat geen accenten. Bij tu m'as manqué wel: zonder het accent aigu staat er manque, een andere werkwoordsvorm, en dan klopt de tijd van de zin niet meer."
+      }
+    ],
+    "coverImageQuery": "handwritten french note dutch desk window",
+    "coverImagePrompt": "A close, photorealistic overhead shot of a handwritten note on pale paper beside a phone, the words \"tu me manques\" visible in blue ink with a crossed-out line above them. Cool northern daylight from a window at the left, shallow depth of field, a Dutch-looking desk edge and a coffee cup out of focus. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ik mis je in het Frans: waarom \"tu me manques\" de zin omkeert\n\n\"Ik mis je\" is in het Frans **tu me manques**. Dat is geen woord-voor-woordvertaling: in het Nederlands is *ik* het onderwerp en *je* het lijdend voorwerp, in het Frans is de afwezige persoon het onderwerp en degene die mist het complement. Wie letterlijk vertaalt komt uit op *je te manque*, en dat betekent het tegenovergestelde — **jij mist mij**.\n\nWij bouwen de pagina's waarop mensen zulke zinnen zetten. Van de 214 \"ik mis je\"-pagina's op /missyou-gf zetten er 93 een wachtwoord op voordat ze gedeeld worden — 43,5 procent, tegen 38,5 procent platformbreed, en daarmee het meest afgeschermde segment dat wij gemeten hebben. Er staan ook 1.434 \"hug\"-tikken van ontvangers geregistreerd over 138 van die 214 pagina's: 64,5 procent kreeg er minstens één, en op één pagina 512. Beide gemeten op 2026-09-25.\n\nEén beperking geldt voor de rest van dit artikel: onze database registreert welk *sjabloon* geopend is, nooit wie de ontvanger was, en niets erin is uitgesplitst naar taal of land. Geen enkel getal hieronder is dus Nederlands, Frans of Belgisch.\n\n## Wie is het onderwerp: de kern in één zin\n\nDe Franse constructie is *manquer à quelqu'un*. De persoon die gemist wordt is het **sujet**; degene die de leegte voelt staat als **complément d'objet indirect**, niet als onderwerp.\n\nIn het Nederlands werkt *missen* andersom. Het is een gewoon overgankelijk werkwoord: de Algemene Nederlandse Spraakkunst (ANS) definieert die in 2.2.3 als werkwoorden die \"in de zin waarin ze voorkomen een lijdend voorwerp bij zich hebben\", en *je* is dat lijdend voorwerp.\n\nTwee talen, dezelfde gebeurtenis, twee onderwerpen. Dat is ook de enige moeilijkheid: zodra je weet wie het onderwerp is, vervoegt *manquer* verder volkomen regelmatig.\n\n## \"Je te manque\" zegt het omgekeerde — en dat is na te rekenen\n\n*Je te manque* is grammaticaal correct Frans. Het betekent alleen niet wat een Nederlandstalige denkt: het betekent \"jij mist mij\".\n\nHet corpus laat dat zien. Tatoeba bevat één Franse zin met deze vorm, nummer 2089480, *Je te manquerai* — en de Nederlandse vertaling luidt **\"Je zult me missen\"**. De rollen klappen om, precies zoals in de grammatica.\n\nDe omgekeerde richting bevestigt het: de Nederlandse vraag \"Mis je me niet?\" (Tatoeba 3986637) komt in het Frans uit op *Est-ce que je ne te manque pas ?*\n\nDat *je te manque* in de Engelse betekenis door een taaladviesinstantie is afgekeurd, staat uitgewerkt in onze Franstalige zusterpost over [de grammatica van \"tu me manques\"](https://subhsandesh.in/blog/tu-me-manques-signification-grammaire), samen met de vijf constructieblokken van Larousse.\n\n## Heeft het Nederlands dezelfde constructie? Ja — maar niet bij *missen*\n\nDeze vraag wordt op de Nederlandse zoekresultaten nergens gesteld, en het antwoord is geen simpel nee. De ANS kent een zinsdeelcategorie met exact de Franse vorm: het **ondervindend voorwerp**. Volgens ANS 20.5.1 duidt dat de zelfstandigheid aan \"die de door het gezegde uitgedrukte werking ondervindt\", en het kan nooit onderwerp van een passieve zin worden.\n\n[ANS 20.5.2 noemt de werkwoorden](https://e-ans.ivdnt.org/topics/pid/ans200502lingtopic) die zo'n voorwerp krijgen, en twee zijn hier opvallend: **ontbreken** en **mankeren**. \"Het ontbreekt hem aan geld\" is structureel hetzelfde als *L'argent lui manque* — het geld is onderwerp, *hem* ondervindt.\n\nEn *mankeren* is letterlijk hetzelfde woord als *manquer*. [Etymologiebank geeft, op gezag van Van Veen en Van der Sijs (1997)](https://etymologiebank.nl/trefwoord/mankeren), als eerste attestaties *manckéren, manquéren* in **1588**, ontleend aan het Franse *manquer*, uit het Latijnse *mancare* bij *mancus*, \"kreupel\" — ons *mank*.\n\nHet Nederlands heeft de Franse constructie dus al eeuwen in huis. Alleen de affectieve betekenis kwam niet mee: *mankeren* is \"ontbreken, schelen\", en \"er mankeert me jou\" bestaat niet. Voor het missen van een persoon blijft alleen het overgankelijke *missen* over, en dat draait niet om.\n\n## De omkering is twee keer een import genoemd\n\nEr is nog een spiegel, in hetzelfde woordenboek. [Het Etymologisch Woordenboek van het Nederlands noteert bij *missen*](https://etymologiebank.nl/trefwoord/missen1) dat het onovergankelijke gebruik — \"ontbreken\", dus **met de ontbrekende zaak als onderwerp** — \"relatief jong, maar inmiddels algemeen gangbaar\" is.\n\nEn dan volgt de zin die dit artikel samenvat: het WNT bestempelde dat gebruik in 1906 nog als een **\"ongewoon gallicisme\"**, naar het voorbeeld van het Franse *manquer*. Het EWN houdt het zelf op een inheemse ontwikkeling.\n\nTwee taalgemeenschappen hebben dezelfde omkering dus elk buitenlands genoemd: het Nederlands zag er in 1906 Frans in, het Frans ziet in *je te manque* Engels.\n\n## Ik mis je, ik mis jou, ik mis u, ik mis jullie\n\nHet Nederlands heeft hier vier vormen waar het Frans er twee heeft. ANS 5.2.4.1 zet ze in één schema: *jij/je* en *jou/je* in het enkelvoud, *jullie* in het meervoud, en de u-vormen voor beide getallen.\n\n*Ik mis jou* is niet emotioneler dan *ik mis je*, het is contrastiever. ANS 5.2.7 maakt de volle vorm verplicht \"in tegenstellingen\" (voorbeeld: \"Hij bedoelt jou niet, maar Mark\"), dus \"ik mis jóu, niet hem\" moet met *jou*.\n\n[ANS 5.2.4.2 zet de je-vormen](https://e-ans.ivdnt.org/topics/pid/ans05020402lingtopic) bovendien op een schaal van toenemende vertrouwelijkheid: **jullie → je → jij/jou**. Het Frans kent zo'n schaal niet; daar is het binair.\n\n| Nederlandse vorm | Frans | Onderwerp in het Frans | Bewijs |\n|---|---|---|---|\n| ik mis je (vertrouwd ev.) | Tu me manques | *tu* — de afwezige | Tatoeba 378752, directe koppeling |\n| ik mis jou (contrastief) | Tu me manques | *tu* — de afwezige | ANS 5.2.7; 0 in Tatoeba |\n| ik mis jullie (meervoud) | Vous me manquez | *vous* — de afwezigen | Tatoeba 385358 |\n| ik mis u (beleefd) | Vous me manquez | *vous* — de aangesprokene | Tatoeba 1370870, direct |\n| je te manque | — | *je* — de spreker | Tatoeba 2089480: \"Je zult me missen\" |\n\nLet op de tweede rij: *ik mis jou* komt in het Nederlandse Tatoeba-corpus nul keer voor, en \"mis jou\" ook niet. Dat is een gat in het corpus, geen grammaticaal oordeel — de ANS-regel maakt de vorm in contrast juist verplicht.\n\n## Wat elf geattesteerde zinnen laten zien\n\n[De Nederlandse kant van Tatoeba bevat elf zinnen](https://tatoeba.org/en/sentences/search?from=nld&to=fra&query=%22ik+mis+je%22) met de reeks \"ik mis je\". Acht daarvan hebben een Franse vertaling, en die acht heb ik stuk voor stuk gelezen, niet geteld.\n\nZeven blijven overeind. De achtste, zin 8471415 \"Ik mis je grapjes\", haalt elke woordgrens-zoekopdracht maar is fout: *je* is daar bezittelijk, zoals de Franse vertaling *Vos blagues me manquent* bevestigt. Dat is 7 van 8, 87,5 procent.\n\nVan die zeven bewaart **geen enkele** de Nederlandse volgorde: overal is de gemiste persoon het Franse onderwerp.\n\nEén zin verdient aparte vermelding. Tatoeba 378752, \"Ik mis je\", heeft twee Franse vertalingen: *Tu me manques* én *Vous me manquez* — één Nederlandse zin, twee Franse registers, omdat *je* zowel vertrouwd enkelvoud als informeel meervoud kan zijn.\n\n## Wanneer *missen* juist níet omkeert\n\nEr is een tweede betekenis waarin het Frans de zin wél laat staan. \"Schiet op, anders mis je de bus\" wordt *Dépêche-toi ou tu vas manquer le bus* (Tatoeba 7902243), en \"als je niet opschiet mis je de laatste trein\" wordt *tu vas rater le dernier train* (Tatoeba 4584578).\n\nDaar is *manquer* gewoon overgankelijk en blijft *tu* het onderwerp, net als in het Nederlands. De omkering hoort dus niet bij het werkwoord, maar bij één constructie ervan.\n\nHet geheugensteuntje: gaat het om een gemist vervoermiddel of een gemiste afspraak, dan vertaal je door; gaat het om een gemiste persoon, dan draait de zin om.\n\n## Een narekenbare fout in een resultaat dat nu meetelt\n\nIk heb deze zoekopdracht op 27 september 2026 twee keer op Google gemeten met `gl=nl&hl=nl&pws=0`, in een echte browser, met identieke uitkomsten. Boven alles staat Googles vertaalwidget, die \"ik mis je\" correct omzet in \"tu me manques\", en daaronder een AI-antwoordblok. Van de negen organische posities die ik werkelijk gezien heb, is er geen enkele een Nederlandstalige redactionele pagina.\n\nIn die negen staat een fout die iedereen kan controleren. Het woordenboekportaal Glosbe geeft op `nl.glosbe.com/nl/fr/ik mis je`, op `/ik mis jullie` én op `/ik mis U` dezelfde Franse vertaling: **tu me manques**.\n\nVoor *ik mis jullie* en *ik mis u* is dat onjuist; beide vragen om *vous me manquez*. Op de u-pagina spreekt het portaal zichzelf tegen: het voorbeeldzinnetje eronder luidt \"U bent net weg en ik mis u nu al. / Vous venez de partir et vous me manquez déjà.\" Wie de kop volgt en niet het voorbeeld, tutoyeert zijn schoonmoeder.\n\nTwee andere resultaten zijn Engelstalige Reddit-draadjes uit 2017 en 2020, automatisch vertaald met `?tl=nl`. De Belgische vraagbaak uit 2010 geeft netjes *tu me manques* en *vous me manquez*, maar laat de vraag van de elfjarige vraagsteller liggen: waarom *je te manque* fout is.\n\n## Wat onze cijfers wel en niet zeggen\n\nOnze [pagina om \"ik mis je\" te sturen](https://subhsandesh.in/missyou-gf) is Engelstalig: labels, knoppen en hulpteksten staan in het Engels, en de code omschrijft hem als een \"I miss you page for a girlfriend/partner\" — gericht op een partner. Schrijft u aan een vriend, een ouder of een collega, dan klopt die framing niet en leest u een Engelse interface bij een Franse tekst. Dat hoort u te weten vóór u klikt.\n\nNiet elk onderdeel van zo'n pagina vraagt om correct Frans. Dit is wat onze eigen 214 pagina's laten zien, gemeten op 2026-09-25:\n\n| Onderdeel van de pagina | Moet het Frans kloppen? | Aandeel van de 214 pagina's |\n|---|---|---|\n| \"Open wanneer\"-brieven | ja, elk woord | 92,1% (197), gemiddeld 3,2 per pagina |\n| Geschreven brief | ja, elk woord | mediaan 88 woorden |\n| Stemnotitie | uitspraak, niet spelling | 13,6% (29) |\n| \"Hug\"-tik door de ontvanger | nee, woordloos | 64,5% (138) |\n\nDaarom is [de dagelijkse streak-pagina](https://subhsandesh.in/streak) vaak de betere keuze voor wie in een tweede taal schrijft: één tik per dag houdt de reeks in leven, en een tik kan geen grammaticale fout bevatten.\n\nNog twee eerlijkheden. De pagina's noemen 47 verschillende stedenparen, waaronder Mumbai–Londen en Berlijn–Londen — maar de stad is een **keuzelijst met vijftien opties en een standaardwaarde**, dus geen keuze van de afzender en geen gedrag. En n = 214 over twee maanden sinds 2026-07-28 is te weinig voor een seizoensuitspraak; de weergavecijfers tellen paginaweergaven, niet unieke bezoekers.\n\nOver wat het sjabloon kost kan ik niets bevestigen: die gegevens staan niet in onze database. Wat er wel is, staat op het [overzicht van alle sjablonen](https://subhsandesh.in/templates).\n\nTot slot. [Onderzoek naar voornaamwoordkeuze in het Nederlandse taalgebied (N = 405)](https://europepmc.org/article/PMC/PMC11878271) concludeert dat automatisme zulke keuzes stuurt, maar \"overruled\" kan worden zodra sprekers zich ervan bewust zijn. Dat is hier de opdracht: de reflex om woord voor woord te vertalen onderbreken.\n\nWie verder wil: onze post over [de vertaling van \"tu me manques\" naar het Engels](https://subhsandesh.in/blog/tu-me-manques-en-anglais) en de analyse van [wat \"ik mis je nu al\" precies zegt](https://subhsandesh.in/blog/ik-mis-je-nu-al-betekenis).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ik-mis-je-in-het-frans#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Nederlands",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dutch_language",
+              "https://www.wikidata.org/wiki/Q7411"
+            ]
+          },
+          {
+            "@type": "Language",
+            "name": "Frans",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_language",
+              "https://www.wikidata.org/wiki/Q150"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Book",
+            "name": "Algemene Nederlandse Spraakkunst",
+            "sameAs": [
+              "https://nl.wikipedia.org/wiki/Algemene_Nederlandse_Spraakkunst",
+              "https://www.wikidata.org/wiki/Q2719144"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "url": "https://e-ans.ivdnt.org/topics/pid/ans200502lingtopic",
+            "name": "ANS 20.5.2 — Gezegdes met een ondervindend voorwerp",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Instituut voor de Nederlandse Taal"
+            },
+            "datePublished": "2019-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://e-ans.ivdnt.org/topics/pid/ans05020402lingtopic",
+            "name": "ANS 5.2.4.2 — De persoonlijke voornaamwoorden van de tweede persoon: het gebruik",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Instituut voor de Nederlandse Taal"
+            },
+            "datePublished": "2019-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://etymologiebank.nl/trefwoord/missen1",
+            "name": "Etymologiebank — missen (Etymologisch Woordenboek van het Nederlands)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Etymologiebank"
+            },
+            "datePublished": "2009-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://etymologiebank.nl/trefwoord/mankeren",
+            "name": "Etymologiebank — mankeren (Van Veen & Van der Sijs 1997)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Etymologiebank"
+            },
+            "datePublished": "1997-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://tatoeba.org/en/sentences/search?from=nld&to=fra&query=%22ik+mis+je%22",
+            "name": "Tatoeba — Nederlandse zinnen met \"ik mis je\" en hun Franse vertalingen",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://europepmc.org/article/PMC/PMC11878271",
+            "name": "Sociopragmatic pronouns in Limburgian (Cognitive Linguistics 36)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "De Gruyter"
+            },
+            "datePublished": "2025-01-10"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ik mis je in het frans",
+    "angle": "Wins by being the only page on the Dutch SERP that answers whether Dutch owns the French construction at all — the ANS files mankeren and ontbreken under het ondervindend voorwerp while missen is absent, and Etymologiebank dates the borrowing of manquer as mankeren to 1588 — then proves the inversion on 8 Franse vertalingen of \"ik mis je\" in Tatoeba of which 7 survive inspection and 0 keep the Dutch shape, and corrects a three-URL register error in a top-ten result, grounded in a 214-page /missyou-gf dataset whose 43.5% password rate is the most private segment measured.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://e-ans.ivdnt.org/topics/pid/ans200502lingtopic",
+        "stat": "Algemene Nederlandse Spraakkunst (e-ANS), section 20.5.2 'Gezegdes met een ondervindend voorwerp', Instituut voor de Nederlandse Taal; version 2.1 (January 2019), converted from ANS 2.0 (Haeseryn, Romijn, Geerts, De Rooij, Van den Toorn, 1997). Page title verified as 'ANS | 20.5.2 Gezegdes met een ondervindend voorwerp' before citing. Read verbatim: the verbs taking an ondervindend voorwerp are 'aanstaan, baten, berouwen, betamen, bevallen, bevreemden, bijblijven, mankeren, meevallen, ontbreken, passen, spijten, tegenvallen, verbazen, voegen'. MANKEREN and ONTBREKEN are in that list; MISSEN is not — this is the evidence that Dutch owns the French experiencer-object shape but does not make it available to missen. Companion sections read and title-verified in the same session: 20.5.1 ('de zelfstandigheid — meestal een of meer personen — aan die de door het gezegde uitgedrukte werking ondervindt', and it can never become the subject of a passive) and 2.2.3, which defines overgankelijke werkwoorden as those that 'in de zin waarin ze voorkomen een lijdend voorwerp bij zich hebben'. Note for the record: e-ANS has no working /search endpoint (404); sections were located from the homepage table of contents. Cap-exempt reference instrument.",
+        "publishedDate": "2019-01-01"
+      },
+      {
+        "url": "https://e-ans.ivdnt.org/topics/pid/ans05020402lingtopic",
+        "stat": "Algemene Nederlandse Spraakkunst (e-ANS), section 5.2.4.2 'Het gebruik' (persoonlijke voornaamwoorden van de tweede persoon). Page title verified before citing. Read verbatim: 'De je- en u-vormen zijn complementair', their choice depending on 'de verhouding die er bestaat tussen spreker en toegesprokene', and the increasing-familiarity scale is printed as 'jullie → je → jij/jou'. Also read and title-verified in the same session: 5.2.4.1, whose schema 5.2 gives the full paradigm (ev. jij/je and jou/je, mv. jullie, u-vormen u for both numbers), and 5.2.7, which makes the full form obligatory 'in tegenstellingen', example 'Hij bedoelt jou niet, maar Mark' — the rule that licenses 'ik mis jóu' independently of any corpus count. Cap-exempt reference instrument.",
+        "publishedDate": "2019-01-01"
+      },
+      {
+        "url": "https://etymologiebank.nl/trefwoord/missen1",
+        "stat": "Etymologiebank, headword 'missen - (niet treffen; niet meemaken, ontberen; ontbreken)', serving the Etymologisch Woordenboek van het Nederlands (M. Philippa, F. Debrabandere, A. Quak, T. Schoonheim, N. van der Sijs, Amsterdam 2003-2009). Read verbatim: 'Relatief jong, maar inmiddels algemeen gangbaar, is het onovergankelijke gebruik van missen \"ontbreken\", dus met de ontbrekende zaak als onderwerp. Het WNT bestempelde dit in 1906 nog als \"ongewoon gallicisme\", namelijk naar het voorbeeld van Frans manquer, dat zowel \"niet raken\" als \"ontbreken\" betekent, maar wrsch. is hier sprake van een gewone inheemse ontwikkeling.' Attestation printed for that use: 'Aan dezen broedrenkring mist nog een enkle broeder' [1784; iWNT]; the affective sense is first attested 'Soo sagh men eerst, doen Cato doodt was watmen miste' [1616; iWNT]. Recorded because it matters: /trefwoord/missen returns a 2,592-char stub with no entry and /trefwoord/missen1 is the real 16,114-char article — the id was checked, not guessed. The 1906 WNT judgment is cited AT ONE REMOVE through the EWN, because gtb.ivdnt.org serves a search shell rather than the article body. Cap-exempt reference instrument.",
+        "publishedDate": "2009-01-01"
+      },
+      {
+        "url": "https://etymologiebank.nl/trefwoord/mankeren",
+        "stat": "Etymologiebank, headword 'mankeren - (missen)', serving P.A.F. van Veen and N. van der Sijs (1997), Etymologisch woordenboek: de herkomst van onze woorden, 2e druk. Read verbatim: 'mankeren [missen] {manckéren, manquéren 1588} < frans manquer [idem] < latijn mancare [verminken, verlammen], van mancus (vgl. mank).' Corroborated on the same page by J. de Vries (1971), 'sedert Kiliaen manquer mancare, een afl. van mancus \"kreupel, gebrekkig\"', and by N. van Wijk (1936 [1912]). This is the date the Dutch language borrowed the French verb — 1588 — and it is the verb the ANS files with ontbreken among those taking an ondervindend voorwerp. Cap-exempt reference instrument.",
+        "publishedDate": "1997-01-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=nld&to=fra&query=%22ik+mis+je%22",
+        "stat": "Tatoeba, queried via api_v0 on 2026-09-27 with the direct and indirect translation groups separated, every hit read individually rather than counted. Dutch corpus (from=nld, to=none): \"ik mis je\" 11 sentences, \"ik mis jullie\" 2, \"ik mis jou\" 0, \"ik mis u\" 0, \"mis jou\" 0 anywhere. With a French translation (to=fra): \"ik mis je\" returns 8; 7 survive inspection (87.5%). The one discarded is 8471415 'Ik mis je grapjes', which passes a word-boundary regex and is still wrong — je there is the possessive determiner, as its French 'Vos blagues me manquent' proves. NONE of the 7 survivors keeps the Dutch shape: in all seven the missed person is the French subject. Key pairs: 378752 'Ik mis je.' → direct 'Tu me manques.' and indirect 'Vous me manquez.'; 385358 'Vous me manquez.' → 'Ik mis je.' / 'Ik mis jullie.'; 1370870 'Vous me manquerez beaucoup.' → direct 'Ik zal u erg missen.'; 2089480 'Je te manquerai.' → 'Je zult me missen.'; 3986637 'Mis je me niet?' → 'Est-ce que je ne te manque pas ?'; 7902243 '…anders mis je de bus' → 'tu vas manquer le bus' and 4584578 → 'tu vas rater le dernier train', both WITHOUT inversion. Also verified for the FAQs: 'Tu m'as manqué.' → direct 'Ik heb je gemist. / Ik miste je.' (3 sentences, participle invariable); 'Il me manque.' → 'Ik mis hem.'; 'Elle me manque.' → 'Ik mis haar.'; 'Il me manque une chaussette.' → 'Ik mis een sok.'; 'Tu nous manques.' → 'We missen je.'; 'Vous me manquez tous.' → 'Ik mis jullie allemaal.'; 'tu me manques déjà' returns 0 and is therefore NOT asserted anywhere in this post. CC BY 2.0 FR. Cap-exempt corpus.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11878271",
+        "stat": "Journal: Cognitive Linguistics (De Gruyter), vol. 36, 2025-01-10, doi 10.1515/cog-2023-0141, PMC11878271. Open access confirmed: Europe PMC isOpenAccess = Y, licence cc by. J. Piepers, A. Backus and J. Swanenberg, 'Sociopragmatic pronouns in Limburgian: inferring speakers' agency from self-reported automaticity, attitudes, and metalinguistic awareness.' FULL TEXT READ (169,717 chars) via the Europe PMC REST fullTextXML endpoint — not abstract-only. N = 405 speakers. From the abstract: 'self-reported automaticity is the driving force in the use of the non-feminine pronoun, but also that this autopilot may be curbed by metalinguistic awareness and attitudes.' From the Conclusions, read verbatim: 'while cognitive automaticity does appear to be the general driver of language use in this domain, it is possible to overrule this process if speakers are both able and interested.' Journal check performed by hand per BRIEF §7: Cognitive Linguistics appears in no post in either the 2026-09-25-miss-you-30 or 2026-09-26-miss-you-global-30 batch, and is none of Frontiers in Psychology, PNAS, PLoS ONE or Scientific Reports.",
+        "publishedDate": "2025-01-10"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Roughly a third of the paragraphs are a single sentence rather than two or three — the short ones carry the sharpest claims (\"Het corpus laat dat zien.\", \"En de \\\"hug\\\"-tik hierboven is woordloos.\") and lengthening them would pad. No paragraph exceeds three sentences, so the risk the rule guards against (unliftable blocks) is not present, but the item as written is not met and I am not going to claim it is."
+        }
+      ],
+      "additionalChecks": [
+        "SERP ROUTE: serp-ddg.mjs --region nl-nl was tried ONCE per BRIEF §3 and returned '(no results parsed)'. No retry. Google gl=nl&hl=nl&pws=0 in the real browser then worked and was run twice with byte-identical organic lists, so that is the recorded SERP. Bing and Brave were not needed.",
+        "SERP TRANSIENT NOT RECORDED AS A FINDING: the &num=20 variant returned 'Ongeveer 0 resultaten (0,13 s)'. Per BRIEF §3 that was treated as a parameter artefact, not a zero-result SERP; the plain load seconds later returned a full page, twice.",
+        "SELF-AUTHENTICATION: every scrape contained my own query string and Dutch interface chrome, and only Dutch/Belgian hosts. No sibling's SERP appeared in any read. Contention did not hit this row.",
+        "GATE 4: weak count 9 of the 9 organic positions I actually saw. Zero Dutch-language editorial pages; two of nine are English Reddit threads served with Google's ?tl=nl translation parameter. PROCEED.",
+        "TRANSLATE-WIDGET CEILING CONFIRMED: Google's translate widget renders above every organic result (scraped from #tw-source-text / #tw-target-text) and outputs 'ik mis je' → 'tu me manques'. It is CORRECT for those four words. An AI-modus block sits below it. The post competes on what neither surface gives: who the subject is, the register split, and je te manque.",
+        "CHECKABLE ERROR IN A RANKING RESULT: nl.glosbe.com (position 4) prints 'tu me manques' as the translation of THREE different headwords — /ik mis je (correct), /ik mis jullie (wrong) and /ik mis U (wrong). On the /ik mis U page it contradicts itself two lines down, where its own example reads 'U bent net weg en ik mis u nu al. / Vous venez de partir et vous me manquez déjà.' Verified against ANS 5.2.4.1 and Tatoeba 1370870.",
+        "INTERNAL-LINK READING, STATED RATHER THAN ASSUMED: I took checklist items 30 and 31 at their plain reading, which counts the three sibling cross-links as internal links, and failed both rather than defining them away. Under the narrower reading (internal link = TEMPLATE_LINKS entry) both would pass at 3 links. The orchestrator should pick one reading batch-wide.",
+        "TWO TABLES, NOT ONE: the register table (5 rows) carries a source column because the first-party dataset is not segmented by language and no honest first-party column could vary by French form. The second table (4 rows) carries the first-party column, which is what closes checklist item 10.",
+        "NO INSTRUMENT SETTLES 'ik mis jou': Tatoeba returns 0 for 'ik mis jou' and 0 for 'mis jou' anywhere; Google Books Ngrams (corpus=nl-2019) returns [] for 'ik mis je', 'ik mis jou' and the bigram 'mis jou' while the controls 'het huis' and 'ik mis' return full time series, i.e. the endpoint works and these colloquial strings are below its floor. Per the Polish row's precedent the zero is NOT treated as evidence of non-existence; ANS 5.2.7 licenses the form on rule. The body says this plainly.",
+        "TATOEBA METHOD: to=fra silently filters to sentences that HAVE a French translation, so raw corpus counts required to=none. Direct and indirect translation groups were separated (translations[0] vs translations[1]) and every hit was read individually. 8 raw hits with a French translation, 7 survived (87.5%); the discard, 8471415 'Ik mis je grapjes', passes a word-boundary regex and is still wrong because je there is possessive.",
+        "STRAPI VERIFIED LIVE via ctx_execute (not curl, not WebFetch, both blocked by the project CLAUDE.md): https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=ik-mis-je-in-het-frans returns total 0, and the categories endpoint confirms miss-you-across-miles is one of the 10 live category slugs.",
+        "WIKIDATA QIDs VERIFIED, not assumed: Q7411 Dutch, Q150 French, Q2719144 Algemene Nederlandse Spraakkunst (nlwiki sitelink only — it has no enwiki page, so the Dutch Wikipedia URL is paired with it), Q495456 Tatoeba (the online sentence project, not the Morning Musume track at Q74821828). Checked via the Wikidata wbgetentities API with sitelinks, which is the same check as the Wikipedia API run in the other direction. A deliberate control QID in the same call resolved to a dinosaur, which is the failure mode this check exists for.",
+        "PDF ROUTE: the Cognitive Linguistics paper was read as full text via the Europe PMC REST fullTextXML endpoint (169,717 chars), so no PDF was needed. For the paper I rejected on the journal cap (Behavioral Sciences, PMC13295676) both PDF routes 403'd and fullTextXML 500'd; the ncbi.nlm.nih.gov/pmc HTML served the full text.",
+        "SOURCE REJECTED ON THE CAP, NOT ON QUALITY: 'Effects of Shared Word Order on Intrasentential Language Mixing in English-Dutch, Polish-Dutch and Turkish-Dutch Bilingual Children', Behavioral Sciences (MDPI), PMC13295676, 2026-05-22, CC BY, n=57, full text read — it finds no evidence that shared word order facilitates language mixing. Behavioral Sciences is already at 2 posts in this batch and taking the last slot while five other agents write would risk a breach, so it is recorded here for another row rather than cited.",
+        "JOURNAL NAMED FOR THE HUMAN COUNT, per BRIEF §7: the one peer-reviewed citation is in Cognitive Linguistics (De Gruyter). It is not Frontiers in Psychology, PNAS, PLoS ONE or Scientific Reports, and it appears in no post in either miss-you batch.",
+        "FRENCH AUTHORITIES DELIBERATELY NOT RE-DERIVED: larousse.fr/…/manquer/49234 and dictionnaire-academie.fr/article/A9M0575 are both already at the 2-post URL cap in this batch, so neither is listed in sources; the reader is sent to the sibling that carries them. Independent spot-check performed anyway: the Académie URL returns HTTP 200 with the headword confirmed in its title as 'manquer'.",
+        "CNRTL NOT TESTED THIS RUN, and recorded as untested rather than claimed either way — the two siblings' TLFi material is already on the record and cross-linked, and a re-test would not change what this post cites.",
+        "VAN DALE NOT ATTEMPTED (the Dutch sibling established every URL shape serves an 8,403-char webshop page). woordenlijst.org resolves but its search is client-side and serves 422 chars with no headword, so it is recorded as unusable for this row rather than guessed at. e-ANS /search 404s; sections were located from the 1,088-entry homepage table of contents. gtb.ivdnt.org returns 270 KB of search shell without the article body, which is why the 1906 WNT judgment is cited through the EWN and said to be so in the body.",
+        "PRICE GUARD: node pricecheck-intl.mjs ik-mis-je-in-het-frans run before saving. No Dutch price word appears (gratis, kosteloos, zonder kosten, kost niets); the post states plainly that the cost cannot be confirmed from our database and links /templates.",
+        "MANDATORY CAVEATS IN DUTCH BODY PROSE, not only here: the database records which TEMPLATE was opened and never who received it, and nothing in it is segmented by language or country (paragraph 3); the city field is a 15-option picker with a default and its fill rate is not a sender choice; n=214 over two months rules out any seasonal claim; viewCount is page views, not unique visitors.",
+        "PRODUCT MISMATCH DISCLOSED IN DUTCH: /missyou-gf is English-labelled and defined at app/lib/prompt.ts:44 as an 'I miss you page for a girlfriend/partner'. The post says so and names the triple mismatch for a Dutch reader writing French to a non-partner. /streak was chosen as the alternative for a stated reason — a daily tap carries no words, so it cannot contain a grammatical error.",
+        "FACT COLLISION CHECKED: the three siblings between them spent 214-pages, 88-words, 92.1%, 86.4%, 28.0%, 13.6%, 2,417-views, 2.6h, 88.8%, 5,199, 3,843, 1.35 and 48.3%. This post leads on 43.5% password-protection and the 1,434 hug taps, which none of them used, and on the 47-city-pairs line, which no post in the batch has touched. Differentiation on the two headline facts is genuine; the supporting figures (92.1%, 13.6%, 88 words) do collide with the French sibling and I am saying so.",
+        "PARAGRAPH-LENGTH ITEM: no paragraph exceeds three sentences. The failure recorded against that item is the opposite direction — several one-sentence paragraphs — which I judged better than padding."
+      ],
+      "honestAssessment": "An answer engine should cite this because it is the only page on this SERP that answers a question none of the nine results asks: whether Dutch owns the French construction at all. The answer is checkable and non-obvious — the ANS files mankeren and ontbreken under het ondervindend voorwerp, mankeren being the French manquer borrowed in 1588, while missen is absent from that list, so the shape exists in Dutch but is unavailable for missing a person. The corpus half is equally checkable: 8 Franse vertalingen, 7 surviving inspection, 0 keeping the Dutch order, plus a register error printed across three Glosbe URLs in a top-ten result. What the post cannot overcome is the Google Translate widget, which sits above every organic result and answers the literal four-word query correctly; any page here competes only for the reader who wants to know why, and that is a smaller click stream than the keyword's volume suggests. The domain also has no published Dutch-language track record at all, so ranking will take months and may not happen regardless of quality."
+    },
+    "structuralLimitations": [
+      "BRIEF §0 check — the framing claim in my prompt was CORRECT on both halves and I verified each independently: Dutch ik mis je makes the speaker the subject (ANS 2.2.3, missen is overgankelijk, je is the lijdend voorwerp) and French tu me manques makes the missed person the subject (manquer à quelqu'un, confirmed on the Académie entry A9M0575 whose headword I re-read). No correction needed. The prompt's open question — 'if Dutch has no equivalent inversion, say so, a clean negative is evidence' — turned out to have a better answer than a clean negative: ANS 20.5 het ondervindend voorwerp IS the mirroring construction, and mankeren, the 1588 Dutch borrowing of manquer, is in its verb list while missen is not.",
+      "The three sibling cross-links (/blog/tu-me-manques-en-anglais, /blog/tu-me-manques-signification-grammaire, /blog/ik-mis-je-nu-al-betekenis) 404 until this batch publishes. They are correct slugs in this batch, not invented ones.",
+      "The 1906 WNT judgment that intransitive missen was an 'ongewoon gallicisme' is cited at one remove, through the Etymologisch Woordenboek van het Nederlands on etymologiebank.nl, because gtb.ivdnt.org serves a 270 KB search shell rather than the article body. The body states the attribution rather than implying a direct WNT read. This closes if a direct iWNT article URL becomes reachable.",
+      "No instrument settles whether ik mis jou is attested in running Dutch: Tatoeba returns 0 for it and 0 for 'mis jou' anywhere, and Google Books Ngrams returns [] for it while its controls return data, i.e. it is below the Ngram frequency floor. ANS 5.2.7 licenses the form on rule, and the post says exactly this rather than reporting the zero as evidence. This closes with access to a running-text Dutch corpus (OpenSoNaR / Corpus Hedendaags Nederlands), both of which require a login this environment does not have.",
+      "No first-party figure in this post is Dutch, French or Belgian. The database records which TEMPLATE was opened, never who received it, and nothing in it is segmented by language or country. Disclosed in the third paragraph of the body, in Dutch.",
+      "LINES CUT: two claims were drafted and removed for want of a source. (a) 'tu me manques déjà' as the French rendering of 'ik mis je nu al' — Tatoeba returns 0 for that French string, so it is asserted nowhere in the post despite being the obvious bridge to the Dutch sibling. (b) A sentence attributing the 1906 gallicisme verdict directly to the WNT — cut and rewritten as an EWN citation once gtb.ivdnt.org proved to serve only a search shell. A third was reworded rather than cut: 'Dutch has no mirroring construction' became 'Dutch has it, in mankeren, but not in missen' after ANS 20.5.2 was read.",
+      "The verifier's own source-cap findings should be ignored for this row per BRIEF §9; the journal cap was checked by hand and the one capped-risk journal (Behavioral Sciences) was deliberately not used."
+    ],
+    "generatedAt": "2026-09-26T20:19:51.843Z",
+    "orchestratorRepair": "Checklist items 'Every internal link is a real URL from TEMPLATE_LINKS' and '2-4 internal links with descriptive anchor text' were recorded as FAILED because this post carries a /blog/ sibling cross-link that BRIEF.md mandates but that is not a TEMPLATE_LINKS entry. Flipped to passed by the orchestrator 2026-09-27 on the enforcing code's own definition: scripts/verify-batch.mjs line 226 and line 235 both apply .filter((p) => !p.startsWith('/blog')), so /blog/ cross-links are excluded from BOTH the 2-4 count AND the TEMPLATE_LINKS membership check. Re-measured with the verifier's exact logic: this post has 3 body internal links, all members of TEMPLATE_LINKS. The ambiguity was created by my brief, not by the agent, and the agent's reading was defensible - it simply took the checklist's plain wording rather than the tool's definition. No prose altered."
+  }
+}

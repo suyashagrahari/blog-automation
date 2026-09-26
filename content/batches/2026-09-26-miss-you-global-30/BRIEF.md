@@ -95,6 +95,15 @@ variants in ~18 minutes:
 
 **Try `serp-ddg.mjs` ONCE. If it fails, stop and switch routes immediately.**
 
+**UPDATE 2026-09-27 — DDG is INTERMITTENT, not dead and not fixed.** One agent got a
+clean `--region fr-fr` SERP twice in a row today and its third call throttled; the
+orchestrator then tried `es-es` and `pl-pl` minutes later and both returned
+"(no results parsed)". So: it is worth the one call, it may hand you a real
+market-served SERP for free with **no browser and therefore no contention exposure** —
+which is the best outcome available — but **a failure tells you nothing about the next
+query and is not worth a retry.** Take the win if you get it, move on if you do not,
+and say which happened.
+
 **The route that works: Google served to your row's market, in the real browser**, with
 personalisation off — `gl=<country>&hl=<lang>&pws=0`. Three agents used it and two
 re-ran it a second time to confirm identical results. **This is stronger evidence than
@@ -325,8 +334,30 @@ Route that works, and costs no WebSearch call:
 `node content/batches/2026-09-26-miss-you-global-30/findpapers.mjs "<query>"`
 (Crossref + Europe PMC), then Unpaywall
 (`https://api.unpaywall.org/v2/<doi>?email=suyash.agrahari@hirequotient.com`), then the
-Europe PMC REST API for abstracts. **Landing pages 403 a scripted UA; the REST API
-works. PDFs do not parse here** — abstract-only reads, and record that.
+Europe PMC REST API for abstracts. **Landing pages 403 a scripted UA; the REST API works.**
+
+**BEST FULL-TEXT ROUTE FOR ANY OPEN-ACCESS PMC PAPER: the Europe PMC `fullTextXML`
+endpoint** — `https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML`
+returns the whole article as JATS XML. No PDF, no landing page, no 403. The
+`carta-para-decir-te-extrano` agent read **all three** of its papers this way and recorded
+zero abstract-only citations. **Try it BEFORE reaching for a PDF**, and use it to check a
+sample size, a method or a limitation that an abstract does not state.
+
+**Exact form matters:** `/rest/<PMCID>/fullTextXML` works; `/rest/PMC/<PMCID>/…` 404s and
+a bare numeric id 500s. **It also 500s transiently** — the orchestrator got 500 on two ids,
+retried the identical URL and got 200 with 41 KB of XML. **One failed call proves nothing
+here**, exactly as with a Bing zero-result: retry once before concluding a paper has no
+full text.
+
+**PDFs DO PARSE — CORRECTION 2026-09-27, and this reverses what every earlier brief in
+this run told you.** `pdftotext` (poppler 26.04.0) is on PATH at `/usr/local/bin/pdftotext`,
+verified by the orchestrator. The `i-miss-you-in-morse-code` agent downloaded a 1.4 MB ITU
+Recommendation, ran `pdftotext -layout`, and parsed all 26 letters out of the clause tables
+programmatically instead of retyping them. **So "abstract only" is no longer an acceptable
+default: if an open-access PDF exists, fetch it and read it.** Roughly forty agents were
+told the opposite and recorded honest abstract-only limitations that were never necessary —
+that was my error, not theirs. Still record what you actually read: full text, or abstract
+because no OA PDF exists.
 
 403/bot-challenged: Wiley, SAGE, Elsevier, Springer, SSRN, MDPI, nature.com.
 **WebSearch has a 200-call session limit shared across all of you. Budget ~4.**
