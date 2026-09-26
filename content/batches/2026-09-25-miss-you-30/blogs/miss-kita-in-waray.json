@@ -1,0 +1,369 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "What \"Miss Kita\" Is in Waray, and the Line Waray Uses Instead",
+    "slug": "miss-kita-in-waray",
+    "excerpt": "\"Miss kita\" is Tagalog grammar, not Waray: in Waray, kita means we. All 37 Waray sentences in the Tatoeba corpus that contain kita are inclusive plurals. The attested Waray line is Gin-mingaw ako ha imo, checked against the 1895 Samar-and-Leyte dictionary.",
+    "metaTitle": "Miss Kita in Waray: the Line Is Gin-mingaw Ako Ha Imo",
+    "metaDescription": "Miss kita in Waray is Tagalog grammar, not Waray: all 37 Waray corpus sentences with kita mean we. The attested line is Gin-mingaw ako ha imo, from 2,391 checked.",
+    "keywords": "miss kita in waray, i miss you in waray, gin-mingaw ako ha imo, waray waray language, nahihidlaw, waray vs cebuano",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-kita-in-waray",
+    "ogType": "article",
+    "tags": [
+      "waray",
+      "philippine languages",
+      "long distance",
+      "translation",
+      "miss you"
+    ],
+    "keyTakeaways": [
+      "In Waray, kita is the inclusive \"we\" — all 37 Waray sentences in the Tatoeba corpus that contain it are plurals, so \"miss kita\" is borrowed Tagalog grammar.",
+      "The attested Waray line is Gin-mingaw ako ha imo (Tatoeba sentence 11312979), contracted in speech to Gin-mingaw ak ha im.",
+      "Waray and Cebuano are separate individual living languages under ISO 639-3 (war and ceb), and their 1885 and 1895 dictionaries record different shapes around the same hidlaw root.",
+      "Of 2,391 Waray sentences on Tatoeba, zero contain hidlaw and zero contain the English miss — the only attested miss-you sentences use mingaw.",
+      "Across 214 \"I miss you\" pages on our own template, the median letter is 88 words and recipients tapped a hug button 1,434 times across 138 of them."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say \"I miss you\" in Waray?",
+        "answer": "Gin-mingaw ako ha imo. It is recorded as sentence 11312979 in the Tatoeba corpus under the Waray language code war, with the Tagalog translation \"Namis kita\" attached to it. Spoken quickly it contracts to Gin-mingaw ak ha im."
+      },
+      {
+        "question": "Is \"miss na kita\" Waray?",
+        "answer": "No, that is Tagalog. The kita that fuses \"I\" and \"you\" into one word belongs to Tagalog grammar, and Waray's kita is a plural meaning we or us. A Waray speaker will understand it, because Tagalog is near-universal in the Philippines, but it is not Waray."
+      },
+      {
+        "question": "Why does the Waray sentence need \"ha imo\" at the end?",
+        "answer": "Because Waray has no word that fuses \"I\" and \"you\" the way Tagalog's kita does, so the person being missed has to be marked separately. \"Ha imo\" is the oblique phrase for \"to you\". Sánchez de la Rosa's 1895 Samar-and-Leyte dictionary writes the same phrase as \"sa imo\"."
+      },
+      {
+        "question": "Is it \"ha imo\" or \"sa imo\"?",
+        "answer": "Both are recorded. The 1895 dictionary uses \"sa imo\" throughout, in sentences such as \"Dumdumon mo an polong co sa imo\" — remember what I say to you. The modern Tatoeba sentences write \"ha imo\", and that is the safer form to send today."
+      },
+      {
+        "question": "Does Waray borrow the English word miss the way Tagalog does?",
+        "answer": "Not in the corpus we checked. Of 2,391 Waray sentences on Tatoeba, zero contain the string miss, while it is common in Tagalog. That is a measurement of one corpus, not proof it is never said."
+      },
+      {
+        "question": "What is the difference between hidlaw and mingaw in Waray?",
+        "answer": "The 1895 Samar-and-Leyte dictionary gives hidlaw as the verb for missing an absent person and mingaw only as an adjective meaning sad, melancholy or silent. In the modern corpus that has reversed: mingaw carries the miss-you sentences and hidlaw returns nothing."
+      },
+      {
+        "question": "Can I say kahidlaw to someone directly?",
+        "answer": "Not really — it is a noun, glossed in the 1895 dictionary as \"deseo, anhelo, ansia\", desire and longing. Use it to name the feeling, as in \"an akon kahidlaw\", rather than to address a person."
+      },
+      {
+        "question": "Is \"Waray-Waray\" the same thing as Winaray?",
+        "answer": "Yes. Waray, Waray-Waray and Winaray are names for the same language of Samar and Leyte, which ISO 639-3 registers as war under the name Waray (Philippines), with the status Active and the scope Individual."
+      },
+      {
+        "question": "Would a Cebuano speaker understand the Waray line?",
+        "answer": "Partly. Both languages are Bisayan and share the hidlaw root, but the 1885 Cebuano dictionary records nahidlao aco canimo where the Waray one records nahihidlao aco san acon iroy. The syllable doubling and the oblique marker differ, and the two are separate ISO 639-3 languages."
+      },
+      {
+        "question": "How long should an I-miss-you message be?",
+        "answer": "Shorter than most people expect. Across 214 miss-you pages built on our template the median letter runs 88 words, though the longest is 1,024. That sample is only two months old and n is 214, so treat it as a rough floor rather than a rule."
+      },
+      {
+        "question": "Should I password-protect a page before I send it?",
+        "answer": "Usually yes, for this kind of message. 43.5% of miss-you senders password-protect the page before sharing, against 38.5% across the whole platform, which makes it the most private segment we have measured. The exception is a recipient on a shared family device, where a password is an obstacle."
+      },
+      {
+        "question": "Is a voice note better than writing the Waray line?",
+        "answer": "If you are unsure of the pronunciation, yes — a spoken Gin-mingaw ak ha im carries more than a misspelt written one. Only 13.6% of miss-you senders record a voice note, so it is still an unusual thing to receive."
+      }
+    ],
+    "coverImageQuery": "samar leyte coastline video call evening",
+    "coverImagePrompt": "A quiet evening scene on an Eastern Visayas coastline: a young woman sitting on a concrete seawall with a phone lit in her hands, outrigger bancas moored behind her, warm low sun and soft haze over the water. Shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# What \"Miss Kita\" Is in Waray, and the Line Waray Uses Instead\n\n\"Miss kita\" is not Waray. In Waray-Waray, `kita` is the first-person plural inclusive pronoun — we, us, let's — so the phrase reads as *we miss*, never as *I miss you*. The Waray sentence a Tagalog speaker would render *Namis kita* is **Gin-mingaw ako ha imo**, and it is attested: [sentence 11312979 in the Tatoeba corpus](https://tatoeba.org/en/sentences/show/11312979), filed under the Waray language code `war`. We counted the whole of that corpus rather than assuming — 2,391 Waray sentences, 37 of which contain `kita`, and not one of those 37 uses it as an I-to-you pair. Around the line, we can say what the sending actually looks like: across 214 \"I miss you\" pages built on our own template, 43.5% of senders password-protected the page before sharing it against 38.5% platform-wide, and the median letter ran 88 words. Below: the Waray lines, the dictionary entries behind them, and where Waray parts company with Cebuano.\n\n## What does \"kita\" mean in Waray?\n\n`Kita` in Waray is the pronoun that means *we* or *us*, including the person being spoken to. It is a plural. It cannot carry a separate \"I\" and \"you\" inside one word the way Tagalog's `kita` does.\n\nThat is not a judgement call, it is a count. All 37 Waray sentences in the Tatoeba corpus containing `kita` read as inclusive plurals: *Madalagan kita* — \"We will run.\" *Burubligay kita* — \"Let us help one another.\" *Kana kalangoy kita* — \"Let's go swimming.\" *Puydi kita mag-estorya?* — \"Can we talk a second?\" *Makakailub kita ha búlig hiton Guinoo* — \"We will survive with God's help!\"\n\nThe nearest thing to a two-person reading is *Baga'n magka-edad la kita*, glossed \"I'm roughly the same age as you\" — and even there `kita` covers both people at once rather than aiming one at the other. So \"miss kita\" said to a Waray speaker is borrowed Tagalog. It will be understood, because nearly everyone in the Philippines has Tagalog. It is simply not the language you meant to use.\n\n## Five Waray ways to talk about missing someone\n\nEach entry gives the line, where it is recorded, what it literally says, and who should send it.\n\n### 1. Gin-mingaw ako ha imo\n\nThe modern, everyday line, and the one to send. Recorded as Tatoeba sentence 11312979 under `war`, licensed CC BY 2.0 FR, with translations attached in Tagalog (*Namis kita*), Interlingua (*Tu me mancava*) and Polish. Literally it builds on `mingaw`, sadness or stillness, with the `gin-` prefix and the oblique `ha imo`, \"to you\" — closer to \"I am made lonely by you\" than to English's transitive \"miss\". Send this one if you want one sentence and nothing else.\n\n### 2. Gin-mingaw ak ha im\n\nThe same sentence contracted, recorded separately as Tatoeba 11312977: `ako` shortens to `ak`, `imo` to `im`. This is how it sounds spoken quickly between people who already know each other. Write the full form in a letter and use this one in a voice note — only 13.6% of miss-you senders record one, which is exactly why it lands.\n\n### 3. Nahihidlaw ako ha imo\n\nThe older and more literary verb. Sánchez de la Rosa's [1895 *Diccionario Hispano-Bisaya* for Samar and Leyte](https://archive.org/details/diccionario-hispano-bisaya-y-bisaya-espanol) gives **HIDLAO. v.** as *\"echar de menos al ausente, desear verle\"* — to miss the one who is absent, to want to see them — and prints the worked sentence *Nahihidlao aco san acon iroy*, \"I miss my mother, I want to see my mother.\" Swap the mother for the person you are writing to and you have the line above. Note the doubled syllable: na-**hi**-hidlaw.\n\n### 4. Kahidlaw\n\nThe feeling as a noun, not a sentence. The same 1895 dictionary lists **CAHIDLAO** as *\"deseo, anhelo, ansia\"* — desire, longing, craving. Use it when you want to name what you are feeling rather than address the person: *an akon kahidlaw*, my longing. It suits a caption or a first line more than a message.\n\n### 5. Pag-ilíw\n\nReserved for things and places, not people. The dictionary's **ILIO. v.** reads *\"echar de menos una cosa, tener sentimiento y pena por la falta de ella\"* — to miss a thing, to feel sorrow at its absence. The Spanish-to-Bisaya side of the same volume does offer *pagilio* for a person or a thing, but the Waray-side entry is narrower, so we keep it for the town, the house, the rain.\n\n## Which Waray line to send\n\nThe right line depends on the format you are sending it in. The last column comes from our own 214 miss-you pages, not from any dictionary.\n\n| Waray line | Recorded in | What it literally says | Fits the sender who… |\n|---|---|---|---|\n| Gin-mingaw ako ha imo | Tatoeba 11312979 (`war`), CC BY 2.0 FR | \"I am made lonely by you\" | writes the 88-word median letter and nothing longer |\n| Gin-mingaw ak ha im | Tatoeba 11312977 (`war`) | the same, contracted in speech | is among the 13.6% who record a voice note |\n| Nahihidlaw ako ha imo | Sánchez de la Rosa 1895, s.v. HIDLAO | \"I long to see you, who are absent\" | is among the 92.1% who add an \"open when\" letter |\n| Kahidlaw | Sánchez de la Rosa 1895, s.v. CAHIDLAO | \"longing, craving\" (a noun) | wants a title, not a sentence |\n\nThe takeaway: one line does the work, and everything else belongs in the letter underneath it.\n\n## Is Waray the same language as Cebuano?\n\nNo. [ISO 639-3 lists `war` as **Waray (Philippines)**](https://iso639-3.sil.org/code/war) and `ceb` as **Cebuano**, each with Status Active, Scope Individual and Type Living, and each carried in both the 639-2 and 639-3 code sets. Two separate individual languages that happen to be Bisayan.\n\nThe dictionaries make the difference concrete. Encarnación's [1885 Cebuano *Diccionario bisaya-español*](https://archive.org/details/aqp5055.0001.001.umich.edu) gives **HIDLAO** as *\"desear afectuosamente ver al ausente\"* with the sentence *Nahidlao acó canimo, ginahidlaóan ta icáo*. Sánchez de la Rosa's Samar-and-Leyte volume, ten years later, gives the same root with a different shape around it: *Nahihidlao aco san acon iroy*.\n\nThree differences in one line. Waray reduplicates the syllable (na-hi-hidlaw) where the Cebuano entry does not. Waray marks the person with `sa imo` in 1895 and `ha imo` today; Cebuano uses `kanimo`. And neither language fuses the two pronouns — both need a separate word for \"I\" and a separate phrase for \"you\", which is precisely why `kita` cannot be doing the job people think it does.\n\n## What the Waray record does not contain\n\nTwo absences cut against the grain.\n\nFirst, `hidlaw` — the word the 1895 dictionary treats as *the* verb for missing an absent person — returns **zero** sentences in the [Waray Tatoeba corpus, 2,391 sentences in all](https://tatoeba.org/en/stats/sentences_by_language). So do `hidlao`, `nahidlaw`, `nahihidlaw`, `ilíw` and the English `miss`. The only attested miss-you sentences are the two `mingaw` ones, and `mingaw` in 1895 was glossed only as *triste, melancólico, silencioso*. Somewhere between then and now, `mingaw` took over a job the dictionary had given to `hidlaw`. We can show both endpoints and not the middle.\n\nSecond, the open reference layer barely covers Waray. English Wiktionary's Waray-Waray lemma category holds 720 pages, and `hidlaw`, `mingaw`, `kahidlaw`, `kita` and `imo` each carry Cebuano, Tagalog, Hiligaynon or Bikol sections with no Waray section on any of them. That absence is the mechanism by which a Waray query keeps getting a Cebuano answer.\n\nWe should say the same about our own page. Our [guide to saying \"I miss you\" in different languages](/blog/i-miss-you-in-different-languages) carries exactly one Philippine entry — \"Tagalog (Filipino): Miss na kita\" — and no Waray line at all. It needs one, and it should read *Gin-mingaw ako ha imo*.\n\n## What 214 miss-you pages say about what goes around the line\n\nA translated line is a few words; the page it sits on is the rest. Across 214 pages built on the [miss-you page for a partner](/missyou-gf) since 2026-07-28, the median letter is 88 words and the longest is 1,024. The short one is the norm, not the failure.\n\nThe most useful number is recipient-side, which nobody else publishes because nobody else measures it: recipients tapped a \"hug\" button **1,434 times across 138 of the 214 pages**, 512 of those on a single page. People reopen this kind of page and press the thing again.\n\nThree limits travel with these figures and must not be dropped. The city, background-music and \"together since\" fields are pickers with defaults, so their fill rates are not sender choices and nothing here is built on them. Our view counts are page views, not unique visitors — one recipient reopening a page twenty times is twenty views. And n = 214 over two months since the template went live on 2026-07-28, which is far too little to support any seasonal or festival claim.\n\nOne more, because it decides which format suits you: only 28.0% of senders set a reunion date for the countdown. If you are among the other seven in ten with no date to point at, a countdown has nothing to count, and a [daily shared streak](/streak) — one tap each per day, which quietly accumulates into a diary — fits an open-ended separation better than a single page does.\n\n## When a Waray line is the wrong thing to send\n\nIf the person is more comfortable in Tagalog, send Tagalog. A Waray sentence delivered to someone who thinks in Tagalog reads as a party trick rather than as intimacy.\n\nIf you cannot pronounce it, leave the Waray line out. A misread `gin-mingaw` does more damage than a plain sentence in a language you actually speak.\n\nAnd if the recipient has no private device, skip the page. Password-protection at 43.5% is the defining behaviour of this segment, and a password on a shared family phone is an obstacle, not a protection. A written note wins there.\n\nTreat this page as provisional. A [2025 study of the Waray belief *ugmad*](https://doi.org/10.21315/ijaps2025.21.2.3) in the *International Journal of Asia Pacific Studies* closes by recommending more collection of culturally significant Waray terms and oral traditions — a fair description of the gap this page is working inside.\n\n## Sources\n\n- Tatoeba, Waray (`war`): sentences 11312979 and 11312977, and the corpus size table, both linked above. Counted 2026-09-25.\n- Antonio Sánchez de la Rosa, *Diccionario Hispano-Bisaya … para las provincias de Samar y Leyte* (Manila: Chofre y Comp., 1895).\n- Juan Félix de la Encarnación, *Diccionario bisaya-español* (1885).\n- ISO 639-3 (SIL Global), identifier documentation for `war` and `ceb`.\n- Aldwin B. Amat, \"Discovering Ugmad as a Belief Among the Waray of Eastern Visayas\", *International Journal of Asia Pacific Studies* 21(2), 2025, 51–69 — abstract read; the PDF carries no extractable text layer.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-kita-in-waray#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Waray language",
+            "alternateName": "Waray-Waray",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Waray_language",
+              "https://www.wikidata.org/wiki/Q34279"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Cebuano language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Cebuano_language",
+              "https://www.wikidata.org/wiki/Q33239"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bisayan languages",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bisayan_languages",
+              "https://www.wikidata.org/wiki/Q1584458"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Eastern Visayas",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Eastern_Visayas",
+              "https://www.wikidata.org/wiki/Q13675"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 11312979 (war): Gin-mingaw ako ha imo., with the contracted alternative 11312977: Gin-mingaw ak ha im.",
+            "url": "https://tatoeba.org/en/sentences/show/11312979",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba: number of sentences by language",
+            "url": "https://tatoeba.org/en/stats/sentences_by_language",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Diccionario Hispano-Bisaya para las provincias de Samar y Leyte",
+            "author": {
+              "@type": "Person",
+              "name": "Antonio Sánchez de la Rosa"
+            },
+            "url": "https://archive.org/details/diccionario-hispano-bisaya-y-bisaya-espanol",
+            "datePublished": "1895",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tipo-Litografía de Chofre y Comp., Manila"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Diccionario bisaya-español",
+            "author": {
+              "@type": "Person",
+              "name": "Juan Félix de la Encarnación"
+            },
+            "url": "https://archive.org/details/aqp5055.0001.001.umich.edu",
+            "datePublished": "1885"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ISO 639-3 identifier documentation: war (Waray, Philippines)",
+            "url": "https://iso639-3.sil.org/code/war",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SIL Global"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Discovering Ugmad as a Belief Among the Waray of Eastern Visayas",
+            "author": {
+              "@type": "Person",
+              "name": "Aldwin B. Amat"
+            },
+            "url": "https://doi.org/10.21315/ijaps2025.21.2.3",
+            "datePublished": "2025",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Asia Pacific Studies, Universiti Sains Malaysia Press"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five Waray ways to talk about missing someone",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Gin-mingaw ako ha imo",
+            "description": "The modern everyday line; Tatoeba sentence 11312979 under the Waray code war, translated there into Tagalog as Namis kita."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Gin-mingaw ak ha im",
+            "description": "The contracted speech form, Tatoeba 11312977: ako shortens to ak and imo to im."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Nahihidlaw ako ha imo",
+            "description": "The older literary verb; Sánchez de la Rosa 1895 glosses HIDLAO as echar de menos al ausente, desear verle."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kahidlaw",
+            "description": "The feeling as a noun; CAHIDLAO in the 1895 dictionary, glossed deseo, anhelo, ansia."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Pag-ilíw",
+            "description": "Reserved for things and places; ILIO is glossed echar de menos una cosa, tener sentimiento y pena por la falta de ella."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss kita in waray",
+    "angle": "Wins by being the only post that answers the keyword from the Waray record itself — every one of the 2,391 Waray sentences on Tatoeba counted (0 hidlaw, 0 miss, 37 kita all inclusive plurals, and the attested Gin-mingaw ako ha imo), set against the 1895 Samar-and-Leyte dictionary and the 1885 Cebuano one — rather than from Cebuano sources with the spelling changed, and grounded in 214 first-party miss-you pages where the median letter runs 88 words and 43.5% of senders password-protect the page.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://tatoeba.org/en/sentences/show/11312979",
+        "stat": "Waray (war) sentence 11312979, \"Gin-mingaw ako ha imo.\", CC BY 2.0 FR, with translations attached in Tagalog (\"Namis kita.\"), Interlingua (\"Tu me mancava.\") and Polish (\"Tęskniłe/am za tobą.\") — the attested Waray rendering of the Tagalog \"Namis kita\", containing no kita of its own. Linked from it as a Waray alternative is sentence 11312977, \"Gin-mingaw ak ha im.\", the contracted speech form (ako to ak, imo to im) carrying the same three translations"
+      },
+      {
+        "url": "https://tatoeba.org/en/stats/sentences_by_language",
+        "stat": "Waray (war) holds 2,391 sentences, rank 117, against Cebuano (ceb) 1,877, Ilocano (ilo) 2,472, Kapampangan (pam) 1,482 and Tagalog (tgl) 79,134. Searched from=war on 25 September 2026: 0 sentences contain hidlaw, hidlao, nahidlaw, nahihidlaw or ilíw; 0 contain the English miss; 2 contain mingaw; 37 contain kita and all 37 are first-person plural inclusive (Madalagan kita, 'We will run'; Burubligay kita, 'Let us help one another'; Puydi kita mag-estorya?, 'Can we talk a second?')"
+      },
+      {
+        "url": "https://archive.org/details/diccionario-hispano-bisaya-y-bisaya-espanol",
+        "stat": "Sánchez de la Rosa's Samar-and-Leyte (Waray) dictionary: HIDLAO. v. 'Echar de menos al ausente, desear verle' with the worked sentence 'Nahihidlao aco san acon iroy' glossed 'Echo de menos á mi madre, deseo ver á mi madre'; CAHIDLAO. s. 'Deseo, anhelo, ansia'; ILIO. v. 'Echar de menos una cosa, tener sentimiento y pena por la falta de ella'; MINGAO. adj. 'Triste, lleno de tristeza; melancólico; desconsolado... Silencioso'. The second-person oblique is written 'sa imo' throughout. Read from the item's _djvu.txt full text; obvious OCR artefacts normalised",
+        "publishedDate": "1895"
+      },
+      {
+        "url": "https://archive.org/details/aqp5055.0001.001.umich.edu",
+        "stat": "Encarnación's Cebuano dictionary, the era-matched control: HIDLAO. 'Desear afectuosamente ver al ausente' with the sentence 'Nahidlao acó canimo, ginahidlaóan ta icáo' glossed 'Deseaba con ansia, de veras, verte' — plain nahidlao and the oblique canimo, against Waray's reduplicated nahihidlao and sa imo. MINGAO appears only in 'namíngao uyámot', glossed 'muy seria, grave, lúgubre', of a piece of music. Read from the item's _djvu.txt full text",
+        "publishedDate": "1885"
+      },
+      {
+        "url": "https://iso639-3.sil.org/code/war",
+        "stat": "war is registered as 'Waray (Philippines)', Status Active, Code Sets 639-2 and 639-3, Scope Individual, Language Type Living; ceb is registered separately as 'Cebuano' with the same status, scope and type — two individual living languages, not dialects of one another"
+      },
+      {
+        "url": "https://doi.org/10.21315/ijaps2025.21.2.3",
+        "stat": "Amat's study of ugmad, a Waray belief about intense fear or trauma affecting a child from conception to birth, naming the Waray terms punò, ginpupusód and suób, and recommending 'further research on culturally significant terms among ethnic groups, as well as the collection of oral traditions to enrich regional and local literature'. Abstract read only — the DOI serves an image-layer PDF with no extractable text",
+        "publishedDate": "2025"
+      }
+    ],
+    "structuralLimitations": [
+      "PROMPT CLAIM CHECKED AND HELD, WITH A CORRECTION. The task prompt asked whether Waray gives this keyword anything of its own or whether the Waray answer is 'the Cebuano answer with different spelling'. It is not: Tatoeba attests Gin-mingaw ako ha imo for Waray with ha imo, where Cebuano's attested line is gimingaw ko nimo; ISO 639-3 registers war and ceb as separate individual living languages; and the 1895 Samar-Leyte and 1885 Cebuano dictionaries record measurably different shapes around the shared hidlaw root. The prompt's suggestion to 'check hidlaw / mingaw / kahidlaw in Waray sources specifically' was right and productive. The prompt's expectation that Waray might 'pattern with Cebuano' on kita was correct in outcome (both are inclusive we) but was verified independently here from 37 Waray corpus sentences rather than assumed.",
+      "CANNIBALISATION. Against the four finished Philippine siblings in this batch: miss-kita-in-bisaya establishes Cebuano hidlaw and gimingaw and that kita is Tagalog grammar; i-miss-you-in-tagalog covers Tagalog's borrowed verb and pangungulila/sabik; no-tagalog-word-for-miss refutes the no-word premise via KWF and WOLD; miss-na-miss-kita-meaning analyses the X-na-X intensive. This post shares none of their sources except the cap-exempt Tatoeba domain (different language code, different sentences) and repeats none of their claims. What it does that they do not: it counts an entire language corpus (2,391 Waray sentences) rather than sampling it; it sets two era-matched colonial dictionaries of two different Bisayan languages side by side; and it reports two measured zeros. Language is one of the three axes the BRIEF names as never a duplicate, and Waray is a distinct ISO 639-3 language from Cebuano, so this is not a Bisaya duplicate. The recommendation is to keep it as a separate page.",
+      "ERROR FOUND ON OUR OWN LIVE HUB. /blog/i-miss-you-in-different-languages was fetched on 2026-09-25. It carries exactly one Philippine entry — 'Tagalog (Filipino): Miss na kita / Nami-miss kita (miss na kee-tah)' — and no Waray, Cebuano/Bisaya, Ilocano or other Philippine line anywhere on the page, while treating Tagalog and Filipino as a single label. It should gain a Waray row reading 'Gin-mingaw ako ha imo'. This matches what the Bisaya sibling reported about the missing Bisaya line.",
+      "TATOEBA CORPUS COUNT, REPORTED EITHER WAY AS INSTRUCTED. Waray is not a zero corpus: 2,391 sentences, rank 117, larger than Cebuano's 1,877. But the searches inside it return zeros that matter — 0 sentences containing hidlaw, hidlao, nahidlaw, nahihidlaw or ilíw, and 0 containing the English miss. The api_v0 search endpoint caps its reported count at 1000 and cannot be used to size a language; the figures above come from tatoeba.org/en/stats/sentences_by_language.",
+      "EIGHT LINES CUT. (1) 'Miss kita' as a Waray line — Tagalog grammar. (2) 'Hidlaw kita' — would mean 'we long'. (3) 'Nahidlaw ako kanimo' as Waray — that is the Cebuano dictionary's sentence, the exact error this post corrects. (4) 'Gimingaw ko nimo' as a Waray alternative — Cebuano. (5) All Romuáldez 1908 verse quotations — the scan attests kahidlaw in Waray verse but its OCR renders the line as 'sa dako j£i pag kahidlaw' and is too corrupt to quote. (6) Any Waray speaker-population figure — ethnologue.com returned HTTP 403, so the post makes no claim about speaker numbers. (7) mingaw glossed as 'I miss you' from the 1895 dictionary — the 1895 entry is triste/silencioso only, and the post keeps the 1895 and modern readings apart. (8) ilíw for missing a person — the Waray-side ILIO entry restricts it to una cosa.",
+      "SOURCES THAT COULD NOT BE FETCHED. webonary.org (SIL) — HTTP 403 Cloudflare challenge, so no SIL Waray lexicon was reachable despite the prompt naming it. ethnologue.com/language/war — HTTP 403 Cloudflare challenge. library.oapen.org — HTTP 403 bot challenge, so Llamzon's A Subgrouping of Nine Philippine Languages (1969) was not read and no subgrouping claim is sourced to it. ijaps.usm.my's Vol. 21 No. 2 issue page served no article links or PDF hrefs.",
+      "REFERENCE-LAYER GAP, MEASURED. English Wiktionary's Category:Waray-Waray lemmas holds 720 pages (733 including subcategory entries), and no Waray-Waray section exists on hidlaw, mingaw, kahidlaw, kita or imo — each carries Cebuano, Tagalog, Hiligaynon or Central Bikol sections instead. This is stated in the body as the mechanism by which Waray queries receive Cebuano answers. The count came from the MediaWiki categoryinfo API rather than from a page the body links.",
+      "SERP. One WebSearch on the exact keyword on 2026-09-25 returned no article of any kind: five near-identical mymemory.translated.net translation-memory pages, four song-cover video uploads, and the Wikipedia entry for a 1981 Tagalog Christmas ballad. No AI Overview and no featured snippet. Nothing was cited, linked or paraphrased from any of them. This means the usual gap analysis had no competing text to analyse, and the claim 'no competitor covers X' is grounded in an absence that was actually observed rather than assumed.",
+      "CAP POSITION, RE-CHECKED IMMEDIATELY BEFORE SAVING. capcheck.mjs was updated again while this post was being written and its exempt list now includes archive.org alongside tatoeba.org, iso639-3.sil.org, diksiyonaryo.ph and the europepmc/pmc family, so the two archive.org dictionary URLs used here are reference instruments and uncapped. Both were still fetched in full and both are unused elsewhere in the batch. The one capped domain this post touches is doi.org: it stood at 2 posts and this takes it to exactly 3, at the cap and not over. Per the BRIEF a DOI counts against the publisher it resolves to, and this one resolves to Universiti Sains Malaysia Press / ijaps.usm.my, which no other post in the batch cites; a direct publisher URL was preferred but the journal's Vol. 21 No. 2 listing exposed no article link. If a concurrent agent also lands on doi.org, this is the citation to swap, because the ugmad study is the least load-bearing of the seven.",
+      "WHAT THIS POST CANNOT DO. It shows the 1895 endpoint and the 2026 endpoint of the hidlaw-to-mingaw shift and nothing in between; there is no dated Waray corpus that would let anyone put a period on it. Two corpus sentences by a single contributor are thin evidence for a whole language's everyday usage, and the zeros are facts about one corpus rather than about Waray speech. The first-party segment is n=214 over two months."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three of the four internal links (/missyou-gf, /streak) are from TEMPLATE_LINKS, but the fourth is the live hub /blog/i-miss-you-in-different-languages, which the batch BRIEF §2 requires this post to link up to. TEMPLATE_LINKS contains no blog URLs, so the two rules cannot both be satisfied. Structural: closes only if a blog-hub URL is added to TEMPLATE_LINKS."
+        },
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "\"Five Waray ways to talk about missing someone\" is a five-entry lexicon; answering it in 2-3 sentences would delete four of the five dictionary glosses that are the post's entire evidence base. Structural: closes only if the lexical entries move to their own page."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "Recorded, and the item is listed here rather than in passed because the blocker is not a paywall: the IJAPS article is open access, but the PDF served by the DOI is an image-layer scan with no extractable text, and ijaps.usm.my's Vol. 21 No. 2 listing served no article link. Only the Crossref-deposited abstract was read. Closes if a text-layer PDF or an HTML full text appears."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Six outbound URLs are linked and all six were fetched, but three of the quoted facts are not visible on the page that is linked: the Waray and Cebuano dictionary glosses were read from each archive.org item's _djvu.txt full text rather than from the /details landing page, and the Wiktionary Waray lemma count (720) came from the MediaWiki categoryinfo API, which is cited in prose without a link because a seventh outbound URL would breach the 3-6 cap. The linked items host those files; they do not display the quoted strings. Closes if archive.org search-inside deep links are used."
+        }
+      ],
+      "honestAssessment": "It is the only page on this query that counted the Waray evidence instead of borrowing Cebuano's: 2,391 corpus sentences sized, 37 kita sentences read one by one, two measured zeros, and two era-matched colonial dictionaries of two different Bisayan languages set side by side — none of which any of the ten SERP results contains, since none of them is an article. The ceiling is demand, not quality: this is a thin-traffic long tail, the corpus evidence rests on two sentences by one Tatoeba contributor, and subhsandesh.in has no authority in Philippine linguistics, so citation by an answer engine is a more realistic outcome here than ranking."
+    },
+    "generatedAt": "2026-09-25T08:07:42.033Z"
+  }
+}

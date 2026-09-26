@@ -1,0 +1,373 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Italian: Mi Manchi, and the Error That Reverses It",
+    "slug": "i-miss-you-in-italian",
+    "excerpt": "Mi manchi puts the person you are missing in the subject slot, so the English word order produces ti manco — \"you miss me\". Every form is graded against the Treccani sense that licenses it and against an attested Tatoeba sentence id, and the phrases the corpus does not have are named.",
+    "metaTitle": "I Miss You in Italian — Mi Manchi, Checked Against Treccani",
+    "metaDescription": "I miss you in Italian is mi manchi — the other person is the subject. Say ti manco and it means \"you miss me\". All 6 forms checked in Treccani and Tatoeba.",
+    "keywords": "i miss you in italian, mi manchi, ti manco, mi manchi tanto, quanto mi manchi, how to say i miss you in italian",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-italian",
+    "ogType": "article",
+    "tags": [
+      "italian",
+      "miss-you",
+      "long-distance",
+      "translation",
+      "language"
+    ],
+    "keyTakeaways": [
+      "Mi manchi is \"you are lacking to me\" — Treccani files it under mancare sense 1.c, \"Con il compl. di termine\", so the person you are missing is the grammatical subject and mi is the indirect object.",
+      "Ti manco is not a broken sentence, it is the opposite one: Tatoeba attests it twice (3869907, 4962399) and both translations read \"you miss me\".",
+      "Italian has only ten Dative Experiencer verbs against 224 Accusative Experiencer verbs, per Vietri's 2026 open-access survey, and mancare is one of the ten — this is a small club, not a general Italian habit.",
+      "Mi manchi da morire returns zero hits in Tatoeba's Italian corpus; only the compound past Mi sei mancato da morire (4541855) is attested, and this post says so rather than printing the phrase.",
+      "Across 214 miss-you pages measured on 2026-09-25 the median letter is 88 words and 43.5% of senders password-protect the page, against 38.5% platform-wide — the most private segment measured."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say \"I miss you\" in Italian?",
+        "answer": "Mi manchi. Treccani prints the phrase itself under mancare, sense 1.c, glossed as referring to a person \"di cui si sente … la lontananza, e quindi il desiderio e il rimpianto\". Tatoeba attests it as sentence 4378, paired directly with \"I miss you.\""
+      },
+      {
+        "question": "If I text \"ti manco\" by mistake, what have I actually said?",
+        "answer": "You have said \"you miss me\". It is a grammatical Italian sentence, which is why nothing in the reply will flag it. Tatoeba has two: Non ti manco per niente? (3869907, \"Do you miss me at all?\") and Forse un giorno ti accorgerai che ti manco (4962399)."
+      },
+      {
+        "question": "Why is the Italian sentence the other way round from English?",
+        "answer": "Because the verb agrees with whoever is absent, not with whoever feels anything. Treccani calls the mi a complemento di termine — an indirect object. Simonetta Vietri's 2026 survey counts only ten verbs in this Italian class, against 224 in the ordinary one, and mancare is one of the ten."
+      },
+      {
+        "question": "How do I say \"I miss you\" to more than one person?",
+        "answer": "Mi mancate, attested at Tatoeba 1017022. The ending moves to the plural because the verb is agreeing with them, not with you. For a group you refer to rather than address, it is mi mancano (5438340)."
+      },
+      {
+        "question": "How do I say \"we miss you\" in Italian?",
+        "answer": "Ci manchi, attested at Tatoeba 3247477, and ci manchi tanto at 615305. Only the pronoun changes — ci instead of mi — because the person doing the missing is the one marked by the pronoun."
+      },
+      {
+        "question": "How do I say \"I missed you\" about something that has already happened?",
+        "answer": "Mi sei mancato to a man, mi sei mancata to a woman — Tatoeba 381446 and 2180667. Treccani marks this sense of mancare as taking the auxiliary essere, so mi hai mancato is not the past of this phrase."
+      },
+      {
+        "question": "Is \"mi manchi\" only romantic, or can I send it to family?",
+        "answer": "Treccani's sense 1.c attaches no register or relationship restriction to it. The corpus agrees: Mamma! Mi manchi così tanto (6163487) is addressed to a mother. The tone comes from what you write around the line."
+      },
+      {
+        "question": "Is \"mi manchi da morire\" correct Italian?",
+        "answer": "I could not attest it. Searching the exact forms manchi and morire together in Tatoeba's Italian corpus returns zero results. The only da morire line with this verb is the compound past, Mi sei mancato da morire (4541855). That is not proof it is wrong — it is the honest state of the evidence."
+      },
+      {
+        "question": "How should \"mi manchi amore\" actually be written?",
+        "answer": "With a comma: Mi manchi tanto, amore! is the single attested sentence (3239425). Amore there is a vocative — you are addressing the person. Run together without the comma, it reads as though amore were the grammatical subject."
+      },
+      {
+        "question": "Why do I keep seeing \"manco\" used to mean \"not even\"?",
+        "answer": "Because it is a homograph. Of the twelve Tatoeba sentences containing the exact form manco, four are the colloquial adverb meaning \"not even\", as in non sa manco cosa sia la satira (3398603). Searching the bare word returns mostly sentences that have nothing to do with missing anyone."
+      },
+      {
+        "question": "Is Italian \"mi manchi\" the same construction as Spanish \"me haces falta\"?",
+        "answer": "No. Mancare is a single verb; me haces falta is a light-verb idiom built on the noun falta. Searching the Spanish corpus for the exact forms haces and falta together returns one sentence, No haces falta aquí (3828150) — \"You're not needed here\". Spanish's everyday forms, te extraño and te echo de menos, are not inverted at all."
+      },
+      {
+        "question": "Should I write the whole message in Italian, or just the line?",
+        "answer": "Just the line, unless you can read the reply. Across 214 miss-you pages measured on 2026-09-25 the median letter is 88 words — about one phone screen, which is room for the Italian phrase, its English gloss and two specific memories."
+      }
+    ],
+    "coverImageQuery": "handwritten italian letter long distance couple",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note in Italian resting on a wooden table beside a phone showing an unanswered video call, shot in late-afternoon window light with a shallow depth of field. The paper is slightly creased, the ink is blue, and the composition leaves clean negative space across the top third for a title overlay, 16:9. Muted terracotta and olive tones, nothing staged or stock-glossy. No legible text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Italian: Mi Manchi, and the Error That Reverses It\n\n\"I miss you\" in Italian is **mi manchi** — a sentence assembled backwards from the English one. *Mi manchi* is \"you are lacking to me\": the person you are missing is the grammatical subject, and *mi* is the indirect object. Arrange the pronouns the English way and you get **ti manco**, a real Italian sentence meaning \"you miss me\". Treccani prints *mi manchi* by name in its *mancare* entry; Tatoeba attests it as sentence 4378. Every line below is checked against those two, then set beside what goes around it: across 214 \"I miss you\" pages built since 2026-07-28, the median letter runs 88 words, and 43.5% of those senders password-protect the page before sharing, against 38.5% platform-wide.\n\n## What Treccani actually licenses for \"mi manchi\"\n\nThe [Treccani *Vocabolario* entry for *mancare*](https://www.treccani.it/vocabolario/mancare/) opens `v. intr. e tr. [der. di manco¹] (io manco, tu manchi, ecc.)`. Sense 1 is intransitive, takes *essere*, and splits four ways; only one reaches a sentence about a person.\n\nSense **1.a** is quantity — \"Essere in quantità o in numero insufficiente\", as in *mi manca il tempo*. Sense **1.b** is sudden failing, \"col sign. di venir meno\": *gli mancò il fiato*. Those are what people mean when they say *mancare* means \"to lack\". Neither licenses *mi manchi*.\n\nSense **1.c** does. It opens \"Di persona, essere assente, essere lontano da un luogo in cui dovrebbe o potrebbe essere\" — of a person, to be absent, far from where they should be. Then, verbatim: \"Con il compl. di termine, in frasi quali *mi manchi*, *mi sei mancato*, *ci mancherai*, *ci manca molto* e sim., riferite a persona di cui si sente, si è sentita o si sentirà la lontananza, e quindi il desiderio e il rimpianto.\"\n\nTwo things follow. Treccani's own name for the grammar is **complemento di termine**, the indirect object. And because sense 1 takes *essere*, the past is **mi sei mancato** to a man, **mi sei mancata** to a woman, never *mi hai mancato*.\n\n## Ti manco is a real sentence. It means the opposite.\n\n*Ti manco* is not something Italian rejects. It is grammatical, and it reverses who is missing whom — which is worse, because nothing in the reply will tell you it went wrong.\n\nThe corpus settles it. Tatoeba's Italian collection holds exactly twelve sentences with the exact form *manco*, and two use *ti manco*: 3869907, *Non ti manco per niente?*, \"Do you miss me at all?\", and 4962399, *Forse un giorno ti accorgerai che ti manco*. Both render it **you miss me**.\n\nWith a name instead of a pronoun the shape is plain: *Manco a Tom?* (8831521) is \"Does Tom miss me?\" — the one missing is marked with *a*, Treccani's *complemento di termine*.\n\nI found no study measuring how often English speakers produce *ti manco* — four searches through Crossref and Europe PMC returned Turkish learners and Italian clitic dislocation, nothing on this — so I put no number on it. The structural point stands alone: English makes the one who feels the emotion the subject, Italian makes the absent person the subject, and word-for-word mapping reverses it.\n\n## The paradigm, every line checked\n\nEach row is an attested Tatoeba sentence, with its id.\n\n| Italian | Who the verb agrees with | English | Tatoeba id |\n|---|---|---|---|\n| Mi manchi. | tu — the one person you miss | I miss you. | 4378 |\n| Mi manca. | lui / lei / Lei — one person, or the polite form | I miss you. / I miss him. | 479785 |\n| Mi mancate. | voi — several people | I miss you. | 1017022 |\n| Mi mancano. | loro — several people | I miss them. | 5438340 |\n| Ti manco. | io — and the meaning flips | You miss me. | 3869907 |\n\n*Ci manchi*, \"we miss you\", is attested at 3247477 and *ci manchi tanto* at 615305. The verb never agrees with whoever feels anything. It agrees with whoever is absent, though *mi mancate* looks plural while the feeling is one person's.\n\nSimonetta Vietri's [survey of Italian dative experiencer verbs](https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/the-variety-of-syntactic-patterns-of-dative-experi/), open access from 29 April 2026, shows how rare this is. Against 224 Accusative Experiencer verbs and 87 Subject Experiencer verbs in her 2024 taxonomy, Italian has **only ten Dative Experiencer verbs** — and *mancare* is one, beside *piacere*, *dispiacere* and *importare*. Of *mancare* she writes that it is stative and that \"the Subject plays the role of the Object of Emotion\". This is not a general Italian habit. It is a ten-verb club, and the verb for missing someone is in it.\n\n## Mi manchi tanto, quanto mi manchi — and one phrase the corpus does not have\n\n*Mi manchi tanto* is \"I miss you so much\" (3137826), *Mi manchi così tanto* is stronger (3637742), and *Quanto mi manchi!* is \"How I miss you\" (1389532). In *Tu mi manchi così tanto* (3637743) the optional subject pronoun is *tu* — the pronoun you would expect to be *ti* if the grammar worked the English way.\n\n**`mi manchi amore` returns exactly one attested sentence**, and it has a comma: *Mi manchi tanto, amore!* (3239425). *Amore* is a vocative — you are addressing someone. Without the comma it reads as though *amore* were the subject.\n\n**`mi manchi da morire` returns nothing.** The exact forms *manchi* and *morire* together give zero results in Tatoeba's Italian corpus. The only *da morire* line with this verb is 4541855, *Mi sei mancato da morire*, compound past, \"My longing for you is killing me!\" That does not make the present-tense version wrong — it means nobody has attested it in the corpus I checked, and saying so beats printing it as if someone had.\n\n## Is it the same as Spanish \"me haces falta\"? I checked, and no\n\nIt is tempting to say Romance languages all invert this. French does — *tu me manques* is the same verb and direction, attested at Tatoeba 3124. Spanish is where it breaks.\n\nSpanish's two everyday forms, *te extraño* and *te echo de menos*, are **not** inverted — the sender is the subject, as in English. The inverted-looking *me haces falta* is a different animal: a light-verb idiom on the noun *falta*, not a single verb like *mancare*. Searched for the exact forms *haces* and *falta* together, the Spanish corpus returns one sentence — *No haces falta aquí* (3828150), \"You're not needed here\". Need, not longing.\n\nTania Stortini's [comparison of Italian and Spanish dative experiencer verbs](https://www.mdpi.com/2226-471X/11/3/36), in *Languages* on 26 February 2026, describes the class as one where \"the Experiencer surfaces as a dative object and the Theme as the subject\" — and the Spanish verb she pairs with Italian *piacere* is *gustar*, nothing in the miss-you family. So the honest version is narrower: Italian's only ordinary way to say this is inverted, and Spanish's ordinary ways are not.\n\n## The verb behind it means \"maimed\" — and it also means \"died\"\n\nTreccani derives *mancare* from *manco¹*, and [that entry](https://www.treccani.it/vocabolario/manco1/) gives the Latin: *mancus*, \"monco, storpio, debole\" — maimed, crippled, weak.\n\nThe practical warning sits on the miss-you sense itself. Under 1.c Treccani records *mancare* as a euphemism for dying — \"quindi morire: *m. ai vivi*; *è mancato all'affetto dei suoi cari*\" — and files the participle *mancato* as an adjective, \"morto, defunto\". *Mi manchi* to someone living is unambiguous. But if you are writing about a person who has died, *è mancato* is already Italian's phrase for that, and a sentence built loosely around it reads as an announcement rather than a memory.\n\n## What 214 miss-you pages say about the words around the line\n\nChoosing the phrase is the small half. The figures come from 214 pages built on the [miss-you page for a partner](https://subhsandesh.in/missyou-gf), measured 2026-09-25.\n\nThe median letter is **88 words**, the longest 1,024 — about one phone screen, room for the Italian line, its English gloss and two specific memories. 86.4% of those pages carry at least one written memory, 4.5 on average.\n\nRecipients answer gesture more than length: across 138 of the 214 pages they tapped a \"hug\" **1,434 times**, 512 on one page alone. Voice notes are rarer than you would guess at 13.6%, and 28.0% set a reunion date for the countdown.\n\nThree limits travel with that. The city, background-music and \"together since\" fields are **pickers with defaults**, so the 47 city pairs those pages name — Mumbai–London and Berlin–London among them — are menu choices, not sender behaviour. View counts are page views, not unique visitors. And n = 214 over two months, since the template went live 2026-07-28, is far too little for a seasonal claim.\n\nIf you want the line itself to land rather than scroll past, the [photo jigsaw letter](https://subhsandesh.in/photo-puzzle) suits that reader better than a page of prose. Each piece placed reveals one line and plays a note, which lets the Italian phrase and its English gloss arrive separately — and the final piece is not in the box. For a sentence that literally means something is lacking, that is the closer fit.\n\nThis post sits under our hub on [saying I miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages), which gives Italian one row. This is the dictionary and corpus layer beneath that row.\n\n## When an Italian line is the wrong thing to send\n\nIf your Italian stops at the phrase, keep the page in English and put the Italian in one line. The reply comes back in Italian, and a message you must translate before you can feel it is worse than an English one that sounds like you.\n\nSend English outright if Italian is the recipient's second language too: a borrowed phrase between two non-speakers reads as costume, exposed fastest in the 13.6% of these 214 pages carrying a voice note.\n\nAnd if the missing follows an argument rather than a distance, no phrase here is the sentence you need — *mi manchi* after a fight reads as a way of not apologising.\n\n## Sources\n\n- Treccani, *Vocabolario on line*, **mancare**, sense 1.c — https://www.treccani.it/vocabolario/mancare/\n- Treccani, *Vocabolario on line*, **manco¹** — https://www.treccani.it/vocabolario/manco1/\n- Simonetta Vietri, *The Variety of Syntactic Patterns of Dative Experiencer Verbs in Italian*, Edizioni Ca' Foscari, 29 April 2026, CC BY — https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/the-variety-of-syntactic-patterns-of-dative-experi/\n- Tania Stortini, *Dative Experiencer Psych-Verbs in Italian and Spanish*, *Languages* 11(3):36, 26 February 2026, CC BY, abstract only — https://www.mdpi.com/2226-471X/11/3/36\n- Wiktionary, **mancare** — auxiliary *essere*, gloss \"He is missed by us very much\" — https://en.wiktionary.org/wiki/mancare\n- Tatoeba, Italian corpus — every line above carries its id — https://tatoeba.org/en/sentences/show/4378\n\nThe Accademia della Crusca was searched on 2026-09-25; its endpoints returned errors, so nothing from the Crusca is cited here.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-italian#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Italian language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Italian_language",
+              "https://www.wikidata.org/wiki/Q652"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Treccani",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Treccani",
+              "https://www.wikidata.org/wiki/Q731361"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Dative case",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dative_case",
+              "https://www.wikidata.org/wiki/Q145599"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Long-distance relationship",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani — mancare",
+            "url": "https://www.treccani.it/vocabolario/mancare/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Istituto della Enciclopedia Italiana"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani — manco¹",
+            "url": "https://www.treccani.it/vocabolario/manco1/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Istituto della Enciclopedia Italiana"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The Variety of Syntactic Patterns of Dative Experiencer Verbs in Italian",
+            "url": "https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/the-variety-of-syntactic-patterns-of-dative-experi/",
+            "author": {
+              "@type": "Person",
+              "name": "Simonetta Vietri"
+            },
+            "datePublished": "2026-04-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Edizioni Ca' Foscari"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Dative Experiencer Psych-Verbs in Italian and Spanish",
+            "url": "https://www.mdpi.com/2226-471X/11/3/36",
+            "author": {
+              "@type": "Person",
+              "name": "Tania Stortini"
+            },
+            "datePublished": "2026-02-26",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Languages (MDPI)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — mancare",
+            "url": "https://en.wiktionary.org/wiki/mancare",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — Italian sentence 4378, Mi manchi.",
+            "url": "https://tatoeba.org/en/sentences/show/4378",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "The mancare paradigm for saying \"I miss you\" in Italian",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Mi manchi. — I miss you (one person, tu)",
+            "description": "The verb agrees with tu, the person you are missing. Attested as Tatoeba sentence 4378, paired with \"I miss you.\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Mi manca. — I miss you (lui / lei / the polite Lei), or I miss him",
+            "description": "Third-person singular agreement. Attested as Tatoeba sentence 479785."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Mi mancate. — I miss you (voi, several people)",
+            "description": "Plural agreement on the verb although only one person is doing the missing. Attested as Tatoeba sentence 1017022."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Mi mancano. — I miss them (loro)",
+            "description": "Third-person plural agreement. Attested as Tatoeba sentence 5438340."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Ti manco. — You miss me (the reversed sentence)",
+            "description": "Grammatical Italian with the meaning flipped; the learner error that English word order produces. Attested as Tatoeba sentence 3869907, \"Do you miss me at all?\""
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in italian",
+    "angle": "Wins by being the only post on this query that quotes the Treccani sense which actually licenses mi manchi, proves from two attested corpus lines that ti manco means \"you miss me\", reports that mi manchi da morire has zero corpus attestation, and disproves the Italian/Spanish parallel — set beside 214 measured miss-you pages whose median letter is 88 words.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/photo-puzzle"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "stat": "Treccani Vocabolario, mancare, headword 'v. intr. e tr. [der. di manco¹] (io manco, tu manchi, ecc.)'. Sense 1.c: 'Di persona, essere assente, essere lontano da un luogo in cui dovrebbe o potrebbe essere … Con il compl. di termine, in frasi quali mi manchi, mi sei mancato, ci mancherai, ci manca molto e sim., riferite a persona di cui si sente, si è sentita o si sentirà la lontananza, e quindi il desiderio e il rimpianto.' Sense 1 takes auxiliary essere; 1.a is quantity ('Essere in quantità o in numero insufficiente'), 1.b is 'venir meno'. The same 1.c records the euphemism for dying ('quindi morire: m. ai vivi; è mancato all'affetto dei suoi cari'), and the participle entry gives 'mancato, anche come agg., morto, defunto'"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/manco1/",
+        "stat": "Treccani Vocabolario, manco¹ agg. e avv. [lat. mancus «monco, storpio, debole»] — the lemma mancare is derived from, per the mancare headword. Sense 1.b: 'Sinistro, che si trova sul lato sinistro (in origine riferito alla mano, in quanto la sinistra è «più debole» della destra)'"
+      },
+      {
+        "url": "https://edizionicafoscari.it/it/edizioni/libri/978-88-6969-962-7/the-variety-of-syntactic-patterns-of-dative-experi/",
+        "stat": "Simonetta Vietri, 'The Variety of Syntactic Patterns of Dative Experiencer Verbs in Italian', Psych Predicates in Romance Languages, LiVVaL 8, pp. 259–280. Full text read. 'In Vietri's (2024) taxonomy, there are 224 Accusative Experiencer verbs and 87 Subject Experiencer (transitive/non-transitive) verbs, while there are only 10 Dative Experiencer verbs.' 'The DE class includes the verbs piacere 'appeal', mancare 'miss', garbare 'appeal', dispiacere 'regret', spiacere 'regret', rincrescere 'be sorry, regret', interessare 'interest', compiacere 'please', ripugnare 'disgust', importare 'matter'.' §4.1 on garbare and mancare: 'they are both stative verbs where the Subject plays the role of the Object of Emotion and which show the inverted structure'; neither takes a reflexive, so *Maria si mancava is starred",
+        "publishedDate": "2026-04-29"
+      },
+      {
+        "url": "https://www.mdpi.com/2226-471X/11/3/36",
+        "stat": "Tania Stortini, 'Dative Experiencer Psych-Verbs in Italian and Spanish', Languages 11(3):36. Abstract only: 'This study investigates how argument structure interacts with Information Structure (IS) in Dative Experiencer (DE) psych-verbs of the piacere/gustar type in Italian and Spanish. These verbs display non-canonical mapping between thematic and grammatical roles, in which the Experiencer surfaces as a dative object and the Theme as the subject.' The Spanish counterpart it pairs with Italian piacere is gustar, not hacer falta",
+        "publishedDate": "2026-02-26"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/mancare",
+        "stat": "Wiktionary, mancare (Italian): etymology 'From manco (adjective) + -are, or from a Vulgar Latin *mancāre, from Latin mancus'; auxiliary '(transitive and in some intransitive meanings) avére or (in other intransitive meanings) èssere'; the sense 'to be missed (of a person) [auxiliary essere]' glossed literally — 'Ci manca molto. We miss him very much. (literally, “He is missed by us very much.”)'; and on the quantity sense 'mi mancano cinque dollari — I'm missing five dollars (literally, “five dollars is missing to me”)'"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/4378",
+        "stat": "Tatoeba Italian corpus, queried with the = exact-word-form operator on 2026-09-25. Mi manchi. = 'I miss you.' (4378); Mi manca. (479785); Mi mancate. (1017022); Mi mancano. (5438340); Ci manchi. (3247477); Ci manchi tanto. (615305); Mi manchi tanto. (3137826); Tu mi manchi così tanto. (3637743); Quanto mi manchi! (1389532); Mi manchi tanto, amore! (3239425, the only =manchi =amore hit); Mi sei mancato. (381446). =manco returns 12 sentences total, of which Non ti manco per niente? = 'Do you miss me at all?' (3869907) and Forse un giorno ti accorgerai che ti manco = 'Maybe one day you will realise that you miss me' (4962399), plus Manco a Tom? = 'Does Tom miss me?' (8831521) and four instances of the homograph adverb manco 'not even' (e.g. 3398603). =manchi =morire returns ZERO; the only da morire line is Mi sei mancato da morire (4541855). Spanish =haces =falta returns one sentence, No haces falta aquí = 'You're not needed here' (3828150)"
+      }
+    ],
+    "structuralLimitations": [
+      "AGAINST THE LIVE HUB /blog/i-miss-you-in-different-languages: fetched 2026-09-25, HTTP 200, ~5,547 words. Italian appears four times — one pronunciation-list row ('Italian: Mi manchi (mee MAHN-kee)'), one copy-and-personalise line, one cell in its tone table, and one FAQ ('it's direct and romantic … For extra emphasis use Mi manchi tanto'). It names no dictionary, gives no grammar, prints no other person of the verb and never mentions ti manco. This post does not restate that table; it supplies the Treccani and corpus layer under that one row, and links up to it.",
+      "AGAINST THE LIVE SIBLINGS: 81 live articles carry 'miss' in the slug and, per content/keywords/2026-09-25-miss-you-global/site-baseline.md, not one of them is in Italian — the corpus has zero pages in Spanish, Portuguese, French, German, Italian, Dutch, Polish, Turkish, Indonesian, Arabic, Russian, Filipino, Japanese or Korean. Language is one of the three never-duplicate axes in the BRIEF, so this is a new row, not a merge candidate. Checked in Strapi: filters[slug][$eq]=i-miss-you-in-italian returns [].",
+      "PROMPT CLAIM CONFIRMED, WITH ITS SOURCE PINNED — 'mi manchi is you are lacking TO me: the absent person is the grammatical subject, mi is the indirect object'. Treccani's mancare sense 1.c prints the phrase itself and names the grammar as a complemento di termine. Vietri (2026) states it in linguistic terms for this exact verb: mancare is stative and 'the Subject plays the role of the Object of Emotion'. Both are quoted in the body.",
+      "PROMPT CLAIM CORRECTED — the prompt said Treccani's mancare entry 'distinguishes the senses (\"far difetto\", \"venir meno\", the personal-subject use)'. 'venir meno' is Treccani's own wording, at sense 1.b. 'FAR DIFETTO' IS NOT IN THE ENTRY — Treccani's sense 1.a reads 'Essere in quantità o in numero insufficiente, essere meno di quanto sarebbe necessario o conveniente o desiderabile'. The post quotes what the entry says rather than the phrase the prompt supplied. Nor is the licensing sense a 'personal-subject use' in Treccani's framing: 1.c is headed 'Di persona, essere assente, essere lontano da un luogo in cui dovrebbe o potrebbe essere', and mi manchi is a sub-case of it marked 'Con il compl. di termine'.",
+      "PROMPT CLAIM NOT VERIFIED, SO NOT ASSERTED — 'learners coming from English RELIABLY produce ti manco'. No study measuring that error rate was found. findpapers.mjs (Crossref + Europe PMC) was run on 'Italian psych verbs unaccusative mancare', 'experiencer object verbs Romance', 'second language learners argument structure transfer' and 'acquisition of Italian piacere dative experiencer second language'. The nearest results are Turkish EFL learners on psych verbs (doi:10.31261/tapsla.10353), a paywalled 1998 Second Language Research paper on L2 dative experiencer subjects (doi:10.1191/026765898668810271) and CLLD in L2 Italian (PMC11288789, clitic left dislocation rather than argument direction). The post states the structural reason the error is available and explicitly declines to quantify how often it happens.",
+      "THE CLAIM I WAS ASKED TO TEST — 'is Italian mi manchi the same construction as Spanish me haces falta?' ANSWER: NO, and the post says so. Three pieces of evidence. (1) Type: mancare is a single verb in Vietri's ten-member Italian Dative Experiencer class; me haces falta is a light-verb idiom on the noun falta, which the Spanish sibling found the RAE files under falta as 'No tenerlo cuando sería necesario o provechoso'. (2) Corpus: Spanish =haces =falta returns exactly one Tatoeba sentence, No haces falta aquí (3828150), translated 'You're not needed here' — need, not longing; the exact form =faltas returns only the unrelated noun 'mistakes'. So Spanish has no attested second-person inverted 'I miss you' while Italian does (4378). (3) The literature does not pair them either: Stortini (2026) compares Italian piacere with Spanish GUSTAR, not with hacer falta. The Spanish sibling's finding is confirmed and sharpened, not repeated as a parallel.",
+      "TERMINOLOGY HELD APART, PER THE PROMPT: 'dative experiencer' appears in the body only where Vietri (2026) and Stortini (2026) use it, and it is attached to them by name. Treccani's own label — complemento di termine — is the one used for what the Italian entry itself says.",
+      "DIVISION WITH THE FRENCH SIBLING (tu me manques, running concurrently): French gets two clauses in this post, both inside the Spanish section, and they are there to set up the disconfirmation rather than to explain the construction — French is the control that makes the Spanish break visible. No French grammar explanation, no French paradigm, no French etymology. The Italian facts (Treccani 1.c, the ten-verb class, the essere auxiliary, the manco homograph, the death euphemism) are all Italian-specific and none of them would appear in the French post.",
+      "CAUTION ON A SOURCE'S OWN GLOSSES: Vietri's examples (37) 'Gianni mancava a Maria' and (38) 'A Maria mancava Gianni' are BOTH given the free English translation 'Gianni (liked + missed) Maria', which does not disambiguate direction in English and, read naively, points the wrong way. Nothing in this post rests on those glosses. The direction is taken from her role statement ('the Subject plays the role of the Object of Emotion'), from Treccani 1.c, and from the attested corpus pairs.",
+      "LINES CUT, not printed, because they could not be verified. (1) 'Mi manchi da morire' — a phrasing named in my own task prompt as a real search term; =manchi =morire returns ZERO in Tatoeba and only the compound past Mi sei mancato da morire (4541855) exists, so the post reports the absence instead of printing the phrase as an example. (2) 'Mi manchi amore' without a comma — the sole attested line has one (3239425), so the comma-less form is not printed. (3) 'Mi manchi da impazzire' — no dictionary lemma, no attestation, not searched-for in my brief; cut outright. (4) 'Sento la tua mancanza' — the obvious noun alternative; Treccani's mancare entry does not lemmatise it and I did not fetch a mancanza entry or run an attestation check, so it is not in the post. (5) 'Mi manchi da impazzire, amore mio' and similar composite endearments — no corpus check was run on any of them. (6) 'Ti penso sempre' — a competitor staple on this SERP; no dictionary or corpus work was done on it here. (7) 'Mi manchi un casino' — colloquial intensifier, not checked. (8) A pronunciation respelling for mi manchi — the hub prints 'mee MAHN-kee'; I did not fetch an IPA source for it, so this post prints no pronunciation at all rather than copy one. (9) The claim that mancare's inverted pattern is 'the Romance pattern' — cut after the Spanish test disproved the generalisation.",
+      "LINE PRINTED WITHOUT A CORPUS HIT, AND FLAGGED AS SUCH IN THE BODY: none. Every Italian line in the post carries a Tatoeba sentence id. The one phrase discussed without an id — mi manchi da morire — is discussed precisely because it has none, and the body says so.",
+      "SOURCE READ DEPTH: Vietri (2026) was read in full — the chapter PDF was downloaded from edizionicafoscari.it and converted to text, 6,129 words. Stortini (2026) was read at ABSTRACT LEVEL ONLY: www.mdpi.com returned a 2,205-byte challenge page to this run, so the abstract was taken from the publisher's own Crossref deposit (api.crossref.org/works/10.3390/languages11030036). It is CC BY and not paywalled; the only claim taken from it is the sentence quoted in the body.",
+      "SOURCE NOT OBTAINED — the ACCADEMIA DELLA CRUSCA, which both the BRIEF and my task prompt asked me to check. Four entry points tried on 2026-09-25: accademiadellacrusca.it/it/search?q=mancare (served a 'Pagina non trovata' body), /it/consulenza/ricerca?query=mancare (HTTP 500), /it/ricerca?keys=mi+manchi (HTTP 500), /it/consulenza/lelenco-delle-risposte (HTTP 500). Their historical Lessicografia della Crusca in rete (lessicografia.it) returned 404 on lemma lookup and an empty page frame on direct page access. No Crusca ruling on this construction was obtained, so none is cited or implied; the body says so in one line. Worth a re-check when their search endpoint is serving.",
+      "SERP MEASURED, NOT ASSUMED: one WebSearch on the English keyword 'i miss you in italian', US-served, 2026-09-25, nine results. Two are off-intent Wikipedia entity pages ('I Miss You' (Sarah Engels song); 'I Love You in Every Language in the World'), one is a Facebook group post, and six are language-learning brands. Four were fetched for STRUCTURE ONLY and none is cited, linked or paraphrased, per references/competitors.md: ~2,665 words / 4 H2 / 20 H3; ~470 words / 3 H2; ~2,249 words / 20 H2 / FAQPage schema; ~3,796 words / 13 H2 / 2 tables. The fifth returned HTTP 403 and was not measured, and nothing is claimed about it. Tested across the four fetchable pages: ZERO name Treccani, the Accademia della Crusca, Zingarelli, De Mauro or Devoto-Oli. That absence is the gap this post fills. No AI Overview is observable through this search tool, so none is claimed either way.",
+      "ORCHESTRATOR SERP FRAMING CORRECTED: my task prompt supplied the SERP for the ITALIAN-LANGUAGE sibling query 'frasi mi manchi amore' and noted 'no product site anywhere in the Italian top 10 — open ground'. True of that query, and it does not transfer to mine. The English query this post targets is the opposite: six of nine results are commercial language-learning products (Rosetta Stone, Clozemaster, Think in Italian, The Intrepid Guide, Yabla, Reverso), several on domains far above subhsandesh.in. There is no open ground of that kind here, and the honest assessment says so.",
+      "TEMPLATE CHOICE, ON MERIT: /missyou-gf is mandatory and genuinely fits. The alternative is /photo-puzzle — The Last Piece — chosen because its mechanic is the post's subject. Each piece placed reveals one line of the letter, which is the one format that lets an Italian phrase and its English gloss arrive as separate beats for a recipient who reads only one of them; and its final piece is not in the box, which is the literal sense of mi manchi, 'you are lacking to me'. Three alternatives were considered and dropped. /dedication: already in three posts in this batch (korean, bisaya, kannada) with a fourth in flight, and nothing about a reader checking Italian grammar makes a radio dedication the right instrument. /train-ticket: built around a PNR and a running status, which fits the Indian-rail reader the Spanish sibling sent to it, not a transatlantic one. /capsule: a real second-best on the fixed-term-absence reading (28.0% of these 214 senders set a reunion date), but by the time this file was written the french, japanese and tagalog spokes had all taken it, and /photo-puzzle is the more specific fit here anyway.",
+      "SLUG STOP WORDS: item 24 asks for a slug with no stop words, and i-miss-you-in-italian contains 'i' and 'in'. Both are load-bearing tokens of the exact target keyword and of the batch's whole language-spoke pattern, and removing them would break exact-match with the hub's other spokes. Recorded here rather than silently ignored; it is counted as a pass on that reading.",
+      "ITEMLIST SCOPE: the body ranks and numbers nothing and has no H3s, so item 45's condition is not triggered. An ItemList is included anyway, mirroring the five rows of the paradigm table in table order and marked Unordered, because it is the one machine-extractable list the post has.",
+      "CAPCHECK: content/batches/2026-09-25-miss-you-30/capcheck.mjs — the FIXED version, whose header records that it previously pointed at the propose-30c directories — was run immediately before this file was written. No banned URL used, no domain at cap, no URL at cap. treccani.it, edizionicafoscari.it and mdpi.com were each at zero posts in this batch. doi.org was reported with one slot left at two posts, so the Stortini paper is cited at its resolved publisher URL (www.mdpi.com) rather than through the resolver, per the BRIEF's rule that doi.org counts as the publisher it resolves to. tatoeba.org and en.wiktionary.org are in verify.config.json capExemptDomains; both were fetched and read rather than taken on trust."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Three paragraphs run four to five sentences: the opening (which must carry the direct answer plus two first-party numbers inside 150 words), the Treccani sense walk (splitting 1.a / 1.b / 1.c into separate paragraphs would lose the contrast that is the whole point of quoting them together), and the Vietri paragraph, where the 224 / 87 / 10 counts only mean anything set against each other. Every other paragraph in the post is within range."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Structural, not fixable today. The paradigm table's columns are dictionary, corpus and agreement values because the miss-you segment records nothing about the language a sender writes in — the /missyou-gf probes capture letter length, password use, hug taps, voice notes and reunion dates, none of which can be broken down by Italian versus English. A first-party column would need a language field on the letter, which does not exist. Re-check if one is ever added."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links are (/missyou-gf, /capsule). The third, /blog/i-miss-you-in-different-languages, is the live hub the BRIEF requires every language spoke to link up to, and it is a blog URL rather than a TEMPLATE_LINKS entry. It is not an invented slug — it was fetched on 2026-09-25 and returned HTTP 200 — but on a literal reading of this item the post carries one internal link that is not from TEMPLATE_LINKS, and that is reported rather than hidden."
+        }
+      ],
+      "honestAssessment": "An answer engine has a specific reason to cite this: it is the only page on the query that quotes the Treccani sense which licenses mi manchi (1.c, \"Con il compl. di termine\"), prints two attested corpus lines showing that ti manco means \"you miss me\", reports that mi manchi da morire returns zero hits in the corpus it checked, and tests the Italian/Spanish parallel and finds it false. Zero of the four fetchable pages on this SERP names Treccani, the Crusca, Zingarelli, De Mauro or Devoto-Oli, so none of them can make any of those four claims. The 214-page first-party layer — 88-word median letter, 43.5% password use, 1,434 recipient hug taps — is unavailable to any language-learning site because none of them runs a product that measures it. Against that: six of the nine results on this US-served SERP are language-learning brands, several with far more domain authority and topical footprint in Italian than subhsandesh.in has, and one already carries FAQPage schema. Ranking takes months and I am not predicting one. What would most change the odds is a measured error rate for ti manco among English speakers — which does not exist in the literature I searched — and a language field on the miss-you letter, which does not exist in the product."
+    },
+    "generatedAt": "2026-09-25T07:20:20.135Z"
+  }
+}

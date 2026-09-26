@@ -1,0 +1,348 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Miss Kita in Ilocano: What the Pronoun Table Actually Says",
+    "slug": "miss-kita-in-ilocano",
+    "excerpt": "\"Miss kita\" is Tagalog, not Ilocano: Ilocano's I-to-you fused enclitic is -ka, and kita there is a noun meaning appearance or wages. The attested Ilocano sentence is Mailiwak kenka, checked against Wiktionary, Tatoeba and Rubino's 2000 dictionary.",
+    "metaTitle": "Miss Kita in Ilocano — The Real Line Is Mailiwak Kenka",
+    "metaDescription": "Miss kita in Ilocano is Tagalog grammar: the I-to-you enclitic is -ka, not kita. The attested line is Mailiwak kenka, set beside data from 214 miss-you pages.",
+    "keywords": "miss kita in ilocano, i miss you in ilocano, mailiwak kenka, ilocano pronouns, kenka meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-kita-in-ilocano",
+    "ogType": "article",
+    "tags": [
+      "ilocano",
+      "philippine languages",
+      "miss you",
+      "long distance",
+      "translation"
+    ],
+    "keyTakeaways": [
+      "\"Miss kita\" is Tagalog. Wiktionary's Ilocano fused-enclitic grid gives the I-acting-on-you form as -ka, and no cell in it produces kita.",
+      "Ilocano kita is a noun with two entries — \"look; shape; appearance\" and \"salary; wages\" — so the phrase read as Ilocano means something else entirely.",
+      "The attested Ilocano sentence is Mailiwak kenka, recorded as Tatoeba sentence 4632744 and glossed \"I miss you\"; 35 of Tatoeba's 1,000 Ilocano sentences use the same kenka frame.",
+      "Ilocano does not use a transitive frame here at all: -ak is absolutive and the missed person sits in the oblique, so the sense is closer to \"I am in longing, toward you\".",
+      "Across 214 SubhSandesh miss-you pages, 43.5% were password-protected against 38.5% platform-wide, the median letter ran 88 words, and recipients tapped a hug button 1,434 times."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say \"I miss you\" in Ilocano?",
+        "answer": "Mailiwak kenka. It is recorded as Tatoeba sentence 4632744, contributed in Ilocano and translated \"I miss you.\" The pieces are mailiw (from the root íliw, \"long for, miss\"), -ak (\"I\") and kenka (\"to you\")."
+      },
+      {
+        "question": "Does Ilocano borrow the English word \"miss\" the way Tagalog does?",
+        "answer": "Nothing fetched for this post lemmatises a borrowed \"miss\" in an Ilocano dictionary, and the one Ilocano sentence attested for this meaning uses the native root íliw. Ilocano speakers code-switch into English and Tagalog constantly, but that is not the same as the loan being lexicalised, and no such claim is made here."
+      },
+      {
+        "question": "Is Ilocano the same language as Ilokano or Iloko?",
+        "answer": "Yes, those are three spellings of one language. Rubino's 2000 dictionary uses Ilocano, the 2015 JPAIR study uses Ilokano, and Glosbe files its dictionary under Iloko. All refer to the Cordilleran language of Northern Luzon."
+      },
+      {
+        "question": "What does kenka mean on its own?",
+        "answer": "Kenka is the second-person singular oblique pronoun, \"to you\" or \"for you\", listed beside the variant kaniam in Wiktionary's Ilocano pronoun table. Tatoeba shows it in ordinary use, as in Asino ti nangawag kenka? (\"Who called you?\")."
+      },
+      {
+        "question": "What is the difference between kenka and kaniam?",
+        "answer": "Wiktionary's Ilocano pronoun table lists both as second-person singular oblique forms and gives kaniam as a synonym of kenka. Nothing in the sources fetched for this post ranks one as more formal, so no register difference is claimed here."
+      },
+      {
+        "question": "Can I just send \"miss kita\" to an Ilocano speaker anyway?",
+        "answer": "It will be understood, because Tagalog is the national language and most Ilocano speakers use it daily. It simply is not the Ilocano sentence, so if the point of the message is that you chose their language, it undercuts itself."
+      },
+      {
+        "question": "What does ayat mean in Ilocano?",
+        "answer": "Wiktionary's Ilocano entry gives ayát as a noun meaning \"love\", \"delight\" and \"liking; pleasure\", with derived terms including agayat and ayaten. A second etymology, áyat, is a cockfighting term, so the stress placement matters."
+      },
+      {
+        "question": "Why is the person you miss not the object of the verb?",
+        "answer": "Because the Ilocano frame is not transitive. The -ak enclitic is absolutive, which puts the speaker in the intransitive subject slot, and the other person appears in the oblique with kenka. It is closer to \"I am in longing, toward you\" than to \"I miss you\"."
+      },
+      {
+        "question": "Is \"Mailiwak kenka\" a common construction or a one-off?",
+        "answer": "It is ordinary. Tatoeba's 1,000-sentence Ilocano corpus returns 35 sentences using kenka, including Mamatiak kenka (\"I believe you\") and Umanamongak kenka (\"I agree with you\"). Verb-plus--ak followed by kenka is the standard way to aim a feeling at a person."
+      },
+      {
+        "question": "Why do machine translations of this phrase go wrong?",
+        "answer": "Because the query mixes an English verb with a Tagalog pronoun, translation memories match it against Tagalog rather than Ilocano. One rendering circulating for this query uses ubet, which Wiktionary's Ilocano entry defines as \"buttocks; rump\"."
+      },
+      {
+        "question": "How long should the message around the Ilocano line be?",
+        "answer": "The median miss-you letter measured on SubhSandesh runs 88 words across n=214 pages, and the longest is 1,024. One sentence of Ilocano plus a short paragraph in whatever language you both think in matches what most senders actually write."
+      },
+      {
+        "question": "Should I password-protect an \"I miss you\" page before sending it?",
+        "answer": "43.5% of miss-you senders do, against 38.5% across the whole platform, which makes it the most private segment measured there. If the page carries a voice note or an open-when letter, that gap suggests senders treat it as correspondence rather than a post."
+      }
+    ],
+    "coverImageQuery": "ilocos coastline video call overseas worker",
+    "coverImagePrompt": "A photorealistic scene of a young Filipina in a small apartment abroad at night, phone in hand, warm lamplight, a map of Northern Luzon pinned to the wall behind her. Shallow depth of field, clean negative space across the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Miss Kita in Ilocano: What the Pronoun Table Actually Says\n\nMiss kita in Ilocano is a Tagalog sentence. Ilocano's fused enclitic for an I-acting-on-you clause is **-ka**, and *kita* in Ilocano is a noun — \"look; shape; appearance\" in one entry, \"salary; wages\" in a second. The sentence an Ilocano corpus actually records for *I miss you* is **Mailiwak kenka**.\n\nThat distinction has a practical audience. Across the 214 \"I miss you\" pages built on SubhSandesh's /missyou-gf template since 2026-07-28, 43.5% of senders password-protect the page before sharing it, against 38.5% across the whole platform, and the median letter carrying the line runs 88 words.\n\nThis page gives the grammar, the one attested sentence, and what those 214 pages show about everything written around it. It sits under the [I miss you in different languages](/blog/i-miss-you-in-different-languages) hub rather than restating it.\n\n## Is \"miss kita\" Ilocano?\n\nNo, and the pronoun tables are unambiguous about why. English Wiktionary's [Ilocano personal pronoun tables](https://en.wiktionary.org/wiki/Template:ilo-personal_pronouns) carry two grids: the ordinary personal pronouns, and a second \"fused enclitics\" grid for clauses where one person acts on another.\n\nIn that fused grid, actor *siak* (\"I\") with patient *sika* (\"you\") gives **-ka**. The reverse, *sika* acting on *siak*, gives **-nak**. Third person onto you gives **-naka**, and the exclusive *dakami* onto you gives **-daka**.\n\nNo cell anywhere in that grid produces *kita*. Tagalog's *kita* does exactly that job in Tagalog, which is why the phrase travels, and an Ilocano speaker typing \"miss kita\" has switched languages mid-sentence without noticing.\n\n## What \"kita\" means to an Ilocano reader\n\nIlocano does have *kita*, as a noun, twice over. [Wiktionary's Ilocano entry](https://en.wiktionary.org/wiki/kita) gives one noun *kíta* meaning \"kind; class; species\" and \"look; shape; appearance\", inherited from Proto-Malayo-Polynesian, and a second noun *kíta* meaning \"salary; wages\", with *sueldo* as its synonym.\n\nThe derived terms settle the sense: *makita*, *kitaen*, *ipakita*, *agkita*, *kumita*, *agpakita*. Every one is about seeing or showing. In Tagalog, *kita* binds two people together; in Ilocano it points at how a thing looks, or at what you were paid.\n\nSo \"miss kita\", parsed strictly as Ilocano, is an English verb followed by a noun meaning \"appearance\". It is understood in Ilocos, because nearly everyone there also speaks Tagalog. It is still not Ilocano.\n\n## Mailiwak kenka, piece by piece\n\nThe sentence exists in a corpus, not only in a phrasebook. [Tatoeba sentence 4632744](https://tatoeba.org/en/sentences/show/4632744), contributed in Ilocano under a CC BY 2.0 FR licence, reads **\"Mailiwak kenka.\"** and carries the English translation \"I miss you.\" Here is what each piece is doing.\n\n### 1. mailiw — the longing itself\n\nThe root is *íliw*. [Glosbe's Iloko–English dictionary](https://glosbe.com/ilo/en/%C3%ADliw) gives it as \"long for\" and \"miss\", verb and noun, plus \"lonely for\", carrying those glosses from the Ilokano index of an SIL dictionary of Ibatan.\n\nIt is native vocabulary rather than an English loan, and the *ma-* prefix marks the state as something that happens to the speaker rather than something the speaker does to anyone.\n\n### 2. -ak — the \"I\"\n\nWiktionary lists *-ak* as Ilocano's first-person singular **absolutive** enclitic, \"I, me\", as in *Pilipinoak* (\"I am a Filipino\") and *Kinagatak ti aso* (\"The dog bit me\"). Absolutive, not ergative: it is the slot the subject of an intransitive clause takes. Attached to *mailiw*, it makes the speaker the person the longing happens to, not the person performing it.\n\n### 3. kenka — the \"to you\"\n\n*Kenka* sits in the **oblique** column of the same Ilocano pronoun table, second person singular, listed beside its variant *kaniam*. Oblique is not the object slot.\n\nTatoeba's Ilocano sentences show the column at work: *Ania ti adda kenka?* (\"What do you have?\"), *Asino ti nangawag kenka?* (\"Who called you?\"). The person you miss is the direction the feeling points, not the thing it acts on.\n\n### 4. The frame is productive, not a one-off\n\nIlocano's Tatoeba corpus of 1,000 sentences returns 35 that use *kenka*, and the pattern repeats: *Mamatiak kenka* (\"I believe you\"), *Umanamongak kenka* (\"I agree with you\"), *Agpannuray kenka ti ragsakko* (\"My happiness depends on you\"). *Mailiwak kenka* is not an oddity; it is the ordinary Ilocano frame for a feeling aimed at a person.\n\nThat is the finding worth carrying away. Ilocano does not merely lack Tagalog's *kita* pronoun — it declines the transitive shape altogether. Tagalog says *I-miss-you*; Ilocano says *I am in longing*, and then points at you.\n\n## Which line to send\n\nFour things a person might actually type, and what a fetched source says about each. The last column is what the line does inside the 214 miss-you pages measured on 2026-09-25.\n\n| What you might send | What a fetched source records | Parses as | Where it fits in the 214 pages |\n|---|---|---|---|\n| Mailiwak kenka. | Tatoeba sentence 4632744, Ilocano, glossed \"I miss you.\" | Ilocano | The opening line above a letter whose median length is 88 words |\n| Mamatiak kenka. | Tatoeba sentence 4632773, Ilocano, glossed \"I believe you.\" | Ilocano | Evidence the frame is real; not itself a miss-you line |\n| Miss kita. | Wiktionary: Ilocano *kita* is a noun, \"look; shape; appearance\" and \"salary; wages\" | Tagalog | Understood, but it is the Tagalog line, not the Ilocano one |\n| Ayat. | Wiktionary Ilocano noun: \"love\", \"delight\", \"liking; pleasure\" | Ilocano | A sign-off, not a translation of \"I miss you\" |\n\nOne row is the sentence, one row proves the sentence is normal Ilocano, and two rows are things people send instead that mean something else.\n\n## Why \"how do I say this in Ilocano\" is usually a diaspora question\n\nCarl Rubino's introduction to his [*Ilocano Dictionary and Grammar*](https://archive.org/details/rosettaproject_ilo_detail-1) (University of Hawai'i Press, 2000) opens by describing Ilocano as \"a Western Austronesian language spoken by about nine million people in Northern Luzon, Philippines\", the most widely spoken Philippine Cordilleran language and a branch of its own within that family.\n\nThe same introduction states that \"Ilocanos are the most migratory of the Philippine ethnic groups\", with communities in \"Brunei, Singapore, Hong Kong, Saudi Arabia, Kuwait, and most urban centers in the United States, Canada, and Western Europe\", and that in Hawai'i \"nearly one fifth of the total population can claim Ilocano descent\". People look this sentence up because the person they mean is on another continent.\n\nThe pronoun system has been examined under peer review too. Tabula and Salasac, in [*JPAIR Multidisciplinary Research*](https://philair.org/index.php/jpair/article/view/313) in January 2015 under a CC BY-NC licence, report that \"Ilokano personal pronouns are structurally independent and incorporated into other parts of speech as suffixes\", and that \"the Ilokano subject affects the verb form and the object suffix\" where English verb structure does not change.\n\nSubhSandesh's own miss-you pages name 47 distinct city pairs, including Mumbai–London and Berlin–London. That figure comes from a 15-city picker with a default value, so it measures the picker's range rather than a sender's choice, and it is not evidence of where anybody lives.\n\n## What the 214 miss-you pages show about the message around the line\n\nA single Ilocano sentence is rarely the whole message. The median miss-you letter runs 88 words and the longest measured is 1,024, so the realistic shape is one line of Ilocano and a short paragraph of whatever language you both think in.\n\nStructure carries more weight than length. 92.1% of the pages carry at least one \"open when\" letter, 197 of 214, averaging 3.2 per page, and 86.4% carry at least one written memory. Those are sender-chosen fields, unlike the city and background-music pickers, which arrive with defaults and say nothing about what anyone decided.\n\nVoice matters for Ilocano in particular. 13.6% of senders record a voice note, 29 of 214, and since the dictionaries distinguish *íliw* from *ilíw* by stress alone, a recording settles what a typed spelling cannot.\n\nThe recipient side is the part no competitor measures. Recipients tapped the hug button 1,434 times across 138 of the 214 pages, and 512 times on a single page. The pages drew 2,417 recorded views, 11.3 per page on average — page views, not unique visitors, so one recipient reopening a page twenty times counts as twenty.\n\nOne caveat governs all of it: n = 214, gathered since the template went live on 2026-07-28. Two months of data supports no seasonal, festival or year-on-year claim, and none is made here. If you want the shape those numbers describe, the [I miss you page for a partner](/missyou-gf) is the template they were measured on.\n\n## When an Ilocano line is the wrong thing to send\n\nThree cases, and they are common enough to name.\n\nIf your recipient grew up in Metro Manila, or abroad in a Tagalog-speaking household, *Mailiwak kenka* can land as a quiz rather than a message. Ilocano is the lingua franca of the Cordillera region, as Rubino's introduction records, but it is not the national language, and heritage speakers vary enormously in what they read comfortably.\n\nIf you are leaning on machine translation to extend the line, stop. The ten results returned for this keyword on 2026-09-25 were translation-memory aggregators, a video-discovery page, two auto-generated blogs and a question thread, and not one carried a dictionary citation. One rendering circulating for this query uses *ubet*, which Wiktionary's Ilocano entry defines as \"buttocks; rump\".\n\nAnd if there is no reunion date, a countdown is the wrong shape: 72.0% of the 214 senders set none. For that reader the [photo jigsaw letter](/photo-puzzle) fits better, because each piece placed reveals a line and the final piece is deliberately not in the box — closer to the truth of an open-ended separation than a counter ticking toward a date nobody has.\n\n## Sources\n\n- [Wiktionary, Ilocano personal pronoun and fused-enclitic tables](https://en.wiktionary.org/wiki/Template:ilo-personal_pronouns) — the *siak* → *sika* cell, plus *-ak*, *-ka*, *-nak*, *kenka* and *kaniam*\n- [Wiktionary, *kita* (Ilocano)](https://en.wiktionary.org/wiki/kita) — two noun etymologies, and the *makita* / *kitaen* / *ipakita* derived set\n- [Tatoeba sentence 4632744](https://tatoeba.org/en/sentences/show/4632744) — *Mailiwak kenka.* / \"I miss you.\", CC BY 2.0 FR\n- [Glosbe, Iloko–English, *íliw*](https://glosbe.com/ilo/en/%C3%ADliw) — \"long for\", \"miss\", \"lonely for\"\n- [Carl Rubino, *Ilocano Dictionary and Grammar*, University of Hawai'i Press, 2000 — introduction](https://archive.org/details/rosettaproject_ilo_detail-1)\n- [Rommel V. Tabula and Constante S. Salasac, \"Contrastive Analysis on Ilokano and English Personal Pronouns\", *JPAIR Multidisciplinary Research* 19(1), 26 January 2015](https://philair.org/index.php/jpair/article/view/313)",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-kita-in-ilocano#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Ilocano language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ilocano_language",
+              "https://www.wikidata.org/wiki/Q35936"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Tagalog language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tagalog_language",
+              "https://www.wikidata.org/wiki/Q34057"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Ilocano people",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ilocano_people",
+              "https://www.wikidata.org/wiki/Q2527423"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Ilocano personal pronouns and fused enclitics",
+            "url": "https://en.wiktionary.org/wiki/Template:ilo-personal_pronouns",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "kita — Ilocano noun entries",
+            "url": "https://en.wiktionary.org/wiki/kita",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wiktionary"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Mailiwak kenka. — Ilocano sentence 4632744",
+            "url": "https://tatoeba.org/en/sentences/show/4632744",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "íliw — Iloko–English dictionary entry",
+            "url": "https://glosbe.com/ilo/en/%C3%ADliw",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Glosbe"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Ilocano Dictionary and Grammar (introduction)",
+            "url": "https://archive.org/details/rosettaproject_ilo_detail-1",
+            "datePublished": "2000",
+            "author": {
+              "@type": "Person",
+              "name": "Carl Rubino"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Hawai'i Press"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Contrastive Analysis on Ilokano and English Personal Pronouns",
+            "url": "https://philair.org/index.php/jpair/article/view/313",
+            "datePublished": "2015-01-26",
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Rommel V. Tabula"
+              },
+              {
+                "@type": "Person",
+                "name": "Constante S. Salasac"
+              }
+            ],
+            "publisher": {
+              "@type": "Organization",
+              "name": "JPAIR Multidisciplinary Research"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Mailiwak kenka, piece by piece",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "mailiw — the longing itself",
+            "description": "Root íliw, glossed 'long for', 'miss' and 'lonely for' in Glosbe's Iloko–English dictionary; the ma- prefix marks a state that happens to the speaker."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "-ak — the \"I\"",
+            "description": "Ilocano first-person singular absolutive enclitic, 'I, me', as in Pilipinoak and Kinagatak ti aso."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "kenka — the \"to you\"",
+            "description": "Second-person singular oblique pronoun, listed beside the variant kaniam; the missed person is the direction of the feeling, not its object."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "The frame is productive, not a one-off",
+            "description": "35 of the 1,000 Ilocano sentences on Tatoeba use kenka, including Mamatiak kenka and Umanamongak kenka."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss kita in ilocano",
+    "angle": "Wins by being the only post that shows \"miss kita\" is not Ilocano at all — Wiktionary's Ilocano fused-enclitic grid gives the I-acting-on-you form as -ka and no cell produces kita, while Ilocano kita is a noun meaning 'appearance' or 'wages' — then gives the attested native sentence Mailiwak kenka from Tatoeba and shows the same -ak/kenka frame in 35 corpus sentences, set against 214 first-party miss-you pages where 43.5% of senders password-protect the page against 38.5% platform-wide.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/photo-puzzle"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/Template:ilo-personal_pronouns",
+        "stat": "Wiktionary's Ilocano fused-enclitic grid gives actor siak ('I') with patient sika ('you') as -ka, the reverse as -nak, third person onto you as -naka and dakami onto you as -daka; no cell produces kita. The personal-pronoun grid lists -ak as first-person singular absolutive enclitic and kenka / kaniam as second-person singular oblique. Fetched 2026-09-25; the page carries no publication date."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/kita",
+        "stat": "Ilocano kita has two noun etymologies: kíta 'kind; class; species' and 'look; shape; appearance' (inherited from Proto-Malayo-Polynesian), and kíta 'salary; wages' (syn. sueldo). Derived terms agkita, kumita, makita, kitaen, ipakita, agpakita. No Ilocano pronoun sense exists. Fetched 2026-09-25; no publication date."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/4632744",
+        "stat": "Tatoeba sentence 4632744, Ilocano, CC BY 2.0 FR: 'Mailiwak kenka.' with the English translation 'I miss you.' The Ilocano corpus totals 1,000 sentences, 35 of which use kenka. Fetched 2026-09-25; no publication date."
+      },
+      {
+        "url": "https://glosbe.com/ilo/en/%C3%ADliw",
+        "stat": "Glosbe Iloko-English dictionary, headword íliw: 'long for' (verb), 'miss' (verb and noun), 'lonely for' — glosses carried from the Ilokano index of the Ibatan to English Dictionary (SIL). Fetched 2026-09-25; no publication date."
+      },
+      {
+        "url": "https://archive.org/details/rosettaproject_ilo_detail-1",
+        "stat": "Rubino's introduction: Ilocano is 'a Western Austronesian language spoken by about nine million people in Northern Luzon, Philippines' and 'the most widely spoken Philippine Cordilleran language'; 'Ilocanos are the most migratory of the Philippine ethnic groups', with communities in Brunei, Singapore, Hong Kong, Saudi Arabia, Kuwait and most urban centers of the United States, Canada and Western Europe; in Hawai'i 'nearly one fifth of the total population can claim Ilocano descent'.",
+        "publishedDate": "2000"
+      },
+      {
+        "url": "https://philair.org/index.php/jpair/article/view/313",
+        "stat": "Tabula & Salasac: 'Ilokano personal pronouns are structurally independent and incorporated into other parts of speech as suffixes'; 'Ilokano pronoun suffixes -ak, -ko, and -k are applied to all tenses and moods'; 'the Ilokano subject affects the verb form and the object suffix'. CC BY-NC 4.0, open access. Abstract read on the article landing page; the full PDF was not retrieved.",
+        "publishedDate": "2015-01-26"
+      }
+    ],
+    "structuralLimitations": [
+      "THE PROMPT'S OPEN QUESTION IS ANSWERED: \"miss kita\" IS NOT ILOCANO. The task prompt asked whether Ilocano has an equivalent of the Tagalog kita portmanteau or whether Ilocano speakers typing 'miss kita' are reaching for Tagalog. Tested 2026-09-25 against English Wiktionary's Template:ilo-personal_pronouns, which carries a dedicated 'Fused enclitics' grid of actor x patient. Actor siak ('I') with patient sika ('you') yields -ka. The reverse yields -nak; third person onto you -naka; exclusive dakami onto you -daka. NO CELL IN THE GRID PRODUCES kita. Ilocano kita is instead a noun with two etymologies — 'kind; class; species' / 'look; shape; appearance', and 'salary; wages' — whose derived set (makita, kitaen, ipakita, agkita, kumita, agpakita) is entirely about seeing and showing. 'Miss kita' is Tagalog borrowed wholesale, and the post leads on that.",
+      "AND mailiwak kenka CHECKS OUT, END TO END. Tatoeba sentence 4632744, contributed in Ilocano under CC BY 2.0 FR, reads 'Mailiwak kenka.' with the English translation 'I miss you.' Every morpheme is independently dictionary-verified: -ak is Wiktionary's Ilocano first-person singular ABSOLUTIVE enclitic ('Pilipinoak', 'Kinagatak ti aso'); kenka is the second-person singular OBLIQUE, listed beside kaniam. The prompt guessed this was 'plausibly the real native sentence'. It is, and the phrase appears on no page of the measured SERP with a source attached.",
+      "A STRUCTURAL FINDING NEITHER THE PROMPT NOR THE SIBLINGS ANTICIPATED. Because -ak is absolutive and the missed person is oblique, Ilocano does not merely lack Tagalog's kita pronoun — it declines the TRANSITIVE FRAME altogether. Tagalog lexicalises an I-verb-you clause; Ilocano lexicalises 'I am in longing' and then points with kenka. This is corroborated as productive rather than idiomatic: Tatoeba's 1,000-sentence Ilocano corpus returns 35 sentences using kenka, including Mamatiak kenka ('I believe you'), Umanamongak kenka ('I agree with you') and Agpannuray kenka ti ragsakko ('My happiness depends on you'). That is a different answer from either sibling — Cebuano has a native transitive-ish verb (hidlaw), Tagalog has native nouns and adjectives but no native transitive verb, and Ilocano has a native verb that is not transitive at all.",
+      "LINES CUT, WITH REASONS. NINE. (1) ilioliw and agilioliw — en.wiktionary returned missingtitle for both on 2026-09-25 and Glosbe's Iloko-English index returned no headword; not printed anywhere. (2) sipnget — Wiktionary missingtitle, Glosbe Iloko-English 404; cut. (3) ligatut — Wiktionary missingtitle, no other fetchable Ilocano lexicon carried it; cut. (4) liday — Glosbe Iloko-English gives only 'sad and depressed', which is sorrow rather than missing a person, so it is not printed as a longing word. (5) mailiw as a standalone dictionary HEADWORD — no fetched Ilocano dictionary lemmatises the inflected form; the post prints mailiw only inside the attested sentence and glosses the root separately as íliw. (6) The MT rendering circulating for this query, which uses ubet — en.wiktionary's Ilocano entry gives ubet as anatomy, 'buttocks; rump', so it is named as a warning and never printed as a line to send. (7) Constructed 'Miss ka' — grammatically predictable from the fused-enclitic grid but attested in no fetched corpus, so it was dropped under the batch rule that every non-English line must be verified against a fetched source. (8) 'Mailiwakon kenka' ('I already miss you') — predictable from Wiktionary's usage note that -ak plus the enclitic -(e)n becomes -akon, but unattested; cut. (9) iliw with no accent — en.wiktionary's iliw page returned HTTP 200 with NO Ilocano section at all, so the unaccented spelling is not cited.",
+      "SOURCES CHECKED AND REJECTED, WITH WHY. (a) webonary.org, which the prompt suggested for SIL Philippine dictionaries — returned HTTP 403 behind Cloudflare on 2026-09-25, so whether it hosts Ilocano could not be established and nothing is claimed about it. (b) Carro's Vocabulario Iloco-Espanol (1888) — fetched IN FULL from archive.org (rosettaproject_ilo_vocab-2, 1,080,777 characters) and searched: ILIU/Iliu/iliu/ILIW/Iliw/MAILIU all return ZERO hits and 'echar de menos' returns one badly garbled line. The 19th-century Spanish OCR is unusable for headword lookup, so Carro is not cited despite being open. (c) 'Three Analyses of the Ilocano Pronoun System' (WORD, 1955, doi 10.1080/00437956.1955.11659556) — exactly on subject, but tandfonline.com returned HTTP 403 behind Cloudflare and the Crossref record returned HTTP 406, so it could not be read and is not cited. (d) ilo.wiktionary.org returned HTML rather than an API response for iliw and mailiw; no machine-readable Ilocano-language Wiktionary entry was retrievable.",
+      "CAP PRESSURE AND WHAT IT COST. capcheck.mjs was re-run immediately before saving. diksiyonaryo.ph is at the 3-post cap, so the KWF national dictionary — which the two Tagalog siblings used — was unavailable here; that is no loss, since KWF is a Filipino dictionary and this post needed Ilocano. europepmc.org / pmc.ncbi.nlm.nih.gov is also at cap, which DID cost something: findpapers.mjs returned several open-access Europe PMC papers on Filipino transnational families (Front Sociol 2026, J Migration Health 2025) that would have strengthened the diaspora section, and none was usable. The replacement, Tabula and Salasac in JPAIR (philair.org, DOAJ-indexed, CC BY-NC), is a better subject fit anyway because it is about the Ilokano pronoun system itself. No doi.org link is used, so the one remaining doi.org slot is untouched.",
+      "ONE SOURCE CONSOLIDATED TO STAY INSIDE THE CAP. en.wiktionary.org/wiki/kenka was fetched and read (Ilocano second-person singular oblique, 'to you, for you', etymology ken + -ka, synonym kaniam, example 'Intedda kenka'), but listing it would have taken the post to seven sources against the BRIEF's 4-6. It was dropped from sources and from the body's outbound links, and the kenka claims in the body now rest on the oblique column of Template:ilo-personal_pronouns plus two fetched Tatoeba sentences (Ania ti adda kenka?, Asino ti nangawag kenka?). The 'Intedda kenka' example was removed with it.",
+      "SERP MEASURED, NOT PREDICTED. One WebSearch was run on the exact keyword on 2026-09-25. The ten results were five machine-translation aggregator pages on one domain, a TikTok discovery page, two auto-generated blogspot pages, a HiNative question thread, and the English Wikipedia article for the 1990 Filipino Christmas song 'Miss Kita Kung Christmas'. Not one carried a dictionary citation, a pronoun table or a corpus attestation. No competitor page is linked, cited or paraphrased; the only claim the post makes about the SERP is the composition just described, which was directly observed. The search-result summary itself offered 'kasla ka ubet' as an Ilocano rendering, which is how the ubet check in the body came about.",
+      "GLOSBE'S ILOKO GLOSS CARRIES AN ATTRIBUTION THE READER SHOULD KNOW. glosbe.com/ilo/en/íliw returns 'long for', 'miss' and 'lonely for' under the heading 'Iloko-English dictionary', but each gloss is attributed on the page to the 'Ibatan to English Dictionary: With English, Filip[ino and Ilokano indices]' — an SIL dictionary of Ibatan whose Ilokano index supplies the Iloko side. That is a real lexicographic source rather than machine output, but it is second-hand, and the body says the gloss is carried from the Ilokano index of an SIL dictionary rather than presenting it as a dedicated Ilocano lexicon. The unaccented spellings mailiw and iliw return 404 on the same dictionary; only ilíw and íliw resolve.",
+      "CANNIBALISATION AND THE DIVISION FROM THE THREE SIBLINGS. Nothing in the 81 live 'miss' slugs is an Ilocano post; the closest live page is the hub /blog/i-miss-you-in-different-languages, whose only Philippine line is a Tagalog entry inside a 50-plus item list. This post links up to that hub and does not restate its table. Against the three finished siblings the division is by FINDING, not only by language: miss-kita-in-bisaya establishes that Cebuano HAS a native verb (hidlaw) and that kita is Tagalog; i-miss-you-in-tagalog establishes that Tagalog lexicalises the feeling as a noun (pangungulila) and adjective (sabik) with no native transitive verb; no-tagalog-word-for-miss refutes the 'no word' premise via WOLD borrowability. This post is the only one that (a) produces the actual Ilocano I-to-you fused enclitic, -ka, from a pronoun grid, (b) shows that Ilocano kita is a noun about seeing and wages, and (c) shows that Ilocano's missing-someone frame is intransitive-plus-oblique, so the transitive slot the Tagalog posts analyse does not exist here at all. Language is one of the three non-duplicate axes the BRIEF names, and the finding is genuinely different, so this is a spoke rather than a merge candidate.",
+      "WHAT IS STILL UNMEASURED. Only ONE Ilocano sentence for 'I miss you' is attested anywhere I could fetch. There is no corpus evidence here for 'I miss you too', for a plural or respectful addressee, or for any intensified form, and the post claims none. Regional variation across Ilocos Norte, Ilocos Sur, Abra, La Union and the Ilocano-speaking parts of Pangasinan and Cagayan is unmeasured. No register distinction between kenka and kaniam is claimed, because nothing fetched ranks them. And the diaspora framing rests on Rubino's 2000 introduction, which is 26 years old; no current speaker or migration figure was used, in line with the BRIEF's one-context-statistic rule."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug mirrors the assigned keyword verbatim and therefore carries the stop word 'in'. Dropping it (miss-kita-ilocano) would break the exact-match with the keyword the batch assigned, so the stop word stays and the item is recorded as failed rather than reinterpreted."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links are TEMPLATE_LINKS entries (/missyou-gf, /photo-puzzle). The third, /blog/i-miss-you-in-different-languages, is the live translation hub the batch BRIEF requires every language spoke to link up to. It is a real live URL but is not in TEMPLATE_LINKS, so this item fails on its literal wording."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to prefer this: it is the only page on the measured SERP that produces the Ilocano fused-enclitic grid showing the I-to-you form is -ka rather than kita, pairs it with the Ilocano noun senses of kita, and then hands over a corpus-attested sentence — Mailiwak kenka, Tatoeba 4632744 — with every morpheme separately dictionary-checked. The ten results actually returned on 2026-09-25 were translation-memory aggregators, auto-generated blogs and a Q&A thread with no citations, so the bar is low; the recipient-side first-party numbers (1,434 hug taps across 138 of 214 pages) are unavailable to any of them. What this cannot overcome is domain authority and a thin evidence base: exactly one Ilocano sentence for this meaning exists in any open corpus I could reach, Carro's 1888 dictionary is OCR-unusable and webonary is Cloudflare-blocked, so the lexical floor under the post is narrower than it looks. Ranking takes months and is not predicted here."
+    },
+    "generatedAt": "2026-09-25T07:53:16.157Z"
+  }
+}

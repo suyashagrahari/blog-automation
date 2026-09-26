@@ -1,0 +1,442 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Saying I Miss You in Korean Without Getting the Register Wrong",
+    "slug": "i-miss-you-in-korean",
+    "excerpt": "보고 싶어 (bogo sipeo) is \"I miss you\" in Korean, and it literally says \"I want to see you.\" The fork with 그리워, the three speech levels and who each one is safe for, checked against the Standard Korean Language Dictionary — plus what 214 miss-you pages show about the letter around the line.",
+    "metaTitle": "I Miss You in Korean — 3 Speech Levels, Dictionary-Checked",
+    "metaDescription": "I miss you in Korean is 보고 싶어 (bogo sipeo), \"I want to see you\" — not 그리워. Which of the 3 speech levels to send, checked against Korea's national dictionary.",
+    "keywords": "i miss you in korean, miss you in korean, bogo sipeo meaning, 보고 싶어 vs 그리워, korean speech levels",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-korean",
+    "ogType": "article",
+    "tags": [
+      "korean",
+      "miss-you",
+      "language",
+      "long-distance",
+      "translation"
+    ],
+    "keyTakeaways": [
+      "보고 싶어 (bogo sipeo) literally means \"I want to see you\"; the Standard Korean Language Dictionary has zero headword entries for it, because it is a construction rather than a word.",
+      "그립다 is not the \"real\" word for missing someone — Korea's national dictionary defines it using 보고 싶다 and adds 간절하다, \"intense\". The difference that bites is grammatical: 그립다 is an adjective, 그리워하다 a verb.",
+      "Send 보고 싶어요 (bogo sipeoyo) when you are unsure; the bare 보고 싶어 to anyone older or senior is a social error, not a style choice.",
+      "43.5% of miss-you senders password-protect the page before sharing it, 93 of 214, against 38.5% platform-wide — the most private segment measured.",
+      "Across 214 pages the median letter runs 88 words, and recipients tapped a hug 1,434 times on 138 of them, with 512 on a single page."
+    ],
+    "faqs": [
+      {
+        "question": "How do you pronounce 보고 싶어?",
+        "answer": "In Revised Romanization it is bogo sipeo: bo-go-si-peo, four short even syllables with no stress on any of them. The 어 vowel sits closer to the vowel in \"sung\" than to \"oh\", which is why some sites write it \"shi-puh\" instead."
+      },
+      {
+        "question": "Is 보고 싶어 rude?",
+        "answer": "Not in itself, but it is banmal, the informal level, so it suits a partner, a sibling, a close friend your own age or younger, or someone who has told you to drop the polite ending. Said to anyone older or senior it reads as presumptuous rather than affectionate."
+      },
+      {
+        "question": "How do I say I miss you to my Korean partner's parents?",
+        "answer": "Use 보고 싶어요 (bogo sipeoyo), the polite form. 보고 싶습니다 (bogo sipseumnida) is also correct and rather more formal, which can read as distant coming from someone who is close family. Never send the bare 보고 싶어."
+      },
+      {
+        "question": "What does 보고 싶다 literally mean?",
+        "answer": "\"I want to see you.\" It is 보다, to see, plus the auxiliary -고 싶다, to want to. That is why the Standard Korean Language Dictionary carries no headword for it: it is a grammatical construction rather than a single word."
+      },
+      {
+        "question": "Can I say 그리워 to a person, or is it only for places?",
+        "answer": "To a person is fine. The Tatoeba corpus attests 그리워요 translated straight as \"I miss you\", and 널 그리워해 for \"misses you\". It carries more weight and a more literary tone than 보고 싶어, so it suits an absence you have been living with rather than a two-day trip."
+      },
+      {
+        "question": "How do I say I missed you, in the past?",
+        "answer": "저도 당신을 보고 싶었어요 (jeodo dangsineul bogo sipeosseoyo) is attested on Tatoeba as \"I've missed you, too.\" The past tense sits inside 싶었-, and the politeness still sits in the final 요."
+      },
+      {
+        "question": "Why do different sites romanise it differently?",
+        "answer": "Because most of them never say which system they are using. This page uses the Revised Romanization of Korean, the standard published by the National Institute of Korean Language, which gives bogo sipeo. Spellings like \"bogo shipo\" or \"bo-go shi-puh\" are pronunciation hints, not a standard."
+      },
+      {
+        "question": "Do I need a Korean keyboard to type 보고 싶어?",
+        "answer": "No. Each syllable is a single precomposed Unicode character — 보 is U+BCF4, 고 is U+ACE0, 싶 is U+C2F6, 어 is U+C5B4 — inside the Hangul Syllables block, so copying and pasting moves them intact between apps. Only typing them from scratch needs a Korean input method."
+      },
+      {
+        "question": "Is 보고싶다 one word or two?",
+        "answer": "Write it spaced, as 보고 싶다. The National Institute of Korean Language spaces it inside its own dictionary definition of 그립다. The unspaced form is common online, and it is why 보고싶다 띄어쓰기, meaning \"보고싶다 spacing\", turns up in Korean-market autocomplete."
+      },
+      {
+        "question": "Does the Korean I hear in K-dramas match what I should send?",
+        "answer": "Often not. Drama dialogue is written between characters whose relationship the script has already established, and it leans on banmal because that signals intimacy on screen. Copying a line without the relationship behind it is the most common way learners get the register wrong."
+      }
+    ],
+    "coverImageQuery": "korean hangul handwritten letter desk",
+    "coverImagePrompt": "A close, warm photograph of a handwritten letter on a wooden desk, the Hangul phrase 보고 싶어 visible in ink near the top, a phone face-down beside it and soft late-afternoon window light. Shallow depth of field, muted blues against warm paper tones, clean negative space along the upper third for a title overlay, 16:9. No text other than the handwritten Korean and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Saying I Miss You in Korean Without Getting the Register Wrong\n\nThe way to say i miss you in Korean to a partner or a close friend is **보고 싶어** (*bogo sipeo*), which literally says \"I want to see you.\" Its polite form is **보고 싶어요** (*bogo sipeoyo*) and its formal form **보고 싶습니다** (*bogo sipseumnida*); sending the first to anyone older or senior is a social error rather than a stylistic one. The other candidate, **그리워** (*geuriwo*), is not a synonym and not a mistake either — Korea's national dictionary defines it *using* 보고 싶다. Every romanisation here follows the [Revised Romanization of Korean](https://www.korean.go.kr/front_eng/roman/roman_01.do), the national standard. Below is the send-to rule for each form, plus what 214 \"I miss you\" pages built on SubhSandesh since 2026-07-28 show about the message around the line: a median letter of 88 words, and 43.5% of them locked behind a password.\n\n## Is it 보고 싶어 or 그리워? What the national dictionary actually says\n\nBoth are correct, and the usual explanation of the difference is wrong. The [Standard Korean Language Dictionary](https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4), published by the National Institute of Korean Language, has **zero entries** for 보고 싶다. It is not a word at all — it is 보다 (\"to see\") plus the auxiliary -고 싶다 (\"to want to\"), which is why it never earned a headword.\n\n그립다 does have an entry, exactly one, and it reads: 「형용사」 보고 싶거나 만나고 싶은 마음이 간절하다 — \"adjective: the wish to see or to meet is intense.\" The sibling entry 그리워하다 reads 「동사」 사랑하여 몹시 보고 싶어 하다 — \"verb: to love and to want very much to see.\"\n\nRead those twice. Korea's own dictionary defines 그립다 **in terms of** 보고 싶다. So 보고 싶다 is the plain form and 그립다 is the intensified one, carrying 간절하다 (\"earnest\") and, for 그리워하다, 사랑하여 (\"out of love\").\n\nThe difference that actually bites is grammatical. 그립다 is an adjective, so the thing missed takes the subject marker: 난 내 고양이가 그리워 — \"I miss my cat.\" 그리워하다 is a verb, so it takes the object marker: 가족들**을** 그리워합니다. 보고 싶다 patterns with the verb, because 보다 is transitive: 저도 당신**을** 보고 싶었어요.\n\nAnyone telling you 그립다 is only for places and the past is overstating it. The Tatoeba corpus attests 그리워요 addressed straight to a person and translated \"I miss you.\"\n\n## The three speech levels, and who each one is safe to send to\n\nKorean encodes your relationship to the listener in the verb ending itself, so there is no neutral way to say this. Choosing wrong is not a matter of sounding stiff: Jeong and Lee's 2022 study, citing Lee (2012), notes that Korean native speakers react more strongly to pragmatic failure than to a lexical or grammatical error.\n\n### 보고 싶어 (*bogo sipeo*) — banmal, informal\n\nUse it with a partner, a sibling, a close friend your own age or younger, or someone who has explicitly told you to drop the polite ending. It is the form on almost every lyric sheet and drama subtitle, which is why learners default to it, and it is [attested in the Tatoeba corpus](https://tatoeba.org/en/sentences/show/5368) with four different English translations, including \"I want to see it\" — the ambiguity is real and Koreans live with it.\n\n### 보고 싶어요 (*bogo sipeoyo*) — polite, 해요체\n\nAdd 요 and the line is safe with almost anyone: a colleague, a friend's parent, someone a few years older. If you are unsure which of the three to send, send this one. Sounding slightly too polite in Korean passes unnoticed. Sounding too familiar does not.\n\n### 보고 싶습니다 (*bogo sipseumnida*) — formal, 합쇼체\n\nThis is the register of announcements, letters, speeches and a first message to someone much senior. It is correct and it is distant, so it reads as deliberate rather than warm. Note the romanisation: Revised Romanization transcribes consonant assimilation (습니다 becomes *seumnida*) but not tensing, which is why it is *sipseumnida* and never *sipsseumnida*.\n\nJeong and Lee's 2022 study in *Language Research* surveyed eight first-language English speakers learning Korean in Australia and interviewed seven of them about honorifics. Their finding is uncomfortable: participants applied honorifics by personal attitude rather than by the listener's relational status **even after learning and mastering the system for a considerable period**, and their understanding of it was \"overpowered by their cultural identity as 'Australians'.\"\n\nThat is the reader of this page: not in Korea, taught the phrase by a song or a series, and given no way to learn from either who you are allowed to say it to.\n\n## How the line arrives changes what you should send\n\nA speech level is only half the decision; the other half is the channel. The table below compares the routes, with the third column drawn from SubhSandesh's own 214 miss-you pages rather than from anywhere else.\n\n| How it arrives | Form that fits | Rate across the 214 pages | What the recipient can do back |\n|---|---|---|---|\n| Chat message | 보고 싶어 (*bogo sipeo*) | not measured — chat is off-platform | Type a reply |\n| Voice note on a page | 보고 싶어요 (*bogo sipeoyo*) | 13.6% — 29 of 214 recorded one | Listen, replay |\n| Written letter on a page | any of the three | median 88 words, longest 1,024 | Tap a hug — 1,434 taps across 138 pages |\n| \"Open when\" letters | any of the three | 92.1% — 197 of 214, 3.2 letters each | Open them one at a time |\n\nThe last column is the one that separates the routes. A chat message returns no signal once sent, while 138 of the 214 pages recorded at least one hug tap from whoever opened them, and one page recorded 512.\n\n## Writing Hangul that survives the send\n\nYou do not need a Korean keyboard, and pasting will not break the characters. 보, 고, 싶 and 어 are precomposed syllables at [U+BCF4, U+ACE0, U+C2F6 and U+C5B4](https://www.unicode.org/Public/UNIDATA/UnicodeData.txt), inside the Hangul Syllables block that Unicode defines as U+AC00 to U+D7A3 — 11,172 syllables, each a single code point. Any app rendering Korean at all will render these.\n\nWrite it spaced, as 보고 싶어 rather than 보고싶어. The National Institute of Korean Language spaces it inside its own definition of 그립다 (보고 싶거나), and the question is live enough in Korea that 보고싶다 띄어쓰기 — \"보고싶다 spacing\" — appears in the Korean-market autocomplete harvest alongside 보고싶다 맞춤법, \"보고싶다 orthography.\"\n\n## Who is actually searching this, and why mostly not from Korea\n\nThis run harvested Google autocomplete across 19 markets. `miss you in korean` surfaced under ten distinct prefixes in four of them — the US, the UK and both Indian harvests, English and Hindi. `i miss you in korean` surfaced under eight prefixes, in the US and India only. Measured on prefix breadth, that is the widest of any `i miss you in <language>` row in the whole run, ahead of Spanish at seven and French at six.\n\nNow compare the Korean-market harvest itself. Of 177 suggestions returned for `geo=kr`, at least 50 are songs, lyrics, OSTs, karaoke codes, guitar chords or sheet music — 보고싶다 is a well-known ballad, and inside Korea that is mostly what the phrase points at.\n\nSo the demand is coming from learners and drama viewers outside Korea, and increasingly from India. That said, three Korean-market rows ask the same question this page answers — 그립다 vs 보고싶다, and \"difference between 보고싶다 and 그립다\" — so the confusion is not only a learner's problem.\n\nIf you want the one-line version for fifty-odd other languages, [our hub page on saying I miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages) carries the table. This page is the depth underneath the Korean row of it.\n\n## What people build around the line, and the limits of that data\n\nAcross 214 pages created on the [miss-you page for a partner](https://subhsandesh.in/missyou-gf) since the template went live on 2026-07-28, the median letter runs 88 words and the longest runs 1,024. Eighty-eight words is roughly one screen: the Korean line, one memory attached to it, and a sentence about when you next meet.\n\nThe privacy number is the one worth knowing before you write anything: 43.5% of miss-you senders password-protect the page before sharing it, 93 of 214, against 38.5% across the whole platform. People saying this say it behind a lock more often than people saying anything else here.\n\nThree limits on all of that, stated plainly. The 47 distinct city pairs these pages name come from a **15-city picker with defaults**, so they are not chosen by the sender and no conclusion about geography should be drawn from them. The 2,417 recorded views are **page views, not unique visitors** — one recipient reopening a page twenty times counts twenty times. And n = 214 over two months supports no seasonal or festival claim at all.\n\n## When Korean is the wrong choice, and when a page is\n\nIf the person you are writing to is Korean and you are not fluent, a Korean line with an English letter under it is honest and lands well. A whole message in Korean assembled from a phrasebook usually does not, because register errors compound across sentences and the 2022 Australian study suggests you will not hear about them.\n\nThere are also readers for whom this whole format is wrong. If the phrase reached you through a song — and the Korean harvest says that is the common route — then a page that plays the song with your own voice introducing it carries more than a translated sentence will. [Dedication](https://subhsandesh.in/dedication), a radio show made for one person, suits that reader better than a miss-you page does: they drag the needle through static, land on your station, and hear you announce the track. Pick that instead if the music is the real message.\n\nAnd if you are in the same room as them this week, say it out loud. 보고 싶어 means \"I want to see you.\" Nothing sent over a link competes with actually turning up.\n\n## Sources\n\n- [Standard Korean Language Dictionary — 그립다](https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4), National Institute of Korean Language\n- [Romanization of Korean](https://www.korean.go.kr/front_eng/roman/roman_01.do), National Institute of Korean Language\n- Jeong, W. & Lee, N. (2022), [\"Understanding of Korean Honorifics by L2 Korean Learners in Australia\"](http://www.elanguageresearch.org/download/download_pdf?pid=lr-58-3-223), *Language Research* 58(3), 223–245\n- [Tatoeba — Korean sentences for 보고 싶어](https://tatoeba.org/en/sentences/show/5368), CC BY 2.0 FR\n- [Wiktionary — 그립다](https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4)\n- [Unicode Character Database — Hangul Syllables](https://www.unicode.org/Public/UNIDATA/UnicodeData.txt), The Unicode Consortium\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-korean#speech-levels",
+        "name": "Korean speech levels for \"I miss you\"",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "보고 싶어 (bogo sipeo) — banmal, informal",
+            "description": "For a partner, sibling, close friend your own age or younger, or someone who has asked you to drop the polite ending. Attested on Tatoeba with four English translations, including \"I want to see it.\""
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "보고 싶어요 (bogo sipeoyo) — polite, 해요체",
+            "description": "Safe with a colleague, a friend's parent, or anyone a few years older. The default whenever the relationship is unclear."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "보고 싶습니다 (bogo sipseumnida) — formal, 합쇼체",
+            "description": "The register of letters, speeches and a first message to someone much senior. Revised Romanization transcribes assimilation (seumnida) but not tensing, hence sipseumnida."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-korean#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Korean speech levels",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Korean_speech_levels",
+              "https://www.wikidata.org/wiki/Q17007118"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Korean language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Korean_language",
+              "https://www.wikidata.org/wiki/Q9176"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Revised Romanization of Korean",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean",
+              "https://www.wikidata.org/wiki/Q498721"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "National Institute of Korean Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Institute_of_Korean_Language",
+              "https://www.wikidata.org/wiki/Q495374"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Hangul",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hangul",
+              "https://www.wikidata.org/wiki/Q8222"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Standard Korean Language Dictionary — 그립다",
+            "url": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Institute of Korean Language"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Romanization of Korean",
+            "url": "https://www.korean.go.kr/front_eng/roman/roman_01.do",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Institute of Korean Language"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Understanding of Korean Honorifics by L2 Korean Learners in Australia: A Socio-Pragmatic Perspective",
+            "url": "http://www.elanguageresearch.org/download/download_pdf?pid=lr-58-3-223",
+            "datePublished": "2022-12-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Language Education Institute, Seoul National University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 5368 — 보고 싶어.",
+            "url": "https://tatoeba.org/en/sentences/show/5368",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — 그립다",
+            "url": "https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unicode Character Database — Hangul Syllables",
+            "url": "https://www.unicode.org/Public/UNIDATA/UnicodeData.txt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Unicode Consortium"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-korean#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do you pronounce 보고 싶어?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In Revised Romanization it is bogo sipeo: bo-go-si-peo, four short even syllables with no stress on any of them. The 어 vowel sits closer to the vowel in \"sung\" than to \"oh\", which is why some sites write it \"shi-puh\" instead."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is 보고 싶어 rude?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not in itself, but it is banmal, the informal level, so it suits a partner, a sibling, a close friend your own age or younger, or someone who has told you to drop the polite ending. Said to anyone older or senior it reads as presumptuous rather than affectionate."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say I miss you to my Korean partner's parents?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Use 보고 싶어요 (bogo sipeoyo), the polite form. 보고 싶습니다 (bogo sipseumnida) is also correct and rather more formal, which can read as distant coming from someone who is close family. Never send the bare 보고 싶어."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does 보고 싶다 literally mean?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "\"I want to see you.\" It is 보다, to see, plus the auxiliary -고 싶다, to want to. That is why the Standard Korean Language Dictionary carries no headword for it: it is a grammatical construction rather than a single word."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I say 그리워 to a person, or is it only for places?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "To a person is fine. The Tatoeba corpus attests 그리워요 translated straight as \"I miss you\", and 널 그리워해 for \"misses you\". It carries more weight and a more literary tone than 보고 싶어, so it suits an absence you have been living with rather than a two-day trip."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I say I missed you, in the past?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "저도 당신을 보고 싶었어요 (jeodo dangsineul bogo sipeosseoyo) is attested on Tatoeba as \"I've missed you, too.\" The past tense sits inside 싶었-, and the politeness still sits in the final 요."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why do different sites romanise it differently?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because most of them never say which system they are using. This page uses the Revised Romanization of Korean, the standard published by the National Institute of Korean Language, which gives bogo sipeo. Spellings like \"bogo shipo\" or \"bo-go shi-puh\" are pronunciation hints, not a standard."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need a Korean keyboard to type 보고 싶어?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Each syllable is a single precomposed Unicode character — 보 is U+BCF4, 고 is U+ACE0, 싶 is U+C2F6, 어 is U+C5B4 — inside the Hangul Syllables block, so copying and pasting moves them intact between apps. Only typing them from scratch needs a Korean input method."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is 보고싶다 one word or two?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Write it spaced, as 보고 싶다. The National Institute of Korean Language spaces it inside its own dictionary definition of 그립다. The unspaced form is common online, and it is why 보고싶다 띄어쓰기, meaning \"보고싶다 spacing\", turns up in Korean-market autocomplete."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does the Korean I hear in K-dramas match what I should send?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Often not. Drama dialogue is written between characters whose relationship the script has already established, and it leans on banmal because that signals intimacy on screen. Copying a line without the relationship behind it is the most common way learners get the register wrong."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in korean",
+    "angle": "Wins by being the only post on this SERP that settles 보고 싶어 vs 그리워 against the National Institute of Korean Language's own dictionary — which defines 그립다 using 보고 싶다 and carries zero entries for 보고 싶다 itself — and pairs a send-to rule per speech level with recipient-side evidence from 214 /missyou-gf pages, 138 of which recorded at least one hug tap.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/dedication"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+        "stat": "그립다 is listed as an adjective (「형용사」) and defined 보고 싶거나 만나고 싶은 마음이 간절하다; the sibling entry 그리워하다 is a verb defined 사랑하여 몹시 보고 싶어 하다. A search for 보고 싶다 returns 찾기 결과 (총 0 개) — zero entries."
+      },
+      {
+        "url": "https://www.korean.go.kr/front_eng/roman/roman_01.do",
+        "stat": "Revised Romanization of Korean: ㅓ is transcribed eo and ㅡ eu; assimilation between adjacent consonants is transcribed (왕십리 Wangsimni, 종로 Jongno) while tense sounds are not (합정 Hapjeong, 낙동강 Nakdonggang). That fixes bogo sipeo, bogo sipeoyo and bogo sipseumnida."
+      },
+      {
+        "url": "http://www.elanguageresearch.org/download/download_pdf?pid=lr-58-3-223",
+        "stat": "Eight L1-English learners of Korean in Australia were surveyed and seven interviewed; they applied honorifics by subjective attitude rather than by the listener's relational status even after learning and mastering the system for a considerable period, their understanding of it \"overpowered by their cultural identity as 'Australians'\".",
+        "publishedDate": "2022-12-31"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/5368",
+        "stat": "The Korean sentence 보고 싶어. carries four English translations in the corpus — \"I miss you.\", \"I'll miss you.\", \"I pine for you.\" and \"I want to see it.\" — which is the literal ambiguity in a single row."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+        "stat": "그립다 is a Korean adjective of native etymology (그리— \"to long for\" plus the adjectival suffix —ㅂ—), glossed \"to be dear, beloved\" and \"to be longed for, to be missed\"."
+      },
+      {
+        "url": "https://www.unicode.org/Public/UNIDATA/UnicodeData.txt",
+        "stat": "AC00;<Hangul Syllable, First> through D7A3;<Hangul Syllable, Last> — 11,172 precomposed Hangul syllables at one code point each, covering 보 U+BCF4, 고 U+ACE0, 싶 U+C2F6 and 어 U+C5B4."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "The three H3s (보고 싶어 / 보고 싶어요 / 보고 싶습니다) are the same three subheads both fetched ranking pages use. That convergence is a fact of Korean rather than borrowed framing — there are exactly three relevant speech levels — but the item asks about structure and the structure matches. Everything around them differs: neither competing page carries a comparison table, FAQPage markup, a national-dictionary citation, or recipient-side data. Structural: it would close only by not covering the speech levels, which is table stakes."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences because references/page-structure.md prescribes answer + two-to-four numbers + a scope sentence inside one extractable block. Every other paragraph in the body is two or three sentences. The two rules conflict and the answer-paragraph rule wins."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop words \"i\" and \"in\" because it is the exact target keyword. Dropping them (miss-you-korean) breaks exact match with the query and with the naming of the other eight translation spokes under the live hub. Structural: it closes only by giving up the keyword match."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links (/missyou-gf, /dedication) are from TEMPLATE_LINKS. The third, /blog/i-miss-you-in-different-languages, is not — it is a live Strapi article (id 1360, slug verified 2026-09-25), and BRIEF §2 requires every translation spoke to link up to it. TEMPLATE_LINKS lists templates only, so a hub link can never satisfy this item as written."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that cites Korea's national dictionary, and that citation yields something no competitor states: 보고 싶다 has zero headword entries because it is a construction, and 그립다 is defined using it, so the familiar \"그립다 is the real word for missing\" framing is backwards. Add a send-to / do-not-send-to rule per speech level, a peer-reviewed finding about learners living outside Korea, and recipient-side data nobody else measures (1,434 hug taps across 138 of 214 pages), and there are four distinct reasons to cite it. What it cannot overcome: fluentu.com and 90daykorean.com are established Korean-learning domains with years of topical links, while subhsandesh.in is a gifting site with no Korean-language authority at all, so an answer engine may cite this for the dictionary point while Google still ranks them above it. Ranking, if it happens, takes months."
+    },
+    "structuralLimitations": [
+      "BRIEF §0 CORRECTION — the prompt said `i miss you in korean` and `miss you in korean` \"both surfaced in the US and UK autocomplete harvests under 10 different prefixes\". autocomplete-merged.csv says otherwise: `miss you in korean` hit 10 prefixes across gb-en, in-en, in-hi and us-en; `i miss you in korean` hit 8, across in-en and us-en only, and never surfaced in the UK harvest at all. The prompt also omits India, which is the market this domain most cares about and the only one to appear in both its harvests. The post prints the measured figures, not the prompt's.",
+      "BRIEF §0 CORRECTION — the prompt said 그립다 is \"the closer semantic match to English 'miss'\" and is \"used for places, times, states, the past\". Both halves fail against fetched sources. The Standard Korean Language Dictionary defines 그립다 as 보고 싶거나 만나고 싶은 마음이 간절하다 — that is, in terms of 보고 싶다, which makes 보고 싶다 the primitive rather than the loose approximation. And Tatoeba attests 그리워요 (sentence 2652675) translated \"I miss you\" to a person, plus 널 그리워해 (10788997), so the person/place split does not hold. The post replaces it with the distinction that does: 그립다 is an adjective taking 이/가 on what is missed, 그리워하다 a verb taking 을/를, and 보고 싶다 patterns with the verb because 보다 is transitive.",
+      "BRIEF §0 CORRECTION — the prompt said \"nothing on the SERP handles [speech levels] properly\". Both fetchable ranking pages do carry 보고 싶어 / 보고 싶어요 / 보고 싶습니다 as three H3s. The measurable gap is narrower, and it is what the post claims instead: neither page carries a comparison table, FAQPage markup, any citation of korean.go.kr, or a rule for who may receive banmal.",
+      "PROMPT CLAIM CONFIRMED, and quantified — the geo=kr harvest returned 177 rows, of which at least 50 are song, lyric, OST, karaoke, chord or sheet-music queries. But three rows go the other way (그립다 vs 보고싶다, 보고싶다 vs 그리워하다, \"difference between 보고싶다 and 그립다\"), so the fork confuses native searchers too. The post says that rather than claiming Koreans never ask.",
+      "LINE CUT 1 — 보고 싶을 때 (\"when you miss me\"), drafted for a table row. Tatoeba returns 0 Korean sentences for it and it was composed by me, so it was cut rather than printed unattested.",
+      "LINE CUT 2 — 보고파 / 보고팡 / 보고 싶당, the \"cute\" forms. 보고프다 returns 총 0 개 in the Standard Korean Language Dictionary, so there is no standard entry to stand behind.",
+      "LINE CUT 3 — 보고싶다 written unspaced as a form to send. Zero STDict entries, and NIKL spaces it inside its own definition of 그립다 (보고 싶거나). The unspaced string survives in the post only as a description of what Korean searchers type.",
+      "LINE CUT 4 — 그립습니다, the formal form of 그립다. No Tatoeba attestation and no dictionary example fetched, so it was cut rather than derived from the paradigm.",
+      "LINE CUT 5 — 너무 보고 싶어 (\"I miss you so much\"). Not verified against any fetched source in the time available.",
+      "LINE CUT 6 — the sentence \"보고 싶다 is a Korean word meaning 'I miss you'\", which was the first draft's definition block. STDict returns 0 entries; it was replaced by the construction analysis, which became the post's strongest claim.",
+      "LINE CUT 7 — hanja for 그립다. The harvest row 보고싶다 한자 suggested there might be one; Wiktionary marks 그립다 native Korean (ko-etym-native), so there was nothing to print.",
+      "LINE CUT 8 — 고향이 그립다 (\"I am homesick\"), Wiktionary's own example. Verified and usable, but cut for length once the 난 내 고양이가 그리워 Tatoeba sentence made the same grammatical point with a live corpus citation.",
+      "WHAT THIS DOES THAT THE HUB DOES NOT — the live hub /blog/i-miss-you-in-different-languages (Strapi id 1360) gives Korean exactly one line: \"Korean: 보고 싶어 (bogo sipeo — bo-go shi-puh)\". It names no speech level, never mentions 그립다, and carries no warning about banmal. Its table is not restated here. This page adds the dictionary evidence, the three-level send-to rule, the grammatical fork, the Unicode and spacing mechanics, and the first-party channel data — Korean-specific depth a fifty-language table cannot carry.",
+      "CANNIBALISATION — zero live slugs contain \"korean\" (checked against Strapi 2026-09-25) and none of the 81 live \"miss\" slugs is a translation spoke for an East Asian language. On the BRIEF's three-axis test this differs on the language axis from every one of them. No merge recommended.",
+      "CAP-EXEMPT DOMAINS USED — tatoeba.org, en.wiktionary.org and unicode.org, all listed in verify.config.json capExemptDomains. All three were fetched (Tatoeba via api_v0 and then the /show/5368 page itself; Wiktionary via the MediaWiki parse API and then the rendered entry; unicode.org via UnicodeData.txt and Blocks.txt) and each verified to contain the claim attributed to it. unicode.org sat at 2 posts in capcheck when this was written.",
+      "SOURCES NOT USED, AND WHY — capcheck showed pmc.ncbi.nlm.nih.gov, frontiersin.org, journals.plos.org and aclanthology.org all at the 3-post cap, which ruled out the single Europe PMC result findpapers.mjs returned (doi:10.1007/s10936-026-10290-5). OpenAlex was used instead to find a non-PMC open-access venue. Rejected as closed access: doi:10.5325/korelangamer.23.1.0053, doi:10.1007/978-3-030-64077-4_8, doi:10.1016/j.pragma.2017.06.001. Rejected as unreadable: Glossa article 8182, open access but served behind an Anubis anti-bot challenge, and an unreadable source is not a citable one.",
+      "SERP LIMIT — result 3 (cozyhangeul.medium.com) returned HTTP 403 and was not analysed. Every structural claim about competing pages covers fluentu.com and 90daykorean.com only, measured by parsing their HTML for headings, <table>, FAQPage markup and any occurrence of korean.go.kr. Neither page is linked or paraphrased.",
+      "FIRST-PARTY LIMIT — /missyou-gf letter text is free input and is not language-tagged, so the platform cannot say what share of the 214 senders wrote any Korean at all. The table's first-party column is therefore about the channel (voice note, letter, open-when letters), never about the speech level, and the body says so.",
+      "LICENCE — Jeong & Lee (2022) is CC BY-NC. A company blog is commercial, so nothing from it is reproduced; the finding is stated in the post's own words and linked. Tatoeba sentences are CC BY 2.0 FR and are cited with their sentence id."
+    ],
+    "generatedAt": "2026-09-25T06:54:23.464Z"
+  }
+}

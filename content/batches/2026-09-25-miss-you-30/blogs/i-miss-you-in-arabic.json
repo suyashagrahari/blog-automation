@@ -1,0 +1,366 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You in Arabic, and the Vowel That Decides Who You Meant",
+    "slug": "i-miss-you-in-arabic",
+    "excerpt": "\"I miss you\" in Arabic is اشتقت إليك — ishtaqtu ilayka to a man, ilayki to a woman — and the mark that separates them is unwritten in all four Tatoeba sentences. What Egyptians send instead, what وحشتني literally means, and what 214 miss-you pages show about the letter around the line.",
+    "metaTitle": "I Miss You in Arabic — the Vowel Nobody Writes Down",
+    "metaDescription": "I miss you in Arabic is ishtaqtu ilayka to a man, ilayki to a woman, and the mark dividing them is absent in all 4 Tatoeba sentences. Egyptians say wahashtini.",
+    "keywords": "i miss you in arabic, miss you in arabic, ishtaqtu ilayka, wahashtini meaning, arabic gender agreement",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-in-arabic",
+    "ogType": "article",
+    "tags": [
+      "arabic",
+      "miss-you",
+      "language",
+      "translation",
+      "long-distance"
+    ],
+    "keyTakeaways": [
+      "اشتقت إليكَ is addressed to a man and اشتقت إليكِ to a woman; the only difference is U+064E ARABIC FATHA versus U+0650 ARABIC KASRA, and all four sentences in the Tatoeba corpus that use the phrase omit both.",
+      "وحشتني is what an Egyptian sends, and it inverts the sentence: Lane's lexicon defines the root و ح ش around desolation and records أوحشتنا, \"thou hast made us lonely by thine absence\", as Egyptian usage in the 19th century.",
+      "The dialect is the clearer one here — Egyptian marks a female addressee with a written ي (وحشتيني), while Modern Standard Arabic hides the same distinction in a mark nobody types.",
+      "43.5% of miss-you senders password-protect the page before sharing it, 93 of 214, against 38.5% across the whole platform.",
+      "Only one of the five channels measured carries the vowel that settles the gender — the voice note — and just 13.6% of senders, 29 of 214, record one."
+    ],
+    "faqs": [
+      {
+        "question": "How do you write \"I miss you\" in Arabic?",
+        "answer": "In Modern Standard Arabic it is اشتقت إليك, ishtaqtu ilayka to a man and ishtaqtu ilayki to a woman. Written without vowel marks, which is normal, both come out as the same eleven characters. Egyptians usually write وحشتني instead."
+      },
+      {
+        "question": "How do I tell whether a phrase I copied is the male or the female version?",
+        "answer": "From the text alone, you usually cannot. The difference is U+064E ARABIC FATHA versus U+0650 ARABIC KASRA on the final kaf, and both are nonspacing marks that most writers omit — all four sentences with that phrase in the Tatoeba corpus leave them out. Say it aloud in a voice note and the ambiguity disappears."
+      },
+      {
+        "question": "What does وحشتني literally mean?",
+        "answer": "Literally, \"you have made me desolate\". It is built on the root و ح ش, which Lane's lexicon glosses as wild animal, monster, and, of a place, destitute of human beings; Wiktionary defines the Egyptian verb waḥaš as \"to cause longing\". The person you miss is the grammatical subject, as in French tu me manques."
+      },
+      {
+        "question": "How do you say \"I miss you\" in Egyptian Arabic to a woman?",
+        "answer": "وحشتيني, waḥaštīni, with an extra written ي before the object pronoun. The masculine is وحشتني, waḥaštini. This is one place where the dialect is clearer than the standard language — the gender is a full letter rather than an invisible mark."
+      },
+      {
+        "question": "Is اشتقت إليك too formal to text someone?",
+        "answer": "It is not wrong, but it reads as written Arabic rather than spoken. Magidow's 2013 survey of 28 Damascene writers found native speakers actively steering between the two registers even inside formal writing. If you know the person's dialect, use it; if you do not, the standard form is the safe default."
+      },
+      {
+        "question": "What is the difference between اشتقت and أشتاق?",
+        "answer": "أشتاق (ashtāqu) is the present and اشتقت (ishtaqtu) the perfect of the same form-VIII verb. Both are current for \"I miss you\" — Wiktionary's own usage examples use the present, while the Saudi autocomplete data is seeded on the perfect."
+      },
+      {
+        "question": "How is اشتقت إليك pronounced?",
+        "answer": "ish-TAQ-tu i-LAY-ka to a man, ish-TAQ-tu i-LAY-ki to a woman, from the vocalised forms اِشْتَقْتُ إِلَيْكَ and اِشْتَقْتُ إِلَيْكِ. The whole gender distinction sits in that last syllable, which is why speaking it removes the guesswork that writing it introduces."
+      },
+      {
+        "question": "Can I use افتقدتك instead?",
+        "answer": "Yes. افتقدتك is from a different root, افتقد, which Wiktionary glosses \"to miss; to lose\" and also \"to examine; to study\"; Tatoeba sentence 392779 translates it \"I miss you\". It reads cooler and more literary than اشتقت."
+      },
+      {
+        "question": "What do people say in the Gulf?",
+        "answer": "The same verb with the object attached by لـ rather than إلى — اشتقت لك. Wiktionary's Hijazi entry gives the first-person past as aštagt and transliterates its own example اشتاقوا لك as one word, aštāgōlak."
+      },
+      {
+        "question": "Does it matter if I skip the vowel marks?",
+        "answer": "For everyday messages, no — skipping them is standard practice, and every attested example in the corpora checked here skips them. It matters only when the gender is the point, and the fix is to say the line rather than type it."
+      }
+    ],
+    "coverImageQuery": "arabic calligraphy handwriting letter desk",
+    "coverImagePrompt": "A close, warm photograph of a hand writing a short line of Arabic script in ink on cream paper, a phone face-down beside it, late afternoon light raking across the page. Shallow depth of field, the script legible but not the focus of the frame. Clean negative space along the top third for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You in Arabic, and the Vowel That Decides Who You Meant\n\n\"I miss you\" in Arabic is اشتقت إليكَ (*ishtaqtu ilayka*) to a man and اشتقت إليكِ (*ishtaqtu ilayki*) to a woman. The two differ by one mark above or below the final letter, and that mark is almost never written — in all four sentences on Tatoeba containing that exact phrase, it is absent. So a line copied off a list carries no evidence of who it was meant for. Egyptians send a different sentence altogether, وحشتني, which puts the person you miss in the subject slot and says, literally, that they made you desolate. This page settles both against Lane's *Arabic-English Lexicon*, Wiktionary's paradigms and the Unicode character database, and adds what 214 pages built on the [SubhSandesh miss-you page](/missyou-gf) show about the message wrapped around the line: 43.5% of senders password-protect it before sharing, 93 of 214, the most private segment measured, and the median letter runs 88 words.\n\nTransliterations follow the scheme Wiktionary's Arabic entries use — *ḥ* for ح, *š* for ش, long vowels as *ā ī ū* — except inside quotations, where each source's own romanisation stands.\n\n## Why you cannot send this sentence without choosing a gender\n\nThe Arabic second-person suffix agrees with the person addressed, so there is no neutral \"you\" to attach. Wiktionary prints the pair on the entry for the verb itself: أَشْتَاقُ إِلَيْكَ tagged *to a man*, أَشْتَاقُ إِلَيْكِ tagged *to a woman*, same gloss for both.\n\nStrip the vocalisation, as running text and phone keyboards do, and the two collapse into one string, إليك. The difference has moved into a mark that is no longer on the page.\n\nThose marks have names and numbers. The masculine takes U+064E ARABIC FATHA and the feminine U+0650 ARABIC KASRA, and the [Unicode character database](https://www.unicode.org/Public/UNIDATA/UnicodeData.txt) files both under general category Mn — nonspacing mark — inside the Arabic block U+0600–U+06FF. Nonspacing means zero advance width: the string takes the same room on screen with or without them.\n\nSend اشتقت إليك to a man and it is correct; send the identical characters to a woman and it is also correct, and neither of you can tell from the text which you meant.\n\n## What the verb actually says, and why \"miss\" is an approximation\n\n[Wiktionary's entry for اشتاق](https://en.wiktionary.org/wiki/%D8%A7%D8%B4%D8%AA%D8%A7%D9%82) — the page those two marked examples come from — files it as a form-VIII verb on the root ش و ق, built from the noun شَوْق, and glosses it \"to yearn for\" ahead of \"to miss\".\n\nSo the Arabic is about longing rather than about registering an absence, and English \"miss\" is an approximation in both directions. That also explains the two shapes you will see quoted: أشتاق إليك is the present, اشتقت إليك the perfect, and both are in use.\n\nThe same page carries the conjugation table, and that is where the second ambiguity lives. It gives اِشْتَقْتُ *ishtaqtu* \"I\", اِشْتَقْتَ *ishtaqta* \"you (m.)\" and اِشْتَقْتِ *ishtaqti* \"you (f.)\" — three different people, one written form, اشتقت. A two-word sentence hides two separate decisions.\n\nAttested usage confirms it is normal to leave both open. All four Arabic sentences in the [Tatoeba corpus](https://tatoeba.org/en/sentences/show/392778) containing the exact string اشتقت إليك are written with no fatha and no kasra anywhere, and every English translation on them reads simply \"I miss you\".\n\n## وحشتني, and why an Egyptian will not send you the standard line\n\nStandard Arabic is what gets printed; it is not what gets typed into a chat. In Egypt the sentence is وحشتني, built on a different root with a much darker literal meaning.\n\nLane's entry for root [و ح ش](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0041%3Aroot%3DwH%24) gives وَحْشٌ as \"wild animal\", \"monster\", and, of a place, \"Desolate, deserted, or destitute of human beings\". The form-IV verb اوحش الرَّجُلَ is \"He made the man lonely, or solitary; and sad, sorrowful, or disquieted or troubled in mind; [by his absence]\" — the opposite, Lane notes, of آنَسَهُ, to keep someone company. He then records the colloquial use himself: \"Hence the saying of the people of Mekkeh, [and of Egypt,] أَوْحَشْتَنَا [Thou hast made us lonely, &c., by thine absence].\"\n\nThat is the ancestor of the modern line, written down in the nineteenth century. Wiktionary's Egyptian entry for [وحش](https://en.wiktionary.org/wiki/%D9%88%D8%AD%D8%B4) defines the verb *waḥaš* as \"to miss, to cause longing\" — to *cause* it. So وحشتني parses as \"you have made me desolate\", with the missed person as grammatical subject, the way French *tu me manques* does.\n\nNow the part nobody prints. Wiktionary's Egyptian conjugation table gives the past second person as وحشت *waḥašt* to a man and وحشتي *waḥašti* to a woman. Attach the object pronoun ـني and the form addressed to a woman gains a written ي, U+064A ARABIC LETTER YEH — a full letter, not a mark.\n\nThe dialect writes down the distinction that Modern Standard Arabic hides. That is the reverse of what learners are usually told, and it is the single most useful thing on this page.\n\n## Four forms, and who each one is for\n\n### 1. اشتقت إليكَ / إليكِ — Modern Standard Arabic\n\nThe written register: correspondence, captions, subtitles, anything formal. Attested four times on Tatoeba in that exact string, every one of them unvocalised. Safe everywhere and slightly bookish anywhere.\n\n### 2. وحشتني (to a man) / وحشتيني (to a woman) — Egyptian\n\nWhat an Egyptian actually sends. The masculine form is attested in Wiktionary's Hijazi example sentence وَحَشْتَنِي من زمان عنك, \"I missed you, long time no see\"; the feminine is read off the Egyptian conjugation table rather than from a headword of its own. Tatoeba's Arabic set returns zero sentences containing either string, which is what a corpus built on Modern Standard Arabic looks like.\n\n### 3. اشتقت لك — Hijazi and the Gulf\n\nThe same form-VIII verb with the object attached by لـ rather than إلى. Wiktionary's Hijazi entry for اشتاق gives the first-person past *aštagt*, and its example اشتاقوا لك transliterates the preposition as a clitic, *aštāgōlak*.\n\n### 4. افتقدتك — the other standard verb\n\nA different root, افتقد, glossed on Wiktionary \"to miss; to lose\" and also \"to examine; to study\". Tatoeba sentence 392779, افتقدتك, is translated \"I miss you\". Cooler and more literary than اشتقت.\n\n## How the line travels, and which channel keeps the vowel\n\nFive ways the message reaches someone, against what 214 pages recorded between 2026-07-28 and 2026-09-25.\n\n| How the line travels | Carries the gender vowel? | Measured across 214 miss-you pages |\n|---|---|---|\n| Typed into a chat, unvocalised | No — U+064E and U+0650 are dropped | Not measurable; letters are not language-tagged |\n| Written letter on the page | No | Median 88 words, longest 1,024, n=214 |\n| Voice note | Yes — *ilayka* and *ilayki* sound different | 13.6% record one (29 of 214) |\n| Reunion countdown | Not applicable | 28.0% set a date (60 of 214) |\n| Recipient's hug tap | Not applicable | 64.5% of pages got at least one (138 of 214); 1,434 taps, 512 on one page |\n\nThe takeaway is narrow and useful: of the five, only the voice note resolves the ambiguity, and only 29 of 214 senders used it.\n\nTwo disclosures that belong with those numbers. `viewCount` on the platform counts page views, not unique visitors, so the 2,417 views recorded on miss-you pages include the same recipient reopening a page. And the template has been live for two months at n=214, so nothing seasonal can be read out of it.\n\n## What the search data measures, and what it does not\n\nThe keyword run behind this batch harvested Google autocomplete in nineteen markets. The Saudi Arabic market returned 40 suggestions; the US English market returned 1,216. That gap is not a measurement of Arabic demand — it is an artefact of the harvest script, which expands each seed with the Latin letters a–z, and every one of the 40 Arabic rows was produced by an English letter bolted onto اشتقت اليك.\n\nSo the Arabic-side evidence here is thin by construction. What did surface is still worth reporting: 21 of the 40 rows are people translating *out* of Arabic — into English, French, Spanish or Turkish — and 9 name a relative, including اشتقت اليك ابي رحمك الله, addressed to a dead father. Not one row contains وحش in any form, because the seed never gave it a chance to.\n\nNative speakers find this hard too, which is the finding in [Alexander Magidow's 2013 study](https://journals.uio.no/JAIS/article/view/4631) in the *Journal of Arabic and Islamic Studies*. Surveying 28 native speakers of Damascene Arabic writing formal MSA, he found they avoid forms common in their own dialect even when those forms are perfectly correct in MSA — \"negative interference\", and part of why diglossia has lasted.\n\nThis page is the Arabic depth under the live hub on [saying I miss you in different languages](/blog/i-miss-you-in-different-languages), which gives Arabic one line. It does not repeat that table; it adds the vowel mechanics, the dialect inversion and the corpus counts.\n\n## When Arabic is the wrong choice, and when a page is\n\nIf your recipient reads Arabic but the two of you speak English to each other, sending the line untranslated reads as a performance rather than a message. Write the letter in the language you actually share and let the Arabic be one line inside it.\n\nA page is the wrong instrument too, in two specific cases. Nine of the 40 Arabic rows in the harvest name a parent and one marks that parent as dead — for that reader a reunion countdown is worse than nothing, and a [photo jigsaw whose last piece is not in the box](/photo-puzzle) carries a letter without promising a date. And if the recipient is in the same room, just say it.\n\nOne more limit on our own numbers: the city, background-music and \"together since\" fields on the miss-you page are pickers with defaults, so their fill rates describe the form, not the sender. Only the password, the voice note, the reunion date, the letter and the memories are genuine choices, and those are the only ones quoted above.\n\n## Sources\n\n- [Edward William Lane, *An Arabic-English Lexicon*, root و ح ش](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0041%3Aroot%3DwH%24) — Perseus Digital Library, Tufts University. Published 1863–1893.\n- [Wiktionary, وحش](https://en.wiktionary.org/wiki/%D9%88%D8%AD%D8%B4) — Egyptian Arabic verb *waḥaš*, its conjugation table, and the Hijazi example sentence.\n- [Wiktionary, اشتاق](https://en.wiktionary.org/wiki/%D8%A7%D8%B4%D8%AA%D8%A7%D9%82) — form-VIII verb, the two gender-marked examples, and the Modern Standard Arabic conjugation.\n- [Tatoeba, sentence 392778](https://tatoeba.org/en/sentences/show/392778) — attested Arabic sentences and their English translations, CC BY 2.0 FR.\n- [The Unicode Character Database, UnicodeData.txt](https://www.unicode.org/Public/UNIDATA/UnicodeData.txt) — Unicode Consortium.\n- [Alexander Magidow, \"Competing Pressures in Diglossia: Avoiding Colloquial Elements in Writing Modern Standard Arabic\"](https://journals.uio.no/JAIS/article/view/4631) — *Journal of Arabic and Islamic Studies* 13, 2013.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-arabic#forms",
+        "name": "Four ways to say \"I miss you\" in Arabic",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "اشتقت إليكَ / إليكِ — Modern Standard Arabic",
+            "description": "The written register. Attested four times in the Tatoeba corpus in that exact string, every one of them unvocalised, so the addressee's gender is not recoverable from the text."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "وحشتني (to a man) / وحشتيني (to a woman) — Egyptian",
+            "description": "Built on the root for desolation, with the missed person as grammatical subject. The masculine is attested in Wiktionary's Hijazi example وَحَشْتَنِي من زمان عنك; the feminine is read off the Egyptian conjugation table."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "اشتقت لك — Hijazi and the Gulf",
+            "description": "The same form-VIII verb with the object attached by لـ instead of إلى. Wiktionary's Hijazi entry gives the first-person past aštagt and transliterates اشتاقوا لك as aštāgōlak."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "افتقدتك — the other standard verb",
+            "description": "From root افتقد, glossed \"to miss; to lose\" and also \"to examine; to study\". Tatoeba sentence 392779 translates it \"I miss you\"."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-in-arabic#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Arabic",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arabic",
+              "https://www.wikidata.org/wiki/Q13955"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Modern Standard Arabic",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Modern_Standard_Arabic",
+              "https://www.wikidata.org/wiki/Q56467"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Egyptian Arabic",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Egyptian_Arabic",
+              "https://www.wikidata.org/wiki/Q29919"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Diglossia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diglossia",
+              "https://www.wikidata.org/wiki/Q59203"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Arabic diacritics",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Arabic_diacritics",
+              "https://www.wikidata.org/wiki/Q775724"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Edward William Lane",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Edward_William_Lane",
+              "https://www.wikidata.org/wiki/Q981894"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "An Arabic-English Lexicon, root و ح ش",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0041%3Aroot%3DwH%24",
+            "datePublished": "1863",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Perseus Digital Library, Tufts University"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — وحش (Egyptian and Hijazi Arabic)",
+            "url": "https://en.wiktionary.org/wiki/%D9%88%D8%AD%D8%B4",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary — اشتاق",
+            "url": "https://en.wiktionary.org/wiki/%D8%A7%D8%B4%D8%AA%D8%A7%D9%82",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba sentence 392778 — اشتقت إليك",
+            "url": "https://tatoeba.org/en/sentences/show/392778",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Unicode Character Database, UnicodeData.txt",
+            "url": "https://www.unicode.org/Public/UNIDATA/UnicodeData.txt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Competing Pressures in Diglossia: Avoiding Colloquial Elements in Writing Modern Standard Arabic",
+            "url": "https://journals.uio.no/JAIS/article/view/4631",
+            "datePublished": "2013",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Arabic and Islamic Studies"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you in arabic",
+    "angle": "Wins by being the only post on this SERP that names the exact codepoints separating the male and female forms of اشتقت إليك, counts how often attested Arabic actually writes them (zero of four Tatoeba sentences), and shows that Egyptian وحشتني — which Lane recorded as Egyptian usage in the 19th century — marks the same distinction with a written letter, all sitting next to recipient-side data from 214 /missyou-gf pages.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/photo-puzzle"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0041%3Aroot%3DwH%24",
+        "stat": "Lane's lexicon, root و ح ش: وَحْشٌ is \"wild animal\", \"monster\", and of a place \"Desolate, deserted, or destitute of human beings\"; form IV اوحش الرَّجُلَ is \"He made the man lonely, or solitary; and sad, sorrowful, or disquieted or troubled in mind; [by his absence]\", the contrary of آنَسَهُ; and Lane records \"the saying of the people of Mekkeh, [and of Egypt,] أَوْحَشْتَنَا [Thou hast made us lonely, &c., by thine absence]\".",
+        "publishedDate": "1863"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%D9%88%D8%AD%D8%B4",
+        "stat": "Egyptian Arabic وحش is a form-I verb waḥaš glossed \"to miss, to cause longing\"; its past-tense second person is وحشت (waḥašt) to a man and وحشتي (waḥašti) to a woman. The Hijazi section attests وَحَشْتَنِي من زمان عنك, \"I missed you long time no see\", and gives اشتاق (aštāg) as the synonym."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%D8%A7%D8%B4%D8%AA%D8%A7%D9%82",
+        "stat": "اِشْتَاقَ is a form-VIII verb on root ش و ق, denominal from شَوْق, glossed \"to yearn for\" then \"to miss\", with the two usage examples أَشْتَاقُ إِلَيْكَ marked \"to a man\" and أَشْتَاقُ إِلَيْكِ marked \"to a woman\". Its perfect paradigm gives اِشْتَقْتُ ištaqtu, اِشْتَقْتَ ištaqta and اِشْتَقْتِ ištaqti, all written اشتقت unvocalised; the Hijazi section gives aštagt and the example اشتاقوا لك (aštāgōlak)."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/392778",
+        "stat": "Four Arabic sentences in the Tatoeba corpus contain the exact string اشتقت إليك (ids 392778, 11782987, 3659935, 394055) and none of them carries U+064E or U+0650 anywhere; sentence 392778 is translated \"I miss you\". A search of the Arabic set returns zero sentences containing وحشتني or وحشني. Sentence 392779, افتقدتك, is also translated \"I miss you\"."
+      },
+      {
+        "url": "https://www.unicode.org/Public/UNIDATA/UnicodeData.txt",
+        "stat": "064E;ARABIC FATHA;Mn and 0650;ARABIC KASRA;Mn — both nonspacing marks; 064A;ARABIC LETTER YEH;Lo and 0643;ARABIC LETTER KAF;Lo are letters. Blocks.txt gives 0600..06FF; Arabic."
+      },
+      {
+        "url": "https://journals.uio.no/JAIS/article/view/4631",
+        "stat": "A multiple-choice survey of 28 native speakers of Damascene Arabic writing formal Modern Standard Arabic found they \"tend to avoid elements that are common in their local colloquial dialect, even if they are attested and permissible in Modern Standard Arabic\" — negative interference — which the author argues helps explain the historical robustness of diglossia.",
+        "publishedDate": "2013"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "The opening answer paragraph runs five sentences because references/page-structure.md requires the direct answer, two-to-four numbers including two first-party, and a scope sentence inside one extractable block. Every other paragraph in the body is one to three sentences. The two rules conflict and the answer-paragraph rule wins."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop words \"i\" and \"in\" because it is the exact target keyword and matches the naming of the other translation spokes under the live hub. Structural: it closes only by giving up exact-match with the query."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the three internal links (/missyou-gf, /photo-puzzle) are in TEMPLATE_LINKS. The third, /blog/i-miss-you-in-different-languages, is not — it is a live Strapi article (id 1360, slug verified against the Strapi API on 2026-09-25) and BRIEF §2 requires every translation spoke to link up to it. TEMPLATE_LINKS lists templates only, so a hub link can never satisfy this item as written."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Unverifiable as written, and recorded as a failure rather than asserted. No competing page was fetched: the search budget for this post was one WebSearch on the exact keyword, and references/competitors.md forbids reproducing their framing in any case. Every heading here was built from fetched dictionary and corpus evidence — the codepoint fork, Lane's و ح ش entry, the Egyptian conjugation table — so convergence is unlikely, but I did not measure it and will not claim I did."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that names U+064E and U+0650, counts how often attested Arabic writes them (zero of the four Tatoeba sentences carrying the phrase), and pairs that with Lane's own record of أوحشتنا as Egyptian usage — which turns وحشتني from a dialect curiosity into the older, more literal way of saying it. The claim an answer engine has most reason to lift is the one nobody else states: for this sentence the dialect is the precise one, because Egyptian marks a female addressee with a written ي while Modern Standard Arabic hides it in a mark nobody types. What it cannot overcome: the competing results are Arabic-teaching domains with years of topical links, while subhsandesh.in is a gifting site with no Arabic authority at all, and the demand behind the keyword is small — `i miss you in arabic` surfaced in one market of nineteen. Ranking, if it happens, takes months."
+    },
+    "structuralLimitations": [
+      "BRIEF §0 CORRECTION — the prompt gave the Egyptian form as \"وحشتني (waḥashtīni)\". Those two do not match. Wiktionary's Egyptian conjugation table for وحش gives the past second person as وحشت (waḥašt) to a man and وحشتي (waḥašti) to a woman, so the string وحشتني is the form addressed to a MAN (waḥašt + ni), while the transliteration waḥaštīni belongs to وحشتيني, addressed to a woman. The post prints both, correctly paired, and makes the mismatch into its best claim: the Egyptian feminine adds a written ي (U+064A), so the dialect writes down the very distinction the prompt says Modern Standard Arabic hides.",
+      "BRIEF §0 CORRECTION — the prompt gave the two MSA forms as اشتقت إليكَ / إليكِ only. Wiktionary's own usage examples on the اشتاق entry use the PRESENT, أَشْتَاقُ إِلَيْكَ / إِلَيْكِ, and so does the single Arabic line on the live hub (id 1360). Both tenses are current; the post says so rather than presenting the perfect as the only form. The autocomplete harvest happens to be seeded on the perfect, which is why the Arabic rows all show اشتقت.",
+      "BRIEF §0 EXTENSION, VERIFIED — the prompt says the gender is hidden in one unwritten vowel. It is worse than that. The verb اشتقت is itself three different people in Wiktionary's paradigm — اِشْتَقْتُ ištaqtu \"I\", اِشْتَقْتَ ištaqta \"you (m.)\", اِشْتَقْتِ ištaqti \"you (f.)\" — all spelled اشتقت unvocalised. A two-word sentence carries two separate unwritten decisions, not one.",
+      "PROMPT CLAIM CONFIRMED AND QUANTIFIED — the Arabic harvest really is broken on the Arabic side, and the mechanism is visible in the data. content/keywords/2026-09-25-miss-you-global/ac/sa-ar/autocomplete.csv holds exactly 40 rows against 1,216 for us-en, and every row's source_prefixes column is the seed اشتقت اليك followed by a LATIN letter (a, b, e, f, g, i, m, p, t, or the bigram \"in\"). No Arabic letter ever expanded the stem. Consequences the post states rather than hides: not one of the 40 rows contains وحش in any form, because the seed never gave it a chance to appear; 21 of the 40 are people translating OUT of Arabic into English, French, Spanish or Turkish; and 9 name a relative, including اشتقت اليك ابي رحمك الله, addressed to a dead father.",
+      "ENGLISH-SIDE DEMAND, MEASURED — the post's own keyword is an English query and is unaffected by the Arabic harvest problem, but it is small. `i miss you in arabic` surfaced in us-en only (2 prefix hits, best rank 10); `miss you in arabic` in gb-en and us-en (4 prefix hits); `what's i miss you in arabic` in in-en and us-en. The harvest also shows `miss kita in arabic` from ph-en and `aku rindu kamu in arabic` from id-id — people reaching Arabic from a third language.",
+      "LINE CUT 1 — Tunisian توحّشتك (twa7achtik), which the SERP offered. Wiktionary's توحش entry has no Tunisian section and no \"miss\" sense at all in Modern Standard Arabic (\"to be unsocial\", \"to act wild\", \"to be desolate\"). Cut rather than printed on a search snippet's authority.",
+      "LINE CUT 2 — Moroccan Darija اشتئتلك (ishta'telak). No fetched dictionary entry supports it; Wiktionary has no Moroccan section on اشتاق.",
+      "LINE CUT 3 — \"Levantine وحشتني\". The prompt offered وحشتني as a Levantine option alongside اشتقتلك. The fetched entries do not support it: Wiktionary's South Levantine اشتاق (ištāʔ) gives حنّ (ḥann) as its synonym, not وحش, and the وحش page carries Egyptian and Hijazi sections only. The post assigns وحشتني to Egypt, where a fetched source puts it.",
+      "LINE CUT 4 — اشتقتلك written as one word. There is no Wiktionary entry for that string, and the Hijazi example on the اشتاق page writes the preposition separately (اشتاقوا لك) while transliterating it as a clitic. The post prints اشتقت لك and explains the clitic rather than printing the unattested spelling as a phrase to send.",
+      "LINE CUT 5 — أفتقدك (aftaqiduka), which the SERP offered as an alternative spelling of the same idea. It is a different verb, and the corpus attests the perfect افتقدتك (Tatoeba 392779, \"I miss you\"), not the imperfect. The post prints the attested form and notes that the root's other sense is \"to examine; to study\".",
+      "LINE CUT 6 — the authorship of اشتقت إليك فعلمني ألا أشتاق, which accounts for 7 of the 40 Arabic harvest rows and which one row attributes to نزار. No fetched source confirms the attribution, so the poem is not named or quoted in the post.",
+      "LINE CUT 7 — \"وحشتني means I miss you very much\". The intensifier is in the SERP gloss and not in the morphology; the verb carries no degree marker. Cut.",
+      "LINE CUT 8 — labelling اشتقت لك as \"Gulf\". The fetched Wiktionary evidence is for HIJAZI (code acw), which is western Saudi Arabia, not the Gulf. The heading says \"Hijazi and the Gulf\" and the body attributes the paradigm to the Hijazi entry only.",
+      "SOURCE CUT, AND WHY — Lane's entry for root ش و ق was fetched and read in full (https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0027%3Aroot%3D%24wq). It glosses اشتاق إليه \"He was, or became, desirous of it; or affected with desire for it; [or he yearned or longed for it in his soul]\" and شَوْقٌ as \"Desire, or yearning or longing of the soul\", and its form-I شَاقَنِى is itself inverted (\"It ... excited my desire\"), which would have shown that the وحشتني inversion has a classical parallel. It was cut from `sources` to stay inside the 4–6 cap, and the \"longing, not missing\" claim was re-sourced to Wiktionary's اشتاق entry, which carries the same ordering of senses. The claim about شَاقَنِى does not appear in the post at all.",
+      "PEER-REVIEWED SOURCE, AND WHAT IT COST — findpapers.mjs was run on `Arabic diglossia dialect standard`, `gender agreement Arabic second person` and `Arabic dialect emotion expression`. The closest paper to this post's angle was Asadi & Ibrahim, \"Diglossia and Orthographic Complexity as Multiplicative but not Additive Challenges in Arabic\" (J Psycholinguist Res, doi:10.1007/s10936-026-10214-3, PMC13050341) — diglossia AND the missing short vowels, exactly this page's two problems. The PMC family was at the 3-post batch cap, and both publisher copies (link.springer.com, www.nature.com for the Scientific Reports alternative) served a JavaScript bot challenge instead of text, so neither could be read or cited. Magidow 2013 in the Journal of Arabic and Islamic Studies was substituted: peer-reviewed, open access, readable, on a domain at zero posts, and genuinely about diglossia — but about what Damascene writers avoid, not about orthography. That is a real loss and it is recorded here rather than papered over.",
+      "SOURCES UNREACHABLE — almaany.com returned HTTP 403 behind a Cloudflare challenge on all three lookups attempted (اشتقت, وحشتني, شوق), so no modern-usage claim in this post rests on it. lexicon.quranicarabic.com is a parked domain for sale, not a lexicon. arabiclexicon.hawramani.com returned a database error. archive.org's Lane scans require JavaScript. Lane was reached instead through the Perseus Digital Library at Tufts, which serves the 1863–1893 edition as text, split by letter, and both root entries used here were fetched and read.",
+      "CAP-EXEMPT DOMAINS USED — en.wiktionary.org, tatoeba.org and unicode.org, all listed in verify.config.json capExemptDomains. All three were fetched (Wiktionary via the MediaWiki parse API for both wikitext and the rendered conjugation tables; Tatoeba via api_v0 search paged to exhaustion for four query strings; unicode.org via UnicodeData.txt and Blocks.txt) and each verified to contain what is attributed to it. capcheck.mjs was re-run immediately before saving: perseus.tufts.edu and journals.uio.no are both at zero posts, and this post touches neither europepmc.org/pmc.ncbi.nlm.nih.gov nor doi.org.",
+      "FIRST-PARTY LIMIT — /missyou-gf letter text is free input and is not language-tagged, so the platform cannot say whether any of the 214 senders wrote a word of Arabic. Every first-party number in the post is about the CHANNEL — password, letter length, voice note, reunion date, hug taps — never about the language, and the comparison table says so in its own first column.",
+      "WHAT THIS DOES THAT THE HUB DOES NOT — the live hub /blog/i-miss-you-in-different-languages (Strapi id 1360) gives Arabic one line: \"Arabic: أشتاق إليك (ash-taaq ilayk / ash-taaq ilayki)\", plus a general note that Arabic \"changes verbs based on gender or formality\". It never says which mark makes the difference, never mentions that the mark is normally absent, and never mentions a dialect. Its table is not restated here. This page adds the codepoints, the corpus counts, Lane on the و ح ش root, the Egyptian inversion, the four-form comparison and the first-party channel data.",
+      "CANNIBALISATION — no live Strapi slug contains \"arabic\" (queried 2026-09-25), and none of the 81 live \"miss\" slugs is a translation spoke for a Semitic language. On the BRIEF's three-axis test this differs on the LANGUAGE axis from every one of them. No merge recommended.",
+      "SERP, AS ACTUALLY RUN — one WebSearch on the exact keyword returned, in order: arabic.fi (a sentence database), blog.alifbee.com, quora.com, two wordhippo.com pages, earabic.io, ithacaboundlanguages.com, and two Wikipedia articles about songs titled \"I Miss You\". No page on that SERP was fetched, linked, cited or paraphrased, per references/competitors.md, and no claim is made here about their word counts, headings or schema, because none was measured. The search result summary itself contained two things this post corrects: it glossed أفتقدك as a pronunciation of اشتقت إليك (a different root), and it glossed وحشتني as \"I miss you very much\".",
+      "LICENCE — Magidow 2013 sits in a JAIS volume predating the journal's 2017 move to CC BY 4.0, so that volume is under Edinburgh University Press copyright; nothing from it is reproduced beyond a short attributed phrase from the abstract, and the finding is stated in the post's own words. Tatoeba sentences are CC BY 2.0 FR and are cited with their sentence ids. Lane's lexicon is public domain."
+    ],
+    "generatedAt": "2026-09-25T07:45:23.435Z"
+  }
+}

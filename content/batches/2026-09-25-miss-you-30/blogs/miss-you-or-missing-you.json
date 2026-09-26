@@ -1,0 +1,299 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Is It “Miss You” or “Missing You”? Both Are Correct",
+    "slug": "miss-you-or-missing-you",
+    "excerpt": "Both are correct. “I miss you” is the simple present and the default; “I’m missing you” is the progressive, which standard English avoids with a state verb and Indian English treats as entirely normal. “I missed you” is a different question.",
+    "metaTitle": "Is It Miss You or Missing You — Grammar, Corpus, India",
+    "metaDescription": "Is it miss you or missing you? Both are correct. “I miss you” is the unmarked form and about 52x commoner in books; “I’m missing you” is normal Indian English.",
+    "keywords": "is it miss you or missing you, miss you or missing you, i miss you vs im missing you, stative verb progressive, indian english progressive aspect, i miss you or i missed you",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-you-or-missing-you",
+    "ogType": "article",
+    "tags": [
+      "grammar",
+      "miss you",
+      "english usage",
+      "indian english",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "Both forms are correct: “I miss you” is the unmarked simple present and “I’m missing you” the progressive, which runs about 52 times rarer in the Google Books English 2019 corpus.",
+      "“I am missing you” is not an error in Indian English — eWAVE 3.0 rates the progressive with stative verbs as pervasive or obligatory there, one of only 13 varieties out of 77.",
+      "The progressive means different things by variety: a temporary state in British and American English, an on-going state of extended duration in Indian English (van Rooy, 2014).",
+      "“I missed you” is past tense and a different question — it says the absence is over, so it is the wrong form to send while you are still apart.",
+      "Wording matters less than what surrounds it: the median miss-you letter on SubhSandesh is 88 words, and 43.5% of senders password-protect the page against 38.5% platform-wide."
+    ],
+    "faqs": [
+      {
+        "question": "Is it correct to say “I am missing you”?",
+        "answer": "Yes. It is the present progressive of a state verb, which standard British and American English uses sparingly, so it reads as marked rather than wrong. In Indian English it is fully idiomatic: eWAVE 3.0 rates the extension of the progressive to stative verbs as pervasive or obligatory there, one of only 13 of the 77 varieties rated that way."
+      },
+      {
+        "question": "Which should I text, “I miss you” or “I’m missing you”?",
+        "answer": "Send “I miss you” if you want the plain, unarguable version. Send “I’m missing you” if you want it to sound like right now rather than always — a particular evening, a particular week. Neither is a mistake, and in the Google Books English 2019 corpus the first is roughly 52 times more frequent than the two progressive forms combined."
+      },
+      {
+        "question": "Why does “I’m missing you” sound more intense?",
+        "answer": "Because the progressive is doing no aspectual work. Missing someone is already a continuous state, so marking it as in progress adds nothing grammatically and readers take the extra marking as emphasis. Granath and Wherrity’s 2013 study argues that is exactly what the -ing form does with so-called stative verbs — it carries expressive rather than aspectual meaning."
+      },
+      {
+        "question": "Is “I am missing you” wrong in Indian English?",
+        "answer": "No, and telling an Indian English speaker it is wrong is itself the error. The wider use of the progressive with state verbs is a documented feature of the variety, catalogued as eWAVE feature 88 and rated pervasive or obligatory for Indian English. Salles-Bernal’s 2015 corpus study also found Indian English had the highest progressive frequency of the three Asian varieties compared."
+      },
+      {
+        "question": "What is the difference between “I miss you” and “I missed you”?",
+        "answer": "Tense, not tone. “I miss you” is present and true while you are apart; “I missed you” is past and says the absence has ended, which is what you say at the airport or on the call after a trip. Sending the past tense while you are still apart implies the missing has stopped."
+      },
+      {
+        "question": "Can I just write “Missing you” on its own?",
+        "answer": "Yes. It is an elliptical form with the subject and auxiliary dropped, the same way “See you soon” drops “I’ll”. It reads as lighter and less committal than the full sentence, which suits a caption or a short message better than a letter."
+      },
+      {
+        "question": "Is “miss” a stative verb?",
+        "answer": "In the emotional sense, yes. The Longman Dictionary of Contemporary English defines it as “to feel sad because someone you love is not with you” — a state of feeling, alongside know, believe, love and want. Its other senses, such as failing to hit something or lacking something, behave more dynamically, which is why “I’m missing a page” sounds completely ordinary."
+      },
+      {
+        "question": "Should I say “I miss talking to you” or “I miss to talk to you”?",
+        "answer": "“I miss talking to you.” Miss takes an -ing form, never an infinitive, and the dictionaries flag this explicitly as a usage trap. The same applies to “I miss seeing you” and “I miss hearing your voice.”"
+      },
+      {
+        "question": "Does “I’m missing you” mean something different to a British reader?",
+        "answer": "Slightly. Van Rooy’s 2014 study found the Inner Circle prototype for a stative progressive is a temporary state, while Indian, Kenyan and Black South African English use it for an on-going state of extended duration. So a British or American reader may hear “this week” where an Indian English speaker means “all the time”."
+      },
+      {
+        "question": "How common is “I am missing you” compared with “I miss you”?",
+        "answer": "In the Google Books English 2019 corpus, checked on 2026-09-25, “I miss you” runs at about 1.02 per million n-grams, “I’m missing you” at 0.011 and “I am missing you” at 0.008 — a gap of roughly 52 to 1. That is written, edited prose, the register where the progressive is rarest, so it overstates the gap in speech and messaging."
+      },
+      {
+        "question": "Could “I’m missing you” be misread?",
+        "answer": "In a formal context, yes. Miss also means absent or lacking, and in the Universal Dependencies English Web Treebank every one of the ten -ing tokens of the verb carries that sense — “I am missing Deal No. 74419 on your sheet”. In a personal message the emotional reading is obvious, so the risk is confined to work email and formal notes."
+      }
+    ],
+    "coverImageQuery": "typing message phone late night window",
+    "coverImagePrompt": "A close, photorealistic shot of a hand holding a phone at night, a half-typed message glowing on the screen with the words indistinct. Warm lamplight from the left and a rain-streaked window softly out of focus behind. Shallow depth of field, clean negative space at the top for a title overlay, 16:9. No legible text except a small subtle “subhsandesh.in” watermark bottom-right.",
+    "contentMarkdown": "# Is It \"Miss You\" or \"Missing You\"? Both Are Correct\n\nIs it miss you or missing you? Both are correct English and they are not interchangeable. \"I miss you\" is the simple present and the default. \"I'm missing you\" is the progressive, which standard English usually avoids with a state verb, so it reads as marked — warmer, more spoken, tied to right now.\n\nIn Indian English it is not marked at all: that is a documented feature, not an error. \"I missed you\" is a separate question — past tense.\n\nThe hesitation is real and it costs time. Across 214 SubhSandesh miss-you pages, the median gap from first save to last edit is 2.6 hours, and 88.8% of started pages are published and shared — roughly one in nine is written and never sent.\n\n## Both forms are correct — the difference is aspect, not right and wrong\n\nNeither is a mistake. \"I miss you\" and \"I'm missing you\" differ in **aspect**: the simple present states a condition, the progressive frames it as in progress.\n\nWith most verbs that is obvious: \"I eat\" is a habit, \"I'm eating\" is happening now. With *miss* the contrast is subtler, because missing someone is already a continuous state — the progressive has nothing new to mark, so readers take the extra marking as emphasis.\n\nThat is why \"I'm missing you\" lands as more immediate and more temporary, even though neither form is more true. [Rautionaho's 2020 paper](https://onlinelibrary.wiley.com/doi/10.1111/weng.12520) in *World Englishes* found that studies making the standard claim about these forms often fail to control for how varieties differ, so treat anyone who calls one of them simply wrong with suspicion.\n\n## \"Miss\" is a state verb, and that is the whole explanation\n\nGrammars split English verbs into dynamic verbs (run, build, write) and stative verbs — verbs of feeling and cognition such as *know*, *believe*, *love*, *want* and, in its emotional sense, *miss*. The Longman Dictionary of Contemporary English defines that sense as \"to feel sad because someone you love is not with you\": a state, not an activity.\n\nThe textbook rule is that stative verbs resist the progressive. A [2023 corpus study](https://doaj.org/article/8874a46284eb48dbbc029c505630549b) in *Linguistics* tested it against native data from COCA and found progressive *-ing* strongly associated with activity verbs, with **stative verbs least likely of all to be inflected with the progressive**.\n\nSo \"I'm missing you\" breaks a soft statistical tendency, not a hard rule. [Granath and Wherrity's 2013 study](https://doaj.org/article/9a0d822499324bf18382f2dc2f1f30ab) argues every so-called stative verb can take the progressive, and that these forms are labelled odd mainly because they belong to *spoken* English while most grammar descriptions were built on written English. Their evidence is 132 tokens of *be loving* and 66 of *be knowing* in the Corpus of Historical American English.\n\nA text message is spoken English typed out. That, not a rule, is why \"I'm missing you\" reads fine in a message and stiff in an essay.\n\n## Miss you vs missing you vs missed you: the comparison\n\nI measured the four forms in the Google Books Ngram Viewer (English 2019 corpus, no smoothing, checked 2026-09-25), in occurrences per million n-grams of matching length. Two caveats: books are edited prose, so these numbers understate the spoken forms, and \"I miss you\" is a three-word string measured against four-word ones, so the ratios are close rather than exact.\n\n| Form | Grammatical status | Relative frequency, Google Books English 2019 | What it implies | Where it fits on a miss-you page (n=214, median letter 88 words) |\n|---|---|---|---|---|\n| I miss you | Simple present, unmarked | 1.02 per million — the baseline | A standing condition, no time limit | The opening line; safe anywhere in an 88-word letter |\n| I'm missing you | Present progressive, marked in standard English | 0.011 per million — about 1/90th of \"I miss you\" | Right now, this stretch, this evening | Mid-letter, or in one of the 3.2 \"open when\" letters the average page carries |\n| I am missing you | Progressive, uncontracted | 0.008 per million — the rarest of the four | Same as above, more formal or more Indian-English | A voice note, which 13.6% of senders record |\n| I missed you | Simple past | 0.83 per million — nearly as common as \"I miss you\" | A finished stretch of absence, usually already over | After a reunion date lands; 28.0% of pages set one |\n\n\"I miss you\" outnumbers both progressive forms put together by roughly **52 to 1** there, and beats \"I missed you\" by only about 1.2 to 1. That is the practical answer: the progressive is the unusual choice, the past tense is not.\n\n## In Indian English, \"I am missing you\" is a documented feature, not an error\n\nIf you grew up speaking Indian English, \"I am missing you\" probably sounds normal — and the reference works say it should.\n\nThe *electronic World Atlas of Varieties of English* ([eWAVE 3.0](https://ewave-atlas.org/parameters/88)) catalogues feature 88, \"wider range of uses of progressive be + V-ing than in StE: extension to stative verbs\". Of the 77 varieties rated on it, 13 score **A — \"feature is pervasive or obligatory\"**, and Indian English is one of them.\n\nColloquial American English scores B. eWAVE's illustrative Indian English example is *We are knowing each other*.\n\nCorpus work agrees on direction. [Salles-Bernal's 2015 study](https://doaj.org/article/08247077c7804f19b78aebe7fc612434) of the International Corpus of English found Indian English had the highest frequency of the progressive of the three Asian varieties compared — ahead of Singapore and Hong Kong English — and that the progressive is more frequent in speech than in writing in every variety examined.\n\n[Van Rooy's 2014 study](https://onlinelibrary.wiley.com/doi/10.1111/weng.12079) explains the feel of it. Comparing Indian, Kenyan and Black South African English, he found all three use the progressive proportionally more often with stative verbs than British English does, and that their prototype is an **on-going state of extended duration** — where the Inner Circle prototype is a *temporary* state.\n\nThat is the real difference, and none of the five top-ranking pages I read for this search mentions it — none of them uses the word *stative* either. From a British or American speaker, \"I'm missing you\" implies *this week, this trip*.\n\nIn Indian English it implies no time limit at all. The same five words carry two different promises.\n\nOne correction, because it is usually overstated: Rautionaho's 2020 re-analysis found that once you control for regional differences in verb-phrase density, the claim that Outer Circle varieties simply use stative progressives *more often* is **not confirmed** — though Indian English still came out different from the other varieties tested. The safe statement is that the form is idiomatic in Indian English, not that Indians say it more.\n\n## \"I missed you\" is a different question\n\nThree of the top five pages for this search answer *miss vs missed* instead, which is a separate confusion worth clearing up.\n\n\"I missed you\" is past tense: a stretch of absence that has ended — the airport, the door, the call after the trip. Said while you are still apart, it implies the missing has stopped, which is almost never what the sender means.\n\n\"I miss you\" is the one for a message sent across distance. On SubhSandesh, 28.0% of miss-you senders set a reunion countdown: before that date the present tense is the accurate one, and after it the past tense finally becomes true.\n\nOne more trap the dictionaries flag: *miss* takes an *-ing* form, never an infinitive. \"I miss seeing you every day\" is correct; \"I miss to see you every day\" is not.\n\n## \"Missing\" has a second meaning, and it can misfire\n\n*Miss* has more senses than the emotional one, and the progressive belongs more naturally to the others.\n\nI checked the verb in the Universal Dependencies English Web Treebank — real American web text: emails, reviews, blog posts, forum threads. The lemma *miss* appears ten times as an *-ing* form across its three splits, and **every one is the \"absent\" or \"lacking\" sense**: \"I am missing Deal No. 74419 on your sheet\", \"maybe I'm missing something here\", \"a nail missing\".\n\nNot one is the emotional sense. Ten tokens proves nothing about how rare the emotional progressive is, but it shows which reading written English trains people to reach for first — a reason to keep the progressive for messages where the emotional frame is already obvious.\n\n## What actually changes the message\n\nChoosing between two forms of two words is the smallest lever you have. The median miss-you letter on SubhSandesh is 88 words, the longest 1,024, so the opening you pick moves about 3% of an average letter.\n\nWhat sits around it moves more. Miss-you senders are the most private segment measured on the platform: 43.5% password-protect the page before sharing it, against 38.5% across all 5,199 pages. These messages are written for exactly one reader — which is also why the form can be as informal as you like.\n\nIf the whole message is that one line, the [I-miss-you page for a partner](/missyou-gf) gives it somewhere to land: a letter, memories and a countdown rather than a notification that scrolls away. If it is genuinely a letter and you would rather it arrive line by line, [Catch](/catch) drops one line at a time and suits a long note better. For anything not romantic — a sibling, a friend, a parent — start from the [full template list](/templates), because a page built for a partner reads wrong sent to a brother.\n\nOnce the form is settled, the wording around it is the harder problem, and [what to say when you miss someone](https://subhsandesh.in/blog/what-to-say-when-you-miss-someone) covers that rather than this grammar question.\n\nOne disclosure belongs with those numbers: the database records which template was opened, never who received it or what was written in it.\n\n## Where this answer runs out\n\nTwo limits worth stating plainly.\n\nFirst, the first-party numbers cover 214 pages over two months — the template went live on 2026-07-28 — so nothing here supports a seasonal claim, and the sample is too small to split by region.\n\nSecond, none of the corpora here is a corpus of Indian text messages. eWAVE records specialist judgement; the ICE and COHA studies cover published and interview data; Google Books is edited prose.\n\nThe register you are writing in — a private message between two people — is the least documented English there is. For what your own reader expects, the better evidence is the last twenty messages the two of you sent.\n\nIf you still cannot decide, send \"I miss you\". It is the unmarked form, it is correct in every variety of English, and it is the one nobody will read twice.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-you-or-missing-you#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Stative verb",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Stative_verb",
+              "https://www.wikidata.org/wiki/Q1562262"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical aspect",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_aspect",
+              "https://www.wikidata.org/wiki/Q208084"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Indian English",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_English",
+              "https://www.wikidata.org/wiki/Q1348800"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "eWAVE 3.0, feature 88: wider range of uses of progressive be + V-ing — extension to stative verbs",
+            "url": "https://ewave-atlas.org/parameters/88",
+            "datePublished": "2020",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Max Planck Institute for Evolutionary Anthropology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Synchronic Analysis of the Progressive Aspect in Three Varieties of Asian Englishes",
+            "url": "https://doaj.org/article/08247077c7804f19b78aebe7fc612434",
+            "datePublished": "2015",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Miscelánea: A Journal of English and American Studies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "I’m loving you — and knowing it too: Aspect and so-called stative verbs",
+            "url": "https://doaj.org/article/9a0d822499324bf18382f2dc2f1f30ab",
+            "datePublished": "2013",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Rhesis"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A corpus-based study of the acquisition of the English progressive by L1 Chinese learners",
+            "url": "https://doaj.org/article/8874a46284eb48dbbc029c505630549b",
+            "datePublished": "2023",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Linguistics"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Progressive aspect and stative verbs in Outer Circle varieties",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/weng.12079",
+            "datePublished": "2014-05-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Englishes"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Revisiting the myth of stative progressives in world Englishes",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/weng.12520",
+            "datePublished": "2020-09-14",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Englishes"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "is it miss you or missing you",
+    "angle": "Wins by being the only post that answers the miss-you / missing-you choice with the actual linguistics — miss as a state verb, the progressive as a marked expressive form, and eWAVE 3.0 rating that progressive pervasive in Indian English — next to SubhSandesh’s own evidence that 214 senders take a median 2.6 hours to settle an 88-word letter.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/templates",
+      "/catch"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://ewave-atlas.org/parameters/88",
+        "stat": "eWAVE 3.0 feature 88, “wider range of uses of progressive be + V-ing than in StE: extension to stative verbs” — Indian English is rated A, “feature is pervasive or obligatory”, one of 13 of the 77 varieties rated A, against B for Colloquial American English; the atlas’ Indian English example is “We are knowing each other.” Read on the site and in its CLDF value table.",
+        "publishedDate": "2020"
+      },
+      {
+        "url": "https://doaj.org/article/08247077c7804f19b78aebe7fc612434",
+        "stat": "Salles-Bernal, “Synchronic Analysis of the Progressive Aspect in Three Varieties of Asian Englishes”, Miscelánea 51 (2015), open access — in the International Corpus of English, Indian English had the highest frequency of the progressive of the three Asian varieties compared (India, Singapore, Hong Kong), and the progressive was more frequent in speech than in writing in every variety. Abstract read in full via the DOAJ record; the journal landing page at papiro.unizar.es was unreachable from this environment.",
+        "publishedDate": "2015"
+      },
+      {
+        "url": "https://doaj.org/article/9a0d822499324bf18382f2dc2f1f30ab",
+        "stat": "Granath & Wherrity, “I’m loving you — and knowing it too: Aspect and so-called stative verbs”, Rhesis 4 (2013), open access — argues every so-called stative verb can take the progressive, on 132 tokens of BE loving and 66 of BE knowing in the Corpus of Historical American English, and that these forms are called odd largely because they are a spoken-language feature while grammar descriptions were built on written English. Abstract read in full via the DOAJ record; ojs.unica.it was unreachable from this environment.",
+        "publishedDate": "2013"
+      },
+      {
+        "url": "https://doaj.org/article/8874a46284eb48dbbc029c505630549b",
+        "stat": "Zeng, Shirai & Chen, “A corpus-based study of the acquisition of the English progressive by L1 Chinese learners”, Linguistics 61 (2023), open access — in both learner and native data (COCA), progressive -ing is strongly associated with activity verbs, with stative verbs least likely of all to be inflected with the progressive. Abstract read in full via the DOAJ record.",
+        "publishedDate": "2023"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/weng.12079",
+        "stat": "van Rooy, “Progressive aspect and stative verbs in Outer Circle varieties”, World Englishes (2014) — Indian, Kenyan and Black South African English all use the progressive proportionally more often with stative verbs than British English, and their prototype is an on-going state of extended duration where the Inner Circle prototype is a temporary state. ABSTRACT ONLY: the Wiley page returns 403 to this environment, so the abstract was read from the publisher’s Crossref deposit.",
+        "publishedDate": "2014-05-02"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/weng.12520",
+        "stat": "Rautionaho, “Revisiting the myth of stative progressives in world Englishes”, World Englishes (2020) — once regional differences in verb-phrase density are accounted for, the claim that Outer Circle varieties make more frequent use of stative progressives is not confirmed, though Indian English differs from the other varieties investigated. ABSTRACT ONLY: the Wiley page returns 403 to this environment, so the abstract was read from the publisher’s Crossref deposit.",
+        "publishedDate": "2020-09-14"
+      }
+    ],
+    "structuralLimitations": [
+      "BRIEF FRAMING VERIFIED AND PARTLY CORRECTED. The task prompt asserted that “I am missing you” is “markedly more common” in Indian English than in US/UK English. The atlas rating supports the feature being pervasive (eWAVE 3.0 feature 88, Indian English = A), but Rautionaho 2020 (World Englishes) found that once regional differences in verb-phrase density are accounted for, the claim that Outer Circle varieties make MORE FREQUENT use of stative progressives is NOT confirmed — though Indian English came out different from Singapore and Hong Kong English. The post therefore says the form is idiomatic and unmarked in Indian English, and explicitly declines to say Indians use it more often. Van Rooy 2014 is the load-bearing claim instead: the Outer Circle prototype is an on-going state of extended duration, against the Inner Circle’s temporary state.",
+      "The prompt’s framing that the progressive reads as “more temporary” is supported for British/American English by van Rooy 2014 and is stated that way in the post, not as a universal.",
+      "ABSTRACT-ONLY READS: van Rooy 2014 and Rautionaho 2020, both World Englishes (Wiley). onlinelibrary.wiley.com returns HTTP 403 to this environment; both abstracts were read in full from the publisher’s Crossref deposit (api.crossref.org/works/<doi>), and nothing beyond the abstract is claimed. PDFs do not parse in this environment, as the brief records.",
+      "SOURCE HOSTS: papiro.unizar.es (Miscelánea) and ojs.unica.it (Rhesis) both failed to connect from this environment across retries, so the three open-access papers are cited at their DOAJ article records, which is where their abstracts were actually read. doaj.org appears three times in this post but in only one post in the batch, so the post-counted domain cap is not touched. doi.org was deliberately avoided — capcheck.mjs reports it already at the cap of 3.",
+      "OWN MEASUREMENTS, REPRODUCIBLE, NOT THIRD-PARTY: the frequency figures are from the Google Books Ngram JSON endpoint (English 2019 corpus, smoothing 0, year 2019, queried 2026-09-25) and the verb-sense count is from the Universal Dependencies English Web Treebank CoNLL-U files (all three splits, lemma=miss, UPOS=VERB, XPOS=VBG — ten tokens, every one the ‘absent/lacking’ sense). Both are named in the body so a reader can rerun them; neither is counted in batchMeta.sources. Caveat stated in the body: “I miss you” is a 3-gram compared against 4-grams, so the 52:1 ratio is approximate.",
+      "CANNIBALISATION: 81 live slugs contain ‘miss’ and none is a grammar or usage post — they are message/quote/shayari lists and page-builder tools. The two closest live pages, /blog/what-to-say-when-you-miss-someone and /blog/cute-ways-to-say-i-miss-you-over-text, were both read in full from Strapi; both are ‘what to write’ listicles (1,162 and 1,153 words) with no grammar content. The closer of the two, what-to-say-when-you-miss-someone, is cross-linked as the wording page this one hands off to.",
+      "SIBLING SEPARATION: the three wave-2 siblings (how i miss you meaning, miss you dearly meaning, miss you yaar meaning in hindi) explain what a phrase MEANS. This post answers which of two grammatical forms to send, and no sibling primary is targeted as a secondary keyword.",
+      "FIRST-PARTY SAMPLE: n = 214 pages over two months (template live 2026-07-28), so no seasonal or regional split is derivable, and this is stated in the body. The picker-with-defaults fields (city, background music, ‘together since’) are not cited anywhere in this post, and viewCount is not cited. The body discloses that the database records which template was opened, never who received it or what was written.",
+      "NO INDIAN MESSAGING CORPUS EXISTS IN REACH. The register this post is actually about — private one-to-one messages — is not covered by any corpus consulted (ICE is speech and published writing, COHA and Google Books are books). Searched: ‘Indian English progressive stative’, ‘progressive aspect World Englishes extension stative verbs’, ‘stative verbs progressive aspect English’, ‘progressive aspect Indian English’ via Crossref, DOAJ and Europe PMC. This is stated in the body rather than papered over."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "The primary keyword ‘is it miss you or missing you’ is seven words, so it cannot sit inside ‘the first five words’ of any metaTitle. It is placed at the very front of a 53-character metaTitle, which is what the rule is for. Structural: closes only if the checklist item is amended to allow keywords longer than five words."
+        }
+      ],
+      "honestAssessment": "The five pages I read from this SERP (oneminuteenglish, lovelingolab, textranch x2, attractiondiary; 537-1,471 words) all answer the question from intuition. Not one uses the word stative, names a corpus, cites a dictionary or mentions Indian English at all, and three of them answer miss vs missed instead of miss vs missing. This post gives the mechanism (miss is a state verb, so the progressive carries expressive rather than aspectual meaning), a reproducible frequency measurement, and the finding that actually matters to an Indian reader: the progressive is pervasive in Indian English per eWAVE 3.0 and means an on-going rather than a temporary state per van Rooy 2014. It also states the correction most sources get wrong, that Rautionaho 2020 did not confirm higher Outer Circle frequency once verb-phrase density is controlled. That combination is genuinely absent from the SERP and is the reason an answer engine would have something to cite here. Against that: textranch and english.stackexchange carry far more domain authority and topical history on usage queries, subhsandesh.in has none in the grammar space, and this is the only grammar post on a domain of gifting and message content, so it has no internal cluster to lean on. Ranking would take months if it happens at all, and the first-party data, while unique, is only tangential to a grammar question - it supports the wording-matters-less-than-context section, not the linguistics."
+    },
+    "generatedAt": "2026-09-25T11:46:52.885Z"
+  }
+}

@@ -40,49 +40,6 @@
 
 <!-- MANUAL FACTS — everything below this line is preserved by `npm run facts` -->
 
-## Superseded vintage — 2026-09-15 (ARCHIVE — do not cite in new posts)
-
-<!--
-Why this section exists.
-
-`npm run facts` regenerated the auto-generated block on 2026-09-24 and OVERWROTE the
-2026-09-15 figures. 86 posts in `content/batches/2026-09-15-virtual-gift-30` were
-written against that earlier measurement and cite it CORRECTLY, each line carrying
-"measured 2026-09-15". Those posts are not wrong — they are dated.
-
-But `verify-batch.mjs` checks every `batchMeta.factsUsed` string verbatim against this
-file, so the regeneration broke the publish gate on 86 honest posts (721 references to
-the 17 lines below). Rewriting them to the new vintage would be worse than the problem:
-their arguments rest on what was true then — most obviously that /love-gf was the
-most-created template, which the 2026-09-24 measurement shows is no longer the case.
-
-These lines are preserved verbatim so the verifier can resolve historical citations.
-They sit BELOW the manual marker, so `npm run facts` will not remove them again.
-
-FOR NEW POSTS: cite the current block at the top of this file, not this archive. If you
-find a figure here in a sibling post, it is not an error to be "corrected" — it is a
-dated claim from an earlier measurement. Do not mix the two vintages inside one post.
--->
-
-- 49.0% of shared pages are opened on a phone (24,493 of 49,968 views) — measured 2026-09-15
-- 4,357 personalised pages created since 2026-03-12, across 16 page types — measured 2026-09-15
-- 94.1% of started pages are actually published and shared (4,098 of 4,357) — measured 2026-09-15
-- Average views per created page: 11.5 — measured 2026-09-15
-- 40.6% of creators password-protect their page before sharing it (1,767 of 4,357) — measured 2026-09-15
-- Median gap between a page's first save and its last edit: 6.2 hours — sampled on "I love you" page (/love-gf), n=1,125 — measured 2026-09-15
-- 49,968 recorded views of shared pages — measured 2026-09-15
-- 3,377 registered creators — measured 2026-09-15
-- Average pages per registered creator: 1.29 — measured 2026-09-15
-- #1 page type: "I love you" page (/love-gf) — 1,125 created, 25.8% of all pages — measured 2026-09-15
-- #2 page type: digital bouquet (/bouquet-gf) — 1,070 created, 24.6% of all pages — measured 2026-09-15
-- #3 page type: apology dashboard (/apology-dashboard) — 1,043 created, 23.9% of all pages — measured 2026-09-15
-- #5 page type: birthday page for a partner (/birthday-gf) — 352 created, 8.1% of all pages — measured 2026-09-15
-- #4 page type: Darling romantic page (/darling) — 427 created, 9.8% of all pages — measured 2026-09-15
-- Most-viewed template: love-gf — 16,201 views, 32.4% of all page views — measured 2026-09-15
-- 49.2% of views are on a touch device (phone or tablet) — measured 2026-09-15
-- Most popular creation: "I love you" page (/love-gf) — 1,125 pages, 25.8% of everything created — measured 2026-09-15
-
-
 ## Festival lead time — how long before the day people actually build
 
 <!--

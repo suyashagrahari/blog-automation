@@ -1,0 +1,641 @@
+{
+  "wave": 2,
+  "batchId": "2026-09-25-miss-you-30",
+  "generated": "2026-09-25T11:22:35.380Z",
+  "provenance": "The 150-row inventory in content/keywords/2026-09-25-miss-you-global is EXHAUSTED for English: 97 new-page rows remain unwritten but 82 are native-language queries (es/pt/fr/de/it/nl/pl/tr/id/ru). SELECTION.md deferred those deliberately - \"a page only ranks for those if the page itself is in that language, and subhsandesh.in is an English, India-facing domain with no hreflang... a product decision, not a content one.\" That judgement stands. These 22 keywords were instead mined from the run OWN 7,678-row autocomplete harvest, English markets only (us/gb/in/ph), stem-deduped against 1,488 claimed terms.",
+  "theGap": "The live site has 81 miss-you pages and they are overwhelmingly \"miss you MESSAGE for <person>\" plus regional-language quotes. There is NO English \"miss you quotes for <person>\" page at all. The prior miss-you-100 run measured that message/quotes return materially different SERPs and that the site over-built \"message\" - this wave takes the quotes half.",
+  "unfinishedFromWave1": "SELECTION.md planned 30; only 24 shipped. Five of the six missing rows are included here (bicol, sinhala, shayari-with-english-translation, bhojpuri, number-code). The sixth, `i miss you in morse code`, FAILS Gate 2 on hand-read: 10/10 results are morse-code TRANSLATOR TOOLS, not articles.",
+  "posts": [
+    {
+      "n": 1,
+      "slug": "miss-you-quotes-for-him",
+      "kw": "miss you quotes for him",
+      "templateUrls": [
+        "/missyou-gf",
+        "/train-ticket",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 2,
+      "slug": "miss-you-quotes-for-her",
+      "kw": "miss you quotes for her",
+      "templateUrls": [
+        "/missyou-gf",
+        "/photo-puzzle",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 3,
+      "slug": "miss-you-quotes-for-husband",
+      "kw": "miss you quotes for husband",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/dedication"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 1,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 4,
+      "slug": "miss-you-quotes-for-friends",
+      "kw": "miss you quotes for friends",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 5,
+      "slug": "miss-you-quotes-for-him-long-distance",
+      "kw": "miss you quotes for him long distance",
+      "templateUrls": [
+        "/missyou-gf",
+        "/train-ticket",
+        "/streak"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 4,
+      "nearestSelected": "miss you quotes for him",
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 6,
+      "slug": "miss-you-quotes-for-wife",
+      "kw": "miss you quotes for wife",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/watch"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 2,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 7,
+      "slug": "miss-you-quotes-for-best-friend",
+      "kw": "miss you quotes for best friend",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/catch"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 2,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 8,
+      "slug": "miss-you-quotes-for-sister",
+      "kw": "miss you quotes for sister",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/rewind"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": "#7 subhsandesh.in/blog/miss-you-message-for-sister",
+      "slugCollision": false
+    },
+    {
+      "n": 9,
+      "slug": "how-i-miss-you-meaning",
+      "kw": "how i miss you meaning",
+      "templateUrls": [
+        "/missyou-gf",
+        "/hold-my-hand",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 10,
+      "slug": "miss-you-or-missing-you",
+      "kw": "is it miss you or missing you",
+      "templateUrls": [
+        "/missyou-gf",
+        "/templates",
+        "/catch"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 1,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 11,
+      "slug": "miss-you-dearly-meaning",
+      "kw": "miss you dearly meaning",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 2,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 12,
+      "slug": "miss-you-yaar-meaning-in-hindi",
+      "kw": "miss you yaar meaning in hindi",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 2,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 13,
+      "slug": "miss-kita-in-bicol",
+      "kw": "miss kita in bicol",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 14,
+      "slug": "i-miss-you-in-sinhala",
+      "kw": "i miss you in sinhala",
+      "templateUrls": [
+        "/missyou-gf",
+        "/photo-puzzle",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 1,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 15,
+      "slug": "miss-you-shayari-with-english-translation",
+      "kw": "miss you shayari with english translation",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 16,
+      "slug": "miss-you-status-in-bhojpuri",
+      "kw": "miss you status in bhojpuri",
+      "templateUrls": [
+        "/missyou-gf",
+        "/watch",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 17,
+      "slug": "miss-you-number-code-meaning",
+      "kw": "miss you number code meaning",
+      "templateUrls": [
+        "/missyou-gf",
+        "/hold-my-hand",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 18,
+      "slug": "how-to-say-i-miss-you-in-arabic-to-a-woman",
+      "kw": "how to say i miss you in arabic to a woman",
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 19,
+      "slug": "i-miss-you-in-vietnamese",
+      "kw": "miss you in vietnamese anh nho em",
+      "templateUrls": [
+        "/missyou-gf",
+        "/train-ticket",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 20,
+      "slug": "i-miss-you-in-kurdish",
+      "kw": "i miss you in kurdish",
+      "templateUrls": [
+        "/missyou-gf",
+        "/catch",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 21,
+      "slug": "miss-you-quotes-for-coworker",
+      "kw": "miss you quotes for coworker",
+      "templateUrls": [
+        "/missyou-gf",
+        "/searched",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": null,
+      "slugCollision": false
+    },
+    {
+      "n": 22,
+      "slug": "i-miss-you-letter",
+      "kw": "i miss you letter",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/photo-puzzle"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "HAND-READ. The automated classifier scored 13 of 29 as FAIL-vendor; hand-reading inverted almost all of them - the SERPs are editorial on domains no regex knows (quoteroot, redmessages, howtosayguide, textranch, talkpal, shayari farms)."
+      },
+      "overlapWithSelected": 0,
+      "nearestSelected": null,
+      "weAlreadyRank": "#6 subhsandesh.in/blog/i-miss-you-letter-generator",
+      "slugCollision": false
+    },
+    {
+      "n": 23,
+      "slug": "what-to-reply-when-someone-says-i-miss-you",
+      "kw": "what to reply when someone says i miss you",
+      "templateUrls": [
+        "/missyou-gf",
+        "/hold-my-hand",
+        "/templates"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "REPLY INTENT. All 81 live miss-you pages are sender-side; this is recipient-side. Nearest sibling how-i-miss-you-meaning shipped today and owns the tells table - read it, take the ACTION half (what to send back) not the interpretation half.",
+      "slugCollision": false
+    },
+    {
+      "n": 24,
+      "slug": "what-does-it-mean-when-he-says-i-miss-you",
+      "kw": "what does it mean when he says i miss you",
+      "templateUrls": [
+        "/missyou-gf",
+        "/templates",
+        "/catch"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "Gendered interpretation query. MUST differentiate from how-i-miss-you-meaning (shipped today) - that row owns the general five readings; this one is specifically about a man saying it, where the SERP (wikiHow Does-He-Miss-Me, marriage.com) is full of mind-reading content. Be honest that you cannot diagnose intent from three words.",
+      "slugCollision": false
+    },
+    {
+      "n": 25,
+      "slug": "miss-you-quotes-for-mom",
+      "kw": "miss you quotes for mom",
+      "templateUrls": [
+        "/missyou-gf",
+        "/watch",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "BEREAVEMENT-ADJACENT: sympathymessageideas ranks #1. Must split living-mother-far-away from bereaved explicitly and early, and must not use a celebration-product CTA on the bereaved half. Category family-and-continuity.",
+      "slugCollision": false
+    },
+    {
+      "n": 26,
+      "slug": "miss-you-quotes-for-dad",
+      "kw": "miss you quotes for dad",
+      "templateUrls": [
+        "/missyou-gf",
+        "/dedication",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "BEREAVEMENT-ADJACENT: sympathymessageideas #1, shutterfly #3. Same split as the mom row; read it before drafting and do not mirror it - the father relationship and its silences are a different post. Category family-and-continuity.",
+      "slugCollision": false
+    },
+    {
+      "n": 27,
+      "slug": "miss-you-quotes-for-grandmother",
+      "kw": "miss you quotes for grandmother",
+      "templateUrls": [
+        "/missyou-gf",
+        "/watch",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "MOST bereavement-weighted of the three (sympathymessageideas #1, proudhappymama, quoteflick). Most readers here have lost her. Handle with care, no product push on that half. Category family-and-continuity.",
+      "slugCollision": false
+    },
+    {
+      "n": 28,
+      "slug": "miss-you-quotes-for-brother",
+      "kw": "miss you quotes for brother",
+      "templateUrls": [
+        "/missyou-gf",
+        "/searched",
+        "/templates"
+      ],
+      "categorySlug": "family-and-continuity",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "WE RANK #7 with /blog/miss-you-message-for-brother. Differentiate or abort - same test the sister row passed. Also note pensador ranks an after-death page, so the bereavement split applies here too. Category family-and-continuity.",
+      "slugCollision": false
+    },
+    {
+      "n": 29,
+      "slug": "funny-miss-you-quotes",
+      "kw": "funny miss you quotes",
+      "templateUrls": [
+        "/missyou-gf",
+        "/searched",
+        "/challan"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "The one light row. uncommonquotes holds 2 of 7. Humour is the register nothing else in this batch carries, and the joke templates finally fit. Watch the line between funny and dismissive - a joke sent to someone genuinely struggling is a misfire.",
+      "slugCollision": false
+    },
+    {
+      "n": 30,
+      "slug": "miss-you-quotes-after-breakup",
+      "kw": "miss you quotes after breakup",
+      "templateUrls": [
+        "/missyou-gf",
+        "/templates",
+        "/catch"
+      ],
+      "categorySlug": "miss-you-across-miles",
+      "gate2": {
+        "verdict": "PASS",
+        "engine": "ddg kl=in-en",
+        "handRead": true,
+        "note": "Second screening round, 2026-09-25. All 14 candidates returned editorial SERPs."
+      },
+      "orchestratorNote": "LIVE PAGE EXISTS: /blog/miss-you-message-after-breakup. Read it first. Also the highest-risk row for tone: the honest answer is often DO NOT SEND, and the post must say so. positivityblog and lifehack rank moving-on content, not send-this content - that tells you the dominant intent.",
+      "slugCollision": false
+    }
+  ],
+  "secondRound": {
+    "screened": 14,
+    "selected": 8,
+    "droppedBecauseWeAlreadyRank": [
+      "i miss you paragraph for him copy paste — subhsandesh holds #3 AND #4 (miss-you-paragraph-for-him, miss-you-text-message-for-him); a new page would cannibalise two of our own",
+      "miss you in tamil meaning — subhsandesh holds #2 and #6 (i-miss-you-in-tamil-words, miss-you-quotes-in-tamil)"
+    ],
+    "collapsed": [
+      "how to respond to i miss you from a guy — 5/10 overlap with `what to reply when someone says i miss you`; folded in as a secondary"
+    ],
+    "deferred": [
+      "miss you quotes for family — 4/10 vs the planned `for friends` row",
+      "miss you quotes short and deep — omnibus SERP shared with family/friends",
+      "miss you quotes for ex — overlaps the after-breakup row and the live miss-you-message-for-ex"
+    ],
+    "bereavementNote": "sympathymessageideas.com ranks #1 on mom, dad AND grandmother. Those three rows carry real memorial intent and are briefed to split living-vs-bereaved explicitly and to withhold a celebration-product CTA on the bereaved half. This is a Gate 5 judgement, not a tone preference."
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Miss You Quotes in Nepali, and the Dictionary Page Behind Each",
+    "slug": "miss-you-quotes-in-nepali",
+    "excerpt": "Six Nepali miss-you lines, each with the dictionary page behind it. The ordinary idiom is मलाई तिम्रो याद आउँछ — \"to me, your memory comes\" — and the word people expect to lead this post, न्यास्रो, turns out to be glossed \"solitude, loneliness; despair\" rather than missing anyone.",
+    "metaTitle": "Miss You Quotes in Nepali — Checked in Turner's Dictionary",
+    "metaDescription": "Miss you quotes in Nepali: 6 lines with a dictionary page each. The idiom is मलाई तिम्रो याद आउँछ, \"your memory comes to me\", and याद is a Hindi loanword.",
+    "keywords": "miss you quotes in nepali, i miss you in nepali, malai timro yaad aauncha, nepali miss you message, nyasro meaning",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-you-quotes-in-nepali",
+    "ogType": "article",
+    "tags": [
+      "nepali",
+      "miss you",
+      "long distance",
+      "language",
+      "devanagari"
+    ],
+    "keyTakeaways": [
+      "Nepali has no transitive verb for missing someone: मलाई तिम्रो याद आउँछ means \"to me, your memory comes\", with the experiencer marked by -लाई (Turner, p. 551).",
+      "न्यास्रो is real but is not \"I miss you\" — Turner files it as नियाँस्रो on p. 347 and glosses it \"Solitude, loneliness; despair, perplexity\".",
+      "याद is a loanword from Hindi, from Persian (Turner, p. 523); the inherited Nepali word is सम्झना (p. 588), so the most-typed line is the less Nepali one.",
+      "Tatoeba's Nepali corpus held 4,504 sentences on 2026-09-25 — 14 with याद, 3 with सम्झ, 2 with मिस, none with एक्ल.",
+      "Across 214 miss-you pages on SubhSandesh the median letter is 88 words and 43.5% of senders password-protect the page, the most private segment measured."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say \"I miss you\" in Nepali?",
+        "answer": "मलाई तिम्रो याद आउँछ (malāi timro yād āũcha) — literally \"to me, your memory comes\". Tatoeba holds the progressive form of that sentence, मलाई तिम्रो धेरै याद आइरहेको छ, translated \"I miss you badly\" (sentence 12348012). There is no transitive Nepali verb that takes you as its object here."
+      },
+      {
+        "question": "Is म तिमीलाई मिस गर्छु correct Nepali?",
+        "answer": "It is real spoken Nepali — Tatoeba attests म तिमीलाई धेरै मिस गर्नेछु (sentence 11864846) — but मिस is the English word. Schmidt's A Practical Dictionary of Modern Nepali has no मिस गर्नु entry; its only mis- headwords, on pages 524 and 525, are मिसाउनु \"to mix, adulterate\" and मिसिन \"machine\"."
+      },
+      {
+        "question": "Can I use न्यास्रो लाग्यो to tell someone I miss them?",
+        "answer": "Only if what you mean is closer to \"I feel desolate\". Turner's dictionary files the word on page 347 as नियाँस्रो and glosses it \"Solitude, loneliness; despair, perplexity\", so it describes your own state rather than your attachment to the person."
+      },
+      {
+        "question": "Does Nepali have a verb that means \"to miss someone\"?",
+        "answer": "Not as a transitive verb with the person as object. Nepali uses a noun plus an intransitive verb with the experiencer marked by -लाई, the same pattern Turner lists on page 553 for भोक लाग्नु \"to be hungry\" and निद्रा लाग्नु \"to be sleepy\"."
+      },
+      {
+        "question": "What is the difference between याद and सम्झना?",
+        "answer": "Both mean memory, but याद is borrowed and सम्झना is inherited. Turner marks याद on page 523 \"[lw. H. yād fr. Pers.]\" — a loanword from Hindi, from Persian — while सम्झना on page 588 traces through Prakrit to Sanskrit."
+      },
+      {
+        "question": "How do I say it to my mother or father rather than a partner?",
+        "answer": "Swap the pronoun: तपाईंको instead of तिम्रो, तपाईंलाई instead of तिमीलाई. Turner's page 284 entry says तिमि is \"less familiar than tã, less formal than tapāĩ\" and is used between friends or to inferiors, so तिम्रो to a parent reads as too familiar."
+      },
+      {
+        "question": "Nepali and Hindi both use Devanagari — how do I tell them apart?",
+        "answer": "Check the last word. Nepali sentences end in छ, छु or हुन्छ; Hindi ends in है or हूँ. Nepali \"your\" is तिम्रो where Hindi is तुम्हारा, and Nepali \"I\" is म, not मैं."
+      },
+      {
+        "question": "How do you pronounce मलाई तिम्रो याद आउँछ?",
+        "answer": "Roughly ma-LAI TIM-ro yaad AAUN-cha. The ँ in आउँछ is a nasalisation of the vowel, not a separate consonant, and the final छ is an aspirated ch."
+      },
+      {
+        "question": "How long should a Nepali miss-you message be?",
+        "answer": "Shorter than most people expect. Across 214 miss-you pages built on SubhSandesh the median letter is 88 words, though the longest ran to 1,024, so one verified Nepali line plus a few sentences of your own is a normal length rather than a thin one."
+      },
+      {
+        "question": "Should I write it in Devanagari or in Roman letters?",
+        "answer": "Devanagari if the recipient reads it comfortably, Roman if they mostly type in Roman. The Unicode Character Database 18.0.0 assigns Devanagari the block U+0900..U+097F, so the script renders on any current phone, but plenty of Nepali speakers abroad read Roman Nepali faster."
+      },
+      {
+        "question": "Where can I check a Nepali line myself before sending it?",
+        "answer": "The Digital Dictionaries of South Asia hosts both Turner's 1931 comparative dictionary and Schmidt's modern practical dictionary, each searchable by headword. Tatoeba's Nepali collection — 4,504 sentences as of 2026-09-25 — shows whether a phrase is attested in real use."
+      }
+    ],
+    "coverImageQuery": "nepali handwriting devanagari letter mountains",
+    "coverImagePrompt": "A close, warm photograph of a handwritten note in Devanagari script resting on a wooden table beside a phone showing a video call, soft morning light from a window with a faint hill silhouette outside. Shallow depth of field, muted earth tones, clean negative space across the top third for a title overlay, 16:9. No legible text other than the handwriting itself and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Miss You Quotes in Nepali, and the Dictionary Page Behind Each\n\nThe ordinary Nepali way to say \"I miss you\" is **मलाई तिम्रो याद आउँछ** (malāi timro yād āũcha) — literally \"to me, your memory comes\". You are not the object of a verb; your memory is the subject, and it arrives. Tatoeba holds that sentence in its progressive form, [मलाई तिम्रो धेरै याद आइरहेको छ, translated \"I miss you badly\"](https://tatoeba.org/en/sentences/show/12348012), one of 4,504 Nepali sentences in the corpus. Six lines follow, each with the dictionary page it came from. The first-party numbers in this post come from 214 \"I miss you\" pages built on SubhSandesh since 2026-07-28, where the median letter runs 88 words and 43.5% of senders lock the page with a password before sending it.\n\n## What the \"memory comes\" construction is, and who the grammar puts first\n\nNepali builds this feeling the way it builds hunger and sleepiness: a noun plus an intransitive verb, with the person who feels it marked by the postposition **-लाई** (-lāi). Turner's *Comparative and Etymological Dictionary of the Nepali Language* defines लाइ on page 551 as a postposition added to the oblique \"in the case of living beings\", meaning \"to, for\".\n\nPage 553 lists the whole family under लाग्नु (lāgnu): भोक लाग्नु \"to be hungry\", निद्रा लाग्नु \"to be sleepy\", लाज लाग्नु \"to be ashamed\", उदास लाग्नु \"to be depressed\". The feeling is the subject; you are the address it is delivered to.\n\nSo मलाई तिम्रो याद आउँछ is not a softer way of saying \"I miss you\". It is a different sentence with a different subject, which is why the phrase resists a word-for-word translation.\n\n## नियाँस्रो: the most Nepali word here, and why it does not mean \"I miss you\"\n\nOne word here has no Hindi twin, and it is worth knowing exactly what it says. Turner files it [on page 347 as नियाँस्रो (niyā̃sro)](https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B&searchhws=no), noting the variants नियास्रो and निन्यास्रो, and glosses it: **\"Solitude, loneliness; despair, perplexity. — n˚ lāgnu c. lāi to feel lonely.\"**\n\nThat gloss is the finding. It is not \"missing someone\" and it is not homesickness — it is loneliness with despair sitting beside it in the same entry. The dictionary does confirm the grammar, because it prints the construction itself: न्यास्रो लाग्नु, governed by -लाई.\n\nTwo absences are worth recording. Schmidt's *A Practical Dictionary of Modern Nepali* has no entry for it under any spelling I tried, and English Wiktionary has no page for न्यास्रो. The contracted spelling is what people write; नियाँस्रो is where a dictionary finds it.\n\n## Six Nepali lines, with the page each one rests on\n\n### 1. मलाई तिम्रो याद आउँछ।\n\n*malāi timro yād āũcha* — \"your memory comes to me.\" Every part is attested: लाइ on Turner page 551, तिम्रो on page 284, [याद् on page 523](https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=y%C4%81d&searchhws=yes) glossed \"Memory; attention\", आउनु on page 30. Use this one if you use one.\n\n### 2. मलाई तिम्रो धेरै याद आइरहेको छ।\n\n*malāi timro dherai yād āirahеko cha* — \"I miss you badly\", in the progressive. Not my composition: a complete attested sentence carrying that published English translation, Tatoeba 12348012. It is the strongest line here because nothing in it is mine.\n\n### 3. तिम्रो सम्झना आउँछ।\n\n*timro samjhanā āũcha* — \"your remembrance comes.\" [Turner page 588](https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=samjhan%C4%81&searchhws=yes) gives सम्झना \"Memory, remembrance; memorial\", with the example स˚ भयो, \"I remembered\". Noun and verb are each in the dictionary; the pairing is mine.\n\n### 4. म तिमीलाई सम्झन्छु।\n\n*ma timīlāi samjhanchu* — \"I think of you.\" Turner page 588 glosses सम्झनु \"To remember; understand; feel\", and Tatoeba attests the transitive at 12148368, टमले तपाईलाई सम्झेको छ. Send it knowing it says *remember*, not *miss*.\n\n### 5. मलाई न्यास्रो लाग्यो।\n\n*malāi nyāsro lāgyo* — \"I feel desolate.\" Turner's own phrase from page 347 put into the past, the same inflection Schmidt prints for निराश लाग्नु on page 350 (\"malaai niraas laagyo\") and Turner for माया लाग्नु on page 504 (\"malāi m˚ lāgyo\"). Use it when the truth is loneliness, not longing.\n\n### 6. माया नमार।\n\n*māyā na māra* — \"don't forget me\", literally \"don't kill the love\". Printed verbatim from Turner page 504, which glosses माया मार्नु \"to forget\" and gives म˚ न मार as its example. The only line here a dictionary hands over whole.\n\n## How to tell Nepali from Hindi when the script is identical\n\nDevanagari is shared with Hindi, Marathi and Sanskrit — the Unicode Character Database 18.0.0 (Blocks-18.0.0.txt, 2026-07-08) assigns the block U+0900..U+097F to all of them — so script proves nothing. Mislabelled Hindi sold as Nepali is the characteristic failure on this query. Three tells settle it.\n\n**The copula.** Nepali ends with छ / छु / हुन्छ (cha, chu, huncha); Hindi ends with है / हूँ (hai, hū̃). Turner files छ on page 189 as the third singular present. A line ending in है is Hindi.\n\n**\"Your\".** Nepali is तिम्रो (timro), and Turner's page 284 entry pairs it directly with Hindi तुम्हारा. Nepali \"I\" is म (ma), not मैं.\n\n**The vocabulary trap, which runs the other way.** याद is not originally Nepali: Turner's page 523 entry marks it \"[lw. H. yād fr. Pers.]\" — a loanword from Hindi, from Persian. The inherited word is सम्झना, which page 588 traces through Prakrit to Sanskrit. So the most-typed \"Nepali\" miss-you line rests on a Persian word that arrived through Hindi. Both are real Nepali; only one is old.\n\nOur own hub page, [i miss you in different languages](https://subhsandesh.in/blog/i-miss-you-in-different-languages), gets this half right and I will not pretend otherwise: it carries Nepali only inside one FAQ, offers म तिमीलाई मिस गर्छु and म तिमीलाई सम्झन्छु, splits सम्झन्छु into two words in its romanisation, and never gives the याद आउँछ line.\n\n## Which line belongs where on a page, and three limits on these numbers\n\nFour constructions, and where each sits on a miss-you page. The last column is SubhSandesh's own data from 214 pages built on /missyou-gf since 2026-07-28.\n\n| Nepali line | Literal sense | Dictionary verdict | Where it fits (n=214) |\n|---|---|---|---|\n| मलाई तिम्रो याद आउँछ | your memory comes to me | Turner p. 523, p. 551 | the letter — median 88 words, longest 1,024 |\n| मलाई तिम्रो धेरै याद आइरहेको छ | I miss you badly | attested sentence, Tatoeba 12348012 | the voice note — 13.6% record one |\n| तिम्रो सम्झना आउँछ | your remembrance comes | Turner p. 588, pairing composed | an \"open when\" letter — 92.1% carry one |\n| मलाई न्यास्रो लाग्यो | I feel desolate | Turner p. 347, \"solitude, loneliness\" | the countdown — 28.0% set a reunion date |\n\nThree limits travel with those numbers and they are not footnotes. The city, background-music and \"together since\" fields are pickers that arrive pre-filled, so their fill rates are defaults and not choices; the sender-chosen fields are the password, the voice note, the reunion date, the letter, the memories and the open-when letters. The 2,417 recorded views are page views, not unique visitors — one person reopening a page twenty times is twenty views. And n = 214 over two months means no seasonal claim can be drawn from any of it.\n\nWhat the numbers do support is a shape: 1,434 \"hug\" taps came back from recipients across 138 of the 214 pages, the only recipient-side signal here, and 43.5% of senders password-protected the page against 38.5% platform-wide — the most private segment measured.\n\n## When sending a Nepali line is the wrong move\n\nIf you are writing to a parent, an elder or anyone you would address with तपाईं, then तिम्रो is the wrong pronoun and the line lands as too familiar. Turner's page 284 entry for तिमि says it is \"less familiar than tã, less formal than tapāĩ\" and is used between friends or to inferiors. Swap तिम्रो for तपाईंको and तिमीलाई for तपाईंलाई first.\n\nAnd if your Nepali is reconstructed from a phrasebook, a short honest line in English with one Nepali word in it beats a fluent-looking sentence you cannot defend. Separation here is rarely decorative: among 179 wives of international migrant workers surveyed in Jhapa, [54.7% met the DASS-21 threshold for depression and 60.9% for stress](https://europepmc.org/article/PMC/PMC12706191), and daily communication with the husband was significantly associated with all three outcomes. A [2026 review of left-behind wives in rural Nepal](https://www.nepjol.info/index.php/chhahari/article/view/91490) reaches the same place, naming communication frequency a mediator of psychosocial well-being. Frequency, not eloquence.\n\nThat is the argument for the [I miss you page for a partner](/missyou-gf) when you have something to say at length, and for the [daily streak page](/streak) when turning up every day across a time difference matters more than writing well once. The [train-ticket letter](/train-ticket) is a good page, but its metaphor — PNR, waitlist, running status — is Indian-railway furniture a reader who left from an airport gate will not recognise.\n\n## What I cut, and why\n\nNine things. **न्यास्रो as the headline word**: my brief proposed leading with it, and page 347 glosses it \"solitude, loneliness; despair, perplexity\", which is not what \"miss you\" means, so it got its own section instead of the top. **The spelling न्यास्रो as a dictionary headword**: Turner files नियाँस्रो; न्यास्रो returns nothing there, nothing in Schmidt, no page on Wiktionary. **म तिमीलाई मिस गर्छु**: attested in use (Tatoeba 11864846) but Schmidt has no मिस गर्नु entry — its only mis- headwords, pages 524 and 525, are मिसाउनु \"to mix, adulterate\" and मिसिन \"machine\". It is what people text, not what a dictionary supports. **माया मार्नु as a way to say \"I miss you\"**: it means *to forget*, so it works only in the negative imperative. **विरह**: the literary Sanskrit word, not a Nepali headword. **एक्लो**: Schmidt page 73 glosses it \"alone; lonely\" with the example साथी छैन, म एक्लो छु — it describes you, not them, and Tatoeba holds zero Nepali sentences containing एक्ल. **Composed multi-clause shayari**: no attestation, no author. **Every line reachable through this keyword's search results** — three TikTok pages, a Pinterest pin, a MyMemory dump, a HiNative thread and one Nepali SMS aggregator — cut unread. **Any claim about what those pages contain** beyond what the result list showed.\n\n## Sources\n\n- Turner, *A Comparative and Etymological Dictionary of the Nepali Language* (1931), pp. 30, 189, 284, 347, 504, 523, 551, 553, 588 — Digital Dictionaries of South Asia\n- Schmidt, *A Practical Dictionary of Modern Nepali* (1993), pp. 73, 350, 518, 524, 525 — Digital Dictionaries of South Asia\n- Tatoeba Nepali corpus, 4,504 sentences on 2026-09-25; sentences 12348012, 12148368, 11864846\n- Unicode Character Database 18.0.0, Blocks-18.0.0.txt (2026-07-08), Devanagari U+0900..U+097F\n- *BMJ Open*, 2025 — depression, anxiety and stress among wives of international migrant workers, Jhapa, Nepal\n- Kurmi, *Chhahari*, 2026 — emotional distress among left-behind wives in rural Nepal",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-you-quotes-in-nepali#post",
+        "inLanguage": "en",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Nepali language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nepali_language",
+              "https://www.wikidata.org/wiki/Q33823"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Person",
+            "name": "Ralph Lilley Turner",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ralph_Lilley_Turner",
+              "https://www.wikidata.org/wiki/Q3379117"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nepalese diaspora",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nepalese_diaspora",
+              "https://www.wikidata.org/wiki/Q7049107"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nepalis",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nepalis",
+              "https://www.wikidata.org/wiki/Q4317274"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Turner, A Comparative and Etymological Dictionary of the Nepali Language, p. 347",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B&searchhws=no",
+            "datePublished": "1931-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Turner, p. 523",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=y%C4%81d&searchhws=yes",
+            "datePublished": "1931-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Turner, p. 588",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=samjhan%C4%81&searchhws=yes",
+            "datePublished": "1931-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Attested Nepali sentence मलाई तिम्रो धेरै याद आइरहेको छ। translated \"I miss you badly\"",
+            "url": "https://tatoeba.org/en/sentences/show/12348012"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Community-based cross-sectional study of 179 wives of international migrant workers in Ward 5 of Gauradaha municipality,",
+            "url": "https://europepmc.org/article/PMC/PMC12706191",
+            "datePublished": "2025-12-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kurmi, \"Migration and Emotional Distress Among Left-Behind Wives in Rural Nepal\", Chhahari 3(1)",
+            "url": "https://www.nepjol.info/index.php/chhahari/article/view/91490",
+            "datePublished": "2026-03-11"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Six Nepali miss-you lines, each with the dictionary page behind it",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "मलाई तिम्रो याद आउँछ।"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "मलाई तिम्रो धेरै याद आइरहेको छ।"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "तिम्रो सम्झना आउँछ।"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "म तिमीलाई सम्झन्छु।"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "मलाई न्यास्रो लाग्यो।"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "माया नमार।"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss you quotes in nepali",
+    "angle": "Wins by being the only post on this keyword that gives a dictionary page number for every Nepali line it prints, shows that the phrase is a dative-experiencer construction (\"to me, your memory comes\") rather than a transitive verb, and reports that the word the brief wanted it to lead with — न्यास्रो — is glossed \"solitude, loneliness; despair, perplexity\" in Turner and is absent from the modern practical dictionary entirely.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81%E0%A4%B8%E0%A5%8D%E0%A4%B0%E0%A5%8B&searchhws=no",
+        "stat": "Turner, A Comparative and Etymological Dictionary of the Nepali Language, p. 347: नियाँस्रो niyā̃sro, \"or niyāsro or ninyāsro, s. Solitude, loneliness; — despair, perplexity. — n˚ lāgnu c. lāi to feel lonely. [ni-³ and āsro ?]\" — the entry gives the dative-experiencer construction and glosses the word as loneliness and despair, not as missing someone.",
+        "publishedDate": "1931-01-01"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=y%C4%81d&searchhws=yes",
+        "stat": "Turner, p. 523: याद् yād, \"s. Memory; attention. — yād garnu to remember, mark, attend. [lw. H. yād fr. Pers.]\" — the dictionary marks याद a loanword from Hindi, itself from Persian.",
+        "publishedDate": "1931-01-01"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/turnernepali_query.py?qs=samjhan%C4%81&searchhws=yes",
+        "stat": "Turner, p. 588: सम्झना samjhanā, \"s. Memory, remembrance; memorial. — s˚ garnu to take note of. — s˚ rākhnu to commemorate. — s˚ hunu to remember (e.g. s˚ bhayo I remembered).\", with सम्झनु samjhanu on the same page, \"vb. tr. and intr. To remember; understand; feel\", traced to Sanskrit saṁbudhyate through Prakrit.",
+        "publishedDate": "1931-01-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/12348012",
+        "stat": "Attested Nepali sentence मलाई तिम्रो धेरै याद आइरहेको छ। translated \"I miss you badly\" — the dative experiencer with the memory as subject. The Nepali (npi) corpus held 4,504 sentences on 2026-09-25; 14 contain याद, 3 contain सम्झ, 2 contain मिस and none contains एक्ल."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12706191",
+        "stat": "Community-based cross-sectional study of 179 wives of international migrant workers in Ward 5 of Gauradaha municipality, Jhapa, Nepal (BMJ Open): prevalence of depression, anxiety and stress on the DASS-21 was 54.7%, 53.1% and 60.9% respectively, and frequency of remittance, debts incurred and daily communication with husbands were significantly associated with all three in multivariable analysis.",
+        "publishedDate": "2025-12-01"
+      },
+      {
+        "url": "https://www.nepjol.info/index.php/chhahari/article/view/91490",
+        "stat": "Kurmi, \"Migration and Emotional Distress Among Left-Behind Wives in Rural Nepal\", Chhahari 3(1):81–95 — a synthesis of empirical and theoretical studies 2010–2025 finding that prolonged spousal separation contributes to chronic loneliness, anxiety and depression, and identifying remittance reliability, communication frequency and community support as key mediators of psychosocial well-being.",
+        "publishedDate": "2026-03-11"
+      }
+    ],
+    "structuralLimitations": [
+      "PROMPT FRAMING CLAIM, CORRECTED. My task prompt said न्यास्रो / न्यास्रो लाग्नु is \"often glossed as missing/homesickness\" and that if it held it should lead the post. It does not hold as stated. Turner's A Comparative and Etymological Dictionary of the Nepali Language does not carry the headword न्यास्रो at all: it files the word on p. 347 as नियाँस्रो (niyā̃sro), listing नियास्रो and निन्यास्रो as variants, and glosses it \"Solitude, loneliness; — despair, perplexity. — n˚ lāgnu c. lāi to feel lonely. [ni-³ and āsro ?]\" — Turner's own question mark on the etymology included. That is loneliness and despair, not missing a person, so the word was demoted from the lede to its own labelled section. Two further absences, both fetched and confirmed 2026-09-25: Ruth Laila Schmidt's A Practical Dictionary of Modern Nepali (DSAL, schmidt_query.py) returns no result for the word under nyāsro, nyaasro, niyaasro, niyā̃sro or the Devanagari spelling, and en.wiktionary.org has no page titled न्यास्रो and returns zero search hits for it. The construction the prompt described is real; the gloss it attached to the word is not.",
+      "PROMPT FRAMING CLAIMS CONFIRMED. (a) The memory-coming construction — CONFIRMED and attested, not merely reconstructed: Tatoeba sentence 12348012, मलाई तिम्रो धेरै याद आइरहेको छ, published English translation \"I miss you badly\". (b) The dative-like -लाई marker — CONFIRMED, Turner p. 551, लाइ \"postp. (c. obl.) In the case of living beings (less frequently with inanimate objects) added to the oblique to express the direct object; — to, for; as regards\". (c) That the construction belongs to a class — CONFIRMED and stronger than the prompt claimed: Turner p. 553 lists the paradigm under लाग्नु, including भोक लाग्नु to be hungry, निद्रा लाग्नु to be sleepy, तिर्खा लाग्नु to be thirsty, लाज लाग्नु to be ashamed and उदास लाग्नु to be depressed, and pp. 504 and 350 (Schmidt) each print a worked first-person example with मलाई. (d) सम्झना — CONFIRMED, Turner p. 588, \"Memory, remembrance; memorial\", with s˚ hunu / s˚ bhayo \"I remembered\".",
+      "THE FINDING THE PROMPT DID NOT ANTICIPATE, AND THE REASON THIS POST HAS A HINDI SECTION AT ALL. Turner p. 523 marks याद् yād \"[lw. H. yād fr. Pers.]\" — a loanword from Hindi, itself from Persian — while सम्झना / सम्झनु p. 588 is inherited, traced through Prakrit saṁbujjhaï to Sanskrit saṁbudhyate. So the phrase everyone actually types, मलाई तिम्रो याद आउँछ, is built on the borrowed word, and the natively Nepali vocabulary is the सम्झना line. The prompt asked how a reader can tell Nepali from Hindi; the honest answer is that on this particular phrase the vocabulary does NOT separate them, and the separation has to be carried by the copula (छ / छु / हुन्छ against है / हूँ), the possessive (तिम्रो against तुम्हारा — a contrast Turner prints himself at p. 284, \"[cf. Pk. tumhāra-; Ku. tumaro, H. tumhārā.]\") and the first-person pronoun (म against मैं). The body says this in those terms.",
+      "AGAINST THE LIVE HUB /blog/i-miss-you-in-different-languages, fetched 2026-09-25, HTTP 200, ~5,547 words of rendered text. The string \"Nepali\" occurs on it ONLY inside one FAQ entry (id 53186); there is no Nepali row in its language lists. That FAQ reads: \"In Nepali say 'म तिमीलाई मिस गर्छु' (ma timilai mis garchu) or more traditionally 'म तिमीलाई सम्झन्छु' (ma timilai samjhan chu).\" Three things are wrong or thin with it and the body says so: (1) it never gives the ordinary idiom मलाई तिम्रो याद आउँछ; (2) it romanises सम्झन्छु as two words, \"samjhan chu\", when it is one inflected verb form, samjhanchu; (3) it offers सम्झन्छु as the \"more traditional\" way to say I miss you, but Turner p. 588 glosses सम्झनु \"To remember; understand; feel\" — it is I remember you, not I miss you. Separately and NOT my verification: the hub contains the string \"Sanskrit\" zero times, which the i-miss-you-in-sanskrit sibling already flagged.",
+      "AGAINST THE LIVE SIBLINGS, AND WHY THIS IS NOT A MERGE. content/keywords/2026-09-25-miss-you-global/site-baseline.md lists the Indian languages already owned — hindi, marathi, tamil, telugu, punjabi, gujarati, urdu, bengali, kannada, malayalam — and Nepali is not among them, nor is there a Nepali slug among the 81 live \"miss\" slugs. /blog/how-to-say-i-miss-you-in-hindi and /blog/miss-you-message-for-love-in-hindi are the nearest live pages and are a different language on the language axis. The uncomfortable question the prompt asked — whether Nepali is just Hindi with different endings for this phrase — is answered in the body and the answer is partly yes: both languages use a memory-coming construction and both use the same Persian-derived noun याद, so the CONSTRUCTION does not distinguish them. What does distinguish them, and what makes this a separate page rather than a merge, is that Nepali has an inherited alternative (सम्झना) that Hindi does not use in this slot, a different copula and possessive, and a word (नियाँस्रो) with no Hindi twin. No merge recommended, but the overlap is real and stated rather than hidden.",
+      "SERP, RUN ONCE ON THE EXACT KEYWORD, 2026-09-25, and nothing beyond it is claimed. The nine results were: a Pinterest pin (\"Heart touching I miss you Nepali\"); three TikTok pages (two discover pages, one video); a MyMemory Hindi-to-Nepali machine-translation dump; a HiNative question thread; the English Wikipedia article \"Miss Nepal 2011\" — Google reading part of the query as a pageant; and two pages on one Nepali SMS/shayari aggregator. There is no article-format result by a named author, no dictionary and no grammar. Phase 1's instruction to fetch the top five pages in full could not be run as written because there are not five comparable pages, and per references/competitors.md the aggregator and machine-translation results were not opened. Every statement in this post about \"what competitors do\" is limited to what that result list itself shows.",
+      "NEPALI LINES AND WORDS CUT, AND WHY — nine. (1) न्यास्रो as the post's headline word, cut for the gloss above. (2) The spelling न्यास्रो treated as a dictionary headword — cut: Turner files नियाँस्रो at p. 347, Schmidt has nothing under any spelling, Wiktionary has no page. (3) म तिमीलाई मिस गर्छु as a recommended line — cut to a labelled \"what people actually text\" mention. It is attested (Tatoeba 11864846, म तिमीलाई धेरै मिस गर्नेछु, \"I'm going to miss you an awful lot\") but मिस is the English verb, and Schmidt has no मिस गर्नु entry — its only mis- headwords, pp. 524 and 525, are मिसाउनु \"to mix; to adulterate\" and मिसिन \"machine\". (4) माया मार्नु as a way of saying \"I miss you\" — cut: Turner p. 504 glosses it \"to forget\", so only the negative imperative माया नमार is usable, and that is the form printed. (5) विरह — cut: it is the Sanskrit/Hindi literary word (and belongs to the i-miss-you-in-sanskrit sibling, which verified it at Apte p. 1461); Turner's Nepali dictionary returns nothing for the headword birah. (6) एक्लो as a miss-you word — cut: Schmidt p. 73 glosses it \"alone; lonely\" with the example साथी छैन, म एक्लो छु (\"I haven't any friend, I'm lonely\"), so it describes the sender, and Tatoeba holds zero Nepali sentences containing एक्ल. (7) Any composed multi-clause shayari — cut: no author, no attestation, no page number. (8) Every line reachable through the nine SERP results — cut unread, including both MyMemory renderings, since unreviewed translation memory is not attested Nepali. (9) A Devanagari codepoint table — cut for the outbound-link budget after unicode.org's Blocks-18.0.0.txt (dated 2026-07-08) was fetched and the block U+0900..U+097F confirmed; the range survives in prose with Unicode named but not linked. WHAT SURVIVED: six lines, of which one (मलाई तिम्रो धेरै याद आइरहेको छ, Tatoeba 12348012) is a complete attested sentence with a published translation, one (माया नमार) is printed verbatim from a dictionary example, one (मलाई न्यास्रो लाग्यो) is the dictionary's own phrase inflected into the past, and three are compositions whose every lexical item and inflection is attested. The body labels which is which.",
+      "TATOEBA CORPUS SIZE, AS ASKED. Nepali (npi) held 4,504 sentences on 2026-09-25, read from tatoeba.org/en/stats/sentences_by_language where it ranks 93rd by size. That is an order of magnitude larger than the siblings' languages — Kannada at 326 and Sanskrit at 77 — and it is why this post could verify a whole sentence where the Sanskrit post could not verify any. Within the corpus: 14 sentences contain याद, 3 contain सम्झ, 2 contain मिस, 8 contain आउँछ and 0 contain एक्ल. Note the code: the Tatoeba language code for Nepali is npi, not nep; querying nep silently returns Tawallammat Tamajaq and other unrelated sentences rather than an error, which is how a corpus count gets reported wrong.",
+      "SOURCES NAMED IN PROSE WITHOUT A LINK, to stay inside the 3–6 outbound-link rule. All were fetched this session on DSAL and each is stated with its page number so a reader can check it in one query: Turner pp. 30 (आउनु), 189 (छ), 284 (तिमि, तिम्रो), 504 (माया, with माया लाग्नु and माया मार्नु), 551 (लाइ), 553 (लाग्नु and its experiencer paradigm); Schmidt pp. 73 (एक्लो), 350 (निराशा / निराश लाग्नु, with the example malaai niraas laagyo), 518 (माया), 524 (मिसाउनु), 525 (मिसिन). Fetched and not used: comparativemigrationstudies.springeropen.com's Kaski District study, which returned an empty body to an automated fetch. Fetch note on the source that IS used — bmjopen.bmj.com serves a Cloudflare challenge to an automated fetch, so the BMJ Open Jhapa paper was read from the Europe PMC full-text XML (PMC12706191) and is cited at its Europe PMC URL rather than the publisher's.",
+      "FIRST-PARTY LIMIT SPECIFIC TO THIS POST. The 214-page /missyou-gf segment measures people sending a romantic page to a partner, mostly in English or Hindi. No Nepali-speaking subset was measured and none is claimed; the numbers are used to answer \"how long should this be\" and \"how private is this\", not to describe Nepali senders. The three mandatory caveats are all in body prose in the comparison-table section: the picker-with-defaults caveat (city, background music and \"together since\" excluded, the sender-chosen fields named), the viewCount caveat (2,417 are page views, not unique visitors), and the n = 214 / two months from 2026-07-28 / no seasonal claim caveat.",
+      "TEMPLATE CHOICE, WITH THE ONE I REJECTED. /missyou-gf is mandatory for this batch and fits. The alternative is /streak, chosen because Kurmi 2026 names communication FREQUENCY — not length or eloquence — as a mediator of psychosocial well-being for left-behind spouses, and /streak is the one template in oneOfLinks built around a daily tap rather than a single set piece. /train-ticket was the obvious candidate for a migration-separated reader and was rejected on merit: its entire metaphor is Indian-railway furniture (PNR, waitlist, running status), and the modal Nepali separation in the research here begins at an airport for the Gulf or Malaysia. It is linked once in the body with that reasoning stated, but it is not in templateUrls.",
+      "SOURCE CAPS, AND A RACE THIS POST ACTUALLY LOST. capcheck.mjs was run twice, and the second run changed the source list. At the first run journals.plos.org stood at 2 posts with one slot left, and the draft cited Sigdel et al. (PLOS Mental Health, 2025 — 255 wives of migrant workers in Tanahun, 23.5% depression on CES-D), fetched and read in full. On the re-run immediately before saving, journals.plos.org had reached 3 posts: another agent took the slot mid-draft. Per the BRIEF the citation was swapped rather than argued over. The same re-run showed verify.config.json extended again — europepmc.org, pmc.ncbi.nlm.nih.gov, pubmed.ncbi.nlm.nih.gov, books.google.com, archive.org and gutenberg.org are now cap-EXEMPT, reversing the 3-post cap my task prompt reported on Europe PMC. The replacement is therefore the Jhapa BMJ Open study on Europe PMC, whose full text was read and which is a better fit anyway: it reports daily communication with the husband as significantly associated with all three of depression, anxiety and stress. dsal.uchicago.edu and tatoeba.org are cap-exempt and were fetched, not recalled; nepjol.info was unused elsewhere in the batch; doi.org is not used at all, publisher and repository URLs being used instead.",
+      "CATEGORY. miss-you-across-miles, matching the other language spokes in this batch, and for once without a caveat: the research subject and the modal reader are both separated by actual distance."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "The \"What I cut, and why\" section is deliberately one dense paragraph of nine bolded cut items rather than 2–3-sentence paragraphs; splitting it into nine paragraphs would push the body past the 1,800-word ceiling. Every other section holds to 2–3 sentences."
+        },
+        {
+          "item": "Direct answer in the first 150 words, before any context-setting",
+          "why": "The Sources section is a bibliography and answers no question standalone. The other seven H2s each do. Closing it would mean deleting the sources list, which is a larger loss than the failure."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "Nothing cited is paywalled, so there is no paywall disclosure to make — but Kurmi 2026 (NepJOL) was read from its abstract and metadata only; the PDF galley was not fetched, and the post's claim about communication frequency as a mediator comes from the abstract. Recording that here rather than letting the item pass silently."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to prefer this page: it is the only one on the query that prints a dictionary page number beside every Nepali line, that states the construction correctly as a dative experiencer with the memory as subject rather than as a verb taking a person, and that reports the two things a reader cannot find anywhere else — that न्यास्रो is filed as नियाँस्रो and glossed \"solitude, loneliness; despair, perplexity\" (Turner p. 347), and that याद is a Hindi loanword from Persian (p. 523) while सम्झना is the inherited word. It also corrects our own hub page and records what it cut. What it cannot overcome is the shape of the SERP: the results are Pinterest, three TikTok pages, a machine-translation dump, a HiNative thread and an SMS aggregator, and an accurate article does not displace short-form video on a quotes query by being accurate. Expect answer-engine citations well before a Google position, and possibly no top-three position at all.",
+      "structuralLimitationsNote": "See batchMeta.structuralLimitations."
+    },
+    "generatedAt": "2026-09-25T08:11:44.938Z"
+  }
+}

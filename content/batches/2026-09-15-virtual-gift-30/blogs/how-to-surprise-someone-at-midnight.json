@@ -1,0 +1,324 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Surprise Someone on Their Birthday at Midnight",
+    "slug": "how-to-surprise-someone-at-midnight",
+    "excerpt": "The Indian midnight birthday wish, treated as a timing problem: aim for 23:55 rather than 00:00, check the Bedtime schedule that silences a 00:00 notification, and look at the preview card before you send the link.",
+    "metaTitle": "How to Surprise on Birthday Midnight: The 23:55 Plan",
+    "metaDescription": "How to surprise on birthday midnight in India: aim for 23:55, not 00:00. What Do Not Disturb swallows, what the preview leaks, and why 48.3% open on a phone.",
+    "keywords": "how to surprise on birthday midnight, midnight birthday surprise ideas, midnight birthday wish, birthday surprise at 12 am, first person to wish happy birthday",
+    "canonicalURL": "https://subhsandesh.in/blog/how-to-surprise-someone-at-midnight",
+    "ogType": "article",
+    "tags": [
+      "birthday",
+      "midnight",
+      "digital gifts",
+      "india",
+      "timing"
+    ],
+    "keyTakeaways": [
+      "Send at 23:55, not 00:00 — the thirty seconds you lose to a slow link is the whole margin, and nobody minds a wish that lands slightly early.",
+      "India runs one time zone, so midnight in Guwahati and Kochi is the same instant; the arithmetic only matters if they are abroad.",
+      "A Bedtime or Do Not Disturb schedule silences a 00:00 message; the documented exceptions are an allowed contact, an allowed app, or calling twice within 15 minutes.",
+      "Check the link preview before sending — a card built from og:title and og:image can give the surprise away in the notification shade.",
+      "48.3% of the 57,456 views on SubhSandesh pages are on a phone, and mobile browsers block sound-on autoplay, so the first screen has to work on mute."
+    ],
+    "faqs": [
+      {
+        "question": "What time should I actually hit send if I want to be the first one?",
+        "answer": "23:55. That leaves a five-minute buffer for a slow network, a link you have to copy out of a browser tab, or a page that takes a moment to load. A wish that arrives a few minutes early reads as eager; one that arrives at 00:03 reads as forty-first."
+      },
+      {
+        "question": "Does India have more than one time zone for this?",
+        "answer": "No. The whole country runs a single offset, so midnight in Guwahati and midnight in Kochi are the same instant and there is no daylight saving to adjust for. You only need to do arithmetic if the birthday person is outside India."
+      },
+      {
+        "question": "Will a scheduled message still send if my phone is switched off?",
+        "answer": "Most scheduling features on a phone need the phone awake and online at the moment of sending, so a dead battery at 23:58 means nothing goes out. Charge it, keep it unlocked next to you, and treat scheduling as a convenience rather than a guarantee."
+      },
+      {
+        "question": "How do I stop the link preview from spoiling the surprise?",
+        "answer": "Send the link to yourself first and look at the card that appears. Meta's webmaster documentation confirms that the card is built from the page's og:title, og:description and og:image, and that a page without those tags gets a guessed title, description and image instead — either way something is visible before anyone taps."
+      },
+      {
+        "question": "Should I call at midnight or only message?",
+        "answer": "Call if you are confident they are awake and the phone is not on a Bedtime schedule; message if you are not. A call that rings out at 00:00 and wakes a flatmate instead is the worst version of both options."
+      },
+      {
+        "question": "What happens if their phone is on Do Not Disturb or Bedtime mode?",
+        "answer": "The message still arrives, but silently, and they read it in the morning. Android's Notification filters let a specific person, a specific app, or a repeat caller through — but only the phone's owner can set that, so you cannot arrange it from your side."
+      },
+      {
+        "question": "Does the page itself know what time it is?",
+        "answer": "A personalised page opens whenever it is tapped; it is the message carrying the link that has a timestamp, not the page. If you want the page to feel tied to the minute, write the time into it rather than expecting the page to enforce one."
+      },
+      {
+        "question": "I missed midnight by twenty minutes — is it ruined?",
+        "answer": "No, and it may be better. At 00:20 the queue has thinned out and whatever you send is actually read rather than buried under forty messages. Send it without apologising for being late, because the apology is the only part that sounds bad."
+      },
+      {
+        "question": "Does a password on the page kill the moment at 00:01?",
+        "answer": "It can. 38.5% of SubhSandesh creators password-protect a page before sharing it, measured 2026-09-24, and that is sensible for most occasions — but a half-asleep person in a dark room does not want to type. If you use one, put it in the same message as the link."
+      },
+      {
+        "question": "How long does the midnight rush on their phone actually last?",
+        "answer": "The heaviest part is the first three minutes, and it thins out through the first half-hour. A link is the thing that survives that window, because it is still sitting there to be reopened once the chat has gone quiet."
+      },
+      {
+        "question": "Do people outside India wish at exactly 12 am?",
+        "answer": "It is much weaker elsewhere, which is why almost every page ranking for this search is written for a reader who does not have the convention. American and British birthday guides treat the day as the unit; the Indian version treats the first minute as the unit."
+      }
+    ],
+    "coverImageQuery": "phone screen glowing dark room midnight",
+    "coverImagePrompt": "A phone lying face up on a bedsheet in a dark room, the screen the only light source, showing a notification at 00:00. Warm amber glow against deep blue shadow, shallow depth of field, shot from slightly above. Clean negative space in the upper third for a title overlay, 16:9. No readable text on the screen except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Surprise Someone on Their Birthday at Midnight\n\nAim for 23:55, not 00:00. Send the link first and the words second, and settle two things about their phone first — whether a Bedtime or Do Not Disturb schedule is running, and whether your message will draw a preview card that gives the surprise away in the notification shade.\n\nSubhSandesh's own database says something about how people build for this minute. Of 5,199 personalised pages created since 2026-03-12, 510 are the birthday page for a partner — 9.8% of everything made — and 48.3% of all 57,456 recorded views happen on a phone. Both measured 2026-09-24.\n\nAt 00:00 that phone is in a dark room, face down, on silent, and about to take twenty other messages. The rest of this page is the clock, the five things to settle before 23:55, and when waking someone is not a gift.\n\n## What a midnight birthday wish is, and why India keeps doing it\n\nA midnight birthday wish is a message, call or page delivered in the first minute of the birthday date — roughly 00:00 to 00:05 local time — instead of during the day itself. The convention treats the date boundary as the start of the occasion, so the people closest to you are expected to be awake for it.\n\nIt is close to a default in India and barely exists in the American and British listicles that dominate this search, which is why nearly every page ranking for it sells a midnight *delivery slot* — cake, balloons, a decorator at 23:30 — instead of explaining the minute.\n\nIt is a piece of timing, not a piece of shopping, and because it lands on a phone at the hour phones are configured to be quiet, most of the ways it fails are technical rather than emotional.\n\n## Which midnight you are actually aiming at\n\nIf you are both in India there is one answer, and it is simpler than people assume: the country runs a single time zone, so midnight in Guwahati and midnight in Kochi are the same instant. No conversion, no state-level offset, no daylight saving. Set the reminder for 23:50 IST and stop thinking about it.\n\nThe arithmetic only becomes real when the birthday person is abroad, and that case is handled in our post on getting a [long distance birthday gift website to land at midnight](https://subhsandesh.in/blog/long-distance-birthday-gift-website), which carries the IST conversion table. Sydney is the one that catches people: their 00:00 falls on the evening of what is still the previous day for you.\n\nThe domestic mistake is different: people aim at 00:00 exactly, then lose thirty seconds to a network hiccup or a link they have to copy out of a browser tab. Aim at 23:55 instead.\n\n## Five things to settle before 23:55\n\nEach takes under ten minutes, and each is a way the plan quietly fails.\n\n### 1. Start it by 21:00, not at 23:50\n\nPages are not written in one pass. The median gap between a SubhSandesh page's first save and its last edit is 2.5 hours, sampled on the apology dashboard across 1,396 pages, measured 2026-09-24 — so the same evening is genuinely enough runway, and 23:40 is not.\n\nStart around 21:00, let yourself rewrite it twice, and at 23:55 do one thing: send the link.\n\n### 2. Settle the password question before 00:01, not at it\n\n38.5% of SubhSandesh creators password-protect a page before sharing it — 2,000 of 5,199, measured 2026-09-24 — and for most occasions that is sensible. At midnight it is a trap.\n\nA half-asleep person holding a phone one-handed in the dark does not want a password field. If the page genuinely needs one, send it in the same message as the link rather than making them ask.\n\n### 3. Send the link, then the words\n\nSend the page link as its own message a few seconds before anything else, so the tap has something to land on while the phone is still quiet and your words are not competing with a loading page.\n\nThen send the sentence you mean. One line, not a paragraph — the paragraph is what the page is for.\n\n### 4. Look at the preview card before you send it\n\nA shared URL does not arrive naked. Meta's webmaster guide states that a link renders as a card built from the page's `og:title`, `og:description` and `og:image` tags, and that when those are absent the crawler \"uses internal heuristics to make a best guess about the title, description, and preview image\". Either way, something shows before anyone taps.\n\nSend the link to yourself first and look. If the card reads \"Happy Birthday, Ananya — open this\", the surprise is over in the notification shade. A neutral card is worth more than a clever one.\n\n### 5. Assume mute, dark, and one hand\n\nBrowsers will not play sound on a page nobody has touched yet. Chrome's autoplay policy, shipped in Chrome 66 for audio and video elements and extended to the Web Audio API in Chrome 71, allows muted autoplay always; sound-on autoplay is granted through a high Media Engagement Index **on desktop only**, and a `play()` call without a user gesture rejects with a `NotAllowedError`.\n\nIn plain terms: on the phone where 48.3% of our views happen, your background song will not start by itself. Build the first screen to work in silence.\n\n## Four ways to be there at 00:00, compared\n\nThe routes differ less in what they deliver than in what silences them.\n\n| Route | What lands at 00:00 | Most common way it fails | First-party signal |\n|---|---|---|---|\n| Phone call | A ringing phone | Do Not Disturb silences it unless you are an allowed contact or ring twice in 15 minutes | — |\n| Plain message | Text, instantly | The notification preview shows the whole wish before it is opened | — |\n| Link to a personalised page | The link; the page opens on tap | A password prompt at 00:01, set by habit | 38.5% of 5,199 pages are password-protected |\n| Page built around sound or video | The link; the page opens muted | Mobile browsers block sound-on autoplay | 48.3% of 57,456 views are on a phone |\n\nNothing here fails at the sending end. It fails at the receiving end, on settings the recipient configured weeks ago and forgot.\n\n## The race to be first, and what it does to their phone\n\nBeing first is half the point, and at 00:00 everyone else knows that. A well-liked person takes a burst of messages inside three minutes and the phone becomes hard to use: the list reorders faster than it can be read, and whatever arrived first is pushed up the screen by the time they unlock.\n\nThis is where a page earns its place. A message is one line in a queue of forty. A link opens something nobody else sent, and it is still there at 00:40 when the queue goes quiet — our pages average 11.1 views each, measured 2026-09-24, which is what reopening looks like.\n\nA 2022 study in the *Madhyabindu Journal* found the language of Facebook birthday wishes by Generation Z dominated by self-expression and interaction, with informal phrasing the common form of text production — a small qualitative study of ten status threads in Nepal, abstract only. Forty people writing in one register is not a context your sentence stands out in.\n\nOne caveat on our own numbers: the database records which *template* was opened, never who received it. 510 birthday pages does not mean 510 partners.\n\n## The two settings that swallow a midnight message\n\nAndroid's help documentation describes Bedtime mode as a notification mode with an automatic start and end time, alongside Do Not Disturb, each with Notification filters covering People, Apps, and Alarms & other interruptions. If a Bedtime schedule starts at 23:00, a message sent at 00:00 arrives silently and is read in the morning.\n\nThe ways through are narrow: a person can be added to the allowed People list, an app allowed under Apps, and \"Allow repeat callers\" lets a call through if the same person rings twice within 15 minutes.\n\nYou cannot configure any of this from your end, which is the honest limit. Ask a sibling or flatmate in the room, or accept that it will be read at 07:00 and write it so it still works then.\n\n## When waking someone at midnight is not a gift\n\nIf they have a 7am shift, an exam, a flight, or a newborn, the midnight wish is a cost you are passing to them and calling a present. Say happy birthday at breakfast instead.\n\nA 2021 study of 467 Israeli college students in *OBM Neurobiology* found most slept with the phone in the bedroom, close to the bed, and used it in bed before falling asleep — but reported that the percentage using it *during* the night was low. The phone is in the room; they are not necessarily reading it. A 00:00 message often wakes nobody, and when it does it is because someone left the sound on for you.\n\nSometimes a page is the wrong object. If you are in the same flat, walk to their room. If they dislike links, call. And if the surprise needs a shared screen, a page you each open separately is a worse video call.\n\nWhere a page holds up is the day after the noise. [Hold My Hand](https://subhsandesh.in/hold-my-hand) asks the reader to keep a finger on the screen for sixty seconds without letting go — let go and it drains — a strange thing at 00:01 in a queue of forty messages and a good one on a quiet evening. [Capsule](https://subhsandesh.in/capsule) has you both write predictions about the coming year blind to each other, then opens them together a year later. For the minute itself the [birthday surprise page](https://subhsandesh.in/birthday-gf) is the plainer choice, and the full set is on the [templates page](https://subhsandesh.in/templates). We cannot confirm current pricing from our own data, so check there.\n\n## Sources\n\n- Shoval, D., Tal, N. & Tzischinsky, O. (2021), [\"Smartphone Usage at Bedtime: The Effect of Sleep–Smartphone Hygiene, Trait Anxiety, and FOMO on Sleep Quality\"](https://www.lidsen.com/journals/neurobiology/neurobiology-05-01-088), *OBM Neurobiology* 5(1), 8 March 2021.\n- Sapkota, C. N. (2022), [\"Critical Discourse Analysis of Language on Facebook used in Birthday Wishes by Generation Z\"](https://www.nepjol.info/index.php/madhyabindu/article/view/54222), *Madhyabindu Journal* 7(1), 31 December 2022 — abstract only.\n- Android Help, [\"Limit interruptions with Modes & Do Not Disturb on Android\"](https://support.google.com/android/answer/9069335).\n- Meta for Developers, [\"A Guide to Sharing for Webmasters\"](https://developers.facebook.com/documentation/sharing/webmasters), updated 30 June 2026.\n- Chrome for Developers, [\"Autoplay policy in Chrome\"](https://developer.chrome.com/blog/autoplay).\n- First-party figures from `content/facts.md`, measured 2026-09-24.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/how-to-surprise-someone-at-midnight#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Birthday",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Birthday",
+              "https://www.wikidata.org/wiki/Q47223"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Indian Standard Time",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_Standard_Time",
+              "https://www.wikidata.org/wiki/Q604055"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Smartphone Usage at Bedtime: The Effect of Sleep–Smartphone Hygiene, Trait Anxiety, and FOMO on Sleep Quality",
+            "url": "https://www.lidsen.com/journals/neurobiology/neurobiology-05-01-088",
+            "datePublished": "2021-03-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "LIDSEN Publishing (OBM Neurobiology)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Critical Discourse Analysis of Language on Facebook used in Birthday Wishes by Generation Z",
+            "url": "https://www.nepjol.info/index.php/madhyabindu/article/view/54222",
+            "datePublished": "2022-12-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Madhyabindu Journal (NepJOL)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Limit interruptions with Modes & Do Not Disturb on Android",
+            "url": "https://support.google.com/android/answer/9069335",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "A Guide to Sharing for Webmasters",
+            "url": "https://developers.facebook.com/documentation/sharing/webmasters",
+            "datePublished": "2026-06-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meta Platforms"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Autoplay policy in Chrome",
+            "url": "https://developer.chrome.com/blog/autoplay",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five things to settle before 23:55",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Start it by 21:00, not at 23:50",
+            "description": "The median gap between a SubhSandesh page's first save and its last edit is 2.5 hours, sampled on /apology-dashboard across 1,396 pages, measured 2026-09-24, so the same evening is enough runway."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Settle the password question before 00:01, not at it",
+            "description": "38.5% of creators password-protect a page before sharing (2,000 of 5,199, measured 2026-09-24); at 00:01 a password field is friction, so send it with the link."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Send the link, then the words",
+            "description": "The link goes as its own message a few seconds ahead, so the tap lands while the phone is still quiet."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Look at the preview card before you send it",
+            "description": "A shared URL renders a card from og:title, og:description and og:image, or a guessed one if those tags are absent."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Assume mute, dark, and one hand",
+            "description": "Chrome's autoplay policy allows muted autoplay always and grants sound-on autoplay via Media Engagement Index on desktop only, so the first screen must work in silence."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "how to surprise on birthday midnight",
+    "secondaryKeywords": [
+      "midnight birthday surprise ideas",
+      "midnight birthday wish",
+      "birthday surprise at 12 am",
+      "first person to wish happy birthday"
+    ],
+    "angle": "Wins by being the only post that treats the Indian midnight birthday wish as a delivery problem with a clock and a phone in it — naming 23:55 rather than 00:00, the Bedtime and Do Not Disturb schedules that silence a 00:00 message, the Open Graph preview card that leaks the surprise, and the browser rule that opens the page on mute — grounded in 510 /birthday-gf pages of 5,199, a 48.3% phone-open rate and a 2.5-hour median build gap measured 2026-09-24.",
+    "categorySlug": "digital-gifts-romance",
+    "templateUrls": [
+      "/birthday-gf",
+      "/capsule",
+      "/hold-my-hand"
+    ],
+    "factsUsed": [
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "#4 page type: birthday page for a partner (/birthday-gf) — 510 created, 9.8% of all pages — measured 2026-09-24",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lidsen.com/journals/neurobiology/neurobiology-05-01-088",
+        "stat": "Of 467 Israeli college students aged 19–30, most reported sleeping with the smartphone in the bedroom close to the bed and using it in bed before falling asleep, while the percentage reporting smartphone use during the night was low",
+        "publishedDate": "2021-03-08"
+      },
+      {
+        "url": "https://www.nepjol.info/index.php/madhyabindu/article/view/54222",
+        "stat": "Critical discourse analysis of ten Generation Z Facebook birthday-wish statuses finds the language dominated by self-expression and interaction, with informal language the common form of text production (abstract only; PDF full text not readable in this sandbox)",
+        "publishedDate": "2022-12-31"
+      },
+      {
+        "url": "https://support.google.com/android/answer/9069335",
+        "stat": "Android Modes include Bedtime mode with an automatic start and end time; each mode's Notification filters cover People, Apps and Alarms & other interruptions, and \"Allow repeat callers\" lets a call through if the same person calls twice in 15 minutes"
+      },
+      {
+        "url": "https://developers.facebook.com/documentation/sharing/webmasters",
+        "stat": "A shared URL is rendered as a preview card from og:title, og:description and og:image; without Open Graph tags the crawler \"uses internal heuristics to make a best guess about the title, description, and preview image\"",
+        "publishedDate": "2026-06-30"
+      },
+      {
+        "url": "https://developer.chrome.com/blog/autoplay",
+        "stat": "Chrome's Autoplay Policy shipped in Chrome 66 for audio and video elements and Chrome 71 for the Web Audio API; muted autoplay is always allowed, a high Media Engagement Index unlocks sound-on autoplay on desktop only, and play() without a user gesture rejects with a NotAllowedError"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "The slug `how-to-surprise-someone-at-midnight` omits \"birthday\", so the exact primary `how to surprise on birthday midnight` is not in it. The slug is assigned by WAVE5-PLAN.json row 5 and is referenced by the wave assignment; changing it here would desync the plan. H1, metaTitle and the first 100 words all carry the full keyword. Closes only if the orchestrator reassigns the slug."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "`how-to-surprise-someone-at-midnight` carries the stop words \"to\" and \"at\". It is fixed by WAVE5-PLAN.json row 5 and matches the `how to surprise <x>` slug shape already used by eight published siblings, so stripping them would break the cluster's URL pattern for no gain."
+        }
+      ],
+      "honestAssessment": "The SERP is six vendor pages selling a midnight delivery slot — decorators, cake, balloons — and not one of them contains a number, a date or a named source. An answer engine asked \"how do I surprise someone at midnight on their birthday\" currently has nothing to cite but marketing copy, and this is the only page that answers the mechanical question: aim at 23:55, check the Bedtime schedule, look at the preview card, assume the page opens on mute. Three of those four claims are verified against Android, Meta and Chrome documentation, and the first-party figures (510 /birthday-gf pages of 5,199, 48.3% phone opens, a 2.5-hour median build gap, measured 2026-09-24) cannot be published by anyone else. The real limits: there is no scholarly literature on the Indian midnight birthday convention at all — Crossref returns festschrift chapters for `birthday ritual significance` and nothing for `first wisher social status` — so the two scholarly citations are adjacent (bedtime phone use; Facebook birthday-wish language, n=10, abstract only) rather than on the nose, and the canonical temporal-landmark paper is paywalled and was not cited. Domain authority is far below floweraura and cherishx, the SERP is commercially defended, and ranking would take months if it happens.",
+      "serpCaveat": "SERP measured on DuckDuckGo kl=in-en, 2026-09-25, ads filtered — a genuine India SERP. Wave 4's US-served-Brave caveat does not apply here and is deliberately not repeated."
+    },
+    "generatedAt": "2026-09-25T10:26:57.097Z"
+  }
+}

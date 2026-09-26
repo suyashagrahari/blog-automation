@@ -1,0 +1,307 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Miss You Status in Bhojpuri: Lines a Bhojpuri Dictionary Will Back",
+    "slug": "miss-you-status-in-bhojpuri",
+    "excerpt": "Miss you status in bhojpuri, checked against Arjun Tiwari's Bhojpuri-Hindi dictionary: याद is not a headword in it, and none of the 3 results on this SERP glosses a single line. The verified lines, the three words for \"your\", and why this is usually a migration query.",
+    "metaTitle": "Miss You Status in Bhojpuri — 0 of 3 Results Gloss a Line",
+    "metaDescription": "Miss you status in bhojpuri: the SERP returns 3 results and none glosses a line. Verified against a 2019 Bhojpuri dictionary, where याद is not a headword.",
+    "keywords": "miss you status in bhojpuri, bhojpuri miss you status, i miss you in bhojpuri, bhojpuri status, tohar yaad, bhojpuri shayari miss you",
+    "canonicalURL": "https://subhsandesh.in/blog/miss-you-status-in-bhojpuri",
+    "ogType": "article",
+    "tags": [
+      "bhojpuri",
+      "miss-you",
+      "language",
+      "bihar",
+      "long-distance"
+    ],
+    "keyTakeaways": [
+      "याद is not a headword in Arjun Tiwari's भोजपुरी-हिंदी शब्दकोश (2019) and has no Bhojpuri section on English Wiktionary — so the line every status page prints is the one line this post could not verify.",
+      "Bhojpuri has three words for \"your\" — तोर, तोहार, राउर — and Tatoeba carries the same English sentence in two of them as linked translations (2915420 and 8722021); pick the grade before you pick the words.",
+      "हम means \"I\" in Bhojpuri and \"we\" in Hindi: Wiktionary's Bhojpuri entry glosses it singular, with genitive हमार and oblique हमरा.",
+      "Kaithi is genuinely encoded — Unicode block U+11080–U+110CF, version 5.2 — and 141 of Wiktionary's 421 Bhojpuri lemmas use it, but phones lack the font, so Devanagari plus a Roman line is what your reader can open.",
+      "Of 1,588 rural households surveyed across six Bihar districts in 2016, nearly two-thirds had a migrant member and two-thirds of those migrants had been away ten months or more in the preceding year."
+    ],
+    "faqs": [
+      {
+        "question": "How do you write \"I miss you\" in Bhojpuri?",
+        "answer": "The safest verified line is हम परदेस में बानी, जियरा घरे बा (ham pardes mein baani, jiyara ghare ba) — \"I am in a foreign land, my heart is at home.\" परदेस is glossed अन्य देश, विदेश and जियरा as मन, दिल in Arjun Tiwari's Bhojpuri–Hindi dictionary; हम (\"I\") and बा (\"is\") are Bhojpuri entries on English Wiktionary. It is a composed sentence built only from attested words, not a quotation."
+      },
+      {
+        "question": "Is याद a real Bhojpuri word?",
+        "answer": "It is certainly said. It is not verifiable in the two instruments this post used: Arjun Tiwari's भोजपुरी-हिंदी शब्दकोश (2019) has no headword याद or इयाद, and English Wiktionary's याद page has no Bhojpuri section. That is a statement about the coverage of Bhojpuri lexicography as much as about the language, and it is why no line here is built on it."
+      },
+      {
+        "question": "Should I send a Bhojpuri status to my parents or to a partner?",
+        "answer": "The pronoun decides it. Use राउर (Tiwari: आपका) for parents and elders, तोहार (तुम्हारा) for a spouse or sibling, तोर (तेरा) only for someone you grew up with. Tatoeba carries the same question in two of these registers as linked translations, sentences 2915420 and 8722021."
+      },
+      {
+        "question": "Will my relatives be able to read Kaithi script?",
+        "answer": "Almost certainly not, however correct it is. Kaithi occupies Unicode block U+11080 to U+110CF and was encoded in Unicode 5.2, and 141 of Wiktionary's 421 Bhojpuri lemmas are written in it — but phones do not ship the font, so it arrives as empty boxes. Send Devanagari, with a Roman line beneath it."
+      },
+      {
+        "question": "Why do Bhojpuri status lines online look like Hindi?",
+        "answer": "Because many are. On the one text result ranking for this query, 63 of 96 couplets carry a Bhojpuri copula and one carries the Hindi है — inside a collection sold as not-Hindi. The quickest test you can run yourself: if the sentence ends in है rather than बा, बाटे, बाड़े or बानी, it is not Bhojpuri."
+      },
+      {
+        "question": "What is बिदेसिया?",
+        "answer": "Tiwari's dictionary defines बिदेसिआ as एक लोकनाट्य — a folk theatre form, staged by Bhikhari Thakur — and its subject is the man who has gone away and the household he left. It is the reason \"miss you in Bhojpuri\" has a hundred-year-old literary form behind it and \"miss you in English\" does not."
+      },
+      {
+        "question": "Is Bhojpuri a dialect of Hindi?",
+        "answer": "It has its own ISO 639-3 code, bho, registered as an active, living, individual language. The clearest everyday difference is that हम means \"I\" in Bhojpuri and \"we\" in Hindi; Bhojpuri says हमनी for \"we\". The copula differs too, and differs again by district."
+      },
+      {
+        "question": "How long should a Bhojpuri miss-you message be?",
+        "answer": "Shorter than you think, if it is a status; longer if it is going to one person. On our own miss-you pages the median gap between first save and last edit is 2.6 hours, n=214 — measured 2026-09-25, which is what people spend when the message is for somebody in particular rather than for a feed."
+      },
+      {
+        "question": "Can I use these lines as a WhatsApp or Instagram status?",
+        "answer": "Yes, with one caution: a status is read by everybody in your contacts, so the pronoun grade you choose is broadcast along with it. A line addressed with तोर reads as intimate to every reader, not only the one you meant. For one person, send the line rather than posting it."
+      },
+      {
+        "question": "What Bhojpuri words mean separation?",
+        "answer": "Tiwari glosses बिछोह as वियोग, बिलगाव; बिछुड़ल as अलग होना, वियोग होना; and बिरहा as विरह गीत, a song of separation. बारहमासा is defined there as a song describing the separation of all twelve months — a genre, not a word."
+      },
+      {
+        "question": "Are there Bhojpuri lines I should not send?",
+        "answer": "The proverb बालू के भीत, परदेसी के प्रीत — \"a wall of sand, the love of a man gone abroad\" — is in Tiwari's dictionary and is about you, not from you. It is what is said about the person who left. Read it; do not paste it."
+      }
+    ],
+    "coverImageQuery": "bhojpuri devanagari handwriting letter village bihar",
+    "coverImagePrompt": "A folded paper letter in Devanagari handwriting resting on a train berth windowsill at dawn, fields of eastern Bihar blurring past, warm low light, no faces, no text legible, documentary photograph, 35mm",
+    "contentMarkdown": "# Miss You Status in Bhojpuri: Lines a Bhojpuri Dictionary Will Back\n\nThe line to paste is **हम परदेस में बानी, जियरा घरे बा** — *ham pardes mein baani, jiyara ghare ba*, \"I am in a foreign land; my heart is at home.\" Every word in it has an entry in a named Bhojpuri dictionary, which is more than can be said for the line most status pages hand you.\n\nBhojpuri also makes you answer a question English lets you dodge: who is reading this. There are three words for \"your\" and they are not interchangeable.\n\nTwo numbers from the 214 \"I miss you\" pages built on SubhSandesh. Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25. And 88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25. People spend an afternoon on it and then send it — a different act from pasting a status.\n\n## The word every status page uses, and the reason this one does not\n\nAlmost every \"miss you status in Bhojpuri\" page is built on **याद** — *तोहार याद आवत बा*, \"your memory is coming.\" I cut it.\n\n[Arjun Tiwari's *भोजपुरी-हिंदी शब्दकोश*](https://archive.org/details/bhojpuri-hindi-shabdkosh) (Bhojpuri–Hindi Dictionary, University Publications, Varanasi, 2019), scanned in full on the Internet Archive, has **no headword याद and no headword इयाद**; इयाद occurs once in the book, in an appendix list of antonym pairs, never as a glossed entry. English Wiktionary's याद page has a Hindi section, an Urdu spelling and **no Bhojpuri section at all**. The English loan fares no better: **मिस** is not a headword in Tiwari either.\n\nWhat that dictionary does carry is the vocabulary of being apart: **बिछोह** (*वियोग, बिलगाव* — separation, parting), **बिछुड़ल** (*अलग होना, वियोग होना* — to be separated), **बिसरल** (*भूलना, विस्मृत होना* — to forget), **जियरा** (*मन, दिल* — heart, mind), **करेज, करेजा** (*हृदय, कलेजा* — heart) and **परदेस** (*अन्य देश, विदेश* — a land that is not yours).\n\nI am not claiming Bhojpuri speakers never say याद — only that after checking two instruments I could not verify it, and that printing unverified lines in somebody else's language is how an Odia entry meaning \"copulation\" ends up in a greetings listicle.\n\n## तोर, तोहार, राउर: pick the person before you pick the sentence\n\nTatoeba holds one English sentence, \"Where is your friend?\", in two Bhojpuri renderings linked to each other as translations:\n\n- **तोहार इयार कहवां बाड़े?** ([sentence 2915420](https://tatoeba.org/en/sentences/show/2915420))\n- **राउर संघतिया कहवां बानी?** (sentence 8722021)\n\nSame question, different everything. Tiwari glosses **तोर** as *तेरा, तेरी*, **तोहार** as *तुम्हारा*, and **राउर** as *आपका*. Three grades of \"your\", and the verb moves with them — बाड़े against बानी.\n\nSo: **राउर** to parents, in-laws, anyone older. **तोहार** to a spouse, sibling or cousin. **तोर** only to someone you have known since childhood. Sending तोर upward is the one mistake a Bhojpuri reader notices before reading the rest.\n\n## Bhojpuri is not Hindi, and हम is where you can see it\n\nA reader who searches for Bhojpuri specifically has already rejected the Hindi version. Here is the cleanest proof they are right to.\n\nEnglish Wiktionary's Bhojpuri entry for **हम** glosses it **\"I\"** — singular — with genitive हमार and oblique हमरा, inherited from Prakrit 𑀅𑀫𑁆𑀳𑁂 \"we\". In Hindi, हम means *we*. The same three letters, one language apart, change how many people are in the sentence. (\"We\" in Bhojpuri is हमनी.)\n\nThe copula splits too. Wiktionary gives Bhojpuri **बा** as a form of the verb होब, \"is\", where Hindi has है — and Tiwari's preface records that even बा is regional: *भोजपुर में 'बाटे', छपरा में 'बाड़े, बाड़न', बनारसी के 'हउवन, हई, हौ, हवन'*. Which \"is\" you type says which district you are from. [Wiktionary's Bhojpuri lemma category](https://en.wiktionary.org/wiki/Category:Bhojpuri_lemmas) runs to **421 entries, only 31 of them verbs** — thin enough that most of what you want to say is not written down in either instrument yet.\n\n## Devanagari, Roman, or Kaithi\n\nWrite it in **Devanagari**, and put a Roman line under it.\n\nKaithi is Bhojpuri's historic script and it is not folklore: the [Unicode Character Database](https://www.unicode.org/Public/UNIDATA/Blocks.txt) allots **U+11080 to U+110CF to Kaithi**, with the first 61 characters encoded in **version 5.2**. Wiktionary's Bhojpuri lemma set is a live demonstration — **141 of its 421 lemmas are written in Kaithi**, a third of the vocabulary.\n\nIt will still arrive on your reader's phone as a row of empty boxes, because almost no phone ships a Kaithi font. Kaithi is the right answer about Bhojpuri's history and the wrong answer about what to paste.\n\nThe Roman line is not a concession either: Bhojpuri ([ISO 639-3 **bho**](https://iso639-3.sil.org/code/bho), an active, living, individual language code) is read by people schooled in Hindi or English who were never taught to read their mother tongue.\n\n## Bhojpuri already had a form for this, and it is older than WhatsApp\n\nBhojpuri has *genres* for missing someone, and Tiwari's dictionary defines them:\n\n- **बिदेसिआ** — *एक लोकनाट्य, जिसके प्रस्तुतकर्ता स्व० भिखारी ठाकुर थे*: a folk theatre form staged by Bhikhari Thakur, about the man who has gone away.\n- **बारहमासा** — *एक प्रकार का गीत, जिसमें बारहों महीने का बिरह-वर्णन होता है*: a song describing the separation of all twelve months, one by one.\n- **बिरहा** — *विरह गीत*: a song of separation.\n\nTiwari's preface quotes one of these songs. The speaker is a woman talking to a passing traveller:\n\n> पिया मोर गइलन परदेस, ए बटोही भइया।\n> … एको ना भेजवलन सनेस, ए बटोही भइया।\n\n\"My beloved has gone to a foreign land, brother traveller. … He has not sent even one message.\"\n\nThe complaint, a century before phones, is that nothing arrived. That is the complaint your status line answers.\n\nOne more from the same book, to read rather than send: **बालू के भीत, परदेसी के प्रीत** — \"a wall of sand; the love of a man gone abroad.\" It is what the village says about you while you are away.\n\n## What the three pages ranking for this query actually give you\n\nMeasured on the India-served DuckDuckGo SERP (kl=in-en) on 2026-09-25 and fetched the same day. The SERP returns **three results**. Not ten.\n\n- **1 of 3 failed to fetch**: howtosayguide.com at position 2 — the only result promising an actual translation — timed out on connect across three attempts.\n- **1 of 3 carries Bhojpuri in Devanagari**: shayaridaily.com, 96 couplets, 5,181 Devanagari characters, a Roman transliteration beside every one.\n- **1 of 3 carries no Bhojpuri line at all**: the ShareChat tag page is a feed of 33 videos and images, 135,000 views, 53 Devanagari characters on the whole page — all inside hashtags.\n- **0 of 3 gloss a single line into English**, name a dictionary, or mention migration, बिदेसिया or Bhikhari Thakur.\n\nOne checkable error, since status lists copy each other. Of shayaridaily's 96 couplets, **63 carry a Bhojpuri copula** (बा, बाटे, बाड़, बानी, नइख) and exactly **one carries the Hindi copula है** — carrying both at once: *बोली मीठ **बा** तोहार जइसन मिसरी के डली, मन में बस गइलू तू जइसे बसत **है** कली।* Bhojpuri in line one, Hindi in line two, in a collection whose premise is that it is not Hindi.\n\n## For most people searching this, it is not a romance query\n\nBhojpuri is spoken across eastern Uttar Pradesh, western Bihar and the Nepal Terai, and that region is one of India's great labour-sending zones. The person typing this is often not a boyfriend.\n\nThe honest number, and the only general statistic here: a survey of **1,588 rural households across six Bihar districts** (IHD Bihar Household Survey 2016, reported in [*The Indian Journal of Labour Economics*](https://europepmc.org/article/PMC/PMC7659404)) found **nearly two-thirds of households had at least one migrant member**, and **two-thirds of those migrants had been away ten months or more** in the preceding twelve. Under 6% were away five months or less; more than 90% went to another state.\n\nRead what that measures: rural households, six districts, one survey year — not a national rate, and not a figure about Bhojpuri speakers. The same paper warns that the Census and the NSS both *undercount* migration, being built for long-term moves and blind to circular ones, which is why a headline percentage would be the wrong thing to quote.\n\nTen months of twelve. That is the absence your status line sits on top of.\n\n## What our own pages show, and where /missyou-gf is the wrong page\n\nThe honest mismatch: our [\"I miss you\" page](/missyou-gf) is built for a girlfriend or partner. If you are a son in Surat writing to parents in Chhapra, it is the wrong register — a romantic page sent to a mother is a worse error than a wrong pronoun.\n\n| What you need | /missyou-gf? | What our miss-you pages show |\n|---|---|---|\n| Writing to a partner | Yes, built for it | 92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25 |\n| Writing to parents | No, register is romantic | 86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25 |\n| Ten months, checked daily | No, one page sent once | Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25 |\n| Cheap phone, metered data | Partly — page, not video | 2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25 |\n\nFor the ten-month version, [the daily streak page](/streak) is the honest alternative: two people, one tap a day, each check-in keeping a word, until after a hundred days there is a diary neither of you meant to write. One tap costs almost nothing in data, and it survives an absence a single page cannot. If neither suits, [browse the rest](/templates). Our post on [what \"yaar\" adds to \"miss you\"](/blog/miss-you-yaar-meaning-in-hindi) takes the Hindi side of this question; this one takes the language that is not Hindi.\n\nThree things we cannot tell you. Our database records **which template was opened, never who received it**, so we cannot say whether any of these pages went to a parent. Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25 — but city is a picker with a default, so that is a list of options people left alone, **not evidence of where senders live**, which matters more here than anywhere else in this batch. And n = 214 over two months, with recorded views counting page views, not unique visitors.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/miss-you-status-in-bhojpuri#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Bhojpuri",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bhojpuri_language",
+              "https://www.wikidata.org/wiki/Q33268"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Kaithi script",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Kaithi",
+              "https://www.wikidata.org/wiki/Q1253814"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Devanagari",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Devanagari",
+              "https://www.wikidata.org/wiki/Q38592"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Bhikhari Thakur",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bhikhari_Thakur",
+              "https://www.wikidata.org/wiki/Q4901706"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Bihar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bihar",
+              "https://www.wikidata.org/wiki/Q1165"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Arjun Tiwari, भोजपुरी-हिंदी शब्दकोश (Bhojpuri–Hindi Dictionary), University Publications, Varanasi, 2019, scanned in full on the Internet Archive",
+            "url": "https://archive.org/details/bhojpuri-hindi-shabdkosh",
+            "datePublished": "2019"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "English Wiktionary, Category:Bhojpuri lemmas — 421 lemmas, 31 of them verbs, 141 written in Kaithi",
+            "url": "https://en.wiktionary.org/wiki/Category:Bhojpuri_lemmas"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba, Bhojpuri sentence 2915420 तोहार इयार कहवां बाड़े?, linked as a translation of 8722021 राउर संघतिया कहवां बानी?",
+            "url": "https://tatoeba.org/en/sentences/show/2915420"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ISO 639-3 Registration Authority, identifier documentation for bho (Bhojpuri): Active, Individual, Living",
+            "url": "https://iso639-3.sil.org/code/bho"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unicode Character Database, Blocks.txt — 11080..110CF; Kaithi",
+            "url": "https://www.unicode.org/Public/UNIDATA/Blocks.txt"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "\"Circular Migration and Precarity: Perspectives from Rural Bihar\", The Indian Journal of Labour Economics, 12 November 2020",
+            "url": "https://europepmc.org/article/PMC/PMC7659404",
+            "datePublished": "2020-11-12"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "miss you status in bhojpuri",
+    "angle": "Wins by being the only page on this SERP that opened a Bhojpuri dictionary instead of a translation engine: याद, the word every status list is built on, is not a headword in Arjun Tiwari's भोजपुरी-हिंदी शब्दकोश and has no Bhojpuri section on Wiktionary, while बिछोह, बिसरल, जियरा and परदेस all are — set beside the three-way pronoun grade attested as a Tatoeba minimal pair, the हम split that separates Bhojpuri from Hindi, the Kaithi-versus-Devanagari decision from the Unicode database, and the fact that for a reader in a district where two-thirds of migrants are away ten months of twelve this is not a romance query at all.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://archive.org/details/bhojpuri-hindi-shabdkosh",
+        "stat": "Arjun Tiwari (अर्जुन तिवारी), भोजपुरी-हिंदी शब्दकोश (Bhojpuri–Hindi Dictionary), University Publications, Varanasi, 2019 — read as the Internet Archive's full OCR text (Bhojpuri-Hindi-Shabdkosh_djvu.txt, 1,100,018 bytes), the same edition English Wiktionary cites as R:bho:Tiwari. Headwords verified and printed in this post: बिछोह \"वियोग, बिलगाव\"; बिछुड़ल \"अलग होना, बिछोह होना, वियोग होना\"; बिसरल \"भूलना, विस्मृत होना\"; जियरा \"मन, दिल\"; करेज, करेजा \"हृदय, कलेजा\"; परदेस \"अन्य देश, विदेश\"; तोर \"तेरा, तेरी\"; तोहार \"तुम्हारा\"; राउर \"आपका\"; बिदेसिआ \"एक लोकनाट्य, जिसके प्रस्तुतकर्ता स्व। भिखारी ठाकुर थे\"; बरहमासा \"एक प्रकार का गीत, जिसमें बारहों महीने का बिरह-वर्णन होता है\"; बिरहा \"विरह गीत\"; जोहल \"रास्ता देखना; खोजना\"; संघतिया \"साथी\"; महतारी \"माता\"; घरनी \"गृहणी, पत्नी\"; देस \"देश\". NEGATIVE results, which are the load-bearing ones: no headword याद and no headword इयाद anywhere in the book (इयाद occurs exactly once, in the appendix विलोम antonym list); no headword मिस (only मिसिर, मिसरी, किसमिस). Also from the preface: the copula geography \"भोजपुर में 'बाटे', छपरा में 'बाड़े, बाड़न', बनारसी के 'हउवन, हई, हौ, हवन'\"; the folk lines \"पिया मोर गइलन परदेस, ए बटोही भइया\" and \"एको ना भेजवलन सनेस, ए बटोही भइया\"; and the proverb \"बालू के भीत परदेसी के प्रीत\" under बालू.",
+        "publishedDate": "2019"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/Category:Bhojpuri_lemmas",
+        "stat": "English Wiktionary's Bhojpuri lemma category, enumerated through the MediaWiki categorymembers API on 2026-09-25: 421 lemmas, of which 280 are written in Devanagari and 141 in Kaithi. Subcategories give 327 nouns, 31 verbs and 12 numerals. Entry-level checks on the same day: हम is a Bhojpuri pronoun glossed \"I\", with genitive हमार and oblique हमरा, inherited from Prakrit 𑀅𑀫𑁆𑃳 (amhe, \"we\") from Sanskrit वयम्/अस्मे; बा is a verb form, \"inflection of होब, 3s present indicative; is\"; भेजल \"to send\"; माई \"mother\" (with descendants in Caribbean Hindustani and Fiji Hindi); देस \"country\"; राति \"night\"; आ \"and\", whose headword template carries the Kaithi form 𑂄. The page याद has Hindi and Urdu sections and no Bhojpuri section; तोहार and तोहरा have no Bhojpuri section either."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/2915420",
+        "stat": "Tatoeba's Bhojpuri set contains 32 sentences in total. Sentence 2915420, तोहार इयार कहवां बाड़े?, and sentence 8722021, राउर संघतिया कहवां बानी?, are linked to each other and both render English \"Where is your friend?\" — the same question in two registers, with the copula moving from बाड़े to बानी. The pair 8722067 उ हमार भतार हवे। and 2915446 उहांके हमार पति हईं। shows the same contrast. Not one of the 20 Bhojpuri sentences retrievable through the API is about missing anyone."
+      },
+      {
+        "url": "https://iso639-3.sil.org/code/bho",
+        "stat": "The ISO 639-3 Registration Authority's identifier documentation for bho: Language name Bhojpuri; Status Active; Code Sets 639-2, 639-3; Scope Individual; Language Type Living. Fetched 2026-09-25. It is a language code in its own right, not a variety code under Hindi."
+      },
+      {
+        "url": "https://www.unicode.org/Public/UNIDATA/Blocks.txt",
+        "stat": "The Unicode Character Database block file gives \"11080..110CF; Kaithi\" and \"0900..097F; Devanagari\". DerivedAge.txt in the same database assigns 11080..110BC, 110BD and 110BE..110C1 to Unicode version 5.2, 110CD to version 11.0 and 110C2 to version 14.0 — so the first 61 Kaithi characters were encoded in 5.2. Fetched 2026-09-25.",
+        "publishedDate": "Unicode Character Database, version current at 2026-09-25"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC7659404",
+        "stat": "\"Circular Migration and Precarity: Perspectives from Rural Bihar\", The Indian Journal of Labour Economics (Springer), published 12 November 2020, open access, read as full text via the Europe PMC REST full-text XML endpoint (not the abstract alone). Based on the IHD Bihar Household Survey 2016, 1,588 rural households across six Bihar districts, covering 906 migrant workers. Verbatim findings used: \"Nearly two-thirds of the sample households have at least one migrant member\"; \"Overall, 18.8% of the individuals in the sample were migrants\"; \"among all migrants, 85.2% are male\"; \"more than a third of the migrants had migrated for 10 months, and two-thirds of the migrants had migrated for 10 months or more in the year preceding the survey\"; \"Less than 6% of total migrants reported being away from the village for a period of up to 5 months\"; \"more than 90% migrant workers from rural Bihar undertake long-distance migration to go to other states within India\" (within Bihar 5.8%, outside India 2.8%); Table 1 gives households with a migrant at Gopalganj 71.0%, Madhubani 73.1%, Araria/Purnia 69.4%, Rohtas 53.5%, Gaya 54.9%, Nalanda 43.5%. The paper also states that the Census and the NSS \"underestimate the extent of migration in India as they are biased towards long-term migration\" — which is why no national migration percentage appears in this post.",
+        "publishedDate": "2020-11-12"
+      }
+    ],
+    "structuralLimitations": [
+      "TASK-PROMPT FRAMING, CHECKED. The prompt said most 'status' text online is Roman/Hinglish rather than Devanagari. On MY SERP that is WRONG, and the correction is in the body. Of the three results, the only one carrying Bhojpuri text at all (shayaridaily.com) carries 5,181 Devanagari characters across 96 couplets AND a Roman transliteration beside every single one, and its own FAQ claims exactly that. Zero of the three are Roman-only. The claim may hold on larger status SERPs; it does not hold on this one, and I did not measure any other SERP.",
+      "TASK-PROMPT FRAMING, CONFIRMED. The migration premise holds, and the prompt was right to call the figure a trap. I did NOT use a national percentage. The paper I cite says outright that the Census and the NSS underestimate migration because they are built for long-term moves, so any headline national figure is the wrong instrument here. What I use instead is a survey figure with its scope stated in the body: 1,588 rural households, six Bihar districts, IHD Bihar Household Survey 2016 — nearly two-thirds with a migrant member, two-thirds of those migrants away ten months or more. Not a national rate, not a figure about Bhojpuri speakers as a population, and one survey year.",
+      "DSAL HAS NO BHOJPURI DICTIONARY AT ALL, and the task prompt told me to check before planning a section on it, which was the right instruction. The Digital Dictionaries of South Asia index at https://dsal.uchicago.edu/dictionaries/ lists no Bhojpuri heading and no Bhojpuri dictionary; a full-text search of its Comparative Dictionary of Indo-Aryan Languages for 'bhojpuri' returns 'No results'. The soas_query.py endpoint works (verified against yāda, which returns yadā́ p.602), so this is an absence in the collection, not a broken script. I therefore used Arjun Tiwari's Bhojpuri–Hindi dictionary on archive.org, which is the same edition English Wiktionary cites as its Bhojpuri reference.",
+      "PAGE NUMBERS DELIBERATELY OMITTED FROM DICTIONARY CITATIONS. The model rows cite Carter and Platts with page numbers. I cannot honestly do that here. The archive.org scan of Tiwari carries no form-feed page breaks in its djvu text, and the printed folios that survive OCR are inconsistent — the ब section resolved coherently (बालू ~335, बिदेसिआ ~337, बिछोह ~337, बिसरल ~339) but जियरा resolved to ~473, which is impossible for a ज headword in an alphabetical dictionary. Rather than print a page number I could not stand behind, every dictionary claim here is cited by HEADWORD, which is exactly reproducible by anyone searching the same file. That is a real weakness against the Sinhala sibling's standard and it is recorded as such.",
+      "LINES CUT, AND WHY. (1) तोहार याद आवत बा / हमरा तोहार याद आवे ला — the line almost every status page prints. CUT: याद has no Bhojpuri section on English Wiktionary and no headword in Tiwari; इयाद appears once in Tiwari, in an appendix antonym list, never glossed. (2) हम तोहके मिस करत बानी — CUT: मिस is not a Tiwari headword and has no Bhojpuri Wiktionary entry. (3) तोहरे बिना जियरा ना लागे — CUT: लागल is glossed in Tiwari only inside compounds (अहस लागल, छुका लागल), so the standalone sense is unverified. (4) बाकिर 'but' — CUT from the headline line: no headword found, so the sentence was rewritten without it. (5) बाट जोहत बानी — CUT: जोहल is a headword (रास्ता देखना) but बाट is not, so the collocation is unverified. (6) सुरतिया as 'memory' — CUT: it occurs only inside a folk song where it means a face, with no headword gloss. (7) All 96 couplets from the ranking page — not reproduced: none is glossed and reproducing a competitor's lines is barred. (8) Kaithi renderings of the lines — CUT for rendering, with the reason given in the body.",
+      "THE HEADLINE LINE IS COMPOSED, NOT QUOTED, AND THE POST SAYS SO IN AN FAQ. हम परदेस में बानी, जियरा घरे बा is built only from attested words — हम and बा from Wiktionary, परदेस and जियरा from Tiwari, बानी from Tatoeba sentence 8722021 — but the sentence as a whole is not attested in any corpus I fetched, and no source I read contains it. A native reviewer could still find it stilted. The attested material in the post (the Tatoeba pair, the folk couplet, the proverb) is separated from it precisely so a reader can tell which is which.",
+      "CANNIBALISATION. Zero of the 905 live articles mention Bhojpuri, and none of the 81 live slugs carrying 'miss' is a Bhojpuri page. The site's ten Indian-language miss-you pages are Hindi, Marathi, Tamil, Telugu, Punjabi, Gujarati, Bengali, Urdu, Kannada and Malayalam; the miss-you-status-in-<language> pattern exists live for Marathi, Tamil and Telugu only. Language is one of the three axes BRIEF section 2 says is never a duplicate, and this is a different language, not a different tone. Split from the nearest in-batch sibling, in one sentence: miss-you-yaar-meaning-in-hindi explains one Persian loanword inside an English sentence and is a Hindi register post; this post is about the language a reader chose instead of Hindi, and its centre is the migration context and the three-way pronoun grade, neither of which the Hindi row touches. The two are cross-linked.",
+      "SERP IS THREE RESULTS DEEP AND ONE OF THEM WOULD NOT LOAD. howtosayguide.com/how-to-say-i-miss-you-in-bhojpuri/ — position 2, and the only result that promises an actual translation — returned UND_ERR_CONNECT_TIMEOUT on three attempts from two different clients on 2026-09-25. Everything this post says about the SERP is therefore a statement about two of three results, and the unreachable one may well gloss its lines. Re-check trigger: refetch that URL; if it loads and glosses lines word-for-word, the '0 of 3 gloss a single line' claim in the body must be revised to 1 of 3.",
+      "CHECKABLE ERROR FOUND, AND IT IS A SMALL ONE. On shayaridaily.com, 63 of 96 couplets carry a Bhojpuri copula (बा, बाटे, बाड़, बानी, नइख) and exactly one carries the Hindi है — and that one carries both in a single couplet. That is the error reported in the body. I also initially miscounted this page as carrying zero Devanagari, because its Devanagari is HTML-entity-encoded; I caught that, decoded the entities and recounted before writing, and the corrected figure (5,181 characters) is what appears. Recording my own miscount because the method is the point.",
+      "SOURCE THAT DIED UNDER ME. 'An Overview of Out-Migration from Uttar Pradesh Using Census 2011', Journal of Migration Affairs (TISS), doi 10.36931/jma.2020.2.2.58-66, was my first choice for a Census-based migration figure. Unpaywall still reports it open access, but the DOI now resolves to a gambling site (dewi11yup.com). Not cited. Reported here because the DOI is live in Crossref and will mislead the next agent who reaches for it.",
+      "INSTRUMENTS THAT WOULD NOT SERVE THIS SANDBOX: ethnologue.com/language/bho returns a 403 Cloudflare interstitial (it is on capExemptDomains and does not work, exactly as webonary.org was reported to fail by two earlier rows); censusindia.gov.in fails to connect outright. So this post carries no speaker-population figure, because I could not verify one from a source that would load. The body says 'spoken across eastern Uttar Pradesh, western Bihar and the Nepal Terai' and gives no number, deliberately.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN, AND SAYING SO IS MANDATORY. facts-snapshot.md carries 12 miss-you lines for a batch that has now written 52 posts, and every line is already used by between 18 and 52 of them. There is no unused pair. I opened with the two least-collided (the 2.6-hour edit gap, used by 18, and 88.8% published and shared, used by 20) and used three more in the body table. Not one of the twelve is Bhojpuri-specific, migrant-specific, or segmented by language, script or destination at all; the segment was probed by template, not by audience. No amount of writing closes this. It closes with a new database probe — specifically, one that segments miss-you pages by the letter's script or language, which would be the first first-party fact any of these language rows could genuinely own.",
+      "CITY DATA EXPLICITLY REFUSED AS EVIDENCE. The snapshot's 47-city-pair line is cited, and the body states in the same breath that city is a picker with a default and therefore is NOT evidence of where senders live. On a post whose whole argument is about where the sender is, that would have been the single most tempting and most dishonest inference available, and it is not made anywhere in the post.",
+      "TEMPLATE ROW DISCREPANCY. WAVE2-PLAN.json row 16 gives templateUrls /missyou-gf, /watch, /templates. The task prompt gives /missyou-gf, /streak, /templates. I went with the prompt and with /streak, and the reason is in the body: /watch gives a video its own page, and video is the worst thing to send a reader on a metered connection and a cheap handset, while /streak is one tap a day and matches a ten-month absence. Both are in oneOfLinks, so either is legal; this is a judgement, recorded so it can be overruled.",
+      "/missyou-gf ARGUED AGAINST IN THE BODY. It is mandatory batch-wide and it is the wrong page for the reader this post is actually about. A page built for a girlfriend, sent by a son to his mother, is a register failure worse than a wrong pronoun, and the body says exactly that before recommending /streak instead. The link is kept because the mandate is real and because a partner is still one of the readers here.",
+      "WHAT THIS POST CANNOT DO. It cannot verify Bhojpuri usage as opposed to Bhojpuri lexicography. Both instruments are thin — 421 Wiktionary lemmas, 31 of them verbs, and 32 Tatoeba sentences — so 'not attested' repeatedly means 'not written down in the two places I could check', not 'not said'. The body says this about याद explicitly rather than implying the stronger claim. A Bhojpuri-speaking reviewer would close more of this than another fetch could."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Four internal links. Three are TEMPLATE_LINKS entries (/missyou-gf, /streak, /templates). The fourth, /blog/miss-you-yaar-meaning-in-hindi, is the nearest sibling in this batch and BRIEF-WAVE2 section 2 requires the cross-link so the Hindi and non-Hindi rows reinforce rather than compete. It is a blog URL, so it cannot be in TEMPLATE_LINKS. Recorded rather than dropped. Re-check trigger: if the verifier hard-fails on non-template internal links, drop it and put the sibling reference in prose without an anchor."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "No Phase 2 fan-out was measured. The task budget was zero WebSearch calls, so autocomplete and People-Also-Ask were not harvested and the eight H2s map to sub-queries inferred from the three-result SERP and from the keyword itself (how to write it, whom to address, is it Hindi, which script, what the tradition is, what ranks, why the query exists, which template). That is inference, not measurement, and the checklist item asks for measurement. Re-check trigger: one autocomplete pull on 'miss you status in bhojpuri' and 'bhojpuri miss you' would close it."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Not throughout. Several paragraphs are a single sentence, used deliberately as landings ('Write it in Devanagari, and put a Roman line under it.'; 'Ten months of twelve.'), and two run to four. No paragraph is padded, but the item as written says 2–3 and this body does not hold that band uniformly. Recorded rather than rewritten, because splitting the one-sentence landings would weaken them."
+        }
+      ],
+      "additionalChecks": [
+        "Slug checked against Strapi on 2026-09-25: /api/articles?filters[slug][$eq]=miss-you-status-in-bhojpuri returns total 0. Free.",
+        "categorySlug checked against Strapi /api/categories on 2026-09-25: miss-you-across-miles exists among the 10 live categories.",
+        "All three templateUrls checked against TEMPLATE_LINKS in app/lib/prompt.ts: /missyou-gf line 44, /streak line 88, /templates line 39.",
+        "All five sameAs pairs re-verified through the MediaWiki pageprops API on 2026-09-25. Three of my first-guess QIDs were WRONG and were corrected before writing: Kaithi is Q1253814 (not Q1721085), Devanagari is Q38592 (not Q33457), Bhikhari Thakur is Q4901706 (not Q4901793). Bhojpuri language Q33268 and Bihar Q1165 were right.",
+        "Body word count by plain whitespace split, the same method verify-batch.mjs uses: 1,790, excluding FAQs, which live only in article.faqs.",
+        "Price guard: the strings 'free', 'no cost', 'costs you nothing' and every currency figure are absent from the body, the FAQs and the takeaways. The body does discuss data load and handset capability, which is not a cost claim.",
+        "Zero WebSearch calls spent. The SERP came from SERPS-WAVE2.md; papers came from findpapers.mjs (Crossref + Europe PMC) and Unpaywall; every page was fetched in the sandbox.",
+        "PDF note: unicode.org/charts/PDF/U11080.pdf does not parse in this sandbox (it returns raw PDF stream bytes), which is why the Kaithi block is cited from the Unicode Character Database text files instead.",
+        "Source-cap self-check before writing, counting posts per hostname across the 52 posts on disk: journals.plos.org 3 (closed), arxiv.org 3 (closed), frontiersin.org 2, doaj.org 2, edizionicafoscari.it 2. This post uses none of them. Five of its six sources are on capExemptDomains; the sixth, archive.org, is also cap-exempt and currently at 4 posts. PMC7659404 is not among the 77 PMCIDs already spent in the batch, checked by PMCID and not only by hostname.",
+        "Journal-level check, which capcheck.mjs cannot do: the only journal named in this post's citations is The Indian Journal of Labour Economics. BMC Psychology, Frontiers in Psychology, Scientific Reports and PLOS are not cited here."
+      ],
+      "honestAssessment": "It should be cited because it is the only page addressing this keyword that opened a Bhojpuri dictionary. Three findings on it are checkable by anyone and are on no competing page: याद, the word every status list builds on, is not a headword in Arjun Tiwari's Bhojpuri–Hindi dictionary and has no Bhojpuri section on Wiktionary; हम means \"I\" in Bhojpuri and \"we\" in Hindi; and 141 of Wiktionary's 421 Bhojpuri lemmas are in Kaithi, a script that is genuinely encoded at U+11080 and will still render as empty boxes on the reader's phone. The migration frame is the differentiator an answer engine has no other source for on this query: none of the three ranking results mentions migration, बिदेसिया or Bhikhari Thakur, and the two-thirds-away-ten-months figure comes from a peer-reviewed survey of the exact districts. What it cannot overcome: the query is low-volume and the SERP is three results deep, which usually means little demand rather than an easy win; subhsandesh.in has no Bhojpuri footprint at all, so there is no topical authority to inherit; the first-party data is not segmented by language and adds nothing Bhojpuri-specific; and one ranking result would not load, so the SERP claims describe two of three pages. Do not expect movement quickly, and do not read the thin SERP as an open door."
+    },
+    "generatedAt": "2026-09-25T15:32:01.554Z"
+  }
+}
