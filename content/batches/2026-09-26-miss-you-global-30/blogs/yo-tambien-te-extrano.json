@@ -1,0 +1,319 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Yo también te extraño: dónde va «también» y qué contestar",
+    "slug": "yo-tambien-te-extrano",
+    "excerpt": "«Yo también te extraño» es correcto porque en español el que extraña es el sujeto. El DPD le da a «también» un blanco pero no una posición, y sus dos citas ponen el adverbio a los dos lados de ese blanco. La asimetría real está en «tampoco»: 0 de 68 frases atestiguadas admiten «tampoco no».",
+    "metaTitle": "Yo también te extraño — dónde va el adverbio según el DPD",
+    "metaDescription": "«Yo también te extraño» es correcto porque el que extraña es el sujeto. El DPD no fija la posición de «también»: en 219 frases de Tatoeba nada la distingue.",
+    "keywords": "yo también te extraño, te extraño también, a mí también, yo tampoco, cómo responder te extraño, también o tampoco",
+    "canonicalURL": "https://subhsandesh.in/blog/yo-tambien-te-extrano",
+    "ogType": "article",
+    "tags": [
+      "espanol",
+      "gramatica",
+      "rae",
+      "larga-distancia",
+      "traduccion"
+    ],
+    "keyTakeaways": [
+      "«Yo también te extraño» es correcto porque en español el sujeto de «extrañar» es quien extraña: «también» solo suma al hablante y la frase no puede decir otra cosa.",
+      "El DPD dice que «también» afecta a «la palabra o secuencia a la que afecta», pero sus dos citas lo ponen delante (Cortázar, 1983) y detrás (Nieva, 1988) de su blanco, así que la posición no decide el alcance como sí ocurre en italiano.",
+      "«Yo también te extraño» y «te extraño también» están atestiguadas y se traducen igual: en 4 de 4 alineaciones de Tatoeba el español mueve el adverbio y el inglés siempre pone un «too» final.",
+      "«A mí también» pertenece a otro verbo: de 48 frases estrictas, 32 llevan clítico «me» y ninguna tiene al hablante de sujeto, así que responde a «me haces falta», no a «te extraño».",
+      "En la búsqueda de Google medida en México el 27 de septiembre de 2026 con gl=mx&hl=es-419&pws=0, 5 de los 8 resultados orgánicos son canciones y solo 1 es una página de diccionario."
+    ],
+    "faqs": [
+      {
+        "question": "¿«Yo también te extraño» lleva coma?",
+        "answer": "No. «Yo también te extraño» es una oración corriente con sujeto, adverbio, complemento y verbo, y ninguna de las dos entradas de la RAE que consultamos —el DLE y el DPD de «también»— pide puntuación ahí. La coma aparece cuando el adverbio va suelto al final, como en «Te extraño, también», y entonces cambia el ritmo de la frase, no su significado."
+      },
+      {
+        "question": "¿Se puede contestar solo «yo también»?",
+        "answer": "Sí, y es la respuesta más frecuente en el corpus: Tatoeba reporta 267 frases con «yo también» y las 60 que paginamos el 27 de septiembre de 2026 pasaron el filtro literal. Es una elipsis del sujeto y funciona porque el verbo de la frase anterior queda sobreentendido."
+      },
+      {
+        "question": "¿Por qué «a mí también» suena raro como respuesta a «te extraño»?",
+        "answer": "Porque «a mí» es un experimentante en dativo y «extrañar» no tiene ese hueco: el que extraña es el sujeto. De las 48 frases con «a mí también» que revisamos, 32 llevan un clítico «me» después del adverbio y la mayoría son verbos del tipo «gustar». La respuesta natural con ese verbo sería a «me haces falta»."
+      },
+      {
+        "question": "¿«Yo tambien» sin tilde es un error?",
+        "answer": "Sí. «También» es aguda terminada en n y lleva tilde obligatoria; el DLE la registra siempre acentuada, con la etimología «De tan3 y bien». Escribir «tambien» en un mensaje se entiende, pero es una falta de ortografía, no una variante."
+      },
+      {
+        "question": "¿Cómo respondo si no siento lo mismo?",
+        "answer": "Con «yo tampoco» solo si el otro mensaje ya era negativo: el DLE define «tampoco» como el adverbio para «negar algo después de haberse negado otra cosa». Si le dijeron «te extraño» en positivo y usted no quiere devolverlo, lo honesto es una frase propia, no un adverbio aditivo, porque ni «también» ni «tampoco» encajan ahí."
+      },
+      {
+        "question": "¿Se dice «yo también no te extraño»?",
+        "answer": "No, y tampoco «tampoco no te extraño» antes del verbo: el DPD marca con su propio signo de incorrección «⊗Entonces tampoco no existía…». En las 68 frases con «yo tampoco» que paginamos, 0 contienen «tampoco no». Detrás del verbo sí conviven, como en «no existía tampoco»."
+      },
+      {
+        "question": "¿Cambia la respuesta si uso «te echo de menos»?",
+        "answer": "No cambia la estructura, porque «echar de menos» también pone al hablante de sujeto. Tatoeba tiene «¡Te echo de menos también!» alineado con «I miss you too!», con el mismo número de identificación consecutivo al de la versión con «extrañar». Lo que cambia es el registro regional, no el papel del adverbio."
+      },
+      {
+        "question": "¿Qué contesto si me lo dice un amigo y no una pareja?",
+        "answer": "Lo mismo: «yo también te extraño» no lleva ninguna marca de intimidad, y ni el DLE ni el DPD marcan «también» con etiqueta de registro. Si quiere bajar la temperatura, la elipsis «yo también» es más neutra que la frase completa."
+      },
+      {
+        "question": "¿Por qué el inglés necesita «too», «either» y «neither» donde el español usa dos palabras?",
+        "answer": "Porque el inglés reparte la carga entre polaridad y posición. De las 68 frases con «yo tampoco» que revisamos, 54 tienen una traducción con «either» y 20 con «neither» o «nor»; el español resuelve las tres con «tampoco»."
+      },
+      {
+        "question": "¿Cuánto tiempo tardo en armar una página para contestar?",
+        "answer": "En nuestra base de datos, la mediana entre el primer guardado y la última edición es de 2,6 horas en las páginas de «te extraño» (n = 214) y de 2,5 horas en el tablero de disculpas (n = 1.396). Son dos muestras de tamaño muy distinto y la diferencia entre ellas es de una décima de hora."
+      },
+      {
+        "question": "¿Esos números están medidos en México?",
+        "answer": "No. Nuestra base de datos no está segmentada por idioma ni por país, así que ninguna de las cifras de este artículo es mexicana, española ni argentina. Además registra qué plantilla se abrió, nunca quién la recibió."
+      }
+    ],
+    "coverImageQuery": "mensaje de texto pareja larga distancia teléfono",
+    "coverImagePrompt": "A close, warmly lit photograph of two hands holding a phone whose screen shows a short Spanish text conversation, shot from just above the shoulder so the screen is legible but the room behind it falls into soft focus. Evening light, deep shadows, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No readable brand marks and no text other than a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Yo también te extraño: dónde va «también» y qué contestar\n\n**«Yo también te extraño» es correcto, y lo es por una razón que ninguno de los resultados de esta búsqueda explica: en español el que extraña es el sujeto.** En «te extraño», *yo* extraño y *te* es el complemento. Por eso «también» solo tiene que sumarlo a usted al grupo de los que extrañan, y la frase no puede decir otra cosa.\n\nLo escribimos desde una plataforma con 3.843 creadores registrados y un promedio de 1,35 páginas por creador —casi nadie hace una segunda—, cuyo tipo de página más usado es el tablero de disculpas: 1.396 páginas, el 26,9 % de todo. Los dos números salen de nuestra base de datos y dicen algo incómodo sobre responder: el producto está hecho para el primer mensaje, no para la respuesta.\n\nAbajo, las entradas de diccionario que licencian cada afirmación, 219 frases de Tatoeba inspeccionadas una a una y la búsqueda que medimos en Google México el 27 de septiembre de 2026.\n\n## Qué dicen exactamente el DLE y el DPD sobre «también»\n\nEl *Diccionario de la lengua española* le da a [«también»](https://dle.rae.es/tambi%C3%A9n) dos acepciones y ningún ejemplo. La primera: adverbio que se usa «para indicar la igualdad, semejanza, conformidad o relación de una cosa con otra ya nombrada», con *asimismo* e *igualmente* como sinónimos. La segunda: «tanto o así». En ninguna aparece la palabra *posición*.\n\nEl [*Diccionario panhispánico de dudas*](https://www.rae.es/dpd/tambi%C3%A9n), segunda edición, precisa más: «también» indica «que lo expresado en **la palabra o secuencia a la que afecta** se suma a lo dicho con anterioridad». La Academia reconoce que el adverbio tiene un blanco en la oración; lo que no dice es cómo se identifica.\n\n## Por qué en español la posición no decide el alcance\n\nLas dos citas literarias del propio DPD lo demuestran mejor que cualquier explicación. En «Decile **también** que desde ahora cuenta con nuestra casa» (Cortázar, *Reunión*, Argentina, 1983) el adverbio va **delante** de lo que suma. En «No sé, yo **también** estoy confundido» (Nieva, *Zorra*, España, 1988) va **detrás** del sujeto *yo*, que es justamente lo que suma.\n\nEn una misma entrada, el adverbio aparece a los dos lados de su blanco: la adyacencia, que en otras lenguas resuelve el problema, en español no resuelve nada.\n\nEs lo contrario del italiano, donde *anche* va pegado delante de su blanco y por eso «anche tu mi manchi» y «anche a me manchi» no dicen lo mismo, como analizamos en [nuestro artículo sobre la respuesta italiana](/blog/i-miss-you-too-in-italian). **La trampa italiana no se traslada al español**: se cae porque *extrañar* no invierte los papeles como *mancare*.\n\n## «Yo también te extraño» y «te extraño también»: qué se puede afirmar\n\nBuscamos las dos formas en [Tatoeba](https://tatoeba.org/es/sentences/search?from=spa&to=eng&query=%22te+extra%C3%B1o+tambi%C3%A9n%22), el corpus de frases alineadas, el 27 de septiembre de 2026. Su buscador es tokenizado e insensible a los acentos, así que filtramos cada resultado por la cadena literal.\n\n«yo también te extraño» devuelve 2 frases, 1 sobrevive: *Creo que yo también te extraño* → «I guess I miss you too». «te extraño también» devuelve 4, 1 sobrevive: *¡Te extraño también!* → «I miss you too!». Las dos órdenes están atestiguadas y se traducen igual.\n\n*También te extrañamos* → «We'll miss you, too» lo pone al principio; *Yo también te voy a extrañar* → «I'm going to miss you, too», tras el sujeto. Cuatro posiciones en español, un solo «too» final en inglés, en 4 de 4 alineaciones.\n\n**El corpus no conserva ninguna diferencia entre las dos órdenes.** Si alguien le asegura que una contrasta el sujeto y la otra la acción, ni el DLE ni el DPD ni estas frases lo respaldan.\n\n## «A mí también» es la respuesta de otro verbo, no de este\n\nAquí sí hay un error que conviene evitar. Paginamos las 61 frases que Tatoeba reporta para «a mí también» e inspeccionamos las 48 que sobreviven al filtro literal.\n\nDe esas 48, la inmensa mayoría pone al hablante en **dativo**: *A mí también me gusta la música*, *A mí también me pasa*, *A mí también me ocurre*, *A mí también me da asco*. Treinta y dos llevan un clítico *me* tras el adverbio, y ninguna de las 48 usa un verbo cuyo sujeto sea el hablante.\n\nPor eso «A mí también» contesta a *me gustas* o a *me haces falta*, pero **no** a *te extraño*: ahí usted es el sujeto, no el experimentante, y no queda hueco sintáctico para *a mí*. Qué verbo pone a quién de sujeto lo vemos en [la diferencia entre «te extraño» y «te echo de menos»](/blog/diferencia-entre-te-extrano-y-te-echo-de-menos): ambas ponen al hablante de sujeto y solo *hacer falta* invierte.\n\n## La asimetría real está en «tampoco», y el DPD sí la marca\n\nSi el mensaje que recibió es negativo, la respuesta no lleva *también*. El DLE define [«tampoco»](https://dle.rae.es/tampoco) como el adverbio que sirve «para negar algo después de haberse negado otra cosa», y le da una segunda acepción que *también* no tiene: «para atenuar o refutar una aserción precedente», ilustrada con un diálogo, «—La voy a despedir. —Tampoco es eso».\n\nEs el único ejemplo que la Academia da en esta familia de palabras, y es un diálogo de dos turnos: una respuesta. El [DPD de «tampoco»](https://www.rae.es/dpd/tampoco) añade la única regla de posición que hay aquí: antepuesto al verbo es **incorrecto** seguirlo de *no* («⊗Entonces tampoco no existía…»); pospuesto, sí se usa con el verbo en negativo («Entonces no existía tampoco…»).\n\nLo comprobamos: de las 76 frases que Tatoeba reporta para «yo tampoco» paginamos las 76, 68 pasan el filtro literal y **0 de 68 contienen «tampoco no»**. La norma se cumple en el 100 % del material atestiguado. De esas 68, 54 tienen alguna traducción inglesa con *either* y 20 con *neither* o *nor*: una palabra española contra tres construcciones inglesas.\n\n## Lo que ya mostraba un corpus de español mexicano del siglo XVI\n\nLa definición que hoy da el DLE no es nueva. Idanely Mora Peralta, del Instituto de Investigaciones Filológicas de la UNAM, la rastrea en [su estudio de los marcadores aditivos del español novohispano](https://www.mundoalfal.org/sites/default/files/revista/15_1_cuaderno_010.pdf) —*Cuadernos de la ALFAL* n.º 15(1), mayo de 2023— sobre cartas y documentos jurídicos del siglo XVI en México.\n\nAhí aparece la formulación de Rufino Cuervo —«denota igualdad, semejanza, conformidad o relación de una cosa con otra ya nombrada»— que el DLE reproduce hoy casi palabra por palabra, y la de María Moliner, que habla de «una cosa nueva a la que también **afecta**»: el mismo verbo que usa el DPD.\n\nTres lexicógrafos, más de un siglo de por medio, y ninguno describe la posición. El estudio sí registra que «también», como marcador de discurso, «pone de relieve el mensaje que presenta a continuación» —alcance hacia adelante—, mientras que en «yo también» el blanco queda detrás. Leímos el artículo completo en PDF, no el resumen.\n\n## Las cinco respuestas comparadas\n\n| Respuesta | Qué añade | Entrada que la licencia | Frases que revisamos una a una |\n|---|---|---|---|\n| Yo también te extraño | Al hablante, como sujeto que extraña | DPD *también* 1 («yo también estoy confundido») | 1 estricta de 2 |\n| Te extraño también | Lo mismo, sin marca de contraste | DLE *también* 1 | 1 estricta de 4 |\n| Yo también | Elipsis del sujeto | DPD *también* 1 | 60 revisadas de 267 reportadas |\n| A mí también | Al hablante como **experimentante** | Verbos tipo *gustar*; 32 de 48 con clítico *me* | 48 estrictas de 61 |\n| Yo tampoco | Al hablante bajo negación previa | DPD *tampoco* 1 | 68 estrictas de 76, 0 con «tampoco no» |\n\nLa última columna es nuestra: conteos hechos frase por frase el 27 de septiembre de 2026. Un aviso de método: «yo también te echo de menos» devolvió 0 resultados, pero «te echo de menos también» devolvió 1 (*¡Te echo de menos también!* → «I miss you too!»). El cero era de nuestra consulta, no del corpus.\n\n## Un error comprobable en el único resultado no musical de esta búsqueda\n\nEl 27 de septiembre de 2026 medimos esta consulta en Google con `gl=mx&hl=es-419&pws=0`. De los 8 resultados orgánicos que vimos, 5 son canciones —tres de YouTube, dos de Spotify—, 2 son redes sociales y **solo 1 es una página de diccionario**: el traductor de inglés.com. Encima de todos, un bloque de respuesta generada por Google.\n\nEsa página trae un diálogo de ejemplo donde «cariño» se traduce «sweetie» en el primer turno y «bae» en el segundo, en las mismas dos líneas. Y entre sus diez ejemplos, *Sí, yo también te extraño mucho* sale como «Yes, I miss you very much»: el «too» desaparece de una página cuyo tema entero es «too».\n\nLa propia página avisa que sus ejemplos «aún no se han verificado»: honesto de su parte, y también el estado del material que hoy encabeza esta búsqueda. Sobre el paso al inglés está [nuestro artículo sobre cómo se dice «te extraño» en inglés](/blog/te-extrano-en-ingles-como-se-dice).\n\n## Lo que miden nuestros datos, lo que no, y dónde no le servimos\n\nNuestra base registra 5.199 páginas personalizadas creadas desde el 12 de marzo de 2026 en 21 tipos de página: el más usado es el tablero de disculpas, con 1.396 y el 26,9 %, y el tercero la página de «te quiero», con 1.182 y el 22,7 %.\n\nTres advertencias viajan con ellas. **Nada de esto está segmentado por idioma ni por país**: ningún número de aquí es mexicano, ni español, ni argentino. La base registra **qué plantilla se abrió, nunca quién la recibió**. Y las vistas son vistas de página, no visitantes distintos.\n\nLa mediana entre el primer guardado y la última edición es de 2,5 horas en el tablero de disculpas (n = 1.396) y de 2,6 horas en las páginas de «te extraño» (n = 214): una décima de hora de diferencia, así que no vemos que extrañar se edite más despacio que disculparse.\n\nY la advertencia que más importa: **[la página de «te extraño»](/missyou-gf) está en inglés**, con etiquetas y textos en inglés, y está pensada para una pareja, no para cualquier destinatario. Si usted está **contestando** un mensaje, además, es otra tarea: esa plantilla arma una página, y armar una página no es responder. Para eso se acerca más [Streak](/streak), que es recíproca —dos personas, un toque al día— y por tanto sí tiene forma de ida y vuelta. Si ninguna le cuadra, [el catálogo de plantillas](/templates) tiene el resto; no podemos confirmarle aquí ninguna condición comercial. El 48,4 % de nuestras vistas ocurre en un aparato táctil: lo que envíe se abrirá casi seguro en un teléfono.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/yo-tambien-te-extrano#post",
+        "inLanguage": "es",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Spanish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Adverb",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Adverb",
+              "https://www.wikidata.org/wiki/Q380057"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Royal Spanish Academy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+              "https://www.wikidata.org/wiki/Q11993457"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Mexican Spanish",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mexican_Spanish",
+              "https://www.wikidata.org/wiki/Q616620"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª ed.",
+            "url": "https://dle.rae.es/tambi%C3%A9n"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario panhispánico de dudas, 2.ª ed.",
+            "url": "https://www.rae.es/dpd/tambi%C3%A9n"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª ed.",
+            "url": "https://dle.rae.es/tampoco"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario panhispánico de dudas, 2.ª ed.",
+            "url": "https://www.rae.es/dpd/tampoco"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cuadernos de la ALFAL 15(1), 2023 — Asociación de Lingüística y Filología de América Latina (CC BY-NC-ND)",
+            "url": "https://www.mundoalfal.org/sites/default/files/revista/15_1_cuaderno_010.pdf",
+            "datePublished": "2023-05-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — corpus de frases alineadas español-inglés",
+            "url": "https://tatoeba.org/es/sentences/search?from=spa&to=eng&query=%22te+extra%C3%B1o+tambi%C3%A9n%22"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/yo-tambien-te-extrano#respuestas",
+        "name": "Las cinco respuestas comparadas",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Yo también te extraño"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Te extraño también"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Yo también"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "A mí también"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Yo tampoco"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "yo también te extraño",
+    "angle": "Wins by being the only page on the measured mx-es SERP that tests the Italian scope rule against Spanish and reports a clean negative — the DPD grants «también» a target («la palabra o secuencia a la que afecta») but its own two citations put the particle on both sides of that target, so adjacency cannot disambiguate as it does for Italian anche — and then locates the real asymmetry in «tampoco», whose DPD entry carries the only position-dependent rule the Academy states anywhere in this family, confirmed at 0 of 68 attested Tatoeba sentences, against a SERP where 5 of 8 organic results are songs and not one cites the RAE.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "3,843 registered creators — measured 2026-09-24",
+      "Average pages per registered creator: 1.35 — measured 2026-09-24",
+      "#1 page type: apology dashboard (/apology-dashboard) — 1,396 created, 26.9% of all pages — measured 2026-09-24",
+      "#3 page type: \"I love you\" page (/love-gf) — 1,182 created, 22.7% of all pages — measured 2026-09-24",
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://dle.rae.es/tambi%C3%A9n",
+        "stat": "Diccionario de la lengua española (RAE-ASALE), entry TAMBIÉN, headword confirmed on the page as «también», etymology «De tan3 y bien». Read in the real browser 2026-09-27 (dle.rae.es 403s a scripted fetch). The whole entry: «1. adv. U. para indicar la igualdad, semejanza, conformidad o relación de una cosa con otra ya nombrada. Sin.: asimismo, igualmente. 2. adv. Tanto o así.» LOAD-BEARING FINDING: the entry carries NO usage example and says nothing whatever about the adverb's position in the sentence — which is the exact opposite of Treccani's entry for Italian «anche», whose own two examples form the subject/complement minimal pair. This is the clean negative the post reports.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª ed."
+      },
+      {
+        "url": "https://www.rae.es/dpd/tambi%C3%A9n",
+        "stat": "Diccionario panhispánico de dudas, 2.ª edición, entry TAMBIÉN, headword confirmed, read in the real browser 2026-09-27. Sense 1: «Adverbio que se usa para indicar que lo expresado en la palabra o secuencia a la que afecta se suma a lo dicho con anterioridad», with two citations — «Decile también que desde ahora cuenta con nuestra casa» (Cortázar, Reunión, ar 1983) and «No sé, yo también estoy confundido» (Nieva, Zorra, es 1988). THE POST'S CENTRAL ARGUMENT RESTS ON THOSE TWO CITATIONS: in the first, también PRECEDES the constituent it adds; in the second it FOLLOWS the subject pronoun yo. The Academy therefore grants también a target («la palabra o secuencia a la que afecta») but its own examples put the particle on both sides of that target, so adjacency cannot disambiguate in Spanish as De Cesare showed it does for Italian anche. Sense 2 separates también from the sequence tan bien (comparative/consecutive).",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario panhispánico de dudas, 2.ª ed."
+      },
+      {
+        "url": "https://dle.rae.es/tampoco",
+        "stat": "Diccionario de la lengua española (RAE-ASALE), entry TAMPOCO, headword confirmed, etymology «De tan3 y poco». Read in the real browser 2026-09-27. Two senses: «1. adv. U. para negar algo después de haberse negado otra cosa. 2. adv. U. para atenuar o refutar una aserción precedente. —La voy a despedir. —Tampoco es eso.» THE ASYMMETRY THE POST REPORTS: también is defined by a relation of equality to something already named, with no polarity condition and no example; tampoco is defined by a POLARITY PRECONDITION (a prior negation) and carries a second sense también does not have — and the only illustrative example the RAE gives anywhere in this pair is that two-turn dialogue, i.e. a reply.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario de la lengua española, 23.ª ed."
+      },
+      {
+        "url": "https://www.rae.es/dpd/tampoco",
+        "stat": "Diccionario panhispánico de dudas, 2.ª edición, entry TAMPOCO, headword confirmed, read in the real browser 2026-09-27. Sense 1 gives the ONLY position-dependent rule the Academy states anywhere in this family of words: «Cuando va antepuesto al verbo, es incorrecto su uso seguido del adverbio no», marked with the Academy's own ⊗ on «Entonces tampoco no existía ninguna solicitud de mediación» (Semana, co, 21-28.1.1997), «debió decirse tampoco existía…»; «Sin embargo, sí se emplea con el verbo en forma negativa cuando va pospuesto al verbo: Entonces no existía tampoco ninguna solicitud». Its two citations are «No queremos la venganza, pero tampoco el olvido» (Aguirre, Retablo, cl 1987) and «Si es por eso, tampoco yo le guardo rencor» (Cabal, Vade, es 1982). Sense 2 separates tampoco from tan poco. The post confirms the prohibition empirically at 0 of 68 attested Tatoeba sentences.",
+        "publisher": "Real Academia Española y Asociación de Academias de la Lengua Española — Diccionario panhispánico de dudas, 2.ª ed."
+      },
+      {
+        "url": "https://www.mundoalfal.org/sites/default/files/revista/15_1_cuaderno_010.pdf",
+        "stat": "Mora Peralta, Idanely, «Los marcadores discursivos aditivos del español novohispano. El caso de demás/además, asimismo, también, ítem, otrosí». JOURNAL NAMED FOR THE CAP: Cuadernos de la ALFAL n.º 15(1), mayo 2023, pp. 162-180, ISSN 2218-0761, doi 10.5935/2218-0761.20230010; author at the Instituto de Investigaciones Filológicas, UNAM. Open access confirmed with Unpaywall before citing: is_oa true, oa_status gold, licence cc-by-nc-nd. FULL TEXT READ, not the abstract — the 286,885-byte PDF was downloaded from mundoalfal.org (the DOI resolves straight to it) and parsed with pdftotext -layout at /usr/local/bin/pdftotext, yielding 63,544 characters. Corpus: 16th-century New Spain legal-administrative documents — cartas de defensa, peticiones, testamentos, testimonios and solicitudes from Arias Álvarez 2014, Documentos públicos y privados del siglo XVI, with supporting examples from CORDE. WHAT THE POST TAKES FROM IT: §3.4 quotes Rufino Cuervo (1998: 655) on también — «denota igualdad, semejanza, conformidad o relación de una cosa con otra ya nombrada», which the 2026 DLE entry reproduces almost word for word — and Moliner (2000: 1327), «una cosa nueva a la que también afecta», the same verb the DPD uses; and the section's own conclusion that también as a discourse marker «pone de relieve el mensaje que presenta a continuación», i.e. forward scope, against the backward target in «yo también». LIMITATION RECORDED: the corpus is 16th-century administrative prose, not affective messaging, and the paper never discusses extrañar or replies — the inference to «yo también te extraño» is the post's own.",
+        "publishedDate": "2023-05-01",
+        "publisher": "Cuadernos de la ALFAL 15(1), 2023 — Asociación de Lingüística y Filología de América Latina (CC BY-NC-ND)"
+      },
+      {
+        "url": "https://tatoeba.org/es/sentences/search?from=spa&to=eng&query=%22te+extra%C3%B1o+tambi%C3%A9n%22",
+        "stat": "Tatoeba Spanish-English aligned corpus, measured 2026-09-27 through api_v0/search (from=spa, to=eng), every page paginated and every hit inspected individually, then filtered on the literal Spanish string because the search is tokenised and diacritic-insensitive. THIRTEEN QUERIES, 219 SENTENCES PAGINATED, 181 SURVIVING THE LITERAL FILTER. «yo también te extraño» 2 reported / 2 paginated / 1 strict (1737188 «Creo que yo también te extraño» -> «I guess I miss you too»); «te extraño también» 4/4/1 (1126193 «¡Te extraño también!» -> «I miss you too!»); «también te extraño» 4/4/1; «te echo de menos también» 1/1/1 (1126192 -> «I miss you too!»); «yo también» 267 reported / 60 paginated / 60 strict; «a mí también» 61/61/48; «yo tampoco» 76/76/68; «tú a mí también» 1/1/1; «tampoco yo» 76 reported / 10 paginated / 0 strict. FOUR ZEROS: «yo también te echo de menos», «yo tampoco te extraño», «tampoco te extraño», «tampoco te echo de menos». THE ZERO BELONGED TO THE QUERY, NOT THE CORPUS: «yo también te echo de menos» returns 0 while «te echo de menos también» returns 1, so varying the phrasing rescued the form. TWO RESULTS THE POST RESTS ON: (a) the four attested sentences that put también in four different positions (initial in 3238100 «También te extrañamos», post-subject in 1841795 «Yo también te voy a extrañar», post-subject in 1737188, post-verbal in 1126193) all render with one clause-final English «too», 4 of 4 — no placement contrast survives translation; (b) of the 48 strict «a mí también» sentences, 32 carry a clitic me after the adverb and the overwhelming majority are gustar-class dative-experiencer verbs (gustar, encantar, agradar, disgustar, dar asco, pasar, ocurrir, inspirar), while NOT ONE has the speaker as the nominative subject of a transitive verb — which is why «a mí también» answers «me haces falta» and not «te extraño». Also measured: 0 of 68 «yo tampoco» sentences contain «tampoco no», and 0 of 60 «yo también» sentences contain «también no»; of the 68, 54 have an English translation using «either» and 20 one using «neither» or «nor»."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug is `yo-tambien-te-extrano`, which carries the exact target keyword but therefore also carries the pronouns `yo` and `te` — both function words that a Spanish stop-list treats as stop words. Dropping them would destroy the keyword and the orchestrator assigned this native slug deliberately (WAVE3-PLAN, slug corrected 2026-09-27 from an English one). It is also ASCII-folded: `tambien` for `también`, `extrano` for `extraño`. Would close only if the item were read as 'no stop words beyond those inside the target keyword'."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table's last column is our own sentence-by-sentence Tatoeba count, not SubhSandesh platform data. There is no first-party figure that varies across the five reply forms, because the database records which TEMPLATE was opened and never the wording of any message — so no column of platform data can be built for this table. Would close only if the product captured reply text, which it deliberately does not."
+        },
+        {
+          "item": "H2s map to the fan-out sub-queries identified in Phase 2",
+          "why": "Partially. Eight of the nine H2s map to fan-out sub-queries found in Phase 2 (where does también go; yo también vs te extraño también; a mí también; tampoco; how to reply; what Google returns). The ninth — the 16th-century Cuadernos de la ALFAL section — answers no sub-query anyone searches; it is there because it is the only peer-reviewed open-access source on Spanish additive markers that the caps left available, and it supplies the historical provenance of the DLE's own wording. Would close by cutting it, at the cost of the post's only scholarly citation."
+        }
+      ],
+      "additionalChecks": [
+        "SERP measured three ways and reported in the post. (1) scripts/serp-ddg.mjs \"yo también te extraño\" --region mx-es parsed cleanly and was run TWICE with byte-identical top-10: 9 music/lyrics results (YouTube ×2, YouTube Music ×2, letras.com, musica.com, musixmatch, cancioneros/letrasboom, Spotify playlist) and 1 SpanishDict translation page. (2) Google in the real browser, gl=mx&hl=es-419&pws=0: 8 organic results self-authenticated as Spanish and as this query — youtube.com ×3 (songs), open.spotify.com ×2 (songs), ingles.com (translator), tiktok.com, facebook.com — plus an «El Modo IA respondió» block above them. (3) The reply-intent long-tail on the same Google route returned Quora, reddit.com ×2, facebook.com ×2, tiktok.com, context.reverso.net and an English blog served through Google's own translation (hreftranslate=\"es\"). Weak count: 8 of 8 on both Google runs, 10 of 10 on DDG. Zero pages cite the RAE on any of the three.",
+        "GATE 2 / GATE 4, stated honestly. Gate 4 passes outright: there is no strong editorial page in Spanish anywhere on this SERP. Gate 2 is only PARTLY satisfied and the post says so — the bare phrase is an entertainment SERP owned by songs, so the realistic target is the informational tail (the «¿se dice X o Y?» reply question), where the incumbents are forums, social posts and translation scrapers. Proceeding rather than aborting is a judgement call; the abort case would be the WAVE3 ph-en lyrics precedent, and the difference is that this SERP has a real non-lyrics tail with named weak incumbents.",
+        "Checkable error found on a ranking result, verifiable by anyone loading it: ingles.com/traductor/yo también te extraño (rank 6 on the measured Google mx-es SERP; the same publisher's spanishdict.com page ranked 5 on DDG). Its two-line dialogue example renders «cariño» as «sweetie» in the first turn and «bae» in the second; and one of its ten listed examples, «Sí, yo también te extraño mucho», is translated «Yes, I miss you very much» — the «too» is dropped entirely on a page whose subject is «too». The page's own disclaimer reads «Estos ejemplos aún no se han verificado». Not linked, per the zero-competitor-links rule.",
+        "Slug freshness verified against production Strapi via ctx_execute (curl and WebFetch are blocked by the project CLAUDE.md): https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=yo-tambien-te-extrano returned total 0. Cross-link targets checked the same way: diferencia-entre-te-extrano-y-te-echo-de-menos, te-extrano-en-ingles-como-se-dice, te-echo-de-menos-significado and como-decir-te-extrano-sin-decirlo are LIVE (total 1 each); i-miss-you-too-in-italian is NOT yet live (total 0), so that one cross-link 404s until this batch publishes.",
+        "Wikidata QIDs verified twice: resolved from the Wikipedia API (action=query&prop=pageprops) and then read back from wbgetentities to confirm the label. Q1321 = Spanish, Q380057 = adverb, Q11993457 = Royal Spanish Academy / Real Academia Española, Q616620 = Mexican Spanish. No QID was taken from memory or from a brief.",
+        "SOURCE CAPS, checked by hand and not only with capcheck.mjs. Journal named for the cap: Cuadernos de la ALFAL — 0 prior posts in either batch. Host mundoalfal.org — 0 prior posts. Frontiers in Psychology, PLoS ONE, PNAS, Scientific Reports, BMC Psychology and Behavioral Sciences were all avoided deliberately; the first two psychology searches returned nothing but Frontiers and PLoS ONE papers, which is why the scholarly source here is a linguistics journal instead. dle.rae.es/también, dle.rae.es/tampoco, rae.es/dpd/también and rae.es/dpd/tampoco are each at 0 prior posts. dle.rae.es/falta, dle.rae.es/extrañar and doi.org were deliberately NOT cited — all three are already at cap across the Spanish siblings. Full text was read for the one scholarly source; no citation here is abstract-only.",
+        "Differentiation of first-party facts is thin by construction and this is the honest statement of it. Six Spanish siblings and 99 posts across the two batches have spent the miss-you block: the most-used line appears in 68 posts. This post therefore takes mostly platform-wide lines, three of which had never been used in any of the 99 posts on disk (#1 page type / apology dashboard, #3 page type / love-gf, and — used here — 5,199 pages across 21 page types). The 2.5 h / 2.6 h edit-gap pairing is shared with the Italian sibling; everything else in this post's fact set is unshared with the six Spanish siblings.",
+        "ItemList note: the body has no H3s, so the ItemList mirrors the five rows of the comparison table in the same order rather than a heading sequence.",
+        "Price guard: no price, tier, or any of gratis / gratuito / sin costo / no cuesta nada appears in the body, the FAQs or the metadata; the post says plainly that no commercial condition can be confirmed here."
+      ],
+      "honestAssessment": "An answer engine would cite this for three things nothing else on the measured SERP has: the DPD's own two citations of «también» sitting on opposite sides of their target, which is the reason the Italian adjacency rule does not transfer and is a clean negative rather than a manufactured contrast; the 48-sentence Tatoeba result that «a mí también» belongs to gustar-class verbs and therefore answers «me haces falta» and not «te extraño»; and the DPD's «tampoco no» prohibition confirmed at 0 of 68 attested sentences. What it cannot overcome is the SERP itself: Google in Mexico reads this phrase as a Sebastián Yatra song, 5 of 8 organic results are music and the only dictionary-shaped page is a translation scraper, so the realistic ceiling here is the reply-intent long-tail rather than the head phrase — and this domain has 905 live posts with no published track record in Spanish. The post also partly argues against its own product: the mandatory template is English, built for a partner, and builds a page when the reader wants to answer a message."
+    },
+    "generatedAt": "2026-09-27T07:05:23.313Z"
+  }
+}

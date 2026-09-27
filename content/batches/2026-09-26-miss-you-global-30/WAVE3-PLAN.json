@@ -1,0 +1,451 @@
+{
+  "batchId": "2026-09-26-miss-you-global-30",
+  "wave": 3,
+  "created": "2026-09-27",
+  "source": "content/keywords/2026-09-25-miss-you-global/autocomplete-merged.csv (the run's own 7,678-row harvest), NOT keyword-inventory.csv",
+  "whyTheHarvestNotTheInventory": "The 150-row inventory is EXHAUSTED for winnable rows. Measured 2026-09-27 against 529 posts on disk and 905 live: only 48 rows remain unwritten and non-gated, of which 9 fail Gate 2 (image gallery / tool page / product landing - a blog cannot rank in those SERPs), 35 are D-listicle (the shape that ABORTED in Brazil at 1-weak-in-8 and measured ten national magazines on de-de, and which was dropped wholesale from wave 1 on that evidence), and only 4 are A/B tier - two of which were already excluded deliberately as redundant with written siblings. So roughly 2 genuinely new winnable rows remained. Rather than write 30 posts the batch's own measurements say will not rank, wave 3 goes back to the source that FED the inventory: the run's 7,678-row cross-market autocomplete harvest, of which only 150 were ever shortlisted. After artefact filtering and deduping against every written post, 221 clean A/B-shaped candidates remained.",
+  "lanes": {
+    "A-reply": "'I miss you TOO' - answering the message rather than sending it. A different intent, a different reader state and a different SERP. Evidence this works: the two written Turkish reply rows both measured forum/Q&A-held SERPs and passed Gate 4 comfortably, with 8-of-9 and 10-of-11 weak.",
+    "B-intensifier": "'I miss you SO MUCH' - where the intensifier goes is a real grammar question with a dictionary answer. The Italian sibling already proved it for Italian (the intensifier sits BETWEEN verb and object, and Treccani writes it that way).",
+    "C-explainer": "meaning / contrast / anticipatory rows that survived deduping against 529 written posts."
+  },
+  "honestGradient": "This wave is thinner ground than waves 1 and 2 and that should be said plainly. 529 posts now exist on this axis. Several lane-C rows are deliberately marked ABORT-LIKELY because a written sibling may already own them, and every such row is instructed to abort rather than ship a twin. If a meaningful number abort, that is the correct outcome and the honest signal that this keyword axis is worked out - not a failure of the agents.",
+  "trapsFoundWhileSelecting": [
+    "The ph-en harvest (262 candidates) is almost entirely SONG queries - 'Miss Kita Pag Tuesday' (J Brothers), 'Miss Kita' (Frank Ely): lyrics, chords, karaoke numbers. Lyrics SERPs are a Gate 2 page-type mismatch AND carry copyright exposure. Excluded.",
+    "'Miss You Already' is a 2015 film (Drew Barrymore / Toni Collette) - 'miss you already movie/ending/cast' dominate. Excluded.",
+    "Autocomplete artefacts of the form 'why i miss you more' / 'who you miss meaning in telugu' are template expansions, not human queries. Filtered out by pattern."
+  ],
+  "rows": [
+    {
+      "slug": "yo-tambien-te-extrano",
+      "keyword": "yo también te extraño",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "mx-es",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "DLE: 'también' is an adverb; the real question is PLACEMENT - 'yo también te extraño' vs 'te extraño también' are not equivalent (one contrasts the subject, one the action). Verify against DLE/DPD. Five Spanish siblings on disk own the base translation and the comparison; yours is the REPLY. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-spanish': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "tu-me-manques-aussi",
+      "keyword": "tu me manques aussi in english",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "The reply inherits the inversion: in 'tu me manques aussi', 'aussi' attaches to the SUBJECT (tu), which is the person being missed - so the French reply is structurally unlike the English one. Three French siblings on disk established manquer a quelqu'un, COI not dative, Larousse id 49234. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-french': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "eu-tambem-sinto-sua-falta",
+      "keyword": "eu também sinto sua falta",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Sibling sinto-sua-falta-em-ingles found the feeling sits in the VERB here (97.1% of 210 pairs render with 'miss'), unlike the noun saudade. Yours is the reply: 'eu também' vs 'também sinto' placement, and whether 'tambem' can attach to 'falta'. Priberam needs /pt-br/ explicitly. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-portuguese': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "i-miss-you-too-in-italian",
+      "keyword": "anche tu mi manchi significato",
+      "lang": "it",
+      "bodyLanguage": "Italian",
+      "region": "it-it",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "CRITICAL and checkable: 'anche tu mi manchi' vs 'anche a me manchi' differ because 'anche' scopes over whatever it precedes, and mi manchi already inverts subject/object - so the naive reply can say the wrong thing. Treccani; use complemento di termine, NOT 'dative'. lessicografia.it/Controller?lemma=X reaches the Crusca."
+    },
+    {
+      "slug": "ich-vermisse-dich-auch",
+      "keyword": "ich vermisse dich auch antwort",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "'Ich vermisse dich auch' vs 'Du fehlst mir auch' - the two German constructions give two different replies, and the sibling wie-sage-ich-ihm established vermissen takes the ACCUSATIVE while fehlen takes the DATIVE and inverts the roles (du is nominative subject). Duden. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-german': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "ya-tozhe-skuchayu-po-tebe",
+      "keyword": "я тоже скучаю по тебе in english",
+      "lang": "ru",
+      "bodyLanguage": "Russian",
+      "region": "ru-ru",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "тоже vs также is a real usage distinction with a Gramota ruling; get it right. Sibling owns the по/за case dispute (по+dative normative, за+instrumental non-normative) and the point that ты has one form тебе for both cases. NKRJa is browser-only (SmartCaptcha). SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-russian': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "ja-tez-za-toba-tesknie",
+      "keyword": "ja też za tobą tęsknię in english",
+      "lang": "pl",
+      "bodyLanguage": "Polish",
+      "region": "pl-pl",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "'ja też' vs 'też za tobą' placement. Sibling established za+instrumental via Poradnia PWN 1561, that za/do is SEMANTIC not regional, and real NKJP counts. PWN is 403 everywhere - use Wayback. NKJP only via PELCRA NKJPSpanSearch with its own form defaults. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-polish': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "i-miss-you-too-in-indonesian",
+      "keyword": "kangen kamu juga bahasa inggris",
+      "lang": "id",
+      "bodyLanguage": "Indonesian",
+      "region": "id-id",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Highest cross-prefix demand in the whole reply lane (h=5). 'juga' placement, and whether the kangen/rindu register split survives into a reply. Three Indonesian siblings on disk: KBBI marks kangen 'cak', rindu unlabelled; official KBBI refuses both routes - use kbbi.web.id / kbbi.co.id."
+    },
+    {
+      "slug": "ik-mis-jou-ook",
+      "keyword": "ik mis jou ook in het engels",
+      "lang": "nl",
+      "bodyLanguage": "Dutch",
+      "region": "nl-nl",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "'ik mis jou ook' - note jou (emphatic) not je, which is exactly what a reply needs, and ANS 5.2.7 makes jou obligatory in contrast. Two Dutch siblings on disk. VAN DALE IS UNUSABLE (200 serving a webshop page); ANS works. SLUG CORRECTED 2026-09-27 from 'i-miss-you-too-in-dutch': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "miss-you-ka-reply-kya-de",
+      "keyword": "miss you ka reply kya de",
+      "lang": "hi",
+      "bodyLanguage": "English (Hinglish reader)",
+      "region": "in-en",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "HOME MARKET. A Hinglish query from an Indian reader - write in ENGLISH, which is what this reader reads, and quote Hindi/Hinglish replies as material. 81+ live miss-you pages cover Indian languages - check content/keywords/2026-09-25-miss-you-global/site-baseline.md before drafting and state the split."
+    },
+    {
+      "slug": "how-to-reply-to-i-miss-you-from-a-friend",
+      "keyword": "miss you reply to friend",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-reply",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH. The written sibling what-to-reply-when-someone-says-i-miss-you is LIVE and owns the general case; yours is specifically a FRIEND, where the romantic replies are wrong. If the live post already handles the friend case, ABORT."
+    },
+    {
+      "slug": "tu-me-manques-beaucoup",
+      "keyword": "tu me manques beaucoup in english",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "beaucoup / tellement / enormement / trop - which are attested and where do they sit? Larousse marks register. Three French siblings on disk; this is the intensifier, not the base translation. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-french': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "i-miss-you-so-much-in-italian",
+      "keyword": "mi manchi un sacco in english",
+      "lang": "it",
+      "bodyLanguage": "Italian",
+      "region": "it-it",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "The Italian sibling ALREADY FOUND the key fact: Italian puts the intensifier BETWEEN verb and object ('Sento tanto la tua mancanza'), and Treccani writes it that way. Extend that to mi manchi: tanto / molto / un sacco / un casino, with register marks from Treccani. Do not restate the sibling."
+    },
+    {
+      "slug": "ya-ochen-skuchayu-po-tebe",
+      "keyword": "я очень скучаю по тебе in english",
+      "lang": "ru",
+      "bodyLanguage": "Russian",
+      "region": "ru-ru",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "очень / так / безумно / сильно, and whether English has one form for all. Sibling measured 93.7% simple present across 284 translations and that Russian marks the speaker's GENDER in the past - the intensifier row should not redo that. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-russian': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "sangat-kangen-kamu",
+      "keyword": "sangat kangen kamu in english",
+      "lang": "id",
+      "bodyLanguage": "Indonesian",
+      "region": "id-id",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "sangat / banget / sekali placement - 'sangat kangen' vs 'kangen banget' is a register split (banget is colloquial). Verify in KBBI, which marks cak. Three Indonesian siblings on disk. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-indonesian': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "tak-bardzo-za-toba-tesknie",
+      "keyword": "tak bardzo za tobą tęsknię in english",
+      "lang": "pl",
+      "bodyLanguage": "Polish",
+      "region": "pl-pl",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "bardzo / tak bardzo / strasznie, and placement relative to za+instrumental. The sibling has real NKJP counts and the PELCRA route; get your own for the intensifier forms. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-polish': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "ik-mis-je-heel-erg",
+      "keyword": "ik mis je heel erg in english",
+      "lang": "nl",
+      "bodyLanguage": "Dutch",
+      "region": "nl-nl",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "heel erg / zo / ontzettend, and where they sit relative to the object. ANS is the authority and works; Van Dale does not. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-dutch': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "seni-cok-ozledim-ne-demek",
+      "keyword": "seni çok özledim ne demek",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "çok placement, and whether it changes the tense reading - the Turkish siblings established ozledim is morphologically PAST (-di) while ozluyorum is present, with counts running ozluyorum 259 vs ozledim 124. TDK sozluk.gov.tr/gts; seni/sizi return 'Sonuc bulunamadi' as TDK does not headword inflections. SLUG CORRECTED 2026-09-27 from 'i-miss-you-so-much-in-turkish': an English slug on a non-English post fails the keyword-in-slug and no-stop-words checklist items AND is worse for ranking - the slug should carry the native keyword. Caught by the i-miss-you-too-in-italian agent."
+    },
+    {
+      "slug": "miss-you-a-lot-meaning-in-hindi",
+      "keyword": "i miss you a lot meaning in hindi",
+      "lang": "hi",
+      "bodyLanguage": "English (Hinglish reader)",
+      "region": "in-en",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "HOME MARKET, write in ENGLISH. Check site-baseline.md: 81+ live miss-you pages include Hindi. State the split or ABORT if a live page owns it."
+    },
+    {
+      "slug": "miss-you-very-badly-meaning",
+      "keyword": "miss you very badly meaning",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "B-intensifier",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH. 'badly' as an intensifier of miss is idiomatic but odd - 'I miss you badly' is standard while 'I miss you very badly' is marked. Check a named English dictionary (OED/Merriam-Webster/Cambridge) and a corpus before ruling on it."
+    },
+    {
+      "slug": "tu-me-manques-deja-meaning",
+      "keyword": "tu me manques déjà in english",
+      "lang": "fr",
+      "bodyLanguage": "French",
+      "region": "fr-fr",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ANTICIPATORY - said at or before parting. Pairs with the Dutch sibling ik-mis-je-nu-al-betekenis, which settled that 'nu al' is COMPOSITIONAL not idiomatic via ANS 21.4.9.4.1, and that the feeling is present while only its cause is future. Test whether French 'deja' works the same. A French sibling found 'tu me manques deja' returns ZERO in Tatoeba - verify."
+    },
+    {
+      "slug": "what-does-miss-kita-mean",
+      "keyword": "what does miss kita mean",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page for a non-Tagalog reader. Four Philippine siblings are WRITTEN (miss-kita-in-bisaya/ilocano/waray/bicol, miss-na-miss-kita-meaning, no-tagalog-word-for-miss). READ THEM. The established finding: 'miss' is an English loanword in every Philippine language. WARNING: the ph-en harvest is dominated by SONG queries (Miss Kita Pag Tuesday by J Brothers, Miss Kita by Frank Ely) - if your SERP is lyrics and chords, that is a Gate 2 page-type mismatch and you should ABORT."
+    },
+    {
+      "slug": "sinto-sua-falta-significado",
+      "keyword": "sinto sua falta significado",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "MEANING lane. Four Portuguese siblings on disk own grammar (VOLP: saudade s.f. and saudades s.f.pl. are two registered headwords), meaning (Real Academia Galega registers saudade as Galician with two synonyms, killing the untranslatability claim), noun translation, and the verb phrase. Yours is what 'sinto sua falta' MEANS. State the split or ABORT."
+    },
+    {
+      "slug": "te-extrano-que-significa",
+      "keyword": "te extraño que significa",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "es-es",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "MEANING lane, es-es. Six Spanish siblings on disk. te-echo-de-menos-significado owns the other phrase's meaning (DLE gives the locution TWO numbered senses). The RAE marks NEITHER verb regionally. State the split precisely or ABORT."
+    },
+    {
+      "slug": "mi-manchi-what-does-it-mean",
+      "keyword": "mi manchi what does it mean",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page for an English speaker who received the Italian. Three Italian siblings on disk are written FOR Italians; this one is for the recipient. Treccani sense 1.c: mi is a complemento di termine. The Crusca's ten senses of mancare contain NO affective sense."
+    },
+    {
+      "slug": "ich-vermisse-dich-vs-du-fehlst-mir",
+      "keyword": "ich vermisse dich vs du fehlst mir",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "HIGH DUPLICATE RISK. The sibling wie-sage-ich-ihm already establishes this contrast (vermissen ACCUSATIVE, fehlen DATIVE with roles inverted, fehlen has an ordinary nominative subject) and the live i-miss-you-in-german has DWDS corpus counts (453 vs 232 over 75.5M tokens). READ BOTH. ABORT unless a dedicated comparison page is genuinely what the SERP wants."
+    },
+    {
+      "slug": "difference-between-bogoshipda-and-geuripda",
+      "keyword": "difference between 보고싶다 and 그립다",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH. The written sibling bogoshipda-meaning-in-english established from 표준국어대사전 that 그립다 is DEFINED USING 보고 싶다 ('보고 싶거나 만나고 싶은 마음이 간절하다'), that 싶다 is a 보조 형용사 (auxiliary ADJECTIVE), and that 그립다 takes a subject marker while 보고 싶다 takes an object marker. That is your spine - extend it, do not restate. ABORT if the sibling already answers it."
+    },
+    {
+      "slug": "aitai-tte-iwareta-toki-no-kaeshikata",
+      "keyword": "会いたいって言われた時の返し方",
+      "lang": "ja",
+      "bodyLanguage": "Japanese",
+      "region": "jp-ja",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "BODY IN JAPANESE. The inventory romanised the keyword; the real query is in Japanese - verify the natural form before fixing batchMeta.keyword. REPLY intent. The written sibling aitai-meaning-in-english is an ENGLISH page about what 会いたい means; yours is a Japanese page about how to answer it. It established JMdict glosses 恋しい as 'missed', so the gap is syntactic not lexical, and that Tatoeba search is tokenised (942 of 1,000 raw hits contained no 会いたい)."
+    },
+    {
+      "slug": "seni-ozledim-ne-demek",
+      "keyword": "seni özledim ne demek",
+      "lang": "tr",
+      "bodyLanguage": "Turkish",
+      "region": "tr-tr",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "MEANING lane in Turkish. THREE Turkish siblings on disk (replies, English translation, from-German, plus the gendered reply). They own morphology (-m = 1sg, [-i] accusative, seni = accusative of sen) and the bende/'köle' trap. A bare 'ne demek' page risks being a twin of the English-translation row - READ IT and ABORT unless the SERP wants something different."
+    },
+    {
+      "slug": "te-extrano-en-silencio-significado",
+      "keyword": "te extraño en silencio significado",
+      "lang": "es",
+      "bodyLanguage": "Spanish",
+      "region": "mx-es",
+      "tier": "C-explainer",
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "WARNING: the inventory notes this is partly a Grupo Firme SONG query. MEASURE FIRST. If the SERP is lyrics and music sites, that is a Gate 2 page-type mismatch and you should ABORT rather than write a language page into a music SERP. If it is genuinely a meaning query, the phrase 'en silencio' is the interesting part."
+    }
+  ],
+  "knownIssues": [
+    "ORCHESTRATOR ERROR - I gave the reply and intensifier lanes ENGLISH slugs (i-miss-you-too-in-X, i-miss-you-so-much-in-X) on posts whose keyword and body are in another language. That fails two checklist items and is bad SEO: the slug should carry the native keyword. Corrected for all 13 unlaunched rows. TWO ARE ALREADY WRITTEN AND KEEP THE BAD SLUG: i-miss-you-too-in-indonesian (keyword 'kangen kamu juga bahasa inggris') and i-miss-you-too-in-italian (keyword 'anche tu mi manchi significato'); both correctly recorded it as a failed item. Renaming them at quiescence means renaming the file, article.slug, and any sibling cross-links - worth doing before publish, since neither is live yet.",
+    "*** CITATION ERROR IN A SHIPPED POST - FIX AT QUIESCENCE *** jak-powiedziec-tesknie-inaczej cites Poradnia PWN nr 23173 (Wolanski, 7.01.2024) as ruling that 'brakuje mi ciebie' has no grammatical subject. The ja-tez-za-toba-tesknie agent recovered that ruling at source via Wayback and reports it is titled 'brak jako czasownik' and rules on 'brak jest umowy' vs 'brak umowy' - a DIFFERENT question. The underlying grammatical claim may still be right (brak in that function inflects only for tense and mood), but the CITATION does not support it as stated. REMEDIATION: re-read nr 23173, and either find the ruling that actually licenses the subjectless claim or soften the claim to what the source supports. Do not simply delete it - the finding is load-bearing in that post. NOTE sjp.pwn.pl is 403 live, so verify via the Wayback Machine and confirm the H1 on the snapshot.",
+    "URL CAP: the JESLA work (Berchio, Bonvin & Berthele 2025) is now cited by TWO rows - ya-tozhe-skuchayu-po-tebe and ich-vermisse-dich-auch - via DIFFERENT URLs for the same work. That is the URL cap of 2 reached. NO THIRD ROW MAY CITE IT. capcheck cannot see this because the URLs differ; it was caught by hand. Their percentages do not conflict: 36/64 are the study's own results, 30% is from its literature review."
+  ],
+  "laneWideFindings": {
+    "A-reply-song-contamination": "MEASURED TWICE, TREAT AS A LANE-WIDE HAZARD: the bare 'I miss you too' phrase is a SONG TITLE in multiple languages, so the head keyword is often an entertainment SERP and a Gate 2 page-type mismatch. Spanish 'yo tambien te extrano' measured 9 of 10 music (Sebastian Yatra) and recorded Gate 2 as PARTIAL; Russian 'ya tozhe skuchayu po tebe' measured 5 of 8 music (Ramil Mulikov) plus a books.google/litres panel for a novel of the same title, a Spotify entity panel and a YouTube carousel above rank 1. NEITHER aborted, and both were right not to, because the ADJACENT REPLY INTENT is open and weak: Russian measured 'chto otvetit na ya skuchayu po tebe' at 10/10 weak (four domains carrying the SAME syndicated article). WHAT REMAINING REPLY ROWS MUST DO: measure the bare phrase, and if it is music, say so plainly, retarget to the reply/meaning tail, and record Gate 2 as PARTIAL rather than pretending the head term is winnable. Do not abort solely for this - but do not claim the head term either. THIRD CONFIRMATION AND A WORKING FIX: Portuguese measured the unquoted head phrase at 7 of 18 music (Ferrugem, Marilia Mendonca, Amado Batista, Spotify), then RETARGETED to the keyword WITH 'tambem' and music dropped to ZERO, with the quoted SERP 14/14 weak and zero Portuguese editorial. That is the pattern to copy: the particle itself is the disambiguator that clears the music. *** THE PORTUGUESE FIX DOES NOT ALWAYS WORK - GERMAN COUNTEREXAMPLE. *** Adding the particle failed for German because Helene Fischer's 2007 track is literally 'Und ich vermiss dich auch' - the particle is already IN the song title. Its head SERP was 14 results: 5 music, 5 Netflix/TV (Harlan Coben 'Missing You'), an image pack, zero dictionaries. What DID clear it was adding a REPLY-INTENT word ('antwort'): 7 results, 6 weak, ZERO music, Gate 4 PASS. SO THE GENERAL RULE IS: add a word that names the INTENT (antwort / co odpowiedziec / que responder / what to reply), not necessarily the particle. Confirms the aborted German row's finding that de-de is query-SHAPE dependent.",
+    "A-reply-cross-linguistic-result": "The reply question has now fallen FOUR different ways, each proven from that language's own authority, which is a genuinely original cross-linguistic result no single competitor page has: ITALIAN - anche selects what it PRECEDES (Treccani anche 1.a, its own two examples being the minimal pair; De Cesare config. I = NS), so the reply is unambiguous where English is not. FRENCH - the OPPOSITE: aussi takes WIDE scope, the same cell as English also, because both arguments of tu me manques are clitics and a clitic cannot host it (De Cesare fn. 17); French gets precision from subject reduplication instead, used 71% of the time. SPANISH - a CLEAN NEGATIVE: neither RAE work states a positional rule and the DPD's own two citations sit on opposite sides of the target. RUSSIAN - tozhe selects what FOLLOWS it in the sense that it always follows its associate (35/35, 0 preposed), the mirror of Italian, and Russian disambiguates where English cannot. Each row also found a DIFFERENT counter-trap: anche a me manchi means something else; «Tu me manques a toi aussi» literally says you are missed by you too; «a mi tambien» answers me haces falta not te extrano (48 sentences, not one with the speaker as nominative subject). Later reply rows should test their language against this set and cross-link, not restate it. FIFTH ANSWER - PORTUGUESE: position is FREE and ACCENT decides. Alfa: Revista de Linguistica (UNESP) 68, 2024, read in full, presents 'Joao foi na festa tambem' and 'Joao tambem foi na festa' as two POSITIONS of one particle, says the additive tambem 'apresenta maior liberdade sintatica', and following Krifka 1998 gives a pair with IDENTICAL word order, different phrasal accent and a different target. Consequence: in writing, 'sinto sua falta tambem' is as ambiguous as English, and the overt subject pronoun in 'eu tambem' is the ONLY written disambiguator. Portuguese also does NOT have the Spanish dative counter-trap - four checks: 'a mim tambem' 0 vs 141 for bare 'a mim'; Priberam's /pt-br/falta has no 'fazer falta' locution at all; Michaelis defines it around 'a PESSOA MORTA' (bereavement); and Michaelis PT-EN glosses 'eu tambem' as 'So am I', i.e. NOMINATIVE, the opposite of Spanish. And the French reduplication trick FAILS twice over in Portuguese: there is no subject to duplicate, and 'Voce tambem' collides with a documented expressive 'tambem' carrying 'um conteudo de desaprovacao' - the trick lands on a reproach. SO THE TALLY IS: Italian position-selects, French wide-scope-clitic-blocked, Spanish no-rule, Russian always-follows, Portuguese free-position-accent-decides. FIVE languages, FIVE mechanisms, each from that language's own authority. SIXTH ANSWER - DUTCH: scope is carried by the PRONOUN FORM, not position. ANS 5.2.7 punt 2 names 'ook' inside its own rule - the full form 'jou' is obligatory when the pronoun is accompanied by a particle like ook that has it as its bereik - and prints a minimal pair (haar/'r) distinguished only by form and stress. So a typed Dutch reply disambiguates where a typed Portuguese one cannot, because Portuguese needs accent and Dutch encodes it in the word. Two corrections to my framing, both from ANS: Dutch DOES have the Italian pre-argument slot (21.4.9.4.1 s3, 'voor of na het element'), and the FRENCH REDUPLICATION is the clean negative (21.8 licenses 'alleen dat en die', no repeated personal pronoun) - Dutch does the job in one slot instead: 'Jou mis ik ook'. V2 lever: in a bijzin the first position is gone and the pronoun form is the ONLY disambiguator left. SEVENTH ANSWER - POLISH: ACCENT, not direction. Poradnia PWN nr 12061 (Banko, skladnia, via Wayback) gives a rightward written default - the particle refers to the element 'nastepujacy po niej' - and then states its OWN override in the same answer, when the right neighbour cannot carry the sentence stress, in which case the target PRECEDES. So rightward adjacency is a default that yields to accent. It is the exact COMPLEMENT of French: French aussi has only clitics available to host it, while Polish has a strong form for every clitic, 'za' forces one, and 'ja' has no clitic counterpart at all - Poradnia nr 24530 rules that short pronoun forms cannot open an utterance because that is where the logical accent falls. NKJP confirms: 29 utterance-initial 'Mnie tez', 0 'Tez mnie'. And tez/takze/rowniez is a REGISTER split, not a scope one - NKJP near-parity (330,005/258,151/195,786) against Tatoeba 7.2:1 for tez, same trio, opposite profile - with one hard asymmetry: tez never precedes a nominative pronoun (0 of 352) but takze does. TALLY: Italian position-selects, French wide-scope-clitic-blocked, Spanish no-rule, Russian always-follows, Portuguese accent-decides-position-free, Dutch pronoun-form-encodes, Polish rightward-default-overridden-by-accent. SEVEN languages, SEVEN mechanisms. EIGHTH ANSWER - GERMAN, AND IT CONTAINS THE OTHERS. Berchio, Bonvin & Berthele 2025, JESLA 9(1) 85-102, read in full: German licenses TWO positions of auch, left-of-entity and post-finite. Post-finite is 'non-grammatical in Italian'; 'French shares the post-finite position with German'; left-of-entity 'is not shared with English'. So preposed = Italian, postposed direction = Russian, multiple candidates resolved by accent = Portuguese (same Krifka), postposed preference = French/English, and no rule forcing the reading = Spanish. German has all five sorted by construction and PREFERS the ambiguous one (~30% left-of-entity). Practical payoff unique to German: postposed auch reaches LEFT, so the nearest associate is 'dich' (accusative, the MISSED) in 'Ich vermisse dich auch' but 'mir' (dative, the MISSER) in 'Du fehlst mir auch' - so the second construction puts the particle next to the right person for a reply. Also: 'ich auch vermisse dich' is UNGRAMMATICAL (IDS: focus particles may not stand alone in the Vorfeld). And the commonest German reply is neither - it is the bare ellipsis 'ich dich auch', 457 of 644 inspected hits (71%), about 8x the full form.",
+    "instrument-trap-200-wrong-page": "e-ANS serves HTTP 200 with a page TITLED 'ANS | Fout' for non-existent topic ids - the sixth instance of a dictionary/grammar returning 200 for a page that is not what you asked for (Larousse->MARAUD, DWDS->DEZILITER, Van Dale->webshop, dle.rae.es/ojala->OJALAR, KBBI kok->badminton shuttlecock). ALWAYS read the headword or title on the page you fetched.",
+    "instrument-notes": "DWDS corpus counts ARE reachable despite /api/corpus/counts and /api/search/ 404ing and /r/ 401ing: https://kaskade.dwds.de/dstar/untertitel/dstar.perl?q=count(%22...%22)&fmt=json - authenticated by reproducing a live sibling's published 453/232 figures. Duden /rechtschreibung/auch 404s; its entries split into auch_Adverb and auch_Partikel_verstaerkend. NOTE a three-way word-class disagreement worth citing rather than resolving: IDS calls auch a Fokuspartikel, Duden splits it Adverb/Partikel, DWDS labels the headword Konjunktion."
+  }
+}

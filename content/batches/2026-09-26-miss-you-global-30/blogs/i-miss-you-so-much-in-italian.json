@@ -1,0 +1,378 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "«Mi manchi un sacco» in english: si dice \"I miss you a lot\", e l'intensificatore cambia lato",
+    "slug": "i-miss-you-so-much-in-italian",
+    "excerpt": "«Mi manchi un sacco» in inglese è \"I miss you a lot\", ma la differenza vera è la posizione: l'italiano mette l'intensificatore dopo il verbo, l'inglese dopo l'oggetto. Registro da Treccani e De Mauro, 11 frasi attestate su 90 grezze, e un errore verificabile in prima pagina.",
+    "metaTitle": "Mi manchi un sacco in english: dove va l'intensificatore",
+    "metaDescription": "Mi manchi un sacco in english è «I miss you a lot»: in italiano l'intensificatore segue il verbo, in inglese l'oggetto. Treccani, De Mauro, 11 frasi attestate.",
+    "keywords": "mi manchi un sacco in english, mi manchi un sacco in inglese, mi manchi tanto in inglese, mi manchi da morire traduzione, mi manchi un casino significato, i miss you a lot, dove va l'intensificatore in italiano",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-so-much-in-italian",
+    "ogType": "article",
+    "tags": [
+      "italiano",
+      "inglese",
+      "grammatica",
+      "lunga-distanza",
+      "traduzione"
+    ],
+    "keyTakeaways": [
+      "«Mi manchi un sacco» in inglese è \"I miss you a lot\": la parola cambia poco, la posizione cambia tutto — l'italiano posiziona l'intensificatore dopo il verbo, l'inglese dopo l'oggetto.",
+      "La regola non sta nella voce «mancare» ma nella voce «molto» del Treccani, senso 3, dove si legge che l'avverbio «si pospone di solito al verbo»; con «mancare» non c'è nessun oggetto in mezzo perché chi vi manca è il soggetto.",
+      "Registro dai dizionari, non a orecchio: il Treccani marca «un sacco» come «fig., fam.» e «linguaggio colloquiale», dà a «da morire» solo «uso iperb.» senza marca di registro, e di «un casino» come intensificatore non registra alcun senso — mentre il De Mauro marca tutti e tre «CO».",
+      "Su Tatoeba, 90 risultati grezzi lasciano 11 frasi esatte; «mi manchi un sacco» ne dà 0, ma la costruzione è attestata due volte («Le mancava un sacco» → «She missed him a lot»), quindi lo zero apparteneva alla domanda.",
+      "Sulla SERP italiana misurata il 27 settembre 2026, 8 dei 10 risultati organici sono deboli e nessuno dei dieci cita Treccani, Crusca, Zingarelli, De Mauro o Devoto-Oli."
+    ],
+    "faqs": [
+      {
+        "question": "Come si dice «mi manchi tantissimo» in inglese?",
+        "answer": "Con «I miss you so much». Il superlativo italiano in -issimo non ha un corrispondente morfologico in inglese: si rende con un avverbio, e l'avverbio va dopo l'oggetto. Su Tatoeba le tre frasi esatte «mi manchi così tanto» sono tutte allineate proprio a «I miss you so much»."
+      },
+      {
+        "question": "Dove va l'intensificatore quando il verbo è composto, come in «mi sei mancato»?",
+        "answer": "Il Treccani, alla voce «molto», dice che l'avverbio «si pone tra l'ausiliare e il participio» (mi è molto piaciuto), il che prevedrebbe «mi sei molto mancato». Il corpus però va dall'altra parte: «mi sei mancato molto» ha due frasi attestate, «mi sei molto mancato» zero. Due contro zero è troppo poco per farne una regola, e il Treccani scrive «di solito», quindi entrambe restano difendibili."
+      },
+      {
+        "question": "«Mi manchi un sacco» si può scrivere a un amico o a un collega?",
+        "answer": "A un amico sì. Il Treccani marca quell'uso «fig., fam.» e lo colloca esplicitamente «nel linguaggio colloquiale», quindi è una forma confidenziale: fra colleghi che non si danno del tu è fuori registro. Il De Mauro le dà invece la marca «CO», meno restrittiva, e i due vocabolari su questo non coincidono."
+      },
+      {
+        "question": "Qual è la differenza fra «I miss you a lot» e «I miss you so much»?",
+        "answer": "Sono entrambe rese neutre e intercambiabili nella pratica. La frase Tatoeba 3756139, «Mi manchi molto», è allineata sia a «I miss you a lot» sia a «I miss you very much» sia a «I miss you badly», il che dice quanto il confine sia morbido. Lo studio su Heliyon segnala però che «very» è associato a parlanti sopra i 35 anni, quindi «very much» suona leggermente più adulto."
+      },
+      {
+        "question": "«Mi manchi da morire» si può tradurre con «I miss you to death»?",
+        "answer": "Meglio «I miss you terribly» o «I miss you like crazy». L'unica frase Tatoeba che unisce mancare e da morire, la 4541855 «Mi sei mancato da morire», è resa con «My longing for you is killing me!»: l'inglese rifà la frase invece di cercare un intensificatore equivalente. «To death» esiste in inglese ma si attacca ad altri verbi (bored to death, worried to death), non tipicamente a «miss»."
+      },
+      {
+        "question": "«Mi manchi un casino» è volgare?",
+        "answer": "È ruvido, ed è utile sapere perché. Il Treccani non registra affatto l'uso intensificatore di «casino»: il suo terzo senso si apre su «Postribolo, casa di tolleranza» e arriva a «chiasso, confusione» solo per figura, marcato «pop.». Il De Mauro invece gli dà una voce piena marcata «CO». Fra amici stretti passa; in un messaggio a chi non conoscete bene, no."
+      },
+      {
+        "question": "Come si dice «mi mancate un sacco» a più persone?",
+        "answer": "«I miss you all a lot» oppure «I miss you guys a lot». In inglese la seconda persona plurale non si distingue dalla singolare, quindi va esplicitata con «all» o «guys». Il passaggio da «mi manchi» a «mi mancate» è un cambio di numero, non di registro, ed è un errore che almeno una pagina in prima pagina italiana commette."
+      },
+      {
+        "question": "Si può scrivere «I'm missing you a lot» invece di «I miss you a lot»?",
+        "answer": "Sì, e cambia sfumatura. Fra le quattro rese inglesi della frase Tatoeba 4378, «Mi manchi», compare anche «I'm missing you»: la forma progressiva lega la mancanza a questo momento, mentre «I miss you» la dà come stato continuo. Per un messaggio a distanza la seconda è la scelta più sicura."
+      },
+      {
+        "question": "Come si chiede «ti manco un sacco?» in inglese?",
+        "answer": "«Do you miss me a lot?». Qui il ribaltamento si vede meglio che altrove: in italiano il soggetto siete voi (io manco a te), in inglese il soggetto diventa l'altra persona. L'intensificatore resta in fondo, dopo «me»."
+      },
+      {
+        "question": "Esiste un'alternativa a «un sacco» che non sia colloquiale?",
+        "answer": "«Mi manchi molto» e «mi manchi tanto». Nessuna delle due porta marca di registro nel Treccani: «molto» sta al senso 3 come avverbio, «tanto» al senso 3.d con la glossa «Molto, assai, sia con verbi». Sono le due forme che potete mandare a chiunque, incluso un superiore o un parente anziano."
+      },
+      {
+        "question": "«I miss you loads» si può usare?",
+        "answer": "È una resa colloquiale britannica, e in effetti un dizionario bilingue la registra proprio sotto la voce inglese «load», accoppiata a «Mi manchi un sacco». Ho letto quella riga solo attraverso lo snippet di Google, perché il sito respinge una richiesta automatica con un codice 418, quindi la riporto per quello che è: un dato di seconda mano, non una voce che ho potuto aprire."
+      },
+      {
+        "question": "Posso scrivere il messaggio in italiano dentro una pagina SubhSandesh?",
+        "answer": "Sì: il testo della lettera è un campo libero e accetta qualunque lingua, accenti compresi. Quello che resta in inglese è tutto il resto — etichette, pulsanti, titoli di sezione — perché il modello è costruito in inglese. Nel nostro database non c'è nessuna segmentazione per lingua, quindi non posso dirvi quante pagine siano state scritte in italiano."
+      }
+    ],
+    "coverImageQuery": "italian dictionary open page handwritten note",
+    "coverImagePrompt": "A warm, photorealistic close-up of an open Italian dictionary on a wooden desk, a folded handwritten note resting across the page and a phone screen glowing beside it. Soft window light from the left, shallow depth of field, clean negative space in the upper third for a title overlay, 16:9. No legible text on the page, and no watermark other than a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# «Mi manchi un sacco» in english: si dice \"I miss you a lot\", e l'intensificatore cambia lato\n\n**Mi manchi un sacco in english** si rende con **\"I miss you a lot\"**: è la resa che Google mette in cima alla SERP italiana, ed è quella che Tatoeba allinea alle uniche due frasi attestate con *mancare* e *un sacco*.\n\nMa la parola non è il problema: il problema è **dove va a finire**. In italiano l'intensificatore sta subito dopo il verbo — *mi manchi **un sacco*** — in inglese dopo l'oggetto: *I miss **you** a lot*. «I miss a lot you» non esiste.\n\nVerifico ogni forma su due vocabolari e un corpus, non a orecchio, da una piattaforma che ha registrato **57.456 aperture di pagine condivise** e su cui **il 90,9% delle pagine avviate viene poi mandato (4.724 su 5.199)**.\n\n## La regola sta nel Treccani, ma sotto «molto», non sotto «mancare»\n\nLa posizione dell'avverbio non sta nella voce del verbo, ma sotto **`molto`**, senso **3. avv.**, *Osservazioni varie*, punto **a.**: «Nella sua funzione di avverbio, si pospone di solito al verbo (*ho dormito m.*) o si pone tra l'ausiliare e il participio (*mi è m. piaciuto*)».\n\nLa regola non è dunque «in mezzo fra verbo e oggetto»: è **dopo il verbo**. Con *sentire* l'oggetto c'è — *sento tanto la tua mancanza* — e l'avverbio posposto finisce per caso nel mezzo; con *mancare* l'oggetto non c'è affatto.\n\nPerché non c'è lo dice la voce `mancare`, **1.c**: «Con il **compl. di termine**, in frasi quali *mi manchi*, *mi sei mancato*, ***ci manca molto*** e sim.». L'esempio è già la prova: verbo, poi avverbio, niente in mezzo. Chi vi manca è il **soggetto** — *tu* manchi *a me* — e non c'è nessuna casella intermedia.\n\n## Il registro, riga per riga: che cosa segnano davvero i dizionari\n\n| Forma | Marca nel Treccani (voce e senso) | Marca nel De Mauro | Attestazioni |\n|---|---|---|---|\n| *mi manchi molto* | nessuna (`molto` 3. avv.) | — | 1 |\n| *mi manchi tanto* | nessuna (`tanto` 3.d) | — | 2 |\n| *mi manchi un sacco* | **`fig., fam.`** + «colloquiale» (`sacco` 2.b) | **`CO`** | 0 esatte, 2 nella costruzione |\n| *mi manchi da morire* | **«uso iperb.»**, nessun registro (`morire` 1.a) | **`CO`** | 0 esatte, 1 nella costruzione |\n| *mi manchi un casino* | **senso assente**; solo `pop.` sul figurato (`casino` 3) | **`CO`** | 0 |\n\nIl dettaglio è nella voce `sacco`, **2.b**: «Nel **linguaggio colloquiale**, con valore avverbiale, *un s.*, molto: **mi piace un sacco**». È una frase con *piacere*, cioè **la stessa struttura di *mancare***: il Treccani stampa la cornice di *mi manchi un sacco* sotto un'altra voce, senza nominare *mancare*.\n\n## «Un casino»: un dizionario lo registra, l'altro no\n\nQui i due vocabolari non vanno d'accordo, e nessun risultato in classifica lo dice.\n\nIl **De Mauro** dà a `un casino` una voce piena — `loc.avv., loc.s.m.`, marca **`CO`** — «con valore avv., molto, tantissimo», esempio *mi piace un casino*: identica, per forma e marca, a `un sacco`. Nel suo elenco di abbreviazioni, che ho letto, c'è un `colloq.` distinto che **a nessuna delle tre locuzioni viene applicato**.\n\nIl **Treccani** quel senso non lo registra. La sua voce `casino` è lunga 762 caratteri e ha tre sensi; il terzo si apre su «**Postribolo**, casa di tolleranza» e arriva a «chiasso, confusione» solo per figura, marcato **`pop.`** La parola porta ancora addosso il senso da cui viene, ed è questo a renderla ruvida.\n\n## Le frasi attestate: 90 risultati grezzi, 11 sopravvissuti\n\nDodici interrogazioni su Tatoeba, italiano→inglese. La ricerca è **tokenizzata** e **insensibile agli accenti**: ho filtrato sulla stringa letterale e aperto le frasi rimaste. **Novanta grezzi, undici superstiti.**\n\n- *mi manchi tanto* — 8 grezzi, **2** esatti: 3137826 «I miss you very much», 3239425 «so much, my love».\n- *mi manchi così tanto* — 23 grezzi, **3** esatti, tutti «I miss you so much».\n- *mi manchi molto* — 16 grezzi, **1** esatto: la 3756139 ha tre allineamenti, «a lot», «badly», «very much».\n- *mi sei mancato molto* — 3 grezzi, **2** esatti, fra cui la 381448, resa anche «I longed for you deeply».\n- *un sacco*, *da morire*, *un casino*, *moltissimo*, *tantissimo* — **zero**, tutti.\n\n## Lo zero apparteneva alla domanda, non al corpus\n\nCinque zeri di fila sembrano una risposta. Sono la domanda posta male.\n\n**La costruzione *mancare* + *un sacco* è attestata, due volte.** La 12852379, «Le mancava un sacco», va a «*She missed him **a lot***»; la 946180, «Gli mancava un sacco», a «*He missed him **a lot***»: entrambe ribaltano il soggetto e spostano l'intensificatore **dopo l'oggetto inglese**. Anche *mancare* + *da morire* c'è — la 4541855, «Mi sei mancato da morire», diventa «*My longing for you is killing me!*», dove l'inglese rinuncia del tutto alla casella.\n\nChe una forma colloquiale sparisca da un corpus curato è cosa misurata: Taylor Jones, su *Frontiers in Artificial Intelligence*, scrive che «i corpora tradizionali più avanzati contengono così pochi token da poterli contare su una mano», mentre Twitter ne restituisce quasi **300.000** in dieci anni. Uno zero non dice che nessuno lo scrive: dice che quel corpus non ce l'ha.\n\n## Che cosa fa l'inglese al posto nostro\n\nL'inglese quella casella non ce l'ha: la riempie dopo l'oggetto, e la parola che ci mette dice qualcosa di chi scrive.\n\nUno studio su *Heliyon* (Al-Shawashreh, Allawzi e Jarrah, 2024) ha spogliato l'**Ottawa English Corpus** — interviste del **2008-2010**, circa **270.000 parole** da **37 parlanti** — e trova che i quattro intensificatori più frequenti sono **really**, **so**, **very** e **pretty**, e che **donne e parlanti giovani ne usano più spesso**. Vi si legge anche che «l'uso di *very* è un segno dell'avere più di 35 anni, mentre *really* segnala qualcuno molto più giovane».\n\nQuindi: *so much* e *a lot* sono le rese neutre, *very much* suona più adulto, *terribly* e *like crazy* alzano il tono come *da morire*. Lo stesso studio ricorda che *very* veniva dall'inglese antico «vero» e si è ormai **delessicalizzato**: *un sacco*, *un casino* e *da morire* il senso di partenza ce l'hanno ancora tutto, ed è per questo che sceglierli è questione di registro più che di intensità.\n\n## Un errore verificabile in un risultato che si posiziona oggi\n\nUna pagina in classifica assegna a ogni frase una colonna di registro, e a *Mi manchi da morire* mette **«slang»**.\n\nNon lo è. Il Treccani la colloca sotto `morire` **1.a** come «**uso iperb.**», **senza marca di registro**, accanto a esempi quotidiani: *una fame, un freddo da morire*, *essere stanco da morire*. Il De Mauro le dà una voce marcata **`CO`**, la stessa di `un sacco`.\n\nL'assenza conta: le marche i due dizionari le usano eccome, `fam.` su `sacco` 2.b e `pop.` su `casino` 3.\n\nLa stessa pagina dà *Mi mancate* per «casual» e *Mi manchi tanto* per «polite»: ma *mancate* è la **seconda persona plurale**, cioè un cambio di numero, non di registro. E fra le proprie fonti elenca «Treccani, voce *mancare*» e «Accademia della Crusca»: è l'unico risultato in classifica a nominare un dizionario italiano, e lo contraddice.\n\n## Che cosa ho misurato sulla SERP italiana il 27 settembre 2026\n\nDue strumenti, verificati sul contenuto letto e non sul titolo: un proxy DuckDuckGo su `it-it`, lanciato due volte con nove host su dieci identici, e **Google servito all'Italia nel browser reale** (`gl=it`, `hl=it`, senza personalizzazione).\n\nSu Google l'elemento in cima non è un risultato ma il riquadro di Google Traduttore, che dà «I miss you a lot».\n\nDei dieci risultati organici che ho effettivamente visto, **otto sono deboli**: tre memorie di traduzione (una dichiara di suo «Usage Frequency: 1» e «Reference: Anonymous»), una pagina universitaria del **2004** che glossa *Mi manchi un sacco* con «to me it lacks a bag», un Quora di nove anni fa, una voce di dizionario per l'inglese *load* e una pagina uscita due giorni prima. Le due non deboli sono Rosetta Stone e una scuola di italiano di Milano; sul proxy DuckDuckGo il conto è **otto su nove**.\n\n**Nessuno dei dieci cita Treccani, Crusca, Zingarelli, De Mauro o Devoto-Oli** — tranne quello che li cita e poi li contraddice. E *mi manchi da morire*, cercato da solo, restituisce due volte lo stesso video musicale del 2018: quella query appartiene a una canzone più che alla grammatica.\n\n## Che cosa dicono i nostri dati, e che cosa non dicono\n\nSu SubhSandesh sono state registrate **57.456 aperture di pagine condivise**, **11,1 in media per pagina creata**, e il **38,5% di chi crea una pagina la protegge con una password prima di mandarla (2.000 su 5.199)**. Sul tempo di scrittura ho una sola misura pulita: **mediana di 2,5 ore fra primo salvataggio e ultima modifica**, non campionata sulla pagina «mi manchi» ma su `/apology-dashboard`, n=1.396.\n\nI limiti contano più dei numeri. Le aperture sono **visualizzazioni di pagina, non visitatori unici**: chi riapre venti volte fa venti aperture.\n\n**Nel database non c'è nessuna segmentazione per lingua o per paese**, quindi nessuna di queste cifre è italiana. E il database registra **quale modello è stato aperto, mai chi lo ha ricevuto**: non so se dall'altra parte ci fosse una fidanzata, un fratello o un'amica.\n\n## Dove la nostra pagina non fa al caso vostro\n\nDetto chiaro: **la [pagina «I miss you» per la propria compagna](/missyou-gf) è in inglese** — etichette, pulsanti, testi di contorno — ed è pensata per una fidanzata o un partner. L'unico italiano che ci sarà sopra è quello che scrivete voi, e se la frase è per un fratello, un genitore o un'amica non è costruita per voi.\n\nL'alternativa più sensata per chi è lontano è **[Streak](/streak)**: due persone, un tocco al giorno, e a ogni conferma resta una parola scritta da chi l'ha messa. Non contiene nessuna frase romantica preconfezionata da tradurre male, quindi non può sbagliare il registro al posto vostro. Le condizioni d'uso non risultano dai nostri dati e non ne affermo nessuna: le trovate sulla [pagina dei modelli](/templates).\n\nSe vi serve **quale verbo e quale soggetto** usare, l'ha scritto [mi manchi in inglese](/blog/mi-manchi-in-inglese); per le alternative alla frase, [come dire mi manchi in modo originale](/blog/come-dire-mi-manchi-in-modo-originale); e per dove va *anche* nella risposta, [«anche tu mi manchi»](/blog/i-miss-you-too-in-italian).\n\n## Fonti\n\n- [**Vocabolario Treccani**, voce `mancare`](https://www.treccani.it/vocabolario/mancare/) — e le voci [`molto`](https://www.treccani.it/vocabolario/molto/), [`sacco`](https://www.treccani.it/vocabolario/sacco/), `tanto`, `morire` e `casino`, lette per intero il 26-27 settembre 2026.\n- [**Il Nuovo De Mauro**, locuzione `un casino`](https://dizionario.internazionale.it/parola/un-casino) — e `un sacco`, `da morire`, più l'elenco delle abbreviazioni.\n- **Tatoeba**, corpus italiano→inglese (frase 12852379 e altre), dodici interrogazioni del 27 settembre 2026.\n- Al-Shawashreh, Allawzi, Jarrah, [«Variable use of intensifiers in Ottawa English»](https://europepmc.org/article/PMC/PMC11141378), ***Heliyon*** 10 (2024), e31369.\n- Jones, [«African American English intensifier *dennamug*»](https://europepmc.org/article/PMC/PMC9973324), ***Frontiers in Artificial Intelligence*** (2023).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-so-much-in-italian#post",
+        "inLanguage": "it-IT",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Italian language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Italian_language",
+              "https://www.wikidata.org/wiki/Q652"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Intensifier",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Intensifier",
+              "https://www.wikidata.org/wiki/Q2339337"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Adverb",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Adverb",
+              "https://www.wikidata.org/wiki/Q380057"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Italian grammar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Italian_grammar",
+              "https://www.wikidata.org/wiki/Q687580"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Treccani",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Treccani",
+              "https://www.wikidata.org/wiki/Q731361"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani, voce «mancare» (senso 1.c), letta con «molto» (senso 3, Osservazioni varie a.) e «tanto» (senso 3.d)",
+            "url": "https://www.treccani.it/vocabolario/mancare/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Istituto della Enciclopedia Italiana"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani, voce «sacco» (senso 2.b), letta con «casino» (senso 3) e «morire» (senso 1.a)",
+            "url": "https://www.treccani.it/vocabolario/sacco/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Istituto della Enciclopedia Italiana"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Il Nuovo De Mauro, locuzioni «un casino», «un sacco» e «da morire»",
+            "url": "https://dizionario.internazionale.it/parola/un-casino",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Internazionale"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba, corpus italiano-inglese: dodici interrogazioni, 90 risultati grezzi e 11 frasi esatte",
+            "url": "https://tatoeba.org/en/sentences/show/12852379",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Variable use of intensifiers in Ottawa English",
+            "url": "https://europepmc.org/article/PMC/PMC11141378",
+            "datePublished": "2024-05-16",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Heliyon (Elsevier BV)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "African American English intensifier dennamug: Using twitter to investigate syntactic change in low-frequency forms",
+            "url": "https://europepmc.org/article/PMC/PMC9973324",
+            "datePublished": "2023-01-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Frontiers in Artificial Intelligence (Frontiers Media SA)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Gli intensificatori di «mi manchi», con la marca di registro che i dizionari assegnano",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "mi manchi molto — nessuna marca di registro (Treccani, «molto», senso 3 avv.)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "mi manchi tanto — nessuna marca di registro (Treccani, «tanto», senso 3.d)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "mi manchi un sacco — «fig., fam.» e «linguaggio colloquiale» nel Treccani, «CO» nel De Mauro"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "mi manchi da morire — «uso iperb.» senza marca di registro nel Treccani, «CO» nel De Mauro"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "mi manchi un casino — senso non registrato dal Treccani, «CO» nel De Mauro"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "mi manchi un sacco in english",
+    "angle": "Wins by being the only post on this SERP that answers WHERE the intensifier actually sits, from Treccani's own placement note under «molto» («si pospone di solito al verbo») and its adverbial example under «sacco» («mi piace un sacco» — the same inverted argument structure as mancare), and that measures every form against Tatoeba: 90 raw hits leave 11 strict survivors, «mi manchi un sacco» returns 0, and the construction is nonetheless attested twice («Le/Gli mancava un sacco» → «missed him a lot»), so the zero belonged to the query. It also corrects the sibling's own rule — the intensifier is not «between verb and object», it is «after the verb», and mancare has no object at all — builds the register table from two dictionaries that disagree (Treccani marks «un sacco» fam. and records no intensifier sense for «casino»; De Mauro marks all three CO), and catches the one ranking page that names Treccani and Crusca in its sources labelling «da morire» as «slang», which neither dictionary does.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "57,456 recorded views of shared pages — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "stat": "Vocabolario Treccani, voce mancare, intestazione 'v. intr. e tr. [der. di manco 1] (io manco, tu manchi, ecc.)'. Senso 1 e 'intr. (aus. essere)'; senso 1.c: 'Con il compl. di termine, in frasi quali mi manchi, mi sei mancato, ci mancherai, CI MANCA MOLTO e sim., riferite a persona di cui si sente, si e sentita o si sentira la lontananza, e quindi il desiderio e il rimpianto'. THE LOAD-BEARING POINT FOR THIS POST: Treccani's own example under 1.c is 'ci manca molto' — verb then adverb, with NO object between them, because the affective sense is intransitive and the missed person is the subject. The grammatical label used in the body is Treccani's own, 'complemento di termine'; the word 'dative' is deliberately not used. Full entry read 2026-09-26/27. READ TOGETHER WITH the Treccani entry 'molto' (https://www.treccani.it/vocabolario/molto/, sense 3 = the adverb), whose closing block 'Osservazioni varie', point a., states the placement rule this post is built on, quoted verbatim: 'Nella sua funzione di avverbio, si pospone di solito al verbo (ho dormito m.) o si pone tra l'ausiliare e il participio (mi e m. piaciuto).' No register label anywhere on that adverb. This is the entry that shows the rule is 'AFTER THE VERB', not 'between verb and object' — the sibling's between-verb-and-object formulation is the special case that arises when the verb (sentire) happens to carry an object. Also read: Treccani 'tanto', sense 3 (Come avv.), sub-sense d., 'Molto, assai, sia con verbi: ne ha sofferto t.; scusi t.; salutami t. tuo padre; mi piace t.', likewise unlabelled for register and likewise exemplified on piacere.",
+        "publisher": "Istituto della Enciclopedia Italiana — Vocabolario Treccani online"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/sacco/",
+        "stat": "Vocabolario Treccani, voce sacco, 's. m. [lat. saccus, dal gr. σάκκος, di origine semitica (ebr. sáq)]'. Sense 2.b, quoted verbatim: 'fig., fam. Grande quantita: possiede un s. di soldi; c'era un s. di gente per le strade; ... gli vuole un s. di bene. Nel linguaggio colloquiale, con valore avverbiale, UN S., MOLTO: MI PIACE UN SACCO. A sacchi (e anche a sacca), in grande quantita.' TWO FINDINGS: (1) the register marks are 'fig., fam.' on the quantifier sense and the explicit phrase 'nel linguaggio colloquiale' on the adverbial one; (2) Treccani's own adverbial example is 'mi piace un sacco' — a piacere sentence, i.e. exactly the same argument structure as mancare (experiencer in the complemento di termine, the liked/missed thing as subject), so the dictionary prints the frame of 'mi manchi un sacco' under a different headword without ever naming mancare. Full entry read 2026-09-27; also checked: the entry carries 'pop.', 'spreg.', 'scherz.' and 'gergale' elsewhere, so its register labelling is selective and the marks are meaningful. READ TOGETHER WITH Treccani 'casino' (https://www.treccani.it/vocabolario/casino/) — THE WHOLE ENTRY IS 762 CHARACTERS AND HAS THREE SENSES: 1. 'In passato, casa signorile di campagna'; 2. 'Sinon., oggi disusato, di circolo ... c. da gioco'; 3. 'Postribolo, casa di tolleranza. Fig., pop., chiasso, confusione: non fate casino!'. THERE IS NO INTENSIFIER OR ADVERBIAL SENSE AT ALL. And with Treccani 'morire' (https://www.treccani.it/vocabolario/morire/), sense 1.a, which files 'da morire' as 'Con uso iperb., per esprimere grande e insopportabile sofferenza, esasperazione di un sentimento o l'estremo grado di una sensazione: ... (o avere una fame, una sete, un freddo da m., essere stanco da m.)' — a HYPERBOLIC USE with NO register label, exemplified only on nouns and adjectives, never on a verb. These two entries are what make the ranking page's 'da morire = slang' label checkably wrong.",
+        "publisher": "Istituto della Enciclopedia Italiana — Vocabolario Treccani online"
+      },
+      {
+        "url": "https://dizionario.internazionale.it/parola/un-casino",
+        "stat": "Il Nuovo De Mauro (Internazionale), headword 'un casino', read 2026-09-27: 'un casino loc.avv., loc.s.m. CO 1. con valore avv., molto, tantissimo: mi piace un casino 2. una grande quantita: ha letto un casino di libri'. Companion headwords read the same day: 'un sacco loc.avv., loc.s.m. CO 1. con valore avv., molto, tantissimo: divertirsi un sacco 2. grande quantita: un sacco di guai'; 'da morire loc.agg.inv. loc.avv. CO 1. loc.agg. inv., molto intenso: fa un caldo, un freddo da morire 2. loc.avv., moltissimo: il film mi e piaciuto da morire | conferisce funzione di superl. all'agg. a cui si riferisce'. ALL THREE CARRY THE IDENTICAL MARK 'CO'. RECORDED LIMITATION: De Mauro's 'Marche d'uso' table is behind a client-side toggle and is NOT served in the static HTML, so this post reports 'CO' verbatim and never expands it. What WAS read is De Mauro's abbreviation list (via the Wayback copy of /abbreviazioni), which contains a distinct entry 'colloq. colloquiale' — so the dictionary has a colloquial mark available and applies it to none of the three locutions, which is why the absence is evidence rather than a gap.",
+        "publisher": "Internazionale — Il Nuovo De Mauro, dizionario di italiano online"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/12852379",
+        "stat": "Tatoeba, Italian-English corpus, measured 2026-09-27 via api_v0/search (from=ita, to=eng, trans_to=eng), every page paginated and every result then filtered on the literal Italian string after NFD accent-stripping and case folding; every survivor opened and its English alignments read. ACROSS TWELVE 'mi manchi'-FAMILY QUERIES: 90 raw (loose) hits, 11 strict survivors. Strict/loose by query: 'mi manchi tanto' 2/8 (3137826 -> 'I miss you very much'; 3239425 'Mi manchi tanto, amore!' -> 'I miss you so much, my love'); 'mi manchi cosi tanto' 3/23 (3637742, 3637743, 6163487, all -> 'I miss you so much'); 'mi manchi molto' 1/16 (3756139 -> 'I miss you a lot' / 'I miss you badly' / 'I miss you very much'); 'quanto mi manchi' 2/9; 'mi sei mancato molto' 2/3 (381448 -> 'I missed you very much' / 'a lot' / 'I longed for you deeply' / 'I really missed you'); 'mi mancate tanto' 1/8; and ZERO for 'mi manchi un sacco' (0 loose), 'mi manchi da morire' (0), 'mi manchi un casino' (0), 'mi manchi moltissimo' (0), 'mi manchi tantissimo' (0), 'mi manchi davvero' (0 strict of 23 loose). THE ZEROS BELONG TO THE QUERY, NOT THE CORPUS, and varying the phrasing proves it: strict 'mancava un sacco' returns 2 of 9 — THIS SENTENCE, 12852379 'Le mancava un sacco.' -> 'She missed him a lot.', and 946180 'Gli mancava un sacco.' -> 'He missed him a lot.'; and inside the 22 strict 'da morire' hits sits 4541855 'Mi sei mancato da morire.' -> 'My longing for you is killing me!'. Also attested: 5204932 'In realta mi piace un sacco.' -> 'I actually liked it a lot.' — Treccani's own example sentence, found in the wild. 'un casino' returns 0 in every frame tried. DICTIONARY-VERSUS-CORPUS TENSION, recorded because n is tiny: 'mi sei mancato molto' 2 strict, 'mi sei molto mancato' 0 loose and 0 strict, against Treccani's 'si pone tra l'ausiliare e il participio'.",
+        "publisher": "Tatoeba Project (CC BY 2.0 FR)"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11141378",
+        "stat": "Al-Shawashreh E, Allawzi A & Jarrah M, 'Variable use of intensifiers in Ottawa English'. JOURNAL NAMED FOR THE CAP: Heliyon, vol. 10 (2024), article e31369, doi 10.1016/j.heliyon.2024.e31369, PMC11141378. Unpaywall checked before citing: is_oa true, oa_status gold, licence CC BY-NC-ND, publisher Elsevier BV. FULL TEXT READ via the Europe PMC fullTextXML endpoint (110,042 bytes of JATS XML) — not abstract only. Data source: the Ottawa English Corpus (Levey 2011, University of Ottawa), 'recordings of sociolinguistic interviews collected between 2008 and 2010, with around 270,000 words transcribed from the speech of 37 English speakers' (20 male, 17 female; 24 young, 13 old). Findings quoted or used: 'really,' 'so,' 'very,' and 'pretty' are the most commonly used intensifiers in this variety; 'women and younger speakers utilizing intensifiers more frequently than men and older speakers'; the paper reports from Ito & Tagliamonte on York English that 'the use of very is a mark of being over 35, while favouring really should clearly mark one as much younger'; and that very 'changed from a word that was used to mean true or real in Old English to an intensifier', i.e. delexicalization. THE STUDY IS ABOUT ENGLISH, NOT ITALIAN, and the post says so.",
+        "publishedDate": "2024-05-16",
+        "publisher": "Heliyon, vol. 10 (Elsevier BV, CC BY-NC-ND)"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9973324",
+        "stat": "Jones T, 'African American English intensifier dennamug: Using twitter to investigate syntactic change in low-frequency forms'. JOURNAL NAMED FOR THE CAP: Frontiers in Artificial Intelligence (NOT Frontiers in Psychology, which is over cap in this batch), doi 10.3389/frai.2022.683104, PMC9973324. Unpaywall checked before citing: is_oa true, oa_status gold, licence CC BY, publisher Frontiers Media SA. FULL TEXT READ via the Europe PMC fullTextXML endpoint (162,577 bytes of JATS XML) — not abstract only. THE FACT THIS POST USES, quoted verbatim: 'While state-of-the-art traditional corpora contain so few tokens they can be counted on one hand, twitter yields almost 300,000 tokens over a 10 year sample period.' And, from the introduction: 'tokens of interest that may occur a handful of times in a traditional sociolinguistic corpus (e.g., seven instances of third person quotative talkin' 'bout and 23 tokens of associative 'nem in the Corpus of Regional African American Language, Kendall and Farrington 2020) occur hundreds of thousands of times on social media'. Method scale: mixed-effects logistic regression on a subset of 52,646 observations from 2,442 authors, 'consistent and robust across multiple specifications of the model'. WHY IT EARNS ITS PLACE: it is peer-reviewed evidence that a colloquial intensifier can be effectively absent from a curated corpus while being extremely frequent in real use — the exact reason 'mi manchi un sacco' returns 0 on Tatoeba and why that 0 must not be read as 'nobody says it'. The study is about African American English, not Italian, and the post says so.",
+        "publishedDate": "2023-01-27",
+        "publisher": "Frontiers in Artificial Intelligence (Frontiers Media SA, CC BY)"
+      }
+    ],
+    "generatedAt": "2026-09-27T06:40:39.420Z",
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "STRUCTURAL. The comparison table is the intensifier register table, and no column of it can be filled from first-party data without inventing a measurement: the gifts database stores the miss-you letter as a free-text field and never parses it for lexis, so there is no per-phrase count of 'un sacco' versus 'tanto' to put in a column, and nothing in the database is segmented by language or country anyway. Adding a SubhSandesh column here would be a fabricated metric. Would close if a read-only probe tokenised the 214 letter bodies and reported per-intensifier counts — a new query, not a rewrite."
+        },
+        {
+          "item": "Target keyword in H1, metaTitle, slug, and first 100 words",
+          "why": "PARTIAL — fails on the slug only. The keyword 'mi manchi un sacco in english' is present in the H1, in the metaTitle and in the first sentence (well inside the first 100 words). The slug is 'i-miss-you-so-much-in-italian', assigned by WAVE3-PLAN.json, and it encodes the English-facing mirror of the query rather than the Italian query string. Changing it would desynchronise the batch manifest and the filename contract, so it was left as assigned and the miss is recorded here rather than hidden."
+        },
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "UNSATISFIABLE AS WRITTEN for this row. The exact keyword is itself SIX words ('mi manchi un sacco in english'), so it cannot fit inside 'the first five words' of any title that contains it whole. It leads the metaTitle at words 1-6, which is the closest satisfaction available. The length clause passes: the metaTitle is 56 characters, inside the 50-60 target and well under the 70 cap."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "PARTIAL — the slug is short, hyphenated and lowercase, but it does contain the stop words 'so' and 'in' ('i-miss-you-so-much-in-italian'). They are load-bearing in the English mirror phrase the slug encodes, and the slug was assigned by WAVE3-PLAN.json, so it was not altered. Recorded rather than silently passed."
+        }
+      ],
+      "additionalChecks": [
+        "SERP MEASURED, TWO INSTRUMENTS, BOTH SELF-AUTHENTICATED ON CONTENT READ. (a) serp-ddg.mjs with the query FIRST — 'node scripts/serp-ddg.mjs \"mi manchi un sacco in english\" --region it-it' — which echoed back 'query: mi manchi un sacco in english / region: it-it', confirming correct argument order. Ran twice: 9 of 10 hosts identical across runs, minor rank shuffle. (b) Google served to Italy in the real browser, gl=it&hl=it&pws=0&num=20. Authenticated on the extracted snippets, every one of which contains the literal string 'mi manchi un sacco' in an Italian-locale interface — NOT on the navigate response's page title, which the BRIEF correctly warns is not authentication.",
+        "WEAK COUNT AND GATE 4. Google it-it: 8 of the 10 organic results I actually saw are weak — context.reverso.net x2, mymemory.translated.net (its own entry metadata reads 'Usage Frequency: 1 / Quality: Excellent / Reference: Anonymous'), a depts.washington.edu page dated 17 Sep 2004, a nine-year-old Quora thread, a wordreference.com entry for the ENGLISH headword 'load', and a chatpal.chat page two days old. The two not weak are blog.rosettastone.com (5 Dec 2025) and ilcentro.net, an Italian language school in Milan. DDG it-it: 8 of 9 competitors weak, with Reverso taking 3-4 slots and MyMemory 2. NONE of the ten on either instrument cites Treccani, Crusca, Zingarelli, De Mauro or Devoto-Oli. GATE 4 VERDICT: PASS.",
+        "OUR OWN SIBLING RANKS ON THIS QUERY. subhsandesh.in/blog/mi-manchi-in-inglese sits at #10 on the DDG it-it SERP for the exact keyword (title 'Mi manchi in inglese: 278 frasi attestate a confronto'). It does NOT appear on the Google it-it SERP. Cannibalisation risk is real and is the reason this post is scoped strictly to intensifier POSITION and REGISTER and cross-links the sibling for verb-and-subject rather than restating it.",
+        "SONG CONTAMINATION CONFIRMED FOR 'mi manchi da morire'. A separate it-it DDG run on that phrase returns, in the top ten, TWO copies of the same YouTube video — Dennis Fantina, 'Mi manchi da morire' (official video 2018) — at ranks 4 and 6, with the other eight held by Italian phrase/aforismi publishers (cartoline.it, alfemminile.com, frasimania.it, frasidadedicare.it, frasario.it, aforisticamente.com x2, frasibrevi.it). A run on 'mi manchi un casino significato' likewise surfaces a song entity (Valerio Mazzei, 'Casino') at #4. 'mi manchi da morire' would therefore be an ABORT-LIKELY D-listicle row as a standalone target; here it is a sub-section only.",
+        "CHECKABLE ERROR #1 (in the body). wordy.info/blog/how-to-say-i-miss-you-in-italian, ranked 3 and 5 across the two DDG runs, assigns a register column and labels 'Mi manchi da morire' as SLANG. Treccani files 'da morire' under 'morire' 1.a as a 'uso iperb.' with NO register label, beside everyday examples (avere una fame, una sete, un freddo da m.; essere stanco da m.); De Mauro gives the locution the mark CO, the same it gives 'un sacco'. The absence is evidence, not a gap: Treccani applies 'fam.' to sacco 2.b and 'pop.' to casino 3 in the same entry family, and De Mauro's abbreviation list carries a distinct 'colloq. colloquiale'. THE PAGE ALSO LISTS 'Treccani, Vocabolario Treccani, entry for mancare (accessed 2026)' AND 'Accademia della Crusca' IN ITS OWN SOURCES BLOCK — it is the only ranking page that names an Italian dictionary, and it contradicts it. Second error on the same page: it labels 'Mi mancate' as 'casual' against 'Mi manchi tanto' as 'polite', collapsing a person/number inflection into a register column.",
+        "CHECKABLE ERROR #2 (in the body, inside the SERP section). depts.washington.edu, rank 5 on Google it-it, dated 17 September 2004, glosses 'Mi manchi un sacco' literally as 'to me it lacks a bag'. Wrong twice: 'manchi' is second person singular, not third; and 'un sacco' there is an adverb, which Treccani records at sacco 2.b as 'con valore avverbiale', not a direct object — impossible in any case under the affective sense, which Treccani files at 'mancare' 1. intr. (aus. essere). A twenty-two-year-old page-one .edu result with a doubly-wrong literal gloss.",
+        "THE LANE'S HANDOVER RULE WAS EXTENDED AND PARTLY CORRECTED. The sibling come-dire-mi-manchi-in-modo-originale established that Italian puts the intensifier BETWEEN verb and object ('Sento tanto la tua mancanza'). That is true but is the special case. Treccani states the general rule under 'molto', Osservazioni varie a.: 'si pospone di solito al verbo'. With sentire an object happens to follow, so the postposed adverb lands in the middle; with MANCARE THERE IS NO OBJECT AT ALL, because the missed person is the subject and the experiencer is a complemento di termine (Treccani's own label at 1.c; the word 'dative' is deliberately absent from the body, as in the three Italian siblings). So the between-verb-and-object rule DOES NOT HOLD for 'mi manchi', and the reason it does not is the same reason it holds for 'sentire'.",
+        "TATOEBA, INSPECTED INDIVIDUALLY. Twelve 'mi manchi'-family queries returned 90 raw (loose) hits; 11 survived strict literal-string filtering after NFD accent-stripping. Strict/loose: mi manchi tanto 2/8, mi manchi così tanto 3/23, mi manchi molto 1/16, quanto mi manchi 2/9, mi sei mancato molto 2/3, mi mancate tanto 1/8, and 0 for mi manchi un sacco (0 loose), da morire (0), un casino (0), moltissimo (0), tantissimo (0), mi manchi davvero (0 strict of 23 loose). THE ZEROS BELONGED TO THE QUERY, reproduced independently of the sibling's 'sento la tua mancanza' finding: strict 'mancava un sacco' gives 2 of 9 — 12852379 'Le mancava un sacco' → 'She missed him a lot' and 946180 'Gli mancava un sacco' → 'He missed him a lot'; and 4541855 'Mi sei mancato da morire' → 'My longing for you is killing me!' sits inside the 22 strict 'da morire' hits. Also found: 5204932 'In realtà mi piace un sacco' → 'I actually liked it a lot', i.e. Treccani's own example sentence attested in the wild. 'un casino' returns 0 in every frame tried, consistent with Treccani not recording the sense.",
+        "A DICTIONARY-VERSUS-CORPUS TENSION, RECORDED RATHER THAN RESOLVED. Treccani's 'molto' note predicts 'mi sei molto mancato' (adverb between auxiliary and participle). Tatoeba gives that form 0 loose and 0 strict, while 'mi sei mancato molto' gives 3 loose and 2 strict. Matched queries, same corpus, opposite result — but n is 2 against 0, far too small to generalise, and Treccani writes 'di solito'. De Mauro's own example for 'da morire' ('il film mi è piaciuto da morire') also places the phrasal intensifier after the participle. Stated in an FAQ as a tendency, never as a correction of Treccani.",
+        "REGISTER, FROM TWO DICTIONARIES THAT DISAGREE. Treccani: 'un sacco' is 'fig., fam.' at sacco 2.b with the adverbial use explicitly 'nel linguaggio colloquiale'; 'da morire' is 'uso iperb.' at morire 1.a with NO register label; 'casino' has NO intensifier sense at all, its sense 3 opening on 'Postribolo, casa di tolleranza' and reaching 'chiasso, confusione' only figuratively, marked 'pop.'; 'molto' and 'tanto' carry no register label. De Mauro gives all three of 'un sacco', 'un casino' and 'da morire' full headwords with the IDENTICAL mark CO. RECORDED LIMITATION: De Mauro's 'Marche d'uso' table is behind a client-side toggle and is not served in the static HTML, so 'CO' is reported verbatim and never expanded anywhere in the post. What was read is De Mauro's abbreviation list (via the Wayback copy of /abbreviazioni), which carries a distinct 'colloq. colloquiale' — so the dictionary has a colloquial mark and applies it to none of the three.",
+        "FULL TEXT READ FOR BOTH PAPERS — ZERO ABSTRACT-ONLY CITATIONS. Both were fetched via the Europe PMC fullTextXML endpoint in its exact form (https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML): PMC11141378 returned 110,042 bytes of JATS XML and PMC9973324 returned 162,577 bytes. Sample sizes, corpus provenance and the limitation paragraphs were read from the full text, not the abstract. Unpaywall was checked before citing either: Heliyon is_oa true / gold / CC BY-NC-ND; Frontiers in Artificial Intelligence is_oa true / gold / CC BY. No PDF was needed.",
+        "CAP POSITION AT WRITE TIME, BY RESOLVED ID, 2026-09-27. Journals named: HELIYON and FRONTIERS IN ARTIFICIAL INTELLIGENCE. Neither is on the hard-ban list (Frontiers in Psychology, PLoS ONE, Scientific Reports, BMC Psychology, PNAS). Heliyon is cited in 0 posts in this batch by resolved ID — two files match a text grep for the string but neither carries a Heliyon citation in batchMeta.sources, which is exactly the grep over-count the WAVE1 knownIssues warns about. Frontiers in Artificial Intelligence is cited in 1 post (aitai-meaning-in-english, PMC12714898 — a different PMCID), so this post takes that journal to 2 of 3. Neither PMC11141378 nor PMC9973324 appears anywhere in either batch. No doi.org URL is used (that resolver is at cap 3). The URLs at cap 2 (PMC8669216, PMC12842814) were avoided; PMC8669216 surfaced in a search and was deliberately not used. Spent-by-siblings papers PMC11337870, PMC12276763 and MDPI Languages 11(3):36 were avoided.",
+        "FIRST-PARTY DIFFERENTIATION, AND ITS HONEST WEAKNESS. All twelve miss-you segment lines in facts-snapshot.md are already spent across the three Italian siblings (four each, no overlap between them), so no unused miss-you line existed for a fourth Italian post. This post therefore uses FIVE PLATFORM-WIDE LINES WITH ZERO OVERLAP AGAINST ANY ITALIAN SIBLING, chosen as the least-collided in the batch by a measured count across 41 files: 57,456 views (1 prior use), 11.1 views per page (2), 90.9% published (3), 38.5% password (3), and the 2.5 h /apology-dashboard edit gap (6) — deliberately the OTHER edit-gap line, since the siblings took the miss-you 2.6 h n=214 figure. The trade is real and is stated plainly: platform-wide numbers are less topically tight than the miss-you segment lines, but a fourth Italian post repeating a sibling's four miss-you lines would be worse.",
+        "MANDATORY CAVEATS, ALL IN ITALIAN BODY PROSE, NOT ONLY HERE: (1) aperture are page views, not unique visitors ('chi riapre venti volte fa venti aperture'); (2) 'Nel database non c'è nessuna segmentazione per lingua o per paese, quindi nessuna di queste cifre è italiana'; (3) 'il database registra quale modello è stato aperto, mai chi lo ha ricevuto'; (4) the 2.5 h median is explicitly flagged as sampled on /apology-dashboard, n=1,396, and not on the miss-you template.",
+        "TEMPLATE CHOICE CHECKED AT SOURCE BEFORE ACCEPTING. app/lib/prompt.ts:44 defines /missyou-gf as \"'I miss you' page for a girlfriend/partner\" — verified. verify.config.json's _why makes it genuinely mandatory for this batch and names /streak for long distance. The assigned set was KEPT rather than swapped, and for the same reason wave-2 agents gave for swapping to /catch: /streak 'ships no pre-written romantic copy and cannot mistranslate the reader' — its own config description is 'two people, one tap a day; the streak grows, each check-in keeps a word', so the words are the reader's own Italian and the English-product mismatch is confined to interface chrome. The mismatch is disclosed in Italian body prose: the page is English, its labels are English, it is built for a partner, and it is named as the wrong choice for a brother, a parent or a friend.",
+        "PRICE GUARD. node content/batches/2026-09-26-miss-you-global-30/pricecheck-intl.mjs i-miss-you-so-much-in-italian run before saving. The body contains no occurrence of gratis, gratuito, gratuitamente, senza costi, prezzo, costo, euro or abbonamento in any form, and makes no tier or subscription claim: it says the terms of use are not derivable from our data and links /templates.",
+        "CROSS-LINKS VERIFIED LIVE AGAINST PRODUCTION STRAPI on 2026-09-27: mi-manchi-in-inglese total=1, come-dire-mi-manchi-in-modo-originale total=1, mi-manchi-in-spagnolo total=1 (live but not linked — off-language for this reader). This post's own slug returned total=0, i.e. free. Reached with ctx_execute against https://strapi.subhsandesh.in/api/articles, not curl and not WebFetch, both of which the project CLAUDE.md blocks.",
+        "THE FOURTH ITALIAN SIBLING LANDED MID-WRITE AND IS NOW CROSS-LINKED. i-miss-you-too-in-italian («Anche tu mi manchi»: significato, e perché «anche a me manchi» dice un'altra cosa) appeared on disk after this post's body was finished, so it was added word-neutrally — the existing cross-link sentence was rewritten to carry three links in the same token budget (1,784 words before, 1,784 after), per the WAVE1 knownIssues warning that the quiescence cross-link pass must not push a file over the 1,800 ceiling. Its lane is adjacent and non-overlapping in a useful way: it is also about adverb POSITION, but the adverb is «anche» and the intent is answering the message rather than sending it. Its Strapi slug returns total=0, so the link will 404 until that batch publishes — a genuine, correctly-recorded limitation, not a Strapi-offline artefact.",
+        "WIKIDATA QIDs VERIFIED BIDIRECTIONALLY via the Wikipedia pageprops API and then Special:EntityData: Q652 = 'Italian' / 'Romance language' / enwiki 'Italian language'; Q2339337 = 'intensifier' / 'linguistic modifier which enhances the word it modifies'; Q380057 = 'adverb'; Q687580 = 'Italian grammar'; Q731361 = 'Enciclopedia Treccani'; Q495456 = 'Tatoeba'. Every label and enwiki sitelink matches the page it is paired with — no Cambodian scarves, Spanish municipalities or dinosaurs. Zero Wikipedia links appear in the body; they exist only as sameAs pairs in structuredData.",
+        "ITEM 45 NOTE. The body carries no H3 headings, so the ItemList cannot mirror H3s; it mirrors the five rows of the comparison table in the same order, which is the only ordered list the body contains. Recorded here rather than claimed as a literal H3 mirror.",
+        "WORDREFERENCE WAS NOT FETCHED. www.wordreference.com returns HTTP 418 to a scripted user agent. Its 'load' entry, which pairs 'I miss you loads' with 'Mi manchi un sacco', was read only through the Google it-it snippet, and the FAQ that mentions it says so explicitly rather than presenting it as a read entry.",
+        "SEARCH TERMS THAT RETURNED NOTHING USABLE: 'Italian corpus colloquial intensifier register variation spoken' (Crossref returned Italian question intonation and newspaper language, not intensifiers); '(\"intensifier\" OR \"degree adverb\") AND OPEN_ACCESS:Y AND \"Italian\"' on the Europe PMC REST API returned orthopaedics, synchrotron and rubber-chemistry papers, because 'intensifier' in the biomedical index means an image intensifier; 'Gender and Discipline: Intensifier Variation in Academic Lectures' (Corpus Pragmatics, 2019) is Unpaywall is_oa false, closed. No open-access paper on Italian affective intensifiers specifically was found, which is why both scholarly sources are about English intensifiers and the body says so."
+      ],
+      "honestAssessment": "An answer engine has one concrete reason to cite this over the ten pages measured: it is the only one that answers WHERE the intensifier goes, and it answers with the dictionary's own words — Treccani's «molto» entry stating that the adverb «si pospone di solito al verbo», and its «sacco» entry printing «mi piace un sacco», a piacere sentence with exactly the argument structure of mancare, so the dictionary supplies the frame of «mi manchi un sacco» under a headword that never names the verb. Everything else on that SERP is a translation-memory dump, a phrase listicle, a 2004 student page glossing the phrase as «to me it lacks a bag», or a blog that lists Treccani in its sources and then labels «da morire» slang, which neither Treccani nor De Mauro does. The two-dictionary disagreement over «un casino» — a full CO headword in De Mauro, no intensifier sense at all in Treccani — is, as far as the measured SERP goes, unpublished. The corpus work is the second reason: 90 raw hits, 11 strict survivors, every one opened, and a zero on the exact keyword that the corpus itself overturns two sentences later. WHAT THIS POST CANNOT OVERCOME: subhsandesh.in has no published track record in Italian beyond three sibling posts that went live days ago, one of which already ranks #10 on this exact query on DuckDuckGo — so the most likely outcome is that the sibling absorbs some of this demand rather than this page displacing Reverso, and the two pages will have to be watched for cannibalisation. The first-party grounding is the weakest part: all twelve miss-you segment facts were spent by the three Italian siblings, so this post falls back on five platform-wide lines that are less topically tight, and it cannot say a single thing about what Italian senders actually type, because the database is not segmented by language and does not parse the letter. Ranking takes months and depends on authority and links this domain does not have; no outcome is predicted here."
+    }
+  }
+}

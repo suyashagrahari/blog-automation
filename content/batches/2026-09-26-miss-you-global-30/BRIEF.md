@@ -93,6 +93,14 @@ variants in ~18 minutes:
   (JS shell, 0 results), Ecosia 403, Yandex captcha/empty, six SearXNG instances,
   `r.jina.ai` 403 Cloudflare, Startpage bot-challenge.
 
+**`serp-ddg.mjs` TAKES THE QUERY FIRST — and gets it silently wrong otherwise.**
+`node scripts/serp-ddg.mjs "<query>" --region xx-yy` is correct.
+`node scripts/serp-ddg.mjs --region xx-yy "<query>"` makes **`xx-yy` the query**, prints
+`query: xx-yy`, and returns "(no results parsed)" — which reads exactly like the tool
+being down. Two agents hit this. **Read the `query:` line the tool echoes back before
+concluding anything from a failure.** (Verified by the orchestrator 2026-09-27: the
+mis-ordered call prints `query: de-de`.)
+
 **Try `serp-ddg.mjs` ONCE. If it fails, stop and switch routes immediately.**
 
 **UPDATE 2026-09-27 — DDG is INTERMITTENT, not dead and not fixed.** One agent got a
@@ -245,6 +253,14 @@ on the lemma page (`たい`, `会う`) instead. One agent also found
 gloss of the Japanese word at all** — its sections are Italian, a bare romanization
 pointer, and Latvian (dative of *aita*, "sheep"). A page existing is not a page saying
 what you need.
+
+**WHY the Larousse trap happens, and it generalises: in a Larousse URL the WORD IS
+DECORATIVE — only the numeric id selects the entry.** An agent proved it by fetching
+`/aussi/6587`, `/6588` and `/6589`, which return 200 serving **autoamputation**,
+**autoanalyse** and **s'autoanalyser**. That is why `/manquer/49348` serves MARAUD. The
+correct ids found so far: **manquer 49234**, **aussi 6526**. The Académie behaves
+similarly — its `/search` is an empty shell with zero `/article/` links, so ids are
+found by bisection (**AUSSI = A9A3190**, **manquer = A9M0575**).
 
 **HTTP 200 IS NOT CONFIRMATION YOU GOT THE RIGHT ENTRY.** Twice now: Larousse
 `/manquer/49348` returns 200 and serves the entry for **MARAUD**, and `dwds.de/wb/hdl`

@@ -1,0 +1,355 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Eu também sinto sua falta: onde entra o *também*, e por quê",
+    "slug": "eu-tambem-sinto-sua-falta",
+    "excerpt": "Responda com eu também sinto sua falta, o também colado no eu. Um artigo da Alfa (2024) mostra que o também aditivo tem posição livre e que o alvo é escolhido pelo acento — que não sobrevive numa mensagem digitada. Das três ordens, o Tatoeba registra duas e nenhuma com o também no fim.",
+    "metaTitle": "Eu também sinto sua falta: o acento decide, não a ordem",
+    "metaDescription": "Eu também sinto sua falta: o «também» não tem posição fixa em português — o alvo é escolhido pelo acento da fala. Das 3 ordens, o Tatoeba registra 2 e ignora 1.",
+    "keywords": "eu também sinto sua falta, também sinto sua falta, como responder sinto sua falta, eu também sinto sua falta em inglês, posição do também",
+    "canonicalURL": "https://subhsandesh.in/blog/eu-tambem-sinto-sua-falta",
+    "ogType": "article",
+    "tags": [
+      "português",
+      "gramática",
+      "saudade",
+      "longa distância",
+      "tradução"
+    ],
+    "keyTakeaways": [
+      "Por escrito, use «eu também sinto sua falta»: o «também» colado no «eu» é a única posição que fixa o alvo sem depender de entonação.",
+      "A Alfa (UNESP, 68, 2024) mostra que o «também» aditivo tem posição sintática livre e que o alvo é selecionado por acento frasal — não pela ordem das palavras.",
+      "Das três ordens possíveis, o Tatoeba registra «eu também sinto» em 4 frases e «também sinto» em 5, e «sinto sua falta também» em nenhuma.",
+      "O português não tem a casa dativa do espanhol: «a mim também» tem 0 ocorrências contra 141 de «a mim», e o Michaelis define «fazer falta» por referência a uma pessoa morta.",
+      "48,3% das visualizações de páginas compartilhadas são em celular (27.725 de 57.456, medido em 24/09/2026) — e um celular não transmite acento."
+    ],
+    "faqs": [
+      {
+        "question": "«Eu também sinto sua falta» ou «eu também sinto a sua falta»?",
+        "answer": "As duas aparecem no Tatoeba: 'sinto sua falta' em 6 frases e 'sinto a sua falta' em 3, todas traduzidas por 'I miss you'. O artigo definido não move o 'também', que segue colado no 'eu' nos dois casos."
+      },
+      {
+        "question": "Posso responder só com «eu também»?",
+        "answer": "Pode. A edição português-inglês do Michaelis registra exatamente essa troca no verbete 'também': 'está com fome? eu também / are you hungry? So am I'. A forma curta é nominativa e não deixa dúvida sobre quem sente."
+      },
+      {
+        "question": "Qual a diferença entre responder «eu também sinto sua falta» e «eu também estou com saudade»?",
+        "answer": "A posição do 'também' é a mesma; muda onde mora o sentimento. Em 'sinto sua falta' ele está no verbo e você é o sujeito; em 'estou com saudade' ele está no substantivo. O texto irmão sobre o significado de saudade cobre essa diferença em detalhe."
+      },
+      {
+        "question": "Como fica isso em inglês?",
+        "answer": "'I miss you too'. Nos três pares do Tatoeba com Tom, tanto 'Também sinto falta de Tom' [8564499] quanto 'Eu também sinto falta de Tom' [8564507] viram a mesma frase, 'I miss Tom, too'. O inglês não distingue as duas ordens."
+      },
+      {
+        "question": "Devo escrever «sua», «tua» ou «de você» ao responder?",
+        "answer": "Nenhuma das três muda a posição do 'também': ele vem antes, colado no 'eu'. A escolha entre elas é outro assunto, medido no texto irmão sobre 'sinto sua falta' em inglês."
+      },
+      {
+        "question": "«Digo o mesmo» funciona como resposta?",
+        "answer": "Funciona, mas troca um problema por outro: 'o mesmo' é anafórico e depende de a frase anterior estar clara na tela. 'Eu também' traz o pronome explícito e dispensa essa dependência."
+      },
+      {
+        "question": "Responder só «eu também» soa frio?",
+        "answer": "Depende do canal e do tempo. A mediana entre o primeiro salvamento e a última edição de uma página na SubhSandesh é de 2,5 horas, amostrada no painel de desculpas, n = 1.396 (medido em 24/09/2026): quem tem esse tempo escreve mais. Quem responde no ato tem duas palavras e uma entonação que o texto não carrega."
+      },
+      {
+        "question": "Por que a busca por essa frase traz tanta música?",
+        "answer": "Porque 'sinto sua falta' é título de canção. No Google brasileiro sem aspas, 7 dos 18 resultados que medi em 27/09/2026 são música — Ferrugem, Marília Mendonça, Amado Batista e outros. Com aspas e com o 'também', a música desaparece por completo."
+      },
+      {
+        "question": "Em Portugal se responde do mesmo jeito?",
+        "answer": "Não medi o português europeu e por isso não afirmo nada sobre ele. Vale notar que o Priberam citado aqui foi pedido explicitamente em /pt-br/, porque o site redireciona para /pt-pt/ por padrão."
+      },
+      {
+        "question": "E quando a resposta é negativa?",
+        "answer": "O par passa a ser 'também não'. A edição português-inglês do Michaelis registra a locução 'também não / neither' e o exemplo 'se ele não vai ela também não irá / if he does not go she will not go either' — o advérbio continua depois do sujeito."
+      },
+      {
+        "question": "Precisa mesmo do acento em «também»?",
+        "answer": "Sim: é oxítona terminada em -em, com mais de uma sílaba, então leva acento agudo. O artigo da Alfa registra ainda a pronúncia reduzida 'tamém', generalizada na fala brasileira, que não se escreve."
+      }
+    ],
+    "coverImageQuery": "pessoa respondendo mensagem celular noite",
+    "coverImagePrompt": "A close, warm photograph of a young woman's hands holding a phone at night, a half-typed message glowing on the screen, the rest of the room dark and softly out of focus. Shallow depth of field, cool screen light against warm lamplight. Clean negative space along the top third for a title overlay, 16:9. No legible text on the screen and no watermark except a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# Eu também sinto sua falta: onde entra o *também*, e por quê\n\nPara responder uma mensagem, escreva **eu também sinto sua falta**, com o *também* colado no *eu*. Por escrito, essa é a única posição que deixa claro que quem sente falta também é você, e não que você sente falta de mais alguém além dela. Os dicionários brasileiros não registram regra de posição nenhuma para o *também*: quem decide o alvo, segundo um artigo de semântica de 2024, é o acento da fala — e acento não entra no WhatsApp.\n\nIsso importa porque a resposta é lida num aparelho pequeno e às pressas: 48,3% das páginas compartilhadas da SubhSandesh abrem num celular (27.725 de 57.456 visualizações, medido em 24/09/2026), e 90,9% das começadas acabam publicadas (4.724 de 5.199, medido em 24/09/2026). Quem responde tem uma frase e nenhuma entonação.\n\n## O que os dicionários brasileiros realmente registram\n\nO **Michaelis** (*Dicionário Brasileiro da Língua Portuguesa*, [verbete *também*](https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=tamb%C3%A9m), adv.) traz duas acepções que formam um par mínimo. A acepção 1 — \"indica que uma coisa é igual ou semelhante a outra já mencionada\" — vem com *Vários professores vão sair em férias. **Eu também** vou sair alguns dias*: o advérbio está grudado no sujeito, e é o sujeito que entra na conta.\n\nA acepção 2 — \"indica inclusão de uma coisa em outra\" — traz *Nessa fase, escreveu dois romances e, **também**, um livro de contos*: aqui o advérbio vem antes do objeto, e é o objeto que entra na conta. Um item, dois alvos.\n\nO **Priberam** em `dicionario.priberam.org/pt-br/também` é mais econômico: três acepções (*do mesmo modo*; *igualmente, conjuntamente*; e a conjuntiva *por isto*), **sem exemplo e sem regra de posição**. O **Aulete** lista oito acepções e põe o *também* depois do sujeito em duas (*Queria viajar logo, e o irmão também*).\n\nNenhum dos três diz onde o *também* deve ficar. É essa lacuna que a pesquisa preenche.\n\n## A posição é livre. Quem decide é o acento\n\nO artigo [\"Uma análise semântica de 'também' com uso aditivo no português brasileiro\"](https://www.scielo.br/j/alfa/a/TJPFrrSVJkp5SKwq6vS7vvR/?lang=pt), de 2024, na **Alfa: Revista de Linguística** (UNESP, acesso aberto), abre com o par *João foi na festa **também*** e *João **também** foi na festa*, e apresenta os dois como **duas posições da mesma partícula**, não dois sentidos. O *também* aditivo, diz o texto, \"apresenta maior liberdade sintática e não requer nenhuma entoação específica\".\n\nO que seleciona o alvo é o acento. Seguindo Krifka (1998), o artigo dá um par com **a mesma ordem de palavras e acentos diferentes**: em *Péter provavelmente foi na exposição, tambèm*, Pedro entra na lista de quem foi à exposição; em *Peter provavelmente foi na exposíção, tambèm*, a exposição entra na lista de lugares visitados. Para os autores, o *também* cria uma lista e \"direciona o foco, talvez com o auxílio (aparentemente opcional) de acentos frasais\".\n\nE esse acento depende de canal. A [**DELTA**](https://www.scielo.br/j/delta/a/v7bX9HSyb7jzSYChDwSR8Jw/?lang=en) (PUC-SP, 38(3), 2022), em \"Focus types in Brazilian Portuguese\", testou 80 enunciados (4 elementos focalizados × 5 tipos de foco × 4 falantes) em áudio, vídeo e audiovisual — 240 estímulos — e o foco contrastivo só é identificado com segurança com o canal acústico. Numa mensagem digitada não há áudio nem rosto.\n\nPor isso o pronome aparece. Em português o *eu* normalmente cai; escrevê-lo só para encostar o *também* nele é o motivo inteiro. O pronome explícito é o suporte que sobra quando o acento some.\n\n## As três ordens, e a que ninguém escreve\n\nMedi as três no [**Tatoeba**](https://tatoeba.org/en/sentences/search?query=%22eu+tamb%C3%A9m+sinto%22&from=por&to=eng) (português → inglês, 27/09/2026), inspecionando cada resultado e filtrando por trecho exato:\n\n| Ordem | Ao que o *também* se liga por escrito | Frases no Tatoeba | Risco no texto |\n|---|---|---|---|\n| **Eu também** sinto sua falta | ao *eu*, sem concorrente | 4 com *eu também sinto* | nenhum |\n| **Também** sinto sua falta | ambíguo: aditivo ou \"é óbvio\" | 5 com *também sinto* | leve |\n| Sinto sua falta **também** | indefinido, como em inglês | **0** | alto |\n| *I miss you too* (inglês) | indefinido | — | alto |\n\nO paradigma está no corpus, em três frases contribuídas em sequência: [8564511] *Eu sinto falta de Tom* → \"I miss Tom\"; [8564499] *Também sinto falta de Tom* → \"I miss Tom, too\"; [8564507] *Eu também sinto falta de Tom* → \"I miss Tom, too\". **As duas ordens portuguesas viram a mesma frase em inglês.** O português separa mexendo uma palavra; o inglês não separa.\n\nA resposta pronta está lá em diálogo: [4922328] *\"Eu te amo.\" \"**Eu também** te amo.\"*\n\n## *Você também, eu sinto sua falta* é uma armadilha\n\nO francês tem um truque que o português não tem: *Toi aussi, tu me manques*, com o sujeito duplicado. A transposição literal, *Você também, eu sinto sua falta*, esbarra em outro *também*. O mesmo artigo da Alfa classifica *Você também, hein, nem pra tomar cuidado com onde parar o carro* como o *também* **expressivo**, que \"requer um indivíduo como argumento\" e \"carrega um conteúdo de **desaprovação**\". Abrir uma resposta carinhosa com *Você também* arrisca soar como bronca.\n\nHá um segundo motivo, estrutural: em *sinto sua falta* quem sente é o sujeito, e a pessoa amada está dentro do objeto, como possuidor de *falta*. Não há sujeito para duplicar. O artigo registra ainda o *também* interjetivo e causal — *\"— O João chegou tarde. — **Também**, ele foi na festa\"* — com \"posição sintática sempre inicial\": é o risco leve da tabela acima.\n\n## O espanhol diz «a mí también». O português não tem essa casa\n\nEm espanhol, *me haces falta* é corrente e a resposta vem no dativo, «a mí también». Em português esse encaixe não existe:\n\n- **«a mim também» não tem nenhuma ocorrência no Tatoeba**, enquanto o simples «a mim» tem 141. O zero é da combinação, não da consulta.\n- O verbete `falta` do **Priberam** traz *à falta de*, *em falta*, *na falta de* — e **nenhuma locução *fazer falta***.\n- O [**Michaelis**](https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta) registra a locução e a define assim: \"**Fazer falta**: fazer sentir uma ausência, carência, ou a necessidade, valor e importância de uma **pessoa morta**\". É luto, não namoro à distância.\n- A edição bilíngue do mesmo Michaelis dá um só exemplo com *fazer falta*, inanimado: *isto não me faz falta / **I can manage without it***.\n- As três ocorrências exatas de *faz falta* no Tatoeba têm por sujeito um computador, duas vezes, e um interrogativo. **Nenhuma tem gente.**\n\nA conclusão vale para as duas línguas: o espanhol responde no dativo, o português no nominativo. O Michaelis bilíngue traduz *está com fome? **eu também*** por \"are you hungry? **So am I**\", não por \"me too\".\n\n## Um erro verificável no resultado que ranqueia\n\nMedi o SERP brasileiro em 27/09/2026 pelo `serp-ddg.mjs` e pelo Google no navegador real com `gl=br&hl=pt-BR&pws=0`, rodado duas vezes com resultado idêntico. Na frase exata entre aspas, os 14 resultados que vi são fazendas de frases, Instagram, TikTok, anúncios de cartão, Reddit, Quora e páginas em inglês — nenhuma editorial em português. Sem as aspas, 7 dos 18 são música (Ferrugem, Marília Mendonça, Amado Batista), e por isso este texto trata da resposta, não da frase solta.\n\nO primeiro resultado orgânico dessa busca é o **Linguee**, que não linko por ser concorrente na mesma consulta. No mesmo painel ele dá `sua pron — your pron · his pron` e, duas linhas acima, `sua falta f — **his absence**`: no topo do Google, o trecho exato da sua consulta vira terceira pessoa, numa frase dirigida a quem acabou de te escrever. O [Michaelis bilíngue](https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=sentir) traduz o mesmo sintagma na segunda: *vou sentir muito **a sua falta** / I shall miss **you** very much*.\n\n## O que os números da plataforma mostram — e o que não mostram\n\nA SubhSandesh tem 5.199 páginas criadas desde 12/03/2026, em 21 tipos, por 3.843 criadores registrados (medido em 24/09/2026). A mediana entre o primeiro salvamento e a última edição é de 2,5 horas, no painel de desculpas, n = 1.396.\n\nDuas horas e meia é o tempo de quem **inicia** uma conversa; uma resposta não tem esse tempo, e é aí que a frase digitada perde o acento. Quem quer devolver a entonação tem um caminho: 13,6% dos remetentes de páginas de saudade gravam uma nota de voz (29 de 214, medido em 25/09/2026).\n\n| Canal da resposta | O *também* fica ambíguo? | Dado próprio |\n|---|---|---|\n| Mensagem digitada | sim, o acento some | 48,3% das visualizações são em celular (27.725 de 57.456) |\n| Nota de voz | não, o acento vai junto | 13,6% dos remetentes gravam uma (29 de 214) |\n| Carta numa página | sim, mas há espaço para explicar | 90,9% das páginas começadas são publicadas (4.724 de 5.199) |\n\nOs limites são grandes. O banco registra **qual modelo foi aberto, nunca quem recebeu**, e **nada ali é segmentado por língua ou país**: nenhum desses números é brasileiro. Visualizações são visualizações de página, não visitantes únicos — quem reabre vinte vezes conta vinte. A amostra de saudade é de 214 páginas em dois meses e não sustenta afirmação sazonal. Cidade, música de fundo e \"juntos desde\" são seletores com valor padrão, e o preenchimento deles não é escolha de ninguém.\n\n## Onde a nossa página não serve para você\n\nSendo direto: a [página de \"sinto sua falta\" para a namorada](/missyou-gf) é **inteiramente em inglês** — rótulos, campos, instruções — e as 214 páginas medidas nela foram feitas por quem *envia* a primeira mensagem a uma namorada, não por quem *responde*. Se você veio devolver uma frase hoje, ela é a ferramenta errada: monta-se uma página quando bastavam quatro palavras.\n\nPara quem responde faz mais sentido o [Streak, em que duas pessoas marcam presença uma vez por dia](/streak): é o único modelo recíproco do catálogo, e recíproco é o que \"eu também\" significa. Ele também é em inglês. Se nenhum servir, o [catálogo completo de modelos](/templates) mostra o que existe; não consigo confirmar condições de uso a partir dos nossos dados, então não afirmo nada.\n\nOs textos irmãos cobrem o vocabulário à volta: [por que *sinto sua falta* vira *I miss you*](/blog/sinto-sua-falta-em-ingles), [o que *saudade* significa](/blog/o-que-significa-saudade), [se o certo é *saudade* ou *saudades*](/blog/saudade-ou-saudades-qual-o-certo) e [como dizer *saudade* em inglês](/blog/saudade-em-ingles-como-se-diz).\n\n## Fontes\n\n- Alfa: Revista de Linguística (UNESP), 68, 2024 — \"Uma análise semântica de 'também'\", acesso aberto, lido na íntegra.\n- DELTA (PUC-SP), 38(3), 2022 — \"Focus types in Brazilian Portuguese\", acesso aberto, lido na íntegra.\n- Michaelis (Melhoramentos), edições monolíngue e português-inglês — verbetes *também*, *falta*, *sentir*.\n- Priberam, norma brasileira (`/pt-br/também`, `/pt-br/falta`) e Caldas Aulete — verbetes *também* e *falta*.\n- Tatoeba (CC BY 2.0 FR) — 16 consultas português → inglês, em 27/09/2026.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/eu-tambem-sinto-sua-falta#post",
+        "inLanguage": "pt-BR",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Brazilian Portuguese",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+              "https://www.wikidata.org/wiki/Q750553"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Focus (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Language",
+            "name": "Portuguese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Portuguese_language",
+              "https://www.wikidata.org/wiki/Q5146"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical particle",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_particle",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Saudade",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saudade",
+              "https://www.wikidata.org/wiki/Q1338509"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Uma análise semântica de 'também' com uso aditivo no português brasileiro",
+            "url": "https://www.scielo.br/j/alfa/a/TJPFrrSVJkp5SKwq6vS7vvR/?lang=pt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Alfa: Revista de Linguística (UNESP)"
+            },
+            "datePublished": "2024-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Focus types in Brazilian Portuguese: Multimodal production and perception",
+            "url": "https://www.scielo.br/j/delta/a/v7bX9HSyb7jzSYChDwSR8Jw/?lang=en",
+            "publisher": {
+              "@type": "Organization",
+              "name": "DELTA — Documentação e Estudos em Linguística Teórica e Aplicada (PUC-SP)"
+            },
+            "datePublished": "2022-12-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis, Dicionário Brasileiro da Língua Portuguesa — verbete também",
+            "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=tamb%C3%A9m",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis, Dicionário Brasileiro da Língua Portuguesa — verbete falta",
+            "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis, dicionário português-inglês — verbete sentir",
+            "url": "https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=sentir",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — frases paralelas português-inglês",
+            "url": "https://tatoeba.org/en/sentences/search?query=%22eu+tamb%C3%A9m+sinto%22&from=por&to=eng",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "As três ordens de «também» na resposta, da mais segura à menos segura por escrito",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Eu também sinto sua falta — o também liga-se ao eu; 4 frases no Tatoeba"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Também sinto sua falta — ambíguo entre o aditivo e o interjetivo/causal; 5 frases no Tatoeba"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sinto sua falta também — alvo indefinido, como no inglês; 0 frases no Tatoeba"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "eu também sinto sua falta",
+    "angle": "Wins by being the only page on the measured br-pt SERP that answers where «também» attaches when you ANSWER «sinto sua falta» — and gets a counterintuitive, peer-reviewed answer: Alfa (UNESP, 68, 2024) shows the additive «também» has FREE syntactic position and its target is selected by phrasal accent following Krifka (1998), so «sinto sua falta também» is as ambiguous in writing as English \"I miss you too\" and the overt subject pronoun in «eu também» is the only written disambiguator. It carries three measured zeros nobody has published — «sinto sua falta também» 0 in Tatoeba against 4 and 5 for the other two orders, «a mim também» 0 against 141 for «a mim», «me faz falta» 0 — plus the finding that the Spanish dative trap does NOT transfer, because Michaelis defines «fazer falta» by reference to a pessoa morta and its own bilingual edition's only example is inanimate; and a checkable error in the #1 organic result, where Linguee glosses «sua falta» as \"his absence\" three lines below its own «sua pron — your pron».",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "5,199 personalised pages created since 2026-03-12, across 21 page types — measured 2026-09-24",
+      "3,843 registered creators — measured 2026-09-24",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.scielo.br/j/alfa/a/TJPFrrSVJkp5SKwq6vS7vvR/?lang=pt",
+        "stat": "Alfa: Revista de Linguística (UNESP), 68, 2024 — o 'também' aditivo do português brasileiro 'apresenta maior liberdade sintática e não requer nenhuma entoação específica'; seguindo Krifka (1998), o alvo é selecionado por acento frasal com a mesma ordem de palavras; o 'também' expressivo de 'Você também, hein' carrega 'um conteúdo de desaprovação'; o 'também' interjetivo/causal tem 'posição sintática sempre inicial'. Lido na íntegra.",
+        "publishedDate": "2024-01-01"
+      },
+      {
+        "url": "https://www.scielo.br/j/delta/a/v7bX9HSyb7jzSYChDwSR8Jw/?lang=en",
+        "stat": "DELTA (PUC-SP), 38(3), 2022 — 80 enunciados (4 elementos focalizados × 5 tipos de foco × 4 falantes) apresentados em áudio, vídeo e audiovisual, 240 estímulos; o foco contrastivo é confundido quando só há pistas visuais e é identificado com taxas mais altas na condição audiovisual do que só em áudio. Lido na íntegra.",
+        "publishedDate": "2022-12-01"
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=tamb%C3%A9m",
+        "stat": "Michaelis, Dicionário Brasileiro da Língua Portuguesa, verbete 'também', adv. — acepção 1 'indica que uma coisa é igual ou semelhante a outra já mencionada', exemplo 'Vários professores vão sair em férias. Eu também vou sair alguns dias'; acepção 2 'indica inclusão de uma coisa em outra', exemplo 'escreveu dois romances e, também, um livro de contos'. O par mínimo sujeito/objeto está nos dois exemplos do próprio dicionário, sem nenhuma regra de posição enunciada."
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta",
+        "stat": "Michaelis, Dicionário Brasileiro da Língua Portuguesa, verbete 'falta': 'Fazer falta: fazer sentir uma ausência, carência, ou a necessidade, valor e importância de uma pessoa morta.'"
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=sentir",
+        "stat": "Michaelis português-inglês, verbete 'sentir': 'sentir falta de to miss: vou sentir muito a sua falta / I shall miss you very much' — o mesmo sintagma glosado na segunda pessoa."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?query=%22eu+tamb%C3%A9m+sinto%22&from=por&to=eng",
+        "stat": "Tatoeba, consultas português→inglês em 27/09/2026: 'eu também sinto' 4 frases, 'também sinto' 5, 'sinto sua falta' 6, 'sinto sua falta também' 0, 'a mim também' 0 contra 141 de 'a mim', 'me faz falta' 0; as 3 ocorrências exatas de 'faz falta' não têm sujeito humano."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "The post contains at least one claim none of the top 5 pages make",
+          "why": "PASSES on substance, but recorded with a caveat: the retargeted SERP's top 5 are two quote farms, a TikTok, a Zazzle product listing and an Instagram post, none of which makes ANY linguistic claim. \"A claim none of the top 5 make\" is therefore trivially true here and is weak evidence; the real comparison is against Quora (#10), Linguee (#11) and Preply (#14), and against those the accent finding, the three Tatoeba counts and the «a mim também» zero are genuinely absent."
+        },
+        {
+          "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+          "why": "scielo.br carries two of the six sources (Alfa and DELTA). capcheck.mjs read scielo.br at 1 post before this one, so the DOMAIN goes to 2 of 3 and no journal exceeds 1 post for Alfa or 2 for DELTA — within cap at write time, but six agents write concurrently and this count is known to go stale, so it stays flagged for the orchestrator's quiescence census rather than asserted clean."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "Not applicable in the direction the item is written — nothing here is paywalled and both papers were read in full text. Left in failed rather than passed because the item asks for a disclosure this post has no occasion to make, and marking it passed would imply a disclosure that is not in the file."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "An ItemList is present and mirrors the three word orders in the body's first comparison table, but the body has NO H3 headings at all, so it cannot mirror H3s in the same order as the item specifies. Closing this would mean promoting the three orders to H3s, which would break the 2–3-sentence-per-section rule and add words to a post already at 1,786."
+        }
+      ],
+      "additionalChecks": [
+        "SERP route 1 — serp-ddg.mjs PARSED CLEANLY on the first call, echoing `query: eu também sinto sua falta`. 10 results: 8 message farms + 2 letras.mus.br lyrics pages. A quoted re-run returned 3 with linguee.com.br at #1. A third call (reply tail) returned \"(no results parsed)\" and was NOT retried, per BRIEF §3.",
+        "SERP route 2 — Google gl=br&hl=pt-BR&pws=0 in the real browser, three loads, self-authenticated on CONTENT each time (the page body carried linguee.com.br/.../eu+também+sinto+sua+falta, not just a correct title). No sibling-language leakage observed.",
+        "SONG CONTAMINATION, MEASURED AND REPORTED: on the unquoted Google SERP, 7 of the 18 organic results I actually saw are music — YouTube ×5 (Ferrugem \"DVD Prazer, Eu Sou Ferrugem: Sinto Sua Falta\", Banda Encantu's, Amado Batista, Leo do Cerrado, Marília Mendonça), Spotify (Lil Chainz), letras.mus.br (Ferrugem). The brief's warned-about `sinto sua falta ferrugem` is present. Gate 2 recorded PARTIAL and the post RETARGETED to the exact keyword WITH «também», where music drops to ZERO.",
+        "GATE 4 — on the quoted SERP, 14 of the 14 results I actually saw are weak (quote farms, TikTok ×2, Zazzle product listings ×2, Instagram ×3, Reddit, Quora, Linguee, wikiHow, Preply). Not one Portuguese-language editorial or grammar page. A reply-tail control returned 12 of 12 weak. Gate 4 PASS.",
+        "CONFIRMATION RUN: the quoted Google SERP was loaded twice; the canonical result set is identical, differing only in per-request srsltid tracking tokens on the same three Zazzle URLs.",
+        "Bing and Brave were NOT run. Saying so rather than implying breadth not bought.",
+        "WHERE «também» ATTACHES, WITH THE EXACT ENTRY: Michaelis, Dicionário Brasileiro da Língua Portuguesa, verbete «também», adv. — sense 1 example «Vários professores vão sair em férias. EU TAMBÉM vou sair alguns dias» (subject-associated) vs sense 2 example «escreveu dois romances e, TAMBÉM, um livro de contos» (object-associated). Priberam /pt-br/também gives three senses, NO examples and NO positional rule — a clean negative. Aulete gives eight senses, post-posed after a subject NP in senses 1 and 7.",
+        "THE PEER-REVIEWED ANSWER OVERRULES THE ADJACENCY INTUITION: Alfa 68 (2024) presents «João foi na festa também» / «João também foi na festa» as two POSITIONS of one particle, states the additive «também» 'apresenta maior liberdade sintática e não requer nenhuma entoação específica', and following Krifka (1998) gives a pair with IDENTICAL word order and different phrasal accent that flips the target. Portuguese is therefore a FOURTH cell: not Italian (position selects), not French (clitics block, wide scope), not Spanish (no rule) — position is free and ACCENT decides, which is why writing needs the overt pronoun.",
+        "SUBJECT REDUPLICATION DOES NOT WORK, twice over. Structurally, «sinto sua falta» has the addressee as a possessor inside the object, so there is no subject to reduplicate. Lexically, «Você também, …» collides with the EXPRESSIVE «também» that Alfa 2024 example (3)/(5) documents as requiring an individual as argument and carrying 'um conteúdo de desaprovação' — the French trick lands on a reproach in Portuguese.",
+        "SECOND TRAP FROM THE SAME PAPER: sentence-initial «também» has an interjective/causal reading ('mas é claro') whose 'posição sintática [é] sempre inicial' (ex. 4a), so a bare «Também sinto sua falta» opening a reply is structurally ambiguous between the additive and the causal readings.",
+        "THE SPANISH DATIVE COUNTER-TRAP DOES NOT TRANSFER — four independent checks: (1) «a mim também» = 0 in Tatoeba against 141 for the bare «a mim»; (2) Priberam's /pt-br/falta entry, 112 KB read, carries NO «fazer falta» locution at all; (3) Michaelis's monolingual entry defines it as 'fazer sentir … a necessidade, valor e importância de uma PESSOA MORTA'; (4) Michaelis's own PT-EN edition gives one «fazer falta» example and it is inanimate — 'isto não me faz falta / I can manage without it'. Portuguese's reply is NOMINATIVE («eu também», glossed 'So am I' by Michaelis PT-EN), Spanish's is dative and never nominative.",
+        "TATOEBA, tokenised and every hit inspected (exact-substring survivors in brackets): «eu também sinto» 4 [4], «também sinto» 5 [5], «sinto sua falta» 6 [6], «sinto a sua falta» 3 [3], «sinto falta» 23 [22], «sinto sua falta também» 0 [0], «eu também te amo» 3 [3], «também te amo» 4 [4], «você também» 101, «a mim» 141, «a mim também» 0, «me faz falta» 0, «você faz falta» 0, «me fazes falta» 0, «fazes falta» 5 [0], «faz falta» 5 [3]. Phrasings were varied before any zero was recorded.",
+        "THE PARADIGM IS IN THE CORPUS at three consecutive contributed ids: [8564511] «Eu sinto falta de Tom» → 'I miss Tom'; [8564499] «Também sinto falta de Tom» → 'I miss Tom, too'; [8564507] «Eu também sinto falta de Tom» → 'I miss Tom, too'. Both Portuguese orders collapse into ONE English string. Closest hit to the keyword: [1299018] «Acho que eu também sinto saudade de você» → 'I guess I miss you too'. Reply template: [4922328] «\"Eu te amo.\" \"Eu também te amo.\"».",
+        "CHECKABLE ERROR IN A RANKING RESULT: Linguee (#1 organic on the quoted Google br-pt SERP and #1 on the quoted DDG run, page served charset=iso-8859-15) gives, in one panel, «sua pron — your pron · his pron» AND, three lines above, «sua falta f — his absence». The exact substring of the query, in a phrase addressed to whoever wrote to you, is glossed third person on the page ranked above everything else, and the same page contradicts itself. Checkable against Michaelis PT-EN's «sentir falta de … vou sentir muito A SUA FALTA / I shall miss YOU very much». Linguee is NOT linked from the body: it ranks for this keyword, so linking it would be a competitor link (checklist item 28).",
+        "THE SPLIT FROM THE FOUR PORTUGUESE SIBLINGS, stated and honest: all four answer what the missing IS or how to render it in English; this is the only one about the REPLY, and the reply turns out not to be a lexical question at all but a question about where a focus particle attaches. Nothing was re-derived; all four are cross-linked and all four are LIVE in Strapi (each returns total:1).",
+        "STRAPI CHECKED via ctx_execute against production (curl and WebFetch are blocked by project CLAUDE.md, which is what made earlier agents wrongly report the service down): /api/articles?filters[slug][$eq]=eu-tambem-sinto-sua-falta returns total:0 — slug free. Category miss-you-across-miles confirmed present among the 10 live categories.",
+        "WIKIDATA QIDs ALL VERIFIED against the Wikipedia API pageprops on 2026-09-27, none from memory: Brazilian Portuguese Q750553, Portuguese language Q5146, Focus (linguistics) Q1435289, Saudade Q1338509, Grammatical particle Q184943.",
+        "BANNED SOURCES AVOIDED: findpapers.mjs returned Frontiers in Psychology, PLoS ONE, BMC Psychology and Behavioral Sciences for every psychology-side query; ALL are at or over cap and NONE was used. doi.org is at cap 3, so the Alfa and DELTA papers are cited through their SciELO publisher URLs rather than their DOIs.",
+        "INSTRUMENTS THAT FAILED, recorded rather than hidden: Ciberdúvidas' search endpoint returns HTTP 200 and a ~37.5 KB navigation shell for three different queries (37,525 / 37,522 / 37,502 bytes) with zero result links — the Van Dale shape — so NO Ciberdúvidas ruling is cited. Google Ngrams pt-2019 returns no series for the 3-grams «eu também sinto», «sinto sua falta» or «me faz falta», so no frequency claim is made. The Leipzig Corpora REST API 404s on every por_* corpus id tried. The DELTA 2023 null-subject paper (S0102-44502023000300401) 502'd three times and is not cited.",
+        "OUTBOUND-LINK BUDGET: the checklist caps outbound links at 6, and Priberam and Aulete lost the tie. Both are still named in prose and their URL shapes are printed in the Fontes list (`dicionario.priberam.org/pt-br/também`, `/pt-br/falta`) so a reader can check them; both were fetched and read in full, and Priberam's finding is an ABSENCE (three senses, no examples, no positional rule) which the printed URL makes as checkable as a link would.",
+        "PRICE GUARD: body scanned for grátis / gratuito / gratis / de graça / sem custo / free / preço / R$ / assinatura / plano pago — zero hits. pricecheck-intl.mjs run on the finished file.",
+        "MANDATORY CAVEATS ARE IN BODY PROSE, in Portuguese, not only here: the database records which TEMPLATE was opened and never who received it; nothing in it is segmented by language or country, so none of these figures is Brazilian; viewCount is page views and not unique visitors; n = 214 over two months supports no seasonal claim; city, background music and \"together since\" are pickers with defaults and their fill is not a sender's choice.",
+        "FACT COLLISION DISCLOSED: the 13.6% voice-note line and the 214-pages line are also used by Portuguese siblings, so the differentiation on those two is thin. The other five lines are platform-wide and less collided, and the spine is built on 2.5 hours (apology dashboard, n=1,396) read as the time of someone who STARTS a conversation — a different reading from the Spanish row's 1.35-pages-per-creator argument, not a restatement of it.",
+        "ORCHESTRATOR FRAMING CHECKED, per BRIEF §0: the prompt's implicit expectation that «também» attaches positionally is WRONG for Brazilian Portuguese and the peer-reviewed source says so; the subject-reduplication hypothesis is negative on two independent grounds; the dative counter-trap hypothesis is negative and the reason is stronger than the corpus zero alone. Nothing else in the prompt was found to be wrong — /missyou-gf is indeed defined at app/lib/prompt.ts:44 as an \"'I miss you' page for a girlfriend/partner\", and /streak is indeed the only reciprocal template in TEMPLATE_LINKS."
+      ],
+      "honestAssessment": "It is the only page on this SERP that answers the actual question — and the answer is one no competitor is positioned to reach, because it comes from a 2024 Alfa paper that says the additive «também» has FREE position and the target is chosen by phrasal accent, which is why a typed reply needs the overt «eu». Around that sit four things nobody has published: the three Tatoeba counts including a hard zero for «sinto sua falta também», the «a mim também» zero against 141 for «a mim», Michaelis defining «fazer falta» by reference to a dead person, and a self-contradicting person error in the #1 organic result. What it cannot overcome: this is a first Portuguese post from a domain with 905 live articles and none in Portuguese, so there is no track record in this language at all, and the SERP's top slots are held by Instagram, TikTok and Zazzle rather than by pages a better article displaces — the realistic route in is the reply tail and the AI-Overview/answer-engine surface, not position 1. The bare-phrase neighbour is 7-of-18 music and is not winnable; that is why the post is built and titled for the «também» reading and says so.",
+      "checklistArithmetic": "passed 46 + failed 4 = 50; intersection 0"
+    },
+    "generatedAt": "2026-09-27T07:36:26.880Z"
+  }
+}

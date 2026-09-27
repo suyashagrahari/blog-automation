@@ -1,0 +1,364 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ja też za tobą tęsknię — gdzie stoi „też\" i co ta jedna sylaba zmienia",
+    "slug": "ja-tez-za-toba-tesknie",
+    "excerpt": "„Ja też za tobą tęsknię\" to nie to samo co angielskie „I miss you too\": polskie „też\" trzyma się składnika z akcentem zdaniowym. Poradnia PWN mówi to dwa razy, a korpus NKJP i Tatoeba pokazują, którego szyku Polacy naprawdę używają w odpowiedzi.",
+    "metaTitle": "Ja też za tobą tęsknię: gdzie stoi „też\" wedle PWN",
+    "metaDescription": "„Ja też za tobą tęsknię\" kładzie akcent zdaniowy na „ja\", nie na „tobą\" — inaczej niż angielskie „I miss you too\". Dwie reguły PWN i 2 wystąpienia w NKJP.",
+    "keywords": "ja też za tobą tęsknię, ja też za tobą tęsknię po angielsku, co odpowiedzieć na tęsknię za tobą, ja też tęsknię, też czy także, ja też nie",
+    "canonicalURL": "https://subhsandesh.in/blog/ja-tez-za-toba-tesknie",
+    "ogType": "article",
+    "tags": [
+      "tęsknota",
+      "polski",
+      "gramatyka",
+      "na odległość",
+      "partykuły"
+    ],
+    "keyTakeaways": [
+      "„Ja też za tobą tęsknię\" kładzie akcent zdaniowy na „ja\", więc znaczy „ja również tęsknię\" — angielskie „I miss you too\" tego nie rozstrzyga.",
+      "Poradnia PWN nr 12061 mówi, że partykuła odnosi się do składnika z akcentem zdaniowym i że w piśmie jest to przeważnie składnik następujący po niej — ale sama podaje wyjątek, gdy akcent pada w lewo.",
+      "W zrównoważonym NKJP (240 192 461 słów) szyk „ja też za tobą tęsknię\" ma 2 wystąpienia, a „za tobą też tęsknię\" 0; nagłówek PELCRA pokazuje 2 dla obu, bo to wyszukiwanie spanowe.",
+      "Replika przecząca to „ja też nie\": w 36 zdaniach Tatoeby z tym ciągiem 32 tłumaczenia użyły either/neither/nor, a ciąg „nie też\" nie wystąpił ani razu.",
+      "Szablon /missyou-gf ma 214 stron, 4,1% z 5 221 — mniej niż cyfrowy bukiet (1 190) i strona urodzinowa dla partnerki (510) — i jest w całości po angielsku."
+    ],
+    "faqs": [
+      {
+        "question": "Czy można napisać „tęsknię za tobą też\"?",
+        "answer": "Można, ale znaczy to co innego. Partykuła na końcu zdania nie ma nic po prawej stronie, więc akcent musi paść w lewo — na „za tobą\" — i wychodzi „ty też jesteś wśród tych, za którymi tęsknię\". W korpusie Tatoeba tylko 8 z 352 zdań z „też\" ma je na samym końcu, i żadne nie jest repliką wzajemną."
+      },
+      {
+        "question": "Czy samo „ja też tęsknię\", bez „za tobą\", wystarczy?",
+        "answer": "Wystarczy i jest naturalne. W zrównoważonym NKJP „ja też tęsknię\" ma 4 wystąpienia, wszystkie z tym samym szykiem, na przykład „Jeff, ja też tęsknię\". Dopełnienie zostaje domyślne, bo w replice i tak wiadomo, o kogo chodzi."
+      },
+      {
+        "question": "Czy „Tobą\" pisze się wielką literą?",
+        "answer": "To kwestia grzecznościowa, nie gramatyczna. Korpus Tatoeba ma obie wersje jako osobne zdania: nr 864109 „Tęsknię za tobą.\" i nr 502300 „Tęsknię za Tobą.\" Wielka litera jest zwyczajowym wyrazem szacunku w liście albo wiadomości, małe „tobą\" nie jest błędem."
+      },
+      {
+        "question": "Czy samo „Też.\" to pełna odpowiedź?",
+        "answer": "Tak, i jest w korpusie. Tatoeba notuje polskie „Też.\" z angielskim „As well.\" oraz „Ja też.\" z „Me, too.\" W SMS-ie to działa, choć „ja też\" brzmi cieplej, bo dokłada podmiot, na który pada akcent."
+      },
+      {
+        "question": "Czym różni się „ja też\" od „także ja\"?",
+        "answer": "Szykiem, który „też\" po prostu nie dopuszcza. W 352 zdaniach Tatoeby z „też\" partykuła ani razu nie stoi bezpośrednio przed zaimkiem mianownikowym; „także\" tak potrafi — zdanie nr 2700068 brzmi „Także ja was kocham\". To jedna z nielicznych twardych różnic między tymi dwoma słowami."
+      },
+      {
+        "question": "Jak powiedzieć to samo w czasie przeszłym?",
+        "answer": "Po polsku „Ja też za tobą tęskniłem\" albo „tęskniłam\", zależnie od rodzaju; po angielsku „I missed you too\". Tatoeba ma też wariant przyszły — zdanie nr 8512452 „Też będę za tobą tęsknić.\" z tłumaczeniem „I'm going to miss you, too.\""
+      },
+      {
+        "question": "Czy „tęsknię do ciebie\" nadaje się na odpowiedź?",
+        "answer": "Nadaje się, ale jest rzadsze i mniej neutralne. Siostrzany tekst o „tęsknię za tobą po angielsku\" podaje z NKJP 30 wystąpień „tęsknię za tobą\" wobec 8 dla „tęsknię do ciebie\", i pokazuje, że wybór przyimka jest semantyczny, a nie regionalny."
+      },
+      {
+        "question": "A „brakuje mi ciebie\" zamiast „ja też\"?",
+        "answer": "To inna konstrukcja, nie inny styl. W „brakuje mi ciebie\" nie ma podmiotu w mianowniku — jest celownik „mi\" i dopełniacz „ciebie\" — więc nie da się w nim postawić „ja\" i podkreślić wzajemności. Poradnia PWN opisuje pokrewny wypadek w odpowiedzi nr 23173 z 7.01.2024: „brak\" w funkcji czasownika „odmienia się tylko przez czasy i tryby\"."
+      },
+      {
+        "question": "Co odpisać, gdy ktoś napisze „I miss you\" po angielsku?",
+        "answer": "„I miss you too\" jest poprawne i oczywiste, tylko nie niesie tego rozróżnienia co polski. Jeśli chcesz podkreślić wzajemność tak jak po polsku, dopisz osobne zdanie — na przykład „I do too\", które kładzie ciężar na podmiot."
+      },
+      {
+        "question": "Skąd w polszczyźnie wzięło się słowo „też\"?",
+        "answer": "Jest rodzime i bardzo stare. Poradnia PWN w odpowiedzi nr 23688 podaje etymologię: „też\" pochodzi z prasłowiańskiego *teže, czyli *to + że; „także\" z *takъže, a „również\" z *rowno + żь. Wszystkie trzy to złożenia z tą samą partykułą wzmacniającą."
+      },
+      {
+        "question": "Czy „ja też\" wymaga przecinka?",
+        "answer": "Nie. „Ja też za tobą tęsknię\" to jedno zdanie pojedyncze i przecinek między „ja\" a „też\" byłby błędem. Przecinek pojawia się dopiero wtedy, gdy „też\" kończy człon dopowiedziany, jak w korpusowym „Jesteś zmęczony, ja też\"."
+      }
+    ],
+    "coverImageQuery": "polish text message phone long distance night",
+    "coverImagePrompt": "A close, photorealistic shot of a phone held in one hand at night, showing a short Polish text exchange in a messaging app, the reply half-typed. Warm lamplight from the left, cool screen glow on the fingers, shallow depth of field, clean dark negative space along the top third for a title overlay, 16:9. No legible brand marks, no text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ja też za tobą tęsknię — gdzie stoi „też\" i co ta jedna sylaba zmienia\n\n**„Ja też za tobą tęsknię\" to po angielsku „I miss you too\" — ale te zdania nie znaczą dokładnie tego samego.** W polskim *też* stoi tuż po *ja*, a Poradnia Językowa PWN (odpowiedź nr 12061, 21.04.2011, Mirosław Bańko) mówi wprost, że partykuła „odnosi się do składnika wyróżnionego akcentem zdaniowym\". Akcent pada tu na *ja*: deklarujesz, że **ty również** tęsknisz. Angielskie *too* stoi na końcu i nie rozstrzyga, czy chodzi o nadawcę, czy o adresata.\n\nTo nie jest ciekawostka bez skutków. W bazie SubhSandesh powstały **214 stron „I miss you\" na szablonie /missyou-gf od 28.07.2026, czyli 4,1% z 5 221 stron w 44 kolekcjach** — i to najbardziej prywatny zmierzony segment: **43,5% nadawców zabezpiecza stronę hasłem przed wysłaniem (93 z 214), przy 38,5% na całej platformie**. Ludzie, którzy odpisują na „tęsknię\", robią to ostrożnie. Warto wiedzieć, co dokładnie mówią.\n\n## Co znaczy „ja też za tobą tęsknię\" po angielsku\n\nDosłowny odpowiednik to **„I miss you too\"**, rzadziej „I miss you as well\". Czasownik *tęsknić* rządzi w polszczyźnie przyimkiem *za* z narzędnikiem — *za tobą*, nie *za ciebie* — co siostrzany tekst [Tęsknię za tobą po angielsku](https://subhsandesh.in/blog/tesknie-za-toba-po-angielsku) opisuje na podstawie odpowiedzi Poradni PWN nr 1561.\n\nAngielski nie ma tu odpowiednika polskiej precyzji. *Too* na końcu zdania może dotyczyć podmiotu („ja również\") albo dopełnienia („ciebie również, tak jak innych\"). Po polsku te dwa sensy mają dwa różne szyki.\n\nOdpisując po angielsku, tracisz więc rozróżnienie, które właśnie zrobiłeś po polsku.\n\n## Gdzie stoi „też\" — reguła, którą PWN zapisało dwa razy\n\nOdpowiedź nr 12061 dotyczyła pary zdań z partykułą *również*: „Interesujące znaki drogowe znajdują się również w naszym mieście\" wobec „Interesujące znaki drogowe również znajdują się w naszym mieście\". Bańko odpowiedział, że partykuła odnosi się do składnika z akcentem zdaniowym, a **„w tekście pisanym jest to przeważnie składnik następujący po niej\"**.\n\nAle ta sama odpowiedź od razu podaje wyjątek. W drugim zdaniu, pisze Bańko, „trudno by akcent padał na słowo *znajdują się*, trzeba więc przyjąć, że jego miejsce jest albo na wyrażeniu *w naszym mieście*, albo na wyrażeniu *znaki drogowe*\" — a *znaki drogowe* stoją **przed** partykułą.\n\nTo jest sedno. Polska reguła nie wskazuje ani w prawo, ani w lewo: partykuła wskazuje na to, co niesie akcent, a sąsiedztwo z prawej to tylko ustawienie domyślne, które ustępuje, gdy prawy sąsiad akcentu unieść nie może. W *ja też za tobą tęsknię* akcent siedzi na *ja*, bo to *ja* jest nowe w tej wymianie zdań.\n\n## „Ja też za tobą tęsknię\" kontra „za tobą też tęsknię\"\n\nSprawdziłem oba szyki w Narodowym Korpusie Języka Polskiego, w podkorpusie zrównoważonym liczącym 240 192 461 słów, przez wyszukiwarkę PELCRA.\n\nWynik: **„ja też za tobą tęsknię\" — 2 akapity w 2 różnych tekstach. „za tobą też tęsknię\" — 0.** Potrzebna jest tu uwaga metodologiczna: PELCRA szuka *spanów*, nie ciągów, więc zapytanie o drugi szyk zwróciło w nagłówku też „2\" — i były to te same dwa akapity z szykiem pierwszym. Licznik nagłówka nie jest liczbą wystąpień w zadanej kolejności.\n\nJedno z tych dwóch wystąpień to dokładnie nasza sytuacja — rozmowa telefoniczna: „Tęsknię za tobą, tato.\" — „Ja też za tobą tęsknię.\" Szersze zapytanie „ja też tęsknię\" dało 4 akapity, wszystkie z tym samym szykiem *ja* + *też*.\n\nZero nie znaczy „niepoprawne\". *Za tobą też tęsknię* jest poprawne i znaczy co innego — „ty też jesteś wśród tych, za którymi tęsknię\". Po prostu nikt tak nie odpisuje, bo to nie jest odpowiedź wzajemna.\n\n## „Też\", „także\" czy „również\" — policzone, nie wyczute\n\nAnna Jaremkiewicz-Kwiatkowska z Uniwersytetu Rzeszowskiego przebadała szyk tych trzech partykuł na materiale NKJP i opublikowała wynik w „Lublin Studies in Modern Languages and Literature\" 41(2), s. 32–47 (2018, CC-BY, przeczytałem całość, nie sam abstrakt). Jej wniosek: partykuły stoją przy swoim wyrażeniu odniesienia „nach dem Prinzip der maximalen Nähe\" — zasada maksymalnej bliskości — a **pozycja najczęstsza i podstawowa to bezpośrednio przed** nim. Pozycja po nim jest udokumentowana, ale rzadsza.\n\nJej własne przykłady korpusowe obejmują nasz typ: „Jeżeli Legionovia awansuje to i [JA] też\" oraz „To [JA] też\". *Ja też* należy więc do klasy rzadszej — i właśnie dlatego jest wyraźne. Autorka zaznacza, że to badanie pilotażowe.\n\nSame częstości rozkładają się inaczej, niż sugeruje intuicja. W zrównoważonym NKJP: **też 330 005 akapitów, także 258 151, również 195 786**. W korpusie zdań Tatoeba (polski → angielski), czyli w materiale znacznie bardziej potocznym: **też 352, również 126, także 49**. Ta sama trójka, dwa różne rozkłady — *też* dominuje w mowie, a w tekście pisanym różnica niemal znika.\n\nWikisłownik notuje przy haśle *również*, że „wyrazy »też« i »także« mają to samo znaczenie\" i że *również* „wyraża pewien nacisk na dalszą część zdania\". Znaczenie to samo, rejestr nie: *ja też* brzmi normalnie w SMS-ie, *ja również* jak pismo urzędowe. Samych synonimów czasownika szuka osobno [Jak powiedzieć „tęsknię\" inaczej](https://subhsandesh.in/blog/jak-powiedziec-tesknie-inaczej).\n\n## Odpowiedź przecząca: „ja też nie\"\n\nJeśli ktoś pisze „Nie mogę przestać o tobie myśleć\", a ty odpisujesz przecząco, po polsku wystarczy *też nie*. W 352 zdaniach Tatoeby z *też* znalazłem **36 z ciągiem *też nie*, a w 32 z nich angielskie tłumaczenie użyło *either*, *neither* albo *nor*** — czyli angielski zmienia słowo, a polski nie. Kolejność jest przy tym sztywna: ciągu *nie też* nie ma ani razu.\n\nTu wchodzi druga odpowiedź Poradni PWN — nr 24530 „Mnie też nie dali\" z 18.11.2025, z działu *składnia*. Pytanie dotyczyło dokładnie repliki: czy wolno odpisać „Mi też nie dali\". Odpowiedź: nie, bo zasada niestawiania krótkiej formy zaimka na początku wypowiedzenia „nie jest regułą szkolną, tylko regułą składniową polszczyzny\". Poprawne są dwa warianty — **„Mnie też nie dali\" albo „Też mi nie dali\"** — i, cytując: „W pierwszym akcent logiczny pada na zaimek *mnie*, w drugim na partykułę *też*\".\n\nSprawdziłem to w korpusie. W pierwszych 101 pokazanych trafieniach NKJP dla spanu {mnie, też}: 92 razy szyk *mnie też*, 6 razy *też mnie*, 29 razy *Mnie też* otwiera wypowiedzenie. Dla spanu {mi, też}: 64 razy *też mi*, 37 razy *mi też*, a wypowiedzenie otwiera **wyłącznie *Też mi* — 24 razy, *Mi też* ani razu**. Reguła PWN i korpus zgadzają się co do joty.\n\nI dlatego polski ma tu przewagę nad francuskim, o czym pisze nasz tekst [Tu me manques aussi](https://subhsandesh.in/blog/tu-me-manques-aussi): po francusku oba argumenty są klitykami i *aussi* nie ma się czego uchwycić. Polski ma formę mocną — *ja*, *mnie*, *tobą* — a przyimek *za* mocnej formy wręcz wymaga.\n\n## Co naprawdę wyszukuje się na to hasło\n\nZmierzyłem wyniki 27.09.2026 w Google z parametrami `gl=pl&hl=pl&pws=0`, w prawdziwej przeglądarce, dwa przebiegi z identycznym rezultatem.\n\nNa hasło **ja też za tobą tęsknię** zobaczyłem 8 wyników: cztery piosenki (YouTube ×3, tekstowo.pl), film „Już za tobą tęsknię\" z 2015 r. w Filmwebie, post didżeja na Facebooku, e‑kartkę i jeden słownik kontekstowy. **Żaden nie wyjaśnia, gdzie stoi *też*.**\n\nNa pytanie „co odpowiedzieć na tęsknię za tobą\" — 9 wyników, wszystkie słabe: trzy wątki z Reddita (r/ask, r/aspergirls, r/socialskills) podane po polsku, choć to subreddity anglojęzyczne, pytanie na Onecie, forum Kafeterii, post na Facebooku i dwa listicle odpowiadające na inne pytanie — jak **powiedzieć** „tęsknię\", a nie jak **odpisać**. To jest luka.\n\n## Co mówią dane SubhSandesh — i czego nie mówią\n\nSzablon „I miss you\" jest u nas mniejszościowy. Przy 214 stronach **cyfrowy bukiet (/bouquet-gf) ma 1 190 stron, 22,9% wszystkich**, a **strona urodzinowa dla partnerki (/birthday-gf) 510 stron, 9,8%**. Ludzie częściej świętują, niż tęsknią — albo przynajmniej częściej to publikują.\n\nStrony miss-you dowożone są jednak do końca: **88,8% rozpoczętych zostaje opublikowanych i udostępnionych (190 z 214)**, a łącznie zanotowaliśmy **2 417 otwarć, średnio 11,3 na stronę, 104 na najczęściej otwieranej**.\n\nCztery zastrzeżenia. `viewCount` liczy **otwarcia strony, nie unikalnych odbiorców** — jedna osoba otwierająca ją dwadzieścia razy to dwadzieścia otwarć. n = 214 i dwa miesiące danych, więc żaden wniosek sezonowy się nie utrzyma. Pola miasta, muzyki w tle i daty „razem od\" to **listy wyboru z wartościami domyślnymi** — ich wypełnienie nie jest decyzją nadawcy.\n\nCzwarte jest najważniejsze: baza zapisuje, **który szablon otwarto, nigdy kto był odbiorcą**, i **nic w niej nie jest dzielone według języka ani kraju**. Żadna z tych liczb nie jest „polska\".\n\n## Produkt jest po angielsku. Powiedzmy to jasno\n\nStrona [„I miss you\" dla partnerki (/missyou-gf)](https://subhsandesh.in/missyou-gf) jest opisana w kodzie jako *„I miss you page for a girlfriend/partner\"* — ma **angielskie etykiety i angielski interfejs**. Piszesz po polsku, klikasz w produkt po angielsku. Dla odbiorcy, który nie czyta po angielsku, będzie to praca, nie prezent.\n\nDrugi zgrzyt jest ważniejszy. Ty odpisujesz na wiadomość, a /missyou-gf **buduje stronę** — to gest większy niż replika. Odpisz najpierw zdaniem.\n\nWzajemności bliższy jest [Streak](https://subhsandesh.in/streak): dwie osoby, jedno dotknięcie dziennie, seria rośnie i po stu dniach zostaje dziennik, którego żadne z was nie planowało. To jedyny nasz szablon zbudowany na odwzajemnieniu, a nie na jednym nadawcy. Pełną listę znajdziesz w [katalogu szablonów](https://subhsandesh.in/templates); warunków cenowych tutaj nie potwierdzam, bo nasze dane ich nie zawierają.\n\n| Szyk | Na czym akcent | Co znaczy | Zrównoważony NKJP |\n| --- | --- | --- | --- |\n| Ja też za tobą tęsknię | na *ja* | ja również tęsknię — odpowiedź wzajemna | 2 akapity |\n| Za tobą też tęsknię | na *za tobą* | ty też jesteś wśród tych, za którymi tęsknię | 0 w tym szyku |\n| Też za tobą tęsknię | na partykule | podmiot domyślny, ton łagodniejszy | 2 zdania w Tatoebie |\n| Mnie też nie | na *mnie* | replika przecząca, forma mocna | 29 z 101 na początku wypowiedzi |\n| Mi też nie | — | odradzane przez Poradnię PWN | 0 z 101 na początku wypowiedzi |\n\n## Kiedy nie warto\n\nJeśli druga osoba czeka na rozmowę, a nie na link, żadna strona tego nie zastąpi — nasze dane tego nie zmierzą, bo mierzą otwarcia, nie ulgę. Jeśli tęsknota jest skutkiem kłótni, replika „ja też\" jest za mała.\n\nA jeśli piszesz do kogoś, kto nie zna angielskiego, nasz produkt przegrywa dziś z kartką papieru. Wolimy to powiedzieć, niż udawać.\n\n## Źródła\n\n- Poradnia Językowa PWN, odpowiedź nr 12061 [„miejsce partykuły\"](https://sjp.pwn.pl/poradnia/haslo/miejsce-partykuly;12061.html), 21.04.2011, Mirosław Bańko — odczytana z kopii Wayback Machine z 17.04.2021, bo sjp.pwn.pl odpowiada dziś kodem 403.\n- Poradnia Językowa PWN, odpowiedź nr 24530 [„Mnie też nie dali\"](https://sjp.pwn.pl/poradnia/haslo/mnie-tez-nie-dali;24530.html), 18.11.2025, dział *składnia* — kopia z 18.11.2025.\n- Poradnia Językowa PWN, odpowiedź nr 23688 [„już, jeszcze, też, także, również\"](https://sjp.pwn.pl/poradnia/haslo/juz-jeszcze-tez-takze-rowniez;23688.html), etymologia: *też* < psł. *teže < *to + że — kopia z 07.08.2024.\n- Anna Jaremkiewicz-Kwiatkowska, [„Das Stellungsverhältnis von Fokuspartikeln auch/też, także, również und ihrem Bezugsausdruck\"](https://journals.umcs.pl/lsmll/article/view/5239), *Lublin Studies in Modern Languages and Literature* 41(2), 2018, s. 32–47, CC-BY.\n- [Narodowy Korpus Języka Polskiego](http://nkjp.pl/), podkorpus zrównoważony, 240 192 461 słów — odpytany 27.09.2026 przez wyszukiwarkę spanową PELCRA.\n- [Tatoeba](https://tatoeba.org/en/sentences/show/8539842), korpus zdań polsko-angielskich — zdanie nr 8539842 „Też za tobą tęsknimy.\", zebrane 27.09.2026.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ja-tez-za-toba-tesknie#post",
+        "inLanguage": "pl",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Język polski",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Polish_language",
+              "https://www.wikidata.org/wiki/Q809"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Partykuła",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_particle",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Fokus (językoznawstwo)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Narodowy Korpus Języka Polskiego",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Corpus_of_Polish",
+              "https://www.wikidata.org/wiki/Q6971865"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Klityka",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Clitic",
+              "https://www.wikidata.org/wiki/Q213458"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Związek na odległość",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Long-distance_relationship",
+              "https://www.wikidata.org/wiki/Q1406917"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Poradnia Językowa PWN, odpowiedź nr 12061 „miejsce partykuły\"",
+            "url": "https://sjp.pwn.pl/poradnia/haslo/miejsce-partykuly;12061.html",
+            "datePublished": "2011-04-21",
+            "author": {
+              "@type": "Person",
+              "name": "Mirosław Bańko"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wydawnictwo Naukowe PWN"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Poradnia Językowa PWN, odpowiedź nr 24530 „Mnie też nie dali\"",
+            "url": "https://sjp.pwn.pl/poradnia/haslo/mnie-tez-nie-dali;24530.html",
+            "datePublished": "2025-11-18",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wydawnictwo Naukowe PWN"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Poradnia Językowa PWN, odpowiedź nr 23688 „już, jeszcze, też, także, również\"",
+            "url": "https://sjp.pwn.pl/poradnia/haslo/juz-jeszcze-tez-takze-rowniez;23688.html",
+            "datePublished": "2024-08-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wydawnictwo Naukowe PWN"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Das Stellungsverhältnis von Fokuspartikeln auch/też, także, również und ihrem Bezugsausdruck im Deutschen und im Polnischen",
+            "url": "https://journals.umcs.pl/lsmll/article/view/5239",
+            "datePublished": "2018-01-02",
+            "author": {
+              "@type": "Person",
+              "name": "Anna Jaremkiewicz-Kwiatkowska"
+            },
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Lublin Studies in Modern Languages and Literature"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Uniwersytet Marii Curie-Skłodowskiej"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Narodowy Korpus Języka Polskiego, podkorpus zrównoważony",
+            "url": "http://nkjp.pl/",
+            "datePublished": "2012-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Instytut Podstaw Informatyki PAN"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba, korpus zdań polsko-angielskich",
+            "url": "https://tatoeba.org/en/sentences/show/8539842",
+            "datePublished": "2026-09-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ja też za tobą tęsknię",
+    "angle": "Wins by being the only post that shows, from PWN's own two rulings plus counts in NKJP and Tatoeba, that Polish „też\" attaches to whatever carries the sentence accent — so „ja też za tobą tęsknię\" says „I am missing you too\" in a way English „I miss you too\" cannot — and that prices the gap against SubhSandesh's own 214 miss-you pages, 4.1% of 5,221.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "#2 page type: digital bouquet (/bouquet-gf) — 1,190 created, 22.9% of all pages — measured 2026-09-24",
+      "#4 page type: birthday page for a partner (/birthday-gf) — 510 created, 9.8% of all pages — measured 2026-09-24",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://sjp.pwn.pl/poradnia/haslo/miejsce-partykuly;12061.html",
+        "publishedDate": "2011-04-21",
+        "stat": "Poradnia Językowa PWN, odpowiedź nr 12061 „miejsce partykuły\", 21.04.2011, Mirosław Bańko (Uniwersytet Warszawski), dział składnia — verbatim: „Partykuła – taka jak również w powyższych zdaniach – odnosi się do składnika wyróżnionego akcentem zdaniowym. W tekście pisanym jest to przeważnie składnik następujący po niej\" oraz, dla zdania 2, „trudno by akcent padał na słowo znajdują się, trzeba więc przyjąć, że jego miejsce jest albo na wyrażeniu w naszym mieście, albo na wyrażeniu znaki drogowe\". sjp.pwn.pl zwraca 403 z każdej trasy; treść odczytana z migawki Wayback Machine 20210417140348 tego samego adresu, nagłówek H1 potwierdzony."
+      },
+      {
+        "url": "https://sjp.pwn.pl/poradnia/haslo/mnie-tez-nie-dali;24530.html",
+        "publishedDate": "2025-11-18",
+        "stat": "Poradnia Językowa PWN, odpowiedź nr 24530 „Mnie też nie dali\", 18.11.2025, dział składnia — verbatim: „Zasada niestawiania na początku wypowiedzenia krótszej formy zaimka nie jest regułą szkolną, tylko regułą składniową polszczyzny\" oraz „Właściwą postacią tego zdania jest albo: Mnie też nie dali, albo Też mi nie dali. W pierwszym akcent logiczny pada na zaimek mnie, w drugim na partykułę też\". Odczytane z migawki Wayback Machine 20251118083122 tego samego adresu."
+      },
+      {
+        "url": "https://sjp.pwn.pl/poradnia/haslo/juz-jeszcze-tez-takze-rowniez;23688.html",
+        "publishedDate": "2024-08-07",
+        "stat": "Poradnia Językowa PWN, odpowiedź nr 23688 „już, jeszcze, też, także, również\" — etymologie rodzime: „też < psł. *teže < psł. *to + że\", „także < psł. *takъže < psł. *takъ + że\", „również < psł. *rownież < psł. *rowno + żь < psł. *orwno\". Odczytane z migawki Wayback Machine 20240807000428 tego samego adresu."
+      },
+      {
+        "url": "https://journals.umcs.pl/lsmll/article/view/5239",
+        "publishedDate": "2018-01-02",
+        "stat": "Anna Jaremkiewicz-Kwiatkowska (Uniwersytet Rzeszowski), „Das Stellungsverhältnis von Fokuspartikeln auch/też, także, również und ihrem Bezugsausdruck im Deutschen und im Polnischen\", czasopismo Lublin Studies in Modern Languages and Literature 41(2), 2018, s. 32–47, DOI 10.17951/lsmll.2017.41.2.32, złoty OA, CC-BY. FULL TEXT PRZECZYTANY: PDF pobrany z journals.umcs.pl i przetworzony pdftotext -layout. Wniosek autorki (s. 44): partykuły stoją adjazentnie do wyrażenia odniesienia „nach dem Prinzip der maximalen Nähe\", a „die meist frequente und somit die grundlegende Stellung der Partikeln również, także, też im NKJP-Korpus ist die unmittelbar vor dem Bezugsausdruck\"; pozycja po wyrażeniu odniesienia jest udokumentowana, ale „weniger frequent\". Przykłady 37 i 38 to właśnie typ „[JA]F też\". Autorka sama nazywa badanie pilotażowym."
+      },
+      {
+        "url": "http://nkjp.pl/",
+        "publishedDate": "2012-01-01",
+        "stat": "Narodowy Korpus Języka Polskiego, podkorpus zrównoważony, 240 192 461 słów, odpytany 27.09.2026 przez wyszukiwarkę spanową PELCRA (NKJPSpanSearch, parametry domyślne formularza). Wyniki: „ja też za tobą tęsknię\" 2 akapity w 2 tekstach (jeden z nich to replika telefoniczna „Tęsknię za tobą, tato.\" – „Ja też za tobą tęsknię.\"); „za tobą też tęsknię\" 0 w tym szyku (nagłówek pokazał 2, bo to wyszukiwanie SPANOWE i zwróciło te same akapity); „ja też tęsknię\" 4; też 330 005 akapitów, także 258 151, również 195 786; span {mnie, też} pierwsze 101 trafień: 92 „mnie też\", 6 „też mnie\", 29 wypowiedzeń otwartych przez „Mnie też\"; span {mi, też} pierwsze 101 trafień: 64 „też mi\", 37 „mi też\", 24 wypowiedzenia otwarte przez „Też mi\", 0 przez „Mi też\"."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/8539842",
+        "publishedDate": "2026-09-27",
+        "stat": "Tatoeba, korpus zdań polsko-angielskich, zebrany 27.09.2026 przez api_v0/search (from=pol, to=eng), każde trafienie obejrzane. Zdanie nr 8539842 „Też za tobą tęsknimy.\" = „We miss you, too.\"; nr 8512452 „Też będę za tobą tęsknić.\" = „I'm going to miss you, too.\" Liczby: też 352 zdania, również 126, także 49; w zbiorze „też\" 0 wystąpień „też\" bezpośrednio przed zaimkiem mianownikowym, 148 bezpośrednio po zaimku lub imieniu, 42 na początku zdania; „też nie\" 36 zdań, z czego 32 tłumaczone przez either/neither/nor; ciąg „nie też\" 0 razy. Zapytanie o samą kolokację „też tęsknię\" dało 0 — to artefakt zapytania, nie języka, co widać po dwóch zdaniach wyżej."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "Nine of the ten H2 sections pass. „## Źródła\" does not: it is a reference list with dates, not a question a retrieval system can lift a 2–3 sentence answer from. Keeping it is the lesser evil, because checklist item 39 requires a visible sources list with publication dates and this batch has no other place to put one. Would close only if the renderer grew a dedicated sources component so the list left contentMarkdown."
+        },
+        {
+          "item": "Paragraphs 2–3 sentences throughout",
+          "why": "Measured, not estimated: 6 of the 32 body paragraphs carry 4 sentences (the opening first-party paragraph, the LSMLL summary, the frequency comparison, the PWN nr 24530 paragraph, the NKJP mnie/mi measurement, and the four-caveat paragraph). Each is a place where a number needs its caveat in the same block; splitting them would separate a figure from the condition that makes it honest. Would close if the body had 20–30 words of headroom to split them, which it does not at 1,778 of a hard 1,800."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Structural. The comparison table compares five Polish word orders, and SubhSandesh's database records which TEMPLATE was opened, never what a sender typed — so there is no first-party column that could honestly sit beside „ja też\" versus „za tobą też\". Inventing a per-word-order figure would be fabrication. Would close only if letter text were analysable per phrasing, which it is not and, for a product whose senders password-protect 43.5% of pages, should not be."
+        },
+        {
+          "item": "3–6 outbound links, all fetched and verified to contain the cited fact",
+          "why": "Six outbound links, and three of them (sjp.pwn.pl, Poradnia answers 12061, 24530 and 23688) return HTTP 403 to every live fetch from here, exactly as BRIEF section 4 records. Their content WAS fetched and verified — from Wayback Machine snapshots of those same URLs (20210417140348, 20251118083122, 20240807000428), with the H1 headword confirmed on each before quoting. The other three (journals.umcs.pl, nkjp.pl, tatoeba.org/en/sentences/show/8539842) returned HTTP 200 on 2026-09-27 with the cited marker text present. Would close if PWN stopped 403-ing, or if the links pointed at the archive copies instead — which was rejected because web.archive.org is already at 2 of its 3 posts in this batch and the canonical URL is what a reader should cite."
+        }
+      ],
+      "additionalChecks": [
+        "FIFTH CROSS-LINGUISTIC ANSWER, and it is a new cell, not a repeat of Italian, French, Spanish or Russian. Polish „też\" is ACCENT-GOVERNED, with a stated default AND a stated override in the same ruling. Poradnia PWN nr 12061 (Bańko, 21.04.2011): the particle „odnosi się do składnika wyróżnionego akcentem zdaniowym\" and „w tekście pisanym jest to przeważnie składnik następujący po niej\" — a rightward default like Italian anche. But the SAME answer licenses a leftward associate: for its sentence 2 Bańko writes „trudno by akcent padał na słowo znajdują się, trzeba więc przyjąć, że jego miejsce jest albo na wyrażeniu w naszym mieście, albo na wyrażeniu znaki drogowe\" — and „znaki drogowe\" PRECEDES the particle. So Polish is not Italian (rule = precedes), not Russian (rule = follows), not French (wide scope), not Spanish (no rule stated at all): it is the only one of the five whose own authority states a default and the condition that defeats it.",
+        "THE MECHANISM, and it is the exact complement of the French result. De Cesare fn. 17 (via the tu-me-manques-aussi row) has French aussi unable to attach because both arguments of „tu me manques\" are clitics. Polish has the escape hatch French lacks: Poradnia PWN nr 24530 (18.11.2025, składnia) rules that short pronoun forms cannot open an utterance because that is where the logical accent falls and it „wymaga mocnej formy\" — and Polish HAS a strong form for every clitic, while a preposition (za) forces one. „Ja\" is a strong nominative with no clitic counterpart at all, so it can host „też\" freely. That is why „ja też za tobą tęsknię\" is unambiguous where „tu me manques aussi\" is not.",
+        "CORPUS CONFIRMATION OF THAT RULING, measured 2026-09-27 in the NKJP balanced subcorpus via PELCRA. Span {mnie, też}, first 101 shown hits: 92 „mnie też\", 6 „też mnie\", 29 utterance-initial „Mnie też\", 0 utterance-initial „Też mnie\". Span {mi, też}, first 101: 64 „też mi\", 37 „mi też\", 24 utterance-initial „Też mi\", and ZERO utterance-initial „Mi też\". With the strong form the pronoun comes first and can open the utterance; with the clitic the particle moves to the front and takes the accent itself. PWN prescribes exactly those two variants and the corpus shows exactly those two.",
+        "PELCRA SPAN-SEARCH TRAP, confirming the sibling's correction and sharpening it. Querying „za tobą też tęsknię\" returned a header count of 2 — the SAME two paragraphs that „ja też za tobą tęsknię\" returns, because PELCRA matches an unordered span. The exact-order count for „za tobą też tęsknię\" is 0. Any agent reading the header count would have published a false attestation.",
+        "TATOEBA ZERO THAT BELONGED TO THE QUERY. The collocation query „też tęsknię\" returned 0 hits. Held to the standard the sibling set: harvested all 352 „też\" sentences instead and found two survivors the collocation query could not see — nr 8539842 „Też za tobą tęsknimy.\" (We miss you, too) and nr 8512452 „Też będę za tobą tęsknić.\" (I'm going to miss you, too). The zero was word order, not Polish. No 1000-result ceiling was hit: 352 + 126 + 49 fetched against reported totals of 352, 126 and 49.",
+        "TEŻ / TAKŻE / RÓWNIEŻ — the verdict is REGISTER, not scope, and it is measured in two corpora that disagree in a useful way. NKJP balanced (240,192,461 words): też 330,005 paragraphs, także 258,151, również 195,786 — near parity. Tatoeba pol→eng (conversational): też 352, również 126, także 49 — też is 7.2x także. Same three words, opposite profile: „też\" dominates speech, the trio is level in writing. On scope pl.wiktionary's „również\" entry states they share a meaning and that „również\" „wyraża pewien nacisk na dalszą część zdania\". One hard distributional difference did emerge: in 352 Tatoeba sentences „też\" NEVER stands immediately before a nominative pronoun (0/352), while „także\" does — sentence nr 2700068 „Także ja was kocham\". Caveat recorded: Tatoeba contains deliberately parallel triples by one contributor (nrs 5868696/5868709/5868712 etc.), so the three-way ratio is softer than it looks.",
+        "NEGATIVE REPLY — patterns with Russian, by a different route. Of 352 Tatoeba „też\" sentences, 36 contain „też nie\" and 32 of those 36 are translated with either/neither/nor; English swaps the word, Polish does not. The order is rigid: „nie też\" occurs 0 times. NKJP „ja też nie\" = 1,042 paragraphs. Polish adds what Russian did not have to decide: the clitic-vs-strong-form choice ruled on in PWN nr 24530.",
+        "SERP MEASURED, ROUTE NAMED. serp-ddg.mjs was tried once with the query first, echoed back „query: ja też za tobą tęsknię\", and returned „(no results parsed)\" — one call, no retry, per BRIEF. Google in the real browser, gl=pl&hl=pl&pws=0, 2026-09-27, run TWICE with byte-identical result sets, self-authenticated on content (my query string and Polish text present in the returned page, not on the navigate title). HEAD TERM „ja też za tobą tęsknię\": 8 results actually seen — YouTube x3 (PJ Robi, GG Piosenki, Arek Kopaczewski), tekstowo.pl lyrics, filmweb.pl for the 2015 film „Już za tobą tęsknię\" (Miss You Already), a DJ's Facebook post, kartki.tja.pl e-card, and context.reverso.net. 6 of 8 are music or film. Weak count 8 of the 8 I actually saw; zero editorial or linguistic pages. GATE 2 = PARTIAL, recorded as instructed: this is an entertainment SERP and the head term is not claimed. RETARGET TAIL „co odpowiedzieć na tęsknię za tobą\": 9 results seen, weak count 9 of 9 — Reddit x3, zapytaj.onet.pl, f.kafeteria.pl, a Facebook page, and two magazine listicles (ohme.pl, kobiecywieczor.pl) that answer how to SAY it, not how to REPLY. GATE 4 = PASS on this tail.",
+        "THE BRIEF'S COBEN HAZARD DID NOT MATERIALISE ON MY ROW, and that is worth recording because it was handed to me as expected. The Harlan Coben Netflix series contaminates the bare „tęsknię za tobą\" head term, per the sibling row. With the „ja też\" prefix it appeared ZERO times in either of my two identical runs. The film that did appear at rank 4 is a different work — the 2015 „Miss You Already\", Polish title „Już za tobą tęsknię\", on filmweb.pl. Music contamination is real here (as in Spanish 9/10 and Russian 5/8); the specific Coben contamination is not.",
+        "CHECKABLE FINDING IN A RANKING RESULT. Three of the nine results on the reply-tail SERP are Reddit threads from r/ask, r/aspergirls and r/socialskills — English-language subreddits — served with Polish titles and Polish snippets, i.e. machine-translated English UGC. Google has so little Polish-language content for this query that it fills the first page with translated English forum posts, one of whose highlighted best answer renders as „hehe dzięki\". Anyone can check it: open the linked threads and read the original English. That is the content gap stated as a measurement rather than asserted.",
+        "SPLIT FROM BOTH POLISH SIBLINGS, stated and cross-linked. tesknie-za-toba-po-angielsku owns the GOVERNMENT of the verb (za + instrumental, Poradnia PWN nr 1561, NKJP 30 vs 8); jak-powiedziec-tesknie-inaczej owns the SYNONYMS (brakuje mi ciebie has no grammatical subject, Poradnia PWN nr 23173). This post owns neither: it is about where the PARTICLE attaches in the reply. No ruling, corpus query or number is shared with either. Body cross-links both, plus the French reply row for the clitic contrast.",
+        "CROSS-LINK STATUS, checked against production Strapi on 2026-09-27: tesknie-za-toba-po-angielsku returns total=1 and is LIVE, so that link resolves today. jak-powiedziec-tesknie-inaczej and tu-me-manques-aussi both return total=0 and will 404 until this batch publishes. Recorded rather than removed, because they are the correct targets.",
+        "ITEM 45 (ItemList) is recorded as passed on its condition, not vacuously ignored: the body contains no ranked or numbered list and no H3s at all, so the „if the body ranks or numbers things\" antecedent is false. The comparison table is a 5-row contrast of word orders, not a ranking.",
+        "ITEM 24 (no stop words in slug): „ja-tez-za-toba-tesknie\" contains Polish function words („ja\", „za\"), but they are constituents of the target keyword itself and the row note records that an English slug on a Polish post was the orchestrator's own corrected error. Passed on that reading; flagged here so a reviewer can disagree.",
+        "ITEM 31: the two /blog/ cross-links are not TEMPLATE_LINKS URLs. Per BRIEF section 8 and the row brief, /blog/ cross-links do not count against the internal-link items; the three counted internal links are /missyou-gf, /streak and /templates, all verified at app/lib/prompt.ts lines 44, 88 and 39.",
+        "SOURCE CAPS, checked against capcheck.mjs immediately before writing. Journal named for the human count: Lublin Studies in Modern Languages and Literature (UMCS), 0 prior posts in this batch. No Frontiers in Psychology, no PLoS ONE, no Scientific Reports, no BMC Psychology, no Behavioral Sciences, no PNAS, no doi.org link, no De Cesare/bop.unibe.ch, no PMC8669216 and no PMC12842814. capcheck flags https://pelcra-nkjp.clarin-pl.eu/ as AT URL cap 2, so the corpus is cited as http://nkjp.pl/ (cap-exempt) with PELCRA named as the access route in the stat instead. web.archive.org deliberately kept OUT of the source URLs (it sits at 2 of 3 posts) by citing canonical sjp.pwn.pl and recording the snapshot timestamps in the stat text.",
+        "FULL TEXT READ, not an abstract: the LSMLL paper was downloaded as a 129,992-byte PDF from journals.umcs.pl and converted with /usr/local/bin/pdftotext -layout to 589 lines, and the conclusion on p. 44 plus corpus examples 14–45 were read in the original German. Europe PMC fullTextXML was not needed because no PMC paper is cited. No paywalled citation exists in this post, so checklist item 37 passes with nothing to record.",
+        "PHASE 0 DIFFERENTIATION IS THIN, and the brief asks this to be said. The 12 miss-you lines are cited by 54 sibling posts. Two of my six facts have ZERO prior use anywhere in the batch (#2 digital bouquet 1,190 / 22.9% and #4 birthday page 510 / 9.8%) — better than the Russian row's two-rarest-at-one-use — and none of my six overlaps either Polish sibling's set. The remaining four are common lines and the opening pair (214/4.1% and 43.5%) are the two most-used lines in the corpus. Honest position: the differentiation is in the linguistics, not the facts.",
+        "PRICE GUARD: pricecheck-intl.mjs run on this slug; no darmowy, bezpłatny, za darmo, gratis, nic nie kosztuje, no price, no tier claim. The body says in Polish that pricing cannot be confirmed here and links /templates.",
+        "MANDATORY CAVEATS ARE IN BODY PROSE, in Polish, not only here: viewCount counts page opens not unique recipients; n=214 over two months so no seasonal claim; city / background-music / „together since\" are pickers with defaults and their fill is not a sender choice; and — the one that matters most in this batch — the database records WHICH TEMPLATE was opened, never who received it, and nothing in it is segmented by language or country, so none of these figures is Polish.",
+        "PRODUCT MISMATCH DISCLOSED IN POLISH PROSE, twice. /missyou-gf is verified at app/lib/prompt.ts:44 as „I miss you page for a girlfriend/partner\" — English labels, recipient-specific. The post says plainly that a reader writing Polish is being sent to an English product, and adds the reply-specific mismatch: the reader wants to ANSWER a message and /missyou-gf BUILDS A PAGE. /streak is offered as the genuine alternative with its reason (app/lib/prompt.ts:88 — the only reciprocal template, two people and one tap a day), which is the same reading four other reply rows reached independently.",
+        "CORRECTION TO A SIBLING'S ATTRIBUTION, verified at source. The row brief (relaying jak-powiedziec-tesknie-inaczej) credits Poradnia PWN nr 23173 with ruling that „brakuje mi ciebie\" has no grammatical subject. I fetched nr 23173 via Wayback (20240812073621) and read the headword: it is titled „brak jako czasownik\", dated 7.01.2024, answered by Adam Wolański, and the question is „brak jest umowy\" vs „brak umowy\". Its ruling — „W funkcji tej słowo to odmienia się tylko przez czasy i tryby\" — is about the noun-turned-verb BRAK, not about the impersonal verb BRAKOWAĆ in „brakuje mi ciebie\". The subjectlessness of „brakuje mi ciebie\" is true on its own morphology (dative experiencer, genitive theme, frozen 3sg) but is NOT what nr 23173 states. FAQ 8 was rewritten to say only what the ruling says. The sibling post should be re-checked at quiescence."
+      ],
+      "honestAssessment": "An answer engine would cite this because it is the only page on either measured Polish SERP that states WHERE „też\" attaches and proves it twice over: Poradnia PWN nr 12061 gives the accent rule with its own override, nr 24530 gives the clitic half, and the NKJP measurement (92/6 for „mnie też\", 24 utterance-initial „Też mi\" against 0 for „Mi też\") shows the corpus obeying the ruling. The 17 results I actually saw across the head term and the reply tail contain zero pages that make any claim about the particle at all — four songs, a film, an e-card, three machine-translated Reddit threads and two listicles answering a different question. Against that, three real limits: the head term is an entertainment SERP and Gate 2 is only PARTIAL, so the winnable query is the reply/meaning tail and not „ja też za tobą tęsknię\" itself; the domain has 905 live posts and not one in Polish, so there is no track record in this language and ranking would take months if it happens at all; and the first-party data is platform-wide, un-segmented by country, and shared with 54 sibling posts, so the moat here is the linguistics, not the numbers. I am not predicting a ranking."
+    },
+    "generatedAt": "2026-09-27T07:43:35.358Z"
+  }
+}

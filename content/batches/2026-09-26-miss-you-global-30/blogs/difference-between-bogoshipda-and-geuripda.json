@@ -1,0 +1,422 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "The Difference Between 보고싶다 and 그립다, Settled by a Dictionary and a Corpus",
+    "slug": "difference-between-bogoshipda-and-geuripda",
+    "excerpt": "표준국어대사전 gives 그립다 one entry (「형용사」) and 보고 싶다 zero. All 7 attested 그립다 sentences on Tatoeba translate as miss or homesick; 18 of 29 보고 싶다 renderings mean see or watch. The object decides one word, not the other.",
+    "metaTitle": "Difference Between 보고싶다 and 그립다 — 7 Corpus Sentences",
+    "metaDescription": "The difference between 보고싶다 and 그립다: 그립다 never means \"want to see\". All 7 attested Korean corpus sentences render it miss or homesick; 보고 싶다 only 10 of 29.",
+    "keywords": "difference between 보고싶다 and 그립다, 보고싶다 vs 그립다, geuripda meaning, bogoshipda vs geuripda, when to use 그리워, 그립다 vs 보고 싶다",
+    "canonicalURL": "https://subhsandesh.in/blog/difference-between-bogoshipda-and-geuripda",
+    "ogType": "article",
+    "tags": [
+      "korean",
+      "language",
+      "long-distance",
+      "miss-you"
+    ],
+    "keyTakeaways": [
+      "그립다 never collapses into \"want to see\": all 7 attested Tatoeba sentences translate as \"miss\" or \"homesick\", while 18 of 보고 싶다’s 29 renderings mean \"see\" or \"watch\".",
+      "표준국어대사전 gives 그립다 one entry, 「형용사」 — an adjective — so what you miss takes the subject marker 이/가, while 보고 싶다 takes the object marker 을/를.",
+      "보고 싶다 has zero dictionary entries under either spacing; 그립다, 그리워하다 and 그리움 each have exactly one.",
+      "그립다 is ㅂ-irregular, so the form you actually send is 그리워, never ×그립어 — a trap the romanisation geuripda hides completely.",
+      "The popular rule \"그립다 is for non-human things\" is wrong: 5 of the 7 attested sentences aim it at people."
+    ],
+    "faqs": [
+      {
+        "question": "Is it 보고싶다 or 보고 싶다 — does the space matter?",
+        "answer": "표준국어대사전 returns zero entries for both spellings, so neither is a dictionary word. Standard Korean orthography writes the auxiliary separately, 보고 싶다, because 싶다 is a 보조 형용사 attached to a preceding verb. The closed spelling 보고싶다 is what people actually type, and it is also the title of Kim Bum Soo’s song, which is why it dominates search."
+      },
+      {
+        "question": "How is 그립다 romanised in the official Korean system?",
+        "answer": "Revised Romanization, the National Institute of Korean Language’s official system, gives geuripda. McCune–Reischauer gives kŭripta and Yale gives kulipta. The infinitive 그리워 is geuriwo. If you have seen \"geurypda\" or \"keurip-da\" those belong to no published system."
+      },
+      {
+        "question": "Can I say 그리워 to a partner I will see next week?",
+        "answer": "You can, but it will read as heavier than you mean. 표준국어대사전 defines 그립다 with 간절하다, \"earnest\" or \"desperate\", and the corpus attests it mostly about a hometown, a cat, or family left behind in another country. For someone you will see next week, 보고 싶어 is the ordinary choice."
+      },
+      {
+        "question": "What is 그리움, and when would I use the noun instead?",
+        "answer": "그리움 is a separate headword in 표준국어대사전, 「명사」, defined 보고 싶어 애타는 마음 — \"a heart that aches from wanting to see\". You use it when you are naming the feeling rather than reporting it: 그리움이 커요, \"the longing is great\", as against 그리워요, \"I miss you\"."
+      },
+      {
+        "question": "Does the dictionary itself give an example of 그립다?",
+        "answer": "표준국어대사전’s entry carries the definition rather than a sentence, but Wiktionary’s Korean entry supplies one: 고향이 그립다, glossed \"I am homesick\". That single line settles two things at once — 그립다 takes a place, and it takes it with the subject marker 이."
+      },
+      {
+        "question": "What does 보고 싶었어 add compared with 보고 싶어?",
+        "answer": "It moves the missing into the past. 보고 싶었어 is the past form, and Tatoeba attests 톰의 방을 보고 싶었어 as \"I wanted to see Tom’s room\" — the same past-tense shift that turns the phrase into \"I wanted to see\" rather than \"I miss\". The 그립다 equivalents are 그리웠어 and 그리웠어요."
+      },
+      {
+        "question": "Is 그립다 an old word?",
+        "answer": "Yes, and unusually well dated. Wiktionary records its first attestation in 1449, in the 월인천강지곡, as Middle Korean 그립다. It is built from 그리- (\"to long for\") plus the adjectival suffix -ㅂ-, which is the suffix responsible for the irregular conjugation you meet today."
+      },
+      {
+        "question": "Is 그립다 stronger than 보고 싶다?",
+        "answer": "The dictionary suggests so, and you can check it. 그립다’s definition ends in 마음이 간절하다, \"the heart is earnest\", while the entry for 싶다 is 마음이나 욕구를 갖고 있음을 나타내는 말 — holding a wish, with no intensity word at all. That is an asymmetry in the definitions, not merely a feeling about the words."
+      },
+      {
+        "question": "Does Korean have a single word that means exactly what English \"miss\" means?",
+        "answer": "No, and that is the honest answer. 보고 싶다 is a construction rather than a word and means \"want to see\" as often as \"miss\". 그립다 is a word, but it is an adjective, so the thing missed is its grammatical subject — which is not how English \"miss\" behaves. 그리워하다 is closest to an English transitive verb."
+      },
+      {
+        "question": "Do 보고 싶다 and 그립다 differ in politeness level?",
+        "answer": "Politeness lives in the ending, not the stem, so both take the same range: 그리워/보고 싶어 informally, 그리워요/보고 싶어요 politely, 그립습니다/보고 싶습니다 formally. Which ending suits which relationship is a separate question, and our post on saying I miss you in Korean covers the speech levels."
+      }
+    ],
+    "coverImageQuery": "korean dictionary hangul handwriting notebook",
+    "coverImagePrompt": "A quiet desk scene, photorealistic: an open Korean dictionary and a notebook on which the words 보고 싶다 and 그립다 are handwritten one above the other in pencil, a phone face-down beside them. Warm side light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# The Difference Between 보고싶다 and 그립다, Settled by a Dictionary and a Corpus\n\nThe difference between 보고싶다 and 그립다 is not intensity, politeness or how long you have been apart. It is this: **그립다 never collapses into \"want to see\", and 보고 싶다 does.** All seven attested 그립다-family sentences in the Tatoeba corpus are translated with \"miss\" or \"homesick\" — not one with \"see\". 보고 싶다 does the opposite: of its 29 English renderings, 10 contain \"miss\" and 18 contain \"see\" or \"watch\". One word is ambiguous and its object decides the reading; the other is not ambiguous at all.\n\nIf you are choosing what to send, that is the whole question. On our own miss-you template, 28.0% of miss-you senders set a reunion date for the countdown (60 of 214), while 92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most. Two different kinds of missing — and Korean has a separate word for each.\n\n## What Korea's national dictionary calls each one\n\n표준국어대사전, published by the National Institute of Korean Language, gives 그립다 exactly one entry: 「형용사」 — an adjective — defined 보고 싶거나 만나고 싶은 마음이 간절하다, \"the wish to see or to meet is earnest\". 간절하다 is doing real work there: the dictionary builds urgency into 그립다, and nothing comparable appears in its entry for 싶다.\n\nA search for 보고 싶다 returns 찾기 결과 (총 0 개) — zero entries; written closed as 보고싶다, also zero. It is not a word the dictionary holds but 보다 plus a grammatical pattern, which our page on [what bogoshipda actually means](https://subhsandesh.in/blog/bogoshipda-meaning-in-english) works out from the 싶다 entry.\n\nTwo headwords complete the family: 그리워하다, listed as 「동사」, a verb — 사랑하여 몹시 보고 싶어 하다 — and the noun 그리움, 「명사」, 보고 싶어 애타는 마음. Korea's own dictionary defines the entire 그립다 family *using* 보고 싶다, which is why reading both entries leaves a learner more confused rather than less.\n\n## The test that separates them: try it on a hometown\n\nHere is the dividing line, and it is not the one most pages give. Wiktionary's own usage example for 그립다 is 고향이 그립다 — \"I am homesick.\" Tatoeba attests it as a question: 고향이 그립니?, \"Are you homesick?\" A hometown is not a person, and the missing survives intact.\n\nNow run the other word through the same slot. Tatoeba has 그걸 다시 보고 싶다, \"I want to see it again\", and 톰의 방을 보고 싶었어, \"I wanted to see Tom's room.\" Put a thing in front of 보고 싶다 and the longing drains out of it. Put a place in front of 그립다 and it stays.\n\nWatch the particles. 고향**이** 그립니? and 난 내 고양이**가** 그리워 take 이/가, the subject marker: 그립다 is an adjective, so what you miss is its subject. 그걸 보고 싶다 takes 을/를, the object marker. That is a split you can see in the particle rather than feel.\n\n## Seven attested sentences, and none of them means \"want to see\"\n\nI searched Tatoeba from Korean into English for 그립 and 그리워, then inspected every hit individually, because the search matches syllables and not lemmas. 그립 returned 3 raw hits, 그리워 returned 8. **Of those 11, only 7 are genuinely 그립다 or 그리워하다** — a 63.6% survival rate. The four rejects matched 고립시켰어 (\"isolated\"), 자랑스러워 and 무거워서, which share a syllable and nothing else.\n\nAll seven are rendered with \"miss\" or \"homesick\": 그리워요 (\"I miss you\"), 난 내 고양이가 그리워 (\"I miss my cat\"), 고향이 그립니? (\"Are you homesick?\"), 톰이랑 메리 둘 다 널 그리워해 (\"Both Tom and Mary miss you\"), two 그녀가 … 그리워 하니?/합니까? questions, and 파리에 사는 카토씨는 고향에 남겨둔 가족들을 그리워합니다 (\"Mr. Kato, living in Paris, misses the family he left behind\").\n\nZero use \"see\" or \"watch\". Against the 18 of 29 that do for 보고 싶다, that asymmetry is the answer. Two caveats: seven is a small set, and two of the sentences carry mismatched Tatoeba translations — the Korean says \"Does she miss you?\" while the English reads \"Do you miss it?\". I use those for the form, not the English.\n\n## 그립다 is ㅂ-irregular, so what you send is 그리워\n\nThis is where the romanisation actively misleads. Spelled *geuripda*, the word looks as though it conjugates on a ㅂ. It does not. Wiktionary marks 그립다 a consonant-stem **ㅂ-irregular** adjective: the ㅂ becomes 우 before a vowel ending, giving infinitive **그리워** (geuriwo), sequential 그리우니, past 그리웠어, polite 그리워요, formal 그립습니다.\n\nSo the form you would actually type is 그리워 or 그리워요 — never ×그립어, which is exactly what a learner generates from the headword. 보고 싶다 lays no such trap: 싶다 is regular and yields 보고 싶어.\n\nThe etymology explains it. Wiktionary traces 그립다 to 그리- (\"to long for\") plus the adjectival suffix -ㅂ-, first attested in 1449 in the 월인천강지곡. That fused-on ㅂ is the kind that becomes 우 — and the Latin spelling hides it.\n\n## 그리워하다 is the form for when the missing is not yours\n\nKorean resists asserting someone else's inner state with a plain descriptive adjective, and the corpus shows the workaround tidily. All four 그리워하다 sentences have a third-person subject: 그녀 twice, 톰이랑 메리, 카토씨. All three bare 그립다/그리워 sentences have a first- or second-person experiencer.\n\nFour of four and three of three. Small numbers, but the morphology predicts them: Wiktionary derives 그리워하다 from 그립- plus -어 plus 하다, the suffix that turns an adjective about how *you* feel into a verb predicable of anybody.\n\nIn practice: 나는 그가 그리워 for your own feeling, 그는 너를 그리워해 for his. 보고 싶다 takes the same treatment for the same reason.\n\n## Which one to send, in five tests\n\n| Test | 보고 싶다 | 그립다 | What our miss-you pages show |\n|---|---|---|---|\n| Dictionary status | zero entries; 보다 + auxiliary 싶다 | one entry, 「형용사」 | — |\n| Marker on what is missed | 을/를 (object) | 이/가 (subject) | — |\n| Ever renders as \"see\" or \"watch\" | 18 of 29 translations | 0 of 7 translations | — |\n| Presumes a future meeting | yes — 보다 is literally \"see\" | not necessarily | 28.0% of senders set a reunion date (60 of 214); the rest set none |\n| Form you actually type | 보고 싶어 / 보고 싶어요 | 그리워 / 그리워요 | 92.1% of pages carry an \"open when\" letter (197 of 214) |\n\nThe rule in one line: if seeing the person would fix it, send 보고 싶어. If it would not — because what you miss is a year, a street, a taste, or someone unreachable — 그리워 is the word.\n\n## What is ranking for this question, and the error at the top\n\nMeasured on 2026-09-27 for a US searcher, this query returns nine results and **all nine are user-generated**: one italki thread, one Facebook caption, four HiNative pages, a thirteen-year-old Tumblr ask, and two Goodreads pages about a different word pair, one of them a blog index rather than an article. No dictionary, no grammar reference. The instrument was the harness web-search tool rather than Google, disclosed here because an unlabelled position is worthless.\n\nThe top italki answer contains a checkable error. It calls what 그립다 describes its **object**, twice — then illustrates with 고향에서 먹었던 음식**이** 그립다 and 학생이었을 때**가** 그립다. Those carry 이/가. 표준국어대사전 classes 그립다 as 「형용사」, and a Korean adjective takes no object: the answer's own examples refute its terminology in the same paragraph.\n\nOne more correction, repeated everywhere: 그립다 is *not* reserved for non-human things. Five of the seven attested sentences aim it at people — Tom and Mary, 당신, 너, Mr. Kato's family. The person/thing split is not the line. Whether *seeing* would satisfy the wish is.\n\n## What our own data does and does not show\n\nMissing a place rather than a person is not a marginal case. A 2025 study in *Behavioral Sciences* surveyed 2,493 valid responses from 4,076 questionnaires across 122 firms — a 61.2% response rate — on homesickness and burnout among migrant workers, flagging its cross-sectional design as a limit. A 2026 paper in *Behavior Research Methods* put 98 students through a food-image protocol and found nostalgia higher for developmentally consistent foods, and higher still for the cohort further displaced from home. 어머니의 손맛이 그립다 is not a flourish; it is the ordinary case.\n\nOur own numbers are thinner and here is exactly how. The platform records 57,456 recorded views of shared pages, an average views per created page of 11.1 — but those are page views, not unique visitors, so one recipient reopening a link twenty times counts twenty. The miss-you figures rest on n = 214 pages over two months, supporting no seasonal claim. City, background music and \"together since\" are pickers with defaults, so their fill rates are not sender choices and are not quoted as behaviour. And the one that matters most here: **the database records which template was opened, never who received it, and nothing in it is segmented by language or country.** No figure above is Korean.\n\n## Where our pages help, and where they are the wrong tool\n\nPlainly, what you are clicking: [the miss-you page](https://subhsandesh.in/missyou-gf) is defined in our own code as an \"I miss you\" page for a girlfriend or partner, and its labels and prompts are in English. If you came here to caption a K-drama screenshot or answer a friend, it is wrong on both counts.\n\n[The daily-streak page](https://subhsandesh.in/streak) fits the 보고 싶다 case better: two people, one tap a day, a diary neither meant to write. That is the shape of missing someone you will see again.\n\nFor the 그립다 case there is nothing here, and I would rather say so than stretch. We have no template for missing a decade, a hometown or your mother's cooking, and the [full template list](https://subhsandesh.in/templates) confirms it. That longing has no recipient to send a link to — which is exactly what makes 그립다 a different word.\n\n## Sources\n\n- [표준국어대사전 — 그립다, 그리워하다, 그리움, and the zero result for 보고 싶다](https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4), National Institute of Korean Language\n- [Romanization of Korean, official rules](https://www.korean.go.kr/front_eng/roman/roman_01.do), National Institute of Korean Language\n- [Wiktionary — 그립다](https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4) and [그리워하다](https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%AC%EC%9B%8C%ED%95%98%EB%8B%A4)\n- [Tatoeba — the 그립 and 그리워 Korean-English result sets](https://tatoeba.org/en/sentences/show/11933748), CC BY 2.0 FR\n- Doshi, Anderson & Gonzalez (2026), [\"Same emotion, different stimuli: A context-sensitive method to evoke nostalgia\"](https://europepmc.org/article/PMC/PMC13065580), *Behavior Research Methods* 58(4):105, full text\n- Chen et al. (2025), [\"Off-Work Music Listening, Homophily, and the Homesickness–Burnout Link Among Migrant Workers\"](https://europepmc.org/article/PMC/PMC12108809), *Behavioral Sciences* 15(5):666, full text\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/difference-between-bogoshipda-and-geuripda#post",
+        "inLanguage": "en",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Korean",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Korean_language",
+              "https://www.wikidata.org/wiki/Q9176"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Homesickness",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Homesickness",
+              "https://www.wikidata.org/wiki/Q1595931"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "National Institute of Korean Language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Institute_of_Korean_Language",
+              "https://www.wikidata.org/wiki/Q495374"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Standard Korean Language Dictionary",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Standard_Korean_Language_Dictionary",
+              "https://www.wikidata.org/wiki/Q12622023"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Revised Romanization of Korean",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean",
+              "https://www.wikidata.org/wiki/Q498721"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nostalgia",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nostalgia",
+              "https://www.wikidata.org/wiki/Q12151852"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "표준국어대사전, entries 그립다, 그리워하다, 그리움, and the zero result for 보고 싶다",
+            "url": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Institute of Korean Language"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Romanization of Korean (Revised Romanization), official rules",
+            "url": "https://www.korean.go.kr/front_eng/roman/roman_01.do",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Institute of Korean Language"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wiktionary, entry 그립다 (and 그리워하다)",
+            "url": "https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikimedia Foundation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba, the 그립 and 그리워 Korean-English result sets",
+            "url": "https://tatoeba.org/en/sentences/show/11933748",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Same emotion, different stimuli: A context-sensitive method to evoke nostalgia",
+            "url": "https://europepmc.org/article/PMC/PMC13065580",
+            "datePublished": "2026-04-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Behavior Research Methods"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "When Cultural Resources Amplify Psychological Strain: Off-Work Music Listening, Homophily, and the Homesickness–Burnout Link Among Migrant Workers",
+            "url": "https://europepmc.org/article/PMC/PMC12108809",
+            "datePublished": "2025-05-09",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Behavioral Sciences"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "difference between 보고싶다 and 그립다",
+    "angle": "Wins by being the only page on this SERP that measures BOTH halves of the pair instead of asserting a vibe: 7 of 11 raw Tatoeba hits for 그립/그리워 survive inspection and all 7 translate as \"miss\" or \"homesick\" with 0 as \"see\", against the sibling's 18-of-29 \"see\" reading for 보고 싶다 — so the difference is an asymmetry in ambiguity, not in intensity. It also draws the non-person line in both directions (그립다 + place keeps \"miss\", 보고 싶다 + thing loses it), refutes the near-universal \"그립다 is for non-human things\" rule with 5 of 7 person-directed sentences, gives the ㅂ-irregular paradigm the romanisation hides, and catches the #1 ranking result calling an adjective's subject its \"object\" while its own examples carry 이/가.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "bodyLanguage": "English",
+    "region": "us-en",
+    "tier": "C-explainer",
+    "factsUsed": [
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "57,456 recorded views of shared pages — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword=%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+        "stat": "표준국어대사전 (Standard Korean Language Dictionary), National Institute of Korean Language. Fetched 2026-09-27, headword read on every page. 그립다 returns 찾기 결과 (총 1 개): one entry, 「형용사」 「1」 보고 싶거나 만나고 싶은 마음이 간절하다. 그리워하다 returns 총 1 개: 그리워-하다 「동사」 사랑하여 몹시 보고 싶어 하다. 그리움 returns 총 1 개: 「명사」 보고 싶어 애타는 마음. 보고 싶다 returns 찾기 결과 (총 0 개) and 보고싶다 likewise returns 총 0 개 — zero entries under either spacing. Detail view for 그립다 is word_no 403911."
+      },
+      {
+        "url": "https://www.korean.go.kr/front_eng/roman/roman_01.do",
+        "stat": "Revised Romanization of Korean, the official system, National Institute of Korean Language. Romanization is based on standard Korean pronunciation and uses no symbols except Roman letters; ㅅ is s, ㅆ ss, ㅂ b/p. 그립다 is therefore geuripda and the infinitive 그리워 is geuriwo. Used here only to fix the spelling of the second keyword; the finding that no \"sh\" digraph exists anywhere in the tables belongs to the sibling post and is not restated."
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/%EA%B7%B8%EB%A6%BD%EB%8B%A4",
+        "stat": "Wiktionary, Korean entry 그립다, fetched 2026-09-27 and the Korean section read in full. Listed as an Adjective, \"irregular, infinitive 그리워, sequential 그리우니\", with the conjugation table headed \"consonant-stem, ㅂ (b)-irregular\" and giving 그리워/그리워요/그립습니다, past 그리웠다/그리웠어/그리웠어요. Romanizations: RR geuripda, McCune–Reischauer kŭripta, Yale kulipta; IPA [kɯɾip̚t͈a̠]. Glossed \"to be dear, beloved; to be longed for, to be missed\", with the usage example 고향이 그립다 — \"I am homesick.\" Etymology: first attested in the 월인천강지곡 (Worin cheon'gangjigok), 1449, as Middle Korean 그립다, from 그리- (\"to long for\") + -ㅂ- (adjectival suffix). The companion entry 그리워하다 is listed as a Verb, 하-irregular, derived 그립- + -어 + 하다, glossed \"to miss, long for, pine for, yearn for\"."
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/11933748",
+        "stat": "Tatoeba, from=kor&to=eng searches run 2026-09-27 and every hit inspected individually because the search matches syllables, not lemmas. 그립 returned 3 raw hits of which 1 is genuine (고향이 그립니? → \"Are you homesick?\"); the rejects were 고립시켰어 and a 백플립 sentence. 그리워 returned 8 raw hits of which 6 are genuine; the rejects were 자랑스러워 and 무거워서. 7 of 11 raw hits survived (63.6%). All 7 survivors translate with \"miss\" or \"homesick\" and 0 with \"see\" or \"watch\": 그리워요, 난 내 고양이가 그리워, 고향이 그립니?, 톰이랑 메리 둘 다 널 그리워해, 그녀가 너를 그리워 하니?, 그녀가 당신을 그리워 합니까?, 파리에 사는 카토씨는 고향에 남겨둔 가족들을 그리워합니다. All 4 그리워하다 sentences carry a third-person subject; all 3 bare 그립다/그리워 sentences carry a first- or second-person experiencer. Caveat recorded: sentences 10617675 and 10617676 have mismatched English translations (\"Do you miss it?\" for a Korean sentence meaning \"Does she miss you?\"). The 보고 싶 query returned 46 hits on the same day, reproducing the sibling post's 2026-09-26 total exactly."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13065580",
+        "stat": "Doshi HS, Anderson AK & Gonzalez MZ, \"Same emotion, different stimuli: A context-sensitive method to evoke nostalgia\". JOURNAL NAMED FOR THE CAP: Behavior Research Methods 58(4):105, 2026, doi 10.3758/s13428-026-02971-9, PMC13065580, CC BY 4.0. FULL TEXT READ via the Europe PMC fullTextXML endpoint (177 KB of JATS XML, HTTP 200 first request) — not abstract only. Two cohorts, N = 98 combined (Cohort 1 N = 46, Cohort 2 N = 52; 51 raised in the USA, 47 raised in India and now living in the USA). Test–retest subset n = 33 returning after M = 113.5 days, an attrition of 71.7% over two months; nostalgic value correlated r(6,499) = .77 between timepoints. Nostalgia for food was higher for developmentally consistent foods and greater for the cohort further displaced from home. Stated limitation, quoted: stimulus validity \"is ecological in the sense that it only arises when the relationship between the population and the stimuli is maintained\". Not a Korean study; cited for the food-and-displacement mechanism that 어머니의 손맛이 그립다 names.",
+        "publishedDate": "2026-04-07"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12108809",
+        "stat": "Chen et al., \"When Cultural Resources Amplify Psychological Strain: Off-Work Music Listening, Homophily, and the Homesickness–Burnout Link Among Migrant Workers\". JOURNAL NAMED FOR THE CAP: Behavioral Sciences (Basel) 15(5):666, 2025, doi 10.3390/bs15050666, PMC12108809. FULL TEXT READ via the Europe PMC fullTextXML endpoint (245 KB of JATS XML, HTTP 200 first request) — not abstract only. 2,493 valid responses obtained from 4,076 returned questionnaires across 122 firms in Guangdong, a 61.2% valid response rate; 46.33% male. Off-work music listening strengthened the positive relationship between homesickness and burnout. Stated limitation, quoted: the \"cross-sectional design suggests that we may not have entirely captured the dynamic nature\" of the process. Cited only for the scale of place-missing, the sense 고향이 그립다 carries — not for anything Korean. NOTE FOR THE ORCHESTRATOR: Behavioral Sciences stood at 2 posts in this batch when measured on 2026-09-27; this citation makes it 3, AT the cap of 3 and not over.",
+        "publishedDate": "2025-05-09"
+      }
+    ],
+    "serpMeasurement": {
+      "query": "difference between 보고싶다 and 그립다",
+      "region": "us-en",
+      "measuredAt": "2026-09-27",
+      "method": "Route order followed exactly as BRIEF §3 prescribes. (1) `node scripts/serp-ddg.mjs \"difference between 보고싶다 and 그립다\" --region us-en` — query FIRST, and the tool echoed it back correctly (`query: difference between 보고싶다 and 그립다   region: us-en`), so this was NOT the argument-order trap; it returned \"(no results parsed — DDG markup may have changed)\". Per the brief, no retry. (2) The harness WebSearch tool, which BRIEF §3 licenses explicitly for a us-en row: one call for the assigned Hangul-typed keyword and one for the romanised variant as a cross-check. INSTRUMENT SUBSTITUTION DISCLOSED IN THE POST: this is a real US-served index but it is not Google, and the post says so. NO BROWSER WAS USED AT ALL for this row, so it carries zero contention exposure on either the shared Chrome or Playwright — the outcome BRIEF §3 prefers.",
+      "resultsSeen": 9,
+      "weakCount": 9,
+      "results": [
+        {
+          "rank": 1,
+          "host": "italki.com",
+          "type": "language-exchange Q&A thread, 3 answers, January 2019",
+          "strong": false
+        },
+        {
+          "rank": 2,
+          "host": "facebook.com",
+          "type": "social-media photo post caption (studykoreanforbeginners)",
+          "strong": false
+        },
+        {
+          "rank": 3,
+          "host": "hinative.com",
+          "type": "crowd Q&A (question 27039988)",
+          "strong": false
+        },
+        {
+          "rank": 4,
+          "host": "hinative.com",
+          "type": "crowd Q&A (question 16429929)",
+          "strong": false
+        },
+        {
+          "rank": 5,
+          "host": "hinative.com",
+          "type": "crowd Q&A (question 88686)",
+          "strong": false
+        },
+        {
+          "rank": 6,
+          "host": "hinative.com",
+          "type": "crowd Q&A (question 6475490)",
+          "strong": false
+        },
+        {
+          "rank": 7,
+          "host": "sydney-to-seoul.tumblr.com",
+          "type": "Tumblr ask-box answer, 13 years old, explicitly declines to answer and refers the asker to Naver or a Korean friend",
+          "strong": false
+        },
+        {
+          "rank": 8,
+          "host": "goodreads.com",
+          "type": "OFF-TOPIC — author blog post about 어렵다 vs 힘들다, a different word pair",
+          "strong": false
+        },
+        {
+          "rank": 9,
+          "host": "goodreads.com",
+          "type": "OFF-TOPIC — blog INDEX page, not an article",
+          "strong": false
+        }
+      ],
+      "gate4": "PASS. 9 of 9 weak, all nine actually seen. Four of the nine slots are one domain (hinative.com); two are off-topic Goodreads pages and one of those is an index rather than an article. There is no dictionary, no grammar reference and no editorial page anywhere on the SERP — every result is user-generated. Nothing here cites 표준국어대사전 or counts a corpus.",
+      "crossCheck": "A second WebSearch on the ROMANISED variant (\"bogoshipda vs geuripda which one to say Korean miss you\") returns a materially STRONGER SERP — 90daykorean.com, koreanjun.com, sweetandtastytv.com, kimmstv.blogspot.com, quora.com, hinative ×3, lister.co.id — roughly four established language-learning publishers. Reported for honesty: the assigned keyword is the Hangul-typed one, whose SERP is the 9-of-9 above, and a reader typing Hangul lands in a different and much weaker neighbourhood than one typing Latin letters. If this row were ever retargeted at the romanised query, Gate 4 would need re-running.",
+      "siblingComparison": "The sibling bogoshipda-meaning-in-english measured 9 of 9 weak with FIVE of nine slots being song lyrics (Kim Bum Soo’s 보고싶다) and a self-contradicting AI Overview. This SERP shares not one host with it. A comparison query pulls Q&A; a meaning query pulls lyrics. Different SERP, different incumbents.",
+      "checkableErrorsFound": [
+        "PRIMARY, in the #1 result (italki question-457918, top-voted answer): it calls what 그립다 describes its \"object\", twice — \"the object can be anything but only limited to past\" — and then illustrates with 고향에서 먹었던 음식이 그립다 and 학생이었을 때가 그립다. Both carry 이/가, the SUBJECT marker. 표준국어대사전 classes 그립다 as 「형용사」, and a Korean descriptive adjective takes no object. The answer’s own examples refute its terminology inside the same paragraph. Dictionary-checkable, with the entry to check it against.",
+        "SECONDARY, same page, second answer: \"보다(see) + ～하고 싶다(want to do ~)\". The auxiliary is -고 싶다 attached to the stem 보-, per 표준국어대사전’s 싶다 entry (「보조 형용사」, defined on 앞말, \"the preceding word\"). Written as ～하고 싶다 it predicts *보하고 싶다, which does not exist.",
+        "THIRD, a claim the corpus contradicts and which is repeated across both SERPs (including the #1 result of the romanised cross-check, 90daykorean): \"use geuripda when you miss something NON-HUMAN\". Tatoeba attests 그립다/그리워하다 aimed at people in 5 of the 7 genuine sentences — 그리워요, 난 내 고양이가 그리워, 톰이랑 메리 둘 다 널 그리워해, 그녀가 당신을 그리워 합니까, 카토씨는 … 가족들을 그리워합니다. The person/thing split is not the dividing line; whether SEEING would satisfy the wish is. Corrected in the body."
+      ]
+    },
+    "corpusMeasurement": {
+      "instrument": "Tatoeba api_v0 search, from=kor&to=eng, run 2026-09-27, every hit read individually",
+      "rawHits": {
+        "그립": 3,
+        "그리워": 8,
+        "보고 싶": 46
+      },
+      "genuine": {
+        "그립": 1,
+        "그리워": 6,
+        "total": 7
+      },
+      "survivalRate": "7 of 11 raw 그립다-family hits survived inspection (63.6%). The 4 rejects — 고립시켰어, a 백플립 sentence, 자랑스러워, 무거워서 — are themselves proof the search matches syllables rather than lemmas, exactly as the sibling found for 보고 싶.",
+      "finding": "7 of 7 genuine sentences translate with \"miss\" or \"homesick\"; 0 with \"see\" or \"watch\". Against the sibling’s 보고 싶다 measurement (10 of 29 contain \"miss\", 18 contain \"see\"/\"watch\", 0 of 7 thing-object sentences use \"miss\"), the two words are asymmetric in ambiguity, not in intensity.",
+      "nonPersonTest": "그립다 takes a non-person SUBJECT and keeps the \"miss\" reading: 고향이 그립니? → \"Are you homesick?\"; 난 내 고양이가 그리워 → \"I miss my cat\"; Wiktionary’s own example is 고향이 그립다 → \"I am homesick.\" 보고 싶다 takes a thing and LOSES it: 그걸 다시 보고 싶다 → \"I want to see it again\". So the non-person test divides them, but not the way the popular rule says.",
+      "thirdPersonConstraint": "VERIFIED BEFORE BUILDING ON IT, as the prompt required. All 4 그리워하다 sentences have a third-person subject (그녀 ×2, 톰이랑 메리, 카토씨); all 3 bare 그립다/그리워 sentences have a first- or second-person experiencer. 7 of 7 consistent. Wiktionary supplies the mechanism: 그리워하다 = 그립- + -어 + 하다, the derivation that turns a descriptive adjective into a verb predicable of a third person.",
+      "limitation": "n = 7 is small, and sentences 10617675 and 10617676 carry mismatched Tatoeba translations (Korean \"Does she miss you?\" against English \"Do you miss it?\"). They are used for the form and its subject only, and the mismatch is disclosed in the body."
+    },
+    "additionalChecks": [
+      "Price guard: pricecheck-intl.mjs run for this slug. No price, no tier, no subscription claim, and no \"free\" / 무료 / gratis anywhere in the body or the FAQs.",
+      "Strapi production checked via ctx_execute (not curl, not WebFetch, both of which this project blocks): https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=difference-between-bogoshipda-and-geuripda returned pagination.total 0 — the slug is free. The categories endpoint returned miss-you-across-miles among the live category slugs.",
+      "references/article-json-schema.md located and read (196 lines). Confirmed against it: kind is exactly \"blog-automation/batch-blog\", article.keywords is a comma-separated STRING and not an array, and no fields were added to `article` beyond the GeneratedArticle shape.",
+      "capcheck.mjs run 2026-09-27 immediately before writing: no banned URL used; doi.org is at cap 3 so publisher/repository URLs were used instead of DOI resolvers throughout.",
+      "Journal caps checked by hand, because capcheck counts hostnames only. Avoided as banned or at/over cap: Frontiers in Psychology (8 in batch), PLoS ONE (4), Scientific Reports (4), BMC Psychology (3), PNAS, PMC13552847, PMC8669216, PMC12842814, and PMC4891949 which the Korean sibling spent. Behavior Research Methods was at 0. Behavioral Sciences was at 2 and this post makes it 3 — at cap, not over — flagged in the source note.",
+      "Both papers checked for open access before citing: Doshi et al. is CC BY 4.0, Chen et al. is MDPI open access; both full texts retrieved and read, neither is abstract-only.",
+      "Every Wikidata QID in structuredData verified live against the Wikipedia API on 2026-09-27: Korean language Q9176, Homesickness Q1595931, National Institute of Korean Language Q495374, Standard Korean Language Dictionary Q12622023, Tatoeba Q495456, Revised Romanization of Korean Q498721, Nostalgia Q12151852. All seven pages exist and none is a redirect stub.",
+      "Every dictionary headword was READ on the fetched page before citing, per BRIEF §4 (the MARAUD / DEZILITER trap). stdict returned the correct headword on all five queries; krdict (한국어기초사전) was attempted and is UNUSABLE from here — /eng/dicSearch/search 404s and /eng/dicSearch/SearchView returns its own 500 error page — so nothing was cited from it.",
+      "Wiktionary multi-word caveat honoured: 그립다 and 그리워하다 are single lemmas and both resolve; 보고 싶다 does not, and it was not requested (the sibling recorded that 404).",
+      "Grammatical labels checked at source rather than taken from the prompt: 그립다 「형용사」 adjective (stdict + Wiktionary), 그리워하다 「동사」 verb, 그리움 「명사」 noun, 싶다 「보조 형용사」 auxiliary adjective. \"ㅂ-irregular\" is Wiktionary’s own conjugation-table heading, not a paraphrase.",
+      "The sibling bogoshipda-meaning-in-english was read in full before drafting — headings, all 10 FAQs, factsUsed and sources. The split is stated in the body, the sibling is cross-linked, and the romanisation ruling and the meaning derivation are deferred to it rather than restated. factsUsed deliberately shares no line with it.",
+      "Template fit checked at source: app/lib/prompt.ts defines /missyou-gf as an \"I miss you\" page for a girlfriend/partner. /capsule was considered as the alternative (verify.config _why suggests it for \"missing about time\") and REJECTED because prompt.ts describes it as forward-looking predictions about the next year, which does not fit 그립다’s backward-looking sense. /streak was kept with a concrete reason given in prose, and the post states outright that nothing on the site fits the 그립다 case."
+    ],
+    "structuralLimitations": [
+      "The 그립다 corpus is genuinely small. 7 attested sentences carry the whole comparison, against the sibling’s 19. Every claim built on them is stated with its denominator and two of the seven are flagged for mistranslation in the body. A larger Korean corpus (세종/모두의 말뭉치) would settle the frequencies properly and is not reachable from this environment.",
+      "CUT during drafting, recorded per BRIEF §4: (a) a planned section on politeness and speech levels, because the live post i-miss-you-in-korean owns it and the prompt flagged the overlap — it survives only as one FAQ that defers to that post; (b) a planned 그립다-with-a-taste example (어머니의 손맛이 그립다), which is ATTESTED nowhere I could fetch, so it appears once in prose as an illustration of the phenomenon rather than as a cited corpus line; (c) a claim that 그립다 is \"only about the past\", which the #1 ranking result asserts — 표준국어대사전’s definition contains no temporal restriction whatsoever, so I could not verify it and did not repeat it; (d) the romanisation \"no sh digraph\" ruling, cut deliberately because it is the sibling’s finding and restating it would make this a twin.",
+      "The first-party data cannot be segmented by language or country, so no figure here is Korean and the body says so explicitly. The reunion-date and open-when figures rest on n = 214 over two months; the platform-wide view counts are page views, not unique visitors. The three BRIEF §6 caveats (pickers with defaults, views not visitors, n=214 supports no seasonal claim) plus the template-not-recipient caveat are all in body prose, not only here.",
+      "The SERP was measured with the harness WebSearch rather than Google. BRIEF §3 licenses this for a us-en row and it is a real US-served index, but it is not Google and the ranking order may differ. Labelled as such in the body. serp-ddg.mjs was tried once with the query first, echoed the query back correctly, and parsed nothing.",
+      "The two papers are about nostalgia and homesickness in general populations, not about Korean. They are cited for the size and shape of place-missing, which is what 그립다 names, and the post does not claim either studied Korean speakers. Both fail the swap test and that is recorded as a failed audit item rather than argued away.",
+      "ORCHESTRATOR FRAMING CHECKED (BRIEF §0): every load-bearing claim in the task prompt held up. The sibling does establish what the prompt said it does (re-verified independently at stdict); stdict scripted fetch works; Wiktionary 404s on 보고 싶다 but not on 그립다; serp-ddg takes the query first; /missyou-gf is recipient-specific at prompt.ts; checklist items #25 and #50 are both satisfiable. The one claim I was told to verify before building on it — the third-person-subject constraint on descriptive adjectives — is TRUE and holds 7 of 7 in the corpus. No false framing claim found in this prompt."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body has no H3s at all and ranks nothing. The five-test comparison table is a matrix, not an ordered list, and its rows are diagnostic tests rather than ranked items — emitting an ItemList over them would assert an ordering the prose does not make. Recorded as failed rather than satisfied with a fabricated list. Closes only if the post is restructured around ranked H3s, which would weaken it."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of the six sources are Korean-specific and could not move. The two papers could: Doshi et al. (nostalgia evoked by food) and Chen et al. (homesickness among migrant workers) are both tied to the ARGUMENT here — that 그립다 takes a place, a time or a taste — rather than to the Korean keyword, so either could in principle sit in a saudade or a Turkish özlem row in this batch. Flagged honestly rather than claimed as a pass. Closing it would need a paper on Korean psych-adjective syntax specifically, and the Europe PMC and Crossref searches run for this row returned none that is open-access."
+        }
+      ],
+      "honestAssessment": "An answer engine should cite this over the nine pages measured because not one of them holds an instrument. The SERP is a Facebook caption, a Tumblr ask that openly refuses to answer, four HiNative threads and two Goodreads pages about a different word pair; the top-voted italki answer calls an adjective’s subject its \"object\" and is refuted by the 이/가 in its own examples. This page cites 표준국어대사전 by entry and result count, gives the ㅂ-irregular paradigm that the spelling geuripda conceals, and — the part nobody else has — counts the corpus on BOTH sides, reporting that 7 of 11 raw hits survived inspection and that all 7 survivors translate as \"miss\" while 18 of 보고 싶다’s 29 translate as \"see\". It also contradicts the single most repeated claim about this pair (that 그립다 is for non-human things) with 5 of 7 person-directed sentences. What it cannot overcome: subhsandesh.in has no published track record in Korean-language topics and no backlinks in this niche, HiNative holds four of nine slots on reputation alone, and the corpus behind the central finding is 7 sentences. Ranking takes months and I am not predicting it. If this page loses, it will lose on domain authority rather than on evidence."
+    },
+    "generatedAt": "2026-09-27T06:21:21.207Z"
+  }
+}

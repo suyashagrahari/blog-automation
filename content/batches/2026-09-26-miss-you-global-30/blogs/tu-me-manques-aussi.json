@@ -1,0 +1,366 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Tu me manques aussi : où se place « aussi », et pourquoi « moi aussi » ne dit pas la même chose",
+    "slug": "tu-me-manques-aussi",
+    "excerpt": "« Tu me manques aussi » est correct mais de portée large, comme l'anglais « too ». Pour désigner quelqu'un il faut déplacer l'adverbe : « toi aussi » vise la personne absente, « à moi aussi » vise celle qui s'ennuie. 33 occurrences Tatoeba lues une par une.",
+    "metaTitle": "Tu me manques aussi : où « aussi » porte, en 20 phrases",
+    "metaDescription": "« Tu me manques aussi » ne désigne personne en particulier : l'adverbe est de portée large. Sur 20 phrases attestées, 5 disent « à moi aussi », 0 « moi aussi ».",
+    "keywords": "tu me manques aussi, toi aussi tu me manques, moi aussi tu me manques, comment répondre à tu me manques, à moi aussi, place de aussi en français",
+    "canonicalURL": "https://subhsandesh.in/blog/tu-me-manques-aussi",
+    "ogType": "article",
+    "tags": [
+      "français",
+      "grammaire",
+      "manquer",
+      "longue distance",
+      "adverbe"
+    ],
+    "keyTakeaways": [
+      "« Tu me manques aussi » est correct mais de portée large : De Cesare (Linguistik Online 71, 2015) le range dans la même case que l'anglais « also ».",
+      "Pour désigner la personne absente, il faut « Toi aussi, tu me manques » — la construction que le français choisit dans 71 % des cas, et que l'anglais n'a pas.",
+      "Sur 33 occurrences Tatoeba lues une par une, 20 sont le bon verbe : 5 visent celui qui s'ennuie et toutes gardent la préposition, « à moi aussi ». Aucune n'écrit « moi aussi » seul.",
+      "« Moi aussi tu me manques » existe pourtant : Google Ngrams (corpus français 2019) le donne 2,2 fois plus rare que « toi aussi tu me manques », pas absent.",
+      "Nos 214 pages « I miss you » sont vues 11,3 fois en moyenne contre 11,1 sur toute la plateforme — deux dixièmes d'écart, donc pas un écart."
+    ],
+    "faqs": [
+      {
+        "question": "Comment répondre à « tu me manques » en un seul mot ?",
+        "answer": "« Toi aussi. » Le pronom tonique du sujet reprend la personne absente, qui est bien le sujet grammatical de « tu me manques ». Tatoeba atteste la version longue correspondante, « Toi aussi, tu m'as manqué » (n° 12311987)."
+      },
+      {
+        "question": "« Toi aussi » ou « moi aussi » : lequel envoyer ?",
+        "answer": "Les deux existent, mais ils ne visent pas la même personne. « Toi aussi » met « aussi » sur celui qui vous manque ; « à moi aussi » le met sur vous, celui qui s'ennuie. Ce n'est pas une faute contre une forme correcte, c'est un choix de portée."
+      },
+      {
+        "question": "Est-ce que « moi aussi tu me manques » est une faute ?",
+        "answer": "Non. Le Ngram Viewer de Google Books, corpus français 2019, en donne une courbe non nulle, environ 2,2 fois plus faible que « toi aussi tu me manques ». La forme est minoritaire, pas absente — et elle reprend le complément d'objet indirect, pas le sujet."
+      },
+      {
+        "question": "Peut-on ajouter « beaucoup » à la réponse ?",
+        "answer": "Oui : « Tu me manques beaucoup aussi » ou « Toi aussi, tu me manques beaucoup ». Les deux adverbes s'empilent après le verbe et l'ordre reste libre. Ajouter « beaucoup » ne règle pas la question de portée ; seul le déplacement de « aussi » la règle."
+      },
+      {
+        "question": "Comment répondre en vouvoyant ?",
+        "answer": "« Vous me manquez aussi » (Tatoeba n° 11619483, traduit par I miss you, too). La version qui désigne explicitement la personne absente redouble le sujet : « Vous aussi vous me manquerez » (n° 2266800)."
+      },
+      {
+        "question": "Que dire si la personne ne vous manque pas autant ?",
+        "answer": "Évitez le miroir automatique. Une formule honnête vaut mieux qu'une réciprocité fausse, et le français vous laisse déplacer le foyer : « Je pense beaucoup à toi » ne prétend rien sur la symétrie du manque."
+      },
+      {
+        "question": "Comment dire « tu me manques aussi » au passé ?",
+        "answer": "« Tu m'as manqué aussi » (Tatoeba n° 11802998). Le participe reste invariable : le pronom « m' » est un complément d'objet indirect, pas un complément direct, donc il ne déclenche aucun accord."
+      },
+      {
+        "question": "Où met-on « aussi » avec un futur proche ?",
+        "answer": "Devant l'infinitif : « Tu vas aussi me manquer » (Tatoeba n° 1843026). C'est la seule position disponible quand le verbe est composé de deux éléments, et elle reste de portée large comme la position finale."
+      },
+      {
+        "question": "Faut-il une virgule avant « aussi » ?",
+        "answer": "Elle est possible mais rare. Deux phrases de Tatoeba l'écrivent — « Tu me manqueras, aussi » (n° 2266795) et « Vous me manquerez, aussi » (n° 2266796) — et c'est l'ombre orthographique de l'anglais « , too ». La majorité des occurrences s'en passe."
+      },
+      {
+        "question": "Peut-on dire « tu me manques » à un parent ou à un ami ?",
+        "answer": "Oui, la formule n'est pas réservée au couple. Tatoeba contient « Maman, tu me manques » (n° 11915755) et « Tu me manques, papa » (n° 11915754). En revanche notre modèle /missyou-gf, lui, est pensé pour une compagne ou un partenaire."
+      }
+    ],
+    "coverImageQuery": "french text message phone screen night",
+    "coverImagePrompt": "A phone screen held in one hand at night, a short French text conversation visible, the warm glow of the screen lighting the fingers. Shallow depth of field, soft bokeh behind, clean negative space at the top for a title overlay, 16:9. No readable brand marks, no text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Tu me manques aussi : où se place « aussi », et pourquoi « moi aussi » ne dit pas la même chose\n\n**« Tu me manques aussi » est la bonne réponse, et elle ne tranche rien.** En fin de phrase, « aussi » ne désigne ni la personne absente ni celle qui la regrette : il flotte, comme *too* en anglais. **« Toi aussi, tu me manques »** désigne l'absent, **« Tu me manques, à moi aussi »** celui qui s'ennuie.\n\nNous mesurons ce moment : **214 pages « I miss you » créées sur /missyou-gf depuis le 28 juillet 2026, 4,1 % des 5 221 pages de nos 44 collections**, et **1 434 tapes « hug » enregistrées par les destinataires sur 138 de ces 214 pages — 64,5 % en ont reçu au moins une, 512 sur une seule**.\n\nRépondre est, chez nous aussi, le geste le plus fréquent. Les deux formes ci-dessus sont attestées ; « moi aussi » seul ne l'est pas.\n\n## « Tu me manques aussi » : correct, et pourtant indécis\n\nAnna-Maria De Cesare a classé les adverbes additifs de l'italien, du français et de l'anglais sur un corpus d'environ 750 000 mots d'actualité en ligne (*Linguistik Online* 71, 2015). Sa table 1 range « S + verbe conjugué + aussi » dans la case **WS — portée large**, **la même que l'anglais *also*** : selon le contexte, l'adverbe porte sur le sujet, sur le verbe ou sur tout le groupe verbal.\n\nLa phrase est donc juste et comprise — mais elle ne dit pas, grammaticalement, *qui* est concerné. C'est le contexte qui tranche, pas la syntaxe.\n\n## Pourquoi ni « tu » ni « me » ne peut porter « aussi »\n\nL'Académie française, neuvième édition (article A9A3190), donne au sens 1 de AUSSI deux exemples qui forment une paire minimale : *« Il a perdu son temps et aussi son argent »* — l'adverbe précède sa cible — et *« Il a perdu sa place, et sa réputation aussi »* — il la suit. **« Aussi » s'accroche au constituant qui le touche, avant ou après ; ce n'est pas un adverbe qui cherche le sujet.**\n\nOr dans « tu me manques », les deux arguments sont des clitiques, et un clitique ne porte rien. De Cesare le note (note 17) : *« Fr. aussi can of course not follow a clitic Subject (\\*Il aussi lit) ; a full pronoun is required (Lui aussi lit) »*. Il faut donc un pronom tonique.\n\n## « Toi aussi, tu me manques » : la forme que l'anglais n'a pas\n\nLe pronom tonique du sujet, c'est **toi** : on le place en tête, on y accroche « aussi », et le clitique reste derrière — *Toi aussi, tu me manques.*\n\nDe Cesare appelle cela le *redoublement du sujet* et le classe **NS — portée étroite** : cette forme ne peut désigner que le sujet. Dans son corpus, quand le français vise le sujet avec « aussi », il choisit cette construction dans **71 % des cas**, contre 29 % pour la forme en fin de phrase.\n\nLe point qui compte : **cette case est marquée NA — indisponible — pour l'anglais.** *I miss you too* ne peut pas faire ce que fait *toi aussi, tu me manques*. C'est là, et seulement là, que le français est plus précis.\n\nL'italien, lui, ne fait pas comme nous : De Cesare marque *« \\*Aussi Jean est parti »* d'un astérisque — la place qu'utilise *anche tu mi manchi* n'existe pas en français. Nos voisins résolvent le problème par l'autre bout, comme l'explique notre article sur [la réponse italienne « anche tu mi manchi »](/blog/i-miss-you-too-in-italian).\n\n## « À moi aussi » : le complément indirect garde sa préposition\n\nL'autre pronom tonique est **moi** — mais il ne vient jamais seul. L'Office québécois de la langue française, dans sa fiche *MANQUER : emploi avec DE et À*, écrit que « manquer peut être suivi de la préposition **à** devant un nom ou un pronom », entre autres au sens d'« **être regretté par** ».\n\nLe *me* de « tu me manques » est la forme réduite de *à moi* — l'emplacement que la troisième personne remplit avec **lui**, jamais *le* ou *la*, comme le détaille notre article sur [la construction de « manquer »](/blog/tu-me-manques-signification-grammaire). Pour y mettre « aussi », on garde donc la préposition : **« Tu m'as manqué, à moi aussi. »** C'est une phrase Tatoeba (n° 12709318), traduite en anglais par *I missed you too*.\n\n## Ce que 33 phrases attestées montrent vraiment\n\nJ'ai extrait sur Tatoeba les **33 occurrences** françaises contenant à la fois une forme de *manquer* et *aussi*, lues une par une. **13 sont du bruit** — le train qu'on manque, l'argent qui fait défaut, un « aussi » d'une autre proposition. **20 sont notre verbe.**\n\n| Forme | Ce que « aussi » désigne | Portée (De Cesare, tab. 1) | Tatoeba (sur 20) | Ngrams fr-2019, 2022 |\n|---|---|---|---|---|\n| Tu me manques **aussi** | rien de précis | WS — large | **10** | 3,470 × 10⁻⁹ |\n| **Toi aussi**, tu me manques | la personne absente | NS — étroite | **5** | 1,649 × 10⁻⁹ |\n| Tu me manques, **à moi aussi** | celle qui s'ennuie | NS — étroite | **3** (5 en comptant *manquent*) | non mesurée |\n| **Moi aussi**, tu me manques | celle qui s'ennuie | — | **0** | 7,493 × 10⁻¹⁰ |\n\nLe fait le plus net : **les cinq phrases qui visent celui qui s'ennuie gardent toutes la préposition. Aucune n'écrit « moi aussi » seul.**\n\nUn zéro n'est pas une preuve pour autant. Le Ngram Viewer de Google Books, corpus français 2019, renvoie une courbe non nulle pour *moi aussi tu me manques* : **2,2 fois plus rare** que *toi aussi tu me manques*, **4,6 fois** que *tu me manques aussi*, mais présente. La forme existe ; elle est minoritaire, et vise l'autre argument.\n\nDernier cadeau du corpus : *I missed you, too* (n° 6532383) porte **trois** traductions françaises à la fois — *Tu m'as manqué aussi*, *Toi aussi, tu m'as manqué*, *Tu m'as manqué, à moi aussi*. Une anglaise, trois françaises, dont deux sans ambiguïté.\n\n## Une erreur vérifiable dans un résultat qui se classe\n\nLa page *« Comment répondre à tu me manques »* de motsefficaces.com, publiée le 3 mars 2026, se classe cinquième sur ma mesure DuckDuckGo en fr-fr, et première sur « que répondre à tu me manques ». Son exemple n° 8 propose ce message à recopier :\n\n> « Tu me manques **à toi** aussi. D'ailleurs, depuis que tu es parti, j'ai personne pour me dire que mes blagues sont nulles. […] »\n\nLa page la présente comme une façon de dire « moi aussi ». Elle ne dit pas cela. D'après la fiche de l'OQLF citée plus haut, le groupe en *à* désigne **qui regrette**, et « tu me manques » a déjà rempli cette place avec *me*.\n\n*À toi* donne donc au verbe un second complément indirect contradictoire, et fait de votre interlocuteur celui qui s'ennuie de lui-même. La forme attestée est *à moi aussi*.\n\n## « Je te manque » dit l'inverse, et l'OQLF l'a catalogué\n\nL'OQLF classe *je te manque* au sens de « tu me manques » parmi les **emprunts syntaxiques**, « calquée sur l'anglais », et juge l'emploi « incorrect » : « le verbe manquer a pour sujet la personne ou la chose absente, et pour complément la personne qui regrette cette absence ». *Je vous ai manqué* reste correct, mais veut dire que vous n'avez pas réussi à rencontrer quelqu'un.\n\nUne dernière règle, du Larousse (entrée 6526) : à la forme négative, « aussi » devient **non plus** — *tu ne me manques pas non plus*, jamais *pas aussi*. La version anglaise de tout ceci est dans [« tu me manques » en anglais](/blog/tu-me-manques-en-anglais).\n\n## Ce que nos chiffres disent, et ce qu'ils ne disent pas\n\n| Mesure | Pages « I miss you » (n = 214) | Toute la plateforme |\n|---|---|---|\n| Vues par page, en moyenne | **11,3** (2 417 vues, 104 sur la plus ouverte) | **11,1** |\n| Vues sur écran tactile | — | **48,4 %** |\n\nOnze virgule trois contre onze virgule un : **deux dixièmes d'écart**. Dire qu'une page « I miss you » est plus regardée qu'une autre serait malhonnête ; l'écart n'existe pas.\n\nQuatre réserves, et d'abord celle-ci : la ville, la musique et la date « ensemble depuis » sont des **menus déroulants avec valeurs par défaut**, dont le remplissage n'est pas un choix d'expéditeur. Le compteur compte des **ouvertures de page, pas des personnes**. Le corpus couvre **deux mois**, ce qui interdit toute lecture saisonnière.\n\nLa quatrième est la plus importante : **notre base enregistre quel modèle a été ouvert, jamais qui l'a reçu, et rien n'y est segmenté par langue ni par pays.** Aucun chiffre ici n'est français.\n\n## Là où notre page ne vous sert à rien\n\n**Le produit est en anglais.** La page /missyou-gf est définie dans notre code comme une « *'I miss you' page for a girlfriend/partner* » : libellés anglais, pensée pour une compagne ou un partenaire. Si vous répondez à un frère ou à une amie, l'habillage ne sera pas le vôtre. Nous ne pouvons rien confirmer sur les conditions d'accès ; la liste est sur [tous les modèles SubhSandesh](/templates).\n\n**Et répondre n'est pas fabriquer une page.** Qui lit « tu me manques » sur son téléphone a besoin d'une phrase dans les trente secondes, pas d'un site. **48,4 % de nos vues se font sur un écran tactile** : c'est ce moment-là. Envoyez d'abord *Toi aussi, tu me manques.* Le reste attendra.\n\nSi le manque est réciproque et installé, le modèle qui convient n'est pas une page-déclaration mais [le compteur de jours partagé Streak](/streak) — « deux personnes, une tape par jour », le seul de nos modèles qui demande une action des deux côtés : la structure même d'une réponse. Si le destinataire n'est pas une compagne, la [page « I miss you » pour un partenaire](/missyou-gf) est le mauvais choix.\n\n## Sources\n\n- [Académie française, 9ᵉ éd., article AUSSI](https://www.dictionnaire-academie.fr/article/A9A3190)\n- [Larousse, entrée *aussi*, 6526](https://www.larousse.fr/dictionnaires/francais/aussi/6526)\n- [OQLF, BDL, *MANQUER : emploi avec DE et À*](https://vitrinelinguistique.oqlf.gouv.qc.ca/24314/la-syntaxe/les-prepositions/preposition-apres-un-verbe/prepositions-a-employer-apres-le-verbe-manquer)\n- [De Cesare, A.-M. (2015), « Additive Focus Adverbs in Canonical Word Orders », *Linguistik Online* 71 (2/15)](https://bop.unibe.ch/linguistik-online/article/view/1777) — libre accès, lu intégralement\n- [Tatoeba n° 12709318, « Tu m'as manqué, à moi aussi. »](https://tatoeba.org/en/sentences/show/12709318)\n- [Google Books Ngram Viewer, corpus français 2019](https://books.google.com/ngrams/graph?content=tu+me+manques+aussi%2Ctoi+aussi+tu+me+manques%2Cmoi+aussi+tu+me+manques&year_start=1900&year_end=2022&corpus=fr-2019&smoothing=3)\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/tu-me-manques-aussi#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "French",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_language",
+              "https://www.wikidata.org/wiki/Q150"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "French grammar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/French_grammar",
+              "https://www.wikidata.org/wiki/Q11923"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Académie française",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Acad%C3%A9mie_Fran%C3%A7aise",
+              "https://www.wikidata.org/wiki/Q161806"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Office québécois de la langue française",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Office_qu%C3%A9b%C3%A9cois_de_la_langue_fran%C3%A7aise",
+              "https://www.wikidata.org/wiki/Q2578454"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Éditions Larousse",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/%C3%89ditions_Larousse",
+              "https://www.wikidata.org/wiki/Q273835"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "url": "https://www.dictionnaire-academie.fr/article/A9A3190",
+            "name": "Dictionnaire de l'Académie française, 9e édition, article AUSSI (A9A3190)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Académie française"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://www.larousse.fr/dictionnaires/francais/aussi/6526",
+            "name": "Dictionnaire de français Larousse, entrée « aussi » (6526)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Éditions Larousse"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24314/la-syntaxe/les-prepositions/preposition-apres-un-verbe/prepositions-a-employer-apres-le-verbe-manquer",
+            "name": "Banque de dépannage linguistique — MANQUER : emploi avec DE et À",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Office québécois de la langue française"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://bop.unibe.ch/linguistik-online/article/view/1777",
+            "name": "Additive Focus Adverbs in Canonical Word Orders. A Corpus-based Study of It. anche, Fr. aussi and E. also in Written News",
+            "author": {
+              "@type": "Person",
+              "name": "Anna-Maria De Cesare"
+            },
+            "datePublished": "2015-12-01",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Linguistik Online"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universität Bern"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://tatoeba.org/en/sentences/show/12709318",
+            "name": "Tatoeba, phrase n° 12709318 : « Tu m'as manqué, à moi aussi. »",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "url": "https://books.google.com/ngrams/graph?content=tu+me+manques+aussi%2Ctoi+aussi+tu+me+manques%2Cmoi+aussi+tu+me+manques&year_start=1900&year_end=2022&corpus=fr-2019&smoothing=3",
+            "name": "Google Books Ngram Viewer, corpus français 2019",
+            "datePublished": "2020-07-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google Books"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Les quatre façons de placer « aussi » dans la réponse, par nombre d'attestations Tatoeba",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Tu me manques aussi — portée large, 10 attestations sur 20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Toi aussi, tu me manques — portée étroite sur le sujet, 5 attestations sur 20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tu me manques, à moi aussi — portée étroite sur le complément indirect, 3 attestations sur 20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Moi aussi, tu me manques — 0 attestation sur Tatoeba, courbe non nulle sur Google Ngrams"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "tu me manques aussi",
+    "angle": "Wins by being the only post on this SERP that treats the French reply as a question of where « aussi » may legally sit — the Académie's own two-sided examples (A9A3190), De Cesare's 71%/29% corpus split and the OQLF's « manquer à + pronom » ruling — and proves it on a 33-hit Tatoeba census in which all 5 experiencer-focus sentences keep the preposition « à moi aussi » and 0 use bare « moi aussi », while Google Ngrams rescues « moi aussi » from that zero, correcting the SERP's received verdict and a checkable error in a top-5 result.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9A3190",
+        "stat": "Académie française, Dictionnaire, 9e édition, article AUSSI : au sens 1, les exemples « Il a perdu son temps et aussi son argent » (aussi antéposé) et « Il a perdu sa place, et sa réputation aussi » (aussi postposé) montrent que l'adverbe s'associe au constituant adjacent, des deux côtés."
+      },
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/aussi/6526",
+        "stat": "Larousse, entrée « aussi » n° 6526, sens 1 : « Dans une phrase affirmative, indique une quantité, une qualité égale, un fait identique », avec la note « (Dans les phrases négatives, on emploie non plus.) »"
+      },
+      {
+        "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24314/la-syntaxe/les-prepositions/preposition-apres-un-verbe/prepositions-a-employer-apres-le-verbe-manquer",
+        "stat": "Office québécois de la langue française, BDL, « MANQUER : emploi avec DE et À » : « manquer peut être suivi de la préposition à devant un nom ou un pronom » au sens d'« être regretté par » — c'est ce qui impose « à moi aussi » plutôt que « moi aussi » quand on focalise l'expérienceur."
+      },
+      {
+        "url": "https://bop.unibe.ch/linguistik-online/article/view/1777",
+        "stat": "De Cesare 2015, Linguistik Online 71 (2/15), corpus d'environ 750 000 mots d'actualité en ligne : la configuration « S Vfin aussi (O) » est de portée LARGE (table 1), l'anglais also l'est toujours, et quand le français focalise le sujet il recourt au redoublement du sujet dans 71 % des cas contre 29 % à la position finale (table 7). L'exemple (11) « *Aussi Jean est parti » est agrammatical, donc la position pré-sujet de l'italien anche n'existe pas en français. Note 17 : un clitique ne peut porter aussi.",
+        "publishedDate": "2015-12-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/show/12709318",
+        "stat": "Tatoeba n° 12709318, « Tu m'as manqué, à moi aussi. », traduite en anglais par « I missed you too » — l'une des cinq phrases du corpus qui focalisent l'expérienceur, toutes avec la préposition à ; aucune n'écrit « moi aussi » seul."
+      },
+      {
+        "url": "https://books.google.com/ngrams/graph?content=tu+me+manques+aussi%2Ctoi+aussi+tu+me+manques%2Cmoi+aussi+tu+me+manques&year_start=1900&year_end=2022&corpus=fr-2019&smoothing=3",
+        "stat": "Google Books Ngram Viewer, corpus français 2019 : au point 2022, « tu me manques aussi » 3,470e-9, « toi aussi tu me manques » 1,649e-9, « moi aussi tu me manques » 7,493e-10 — la troisième forme est 2,2 fois plus rare que la deuxième et 4,6 fois plus rare que la première, mais non nulle.",
+        "publishedDate": "2020-07-01"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Every H2 section answerable standalone in 2–3 sentences",
+          "why": "Neuf des dix H2 répondent seuls en deux ou trois phrases. Le dixième est la liste « Sources » : c'est une bibliographie, elle ne répond à aucune question. La supprimer retirerait le relevé de publication que le lot exige, donc elle reste et l'item reste en échec."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Le tableau de comparaison exigé par l'item 9 est linguistique — quatre formes françaises contre des comptages de corpus — et aucune mesure first-party ne varie selon la forme : la base enregistre quel modèle a été ouvert, jamais ce qui a été tapé dedans. Forcer une colonne first-party dans ce tableau serait du remplissage. Un second tableau, à deux lignes, porte les données first-party (11,3 vs 11,1 vues par page ; 48,4 % d'écrans tactiles). Ce qui fermerait l'item : une mesure par formulation, que le schéma de données ne permet pas aujourd'hui."
+        }
+      ],
+      "additionalChecks": [
+        "SERP measured, two routes, self-authenticated. serp-ddg.mjs --region fr-fr ran TWICE and echoed `query: tu me manques aussi` both times; domain set stable across runs. Weak count: 7 of the 8 non-excluded results I actually saw on run 1, 8 of 8 on run 2; across both runs, 10 of 11 distinct non-YouTube hosts are weak (three Reverso subdomains, five listicles, one Q&A thread, one machine-translated import). The only strong page, francaisavecpierre.com, is about « tu me manques » vs « je te manque » and never discusses « aussi ». Brave country=fr in the real browser corroborated (Reddit x4, Linguee x2, MyMemory, WordHippo). Google gl=fr&hl=fr&pws=0 loaded with rank-1 organic context.reverso.net, matching DDG; the rest of the organic block sat under an images pack and I recorded only what I actually read rather than inventing ranks. No AI Overview on the load I read. Gate 4: PASS.",
+        "ORCHESTRATOR FRAMING CORRECTED. My prompt asserted that in « tu me manques aussi » the adverb attaches to « tu ». It does not. De Cesare 2015 Table 1 puts the configuration S + Vfin + aussi in the WIDE SCOPE cell, the same cell as English « also ». My prompt also assumed the Italian trap transfers; it does not — De Cesare example (11) stars « *Aussi Jean est parti » as ungrammatical, so the pre-subject slot that disambiguates « anche tu mi manchi » does not exist in French. French gains its precision in a different cell, subject reduplication (config. V), which De Cesare marks NA for English and which accounts for 71% of French subject-focus cases in her corpus.",
+        "NEW LAROUSSE ID TRAP, three fresh instances. /dictionnaires/francais/aussi/6587, /6588 and /6589 each return HTTP 200 and serve autoamputation, autoanalyse and s'autoanalyser. This establishes WHY the MARAUD trap happens: the word in a Larousse URL is decorative and only the numeric id selects the entry. The correct id for « aussi » is 6526, recovered by requesting /dictionnaires/francais/aussi with no id and following the redirect.",
+        "CNRTL TESTED AND CONFIRMED DEAD: cnrtl.fr/definition/aussi and /definition/manquer both return HTTP 200 with a 914-byte shell titled « Portail lexical » and no entry. I got the SPA, not the content.",
+        "ACADÉMIE FRANÇAISE ARTICLE ID FOUND BY BISECTION. /search?term=aussi is a client-rendered shell containing zero /article/ links in its HTML, so the id is not discoverable by fetching. Bisecting A9A#### (aubépine A9A3100, autan A9A3200) located AUSSI at A9A3190, headword verified on the page.",
+        "WIKIDATA QIDs: four of the five I first proposed from memory were wrong — Q200687 is Brambles Limited, Q1571571 is Turbo Vision, Q1970898 is a German nature reserve, Q1770150 is Hartwig's soft-furred mouse. All six QIDs shipped here were re-derived via wbsearchentities and then confirmed by querying the paired en.wikipedia page's wikibase_item: Q150, Q11923, Q161806, Q2578454, Q273835, Q495456 all MATCH.",
+        "TATOEBA CENSUS, raw versus surviving. 33 raw hits pulled for the tokenised query « manque aussi » (from=fra), every one inspected individually. 13 discarded as noise (missing a train, lacking money, an « aussi » in another clause); 20 retained as the psych verb. Of the 20: 10 clause-final bare « aussi », 5 tonic subject + « aussi », 3 « à » + tonic pronoun + « aussi », 2 « aussi » before an infinitive, 0 bare « moi aussi ». Two further COI sentences (#4468046, #4468049) sit outside this pull because the verb is « manquent », giving 5 of 5 experiencer-focus sentences that keep the preposition. Quotes do NOT force a phrase match on this API and the search is diacritic-insensitive, which is why individual inspection was necessary.",
+        "THE ZERO WAS CHECKED AGAINST A SECOND CORPUS, per BRIEF §3. Tatoeba returns 0 for « moi aussi tu me manques »; Google Books Ngrams (corpus fr-2019, smoothing 3) returns a non-zero curve. The zero belongs to a 20-sentence sample, not to French. The post says so.",
+        "MINIMAL TRIPLE. English Tatoeba #6532383 / #5940744 « I missed you, too. » carries three French translations at once — « Tu m'as manqué aussi » (#11802998), « Toi aussi, tu m'as manqué » (#12311987), « Tu m'as manqué, à moi aussi » (#12709318). One English sentence, three French ones, two of them unambiguous. A second block (#2266794/95/96/98/2266800) does the same for the future with five variants.",
+        "CHECKABLE ERROR IN A RANKING RESULT: motsefficaces.com, « Comment répondre à tu me manques », datePublished 2026-03-03, rank 5 on both my DDG runs and rank 1 for « que répondre à tu me manques ». Its example 8 offers « Tu me manques à toi aussi » as a way of saying « moi aussi ». Per OQLF BDL 24314 the à-phrase after manquer names who does the regretting, and « tu me manques » has already filled that slot with « me »; « à toi » gives the verb a second, conflicting indirect complement and makes the addressee the one who misses. The attested form is « à moi aussi » (Tatoeba #12709318). Secondary and softer: lingoculture.com (Brave rank-1 organic, 2024-02-21) glosses « Tu me manques aussi » as « I miss you as well » and « Toi aussi, tu me manques » as « I miss you too », presenting the two forms as an English style variant and erasing the scope difference. I did not measure gymglish and am not repeating another row's finding about it.",
+        "FULL TEXT READ, NOT AN ABSTRACT. De Cesare 2015 was fetched as a PDF from bop.unibe.ch (458,911 bytes), parsed with /usr/local/bin/pdftotext -layout into 88,186 characters, and read in full. Tables 1, 3, 6 and 7, examples (11), (17), (18), (28)-(31), (52)-(55) and footnote 17 are all quoted or counted from that text. Zero abstract-only citations in this post.",
+        "SOURCE CAPS, checked by hand and by capcheck.mjs immediately before writing. No PMC paper, no doi.org link, no journal from the banned list — Frontiers in Psychology, PLoS ONE, Scientific Reports, BMC Psychology and Behavioral Sciences are all absent. The one peer-reviewed source is Linguistik Online. NOTE FOR THE ORCHESTRATOR: https://bop.unibe.ch/linguistik-online/article/view/1777 is now in TWO posts in this batch — this one and i-miss-you-too-in-italian — which fills the URL cap of 2 exactly. That overlap is deliberate: it is the one study covering both « anche » and « aussi », and it is the load-bearing evidence for the cross-link between the two posts. No third row may cite it.",
+        "TEMPLATE CHOICE, CHECKED AT SOURCE. /missyou-gf is defined at app/lib/prompt.ts:44 as \"'I miss you' page for a girlfriend/partner\" — English labels and recipient-specific — and that is disclosed in French body prose. /streak was kept from the assigned set on the Italian reply row's reasoning: app/lib/prompt.ts:88, \"two people, one tap a day\", the only reciprocal template in TEMPLATE_LINKS, and a reply is a reciprocal act. verify.config.json's _why lists /streak under oneOfLinks for long distance; the reciprocity argument is the stronger one for a reply row and is the one stated in the post.",
+        "THE TENSION IS NAMED IN THE POST, not only here: a reply is a different job from building a page. Someone reading « tu me manques » on a phone needs one sentence in thirty seconds, not a web page — 48.4% of our views are on a touch device, which is exactly that moment. The post tells the reader to send the sentence first and says the page can wait, and that the /missyou-gf page is the wrong choice when the recipient is not a partner. That is an argument against our own product at the point of the query.",
+        "FIRST-PARTY DIFFERENTIATION IS THIN AND THAT IS STRUCTURAL. These 12 snapshot lines are drawn on by 54+ sibling posts. I picked deliberately against the three French siblings, none of which used the platform-wide view lines, and the new pairing is 11.3 vs 11.1 views per page — a two-tenths gap reported as the null result it is. The Italian reply row paired the two edit-gap lines (2.6 h vs 2.5 h); this is the same move on a different pair so that we are not both running the same comparison.",
+        "MANDATORY CAVEATS CARRIED IN FRENCH BODY PROSE, not only in the audit: the city, background-music and « ensemble depuis » fields are pickers with defaults; viewCount counts page opens, not people; n = 214 over two months, so no seasonal claim; and the database records which TEMPLATE was opened, never who received it, with nothing segmented by language or country — so no figure in this post is French.",
+        "PRICE GUARD: no gratuit, gratuitement, sans frais, ne coûte rien, and no price, tier or subscription claim anywhere in French, English or the FAQs. pricecheck-intl.mjs run against this slug before saving.",
+        "SIBLING CROSS-LINKS, LIVENESS CHECKED 2026-09-27 against the production Strapi API. /blog/tu-me-manques-en-anglais resolves (total 1). /blog/tu-me-manques-signification-grammaire and /blog/i-miss-you-too-in-italian both return total 0 and will 404 until this batch publishes — a genuine, correctly-recorded limitation, not a fixable one. RE-CHECK TRIGGER: confirm both resolve at quiescence, after publish. tu-me-manques-beaucoup does not exist on disk or in Strapi, so it is not linked.",
+        "SLUG: the native-language slug was used, not the English one the plan originally carried. tu-me-manques-aussi is short, lowercase, hyphenated, carries the exact keyword and contains no stop word, and the production Strapi API returned total: 0 for it on 2026-09-27. This is the correction the i-miss-you-too-in-italian agent flagged, applied.",
+        "ITEM 45 READING: the body has no H3s, so the ItemList mirrors the comparison table's four rows in the table's own order (descending by Tatoeba attestation) rather than a heading sequence. Item 9's comparison table has four rows; a second, two-row first-party table sits in the data section and is what carries item 10's data, which is why item 10 is recorded as failed rather than quietly passed.",
+        "ITEM 26 NOTE: the Ngram link printed in the body is the human-readable /ngrams/graph URL for exactly the query whose /ngrams/json response I read; the numbers in the post come from that JSON response, not from the rendered page."
+      ],
+      "honestAssessment": "It is the only page on this measured SERP that answers the question a French reader is actually asking — where « aussi » may sit — and the only one carrying a number of any kind. The spine is checkable three ways: the Académie's own two-sided examples at A9A3190, De Cesare's 71%/29% corpus split read from the full PDF, and a 33-hit Tatoeba census in which all five experiencer-focus sentences keep the preposition « à moi aussi » and none writes « moi aussi » alone. It also corrects a live error in a top-5 result and contradicts the SERP's received verdict rather than repeating it, which is the behaviour answer engines reward. Against that: the domain has no published track record in French, the first-party data is a platform-wide set shared with 54 sibling posts and its headline comparison is a null result honestly reported as one, and two of the four sibling cross-links 404 until this batch publishes. Ranking here would take months and depends on authority this domain does not yet have; nothing about the post predicts it.",
+      "structuralLimitations": [
+        "The task prompt's central claim — that « aussi » in « tu me manques aussi » attaches to « tu » — is wrong, and so is its assumption that the Italian scope trap transfers to French. Both were corrected against De Cesare 2015 before drafting; the post is built on the corrected finding, which is the more interesting one: French does not disambiguate in the position the reader actually uses, and gains its precision only by moving the adverb onto a tonic pronoun.",
+        "No first-party measure varies by linguistic form, so the comparison table cannot carry a first-party column without padding. Recorded as a failed item rather than papered over.",
+        "The two edit-gap lines and the two views-per-page lines are the only near-pairs in the snapshot, and both are now spent — this post took the second pair. A future French row on this axis has no unspent pairing left and should say so.",
+        "Tatoeba's French corpus for this construction is 20 sentences. That is enough to show that the preposition is always kept and nothing more; the 5-vs-0 result is a direction, not a rate. Re-check trigger: re-run the census if the French corpus passes ~100 sentences containing manquer + aussi.",
+        "The Ngram figures are relative frequencies in a books corpus, which under-represents the spoken reply register that this keyword actually belongs to. They establish that « moi aussi tu me manques » exists in print; they do not establish how often people say it."
+      ]
+    },
+    "generatedAt": "2026-09-27T06:51:36.608Z"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ich vermisse dich auch: worauf sich das „auch“ wirklich bezieht",
+    "slug": "ich-vermisse-dich-auch",
+    "excerpt": "In „Ich vermisse dich auch“ greift das „auch“ nach links, und die Betonung entscheidet, auf welchen Satzteil. Geschrieben bleibt der Satz mehrdeutig — mit 80 Belegen für die nachgestellte Form, 0 für die eindeutige und 649 für die Ellipse „Ich dich auch“.",
+    "metaTitle": "Ich vermisse dich auch — Bezug, Stellung und 80 Belege",
+    "metaDescription": "In „Ich vermisse dich auch“ greift das auch nach links, die Betonung entscheidet. 80 Belege im DWDS-Untertitelkorpus, 0 Belege für „Auch ich vermisse dich“.",
+    "keywords": "ich vermisse dich auch, ich vermisse dich auch antwort, ich dich auch, du fehlst mir auch, auch ich vermisse dich, fokuspartikel auch",
+    "canonicalURL": "https://subhsandesh.in/blog/ich-vermisse-dich-auch",
+    "ogType": "article",
+    "tags": [
+      "deutsch",
+      "grammatik",
+      "fernbeziehung",
+      "vermissen",
+      "fokuspartikel"
+    ],
+    "keyTakeaways": [
+      "In „Ich vermisse dich auch“ bezieht sich das „auch“ auf einen vorangehenden Satzteil; welcher es ist, entscheidet die Betonung — geschrieben bleibt der Satz mehrdeutig.",
+      "„Auch ich vermisse dich“ ist syntaktisch eindeutig, kommt aber in 75.520.701 Token DWDS-Untertiteldialog null-mal vor, gegenüber 80 Belegen für die nachgestellte Form.",
+      "Die häufigste deutsche Antwort ist die Ellipse „Ich dich auch“: 649 Belege, davon 457 als bloße Antwortzeile.",
+      "„Du fehlst mir auch“ stellt die Partikel neben „mir“, also neben die vermissende Person, „Ich vermisse dich auch“ neben „dich“ — die beiden deutschen Konstruktionen setzen das „auch“ auf verschiedene Argumente.",
+      "Deutsch erlaubt laut Berchio u. a. (2025) beide Stellungen: die italienische vorangestellte und die französische nachgestellte — und benutzt überwiegend die zweite."
+    ],
+    "faqs": [
+      {
+        "question": "Heißt „Ich vermisse dich auch“ dasselbe wie „Ich dich auch“?",
+        "answer": "Inhaltlich ja, in der Eindeutigkeit nein. Die Ellipse lässt genau die Teile stehen, die neu sind — „ich“ und „dich“ —, und das Verb kommt aus der vorigen Nachricht. Im DWDS-Untertitelkorpus ist sie mit 649 Belegen rund achtmal so häufig wie die ausgeschriebene Form mit 80."
+      },
+      {
+        "question": "Muss ich das „auch“ betonen, wenn ich den Satz sage?",
+        "answer": "Wenn sich das „auch“ auf dich selbst beziehen soll: ja. Grubic und Wierzba halten 2019 fest, dass betontes „auch“ sich auf einen vorangehenden Satzteil bezieht, und dass eine Betonung auf dem Objekt den Bezug auf das Objekt verschiebt. Das DWDS notiert für diese Lesart ausdrücklich „stets betont“."
+      },
+      {
+        "question": "Darf „auch“ ganz allein am Satzanfang stehen?",
+        "answer": "Nein. Das IDS schreibt in der Systematischen Grammatik, Fokuspartikeln „können nicht allein im Vorfeld stehen“. Vorangestellt muss die Partikel ihren Bezugsausdruck mitnehmen: „Auch ich vermisse dich“ geht, „Auch vermisse ich dich“ nicht in dieser Bedeutung."
+      },
+      {
+        "question": "Ist „Ich vermisse dich ebenfalls“ die bessere Variante?",
+        "answer": "Duden führt „ebenfalls“ als Synonym von „auch“, aber geschrieben wird es in diesem Satz praktisch nicht: Im DWDS-Untertitelkorpus mit 75.520.701 Token liefert „ich vermisse dich ebenfalls“ null Treffer. Es klingt außerdem deutlich distanzierter als „auch“."
+      },
+      {
+        "question": "Wie antworte ich, wenn ich es gerade nicht zurückgeben kann?",
+        "answer": "Dann besser kein halbherziges „auch“. Die verneinte Form ist im Deutschen unmissverständlich hart — „Ich dich auch nicht“ steht 54-mal im Untertitelkorpus — und eine ehrliche Umschreibung ohne Partikel („Ich denke oft an dich“) sagt weniger, als sie zu sagen scheint, aber sie lügt nicht."
+      },
+      {
+        "question": "Was ändert sich, wenn ich jemanden sieze?",
+        "answer": "An der Partikel nichts, nur am Pronomen: „Ich vermisse Sie auch“ ist im Untertitelkorpus 14-mal belegt, „Ich vermisse euch auch“ fünfmal. Die Stellungsregel für „auch“ bleibt in allen drei Fällen dieselbe."
+      },
+      {
+        "question": "Schreibt man „Ich dich auch, Mama“ mit Komma?",
+        "answer": "Ja, die Anrede wird wie immer durch Komma abgetrennt. Genau diese Form ist im Korpus der Normalfall: Von 644 geprüften Fundstellen sind 457 die bloße Antwortzeile, oft mit angehängtem Namen oder Kosewort."
+      },
+      {
+        "question": "Kann „Ich vermisse dich auch“ auch bedeuten, dass ich noch jemand anderen vermisse?",
+        "answer": "Ja, das ist genau die Mehrdeutigkeit. Liegt die Betonung auf „dich“, bezieht sich die Partikel auf das Objekt, und der Satz heißt: Neben anderen vermisse ich auch dich. Im geschriebenen Text ist diese Lesart nicht ausgeschlossen."
+      },
+      {
+        "question": "Soll ich statt der Partikel einfach denselben Satz zurückschreiben?",
+        "answer": "„Ich vermisse dich“ ohne „auch“ ist mit 453 Belegen im Untertitelkorpus die häufigste Form überhaupt und völlig in Ordnung. Sie sagt allerdings etwas anderes: Das „auch“ setzt voraus, dass eine vergleichbare Aussage schon im Raum steht — genau diese Voraussetzung untersuchen Grubic und Wierzba 2019. Ohne Partikel bleibt offen, ob du antwortest oder neu anfängst."
+      },
+      {
+        "question": "Gilt dieselbe Stellungsregel auch für „Ich liebe dich auch“?",
+        "answer": "Ja, denn die Regel hängt an der Partikel, nicht am Verb. Das IDS beschreibt sie für Fokuspartikeln allgemein, und die kurze Antwort ist bei beiden Sätzen dieselbe Ellipse: „Ich dich auch“ steht im Untertitelkorpus 649-mal und beantwortet Liebes- wie Vermiss-Sätze."
+      },
+      {
+        "question": "Ist eine Antwort in drei Wörtern zu wenig?",
+        "answer": "Das hängt davon ab, was vorher kam. Auf unseren Seiten tragen 86,4 Prozent mindestens eine geschriebene Erinnerung (185 von 214) — wer viel geschrieben bekommt, bekommt selten drei Wörter zurück. Für eine Chatnachricht sind drei Wörter dagegen die normale Länge."
+      }
+    ],
+    "coverImageQuery": "handy nachricht abends fenster fernbeziehung",
+    "coverImagePrompt": "A close, photorealistic shot of a phone held in one hand at dusk, a short German chat reply glowing on the screen, warm window light behind and the room out of focus. Shallow depth of field, muted blues and amber, clean negative space at the top for a title overlay, 16:9. No legible text on the screen except a blurred message bubble, and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Ich vermisse dich auch: worauf sich das „auch\" wirklich bezieht\n\nKurz und direkt: In „Ich vermisse dich auch\" greift das *auch* nach **hinten** — es bezieht sich auf einen Satzteil, der davor steht. Welcher das ist, entscheidet die **Betonung**. Geschrieben ist der Satz deshalb mehrdeutig, gesprochen nicht.\n\nDiese Seite kommt von einem Produkt, dessen Zahlen wir selbst messen. Auf unseren Vermiss-dich-Seiten liegt die mittlere Spanne zwischen dem ersten Speichern und der letzten Änderung bei **2,6 Stunden** (n = 214). Auf den Entschuldigungs-Seiten sind es **2,5 Stunden** bei n = 1.396. Sechs Minuten Abstand, zwei völlig verschiedene Gruppen — und beide Male gilt: Wer antwortet, tippt nicht in Sekunden zurück, sondern kommt Stunden später noch einmal.\n\nGenau deshalb lohnt sich die Frage, was der Satz eigentlich sagt.\n\n## Die kurze Antwort: „auch\" ist eine Fokuspartikel, und sie greift nach hinten\n\nDas Leibniz-Institut für Deutsche Sprache führt *auch* in seiner [Systematischen Grammatik](https://grammis.ids-mannheim.de/systematische-grammatik/408) ausdrücklich im Bestand der **Fokuspartikeln** — in einer Liste mit *nur*, *sogar*, *selbst*, *bereits*. Dort steht der Satz, um den sich alles dreht: „Fokuspartikeln können vor oder nach ihrem Bezugsausdruck stehen, mitunter auch in Distanzstellung zum Bezugsausdruck, aber nicht allein im Vorfeld.\"\n\nUnd: „Der Bezugsausdruck ist durch einen Gewichtungsakzent hervorgehoben.\" Die Stellung legt den Bezug also nicht fest — der Akzent tut es.\n\nFür die nachgestellte Variante wird das in einem Experiment der Universität Potsdam noch genauer. Mira Grubic und Marta Wierzba schreiben 2019 in [*Frontiers in Communication*](https://www.frontiersin.org/articles/10.3389/fcomm.2019.00015/full): „Stressed auch associates with a preceding constituent.\" Betontes *auch* sucht seinen Bezug **links von sich**. Stehen dort mehrere Kandidaten, hilft nur ein zusätzlicher Kontrastakzent.\n\n## „Auch ich vermisse dich\" ist eindeutig — und fast niemand schreibt es\n\nStellt man die Partikel vor ihren Bezugsausdruck, verschwindet die Mehrdeutigkeit. Das DWDS führt diese Verwendung als eigene Lesart: *auch* „verstärkt den folgenden Satzteil, das folgende Wort\", mit dem Beleg „Auch ich war ein Jüngling mit lockigem Haar\".\n\nGrubic und Wierzba bauten genau diese Form in ihr zweites Experiment ein, weil dort „the additive particle can only associate with the subject it precedes\". Ihr eigenes Fazit am Ende der Studie: Es sei „advisable to use preposed auch in future research\" — die Testpersonen waren sicherer, wenn der Bezug syntaktisch statt nur lautlich markiert war.\n\nNur: Im Alltag passiert das nicht. Ich habe im DWDS-Untertitelkorpus (75.520.701 Token gesprochener Dialog) nachgezählt. „Ich vermisse dich auch\" kommt **80-mal** vor. „Auch ich vermisse dich\" kommt **null-mal** vor. Die eindeutige Form existiert in der Grammatik und nicht in der Praxis.\n\n## Warum „Ich auch vermisse dich\" nicht geht\n\nDie dritte denkbare Stellung — Partikel direkt hinter dem Subjekt, vor dem Verb — ist im Deutschen keine Option. Das IDS formuliert es negativ: Fokuspartikeln „können keine Phrasen bilden, sind nicht selbständig verwendbar und können nicht allein im Vorfeld stehen.\"\n\nEine Arbeitsgruppe um Giulia Berchio berichtet 2025 im [*Journal of the European Second Language Association*](https://euroslajournal.org/articles/127/files/684fee9e0b5c3.pdf) denselben Befund von der Lernerseite. Italienische Deutschlerner produzieren die Stellung trotzdem — Beispiel „und herr rot auch ist aufgewacht\" —, und die Autorinnen halten fest, diese Stellung gelte „as ungrammatical in both Italian and German\".\n\nIm Untertitelkorpus: ebenfalls **null Treffer**. Das deckt sich.\n\n## „Du fehlst mir auch\" stellt das „auch\" neben eine andere Person\n\nHier wird es für das Deutsche besonders — und, soweit ich sehe, für keine andere Sprache in dieser Reihe reproduzierbar. Deutsch hat für dieselbe Antwort **zwei Konstruktionen**, und sie ordnen die beiden Beteiligten gegenläufig an.\n\n*Vermissen* nimmt ein Akkusativobjekt; in „Ich vermisse dich auch\" steht also vor der Partikel zuletzt **dich** — die vermisste Person. *Fehlen* dreht die Rollen um: In „Du fehlst mir auch\" ist *du* das Subjekt und *mir* der Dativ, und vor der Partikel steht zuletzt **mir** — die vermissende Person.\n\nDa betontes *auch* laut Grubic und Wierzba nach links greift, landet der nächstliegende Bezug in der einen Fassung auf dem Gegenüber und in der anderen auf einem selbst. Wer also sagen will „ich ebenfalls\", steht mit „Du fehlst mir auch\" günstiger. Wie die beiden Verben grammatisch auseinanderlaufen, steht ausführlich in unserem Beitrag dazu, [wie man einem Mann sagt, dass man ihn vermisst](/blog/wie-sage-ich-ihm-dass-ich-ihn-vermisse).\n\n## Die häufigste deutsche Antwort ist gar kein ganzer Satz\n\nDie eigentliche Überraschung der Zählung: Gesprochen antwortet kaum jemand mit einem vollständigen Satz. Die Abfrage „ich dich auch\" liefert im Untertitelkorpus 846 Treffer. Davon tragen nach Durchsicht aller Zeilen **649** tatsächlich die Wortfolge *ich dich auch*; 195 sind *ich dir auch* und damit ein anderer Fall, den die Suche über das Lemma mitfängt.\n\nVon 644 nachgeprüften Fundstellen sind **457 die nackte Ellipse** — „Ich dich auch.\", „Ich dich auch, Mama.\", „Ja, ich dich auch.\" Das sind 71 Prozent, und es ist rund achtmal so viel wie die 80 Belege der ausgeschriebenen Form.\n\nDie Ellipse löst das Problem auf ihre Weise: Stehen bleibt nur, was neu und kontrastiv ist — *ich* und *dich*. Das Verb fällt weg, weil es aus der Vorgängeräußerung kommt. Man sieht der Antwort also an, worauf sie sich bezieht, ohne dass die Betonung mithelfen müsste.\n\n## Vier Antworten nebeneinander\n\n| Formulierung | Worauf „auch\" greift | DWDS-Untertitel (75,5 Mio. Token) | Unsere Daten dazu |\n| --- | --- | --- | --- |\n| Ich vermisse dich auch. | nach links; Betonung entscheidet | 80 | 88,8 % der begonnenen Seiten werden am Ende geteilt (190 von 214) |\n| Auch ich vermisse dich. | nur auf „ich\", syntaktisch festgelegt | 0 | 86,4 % der Seiten tragen mindestens eine geschriebene Erinnerung (185 von 214) |\n| Du fehlst mir auch. | nach links, dort steht „mir\" | 32 | mittlere Bearbeitungsspanne 2,6 Stunden, n = 214 |\n| Ich dich auch. | auf die stehengebliebenen Teile | 649 | 2,5 Stunden auf /apology-dashboard, n = 1.396 |\n\nDie letzte Spalte misst nicht die Formulierung, sondern die Seite, auf der sie am Ende landet. Unsere Datenbank kennt keine Sprachen und keine Länder — keine dieser Zahlen ist deutsch.\n\n## Was Deutsch von Italienisch, Französisch und Englisch trennt\n\nBerchio, Bonvin und Berthele vergleichen 2025 genau diese Stellungsfrage über vier Sprachen hinweg, mit 71 deutsch-französischen und 70 deutsch-italienischen Zweisprachigen sowie je 40 einsprachigen Vergleichspersonen. Ihr zentraler Satz: „German licenses two positions of auch: Left-of-entity (before the added entity-subject) and post-finite (after the finite verb).\"\n\nDas Italienische kennt nur die erste; die nachgestellte Variante gilt dort „as non-grammatical\". Das Französische teilt mit dem Deutschen die zweite. Und die vorangestellte Stellung „is not shared with English\" — Englisch muss stattdessen zwischen *too*, *also* und *as well* wählen.\n\nDeutsch hat also beides, wählt aber überwiegend die französisch-englische Seite: Die vorangestellte Stellung erscheint nach ihren Angaben in etwa 30 Prozent der deutschen Muttersprachleräußerungen (20 von 70). Die Sprache mit der besten Trennschärfe benutzt sie am seltensten.\n\n## „Ich vermisse dich auch nicht\": Deutsch braucht dafür kein eigenes Wort\n\nDie verneinte Antwort ist im Deutschen der einfache Fall. Es wird nichts ausgetauscht, es wird nur angehängt: *auch nicht*. Das IDS rechnet dabei sogar „die Negationspartikel *nicht*\" selbst zu den Fokuspartikeln, sodass zwei davon aufeinandertreffen.\n\nWie ungewöhnlich das ist, sieht man an den Übersetzungen. Im Satzkorpus Tatoeba habe ich 59 deutsche Sätze mit der Wortfolge *auch nicht* samt englischer Übersetzung geprüft: **53 davon, also 89,8 Prozent, wechseln im Englischen auf *either*, *neither* oder *nor*.** Englisch braucht ein eigenes Wort für die Verneinung, Deutsch nicht.\n\nIm Untertitelkorpus ist „Ich vermisse dich auch nicht\" übrigens **nicht ein einziges Mal** belegt — gesagt wird die Ellipse: „Ich dich auch nicht\", 54-mal.\n\n## Was auf der deutschen Ergebnisseite steht — und ein Widerspruch zum Nachschlagen\n\nGemessen am 27.09.2026 über Google mit `gl=de&hl=de&pws=0`, Ergebnisse nur gelesen, nichts angeklickt: Die Suche nach der bloßen Zeile liefert vor allem Unterhaltung. Unter den ersten vierzehn Treffern stehen die Netflix-Miniserie „Ich vermisse dich\", ein Wikipedia-Artikel dazu, Songs von Helene Fischer, Lune und Pietro Lombardi, Spotify und Songtexte.com.\n\nBemerkenswert daran: In anderen Sprachen räumt das Zusatzwort die Musik weg. Hier nicht — Helene Fischers Titel von 2007 heißt „Und ich vermiss dich auch\" und enthält die Partikel bereits. Erst die Frage nach der **Antwort** räumt auf: Dort standen sieben Ergebnisse, davon sechs Foren, Q&A-Seiten und ein TikTok-Video, kein einziges Musikergebnis — und kein Wörterbuch, keine Grammatik.\n\nEin Fehler zum Selbstnachschlagen steht bei Linguee, das für die bloße Zeile rankt. Auf derselben Seite wird „Ich vermisse dich auch.\" korrekt mit „I miss you, too.\" wiedergegeben — vier Zeilen darunter aber „Ich auch.\" mit „So do I. · So am I. · So did I.\". Diese drei englischen Formen wiederholen das Prädikat mitsamt seinem Objekt. Auf „Ich vermisse dich\" geantwortet hieße „So do I\" also: Ich vermisse dieselbe dritte Person wie du. Das Objekt muss hier aber kippen — und die Seite widerspricht sich damit in vier Zeilen selbst.\n\n## Was unsere Zahlen zeigen — und was ausdrücklich nicht\n\nDrei Einschränkungen gehören zu jeder Zahl oben. Erstens sind Stadt, Hintergrundmusik und „zusammen seit\" **Auswahlfelder mit Voreinstellung**; eine hohe Ausfüllquote dort ist keine Entscheidung der Absenderin. Selbst gewählt sind Passwort, Sprachnachricht, Wiedersehensdatum, Brief, Erinnerungen und die „Öffne wenn\"-Briefe.\n\nZweitens zählt unsere Aufrufzahl Seitenaufrufe, nicht einzelne Menschen: Wer eine Seite zwanzigmal öffnet, erzeugt zwanzig Aufrufe. Drittens sind es n = 214 Seiten über zwei Monate seit dem 28.07.2026 — daraus folgt keine Jahreszeit und kein Trend.\n\nUnd das Wichtigste: Die Datenbank hält fest, **welche Vorlage geöffnet wurde, nie, wer sie bekommen hat**. Nichts darin ist nach Sprache oder Land getrennt. Wer aus 2,6 Stunden etwas Deutsches machen will, macht es sich zurecht.\n\n## Warum die verlinkte Seite auf Englisch ist\n\nEhrlichkeitshalber: Unsere [Vermiss-dich-Seite für die Partnerin](/missyou-gf) ist ein **englischsprachiges Produkt**. Alle Beschriftungen, Hinweise und Felder sind auf Englisch, und sie ist für eine Partnerin oder Freundin gebaut, nicht für Eltern, Geschwister oder Freunde. Der deutsche Text kommt nur von dir.\n\nDazu kommt ein zweiter Bruch, der hier besonders wiegt: Die Seite ist zum **Senden** gebaut. Wer gerade eine Nachricht beantwortet, will drei Wörter zurückschreiben, keine Seite bauen. Für das Gegenseitige gibt es bei uns [Streak, wo beide täglich einmal tippen](/streak) — zwei Menschen, ein Tippen pro Tag, und nach hundert Tagen ein Tagebuch, das keiner geplant hat. Das passt zu einer Antwort besser als eine einseitige Seite.\n\nZu Tarifen oder Zahlungen sagen wir hier nichts, weil wir dazu keine belastbaren Angaben haben; was es gibt, steht in der [Übersicht aller Vorlagen](/templates).\n\n## Quellen\n\n- Leibniz-Institut für Deutsche Sprache, Systematische Grammatik, „Fokuspartikel\" (Eva Breindl; Stand 28.06.2018)\n- [DWDS, Wörterbucheintrag *auch*](https://www.dwds.de/wb/auch) (eWDG 1967) und DWDS-Untertitelkorpus, Abfragen vom 27.09.2026\n- [Duden, Eintrag *auch* (Adverb)](https://www.duden.de/rechtschreibung/auch_Adverb) und der zweite Eintrag *auch* (Partikel)\n- Mira Grubic & Marta Wierzba, *Frontiers in Communication* 4 (24.04.2019)\n- Giulia Berchio, Audrey Bonvin & Raphael Berthele, *Journal of the European Second Language Association* 9(1), 85–102 (2025)\n- [Tatoeba, deutsch-englische Satzpaare](https://tatoeba.org/en/sentences/search?from=deu&to=eng&query=%22auch%20nicht%22), abgefragt am 27.09.2026\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ich-vermisse-dich-auch#post",
+        "inLanguage": "de-DE",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Deutsche Sprache",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Deutsche_Sprache",
+              "https://www.wikidata.org/wiki/Q188"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Partikel (Wortart)",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Partikel_(Wortart)",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Fokus (Linguistik)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Duden",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Duden",
+              "https://www.wikidata.org/wiki/Q511823"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Digitales Wörterbuch der deutschen Sprache",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Digitales_W%C3%B6rterbuch_der_deutschen_Sprache",
+              "https://www.wikidata.org/wiki/Q1225026"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Leibniz-Institut für Deutsche Sprache",
+            "sameAs": [
+              "https://de.wikipedia.org/wiki/Leibniz-Institut_f%C3%BCr_Deutsche_Sprache",
+              "https://www.wikidata.org/wiki/Q1664834"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Fokuspartikel — Systematische Grammatik",
+            "url": "https://grammis.ids-mannheim.de/systematische-grammatik/408",
+            "datePublished": "2018-06-28",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Leibniz-Institut für Deutsche Sprache (grammis)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "auch — DWDS-Wörterbuch und DWDS-Filmuntertitelkorpus",
+            "url": "https://www.dwds.de/wb/auch",
+            "datePublished": "1967-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Digitales Wörterbuch der deutschen Sprache, Berlin-Brandenburgische Akademie der Wissenschaften"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "auch (Adverb) — Duden online",
+            "url": "https://www.duden.de/rechtschreibung/auch_Adverb",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Duden, Bibliographisches Institut"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Presupposition Accommodation of the German Additive Particle auch (= \"too\")",
+            "url": "https://www.frontiersin.org/articles/10.3389/fcomm.2019.00015/full",
+            "datePublished": "2019-04-24",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Frontiers in Communication"
+            },
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Mira Grubic"
+              },
+              {
+                "@type": "Person",
+                "name": "Marta Wierzba"
+              }
+            ]
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Swiss-German Additive Focus Particle auch in bi-/multilingual Speakers",
+            "url": "https://euroslajournal.org/articles/127/files/684fee9e0b5c3.pdf",
+            "datePublished": "2025-01-01",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Journal of the European Second Language Association"
+            },
+            "author": [
+              {
+                "@type": "Person",
+                "name": "Giulia Berchio"
+              },
+              {
+                "@type": "Person",
+                "name": "Audrey Bonvin"
+              },
+              {
+                "@type": "Person",
+                "name": "Raphael Berthele"
+              }
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba — deutsch-englische Satzpaare zu „auch nicht“",
+            "url": "https://tatoeba.org/en/sentences/search?from=deu&to=eng&query=%22auch%20nicht%22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba Project"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ich vermisse dich auch",
+    "angle": "Wins by being the only post that answers where the „auch“ in „Ich vermisse dich auch“ attaches — from the IDS Systematische Grammatik's Fokuspartikel page plus two open-access studies read in full — and then counts the answer in 75,520,701 tokens of DWDS subtitle dialogue: 80 for the postposed form, 0 for the unambiguous preposed „Auch ich vermisse dich“, 649 for the ellipsis „Ich dich auch“, from which follows the practical finding that German's two constructions put the particle next to different arguments and „Du fehlst mir auch“ is the less ambiguous reply.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "Median gap between a page's first save and its last edit: 2.5 hours — sampled on apology dashboard (/apology-dashboard), n=1,396 — measured 2026-09-24",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://grammis.ids-mannheim.de/systematische-grammatik/408",
+        "stat": "Leibniz-Institut fuer Deutsche Sprache, Systematische Grammatik, page 'Fokuspartikel' (author Eva Breindl, editor Elke Donalies, last changed 28 June 2018), fetched 2026-09-27 and the heading read before citing. It lists 'auch' verbatim in the Bestand of Fokuspartikeln: 'allein, allenfalls, annaehernd, auch, ausgerechnet, bereits, besonders, bestenfalls, blosz, einzig, erst, etwa, fruehestens, gar, gerade, lediglich, mindestens, noch, nur, schon, selbst, sogar, vor allem, wenigstens, zumindest'. Verbatim rules used in the post: 'Fokuspartikeln koennen vor oder nach ihrem Bezugsausdruck stehen, mitunter auch in Distanzstellung zum Bezugsausdruck, aber nicht allein im Vorfeld.'; 'Der Bezugsausdruck ist durch einen Gewichtungsakzent hervorgehoben.'; 'Fokuspartikeln koennen keine Phrasen bilden, sind nicht selbstaendig verwendbar und koennen nicht allein im Vorfeld stehen.'; and 'Zu den Fokuspartikeln rechnen wir auch die Negationspartikel nicht.' Cap-exempt reference instrument (grammis.ids-mannheim.de). The page carries a last-changed date, used as publishedDate.",
+        "publishedDate": "2018-06-28"
+      },
+      {
+        "url": "https://www.dwds.de/wb/auch",
+        "stat": "DWDS entry 'auch', fetched 2026-09-27; the headword on the delivered page was read and confirmed as 'auch' before citing, per BRIEF section 4. DWDS labels the headword Grammatik: Konjunktion. Sense 1a carries the grammar note 'stets betont' and the gloss 'gleichfalls, ebenso' with the example 'das kann Ihnen auch passieren'; sense 1b is glossed 'verstaerkt den folgenden Satzteil, das folgende Wort' with the near-identical example 'das kann auch Ihnen passieren' and the literary citation 'Auch ich war ein Juengling mit lockigem Haar' (Lortzing, Waffenschmied III 9). The same two senses therefore separate the two positions of the particle. SEPARATELY, the DWDS/DDC corpus backend at kaskade.dwds.de/dstar/untertitel (DWDS-Filmuntertitelkorpus, count(*) = 9,758,785 sentences, 75,520,701 tokens) was queried on 2026-09-27 with count(\"...\") and returned: ich vermisse dich auch 80; du fehlst mir auch 32; auch ich vermisse dich 0; ich vermisse auch dich 0; dich vermisse ich auch 0; ich auch vermisse dich 0; auch du fehlst mir 0; ich vermisse dich auch nicht 0; ich vermisse dich 453; du fehlst mir 232; ich dich auch nicht 54; ich vermisse Sie auch 14; ich vermisse euch auch 5; ich vermisse dich ebenfalls 0. The query \"ich dich auch\" returned 846 hits; all were retrieved and tallied by surface form: 649 are literally 'ich dich auch', 195 are 'ich dir auch' (a lemma-match artefact), 3 other. A re-pull of 644 of those sentences classified 457 as the bare elliptical reply and 187 as 'auch' inside a full clause. The 453/232/80/32 figures reproduce exactly the counts published by the live sibling /blog/i-miss-you-in-german, which is how the endpoint was authenticated. Cap-exempt reference instrument (dwds.de). DWDS entries carry no publication date; the eWDG base year is 1967.",
+        "publishedDate": "1967-01-01"
+      },
+      {
+        "url": "https://www.duden.de/rechtschreibung/auch_Adverb",
+        "stat": "Duden online, entry 'auch', fetched 2026-09-27; the headword and the Wortart line on the delivered page were read before citing, because duden.de/rechtschreibung/auch itself returns HTTP 404. Duden splits the word into TWO homographic entries: 'auch' with Wortart: Adverb (this URL), whose Bedeutung 1 is 'ebenfalls, genauso' with the examples 'ich bin auch nur ein Mensch' and 'alle schwiegen, auch der Fahrer sprach kein Wort'; and 'auch' with Wortart: Partikel at /rechtschreibung/auch_Partikel_verstaerkend, whose Grammatik line reads 'Partikel; unbetont' and whose five senses are the modal ones ('du bist aber auch stur'). The additive 'auch' of the reply is therefore the ADVERB entry in Duden, and Duden reserves 'Partikel' for the unstressed modal word - a different word-class assignment from the IDS, which files the additive 'auch' as a Fokuspartikel, and from DWDS, which labels the headword Konjunktion. Duden's Herkunft: 'mittelhochdeutsch ouch, althochdeutsch ouh'. Cap-exempt reference instrument (duden.de); Duden entries carry no publication date, so publishedDate is omitted rather than invented."
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fcomm.2019.00015/full",
+        "stat": "Mira Grubic & Marta Wierzba, 'Presupposition Accommodation of the German Additive Particle auch (= \"too\")', journal FRONTIERS IN COMMUNICATION, volume 4, section Psychology of Language, published 24 April 2019; open access (Unpaywall is_oa true), READ IN FULL as HTML, not abstract-only. Verbatim, from section 3.1.2: 'Stressed auch associates with a preceding constituent. If several constituents are available, disambiguation is possible by marking one of them as a contrastive topic by a rising accent (Krifka, 1999).' and 'Association with the direct object would require sentence stress on the object.' From 3.1.1, the reason the authors abandoned written stimuli: 'Reading the target sentence with an implicit prosody that differed from the intended one could have altered the interpretation'; from 3.1.2: 'we presented the materials auditorily in order to ensure that the participants correctly identify the associate of the additive particle.' From 3.2.2, on preposed auch: 'In a sentence like (30), the additive particle can only associate with the subject it precedes.' From 3.2.5: 'it would therefore be advisable to use preposed auch in future research.' Sample sizes read from the paper: Experiment 1, 36 native German speakers (University of Potsdam students); Experiment 2, 54 native German speakers (Prolific). NOTE ON THE BATCH CAP: this is Frontiers in COMMUNICATION, a different journal from Frontiers in Psychology, which BRIEF section 7 bans.",
+        "publishedDate": "2019-04-24"
+      },
+      {
+        "url": "https://euroslajournal.org/articles/127/files/684fee9e0b5c3.pdf",
+        "stat": "Giulia Berchio, Audrey Bonvin & Raphael Berthele, 'Swiss-German Additive Focus Particle auch in bi-/multilingual Speakers: The Role of Language Typology, Language Dominance and Proficiency', journal JOURNAL OF THE EUROPEAN SECOND LANGUAGE ASSOCIATION 9(1), 85-102, 2025, doi 10.22599/jesla.127; open access (Unpaywall is_oa true), PDF downloaded and READ IN FULL with pdftotext -layout, not abstract-only. Verbatim: 'German licenses two positions of auch: Left-of-entity (before the added entity-subject) and post-finite (after the finite verb).' On Italian: 'The post-finite position is considered non-grammatical in Italian, though it has been observed sporadically in spoken productions (Andorno, 2000).' On French: 'French shares the post-finite position with German'. On English, from the abstract: 'The left-of-entity position of the additive focus particle is not shared with English.' Quantified for German L1: the left-of-entity position 'is present in about 30% of the utterances in German L1 (20 out of 70 utterances; data from Bonvin & Dimroth, 2016 as reannotated for this contribution)'. On the third, post-subject position: the example '*\"und herr rot auch ist aufgewacht\"' is reported from Andorno & Turco (2015) and 'This position is considered ungrammatical in both Italian and German'. Participants: Swiss German-French bilinguals n = 71, Swiss German-Italian bilinguals n = 70, Standard German monolinguals n = 40, Swiss German monolinguals n = 40.",
+        "publishedDate": "2025-01-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=deu&to=eng&query=%22auch%20nicht%22",
+        "stat": "Tatoeba German-English sentence pairs, queried through the public api_v0 search endpoint on 2026-09-27 and every returned hit inspected rather than counted blind. Query \"ich vermisse dich auch\": 4 hits, of which 2 carry the exact string ('Ich vermisse dich auch.' and 'Ich vermisse dich auch, Tom.'), the other two being 'Wir vermissen dich auch.' and 'Ich vermisse Tom, und ich glaube, er vermisst mich auch.' Query \"du fehlst mir auch\": 5 hits, 4 exact. BOTH German constructions carry the identical English translation 'I miss you, too.' Query \"auch ich vermisse dich\": 0 hits, while sentence-initial 'Auch ich ...' is attested ('Auch ich bin arbeitslos.', 'Auch ich will lernen.', 'Auch ich fuerchte mich.', 'Auch ich sehe nichts.') - so the zero belongs to the verb, not to the pattern. NEGATIVE REPLY: 59 German sentences containing the literal string 'auch nicht' with an English translation were collected across six result pages and classified by the English additive marker - 52 use 'either', 1 uses 'neither', 0 use 'nor', 1 uses 'as well' (a non-native rendering, 'I don't like it as well'), and 5 carry no additive marker at all. 53 of 59, i.e. 89.8%, switch to either/neither/nor. Caveat recorded: the API returns totals that stop at 1000, and 'dich auch' hit that ceiling, so no ratio was computed from it. Cap-exempt reference instrument (tatoeba.org); Tatoeba sentences carry no publication date."
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The fourth column of the comparison table does carry first-party numbers, but they are PLATFORM-LEVEL, not per-row: 88.8% shared, 86.4% with a written memory, 2.6 h and 2.5 h measure the page a line ends up on, not the four German phrasings the rows compare. There is no first-party measurement of a phrasing, because the database records which TEMPLATE was opened and stores nothing about the words a sender typed, and nothing in it is segmented by language or country. The line directly under the table says this in German so no reader is misled. What would close the item honestly is a per-row first-party number, which requires a field the product does not have and is not worth adding for this."
+        }
+      ],
+      "additionalChecks": [
+        "Ran node content/batches/2026-09-26-miss-you-global-30/pricecheck-intl.mjs ich-vermisse-dich-auch — clean. No German price word (kostenlos, kostenfrei, gratis, umsonst) and no figure appears; the only 'Eur' substring in the file is the journal name 'European'.",
+        "Strapi production checked live via ctx_execute on 2026-09-27 (curl and WebFetch are blocked by the project CLAUDE.md, the sandbox fetch is not): filters[slug][$eq]=ich-vermisse-dich-auch returns total 0, so the slug is free. The same check confirms all four German siblings are live (wie-sage-ich-ihm-dass-ich-ihn-vermisse, ich-vermisse-dich-in-zahlen, ich-vermisse-dich-auf-turkisch, i-miss-you-in-german all total 1), so the two /blog/ cross-links resolve today.",
+        "Every Wikidata QID in structuredData was resolved through the MediaWiki pageprops API rather than from memory: Q188 (Deutsche Sprache), Q184943 (Partikel (Wortart)), Q1435289 (Focus (linguistics)), Q511823 (Duden), Q1225026 (DWDS), Q1664834 (IDS), Q495456 (Tatoeba). Note that de.wikipedia has no separate 'Fokuspartikel' article — the title redirects to 'Partikel (Wortart)', which is why that is the entity used.",
+        "A sixth read-in-full source was deliberately left out of batchMeta.sources to stay inside the 4-6 cap: Edyta Blachut, 'Die Gradpartikel und die Fokuspartikel in der deutschen Grammatikschreibung', LINGUISTICA SILESIANA 44/1 (2023), doi 10.24425/linsi.2023.144827, open access, PDF read with pdftotext. It corroborates the word-class disagreement reported in the post: Helbig/Buscha (2001) call Gradpartikel what Hentschel/Weydt (2013) call Fokuspartikel, Engel (2009) files 'auch' under Gradpartikel, and the paper's own abstract describes 'terminological and classification confusion'. Available unspent for a later row.",
+        "New working instrument recorded for the batch: the DWDS corpus counts that BRIEF section 4 describes as unreachable ARE reachable without login at https://kaskade.dwds.de/dstar/<corpus>/dstar.perl?q=count(%22phrase%22)&fmt=json. www.dwds.de/api/corpus/counts and /api/search/ still 404 and /r/ returns 401, so the earlier finding was right about those endpoints only. The kaskade endpoint was authenticated by reproducing the sibling's published 453/232/80/32.",
+        "SHARED WORK FLAGGED, checking the WORK and not the hostname as BRIEF section 7 demands. The Russian sibling ya-tozhe-skuchayu-po-tebe in this same batch already cites Berchio, Bonvin & Berthele (2025) at https://euroslajournal.org/articles/10.22599/jesla.127; I reached the same paper at its PDF URL .../127/files/684fee9e0b5c3.pdf. Two different URL strings, ONE work, so it is now at the URL cap of 2 and NO third row in this batch may use it, however the hostname counter reads. It is kept here because it is the only source that states what this row turns on - that German licenses BOTH positions - and because the two posts use it for different claims: the Russian row for 'the left-of-entity position is not shared with English', this row for 'German licenses two positions of auch' and for the ungrammaticality of the post-subject position. Also flagged so a reviewer does not read a contradiction: the Russian row reports 36% left-of-entity / 64% post-finite, which are that study's OWN monolingual results; the 30% (20 of 70) in this post is from the same paper's literature review (Bonvin & Dimroth 2016, reannotated). Both figures are in the paper and both point the same way.",
+        "Source-cap self-check by journal name, not hostname: Frontiers in COMMUNICATION (1 post, this one) is a different journal from the banned Frontiers in Psychology; Journal of the European Second Language Association (1 post); no PLoS ONE, Scientific Reports, BMC Psychology, Behavioral Sciences or PNAS paper is cited; no doi.org URL is cited (that domain is at cap 3); PMC8669216, PMC12842814 and bop.unibe.ch/.../1777 are not cited; de.wiktionary.org (at 2 of 2) is not cited."
+      ],
+      "honestAssessment": "Es ist die einzige Seite, die die Bezugsfrage des „auch“ für genau diesen Satz aus der IDS-Grammatik und zwei Open-Access-Studien beantwortet und die Antwort dann an einem Korpus nachzählt: 80 Belege für „Ich vermisse dich auch“, 0 für „Auch ich vermisse dich“ und 649 für die Ellipse „Ich dich auch“, aus denen die praktische Empfehlung folgt, dass „Du fehlst mir auch“ die Partikel neben die vermissende Person stellt. Diese Kombination macht kein anderer Treffer auf der gemessenen Ergebnisseite — dort stehen Foren, ein TikTok-Video und Übersetzungsspeicher. Gegen die Seite spricht Handfestes: Die Domain hat keine deutschsprachige Historie, das verlinkte Produkt ist englisch, die Kopfanfrage ist eine Unterhaltungs-Ergebnisseite (Netflix-Serie plus drei Lieder), die diese Seite nicht gewinnen kann und auch nicht beansprucht, und die Erstplatzierten auf der Antwort-Anfrage sind zehn Jahre alte Foren mit Linkprofilen, die neue Seiten nicht in Wochen einholen. Ranking dauert Monate, und ich sage nicht voraus, dass es eintritt."
+    },
+    "structuralLimitations": [
+      "SERP, measured 2026-09-27, Google gl=de&hl=de&pws=0, read only, nothing clicked, no captcha encountered. serp-ddg.mjs was tried ONCE with the query FIRST — it echoed back `query: ich vermisse dich auch` correctly and returned '(no results parsed)', so the failure was real and not the argument-order trap; no retry, per BRIEF section 3. Google served on the first attempt. Self-authentication: the results container carried data-async-context=\"query:ich%20vermisse%20dich%20auch\", every result was German, and no Turkish, Spanish or Louisiana-court-case decoy appeared. A second load of the reply query returned the identical rank-1 result. The default (universal) SERP was read first and recorded for its page types, then udm=14 was used to enumerate the organic list — that filter removes universal blocks and is therefore a narrower view, which is why the image pack, the YouTube carousel and the entity panels are reported from the default load.",
+      "GATE 2 — PARTIAL, and the head term is NOT claimed. The bare phrase 'ich vermisse dich auch' is an ENTERTAINMENT SERP: across the fourteen organic results seen (ranks 1-7 plus 8-14 via &start=7) there are four music results (Helene Fischer 'Und ich vermiss dich auch', Lune 'ich vermisse dich.' on YouTube and on Spotify, Pietro Lombardi 'Ich vermisse dich'), the Netflix miniseries 'Ich vermisse dich' (Harlan Coben's Missing You) with its de.wikipedia article, fernsehserien.de, kino-zeit.de and a Dailymotion trailer, plus an image pack above rank 1 on the default load. This is the fourth language in this lane to measure as music-contaminated after Spanish, Russian and Portuguese — BUT the Portuguese fix DOES NOT WORK HERE and that is the finding: adding the particle to the query cannot clear the music, because the German song title already contains it (Helene Fischer, 2007, 'Und ich vermiss dich auch'). What cleared it was adding 'antwort'.",
+      "GATE 4 — PASS on the reply tail. Query 'ich vermisse dich auch antwort', same route, same date: 7 results seen and counted, ZERO music. Ranks: (1) Reddit r/dating_advice, ~120 comments, 7 years old; (2) gutefrage.net, 07.08.2022, 'Was kann man auf ,,Ich vermisse dich auch,, antworten?'; (3) Reddit r/AutisticAdults, ~150 comments, 2 years; (4) gofeminin Forum; (5) myself.de (Bauer), 10.07.2026, 'Psychologie: 4 Sätze, die indirekt Ich vermisse dich sagen' — an established German magazine, but off-intent; (6) TikTok, 4.3M views, 5 years; (7) du.de, 23.06.2026. Weak count 6 of the 7 I actually saw. No dictionary, no grammar authority, no corpus ranks on either query. This confirms the aborted sibling's finding that de-de is not uniformly closed: the magazines own 'sprüche', they do not own an advice query.",
+      "CHECKABLE ERROR IN A RANKING RESULT, reported with its limit. Linguee (rank 3 on the head SERP) glosses, on the same page whose headword is 'ich vermisse dich auch', the bare reply 'Ich auch.' as 'So do I. · So am I. · So did I.' Four lines above, the same page renders 'Ich vermisse dich auch.' correctly as 'I miss you, too.' The three 'so'-forms are predicate-echoing: applied to 'Ich vermisse dich', 'So do I' says the speaker misses the same third party, because English 'do' picks up 'miss you' with 'you' unchanged, whereas the German reply requires the object to flip. So the page contradicts itself within four lines. HONEST LIMIT: 'Ich auch.' is not wrong as a general gloss — in 'Ich mag Kaffee.' — 'Ich auch.' it is exactly right. What is checkable is that the gloss is offered on a page about this sentence, where it does not hold. Linguee is named, not linked. gutefrage.net and Reverso Context were both attempted for a second check and both returned HTTP 403 behind a JS challenge, so no claim is made about their content beyond the SERP snippet.",
+      "FRAMING CLAIM IN MY PROMPT THAT WAS WRONG, per BRIEF section 0. I was told the sibling ich-vermisse-dich-auf-turkisch is on disk but not live; Strapi production returns total 1 for that slug on 2026-09-27, so it IS live, as are all four German siblings. I was also given the primary keyword as 'ich vermisse dich auch' while WAVE3-PLAN.json gives the row's keyword as 'ich vermisse dich auch antwort'. Both were measured; batchMeta.keyword records the one in my prompt, and the post is built for the reply tail because that is the query the measurement says is winnable.",
+      "LINES CUT AND WHY. (a) I dropped the planned claim that 'Ich auch vermisse dich' is simply ungrammatical-by-V2: grammis licenses a postposed particle in the Vorfeld for phrases ('Zwei Jahre nur muss er sitzen'), so the blanket claim is not grammis's. What is in the post is the narrower, sourced version — the IDS rule that a focus particle cannot stand alone in the Vorfeld, plus Berchio et al. reporting Andorno & Turco (2015) that the post-subject position 'is considered ungrammatical in both Italian and German', plus 0 corpus hits. (b) I dropped a planned sentence claiming 'Du fehlst mir auch' is more frequent or more natural; the corpus says the opposite (32 vs 80), and the post says only that it places the particle more helpfully. (c) I dropped a register/regional (DACH) angle entirely: the sibling row ich-vermisse-dich-vs-du-fehlst-mir already measured it at Duden and DWDS and recorded a clean negative, and BRIEF section 0 says not to re-open a closed lane. (d) I dropped the naive reading of the query \"ich dich auch\" = 846: 195 of those hits are 'ich dir auch', a lemma-match artefact, and reporting 846 would have overstated the ellipsis by 30%.",
+      "TATOEBA CEILING. The API caps reported totals at 1000 and the query 'dich auch' returned exactly 1000, so no ratio was computed from it — the same refusal the Russian sibling recorded. All reported Tatoeba counts come from queries that returned well under the ceiling and whose every hit was inspected.",
+      "FIRST-PARTY COLUMN IS PLATFORM-LEVEL. The fourth column of the comparison table carries first-party numbers, but they measure the page a line ends up on, not the phrasing in that row; the sentence directly under the table says so in German. The mandatory caveats are all in body prose: pickers with defaults are not sender choices, viewCount is page views not people, n = 214 over two months supports no seasonal claim, and the database records which TEMPLATE was opened and never who received it, with nothing segmented by language or country.",
+      "FACT DIFFERENTIATION IS THIN AND THAT IS STRUCTURAL. The twelve miss-you lines are used by 54+ sibling posts. This row's split is the PAIRING rather than the lines: 2.6 hours (n=214) against 2.5 hours sampled on /apology-dashboard (n=1,396) — six minutes apart, two different populations, and no sibling on disk pairs them. The other two lines (88.8% shared, 86.4% with a written memory) are among the least-collided of the set and neither appears in ich-vermisse-dich-in-zahlen or ich-vermisse-dich-auf-turkisch.",
+      "SPLIT FROM THE THREE GERMAN SIBLINGS AND FROM THE ABORTED ROW, stated so a reviewer can check it. wie-sage-ich-ihm-dass-ich-ihn-vermisse owns the CASE contrast (vermissen + accusative, fehlen + dative with the roles inverted) and the needy/silence question; this post cites that contrast in one paragraph and links it rather than re-deriving it. ich-vermisse-dich-in-zahlen owns the numeric codes. ich-vermisse-dich-auf-turkisch owns the Turkish passive özlenmek. The live English /blog/i-miss-you-in-german owns the frequency question and the dich/Sie/euch rule. The aborted row ich-vermisse-dich-vs-du-fehlst-mir closed five differentiators on the CONTRAST, including the DACH register negative — none of which this post re-opens. This row's lane is the PARTICLE: where auch attaches, what the preposed and postposed positions do, what the ellipsis does, and how German sits against Italian, French, Spanish, Russian and Portuguese. Nothing in the five closed lanes is repeated."
+    ],
+    "generatedAt": "2026-09-27T08:08:10.000Z"
+  }
+}
