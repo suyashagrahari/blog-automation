@@ -1,0 +1,417 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You So Much in Spanish: Which Intensifier Actually Gets Used",
+    "slug": "i-miss-you-so-much-in-spanish",
+    "excerpt": "\"I miss you so much\" is te extraño mucho in Latin America, te echo mucho de menos in Spain. Corpus counts for all five intensifiers, three measured zeros with controls, and the RAE's two dictionaries disagreeing about demasiado.",
+    "metaTitle": "I Miss You So Much in Spanish — Corpus-Tested Intensifiers",
+    "metaDescription": "I miss you so much in Spanish: te extraño mucho (13 attestations) vs muchísimo (3) vs tantísimo (0). Where mucho goes in te echo de menos, and demasiado.",
+    "keywords": "i miss you so much in spanish, te extraño mucho, te extraño muchísimo, te echo mucho de menos, me haces mucha falta, spanish intensifiers",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-so-much-in-spanish",
+    "ogType": "article",
+    "tags": [
+      "spanish",
+      "language",
+      "long-distance",
+      "miss-you",
+      "grammar"
+    ],
+    "keyTakeaways": [
+      "Te extraño mucho is the safe default: 13 attested sentences in Tatoeba's Spanish data, against 3 for te extraño muchísimo.",
+      "Te extraño tantísimo returns 0 attestations, while tantísimo alone returns 4 — the word exists, the collocation does not.",
+      "In te echo de menos the intensifier must split the locution: te echo mucho de menos (2 attestations), te echo de menos mucho (0).",
+      "Me haces falta is attested 24 times, but me haces mucha falta and me haces muchísima falta both return 0.",
+      "The DLE gives demasiado eleven senses, all meaning excess and none regionally marked; the DPD records it as an equivalent of mucho in much of Latin America."
+    ],
+    "faqs": [
+      {
+        "question": "What is the most common way to say 'I miss you so much' in Spanish?",
+        "answer": "Te extraño mucho in most of Latin America, and te echo mucho de menos in Spain. In Tatoeba's Spanish data te extraño mucho is the most attested of the intensified forms, with 13 sentences against 3 for te extraño muchísimo."
+      },
+      {
+        "question": "Is 'te extraño muchísimo' correct?",
+        "answer": "Yes. Muchísimo is the superlative of mucho and it is attested with this verb — 3 sentences in Tatoeba against 13 for plain mucho. It is the strongest single-word intensifier here that a corpus actually supports."
+      },
+      {
+        "question": "Can I say 'te extraño tantísimo'?",
+        "answer": "A corpus search returns zero attested sentences for it, even though tantísimo on its own appears 4 times in the same corpus. Tanto is comparative in origin and wants a second term, so it sits awkwardly on a bare declaration. Te extraño tanto, without the superlative, does get 3 attestations."
+      },
+      {
+        "question": "Where does 'mucho' go in 'te echo de menos'?",
+        "answer": "Inside the locution: te echo mucho de menos. The corpus attests the split order twice and te echo muchísimo de menos once, while te echo de menos mucho returns zero. The intensifier breaks into the idiom rather than sitting beside it."
+      },
+      {
+        "question": "Does 'te extraño demasiado' mean I miss you too much?",
+        "answer": "It depends on where your reader is. The Diccionario de la lengua española defines all eleven senses of demasiado in terms of excess with no regional mark, but the Diccionario panhispánico de dudas records that in much of Latin America, especially colloquially, demasiado is used with no negative connotation as an expressive equivalent of mucho or muy."
+      },
+      {
+        "question": "Is 'me haces mucha falta' the same as 'te extraño mucho'?",
+        "answer": "No. Me haces falta flips the subject — you are the one doing something to me — and it is a separate construction with 24 attestations. But me haces mucha falta and me haces muchísima falta both return zero, so the intensified version is the least corpus-supported option on this list."
+      },
+      {
+        "question": "What about 'te extraño un montón'?",
+        "answer": "It is attested once in Tatoeba and it is genuinely colloquial. The RAE marks un montón as coloq. and glosses it as 'gran cantidad de personas o cosas', so it reads as warm and casual rather than as an escalation of intensity."
+      },
+      {
+        "question": "Which one should I send if I do not know where the person is from?",
+        "answer": "Te extraño mucho. It is the most attested intensified form, it carries no regional risk in the way demasiado does, and it does not require you to get the position of the intensifier right the way te echo de menos does."
+      },
+      {
+        "question": "Why does 'so much' not translate one to one into Spanish?",
+        "answer": "Because the intensifier collocates with a particular verb rather than with a meaning. A 2022 ELUA study of intensifying adverbs in Spanish found their collocations are built above all around verbal nuclei, which is why swapping the verb from extrañar to echar de menos to hacer falta changes which intensifier works."
+      },
+      {
+        "question": "Does repeating the intensifier make it stronger?",
+        "answer": "Less than you would hope. A 2021 Hipogrifo study of 58 private Spanish letters written between 1725 and 1762 found intensifying resources so expected that their intensifying value ends up mitigated, so writers reached for more and stronger ones. The escalation is old and it is self-defeating."
+      },
+      {
+        "question": "Can I write the Spanish phrase inside an English miss-you page?",
+        "answer": "Yes — the letter field renders exactly what you type, including accents. But the page around it has English labels and English prompts, so the frame will read as English to someone who does not speak it."
+      },
+      {
+        "question": "How long should the message itself be?",
+        "answer": "Shorter than most people assume. Across 214 miss-you pages built on our own template the median letter is 88 words, though the longest is 1,024. That figure is not segmented by language or country, so treat it as a general shape rather than a Spanish-specific one."
+      }
+    ],
+    "coverImageQuery": "spanish dictionary open handwritten letter desk",
+    "coverImagePrompt": "A photorealistic overhead shot of an open Spanish dictionary beside a short handwritten note on cream paper, a pen resting across it, warm afternoon light from the left. Shallow depth of field, muted earth tones, clean negative space across the top third for a title overlay, 16:9. No legible text on the page and no watermark.",
+    "contentMarkdown": "# I Miss You So Much in Spanish: Which Intensifier Actually Gets Used\n\n\"I miss you so much\" is **te extraño mucho** across most of Latin America and **te echo mucho de menos** in Spain. The verb changes by region. The intensifier changes by a lot more than region, and that is the part every list on this page's search results gets wrong.\n\n\"So much\" is not an empty slot you can fill with whatever word a dictionary offers. In the Spanish half of [Tatoeba](https://tatoeba.org/en/sentences/search?from=spa&query=%22te+extra%C3%B1o+mucho%22), a corpus of human-checked sentences, *te extraño mucho* returns 13 attested sentences and *te extraño muchísimo* returns 3 — while *te extraño tantísimo* returns **zero**, and *me haces mucha falta*, which half the phrasebooks hand you, also returns **zero**.\n\nOur own numbers say something about intensity too. Across the 214 \"I miss you\" pages built on /missyou-gf since 2026-07-28, the median letter is **88 words** and the longest ever written is 1,024. In this genre people do not go on at length. They say it once, hard — which is exactly why the choice of intensifier carries so much of the weight.\n\n## The five candidates, and what each is really doing\n\nThese are not five flavours of one thing. *Mucho* is the plain adverb, *muchísimo* its superlative, and *un montón* a colloquial noun phrase the Real Academia's dictionary marks *coloq.* and glosses as \"gran cantidad de personas o cosas\".\n\n*Tantísimo* is the superlative of *tanto*, which is comparative in origin — the RAE defines *tanto* as indicating that a quantity \"es semejante a otra mencionada o consabida\". It wants a second term, spoken or understood, which is why it sits badly on a bare declaration.\n\n*Demasiado* is the odd one out and gets its own section below.\n\n## «Muchísimo» is real. «Tantísimo» is a dictionary ghost\n\nIn Tatoeba's Spanish data, *te extraño muchísimo* returns 3 attested sentences. *Te extraño tantísimo* returns 0.\n\nThat zero is not a search failure, and I checked before reporting it. A control query for *tantísimo* on its own returns 4 sentences, so the word is in the corpus; the **collocation** with this verb is not. For comparison, *muchísimo* alone returns 243 and *un montón* returns 335, so both of those are common words that simply happen to pair differently.\n\n*Te extraño tanto* does get 3 attestations — the non-superlative form survives where the superlative does not. If you want the strongest single word that is actually attested with *extrañar*, it is *muchísimo*, and it is attested at roughly a quarter the rate of plain *mucho*.\n\n## «Te echo mucho de menos» splits the idiom, and the split is obligatory\n\n*Echar de menos* is a locution: three words that mean one thing and cannot be understood by adding them up. The real question is not whether *mucho* is allowed but **where it goes**.\n\nThe corpus answers cleanly. *Te echo mucho de menos* returns 2 attestations and *te echo muchísimo de menos* returns 1 — both with the intensifier wedged **inside** the locution, between the verb and *de menos*. *Te echo de menos mucho*, keeping the idiom intact and appending the intensifier, returns **0**.\n\nSo the intensifier does not sit beside this phrase; it breaks into it. A learner reasoning by analogy from *te extraño mucho* and producing *te echo de menos mucho* has built something the corpus has never seen — and no result on this search page mentions it.\n\n## «Me haces mucha falta» is the phrase the lists give you and the corpus does not\n\n*Me haces falta* is a genuinely different construction. The subject flips: *you* are the one doing something to *me*, rather than me missing you. Twenty-four sentences in Tatoeba use it.\n\nIntensify it, though, and the attestations vanish. *Me haces mucha falta* returns **0**. *Me haces muchísima falta* returns **0**. The control, *mucha falta* on its own, returns 5 — so the string is not impossible in Spanish, it just does not arrive attached to this construction in this corpus.\n\nA corpus zero is evidence of absence at that corpus size, not proof of ungrammaticality, so I will not call the phrase wrong. I will say it is the least supported of the five, and that every ranking page offers it with the same confidence as *te extraño mucho*.\n\n## «Demasiado»: the DLE says excess, the DPD says Latin America says *mucho*\n\nThis is where the two RAE works disagree, and the disagreement is checkable in about ninety seconds.\n\nThe [Diccionario de la lengua española](https://dle.rae.es/demasiado) gives *demasiado* eleven senses. Every one of them is defined in terms of excess — \"en número, cantidad o intensidad excesivos\", \"con una intensidad que excede el límite conveniente o aceptable\" — and **not one of the eleven carries a regional mark**. Read only the DLE and you would conclude that *te extraño demasiado* means \"I miss you more than is good for me\".\n\nThe [Diccionario panhispánico de dudas](https://www.rae.es/dpd/demasiado) says the opposite about actual use: \"En buena parte de América, especialmente en el habla coloquial, se usa también *demasiado* sin connotación negativa y con valor intensivo, como equivalente expresivo de *mucho* o *muy*.\" It illustrates this with a Bolivian source from 2017 and a Chilean one from 2018.\n\nBoth are Academy works and both are right about different things. The consequence: *te extraño demasiado* reads as intensity in much of Latin America and as an admission of excess in Spain. Tatoeba attests it twice — consistent with a form common in speech and rare in written sentences.\n\n## Why a news corpus cannot answer this, and what that tells you\n\nI also ran this against the [Leipzig Corpora Collection](https://api.wortschatz-leipzig.de/ws/words/spa_news_2011_3M/word/extra%C3%B1o), a three-million-sentence Spanish news corpus, and the result is worth reporting because of what it failed to find.\n\n*Extraño* appears 1,286 times, at frequency rank 4,864. But in a 400-sentence sample, only **4** are the first-person verb with a person as object — all four *te extraño* — while **186** sit in an unambiguous adjective frame, where *extraño* simply means \"strange\". Another 19 are neuter *lo extraño*. In a 200-sentence sample of *menos*, *echo de menos* appeared **0** times.\n\nThe affectionate verb is almost absent from newswire Spanish. That is a fact about register: this is something people say to each other, not something reporters write — and anyone quoting a raw *extrañar* frequency at you is probably counting the adjective.\n\nOne substitution to name honestly. CORPES XXI and Corpus del Español would have been the better instruments and both were unreachable: CORPES returns a Cloudflare challenge to a script, and Corpus del Español gates queries behind a login. Tatoeba's quoted search is also fuzzy rather than exact-string — it matched *Te extrañé mucho* for *te extraño mucho* — so these are construction counts, not string counts.\n\n## Intensifiers wear out, and two papers show the mechanism\n\nThere is a reason \"so much\" feels obligatory here and a reason it stops working. A 2021 study in *Hipogrifo. Revista de literatura y cultura del Siglo de Oro* analysed [58 private letters written between 1725 and 1762](https://www.revistahipogrifo.com/index.php/hipogrifo/article/view/946) by women to close female relatives, and found intensifying and affective resources so abundant that their intensifying value ends up mitigated — precisely because readers expect them — so writers reach for more of them, and stronger ones.\n\nThat is the treadmill you join when you upgrade *mucho* to *muchísimo* to *tantísimo*. Three hundred years ago Spanish letter-writers were on it too.\n\nThe second paper matters for method. A 2022 article in *ELUA: Estudios de Lingüística* examined [intensifying *-mente* adverbs in medieval Spanish](https://revistaelua.ua.es/article/view/20298) using the RAE's CORDE and the CDH, and found the collocations they enter are built above all around **verbal nuclei** — reporting plainly where the corpora yielded no testimony. Intensifiers attach to particular verbs, not to meanings in general.\n\n## The five compared\n\n| Phrase | Construction | Attested (Tatoeba) | Where it reads naturally | How it lands next to our 88-word median letter |\n|---|---|---|---|---|\n| Te extraño mucho | verb + adverb | 13 | Latin America | The safe default; leaves room for detail |\n| Te extraño muchísimo | verb + superlative | 3 | Latin America | Strongest attested single word; use once |\n| Te echo mucho de menos | intensifier splits the locution | 2 | Spain | Longer, and the split is obligatory |\n| Te extraño demasiado | verb + adverb | 2 | Latin America (intensity); Spain reads excess | Risky if you do not know the region |\n| Me haces mucha falta | different verb entirely | 0 | widely printed, not attested here | Least supported of the five |\n\n## What our 214 pages measure, and what they do not\n\nThe median miss-you letter on our own template is 88 words, 86.4% of those pages carry at least one written memory, and recipients have tapped the \"hug\" button 1,434 times across 138 of the 214 pages. That is short, repeated, gesture-led affection rather than long declarations — consistent with intensifiers doing their work in one word.\n\nThree limits, stated rather than buried. The database records **which template was opened, never who received it, and nothing in it is segmented by language or country** — so not one of these figures is Mexican, Argentine or Spanish. The 2,417 recorded views are page views, not unique visitors. And n = 214 over two months supports no seasonal claim.\n\nTwo of the fields behind those numbers are pickers with defaults, so their fill rates are not sender choices; the [full template library](/templates) shows what a page actually looks like, and what any of it costs is not something this data can confirm.\n\n## Where this page, and our product, is the wrong choice\n\nOur [miss-you page for a partner](/missyou-gf) is an **English-language product**: English labels, English prompts, English furniture. You can type *te extraño muchísimo* into the letter field and it will render exactly as you wrote it, but everything around your words will be in English. If you are sending this to someone who reads no English, the frame will look wrong to them even though your sentence is right.\n\nIf the distance is the actual subject rather than the phrase, the [streak counter](/streak) is the better fit — it marks continuity over days instead of asking you to compose one intense sentence, which suits people who are missing someone daily rather than at a moment.\n\nAnd if what you needed was the verb rather than the intensifier, three sibling pages go deeper than this one: [which of the three Spanish phrases to send](/blog/i-miss-you-in-spanish), [the difference between *te extraño* and *te echo de menos*](/blog/diferencia-entre-te-extrano-y-te-echo-de-menos), and [how *te extraño* comes out in English](/blog/te-extrano-en-ingles-como-se-dice). This page deliberately does not restate them.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-so-much-in-spanish#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Spanish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Intensifier",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Intensifier",
+              "https://www.wikidata.org/wiki/Q2339337"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Collocation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Collocation",
+              "https://www.wikidata.org/wiki/Q1122269"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Royal Spanish Academy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+              "https://www.wikidata.org/wiki/Q11993457"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Diccionario panhispánico de dudas",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diccionario_panhisp%C3%A1nico_de_dudas",
+              "https://www.wikidata.org/wiki/Q723939"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Corpus linguistics",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Corpus_linguistics",
+              "https://www.wikidata.org/wiki/Q865083"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Diccionario panhispánico de dudas: demasiado -da",
+            "url": "https://www.rae.es/dpd/demasiado",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Diccionario de la lengua española: demasiado, da",
+            "url": "https://dle.rae.es/demasiado",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Cartas de mujeres y recursos para la intensificación y la expresión afectiva en un corpus del siglo XVIII",
+            "url": "https://www.revistahipogrifo.com/index.php/hipogrifo/article/view/946",
+            "datePublished": "2021-05-31",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Hipogrifo. Revista de literatura y cultura del Siglo de Oro"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Fuertemente atados: Adverbios intensificadores en -mente y colocaciones en castellano medieval",
+            "url": "https://revistaelua.ua.es/article/view/20298",
+            "datePublished": "2022-03-21",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "ELUA: Estudios de Lingüística. Universidad de Alicante"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Tatoeba Spanish sentence corpus — attested intensifier collocations",
+            "url": "https://tatoeba.org/en/sentences/search?from=spa&query=%22te+extra%C3%B1o+mucho%22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Tatoeba"
+            }
+          },
+          {
+            "@type": "Dataset",
+            "name": "Leipzig Corpora Collection, spa_news_2011_3M",
+            "url": "https://api.wortschatz-leipzig.de/ws/words/spa_news_2011_3M/word/extra%C3%B1o",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Universität Leipzig"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Ways to say \"I miss you so much\" in Spanish, ordered by attested frequency",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Te extraño mucho — 13 attested sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Te extraño muchísimo — 3 attested sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Te echo mucho de menos — 2 attested sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Te extraño demasiado — 2 attested sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Te extraño un montón — 1 attested sentence"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Me haces mucha falta — 0 attested sentences"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Te extraño tantísimo — 0 attested sentences"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you so much in spanish",
+    "angle": "Wins by being the only page on this measured us-en SERP that establishes which intensifier actually collocates with each verb from corpora rather than a dictionary list — te extraño mucho 13, muchísimo 3, tantísimo 0 and me haces mucha falta 0, each zero backed by a control — shows that the intensifier must split te echo de menos (2 vs 0), and catches the DLE and the DPD contradicting each other on demasiado, against a SERP whose exact-match result is a machine-generated translator stub.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rae.es/dpd/demasiado",
+        "stat": "Diccionario panhispánico de dudas, 2.ª ed.: 'En buena parte de América, especialmente en el habla coloquial, se usa también demasiado sin connotación negativa y con valor intensivo, como equivalente expresivo de mucho o muy', illustrated with a Bolivian (2017) and a Chilean (2018) citation"
+      },
+      {
+        "url": "https://dle.rae.es/demasiado",
+        "stat": "Diccionario de la lengua española: all eleven senses of 'demasiado' are defined in terms of excess and none carries a regional mark; 'mucho' is listed only as a synonym inside excess definitions"
+      },
+      {
+        "url": "https://www.revistahipogrifo.com/index.php/hipogrifo/article/view/946",
+        "stat": "Journal: Hipogrifo. Revista de literatura y cultura del Siglo de Oro — a corpus of 58 private letters (1725–1762) written by women to close female relatives; intensifying and affective resources are so abundant and so expected that their intensifying value ends up mitigated, requiring more and stronger ones. Full text read via PDF.",
+        "publishedDate": "2021-05-31"
+      },
+      {
+        "url": "https://revistaelua.ua.es/article/view/20298",
+        "stat": "Journal: ELUA: Estudios de Lingüística, Universidad de Alicante — intensifying -mente adverbs in medieval Spanish, drawn from CORDE and CDH: the collocations they enter are built above all around verbal nuclei, and the corpora yield no testimony for several combinations. Full text read via PDF.",
+        "publishedDate": "2022-03-21"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=spa&query=%22te+extra%C3%B1o+mucho%22",
+        "stat": "Attested Spanish sentence counts: te extraño mucho 13, te extraño muchísimo 3, te extraño tanto 3, te extraño demasiado 2, te extraño un montón 1, te extraño tantísimo 0; te echo mucho de menos 2, te echo muchísimo de menos 1, te echo de menos mucho 0; me haces falta 24, me haces mucha falta 0, me haces muchísima falta 0. Controls: tantísimo 4, mucha falta 5, muchísimo 243, un montón 335"
+      },
+      {
+        "url": "https://api.wortschatz-leipzig.de/ws/words/spa_news_2011_3M/word/extra%C3%B1o",
+        "stat": "Leipzig Corpora Collection, spa_news_2011_3M (3,000,000 Spanish news sentences, material from 2011): 'extraño' frequency 1,286, word rank 4,864; in a 400-sentence sample only 4 are the 1sg verb with a person object against 186 in an unambiguous adjective frame. Endpoint authenticated by reproducing 'de' at rank 1 (freq 4,228,124)"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "harness WebSearch (US-served, real index, NOT Google) — licensed for us-en rows by BRIEF §3. serp-ddg.mjs was tried ONCE first and returned '(no results parsed)' after correctly echoing back the full query, so it was the known DDG IP block and not the argument-order trap.",
+      "measuredAt": "2026-09-28",
+      "resultsSeen": 9,
+      "weakCount": 7,
+      "weakPredictedByPlan": 4,
+      "results": [
+        "1 spanishdict.com/translate/i miss you very much — auto-generated translator entry (weak)",
+        "2 spanish.academy '15 Ways to Say I Miss You in Spanish' — editorial listicle (strong)",
+        "3 spanishdict.com/translate/i miss you so much — auto-generated translator entry, exact match (weak)",
+        "4 spanishdict.com/translate/i missed you so much — auto-generated translator entry (weak)",
+        "5 facebook.com/groups/spanishtips2024 — UGC thread (weak)",
+        "6 facebook.com/groups/learn.spanish.everyday — UGC thread (weak)",
+        "7 quora.com — Q&A (weak)",
+        "8 quillbot.com/blog 'I Miss You in Spanish | 3 Phrases & Examples' — tool-blog explainer (strong)",
+        "9 en.wikipedia.org/wiki/I_Miss_You_(2019_film) — wrong entity (weak)"
+      ],
+      "gate4": "PROCEED. 7 of the 9 results actually seen are weak, against a plan prediction of 4. No result reports a corpus frequency, names a corpus, or distinguishes which intensifier collocates with which verb. The exact-match result is a translator stub.",
+      "checkableErrorInARankingResult": "The search engine's own summary paragraph, drawn from these results, offers 'cuánto' as a translation of 'so much' in this phrase. Cuánto is interrogative/exclamative and is not an intensifier of extrañar at all — it returns no attested *te extraño cuánto* pattern. This is the dictionary-list failure the page argues against, visible on the SERP itself."
+    },
+    "structuralLimitations": [
+      "CORPES XXI (apps2.rae.es/CORPES) and CREA (corpus.rae.es) both return an HTTP 403 Cloudflare challenge to a scripted UA, and Corpus del Español gates query access behind a login. The row specified one of those two as the instrument; neither was reachable. Substituted Tatoeba (attested sentences) plus the Leipzig Corpora Collection REST API, and named the substitution in body prose rather than only in this field. Closes if CORPES becomes reachable — the figures here should then be re-run against it, because CORPES is ~455 million forms against Tatoeba's far smaller Spanish set.",
+      "Tatoeba's quoted search is NOT exact-string. It matched 'Te extrañé mucho' for 'te extraño mucho' and 'Me hace falta' for 'me haces falta'. All counts in this post are therefore construction-level, not string-level. Disclosed in body prose.",
+      "The Tatoeba Spanish corpus is small: te extraño returns 62 sentences in total. A count of 2 or 3 is a real attestation but a weak frequency estimate, and a 0 is evidence of absence at that corpus size, not proof of ungrammaticality. The post says this explicitly in the me haces mucha falta section.",
+      "The Leipzig Corpora Collection offers only three Spanish corpora, all from 2011, all news or Wikipedia. No spoken or web-register Spanish corpus was reachable, which is why Leipzig is used to prove a negative (the affectionate verb is near-absent from newswire) rather than to measure the collocations.",
+      "Leipzig's verb-vs-adjective split for extraño (4 vs 186) is from a 400-sentence sample of the 1,286 total, taken at offsets 0 and 200, not from the full set. Stated as a sample in the body.",
+      "The DPD carries no publication date on its page, and neither does the DLE entry, so publishedDate is omitted for both rather than guessed. The DPD page states 2.ª edición and a consultation date of 22/09/2026, which is not a publication date.",
+      "First-party data is thin as a differentiator here: these 12 miss-you lines are used by 50+ sibling posts in this batch and the previous one. The pair chosen (88-word median letter, 214 pages) is the least collided available and is genuinely relevant to a post about how much you can pack into one intensifier, but the differentiation is thin and should be read that way.",
+      "The database records which TEMPLATE was opened, never who received it, and nothing in it is segmented by language or country. No figure in this post is Mexican, Spanish or Argentine. Disclosed in body prose, not only here."
+    ],
+    "corpusAuthentication": "BRIEF §4 requires reproducing an independently checkable figure before trusting an endpoint. (1) Leipzig: queried 'de' on spa_news_2011_3M and got freq 4,228,124 at wordRank 1 — 'de' is rank 1 in every published Spanish frequency list, so the endpoint serves Spanish and its ranking is sane. (2) Cross-endpoint check: the word-level freq for 'extraño' (1,286) equals the count the sentences endpoint returns for the same word (1,286). (3) Every returned sentence was inspected and contains the queried word. (4) RAE: the headword printed on each fetched page was read and confirmed ('demasiado, da' on the DLE, 'demasiado -da' on the DPD) before anything was cited from it — both 403'd on the first attempt and served on retry, so an agent that gives up on one 403 would falsely record the RAE as unreachable. (5) Every Tatoeba zero was paired with a control query proving the component words exist in the corpus.",
+    "promptClaimsChecked": [
+      "CONFIRMED and strengthened — 'demasiado has drifted in much of Latin America to mean a lot'. The DPD states it verbatim, with a Bolivian 2017 and a Chilean 2018 citation.",
+      "OVERTURNED — the implicit assumption that a learner can check this in the DLE. The DLE gives demasiado eleven senses, every one defined as excess, and NOT ONE carries a regional mark. The Latin-American intensive value exists only in the DPD. The two Academy works disagree, and that disagreement is the section.",
+      "OVERTURNED — 'tantísimo' as a candidate. te extraño tantísimo returns 0 attestations against a control of 4 for tantísimo alone. It is a dictionary-plausible form with no attested collocation, which is exactly the failure mode the row warned about — and the row's own candidate list contained one.",
+      "CONFIRMED and sharpened — 'me haces mucha falta intensifies a different verb and behaves differently'. It does not merely behave differently: it is not intensified at all here. me haces falta 24, me haces mucha falta 0, me haces muchísima falta 0, control mucha falta 5.",
+      "CONFIRMED — 'te echo mucho de menos splits the idiom'. And the split is obligatory: 2 and 1 attestations for the two split forms, 0 for the unsplit te echo de menos mucho.",
+      "CONFIRMED — /blog/i-miss-you-in-spanish is live (Strapi id 2578). Both batch siblings are live too (ids 2720, 2756), so all three blog cross-links resolve today.",
+      "CONFIRMED — the slug i-miss-you-so-much-in-spanish returns 0 rows from the Strapi articles API."
+    ],
+    "toolingDefects": [
+      "references/article-json-schema.md is NOT at the repo root. The task prompt and BRIEF §9 both write 'references/...'; the real path is .claude/skills/blog-optimisation/references/article-json-schema.md. A literal read of the documented path fails with ENOENT.",
+      "scripts/serp-ddg.mjs is still dead for us-en, which is the control region — one call, no retry, per the BRIEF.",
+      "dle.rae.es and www.rae.es 403 intermittently from a scripted UA and serve the correct entry on a retry seconds later. Worth adding to BRIEF §4: a single 403 from the RAE proves nothing, exactly as with a Bing zero-result.",
+      "OJS journal sites (revistahipogrifo.com, revistaelua.ua.es) serve an HTML VIEWER SHELL at /article/view/<id>/pdf — 3.7 KB of HTML, not a PDF. pdftotext on it produces nothing and the failure is silent. The real file is at /article/download/<id>/pdf/<galleyId>, which must be scraped out of that shell. This is the same class of trap as the Larousse numeric-id problem in BRIEF §4."
+    ],
+    "additionalChecks": [
+      "Blog cross-links: the three /blog/ URLs are NOT TEMPLATE_LINKS entries (checklist item 31 was assessed against the three template paths /missyou-gf, /streak, /templates, which all appear in TEMPLATE_LINKS). All three blog slugs were separately verified live in Strapi — i-miss-you-in-spanish (2578), diferencia-entre-te-extrano-y-te-echo-de-menos (2720), te-extrano-en-ingles-como-se-dice (2756) — so none of them 404s.",
+      "Price guard: no price, cost, currency, subscription or tier claim in any language. The one place cost could have been implied says only that it is not something this data can confirm.",
+      "Source caps: capcheck.mjs run immediately before writing. No banned URL used. doi.org is at cap 3 and is NOT used. Neither revistahipogrifo.com nor revistaelua.ua.es nor api.wortschatz-leipzig.de appears in any cap list. Journals named for hand-counting: 'Hipogrifo. Revista de literatura y cultura del Siglo de Oro' and 'ELUA: Estudios de Lingüística. Universidad de Alicante' — neither is Frontiers in Psychology or PNAS, both of which are over cap per BRIEF §7.",
+      "Zero PMC/Europe PMC papers used, so none of the spent PMCIDs in BRIEF §7 is touched.",
+      "Both scholarly PDFs were downloaded and read in full with pdftotext -layout. No abstract-only citation in this post. The Hipogrifo corpus size (58 letters = 33 + 2 + 23, and 21 + 37) was read from the article body, not the abstract, and the two sub-totals agree.",
+      "English-product mismatch disclosed in body prose, in the body language, per BRIEF §2 — including the case where the template is the wrong choice for this reader.",
+      "All three mandatory first-party caveats (picker defaults, viewCount = page views not unique visitors, n=214 over two months) plus the language/country segmentation caveat appear in body prose, not only in this audit."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one specific number, date, price or named source per H2 section",
+          "why": "The H2 'The five candidates, and what each is really doing' names the RAE's entries for montón and tanto and quotes both, but carries no numeral. It is a named-source section rather than a numeric one, and adding a count there would have been padding."
+        },
+        {
+          "item": "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+          "why": "All five sameAs pairs WERE verified against the Wikipedia API (action=query&prop=pageprops&ppprop=wikibase_item) and each QID is paired. Recorded here only because 'Real Academia Española' resolves through a redirect to 'Royal Spanish Academy' (Q11993457), so the sameAs URL is the redirect target rather than the Spanish-language name used in the body. A reader checking the body name against the URL sees a mismatch."
+        },
+        {
+          "item": "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+          "why": "Structurally clean rather than a pass earned by judgement: the post uses ZERO generic context statistics, so the item cannot be evaluated as intended. Recording it as passed would overstate what was tested."
+        }
+      ],
+      "honestAssessment": "It is the only page on this measured SERP that treats the intensifier as a collocation question and answers it with counts — including three zeros each backed by a control query, which no competitor page attempts — and the obligatory split in te echo mucho de menos plus the DLE/DPD contradiction on demasiado are both checkable in minutes and appear nowhere in the top 9. What it cannot overcome: the exact-match result is SpanishDict, a domain with enormous authority on precisely this query shape, and three of the nine results are theirs; the corpus behind the headline numbers is small (te extraño totals 62 sentences) because CORPES XXI was unreachable, so a reviewer with CORPES access could produce better figures for the same argument; and the first-party data is shared with 50+ sibling posts, so it differentiates the page far less than it would in a batch of one. Ranking here would take months and is not something I will predict."
+    },
+    "generatedAt": "2026-09-28T10:22:29.832Z"
+  }
+}

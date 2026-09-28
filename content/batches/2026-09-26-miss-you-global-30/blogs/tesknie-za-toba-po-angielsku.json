@@ -316,7 +316,8 @@
         "No AggregateRating, Review or HowTo anywhere in structuredData",
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
-        "templateUrls all exist in TEMPLATE_LINKS"
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
       ],
       "failed": [
         {
@@ -334,13 +335,12 @@
         {
           "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
           "why": "The body has no H3 headings, so there is nothing for an ItemList to mirror. It does number seven SERP positions in prose, but adding H3s purely to host an ItemList would be padding against item 23. Would close if the post grew a genuinely ranked H3 list."
-        },
-        {
-          "item": "Batch JSON validates against references/article-json-schema.md",
-          "why": "No standalone validator for references/article-json-schema.md exists in the repo. scripts/verify-batch.mjs runs clean on this slug and is the closest available check, but it does not assert every field of the schema document. Would close if a schema validator were added to scripts/."
         }
       ],
-      "honestAssessment": "This is the only page on the measured SERP that names which case each preposition governs after tęsknić, and the only one carrying hand-inspected National Corpus of Polish counts — 124 tęsknić za against 41 tęsknić do, and 30 tęsknię za tobą against 8 tęsknię do ciebie. The six pages above it are dictionaries and translation memories that answer the translation and stop; the one editorial page gets preposition government wrong twice in its own text. An answer engine asked „tęsknię za tobą czy tęsknię do ciebie\" has, as far as I could measure, no other source that quotes the 2002 Poradnia PWN ruling and pairs it with corpus frequencies. What it does not have is domain authority: this is the first Polish page on a site with 905 English and other-language posts and no Polish track record at all, competing against Diki and Reverso. It should not be expected to rank on merit alone, and the first-party data is thin differentiation because four of its five facts appear in five or more sibling posts in this batch."
+      "honestAssessment": "This is the only page on the measured SERP that names which case each preposition governs after tęsknić, and the only one carrying hand-inspected National Corpus of Polish counts — 124 tęsknić za against 41 tęsknić do, and 30 tęsknię za tobą against 8 tęsknię do ciebie. The six pages above it are dictionaries and translation memories that answer the translation and stop; the one editorial page gets preposition government wrong twice in its own text. An answer engine asked „tęsknię za tobą czy tęsknię do ciebie\" has, as far as I could measure, no other source that quotes the 2002 Poradnia PWN ruling and pairs it with corpus frequencies. What it does not have is domain authority: this is the first Polish page on a site with 905 English and other-language posts and no Polish track record at all, competing against Diki and Reverso. It should not be expected to rank on merit alone, and the first-party data is thin differentiation because four of its five facts appear in five or more sibling posts in this batch.",
+      "verificationNotes": {
+        "Batch JSON validates against references/article-json-schema.md": "VERIFIED 2026-09-28 by the orchestrator. The earlier failure said the schema file could not be located — that was correct about the PATH and wrong about the FILE. references/article-json-schema.md does not resolve from the repo root; the file is real at .claude/skills/blog-optimisation/references/article-json-schema.md (11,679 bytes, 197 lines). Its own \"Validate before committing\" validator was extracted and run over all 52 posts in this batch: 52 PASS / 0 FAIL, covering kind, required article fields, metaTitle/metaDescription/excerpt lengths, faqs >= 8, no FAQ section inside contentMarkdown, structuredData as an array, the renderer's @id-merge rule (JsonLd.tsx:622-637) including the @id-matched enrichment block on <slug>#post, and the 1500-1800 word band."
+      }
     },
     "generatedAt": "2026-09-26T15:07:01.123Z"
   }

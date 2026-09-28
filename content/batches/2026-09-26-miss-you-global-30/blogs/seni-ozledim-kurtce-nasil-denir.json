@@ -306,13 +306,10 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Slug is not already taken in Strapi"
       ],
       "failed": [
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Strapi'ye erişim yok: bu ortamdan canlı slug listesi sorgulanamadı, dolayısıyla slug'ın alınmış olup olmadığı doğrulanamadı. Yayın öncesi studio'da kontrol edilmeli."
-        },
         {
           "item": "H2s map to the fan-out sub-queries identified in Phase 2",
           "why": "Fan-out alt sorguları ayrı bir Phase 2 çıktısı olarak üretilmedi; H2'ler ölçülen SERP'in People-Also-Ask kutusundan ve dokuz sonucun kapsamadığı boşluklardan türetildi. Yakın ama aynı şey değil, o yüzden geçti sayılmıyor."
@@ -326,7 +323,10 @@
           "why": "Kaynak üst sınırları partinin tamamı yazıldıktan sonra sayılabilir; capcheck.mjs yazımdan hemen önce çalıştırıldı ve hiçbir host sınırda değildi, ama altı ajan aynı anda yazdığı için bu sayım bayat olabilir. Atıfta adı geçen dergi (International Journal of Kurdish Studies) partide başka hiçbir yazıda kullanılmıyor."
         }
       ],
-      "honestAssessment": "Ölçülen SERP'te gördüğümüz dokuz organik sonucun dokuzu da düşük otoriteli — iki sözlük toplayıcı sayfası, iki niş blog alt sayfası, bir soru-cevap başlığı, bir 2017 forumu, iki sosyal medya gönderisi ve bir yerel haber listesi — ve hiçbiri hangi Kürtçeden söz ettiğini söylemiyor. Bir yanıt motorunun bu sayfayı tercih etmesinin sebebi şu olabilir: her Kurmancî ve Soranî cümlesi, Türkçeye ya da İngilizceye eşlenmiş bir Tatoeba cümle numarasıyla veriliyor; ISO 639-3 kütüğünün kur/kmr/ckb/sdh kayıtları doğrudan okunup ku'nun 404 döndüğü gösteriliyor; ve birinci sıradaki sayfanın şapkasız \"min berîya te kir\" yazımı, Wiktionary'nin berî = \"before\" maddesiyle karşılaştırılarak kontrol edilebilir biçimde belgeleniyor. Doğrulayamadığımız her satır basılmadı ve neden kesildiği araştırma notunda yazılı — Google'ın kendi çeviri kutusunun verdiği \"Ez bîra te dikim\" dahil, ki derlemde bu kalıp sıfır cümlede geçiyor. Aşamayacağımız şeyler de açık: alan adının Türkçe ya da Kürtçe hiçbir yayın geçmişi yok (905 canlı yazının hepsi başka dillerde), ürün İngilizce ve bu okuyucu için üç yönlü uyumsuz, ve bu sorgu düşük hacimli bir uzun kuyruk. Sıralama aylar sürer; tahmin yürütmüyoruz."
+      "honestAssessment": "Ölçülen SERP'te gördüğümüz dokuz organik sonucun dokuzu da düşük otoriteli — iki sözlük toplayıcı sayfası, iki niş blog alt sayfası, bir soru-cevap başlığı, bir 2017 forumu, iki sosyal medya gönderisi ve bir yerel haber listesi — ve hiçbiri hangi Kürtçeden söz ettiğini söylemiyor. Bir yanıt motorunun bu sayfayı tercih etmesinin sebebi şu olabilir: her Kurmancî ve Soranî cümlesi, Türkçeye ya da İngilizceye eşlenmiş bir Tatoeba cümle numarasıyla veriliyor; ISO 639-3 kütüğünün kur/kmr/ckb/sdh kayıtları doğrudan okunup ku'nun 404 döndüğü gösteriliyor; ve birinci sıradaki sayfanın şapkasız \"min berîya te kir\" yazımı, Wiktionary'nin berî = \"before\" maddesiyle karşılaştırılarak kontrol edilebilir biçimde belgeleniyor. Doğrulayamadığımız her satır basılmadı ve neden kesildiği araştırma notunda yazılı — Google'ın kendi çeviri kutusunun verdiği \"Ez bîra te dikim\" dahil, ki derlemde bu kalıp sıfır cümlede geçiyor. Aşamayacağımız şeyler de açık: alan adının Türkçe ya da Kürtçe hiçbir yayın geçmişi yok (905 canlı yazının hepsi başka dillerde), ürün İngilizce ve bu okuyucu için üç yönlü uyumsuz, ve bu sorgu düşük hacimli bir uzun kuyruk. Sıralama aylar sürer; tahmin yürütmüyoruz.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up."
+      }
     },
     "serpMeasurement": {
       "measuredAt": "2026-09-26",

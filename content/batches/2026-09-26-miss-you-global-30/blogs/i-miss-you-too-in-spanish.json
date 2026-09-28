@@ -1,0 +1,348 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "I Miss You Too in Spanish: Which Reply Is Correct Depends on the Verb They Used",
+    "slug": "i-miss-you-too-in-spanish",
+    "excerpt": "Four Spanish replies to \"I miss you\", and which one you may use is fixed by the verb the other person typed. With the RAE's tonic-pronoun table, a 120-sentence Tatoeba placement census, and 214 miss-you pages of our own.",
+    "metaTitle": "I Miss You Too in Spanish: The Verb Decides the Reply",
+    "metaDescription": "\"I miss you too\" in Spanish is yo también te extraño — but after me haces falta, yo también is ungrammatical. RAE rules plus a 120-sentence corpus count.",
+    "keywords": "i miss you too in spanish, yo también te extraño, how to reply to te extraño, me haces falta reply, también placement spanish",
+    "canonicalURL": "https://subhsandesh.in/blog/i-miss-you-too-in-spanish",
+    "ogType": "article",
+    "tags": [
+      "spanish",
+      "language",
+      "long-distance",
+      "grammar",
+      "miss-you"
+    ],
+    "keyTakeaways": [
+      "Which reply is correct is fixed by the verb they used: te extraño / te echo de menos take yo también; me haces falta cannot take it at all, because the RAE's DPD records faltar as intransitive in every sense.",
+      "Spanish does postpose the particle — in a 120-sentence Tatoeba census, también was clause-final 30.0% of the time, medial 33.3% and sentence-initial 36.7%.",
+      "The real asymmetry with English is optionality, not placement: Spanish may omit the subject pronoun, so writing yo is itself the focus signal English has no way to send.",
+      "Register drives it — yo is rank 229 in Leipzig's 3M-sentence Spanish news corpus but rank 1,761 in Spanish Wikipedia, and a 2025 study found overt subject rates of 2.9%–22% predicted by how speech-like the text is.",
+      "214 miss-you pages on /missyou-gf carry a median 88-word letter, so a page suits a paragraph; a four-word chat reply needs none of it."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say 'I miss you too' in Spanish?",
+        "answer": "If they wrote te extraño, reply yo también te extraño. If they wrote te echo de menos, reply yo también te echo de menos. If they wrote me haces falta, reply tú también me haces falta — yo también does not work with that verb, because the RAE's Diccionario panhispánico de dudas records faltar and hacer falta as intransitive in every sense."
+      },
+      {
+        "question": "Is 'yo también te extraño' or 'te extraño también' more correct?",
+        "answer": "Both are correct Spanish. In a 120-sentence Tatoeba census sampled on 2026-09-28, también was clause-final in 30.0% of sentences, so postposing it is ordinary. The difference is that te extraño también leaves the subject slot empty and can be read as 'I miss you as well as other things', while yo también te extraño puts the addition squarely on you."
+      },
+      {
+        "question": "Why do Spanish speakers write 'yo' when the verb already says 'I'?",
+        "answer": "Because it is optional, and optional material is read as contrastive. In the Leipzig Corpora Collection's 3-million-sentence Spanish news corpus, yo ranks 229th with 22,562 hits; in the Spanish Wikipedia corpus it falls to rank 1,761 with 1,149. The pronoun tracks how conversational the writing is, not what the grammar demands."
+      },
+      {
+        "question": "Can I just answer 'yo también'?",
+        "answer": "Yes, and it is the most common short reply. It is an ellipsis of the full clause, so it inherits whichever verb they used — with one exception: it cannot stand in for me haces falta, where the subject is the other person, not you."
+      },
+      {
+        "question": "Is 'a mí también' a correct reply to 'te extraño'?",
+        "answer": "No. A mí is the prepositional form in the RAE's tonic-pronoun table, and te extraño has no prepositional slot for it — the verb is transitive and you would be the subject. A mí también belongs with verbs like gustar or hacer falta."
+      },
+      {
+        "question": "What does 'y yo a ti' mean?",
+        "answer": "Literally 'and I, to you'. It is a compact reply to te extraño that fills the prepositional slot with a ti instead of restating the verb. It reads as warm and slightly literary, and it avoids the ambiguity of te extraño también entirely."
+      },
+      {
+        "question": "Does 'extrañar' or 'echar de menos' matter for the reply?",
+        "answer": "Not for the pronoun. Both are transitive with the misser as subject, so both take yo también in the same position. The choice between them is regional rather than grammatical, and mirroring whichever one they used is the safer move."
+      },
+      {
+        "question": "Is 'yo también te extraño mucho' too strong?",
+        "answer": "No — mucho is an ordinary intensifier here and adds no commitment beyond emphasis. If you want a shorter escalation, te extraño más ('I miss you more') is the standard playful reply and is extremely common in chat."
+      },
+      {
+        "question": "How is this different from saying 'I miss you too' in Italian or German?",
+        "answer": "Every language in this lane solves it differently. Italian uses adjacency, so anche attaches to whatever it stands beside. German treats auch as a focus particle that reaches backwards. Dutch changes the pronoun itself. Spanish is the only one of the eight measured so far where the mechanism is a pronoun you are allowed to leave out."
+      },
+      {
+        "question": "Should I send a page instead of a message?",
+        "answer": "Only if you have more than a line to say. Across the 214 miss-you pages measured on 2026-09-25, the median written letter was 88 words and the longest 1,024 — so a page suits a paragraph, not a four-word reply. Note also that the template's labels and prompts are in English."
+      }
+    ],
+    "coverImageQuery": "phone screen spanish text message reply",
+    "coverImagePrompt": "A close, photorealistic shot of a phone held in one hand at night, a short Spanish text conversation glowing on the screen, the rest of the room soft and out of focus. Warm lamplight from the left, shallow depth of field, clean negative space along the top third for a title overlay, 16:9. No legible body text and no logos except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# I Miss You Too in Spanish: Which Reply Is Correct Depends on the Verb They Used\n\n\"I miss you too\" has four common Spanish replies, and the one you may use is fixed by the verb the other person typed, not by preference. If they wrote *te extraño* or *te echo de menos*, answer **yo también te extraño** / **yo también te echo de menos**. If they wrote *me haces falta*, **yo también is ungrammatical** — you need *tú también me haces falta*. We have measured this lane from the product side too: 214 \"I miss you\" pages have been created on our /missyou-gf template since 2026-07-28, 4.1% of all 5,221 pages across 44 collections, and 43.5% of those senders password-protect the page before sharing it (93 of 214) — the most private segment we have measured anywhere on the platform.\n\nThe mechanism is not the one most guides describe: it is not about where *también* goes, but whether you write *yo* at all.\n\n## The short answer, and the one rule the ranking pages skip\n\nSpanish gives you a choice English does not have: the subject pronoun is optional. Because it is optional, writing it is a signal. That is the whole trick, and it is why *yo también te extraño* lands as \"I, for my part, miss you too\" rather than a flat echo.\n\nThe Real Academia Española's *Diccionario panhispánico de dudas* sets out the two slots plainly in its entry on [tonic personal pronouns](https://www.rae.es/dpd/pronombres%20personales%20t%C3%B3nicos): these are the pronouns that \"pueden funcionar como sujeto (*Tú sabrás*) o como término de preposición\". Its table gives first person singular as **yo** for the subject slot and **mí** for the prepositional slot.\n\nSo *yo también* adds you in the subject slot, and *a mí también* adds you in the prepositional slot. They are not stylistic variants. They answer different verbs.\n\n## Why \"yo\" is the mechanism, and English has no equivalent\n\nEnglish requires a subject pronoun in a finite clause. You cannot write \"miss you too\" and have it mean the same thing as \"I miss you too\" in formal writing — the *I* is structural, so its presence carries no information.\n\nSpanish does not require it. The verb ending on *extraño* already says first person singular, and the DPD table above lists *yo* only in the subject row — it has no other slot to occupy. Writing it is therefore elective, and elective material is read as contrastive. English speakers reach for \"I too miss you\" to get the same effect, which is why it sounds stiff.\n\nThat is the real asymmetry, and it is an asymmetry of **optionality**, not of placement.\n\n## What the corpora actually show about *también*\n\nI tested the placement claim rather than assuming it, and half of it failed. Spanish postposes *también* perfectly happily. In a census of 120 attested Spanish sentences [containing *también*](https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=tambi%C3%A9n) drawn from Tatoeba (sampled 2026-09-28), the particle sits **sentence-initially in 36.7%, medially in 33.3%, and clause-finally in 30.0%** of cases. *¡Te extraño también!* and *¡Te echo de menos también!* are both attested sentences.\n\nSo the idea that Spanish \"cannot put the additive particle at the end the way English does\" is not true. It can, and does, roughly a third of the time.\n\nThe [Leipzig Corpora Collection](https://corpora.wortschatz-leipzig.de/en?corpusId=spa_news_2011_3M) gives the frequency side. In its 3-million-sentence Spanish news corpus, *también* is the 48th most frequent word with 87,096 occurrences, while *yo* is only 229th with 22,562. Switch to the Spanish Wikipedia corpus and *también* barely moves (rank 42), but *yo* collapses to rank 1,761 with 1,149 hits.\n\nThat gap is the finding. The particle is register-neutral; the pronoun is not.\n\n## Register is why *yo también* dominates in chat\n\nA 2025 study in the *Journal of Historical Sociolinguistics*, [\"Orality and overtness: effects on Spanish subject use\"](https://europepmc.org/article/PMC/PMC12619655), built a diachronic Latin-American corpus (CorDELES) and found that how speech-like a text is significantly predicts overt subject pronoun use. Its four sample texts range from **2.9% to 22% overt subject pronouns**, and no corpus proportion exceeds 30%.\n\nA text message is about as oral as written Spanish gets. That is why *yo también* feels normal in a reply and vanishingly rare in an encyclopedia entry.\n\nThere is a second reason your reply will mirror theirs. A 2025 paper in *Open Mind*, [\"Hearing Pronouns Primes Speakers to Use Pronouns\"](https://europepmc.org/article/PMC/PMC11729791), found reference form is primed by recent exposure: **4 of 33 participants (12%) in the pronoun-prime condition produced no pronouns at all, against 22 of 35 (63%) in the name-prime condition**. Echoing the form your partner just used is the documented default, and here it is also the correct strategy.\n\n## If they wrote *me haces falta*, *yo también* is wrong\n\nThis is the trap, and it is grammatical rather than regional. The DPD entry for [*faltar*](https://www.rae.es/dpd/faltar) states that in all its senses — including *hacer falta* — the verb **\"es intransitivo\"**. With *me haces falta*, the subject is *tú*: you are the one who is lacking, to me.\n\nSo there is no subject slot for *yo* to occupy. The reply is *tú también me haces falta*, or the neat elliptical *y tú a mí*. Put *yo también* in front of *me haces falta* and you have said something that does not parse.\n\nThe dative-slot reply *a mí también* belongs to that second verb family, not to *te extraño* — our Spanish-language page on [yo también te extraño](https://subhsandesh.in/blog/yo-tambien-te-extrano) works through that side in Spanish, with the RAE's *tampoco* ruling and a corpus count, and it is not a translation of this page.\n\n## The four replies compared\n\n| Reply | RAE slot it fills | Answers which verb | Attested in my Tatoeba census |\n|---|---|---|---|\n| *Yo también te extraño* | subject (*yo*) | *te extraño* / *te echo de menos* | yes |\n| *Te extraño también* | none — particle only | same, but ambiguous in writing | yes |\n| *Yo también* (alone) | subject (*yo*) | either, as an ellipsis | yes, 235 hits for the bare phrase |\n| *Tú también me haces falta* | subject (*tú*) | *me haces falta* | *a mí también* frame attested, 47 hits |\n| *Y yo a ti* | prepositional (*a ti*) | *te extraño* | yes, as an ellipsis |\n\n*Te extraño también* is correct but under-specified: with nothing in the subject slot, it can be read as \"I miss you as well as missing other people\". That ambiguity is exactly the one English \"I miss you too\" has, which is the point — Spanish only escapes it when you spend the pronoun.\n\n## A contradiction you can check in a page that ranks for this query\n\nI measured the US English results for this keyword on 2026-09-28 using the harness WebSearch tool, not Google — our scripted DuckDuckGo route echoed the query back correctly and returned no parsed results, which is an IP-level block on our side rather than a property of the SERP. Nine results were visible. Five were forums, a social post or a dictionary scraper (Quora, HiNative, a Facebook post, Tureng, and the Wikipedia article for a 2019 film with the same name); four were content pages.\n\nOne of those four, QuillBot's Spanish blog, states the recipe for this exact phrase as adding \"the subject pronoun *yo*\" plus the adverb *también*. Its own table then gives three rows — *Yo también te echo de menos*, *Yo también te extraño*, and **\"También me haces falta\"**, with no *yo*, and no explanation of why the third row breaks the rule the page just stated.\n\nThe reason is the DPD's intransitive ruling above. The page is not wrong in its output; it is wrong in the rule it hands the reader, who will write something ungrammatical if they apply it consistently. None of the nine results explains the split.\n\n## Eight languages, eight different mechanisms\n\nThis reply lane has now been measured across eight languages, and no two solve \"too\" the same way. Italian uses adjacency — *anche* attaches to whatever it stands next to. German treats *auch* as a focus particle that reaches backwards. Dutch changes the **pronoun**, making the full form *jou* obligatory. Polish attaches *też* to whatever carries the sentence accent. Portuguese has free position with phrasal accent doing the work. Russian splits *тоже* from *также*. Indonesian permits *juga* on either side of the verb. Spanish is the only one where the mechanism is a pronoun you may legally omit.\n\nEnglish is the odd one out differently: one strategy, a clause-final *too*, and no way to disambiguate it in writing at all.\n\n## What our own numbers show, and what they cannot\n\nAcross those 214 miss-you pages, the median letter is **88 words** and the longest is 1,024 — so the reply people actually send at length is a paragraph, not a phrase. Recipients tapped the \"hug\" control 1,434 times across 138 of the 214 pages, meaning 64.5% of pages received at least one.\n\nThree caveats are not optional. The city, background-music and \"together since\" fields are **pickers with defaults**, so their fill rates are not sender choices and nothing here is derived from them. *viewCount* counts page views, not unique visitors — one person reopening a page twenty times is twenty views. And n = 214 over roughly two months supports no seasonal claim whatsoever.\n\nOne more that matters on a page about Spanish: the database records **which template was opened, never who received it**, and nothing in it is segmented by language or country. None of these figures is a Spanish figure. Do not read them as one.\n\n## The page is in English, and when to skip it\n\nIf you want to send more than a line, the [miss-you page for a partner](https://subhsandesh.in/missyou-gf) is the template those 214 pages were built on — a letter, memories, open-when notes and a countdown on one link. Its labels, prompts and furniture are **in English**. Your Spanish will sit inside an English frame, and if your recipient reads no English at all, that frame will be visible to them.\n\nFor a long-distance reply that repeats rather than arrives once, [Streak](https://subhsandesh.in/streak) suits better: one tap a day each, and after a hundred days you have a diary neither of you meant to write. That is a closer fit than a single page when the missing is ongoing rather than acute.\n\nAnd the honest limit: if the right answer is four words in a chat window, none of this helps. Write *yo también te extraño*, or *tú también me haces falta* if that is the verb they used, and close the tab — you can [browse the other templates](https://subhsandesh.in/templates) another day.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/i-miss-you-too-in-spanish#post",
+        "about": [
+          {
+            "@type": "Language",
+            "name": "Spanish language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Null-subject language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Null-subject_language",
+              "https://www.wikidata.org/wiki/Q1982067"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Focus (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Royal Spanish Academy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+              "https://www.wikidata.org/wiki/Q11993457"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tatoeba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tatoeba",
+              "https://www.wikidata.org/wiki/Q495456"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Pro-drop language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Pro-drop_language",
+              "https://www.wikidata.org/wiki/Q661936"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "RAE, Diccionario panhispánico de dudas (2.ª ed.), 'pronombres personales tónicos'",
+            "url": "https://www.rae.es/dpd/pronombres%20personales%20t%C3%B3nicos",
+            "datePublished": "2023-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "RAE, Diccionario panhispánico de dudas (2.ª ed.), 'faltar'",
+            "url": "https://www.rae.es/dpd/faltar",
+            "datePublished": "2023-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Leipzig Corpora Collection (Universität Leipzig), spa_news_2011_3M",
+            "url": "https://corpora.wortschatz-leipzig.de/en?corpusId=spa_news_2011_3M",
+            "datePublished": "2011-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Placement census of 120 attested Spanish sentences containing también (Tatoeba, Spanish with an English translation, sampled 2026-09-28)",
+            "url": "https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=tambi%C3%A9n",
+            "datePublished": "2026-09-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Whitney Chappell & co., 'Orality and overtness",
+            "url": "https://europepmc.org/article/PMC/PMC12619655",
+            "datePublished": "2025-07-31"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "'Hearing Pronouns Primes Speakers to Use Pronouns', Open Mind",
+            "url": "https://europepmc.org/article/PMC/PMC11729791",
+            "datePublished": "2025-01-01"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Spanish replies to \"I miss you\", by the pronoun slot they fill",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Yo también te extraño — subject slot (yo), answers te extraño / te echo de menos"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Te extraño también — particle only, no subject filled, ambiguous in writing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Yo también — subject-slot ellipsis, inherits their verb"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tú también me haces falta — subject slot (tú), the only correct answer to me haces falta"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Y yo a ti — prepositional slot (a ti), compact answer to te extraño"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "i miss you too in spanish",
+    "angle": "Wins by being the only page on the measured us-en SERP that ties the reply to the verb rather than to the particle — the RAE's own tonic-pronoun table gives yo the subject slot and mí the prepositional one, and the DPD's faltar entry makes hacer falta intransitive, so yo también is outright ungrammatical after me haces falta — and by reporting the negative that overturns the lane's own framing: a 120-sentence Tatoeba census puts también clause-final 30.0% of the time, so Spanish postposes the particle exactly as English does, and the asymmetry is the optional subject pronoun, not the particle's position.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rae.es/dpd/pronombres%20personales%20t%C3%B3nicos",
+        "stat": "RAE, Diccionario panhispánico de dudas (2.ª ed.), 'pronombres personales tónicos': the tonic pronouns 'pueden funcionar como sujeto (Tú sabrás) o como término de preposición (Mi amigo vendrá con nosotros)', and its table gives 1st person singular as yo (subject) and mí (prepositional term). Read in full on the page; headword verified.",
+        "publishedDate": "2023-01-01"
+      },
+      {
+        "url": "https://www.rae.es/dpd/faltar",
+        "stat": "RAE, Diccionario panhispánico de dudas (2.ª ed.), 'faltar': 'En todas sus acepciones (... hacer falta ...) es intransitivo' — so in me haces falta the subject is tú, and yo también cannot prefix it. Read in full; headword verified.",
+        "publishedDate": "2023-01-01"
+      },
+      {
+        "url": "https://corpora.wortschatz-leipzig.de/en?corpusId=spa_news_2011_3M",
+        "stat": "Leipzig Corpora Collection (Universität Leipzig), spa_news_2011_3M: también = rank 48, 87,096 occurrences; yo = rank 229, 22,562. In spa_wikipedia_2011_1M también = rank 42 while yo falls to rank 1,761 (1,149). Queried via the Wortschatz REST API 2026-09-28; three independent Spanish corpora agreed on the ordering.",
+        "publishedDate": "2011-01-01"
+      },
+      {
+        "url": "https://tatoeba.org/en/sentences/search?from=spa&to=eng&query=tambi%C3%A9n",
+        "stat": "Placement census of 120 attested Spanish sentences containing también (Tatoeba, Spanish with an English translation, sampled 2026-09-28): sentence-initial 36.7% (44), medial 33.3% (40), clause-final 30.0% (36); 17 of 120 sat immediately after yo. '¡Te extraño también!' and '¡Te echo de menos también!' are both attested.",
+        "publishedDate": "2026-09-28"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12619655",
+        "stat": "Whitney Chappell & co., 'Orality and overtness: effects on Spanish subject use', Journal of Historical Sociolinguistics (2025-07-31), doi:10.1515/jhsl-2024-0017 — orality significantly predicts overt subject pronoun expression in the CorDELES corpus; its four sample texts run from 2.9% to 22% overt subject pronouns and no corpus proportion exceeds 30%. Full text read via the Europe PMC fullTextXML endpoint.",
+        "publishedDate": "2025-07-31"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11729791",
+        "stat": "'Hearing Pronouns Primes Speakers to Use Pronouns', Open Mind: Discoveries in Cognitive Science (2025), doi:10.1162/opmi_a_00178 — reference form choice is primed by recent exposure: 4 of 33 participants (12%) on the pronoun-prime list produced no pronouns at all, against 22 of 35 (63%) on the name-prime list. Full text read via the Europe PMC fullTextXML endpoint.",
+        "publishedDate": "2025-01-01"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "harness WebSearch (US-served index, NOT Google), 2026-09-28",
+      "fallbackReason": "scripts/serp-ddg.mjs --region us-en was tried exactly once with the query first; it echoed back `query: i miss you too in spanish` correctly and returned `(no results parsed)`, which per BRIEF §3 is an IP-level block rather than the argument-order trap. No retry was made.",
+      "resultsSeen": 9,
+      "weak": "5 of the 9 seen — Quora, HiNative, a Facebook post, Tureng (dictionary scraper) and the Wikipedia article for the 2019 film 'I Miss You', which is off-intent entirely",
+      "contentPages": "4 of 9 — spanishdict.com, tellmeinspanish.com, quillbot.com, discoverdiscomfort.com",
+      "gap": "none of the nine results states which verb licenses which pronoun, and none mentions the placement of también at all",
+      "note": "WAVE4-PLAN.json predicted weak=4; measured 5 of 9 seen. Google was not used, so this is not the Google SERP."
+    },
+    "additionalChecks": [
+      "Leipzig Corpora Collection REST API self-authenticated before use: the same three Spanish corpora were queried independently and agreed on ordering (también rank 48/49/42), and yo fell from rank 229 in spa_news_2011_3M to rank 1,761 in spa_wikipedia_2011_1M — the first-person register contrast that a genuinely Spanish corpus must show. The control relayed to me as \"de = 4,228,124, rank 1\" arrived without its corpus name, and de reads as German, so I tested it as German: it could NOT be reproduced at /ws/words/deu_news_*/word/de, which returns 6,443 at rank 735 in deu_news_2012_3M; 4,228,124 is in fact the corpus frequency of 'de' in the SPANISH corpus spa_news_2011_3M, visible in that corpus's cooccurrence payload. Corrected by the orchestrator 2026-09-28: the originating agent had labelled it correctly as Spanish and its post cites spa_news_2011_3M throughout; the corpus name was dropped in relay, not by that agent. The control is sound, and de = 4,228,124 in spa_news_2011_3M was independently reproduced.",
+      "Two comparison tables were not used; one table with 5 rows is present, and the first-party figures sit in body prose instead, for the reason recorded in auditReport.failed.",
+      "The body carries no H3s, so the ItemList mirrors the 5-row comparison table in its printed order rather than a heading sequence.",
+      "Strapi production slug check run 2026-09-28 against https://strapi.subhsandesh.in — total=0, no collision, no false 'Strapi offline' failure recorded.",
+      "No price, cost, currency, tier or free/gratis claim appears anywhere in the body or FAQs."
+    ],
+    "structuralLimitations": [
+      "MY PROMPT'S FRAMING WAS HALF WRONG AND IS CORRECTED IN THE BODY. The prompt asserted that Spanish 'cannot postpose the additive particle onto the object the way English too does'. Measured: in 120 attested Tatoeba sentences containing también, 30.0% are clause-final, and both '¡Te extraño también!' and '¡Te echo de menos también!' are attested. Spanish postposes it freely. The prompt's CONCLUSION survives but on a different mechanism: it is not también that forces a subject reading, it is yo, which the RAE's tonic-pronoun table licenses only in the subject slot and which Spanish may omit entirely. The asymmetry with English is optionality, not placement.",
+      "The 120-sentence census is a sample, not the whole set. Tatoeba's API reports the count for 'también' as exactly 1000, which is a cap rather than a true total, so no population proportion may be derived; the percentages describe the sample only. The sample is also relevance-ordered, which biases it toward short sentences.",
+      "Tatoeba phrase search is fuzzy: the query \"también te extraño\" returned 'También te extrañamos', a different inflection. Per-phrase counts in this post are therefore reported as attestation (present / absent) rather than as frequencies, except where the whole-corpus census is cited.",
+      "The Leipzig Spanish corpora are from 2011 and are news and encyclopedic prose. They cannot speak directly to text-message Spanish; the orality paper is what licenses the extrapolation, and it is an inference, not a measurement of chat.",
+      "No first-party figure in this post is Spanish, Mexican or Latin American. The gifts database records which template was opened and never who received it, and it is not segmented by language or country. This is disclosed in body prose.",
+      "n = 214 miss-you pages over roughly two months from 2026-07-28 supports no seasonal claim; viewCount is page views, not unique visitors; and the city, background-music and 'together since' fields are pickers with defaults, so none of them is used here as evidence of a sender's choice.",
+      "The RAE's CORPES XXI and CREA return 403 to scripts and Corpus del Español requires a login, so no Academy corpus frequency could be obtained. The DPD's own entries and the Leipzig corpora were substituted; a CORPES count would be the stronger instrument and remains open.",
+      "QuillBot is named but deliberately not linked, per the no-competitor-links rule. A reader who wants to check the contradiction must search the page themselves; the contradiction is stated precisely enough to be found."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table is grammatical — reply form, RAE pronoun slot, which verb it answers, corpus attestation. BRIEF §6 states the database records which TEMPLATE was opened, never who received it, and nothing in it is segmented by language or country, so no honest first-party column exists for a table of Spanish reply forms. Inventing one would be the exact misattribution the brief bans. This would close if the platform ever recorded recipient language, which it does not today."
+        },
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "metaTitle is 53 characters and opens with the exact keyword at word 1, but \"i miss you too in spanish\" is itself six words, so it cannot fit inside a five-word window. Arithmetically unclosable for this keyword; the keyword is as early as it can be."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the stop word \"in\". It is the target keyword verbatim and is fixed by the row in WAVE4-PLAN.json; BRIEF §11 also makes a slug rename on a published batch a production change requiring a redirect, so it was not changed from a row prompt."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three of the four internal links (/missyou-gf, /streak, /templates) are TEMPLATE_LINKS URLs. The fourth is the cross-link to the Spanish-language sibling /blog/yo-tambien-te-extrano, which BRIEF §1 makes mandatory for a row with a written sibling and which is a blog URL, not a template URL. The two rules conflict; the brief's is binding."
+        }
+      ],
+      "honestAssessment": "It is the only page on the nine results I measured that makes the reply depend on the verb rather than on the particle, and it is the only one anywhere in this lane that reports the negative result against its own commissioning framing: Spanish postposes también in 30.0% of a 120-sentence census, so the 'Spanish cannot postpose' story is wrong and the asymmetry is the optional subject pronoun instead. The DPD faltar ruling gives it a hard, checkable claim — yo también after me haces falta is ungrammatical — that no ranking result states and one ranking result's stated rule actively contradicts. Against that: the incumbents are SpanishDict and established Spanish-teaching sites with years of authority on a high-volume English query, the first-party data is not Spanish and cannot be made so, and the corpus sample is 120 sentences from a relevance-ordered API with a capped total. Expect this to be cited by an answer engine for the verb-licensing rule long before it ranks, if it ranks at all."
+    },
+    "generatedAt": "2026-09-28T10:41:39.876Z"
+  }
+}

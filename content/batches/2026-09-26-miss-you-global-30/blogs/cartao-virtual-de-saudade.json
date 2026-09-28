@@ -1,0 +1,368 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Cartão virtual de saudade: como escrever um que não seja lido como cartão de luto",
+    "slug": "cartao-virtual-de-saudade",
+    "excerpt": "Um cartão virtual de saudade tropeça na própria língua: Michaelis, Priberam e Aulete registram \"morte, falecimento\" dentro de falta, e um estudo brasileiro de 2026 mostra saudade na mesma frase. O que desempata não é a palavra — é o tempo verbal. Medido no SERP br-pt e em 214 páginas nossas.",
+    "metaTitle": "Cartão virtual de saudade: o que escrever no cartão",
+    "metaDescription": "Cartão virtual de saudade: 3 dicionários registram \"morte\" dentro de falta; o que salva o cartão é a data de reencontro. Medido no SERP br-pt e em 214 páginas.",
+    "keywords": "cartão virtual de saudade, cartão de saudade online, cartão virtual sinto sua falta, mandar saudade pelo whatsapp, cartão de saudade para namorado",
+    "canonicalURL": "https://subhsandesh.in/blog/cartao-virtual-de-saudade",
+    "ogType": "article",
+    "tags": [
+      "saudade",
+      "cartao-virtual",
+      "portugues",
+      "whatsapp",
+      "longa-distancia"
+    ],
+    "keyTakeaways": [
+      "Três dicionários brasileiros registram o sentido de morte dentro de falta — Michaelis acepção 3, Priberam 8 e Aulete 9, este último com \"ainda sente muito a falta dos pais\" como exemplo.",
+      "Trocar para saudade não resolve: na Revista Brasileira de Enfermagem (06/07/2026, n = 8), idosos enlutados brasileiros dizem \"sinto muito a falta dele\" e \"sinto saudades deles\" nas mesmas falas.",
+      "O que tira o cartão do registro de luto é futuro dentro dele — uma data de reencontro, que só 28,0% dos 214 remetentes que medimos configuraram (60 de 214).",
+      "A bolha de pré-visualização do WhatsApp é montada pelas etiquetas Open Graph da página, não pelo que você escreveu: em /missyou-gf elas trazem og:locale en_US e texto em inglês, medido em 28/09/2026.",
+      "O SERP servido ao Brasil (gl=br&hl=pt-BR&pws=0, duas medições idênticas) traz 9 de 9 resultados comerciais e nenhuma página editorial — e um quadro de condolências no terceiro lugar."
+    ],
+    "faqs": [
+      {
+        "question": "Cartão virtual de saudade é a mesma coisa que cartão de condolências?",
+        "answer": "Não, mas a língua embaralha os dois. O Michaelis registra em falta a acepção 3, \"por ext Morte, falecimento\", e o terceiro resultado do Google Brasil para \"cartão virtual de saudade\" é um quadro do Pinterest de mensagens de condolências. Se o seu cartão é para alguém vivo, ele precisa deixar isso explícito com uma data ou uma pergunta."
+      },
+      {
+        "question": "Escrever \"saudade\" em vez de \"sinto sua falta\" evita o tom fúnebre?",
+        "answer": "Menos do que parece. Os dicionários lexicalizam o sentido de morte só em falta, mas na pesquisa da Revista Brasileira de Enfermagem de 06/07/2026 os oito participantes enlutados usam \"saudade\" e \"sinto falta\" nas mesmas falas. Nenhuma das duas palavras é neutra sozinha."
+      },
+      {
+        "question": "É \"sinto sua falta\" ou \"sinto tua falta\"?",
+        "answer": "As duas existem. \"Sua\" (de você) é o padrão nacional; \"tua\" é o que se fala em casa no Sul e em parte do Norte e do Nordeste. Escolha a que a pessoa usa e mantenha a mesma em todo o cartão — misturar as duas no mesmo texto é o erro mais visível."
+      },
+      {
+        "question": "Quantas palavras deve ter a carta de um cartão de saudade?",
+        "answer": "Nas 214 páginas que medimos, a mediana é 88 palavras e a mais longa tem 1.024. Oitenta e oito palavras é cerca de um parágrafo e meio: cabe uma lembrança concreta, uma frase sobre o agora e uma data."
+      },
+      {
+        "question": "O destinatário precisa instalar algum aplicativo para abrir?",
+        "answer": "Não. É um endereço de página que abre no navegador do celular. Como 48,3% de todas as visualizações que registramos acontecem em telefone, é no telefone que o cartão precisa funcionar bem."
+      },
+      {
+        "question": "Dá para proteger o cartão com senha?",
+        "answer": "Dá, e é o que a maioria relativa faz: 43,5% dos remetentes de \"sinto sua falta\" protegeram a página antes de enviar (93 de 214), contra 38,5% na plataforma inteira. É o segmento mais reservado que medimos."
+      },
+      {
+        "question": "Por que a pré-visualização do link aparece em inglês no WhatsApp?",
+        "answer": "Porque a bolha é gerada pelas etiquetas Open Graph do código da página, e não pelo texto que você escreveu dentro dela. Em 28/09/2026 a nossa página /missyou-gf trazia og:locale igual a en_US e og:title e og:description em inglês. A única parte da conversa que sai em português é a linha que você digita acima do link."
+      },
+      {
+        "question": "\"Saudades\" sozinho funciona como mensagem do cartão?",
+        "answer": "Funciona como fecho, não como mensagem. O Priberam registra saudades em verbete próprio no plural, acepção 7, \"cumprimentos a alguém\", com o exemplo \"mande-lhe saudades minhas\" — historicamente é uma fórmula de despedida de carta."
+      },
+      {
+        "question": "Quanto tempo leva para montar um cartão desses?",
+        "answer": "O intervalo mediano entre o primeiro salvamento e a última edição das 214 páginas é de 2,6 horas, o que quase sempre significa escrever, fechar e voltar depois. Se você precisa enviar agora, escreva só a carta e a data e publique."
+      },
+      {
+        "question": "Posso mandar um cartão de saudade para um amigo ou para a família?",
+        "answer": "Pode, e o cuidado com o registro vale ainda mais aí. Para parentes mais velhos, um cartão sem data e com \"sinto sua falta\" isolado é justamente a leitura que você não quer provocar. Ponha o reencontro no texto."
+      },
+      {
+        "question": "Como sei se a pessoa abriu o cartão?",
+        "answer": "A página conta visualizações: as 214 somam 2.417, média de 11,3 por página. Mas visualização não é visitante único — uma pessoa reabrindo vinte vezes conta vinte —, então o número diz que foi aberto, não quantas pessoas o viram."
+      }
+    ],
+    "coverImageQuery": "brazilian woman phone message window light",
+    "coverImagePrompt": "A photorealistic, warmly lit scene of a young Brazilian woman at a kitchen window in late afternoon, holding her phone and reading a message, soft golden light on her face, a coffee cup on the sill. Shallow depth of field, calm and tender rather than sad, clean negative space in the upper third for a title overlay, 16:9. No readable text on the phone screen, no on-image typography except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Cartão virtual de saudade: como escrever um que não seja lido como cartão de luto\n\nUm cartão virtual de saudade é uma página com endereço próprio que você escreve, ilustra e manda como link, quase sempre pelo WhatsApp. A parte difícil não é a arte: é a frase, porque as duas expressões óbvias para esse cartão, *saudade* e *sinto sua falta*, são também o vocabulário do luto brasileiro, e três dicionários registram isso. Do nosso lado: 214 páginas de \"sinto sua falta\" criadas no template `/missyou-gf` desde 28/07/2026, 43,5% delas protegidas com senha antes do envio (93 de 214) — a taxa mais alta de qualquer segmento que medimos. A carta mediana tem 88 palavras. Este texto é sobre as decisões que cabem nessas 88 palavras, e sobre o que o destinatário vê antes de abrir o link.\n\n## O que eu medi no Google Brasil antes de escrever isto\n\nMedi o SERP servido ao Brasil, no navegador real, com `gl=br&hl=pt-BR&pws=0`, duas vezes, com resultado idêntico. Nove resultados orgânicos, nenhum AI Overview, nenhum snippet em destaque, nenhuma caixa de \"outras perguntas\".\n\nOs nove são superfícies de produto: dois geradores de cartão internacionais com página traduzida, duas galerias de modelos, um editor de vídeo, um gerador de imagem por IA, uma ficha de aplicativo e um quadro do Pinterest. Nenhuma página editorial, nenhum veículo brasileiro, nenhum guia sobre o que escrever. Repeti no Brave com `country=br`: ali sobem lojas brasileiras de cartão **de papel**, outra camada comercial e a mesma lacuna.\n\n## A armadilha que os dicionários registram e nenhum site de cartão avisa\n\nO resultado número 3 desse SERP é um quadro do Pinterest chamado **\"Mensagens de Condolências\"**, e o número 2 é um catálogo de cartões de saudade cuja lista inclui *\"Feliz aniversário no céu\"*. O Google não errou: responde à ambiguidade real da palavra, que nos dicionários mora dentro de *falta*, não de *saudade*.\n\n- O **Michaelis**, dicionário brasileiro, lista em *falta* a acepção **3**: \"*por ext* Morte, falecimento\" — terceira de doze.\n- O **Priberam**, na norma brasileira, registra em *falta* a acepção **8**: \"Falecimento, morte\".\n- O **Aulete** traz a acepção **9**, \"Morte, falecimento\", e o exemplo que escolhe é *\"Apesar do tempo, ainda sente muito a falta dos pais\"* — exatamente a moldura `sentir a falta de` que o seu cartão vai usar.\n\nA entrada de *saudade* no Priberam não tem nenhuma acepção de morte: 1 lembrança grata de pessoa ausente, 2 o pesar que essa privação causa, e depois três acepções de **botânica** — a planta *Scabiosa atropurpurea*. O plural *saudades* é verbete separado, com 6 \"boas lembranças\" e 7 \"cumprimentos a alguém\". Quem citasse \"acepção 3 de saudade\" sem ler o verbete estaria citando uma flor.\n\n## E *saudade* escapa dessa leitura? Um estudo brasileiro diz que não\n\nComecei com a hipótese óbvia: se o sentido de morte está lexicalizado em *falta*, então *saudade* seria a palavra segura. Medi, e está errado.\n\n*Vivência de idosos que perderam um filho*, publicado na **Revista Brasileira de Enfermagem** em 06/07/2026, é uma pesquisa qualitativa com **oito** idosos brasileiros, amostragem em bola de neve, análise por Discurso do Sujeito Coletivo. Os discursos que eles produziram usam as duas expressões no mesmo fôlego:\n\n> \"hoje o sentimento é de saudade, sinto muito a falta dele. Saudade de um abraço e dos momentos que vivemos juntos.\"\n\n> \"Sinto falta, sinto saudades deles, e essa não vai passar.\"\n\nO resumo fecha com \"embora a aceitação da perda seja possível, a saudade e a falta permanecem\". São oito participantes — amostra pequena, e nenhuma taxa pode ser derivada dela. Mas a pergunta aqui é lexical, não estatística, e oito brasileiros dizendo a frase do seu cartão dentro de uma entrevista sobre luto já resolve: **nenhuma das duas palavras é neutra.**\n\n## Se a palavra não desempata, o que desempata é o tempo verbal\n\nEssa é a conclusão útil, e não aparece em nenhum dos nove resultados. Um cartão de saudade não se protege escolhendo o substantivo certo: protege-se tendo **futuro dentro dele**. Luto não marca data de reencontro. Quatro decisões fazem esse trabalho:\n\n1. **Ponha uma data.** \"Até dia 14\" faz mais pelo tom do que qualquer adjetivo. Dos 214 remetentes que medimos, 28,0% (60) configuraram uma data de reencontro para a contagem regressiva — é a minoria, e é a decisão mais barata de todas.\n2. **Fale com a pessoa, não sobre ela.** \"Sinto sua falta\" é uma oração com sujeito em primeira pessoa e possessivo em segunda; \"saudade\" sozinho é substantivo sem destinatário embutido. Cartão de luto fala *sobre* alguém, em terceira pessoa.\n3. **Peça resposta.** Um cartão que termina em pergunta é inequivocamente para alguém vivo.\n4. **Evite a moldura fúnebre inteira**, não só a palavra: \"para sempre\", \"eternamente\", \"onde quer que você esteja\", \"no céu\".\n\nE use a segunda pessoa que a pessoa usa: \"sinto **sua** falta\" é o padrão nacional, mas no Sul e em parte do Norte e do Nordeste \"sinto **tua** falta\" é o que se fala em casa. Não misture as duas no mesmo cartão — o catálogo que ranqueia em segundo lugar mistura, e soa a texto montado.\n\n| Linha do cartão | O que o dicionário registra | Risco de leitura fúnebre | Onde ela funciona melhor |\n|---|---|---|---|\n| **Sinto sua falta** | *falta*: Michaelis acep. 3, Priberam 8, Aulete 9 = morte | **Alto**, se vier sem data nem destinatário | Corpo do cartão, com verbo no presente e um \"até quando\" |\n| **Estou com saudade de você** | *saudade*: Priberam acep. 1–2, sem sentido de morte | **Médio** — o estudo de 2026 mostra a palavra no luto real | Primeira linha; já traz \"de você\" embutido |\n| **Saudades** (sozinho) | Priberam, verbete plural, acep. 7: \"cumprimentos a alguém\" | **Baixo** | Fecho, assinando o cartão — não como a mensagem |\n| **Sinto tua falta** | mesma entrada de *falta*, segunda pessoa de *tu* | Alto, igual | Sul do país; nunca junto com \"sua\" no mesmo texto |\n\n## *Saudades* fecha o cartão, mas não escreve o cartão\n\nVale isolar esse caso porque é o mais mal usado. O Priberam registra *saudades* como verbete próprio no feminino plural, e a acepção 7 é literalmente \"cumprimentos a alguém\", com o exemplo \"mande-lhe saudades minhas\": na história da língua, é uma **fórmula de despedida de carta**, não uma declaração.\n\nNa prática, \"Saudades\" sozinho no meio da página funciona como legenda; como última linha, acima do seu nome, funciona perfeitamente; como mensagem inteira, deixa o destinatário sem nada para responder. Se a diferença entre singular e plural interessa além do cartão, ela está resolvida em [saudade ou saudades: qual o certo](/blog/saudade-ou-saudades-qual-o-certo), e o sentido da palavra em [o que significa saudade](/blog/o-que-significa-saudade).\n\n## O que o WhatsApp mostra antes de a pessoa abrir o link\n\nEsta parte quase ninguém verifica, e ela decide se o link é sequer tocado.\n\nQuando você cola um link no WhatsApp, a bolha de pré-visualização não é montada com o que você escreveu dentro da página, e sim com as etiquetas Open Graph que estão no código dela. Pelo protocolo, quatro propriedades são obrigatórias — `og:title`, `og:type`, `og:image` e `og:url` — e `og:locale` é opcional.\n\nLi essas etiquetas na nossa própria página `/missyou-gf` em 28/09/2026: `og:locale` igual a **`en_US`**, `og:title` e `og:description` **em inglês**, `og:image` de 1200 × 630 pixels. Ou seja, você escreve o cartão inteiro em português, cola o link, e a bolha que aparece na conversa vem em inglês. Medi a página do template, não uma página já criada e compartilhada — essa diferença não verifiquei.\n\nDuas saídas práticas, nenhuma delas nossa: escreva uma linha em português **acima** do link, na própria mensagem, porque é a única parte da conversa que é sua; e mande o link sozinho, sem outro endereço antes dele, porque a pré-visualização é gerada para o primeiro link da mensagem.\n\n## A ordem em que isso se monta\n\nSe você for usar a nossa página de \"sinto sua falta\", a ordem que os 214 remetentes seguiram, na prática, é esta — e as proporções mostram onde estão as decisões que as pessoas pulam:\n\n1. **Escreva a carta primeiro.** Mediana de 88 palavras, a mais longa com 1.024. Tudo o mais é moldura.\n2. **Acrescente as memórias.** 86,4% das páginas (185 de 214) trazem pelo menos uma, 4,5 em média.\n3. **Escreva as cartas \"open when\".** 92,1% (197 de 214) têm pelo menos uma, 3,2 em média, no máximo 6 — o campo mais preenchido de todos.\n4. **Defina a data de reencontro** — 28,0%, e é ela que tira o cartão do registro de luto.\n5. **Grave o áudio, se for gravar.** Só 13,6% (29 de 214) gravam: o campo mais abandonado.\n6. **Decida a senha antes de enviar.** 43,5% protegem a página.\n\nDepois de publicada, cada página recebe 11,3 visualizações em média, 2.417 no total, e 1.434 toques de \"abraço\" foram registrados em 138 das 214 páginas — 64,5% receberam pelo menos um, e uma só recebeu 512. Vale [montar a página de \"sinto sua falta\"](/missyou-gf) sabendo que o botão que as pessoas de fato usam é esse.\n\n## O que esses números mostram — e o que não mostram\n\nTrês ressalvas, e elas importam justamente para um leitor brasileiro.\n\nO banco registra **qual template foi aberto**, nunca quem recebeu, e **nada ali é segmentado por idioma ou por país**. Nenhum dos números acima é brasileiro, e não vou fingir que sei quantos desses 214 remetentes escreveram em português.\n\nOs campos de cidade, música de fundo e \"juntos desde\" são **seletores com valor padrão**: taxa alta neles não é escolha de ninguém, e por isso não aparecem aqui. As visualizações são visualizações, não visitantes únicos. E são 214 páginas em dois meses, desde 28/07/2026 — nenhuma afirmação sazonal sobrevive a isso.\n\n## Onde a nossa página não serve para você\n\nEla é **em inglês**. Rótulos, textos de ajuda, botões e a pré-visualização do WhatsApp, tudo em inglês. O que você escreve sai em português, porque é seu texto; a moldura ao redor, não. Se quem vai receber lê inglês sem esforço, não atrapalha. Se não lê, vai abrir uma página com botões que não reconhece, e é melhor você saber antes.\n\nE se a sua saudade tem volta marcada, o [bilhete de trem](/train-ticket) provavelmente serve melhor: ele é construído em torno de trajeto, status e chegada — exatamente o \"futuro dentro do cartão\" que este texto defende. Para a tradução da frase, se o destinatário for estrangeiro, veja [saudade em inglês](/blog/saudade-em-ingles-como-se-diz).\n\n## Fontes\n\n- Priberam, norma brasileira: [*saudade*](https://dicionario.priberam.org/pt-br/saudade) e [*falta*](https://dicionario.priberam.org/pt-br/falta), lidos em 28/09/2026.\n- [Michaelis, Dicionário Brasileiro: *falta*](https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta) · [Aulete: *falta*](https://www.aulete.com.br/falta).\n- [*Vivência de idosos que perderam um filho*](https://europepmc.org/article/PMC/PMC13336226), Revista Brasileira de Enfermagem, 06/07/2026, n = 8.\n- [Protocolo Open Graph](https://ogp.me/).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/cartao-virtual-de-saudade#post",
+        "inLanguage": "pt-BR",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Saudade",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saudade",
+              "https://www.wikidata.org/wiki/Q1338509"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Português brasileiro",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+              "https://www.wikidata.org/wiki/Q750553"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Luto",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grief",
+              "https://www.wikidata.org/wiki/Q1026040"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Priberam — saudade (norma brasileira)",
+            "url": "https://dicionario.priberam.org/pt-br/saudade",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Priberam — falta (norma brasileira)",
+            "url": "https://dicionario.priberam.org/pt-br/falta",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Priberam Informática"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Michaelis, Dicionário Brasileiro da Língua Portuguesa — falta",
+            "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Editora Melhoramentos"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dicionário Caldas Aulete — falta",
+            "url": "https://www.aulete.com.br/falta",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Lexikon Editora Digital"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Vivência de idosos que perderam um filho: reflexões sobre o luto e para a enfermagem",
+            "url": "https://europepmc.org/article/PMC/PMC13336226",
+            "datePublished": "2026-07-06",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Revista Brasileira de Enfermagem"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol",
+            "url": "https://ogp.me/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "@id": "https://subhsandesh.in/blog/cartao-virtual-de-saudade#ordem",
+        "name": "A ordem em que um cartão virtual de saudade se monta",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Escrever a carta primeiro — mediana de 88 palavras"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Acrescentar as memórias — 86,4% das páginas trazem ao menos uma"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Escrever as cartas \"open when\" — 92,1% têm ao menos uma"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Definir a data de reencontro — só 28,0% definem"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Gravar o áudio — apenas 13,6% gravam"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Decidir a senha antes de enviar — 43,5% protegem a página"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "cartão virtual de saudade",
+    "angle": "Wins by being the only page on the measured br-pt SERP that tells a Brazilian sender the card can be read as a condolence — established by reading three dictionaries (Michaelis falta acep. 3 \"por ext Morte, falecimento\"; Priberam pt-br falta acep. 8; Aulete falta acep. 9, whose own example is \"ainda sente muito a falta dos pais\", in the exact sentir-a-falta-de frame the card uses) and then OVERTURNING the obvious fix with Brazilian data: Revista Brasileira de Enfermagem 06/07/2026 (n = 8, Discurso do Sujeito Coletivo) records bereaved Brazilians saying \"sinto muito a falta dele\" and \"sinto saudades deles\" in the same discourses, so swapping the noun does not help and the disambiguator has to be tense, addressee and a return date. It is also the only page that measures what the recipient sees before opening: /missyou-gf serves og:locale en_US with English og:title and og:description, so a card written in Portuguese arrives behind an English WhatsApp preview.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/train-ticket"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://dicionario.priberam.org/pt-br/saudade",
+        "stat": "Headword saudade, nome feminino: 1 lembrança grata de pessoa ausente; 2 pesar/mágoa que essa privação causa; 3–5 Botânica (Scabiosa atropurpurea and other flowering plants); separate plural headword saudades: 6 boas lembranças, 7 cumprimentos a alguém (\"mande-lhe saudades minhas\"). NO death sense anywhere in the entry. Origem: latim solitas, -atis. Requested with the /pt-br/ path explicitly because the site redirects to /pt-pt/. Read 2026-09-28.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://dicionario.priberam.org/pt-br/falta",
+        "stat": "Headword falta, nome feminino, sense 8: \"Falecimento, morte.\" Read 2026-09-28.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=falta",
+        "stat": "Michaelis, Dicionário Brasileiro da Língua Portuguesa, headword falta sf, sense 3 of 12: \"por ext Morte, falecimento.\" Read 2026-09-28.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://www.aulete.com.br/falta",
+        "stat": "Dicionário Caldas Aulete, headword falta sf, sense 9: \"Morte, falecimento: Apesar do tempo, ainda sente muito a falta dos pais.\" The illustrative sentence uses the same sentir-a-falta-de frame as the card line. Read 2026-09-28.",
+        "publishedDate": null
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13336226",
+        "stat": "JOURNAL: Revista Brasileira de Enfermagem (doi 10.1590/0034-7167-2025-0260). Qualitative study, n = 8 Brazilian older adults who lost a child, snowball sampling, Discourse of the Collective Subject. Collective discourses include \"hoje o sentimento é de saudade, sinto muito a falta dele\" and \"Sinto falta, sinto saudades deles\"; the abstract concludes \"embora a aceitação da perda seja possível, a saudade e a falta permanecem\". Read IN FULL via the Europe PMC fullTextXML endpoint, not abstract-only.",
+        "publishedDate": "2026-07-06"
+      },
+      {
+        "url": "https://ogp.me/",
+        "stat": "The Open Graph protocol: og:title, og:type, og:image and og:url are the four required properties of every page; og:locale is listed under optional metadata. Read 2026-09-28.",
+        "publishedDate": null
+      }
+    ],
+    "serpMeasurement": {
+      "query": "cartão virtual de saudade",
+      "market": "br-pt",
+      "primaryRoute": "Google, real browser, gl=br&hl=pt-BR&pws=0&num=20 — run twice, identical heading and host sets, self-authenticated on Portuguese UI chrome and result markers with no German/Spanish/Japanese markers present",
+      "corroboratingRoute": "Brave Search, real browser, country=br — a different commercial tier (Brazilian paper-card e-commerce) and the same informational gap",
+      "failedRoute": "serp-ddg.mjs returned \"(no results parsed)\" for the target query with the query echoed back correctly; a CONTROL query with known demand (\"mensagem de saudade\", br-pt) returned the identical empty block, proving a bot challenge rather than an empty SERP. One call each, no retries.",
+      "notUsed": "Harness WebSearch was NOT used: it is us-en only and is not a valid route for a br-pt measurement.",
+      "result": "9 organic results, 9 of 9 weak for an informational query. No AI Overview, no featured snippet, no People-Also-Ask. Ranks: joyogram.com/pt, joliecarte.com/pt, br.pinterest.com (a CONDOLENCE board), canva.com/pt_br, capcut.com/pt-br, pt.venngage.com, play.google.com, homiwork.com/pt, joyogram.com/pt. Zero editorial pages, zero Brazilian publishers, zero how-to guides.",
+      "gate4": "PROCEED. The batch's br-pt abort evidence (mensagem de saudade para namorado: 1 weak in 8, eleven established Portuguese publishers) does NOT transfer to this query shape. The transactional br-pt SERP is owned by generic international template SaaS with machine-localised pages, not by Brazilian editorial authority."
+    },
+    "structuralLimitations": [
+      "SOURCE CAP, disclosed rather than hidden: https://dicionario.priberam.org/pt-br/saudade already appears in three sibling posts in this batch (o-que-significa-saudade, saudade-em-ingles-como-se-diz, saudade-ou-saudades-qual-o-certo), and https://michaelis.uol.com.br/...palavra=falta in two (sinto-sua-falta-em-ingles, eu-tambem-sinto-sua-falta). Both hosts are listed in verify.config.json capExemptDomains as reference instruments, and capcheck.mjs confirms neither is flagged. Recorded here so a human can overrule the exemption if they disagree.",
+      "I measured the Open Graph tags of the /missyou-gf TEMPLATE page, not of a created-and-shared page. Whether a shared page serves different og tags is unverified; the post says so.",
+      "WHATSAPP SHARE CLAIM NOT ESTABLISHED. I tried to verify a Brazilian messaging-share statistic and could not: IBGE Agência de Notícias returns HTTP 403 (Cloudflare interstitial) to a scripted UA, and CETIC.br publishes TIC Domicílios only as spreadsheet downloads behind a JS shell. Europe PMC searches for a peer-reviewed Brazilian WhatsApp-channel study returned only health-intervention literature. The post therefore asserts NO share figure and grounds the WhatsApp section only in the Open Graph spec and our own measured tags.",
+      "The Revista Brasileira de Enfermagem study has n = 8 and is qualitative. It is used for a lexical claim (which words bereaved Brazilians actually use), never for a rate, and the post states the n in body prose.",
+      "FIRST-PARTY FACT EXHAUSTION (BRIEF §13): all 12 miss-you fact lines are collided 14–25 times across the siblings. Nothing here differentiates on the numbers; the differentiation is the reading — the reunion-date rate is used as evidence that the single decision that de-risks the card is the one most senders skip.",
+      "NOTHING IN THE DATABASE IS BRAZILIAN. It records which template was opened, never who received it, and is not segmented by language or country. Disclosed in body prose, not only here.",
+      "PROMPT CLAIM CHECKED AND CORRECTED: my row (cartao-virtual-de-saudade) is NOT one of the ten rows in WAVE4-PLAN.json. Its bindingReminders and laneWideFindings were read and applied; the row definition came only from the task prompt.",
+      "MY OWN FIRST HYPOTHESIS WAS OVERTURNED mid-research and the post is built on the correction: I expected \"saudade is the safe card word, sinto sua falta is the risky one\". The Rev Bras Enferm discourses show both nouns in the Brazilian mourning register, so the disambiguator had to move from the noun to the tense."
+    ],
+    "additionalChecks": [
+      "pricecheck-intl.mjs run against this file — no cost, price, plan or currency claim in any of the 13 guarded languages. Note: the measured og:description of /missyou-gf contains a cost claim in English; it is deliberately NOT quoted in this post.",
+      "capcheck.mjs and journalcheck.mjs both re-run immediately before writing. Revista Brasileira de Enfermagem is not in any cap list. Frontiers in Psychology, PNAS, Cognitive Linguistics, Memory & Cognition, Frontiers in AI, EJPT, J. Psycholinguistic Research and Behavior Research Methods each had one slot left; none was used. IJERPH is AT cap, confirming laneWideFinding #18 against the prompt's stale list.",
+      "Banned articles avoided: PMC13552847, PMC11878271, JESLA jesla.127, Linguistik Online 1777 — none cited.",
+      "Strapi production slug check ran against strapi.subhsandesh.in and returned total=0. Not a self-collision, not an offline failure.",
+      "Zero competitor links. The two ranking pages named in the body (a Pinterest condolence board and an unnamed card catalogue) are described as SERP evidence and are not linked.",
+      "Schema validator from .claude/skills/blog-optimisation/references/article-json-schema.md run against this file."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table is lexical — dictionary sense numbers, mourning risk and where the line belongs on the card. No column carries first-party data, and it cannot: the gifts database records which TEMPLATE was opened, never the language the sender wrote in, so nothing in it can speak to whether a Portuguese phrase reads as mourning. Closing it would need a language field on the created page, which does not exist."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Priberam's saudade entry (dicionario.priberam.org/pt-br/saudade) already sits unchanged in three sibling posts in this batch, so it plainly fails the swap test as an object. It is retained because it is the instrument that establishes the ABSENCE of a death sense and the Scabiosa atropurpurea trap, which this post's thesis depends on, and because verify.config.json lists the host as a reference instrument. The five other sources pass: Priberam/falta, Michaelis/falta and Aulete/falta are cited for the death sense specifically, which no other post in the batch uses, and Rev Bras Enferm and ogp.me are unique to this row."
+        }
+      ],
+      "honestAssessment": "It is the only page on the measured br-pt SERP that says the card can be misread as a condolence, and it backs that with three dictionary entries and a 2026 Brazilian bereavement study read in full — none of which any of the nine ranking pages opens, because all nine are product surfaces rather than editorial. The second unique asset is measured, not argued: /missyou-gf serves og:locale en_US, so a Portuguese card arrives behind an English WhatsApp preview, and nobody publishes that about any product including their own. Against that: the first-party numbers are exhausted (all 12 lines are collided 14–25 times across siblings), so the platform data here differentiates only by how it is read, not by being new; the study has n = 8; and I could not establish the WhatsApp-share claim at all, so a section the orchestrator expected to be about channel dominance is instead about link previews. The keyword is band 1, under 300/mo, so even a win is small traffic — the value of this row is conversion fit and the fact that it is the only informational page that exists on the query."
+    },
+    "generatedAt": "2026-09-28T10:52:56.970Z"
+  }
+}

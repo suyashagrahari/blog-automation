@@ -1,0 +1,305 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Ich vermisse dich auf Italienisch: „Mi manchi“ — und warum das der andere deutsche Satz ist",
+    "slug": "ich-vermisse-dich-auf-italienisch",
+    "excerpt": "„Ich vermisse dich“ heißt auf Italienisch mi manchi — wörtlich aber „du fehlst mir“. Warum das Italienische nur eine der beiden deutschen Konstruktionen als Verb hat, belegt an Treccani und DWDS, und was drei DWDS-Korpora über den deutschen Gebrauch sagen.",
+    "metaTitle": "Ich vermisse dich auf Italienisch: mi manchi im Korpustest",
+    "metaDescription": "Ich vermisse dich auf Italienisch heißt mi manchi — wörtlich „du fehlst mir“. Treccani und DWDS erklären den Rollentausch, 453 zu 232 Belege den Gebrauch.",
+    "keywords": "ich vermisse dich auf italienisch, mi manchi, du fehlst mir italienisch, mi manchi bedeutung, italienisch ich vermisse dich, sento la tua mancanza",
+    "canonicalURL": "https://subhsandesh.in/blog/ich-vermisse-dich-auf-italienisch",
+    "ogType": "article",
+    "tags": [
+      "italienisch",
+      "deutsch",
+      "grammatik",
+      "fernbeziehung",
+      "uebersetzung"
+    ],
+    "keyTakeaways": [
+      "„Ich vermisse dich“ heißt auf Italienisch mi manchi — wörtlich „du fehlst mir“, denn mancare macht die vermisste Person zum Subjekt (Treccani, mancare 1.c).",
+      "Deutsch hat für dieses Gefühl zwei Verben mit vertauschten Rollen, Italienisch nur eines: der transitive Gebrauch von mancare bedeutet laut Treccani „fallire“, scheitern.",
+      "Wer im Italienischen selbst Subjekt sein will, muss das Verb verlassen: sento la tua mancanza, belegt bei Treccani unter mancanza 1.b.",
+      "Entgegen der verbreiteten Annahme ist „ich vermisse dich“ die häufigere deutsche Form: 453 zu 232 Belegen im DWDS-Untertitelkorpus, 25 zu 12 in blogs, 738 zu 376 in dwdsxl.",
+      "Auf der gemessenen deutschen Ergebnisseite sind acht bis neun von zehn Treffern Wörterbücher oder Phrasenlisten, und keiner nennt einen Kasus."
+    ],
+    "faqs": [
+      {
+        "question": "Wie sagt man „ich vermisse dich“ auf Italienisch?",
+        "answer": "Mi manchi. Das ist die übliche, in jeder Situation passende Form. Wörtlich heißt sie allerdings „du fehlst mir“ — das italienische Verb mancare stellt die vermisste Person als Subjekt voran, wie Treccani in Abschnitt 1.c des Eintrags mancare festhält."
+      },
+      {
+        "question": "Heißt „mi manchi“ nun „ich vermisse dich“ oder „du fehlst mir“?",
+        "answer": "Der Bedeutung nach beides, der Bauform nach nur das Zweite. In mi manchi ist tu das Subjekt und mi das Dativobjekt (italienisch: complemento di termine). Sinngemäß übersetzen Sie es mit „ich vermisse dich“, strukturell entspricht es „du fehlst mir“."
+      },
+      {
+        "question": "Gibt es im Italienischen einen Satz, in dem ich selbst das Subjekt bin?",
+        "answer": "Ja, aber nicht mit dem Verb mancare, sondern mit dem Substantiv: sento la tua mancanza. Treccani belegt diese Fügung unter mancanza 1.b mit dem Beispiel „abbiamo sentito molto la tua mancanza“. Sie klingt etwas gehobener und passt gut in einen geschriebenen Brief."
+      },
+      {
+        "question": "Warum kann mancare nicht einfach transitiv gebraucht werden?",
+        "answer": "Es kann — nur bedeutet es dann etwas anderes. Treccani führt den transitiven Gebrauch unter Punkt 3 als „fallire“ auf: mancare il colpo (danebenschießen), mancare la coincidenza (den Anschluss verpassen), mancare un rigore. Eine Person vermissen lässt sich damit nicht ausdrücken."
+      },
+      {
+        "question": "Sagen Deutsche eher „ich vermisse dich“ oder „du fehlst mir“?",
+        "answer": "Nach den Belegzahlen klar „ich vermisse dich“. In der DWDS-Korpusabfrage stehen 453 zu 232 Treffern im Untertitelkorpus, 25 zu 12 im Blog-Korpus und 738 zu 376 im Sammelkorpus dwdsxl — rund zwei Drittel zu einem Drittel, in allen drei Korpora gleich."
+      },
+      {
+        "question": "Verfälschen Filmuntertitel dieses Ergebnis nicht, weil sie aus dem Englischen übersetzt sind?",
+        "answer": "Das war unser eigener Einwand, und er trägt nicht. Das Blog-Korpus besteht aus originär auf Deutsch geschriebenen Texten ohne englische Vorlage und zeigt dasselbe Verhältnis, bei kleinerem n sogar ein etwas deutlicheres."
+      },
+      {
+        "question": "Wie schreibe ich „ich habe dich vermisst“ auf Italienisch?",
+        "answer": "Mi sei mancato, wenn Sie einen Mann ansprechen, und mi sei mancata bei einer Frau. Die Endung richtet sich nach der vermissten Person, nicht nach Ihnen — das ist die häufigste Fehlerquelle für deutschsprachige Lernende."
+      },
+      {
+        "question": "Wie sage ich es im Plural, also „wir vermissen dich“?",
+        "answer": "Ci manchi für die Gegenwart und ci mancherai für „du wirst uns fehlen“. Beide Formen nennt Treccani im selben Abschnitt 1.c. Auch hier bleibt die angesprochene Person das Subjekt."
+      },
+      {
+        "question": "Kann ich „mi manchi tanto“ schreiben, um es zu verstärken?",
+        "answer": "Ja, das ist regelmäßig aus der bei Treccani belegten Grundform gebildet. Von einer weiteren, im Netz oft zitierten Verstärkung haben wir dagegen abgesehen, weil sie in den geprüften Wörterbucheinträgen nicht vorkommt und wir keine unbelegte Zeile drucken."
+      },
+      {
+        "question": "Was steht bei einer Suche nach diesem Satz eigentlich ganz oben?",
+        "answer": "Bei Google für den deutschen Markt kein Artikel, sondern das Übersetzer-Feld mit der Antwort Mi manchi. Danach folgen Reverso, PONS, bab.la, LEO, Glosbe, Memrise und ein Reddit-Thread — acht bis neun der zehn Treffer sind Wörterbücher oder Phrasenlisten, und keiner davon nennt einen Kasus."
+      },
+      {
+        "question": "Beziehen sich die genannten Nutzungszahlen auf deutsche oder italienische Nutzer?",
+        "answer": "Nein, und das ist eine harte Grenze der Daten. Unsere Datenbank hält fest, welche Vorlage geöffnet wurde, nie wer sie empfangen hat, und nichts darin ist nach Sprache oder Land aufgeschlüsselt. Keine der Zahlen ist eine deutsche oder italienische."
+      },
+      {
+        "question": "Ist die verlinkte Vorlage auf Deutsch oder Italienisch verfügbar?",
+        "answer": "Weder noch — die Oberfläche ist vollständig englisch, mit englischen Beschriftungen und Eingabeaufforderungen. Ihren eigenen Text können Sie natürlich auf Deutsch oder Italienisch schreiben. Wenn die empfangende Person kein Englisch liest, ist ein schlichter Brief die bessere Wahl."
+      }
+    ],
+    "coverImageQuery": "handwritten letter italian postcard distance",
+    "coverImagePrompt": "A close, warm photograph of a handwritten letter on cream paper beside an open Italian dictionary, soft daylight from a window, a coffee cup just out of focus. Shallow depth of field, muted terracotta and olive tones, generous negative space in the upper third for a title overlay, 16:9. No legible text on the page and no watermark.",
+    "contentMarkdown": "# Ich vermisse dich auf Italienisch: „Mi manchi“ — und warum das der andere deutsche Satz ist\n\n„Ich vermisse dich“ heißt auf Italienisch **mi manchi**. Das ist richtig — aber es ist nicht die Übersetzung, für die Sie es halten. *Mi manchi* heißt wörtlich „du fehlst mir“, und genau dieser zweite deutsche Satz ist sein strukturelles Gegenstück, nicht der erste. Wir haben das an zwei Wörterbüchern und an drei DWDS-Korpora nachgemessen, und dabei eine verbreitete Behauptung widerlegt (dazu unten mehr).\n\nWarum das praktisch zählt: Bei uns ist ein „Ich vermisse dich“-Brief im Median **88 Wörter** lang, der längste 1.024 — bei n = 214 Seiten. Und **43,5 %** der Absenderinnen und Absender schützen die Seite vor dem Teilen mit einem Passwort (93 von 214), gegenüber 38,5 % auf der ganzen Plattform. Bei so wenig Text und so viel Zurückhaltung entscheidet ein einziger Satz, und der sollte stimmen.\n\n## Die kurze Antwort, und wessen Satz das ist\n\n**Mi manchi.** Zwei Wörter, richtig, idiomatisch, in jeder Situation verwendbar. Wenn Sie nur eines mitnehmen, nehmen Sie das.\n\nDer Haken steckt in der Grammatik. In *mi manchi* ist **du** das Subjekt und **mir** das Objekt: „du fehlst mir“. Im deutschen *ich vermisse dich* ist es genau umgekehrt — **ich** bin das Subjekt, **dich** das Akkusativobjekt.\n\nDeutsch hat für dieses Gefühl also zwei Sätze mit vertauschten Rollen. Italienisch hat an dieser Stelle nur einen.\n\n## Warum „mi manchi“ nicht „ich vermisse dich“ spiegelt\n\nDas DWDS setzt *vermissen* unmissverständlich an: Bedeutung 1 lautet dort ⟨jmd. vermisst jmdn., etw.⟩, und die Kollokationszeile nennt ausdrücklich „mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen“. Der Vermissende steht vorn.\n\nBeim Verb *fehlen* steht im selben Wörterbuch die Gegenkonstruktion: Bedeutung 1 b) ist ⟨jmd. fehlt jmdm.⟩, glossiert als „sehr vermisst, entbehrt werden“. Das DWDS erklärt *du fehlst mir* also wörtlich mit dem Passiv von *vermissen* — die beiden Sätze sind lexikografisch aneinandergebunden.\n\nDas Vocabolario Treccani beschreibt *mancare* in Abschnitt 1.c als intransitiv (aus. essere) und führt genau unsere Wendungen auf: „Con il compl. di termine, in frasi quali **mi manchi**, mi sei mancato, ci mancherai“. *Complemento di termine* ist der italienische Name für das, was im Deutschen der Dativ ist. Die vermisste Person ist Subjekt, die vermissende steht im Dativ — das ist die Bauform von *du fehlst mir*, nicht die von *ich vermisse dich*.\n\n## Was dem Italienischen an dieser Stelle fehlt\n\nMan könnte einwenden: *mancare* sei doch laut Treccani „v. intr. e tr.“, also auch transitiv. Stimmt — aber der transitive Gebrauch steht dort unter Punkt 3 und bedeutet **fallire**, scheitern: *mancare il colpo* (danebenschießen), *mancare la coincidenza* (den Anschluss verpassen), *mancare un rigore* (einen Elfmeter vergeben). Eine Person vermissen kann man damit nicht.\n\nWer im Italienischen die vermissende Person zum Subjekt machen will, muss deshalb das Verb verlassen und zum Substantiv greifen: *sentire la mancanza di qualcuno*. Treccani belegt diese Fügung unter *mancanza* 1.b mit dem Beispiel „abbiamo sentito molto la tua mancanza“.\n\nDas ist der eigentliche Unterschied, und er ist feiner, als er meist dargestellt wird. Italienisch kann beide Perspektiven ausdrücken. Aber nur eine davon hat ein eigenes Verb; für die andere braucht die Sprache eine Umschreibung mit Nomen.\n\nDass das Italienische den Erlebenden dabei ganz nach vorn zieht — *mi* steht vor dem Verb —, ist keine Eigenheit von *mancare*, sondern das Muster seiner ganzen Verbklasse, zu der auch *piacere* gehört.\n\n## Gemessen: welchen der beiden deutschen Sätze Deutsche wirklich schreiben\n\nHier mussten wir eine Annahme korrigieren, mit der wir in diese Recherche gegangen sind. Die gängige Darstellung lautet, *ich vermisse dich* sei die „Schulbuch“-Variante und *du fehlst mir* das, was Deutsche tatsächlich sagen. Das lässt sich zählen — und es stimmt nicht.\n\nWir haben die Belegzahlen über die D\\*-Schnittstelle des DWDS (kaskade.dwds.de) in drei Korpora abgefragt: *untertitel* (Filmuntertitel, gesprochene Dialogsprache), *blogs* (originär geschriebenes Deutsch) und dem Sammelkorpus *dwdsxl*.\n\n| Form | untertitel | blogs | dwdsxl |\n|---|---|---|---|\n| ich vermisse dich | 453 | 25 | 738 |\n| du fehlst mir | 232 | 12 | 376 |\n| ich vermisse sie | 129 | 17 | 289 |\n| sie fehlen mir | 69 | 8 | 148 |\n| wir vermissen dich | 50 | 12 | 159 |\n| du fehlst uns | 18 | 1 | 43 |\n\nIn jedem einzelnen Korpus liegt die Akkusativ-Konstruktion vorn, und zwar in einem bemerkenswert stabilen Verhältnis: 632 zu 319 in *untertitel* (66,5 %), 54 zu 21 in *blogs* (72,0 %), 1.186 zu 567 in *dwdsxl* (67,7 %). Rund zwei Drittel zu einem Drittel, dreimal unabhängig.\n\nAuch im Perfekt kippt es nicht: *ich habe dich vermisst* kommt in *untertitel* 297-mal vor, *du hast mir gefehlt* 105-mal.\n\nEine Erklärung dafür liefert die Verarbeitungsforschung. Sánchez-López, Isasi-Isasmendi, Bickel und Santesteban legten in der frei zugänglichen Zeitschrift *Open Mind* je dreißig spanischen Muttersprachlern intransitive Sätze mit Agens-, Experiencer- und Patiens-Subjekten vor und maßen Blickbewegungen und Hirnströme. Experiencer verhielten sich dabei wie Handelnde und nicht wie Erleidende: Der für Patiens-Rollen typische N400-Ausschlag blieb im Vergleich von Agens und Experiencer vollständig aus.\n\nWer etwas empfindet, wird also bevorzugt wie ein Handelnder verarbeitet — und genau diese Position gibt *ich vermisse dich* dem Sprecher, nämlich die des Subjekts. *Du fehlst mir* schiebt ihn in den Dativ. Dass die Form mit dem Erlebenden im Subjekt häufiger ist, passt zu diesem Befund.\n\n## Warum wir dem Ergebnis trauen — und wo seine Grenze liegt\n\nEin Untertitelkorpus ist überwiegend **übersetztes** Deutsch. Der Einwand liegt auf der Hand: Englische Vorlagen sagen „I miss you“, und die deutsche Untertitelung übernimmt reflexhaft die Akkusativform. Das würde das Ergebnis erklären.\n\nDeshalb steht das Blog-Korpus danebem — originär auf Deutsch geschriebene Texte, ohne englische Vorlage. Es zeigt dasselbe Verhältnis, bei kleinerem n sogar ein etwas deutlicheres. Die Übersetzungserklärung trägt also nicht.\n\nWir haben die Zahlen zusätzlich abgesichert, indem wir jede Zählung über einen zweiten Abfrageweg wiederholt haben: Die count()-Werte und die Trefferzahlen einer gewöhnlichen Phrasensuche stimmen exakt überein (453 und 453, 232 und 232), und die Belegstellen selbst enthalten den gesuchten Satz — etwa „Du fehlst mir.“ aus *Addicted to Love* (1997). Ein Verhältnis innerhalb desselben Korpus braucht keine Normierung auf die Korpusgröße, weil sich der Nenner herauskürzt.\n\n## Die Formen, die Sie wirklich brauchen\n\n| Italienisch | Wer ist Subjekt | Deutsches Gegenstück | Beleg |\n|---|---|---|---|\n| Mi manchi. | du | Du fehlst mir. | Treccani, *mancare* 1.c |\n| Mi sei mancato / mancata. | du | Du hast mir gefehlt. | Treccani, *mancare* 1.c |\n| Ci manchi. / Ci mancherai. | du | Du fehlst uns. | Treccani, *mancare* 1.c |\n| Mi manchi tanto. | du | Du fehlst mir sehr. | kompositional aus 1.c |\n| Sento la tua mancanza. | ich | Ich vermisse dich. | Treccani, *mancanza* 1.b |\n\nZwei Dinge dazu. *Mi sei mancato* richtet sich nach dem Geschlecht der vermissten Person, nicht nach Ihrem — schreiben Sie einer Frau, heißt es *mi sei mancata*. Und *sento la tua mancanza* ist die einzige Zeile in dieser Tabelle, in der Sie selbst das Subjekt sind; sie klingt etwas gehobener als *mi manchi* und passt gut in einen geschriebenen Brief.\n\nEine Form haben wir bewusst gestrichen: *mi manchi da morire* steht in keinem der geprüften Treccani-Einträge, und wir drucken keine Zeile, die wir nicht belegen können.\n\n## Was auf der deutschen Ergebnisseite steht\n\nWir haben die Suche für den deutschen Markt zweimal gemessen: über den DDG-Proxy mit dem Regionsparameter *de-de* und über Google mit *gl=de&hl=de&pws=0* im echten Browser. Beide Male dasselbe Bild.\n\nGanz oben bei Google steht kein Artikel, sondern das Übersetzer-Feld mit der Antwort *Mi manchi*. Darunter: Reverso, bab.la, PONS, LEO, Glosbe, Memrise, ein Reddit-Thread und zwei kleine Sprachblogs. Acht bis neun der zehn Ergebnisse sind Wörterbücher, Übersetzungsspeicher oder Phrasenlisten. Ein redaktioneller Beitrag einer italienischen Sprachschule ist die einzige Ausnahme.\n\nKein einziges dieser Ergebnisse nennt einen Kasus, ein Subjekt oder den Umstand, dass *mi manchi* die Rollen tauscht. Entgegen einer verbreiteten Erwartung tauchen auf dieser Suchanfrage übrigens weder deutsche Magazinverlage noch der Schlager oder die Netflix-Serie ähnlichen Namens auf — diese Abfrageform ist sauber.\n\n## Wo sich diese Seite von zwei Schwesterartikeln trennt\n\nZwei verwandte Beiträge gibt es schon, und sie beantworten andere Fragen. [Ich vermisse dich auf Türkisch](https://subhsandesh.in/blog/ich-vermisse-dich-auf-turkisch) behandelt eine Sprache, in der das Verb transitiv ist und die Umkehrung ganz fehlt. [Mi manchi in inglese](https://subhsandesh.in/blog/mi-manchi-in-inglese) ist auf Italienisch geschrieben und führt in die Gegenrichtung, vom Italienischen ins Englische.\n\nNeu ist hier allein die **Richtung Deutsch → Italienisch** samt der gezählten Frage, welchen der beiden deutschen Sätze Deutsche überhaupt schreiben. Wenn Sie nur wissen wollen, wie Sie auf ein „mi manchi“ antworten, ist [Ich vermisse dich auch](https://subhsandesh.in/blog/ich-vermisse-dich-auch) der passendere Text.\n\n## Was unsere Zahlen zeigen — und was ausdrücklich nicht\n\nUnsere Miss-you-Seiten sind 214 von 5.221 Seiten über 44 Kollektionen, angelegt seit dem 28.07.2026. **28,0 %** der Absender setzen ein Wiedersehensdatum für den Countdown (60 von 214). Und die Empfänger haben **1.434** „Hug“-Taps ausgelöst, verteilt auf 138 der 214 Seiten — 64,5 % bekamen mindestens einen, eine einzige Seite 512.\n\nJetzt die Einschränkungen, und sie sind wichtig. Die Datenbank hält fest, **welche Vorlage geöffnet wurde — nie, wer sie empfangen hat.** Nichts davon ist nach Sprache oder Land aufgeschlüsselt. Keine dieser Zahlen ist eine deutsche, eine italienische oder eine über Deutsch-Italienisch-Paare.\n\nAußerdem: Stadt, Hintergrundmusik und „zusammen seit“ sind Auswahlfelder mit Voreinstellung — eine hohe Ausfüllquote dort ist keine Entscheidung der Absender. Aufrufzahlen sind Seitenaufrufe, keine Einzelbesucher; eine Person, die zwanzigmal öffnet, zählt zwanzigfach. Und n = 214 über zwei Monate trägt keine saisonale Aussage.\n\n## Warum die verlinkte Seite auf Englisch ist\n\nEhrlich vorweg: Unsere [„I miss you“-Seite für die Partnerin](/missyou-gf) ist **vollständig auf Englisch** — englische Beschriftungen, englische Eingabeaufforderungen, englische Menüs. Sie schreiben Ihren eigenen Text hinein, und der darf deutsch oder italienisch sein; die Oberfläche drumherum bleibt es nicht.\n\nWenn Sie jemandem schreiben, der kein Englisch liest, ist das ein echtes Problem — dann ist ein schlichter Brief die bessere Wahl als unsere Vorlage, und wir sagen das lieber hier als nach dem Klick. Wer dagegen ein Wiedersehensdatum hat und die Entfernung überbrücken will, findet in der [Zeitkapsel für Paare](/capsule) eine passendere Form: Beide schreiben Vorhersagen für das kommende Jahr, blind voreinander; ein Jahr später öffnet man sie gemeinsam. Das setzt die Distanz voraus, statt sie zu beklagen. Eine Übersicht aller Vorlagen steht unter [/templates](/templates); zu Preisen oder Tarifen machen wir hier keine Angaben, weil sich das aus unseren Daten nicht belegen lässt.\n\n## Quellen\n\nAlle Belege wurden am Eintrag selbst geprüft, nicht über Suchergebnisse: DWDS *vermissen* und *fehlen*, Vocabolario Treccani *mancare* und *mancanza*, die D\\*-Korpusschnittstelle des DWDS sowie ein frei zugänglicher, begutachteter Fachaufsatz in *Languages*, den wir im Volltext gelesen haben.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/ich-vermisse-dich-auf-italienisch#post",
+        "inLanguage": "de-DE",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Italienische Sprache",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Italian_language",
+              "https://www.wikidata.org/wiki/Q652"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Deutsche Sprache",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/German_language",
+              "https://www.wikidata.org/wiki/Q188"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Dativ",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dative_case",
+              "https://www.wikidata.org/wiki/Q145599"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Akkusativ",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Accusative_case",
+              "https://www.wikidata.org/wiki/Q146078"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS setzt vermissen in Bedeutung 1 als ⟨jmd. vermisst jmdn., etw.⟩ an, mit der Kollokationszeile „mit Akkusat",
+            "url": "https://www.dwds.de/wb/vermissen",
+            "datePublished": "2017"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS setzt fehlen in Bedeutung 1 b) als ⟨jmd. fehlt jmdm.⟩ an und glossiert es als „sehr vermisst, entbehrt we",
+            "url": "https://www.dwds.de/wb/fehlen",
+            "datePublished": "2026-10-23"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani, mancare: Abschnitt 1.c führt „Con il compl. di termine, in frasi quali mi manchi, mi sei",
+            "url": "https://www.treccani.it/vocabolario/mancare/",
+            "datePublished": "2026-09-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DWDS-D*-Korpusabfrage: „ich vermisse dich“ 453 Belege gegen „du fehlst mir“ 232 im Korpus untertitel; 25 zu 12",
+            "url": "https://kaskade.dwds.de/dstar/untertitel/dstar.perl?q=count%28%22ich%20vermisse%20dich%22%29",
+            "datePublished": "2026-09-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Vocabolario Treccani, mancanza: Abschnitt 1.b belegt die Fügung, in der die vermissende Person Subjekt ist, mi",
+            "url": "https://www.treccani.it/vocabolario/mancanza/",
+            "datePublished": "2026-09-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Sánchez-López, Isasi-Isasmendi, Bickel & Santesteban, „Broadening the Agent Preference Hypothesis Through Expe",
+            "url": "https://europepmc.org/article/PMC/PMC13518077",
+            "datePublished": "2026-07-17"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "ich vermisse dich auf italienisch",
+    "angle": "Wins by being the only page on this SERP that names which of the two German constructions mi manchi actually mirrors — du fehlst mir, not ich vermisse dich — establishes from Treccani that Italian's transitive mancare means fallire and never a person, so the misser-subject reading has to leave the verb entirely for sento la tua mancanza, and then overturns the received claim about German by counting both constructions in three DWDS corpora (453:232, 25:12, 738:376, a stable two-thirds share for the accusative in translated AND natively written German).",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/capsule",
+      "/templates"
+    ],
+    "factsUsed": [
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dwds.de/wb/vermissen",
+        "stat": "DWDS setzt vermissen in Bedeutung 1 als ⟨jmd. vermisst jmdn., etw.⟩ an, mit der Kollokationszeile „mit Akkusativobjekt: die Mutter, den Vater, die Familie, Freunde vermissen“.",
+        "publishedDate": "2017"
+      },
+      {
+        "url": "https://www.dwds.de/wb/fehlen",
+        "stat": "DWDS setzt fehlen in Bedeutung 1 b) als ⟨jmd. fehlt jmdm.⟩ an und glossiert es als „sehr vermisst, entbehrt werden“ — die Dativkonstruktion wird lexikografisch über das Passiv von vermissen erklärt.",
+        "publishedDate": "2026-10-23"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "stat": "Vocabolario Treccani, mancare: Abschnitt 1.c führt „Con il compl. di termine, in frasi quali mi manchi, mi sei mancato, ci mancherai“; der transitive Gebrauch steht getrennt unter 3. als „Fallire: m. il colpo, m. la coincidenza“ und trägt keine affektive Bedeutung.",
+        "publishedDate": "2026-09-28"
+      },
+      {
+        "url": "https://kaskade.dwds.de/dstar/untertitel/dstar.perl?q=count%28%22ich%20vermisse%20dich%22%29",
+        "stat": "DWDS-D*-Korpusabfrage: „ich vermisse dich“ 453 Belege gegen „du fehlst mir“ 232 im Korpus untertitel; 25 zu 12 in blogs und 738 zu 376 in dwdsxl. Die count()-Werte stimmen exakt mit den Trefferzahlen der Phrasensuche überein.",
+        "publishedDate": "2026-09-28"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/mancanza/",
+        "stat": "Vocabolario Treccani, mancanza: Abschnitt 1.b belegt die Fügung, in der die vermissende Person Subjekt ist, mit dem Beispiel „abbiamo sentito molto la tua mancanza“ — im Italienischen verlässt diese Perspektive das Verb und wird mit einem Substantiv ausgedrückt.",
+        "publishedDate": "2026-09-28"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13518077",
+        "stat": "Sánchez-López, Isasi-Isasmendi, Bickel & Santesteban, „Broadening the Agent Preference Hypothesis Through Experiencers: Eye-Tracking and EEG Evidence of Proto-Agents and Proto-Patients“, Zeitschrift *Open Mind* (MIT Press), CC BY, Volltext über Europe PMC gelesen: je 30 spanische Muttersprachler pro Experiment; Experiencer lösten wie Agentien längere Fixationszeiten aus als Patiens-Rollen, und der beim Patiens replizierte N400-Effekt blieb im Vergleich Agens vs. Experiencer aus — Erlebende werden wie Handelnde verarbeitet.",
+        "publishedDate": "2026-07-17"
+      }
+    ],
+    "serpMeasurement": {
+      "routes": [
+        "scripts/serp-ddg.mjs \"ich vermisse dich auf italienisch\" --region de-de — succeeded on the first call, 10 results parsed; two later calls on the same route returned \"(no results parsed)\", i.e. throttled, so this SERP was captured once and not re-run on that route.",
+        "Google in the real browser, https://www.google.com/search?q=ich+vermisse+dich+auf+italienisch&gl=de&hl=de&pws=0 — self-authenticated on content actually read (German UI, the DE→IT translate one-box for this exact query), 8 organic records extracted of 24 containers."
+      ],
+      "finding": "DDG de-de ranks: reverso (woerterbuch), wordy.info, context.reverso, bab.la, fluentvista.com, PONS, dict.leo.org, reverso again, ilcentro.net, glosbe. Google de-de: Translate one-box first, then an AI-Modus block citing context.reverso and ilcentro.net, then context.reverso, reddit r/italianlearning, ilcentro.net, memrise, PONS, bab.la. Weak count 8–9 of 10 on both routes; the only genuine editorial page is ilcentro.net, an Italian language school. Zero German magazine publishers. Zero contamination from the Helene Fischer song or the Netflix series on THIS query shape — that contamination belongs to the bare head, which we could not measure because DDG throttled.",
+      "gate4": "PASS — the plan row estimated weak: 4; the measurement is 8–9 weak of 10, which is better than the estimate, not worse. No abort."
+    },
+    "overturnedFramingClaims": [
+      "The task prompt stated that „die literal-feeling German translation is the one German speakers reach for LAST“, i.e. that du fehlst mir is the default and ich vermisse dich the marked choice. MEASURED FALSE. In every DWDS corpus large enough to count, ich vermisse dich outnumbers du fehlst mir by roughly two to one: 453:232 (untertitel), 25:12 (blogs), 738:376 (dwdsxl). The same ratio holds for ich vermisse sie:sie fehlen mir (129:69, 17:8, 289:148) and wir vermissen dich:du fehlst uns (50:18, 12:1, 159:43), and in the perfect (ich habe dich vermisst 297 : du hast mir gefehlt 105 in untertitel). The structural asymmetry the prompt describes is real; the frequency claim attached to it is backwards, and the post says so.",
+      "The task prompt stated that Italian has „essentially only the second shape, mi manchi“. TRUE OF THE VERB, TOO STRONG AS STATED. Treccani mancare 3. does have a transitive use, but it means fallire — mancare il colpo, mancare la coincidenza, mancare un rigore — and never a person. And Italian does have a misser-subject construction: sentire la mancanza di qualcuno, which Treccani attests under mancanza 1.b („abbiamo sentito molto la tua mancanza“). The precise statement is that Italian lacks a misser-subject VERB for this sense and expresses that perspective with a noun periphrasis instead. The post makes that distinction explicitly.",
+      "The task prompt warned that de-de is query-shape dependent and that the head is contaminated by Helene Fischer and the Netflix series „Missing You“. On THIS query shape the warning does not bite: neither appears on either measured route, and no German magazine publisher ranks. We could not measure the bare head itself (DDG throttled after the first call), so we neither confirm nor deny the head-contamination claim and do not assert it in the post.",
+      "The task prompt and WAVE4-PLAN.json bindingReminders both give the schema path as references/article-json-schema.md. That path does not exist at the repository root. The file is at .claude/skills/blog-optimisation/references/article-json-schema.md and was read there."
+    ],
+    "structuralLimitations": [
+      "Lines cut: „mi manchi da morire“ was cut — it is widely quoted online but appears in neither the Treccani mancare nor the mancanza entry, and this batch's standard is that every printed line is verified at the entry itself. „ti sento la mancanza“ was a probe form and is ungrammatical; it was never a candidate.",
+      "Counts cut: the bare two-token queries count(\"vermisse dich\") and count(\"fehlst mir\") returned figures we cannot explain — 66 against 1,254 in the blogs corpus, where the full clauses stand at 25 against 12. Rather than reason from a number we do not understand, all bare-form counts were discarded and only full-clause counts, each cross-checked by a second query path, are reported.",
+      "No Italian frequency counterpart could be measured. The DWDS D* infrastructure carries an Italian blog corpus (it_blogs) but it returns HTTP 401 from this IP for every query, so the Italian side of the asymmetry is established lexicographically (Treccani) and not by corpus frequency. A comparable Italian count would need an open corpus such as CORIS or PAISÀ.",
+      "The Sánchez-López et al. experiment tested SPANISH speakers, not German or Italian ones, and used intransitive sentences with agent, experiencer and patient subjects rather than vermissen or mancare. It is cited only for the general processing finding that experiencers pattern with agents, which is what the post uses it for; the post does not claim the study measured German or Italian.",
+      "Three peer-reviewed candidates were read in full and then discarded before the cited one was settled on, and the reasons matter. (1) Stortini, „Dative Experiencer Psych-Verbs in Italian and Spanish“, Languages, https://www.mdpi.com/2226-471X/11/3/36 — read via pdftotext and already drafted into the body, then removed because capcheck.mjs lists that URL as spent in an earlier wave by 2026-09-25-miss-you-30/blogs/i-miss-you-in-italian.json. Its 45.8% OVS figure and the whole paragraph built on it were deleted rather than re-sourced through the DOAJ or institutional-repository copies Unpaywall offers, because the cap counts the WORK and not the hostname. (2) Agustín Llach, „Understanding Love in the L1 and the Additional Language“, Journal of Intelligence, PMC12842814 — read in full, dropped because the sibling saudade-em-ingles-como-se-diz already holds one of its two URL slots and, more importantly, because the body never actually used it. (3) Engelberg, „The argument structure of psych-verbs: A quantitative corpus study on cognitive entrenchment“ (2018), the best German-side match and genuinely open access at ids-pub.bsz-bw.de under CC BY-NC-ND, could not be read: the host runs an Anubis proof-of-work bot wall that returns a 7.5 KB challenge page to every scripted fetch, and the same wall blocks the HPSG proceedings repository at publikationen.ub.uni-frankfurt.de. Those two were unreadable, not unavailable, and a later attempt at a second MDPI PDF was also bot-walled where an earlier one had succeeded, so MDPI's PDF endpoint is intermittent rather than open.",
+      "First-party differentiation is thin by construction: 54 sibling posts draw on the same 12 miss-you lines. We chose the least-collided pair available (median letter length 88 words and the 43.5% password rate, neither used by the three siblings read) but the underlying dataset is shared across the batch and that is an honest structural weakness, not something the post can fix.",
+      "The exempt reference instruments (dwds.de, treccani.it, kaskade.dwds.de) are reused across this batch by design; capcheck.mjs lists them as cap-exempt hosts. Treccani mancare and mancanza each stood at 1 post before this one, so both remain within the 2-post URL cap after it."
+    ],
+    "additionalChecks": [
+      "Instrument self-authentication: every DWDS D* count was re-run through a second query path (a plain phrase search) and the count() value matched nhits_ exactly — 453/453 and 232/232 — and a concordance read returned real records with IMDb ids and the matched tokens („Du fehlst mir.“, Addicted to Love, 1997). The instrument was verified before any figure was used.",
+      "Dictionary headword check: both DWDS pages were confirmed to serve the intended headword (vermissen: „Verb · vermisst, vermisste, hat vermisst“; fehlen: Bedeutungsübersicht 1 b)), and the Treccani page was confirmed to serve MANCARE, not a neighbouring entry. This is the MARAUD/DEZILITER guard from the brief.",
+      "Slug collision check against production Strapi: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=ich-vermisse-dich-auf-italienisch returned HTTP 200 with total = 0. The slug is free.",
+      "Three cross-links point at sibling posts on subhsandesh.in/blog/ (ich-vermisse-dich-auf-turkisch, mi-manchi-in-inglese, ich-vermisse-dich-auch). These are real live URLs but are not TEMPLATE_LINKS entries; the „every internal link is a real URL from TEMPLATE_LINKS“ item was assessed against the three template links (/missyou-gf, /capsule, /templates), all of which are in TEMPLATE_LINKS.",
+      "Twin check against the two written siblings plus ich-vermisse-dich-auch: all three already state that German has two constructions, so that alone would have been a twin. What is new here and in none of them is the direction German→Italian, the mapping of mi manchi onto du fehlst mir rather than onto ich vermisse dich, the Treccani finding that Italian's misser-subject reading leaves the verb for a noun periphrasis, and the measured frequency contrast that overturns the received claim. The split is stated in body prose and all three are cross-linked.",
+      "Price guard: no price, cost, tier, subscription or currency claim appears in German or in any other language; the body says explicitly that no such statement can be supported from the data."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The body contains two tables but no ranked or numbered list and no H3s, so there is nothing for an ItemList to mirror. Adding one would mean inventing a ranking the post does not make. Would close only if a future revision introduced a genuinely ordered list."
+        }
+      ],
+      "honestAssessment": "An answer engine would cite this over the measured top results because every one of them — Reverso, PONS, bab.la, LEO, Glosbe, Memrise, a Reddit thread and two small language blogs — returns the string „mi manchi“ and stops, while this page is the only one that says whose sentence it is: it names the case, cites Treccani 1.c and DWDS 1 b) at the headword, and shows that Italian's transitive mancare means fallire, so the misser-subject reading has to leave the verb for sento la tua mancanza. It also carries something none of them has and none of them can cheaply copy: a reproducible three-corpus count that overturns the widely repeated claim that Germans prefer du fehlst mir. What the page cannot overcome is domain authority — subhsandesh.in is a low-authority domain publishing German-language content for the first time in this batch, against Reverso and PONS, and Google itself answers the query with a Translate one-box above every organic result, which caps the achievable click share regardless of content quality. First-party differentiation is also thin, since 54 sibling posts draw on the same 12 miss-you data lines."
+    },
+    "generatedAt": "2026-09-28T10:30:19.086Z"
+  }
+}

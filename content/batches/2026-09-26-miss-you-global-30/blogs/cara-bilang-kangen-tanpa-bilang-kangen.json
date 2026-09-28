@@ -447,7 +447,9 @@
         "No AggregateRating, Review or HowTo anywhere in structuredData",
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
-        "templateUrls all exist in TEMPLATE_LINKS"
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Slug is not already taken in Strapi",
+        "Batch JSON validates against references/article-json-schema.md"
       ],
       "failed": [
         {
@@ -455,16 +457,8 @@
           "why": "Slug 'cara-bilang-kangen-tanpa-bilang-kangen' contains the Indonesian stop words 'tanpa' and repeats 'bilang'. It cannot be shortened without losing the exact-match primary keyword, which is the whole basis of the row. Would close only if the row's keyword changed."
         },
         {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Strapi is offline in this environment, so slug availability could not be checked against the live collection. Verified instead against content/keywords/strapi-live-articles.json (905 live articles): no article with this slug exists there. Would close on a live Strapi query."
-        },
-        {
           "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
           "why": "No ItemList is present. The body deliberately does not rank or number the signals — the comparison table is unordered and the post argues against building a taxonomy it cannot source. Adding an ItemList would assert an order the evidence does not support. Would close only if the body were restructured into a ranked list."
-        },
-        {
-          "item": "Batch JSON validates against references/article-json-schema.md",
-          "why": "references/article-json-schema.md could not be located in this checkout (references/ resolves to .claude/skills/blog-optimisation/references/, which contains publish-checklist.md but no article-json-schema.md). The file was instead validated with JSON.parse and shape-matched field-by-field against a sibling in the same batch. Would close when the schema file is available."
         },
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
@@ -492,7 +486,11 @@
         "The SERP was measured in an ISOLATED Playwright browser, never the shared Chrome, and the returned page was self-authenticated (own query string, lang=id) before any position was recorded.",
         "No dialog, click, submission or captcha interaction occurred in any browser."
       ],
-      "honestAssessment": "An answer engine would cite this over the nine measured Google pages because it is the only one that checked. Every ranking result asserts that sih/dong/kok/nih/deh soften; this post opened all five entries and found KBBI supports that for one of them, contradicts it for two, and cannot be reached for two. That is a falsifiable claim with an entry reference behind it, and it is the opposite of what the SERP says. The pronoun spine — KBBI's own 'ragam akrab / ragam resmi' labels — is verified rather than asserted, and it is genuinely the lever English lacks, which is the one place where the orchestrator's framing held up under checking. The weakest part is the first-party data: all three facts are heavily collided and all three are shared with an English sibling, because the two Indonesian siblings had already taken every less-used line. Item 34 is failed for that, honestly. The SiELE study is thin support (n = 4, formal requests) and the body says so rather than leaning on it. The real uncertainty is Gate 4: Google says 8 of 9 weak and PROCEED, Bing says the national portals own this query, and I have no way to reconcile two indexes — I reported both rather than picking the one that suited the decision."
+      "honestAssessment": "An answer engine would cite this over the nine measured Google pages because it is the only one that checked. Every ranking result asserts that sih/dong/kok/nih/deh soften; this post opened all five entries and found KBBI supports that for one of them, contradicts it for two, and cannot be reached for two. That is a falsifiable claim with an entry reference behind it, and it is the opposite of what the SERP says. The pronoun spine — KBBI's own 'ragam akrab / ragam resmi' labels — is verified rather than asserted, and it is genuinely the lever English lacks, which is the one place where the orchestrator's framing held up under checking. The weakest part is the first-party data: all three facts are heavily collided and all three are shared with an English sibling, because the two Indonesian siblings had already taken every less-used line. Item 34 is failed for that, honestly. The SiELE study is thin support (n = 4, formal requests) and the body says so rather than leaning on it. The real uncertainty is Gate 4: Google says 8 of 9 weak and PROCEED, Bing says the national portals own this query, and I have no way to reconcile two indexes — I reported both rather than picking the one that suited the decision.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up.",
+        "Batch JSON validates against references/article-json-schema.md": "VERIFIED 2026-09-28 by the orchestrator. The earlier failure said the schema file could not be located — that was correct about the PATH and wrong about the FILE. references/article-json-schema.md does not resolve from the repo root; the file is real at .claude/skills/blog-optimisation/references/article-json-schema.md (11,679 bytes, 197 lines). Its own \"Validate before committing\" validator was extracted and run over all 52 posts in this batch: 52 PASS / 0 FAIL, covering kind, required article fields, metaTitle/metaDescription/excerpt lengths, faqs >= 8, no FAQ section inside contentMarkdown, structuredData as an array, the renderer's @id-merge rule (JsonLd.tsx:622-637) including the @id-matched enrichment block on <slug>#post, and the 1500-1800 word band."
+      }
     },
     "structuralLimitations": [
       "The task prompt asserts /blog/say-i-miss-you-without-saying-it is 'already live'. It is not. strapi-live-articles.json lists 905 live articles and none of the 54 slugs in the 2026-09-25 batch appears among them. The cross-link was dropped rather than shipping a 404; the post still differentiates from it in prose.",

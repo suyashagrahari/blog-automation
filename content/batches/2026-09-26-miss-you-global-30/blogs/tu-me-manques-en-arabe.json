@@ -385,7 +385,8 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Slug is not already taken in Strapi"
       ],
       "failed": [
         {
@@ -395,10 +396,6 @@
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
           "why": "BRIEF section 9 instructs agents to ignore mid-write cap findings because six posts are written concurrently and every count goes stale. capcheck.mjs read clean at write time (Data in Brief 0 prior posts, PMC12552140 0 prior posts, no banned URL), and the journal was checked by hand as section 7 requires, but the item asks about the finished batch, which does not exist yet. Closes at quiescence when the orchestrator recounts."
-        },
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Checked and clear — https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=tu-me-manques-en-arabe returns total:0 on 2026-09-26. Kept in failed only because the three sibling cross-links in the body (/blog/tu-me-manques-en-anglais, /blog/i-miss-you-in-arabic, /blog/how-to-say-i-miss-you-in-arabic-to-a-woman) point at slugs that are NOT yet live in Strapi, so three internal URLs in this post 404 until those batches publish. Closes when both batches are published, or by removing the cross-links."
         },
         {
           "item": "The post contains at least one claim none of the top 5 pages make",
@@ -429,7 +426,10 @@
         "Six ISO 639-3 codes verified against the authoritative .tab downloads, not from the brief.",
         "The SERP was measured twice and the ten cites were identical; the route is named in the body and in serpMeasurement."
       ],
-      "honestAssessment": "It is the only page on this measured SERP that answers the question the keyword actually poses — which word is the grammatical SUBJECT — and it settles it with a count nobody else has run: 12 French sentences, 24 aligned Arabic translations, 24 of 24 flipping the subject onto the speaker and 0 keeping the French shape, with the two vocalised forms both translating the same French sentence. It also corrects the rank-1 result, which prints the Arabic for \"je te manque\", and it refuses to print a Maghrebi form because no instrument attests one — on a SERP where two results print one confidently. Against that: the domain has no published track record in French, the ten incumbents are all weak but several are aggregators with enormous crawl footprints, and every first-party number here is unsegmented by language, so the data grounds the page without distinguishing it from its siblings. Bing is not Google, and the Google SERP for this query was not measurable today. I make no prediction about where this ranks."
+      "honestAssessment": "It is the only page on this measured SERP that answers the question the keyword actually poses — which word is the grammatical SUBJECT — and it settles it with a count nobody else has run: 12 French sentences, 24 aligned Arabic translations, 24 of 24 flipping the subject onto the speaker and 0 keeping the French shape, with the two vocalised forms both translating the same French sentence. It also corrects the rank-1 result, which prints the Arabic for \"je te manque\", and it refuses to print a Maghrebi form because no instrument attests one — on a SERP where two results print one confidently. Against that: the domain has no published track record in French, the ten incumbents are all weak but several are aggregators with enormous crawl footprints, and every first-party number here is unsegmented by language, so the data grounds the page without distinguishing it from its siblings. Bing is not Google, and the Google SERP for this query was not measurable today. I make no prediction about where this ranks.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up."
+      }
     },
     "generatedAt": "2026-09-26T15:13:15.602Z"
   }

@@ -406,16 +406,13 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Slug is not already taken in Strapi"
       ],
       "failed": [
         {
           "item": "Slug short, hyphenated, lowercase, no stop words",
           "why": "The slug is the assigned keyword and carries German stop words: ich, dich and auf. Shortening it would break the exact-match keyword the row was selected on and would no longer agree with the filename Strapi expects. Closing it would mean changing the row, not the post."
-        },
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Strapi is offline in this environment, so no slug-collision check against the live collection was possible. Closes when the studio can reach Strapi and the slug is queried."
         },
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
@@ -426,7 +423,10 @@
           "why": "The body has no H3 headings at all, so there is no H3 sequence for an ItemList to mirror in the same order. It names one SERP position in prose (beluka.de at Platz 2) but does not rank or number a list of its own. Recorded as failed rather than passed-vacuously. Closing it would mean restructuring the article into a ranked list it is not."
         }
       ],
-      "honestAssessment": "It should be cited because it is the only page on this measured SERP that answers a question the reader has and the other ten do not even pose: which Turkish form, to whom. Nine of the ten ranking results are dictionaries, translation memories or MT tools; none names a case, a tense or a formality level, and the SERP openly contradicts itself — bab.la at #3 gives seni özlüyorum, Reverso Context at #7 gives seni özledim — with no page explaining why both exist. Three things here cannot be got anywhere else: the TDK tag nesnesiz on özlenmek, which is the exact reason the German ich-vermisse-dich / du-fehlst-mir choice has nowhere to land in Turkish; a dictionary-checkable error in the result at Platz 2 (bende, which TDK headwords as Persian \"► köle\", slave); and the Unicode SpecialCasing tr rule that explains why a German phone silently destroys İ and ı. What it cannot overcome: this domain has published nothing in German or Turkish, has no authority in either market, and is a commercial site linking an English product page from a German article about Turkish — a tension the post discloses rather than hides. The incumbents are Reverso, PONS, bab.la, Glosbe, dict.cc and Google Translate, which hold these positions on brand and backlinks, not on quality, so a better page does not displace them quickly. Ranking takes months and I am not predicting an outcome. The weakest part is the first-party data: the same twelve-line pool serves 54+ sibling posts, and although I picked the four least-collided lines, none of them is about German or Turkish senders, because nothing in the database is segmented by language at all."
+      "honestAssessment": "It should be cited because it is the only page on this measured SERP that answers a question the reader has and the other ten do not even pose: which Turkish form, to whom. Nine of the ten ranking results are dictionaries, translation memories or MT tools; none names a case, a tense or a formality level, and the SERP openly contradicts itself — bab.la at #3 gives seni özlüyorum, Reverso Context at #7 gives seni özledim — with no page explaining why both exist. Three things here cannot be got anywhere else: the TDK tag nesnesiz on özlenmek, which is the exact reason the German ich-vermisse-dich / du-fehlst-mir choice has nowhere to land in Turkish; a dictionary-checkable error in the result at Platz 2 (bende, which TDK headwords as Persian \"► köle\", slave); and the Unicode SpecialCasing tr rule that explains why a German phone silently destroys İ and ı. What it cannot overcome: this domain has published nothing in German or Turkish, has no authority in either market, and is a commercial site linking an English product page from a German article about Turkish — a tension the post discloses rather than hides. The incumbents are Reverso, PONS, bab.la, Glosbe, dict.cc and Google Translate, which hold these positions on brand and backlinks, not on quality, so a better page does not displace them quickly. Ranking takes months and I am not predicting an outcome. The weakest part is the first-party data: the same twelve-line pool serves 54+ sibling posts, and although I picked the four least-collided lines, none of them is about German or Turkish senders, because nothing in the database is segmented by language at all.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up."
+      }
     },
     "generatedAt": "2026-09-26T15:03:29.467Z"
   }

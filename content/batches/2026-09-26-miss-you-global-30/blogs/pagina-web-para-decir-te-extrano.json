@@ -1,0 +1,377 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Página web para decir te extraño: cómo armarla, qué escribir y cómo enviarla",
+    "slug": "pagina-web-para-decir-te-extrano",
+    "excerpt": "Una página web para decir «te extraño» se arma en seis pasos. La mediana de texto en nuestras 214 páginas es de 88 palabras, el 43,5 % llevan contraseña, y hay tres decisiones que solo existen en español: tú o vos, extrañar o echar de menos, y la ñ que el enlace no admite.",
+    "metaTitle": "Página web para decir te extraño: 6 pasos y 88 palabras",
+    "metaDescription": "Una página web para decir te extraño se arma en 6 pasos: 88 palabras de mediana, 43,5 % con contraseña, y un enlace que no admite la ñ ni las tildes del nombre.",
+    "keywords": "página web para decir te extraño, pagina para decir te extraño, hacer una página de te extraño, enviar te extraño por internet, página personalizada te extraño",
+    "canonicalURL": "https://subhsandesh.in/blog/pagina-web-para-decir-te-extrano",
+    "ogType": "article",
+    "tags": [
+      "te extraño",
+      "página personalizada",
+      "larga distancia",
+      "español",
+      "voseo"
+    ],
+    "keyTakeaways": [
+      "Se arma en seis pasos, y el texto es más corto de lo que parece: la mediana en nuestras 214 páginas de «te extraño» es de 88 palabras, con un máximo de 1.024.",
+      "Es el segmento más privado que hemos medido: el 43,5 % de quienes la envían le ponen contraseña (93 de 214), contra 38,5 % en el resto de la plataforma.",
+      "El español obliga a una decisión que el inglés no tiene: la RAE marca «casi todo México» como zona de tuteo exclusivo, y el voseo como tratamiento familiar en gran parte de Centroamérica y el Río de la Plata.",
+      "El enlace no admite la ñ: según el RFC 3986 solo son «sin reservar» las letras US-ASCII, así que `te-extraño-mariana` viaja como `te-extra%C3%B1o-mariana`.",
+      "Pruébala en un teléfono: el 48,3 % de las páginas compartidas se abren en uno (27.725 de 57.456 vistas)."
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuántas fotos conviene subir a una página de «te extraño»?",
+        "answer": "De seis a doce alcanzan de sobra. Más allá de eso la página se vuelve un álbum y pierde el efecto de gesto único, y en un teléfono —donde se abre el 48,3 % de las páginas compartidas, 27.725 de 57.456 vistas— cada foto más es otro desplazamiento antes de llegar al texto."
+      },
+      {
+        "question": "¿Vale la pena grabar una nota de voz?",
+        "answer": "Es lo que menos hace la gente y por eso es lo que más distingue una página: solo el 13,6 % de quienes envían una página de «te extraño» graban una (29 de 214). Si dudas entre alargar la carta o grabar treinta segundos, graba."
+      },
+      {
+        "question": "¿Cuánto se tarda en armarla?",
+        "answer": "No medimos el tiempo de armado, pero sí la mediana entre el primer guardado y la última edición de una página de «te extraño»: 2,6 horas, con n = 214. Eso indica que casi nadie la termina de un tirón, sino que la deja y vuelve."
+      },
+      {
+        "question": "¿Hay que ponerle contraseña?",
+        "answer": "No es obligatorio, pero es lo que hace la mayoría relativa de este segmento: 43,5 % (93 de 214), frente al 38,5 % del resto de la plataforma. Tiene sentido si el enlace va a viajar por un chat que otras personas pueden ver por encima del hombro."
+      },
+      {
+        "question": "¿Y si la abre en una computadora en vez de en el teléfono?",
+        "answer": "Funciona, pero no es el caso que hay que probar primero. El 48,3 % de las vistas de páginas compartidas son en teléfono y el 48,4 % en algún dispositivo táctil, así que revisa en una pantalla chica antes de mandar el enlace."
+      },
+      {
+        "question": "¿Cuántas cartas de «ábrela cuando…» caben?",
+        "answer": "En nuestras páginas de «te extraño» el promedio es de 3,2 y el máximo observado es 6, y el 92,1 % llevan al menos una (197 de 214). Es el sitio donde conviene poner lo largo, en vez de estirar el texto principal por encima de las 88 palabras de la mediana."
+      },
+      {
+        "question": "¿Puedo escribir todo en español aunque la plantilla esté en inglés?",
+        "answer": "Sí. El texto que tú escribes —la carta, los recuerdos, las cartas de «ábrela cuando…»— sale tal cual, con tildes y ñ. Lo que sigue en inglés son las etiquetas, los botones y los textos de ayuda de la interfaz, y eso no se puede cambiar hoy."
+      },
+      {
+        "question": "¿Esta página sirve para un amigo o un familiar, o solo para una pareja?",
+        "answer": "La plantilla que enlazamos está construida para una pareja y su lenguaje lo refleja, así que para un amigo o un familiar se nota. Nuestra base de datos registra qué plantilla se abrió, nunca quién la recibió, de modo que no podemos decirte qué proporción de las 214 páginas fue para alguien que no era la pareja."
+      },
+      {
+        "question": "¿Cuántas veces se suele abrir una de estas páginas?",
+        "answer": "Hay 2.417 vistas registradas sobre 214 páginas, 11,3 por página de promedio, y la más abierta acumula 104. Ojo: son vistas, no visitantes, así que una misma persona que la reabre veinte veces cuenta veinte."
+      },
+      {
+        "question": "¿Conviene poner una cuenta regresiva si todavía no hay fecha de reencuentro?",
+        "answer": "Si no hay fecha, no. Solo el 28,0 % pone una (60 de 214), y una cuenta regresiva hacia una fecha inventada convierte la página en una promesa que no puedes cumplir. Deja el espacio para los recuerdos, que los lleva el 86,4 % (185 de 214)."
+      }
+    ],
+    "coverImageQuery": "mujer latina teléfono mensaje noche ventana",
+    "coverImagePrompt": "A warm, photorealistic close-up of a young Latin American woman at night, lit by the screen of her phone as she reads a shared page, a window with city lights blurred behind her. Shallow depth of field, soft amber and deep blue tones, clean negative space along the top third for a title overlay, 16:9. No readable on-screen text and no logos, except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Página web para decir te extraño: cómo armarla, qué escribir y cómo enviarla\n\nUna página web para decir «te extraño» es una sola página privada, con su propio enlace, que junta fotos, una carta corta, recuerdos escritos y a veces una nota de voz o una cuenta regresiva. Se arma en seis pasos y el orden sí importa.\n\nEn nuestra propia base de datos hay 214 páginas de ese tipo creadas en /missyou-gf desde el 28 de julio de 2026 —4,1 % de las 5.221 páginas repartidas en 44 colecciones— y el 43,5 % de quienes las envían les pone contraseña antes de compartirlas (93 de 214), contra 38,5 % en el resto de la plataforma: es el segmento más privado que hemos medido. Abajo está el orden de armado, cuánto texto poner, y las tres decisiones que el español obliga a tomar y que ninguna plantilla toma por ti.\n\n## Lo que devuelve hoy esta búsqueda, medido\n\nMedí la búsqueda el 28 de septiembre de 2026 en Google con `gl=mx&hl=es&pws=0&num=20`, en navegador real y sin personalización, y la corrí dos veces: los nueve resultados orgánicos salieron idénticos y en el mismo orden. Son Canva, CapCut, MonLivreSMS, Correo Mágico, Pensador, Joyogram, QuillBot, Adobe y Write Express.\n\nSeis de esos nueve no responden la pregunta: son listas de frases o páginas de promoción de una herramienta. En dos de ellos Google imprime «Falta(n): web», o sea que el propio buscador avisa de que la palabra clave no aparece en la página. Con `gl=es` el conjunto cambia casi entero —salen Dedica.me, Jolie Carte, TLANEX y Greetings Island— pero la forma es idéntica: galerías de tarjetas y ningún artículo que explique el armado.\n\n## Los seis pasos, en orden\n\n1. **Junta el material antes de abrir nada.** De seis a doce fotos y, si la vas a grabar, una nota de voz. Solo el 13,6 % de quienes mandan una de estas páginas graban una (29 de 214).\n2. **Elige la plantilla y ponle nombre a la página.** Ese nombre es lo que después aparece dentro del enlace; más abajo está por qué conviene escribirlo sin ñ y sin tildes.\n3. **Escribe la carta.** La mediana en nuestras 214 páginas es de 88 palabras y la más larga tiene 1.024.\n4. **Agrega los recuerdos.** El 86,4 % de las páginas llevan al menos un recuerdo escrito (185 de 214), con 4,5 de promedio y 12 como máximo.\n5. **Decide si va contraseña y si va fecha de reencuentro.** El 28,0 % pone una fecha para la cuenta regresiva (60 de 214).\n6. **Pruébala en un teléfono antes de mandarla.** El 48,3 % de las páginas compartidas se abren en un teléfono (27.725 de 57.456 vistas), así que esa es la pantalla que importa.\n\n## Cuánto escribir: 88 palabras, no una carta\n\nLa mediana de 88 palabras va en contra de lo que sugiere el formato. Una página parece pedir un texto largo; en la práctica, quien la arma escribe menos de lo que diría en un minuto de audio.\n\nLas páginas largas existen —hay una de 1.024 palabras— pero son la excepción, y el resto del contenido sostiene la página: el 92,1 % llevan al menos una carta de «ábrela cuando…» (197 de 214), con 3,2 de promedio y un máximo de 6. Si tienes mucho que decir, repártelo ahí en vez de alargar el texto principal.\n\n## Tú, vos o usted: la decisión que ninguna plantilla toma por ti\n\nAquí está la diferencia real entre armar esta página en inglés y armarla en español: el inglés tiene un solo «you», el español te obliga a elegir, y la elección viaja en cada verbo.\n\nConviene descartar primero **usted**. El [*Diccionario panhispánico de dudas* de la RAE](https://www.rae.es/dpd/usted) lo define como el tratamiento formal de la norma culta y dice que «implica cierto distanciamiento, cortesía y formalidad».\n\nAdemás es gramaticalmente un pronombre de tercera persona: «si funciona como sujeto, el verbo debe ir en tercera persona». Por eso, si pegas dentro de una página de usted una frase escrita para tú, el verbo queda roto.\n\nLa elección viva es **tú o vos**, y la RAE la marca por zonas. El apartado [«Extensión del voseo»](https://www.rae.es/dpd/voseo) del mismo diccionario dice que son zonas de tuteo exclusivo «casi todo México, las Antillas, la mayor parte del Perú y de Venezuela y la costa atlántica colombiana», mientras que en Chile, en gran parte de Centroamérica y en el Río de la Plata coexisten «el tuteo como tratamiento de formalidad intermedia y el voseo como tratamiento familiar». Léelo al revés: si tu destinatario es argentino, uruguayo o centroamericano, el tuteo no es neutro, es un grado más de distancia.\n\nNo es una sutileza invisible. Un [estudio de 2026 en el *International Journal of the Sociology of Language*](https://europepmc.org/article/PMC/PMC13358585), con una prueba de pares ocultos y 157 evaluadores (82 en Montevideo y 75 en Rocha), midió que la combinación de trato cambia de forma significativa cómo se percibe a quien habla —de dónde parece ser, y si suena «correcta» o «antipática»— y que el efecto es mayor cuando quien habla es mujer.\n\n## «Te extraño» o «te echo de menos» dentro de la página\n\nEs la segunda decisión regional y la más fácil: escribe la forma que usa tu destinatario, no la que usas tú. Si la persona está en España, *te echo de menos* suena a su casa; si está en México o en casi toda América, *te extraño*.\n\nQué dicen exactamente el DLE y el DPD sobre las dos, dónde se rompe el mapa regional y por qué *echo* nunca lleva hache está resuelto en otra página nuestra: [la diferencia entre «te extraño» y «te echo de menos»](https://subhsandesh.in/blog/diferencia-entre-te-extrano-y-te-echo-de-menos). Aquí solo importa la consecuencia práctica: elige una y úsala en toda la página, título incluido, porque mezclarlas en un texto de 88 palabras se nota.\n\n## El enlace no puede llevar la ñ\n\nEsto es técnico y no aparece en ninguno de los dieciocho resultados que medí en los dos mercados. Una dirección web no admite la ñ ni las vocales con tilde.\n\nLa norma que define las URL, el [RFC 3986](https://www.rfc-editor.org/rfc/rfc3986.txt), enumera en su apartado 2.3 los caracteres «sin reservar»: `ALPHA / DIGIT / \"-\" / \".\" / \"_\" / \"~\"`, donde ALPHA son las letras del alfabeto US-ASCII. Todo lo demás tiene que ir codificado con porcentajes.\n\nEn la práctica, la ñ se convierte en `%C3%B1`, la á en `%C3%A1` y el signo de apertura ¿ en `%C2%BF`. Si le pones a tu página el nombre `te-extraño-mariana`, el enlace real dice `te-extra%C3%B1o-mariana`: 18 caracteres se vuelven 23 y el nombre deja de leerse. Con una frase entera es peor: `¿Te acordás?` sale como `%C2%BFTe%20acord%C3%A1s%3F`.\n\nLa regla es corta: pon las tildes y la ñ donde quieras dentro de la página, y quítalas del nombre que va en el enlace. Esta misma página lo hace: su dirección dice `pagina-web-para-decir-te-extrano`, sin ñ.\n\n## Enviarla: qué viaja junto con el mensaje\n\nUn enlace privado no es un enlace secreto. Quien lo recibe puede reenviarlo, y en una aplicación de mensajería suele mostrarse como una tarjeta de vista previa con el título de la página: ese título es lo primero que se ve en la lista de chats, antes de abrir nada. Si la sorpresa depende del nombre, ponle uno neutro.\n\nHay algo más que se pasa por alto. En un [estudio publicado en *JMIR Formative Research* en 2021](https://europepmc.org/article/PMC/PMC8587330), que reunió en un grupo de WhatsApp a mujeres hispanohablantes de origen mexicano, los investigadores tuvieron que advertirles de que el resto del grupo vería «sus números de teléfono, fotos de perfil y mensajes de estado públicos». El grupo era de cinco personas, así que no mide nada por sí mismo; sirve como recordatorio de que en mensajería el número va pegado al mensaje, cosa que no pasa con un correo.\n\nDe ahí que la contraseña sea lo más elegido de este segmento: 43,5 % frente al 38,5 % del resto de la plataforma. Lo que no pude comprobar con ninguna fuente que se abriera desde aquí es qué proporción de estos envíos ocurre por mensajería en México o en España frente a Estados Unidos, así que no lo afirmo.\n\n## Las cinco formas comparadas\n\n| Forma | Qué conserva | Qué se pierde | Dato medido, n=214 |\n|---|---|---|---|\n| Mensaje de texto | Inmediatez | Fotos, voz, permanencia | — |\n| Nota de voz | La voz y el tono | Se relee mal | 13,6 % de las páginas llevan una (29 de 214) |\n| Carta en papel | El objeto físico | Días de espera | Mediana de 88 palabras en pantalla |\n| Tarjeta de una galería | Rapidez | Casi nada propio | — |\n| Página privada con enlace | Fotos, carta, recuerdos, contraseña | Hay que armarla | 86,4 % llevan un recuerdo escrito (185 de 214) |\n\nUna sola columna es nuestra; los guiones marcan lo que no medimos.\n\n## La plantilla está en inglés, y a veces no es para ti\n\nConviene decirlo antes de que hagas clic: la [página «te extraño»](https://subhsandesh.in/missyou-gf) que enlazamos está en inglés. Las etiquetas, los botones y los textos de ayuda están en inglés.\n\nLo que tú escribes —la carta, los recuerdos, las cartas de «ábrela cuando…»— sale tal cual, con tildes y ñ incluidas; lo que no vas a poder cambiar es el mobiliario de la interfaz. No es una traducción pendiente, es como está hoy, y tampoco afirmo nada sobre las condiciones de acceso, porque no están documentadas en los datos que uso aquí: eso se mira en [el listado de plantillas](https://subhsandesh.in/templates).\n\nY hay un caso en que esta página es la elección equivocada. Si lo que quieres no es un gesto único sino no perder el hilo día tras día, [Streak](https://subhsandesh.in/streak) sirve mejor: dos personas, un toque al día, y a los cien días queda un diario que ninguno se propuso escribir. Una página de «te extraño» se abre, se llora y se archiva; esa otra no.\n\n## Qué miden nuestros números y qué no\n\nTodo lo anterior sale de una base de datos que registra qué plantilla se abrió, nunca quién la recibió, y que **no está segmentada por idioma ni por país**. Ninguna de estas cifras es mexicana, española ni argentina.\n\nSon 214 páginas desde el 28 de julio de 2026, dos meses de datos, así que no sostienen ninguna afirmación estacional. Las vistas —2.417 en total, 11,3 por página— son vistas y no visitantes: quien reabre veinte veces cuenta veinte. Y la ciudad, la música de fondo y el «juntos desde» son selectores con valor por defecto, así que su nivel de uso no es una elección de quien envía y aquí no se presenta como tal.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/pagina-web-para-decir-te-extrano#post",
+        "inLanguage": "es",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Idioma español",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Spanish_language",
+              "https://www.wikidata.org/wiki/Q1321"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Voseo",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Voseo",
+              "https://www.wikidata.org/wiki/Q1070730"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Español mexicano",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mexican_Spanish",
+              "https://www.wikidata.org/wiki/Q616620"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Codificación por porcentajes en URL",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Percent-encoding",
+              "https://www.wikidata.org/wiki/Q1046948"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Diccionario panhispánico de dudas, 2.ª edición — entrada «voseo», §2.3 Extensión del voseo",
+            "url": "https://www.rae.es/dpd/voseo",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Diccionario panhispánico de dudas, 2.ª edición — entrada «usted»",
+            "url": "https://www.rae.es/dpd/usted",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Real Academia Española y Asociación de Academias de la Lengua Española"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Competing patterns of prestige in Latin American Spanish: implicit attitudes towards informal address in two Uruguayan cities",
+            "url": "https://europepmc.org/article/PMC/PMC13358585",
+            "datePublished": "2026-02-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of the Sociology of Language"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "WhatsApp-Based Focus Groups Among Mexican-Origin Women in Zika Risk Area: Feasibility, Acceptability, and Data Quality",
+            "url": "https://europepmc.org/article/PMC/PMC8587330",
+            "datePublished": "2021-10-28",
+            "publisher": {
+              "@type": "Organization",
+              "name": "JMIR Formative Research"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "RFC 3986 — Uniform Resource Identifier (URI): Generic Syntax, §2.3 Unreserved Characters",
+            "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+            "datePublished": "2005-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Internet Engineering Task Force (IETF)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Los seis pasos para armar una página web para decir «te extraño»",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Junta el material antes de abrir nada: de seis a doce fotos y, si la vas a grabar, una nota de voz"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Elige la plantilla y ponle nombre a la página, sin ñ y sin tildes"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Escribe la carta: la mediana es de 88 palabras"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Agrega los recuerdos escritos"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Decide si va contraseña y si va fecha de reencuentro"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Pruébala en un teléfono antes de mandarla"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "página web para decir te extraño",
+    "angle": "Wins by being the only result on either measured Spanish SERP that treats the page as a Spanish artefact rather than a template gallery — the RAE's own «voseo» §2.3 geography decides tú or vos, the sibling post decides extrañar or echar de menos, and RFC 3986 §2.3 decides that the ñ cannot travel in the link — carried on first-party numbers no incumbent has: a median of 88 words of text and a 43,5 % password rate across n = 214.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "Median gap between a miss-you page's first save and its last edit: 2.6 hours, n=214 — measured 2026-09-25",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rae.es/dpd/voseo",
+        "stat": "DPD, «voseo» §2.3 Extensión del voseo: zones of exclusive tuteo are «casi todo México, las Antillas, la mayor parte del Perú y de Venezuela y la costa atlántica colombiana», while in Chile, most of Central America and the Río de la Plata «coexisten el tuteo como tratamiento de formalidad intermedia y el voseo como tratamiento familiar». §2: American voseo «implica acercamiento y familiaridad». Headword confirmed on the fetched page. Journal/publisher: Real Academia Española — ASALE (reference instrument, cap-exempt).",
+        "publishedDate": "2023-01-01"
+      },
+      {
+        "url": "https://www.rae.es/dpd/usted",
+        "stat": "DPD, «usted» §2: grammatically a third-person pronoun, «si funciona como sujeto, el verbo debe ir en tercera persona»; §4: usted is the formal treatment and «implica cierto distanciamiento, cortesía y formalidad». Headword confirmed on the fetched page. Publisher: Real Academia Española — ASALE (reference instrument, cap-exempt).",
+        "publishedDate": "2023-01-01"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13358585",
+        "stat": "Matched-guise study of address-form attitudes in Uruguayan Spanish, raters N = 82 (Montevideo) + N = 75 (Rocha): address variants significantly changed perceived regional origin and social evaluation («correcta», «antipática»), with larger effects for the female guise. Read in FULL via the Europe PMC fullTextXML endpoint (199,582 bytes). JOURNAL: International Journal of the Sociology of Language (peer-reviewed, open access CC BY 4.0). Not present in this batch's journal census.",
+        "publishedDate": "2026-02-20"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC8587330",
+        "stat": "WhatsApp focus group with Spanish-speaking Mexican-origin women: participants had to be warned that other group members «would be able to see their phone numbers, profile pictures, and public status messages», and the study shipped an appendix on creating an anonymous WhatsApp number. n = 5 — disclosed in body prose. Read in FULL via fullTextXML (96,121 bytes). JOURNAL: JMIR Formative Research (peer-reviewed, open access). Not present in this batch's journal census.",
+        "publishedDate": "2021-10-28"
+      },
+      {
+        "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+        "stat": "RFC 3986 §2.3 Unreserved Characters: «unreserved = ALPHA / DIGIT / \"-\" / \".\" / \"_\" / \"~\"», where ALPHA is US-ASCII, so ñ and the accented vowels must be percent-encoded. Percent-encodings printed in the post were computed locally from that rule: ñ → %C3%B1, á → %C3%A1, ¿ → %C2%BF; `te-extraño-mariana` → `te-extra%C3%B1o-mariana`, 18 characters becoming 23. Publisher: IETF. First use of rfc-editor.org in this batch.",
+        "publishedDate": "2005-01-01"
+      }
+    ],
+    "serpMeasurement": {
+      "measuredOn": "2026-09-28",
+      "routesTried": [
+        "serp-ddg.mjs \"página web para decir te extraño\" --region mx-es — ran ONCE, query echoed back correctly (so not the argument-order trap), returned \"(no results parsed)\" = IP-level block. Not retried, per BRIEF §3.",
+        "Google, REAL BROWSER, gl=mx&hl=es&pws=0&num=20 — WORKED. Run twice, identical hosts in identical order. Footer read «Los resultados no están personalizados» / «México».",
+        "Google, REAL BROWSER, gl=es&hl=es&pws=0&num=20 — WORKED. Different incumbent set, same page type.",
+        "Harness WebSearch — DELIBERATELY NOT USED. It is us-en only and is not a valid route for an es-MX measurement; stated rather than silently substituted."
+      ],
+      "selfAuthentication": "Every scrape checked for markers that MUST be present (extraño, te echo de menos, «Resultados web», «Falta(n)») and markers that MUST be absent (vermisse, özledim, kana, Tamil block). All three passed; no contaminated page was recorded. A correct page title in the navigate response was NOT treated as authentication.",
+      "mxResults": [
+        "1 canva.com — Crea tarjetas de Te extraño online … — template gallery",
+        "2 capcut.com — Formas emotivas de decir 'Te extraño' — tool content marketing — WEAK (off-intent)",
+        "3 monlivresms.com — Mensajes de amor a larga distancia — listicle — WEAK, Google prints «Falta(n): web»",
+        "4 correomagico.com — Ideas geniales para decir Te extraño — e-card sender",
+        "5 pensador.com — 102 frases de extrañar a alguien — quote aggregator — WEAK",
+        "6 joyogram.com — Tarjeta Te extraño en línea para prometidos — card builder",
+        "7 quillbot.com — Frases para decir te echo de menos — grammar-tool blog — WEAK",
+        "8 adobe.com — Frases de «Te extraño» … — quote page, labelled by Google «Traducido por Google · Ver original (English)» — WEAK",
+        "9 writeexpress.com — Realmente te extraño — English sample-letter site — WEAK, Google prints «Falta(n): web»"
+      ],
+      "esResults": [
+        "correomagico.com · canva.com · capcut.com · joyogram.com · dedica.me · joliecarte.com · tlanex.com · greetingsisland.com · joliecarte.com (2nd URL) — nine product/gallery pages, zero editorial guides"
+      ],
+      "weakCount": "6 of the 9 mx results I actually saw. An AI Overview and an AI Mode answer sit above them, both answering with Correo Mágico / Canva / Joyogram.",
+      "gate4": "PROCEED, not abort. The abort condition handed to me was «owned by established page-builder brands with no gap». Established brands: partly true. No gap: FALSE — six of nine mx results are quote listicles or off-intent tool marketing, two of which Google itself flags as missing the query term «web», and the three genuinely product-shaped results are galleries rather than guides. Across BOTH markets, eighteen results, not one addresses tú/vos/usted, extrañar vs echar de menos in the page's own copy, or what an accented page name does to the URL."
+    },
+    "structuralLimitations": [
+      "CLAIM IN MY PROMPT I COULD NOT VERIFY, AND THEREFORE DID NOT ASSERT: «WhatsApp's dominance as the send channel in Mexico and Spain versus SMS/iMessage in the US». INEGI's ENDUTIH 2024 press bulletin (inegi.org.mx/contenidos/saladeprensa/boletines/2025/ENDUTIH/ENDUTIH_24.pdf) timed out at 25 s and again at 45 s from this host; the INE Spain operation page did not return either; Crossref and Europe PMC returned no paper carrying a Mexico-or-Spain-versus-US messaging-channel share. NO channel market-share figure appears anywhere in the post, and the body says in Spanish that I could not confirm it. Would close with a reachable ENDUTIH or Eurostat table.",
+      "CLAIM IN MY PROMPT THE SOURCES OVERTURN: the prompt framed the register question as «the tú/usted … register choice in a message meant to be intimate». The RAE's own entries say that is the wrong axis. DPD «usted» §4 places usted in the formal treatment, implying «cierto distanciamiento», so it is not a live option for a page written to a partner. The choice that actually varies, and that the RAE marks geographically, is tú vs vos (DPD «voseo» §2.3). The post is built on the corrected axis and says so.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN BY CONSTRUCTION. Per BRIEF §13, all 12 first-party fact lines are already collided 14–25 times across the siblings; there is no least-collided pair left. This post cannot differentiate on the numbers, only on what it does with them — here, using the 88-word median as a WRITING INSTRUCTION and the 43,5 % password rate as a SENDING instruction rather than as decoration.",
+      "THE DATABASE RECORDS WHICH TEMPLATE WAS OPENED, NEVER WHO RECEIVED IT, and nothing in it is segmented by language or country. No figure in this post is Mexican, Spanish or Argentine. Disclosed in body prose in the closing section, not only here.",
+      "n = 214 over two months (template live 2026-07-28), so no seasonal claim survives it; viewCount is page views, not unique visitors; and city, background music and «together since» are pickers with defaults, so their fill rates are not sender choices. All three disclosed in body prose.",
+      "THE ORDER OF THE TWO GOOGLE RUNS: the mx SERP was measured twice with identical output; the es SERP was measured once. Ranks 10+ were not read on either, so the weak count is stated as «6 of the 9 I actually saw» rather than out of 10.",
+      "TOOLING DEFECT OBSERVED: rae.es returns HTTP 403 to a scripted user agent AND to ctx_fetch_and_index; both RAE entries had to be read through the real browser. The headword was read on each page before citing, per BRIEF §4."
+    ],
+    "additionalChecks": [
+      "pricecheck-intl.mjs run on the finished file — result recorded in the run log. No price, cost, subscription, plan, tier or currency word appears in any language; the one section that touches the subject says only that the access conditions are not documented in the data used here and points at /templates.",
+      "Slug checked live against production Strapi: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=pagina-web-para-decir-te-extrano returned HTTP 200 with total = 0. Strapi production is UP; no false «Strapi offline» failure recorded.",
+      "capcheck.mjs and journalcheck.mjs both run immediately before writing. journalcheck confirms IJERPH has moved to AT CAP (3 posts) since the figure in my prompt; neither journal cited here (International Journal of the Sociology of Language, JMIR Formative Research) appears in the census at any count.",
+      "Banned articles avoided: PMC13552847, PMC11878271, JESLA jesla.127, Linguistik Online 1777, and the spent list PMC11977004 / PMC13481806 / PMC4891949 / PMC12714898 / PMC13550703 / PMC13337705 / PMC12599338 / PMC8144866.",
+      "Both scholarly sources were read in FULL via the Europe PMC fullTextXML endpoint, not from abstracts. No abstract-only citation exists in this post.",
+      "Every Wikidata QID in about/mentions was resolved live through the Wikipedia API (Q1321, Q1070730, Q616620, Q1046948, Q1049511); none was a redirect or a missing page. No Wikipedia link appears in the body.",
+      "The four LIVE English siblings named in the row prompt were read in full (how-to-make-an-i-miss-you-website, website-to-tell-someone-you-miss-them, i-miss-you-page-maker-for-her, send-i-miss-you-card-online). None is translated here: all four are gallery-agnostic build guides that never face a second-person choice, a regional verb choice or a non-ASCII URL, because English has none of them.",
+      "batch.json deliberately NOT touched, per the row instruction."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug carries the Spanish function words «para» and «de» because it is the exact assigned keyword, deaccented. Stripping them would break the query match this row exists to serve, and the row's slug was fixed before drafting. Would close only if the row were re-scoped to a shorter keyword."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Three of the four internal links (/missyou-gf, /templates, /streak) are verbatim TEMPLATE_LINKS entries. The fourth points at the live sibling post /blog/diferencia-entre-te-extrano-y-te-echo-de-menos, which BRIEF §1 requires as a cross-link and which is not in TEMPLATE_LINKS. Verified live (HTTP 200) rather than invented. Would close only if TEMPLATE_LINKS grew a blog-cross-link class."
+        },
+        {
+          "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+          "why": "The ItemList is present and mirrors the six numbered build steps in body order, but the body has no H3s at all — the steps are an ordered list under one H2 — so the item's literal 'mirroring the H3s' condition cannot be met as written. Would close if the six steps were promoted to H3s, which would cost roughly 40 words the 1,500–1,800 band has no room for."
+        }
+      ],
+      "honestAssessment": "The strongest thing this post has is that it is the only page on either measured SERP that treats the artefact as Spanish rather than as a card template: eighteen results across mx and es, and not one decides tú vs vos, extrañar vs echar de menos in the page's own copy, or what the ñ does to the link. Those three sections are grounded on instruments a competitor could check — DPD «voseo» §2.3, DPD «usted» §2/§4, RFC 3986 §2.3 — and one of them (the RAE's tuteo/voseo geography read as a writing instruction) is not, as far as I can see, stated anywhere on this SERP. The first-party numbers are NOT a differentiator any more: BRIEF §13 records all 12 lines as collided 14–25 times across the siblings, so the 88-word median and the 43,5 % password rate earn their place only because this post uses them as instructions rather than as ornament. Against that: the incumbents are Canva, Adobe, CapCut and Greetings Island, and this domain has no authority in Spanish and is publishing into es-MX for the first time this month; expect months, and expect the AI Overview — which already answers this query with Correo Mágico, Canva and Joyogram — to be the harder surface to displace than rank 10. The honest weakness is that I could not source the channel-share claim my own brief handed me, so the sending section is thinner than it should be."
+    },
+    "generatedAt": "2026-09-28T10:52:53.716Z"
+  }
+}

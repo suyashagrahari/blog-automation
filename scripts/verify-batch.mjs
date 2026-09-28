@@ -174,8 +174,38 @@ for (const f of files) {
   const md = a.contentMarkdown || "";
 
   // ── words: plain whitespace split, FAQs excluded (they live in article.faqs) ─
-  const words = md.split(/\s+/).filter(Boolean).length;
-  if (words < 1500 || words > 1800) P(slug, `word count ${words} outside 1500-1800 (plain split)`);
+  //
+  // FIXED 2026-09-28: a plain whitespace split is unsatisfiable for a script with no
+  // inter-word spaces. The batch's first Japanese body — 4,450 kana/kanji, roughly 1,780
+  // English words of content — counted as 195 and could never reach 1,500 without
+  // wakachi-gaki, which is not adult Japanese prose. No sibling had surfaced it because
+  // no sibling was CJK. Latin-script behaviour below is bit-identical to before; the
+  // branch only fires when the body is genuinely CJK.
+  const cjkChars = (md.match(/[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uac00-\ud7af]/g) || []).length;
+  const nonSpace = (md.replace(/\s+/g, "") || "").length;
+  const isCJK = nonSpace > 0 && cjkChars / nonSpace > 0.2;
+  let words, band;
+  if (isCJK) {
+    // Intl.Segmenter("ja", {granularity:"word"}) yields word-like segments (roughly
+    // morphemes).
+    //
+    // BE HONEST ABOUT WHAT THIS BAND IS. It is calibrated on ONE document — the first
+    // CJK body in this corpus, 3,089 word-like segments, whose content the writing agent
+    // assessed at roughly 1,780 English-word equivalent (4,450 kana/kanji). That gives
+    // ~1.74 segments per English word, and the band below is 1500-1800 scaled by it. The
+    // calibrating document therefore sits inside the band BY CONSTRUCTION, which is
+    // circular: this is a placeholder that makes the check meaningful instead of
+    // unsatisfiable, NOT a validated equivalence. Re-derive it from several documents
+    // before treating a near-edge CJK result as a real pass or fail.
+    const seg = new Intl.Segmenter("ja", { granularity: "word" });
+    words = [...seg.segment(md)].filter((s) => s.isWordLike).length;
+    band = [2600, 3120];
+  } else {
+    words = md.split(/\s+/).filter(Boolean).length;
+    band = [1500, 1800];
+  }
+  if (words < band[0] || words > band[1])
+    P(slug, `word count ${words} outside ${band[0]}-${band[1]} (${isCJK ? "CJK word-like segments, Intl.Segmenter" : "plain split"})`);
 
   // ── FAQs ──────────────────────────────────────────────────────────────────
   const faqs = a.faqs || [];

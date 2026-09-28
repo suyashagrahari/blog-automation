@@ -10,18 +10,37 @@
 // this batch no matter what was in it. Caught by the i-miss-you-in-spanish agent.
 // Counts POSTS per domain / per URL — NOT occurrences.
 import fs from "node:fs";
+import path from "node:path";
+// FIXED 2026-09-28: every path below was relative to the REPO ROOT, so running this
+// script from inside the batch directory — which several row prompts told agents to do —
+// crashed with ENOENT instead of reporting caps. Paths now resolve from the script's own
+// location, so it works from any cwd.
+const HERE_DIR = path.dirname(new URL(import.meta.url).pathname);
+const ROOT = path.resolve(HERE_DIR, "..", "..", "..");
+const R = (p) => path.join(ROOT, p);
 const PRIOR = ["2026-08-12-miss-you-ldr", "2026-09-25-miss-you-30"]
-  .map((d) => `content/batches/${d}/blogs`);
-const HERE = "content/batches/2026-09-26-miss-you-global-30/blogs";
+  .map((d) => R(`content/batches/${d}/blogs`));
+const HERE = R("content/batches/2026-09-26-miss-you-global-30/blogs");
 // Primary-reference sources are EXEMPT from the cross-wave ban (BRIEF, 2026-09-24):
 // statutes, dictionaries, grammars, treebanks, corpora and standards documents have
 // exactly one correct citation, so reusing them across waves is not content-farming.
 // Single source of truth: the batch's own verify.config.json, so the checker and the
 // verifier can never disagree about what is exempt.
-const CFG = JSON.parse(fs.readFileSync("content/batches/2026-09-26-miss-you-global-30/verify.config.json", "utf8"));
+const CFG = JSON.parse(fs.readFileSync(R("content/batches/2026-09-26-miss-you-global-30/verify.config.json"), "utf8"));
 const EXEMPT_LIST = new Set([...(CFG.capExemptDomains || []), "dsal.uchicago.edu", "universaldependencies.org", "tatoeba.org", "unicode.org", "en.wiktionary.org"]);
 const EXEMPT = { test: (h) => EXEMPT_LIST.has(String(h).replace(/^www\./, "")) };
-const isExempt = (u) => { try { return EXEMPT.test(new URL(u).hostname); } catch { return false; } };
+
+// FIXED 2026-09-28: web.archive.org is a WRAPPER, not a publisher — the same class of
+// defect as doi.org being a resolver, which the note further down already calls out. A
+// snapshot of sjp.pwn.pl is a citation OF sjp.pwn.pl, so both the cap and the exemption
+// belong to the ARCHIVED host. Counting the archive host instead put web.archive.org on
+// the cap list at 2 posts while hiding a dictionary (sjp.pwn.pl, reached through the
+// archive because it answers 403 here) that should never have been capped at all.
+const unwrap = (u) => {
+  const m = String(u).match(/^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.+)$/);
+  return m ? m[1] : String(u);
+};
+const isExempt = (u) => { try { return EXEMPT.test(new URL(unwrap(u)).hostname); } catch { return false; } };
 
 // FIXED 2026-09-25 (caught by the miss-na-miss-kita-meaning agent): the checker
 // treated europepmc.org and pmc.ncbi.nlm.nih.gov as two domains, while BRIEF §4
@@ -42,15 +61,15 @@ const banned = new Map();
 for (const p of PRIOR) { if (!fs.existsSync(p)) continue;
   for (const f of fs.readdirSync(p))
     for (const s of (JSON.parse(fs.readFileSync(`${p}/${f}`, "utf8")).batchMeta?.sources || []))
-      { if (!isExempt(s.url)) banned.set(s.url, p.split("/")[2]); } }
+      { if (!isExempt(s.url)) banned.set(unwrap(s.url), path.basename(path.dirname(p))); } }
 const dom = {}, url = {};
 if (fs.existsSync(HERE)) for (const f of fs.readdirSync(HERE)) {
   const j = JSON.parse(fs.readFileSync(`${HERE}/${f}`, "utf8"));
   const seen = new Set();
   for (const s of (j.batchMeta?.sources || [])) {
     if (isExempt(s.url)) continue;   // reference instruments are not publishers
-    seen.add(canon(new URL(s.url).hostname));
-    (url[s.url] ||= new Set()).add(f); }
+    seen.add(canon(new URL(unwrap(s.url)).hostname));
+    (url[unwrap(s.url)] ||= new Set()).add(f); }
   for (const d of seen) (dom[d] ||= new Set()).add(f); }
 console.log(`BANNED — spent in waves 1-3, never reuse (${banned.size} URLs).`);
 console.log("Statutes, dictionaries, treebanks, corpora and standards are EXEMPT and excluded from this list — reuse them freely and note it in structuralLimitations.");
