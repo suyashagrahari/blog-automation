@@ -695,3 +695,28 @@ brief told rows that "any sibling you cross-link is a real published URL" — th
 only of the originally published 52. **Deploy consequence: the wave-4 and wave-5 posts
 must be published together with, or before, anything that links to them, or those links
 404.**
+
+
+## 18. Browser contention: ROOT CAUSE FOUND
+
+Sections 11-17 document five contention instances and repeatedly note that "a distinct
+`session` name does NOT isolate". The reason, from `browser_session_list` on 2026-09-28:
+
+**Every named session resolves to the SAME tab.** Ninety-odd sessions were listed; every
+one created during this run reported `tabId: 1052052403` and the identical url
+(`search.brave.com/search?q=missing+you...`). A PolterTab `session` is a label, not a
+browser context. Concurrent agents passing different `session` names were all driving one
+tab, so whoever navigated last won and everyone else read that page.
+
+This explains every symptom recorded earlier and retires the guesswork:
+- why the corruption appears in the navigate response itself as often as on the next read;
+- why it hits non-SERP pages identically;
+- why the foreign content was once in the same language on the same site — it was simply
+  whatever another agent had loaded a moment earlier;
+- why `session` never helped.
+
+**Operational consequence: the browser is a single shared resource. Do not run two agents
+that need it at the same time.** If a batch must use the real browser, serialise those
+rows, or accept that every read requires the §16 authentication and a retry. The §16
+checks stay mandatory — they caught all five instances — but they are mitigation, not
+isolation, and there is no isolation available.
