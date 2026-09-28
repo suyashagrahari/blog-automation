@@ -307,16 +307,13 @@
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "Slug is not already taken in Strapi"
       ],
       "failed": [
         {
           "item": "At least one table column uses first-party data",
           "why": "The comparison table's five rows are the French formulas, and our database records which TEMPLATE was opened, never the text of the message, so no first-party number exists per phrase. A column of first-party values would have to be invented or an unrelated figure pinned to an arbitrary row; both are fabrication. First-party data therefore lives in its own H2 instead. This closes only if the product ever stores message text, which it does not."
-        },
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Checked once against https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=comment-dire-tu-me-manques-autrement on 2026-09-26 and the result was empty (total 0), so the slug was free at write time. It cannot be re-asserted at publish time from inside this row, and five other agents are writing concurrently. Re-check before publishing."
         },
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
@@ -327,7 +324,10 @@
           "why": "The body ranks nothing and numbers nothing — there are no H3s and no ordered list of recommendations, only five parallel formulas compared in a table. An ItemList would have to impose an order the text does not assert."
         }
       ],
-      "honestAssessment": "It is the only page on this SERP that quotes the dictionary entries instead of listing phrases: the Larousse gloss of penser contains no word for absence, which is what actually proves that « je pense à toi » is not a paraphrase of « tu me manques », and nobody ranking — including Google's own AI Overview, which explicitly calls it an « expression proche » — says so. The Tatoeba counts are reported with their survivor rates (6 real uses of 18 raw hits for « vivement que »), which is the kind of number an answer engine can lift and a competitor cannot fake. The post then argues against its own keyword, recommending « il me tarde de te revoir » as the single honest addition and otherwise keeping « tu me manques ». Against that: the domain publishes in French for the first time with zero French track record across 905 live posts, the mandatory product link is an English page written for a girlfriend, and the incumbent at rank 1 is a well-established FLE brand. Expect citation before ranking, if either."
+      "honestAssessment": "It is the only page on this SERP that quotes the dictionary entries instead of listing phrases: the Larousse gloss of penser contains no word for absence, which is what actually proves that « je pense à toi » is not a paraphrase of « tu me manques », and nobody ranking — including Google's own AI Overview, which explicitly calls it an « expression proche » — says so. The Tatoeba counts are reported with their survivor rates (6 real uses of 18 raw hits for « vivement que »), which is the kind of number an answer engine can lift and a competitor cannot fake. The post then argues against its own keyword, recommending « il me tarde de te revoir » as the single honest addition and otherwise keeping « tu me manques ». Against that: the domain publishes in French for the first time with zero French track record across 905 live posts, the mandatory product link is an English page written for a girlfriend, and the incumbent at rank 1 is a well-established FLE brand. Expect citation before ranking, if either.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up."
+      }
     },
     "generatedAt": "2026-09-26T15:28:00.860153Z"
   }

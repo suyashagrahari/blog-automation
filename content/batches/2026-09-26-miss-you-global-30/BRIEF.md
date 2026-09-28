@@ -386,14 +386,36 @@ Search the phenomenon, not the keyword: `long distance relationship maintenance`
 either of these, because one is a journal name and one is reached through a cap-exempt
 host. Do not cite, whatever your search returns:**
 
-- **journal *Frontiers in Psychology* — ALREADY OVER at 5 posts** (cap is 3). It is
-  reached via `europepmc.org`/`pmc.ncbi.nlm.nih.gov`, which are exempt HOSTS, so the
-  checker reports clean while the journal cap is breached. If a search hands you a
-  Frontiers in Psychology paper, **it is unusable in this batch** — take the second-best
-  source and say in your report that you did.
-- **PMC13552847 (PNAS, affect labeling in the dominant native language) — ALREADY OVER at
-  3 posts** (URL cap is 2). Also: ***PNAS* the journal is now AT 3**, so no PNAS paper at
-  all.
+**CORRECTED 2026-09-28 — the two bans below were wrong and are withdrawn.** The counts
+that produced them came from grepping journal names out of post prose, which over-counts,
+because agents name journals in running text including inside negations ("NOT Frontiers in
+Psychology"). That is the exact failure mode this brief warns about elsewhere, and I then
+committed it here. Re-measured by resolving every PMCID against Europe PMC metadata
+(`journalcheck.mjs`, the only trustworthy method):
+
+- ***Frontiers in Psychology* is at 2 posts, NOT 5** — `seni-ozledim-ingilizce-nasil-yazilir`
+  and `tu-me-manques-en-anglais`. **One slot remains; it is usable.** The old text told
+  every row it was unusable and cost them their best source for nothing.
+- ***PNAS* is at 2 posts, NOT 3** — `diferencia-entre-te-extrano-y-te-echo-de-menos` and
+  `kangen-kamu-bahasa-inggris`. **One slot remains.**
+- **PMC13552847 (PNAS, affect labeling in the dominant native language) is in 2 posts, not
+  3.** Two IS the URL cap, so the operative instruction is unchanged: **do not cite that
+  article again.** Same for PMC11878271 (`diferencia-entre-te-extrano-y-te-echo-de-menos`
+  and `ik-mis-je-in-het-frans`).
+
+Run `node content/batches/2026-09-26-miss-you-global-30/journalcheck.mjs` for the live
+state rather than trusting any figure written here — it resolves PMCIDs via Europe PMC and
+DOIs via Crossref, and prints a residue list of journal-host URLs carrying neither, which
+it tells you to count by hand because it cannot.
+
+**Two journals that ARE at their limit, and one distinction I had wrong.** `euroslajournal.org`
+(JESLA) and `bop.unibe.ch` (*Linguistik Online*) are **two different journals**; I had been
+treating them as one. What is actually capped is an ARTICLE in each:
+- JESLA article `jesla.127` — cited by `ich-vermisse-dich-auch` and `ya-tozhe-skuchayu-po-tebe`
+  through two different URLs. Same article, so it is at the URL cap of 2: **do not cite that
+  article again.** A *different* JESLA article is still allowed (the journal is at 2 of 3).
+- *Linguistik Online* article `1777` — cited by `i-miss-you-too-in-italian` and
+  `tu-me-manques-aussi`. **Do not cite that article again.** A different one is allowed.
 - Also spent, check before citing: PMC11977004, PMC13481806, PMC4891949, PMC12714898,
   PMC13550703, PMC13337705, PMC12599338, PMC8144866.
 
@@ -446,3 +468,86 @@ legitimate source from a finished post. Ignore the batch-wide `batch.json` line.
 
 The scratchpad is **shared**. Name every temporary file `<your-slug>-<purpose>.md`.
 Three agents once wrote `body.md` simultaneously and overwrote each other mid-draft.
+
+## 11. Corrections entered 2026-09-28 (wave 4)
+
+These four were each wrong in a previous version of this brief or in my prompts. They are
+listed as corrections, not as new rules, so nobody re-derives them.
+
+**The schema file is real; the path I gave was not.** `references/article-json-schema.md`
+does NOT resolve from the repo root. It lives at
+`.claude/skills/blog-optimisation/references/article-json-schema.md` (11,679 bytes, 197
+lines). Agents in waves 1–3 who reported it missing were right about the path and I
+overruled them; four posts carried a false failure and have been corrected. The file ships
+its own validator under "Validate before committing" — run it, it is the real check. All 52
+posts pass it.
+
+**Production Strapi is UP and this batch is already published.** Only `127.0.0.1:1337` is
+down. `https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug>` answers 200.
+All 52 posts went live 2026-09-27T20:29Z. Three consequences:
+- A slug check returning `total=1` for a post in this batch is a SELF-collision. Verify by
+  comparing the live title to your file's title before treating it as a conflict. Seventeen
+  posts carried a false "Strapi offline" failure; all seventeen were self-collisions with
+  exact title matches and zero real conflicts.
+- `miss-you-across-miles` is a confirmed live category, 1 of 10.
+- **Renaming the slug of an already-published post is a PRODUCTION change**, not a local
+  edit: it orphans a live URL and creates a duplicate at the new one. It needs a redirect
+  and the user's decision. Do not do it from a row prompt.
+
+**Song-contamination rule, corrected by measurement (third data point).** The old rule here
+said "add a word naming the intent, not the particle". That was never the variable. The
+mechanism is: **the disambiguating token must not already appear in the incumbent
+vertical's own title pattern.**
+- Portuguese worked — the additive particle is absent from lyric-page titles.
+- German failed — the particle is inside the song title ("Und ich vermiss dich auch").
+- Spanish failed — `significado` is inside the lyric sites' own template
+  (`letras.com/<artista>/<id>/significado.html`, "letra y significado"), so adding it moved
+  the SERP from streaming results to lyric-meaning results and on Google made it worse.
+- **Test before choosing a disambiguator:** search `"letra y <token>"` (or the local
+  equivalent) and see whether the incumbents already own the string.
+
+**Browser contention, third confirmed instance.** `browser_navigate` returned `status: ok`
+AND the correct page title, and the next `browser_scrape` returned a different concurrent
+row's SERP. Passing a distinct `session` name did NOT isolate. PolterTab has no atomic
+navigate-and-extract, so the earlier advice to "prefer an atomic call" cannot be followed.
+Content self-authentication — asserting markers that must be present and markers that must
+be absent — is the only defence, and it is what caught this.
+
+
+## 12. Route artefact found 2026-09-28 — WebSearch vs Google on head terms
+
+**The harness `WebSearch` tool and Google disagree hard on entity-colliding head terms,
+and §3 currently licenses WebSearch for us-en rows with no caveat. That is now a caveat.**
+
+Measured on `i miss you meaning`, three routes, same hour:
+- **Google**, real browser, `gl=us&hl=en&pws=0&num=20`, run twice with identical heading
+  and host sets, self-authenticated: **zero music results**, 9 of 10 weak — one of the
+  weakest SERPs in the batch.
+- **Brave**, `country=us`: agrees with Google. The two blink-182 pages sit at ranks ~28
+  and ~31 of 33 — page three.
+- **Harness `WebSearch`**: **7 of 9 results were Wikipedia song-entity pages.**
+
+WebSearch alone would have produced a **false abort** on a winnable row. The rule:
+
+- For a **head term that collides with a named entity** (a song, film, band, series),
+  WebSearch is not sufficient evidence to abort. Confirm on a second route before you
+  drop a row, and name both routes.
+- The reverse also holds: do not treat a clean WebSearch as proof a SERP is uncontaminated.
+- This does not retire WebSearch. It remains fine for long-tail, non-entity queries, and
+  it is the only us-en route available when `serp-ddg.mjs` is IP-blocked — which it has
+  been for most of this wave. Just label it and do not abort on it alone.
+
+**Corollary for the disambiguator rule in §11.** The title-pattern test tells you WHICH
+disambiguating token to avoid *once contamination is measured*. It does not establish that
+contamination exists. On `i miss you meaning` the test correctly condemns `meaning` — it
+is verbatim inside the music vertical's titles ("A Deep Dive into its Lyrics and Meaning",
+"The Meaning Behind…") — yet that condemned token is the one that wins, because on Google
+the music vertical is on page three. **Measure first, then select the token.**
+
+## 13. Two operational notes
+
+- **`timeout` is not on PATH on macOS.** Any example in this brief that uses it will fail.
+- **First-party fact exhaustion.** All 12 first-party fact lines are now collided 14–25
+  times across the siblings; there is no least-collided pair left. Rows written from here
+  on cannot differentiate on the numbers, only on the reading of them — say so in
+  `honestAssessment` rather than claiming novelty the data does not have.

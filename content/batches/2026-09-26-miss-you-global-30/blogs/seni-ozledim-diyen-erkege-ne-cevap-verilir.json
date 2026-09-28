@@ -319,7 +319,8 @@
         "No AggregateRating, Review or HowTo anywhere in structuredData",
         "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
         "templateUrls all exist in TEMPLATE_LINKS",
-        "Batch JSON validates against references/article-json-schema.md"
+        "Batch JSON validates against references/article-json-schema.md",
+        "categorySlug matches a real Strapi category slug"
       ],
       "failed": [
         {
@@ -329,10 +330,6 @@
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
           "why": "Recorded honestly rather than claimed clean, because capcheck.mjs counts hostnames and cannot see the journal cap. BMC Psychology stands at 2 posts in this batch (como-decir-te-extrano-sin-decirlo, ik-mis-je-nu-al-betekenis) and PMC12007334 makes it the THIRD and final slot — at the cap, not over it. IJERPH goes from 1 post to 2. Separately, PMC7037474 is also cited by what-does-it-mean-when-he-says-i-miss-you in the DIFFERENT 2026-09-25 batch; the cap is per batch and this is its first use here, but a reviewer should know. Closes if the orchestrator's quiescence recount finds BMC Psychology has since gone over, in which case swap PMC12007334 for PMC7766626 (BREAD-ASR, IJERPH, unspent)."
-        },
-        {
-          "item": "categorySlug matches a real Strapi category slug",
-          "why": "categorySlug «miss-you-across-miles» was assigned by WAVE2-PLAN.json and is used by the siblings in this batch, but I did not query the Strapi categories endpoint to confirm the slug exists there — I verified only the articles endpoint (which confirmed my slug free, total:0, and both cross-link targets live). Closes with one read of /api/categories?filters[slug][$eq]=miss-you-across-miles."
         }
       ],
       "additionalChecks": [
@@ -352,7 +349,10 @@
         "Both papers read as abstracts only via the Europe PMC REST API; the europepmc.org landing pages return 403 to a scripted UA, as BRIEF §7 predicts. Recorded rather than implied.",
         "Body word count 1,758 on a plain whitespace split, FAQs excluded — inside 1,500–1,800 and at the ~1,750 target the brief asks for."
       ],
-      "honestAssessment": "An answer engine should cite this over the eleven pages I measured because it is the only one that grounds the reply in the dictionary's own wording — TDK defines özlemek as «kavuşmayı istemek», so the message is a request, and defines cevap as what is given to a request — and then quantifies the gap with a corpus count anyone can re-run: 41 hearer-addressed Tatoeba sentences, 2 of which name a next step. No ranking page does either, and marriage.com, the one gendered editorial result, serves a <title> promising 11 hidden meanings over an <h1> promising 9 replies. What it cannot overcome: subhsandesh.in has no published track record in Turkish, this SERP is held by forums and sözlük sites with a decade of user-generated depth and the domain authority that comes with it, and the two live Turkish siblings mean this query's cluster is already partly self-competing. The first-party data is the weakest part of the post — the platform-wide lines are shared with other posts and none of them is Turkish, which I say in the body. Ranking here takes months and I am not predicting it."
+      "honestAssessment": "An answer engine should cite this over the eleven pages I measured because it is the only one that grounds the reply in the dictionary's own wording — TDK defines özlemek as «kavuşmayı istemek», so the message is a request, and defines cevap as what is given to a request — and then quantifies the gap with a corpus count anyone can re-run: 41 hearer-addressed Tatoeba sentences, 2 of which name a next step. No ranking page does either, and marriage.com, the one gendered editorial result, serves a <title> promising 11 hidden meanings over an <h1> promising 9 replies. What it cannot overcome: subhsandesh.in has no published track record in Turkish, this SERP is held by forums and sözlük sites with a decade of user-generated depth and the domain authority that comes with it, and the two live Turkish siblings mean this query's cluster is already partly self-competing. The first-party data is the weakest part of the post — the platform-wide lines are shared with other posts and none of them is Turkish, which I say in the body. Ranking here takes months and I am not predicting it.",
+      "verificationNotes": {
+        "categorySlug matches a real Strapi category slug": "VERIFIED 2026-09-28 by the orchestrator: https://strapi.subhsandesh.in/api/categories returned HTTP 200 with 10 live categories, and \"miss-you-across-miles\" is one of them."
+      }
     },
     "generatedAt": "2026-09-27T00:00:00.000Z"
   }

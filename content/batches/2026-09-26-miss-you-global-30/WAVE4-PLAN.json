@@ -1,0 +1,245 @@
+{
+  "wave": 4,
+  "batch": "2026-09-26-miss-you-global-30",
+  "created": "2026-09-28",
+  "note": "10 rows from content/keywords/2026-09-25-miss-you-global/build-inventory.mjs not written in waves 1-3 and not live. D-listicle tier stays dropped (measured: Brazil 1-weak-in-8, de-de ten established magazines) EXCEPT the single India row, because India is the only market where this domain has a published track record (161 live miss-you posts) - and that row must still measure gl=in and abort if the SERP is owned.",
+  "rows": [
+    {
+      "slug": "aitai-tte-iwareta-toki-no-kaeshikata",
+      "keyword": "aitai tte iwareta toki no kaeshikata",
+      "lang": "ja",
+      "bodyLanguage": "Japanese",
+      "region": "jp-ja",
+      "tier": "A-reply",
+      "band": 2,
+      "weak": 5,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Reply lane, 9th language. The wave-3 result is that eight languages use eight DIFFERENT mechanisms for the additive 'too' in a reply. Japanese may be the first with NO additive particle available in the natural reply at all (private-predicate / -tai constraint: aitai is a first-person desiderative, so echoing it is grammatically marked). Establish that from a grammar authority, not intuition. Sibling aitai-meaning-in-english is WRITTEN - read it, do not translate it."
+    },
+    {
+      "slug": "bogosipeo-vs-bogoshipda",
+      "keyword": "bogosipda vs bogosipeo difference",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-explainer",
+      "band": 2,
+      "weak": 5,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page for learners. This is the SPEECH-LEVEL pair (보고 싶다 plain/dictionary vs 보고 싶어 haeyo-drop intimate), NOT the lexical pair. difference-between-bogoshipda-and-geuripda is WRITTEN in this batch and covers 그립다 - read it, cross-link, stay off its ground. Verify speech levels against a named Korean grammar reference."
+    },
+    {
+      "slug": "ich-vermisse-dich-auf-italienisch",
+      "keyword": "ich vermisse dich auf italienisch",
+      "lang": "de",
+      "bodyLanguage": "German",
+      "region": "de-de",
+      "tier": "A-translate",
+      "band": 2,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "German to Italian. Both are dative-shaped but they invert differently: mi manchi = 'you are missing TO me' (subject = the missed), ich vermisse dich = accusative (subject = the misser), du fehlst mir = dative like Italian. So German has BOTH constructions and Italian has only one - that is the post. Siblings ich-vermisse-dich-auf-turkisch and mi-manchi-in-inglese are WRITTEN; read both, cross-link."
+    },
+    {
+      "slug": "te-extrano-en-silencio-significado",
+      "keyword": "te extraño en silencio significado",
+      "lang": "es",
+      "bodyLanguage": "Spanish (es-MX)",
+      "region": "mx-es",
+      "tier": "A-explainer",
+      "band": 2,
+      "weak": 3,
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "SONG CONTAMINATION EXPECTED - the inventory flags this as partly a Grupo Firme query. Measure the head SERP gl=mx first. Wave-3 finding: the fix is to add a word naming the INTENT (the Portuguese 'add the particle' fix FAILED in German because the particle was already in the song title). If the SERP is music-owned and no intent-word variant clears it, ABORT and say so.",
+      "outcome": "ABORTED 2026-09-28 — SERP music-owned on two agreeing routes, and twin of como-decir-te-extrano-sin-decirlo. Research brief at research/te-extrano-en-silencio-significado.md."
+    },
+    {
+      "slug": "how-to-tell-someone-you-miss-them-without-being-needy",
+      "keyword": "how to tell someone you miss them without being needy",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-howto",
+      "band": 2,
+      "weak": 5,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "Strongest measured English shape in the whole inventory (c02 axis: weak results are facebook/quora/wikipedia-off-intent). TWO siblings are LIVE: /blog/how-to-say-i-miss-you-without-sounding-desperate and /blog/say-i-miss-you-without-saying-it. Read both before drafting. 'Needy' is the distinct axis: it is about the ATTACHMENT read, not about concealment - anchor it on attachment/protest-behaviour research, not on advice-blog framing, or ABORT as a twin."
+    },
+    {
+      "slug": "i-miss-you-so-much-in-spanish",
+      "keyword": "i miss you so much in spanish",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-translate",
+      "band": 3,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH learner page. The intensifier is the whole question and it does NOT map one-to-one: te extraño mucho / muchísimo / tantísimo / un montón, and 'me haces mucha falta' intensifies a different verb. Establish which intensifiers actually collocate from a corpus (CORPES XXI or Corpus del Español), not from a dictionary list. /blog/i-miss-you-in-spanish is LIVE - read it, link to it, do not restate it."
+    },
+    {
+      "slug": "i-miss-you-too-in-spanish",
+      "keyword": "i miss you too in spanish",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-reply",
+      "band": 3,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ENGLISH page. yo-tambien-te-extrano is WRITTEN in this batch as the Spanish-language page - read it, cross-link, do NOT translate it. The English-side angle is the lane finding: Spanish cannot postpose the additive particle onto the object the way English 'too' does, so 'yo también' attaches to the SUBJECT and says 'I am also one who misses' - which is why the reply feels like it changes the topic to you."
+    },
+    {
+      "slug": "ishtaqtu-ilayka-meaning-in-english",
+      "keyword": "ishtaqtu ilayka in english",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-explainer",
+      "band": 3,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "ENGLISH page, transliteration-lookup intent. اشتقت إليك - the addressee suffix marks GENDER (ilayka masc / ilayki fem) and the form is perfective, so it is literally 'I have come to long for you'. Two Arabic siblings are LIVE (/blog/i-miss-you-in-arabic, /blog/how-to-say-i-miss-you-in-arabic-to-a-woman) - read both, cite instruments not siblings, and make the transliteration-variance problem (ishtaqtu/eshtaqto/ishta2to) the distinct contribution."
+    },
+    {
+      "slug": "i-miss-you-meaning",
+      "keyword": "i miss you meaning",
+      "lang": "en",
+      "bodyLanguage": "English",
+      "region": "us-en",
+      "tier": "A-explainer",
+      "band": 3,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "Head explainer. 'Miss' is a polysemy trap: miss a train / miss a shot / miss a person are the same verb historically and the emotional sense is the youngest. Anchor on OED/etymology plus a corpus sense split. /blog/miss-you-or-missing-you, /blog/miss-you-dearly-meaning and /blog/what-does-it-mean-when-he-says-i-miss-you are LIVE - read all three; if the honest angle is already taken, ABORT."
+    },
+    {
+      "slug": "miss-you-appa-quotes-in-tamil",
+      "keyword": "miss you appa quotes in tamil",
+      "lang": "ta",
+      "bodyLanguage": "Tamil",
+      "region": "in-ta",
+      "tier": "D-listicle",
+      "band": 3,
+      "weak": 4,
+      "templateUrls": [
+        "/missyou-gf",
+        "/capsule",
+        "/templates"
+      ],
+      "note": "THE ONLY LISTICLE ROW IN THIS WAVE, and conditional. MEASURE gl=in&hl=ta BEFORE DRAFTING: if established publishers own it the way they own de-de and br-pt, ABORT - do not repeat the wave-1 mistake of drafting into an owned SERP. /blog/miss-you-appa-quotes-in-kannada is LIVE (the sibling language) - read it, and note 'appa' is அப்பா in Tamil with the same meaning. GRIEF-ADJACENT: much of this intent is bereavement, so tone care is mandatory and the /capsule link (a year-sealed mutual prediction game, per app/lib/prompt.ts:80) may be wrong for a bereaved reader - say so in prose if you keep it."
+    },
+    {
+      "slug": "pagina-web-para-decir-te-extrano",
+      "keyword": "página web para decir te extraño",
+      "lang": "es",
+      "bodyLanguage": "Spanish (es-MX)",
+      "region": "mx-es",
+      "tier": "E-product",
+      "band": 1,
+      "weak": 5,
+      "templateUrls": [
+        "/missyou-gf",
+        "/streak",
+        "/templates"
+      ],
+      "note": "ADDED 2026-09-28 as a replacement for the aborted te-extrano-en-silencio-significado. Product-shaped tier, untouched by this batch until now: band 1 but intent-fit 5 and near-zero incumbent.",
+      "outcome": "SHIPPED — 1797 words. Google gl=mx&hl=es&pws=0 run twice, 6 of 9 weak; all 18 results across mx and es are galleries, none a guide."
+    },
+    {
+      "slug": "cartao-virtual-de-saudade",
+      "keyword": "cartão virtual de saudade",
+      "lang": "pt",
+      "bodyLanguage": "Portuguese (pt-BR)",
+      "region": "br-pt",
+      "tier": "E-product",
+      "band": 1,
+      "weak": 5,
+      "templateUrls": [
+        "/missyou-gf",
+        "/train-ticket"
+      ],
+      "note": "ADDED 2026-09-28 as a replacement for the aborted ishtaqtu-ilayka-meaning-in-english. Same product-shaped tier.",
+      "outcome": "SHIPPED — 1797 words. Google gl=br&hl=pt-BR&pws=0 run twice, 9 of 9 weak, zero Brazilian publishers; Brave country=br corroborated with a different commercial tier."
+    }
+  ],
+  "bindingReminders": [
+    "capcheck.mjs first: URL cap 2 posts, domain/journal cap 3 posts, PER BATCH. JESLA (Journal of the European Second Language Association) is AT CAP 2 via two different URLs - no third row may cite it.",
+    "PDFs DO parse here: /usr/local/bin/pdftotext (poppler 26.04.0), and Europe PMC fullTextXML is the better route: https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML",
+    "Strapi PRODUCTION is UP. Only 127.0.0.1:1337 is down. Do not record a false checklist-25 structural failure.",
+    "references/article-json-schema.md EXISTS (196 lines). Read it. kind MUST be 'blog-automation/batch-blog' or app/lib/batches.ts:56 silently drops the post. keywords MUST be a STRING - an array becomes '' at app/lib/batches.ts:79.",
+    "Word band 1500-1800, plain whitespace split, FAQs excluded.",
+    "No price, cost, subscription or currency claims in any language - pricecheck-intl.mjs guards 13 languages.",
+    "Measure the SERP in-market; never infer one. serp-ddg.mjs takes the QUERY FIRST, --region second. DDG is intermittent, Google 429s, Bing throttles. Say which route you used.",
+    "ABORT rather than ship a twin. An honest abort with the measurement is worth more than a thin post."
+  ],
+  "laneWideFindings": [
+    "SONG-CONTAMINATION RULE, CORRECTED 2026-09-28 (third data point, es-MX). My rule was 'add a word naming the intent, not the particle'. WRONG — that was never the variable. The unifying mechanism across all three languages is: THE DISAMBIGUATING TOKEN MUST NOT ALREADY APPEAR IN THE INCUMBENT VERTICAL'S OWN TITLE PATTERN. Portuguese worked because the additive particle is absent from lyric-page titles. German failed because the particle is inside the song title ('Und ich vermiss dich auch'). Spanish fails because 'significado' is inside the lyric sites' own URL/title template — letras.com/<artista>/<id>/significado.html, and 'letra y significado' is a standard page title, so adding it moved the SERP from streaming results to lyric-MEANING results and on Google made it worse. PRACTICAL TEST before choosing any disambiguator on a contaminated SERP: search \"letra y <token>\" (or the local equivalent) and see whether the incumbents already own that string.",
+    "te-extrano-en-silencio-significado ABORTED on two independent routes that agree: DDG mx-es gave 8-of-9 music on the head and 6-of-9 on the intent variant; Google gl=mx&hl=es&pws=0 gave 5-of-7 music with four results titled verbatim 'letra y significado', and Google AI Mode answers the query as a song question in the top slot. Second, independently fatal ground: the proposed concealment angle is already the shipped thesis of como-decir-te-extrano-sin-decirlo (RAE 'reticencia'). No source was consumed by this row.",
+    "BROWSER CONTENTION, THIRD CONFIRMED INSTANCE: browser_navigate returned status:ok AND the correct page title, and the very next browser_scrape returned a DIFFERENT concurrent row's SERP (the German gl=de one). A distinct `session` name was passed on both calls and did NOT isolate. TITLE IS NOT AUTHENTICATION. PolterTab has no atomic navigate-and-extract, so content self-authentication — checking for language markers that must and must not be present — is the only available defence.",
+    "SCHEMA PATH, CORRECTED 2026-09-28: `references/article-json-schema.md` does NOT resolve from the repo root. The file is real and lives at `.claude/skills/blog-optimisation/references/article-json-schema.md`. Agents who reported it missing at the root were RIGHT; I overruled them wrongly in waves 1-3, so ~4 posts carry a false schema failure.",
+    "THIS BATCH IS ALREADY PUBLISHED TO PRODUCTION (all 52 posts, 2026-09-27T20:29Z, verified against strapi.subhsandesh.in). Consequences: (a) 'slug already taken' returning total=1 for a batch post is SELF-collision, not a failure; (b) ~19 posts carry a false 'Strapi offline' structural failure — only 127.0.0.1:1337 is down; (c) the category slug miss-you-across-miles is confirmed real, 1 of 10 live categories; (d) RENAMING THE SLUG OF AN ALREADY-PUBLISHED POST IS NOW A PRODUCTION CHANGE requiring a redirect, not a local edit — I attempted two such renames and reverted them.",
+    "CAP TOOLING DEFECT, FOUND AND FIXED 2026-09-28. capcheck.mjs counts by HOSTNAME, but three cited hostnames are not publishers: doi.org (resolver — capcheck warned but could not fix), web.archive.org (wrapper — NOW FIXED, it unwraps to the archived host; both archive citations in this batch wrap sjp.pwn.pl, so a DICTIONARY was being counted as a capped domain) and europepmc.org (REPOSITORY — unfixable by hostname, since PMC mirrors thousands of journals). The last one is the damaging case: europepmc.org appears in 29 of 54 sibling posts, which says nothing at all about source concentration. New script journalcheck.mjs resolves every PMCID against Europe PMC metadata and reports per-JOURNAL counts, which is the cap that actually exists. Grepping journal names from prose over-counts because agents name journals inside negations.",
+    "CAP-EXEMPTION BUG, FIXED 2026-09-28: only en.wiktionary.org was cap-exempt in a batch covering 15+ languages, so a German or Polish row hit the domain cap on the obvious dictionary while the English row did not. All language editions added, plus NKJP, Wortschatz Leipzig and DWDS (corpora, already covered by the stated rationale, all being capped). dictionary.reverso.net deliberately NOT exempted — a commercial aggregator, not an authority.",
+    "SUPERSEDED — DO NOT USE THE FIGURES BELOW. This snapshot was taken mid-wave and went stale as rows shipped; IJERPH in particular moved to AT CAP when the 'needy' row took the last slot, and two agents correctly flagged that this entry contradicts the later one. There is no stable list: run `node content/batches/2026-09-26-miss-you-global-30/journalcheck.mjs` from the repo root for live state. (Original text, for the record: zero journals over cap; full at 3 — Behavioral Sciences (Basel), PLoS One, BMC Psychology, Scientific Reports; one slot left — Frontiers in AI, PNAS, Cognitive Linguistics, EJPT, IJERPH, Memory & Cognition, Frontiers in Psychology.)",
+    "SIBLING BATCH 2026-09-25-miss-you-30 IS GENUINELY OVER CAP AND IS ALREADY LIVE. Measured by resolve-by-ID, not by grep: Behavioral Sciences (Basel) 5 posts, BMC Psychology 5 posts, Frontiers in Psychology 4 posts. Cap is 3, so FIVE citation swaps are required (2 + 2 + 1). My earlier note said 'Behavioral 5, Frontiers 5, BMC 5' — Frontiers is 4, not 5. Because that batch is published, each swap is an edit to a live post that needs a republish, not a local-only fix.",
+    "MY OWN CAP FIGURES IN BRIEF §7 WERE WRONG AND BANNED AVAILABLE SOURCES. Corrected 2026-09-28 by resolve-by-ID: Frontiers in Psychology is at 2 posts (brief said 5, and declared it 'unusable in this batch'); PNAS is at 2 (brief said 3, 'no PNAS paper at all'); PMC13552847 is in 2 posts (brief said 3). The counts came from grepping journal names out of post prose — the exact over-counting failure this brief warns about elsewhere, committed by me. Every row written under the old text lost its best psychology source for nothing. Genuinely at the URL cap of 2 and still off-limits: PMC13552847, PMC11878271, JESLA article jesla.127, Linguistik Online article 1777.",
+    "euroslajournal.org (JESLA) and bop.unibe.ch (Linguistik Online) are TWO DIFFERENT JOURNALS; I had been treating them as one and telling rows 'the JESLA cap is reached' for both. What is capped is a specific ARTICLE in each (jesla.127 in two posts via two different URLs; article 1777 in two posts). Each journal sits at 2 of the 3-post domain cap, so a DIFFERENT paper from either is allowed.",
+    "journalcheck.mjs EXTENDED 2026-09-28 after the Korean row found the gap: a PMC-only census misses every journal article cited through a publisher or DOI URL, so J. Psycholinguistic Research was counted one post light. It now resolves PMCIDs via Europe PMC, DOIs via Crossref, and prints a residue list of journal-host URLs carrying neither — which it flags for hand-counting rather than dropping silently. That residue list is what revealed the JESLA / Linguistik Online conflation above.",
+    "BANNED-URL BREACH IN SHIPPED WORK: ich-vermisse-dich-auf-italienisch cited https://www.mdpi.com/2226-471X/11/3/36 (MDPI, Languages), already spent by the sibling batch's i-miss-you-in-italian. capcheck DID catch this one — the banned-list check works. Handed back to the writing agent to swap, since it knows which claim the source supported.",
+    "ROUTE ARTEFACT, 2026-09-28: harness WebSearch returned 7-of-9 Wikipedia SONG-ENTITY pages for \"i miss you meaning\" while Google (gl=us&hl=en&pws=0, run twice, self-authenticated) returned ZERO music and 9-of-10 weak, and Brave agreed with Google (blink-182 pages at ranks ~28/~31 of 33). WebSearch alone would have produced a FALSE ABORT on one of the weakest SERPs in the batch. Never abort an entity-colliding head term on WebSearch alone. NOTE: earlier us-en rows this wave measured on WebSearch because serp-ddg.mjs was IP-blocked, so their weakness counts may be skewed for entity-colliding terms.",
+    "MY CLAIM OVERTURNED: I told the head-explainer row that the emotional sense of \"miss\" is the youngest. FALSE. Etymonline dates \"perceive with regret the absence of\" to c.1300 and \"fail to be in time for\" (miss the train) to 1823 — three senses are YOUNGER than the emotional one. Corroborated in Google Books Ngrams en-2019: \"I miss you\" attested continuously from 1702, at 2.14e-8 by 1800, while \"miss the train\" does not clear 1e-9 until 1843. The post is built on the correction.",
+    "DISAMBIGUATOR RULE REFINED (4th data point): the title-pattern test selects WHICH token to avoid once contamination is MEASURED; it does not establish that contamination exists. On \"i miss you meaning\" the test correctly condemns \"meaning\" (verbatim in the music vertical titles) yet that token wins, because the music vertical sits on page three. Measure first, then select.",
+    "FIRST-PARTY FACT EXHAUSTION: all 12 first-party fact lines are collided 14-25 times across the siblings; no least-collided pair remains. Further rows in this batch cannot differentiate on the numbers, only on the reading of them.",
+    "MY ERROR, caught by the Arabic row: I listed IJERPH as having one slot left. It is AT CAP (3 posts: how-to-tell-someone-you-miss-them-without-being-needy, ik-mis-je-nu-al-betekenis, seni-ozledim-diyen-erkege-ne-cevap-verilir). The needy row took the last slot during this wave and I kept quoting the pre-wave list. ALWAYS re-run journalcheck.mjs rather than trusting a figure I wrote.",
+    "CJK WORD BAND WAS UNSATISFIABLE — FIXED in scripts/verify-batch.mjs. A plain whitespace split counted a 4,450-character Japanese body as 195 words, so no Japanese post could ever pass 1500-1800 without wakachi-gaki, which is not adult Japanese prose. No sibling had surfaced it because none was CJK. The verifier now branches on script and counts Intl.Segmenter word-like segments for CJK bodies. The CJK band (2600-3120) is calibrated on ONE document and is circular by construction — a placeholder that makes the check meaningful rather than unsatisfiable, not a validated equivalence.",
+    "serp-ddg.mjs HAS A DANGEROUS FAILURE MODE: a DuckDuckGo bot challenge prints \"(no results parsed — DDG markup may have changed)\", which is INDISTINGUISHABLE from a genuinely empty SERP. On a rare-string row, where zero demand is plausible, an agent could read a block as a measurement and abort on it. The Arabic row proved it was a block by running a CONTROL query with known demand and getting the same output. Run a control before trusting an empty result.",
+    "ishtaqtu-ilayka-meaning-in-english ABORTED as a twin. All three pillars I designated as its distinct contribution are ALREADY LIVE: i-miss-you-in-arabic ships the perfective/aspect thesis verbatim plus four dialect forms, and how-to-say-i-miss-you-in-arabic-to-a-woman ships a full H2 on Arabizi with the 7/3 digit convention and an ACL 2014 corpus citation. Only a named romanisation standard (ALA-LC / DIN 31635 / ISO 233) is unspent, worth ~300 words — its proper home is a new H2 inside the live Arabic post, which is a published-post edit needing the user decision.",
+    "RELAY ERROR, MINE, worth remembering as a class. The Spanish intensifier row authenticated the Leipzig endpoint by reproducing de = 4,228,124 rank 1 in spa_news_2011_3M and labelled it Spanish correctly. When I relayed that control to the next row I dropped the corpus name; de reads as German, so that agent tested it against deu_news_2012_3M (6,443, rank 735), could not reproduce it, and reported the control as mislabelled. Independently reproduced by me: 4,228,124 IS de in spa_news_2011_3M and the original post is correct throughout. A control is only a control if it travels with the corpus it was run against — relaying the number alone converts a good authentication into a false defect report.",
+    "FRAMING OVERTURNED on i-miss-you-too-in-spanish: I claimed Spanish cannot postpose the additive particle the way English postposes \"too\". FALSE — a 120-sentence Tatoeba census of attested también found 36.7% initial, 33.3% medial, 30.0% clause-final, and both ¡Te extraño también! and ¡Te echo de menos también! are attested. The CONCLUSION survives on a different mechanism: the asymmetry is pronoun OPTIONALITY, not particle placement. Spanish may omit the subject, so writing yo is elective and therefore contrastive, while English must write I every time and is left with the ambiguous clause-final too. Leipzig supports it — yo falls from rank 229 (news) to 1,761 (Wikipedia) while también barely moves.",
+    "journalcheck.mjs HARDENED 2026-09-28 after it produced the most dangerous possible output: re-running it repeatedly rate-limited Europe PMC, resolution fell 48/48 -> 40/56 -> 0/56, and at 0 resolved it reported 'OVER CAP: none' — a clean bill of health derived from no data at all. It now paces itself, backs off on 429/5xx, retries each miss individually, and prints a loud block naming every PMCID it could not resolve and which posts cite it. A cap census that cannot resolve must say so, not report clean.",
+    "FRAMING OVERTURNED on pagina-web-para-decir-te-extrano: I named 'tú vs usted' as the register axis for an intimate Spanish page. Wrong axis. RAE DPD «usted» §4 places usted in formal treatment ('cierto distanciamiento'), so it is not live in an intimate message at all; what the RAE actually marks geographically is TÚ vs VOS — 'casi todo México' is tuteo-exclusive while vos is the familiar form across most of Central America and the Río de la Plata. Corroborated with a matched-guise study (IJSL 2026, PMC13358585, N=82+75, read in full). The post was rebuilt on the corrected axis.",
+    "A SUGGESTION OF MINE CORRECTLY REFUSED: I proposed WhatsApp channel-dominance in Mexico/Spain vs SMS in the US as a grounding fact. It could not be sourced — INEGI's ENDUTIH 2024 bulletin timed out at 25s and 45s, INE Spain likewise, and neither Crossref nor Europe PMC had a Mexico-or-Spain-vs-US channel-share figure. The agent declined to assert it and said so in the body in Spanish. That is the correct handling of an unsourceable orchestrator suggestion: do not launder a plausible claim into a post because the orchestrator proposed it.",
+    "INSTRUMENT: rae.es returns HTTP 403 to scripted user-agents AND to ctx_fetch_and_index; RAE entries must be read through the real browser, with the headword confirmed on the page before citing. Adds to the 403-family alongside sjp.pwn.pl (403, use the Wayback snapshot) and dle.rae.es (403 intermittently, serves on retry).",
+    "PROCESS DEFECT, MINE: I launched two replacement rows (pagina-web-para-decir-te-extrano, cartao-virtual-de-saudade) by prompt only, without adding them to WAVE4-PLAN.json's rows[], while telling each agent the plan was binding. The cartao agent noticed its own slug was absent from the file it had been told to treat as authoritative. Both rows are now recorded. If a plan is binding, it has to actually contain the work.",
+    "SONG/DEATH-SENSE FINDING (pt-BR), where the agent overturned its OWN first hypothesis: three dictionaries put a death sense inside FALTA — Michaelis acep.3 'por ext Morte, falecimento', Priberam pt-br 8, Aulete 9 whose own example is 'ainda sente muito a falta dos pais', in the exact `sentir a falta de` frame a card uses — while Priberam's SAUDADE entry carries no death sense. The expected conclusion 'so use saudade' is WRONG: Revista Brasileira de Enfermagem 2026 (n=8, read in full via fullTextXML) records bereaved Brazilians using 'sinto muito a falta dele' and 'sinto saudades deles' in the same discourses. The disambiguator is tense, addressee and a return date, not the noun.",
+    "MEASURED PRODUCT DEFECT, worth surfacing beyond this batch: /missyou-gf serves og:locale=en_US with English og:title and og:description, so a card written in Portuguese (or any non-English body in this batch) arrives behind an ENGLISH WhatsApp link preview. Disclosed in body prose by the row that measured it.",
+    "INSTRUMENT BLOCKLIST, additions: IBGE Agência de Notícias 403s to scripted UAs; CETIC.br publishes TIC Domicílios only as spreadsheets behind a JS shell; INEGI ENDUTIH 2024 and INE Spain both time out. Consequence: WhatsApp channel-share for BR/MX/ES could not be established by two independent rows, and neither asserted it."
+  ]
+}

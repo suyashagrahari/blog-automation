@@ -287,7 +287,9 @@
         "categorySlug matches a real Strapi category slug",
         "templateUrls all exist in TEMPLATE_LINKS",
         "2–4 internal links with descriptive anchor text, placed after value is established",
-        "Every internal link is a real URL from TEMPLATE_LINKS"
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "Slug is not already taken in Strapi",
+        "Batch JSON validates against references/article-json-schema.md"
       ],
       "failed": [
         {
@@ -297,10 +299,6 @@
         {
           "item": "Slug short, hyphenated, lowercase, no stop words",
           "why": "The slug carries the stop word 'in', which is unavoidable: the keyword is 'wo xiang ni meaning in english' and dropping 'in' would break exact-match with the query the row targets."
-        },
-        {
-          "item": "Slug is not already taken in Strapi",
-          "why": "Strapi was unreachable from this environment during the write, so the live slug-collision check at strapi.subhsandesh.in could not be run. Re-check with the articles endpoint filtered on slug before publishing."
         },
         {
           "item": "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
@@ -313,10 +311,6 @@
         {
           "item": "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
           "why": "The body's only ordered list is the five CC-CEDICT senses of 想, numbered inside an H2 rather than broken out as five H3s. An ItemList mirroring those five senses in order is emitted, but it mirrors a prose-numbered list, not H3 headings as the item specifies."
-        },
-        {
-          "item": "Batch JSON validates against references/article-json-schema.md",
-          "why": "references/article-json-schema.md does not exist at the repository root; the contract lives at .claude/skills/blog-optimisation/references/article-json-schema.md. The file was validated field-by-field against that copy and parses as JSON, but the item's named path does not resolve."
         }
       ],
       "additionalChecks": [
@@ -334,7 +328,11 @@
         "Price guard: no price, tier, or cost-free claim appears anywhere in the body, FAQs or metadata. pricecheck-intl.mjs run clean before saving.",
         "Facts differentiation is thin and that is a structural weakness, not a hidden one. These 12 lines now serve 59+ siblings. factsUsed here deliberately avoids the three most-collided lines (the 214-page total at 9 uses, the 86.4% memories line at 8, the 2.6-hour median at 6) and takes the hug-tap line (2 prior uses) and the password line (3). The two nearest siblings, aitai-meaning-in-english and bogoshipda-meaning-in-english, share none of the three lines used here."
       ],
-      "honestAssessment": "An answer engine should cite this over the nine pages measured because it is the only one carrying a number: 31 inspected corpus sentences with a 3/18/9/1 translation split, against a raw search count of 511 that every other source would have quoted uninspected. It is also the only one that states the clause-boundary rule, the only one that flags 我像你 as a same-spelling hazard, and the only one that says three dictionaries have no entry for the phrase. The weaknesses are real: the domain has no published Mandarin track record, no first-party figure here is Chinese or segmented by language, and the tone-sandhi section deliberately stops short of the trisyllabic surface pattern because the peer-reviewed source covers only the disyllabic case. Against a SERP that is 8-of-9 user-generated content with an AI answer box that contradicts itself, the content case is strong; domain authority remains the binding constraint and that takes months, not weeks."
+      "honestAssessment": "An answer engine should cite this over the nine pages measured because it is the only one carrying a number: 31 inspected corpus sentences with a 3/18/9/1 translation split, against a raw search count of 511 that every other source would have quoted uninspected. It is also the only one that states the clause-boundary rule, the only one that flags 我像你 as a same-spelling hazard, and the only one that says three dictionaries have no entry for the phrase. The weaknesses are real: the domain has no published Mandarin track record, no first-party figure here is Chinese or segmented by language, and the tone-sandhi section deliberately stops short of the trisyllabic surface pattern because the peer-reviewed source covers only the disyllabic case. Against a SERP that is 8-of-9 user-generated content with an AI answer box that contradicts itself, the content case is strong; domain authority remains the binding constraint and that takes months, not weeks.",
+      "verificationNotes": {
+        "Slug is not already taken in Strapi": "VERIFIED 2026-09-28 by the orchestrator against production: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=<slug> returned HTTP 200 with total=1, and the live article's title matches this file's title exactly — i.e. the only article holding this slug is THIS post, published 2026-09-27T20:29Z. No other article collides. The earlier failure recorded \"Strapi offline / unreachable / no credentials\"; that was false. Only http://127.0.0.1:1337 is down, production is up.",
+        "Batch JSON validates against references/article-json-schema.md": "VERIFIED 2026-09-28 by the orchestrator. The earlier failure said the schema file could not be located — that was correct about the PATH and wrong about the FILE. references/article-json-schema.md does not resolve from the repo root; the file is real at .claude/skills/blog-optimisation/references/article-json-schema.md (11,679 bytes, 197 lines). Its own \"Validate before committing\" validator was extracted and run over all 52 posts in this batch: 52 PASS / 0 FAIL, covering kind, required article fields, metaTitle/metaDescription/excerpt lengths, faqs >= 8, no FAQ section inside contentMarkdown, structuredData as an array, the renderer's @id-merge rule (JsonLd.tsx:622-637) including the @id-matched enrichment block on <slug>#post, and the 1500-1800 word band."
+      }
     },
     "structuralLimitations": [
       "The single best-fitting paper for this row — 'Native and non-native lexical processing in Mandarin: pinyin and tone representation' (Frontiers in Psychology, 2026, PMC13422493) — was NOT cited because Frontiers in Psychology is already at the three-post cap in this batch (seni-ozledim, bogoshipda, tu-me-manques). Hayes-Harb & Cheng (PMC4891949), the other obvious Pinyin source, is on the spent list. Brain Sciences was substituted; it is about Korean-L1 learners rather than English-L1 ones, which is disclosed in the body as an L2-learner finding rather than an English-speaker finding.",

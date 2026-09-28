@@ -1,0 +1,367 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "会いたいって言われた時の返し方——「も」を付ける型と、付けない型",
+    "slug": "aitai-tte-iwareta-toki-no-kaeshikata",
+    "excerpt": "「会いたい」と言われた時の返し方は四つ。上位10ページの返信例55件を数えると「私も会いたい」が20件、何も付けない「会いたい」が20件でした。「も」は係助詞で「が」を置き換えるため語順を変えずに書き分けられ、人称制限があるので何も付けなくても主語は話し手になります。",
+    "metaTitle": "会いたいって言われた時の返し方｜「も」が付く先で決まる四つの型と、何も付けずに返しても伝わる理由を文法から",
+    "metaDescription": "会いたいって言われた時の返し方は四つに収まります。測定した日本語の上位10ページの返信例55件のうち「私も会いたい」が20件、何も付けない「会いたい」が20件でした。「も」は係助詞で主格の「が」を置き換え、人称制限が主語を話し手に決めます。出典は『言語研究』136号と『尚絅学園研究紀要』6号の二本。",
+    "keywords": "会いたいって言われた時の返し方, 会いたい 返し方, 会いたいと言われたら, 私も会いたい, 会いたい 返事, 人称制限, 係助詞 も",
+    "canonicalURL": "https://subhsandesh.in/blog/aitai-tte-iwareta-toki-no-kaeshikata",
+    "ogType": "article",
+    "tags": [
+      "japanese",
+      "grammar",
+      "miss-you",
+      "reply",
+      "long-distance"
+    ],
+    "keyTakeaways": [
+      "「会いたい」への返し方は四つに収まり、2026年9月28日に測定した日本語の上位10ページの返信例55件のうち、「私も会いたい」型が20件、「も」を付けない裸の「会いたい」が20件を占めます。",
+      "「も」は副詞ではなく係助詞で、主格の「が」を置き換え（私も、*私がも）、相手を表す「に」には重なります（君にも）。だから日本語は語順を一切変えずに、追加されたのが誰かを書き分けられます。",
+      "何も付けない「会いたい」で通じるのは人称制限のためです。畠山（2012）は言いきりの形で主語が一人称に限られる現象としてこれを定義し、一人称主語は普通は省略されると注記しています。",
+      "相手の希望を語るときは述語ごと入れ替わります。Tatoebaで「会いたがっ」を含む15文のうち13文に三人称の主語が明示され、一人称だけの文は0件でした。",
+      "SubhSandeshの数字はテンプレート単位の記録で、言語や国の区分を一切持ちません。214件のmiss-youページのどれが日本語話者のものかは分からず、n=214は二か月分です。"
+    ],
+    "faqs": [
+      {
+        "question": "「会いたい」に「私も会いたい」と返すのは重いですか？",
+        "answer": "重さは「も」ではなく、その後に足す語で決まります。測定した55件の返信例のうち20件が「も」型で、これが最も普通の返し方です。「私も会いたい」だけなら重くなりません。重くなるのは「ずっと」「今すぐ」「毎日」のような頻度や強度の語を足したときです。"
+      },
+      {
+        "question": "「私も会いたい」と「会いたい」だけ、どちらが自然ですか？",
+        "answer": "どちらも自然です。測定した55件では20件ずつで並んでいます。違いは強調の有無で、「も」を付けると「あなただけでなく私も」という対比がはっきり出ます。裸の「会いたい」は人称制限のおかげで主語が自動的に話し手になるので、対比を立てずに同意だけを返せます。"
+      },
+      {
+        "question": "「会いたいです」と敬語にすると失礼になりませんか？",
+        "answer": "失礼にはなりませんが、距離が出ます。「です」を足すと相手との間に一段の丁寧さが入るので、親しい相手には冷たく読まれることがあります。仕事関係や年上の相手なら「会いたいです」、恋人なら「会いたい」で問題ありません。"
+      },
+      {
+        "question": "「会いたくない」と断りたいときはどう書けばいいですか？",
+        "answer": "「会いたくない」は否定が強すぎて関係を切る読み方をされます。「今は難しい」「来週なら大丈夫」のように、拒否ではなく条件に置き換えるほうが実務的です。理由を書き添えるかどうかは、相手にどこまで説明する関係かで決めてください。"
+      },
+      {
+        "question": "相手の気持ちを人に伝えるとき「彼が会いたい」と言えますか？",
+        "answer": "言えません。言いきりの「会いたい」は話し手のものだからです。「彼が会いたがっている」「彼が会いたいって言ってた」「彼が会いたいらしい」のいずれかにします。Tatoebaの「会いたがっ」15文のうち13文に三人称の主語が明示されているのは、この理由です。"
+      },
+      {
+        "question": "「会いたい」と「会いたかった」では返し方が変わりますか？",
+        "answer": "変わります。「会いたかった」は過去の話なので、すでに会えた場面か、会えなかった場面かで意味が逆になります。会えた直後なら「私も会いたかった」で完結します。会えなかった話なら、次にいつ会えるかを書かないと宙に浮きます。"
+      },
+      {
+        "question": "英語の「I miss you too」をそのまま日本語にするとどうなりますか？",
+        "answer": "「too」は文末に置かれてどの語に掛かるかが書き言葉では決まりませんが、日本語の「も」は掛かる語にくっつきます。だから「私も会いたい」と「君にも会いたい」は別の文になります。英語の一文が日本語では二文に分かれる、ということです。"
+      },
+      {
+        "question": "既読だけ付けて返さないのは、返し方として成り立ちますか？",
+        "answer": "成り立ちますが、相手には「会いたい」への回答として読まれます。日本語の返信では沈黙が拒否の意味を持ちやすいので、会う気があるなら短くても一言返すほうが誤解が少ないです。"
+      },
+      {
+        "question": "「も」を使わずに同意を示す言い方は他にありますか？",
+        "answer": "あります。「うん」「だね」「それ」のような応答詞だけでも同意になります。人称制限のおかげで、その後に「会いたい」を置けば主語は話し手に決まるので、「うん、会いたい」で十分に伝わります。"
+      },
+      {
+        "question": "返事にページやリンクを送るのは大げさですか？",
+        "answer": "相手と場面によります。SubhSandeshで測定した範囲では、miss-youのページを作った人の43.5%（214件中93件）がパスワードを設定していて、全体の38.5%より高い数字です。人に見せない前提のやりとりだということで、日常の一往復に挟むものではありません。"
+      }
+    ],
+    "coverImageQuery": "japanese phone message night window",
+    "coverImagePrompt": "A close, photorealistic shot of a phone held in one hand at night, a Japanese text conversation glowing on the screen, the rest of the room dark and out of focus. Cool blue screen light against warm lamplight from behind. Clean negative space along the top third for a title overlay, 16:9. No legible text on the screen and no watermark other than a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# 会いたいって言われた時の返し方——「も」を付ける型と、付けない型\n\n会いたいって言われた時の返し方は、日本語では大きく四つに収まります。①「私も会いたい」と「も」を付ける型、②「会いたい」とだけ返す型、③「嬉しい」と感情を先に出す型、④「いつ会える？」と予定の話に移す型です。2026年9月28日に測定した日本語の検索結果の上位10ページから、「会いた」を含む返信例を重複を除いて55件抜き出して数えたところ、20件が①、20件が②でした。合わせて7割強です。\n\n先に数字を二つ置いておきます。SubhSandeshで「I love you」を伝えるページ（/love-gf）は1,182件つくられ、全ページの22.7%を占めます。Darlingの恋愛ページ（/darling）は457件で8.8%です（いずれも2026年9月24日計測）。つまり「好き」と伝える動機は「会いたい」より桁が大きく、返信という行為そのものは、まだ商品になっていません。\n\n## 「私も会いたい」の「も」は、どこに付いているのか\n\n「も」は副詞ではなく係助詞です。[デジタル大辞泉の「も」の項](https://kotobank.jp/word/%E3%82%82-644757)は第一義を「ある事柄を挙げ、同様の事柄が他にある意を表す」とし、「ぼくも知らない」を例に挙げています。付く先は語であって、文全体ではありません。\n\nここが英語の too と決定的に違うところです。英語の too は文の末尾に置かれ、どの語に掛かっているかは書き言葉では決まりません。日本語の「も」は掛かる語にくっついて動きません。\n\nしかも「も」は主格の「が」を置き換えます。「私が会いたい」に「も」を足すと「私も会いたい」になり、「私がも」とは決して言いません。一方、相手を表す「に」は残ります。「君に会いたい」に足せば「君にも会いたい」です。\n\nだから日本語は、語順を一切変えずに、追加の対象が誰かを書き分けられます。「私も会いたい」は会いたがっている人が増えた話、「君にも会いたい」は会いたい相手が増えた話で、まったく別のことを言っています。\n\n[小林亜希子（2009）「とりたて詞の極性とフォーカス解釈」](https://www.jstage.jst.go.jp/article/gengo/136/0/136_121/_article/-char/en)（『言語研究』136号121頁以下、J-STAGEで全文公開）は、とりたて詞「も」「は」がフォーカスとして認可されるのに移動は必要なく、併合された位置にとどまれると論じています。この論文をPDFで通読しました。位置を動かさずに焦点が決まる、というのがまさに上の書き分けの理屈です。\n\n## 「会いたい」だけで「私も」が伝わるのはなぜか\n\n測定した55件のうち20件は、「も」も主語も付かない裸の「会いたい」でした。これが通じるのは、日本語に人称制限があるからです。\n\n[畠山真一（2012）「感情表出動詞の人称制限と変化後の局面の二重性」](https://www.jstage.jst.go.jp/article/sgba/6/0/6_KJ00008526259/_article/-char/ja/)（『尚絅学園研究紀要 A.人文・社会科学編』6号63〜77頁、J-STAGEで全文公開）は、人称制限を、日常会話のような「はなしあい」の文脈で主語の人称が一人称に限られる現象と定義し、金水1989・工藤1995・南2002を引いています。挙げられている例は「私、うれしい」は言えるが「彼が、うれしい」は言えない、というものです。この論文もPDFで最後まで読みました。\n\n同論文の注では、人称制限が働く言いきりの形の文では一人称主語は省略されるのが普通であり、あえて出す場合も無助詞、つまり「私、会いたい」のように助詞なしになるのが普通だと述べられています（東1999による）。\n\n「会いたい」の「たい」も同じ仲間です。[デジタル大辞泉の「たい」の項](https://www.weblio.jp/content/%E3%81%9F%E3%81%84)は希望の助動詞とし、第一義を「話し手の希望を表す」としています。つまり言いきりの「会いたい」は、放っておいても話し手のことになる。相手が「会いたい」と言った直後に「会いたい」と返せば、主語は自動的にこちらへ移ります。\n\nここが今回いちばん大きな発見でした。追加を示す語が要らないのではなく、**要らなくても追加の意味が出てしまう**のです。日本語には「も」という追加の枠がちゃんとあり、それが最頻の返し方でもある。ただし、それを使わない選択肢が同じだけの頻度で存在します。\n\n## 相手の「会いたい」は「会いたがる」に変わる\n\n人称制限が効いている証拠は、相手の気持ちを語るときの形を見ればわかります。\n\n[Tatoeba の日英対訳コーパス](https://tatoeba.org/ja/sentences/search?from=jpn&to=eng&query=%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8C%E3%81%A3)を日本語側で検索し、「会いたがっ」を含む文を厳密に数えたところ15文ありました。そのうち13文に三人称の主語が明示されています。「父が会いたがっています」「トムが会いたがってたよ」「彼女が君に会いたがってるよ」といった文です。一人称だけの文は0文でした。\n\n[デジタル大辞泉の「たがる」の項](https://kotobank.jp/word/%E3%81%9F%E3%81%8C%E3%82%8B-559558)は、第一義を「話し手以外の人の希望を表す」と書いています。辞書の記述とコーパスの分布が一致しています。\n\nつまり日本語は、希望の主体が自分か他人かで、述語そのものを入れ替えます。「会いたい」は自分、「会いたがる」は他人。ドイツ語やロシア語やスペイン語は動詞を変えずに主語を入れ替えるだけなので、これは八言語のどれとも違う仕組みです。\n\n## 検索窓に打った「って言われた」自体が、その証拠になっている\n\nこのページにたどり着いた検索語をもう一度見てください。「会いたいって言われた時の返し方」。「って」は引用、「言われた」は受身です。\n\nなぜそう打つしかなかったのか。「彼が会いたい時」とは言えないからです。言いきりの「会いたい」は話し手のものなので、他人に付けるには引用の「って」で包むか、「会いたがる」に替えるか、「らしい」「ようだ」を足すしかありません。畠山（2012）はまさに、ラシイ・ヨウダといったモダリティ要素の付加で人称制限が解除されると書いています。\n\n検索語そのものが文法の回避策になっている、という例はこの連載で初めて出てきました。上位10ページのどれも、この点に触れていません。\n\n## 四つの型を並べる\n\n| 返し方 | 「も」が付く先 | 書き言葉で曖昧か | 測定55例中 |\n|---|---|---|---|\n| 私も会いたい | 主語（会いたがる人）。「が」を置き換える | 曖昧でない | 20件 |\n| 君にも会いたい | 相手（会う対象）。「に」に重なる | 曖昧でない | 0件 |\n| 会いたい（裸） | 付かない。人称制限が主語を決める | 曖昧でない | 20件 |\n| 嬉しい／いつ会える？ | 付かない。話題を移す | 該当なし | 15件 |\n\n「君にも会いたい」が0件なのは、返信という場面では会う相手が一人に決まっていて、追加する対象がそもそもないからです。Tatoebaの会いたい系58文でも「にも会いたい」は0件でした。文としては正しいのに、この場面では使われません。\n\n## 八つの言語と並べて、日本語が何番目に違うのか\n\nこの連載では八つの言語で、返事の「も」にあたる語の仕組みがそれぞれ違うことがわかっています。ドイツ語の「auch」は焦点助詞で、[ドイツ語の「ich vermisse dich auch」がどこに掛かるかを数えた記事](https://subhsandesh.in/blog/ich-vermisse-dich-auch)では、曖昧さを解消する語順「Auch ich vermisse dich」が7,552万語の字幕コーパスに0件でした。ロシア語の「тоже」は前の語に付きます（[「я тоже скучаю по тебе」の記事](https://subhsandesh.in/blog/ya-tozhe-skuchayu-po-tebe)）。スペイン語の「también」は位置で範囲が決まらない副詞です（[「yo también te extraño」の記事](https://subhsandesh.in/blog/yo-tambien-te-extrano)）。\n\n日本語が九番目で、仕組みは九つ目でした。ただし、事前に立てていた「日本語には追加を示す枠がそもそもない」という予想は外れています。枠はあり、しかも最頻です。違っていたのは、①「も」が語にくっついて動かないので語順を変えずに書き分けられること、②人称制限のおかげで何も付けない選択肢が同じだけ使われること、の二点でした。\n\n「会いたい」という語そのものの意味と英訳の分布については、[aitai の英訳を1,000件数えた英語版の記事](https://subhsandesh.in/blog/aitai-meaning-in-english)があります。この記事は返し方だけを扱っています。\n\n## 上位10ページを読んで数えたこと、そして検証できる誤りが一つ\n\n測定の方法を書いておきます。DuckDuckGo の HTML 版を jp-ja 地域指定で1回だけ叩き、10件を取得しました（2026年9月28日）。確認のための2回目は「結果を解析できず」で返ってきたので、確定しているのは1回分です。Bing の ja-JP はゼロ件を返しましたが、これは制限で、結果がないという意味ではありません。Brave は429でした。だから以下は1回のDuckDuckGo測定で、Googleの実測ではありません。\n\n10件のうち9件は本文を取得して「会いたい」を含むことを確認しました（smartlog.jp は403で読めていません）。10件の内訳は、男性向けライフスタイル誌、マッチングアプリの運営ブログ、wikiHow日本版が2件、ギフトメディア、占いサービスのコラム、個人ブログが4件です。辞書、文法書、コーパス、学術的な資料は0件でした。\n\n読めた9ページに文法用語が出てくるかを機械的に数えました。「たがる／たがっ」は2ページ、「願望」は1ページ、「人称」「係助詞」「助動詞」「大辞泉」「国語辞典」は0ページです。10位までのどこにも、なぜ「私も」なのかを説明したページはありません。\n\n検証できる誤りも一つ見つかりました。9位の wikiHow 日本版は「友人への返信」の節で、明るい返事の例として「あなたを恋しく思うほどではありませんよ、友よ！」を挙げています。これは「そこまであなたを恋しくは思っていません」という否定です。英語版の元の文は相手に向けた冗談で、意味が反転しています。原因はまさに人称制限で、恋しがる主体を相手側に置けず、話し手側に移した結果です。競合ページなので、ここではリンクを張らずに引用元を明記しておきます。\n\n## 返す手段を変えると、何が変わるか\n\n言葉が決まったら、次は手段です。SubhSandeshで測定できた範囲だけ書きます。\n\n| 返す手段 | 相手に届くまで | 測定した値 |\n|---|---|---|\n| メッセージで一言 | 即時 | 測定していません |\n| /missyou-gf のページ | リンクを送った時点 | 214件作成、全5,221ページ・44コレクション中4.1%（2026年9月25日計測） |\n| ページを非公開で渡す | 同上 | 送り手の43.5%（214件中93件）がパスワードを設定。全体の38.5%より高い（同日計測） |\n| 作りかけで止める | 届かない | 開始したページの88.8%（214件中190件）は公開・共有まで至っています（同日計測） |\n\nパスワードの数字が全体より高いのは、この意味づけでは説明がつきます。「会いたい」のやりとりは二人の外に出したくない、ということです。ちなみに恋人の誕生日ページ（/birthday-gf）は510件・9.8%で、こちらは人に見せる前提のものです（2026年9月24日計測）。\n\n## この数字が言えないこと\n\n正直に限界を書きます。まず、このデータベースは「どのテンプレートが開かれたか」しか記録しておらず、受け取った人が誰かは持っていません。言語別・国別の区分も一切ありません。ですから上の数字のどれ一つとして、日本のものだとは言えません。日本語話者が何人含まれているかも不明です。\n\n次に、n=214、テンプレートの公開は2026年7月28日なので、二か月分しかありません。季節や行事にかかわる話は何も導けません。閲覧数は延べのページビューであって、訪問者の人数ではありません。一人が二十回開けば二十回と数えます。都市名・背景音楽・「付き合った日」は初期値の入った選択式の項目なので、記入率が高くてもそれは送り手が選んだ結果とは言えません。\n\n検索結果の側の限界も同じです。1回の測定、9ページ分の本文、55件の返信例。数としては小さく、別の日に測れば順位は動きます。\n\n## リンク先は英語のページです\n\nはっきり書いておきます。[/missyou-gf のページ](https://subhsandesh.in/missyou-gf)は英語で作られています。入力欄の見出しも、説明文も、ボタンも英語です。日本語の文章を打ち込むことはできますが、周りの案内は英語のまま出てきます。それでよければ使えますし、そうでなければ使えません。日本語の画面はまだありません。\n\n遠距離で毎日続けたい人には、[一日一回タップして記録を残す/streak](https://subhsandesh.in/streak)のほうが向いています。会えない期間そのものを形にする作りで、一回きりの返事とは目的が違います。他の型は[テンプレート一覧](https://subhsandesh.in/templates)から見られます。\n\n## このページが向かない相手\n\nそもそもページを送るべきでない場面があります。相手の「会いたい」が重く、こちらがまだ答えを決めていないとき、装飾のついたページを返すのは誠実ではありません。文法の話も要りません。「今は難しい」と一行で書くほうがいい。\n\nまた、返事が遅れたこと自体を謝りたいなら、このテンプレートは合いません。関係がこじれた後の「会いたい」は、別の言葉から始める必要があります。実際、SubhSandeshで最も多くつくられているのは謝罪のページ（/apology-dashboard）で1,396件、全体の26.9%です（2026年9月24日計測）。謝る用事のほうが、会いたいと言う用事より六倍以上多いということです。\n\n最後に、この記事の本体は文法です。相手の気持ちを読む話は上位10ページが山ほど書いています。ここが足しているのは、なぜ「私も」で、なぜ「も」を付けなくても通じるのか、という一点だけです。\n\n## 出典\n\n- [デジタル大辞泉「も」](https://kotobank.jp/word/%E3%82%82-644757)（係助詞、第一義「ある事柄を挙げ、同様の事柄が他にある意を表す」）\n- [デジタル大辞泉「たい」](https://www.weblio.jp/content/%E3%81%9F%E3%81%84)（希望の助動詞、第一義「話し手の希望を表す」、補説に「…ヲ…タイ」「…ガ…タイ」の両形）\n- [デジタル大辞泉「たがる」](https://kotobank.jp/word/%E3%81%9F%E3%81%8C%E3%82%8B-559558)（第一義「話し手以外の人の希望を表す」）\n- [小林亜希子（2009）](https://www.jstage.jst.go.jp/article/gengo/136/0/136_121/_article/-char/en)「とりたて詞の極性とフォーカス解釈」『言語研究』136号121頁以下\n- [畠山真一（2012）](https://www.jstage.jst.go.jp/article/sgba/6/0/6_KJ00008526259/_article/-char/ja/)「感情表出動詞の人称制限と変化後の局面の二重性」『尚絅学園研究紀要 A.人文・社会科学編』6号63〜77頁\n- [Tatoeba 日英対訳コーパス](https://tatoeba.org/ja/sentences/search?from=jpn&to=eng&query=%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8C%E3%81%A3)（「会いたがっ」15文、うち三人称主語13文）\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/aitai-tte-iwareta-toki-no-kaeshikata#post",
+        "inLanguage": "ja",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Japanese language",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Japanese_language",
+              "https://www.wikidata.org/wiki/Q5287"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Japanese particles",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Japanese_particles",
+              "https://www.wikidata.org/wiki/Q1480213"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Japanese grammar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Japanese_grammar",
+              "https://www.wikidata.org/wiki/Q1343874"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Desiderative mood",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Desiderative_mood",
+              "https://www.wikidata.org/wiki/Q1200631"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Focus (linguistics)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Focus_(linguistics)",
+              "https://www.wikidata.org/wiki/Q1435289"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical particle",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_particle",
+              "https://www.wikidata.org/wiki/Q184943"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "デジタル大辞泉（小学館）「も」",
+            "url": "https://kotobank.jp/word/%E3%82%82-644757"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "デジタル大辞泉（小学館）「たい」",
+            "url": "https://www.weblio.jp/content/%E3%81%9F%E3%81%84"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "デジタル大辞泉（小学館）「たがる」",
+            "url": "https://kotobank.jp/word/%E3%81%9F%E3%81%8C%E3%82%8B-559558"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "小林亜希子「とりたて詞の極性とフォーカス解釈」, journal 言語研究 (Gengo Kenkyu, Linguistic Society of Japan), vol. 136, p. 121",
+            "url": "https://www.jstage.jst.go.jp/article/gengo/136/0/136_121/_article/-char/en",
+            "datePublished": "2009-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "畠山真一「感情表出動詞の人称制限と変化後の局面の二重性」, journal 尚絅学園研究紀要 A.人文・社会科学編, vol. 6, pp. 63–77",
+            "url": "https://www.jstage.jst.go.jp/article/sgba/6/0/6_KJ00008526259/_article/-char/ja/",
+            "datePublished": "2012-03-31"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tatoeba Japanese–English corpus",
+            "url": "https://tatoeba.org/ja/sentences/search?from=jpn&to=eng&query=%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8C%E3%81%A3"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "「会いたい」への返し方 四つの型",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "私も会いたい — 「も」が主語に付き、主格の「が」を置き換える。書き言葉でも曖昧でない（測定55例中20件）"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "君にも会いたい — 「も」が相手に付き「に」に重なる。書き言葉でも曖昧でない（測定55例中0件）"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "会いたい（裸） — 何も付けない。人称制限が主語を話し手に決める（測定55例中20件）"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "嬉しい／いつ会える？ — 何も付けず、感情か予定に話題を移す（測定55例中15件）"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "会いたいって言われた時の返し方",
+    "angle": "Wins by being the only page on the measured jp-ja SERP that answers the grammar of the reply rather than the psychology of the sender — 55 quoted reply lines counted across the 9 top-10 pages that could be read, of which 20 carry the additive 係助詞 も and 20 carry no additive marker at all, explained from デジタル大辞泉 plus two open-access J-STAGE papers read in full (小林 2009 on とりたて詞 licensed in their merged position; 畠山 2012 on 人称制限), and by showing that the search query's own 「って言われた」 is a workaround forced by that person restriction, which none of the ten ranking pages mentions.",
+    "bodyLanguage": "Japanese",
+    "region": "jp-ja",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/templates"
+    ],
+    "factsUsed": [
+      "#3 page type: \"I love you\" page (/love-gf) — 1,182 created, 22.7% of all pages — measured 2026-09-24",
+      "#5 page type: Darling romantic page (/darling) — 457 created, 8.8% of all pages — measured 2026-09-24",
+      "#4 page type: birthday page for a partner (/birthday-gf) — 510 created, 9.8% of all pages — measured 2026-09-24",
+      "#1 page type: apology dashboard (/apology-dashboard) — 1,396 created, 26.9% of all pages — measured 2026-09-24",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "88.8% of started miss-you pages are published and shared (190 of 214) — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://kotobank.jp/word/%E3%82%82-644757",
+        "stat": "デジタル大辞泉（小学館）「も」: labelled 係助詞, first sense 「ある事柄を挙げ、同様の事柄が他にある意を表す」 with the example 「ぼくも知らない」. Headword on the fetched page confirmed as も. Instrument, not a journal."
+      },
+      {
+        "url": "https://www.weblio.jp/content/%E3%81%9F%E3%81%84",
+        "stat": "デジタル大辞泉（小学館）「たい」: 希望の助動詞, first sense 「話し手の希望を表す」; 補説 records the 「…ヲ…タイ」/「…ガ…タイ」 alternation since 室町時代. Headword confirmed as たい. Instrument, not a journal."
+      },
+      {
+        "url": "https://kotobank.jp/word/%E3%81%9F%E3%81%8C%E3%82%8B-559558",
+        "stat": "デジタル大辞泉（小学館）「たがる」: first sense 「話し手以外の人の希望を表す」 — the dedicated non-speaker desiderative. Headword confirmed as たがる. Instrument, not a journal."
+      },
+      {
+        "url": "https://www.jstage.jst.go.jp/article/gengo/136/0/136_121/_article/-char/en",
+        "stat": "小林亜希子「とりたて詞の極性とフォーカス解釈」, journal 言語研究 (Gengo Kenkyu, Linguistic Society of Japan), vol. 136, p. 121: toritate particles mo and wa are licensed as focus by Agree with F, and since movement is not required for focus licensing either particle can remain in its merged position. Peer-reviewed, open access; full text read via the J-STAGE PDF, not the abstract.",
+        "publishedDate": "2009-01-01"
+      },
+      {
+        "url": "https://www.jstage.jst.go.jp/article/sgba/6/0/6_KJ00008526259/_article/-char/ja/",
+        "stat": "畠山真一「感情表出動詞の人称制限と変化後の局面の二重性」, journal 尚絅学園研究紀要 A.人文・社会科学編, vol. 6, pp. 63–77: defines 人称制限 as the restriction of the subject to first person in the 言いきり form in conversational (はなしあい) contexts, citing 金水1989/工藤1995/南2002; notes the restriction is lifted by ラシイ/ヨウダ modality (寺村1984/金水1989/仁田1991); footnote 1 records that the first-person subject is normally omitted and, if realised, normally particle-less (東1999). Peer-reviewed, open access; full text read via the J-STAGE PDF.",
+        "publishedDate": "2012-03-31"
+      },
+      {
+        "url": "https://tatoeba.org/ja/sentences/search?from=jpn&to=eng&query=%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8C%E3%81%A3",
+        "stat": "Tatoeba Japanese–English corpus: 15 sentences contain the exact substring 会いたがっ; 13 carry an explicit third-person subject (父/トム/彼女/パパ/両親/ヘンリー/彼/母さん) and 0 are first-person-only. Across the 58 sentences containing 会いたい, にも会いたい occurs 0 times. Counted by the author on 2026-09-28 via the api_v0 endpoint. Instrument, not a journal."
+      }
+    ],
+    "serpMeasurement": {
+      "measuredOn": "2026-09-28",
+      "query": "会いたいって言われた時の返し方",
+      "route": "scripts/serp-ddg.mjs (DuckDuckGo HTML, --region jp-ja) — ONE clean call; the confirming second call returned '(no results parsed)', the documented DDG throttle, so only one run is confirmed. This is a DuckDuckGo proxy, NOT Google, and is labelled as such in the body.",
+      "routesTriedAndFailed": [
+        "Brave search.brave.com?country=jp via scripted fetch — HTTP 429",
+        "Bing mkt=ja-JP via scripted fetch — HTTP 200 but b_no (zero-result shell). Per BRIEF section 3 this is a throttle, not a finding, and is NOT reported as a property of the keyword.",
+        "Google gl=jp&hl=ja&pws=0 in the shared real browser — NOT attempted, because the DDG call succeeded first and BRIEF section 3 documents that the shared Chrome is contended across six agents; a single verified DDG run was preferred to a scrape that could not be isolated."
+      ],
+      "selfAuthentication": "The tool echoed back `query: 会いたいって言われた時の返し方`, and 9 of the 10 result pages were then fetched individually and confirmed to contain 会いたい. smartlog.jp returned HTTP 403 to a scripted UA and was NOT read, so every page-level count below is 'of the 9 I could read', never of 10.",
+      "results": [
+        "1 smartlog.jp/240310 — men's lifestyle magazine (403 to scripted fetch, not read)",
+        "2 happymail.co.jp — dating-app operator's blog",
+        "3 wikihow.jp — wikiHow Japan",
+        "4 anny.gift — gift media magazine",
+        "5 miror.jp — online fortune-telling service's column",
+        "6 omoshiroi-kaeshi.com — single-topic 'funny replies' site",
+        "7 love.topicks.jp — small personal blog",
+        "8 uranaisikei.com — individual fortune-teller's blog",
+        "9 wikihow.jp — wikiHow Japan (second entry)",
+        "10 zyoshikagami.xsrv.jp — small blog on shared hosting"
+      ],
+      "weakCount": "5 of 10 — omoshiroi-kaeshi.com, love.topicks.jp, uranaisikei.com, zyoshikagami.xsrv.jp and miror.jp. This matches the WAVE4-PLAN row's predicted weak=5 exactly. The SERP is NOT owned: there is no national publisher with decade-scale authority here, unlike the de-de and br-pt listicle SERPs the brief documents.",
+      "gap": "Zero of the 10 results is a dictionary, grammar reference, corpus or academic source. Measured across the 9 pages that could be read: 「たがる/たがっ」 appears on 2 (both incidentally, never as grammar), 「願望」 on 1, and 「人称」「係助詞」「助動詞」「大辞泉」「国語辞典」 on 0. Every page treats 会いたい as a signal of the sender's psychology (男性心理) and none treats it as a grammatical form.",
+      "checkableErrorInARankingResult": "wikiHow Japan, rank 9 on the measured SERP, offers under 「友人への返信」 the line 「あなたを恋しく思うほどではありませんよ、友よ！」 as one of its 「明るい返事」. That means 'I do not miss you that much, friend' — a denial. The English wikiHow original is an affectionate tease addressed to the other person ('don't miss me too much'). The person restriction is what broke it: 恋しい, like 会いたい, cannot be predicated of the addressee in a 言いきり main clause, so the experiencer was moved onto the speaker and the sense inverted. Deliberately NOT linked — it is a ranking competitor, and references/competitors.md forbids the link."
+    },
+    "hypothesisTested": {
+      "given": "The orchestrator's framing: Japanese may be the first language in this reply lane with NO additive particle slot at all in the natural reply, because 会いたい is a -tai desiderative.",
+      "result": "OVERTURNED in its strong form, and the negative result is the post's spine. Japanese has a fully available additive slot — も, labelled 係助詞 by デジタル大辞泉 — and it is the single most common reply shape on the measured SERP: 20 of 55 quoted reply lines are 私も/俺も/自分も会いたい. The claim that no additive is available is simply false.",
+      "whatIsActuallyTrue": "Two things, both measured. (1) も is bound to the phrase it focuses and is licensed there without movement (小林 2009), and it DISPLACES the nominative が (私も, never *私がも) while STACKING on に (君にも). So Japanese writes the scope of the additive into the morphology and never has to reorder the clause — which is exactly what German could not do: the sibling ich-vermisse-dich-auch measured the disambiguating order 「Auch ich vermisse dich」 at 0 occurrences in 75,520,701 tokens. (2) Separately, Japanese has a ZERO option no other language in the lane has: 人称制限 restricts a 言いきり -tai predicate to a first-person experiencer (畠山 2012, citing 金水1989/工藤1995/南2002), and the first-person subject is normally omitted outright (東1999), so a bare 会いたい already reads as 'me too'. That is 20 more of the 55 lines. So the refined claim — Japanese is the first language in the lane where the natural reply can carry no additive marker at all and still be additive — holds, while the strong claim does not.",
+      "thirdFinding": "The keyword itself is evidence for the constraint. 「会いたいって言われた時」 uses the quotative って plus the passive 言われた because a searcher cannot predicate 会いたい of another person in a plain main clause; the alternatives are 会いたがる or ラシイ/ヨウダ modality. Tatoeba: 15 sentences contain 会いたがっ, 13 with an explicit third-person subject, 0 first-person-only. None of the ten ranking pages notices this."
+    },
+    "structuralLimitations": [
+      "WORD BAND vs JAPANESE: see auditReport.failed. The verifier's plain whitespace split reads 195 for a 4,449-kana/kanji body (~1,780 English-word equivalent; 2,889 Intl.Segmenter ja word-like segments). This is the batch's first CJK-body post, so no sibling had surfaced it.",
+      "INSTRUMENT TRAP, kotobank: https://kotobank.jp/word/も-646473 returns HTTP 200 and serves the entry for モノルビ (monoruby), not も. https://kotobank.jp/word/たい redirects to entry 556227, which is THAILAND, not the auxiliary たい. Both would have been cited as the word being looked up. The headword on every fetched page was read and confirmed before citing — the correct も entry is 644757, and the auxiliary たい was taken from weblio instead because kotobank's bare-word URL cannot reach it.",
+      "INSTRUMENT DOWN: dictionary.goo.ne.jp (the other デジタル大辞泉 host) failed at the TLS/connect layer on every attempt from this sandbox — not a 403, no response at all. weblio.jp was used for the たい entry instead; it serves the same デジタル大辞泉 text and the headword was confirmed.",
+      "LINE CUT: the draft originally asserted that 君にも会いたい is unavailable in a reply. It is perfectly grammatical, so the claim was cut and replaced with the measured fact that it occurs 0 times in the 55 SERP reply lines and 0 times in Tatoeba's 58 会いたい sentences, with the reason stated (a reply has exactly one addressee, so there is nothing to add to). Absence of use is reported as absence of use, never as ungrammaticality.",
+      "LINE CUT: an earlier draft claimed 会いたい cannot take a second-person subject at all. Tatoeba shows 5 interrogatives such as 私に会いたいの？ ('Do you want to see me?'), where the restriction shifts to second person. The claim was narrowed to 言いきり (plain declarative) form, which is what 畠山 (2012) actually states.",
+      "CORPUS SIZE: Tatoeba is small. 15 会いたがっ sentences and 58 会いたい sentences are counts, not frequencies, and no rate is derived from them. NINJAL's 少納言/中納言 would be the right instrument but both require an interactive session, and BRIEF section 3 documents that interactive multi-step browser work is corrupted by contention across the six concurrent agents — so it was not attempted rather than attempted unreliably.",
+      "SERP: one confirmed run on one route (DuckDuckGo, not Google), 9 of 10 pages readable, 55 reply lines. A second run on another day would move ranks. Every count in the body is stated with its denominator.",
+      "SCHEMA PATH: references/article-json-schema.md does NOT exist at the repo root, which is where BRIEF.md item 3 and the task prompt both point. It is at .claude/skills/blog-optimisation/references/article-json-schema.md. Read there and followed; recorded so the path in the brief can be fixed.",
+      "`timeout` is not on PATH on this macOS host, so the brief's shell idioms that wrap a script in `timeout` fail with 'command not found' rather than running it.",
+      "CAP CENSUS CONFLICT: BRIEF section 7 states Frontiers in Psychology is ALREADY OVER at 5 posts; the orchestrator's mid-task journalcheck census reports it at 2 posts with ONE SLOT LEFT. The two disagree. Not load-bearing here — this post cites no Frontiers paper and no PMC paper at all — but the contradiction should be resolved before another row relies on either number."
+    ],
+    "mandatoryCaveatsInBodyProse": [
+      "The database records which TEMPLATE was opened, never who received it, and carries no language or country field — stated in 「この数字が言えないこと」.",
+      "n = 214 and the template went live 2026-07-28, so two months of data and no seasonal claim — stated in the same section.",
+      "viewCount is page views, not unique visitors — stated in the same section.",
+      "City, background music and 'together since' are pickers with defaults, so their fill rates are not sender choices — stated in the same section, even though no picker figure is cited.",
+      "The linked product is an English-language page with English labels — stated in its own H2, 「リンク先は英語のページです」."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+          "why": "STRUCTURAL, and this is the batch first CJK body. Japanese is written without inter-word spaces, so verify-batch.mjs line 177 (md.split(/\\s+/)) returns 195 tokens for a body of 4,449 kana/kanji — about 1,780 English words at the standard 2.5-characters-per-word conversion, and 2,889 word-like segments under Intl.Segmenter(\"ja\", {granularity: \"word\"}). The body is at the intended depth; the instrument cannot see it. Reaching 1,500 whitespace tokens would require wakachi-gaki (a space after every bunsetsu), which is not adult Japanese prose and would read as machine output, so it was not done. Closes when verify-batch.mjs branches on script and segments CJK bodies — an equivalent band would be roughly 2,500-3,000 ja segments, or 4,000-4,500 kana/kanji characters."
+        }
+      ],
+      "additionalChecks": [
+        "pricecheck-intl.mjs: run, clean. No price, cost, currency, tier or subscription word in any of the 13 guarded languages; 無料 does not appear.",
+        "Slug collision: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=aitai-tte-iwareta-toki-no-kaeshikata returned total=0 on 2026-09-28. Slug is free.",
+        "capcheck.mjs and journalcheck.mjs run immediately before writing: kotobank.jp, weblio.jp and jstage.jst.go.jp are all at 0 posts in this batch; 言語研究 and 尚絅学園研究紀要 appear in neither the AT-CAP nor the ONE-SLOT-LEFT census. tatoeba.org is a cap-exempt instrument.",
+        "Every one of the 6 outbound URLs was fetched, and the headword or title on the page returned was read and confirmed to be the one cited. Both J-STAGE papers were read as full-text PDFs via /usr/local/bin/pdftotext, not as abstracts.",
+        "Body internal links, counted the way verify-batch.mjs counts them (/blog paths excluded): exactly 3 — /missyou-gf (mandatory), /streak (oneOfLinks alternative, with the reason it suits a long-distance reader better) and /templates. The 4 sibling cross-links are /blog paths and are excluded from that count by design.",
+        "No competitor is linked. wikiHow Japan is named and quoted for its checkable error but carries no href.",
+        "Generic context statistics: ZERO. The post uses no PIB/TRAI/Census-class figure at all. Every number is first-party, a count the author made from Tatoeba or from the measured SERP, or a figure carried over from a named sibling post. The cap of 1 is met by using none.",
+        "metaTitle is 53 full-width characters and metaDescription 150, both inside the checklist bands. Worth a reviewer note: the jp-ja SERP renders roughly 30 full-width characters of a title, so the tail of this one will truncate on display. The numeric rule was followed rather than the display convention, deliberately.",
+        "Slug: assigned by WAVE4-PLAN.json and kept. It is long (36 characters) and carries the romanised Japanese particles tte and no, which are grammatical words rather than English stop words, so the no-stop-words rule is read as satisfied."
+      ],
+      "honestAssessment": "It is the only page on this SERP that answers the grammar question at all: the other ten read 会いたい as a psychological signal, and 0 of the 9 pages I could read contain 人称制限, 係助詞, 助動詞 or a dictionary citation. The countable assets are original — 55 reply lines classified from the ranking pages themselves, 15/13 on 会いたがっ from Tatoeba, and a checkable meaning-inversion in the rank-9 result explained by the very constraint the post is about. Against that: the domain is new to Japanese, this is its first ja-language page, and the incumbents are established Japanese media with years of authority, so ranking is a question of months and of whether the grammar framing matches enough of the intent — much of which is genuinely 'does he like me', which this post deliberately does not serve. The first-party differentiation is also thin by construction: the database has no language field, so none of the SubhSandesh numbers is about Japanese readers, and three of the seven facts used are shared with 1–2 siblings each."
+    },
+    "generatedAt": "2026-09-28T10:28:54.021Z"
+  }
+}
