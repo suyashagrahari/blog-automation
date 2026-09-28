@@ -1,0 +1,346 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Imágenes de «te extraño» para enviar: qué le pasa a la imagen cuando la mandas",
+    "slug": "imagenes-de-te-extrano-para-enviar",
+    "excerpt": "La imagen no llega como la ves: llega recortada, recomprimida y, si la frase está dentro de los píxeles, sin una palabra legible para un buscador o un lector de pantalla. Qué proporción aguanta, qué pasa con la ñ en un enlace y qué escribir junto a la imagen.",
+    "metaTitle": "Imágenes de te extraño para enviar: qué llega de verdad",
+    "metaDescription": "La imagen llega recortada y sin texto legible. Medimos 94 imágenes del top de México: 76.6% con alt, pero el alt se queda en la página. Qué proporción usar.",
+    "keywords": "imágenes de te extraño para enviar, imagenes de te extraño, te extraño imagen, frases de te extraño con imagen, imagen te extraño whatsapp",
+    "canonicalURL": "https://subhsandesh.in/blog/imagenes-de-te-extrano-para-enviar",
+    "ogType": "article",
+    "tags": [
+      "te-extrano",
+      "imagenes",
+      "whatsapp",
+      "accesibilidad",
+      "espanol"
+    ],
+    "keyTakeaways": [
+      "El 48.3% de nuestras páginas compartidas se abren en un teléfono (27,725 de 57,456 vistas), que es donde el recorte de la imagen se nota.",
+      "La frase escrita dentro de los píxeles no la lee ningún buscador ni ningún lector de pantalla: las WCAG 2.2 piden texto en lugar de imágenes de texto (criterio 1.4.5, nivel AA).",
+      "Medimos 94 imágenes en las páginas que hoy rankean en México: 76.6% llevan alt. El alt vive en la página web, no en el archivo, así que no viaja con la imagen que mandas.",
+      "«te-extraño.jpg» se convierte en dos enlaces distintos (%C3%B1 o n%CC%83) según la forma Unicode: nombra el archivo sin ñ y sin acentos.",
+      "Medido hoy: la vista previa de /missyou-gf llega en inglés y su imagen declarada devuelve HTTP 404, con controles 200 en el mismo servidor."
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué proporción conviene para una imagen de «te extraño» que voy a mandar por chat?",
+        "answer": "El cuadrado (1:1) es el que menos sufre, porque casi cualquier recorte centrado lo respeta. El vertical (4:5 o 9:16) se ve mejor en una historia pero pierde arriba y abajo si viaja a un espacio horizontal. Pase lo que pase, deja aire en los bordes: todo recorte que existe recorta de las orillas hacia adentro."
+      },
+      {
+        "question": "¿Por qué se ve borrosa la imagen cuando me la reenvían varias veces?",
+        "answer": "Porque cada reenvío puede volver a comprimirla. La pérdida se acumula, y lo primero que se degrada es justo el texto fino escrito dentro de la imagen. Si la frase importa, escríbela en el mensaje y no dentro del archivo: ahí no se degrada nunca."
+      },
+      {
+        "question": "¿Conviene poner la frase dentro de la imagen o escribirla aparte?",
+        "answer": "Aparte, siempre. Dentro de la imagen la frase es invisible para los buscadores y para los lectores de pantalla, y se degrada con la compresión. Escrita en el mensaje sobrevive a todo, incluso a que la imagen no cargue."
+      },
+      {
+        "question": "¿Una frase escrita dentro de una imagen aparece en las búsquedas?",
+        "answer": "No como texto. Para un buscador esa imagen es contenido no textual sin alternativa escrita. El criterio 1.1.1 de las WCAG 2.2 exige que todo contenido no textual tenga una alternativa textual con un propósito equivalente, y ese es exactamente el material del que se alimenta una búsqueda."
+      },
+      {
+        "question": "¿Qué pasa si mi archivo se llama «te extraño.jpg», con ñ?",
+        "answer": "En tu computadora casi seguro no pasa nada: lo probamos y el sistema conserva el nombre y lo encuentra en las dos formas Unicode. El problema aparece si ese nombre viaja dentro de un enlace, porque la ñ se convierte en %C3%B1 o en n%CC%83 según cómo se haya escrito, y son dos direcciones distintas. Nómbralo «te-extrano.jpg»."
+      },
+      {
+        "question": "¿Puedo mandar un GIF en lugar de una imagen fija?",
+        "answer": "Sí, y los sitios que rankean para esta búsqueda están llenos de ellos. Aplica exactamente lo mismo: el texto animado dentro del GIF no lo lee nadie más que el ojo, y la compresión lo castiga más que a una imagen fija. La línea escrita afuera sigue siendo lo que salva el mensaje."
+      },
+      {
+        "question": "¿Qué recibe una persona ciega cuando le mando una imagen con una frase?",
+        "answer": "Silencio, o el nombre del archivo leído en voz alta. El texto alternativo que sí llevan muchas páginas web es un atributo del HTML de esa página: no está dentro del archivo. Lo comprobamos recorriendo un PNG nuestro fragmento por fragmento y no tiene ningún bloque de texto."
+      },
+      {
+        "question": "¿Es mejor mandar la imagen por mensaje directo o publicarla en una historia?",
+        "answer": "Depende de a quién y de qué tan pública quieras hacer la cosa, pero hay evidencia útil: en un estudio de 2024 con 90 entrevistas, compartir por WhatsApp se percibía como no problemático mientras que compartir en redes sociales era algo que se evitaba. Mandar directo no es lo mismo que publicar."
+      },
+      {
+        "question": "¿Por qué la vista previa del enlace me sale en inglés si yo escribí en español?",
+        "answer": "Porque el idioma de la vista previa lo fija la página enlazada, no tu mensaje. Nuestra plantilla declara og:locale en en_US con título y descripción en inglés, y según la especificación Open Graph en_US es además el valor por omisión de ese campo. Tu texto sí llega en español; lo que va en inglés es el marco."
+      },
+      {
+        "question": "¿Cuánto debo escribir junto a la imagen?",
+        "answer": "Poco. En las 214 páginas de «te extraño» que llevamos medidas, la mediana de la carta que la gente escribe es de 88 palabras, y eso es una carta entera. Para acompañar una imagen, una o dos líneas bastan."
+      },
+      {
+        "question": "¿Sirve de algo cambiarle el nombre al archivo antes de mandarlo?",
+        "answer": "Para el chat, casi nada: quien la recibe rara vez ve el nombre. Sirve si la imagen va a vivir en una página web o dentro de un enlace, porque ahí el nombre se vuelve parte de la dirección. El RFC 3986 describe justo esa transformación de un nombre local a los caracteres permitidos en una URL."
+      },
+      {
+        "question": "¿Tienen ustedes una galería de imágenes para descargar?",
+        "answer": "No, y por eso esta página empieza diciéndolo. Si lo que quieres es bajar una imagen y mandarla, los sitios de imágenes y Pinterest te sirven mejor. Lo que sí tenemos es una página que se manda como enlace en vez de como archivo, y la explicación de qué le pasa a cualquier imagen cuando la envías."
+      }
+    ],
+    "coverImageQuery": "mujer mirando telefono mensaje imagen",
+    "coverImagePrompt": "A close, photorealistic shot of a woman's hands holding a phone at night, a photo message open on the screen with the image partly cropped by the chat bubble. Warm lamp light from the left, cool screen glow on her fingers, shallow depth of field. Clean negative space in the upper third for a title overlay, 16:9. No legible text on the phone screen except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Imágenes de «te extraño» para enviar: qué le pasa a la imagen cuando la mandas\n\nBuscar imágenes de «te extraño» para enviar funciona, y muchas de las que encontrarás sirven. Lo que casi nadie te dice es que la imagen no llega como la ves: llega recortada, recomprimida y, si el mensaje está escrito dentro de la imagen, llega sin una sola palabra que un buscador o un lector de pantalla puedan leer. De nuestras 57,456 vistas registradas de páginas compartidas, el 48.3% se abren en un teléfono (27,725 de 57,456), que es justo donde el recorte se nota. Y en las 214 páginas de «te extraño» que llevamos medidas, la carta que la gente escribe tiene una mediana de 88 palabras. O sea: quien manda esto sí quiere decir algo, no nada más mandar un dibujo.\n\n## Esto no es una galería, y prefiero decírtelo antes de que sigas\n\nNo tenemos una galería para descargar. Si llegaste por eso, Pinterest y los 6 sitios de imágenes que hoy salen arriba en Google te servirán mejor. Lo digo primero, porque la alternativa es hacerte bajar seis pantallas para que te des cuenta solo.\n\nLo que sí puedo darte es lo que ninguna galería da: qué le pasa al archivo entre que lo eliges y tu persona lo ve.\n\n## La proporción es lo que decide qué se recorta\n\nUna imagen no tiene «un» tamaño cuando la compartes: tiene el que cada superficie le imponga. El cuadrado (1:1) es el que menos sufre, porque casi cualquier recorte centrado lo respeta. El vertical (4:5 o 9:16) llena la pantalla del teléfono, pero si viaja a un espacio horizontal pierde arriba y abajo. Y el horizontal ancho (1.91:1) es el de las vistas previas de enlaces.\n\nEsa última cifra no la saqué de un blog: la medí en nuestra propia página. `/missyou-gf` declara `og:image:width` 1200 y `og:image:height` 630, que es exactamente 1.91:1.\n\nAquí va la parte honesta: **no pude verificar las cifras exactas de recorte de WhatsApp ni de Instagram.** Las páginas de ayuda de Meta devolvieron HTTP 400 a cada intento automatizado que hice hoy. Podría repetir los números que circulan por ahí, pero serían de oídas, y este texto se sostiene justo en lo contrario. La regla práctica sí se sostiene sola: **pon lo importante al centro y deja aire en los bordes**, porque todo recorte que existe recorta desde las orillas hacia adentro.\n\n## El texto escrito dentro de la imagen no existe para nadie más que para el ojo\n\nSi la frase «te extraño» está quemada en los píxeles, para una computadora esa imagen no dice nada. No es una opinión de diseño: es lo que dice la norma.\n\nEl criterio 1.1.1 de las [WCAG 2.2 del W3C](https://www.w3.org/TR/WCAG22/) (Recomendación del 12 de diciembre de 2024, nivel A) exige que «todo contenido no textual que se presenta al usuario tenga una alternativa textual que cumpla un propósito equivalente». El criterio 1.4.5, nivel AA, es aún más directo: «si las tecnologías empleadas pueden lograr la presentación visual, se usa texto para transmitir la información en lugar de imágenes de texto».\n\nQuien usa un lector de pantalla no recibe tu frase: recibe silencio, o el nombre del archivo.\n\n## Medí las páginas que hoy salen en Google, y me equivoqué\n\nIba a escribir que las páginas que rankean descuidan esto. Lo medí antes de escribirlo y resultó falso. Revisé las cuatro páginas alcanzables del top de Google en México: **94 imágenes, 72 con atributo `alt` no vacío, o sea 76.6%.** No están fallando en eso.\n\nPero el hallazgo real es mejor que el que yo esperaba: **ese `alt` vive en la página web, no en el archivo.** Es un atributo de HTML. En cuanto descargas la imagen y la mandas por un chat, el `alt` se queda atrás. Tu persona recibe los píxeles y nada más.\n\nLo comprobé en nuestro propio archivo. Recorrí `og-image.png` (1370×784) fragmento por fragmento: **cero bloques de texto** (`tEXt`, `iTXt`, `zTXt`). La descripción que la página declara en su HTML no está dentro de los bytes que recibe quien la abre. La [especificación Open Graph](https://ogp.me/) lo dice sin rodeos: `og:image:alt` es «una descripción de lo que hay en la imagen (no un pie de foto)», y es un dato de la página, no del archivo.\n\n## La ñ y los acentos: el archivo aguanta, el enlace no siempre\n\nAquí hay una trampa técnica que sí importa. La «ñ» se puede escribir de dos maneras que se ven idénticas: en forma NFC es un solo carácter, U+00F1, dos bytes (`c3 b1`); en forma NFD son dos, U+006E más U+0303, tres bytes (`6e cc 83`). Son canónicamente equivalentes según el [anexo UAX #15 de Unicode](https://www.unicode.org/reports/tr15/), pero **no son la misma cadena** para una comparación simple.\n\nLa consecuencia: un archivo llamado `te-extraño.jpg` se convierte en `te-extra%C3%B1o.jpg` o en `te-extran%CC%83o.jpg` según la forma en que se haya escrito. Dos enlaces distintos para el mismo nombre visible. Lo mismo pasa con á, é, í, ó, ú y ü.\n\nTambién probé lo que suele repetirse sobre macOS, y resultó desactualizado. Escribí un archivo con el nombre en NFC: el sistema me lo devolvió en NFC, 15 bytes, y lo encontró buscándolo en las dos formas. El disco moderno es tolerante y conserva la forma. **El problema no está en tu computadora: está en el enlace.** El [RFC 3986](https://www.rfc-editor.org/rfc/rfc3986.txt), en su sección 2.5, lo describe así: los nombres locales se guardan con una codificación local, y quien produce la URL tiene que transformarlos al conjunto restringido de caracteres de una dirección. Ahí una forma u otra deja de dar igual.\n\nLa recomendación aburrida y correcta: **nombra el archivo sin acentos y sin ñ** (`te-extrano.jpg`). El texto con acentos va en el mensaje, no en el nombre del archivo.\n\n## Lo que de verdad llega si mandas el enlace, medido hoy\n\nSi en lugar de una imagen mandas nuestra página, esto es lo que tu persona ve en la vista previa. Lo medí hoy, no lo supongo.\n\n`/missyou-gf` declara `og:locale` en `en_US`, con `og:title` y `og:description` en inglés, y la página se declara `<html lang=\"en\">`. Según la especificación Open Graph, `en_US` es además el valor por omisión de ese campo. Escribes en español y la vista previa llega en inglés.\n\nY hay algo peor, que encontré al verificar lo anterior: **la imagen de vista previa que la página declara devuelve HTTP 404.** Lo probé con y sin `www`, y con el mismo identificador que usa el rastreador de Facebook. Como control, en el mismo servidor, `/favicon.ico` y `/og-image.png` responden 200: el servidor sí entrega imágenes, ese archivo específico no está.\n\nAsí que hoy un enlace a esa plantilla llega con título en inglés, descripción en inglés y sin imagen de vista previa. Ya lo reportamos. Mientras tanto la conclusión para ti es la de toda esta página: **escribe tu línea en el mensaje**, no la dejes vivir en la vista previa ni dentro de la imagen.\n\n## La frase va CON la imagen, no dentro de ella\n\nUna imagen sola es ambigua, y eso está estudiado. Un trabajo publicado en la revista [*Visual Communication*](https://europepmc.org/article/PMC/PMC12588420) en marzo de 2024, con 90 entrevistas a 21 parejas y 9 pares de amistades —60 adultos de entre 18 y 91 años— encontró que «la naturaleza polisémica de una imagen creó terreno fértil para el conflicto». Polisémica quiere decir que significa varias cosas a la vez y que quien la recibe elige una. Puede no ser la tuya.\n\nEl mismo estudio observó algo útil aquí: compartir por WhatsApp se percibía como no problemático, mientras que compartir en redes sociales se evitaba. Mandar directo no es lo mismo que publicar.\n\nPor eso la regla es sencilla: **una línea escrita afuera de la imagen, siempre.** Si la imagen no carga, si la comprimen hasta hacerla ilegible, o si tu persona usa un lector de pantalla, esa línea es lo único que queda. Y no tiene que ser larga.\n\n## Qué aguanta cada formato\n\n| Formato | Proporción | Texto legible por máquina | Sobrevive al reenvío | Dónde falla |\n|---|---|---|---|---|\n| Imagen con frase quemada | 1:1 o 4:5 | No — cero | Sí, es un archivo | Lector de pantalla, búsqueda, recompresión |\n| Imagen + línea escrita en el chat | 1:1 recomendado | Sí, la línea | La línea se pierde al reenviar la imagen sola | Si reenvían solo el archivo |\n| Vista previa de un enlace | 1.91:1 (1200×630) | Sí, título y descripción | Sí, viaja con el enlace | Depende del idioma y de que la imagen exista |\n| Página abierta | variable | Sí, todo | Sí | Requiere conexión |\n\n## Para quién estás eligiendo la imagen\n\nEsta página es sobre el formato; las otras 5 tratan las palabras, a propósito. Si lo que buscas es la frase y no el archivo, el [repertorio general de frases de «te extraño»](https://subhsandesh.in/blog/frases-de-te-extrano) es el punto de partida. Si ya sabes que va por WhatsApp, lo que ese canal le hace al mensaje está en [mensajes de «te extraño» para WhatsApp](https://subhsandesh.in/blog/mensajes-de-te-extrano-para-whatsapp). Y si lo que te falta es a quién se lo escribes, están separadas por destinatario: [para él](https://subhsandesh.in/blog/te-extrano-mucho-frases-para-el), [para una novia](https://subhsandesh.in/blog/frases-de-te-extrano-para-mi-novia) y [para una amiga](https://subhsandesh.in/blog/frases-de-te-extrano-para-una-amiga). No repito aquí sus líneas: cada una cambia según a quién va dirigida, y mezclarlas es justo el error.\n\nSi quieres mandar algo que no se pueda capturar en pantalla y archivar, [la página de «te extraño»](https://subhsandesh.in/missyou-gf) es una página, no un archivo. Y si tu idea era mandar una foto de ustedes, [el rompecabezas de foto](https://subhsandesh.in/photo-puzzle) la convierte en algo que la otra persona tiene que ir armando. Las dos están **en inglés**: botones, ayudas e instrucciones. Tú escribes en español y tu persona lee tu español, pero todo lo que rodea al mensaje va en otro idioma. Si eso te estorba, manda la imagen con tu línea y ya.\n\n## Qué miden nuestros números y qué no\n\nLas 214 páginas de «te extraño» se midieron desde el 28 de julio de 2026: son dos meses, así que aquí no hay ninguna conclusión de temporada. Las vistas son vistas, no personas: quien abre la misma página veinte veces cuenta veinte veces. Campos como la ciudad o la música de fondo son selectores con valores por omisión, así que su nivel de uso no es la decisión de nadie y no lo presento como tal.\n\nY lo más importante para ti, que buscas en español: **nuestra base registra qué plantilla se abrió, nunca quién la recibió, y no está segmentada por idioma ni por país.** Ninguna de estas cifras es mexicana; son del total. Las uso para hablar de formato, no para decirte cómo se comporta la gente en México, porque eso no lo medí.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/imagenes-de-te-extrano-para-enviar#post",
+        "inLanguage": "es-MX",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Web Content Accessibility Guidelines",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines",
+              "https://www.wikidata.org/wiki/Q5364439"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode equivalence",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode_equivalence",
+              "https://www.wikidata.org/wiki/Q250798"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Percent-encoding",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Percent-encoding",
+              "https://www.wikidata.org/wiki/Q1046948"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Visual-related conflicts in close relationships",
+            "url": "https://europepmc.org/article/PMC/PMC12588420",
+            "datePublished": "2024-03-08",
+            "isPartOf": {
+              "@type": "Periodical",
+              "name": "Visual Communication"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "url": "https://www.w3.org/TR/WCAG22/",
+            "datePublished": "2024-12-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol",
+            "url": "https://ogp.me/"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "UAX #15: Unicode Normalization Forms",
+            "url": "https://www.unicode.org/reports/tr15/",
+            "datePublished": "2026-08-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "RFC 3986: Uniform Resource Identifier (URI): Generic Syntax",
+            "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+            "datePublished": "2005-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "IETF"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Qué aguanta cada formato para mandar un «te extraño»",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Imagen con la frase quemada en los píxeles"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Imagen más una línea escrita en el chat"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Vista previa de un enlace (1.91:1, 1200×630)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Página abierta en el navegador"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "imágenes de te extraño para enviar",
+    "angle": "Wins by being the only page on this SERP that treats a «te extraño» image as a file that has to survive being sent — measured crop ratios, WCAG's normative images-of-text criterion, a first-hand NFC/NFD measurement of the ñ, and a link-preview defect measured on our own /missyou-gf today — grounded in the 48.3% phone-open rate across 57,456 views that makes the crop matter.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/photo-puzzle"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12588420",
+        "stat": "90 semi-structured interviews (21 romantic dyads, 9 close-friendship dyads; 60 adults, 18–91, M=36, Switzerland): 'the polysemic nature of an image created fertile ground for conflict', and 'WhatsApp was perceived as unproblematic, while sharing on SNSs was to be avoided'. JOURNAL: Visual Communication 24(4), doi 10.1177/14703572231213936. Read in full via Europe PMC fullTextXML, not abstract-only.",
+        "publishedDate": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/WCAG22/",
+        "stat": "SC 1.1.1 Non-text Content (Level A): 'All non-text content that is presented to the user has a text alternative that serves the equivalent purpose.' SC 1.4.5 Images of Text (Level AA): 'If the technologies being used can achieve the visual presentation, text is used to convey information rather than images of text.' W3C Recommendation.",
+        "publishedDate": "2024-12-12"
+      },
+      {
+        "url": "https://ogp.me/",
+        "stat": "og:locale — 'The locale these tags are marked up in. Of the format language_TERRITORY. Default is en_US.' og:image:alt — 'A description of what is in the image (not a caption).' The Open Graph protocol specification publishes no dated revision, so publishedDate is omitted rather than invented."
+      },
+      {
+        "url": "https://www.unicode.org/reports/tr15/",
+        "stat": "UAX #15, Revision 58: NFC and NFD are canonically equivalent normalization forms. Confirmed by computation — ñ is U+00F1 (c3 b1) in NFC and U+006E U+0303 (6e cc 83) in NFD, so the two are not equal as strings.",
+        "publishedDate": "2026-08-12"
+      },
+      {
+        "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+        "stat": "§2.5 Identifying Data: 'Local names, such as file system names, are stored with a local character encoding... The URI producer will transform the local encoding to one that is suitable for a public interface and then transform the public interface encoding into the restricted set of URI characters.'",
+        "publishedDate": "2005-01-01"
+      }
+    ],
+    "serpMeasurement": {
+      "route": "Google, real browser, gl=mx&hl=es&pws=0&num=20 — content self-authenticated",
+      "controlRun": "serp-ddg.mjs 'clima ciudad de mexico' --region mx-es returned '(no results parsed)' with the query line echoed CORRECTLY, so DDG is IP-blocked rather than the SERP being empty (BRIEF §3 / laneWideFindings[20]). No DDG result recorded.",
+      "webSearchNotUsed": "Harness WebSearch is us-en only and is NOT valid evidence for an mx-es row. Saying so rather than substituting silently.",
+      "weakCount": "8 of the 8 results actually seen were weak (Pinterest across several ccTLDs, clubimagenes.com, facebookamor.com, imagenescool.com, joliecarte.com, gifsdeamor.blogspot.com). Counting only what was seen. The plan predicted 3 weak; measured it is materially weaker, consistent with WAVE5 laneWideFindings[1].",
+      "aiOverview": "Google AI Mode answered the query ('Respuesta del Modo IA para imágenes de te extraño para enviar').",
+      "corroboration": "Second authenticated run on the variant query '\"te extraño\" imágenes para enviar' returned the same vertical plus correomagico.com, adobe.com and shutterstock.com — stock and social, still zero editorial authority."
+    },
+    "structuralLimitations": [
+      "BROWSER CONTENTION, TWO INSTANCES IN THIS ROW (fifth and sixth confirmed overall). (1) The FIRST browser_navigate to my Google URL returned, in the navigate response itself, url=...q=te+extraño+en+silencio+significado and title='te extraño en silencio significado - Buscar con Google' with status:ok — the te-extrano-en-silencio-significado sibling's query. A fresh reproduction of BRIEF §14 variant (a). (2) Run 2's navigate returned MY url and MY title, and the scrape that followed returned that same sibling's SERP (H3s reading 'Te extraño en silencio Grupo Firme — letra y significado'). Both discarded, neither recorded. Content self-authentication caught both; title and URL in a navigate response are worth nothing.",
+      "ORCHESTRATOR CLAIM VERIFIED AND EXTENDED, NOT OVERTURNED. The handed-down claim was that /missyou-gf serves og:locale=en_US with an English og:title and og:description. Confirmed, plus <html lang=\"en\">. NEW, and worse: the og:image the page declares (https://subhsandesh.in/assets/missyou-gf/og-missyou-gf.png) returns HTTP 404 — on apex and www, and to a facebookexternalhit user agent. Controls on the same host: /favicon.ico 200 image/x-icon, /og-image.png 200 image/png. So the server serves images and that asset is simply missing. A Spanish sender's link arrives with an English title, an English description and NO preview image. This is a production defect worth fixing outside this batch.",
+      "MY OWN EXPECTATION OVERTURNED BY MEASUREMENT. I intended to argue that the ranking image pages neglect alt text. Measured first: 4 reachable ranking pages, 94 <img> elements, 72 with a non-empty alt (76.6%), 20 empty, 2 with no attribute. They are NOT neglecting it. The post was rebuilt on the correct and sharper point — alt is an HTML attribute that stays on the page and never travels with the downloaded file — which was then demonstrated on our own PNG (1370×784, zero tEXt/iTXt/zTXt chunks).",
+      "A WIDELY REPEATED macOS CLAIM OVERTURNED. The usual claim is that macOS stores filenames in NFD. Measured on this machine: a file written with an NFC name came back at 15 bytes with the NFC form preserved, and BOTH NFC and NFD lookups resolved it. Modern APFS is normalization-insensitive and form-preserving, not NFD-converting like HFS+. The post says the disk is forgiving and the URL is not, which is the accurate version.",
+      "COULD NOT SOURCE, AND DID NOT ASSERT: exact WhatsApp and Instagram crop dimensions. Meta help endpoints (developers.facebook.com/docs/sharing/webmasters/images/, faq.whatsapp.com, help.instagram.com) all returned HTTP 400 to scripted requests today. Rather than repeat circulating numbers, the post states the limitation in body prose and gives only the rule that survives without them (centre-weight the composition, because every crop that exists crops inward from the edges). This follows WAVE4 laneWideFindings[26] and [31] — do not launder a plausible platform figure.",
+      "FIRST-PARTY DIFFERENTIATION IS THIN AND SAID TO BE. Per BRIEF §13 and laneWideFindings[17], all 12 first-party lines are collided 14–25 times across the siblings; there is no least-collided pair left. This row differentiates on the READING of the phone-open rate (it is what makes crop behaviour matter) rather than on the number, and claims no novelty the data does not have.",
+      "Tatoeba was NOT used. Per BRIEF §14, api_v0 quoted search is not exact-phrase and does not discriminate gender, so no count from it could have been reported as a frequency. This row needed no phrase-frequency evidence.",
+      "No competitor was cited, linked or paraphrased. The four ranking pages were measured programmatically for alt-text coverage and reported only in aggregate."
+    ],
+    "additionalChecks": [
+      "Price guard: pricecheck-intl.mjs run clean; no price, cost, subscription or 'gratis'/'gratuito' token anywhere, in any language. Noted deliberately: the measured SERP is full of 'Tarjeta gratis' titles and that word is absent here by choice.",
+      "Slug checked live: https://strapi.subhsandesh.in/api/articles?filters[slug][$eq]=imagenes-de-te-extrano-para-enviar returns HTTP 200 with total=0. Free, and not a self-collision. Production Strapi is UP, per BRIEF §11.",
+      "categorySlug miss-you-across-miles confirmed against the live category list (1 of 10).",
+      "Axis discipline (WAVE5 standingRisk): H2 sets compared against all four sibling files already on disk. Zero overlap — the siblings are lexical and recipient-based (agreement, intensifiers, dictionary senses); this row is entirely about the file and its rendering. No recipient-specific lines written here, and the hub's table is not restated.",
+      "All five sources fetched and read this session; the two normative texts were quoted from the fetched document, and the scholarly source was read in full via Europe PMC fullTextXML rather than as an abstract.",
+      "Journal named for the hand-count the cap actually needs: Visual Communication. Not used elsewhere in this batch or the 2026-09-25 sibling batch. capcheck.mjs and journalcheck.mjs both clean at time of writing."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Structural. Our first-party data measures template creation and page-view behaviour (n=214 miss-you pages), not image formats — there is no honest first-party column for a table whose rows are aspect ratios and machine-readable text. The measured 1200x630 link-preview ratio appears as a cell, not a column. Closes only if we instrument per-format send/open outcomes, which the database does not record today."
+        },
+        {
+          "item": "2–4 internal links with descriptive anchor text, placed after value is established",
+          "why": "Rule collision, not a drafting defect, and already recorded lane-wide as WAVE5 laneWideFindings[4]. The cross-link contract mandates five sibling blog URLs (hub, WhatsApp channel, para-el, para-mi-novia, para-una-amiga) plus the two template links, so 7 internal links against a 2-4 ceiling. Dropping links to hit the count would break the hub-and-spoke contract. Closes when the checklist ceiling is reconciled with the cross-link contract."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Same collision as above. /missyou-gf and /photo-puzzle are both in TEMPLATE_LINKS; the five sibling blog URLs are internal links that are not and cannot be in TEMPLATE_LINKS, which lists templates rather than blog posts. Verified instead against WAVE5-PLAN.json, where the five sibling slugs are fixed in advance so the links resolve once the batch publishes."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "One of five fails it honestly. ogp.me (link-preview mechanics) could sit unchanged in the mensajes-de-te-extrano-para-whatsapp sibling, which also owns link-preview ground. The other four are axis-locked (WCAG images-of-text, UAX #15 normalization, RFC 3986 percent-encoding, and a Visual Communication study on image polysemy). Flagged rather than dropped because the og:locale/og:image measurement it supports is this row's strongest finding; the WhatsApp row should be told ogp.me is spent here."
+        }
+      ],
+      "honestAssessment": "It is the only page on this SERP that treats the image as a file rather than as a picture, and every load-bearing fact in it was measured here rather than repeated: the 94-image alt-text census of the pages that actually rank (76.6%, which overturned my own thesis), the NFC/NFD byte difference that turns te-extraño.jpg into two different URLs, the APFS behaviour that contradicts the usual macOS claim, and a link-preview defect on our own product — og:locale=en_US plus an og:image that 404s against 200-responding controls. That is a genuine, checkable moat, and the SERP is weak: 8 of 8 results seen are Pinterest boards, image listicles and card generators with no editorial authority. Two things temper it, and both are real. First, the intent is genuinely image-gallery, and we cannot ship a gallery — Gate 5's fit-3 copy-and-leave risk is correct, so a reader who wanted a JPG will take one and go however good this page is; the page says so in its second sentence rather than hiding it. Second, the first-party numbers are collided 14–25 times across the siblings and differentiate nothing on their own; the differentiation here is the reading, not the data. I am not predicting a rank — the domain is new to Spanish-language publishing and this is a low-authority site against Pinterest."
+    },
+    "generatedAt": "2026-09-28T15:48:07.558Z"
+  }
+}
