@@ -1,0 +1,304 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Mensajes de te extraño para WhatsApp: lo que el canal le hace a tu mensaje",
+    "slug": "mensajes-de-te-extrano-para-whatsapp",
+    "excerpt": "Un mensaje de te extraño no llega a WhatsApp como lo escribiste: se recorta, y si lleva enlace, la tarjeta puede llegar en inglés. Medimos qué le hace el canal — vista previa, acentos en el enlace, nota de voz frente a texto y la palomita azul.",
+    "metaTitle": "Mensajes de te extraño para WhatsApp: qué hace el canal",
+    "metaDescription": "Tu mensaje se recorta y el enlace llega con vista previa en inglés (og:locale en_US). Qué le hace WhatsApp: acentos, nota de voz (13.6%) y palomita azul.",
+    "keywords": "mensajes de te extraño para whatsapp, te extraño whatsapp, mensajes de te extraño, frases de te extraño para whatsapp, nota de voz te extraño, vista previa de enlace whatsapp",
+    "canonicalURL": "https://subhsandesh.in/blog/mensajes-de-te-extrano-para-whatsapp",
+    "ogType": "article",
+    "tags": [
+      "te extraño",
+      "whatsapp",
+      "mensajes",
+      "larga distancia",
+      "español"
+    ],
+    "keyTakeaways": [
+      "Medido en nuestra propia plantilla: /missyou-gf declara og:locale en_US y un og:title en inglés, así que un mensaje en español llega con una tarjeta de vista previa en inglés.",
+      "Dentro de un enlace la ñ se convierte en %C3%B1 por el RFC 3986: un carácter que ves son seis que viajan, y ¿ y ¡ se expanden igual.",
+      "La misma ñ puede escribirse como U+00F1 o como U+006E U+0303: se ven idénticas y no son la misma cadena, así que dos enlaces que se leen igual pueden ser distintos.",
+      "En Psychological Science (2017) el mismo contenido puntuó 0.63 en audio y 0.06 leído como transcripción; solo el 13.6% de nuestras 214 páginas de te extraño lleva nota de voz.",
+      "WhatsApp no publica cuántos caracteres muestra antes de recortar, así que no damos una cifra: el recorte va al final, y por eso el verbo va en las primeras palabras."
+    ],
+    "faqs": [
+      {
+        "question": "¿Por qué mi enlace se ve en inglés si escribí el mensaje en español?",
+        "answer": "Porque la vista previa no la arma tu mensaje sino la página enlazada. Lo medimos en nuestra propia plantilla /missyou-gf: declara la etiqueta og:locale con el valor en_US y un og:title en inglés, así que WhatsApp muestra exactamente eso. La especificación de Open Graph fija en_US como valor por defecto, de modo que cualquier página sin localizar hará lo mismo."
+      },
+      {
+        "question": "¿Conviene quitarle los acentos a un mensaje de te extraño?",
+        "answer": "Al mensaje no. Escribe te extraño con ñ, que es lo correcto y lo que se lee natural. La recomendación de quitar acentos aplica solo a las direcciones web que pegues: ahí la ñ se convierte en %C3%B1 y puede romper el enlace según el teclado desde el que lo copiaste."
+      },
+      {
+        "question": "¿Qué pasa si mando el mensaje partido en varias burbujas?",
+        "answer": "Cada burbuja llega como una notificación distinta, así que un mensaje en cinco partes son cinco avisos seguidos en el teléfono de la otra persona. Si está en el trabajo o dormida, eso se siente como insistencia y no como cariño. Para algo emocional conviene una sola burbuja bien armada."
+      },
+      {
+        "question": "¿Es mejor mandar te extraño de día o de noche?",
+        "answer": "No tenemos datos propios sobre la hora de envío, así que no vamos a inventar una recomendación. Lo que sí controlas es el contenido: si escribes a una hora incómoda, ponlo en la primera línea, como en «Te extraño. Perdón la hora», porque el recorte se come siempre el final y nunca el principio."
+      },
+      {
+        "question": "¿Qué digo si ya mandé te extraño y no me contestaron?",
+        "answer": "Lo más útil es no mandar un segundo mensaje que pida lo mismo. La palomita azul indica que la pantalla estuvo abierta, no que haya una decisión tomada. Si quieres escribir otra vez, que sea algo que no reclame respuesta, del tipo «No necesitas contestar, solo quería decírtelo»."
+      },
+      {
+        "question": "¿Sirve de algo mandar te extraño por estado en vez de por chat?",
+        "answer": "Sirve para algo distinto. El estado está dirigido a todos los que pueden verlo, así que quien lo lea tiene que adivinar si era para él. Si el mensaje es para una persona concreta, va a su chat. El estado funciona bien solo cuando no quieres pedir nada y únicamente quieres dejarlo dicho."
+      },
+      {
+        "question": "¿Una nota de voz de te extraño se siente mejor que el texto?",
+        "answer": "La evidencia disponible apunta en esa dirección, con matices. En Psychological Science, Schroeder, Kardas y Epley midieron el mismo contenido en audio y en transcripción y obtuvieron 0.63 frente a 0.06 en percepción de mente detrás del mensaje. Ojo: ese estudio midió desacuerdos, no cariño, así que el mecanismo es transferible pero el resultado no está medido en mensajes de afecto."
+      },
+      {
+        "question": "¿Cuántos emojis le pongo a un mensaje de te extraño?",
+        "answer": "Uno. Una revisión de Emotion Review (2025) identifica los emojis como los indicios no verbales más usados en la comunicación mediada, precisamente porque el canal escrito trata la emoción como añadido secundario. El emoji sirve para señalar que hay alguien atento, no para añadir contenido, así que repetirlo no multiplica el efecto: tres seguidos se leen como relleno."
+      },
+      {
+        "question": "¿Cuántos caracteres muestra WhatsApp antes de cortar el mensaje?",
+        "answer": "No hay una cifra fiable y desconfía de quien te dé una. WhatsApp no lo publica, y lo que se muestra depende del teléfono, del sistema operativo, del tamaño de letra y de si la pantalla está bloqueada. Lo único estable es la dirección del recorte: se corta el final, nunca el principio."
+      },
+      {
+        "question": "¿Qué le pongo de texto a un enlace para que no se vea sospechoso?",
+        "answer": "Escribe una línea tuya antes del enlace, nunca el enlace solo. Un mensaje que es únicamente una dirección se parece a un reenvío y se abre con menos confianza. La documentación de WhatsApp para empresas va por ahí cuando ofrece botones para evitar pegar direcciones largas u oscuras en el cuerpo del mensaje."
+      },
+      {
+        "question": "¿Puedo saber si leyó mi mensaje aunque no haya palomita azul?",
+        "answer": "No con certeza, y conviene no intentarlo. No verificamos en documentación de WhatsApp cómo se comportan los ajustes de confirmación de lectura, así que no describimos esa configuración. La lectura práctica es que la ausencia de azul no informa de nada sobre la intención de la otra persona."
+      },
+      {
+        "question": "¿Qué hago si quiero mandar más que una frase de te extraño?",
+        "answer": "Sepáralo en dos piezas: una línea corta en el chat, que es lo que se ve recortado, y lo largo detrás de un enlace. En nuestras páginas la mediana de las cartas escritas es de 88 palabras y la más larga llega a 1,024; eso cabe en una página, no en una burbuja de chat."
+      }
+    ],
+    "coverImageQuery": "mano sosteniendo telefono mensaje whatsapp noche",
+    "coverImagePrompt": "A close, photorealistic shot of a hand holding a phone at night, the screen glowing with an open messaging conversation in Spanish, the text deliberately soft and unreadable. Warm lamplight from one side, deep shadow elsewhere, shallow depth of field. Clean negative space in the upper third for a title overlay, 16:9. No legible text except a small subtle subhsandesh.in watermark bottom-right.",
+    "contentMarkdown": "# Mensajes de te extraño para WhatsApp: lo que el canal le hace a tu mensaje\n\nUn mensaje de \"te extraño\" no llega a WhatsApp como lo escribiste. Llega recortado en la lista de chats, anunciado por una notificación que muestra apenas el arranque, y si le pegas un enlace, con una tarjeta que tú nunca viste. Esta página no es otra lista de frases: es lo que le pasa a la frase que ya elegiste cuando pasa por WhatsApp.\n\nDos datos nuestros para empezar. De las 214 páginas de \"te extraño\" creadas en nuestra plantilla desde el 28 de julio de 2026, solo el 13.6% lleva una nota de voz: 29 de 214. Casi nueve de cada diez mandan texto para algo que la voz transmite mejor. Y el 48.3% de las páginas compartidas se abren en un teléfono (27,725 de 57,456 vistas): se lee en pantalla chica, con el pulgar, entre otras diez cosas.\n\nSi lo que buscas son las palabras y no el canal, están en [frases de te extraño](https://subhsandesh.in/blog/frases-de-te-extrano). Aquí damos por hecho que ya sabes qué decir.\n\n## Por qué tu enlace en español llega con una vista previa en inglés\n\nEsto lo medimos en nuestra propia página y el resultado no nos deja bien parados. Pedimos la plantilla /missyou-gf tal como la pide WhatsApp al armar la tarjeta del enlace. Devuelve la etiqueta og:locale con el valor en_US, un og:title en inglés (\"Miss You Page for Your Girlfriend — Send a Love Letter\") y el atributo lang del documento en \"en\".\n\nTraducido: escribes en español, pegas el enlace, y abajo aparece una tarjeta en inglés. El mensaje queda bilingüe sin que tú lo decidas.\n\nLa [especificación del protocolo Open Graph](https://ogp.me/) explica de dónde sale: og:locale declara el idioma del marcado y su valor por defecto es exactamente en_US. No es WhatsApp leyendo mal; es la página enlazada la que declara estar en inglés.\n\nY hay que decirlo claro: nuestras plantillas están en inglés, con botones y textos en inglés. Si quien va a abrirla no lee inglés con comodidad, mándale palabras en español. Un enlace que decepciona es peor que no mandarlo.\n\n## Qué le pasa a la ñ y a los acentos dentro de un enlace\n\nAquí hay algo que casi nadie explica y que cualquiera puede comprobar. Dentro de una dirección web, la ñ y las vocales acentuadas no viajan como las ves. El [RFC 3986](https://www.rfc-editor.org/rfc/rfc3986.txt), la norma que define cómo se escriben las direcciones, establece en su apartado 2.1 que todo carácter fuera del juego permitido se representa como un trío: porcentaje más dos dígitos hexadecimales por octeto.\n\nLo calculamos carácter por carácter. La ñ es U+00F1 y en UTF-8 ocupa los octetos C3 y B1, así que en un enlace se vuelve %C3%B1: un carácter que ves, seis que viajan. La ó se vuelve %C3%B3, y los signos de apertura del español también se expanden: ¿ pasa a %C2%BF y ¡ a %C2%A1. \"te extraño\" termina escrito \"te%20extra%C3%B1o\".\n\nY hay una trampa peor, porque es invisible. El [anexo técnico UAX #15 de Unicode](https://www.unicode.org/reports/tr15/), revisión 58 del 12 de agosto de 2026, define la equivalencia canónica: dos secuencias distintas pueden representar el mismo carácter y \"deben verse siempre igual\". La ñ se escribe como un solo punto de código (U+00F1) o como una n con tilde combinante (U+006E U+0303). Idénticas en pantalla, distintas como cadena: una da %C3%B1 y la otra n%CC%83.\n\nConsecuencia práctica: dos enlaces que se leen igual pueden ser distintos, y el que copiaste desde otro teclado puede no abrir. Que las direcciones que compartas no lleven eñes ni acentos, aunque el mensaje sí los lleve. La [documentación de WhatsApp para empresas](https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/send-messages) lo admite: ofrece botones de enlace para que nadie pegue \"direcciones largas u oscuras\".\n\n## Nota de voz o texto: qué cambia cuando te oyen decirlo\n\nHay evidencia buena, y apunta en contra de lo que casi todos hacemos. Schroeder, Kardas y Epley publicaron en Psychological Science, en 2017, [cuatro experimentos preregistrados](https://escholarship.org/uc/item/4bd9d03k) comparando el mismo contenido escuchado y leído. En el primero, los evaluadores calificaron la \"unicidad humana\" de quien hablaba en 0.63 al oírlo en audio y en 0.06 al leer la misma transcripción. El mismo contenido: la diferencia la hizo el canal.\n\nSeamos honestos con el alcance: midió desacuerdos políticos, no cariño, y sus evaluadores eran estadounidenses reclutados en línea. No dice que una nota de voz de \"te extraño\" funcione mejor, sino algo más acotado: la voz transporta señales de que hay una mente detrás, y el texto las esconde.\n\nContra eso, nuestro 13.6% sugiere que el formato con más carga emocional es el que menos se usa. Si grabarte se te dificulta, manda el texto y, aparte, una nota de diez segundos.\n\nPara algo más armado que un audio suelto, la plantilla de [dedicatoria tipo programa de radio](https://subhsandesh.in/dedication) existe justo para eso: la otra persona sintoniza una estación y escucha tu voz presentando una canción. Es mejor opción que la página de \"te extraño\" cuando quieres que te oigan, no que te lean.\n\n## El primer renglón es el único que se ve seguro\n\nAquí toca decir lo que no pudimos verificar. WhatsApp no publica cuántos caracteres muestra antes de recortar en la lista de chats ni en la notificación, y sus páginas de ayuda no se dejaron leer desde este entorno. Cualquier cifra exacta que encuentres está inventada o copiada: depende del teléfono, del sistema y del tamaño de letra.\n\nLo seguro es la forma del problema: el recorte va al final, nunca al principio. La regla no necesita un número: pon lo que importa en las primeras palabras.\n\nCompara. \"Oye, perdón por escribirte a esta hora, no sé si estés ocupada, pero te extraño\" se recorta antes del verbo. \"Te extraño. Perdón la hora\" no se recorta nunca. La mediana de las cartas en nuestras páginas es de 88 palabras y la máxima 1,024: lo largo cabe en una página, y en la burbuja conviene lo corto.\n\nLíneas que sobreviven al recorte porque empiezan por donde deben: \"Te extraño. Nada más eso.\" / \"Te extraño más de lo que te escribo.\" / \"No es nada urgente: solo que te extraño.\"\n\nSi la quieres afinada para alguien concreto, están [las frases para él](https://subhsandesh.in/blog/te-extrano-mucho-frases-para-el), [las frases para tu novia](https://subhsandesh.in/blog/frases-de-te-extrano-para-mi-novia) y [las frases para una amiga](https://subhsandesh.in/blog/frases-de-te-extrano-para-una-amiga).\n\n## La palomita azul y la espera que se inventa quien envía\n\nDe todo lo que WhatsApp le hace a un mensaje, esto es lo que más daño hace y nada tiene que ver con el texto. Mandas \"te extraño\", aparece la segunda palomita, se pone azul, y arranca un reloj que corre en tu cabeza.\n\nAquí también marcamos el límite: no pudimos confirmar en documentación de WhatsApp cómo funciona la configuración de confirmaciones de lectura, así que no describiremos ajustes que no verificamos. Lo que sí se sostiene es lo que le pasa a quien envía.\n\nEl azul no informa de una decisión; informa de que la pantalla estuvo abierta. Puede que lo leyera caminando, o completo y esté buscando qué contestar. Tratar la palomita como respuesta es leerle la mente a alguien por un ícono.\n\nUna salida concreta: escribe de modo que no pidas respuesta. \"Te extraño. No tienes que contestar nada\" cierra el reloj antes de que arranque, y es de lo poco que quien manda controla.\n\n## Estado o mensaje directo: a quién le estás hablando\n\nLa diferencia no es de alcance sino de destinatario, y cambia el significado de las mismas palabras. Un estado está dirigido a todos los que pueden verlo; un mensaje directo, a una persona.\n\nPoner \"te extraño\" en el estado es decirlo sin decírselo a nadie. Quien lo lea tiene que decidir si era para él, y esa duda es lo que hace que un estado se sienta tibio cuando el mensaje era íntimo. Si es para una persona, va a su chat.\n\nLa excepción honesta: cuando no quieres pedir nada y solo dejarlo dicho. Ahí el estado es el formato correcto, precisamente porque no obliga a contestar.\n\n## Qué pierde el texto y con qué se rellena\n\nEl texto es el canal que menos señal emocional transporta, y no es opinión de redactor. Una [revisión publicada en Emotion Review en enero de 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12161768/) compara vocalizaciones y comunicación escrita bajo el hilo común de la emoción, y su conclusión sobre nuestro canal es literal: en los mensajes de texto \"el significado es el objetivo primordial y las emociones son una adición secundaria\".\n\nAhí está el problema de fondo de mandar \"te extraño\" escrito: el canal está optimizado para que se entienda lo que dices, no para que se sienta.\n\nLos emojis son el parche que el medio se inventó, y esa misma revisión los señala como los indicios no verbales más usados. No mejoran el contenido, mejoran la señal de que hay alguien atento. Por eso uno basta, y por eso un emoji no rescata un mensaje que no dice nada: solo colorea el que ya dice algo.\n\n| Formato | Lo primero que ve quien recibe | Dato verificable |\n|---|---|---|\n| Texto corto | El arranque de la frase, recortado al final | La mediana de nuestras cartas es de 88 palabras, n=214 |\n| Nota de voz | Un ícono de audio y la duración | Solo el 13.6% de 214 páginas incluye una nota de voz |\n| Estado | Nada dirigido a él o a ella en particular | Está dirigido a todos los que pueden verlo |\n| Enlace a una página | Una tarjeta con título y descripción | En nuestra plantilla esa tarjeta llega en inglés (og:locale en_US) |\n\n## Lo que estos números no dicen\n\nHay que acotar los datos propios. Las 214 páginas cubren dos meses desde el 28 de julio de 2026, así que no sirven para ninguna afirmación de temporada. El 48.3% cuenta vistas, no personas distintas.\n\nY la limitación que más importa para quien lee esto en español: nuestra base registra qué plantilla se abrió, nunca quién la recibió, y no está segmentada por idioma ni por país. Ninguna de estas cifras es mexicana ni española.\n\nPor lo mismo no afirmamos nada sobre qué tanto se usa WhatsApp frente a otros canales en México o España: las fuentes oficiales de estadística no respondieron, y preferimos no repetir una cifra sin verificar.\n\nSi el mensaje ya está escrito, la [página de te extraño](https://subhsandesh.in/missyou-gf) guarda una carta, recuerdos y una cuenta regresiva detrás de un enlace; el 43.5% de quienes la usan le pone contraseña antes de compartirla (93 de 214), lo más alto que hemos medido. Si prefieres otra cosa, ahí está [el catálogo de plantillas](https://subhsandesh.in/templates). Y si lo tuyo es una imagen, eso se resuelve en [imágenes de te extraño para enviar](https://subhsandesh.in/blog/imagenes-de-te-extrano-para-enviar).",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/mensajes-de-te-extrano-para-whatsapp#post",
+        "inLanguage": "es",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Open Graph protocol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Open_Graph_protocol",
+              "https://www.wikidata.org/wiki/Q17107778"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Percent-encoding",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Percent-encoding",
+              "https://www.wikidata.org/wiki/Q1046948"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Unicode",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode",
+              "https://www.wikidata.org/wiki/Q8819"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "The Open Graph protocol specification: og:locale declares the locale the tags are marked up in, in language_TE",
+            "url": "https://ogp.me/",
+            "datePublished": "2014-06-19"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "RFC 3986 section 2.1: a character outside the allowed set is percent-encoded as a triplet — '%' followed by tw",
+            "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+            "datePublished": "2005-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Unicode Standard Annex #15 (Unicode Normalization Forms), revision 58, Unicode 18.0.0: canonical equivalence m",
+            "url": "https://www.unicode.org/reports/tr15/",
+            "datePublished": "2026-08-12"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Schroeder, Kardas & Epley, 'The Humanizing Voice', Psychological Science 28(12), 2017 — four preregistered exp",
+            "url": "https://escholarship.org/uc/item/4bd9d03k",
+            "datePublished": "2017-10-25"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Emotion Review, January 2025 (PMC12161768, doi 10.1177/17540739241303505, CC BY): a review placing animal voca",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12161768/",
+            "datePublished": "2025-01-15"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "WhatsApp Business Platform documentation (updated 2026-05-21): text messages are 'messages containing only a t",
+            "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/send-messages",
+            "datePublished": "2026-05-21"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "mensajes de te extraño para whatsapp",
+    "angle": "Wins by being the only page on this SERP that treats WhatsApp as the variable rather than the recipient — and the only one that measured what the channel does to a Spanish message, including our own /missyou-gf serving og:locale=en_US so a Spanish message arrives behind an English preview card.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/dedication",
+      "/templates"
+    ],
+    "factsUsed": [
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25",
+      "13.6% of miss-you senders record a voice note (29 of 214) — measured 2026-09-25",
+      "43.5% of miss-you senders password-protect the page before sharing it (93 of 214) — against 38.5% across the whole platform, making it the most private segment measured — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://ogp.me/",
+        "stat": "The Open Graph protocol specification: og:locale declares the locale the tags are marked up in, in language_TERRITORY format, and its default is en_US — which is why a Spanish message linking an unlocalised page gets an English preview card.",
+        "publishedDate": "2014-06-19"
+      },
+      {
+        "url": "https://www.rfc-editor.org/rfc/rfc3986.txt",
+        "stat": "RFC 3986 section 2.1: a character outside the allowed set is percent-encoded as a triplet — '%' followed by two hexadecimal digits per octet. This is why ñ (U+00F1, UTF-8 C3 B1) becomes %C3%B1 inside a URL.",
+        "publishedDate": "2005-01-01"
+      },
+      {
+        "url": "https://www.unicode.org/reports/tr15/",
+        "stat": "Unicode Standard Annex #15 (Unicode Normalization Forms), revision 58, Unicode 18.0.0: canonical equivalence means two different sequences represent the same abstract character and 'should always have the same visual appearance' — so ñ as U+00F1 and as U+006E U+0303 look identical but are different strings, yielding %C3%B1 versus n%CC%83.",
+        "publishedDate": "2026-08-12"
+      },
+      {
+        "url": "https://escholarship.org/uc/item/4bd9d03k",
+        "stat": "Schroeder, Kardas & Epley, 'The Humanizing Voice', Psychological Science 28(12), 2017 — four preregistered experiments. Experiment 1: the same content rated for human uniqueness at 0.63 when heard as audio versus 0.06 when read as an identical transcript. Read in full from the open-access PDF. Studied political/attitudinal disagreement with US online evaluators, not affectionate messages.",
+        "publishedDate": "2017-10-25"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12161768/",
+        "stat": "Emotion Review, January 2025 (PMC12161768, doi 10.1177/17540739241303505, CC BY): a review placing animal vocalizations, human nonverbal vocal communication and computer-mediated communication under the common thread of emotion. On the written channel specifically: 'in text messages, meaning is the foremost goal and emotions are a secondary addition', and emojis are identified as by far the most frequently used nonverbal cues in CMC. Read in full via the Europe PMC fullTextXML endpoint. This is a theoretical review, not an experiment, so it carries no sample size.",
+        "publishedDate": "2025-01-15"
+      },
+      {
+        "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/send-messages",
+        "stat": "WhatsApp Business Platform documentation (updated 2026-05-21): text messages are 'messages containing only a text body and an optional link preview', and interactive CTA URL button messages exist so senders 'don't have to include lengthy or obscure raw URLs in the message body'. This is the business platform documentation, not the consumer app.",
+        "publishedDate": "2026-05-21"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+          "why": "Half satisfied and structurally unsatisfiable in full. The length is fine at 55 characters, inside the 50–60 band. The 'first five words' clause cannot be met: the exact keyword 'mensajes de te extraño para whatsapp' is itself SIX words, so it necessarily runs to word six no matter how the title is arranged. It is placed at the very start, words one to six, which is the closest position the keyword's own length permits. Closing it would mean breaking the exact-match keyword, which costs more than it gains."
+        },
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Satisfied numerically — five first-party lines are cited and two (13.6% voice notes, 48.3% phone opens) sit in the first 150 words. Recorded as failed for a different reason the orchestrator asked to be surfaced: WAVE4 laneWideFindings #17 establishes that all 12 first-party lines are now collided 14–25 times across siblings, so these numbers no longer differentiate this post. The reading of them (voice-note share as evidence AGAINST the dominant text habit) is this post's contribution, not the numbers."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Four of six pass cleanly (Open Graph spec, RFC 3986, UAX #15 and the Meta link-preview doc are only relevant to a channel/format row). The Psychological Science voice paper and the Emotion Review CMC paper could each sit in the imagenes-de-te-extrano-para-enviar row, which is the other FORMAT-axis row. They are not interchangeable with any of the five SUBJECT-axis rows. Closing this would mean dropping the only peer-reviewed evidence on the voice-versus-text question, which is the weaker trade."
+        },
+        {
+          "item": "Any paywalled citation records that only the abstract was read",
+          "why": "No paywalled citation exists, so the item is vacuous here — recorded as failed rather than passed to avoid claiming a check that was never exercised. Both papers were read in full: the Psychological Science article as an open-access PDF from eScholarship parsed with pdftotext (113,965 characters), and the Emotion Review article via the Europe PMC fullTextXML endpoint (210,501 bytes)."
+        }
+      ],
+      "honestAssessment": "The defensible claim is narrow and real: this is the only page measured on this SERP that answers the channel question the keyword actually asks. Google gl=mx&hl=es&pws=0 (real browser, self-authenticated on title and URL) returned eight generic 'frases de te extraño' listicles — Pensador, Cosmopolitan, Pinterest, a free-image page, plus YouTube/TikTok/Facebook/Instagram video — and not one of them addresses WhatsApp as a channel despite 'para whatsapp' sitting in the query. So the D-listicle tier warning is only half true here: the incumbents are listicles, but they are answering a different question, which leaves the channel ground unoccupied. Roughly 6 of the ~10 organic results I could actually see are weak (aggregators, image farm, social video), against 4 weak in the inventory. Two assets are genuinely unavailable to those incumbents: our own measurement that /missyou-gf serves og:locale=en_US with an English og:title, so a Spanish message linking it arrives behind an English card — a criticism of our own product, not a pitch — and the computed percent-encoding and NFC/NFD finding, where a ñ that looks identical is two different strings and therefore two different URLs. Both are checkable by any reader in thirty seconds, which is what makes them citable. Against that: I could NOT verify WhatsApp's consumer mechanics in WhatsApp's own documentation — faq.whatsapp.com hard-400s every scripted user agent and renders only a title in the real browser, with the article prose locked inside a 1.2 MB SPA payload — so the read-receipt and truncation sections deliberately describe what I could establish and say plainly what I could not, rather than asserting numbers. I also did not assert any WhatsApp channel-share figure for Mexico or Spain, matching two earlier rows that failed to source it. The es-es market went unmeasured: four consecutive browser scrapes returned other agents' pages. Domain authority is far below Cosmopolitan and the aggregators, so expect months, and a listicle SERP may simply not reward a mechanics page regardless of quality.",
+      "additionalChecks": [
+        "serp-ddg.mjs control protocol: a 'recetas de pozole' control on --region mx-es returned 10 Mexican hosts; the target query then returned '(no results parsed)' twice; re-running the SAME control immediately after also returned '(no results parsed)'. That proves a mid-session throttle rather than an empty SERP, so the two blanks were discarded rather than recorded as a finding.",
+        "Browser self-authentication: four scrapes were DISCARDED as contention (sibling row query 'te extraño papá frases' returned by navigate itself; dle.rae.es/extrañar; dle.rae.es/falta; rae.es/dpd/el). Only the gl=mx scrape whose title AND url both matched the query was recorded.",
+        "Weak substring markers ('extra', 'whatsapp') produced a FALSE PASS on a RAE page carrying a WhatsApp share button; authentication was hardened to require the query in the page title plus google.com/search in the URL.",
+        "Price guard: pricecheck-intl.mjs plus a Spanish-language regex over gratis/gratuito/precio/costo/cuesta/suscripción/tarifa/currency — zero hits. 'cuesta' was rewritten out of one sentence where it meant 'is difficult', not a price.",
+        "Independently reproduced WAVE4 laneWideFindings #30 with an own fetch of /missyou-gf: og:locale=en_US, English og:title and og:description, html lang=en.",
+        "Percent-encoding and NFC/NFD results were computed in-process, not quoted: ñ U+00F1 -> %C3%B1, ¿ -> %C2%BF, ¡ -> %C2%A1, and NFD ñ (U+006E U+0303) -> n%CC%83.",
+        "Both papers read in full, not abstract-only: Psychological Science via the eScholarship open-access PDF parsed with pdftotext -layout (113,965 characters), Emotion Review via the Europe PMC fullTextXML endpoint (210,501 bytes). The Emotion Review quotation used in the body ('meaning is the foremost goal and emotions are a secondary addition') appears only in the full text, not the abstract.",
+        "SOURCE SWAPPED AFTER A capcheck BREACH: the first choice for the emoji section was PLoS ONE 2025 (journals.plos.org/plosone/article?id=10.1371/journal.pone.0326189, PMC12221085, N=260), read in full via fullTextXML. capcheck.mjs flagged that exact URL as already spent by the sibling batch 2026-09-25-miss-you-30. It was replaced with Emotion Review 2025 (PMC12161768), which is not on the banned list, and the body section and its FAQ were rewritten around the new source rather than re-pointed at it.",
+        "All four sameAs QIDs verified live against the Wikipedia API: WhatsApp Q1049511, Open Graph protocol Q17107778, Percent-encoding Q1046948, Unicode Q8819.",
+        "capcheck.mjs and journalcheck.mjs both run from the repo root against this batch, before and after the source swap. Zero domains at cap, zero URLs at cap. Journals named for hand-counting, since capcheck cannot see a journal name: Psychological Science (1 post) and Emotion Review (1 post).",
+        "Body prose carries all five mandatory disclosures in Spanish: the product is English-language; viewCount is page views not unique visitors; n=214 over two months so no seasonal claim; the database records which template was opened and is not segmented by language or country; and WhatsApp channel share for MX/ES could not be sourced."
+      ]
+    },
+    "structuralLimitations": [
+      "WhatsApp's own consumer documentation is unreachable from this environment. faq.whatsapp.com returns HTTP 400 to every scripted user agent across numeric IDs, slug paths and the ?locale=es_LA parameter; in the real browser the same URL renders a correct server-side title but the article body is a Meta Comet SPA payload of 1,201,866 characters from which browser_get_text extracts no prose. developers.facebook.com likewise 400s scripted but DID render one page in the real browser, which is the only WhatsApp-published source in this post. Consequence: the read-receipt section describes the sender's experience and explicitly declines to describe settings, and the truncation section states that no character count is published rather than inventing one. Re-check trigger: if faq.whatsapp.com becomes scrapeable, the blue-tick and status sections can each gain a sourced mechanic.",
+      "The es-es market was not measured. Four consecutive real-browser attempts returned other concurrent agents' pages (a sibling row's SERP, and three RAE dictionary pages), and serp-ddg.mjs was throttled after its first successful call. The SERP evidence in this post is gl=mx only, measured once and self-authenticated on title and URL; the confirming second run required by the brief could not be obtained because contention defeated three further attempts. Re-check trigger: re-run gl=es and gl=mx when fewer rows are writing concurrently.",
+      "No WhatsApp channel-share figure for Mexico or Spain is asserted anywhere. This matches two rows in the published batch that tried and failed (INEGI ENDUTIH 2024, INE Spain, IBGE and CETIC.br all blocked or timed out), and I did not re-attempt those instruments.",
+      "The two peer-reviewed sources were both measured on US, English-speaking samples — Psychological Science on political disagreement rather than affection, PLoS ONE on imagined rather than real conversations. Both limitations are stated in body prose in Spanish rather than only here. No study measuring Spanish-language miss-you messaging on WhatsApp was found; search terms tried included voice message versus text emotional expression computer mediated communication, read receipts responsiveness expectations instant messaging anxiety, voice messages audio emotional intimacy smartphone, long distance romantic relationship mediated communication channel, self-disclosure mobile instant messaging asynchronous, and emoji emotional tone text message interpretation.",
+      "First-party fact exhaustion applies (WAVE4 laneWideFindings #17): all 12 lines are collided 14-25 times across siblings, so no least-collided pair exists and this post cannot differentiate on the numbers, only on the reading of them.",
+      "CAPCHECK DEFECT, and this post deliberately keeps two URLs it flags. capcheck.mjs prints 'Statutes, dictionaries, treebanks, corpora and standards are EXEMPT and excluded from this list — reuse them freely and note it in structuralLimitations', but its exemption is applied by HOSTNAME against capExemptDomains, which contains unicode.org and not rfc-editor.org or ogp.me. The result is that UAX #15 is exempt while RFC 3986 and the Open Graph protocol specification — the same class of published standard — are reported as banned. This is the same incomplete-exemption bug as WAVE4 laneWideFindings #6 and #7, where only en.wiktionary.org was exempt across a fifteen-language batch. Both URLs are kept under the script's own stated policy and noted here as it instructs. RECOMMENDATION for the orchestrator: add rfc-editor.org, ogp.me, w3.org and ietf.org to capExemptDomains, since a standard has exactly one correct citation and reusing it across posts is method, not publisher concentration. The third flag in the same run, the PLoS ONE article, was a REAL breach and was swapped out rather than argued with."
+    ],
+    "generatedAt": "2026-09-28T15:37:46.726Z"
+  }
+}

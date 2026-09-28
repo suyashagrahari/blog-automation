@@ -551,3 +551,147 @@ the music vertical is on page three. **Measure first, then select the token.**
   times across the siblings; there is no least-collided pair left. Rows written from here
   on cannot differentiate on the numbers, only on the reading of them — say so in
   `honestAssessment` rather than claiming novelty the data does not have.
+
+
+## 14. Corrections entered later on 2026-09-28 (wave 5)
+
+**`rae.es` / `dle.rae.es` 403 CONSISTENTLY to scripted user-agents, not intermittently.**
+§11 called it intermittent on the strength of one retry that worked. A later row measured
+4 headwords x 2 attempts = 8/8 refusals. Treat it as: scripted access does not work, use
+the real browser, and confirm the headword on the page before citing anything.
+
+**Browser contention is at FOUR-PLUS confirmed instances and has TWO NEW VARIANTS.**
+Earlier text said the corruption shows up on the read after a good navigate. Both halves
+of that are now wrong:
+- It can appear **in the `browser_navigate` response itself** — one row got a navigate
+  whose url AND title both belonged to a different concurrent row.
+- It is **not specific to SERP pages.** Navigates returned the correct title while
+  serving `dle.rae.es/mucho`, `rae.es/dpd/él` and `dle.rae.es/amigo`.
+A distinct `session` name does NOT isolate. The only defence that has ever worked is
+content self-authentication — assert markers that must be present and markers that must
+be absent — and it has now caught every instance. If an earlier read in your run was not
+authenticated, discard it retroactively.
+
+**Tatoeba's `api_v0` quoted search is NOT exact-phrase, and does NOT discriminate
+grammatical gender.** Verified: `"me haces falta"` and `"me hace falta"` both return 24
+with identical sentence sets; `"te extraño mucho"` returns 13 whose top hits are *Te
+extrañé mucho* and *Te extrañamos mucho*; `"loco por ti"` and `"loca por ti"` return the
+same six sentences, which had made four gender pairs look perfectly symmetric. Never
+report a Tatoeba count as a phrase or gender frequency. Report attested / not attested, or
+count from the sentence texts yourself. Zeros ARE meaningful and reproducible.
+
+**The `extrañar` / `falta` death-sense test HELD and extended the Portuguese finding.**
+DLE, headwords confirmed in the real browser: *extrañar* has 8 acepciones and **zero**
+death or loss sense; *falta* acep. 6 is "Ausencia de una persona, **por fallecimiento u
+otras causas**"; *faltar* acep. 2 is "Consumirse, acabar, **fallecer**"; *añorar* has a
+single acepción and is the only one naming *pérdida*. So Spanish carries the death sense
+in **both** noun and verb, where Portuguese's three dictionaries put it only in the noun,
+and adds a fourth term with no *saudade* analogue. The Portuguese conclusion survives
+anyway: the noun does not disambiguate, so the disambiguators are person, tense and a
+return date.
+
+
+## 15. Two hazards found late on 2026-09-28 — read before using the browser
+
+**THE SERP DOM IS NOT CLEAN. The operator's real Chrome carries a Keyword Surfer
+extension** that injects `surferseo.com` links and per-result numbers directly into the
+Google results DOM — e.g. a figure like `14,299,153` sitting beside a result. **These are
+not Google data and must never be read as search volume, result counts, or anything else.**
+Exclude them from every extraction. This is a live trap: the numbers look exactly like the
+metric a keyword researcher is hunting for.
+
+**CONTENT SELF-AUTHENTICATION MUST CHECK THE EXACT THING YOU ASKED FOR, NOT THE LANGUAGE
+OR THE SITE.** Earlier guidance said to assert language markers that must be present and
+absent. That is no longer sufficient and one row proved why: a contended read returned
+content **in the same language, from the same site** — a different dictionary headword.
+Language markers could not have caught it; only checking the specific headword did.
+
+Two additions to the defence, both free:
+- **Compare the `url` the navigate RETURNED against the url you REQUESTED.** One row got
+  back `dle.rae.es/extrañar` in the response's own `url` field for a page it never asked
+  for. A mismatch is contention, full stop.
+- **Assert the specific query, headword or entry you requested appears in the content**,
+  not merely that the page is in the right language on the right host.
+
+Running total: **five confirmed contention instances**, corruption appearing in the
+navigate response itself as well as on the following read, on SERP and non-SERP pages
+alike. A distinct `session` name does NOT isolate.
+
+**`web.archive.org` — CORRECTED an hour later. It is NOT dead; it is per-request.** One
+row hit 403s and reported the fallback gone, and I repeated that here without testing it.
+Measured directly:
+
+| request shape | result |
+|---|---|
+| `archive.org/wayback/available?url=...` (availability API) | **429** — reliably rate-limited, do not use |
+| `web.archive.org/web/2024/<url>` | **403** |
+| `web.archive.org/web/2023/<url>` | **200**, 68 KB |
+| the exact snapshot the Polish PWN citation cites | **200**, and the headword „brak jako czasownik" is still present |
+
+So: **skip the availability API, go straight to a timestamped replay, and if one year is
+refused try another.** A 402 or 403 on a snapshot is a per-snapshot block, not evidence the
+capture is missing. The §11 fallback stands.
+
+**Instrument gained:** `dem.colmex.mx` — Diccionario del español de México, El Colegio de
+México — is scriptable, returns HTTP 200, and is a better authority than the RAE for an
+mx-es row. It is now cap-exempt. It yielded the best finding in the Spanish cluster: its
+adjective example for *querido* is literally «mi más querida amiga», while the NOUN
+*querido* is glossed «relaciones amorosas ilícitas; amante» — so *mi querida amiga* is
+safe and *mi querida* is a mistress.
+
+
+## 16. Self-authentication: substring markers are NOT sufficient
+
+A row checked a fetched page for the substrings `extra` and `whatsapp` and got a **false
+pass on a RAE dictionary page** — because that page carries a WhatsApp *share button*. The
+contended content was in the right language, on a plausible host, and contained both
+markers. Only comparing the **page title and the requested URL** caught it.
+
+So the authentication rule, in final form, after five confirmed contention instances:
+
+1. **Compare the `url` the navigate RETURNED with the url you REQUESTED.** A mismatch is
+   contention, full stop. This is free and catches the variant where the navigate response
+   is itself corrupt.
+2. **Compare the page TITLE with what you asked for.**
+3. **Assert the specific headword, query string or entry you requested** appears in the
+   content — not a substring that could appear incidentally, and not merely the right
+   language or the right host.
+4. If an earlier read in your run was not authenticated this way, **discard it
+   retroactively.**
+
+The navigate response is unreliable in BOTH directions: it has returned the correct title
+with foreign content, and foreign url AND title for a page that was fetched correctly.
+A distinct `session` name does not isolate.
+
+
+## 17. §12 refined, and two scoping warnings
+
+**§12 overstated the WebSearch artefact, and a row measured the correction.** §12 says
+harness WebSearch invents song-entity contamination that Google does not show. On an
+**intent-bearing** query that held — `i miss you meaning` gave WebSearch 7-of-9 song
+entities against Google's zero. But on a **bare entity head term** it does not:
+
+| query | Google (`gl=us&hl=en&pws=0`, twice) | Brave (`country=us`) |
+|---|---|---|
+| `missing you` (bare) | **8 of 8 named entity** — Netflix, Wikipedia ×2, IMDb, Rotten Tomatoes, Spotify/John Waite, Harlan Coben, Guardian | agrees: Netflix, IMDb, RT, Metacritic, Variety, Spotify, YouTube Music, TMDB |
+| `"missing you" meaning when to use` | **zero entity**, ~8 of 9 weak | ~15 of 16 weak, 4 hosts shared |
+
+So the entity contamination on a bare head term is **real on Google too**, not a WebSearch
+artefact. The correct statement: **WebSearch over-reports entity pages on intent-bearing
+queries; on bare head terms every route agrees the entity owns it.** Two routes still
+required before aborting, but do not expect Google to rescue a bare head term.
+
+**§7's cap figures are SCOPED TO `2026-09-26-miss-you-global-30`.** They are not portable.
+In `2026-09-28-miss-you-es-10`, *Frontiers in Psychology* is **AT CAP at 3 posts**
+(`frases-de-te-extrano`, `...-para-mi-novia`, `...-para-una-amiga`) while §7 says one slot
+remains — true of the other batch, false here. Always run `journalcheck.mjs` against the
+batch you are writing into.
+
+**Cross-links to siblings are only live once that batch is PUBLISHED.** Verified
+2026-09-28: `miss-you-or-missing-you`, `miss-you-quotes`, `como-decir-te-extrano-sin-decirlo`
+and the rest of the first 52 are live, but `i-miss-you-meaning`, `i-miss-you-so-much-in-spanish`,
+`bogosipeo-vs-bogoshipda` and every 2026-09-28 slug return `total=0`. Earlier text in this
+brief told rows that "any sibling you cross-link is a real published URL" — that is true
+only of the originally published 52. **Deploy consequence: the wave-4 and wave-5 posts
+must be published together with, or before, anything that links to them, or those links
+404.**

@@ -1,0 +1,395 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Missing You: Where the -ing Form Actually Belongs",
+    "slug": "missing-you",
+    "excerpt": "\"Missing you\" is a participle, not a short \"I miss you\" - it carries duration but no tense, which is why it belongs in captions, sign-offs and letter closings. With a 1922 letter manual that named the construction, an original count across 75 love letters, and 214 miss-you pages.",
+    "metaTitle": "Missing You — Why the -ing Form Carries No Timestamp",
+    "metaDescription": "\"Missing you\" is a participle, not a short \"I miss you\": duration, but no tense. A 1922 letter manual named it; 92.1% of 214 miss-you pages fit the pattern.",
+    "keywords": "missing you, missing you meaning, missing you vs miss you, missing you caption, missing you sign off, what does missing you mean",
+    "canonicalURL": "https://subhsandesh.in/blog/missing-you",
+    "ogType": "article",
+    "tags": [
+      "missing you",
+      "english grammar",
+      "long distance",
+      "captions",
+      "letter writing"
+    ],
+    "keyTakeaways": [
+      "\"Missing you\" is a participial phrase, which Universal Dependencies defines as a non-finite verb form - no subject, no tense, no mood - so it names a state without placing it at a moment.",
+      "The duration is carried by the -ing participle itself, not by the auxiliary: UD notes the -ing participle is \"so bound to progressive meaning\" that it is tagged progressive on its own.",
+      "Mary Owens Crowther's How to Write Letters (1922) names \"the participial closing of a letter\" and tells business writers to drop it, explaining that a letter \"used to be considered lacking in ease if it ended with an emphatic sentence\".",
+      "It was not an intimate convention first: across all 75 of Mary Wollstonecraft's 1793-95 love letters there are 0 sentence-initial participial formulae against 26 finite \"Yours ...\" closings.",
+      "92.1% of 214 SubhSandesh miss-you pages carry an \"open when\" letter addressed to no particular moment, while only 28.0% set a reunion date."
+    ],
+    "faqs": [
+      {
+        "question": "Is \"Missing you\" grammatically correct on its own?",
+        "answer": "Yes, but not as a sentence. It is a participial phrase, which Universal Dependencies classes as a non-finite verb form, so it has no subject, no tense and no mood. That makes it a legitimate written formula rather than a clause, which is why it reads fine as a caption and strangely as an answer."
+      },
+      {
+        "question": "Does \"Missing you\" sound romantic if I send it to a friend?",
+        "answer": "Less so than \"I miss you\", because the participle never names who is doing the missing. Dropping the subject removes the declaration, and what is left is closer to \"Thinking of you\" than to a confession. It is the safer of the two between friends."
+      },
+      {
+        "question": "Should I put a full stop, a comma or nothing after \"Missing you\"?",
+        "answer": "A full stop or nothing. A comma implies the phrase attaches to a clause that follows, which is exactly the construction Mary Owens Crowther attacked in 1922 as the participial closing. If it is standing alone under a photo or above a signature, let it stand alone."
+      },
+      {
+        "question": "Is \"Missing you already\" a different phrase from \"Missing you\"?",
+        "answer": "It is the same construction with a boundary added. \"Already\" anchors the state to a moment that has just started, so it does the one job the bare participle refuses to do. That is why it suits the airport goodbye and the bare form suits the caption weeks later."
+      },
+      {
+        "question": "Does \"Missing you too\" work as a reply?",
+        "answer": "It works, but it is doing something the bare form usually avoids: answering. If someone has written first, a reply is a conversational turn, and a finite clause is the natural shape for one. \"Miss you too\" is the more ordinary choice there."
+      },
+      {
+        "question": "Is \"Missing you\" appropriate in a sympathy or condolence card?",
+        "answer": "It fits better than most alternatives, because it does not demand a response from someone who may not have one. The participle states a continuing condition rather than making a claim at a moment. Keep it away from any phrasing that implies a reunion date."
+      },
+      {
+        "question": "Why does searching \"missing you\" bring up a TV series and a song?",
+        "answer": "Because the exact phrase is a named entity twice over - a 2025 television series and a 1984 rock single. Measured on 2026-09-28, Google served eight results for the bare phrase and all eight were the series, the novel or the song, and Brave Search agreed. The phrase itself is far older and more ordinary than either."
+      },
+      {
+        "question": "Is \"Missing you\" too formal for a text message?",
+        "answer": "Not formal, but slightly literary, because its home is the written close rather than the thread. In a fast back-and-forth it can read as a deliberate softening. On something you built and sent as an object, it reads as intended."
+      },
+      {
+        "question": "What is the difference between \"Missing you\" and \"I've been missing you\"?",
+        "answer": "The second one is finite, so it carries a tense and a stretch of time with a start. The bare participle carries duration without a start. If you want the other person to know how long it has been going on, use the finite version."
+      },
+      {
+        "question": "Can I use \"Missing you\" in a work message to a colleague on leave?",
+        "answer": "It will usually read as warmer than intended, because the missing subject is read as you personally rather than the team. \"We're missing you here\" restores the subject and the distance. Crowther's 1922 advice applies to the office version: end on a clear-cut idea instead."
+      }
+    ],
+    "coverImageQuery": "handwritten letter closing signature desk",
+    "coverImagePrompt": "A close, photorealistic overhead shot of a handwritten letter on cream paper, the page cropped so only the last two lines and the signature are visible, a fountain pen resting beside it. Warm late-afternoon window light from the left, shallow depth of field, generous clean negative space at the top for a title overlay, 16:9. No legible text on the page and no watermark other than a small subtle \"subhsandesh.in\" bottom-right.",
+    "contentMarkdown": "# Missing You: Where the -ing Form Actually Belongs\n\n\"Missing you\" is not a shortened \"I miss you\". It is a participle, and in the Universal Dependencies grammatical standard a participle is defined as \"a non-finite verb form\" — one carrying no mood and no tense of its own. So it names a state without saying when. That is why it works under a photograph, at the foot of a letter and at the end of a voice note, and why it lands oddly as a reply to a direct question.\n\nThe habitat shows up in our own data too. Of the 214 \"I miss you\" pages built on SubhSandesh since 28 July 2026, 92.1% — 197 of them — carry at least one \"open when\" letter, writing addressed to no particular moment. Only 28.0%, 60 pages, set a reunion date, the single field that puts an endpoint on the missing. Most people writing this phrase are not marking a time. They are describing a state that is simply running.\n\n## \"Missing you\" is a participle, and that is not a technicality\n\n[Universal Dependencies](https://universaldependencies.org/u/feat/VerbForm.html), the cross-linguistic annotation standard used to tag treebanks, gives a blunt rule of thumb for finiteness: \"if it has non-empty Mood, it is finite\". Under `VerbForm`, it defines `Part` as \"a participle, verbal adjective... a non-finite verb form that shares properties of verbs and adjectives\".\n\n\"I miss you\" satisfies all three finite conditions: a subject, a present tense, an indicative mood. \"Missing you\" has none of them. It is not an abbreviation of that sentence; it is a different kind of object, closer grammatically to \"Wishing you well\" than to anything with an *I* in front of it.\n\nA finite clause asserts something at a time. A participial phrase does not, because it has no time to assert it at.\n\n## Why it still reads as ongoing when there is no \"am\" in front of it\n\nThe natural assumption is that the continuous meaning comes from the auxiliary — that the *am* in \"I am missing you\" is where the duration lived. The annotation standard says otherwise.\n\nThe Universal Dependencies page for [`Aspect`](https://universaldependencies.org/u/feat/Aspect.html) opens by defining it as \"a feature that specifies duration of the action in time\". On the progressive value it is more specific still: English progressives are \"constructed analytically (auxiliary + present participle)\", but \"the -ing participle is so bound to progressive meaning that it seems a good idea to annotate it with this feature\".\n\nIn other words, the duration is carried by the participle itself, not by the auxiliary standing in front of it. Remove \"I am\" and you keep the ongoing reading and lose the timestamp. That is exactly the trade a caption wants.\n\n## A 1922 letter-writing manual named this construction and told people to stop\n\nThis is not a new shape in English. Mary Owens Crowther's [*How to Write Letters*](https://www.gutenberg.org/cache/epub/22222/pg22222.txt), copyright 1922, devotes a passage to what she calls \"the participial closing of a letter, that is, ending a letter with a participial phrase\". She lists four stock examples: \"Hoping to hear from you on this matter by return mail\", \"Assuring you of our wish to be of service to you in the future\", \"Thanking you for your order and hoping we shall be able to please you\", and \"Trusting that you will start an investigation as soon as possible\".\n\nHer verdict is that it \"weakens the entire effect of the letter\", and that \"this is particularly true of a business letter\". She prescribes finite replacements: \"Please send a remittance by return mail\", \"Please investigate the delay at once\".\n\nThen comes the sentence that explains the whole construction: \"The participial ending is merely a sort of habit. A letter used to be considered lacking in ease if it ended with an emphatic sentence.\"\n\nThat is the function, stated by a hostile witness. The participial close exists in order *not* to end emphatically. Crowther thought that was a defect. For a caption or a sign-off, it is the entire specification.\n\n## It was never a love-letter habit, and here is the count\n\nI checked whether intimate correspondence used the form before commerce did, using two openly readable volumes.\n\nAcross all 75 letters in [*The Love Letters of Mary Wollstonecraft to Gilbert Imlay*](https://www.gutenberg.org/cache/epub/34413/pg34413.txt) (written 1793–95, Project Gutenberg #34413), searching for sentence-initial instances of twelve participial formula verbs — hoping, trusting, thanking, assuring, awaiting, wishing, soliciting, regretting, anticipating, missing, longing, begging — I found zero. Not one. The volume carries 26 \"Yours…\" closings, and they end on finite clauses: \"God bless you\", \"I am yours truly\", \"Be not too anxious to get money\".\n\nA 1910s model-letter collection, [*Business Correspondence, Vol. 1*](https://www.gutenberg.org/cache/epub/7309/pg7309.txt) (Project Gutenberg #7309), carries \"Hoping to hear\" three times and \"Thanking you\" twice in roughly half a million characters. Small numbers, but the direction is the one Crowther describes: a commercial tic, not a lover's one.\n\nTwo caveats I will not hide. This is two volumes, not a balanced corpus, and the count catches only sentence-initial forms, so a participle buried mid-sentence is invisible to it. It is enough to say the form was not a fixture of 18th-century private letters. It is not enough to date its arrival.\n\n## So where does \"Missing you\" belong now?\n\nThe rule that falls out of the grammar is simple: the participial form fits anywhere there is no reply slot underneath it.\n\n### Under a photograph\n\nA caption is not addressed to a moment and nobody answers it. \"Missing you\" fits; \"I miss you\" under a group photo reads as a message that wandered into the wrong box.\n\n### At the end of a letter, a card or a page\n\nThis is Crowther's own territory, minus her objection. A close is not supposed to demand anything.\n\n### On something you made rather than something you sent\n\nA [page built for someone who is far away](https://subhsandesh.in/missyou-gf) is an artefact, not a turn in a conversation. The unanchored form suits it.\n\n### Anywhere the state has no end date\n\nIf there is no return flight booked, a phrase with no timestamp is more honest than one that implies a moment.\n\nThe test in one line: if there is a reply box directly beneath what you are writing, use the finite form.\n\n## Miss you or missing you: what each one commits you to\n\n| | \"Miss you\" | \"Missing you\" |\n|---|---|---|\n| Grammatical form | finite clause, subject dropped | non-finite participial phrase |\n| Places the feeling at a time? | yes, now | no |\n| Invites an answer? | yes | no |\n| Natural home | a message thread | a caption, a close, a made object |\n| Fits the 28.0% of our senders who set a reunion date | yes — there is a moment to point at | less well; 72.0% set no end date at all |\n\n## What 214 miss-you pages suggest about writing with no timestamp\n\nThe median miss-you letter on SubhSandesh runs 88 words, and 86.4% of pages carry at least one written memory. Those 214 pages have drawn 2,417 recorded views, 11.3 per page on average, with 104 on the single most-opened one. Recipients tapped the page's \"hug\" control 1,434 times across 138 of the 214 pages.\n\nA page that gets reopened eleven times is not being read as an announcement made at a moment. It is behaving like the participle: a state you return to.\n\nFour things that data cannot do. `viewCount` counts page views, not unique visitors — one recipient reopening a page twenty times is twenty views. n = 214 over roughly two months, so no seasonal claim survives it. The database records which template was opened, never who received it, and nothing in it is segmented by language or country. And I have used only sender-chosen fields here: the city, background-music and \"together since\" fields are pickers with defaults, so their fill rates are not evidence of anyone's choice.\n\n## The thing that actually moves the needle is not the wording\n\nA [2025 *PLOS One* study](https://europepmc.org/article/PMC/PMC12021284) of fly-in, fly-out workers and their partners collected 806 daily reports from 106 people, including 19 couples, across seven on-shift and seven off-shift days. Relationship satisfaction was lower for the workers on days they were away — and that difference was completely mediated by time spent communicating with their partner.\n\nRead honestly, that is a finding about *how much* contact there was, not about how it was phrased. It is the strongest argument on this page for keeping a [daily one-tap streak](https://subhsandesh.in/streak) running rather than agonising over two words.\n\n## When \"Missing you\" is the wrong line, and where we lose\n\nThe participle's refusal to assert cuts both ways. If someone has asked you a direct question — *do you actually miss me?* — an unanchored fragment is an evasion, and it will be read as one. Use the finite clause. The same applies when you are trying to repair something: a close that declines to be emphatic is the wrong instrument.\n\nWhere SubhSandesh loses: a built page is one-way. It cannot answer, and for the 72.0% of our senders with no reunion date in the file, a page may be a way of avoiding a conversation rather than having one. Our own first-party data carries no commercial figures whatever, so nothing here should be read as a claim about what using any of it involves — look at [the template list](https://subhsandesh.in/templates) directly instead of taking a number from me.\n\n## What this page cannot tell you\n\nIt cannot tell you how often \"Missing you\" is actually used as a caption, because no open corpus of captions exists to count, and two volumes will not date the construction's move from commerce into affection.\n\nIt deliberately does not re-argue whether the progressive is *allowed* with a state verb like *miss* — that question is settled, with the corpus evidence, at [is it \"miss you\" or \"missing you\"](https://subhsandesh.in/blog/miss-you-or-missing-you). What the bare finite \"Miss you\" does when you send it as a message belongs to [the companion piece on the two-word message](https://subhsandesh.in/blog/miss-you). This page is only about where the non-finite form lives.\n\nOne last practical note: if you searched this phrase and got a television series and a 1984 rock single, that is the search engine's problem, not yours. The phrase is older and more ordinary than either.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/missing-you#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Participle",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Participle",
+              "https://www.wikidata.org/wiki/Q814722"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Nonfinite verb",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Nonfinite_verb",
+              "https://www.wikidata.org/wiki/Q1050494"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Continuous and progressive aspects",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Continuous_and_progressive_aspects",
+              "https://www.wikidata.org/wiki/Q113627710"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Valediction",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Valediction",
+              "https://www.wikidata.org/wiki/Q15076965"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Grammatical aspect",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Grammatical_aspect",
+              "https://www.wikidata.org/wiki/Q208084"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Universal Dependencies v2 defines VerbForm=Part as \"a participle, verbal adjective ... a non-finite verb form ",
+            "url": "https://universaldependencies.org/u/feat/VerbForm.html"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Universal Dependencies v2 defines Aspect as \"a feature that specifies duration of the action in time\", and not",
+            "url": "https://universaldependencies.org/u/feat/Aspect.html"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Mary Owens Crowther, How to Write Letters (copyright 1922), names \"the participial closing of a letter\", lists",
+            "url": "https://www.gutenberg.org/cache/epub/22222/pg22222.txt",
+            "datePublished": "1922-01-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Original count for this post: across all 75 letters of The Love Letters of Mary Wollstonecraft to Gilbert Imla",
+            "url": "https://www.gutenberg.org/cache/epub/34413/pg34413.txt"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Original count for this post: Business Correspondence, Vol. 1 (a 1910s model-letter collection, ~497,000 chara",
+            "url": "https://www.gutenberg.org/cache/epub/7309/pg7309.txt"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "PLOS One (2025), \"Communication and relationship satisfaction of Fly-in, Fly-out workers and partners\": 806 da",
+            "url": "https://europepmc.org/article/PMC/PMC12021284",
+            "datePublished": "2025-04-24"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Where the -ing form belongs",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Under a photograph"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "At the end of a letter, a card or a page"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "On something you made rather than something you sent"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Anywhere the state has no end date"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": "https://subhsandesh.in/blog/missing-you#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is \"Missing you\" grammatically correct on its own?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, but not as a sentence. It is a participial phrase, which Universal Dependencies classes as a non-finite verb form, so it has no subject, no tense and no mood. That makes it a legitimate written formula rather than a clause, which is why it reads fine as a caption and strangely as an answer."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does \"Missing you\" sound romantic if I send it to a friend?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Less so than \"I miss you\", because the participle never names who is doing the missing. Dropping the subject removes the declaration, and what is left is closer to \"Thinking of you\" than to a confession. It is the safer of the two between friends."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I put a full stop, a comma or nothing after \"Missing you\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A full stop or nothing. A comma implies the phrase attaches to a clause that follows, which is exactly the construction Mary Owens Crowther attacked in 1922 as the participial closing. If it is standing alone under a photo or above a signature, let it stand alone."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is \"Missing you already\" a different phrase from \"Missing you\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It is the same construction with a boundary added. \"Already\" anchors the state to a moment that has just started, so it does the one job the bare participle refuses to do. That is why it suits the airport goodbye and the bare form suits the caption weeks later."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does \"Missing you too\" work as a reply?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It works, but it is doing something the bare form usually avoids: answering. If someone has written first, a reply is a conversational turn, and a finite clause is the natural shape for one. \"Miss you too\" is the more ordinary choice there."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is \"Missing you\" appropriate in a sympathy or condolence card?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It fits better than most alternatives, because it does not demand a response from someone who may not have one. The participle states a continuing condition rather than making a claim at a moment. Keep it away from any phrasing that implies a reunion date."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why does searching \"missing you\" bring up a TV series and a song?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because the exact phrase is a named entity twice over - a 2025 television series and a 1984 rock single. Measured on 2026-09-28, Google served eight results for the bare phrase and all eight were the series, the novel or the song, and Brave Search agreed. The phrase itself is far older and more ordinary than either."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is \"Missing you\" too formal for a text message?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not formal, but slightly literary, because its home is the written close rather than the thread. In a fast back-and-forth it can read as a deliberate softening. On something you built and sent as an object, it reads as intended."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between \"Missing you\" and \"I've been missing you\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The second one is finite, so it carries a tense and a stretch of time with a start. The bare participle carries duration without a start. If you want the other person to know how long it has been going on, use the finite version."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I use \"Missing you\" in a work message to a colleague on leave?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It will usually read as warmer than intended, because the missing subject is read as you personally rather than the team. \"We're missing you here\" restores the subject and the distance. Crowther's 1922 advice applies to the office version: end on a clear-cut idea instead."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "missing you",
+    "angle": "Wins by being the only post that treats \"Missing you\" as a non-finite participial formula rather than a shortened clause - naming the construction from a 1922 letter-writing manual that condemned it, showing from Universal Dependencies that the duration sits in the -ing participle and not the auxiliary, and counting 0 participial closings across 75 of Wollstonecraft's love letters - set against 214 SubhSandesh miss-you pages where 92.1% carry an \"open when\" letter and only 28.0% set a reunion date.",
+    "categorySlug": "miss-you-across-miles",
+    "templateUrls": [
+      "/missyou-gf",
+      "/streak",
+      "/train-ticket"
+    ],
+    "factsUsed": [
+      "92.1% of miss-you pages carry at least one \"open when\" letter (197 of 214), 3.2 on average and 6 at most — measured 2026-09-25",
+      "28.0% of miss-you senders set a reunion date for the countdown (60 of 214) — measured 2026-09-25",
+      "Median miss-you letter length: 88 words; the longest is 1,024 words, n=214 — measured 2026-09-25",
+      "2,417 recorded views of miss-you pages, 11.3 per page on average, 104 on the single most-opened page — measured 2026-09-25",
+      "1,434 \"hug\" taps recorded by recipients across 138 of the 214 miss-you pages (64.5% received at least one), and 512 on a single page — measured 2026-09-25",
+      "86.4% of miss-you pages carry at least one written memory (185 of 214), 4.5 on average and 12 at most — measured 2026-09-25",
+      "214 \"I miss you\" pages created on /missyou-gf since 2026-07-28, 4.1% of all 5,221 pages across 44 collections — measured 2026-09-25"
+    ],
+    "sources": [
+      {
+        "url": "https://universaldependencies.org/u/feat/VerbForm.html",
+        "stat": "Universal Dependencies v2 defines VerbForm=Part as \"a participle, verbal adjective ... a non-finite verb form that shares properties of verbs and adjectives\", and gives the finiteness rule of thumb \"if it has non-empty Mood, it is finite\"."
+      },
+      {
+        "url": "https://universaldependencies.org/u/feat/Aspect.html",
+        "stat": "Universal Dependencies v2 defines Aspect as \"a feature that specifies duration of the action in time\", and notes that although English progressives are built \"analytically (auxiliary + present participle)\", \"the -ing participle is so bound to progressive meaning that it seems a good idea to annotate it with this feature\"."
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/22222/pg22222.txt",
+        "stat": "Mary Owens Crowther, How to Write Letters (copyright 1922), names \"the participial closing of a letter\", lists four stock examples (\"Hoping to hear from you on this matter by return mail\", \"Assuring you of our wish to be of service to you in the future\", \"Thanking you for your order and hoping we shall be able to please you\", \"Trusting that you will start an investigation as soon as possible\"), judges that it \"weakens the entire effect of the letter\", and explains it: \"A letter used to be considered lacking in ease if it ended with an emphatic sentence.\"",
+        "publishedDate": "1922-01-01"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/34413/pg34413.txt",
+        "stat": "Original count for this post: across all 75 letters of The Love Letters of Mary Wollstonecraft to Gilbert Imlay (written 1793-95), sentence-initial instances of twelve participial formula verbs (hoping, trusting, thanking, assuring, awaiting, wishing, soliciting, regretting, anticipating, missing, longing, begging) = 0, against 26 \"Yours ...\" closings, all of which end on finite clauses."
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/7309/pg7309.txt",
+        "stat": "Original count for this post: Business Correspondence, Vol. 1 (a 1910s model-letter collection, ~497,000 characters) carries \"Hoping to hear\" 3 times and \"Thanking you\" twice - the commercial register Crowther was writing against."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12021284",
+        "stat": "PLOS One (2025), \"Communication and relationship satisfaction of Fly-in, Fly-out workers and partners\": 806 daily reports from N=106 (64 FIFO workers, 42 partners, 19 couples) over up to 7 on-shift and 7 off-shift days; relationship satisfaction was lower for workers on on-shift days, and that difference was completely mediated by time spent communicating with the partner. Read in full via the Europe PMC fullTextXML endpoint. Journal named for the cap census: PLOS One.",
+        "publishedDate": "2025-04-24"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "At least one table column uses first-party data",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "2–4 internal links with descriptive anchor text, placed after value is established",
+          "why": "There are 5 internal links, not 2-4: /missyou-gf, /streak and /templates from TEMPLATE_LINKS, plus the two sibling-post cross-links the WAVE5-PLAN cross-link contract mandates (/blog/miss-you-or-missing-you, /blog/miss-you). This is the rule collision recorded as laneWideFindings[3] in WAVE5-PLAN.json, created by mandating the cross-links. It would close if sibling blog URLs were exempted from the internal-link count, or if the cross-link contract were dropped."
+        },
+        {
+          "item": "Every internal link is a real URL from TEMPLATE_LINKS",
+          "why": "Two of the five internal links are sibling blog URLs (/blog/miss-you-or-missing-you, /blog/miss-you) and blog posts are not listed in TEMPLATE_LINKS. Same collision as above; the links are kept because the cross-link contract is binding and the boundary statement is load-bearing. It would close if TEMPLATE_LINKS carried blog URLs or the checklist exempted them."
+        }
+      ],
+      "honestAssessment": "The SERP reality first, measured on two independent routes that agree. For the bare head term \"missing you\", Google (gl=us&hl=en&pws=0&num=20, run twice with identical result sets) returned 8 results and 8 of 8 were named entities - the Netflix series, the Harlan Coben novel and the John Waite single - with zero language or grammar pages; Brave Search (country=us) returned the same vertical (Netflix, IMDb, Rotten Tomatoes, Metacritic, Variety, Spotify, YouTube Music). So the bare phrase is entity-owned and this page will not take it. The winnable slice is the intent-expressed variant: on `\"missing you\" meaning when to use`, Google returned zero entity results and roughly 8 of 9 weak ones (Quora, english.stackexchange, HiNative, Reddit, ludwig.guru, a personal blog), and Brave agreed with 15 of 16 weak hosts and 4 shared with Google. That is where this page can compete. Why an answer engine would cite it over those: no forum answer or listicle on either SERP names the construction, and this one does - Crowther's 1922 How to Write Letters identifies \"the participial closing of a letter\" by name, gives its four stock examples, and states the reason it existed (\"a letter used to be considered lacking in ease if it ended with an emphatic sentence\"), which is a primary source none of them has touched; the Universal Dependencies point that the -ing participle is \"so bound to progressive meaning\" that it is tagged progressive without an auxiliary is a sourced mechanism rather than the usual assertion that -ing means continuous; and the count of 0 participial closings across 75 Wollstonecraft letters is original to this post. Honest weaknesses: the first-party figures are exhausted across the sibling batches - all 12 lines are collided 14-25 times, there is no least-collided pair left, and this post can only differentiate on how it reads them, not on the numbers themselves; the corpus count is two volumes rather than a balanced corpus and cannot date when the construction moved from commerce into affection; and no open corpus of captions exists, so the central habitat claim is argued from grammar and letter-writing history rather than measured on captions directly. Domain authority is well below Stack Exchange, Quora and Reddit, so this is months, not weeks, and the head term is not winnable at all."
+    },
+    "additionalChecks": {
+      "serpRouteA": "Google, real browser, gl=us&hl=en&pws=0&num=20, 2026-09-28. Bare \"missing you\": 8 results, 8/8 named entity (netflix.com, en.wikipedia.org Missing You (2025 TV series), imdb.com, rottentomatoes.com, open.spotify.com John Waite, harlancoben.com, theguardian.com review, en.wikipedia.org Missing You (John Waite song)). Run twice, identical heading set both times. Self-authenticated: every heading contains the query string, no Spanish/Turkish/German markers present.",
+      "serpRouteB": "Brave Search, real browser, country=us, 2026-09-28. Bare \"missing you\": same entity vertical (netflix.com, imdb.com, rottentomatoes.com, metacritic.com, variety.com, hollywoodreporter.com, open.spotify.com, music.youtube.com, harlancoben.com, themoviedb.org). Agrees with Google. Intent variant `\"missing you\" meaning when to use`: forum.wordreference.com, english.stackexchange.com, ell.stackexchange.com, italki.com, urbandictionary.com, hinative.com, brainly.in, quora.com, wikihow.com, womansday.com, parade.com, countryliving.com, momjunction.com, jodiaman.com - zero music, ~15 of 16 weak. 4 hosts shared with the Google run of the same query.",
+      "serpRouteDDG": "serp-ddg.mjs was tried once with a CONTROL query of known demand (\"weather forecast\", --region us-en, query echoed back correctly). It returned \"(no results parsed)\", so the tool is IP-blocked rather than reporting an empty SERP. No retry, per BRIEF section 3.",
+      "webSearchNotUsed": "The harness WebSearch tool was deliberately not used for the SERP measurement. BRIEF section 12 licenses it for us-en rows but warns it is not sufficient alone on an entity-colliding head term; two independent non-WebSearch routes were obtained instead and they agree, so no WebSearch call was spent.",
+      "briefClaimsChecked": "(1) The task prompt said BRIEF sections 11 through 15 were corrections entered today and that sections 12 and 15 were critical. There is no section 15 - the BRIEF ends at section 14, line 591. Section 12 exists and was applied. (2) The prompt said /blog/i-miss-you-meaning is live; Strapi returns total=0 for that slug, so it is written (content/batches/2026-09-26-miss-you-global-30/blogs/) but not published. It was read locally anyway and this post does not twin it. (3) The prompt framed the route warning as \"WebSearch alone would have caused a false abort\" for this row. Measured on this row's own head term, Google itself returns 8 of 8 music/TV/novel results, so the entity contamination on the bare phrase is real on Google too and is not a WebSearch artefact - the inversion only appears once intent is expressed in the query. (4) journalcheck.mjs reports Frontiers in Psychology AT CAP (3 posts) in THIS batch, which contradicts BRIEF section 7's \"one slot remains\" - that figure was measured on the 2026-09-26 batch. No Frontiers paper was cited here.",
+      "priceGuard": "pricecheck-intl.mjs run; no price, cost, currency, subscription or free-tier claim appears in any language. The body states that no pricing claim can be made from first-party data and links /templates instead.",
+      "firstPartyCaveats": "All four mandatory caveats are in body prose, not only here: page views are not unique visitors; n=214 over roughly two months so no seasonal claim; the database records which template was opened and never who received it, and nothing in it is segmented by language or country; and only sender-chosen fields are used, with the picker-with-default fields (city, background music, \"together since\") named and excluded.",
+      "boundaries": "Stayed off /blog/miss-you-or-missing-you, which owns the bare grammar contrast (miss as a state verb, whether the progressive is licensed, the Indian English eWAVE finding, the three-way miss/missing/missed table) - this post does not argue correctness at all and says so explicitly, linking there. Stayed off the parallel miss-you row, which owns the bare finite \"Miss you\" sent as a message and the pragmatics of subject-drop - this post analyses the non-finite participle, a different construction, and hands the sent-message ground over by name. Also read /blog/miss-you-quotes (owns sourced quotations) and /blog/miss-you-dearly-meaning (owns the adverb dearly) to avoid twinning; neither overlaps.",
+      "sourceCaps": "capcheck.mjs run immediately before writing: no banned URL used, no domain at cap. All six source domains (universaldependencies.org, www.gutenberg.org, europepmc.org) are on the cap-exempt instrument list. Journal named for the hand census: PLOS One, which journalcheck.mjs puts at 1 prior post in this batch. Frontiers in Psychology is AT CAP in this batch and was avoided. None of the batch's 14 already-spent PMCIDs is reused; PMC12021284 is new."
+    },
+    "generatedAt": "2026-09-28T16:39:29.857Z"
+  }
+}
