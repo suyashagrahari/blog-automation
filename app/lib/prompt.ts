@@ -99,6 +99,10 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   // description. NOT yet a Strapi `templates` entry, so in batchMeta.templateUrls it
   // resolves as an amber "missing" warning until that entry is created.
   { url: `${SITE_ROOT}/dandiya-partner`, what: "Be My Dandiya Partner — an interactive Navratri invitation: nine diyas, a dhol-beat game, your photos in a garba circle and a cute Yes/No, ending in a downloadable Dandiya Pass" },
+  // Added 2026-10-12. Both verified HTTP 200; `what` taken from each page's own
+  // CreativeWork description. Seeded into the CMS template picker (dilse-cms 4541cf0).
+  { url: `${SITE_ROOT}/happy-halloween`, what: "Interactive Halloween card they play: knock on a little haunted house, carve a pumpkin, read your letter by flashlight, brew a love potion and answer 'Will you be my boo?' — ends in a downloadable Boo License" },
+  { url: `${SITE_ROOT}/happy-halloween-premium`, what: "Premium cinematic Halloween page: a ghost pops out of a mailbox with your letter, candy with sweet dares, ghosts hiding your photos, a love potion, a voice note and 'will you be my boo?' landing on your song's chorus" },
   { url: `${SITE_ROOT}/legal-notice`, what: "Legal Notice — a mock formal notice served on your person; they must accept or contest every demand, with seven days to comply" },
 ];
 
