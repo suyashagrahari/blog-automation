@@ -2,7 +2,7 @@
 
 Ranks 351–400 of 400 · expected clicks at the October peak (EST): **467/mo**.
 
-One row = one post. The **also covers** variants go inside that same post (they share a SERP), never their own post. Weak counts come from the US-served SERP archetypes in `../serps.md`; demand is the live Google autocomplete `prefix_hits` across US/UK/CA/AU/IN (`(near)` = matched a close phrasing, `(unmeasured)` = no autocomplete row in 5 markets).
+One row = one post. The **also covers** variants go inside that same post (they share a SERP). Weak counts: US-served SERP archetypes in `../serps.md`; demand: live autocomplete `prefix_hits` across US/UK/CA/AU/IN (`(near)` = close phrasing matched, `(unmeasured)` = no row in 5 markets).
 
 | # | primary keyword | also covers | theme | est. peak volume | weak/10 | demand | exp. clicks/mo | publish by |
 |---|---|---|---|---|---|---|---|---|

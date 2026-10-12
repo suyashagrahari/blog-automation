@@ -2,7 +2,7 @@
 
 Ranks 1–50 of 400 · expected clicks at the October peak (EST): **58,960/mo**.
 
-One row = one post. The **also covers** variants go inside that same post (they share a SERP), never their own post. Weak counts come from the US-served SERP archetypes in `../serps.md`; demand is the live Google autocomplete `prefix_hits` across US/UK/CA/AU/IN (`(near)` = matched a close phrasing, `(unmeasured)` = no autocomplete row in 5 markets).
+One row = one post. The **also covers** variants go inside that same post (they share a SERP). Weak counts: US-served SERP archetypes in `../serps.md`; demand: live autocomplete `prefix_hits` across US/UK/CA/AU/IN (`(near)` = close phrasing matched, `(unmeasured)` = no row in 5 markets).
 
 | # | primary keyword | also covers | theme | est. peak volume | weak/10 | demand | exp. clicks/mo | publish by |
 |---|---|---|---|---|---|---|---|---|
@@ -43,16 +43,16 @@ One row = one post. The **also covers** variants go inside that same post (they 
 | 35 | anime couple costumes | halloween couple anime | couple | 10,000+/mo EST | 4 | 4 (near) | 880 | 2027-08-08 |
 | 36 | halloween quotes for whatsapp status | halloween whatsapp status; halloween status for whatsapp; halloween captions for whatsapp status | messages | 10,000+/mo EST | 4 | 33 | 880 | 2027-08-08 |
 | 37 | halloween wishes for instagram | halloween wishes instagram post | messages | 10,000+/mo EST | 4 | 22 | 880 | 2027-08-08 |
-| 38 | happy halloween wishes | halloween wishes; halloween wishes message; funny halloween wishes; halloween wishes funny; funny halloween messages | messages | 10,000+/mo EST | 3 | 3 | 880 | 2027-08-08 |
+| 38 | happy halloween wishes | halloween wishes; halloween wishes message; funny halloween wishes; halloween wishes funny; funny halloween messages; halloween greetings; happy halloween greetings; halloween greetings cards; halloween card messages; what to write in a halloween card; halloween messages for cards; halloween messages to send; halloween texts to send | messages | 10,000+/mo EST | 3 | 3 | 880 | 2027-08-08 |
 | 39 | halloween messages for adults | halloween wishes for adults | messages | 10,000+/mo EST | 4 | 12 | 880 | 2027-08-08 |
-| 40 | halloween messages to send | halloween texts to send | messages | 10,000+/mo EST | 4 | 12 | 880 | 2027-08-08 |
-| 41 | halloween messages for kids | halloween wishes for kids; halloween messages for kids funny | messages | 10,000+/mo EST | 4 | 7 | 880 | 2027-08-08 |
-| 42 | halloween wishes for grandchildren | halloween wishes for grandkids; halloween wishes for granddaughter | messages | 10,000+/mo EST | 4 | 1 | 880 | 2027-08-08 |
-| 43 | halloween card messages | what to write in a halloween card; halloween messages for cards | messages | 10,000+/mo EST | 3 | 6 | 880 | 2027-08-08 |
-| 44 | halloween greetings | happy halloween greetings; halloween greetings cards | messages | 10,000+/mo EST | 3 | 5 (near) | 880 | 2027-08-08 |
-| 45 | halloween makeup captions | halloween face quotes | captions | 10,000+/mo EST | 4 | 1 | 880 | 2027-08-08 |
-| 46 | halloween 2026 date | when is halloween 2026; halloween 2026 day | global | 10,000+/mo EST | 3 | 18 | 880 | 2027-08-08 |
-| 47 | halloween picture comments | comments for halloween pictures | captions | 10,000+/mo EST | 4 | 17 | 880 | 2027-08-08 |
-| 48 | halloween one word captions | halloween puns one word; halloween quotes one word | captions | 10,000+/mo EST | 4 | 16 (near) | 880 | 2027-08-08 |
-| 49 | halloween captions for stories | halloween instagram story captions | captions | 10,000+/mo EST | 4 | 15 | 880 | 2027-08-08 |
-| 50 | halloween puns for work | halloween puns for marketing | puns | 10,000+/mo EST | 3 | 12 | 880 | 2027-08-08 |
+| 40 | halloween messages for kids | halloween wishes for kids; halloween messages for kids funny | messages | 10,000+/mo EST | 4 | 7 | 880 | 2027-08-08 |
+| 41 | halloween wishes for grandchildren | halloween wishes for grandkids; halloween wishes for granddaughter | messages | 10,000+/mo EST | 4 | 1 | 880 | 2027-08-08 |
+| 42 | halloween makeup captions | halloween face quotes | captions | 10,000+/mo EST | 4 | 1 | 880 | 2027-08-08 |
+| 43 | halloween 2026 date | when is halloween 2026; halloween 2026 day | global | 10,000+/mo EST | 3 | 18 | 880 | 2027-08-08 |
+| 44 | halloween picture comments | comments for halloween pictures | captions | 10,000+/mo EST | 4 | 17 | 880 | 2027-08-08 |
+| 45 | halloween one word captions | halloween puns one word; halloween quotes one word | captions | 10,000+/mo EST | 4 | 16 (near) | 880 | 2027-08-08 |
+| 46 | halloween captions for stories | halloween instagram story captions | captions | 10,000+/mo EST | 4 | 15 | 880 | 2027-08-08 |
+| 47 | halloween puns for work | halloween puns for marketing | puns | 10,000+/mo EST | 3 | 12 | 880 | 2027-08-08 |
+| 48 | halloween captions for family | halloween caption family | captions | 10,000+/mo EST | 4 | 2 | 880 | 2027-08-08 |
+| 49 | halloween puns | halloween puns funny; halloween puns for adults; adult halloween puns; ghost puns; boo puns; skeleton puns; bone puns | puns | 10,000+/mo EST | 3 | 1 | 880 | 2027-08-08 |
+| 50 | halloween captions for business | halloween instagram captions for businesses | captions | 10,000+/mo EST | 4 | 6 | 880 | 2027-08-08 |
