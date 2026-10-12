@@ -1,0 +1,339 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Virtual Garba Night Invitation Online: Wording, Link, Set-Up",
+    "slug": "virtual-garba-night-invitation",
+    "excerpt": "How to host and invite people to a garba that happens online: Google Meet's 60-minute and Zoom's 40-minute limits, why dancing in sync over a call fails, a run-of-show, copyable invitation wording with time-zone lines, and a hybrid tripod checklist.",
+    "metaTitle": "Virtual Garba Night Invitation Online, Timed to Call Limits",
+    "metaDescription": "Virtual garba night invitation online: wording with link and time zone, Meet's 60-minute and Zoom's 40-minute caps, and why the beat drifts past 30 ms.",
+    "keywords": "virtual garba night invitation online, virtual garba, online garba night, digital dandiya invitation, dandiya partner online, virtual navratri celebration ideas",
+    "canonicalURL": "https://subhsandesh.in/blog/virtual-garba-night-invitation",
+    "ogType": "article",
+    "tags": [
+      "navratri",
+      "garba",
+      "virtual garba",
+      "invitation",
+      "long distance"
+    ],
+    "keyTakeaways": [
+      "Without a subscription, Google Meet ends a computer-hosted call of 3 or more at 60 minutes (chime at 50); Zoom's Basic plan stops at 40 minutes. Both hold 100 people.",
+      "Clapping in time breaks down above 25–30 ms of delay, while calls are built for ~100 ms conversation, so every household should play the songs on its own speaker.",
+      "48.3% of SubhSandesh pages are opened on a phone, so the invitation and the call link must work on one.",
+      "Send the invitation a day early: in Raksha Bandhan 2026 data, the nearest festival analogue, 49.4% of pages were built on the day itself, too late for guests abroad."
+    ],
+    "faqs": [
+      {
+        "question": "What should a virtual garba night invitation say?",
+        "answer": "Four lines: which night, the start time in IST with the guest's own local time beside it, the call link, and an instruction to play the songs on their own speaker. Add how long the call runs, because a free Google Meet group call ends at 60 minutes."
+      },
+      {
+        "question": "How long can a garba run on Google Meet without paying?",
+        "answer": "Google's help page says a computer-hosted meeting of three or more people runs up to 60 minutes without a subscription, with a chime at 50 minutes. A one-on-one call runs up to 24 hours, which suits a long-distance couple."
+      },
+      {
+        "question": "Is Zoom good for an online garba night?",
+        "answer": "Zoom's Basic plan allows 100 participants but only 40 minutes per meeting, enough for an aarti and two or three songs. For a longer garba you need a second link or Zoom Pro, which runs 30 hours per meeting."
+      },
+      {
+        "question": "How many people can join a WhatsApp group call for garba?",
+        "answer": "WhatsApp announced one-tap voice calls for up to 32 people in April 2022. We could not load its current group-video help page, so check the limit your app shows before inviting a large family to a video call."
+      },
+      {
+        "question": "Should everyone dance to the music coming through the call?",
+        "answer": "No. A network-music study found clapping in time breaks down above about 25 to 30 ms of delay, while calls are built for conversation, which tolerates around 100 ms. Each household should play the same track on its own speaker, started on the host's count, with everyone but the host muted."
+      },
+      {
+        "question": "Can my grandmother join garba from bed over a video call?",
+        "answer": "Yes, and a tablet she only has to tap once is the easiest set-up. A 2025 review of videoconferenced exercise for older adults found it works, with connection and audio problems as the usual failures, so test the call that afternoon."
+      },
+      {
+        "question": "What time is a 9 pm IST garba in London, Dubai or New York?",
+        "answer": "During Navratri in October it is 4:30 pm in London (BST), 7:30 pm in Dubai and 11:30 am in New York (EDT). Put both times in the invitation so nobody converts it wrongly."
+      },
+      {
+        "question": "Can I use Be My Dandiya Partner to invite someone to an online garba?",
+        "answer": "Yes, for one person. It is an invitation page, not a video-call tool: put the call time in its time field and the meeting link in your note, and the ticket offers Add to calendar. For a family group, send the call link and wording instead."
+      },
+      {
+        "question": "Should I post the garba call link on my WhatsApp Status?",
+        "answer": "No. Everyone who views your Status gets the link, and strangers asking to join mid-aarti spoil the call, so send it in the family group or one-to-one. On SubhSandesh, 38.5% of creators password-protect their pages before sharing, which shows how many people want a link kept private."
+      },
+      {
+        "question": "When is Navratri in 2027?",
+        "answer": "Sharad Navratri 2027 runs from 30 September to 8 October, per Drik Panchang for New Delhi. In 2026 it ran from 11 to 19 October, and Gujarat played garba again on Sharad Purnima, 25 October."
+      }
+    ],
+    "coverImageQuery": "family video call garba living room",
+    "coverImagePrompt": "A warm, photorealistic scene of an Indian family doing garba in a living room, with a phone on a tripod in the foreground showing relatives dancing on a video call. Soft lamp and diya light, colourful chaniya choli, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Virtual Garba Night Invitation Online: Wording, Link, Set-Up\n\nA virtual garba night invitation online needs five things: the night, the start time in IST plus each guest's local time, the call link, how long the call can run, and one line telling guests to play the music on their own speaker. It has to open on a phone, because 48.3% of SubhSandesh pages are opened on one. Send it a day early: in our Raksha Bandhan 2026 data (the nearest festival analogue, n=89), 49.4% of pages were built on the festival day itself, which is too late for a cousin in Toronto who has to rearrange a working morning.\n\nBelow: which call app holds a garba, why dancing in sync over a call fails, a 60-minute run-of-show, copyable wording and a hybrid set-up checklist. Every limit quoted comes from the provider's own page.\n\n## What is a virtual garba night, and who is it for now?\n\nA virtual garba night is a garba held over a video call, where each household dances in its own room to the same songs while seeing the others on screen. A hybrid version adds a phone on a tripod at a real garba so people who cannot come can watch and join in.\n\nIt peaked in 2020, when colleges such as Schoolcraft moved their Navratri garba onto Zoom, and the pages that still rank for it date from then. A study of Hindu religious life in that period found the pandemic [accelerated the move to online services at prominent temples, but most of the changes were ephemeral](https://journal.fi/ar/article/view/107671) (Frøystad, Approaching Religion, 2021). Search demand is small, and the honest audience today is four kinds of people.\n\n- A family spread across India, the Gulf, the UK and North America.\n- A grandparent, or anyone bedridden or recovering.\n- A long-distance couple who would otherwise spend all nine nights apart.\n- A home garba with a phone on a tripod for those who could not travel.\n\n## Google Meet, Zoom or WhatsApp: which one holds a garba?\n\nThe deciding number is the time limit, not the participant cap. Google's own help page says a personal account [can host up to 100 participants, and without a subscription a computer-hosted meeting of 3 or more runs for up to 60 minutes](https://support.google.com/meet/answer/7317473?hl=en); one-on-one calls run up to 24 hours, and everyone hears a chime at 50 minutes.\n\nZoom's plan page lists its [Workplace Basic plan at 40 minutes and 100 participants per meeting](https://www.zoom.com/en/products/meetings/), against 30 hours on Pro. WhatsApp announced [one-tap voice calls for up to 32 people](https://blog.whatsapp.com/sharing-our-vision-for-communities-on-whatsapp) on 14 April 2022; we could not load its group-video help page, so check the cap your app shows.\n\n| Option | People | Time limit | Best for |\n|---|---|---|---|\n| Google Meet, personal account | Up to 100 | 60 min for 3+ people; 24 h one-on-one | A family garba across countries |\n| Zoom Workplace Basic | Up to 100 | 40 min per meeting | A short aarti plus two songs |\n| WhatsApp group call | Voice up to 32 (2022 announcement) | No limit found on the pages we read | Relatives who never open a laptop |\n| Be My Dandiya Partner link | 1 person | No call at all; 48.3% of SubhSandesh views are on phones | Asking one person to be your partner |\n\nFor a family garba across countries, Meet is the default: 60 minutes covers a full run-of-show, and a 24-hour one-on-one suits a couple. Zoom's 40 minutes forces a second link halfway through the garba.\n\n## Why you cannot dance in sync over a video call\n\nYou cannot clap on the same beat over a normal call, and no setting fixes it. A 2022 network-music study notes that [voice calls tolerate delays up to about 100 ms, but people clapping to a shared beat start to struggle above 25–30 ms](https://europepmc.org/article/PMC/PMC9791973) (Tsioutas and Xylomenos, SN Computer Science). Its 11 pairs of musicians held a steady tempo at one-way delays of up to 40 ms, far tighter than the 100 ms a conversation tolerates.\n\nEven in one room, sound travels about 3 ms per metre, so two dancers three metres apart already hear each other roughly 9 ms late. A call adds the network on top, so the dhol from a cousin's speaker in London will always land after your clap in Ahmedabad. The fix is to stop sending the music through the call:\n\n- Every household plays the same track on its own speaker, started on the host's spoken \"three, two, one\".\n- Everyone except the host stays muted while songs play, which also kills the echo from two speakers.\n- The call carries faces and laughter, not the beat.\n\n## A 60-minute run-of-show for an online garba night\n\nThis plan fits inside Google Meet's 60-minute limit for three or more people, with the 50-minute chime as your cue to start goodbyes. On Zoom Basic, end after the third song and send a fresh link.\n\n- **0–5 min:** Join, check that every camera shows feet as well as faces, mute everyone.\n- **5–20 min:** Aarti led by one household on mute for the rest, then each house shows its outfit in the night's colour.\n- **20–40 min:** Garba in three rounds, one song each, every house playing its own copy.\n- **40–50 min:** Dandiya pairs within each household, and a slow song for the grandparents.\n- **50 min:** The chime. Unmute everyone for a gallery screenshot.\n- **50–58 min:** Goodbyes and the next night's colour.\n\nSharad Navratri 2026 runs from Sunday 11 October to Monday 19 October, and in 2027 from 30 September to 8 October. Gujarat plays garba again on Sharad Purnima, Sunday 25 October 2026, a last chance for anyone who missed the nine nights.\n\n## Virtual garba night invitation wording, with link and time zone\n\nEach invitation below carries four lines: the night, the time in IST and the guest's own zone, the link, and the music instruction. For a 9 pm IST start in October, that is 4:30 pm in London (BST), 7:30 pm in Dubai and 11:30 am in New York (EDT); our long-distance Navratri wishes guide carries the full city table.\n\n### 1. A family group across countries\n\n> Jai Mata Di! Virtual garba on Navratri night 5, 9 pm IST (4:30 pm London, 11:30 am New York). Link: [your Meet link]. The call ends at 60 minutes, so join on time. Keep the song list below on your own speaker; we start on my count.\n\n### 2. A grandparent or someone bedridden\n\n> Ba, garba is coming to you tonight. At 9 pm we will call on the tablet and dance in front of you for one hour. You only have to tap the green button. Wear tonight's colour; I will send it to you at 8.\n\n### 3. A long-distance partner\n\n> Garba date, 9 pm my time, 4:30 pm yours. One-on-one Meet, so no 60-minute cut-off. Same song, same colour, two rooms. I start Chogada on three.\n\n### 4. Guests watching a hybrid home garba\n\n> Can't make it to our society garba? We'll put a phone on a tripod from 9 pm IST. Link: [your link]. We can't hear you over the dhol, so wave, and type in the chat.\n\nSend the link privately, never on a public Status. On SubhSandesh, 38.5% of creators password-protect their page before sharing; a meeting link deserves the same care.\n\n## Hybrid home garba: the phone-on-a-tripod checklist\n\nHybrid is harder than fully online: the room is loud and the phone cannot move. A 2025 scoping review of [videoconferenced exercise for older adults, 14 studies from 2,506 records](https://europepmc.org/article/PMC/PMC12445624), found it can deliver live group exercise, with connection, audio and device problems as the recurring failures (Robin and colleagues, JMIR Rehabilitation and Assistive Technologies).\n\n- Phone on a tripod at chest height, landscape, two to three metres from the circle so whole figures show.\n- Charger plugged in for the full hour.\n- Wi-Fi router within one room, or a tested mobile hotspot.\n- Call volume down on the venue phone so remote voices do not echo, but its microphone on so they hear the dhol.\n- Do Not Disturb on, so a phone call does not cut the stream.\n- One named \"camera person\" who reads out chat messages between songs.\n\n## Inviting one person: the dandiya partner link, and what it is not\n\nIf the invitation is for one person rather than a family call, use the [Be My Dandiya Partner invitation](https://subhsandesh.in/dandiya-partner). You add their name and yours, nine short lines (one for each night), up to six photos, and the date, time, venue and dress code, then send the private link on WhatsApp or Instagram. It opens in any phone or laptop browser with no app and no account, and per its own schema it is free to use.\n\nThey clash dandiya sticks to open an envelope, light nine diyas that each show one of your lines and play a short dhol-beat game. The ticket offers Add to calendar for Google Calendar and Apple or Outlook, so put the call time in the time field and the meeting link in your note. A yes gives a 1080×1920 Dandiya Pass, and you get an email the first time they say yes.\n\nIt is not a video-call tool, its page is in English, and it is one-to-one: for a family group, send the Meet link and the wording above instead. If the message to a far-away partner is really \"I miss you\", the [miss-you page for a partner](https://subhsandesh.in/missyou-gf) fits better than a dance invitation.\n\n## When a virtual garba is the wrong choice\n\nIf everyone lives in one city, go to the garba; a call is a substitute, not an upgrade. If the time zones put one side at around 2:30 am, as a 9 pm IST start does for Sydney, record the garba and send it the next morning.\n\nPast 100 guests, both Meet and Zoom's Basic plan cap you, so a livestream suits better. A guest without a smartphone also loses: a link-based plan assumes one, so phone a grandparent who has only a landline.\n\n## Sources\n\n- Tsioutas and Xylomenos, network delay and musical tempo, SN Computer Science, 26 December 2022. [Europe PMC](https://europepmc.org/article/PMC/PMC9791973)\n- Robin and colleagues, videoconferenced exercise for older adults, JMIR Rehabilitation and Assistive Technologies, 18 September 2025. [Europe PMC](https://europepmc.org/article/PMC/PMC12445624)\n- Frøystad, \"Worship and the virus in Hindu India\", Approaching Religion, 22 November 2021. [journal.fi](https://journal.fi/ar/article/view/107671)\n- Google Meet Help, participant and meeting length limits, undated. [support.google.com](https://support.google.com/meet/answer/7317473?hl=en)\n- Zoom Meetings plans, undated. [zoom.com](https://www.zoom.com/en/products/meetings/)\n- WhatsApp Blog, Communities announcement, 14 April 2022. [blog.whatsapp.com](https://blog.whatsapp.com/sharing-our-vision-for-communities-on-whatsapp)\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/virtual-garba-night-invitation#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Garba",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Garba_(dance)",
+              "https://www.wikidata.org/wiki/Q882985"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Navaratri",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Navaratri",
+              "https://www.wikidata.org/wiki/Q10269"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Videotelephony",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Videotelephony",
+              "https://www.wikidata.org/wiki/Q854954"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Google Meet",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Google_Meet",
+              "https://www.wikidata.org/wiki/Q56669074"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Zoom",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Zoom_(software)",
+              "https://www.wikidata.org/wiki/Q94979732"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Assessing the Effects of Delay to NMP via Audio Analysis",
+            "url": "https://europepmc.org/article/PMC/PMC9791973",
+            "datePublished": "2022-12-26",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SN Computer Science (Springer Nature)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Usability of Videoconferencing for Physical Exercise Interventions in Older Adults: Scoping Review",
+            "url": "https://europepmc.org/article/PMC/PMC12445624",
+            "datePublished": "2025-09-18",
+            "publisher": {
+              "@type": "Organization",
+              "name": "JMIR Rehabilitation and Assistive Technologies"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Worship and the virus in Hindu India: Contested innovation, polarization, uneven digital acceleration",
+            "url": "https://journal.fi/ar/article/view/107671",
+            "datePublished": "2021-11-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Approaching Religion (Donner Institute)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Learn what requirements you need to use Google Meet",
+            "url": "https://support.google.com/meet/answer/7317473?hl=en",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Google"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Zoom Meetings plans",
+            "url": "https://www.zoom.com/en/products/meetings/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Zoom"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Sharing Our Vision for Communities on WhatsApp",
+            "url": "https://blog.whatsapp.com/sharing-our-vision-for-communities-on-whatsapp",
+            "datePublished": "2022-04-14",
+            "publisher": {
+              "@type": "Organization",
+              "name": "WhatsApp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Virtual garba night invitation wording by guest",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "A family group across countries",
+            "description": "9 pm IST with London and New York times, the Meet link, the 60-minute end and a play-your-own-speaker line."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A grandparent or someone bedridden",
+            "description": "One tap on a tablet, one hour of garba danced in front of them, and the night's colour sent beforehand."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "A long-distance partner",
+            "description": "A one-on-one Meet with no 60-minute cut-off, the same song and colour in two rooms."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Guests watching a hybrid home garba",
+            "description": "A phone on a tripod from 9 pm IST; remote guests wave and type in the chat over the dhol."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "virtual garba night invitation online",
+    "angle": "Wins by being the only post that treats a virtual garba as a hosting problem in the present tense: platform time limits from Google's and Zoom's own pages (60 and 40 minutes), the 25–30 ms delay threshold for clapping in sync from a network-music study, a run-of-show that fits under Meet's cap, and invitation wording with a time-zone line, using SubhSandesh's 48.3% phone-open rate and Raksha Bandhan lead-time data.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/dandiya-partner",
+      "/missyou-gf"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9791973",
+        "stat": "Voice communication needs delays of no more than 100 ms; in hand-clapping studies delays over 25-30 ms were problematic; 11 pairs of musicians reached and held a steady tempo at one-way delays up to 40 ms; sound travels about 3 ms per metre in a room (Tsioutas & Xylomenos, SN Computer Science, full text read)",
+        "publishedDate": "2022-12-26"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12445624",
+        "stat": "Scoping review: 14 studies from 2,506 records; videoconferencing can deliver synchronous exercise to older adults; technical support mainly concerned connection, audio and hardware problems (Robin et al., full text read, CC BY)",
+        "publishedDate": "2025-09-18"
+      },
+      {
+        "url": "https://journal.fi/ar/article/view/107671",
+        "stat": "The pandemic accelerated the transition to online religious services in prominent Hindu temples while pausing others; most changes were ephemeral (Frøystad, abstract read only; CC BY 4.0)",
+        "publishedDate": "2021-11-22"
+      },
+      {
+        "url": "https://support.google.com/meet/answer/7317473?hl=en",
+        "stat": "Personal Google accounts: max 100 participants; without a subscription, on a computer, one-on-one meetings up to 24 hours and meetings of 3+ up to 60 minutes, with a chime at 50 minutes",
+        "publishedDate": "undated (help page, read 2026-10-12)"
+      },
+      {
+        "url": "https://www.zoom.com/en/products/meetings/",
+        "stat": "Workplace Basic: 40 minutes max per meeting, 100 participants max per meeting; Pro: 30 hours per meeting",
+        "publishedDate": "undated (plans page, read 2026-10-12)"
+      },
+      {
+        "url": "https://blog.whatsapp.com/sharing-our-vision-for-communities-on-whatsapp",
+        "stat": "Larger voice calls: one-tap voice calling for up to 32 people (announced 14 April 2022)",
+        "publishedDate": "2022-04-14"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison is between call platforms (Meet, Zoom, WhatsApp); facts.md measures SubhSandesh page creation and views, not call use, so only the Be My Dandiya Partner row carries a first-party number (48.3% phone views). No column can honestly hold first-party data. Structural: closes only if SubhSandesh records whether /dandiya-partner tickets carry a call link or online venue, re-checkable once that template has a few hundred pages."
+        }
+      ],
+      "honestAssessment": "Demand is genuinely low (no autocomplete row; the measured SERP is 2020 pandemic pages and 2008 mailing lists, 9 of 9 weak for this intent, US-served), so the realistic prize is answer-engine citation for 'how do we do garba over video', where this is the only page with provider-sourced time limits, a cited latency threshold explaining why the beat drifts, and a run-of-show sized to Meet's 60 minutes. It cannot overcome SubhSandesh's low domain authority, and the first-party data bears on the invitation (phone opens, lead time), not on virtual garba itself."
+    },
+    "structuralLimitations": [
+      "Low demand, stated plainly: the row has no autocomplete support; serps.md 'virtual navratri celebration online garba' scored 8/10 weak (2020 pandemic pages) and my own US-served WebSearch for the exact keyword returned 9 results, all weak for this intent (1invites template-design blog x2, 2008 Stevens mailing-list posts x3, a 2023 Plattsburgh student digest, a 2018 Buffalo calendar, venuelook's offline hosting guide, a 2020 Schoolcraft college-paper piece). Zero competition is real, but so is low volume.",
+      "Prompt claim 'participant limits and time limits from each provider's own help page': verified for Google Meet (help page) and Zoom (its own plans page; the support.zoom.com KB articles are JS-rendered and returned empty to every fetcher). WhatsApp's group-video help pages returned empty/404 shells; the only verifiable WhatsApp number is the 2022 blog's 32-person VOICE call, so the post prints no video cap.",
+      "Frøystad 2021 cited from the abstract only (the PDF download returned an HTML viewer, not the PDF).",
+      "Navratri 2027 dates (30 Sep - 8 Oct) and Sharad Purnima garba 25 Oct 2026 are cited as BRIEF-verified against drikpanchang; no drikpanchang page was fetched or linked for this post.",
+      "Time-zone conversions (9 pm IST = 4:30 pm BST, 7:30 pm Dubai, 11:30 am EDT, ~2:30 am AEDT) computed from UTC offsets and consistent with the navratri-wishes-long-distance sibling's DST-checked table; the full table is referenced in prose, not repeated. Split from siblings: navratri-wishes-long-distance = wishes and the time-zone table; dandiya-invitation-card-online-free = card tools; dandiya-night-invitation-message = WhatsApp surfaces; this page = hosting a garba that happens online (platform, latency, run-of-show, hybrid set-up)."
+    ],
+    "generatedAt": "2026-10-12T12:59:26.367Z"
+  }
+}

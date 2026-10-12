@@ -36,10 +36,17 @@ const EXEMPT = { test: (h) => EXEMPT_LIST.has(String(h).replace(/^www\./, "")) }
 // belong to the ARCHIVED host. Counting the archive host instead put web.archive.org on
 // the cap list at 2 posts while hiding a dictionary (sjp.pwn.pl, reached through the
 // archive because it answers 403 here) that should never have been capped at all.
-const unwrap = (u) => {
+const unwrap0 = (u) => {
   const m = String(u).match(/^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.+)$/);
   return m ? m[1] : String(u);
 };
+// FIXED 2026-10-12: the same paper reached via europepmc.org and pmc.ncbi.nlm.nih.gov (or
+// doi.org) was counted as two URLs, so a paper in 3 posts read as 2 + 1. URL identity is now
+// keyed on the PMC id or DOI when one is present. Hostname for domain caps is unaffected.
+const paperKey = (u) => { const s = String(u); const pmc = s.match(/PMC\d+/i); if (pmc) return "paper:" + pmc[0].toUpperCase();
+  const doi = s.match(/10\.\d{4,}\/[^\s?#]+/); return doi ? "paper:doi:" + doi[0].toLowerCase().replace(/\/$/, "") : null; };
+const unwrap = (u) => unwrap0(u);
+const urlKey = (u) => paperKey(unwrap0(u)) || unwrap0(u);
 const isExempt = (u) => { try { return EXEMPT.test(new URL(unwrap(u)).hostname); } catch { return false; } };
 
 // FIXED 2026-09-25 (caught by the miss-na-miss-kita-meaning agent): the checker
@@ -61,15 +68,17 @@ const banned = new Map();
 for (const p of PRIOR) { if (!fs.existsSync(p)) continue;
   for (const f of fs.readdirSync(p))
     for (const s of (JSON.parse(fs.readFileSync(`${p}/${f}`, "utf8")).batchMeta?.sources || []))
-      { if (!isExempt(s.url)) banned.set(unwrap(s.url), path.basename(path.dirname(p))); } }
+      { if (!isExempt(s.url) || paperKey(unwrap0(s.url))) banned.set(urlKey(s.url), path.basename(path.dirname(p))); } }
 const dom = {}, url = {};
 if (fs.existsSync(HERE)) for (const f of fs.readdirSync(HERE)) {
   const j = JSON.parse(fs.readFileSync(`${HERE}/${f}`, "utf8"));
   const seen = new Set();
   for (const s of (j.batchMeta?.sources || [])) {
+    // A PAPER on an exempt repository host still counts toward the per-URL cap and the
+    // cross-wave ban; only the repository HOST is exempt from the domain cap.
+    if (!isExempt(s.url) || paperKey(unwrap0(s.url))) (url[urlKey(s.url)] ||= new Set()).add(f);
     if (isExempt(s.url)) continue;   // reference instruments are not publishers
-    seen.add(canon(new URL(unwrap(s.url)).hostname));
-    (url[unwrap(s.url)] ||= new Set()).add(f); }
+    seen.add(canon(new URL(unwrap(s.url)).hostname)); }
   for (const d of seen) (dom[d] ||= new Set()).add(f); }
 console.log(`BANNED — spent in waves 1-3, never reuse (${banned.size} URLs).`);
 console.log("Statutes, dictionaries, treebanks, corpora and standards are EXEMPT and excluded from this list — reuse them freely and note it in structuralLimitations.");
