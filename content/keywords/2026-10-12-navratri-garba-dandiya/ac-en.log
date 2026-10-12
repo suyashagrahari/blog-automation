@@ -1,0 +1,67 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs garba dandiya navratri garba night dandiya night garba partner dandiya partner --geo in --hl en --out content/keywords/2026-10-12-navratri-garba-dandiya/ac-en
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-navratri-garba-dandiya/ac-en/autocomplete.csv
+[keywords:suggest]   336 calls (0 failed) · 2977 unique suggestions · geo=in hl=en
+[keywords:suggest]   1451 are 4+ words · 307 carry a year · 106 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  22× rel= 601  garba partner in hindi
+  22× rel= 601  garba partner meaning in hindi
+  21× rel=1250  garba partner meaning
+  21× rel= 601  dandiya partner meaning
+  21× rel= 601  why is dandiya played during navratri
+  20× rel= 551  dandiya partner steps
+  18× rel= 601  dandiya partner
+  15× rel= 551  dandiya partner dance
+  14× rel= 901  garba partner
+  12× rel=1250  garba night near me
+  10× rel= 554  garba benefits
+   7× rel=1255  dandiya night bangalore
+   7× rel=1252  garba night bangalore
+   7× rel=1251  dandiya night hsr layout
+   7× rel=1250  garba partner in gujarati
+   7× rel= 601  dandiya partner captions for instagram
+   7× rel= 601  garba partner captions for instagram
+   7× rel= 600  captions for garba partner
+   6× rel=1252  dandiya night near me
+   6× rel= 600  garba partner captions for instagram in gujarati
+   6× rel= 559  garba partner captions for instagram with friends
+   5× rel=1251  garba night bangalore 2026
+   5× rel=1250  dandiya night 2026
+   5× rel=1250  dandiya night in mysore
+   5× rel= 601  dandiya with partner
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · garba night bangalore 2026
+  · dandiya night 2026
+  · dandiya night 2026 date
+  · garba 2026
+  · navratri days 2026
+  · navratri colours 2026
+  · navratri colors 2026
+  · dandiya reborn 2026
+  · garba night date 2026
+  · dandiya night bangalore 2026
+  · navratri 2026 colours with date
+  · garba night 2026
+
+── Language variants people are actually typing ───────────────
+  · garba partner in hindi
+  · garba partner meaning in hindi
+  · garba partner in gujarati
+  · garba partner captions for instagram in gujarati
+  · garba partner captions for instagram in hindi
+  · garba night in hindi
+  · garba partner meaning in gujarati
+  · garba partner quotes in gujarati
+  · my garba partner in gujarati
+  · garba partner vacancy open meaning in hindi
+  · garba night in gujarati
+  · navratri in hindi
+  · navratri in kannada
+  · dandiya in hindi
+  · garba in hindi
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.

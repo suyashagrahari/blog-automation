@@ -1,0 +1,67 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs navratri invitation garba invitation dandiya invitation navratri wishes navratri 2026 garba 2026 dandiya 2026 garba pass navratri status navratri images --geo in --hl en --out content/keywords/2026-10-12-navratri-garba-dandiya/ac-en2
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-navratri-garba-dandiya/ac-en2/autocomplete.csv
+[keywords:suggest]   480 calls (0 failed) · 2833 unique suggestions · geo=in hl=en
+[keywords:suggest]   1841 are 4+ words · 1064 carry a year · 278 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  26× rel= 601  dandiya 2025
+  25× rel= 601  dandiya 2030
+  21× rel= 552  dandiya 2033
+  20× rel= 600  dandiya invitation card in hindi
+  19× rel= 601  dandiya invitation in hindi
+  19× rel= 600  dandiya 2025 date
+  14× rel= 601  dandiya invitation card maker
+  14× rel= 600  garba invitation card maker
+  13× rel= 600  dandiya invitation in marathi
+  11× rel= 601  garba invitation wording
+  11× rel= 551  dandiya 202
+  10× rel= 601  dandiya invitation card online free
+  10× rel= 600  dandiya invitation card maker online free
+   9× rel= 900  garba invitation card maker free
+   9× rel= 601  dandiya invitation template free download
+   9× rel= 600  dandiya invitation template free
+   9× rel= 600  garba invitation card in gujarati template
+   8× rel=1250  navratri 2026 date
+   8× rel=1250  navratri invitation templates free download
+   8× rel= 601  garba 2026
+   8× rel= 601  garba invitation card maker free online
+   8× rel= 601  garba invitation in hindi
+   8× rel= 601  garba invitation message
+   8× rel= 601  garba pass free
+   8× rel= 600  dandiya invitation card template free
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · dandiya 2025
+  · dandiya 2030
+  · dandiya 2033
+  · dandiya 2025 date
+  · navratri 2026 date
+  · garba 2026
+  · garba navratri 2026
+  · garba pass 2023
+  · garba 2025
+  · dandiya 2026 bangalore
+  · navratri 2026 april
+  · navratri 2026 colour
+
+── Language variants people are actually typing ───────────────
+  · dandiya invitation card in hindi
+  · dandiya invitation in hindi
+  · dandiya invitation in marathi
+  · garba invitation card in gujarati template
+  · garba invitation in hindi
+  · navratri status in hindi
+  · dandiya invitation message in hindi
+  · garba invitation gujarati
+  · navratri invitation card in hindi
+  · navratri wishes in hindi
+  · garba invitation card in gujarati
+  · navratri images in hindi
+  · garba invitation message in hindi
+  · navratri invitation message in hindi
+  · navratri invitation card in marathi
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.

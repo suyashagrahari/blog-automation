@@ -95,6 +95,10 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   { url: `${SITE_ROOT}/loveflix`, what: "LoveFlix — a streaming service with one show on it and your partner as the lead: browse the catalogue of your relationship, then play a branching episode" },
   { url: `${SITE_ROOT}/rewind`, what: "Rewind — your year as a story you tap through, every number worked out from one date, ending on which couple you actually are" },
   { url: `${SITE_ROOT}/searched`, what: "Searched — they type their own name into a search box and get joke autocomplete, a full results page about them, and a knowledge panel that is too accurate" },
+  // Added 2026-10-12. Verified HTTP 200; `what` taken from the page's own meta
+  // description. NOT yet a Strapi `templates` entry, so in batchMeta.templateUrls it
+  // resolves as an amber "missing" warning until that entry is created.
+  { url: `${SITE_ROOT}/dandiya-partner`, what: "Be My Dandiya Partner — an interactive Navratri invitation: nine diyas, a dhol-beat game, your photos in a garba circle and a cute Yes/No, ending in a downloadable Dandiya Pass" },
   { url: `${SITE_ROOT}/legal-notice`, what: "Legal Notice — a mock formal notice served on your person; they must accept or contest every demand, with seven days to comply" },
 ];
 
