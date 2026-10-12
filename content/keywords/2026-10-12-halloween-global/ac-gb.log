@@ -1,0 +1,57 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs halloween halloween costumes halloween ideas halloween quotes halloween captions halloween party halloween couple halloween pickup lines halloween decorations halloween wishes --geo gb --hl en --out content/keywords/2026-10-12-halloween-global/ac-gb
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-halloween-global/ac-gb/autocomplete.csv
+[keywords:suggest]   480 calls (23 failed) · 3941 unique suggestions · geo=gb hl=en
+[keywords:suggest]   2198 are 4+ words · 229 carry a year · 4 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  34× rel= 601  halloween pick up lines dirty tinder
+  31× rel= 600  halloween chat up lines
+  22× rel= 600  halloween chat up lines tinder
+  16× rel= 601  halloween pickup line reddit
+  15× rel= 601  halloween captions for stories
+  13× rel= 601  halloween rizz joke
+  11× rel= 601  halloween quotes film
+  11× rel= 600  halloween instagram captions for businesses
+  11× rel= 600  halloween quotes quiz
+  10× rel= 601  halloween 2026 uk
+  10× rel= 552  halloween insta quote
+   9× rel=1251  halloween couple fancy dress
+   9× rel= 600  halloween caption for vampire
+   8× rel=1253  halloween costumes kids
+   8× rel= 552  halloween quotes food
+   7× rel= 601  halloween pick up lines for boyfriend
+   7× rel= 601  halloween pick up lines in spanish
+   7× rel= 600  halloween pick up lines for girls
+   7× rel= 600  halloween wishes for grandkids
+   7× rel= 559  halloween pickup lines for girlfriend
+   7× rel= 557  halloween couple costumes uk
+   6× rel=1252  halloween costumes women
+   6× rel=1251  halloween decorations indoor
+   6× rel=1251  halloween party ideas
+   6× rel=1251  halloween wishes for kids
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · halloween 2026 uk
+  · halloween 2026 date
+  · halloween couple ideas 2026
+  · halloween ideas 2026
+  · halloween couple costumes 2026
+  · halloween couple costume ideas 2026
+  · halloween couple outfit 2023
+  · halloween 2027 costume ideas
+  · halloween best couple costumes 2025
+  · halloween costumes 2026
+  · when is halloween party at disney world 2026
+  · what halloween costumes are trending for 2025
+
+── Language variants people are actually typing ───────────────
+  · halloween quotes in hindi
+  · why halloween is celebrated in hindi
+  · what is halloween party meaning in hindi
+  · why halloween is celebrated in urdu
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
+[keywords:suggest] 23 of 480 calls failed — the set is incomplete. Last error: HTTP 500
