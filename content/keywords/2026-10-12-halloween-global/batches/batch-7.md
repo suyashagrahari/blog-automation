@@ -1,20 +1,20 @@
 # Halloween — Batch 7 of 8 (50 posts)
 
-Ranks 301–350 of 400 · expected clicks at the October peak (EST): **856/mo**.
+Ranks 301–350 of 400 · expected clicks at the October peak (EST): **842/mo**.
 
-One row = one post. The **also covers** variants go inside that same post (they share a SERP). Weak counts: US-served SERP archetypes in `../serps.md`; demand: live autocomplete `prefix_hits` across US/UK/CA/AU/IN (`(near)` = close phrasing matched, `(unmeasured)` = no row in 5 markets).
+One row = one post; **also covers** = same post. Weak counts: `../serps.md` archetypes; demand: autocomplete `prefix_hits` US/UK/CA/AU/IN (`(near)` close phrasing, `(unmeasured)` none).
 
 | # | primary keyword | also covers | theme | est. peak volume | weak/10 | demand | exp. clicks/mo | publish by |
 |---|---|---|---|---|---|---|---|---|
-| 301 | halloween mocktails | halloween drinks for kids | food | 300-1,000/mo EST | 5 | — (unmeasured) | 43 | 2027-09-05 |
-| 302 | last minute couples halloween costumes | last minute couple costumes | couple | 300-1,000/mo EST | 4 | 2 (near) | 29 | 2027-08-08 |
-| 303 | halloween couple costumes for big guys | couple costumes with beard | couple | 300-1,000/mo EST | 4 | 1 (near) | 29 | 2027-08-08 |
-| 304 | couple costume captions | halloween couple costume captions | couple | 300-1,000/mo EST | 4 | — (unmeasured) | 29 | 2027-08-08 |
-| 305 | halloween wishes in spanish | feliz halloween mensajes | messages | 300-1,000/mo EST | 4 | 1 | 29 | 2027-08-08 |
-| 306 | halloween instagram story ideas | halloween story ideas | captions | 300-1,000/mo EST | 4 | 3 | 29 | 2027-08-08 |
-| 307 | witch captions for instagram | witchy captions | captions | 300-1,000/mo EST | 4 | 1 | 29 | 2027-08-08 |
-| 308 | pumpkin puns | pumpkin puns for instagram | puns | 300-1,000/mo EST | 3 | 1 (near) | 29 | 2027-08-08 |
-| 309 | witch puns | witch puns for instagram | puns | 300-1,000/mo EST | 3 | 1 (near) | 29 | 2027-08-08 |
+| 301 | last minute couples halloween costumes | last minute couple costumes | couple | 300-1,000/mo EST | 4 | 2 (near) | 29 | 2027-08-08 |
+| 302 | halloween couple costumes for big guys | couple costumes with beard | couple | 300-1,000/mo EST | 4 | 1 (near) | 29 | 2027-08-08 |
+| 303 | couple costume captions | halloween couple costume captions | couple | 300-1,000/mo EST | 4 | — (unmeasured) | 29 | 2027-08-08 |
+| 304 | halloween wishes in spanish | feliz halloween mensajes | messages | 300-1,000/mo EST | 4 | 1 | 29 | 2027-08-08 |
+| 305 | halloween instagram story ideas | halloween story ideas | captions | 300-1,000/mo EST | 4 | 3 | 29 | 2027-08-08 |
+| 306 | witch captions for instagram | witchy captions | captions | 300-1,000/mo EST | 4 | 1 | 29 | 2027-08-08 |
+| 307 | pumpkin puns | pumpkin puns for instagram | puns | 300-1,000/mo EST | 3 | 1 (near) | 29 | 2027-08-08 |
+| 308 | witch puns | witch puns for instagram | puns | 300-1,000/mo EST | 3 | 1 (near) | 29 | 2027-08-08 |
+| 309 | halloween captions for friends group | halloween squad captions; halloween group captions | captions | 300-1,000/mo EST | 4 | — (unmeasured) | 29 | 2027-08-08 |
 | 310 | halloween costume ideas for teen boys | teen boy costumes | costume | 300-1,000/mo EST | 4 | 2 (near) | 29 | 2027-08-08 |
 | 311 | halloween makeup for beginners | simple halloween makeup | beauty | 300-1,000/mo EST | 3 | 1 | 29 | 2027-08-08 |
 | 312 | cute pumpkin carving ideas | cute pumpkin faces | decor | 300-1,000/mo EST | 4 | 2 (near) | 29 | 2027-08-08 |
