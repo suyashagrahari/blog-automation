@@ -13,10 +13,13 @@ Y" goes in `structuralLimitations` and is the most valuable thing you can report
 ## 1. The calendar (verified 2026-10-12)
 
 - Sharad Navratri 2026: **Sun 11 Oct – Mon 19 Oct**. Today, 12 Oct, is day 2.
-- Vijayadashami / Dussehra 2026: **Tue 20 Oct**.
+- Durga Ashtami and Maha Navami 2026 fall on the SAME day, **Mon 19 Oct (IST)**. Drikpanchang served with a US timezone shows Ashtami 18 Oct, so set New Delhi.
+- **2026 tithis do not map one-goddess-per-date:** Saptami runs across 17 AND 18 Oct, Ashtami and Maha Navami share 19 Oct. A plain "day 8 = Mahagauri = 18 Oct" list is wrong for 2026. Organise by night/goddess without dates, or use the tithi dates.
+- Drikpanchang defaults to Orlando, USA. Append `&geoname-id=1261481` (New Delhi) to every date URL.
+- Vijayadashami / Dussehra 2026: **Tue 20 Oct (Delhi/North India per drikpanchang)**, but **Wed 21 Oct in Bengal and Mysuru** (Drik Panchang regional listing; official Mysuru palace calendar puts Jumboo Savari on 21 Oct). Mahanavami/Ayudha Puja is **Tue 20 Oct** in Drik's Navratri table and the Mysuru calendar. Never print a single all-India Dussehra date without the regional caveat. Working drik URL: `/festivals/vijayadashami/vijayadashami-date-time.html`.
 - Sharad Purnima 2026: tithi 25 Oct 11:55 IST → 26 Oct 09:41 IST; Gujarat plays garba again on the night of **Sun 25 Oct**.
 - Sharad Navratri 2027: **30 Sep – 8 Oct**, Dussehra **9 Oct 2027** (drikpanchang).
-- If you print a date, check it against drikpanchang.com (cap-exempt, a fact-check).
+- If you print a date, check it against drikpanchang.com (cap-exempt). Its 2027 page `https://www.drikpanchang.com/navratri/ashwin-shardiya-navratri-dates.html?year=2027` was reachable in search; some drikpanchang URLs 404 to fetchers. If you cannot fetch it, say so in the audit and cite the dates as BRIEF-verified rather than linking a page you did not read.
 - Write so the page is still correct in October 2027. Use undated titles unless the keyword
   itself carries a year. Do not write "this year" next to a 2026 date.
 
@@ -71,7 +74,7 @@ WebSearch is capped at 200 calls for the WHOLE session, shared by all 50 agents,
   tab across agents, and earlier batches got other agents' SERPs back.
 - `content/keywords/2026-10-12-navratri-garba-dandiya/serps.md` holds 41 SERPs measured
   today. If your keyword or a near variant is there, use it as corroboration.
-- Known incumbents: eduyush.com (titles still say 2025), flick.social, hindutone.com (the
+- Known incumbents: eduyush.com (SOME titles still say 2025, but at least one caption page was refreshed to 2026 with "Last updated: September 2026" — check your own page, never assume), flick.social, hindutone.com (the
   only fresh 2026 publisher), scraped mirrors (lutonhoo.oandg.co.uk, msoid.icmbio.gov.br,
   *.onrender.com). These are competitors. **Never cite or link them.**
 - **Gate 4 abort:** if your top 10 has 0 weak results, write the research brief, write NO
@@ -94,8 +97,7 @@ WebSearch is capped at 200 calls for the WHOLE session, shared by all 50 agents,
   Siblings are writing in parallel, so prefer a source no sibling is likely to pick.
   Generic dance-and-health papers will be contested; go specific.
 - Never cite a news piece for something it does not say. The "rent a garba partner" story
-  (freepressjournal, Sep 2026) is real, but the content of the Gujarat police advisory was
-  not visible in search snippets. Read it before you describe it.
+  (freepressjournal, Sep 2026) is real, but per the garba-partner-meaning writer it was an **Ahmedabad Cyber Crime Cell investigation plus general safety advice; no advisory text was published.** Do not write "police advisory" as if a document exists.
 
 ## 6. Writing rules for this batch
 
@@ -121,6 +123,8 @@ WebSearch is capped at 200 calls for the WHOLE session, shared by all 50 agents,
 
 ## 7. Output and report
 
+`batch.json` exists, so run `node scripts/verify-batch.mjs content/batches/2026-10-12-navratri-partner-b1` from the repo root and fix your own post's lines until clean. Ignore problems on sibling slugs.
+
 Write only `blogs/<slug>.json` and `research/<slug>.md` for your own slug. Do not touch
 `batch.json`, `PLAN.json` or a sibling's files. Before finishing, confirm your H1,
 `article.slug` and `batchMeta.keyword` agree.
@@ -128,3 +132,24 @@ Write only `blogs/<slug>.json` and `research/<slug>.md` for your own slug. Do no
 Report back in under 150 words: slug, body words, FAQ count, WebSearch calls used, weak
 count in your top 10, sources (domains), audit failures, the one-line honest assessment,
 and any brief claim you found false.
+
+## 8. Live spent-source notes (orchestrator updates as rows land)
+
+- **AT URL CAP (2 posts) — do not cite:** the UNESCO ICH garba inscription page (ich.unesco.org, "Garba of Gujarat"), and Bali 2014 on aclanthology.org. Generic garba-heritage sources also fail the swap test. Go specific to your own subject.
+- Run `node content/batches/2026-10-12-navratri-partner-b1/capcheck.mjs` for the current truth; it reads the blogs folder.
+- **Do NOT put sibling `/blog/<slug>` links in the body,** even if your prompt says "link it". They fail the TEMPLATE_LINKS checklist items and 404 if a sibling does not ship. Name the sibling topic in prose if useful; the orchestrator adds cross-links after publish.
+- **aclanthology.org is at its 3-post DOMAIN cap.** Do not cite it.
+- The facts.md 96.3% line is "romantic **and everyday** pages", and the #1 page type is the apology dashboard. Do not call the platform "overwhelmingly romantic".
+- **At URL cap (2):** Chavda 2019 "Performing Garba" (Dance Chronicle DOI). Instagram's Dec 2025 five-hashtag cap is already the hook of garba-captions-for-instagram; caption siblings may mention it in one line but must not build on it.
+- **en.wikipedia.org is at its 3-post domain cap** (the verifier counts body links; capcheck may undercount). Do not cite Wikipedia. Avoid "free"/"for free" phrasing about any third-party tool unless sourced: the verifier treats it as a pricing claim. /dandiya-partner is `isAccessibleForFree: true` per its own schema (template-spec.md); cite that if you say it is free.
+- **doi.org is at its 3-post cap** as a host. Link the publisher URL (or Europe PMC) instead of doi.org.
+- **At URL cap (2):** the 2017 Navratri-fasting review on Europe PMC (used by -wife and -in-english).
+- **Taylor & Francis (tandfonline.com, taylorfrancis.com, doi 10.1080/…) and Sage (journals.sagepub.com, doi 10.1177/…) are AT the publisher cap.** Do not cite either publisher. Count doi.org links by the publisher they resolve to.
+- Gujarati spelling: Gujarati Lexicon lists BOTH નવરાત્રી and નવરાત્રિ; navratri-wishes-in-gujarati uses નવરાત્રી throughout. Gujarati siblings should match. Roberts (openaccess.wgtn.ac.nz) and gujaratilexicon are used by that post — other Gujarati rows prefer different sources.
+- **At URL cap (2):** the PTI/Business Standard dandiya-stick piece (18-inch, mango/baval wood); the Dynamite News rent-a-partner piece; the JBMR Vadodara case study (nepjol.info). pacompendium.com folk-dance METs are used by dandiya-partner-steps — garba-benefits may cite it once more (URL cap 2).
+- **At URL cap (2):** CPCB Noise Pollution Rules 2000 (cpcb.nic.in).
+- **At URL cap (2):** Parmar 2013 Leeds thesis (etheses.whiterose.ac.uk) and Sundar 2017 (soundstudiesblog.com).
+- **At URL cap (2):** freepressjournal rent-a-partner story; deshgujarat 2025 garba pass prices. gujaratilexicon.com has 1 post-slot left.
+- **gujaratilexicon.com is at its 3-post DOMAIN cap.** pacompendium.com/dancing at URL cap.
+- **Journal at cap (3 posts): Frontiers in Psychology.** Do not cite it.
+- **arxiv.org is at its 3-post DOMAIN cap.** Dakshina paper at URL cap.
