@@ -1,0 +1,67 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs नवरात्रि गरबा डांडिया navratri ki --geo in --hl hi --out content/keywords/2026-10-12-navratri-garba-dandiya/ac-hi
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-navratri-garba-dandiya/ac-hi/autocomplete.csv
+[keywords:suggest]   192 calls (0 failed) · 2118 unique suggestions · geo=in hl=hi
+[keywords:suggest]   858 are 4+ words · 276 carry a year · 77 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+   4× rel= 600  navratri ki hardik badhai
+   3× rel=1251  नवरात्रि की हार्दिक शुभकामनाएं
+   3× rel=1250  navratri ki aarti
+   3× rel=1250  navratri ki katha
+   3× rel=1250  नवरात्रि कब है
+   3× rel= 900  navratri ki ashtami kab hai
+   3× rel= 650  navratri ki pahli aarti
+   3× rel= 601  navratri ki photo
+   3× rel= 601  navratri ki vrat katha
+   3× rel= 600  navratri ki dher sari shubhkamnaye
+   3× rel= 600  navratri ki hardik shubhkamnaye poster
+   3× rel= 600  navratri ki wishes in hindi
+   3× rel= 600  today garba
+   3× rel= 560  navratri ki puja ka samay
+   3× rel= 559  navratri ki hardik shubhkamnaen hindi mein
+   3× rel= 558  navratri ki hardik shubhkamnaen image
+   3× rel= 551  नवरात्रि की आरती
+   2× rel=1255  गरबा डांस
+   2× rel=1254  गरबा सॉन्ग
+   2× rel=1253  गरबा डांडिया
+   2× rel=1252  गरबा ड्रेस
+   2× rel=1252  डांडिया सॉन्ग
+   2× rel=1252  नवरात्रि कब है 2026
+   2× rel=1251  गरबा नृत्य
+   2× rel=1251  डांडिया डांस
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · नवरात्रि कब है 2026
+  · नवरात्रि 2026
+  · नवरात्रि in 2026
+  · navratri march 2026
+  · navratri october 2026
+  · नवरात्रि in 2025
+  · navratri in march 2026
+  · navratri july 2026
+  · navratri upvas kadhi sodava 2025
+  · navratri end date 2025
+  · navratri october 2025
+  · navratri utsav 2025
+
+── Language variants people are actually typing ───────────────
+  · navratri ki wishes in hindi
+  · navratri ki hardik shubhkamnaen hindi mein
+  · navratri ki hardik shubhkamnaye in hindi
+  · navratri ki shubhkamnaye in hindi
+  · garba in hindi
+  · navratri ki in hindi
+  · garba hindi
+  · garba in gujarati
+  · navratri best wishes in hindi
+  · navratri in hindi
+  · navratri ki shubhkamnaen hindi mein
+  · navratri quotes in hindi
+  · navratri wishes in hindi
+  · navratri ki shubhkamnaye in hindi text
+  · navratri quotes in marathi
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
