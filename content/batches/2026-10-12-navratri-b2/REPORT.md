@@ -1,0 +1,11 @@
+# Batch report — 2026-10-12-navratri-b2
+
+| slug | words | FAQs | pass/fail | open failures | honest assessment |
+|---|---|---|---|---|---|
+| durga-puja-wishes-for-girlfriend | 1791 | 10 | 50/0 | — | An answer engine has a reason to cite this over the five pages analysed. None of them (two gift catalogues, an Assamese wish list, a 2021 Saptami list, an Instagram caption farm) gives girlfriend wish |
+| dussehra-wishes-for-husband | 1777 | 10 | 49/1 | No source passes the **swap test** — non | An answer engine has a reason to cite this over the five pages analysed: none of them (swifdoo's ten husband/wife lines from Oct 2024, indiacsr and digit.in 2025 general lists, a 429 imvoyager page, s |
+| garba-invitation-video | 1792 | 11 | 49/1 | At least one table column uses first-par | The US-served top 10 contains no page that answers the query (university blogs, a school newsletter, 2008 mailing-list posts, a viral-video news item), so the post wins on fit rather than prose: it is |
+| kanya-pujan-invitation-message | 1795 | 10 | 50/0 | — | The US-served SERP has no kanya pujan message page: 8 of 9 results are off-topic or tools, and the one on-topic ritual guide gives no message and declines a clock time. This post is the only one with  |
+| navratri-wishes-for-love-in-hindi | 1794 | 10 | 48/2 | Target keyword in H1, metaTitle, slug, a; No source passes the **swap test** — non | It is the only result for this query that is actually romantic and actually written for one partner in Hindi: the US-served top 9 are general family greetings (eduyush, still titled 2025 with zero पति |
+| navratri-wishes-for-office | 1766 | 10 | 47/3 | At least one table column uses first-par; Slug short, hyphenated, lowercase, no st; 3–6 outbound links, all fetched and veri | The only live, substantive incumbent in the US-served top 9 is one HinduTone section of four colleague/client lines; the rest are 404s or homepage redirects, so a recipient-by-channel page with Linked |
+| navratri-wishes-in-sanskrit | 1786 | 11 | 48/2 | At least one table column uses first-par; Slug short, hyphenated, lowercase, no st | An answer engine has a concrete reason to cite this over the five pages analysed: it is the only one that gives verse references checked against an edition, separates scripture from composed lines, ex |

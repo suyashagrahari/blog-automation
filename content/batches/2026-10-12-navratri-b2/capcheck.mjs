@@ -1,0 +1,106 @@
+// Source-cap checker for batch 2026-10-12-navratri-b2. Paths re-pointed 2026-10-12 (PRIOR = the batch holding the live navratri-gift-ideas post).
+// FIXED 2026-09-26: copied from 2026-09-25-miss-you-30 with BOTH path constants
+// still pointing at that batch, so this checker counted the sibling batch's 54
+// posts and reported doi.org / journals.plos.org / arxiv.org at cap 3 for a batch
+// holding ZERO posts. It cost the seni-ozledim agent its best-fitting paper before
+// it was caught. This is the SECOND time this exact copy-paste bug has shipped —
+// see the note below from 2026-09-25. Check these constants first when you copy it.
+// FIXED 2026-09-25: this file was copied from the propose-30c batch and its two
+// path constants were left pointing at that batch, so it reported a clean cap for
+// this batch no matter what was in it. Caught by the i-miss-you-in-spanish agent.
+// Counts POSTS per domain / per URL — NOT occurrences.
+import fs from "node:fs";
+import path from "node:path";
+// FIXED 2026-09-28: every path below was relative to the REPO ROOT, so running this
+// script from inside the batch directory — which several row prompts told agents to do —
+// crashed with ENOENT instead of reporting caps. Paths now resolve from the script's own
+// location, so it works from any cwd.
+const HERE_DIR = path.dirname(new URL(import.meta.url).pathname);
+const ROOT = path.resolve(HERE_DIR, "..", "..", "..");
+const R = (p) => path.join(ROOT, p);
+const PRIOR = ["2026-09-03-bouquet-3", "2026-10-12-navratri-partner-b1"]
+  .map((d) => R(`content/batches/${d}/blogs`));
+const HERE = R("content/batches/2026-10-12-navratri-b2/blogs");
+// Primary-reference sources are EXEMPT from the cross-wave ban (BRIEF, 2026-09-24):
+// statutes, dictionaries, grammars, treebanks, corpora and standards documents have
+// exactly one correct citation, so reusing them across waves is not content-farming.
+// Single source of truth: the batch's own verify.config.json, so the checker and the
+// verifier can never disagree about what is exempt.
+const CFG = JSON.parse(fs.readFileSync(R("content/batches/2026-10-12-navratri-b2/verify.config.json"), "utf8"));
+const EXEMPT_LIST = new Set([...(CFG.capExemptDomains || []), "dsal.uchicago.edu", "universaldependencies.org", "tatoeba.org", "unicode.org", "en.wiktionary.org"]);
+const EXEMPT = { test: (h) => EXEMPT_LIST.has(String(h).replace(/^www\./, "")) };
+
+// FIXED 2026-09-28: web.archive.org is a WRAPPER, not a publisher — the same class of
+// defect as doi.org being a resolver, which the note further down already calls out. A
+// snapshot of sjp.pwn.pl is a citation OF sjp.pwn.pl, so both the cap and the exemption
+// belong to the ARCHIVED host. Counting the archive host instead put web.archive.org on
+// the cap list at 2 posts while hiding a dictionary (sjp.pwn.pl, reached through the
+// archive because it answers 403 here) that should never have been capped at all.
+const unwrap0 = (u) => {
+  const m = String(u).match(/^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.+)$/);
+  return m ? m[1] : String(u);
+};
+// FIXED 2026-10-12: the same paper reached via europepmc.org and pmc.ncbi.nlm.nih.gov (or
+// doi.org) was counted as two URLs, so a paper in 3 posts read as 2 + 1. URL identity is now
+// keyed on the PMC id or DOI when one is present. Hostname for domain caps is unaffected.
+const paperKey = (u) => { const s = String(u); const pmc = s.match(/PMC\d+/i); if (pmc) return "paper:" + pmc[0].toUpperCase();
+  const doi = s.match(/10\.\d{4,}\/[^\s?#]+/); return doi ? "paper:doi:" + doi[0].toLowerCase().replace(/\/$/, "") : null; };
+const unwrap = (u) => unwrap0(u);
+const urlKey = (u) => paperKey(unwrap0(u)) || unwrap0(u);
+const isExempt = (u) => { try { return EXEMPT.test(new URL(unwrap(u)).hostname); } catch { return false; } };
+
+// FIXED 2026-09-25 (caught by the miss-na-miss-kita-meaning agent): the checker
+// treated europepmc.org and pmc.ncbi.nlm.nih.gov as two domains, while BRIEF §4
+// says they are one. Three posts already held that family while this reported a
+// clean cap. Same for the two ERIC hosts. Mirrors are one publisher.
+const FAMILY = [
+  // BRIEF §4 names exactly one equivalence here: europepmc.org == pmc.ncbi.nlm.nih.gov
+  // (Europe PMC mirrors PMC, so the same article under both hosts is one source).
+  // pubmed.ncbi.nlm.nih.gov is deliberately NOT folded in: PubMed is an abstract
+  // INDEX, not a full-text host, and the article behind it is published elsewhere.
+  // Grouping it was my own over-strict reading and it wrongly showed this batch over
+  // cap, which would have forced a rewrite that the rule does not require.
+  [/^(europepmc\.org|pmc\.ncbi\.nlm\.nih\.gov)$/, "europepmc.org == pmc.ncbi.nlm.nih.gov"],
+  [/^(eric\.ed\.gov|files\.eric\.ed\.gov)$/, "eric.ed.gov (incl. files.)"],
+];
+const canon = (h) => { h = String(h).replace(/^www\./, ""); for (const [re, name] of FAMILY) if (re.test(h)) return name; return h; };
+const banned = new Map();
+for (const p of PRIOR) { if (!fs.existsSync(p)) continue;
+  for (const f of fs.readdirSync(p))
+    for (const s of (JSON.parse(fs.readFileSync(`${p}/${f}`, "utf8")).batchMeta?.sources || []))
+      { if (!isExempt(s.url) || paperKey(unwrap0(s.url))) banned.set(urlKey(s.url), path.basename(path.dirname(p))); } }
+const dom = {}, url = {};
+if (fs.existsSync(HERE)) for (const f of fs.readdirSync(HERE)) {
+  const j = JSON.parse(fs.readFileSync(`${HERE}/${f}`, "utf8"));
+  const seen = new Set();
+  for (const s of (j.batchMeta?.sources || [])) {
+    // A PAPER on an exempt repository host still counts toward the per-URL cap and the
+    // cross-wave ban; only the repository HOST is exempt from the domain cap.
+    if (!isExempt(s.url) || paperKey(unwrap0(s.url))) (url[urlKey(s.url)] ||= new Set()).add(f);
+    if (isExempt(s.url)) continue;   // reference instruments are not publishers
+    seen.add(canon(new URL(unwrap(s.url)).hostname)); }
+  for (const d of seen) (dom[d] ||= new Set()).add(f); }
+console.log(`BANNED — spent in waves 1-3, never reuse (${banned.size} URLs).`);
+console.log("Statutes, dictionaries, treebanks, corpora and standards are EXEMPT and excluded from this list — reuse them freely and note it in structuralLimitations.");
+console.log("Run with --list to print them all.");
+if (process.argv.includes("--list")) for (const [u, b] of [...banned].sort()) console.log(`  ${u}   [${b}]`);
+const reused = Object.keys(url).filter((u) => banned.has(u));
+console.log(`\n!! BANNED URLS USED IN THIS BATCH: ${reused.length ? reused.join("\n   ") : "none"}`);
+const full = Object.entries(dom).filter(([, s]) => s.size >= 3);
+console.log("\nDOMAINS AT CAP 3 — do not cite:");
+console.log(full.length ? full.map(([d, s]) => `  ${d} (${s.size} posts)`).join("\n") : "  none");
+const two = Object.entries(dom).filter(([, s]) => s.size === 2);
+console.log("\nDOMAINS WITH ONE SLOT LEFT (2 posts):");
+console.log(two.length ? two.map(([d]) => `  ${d}`).join("\n") : "  none");
+const u2 = Object.entries(url).filter(([, s]) => s.size >= 2);
+const dois = [];
+if (fs.existsSync(HERE)) for (const f of fs.readdirSync(HERE)) {
+  const j = JSON.parse(fs.readFileSync(`${HERE}/${f}`, "utf8"));
+  for (const s of (j.batchMeta?.sources || [])) { try { if (/^(www\.)?(dx\.)?doi\.org$/.test(new URL(s.url).hostname)) dois.push(`${f}  ${s.url}`); } catch {} }
+}
+console.log("\nNOTE: pubmed.ncbi.nlm.nih.gov is counted separately from the PMC family (index, not host), but a PubMed record and a PMC record OF THE SAME ARTICLE are one source — check by PMID/PMCID, not by hostname.");
+console.log("\ndoi.org IS A RESOLVER — these must be counted against the PUBLISHER they resolve to, which this script cannot do offline. Resolve each by hand before citing that publisher again:");
+console.log(dois.length ? dois.map((d) => `  ${d}`).join("\n") : "  none");
+console.log(`\nEXEMPT (reference instruments, uncapped): ${[...EXEMPT_LIST].join(", ")}`);
+console.log("\nURLS AT CAP 2 — do not cite:");
+console.log(u2.length ? u2.map(([u]) => `  ${u}`).join("\n") : "  none");
