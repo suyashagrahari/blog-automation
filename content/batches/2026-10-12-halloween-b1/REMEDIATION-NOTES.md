@@ -11,3 +11,10 @@
 7. Edit only your own blog JSON (and its research brief if needed).
 
 ## Cross-post notes
+# Cross-post notes for Phase 8 / human review
+- halloween-chat-up-lines vs halloween-pickup-lines: UK SERP identical to the US pickup SERP (measured by the chat-up writer). Cannibalisation risk; candidate to merge or canonicalise after Search Console shows which one Google prefers.
+- halloween-date-ideas-for-adults vs halloween-date-ideas-for-couples: near-identical SERPs (measured by the adults writer). Cannibalisation risk; merge/canonical candidate after Search Console data.
+- frontiersin.org over cap: halloween-date-ideas-for-adults cites Martin 2019 via doi.org/10.3389 (Frontiers) — remediator should relink via Europe PMC or drop one Frontiers paper from adults or pickup-lines.
+- halloween-activities-for-couples vs halloween-date-ideas-for-couples (and -for-adults): same SERP measured. Couples date/activities cluster = 3 pages on one SERP; consolidate after GSC data.
+- halloween-pickup-lines-in-spanish: 'dar calabazas' idiom is unsourced in body — remediator: source it (RAE/DEM/Fundéu, exempt) or cut.
+

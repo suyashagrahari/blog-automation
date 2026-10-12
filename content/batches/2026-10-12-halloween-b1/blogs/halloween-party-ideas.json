@@ -1,0 +1,364 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Party Ideas: A Host's Plan From Four Weeks Out",
+    "slug": "halloween-party-ideas",
+    "excerpt": "A host's plan for a Halloween party: a four-week timeline, food and drink amounts per guest, estimated budgets for 10, 20 or 40 guests, cheap décor, and the safety rules most lists skip — candles, dry ice, allergy labels and getting guests home.",
+    "metaTitle": "Halloween Party Ideas: Timeline, Per-Guest Maths and Budget",
+    "metaDescription": "Halloween party ideas for hosts: a 4-week timeline, food and drink per guest, budgets for 10, 20 or 40 guests, and why candles start 33% of décor fires.",
+    "keywords": "halloween party ideas, halloween party ideas for adults, halloween party planning timeline, halloween party food per person, halloween party budget",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-party-ideas",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "party",
+      "hosting",
+      "party-planning",
+      "safety"
+    ],
+    "keyTakeaways": [
+      "Send Halloween party invitations three weeks out with an RSVP date one week before; in SubhSandesh's Raksha Bandhan 2026 data 49.4% of pages were built on the day itself (n = 89), so expect late replies.",
+      "Rule-of-thumb amounts for a 3-hour party: 10–12 savoury bites, 3–4 sweet bites, about 4 drinks (a third non-alcoholic) and 1 lb of ice per guest.",
+      "Estimated home-party budgets: $150–270 for 10 guests, $280–500 for 20 and $540–960 for 40, with food and drink 70–85% of the total.",
+      "Conversation groups level off at about 3.5 people (Dunbar 2022), so 20 guests need about 6 seating or standing zones.",
+      "NFPA counts 835 US home fires a year started by decorations (2020–2024), about a third by candles — use battery lights and keep exits clear."
+    ],
+    "faqs": [
+      {
+        "question": "How far in advance should I send Halloween party invitations?",
+        "answer": "Send them three weeks before the party and set the RSVP date one week before, so you shop against real numbers. People decide late: in SubhSandesh's Raksha Bandhan 2026 data, 49.4% of pages were built on the day itself (n = 89, a different festival), so nudge anyone silent two days before the deadline."
+      },
+      {
+        "question": "How many appetizers per person do I need for a Halloween party?",
+        "answer": "Plan 10 to 12 savoury bites and 3 to 4 sweet ones per guest for a 3-hour evening party without a sit-down meal. These are catering rules of thumb, not measured figures; if you serve a proper dinner, roughly halve the bites."
+      },
+      {
+        "question": "How many drinks per guest should I buy?",
+        "answer": "Allow about 4 drinks per guest over 3 hours: 2 in the first hour, then 1 per hour. Make at least a third of them non-alcoholic, add 500 ml of water per guest, and buy about 1 lb (0.5 kg) of ice each."
+      },
+      {
+        "question": "How much does a Halloween party for 20 people cost?",
+        "answer": "By this page's estimate, about $280 to $500 for a home party, or roughly $14 to $25 a guest. Food and drink are 70% to 85% of that, so cut there first; décor is a fixed $40 to $80 whatever the guest count."
+      },
+      {
+        "question": "Is it safe to put dry ice in Halloween punch?",
+        "answer": "Not in anyone's cup. Dry ice is −109°F and causes frostbite on contact, according to the CDC's NIOSH Pocket Guide, so put it in an outer bowl under the punch bowl, handle it with tongs or thick gloves, and keep the room ventilated because the gas sinks and pools low."
+      },
+      {
+        "question": "Are fake cobwebs and Halloween decorations a fire hazard?",
+        "answer": "Decorations are, when they sit near heat. NFPA counts an average of 835 US home fires a year started by decorations (2020–2024), 47% because the decoration was too close to a heat source and about 33% from candles; NFPA does not single out cobwebs, but keep any light fabric off lamps and candles."
+      },
+      {
+        "question": "How do I handle food allergies at a Halloween party?",
+        "answer": "Ask about allergies in the invitation, then put a card by every dish listing which of the FDA's nine major allergens it contains: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame. Mark the punch 'contains alcohol' too."
+      },
+      {
+        "question": "How many people should I invite to a Halloween party?",
+        "answer": "Invite to your space, then plan the room in small zones. Conversation groups level off at about 3.5 people, according to Robin Dunbar's 2022 review, so 20 guests need about 6 seating or standing clusters and 40 guests about 11."
+      },
+      {
+        "question": "What is a good Halloween party idea for adults who don't drink?",
+        "answer": "Give the mocktail the same attention as the punch, for example blood orange juice, ginger beer, lime and rosemary in a dark glass. NHTSA lists non-alcoholic drinks among its 13 Halloween safety tips, and food, conversation and costumes carry the night without alcohol."
+      },
+      {
+        "question": "Can I use SubhSandesh to invite people to my Halloween party?",
+        "answer": "No. The /happy-halloween page is a one-person greeting, not a group invitation, so use a group chat or email for the guest list. It suits the one friend who can't come, and /date-invitation suits inviting a single date, whose yes turns into a countdown."
+      },
+      {
+        "question": "Which night should I hold a Halloween party when Halloween falls on a Sunday?",
+        "answer": "The Saturday before is the natural choice. Halloween is 31 October every year and falls on a Sunday in 2027, so a party would be on Saturday 30 October 2027; count the four-week timeline back from that date."
+      }
+    ],
+    "coverImageQuery": "halloween house party candles pumpkins friends",
+    "coverImagePrompt": "A warm, photorealistic evening scene of a small Halloween house party: friends in simple costumes talking in a group of three or four around a kitchen island laid with dips, a dark punch bowl and battery-lit jack-o'-lanterns. Soft orange and purple light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Party Ideas: A Host's Plan From Four Weeks Out\n\nThe best Halloween party ideas for adults are mostly planning decisions: send the invite three weeks out, set the RSVP date a week before, buy food against confirmed numbers, and lay the room out for small conversations. Timing is where most hosts slip.\n\nOur nearest festival data is Raksha Bandhan 2026 on SubhSandesh: 49.4% of pages were built on the day itself and none more than 7 days ahead (n = 89, a small sample from a different festival). Assume guests decide just as late. They will also read your invite on a small screen, since 48.3% of our shared pages are opened on a phone.\n\nBelow: a working-back timeline, per-guest food and drink amounts, a budget for 10, 20 or 40 guests, cheap décor, and the safety rules most party lists skip. Every amount is marked as sourced or as my own estimate.\n\n## What makes a Halloween party for adults actually work?\n\nA Halloween party works when guests talk, eat and laugh in small groups; the costume is only the excuse. Robin Dunbar's 2022 review in *Philosophical Transactions of the Royal Society B* found that [conversation groups and laughter groups both level off at about 3.5 people](https://europepmc.org/article/PMC/PMC9489299), however large the gathering, so a party of 20 is really five or six conversations at once.\n\nHis 2017 analysis of a UK national survey, [Breaking Bread: the Functions of Social Eating](https://europepmc.org/article/PMC/PMC6979515), found that evening meals which left people feeling closer involved more diners, laughter (reported at 67.9% of meals) and reminiscing (51.5%). Party games appeared at only 4.2% of meals and showed no measurable link with closeness. It covered everyday dinners, not costume parties, so read it as a direction rather than a rule.\n\nGames are their own topic and deserve their own plan. Themes are too: pick one in week four (a murder-mystery dinner, a monster mash dance night or a gothic candlelit supper) and let it guide the food and the playlist.\n\n## The Halloween party timeline, working back from 31 October\n\nHalloween is 31 October every year. When it falls on a Sunday, as it does in 2027, the Saturday before is the natural party night, so count back from whichever evening you choose. Each step below gives the job, the time it takes, and the thing that usually goes wrong.\n\n### 1. Four weeks out: guest list, date and theme\n\nWrite the guest list against your space: a room that seats 8 holds roughly twice that standing, by my rough estimate. Choose the date and one theme in about an hour. The usual mistake is leaving the date open while other parties claim the Saturday.\n\n### 2. Three weeks out: send the invitation\n\nSend it by message or email, with the date, start and end time, address, costume expectations and an RSVP date. Expect 15 minutes of writing and a week of answers. Ask about allergies and whether anyone needs a lift. Three ready-to-use lines:\n\n- \"Costumes encouraged, judgement not. Doors at 7, last ghost out by 11.\"\n- \"Tell me by the 23rd if you're coming, and if anything you eat could hurt you.\"\n- \"Walking home? We'll pair you up. Driving? We'll have the good mocktails.\"\n\n### 3. Two weeks out: décor and playlist\n\nBuy or make décor while stock is on shelves, and build a 3-hour playlist; allow an afternoon. The mistake is buying wax candles, when battery tea lights are safer, as the décor section explains.\n\n### 4. One week out: RSVP deadline and shopping list\n\nChase anyone who hasn't answered: in our Raksha Bandhan data 27.0% of pages were built the day before and 49.4% on the day, and replies run just as late. Turn confirmed numbers into the shopping list below. Plan for confirmed guests plus about 10%, my own buffer rather than a measured rate.\n\n### 5. Two days out: cook, chill and stage\n\nMake anything that keeps, such as dips, chilli and cookies. Buy ice and dry ice last, because dry ice sublimes straight to gas and will not keep. Set out the room in zones of 3 to 4 seats.\n\n### 6. The day: set-up, safety pass and a host plan\n\nAllow 3 hours of set-up. Before the doorbell, walk the room: candles out, exits clear, allergy cards on each dish, taxi numbers ready. Decide which sober person, if anyone, can drive guests home.\n\n## How much food and drink per guest?\n\nThese quantities are catering rules of thumb, not measured figures. They assume a 3-hour evening party with no sit-down meal; serve a proper dinner and you can halve the bites.\n\n- **Savoury bites:** 10 to 12 pieces per guest, heavier in the first 2 hours.\n- **Sweet bites:** 3 to 4 per guest.\n- **Drinks:** 2 in the first hour, then 1 per hour, so about 4 per guest.\n- **Non-alcoholic drinks:** at least a third of the total, plus water.\n- **Ice:** 1 lb (about 0.5 kg) per guest, double if you chill bottles in tubs.\n- **Water:** 500 ml per guest.\n- **Plates and cups:** 2 plates and 3 cups each, because people lose them.\n\nFor 20 guests that is roughly 220 savoury bites, 70 sweet ones, 80 drinks and 20 lb of ice. Write those numbers on the shopping list before you go.\n\nChoose food that sits out well. A slow-cooker black bean chilli in a \"cauldron\" pot, a layered dip with cracker tombstones, olive \"eyeballs\" on cheese, and orange and black cookies cover most tastes. Skip anything that needs carving at the table once 10 people are standing around it.\n\nMake the mocktail as good as the punch: blood orange juice, ginger beer, lime and rosemary in a dark glass. NHTSA's Halloween guidance for hosts lists [non-alcoholic options as one of its 13 safety tips](https://www.nhtsa.gov/halloween-safety-tips), and a good one means the drivers don't feel like an afterthought.\n\n## What does a Halloween party cost for 10, 20 or 40 guests?\n\nThe table compares three party sizes using my own estimates in US dollars for a home party with the quantities above. Prices vary by city and country, so treat the ranges as a planning start. The last column uses Dunbar's 3.5-person conversation ceiling to show how many seating or standing zones you need.\n\n| Guests | Food and drink (est.) | Décor and tableware (est.) | Total (est.) | Conversation zones (~3.5 each) |\n|---|---|---|---|---|\n| 10 | $110–200 | $40–70 | $150–270 | 3 |\n| 20 | $220–400 | $60–100 | $280–500 | 6 |\n| 40 | $440–800 | $100–160 | $540–960 | 11 |\n\nThe takeaway: per head, the party gets slightly cheaper as it grows (about $15–27 a guest at 10, $14–24 at 40), because décor is a fixed cost. Food and drink are roughly 70% to 85% of every budget, so that is where to save.\n\n## Halloween décor on a budget, and the fire risk it carries\n\nCheap décor that works: bin bags cut into fringe curtains, paper bats, thrift-store frames with printed \"portraits\" and coloured bulbs in your own lamps. By my estimate, $30 to $60 covers a room.\n\nThe risk is heat. The National Fire Protection Association reports that [from 2020 to 2024 US fire departments attended an average of 835 home fires a year that began with decorations](https://www.nfpa.org/education-and-research/home-fire-safety/halloween). Nearly half (47%) happened because decorations sat too close to a heat source such as a candle or hot equipment, and about a third (33%) were started by candles.\n\nNFPA's figures cover decorations in general, not fake cobweb specifically. Still, stretchy cobweb, crepe paper and fabric drapes are exactly the light materials to keep off lamps, heaters and jack-o'-lanterns. Use battery candles or glow sticks inside pumpkins, keep every exit free of décor, and test the smoke alarms on party day.\n\n## Dry ice, allergies and getting guests home safely\n\nDry ice is solid carbon dioxide, and the CDC's NIOSH Pocket Guide lists it as [subliming at −109°F, causing frostbite on skin or eye contact, and as a gas about 1.5 times as dense as air](https://www.cdc.gov/niosh/npg/npgd0103.html), so the fog pools low. Handle it with tongs or thick gloves, and put it in an outer bowl under the punch bowl, never in anyone's cup. Use it in a ventilated room, away from small children and pets at floor level.\n\nAllergies need a label, not a guess. The US Food and Drug Administration names [nine major food allergens](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies): milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame, with sesame added from 1 January 2023. Put a card by every dish listing which of the nine it contains, plus \"contains alcohol\" on the punch.\n\nGetting home matters most: NHTSA says that in 2023 nearly half of all crash fatalities on Halloween night were alcohol-related. Its host tips are to arrange taxis or rideshares, offer a sofa, collect keys from guests who are drinking, and drive people home only if you are sober. Pair up guests on foot before they leave and send them by crosswalks, because the streets are full of trick-or-treaters.\n\n## Where SubhSandesh fits, and where it doesn't\n\nSubhSandesh is not a party tool. Our [interactive Halloween card](https://subhsandesh.in/happy-halloween) is a one-person greeting page with English-only screens, and it earns a place for the one friend who can't come: they knock three times on a little haunted house, carve a jack-o'-lantern until your word glows and read your letter by flashlight. In bestie mode it asks \"Will you be my boo-st friend forever?\" and ends with a 1080×1920 Boo License they can save.\n\nIf you are hosting with a date and want to invite that one person properly first, [The Invitation page](https://subhsandesh.in/date-invitation) is an invitation they must answer, and a yes turns into a countdown. For the guest list itself, a group chat or email is faster. Our pages average 11.1 views each, which suits one close person reopening a page, not forty acquaintances.\n\n## Sources\n\n- Dunbar, R.I.M., \"Laughter and its role in the evolution of human social bonding\", *Philosophical Transactions of the Royal Society B*, 377(1863), 2022\n- Dunbar, R.I.M., \"Breaking Bread: the Functions of Social Eating\", *Adaptive Human Behavior and Physiology*, 3(3), 2017\n- National Fire Protection Association, \"Halloween Fire Safety Tips\", no publication date stated\n- National Highway Traffic Safety Administration, \"Halloween Safety Tips\", no publication date stated\n- CDC NIOSH, \"NIOSH Pocket Guide to Chemical Hazards: Carbon dioxide\", last reviewed 30 October 2019\n- US Food and Drug Administration, \"Food Allergies\", content current as of 11 March 2026\n",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-party-ideas#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Party",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Party",
+              "https://www.wikidata.org/wiki/Q200538"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Person",
+            "name": "Robin Dunbar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Robin_Dunbar",
+              "https://www.wikidata.org/wiki/Q1935522"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "National Fire Protection Association",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Fire_Protection_Association",
+              "https://www.wikidata.org/wiki/Q1806416"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "National Highway Traffic Safety Administration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration",
+              "https://www.wikidata.org/wiki/Q1967350"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Dry ice",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Dry_ice",
+              "https://www.wikidata.org/wiki/Q194306"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Food allergy",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Food_allergy",
+              "https://www.wikidata.org/wiki/Q769815"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Laughter and its role in the evolution of human social bonding",
+            "url": "https://europepmc.org/article/PMC/PMC9489299",
+            "datePublished": "2022-09-21",
+            "author": {
+              "@type": "Person",
+              "name": "R. I. M. Dunbar"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Philosophical Transactions of the Royal Society B"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Breaking Bread: the Functions of Social Eating",
+            "url": "https://europepmc.org/article/PMC/PMC6979515",
+            "datePublished": "2017-03-11",
+            "author": {
+              "@type": "Person",
+              "name": "R. I. M. Dunbar"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Adaptive Human Behavior and Physiology"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween Fire Safety Tips",
+            "url": "https://www.nfpa.org/education-and-research/home-fire-safety/halloween",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Fire Protection Association"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween Safety Tips",
+            "url": "https://www.nhtsa.gov/halloween-safety-tips",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Highway Traffic Safety Administration"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "NIOSH Pocket Guide to Chemical Hazards: Carbon dioxide",
+            "url": "https://www.cdc.gov/niosh/npg/npgd0103.html",
+            "dateModified": "2019-10-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CDC National Institute for Occupational Safety and Health"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Food Allergies",
+            "url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+            "dateModified": "2026-03-11",
+            "publisher": {
+              "@type": "Organization",
+              "name": "US Food and Drug Administration"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Halloween party timeline, working back from 31 October",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "1. Four weeks out: guest list, date and theme",
+            "description": "Guest list against your space, one date, one theme; about an hour."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "2. Three weeks out: send the invitation",
+            "description": "Date, times, address, costume note, allergy question and an RSVP date one week before."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "3. Two weeks out: décor and playlist",
+            "description": "Décor while stock lasts, battery tea lights instead of wax candles, a 3-hour playlist."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "4. One week out: RSVP deadline and shopping list",
+            "description": "Chase silent guests, shop for confirmed numbers plus about 10% (estimate)."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "5. Two days out: cook, chill and stage",
+            "description": "Make-ahead food; buy ice and dry ice last; zones of 3 to 4 seats."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "6. The day: set-up, safety pass and a host plan",
+            "description": "3 hours of set-up, candles out, exits clear, allergy cards, taxi numbers ready."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween party ideas",
+    "angle": "Wins by being the only top-10 page built as a host's planning hub — a dated working-back timeline, per-guest food and drink maths, a 10/20/40-guest budget and a sourced safety block (NFPA decoration fires, NIOSH dry ice, FDA allergens, NHTSA getting-home) — using SubhSandesh's festival lead-time data (49.4% built on the day) to set the invitation and RSVP dates.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/date-invitation"
+    ],
+    "factsUsed": [
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "Not one of the 89 Raksha Bandhan 2026 pages was built more than 7 days ahead; 7 days was the earliest — measured 2026-09-09",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9489299",
+        "stat": "Conversation group size and laughter group size are highly correlated (r = 0.925) and both rise to an asymptote at around 3.5 individuals including the speaker; average laughter group 2.7; social groups continuously fragment into conversation subgroups (Dunbar 2022, Phil Trans R Soc B 377(1863), CC BY, full text read)",
+        "publishedDate": "2022-09-21"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC6979515",
+        "stat": "UK national stratified survey: people who eat socially more often are happier and more satisfied with life; evening meals that left respondents feeling closer involved more diners (mean 3.6), laughter (67.9% of meals, p<0.001) and reminiscing (51.5%, p<0.001); party games 4.2%, not significant (p=0.679) (Dunbar 2017, Adaptive Human Behavior and Physiology 3(3), CC BY, full text read)",
+        "publishedDate": "2017-03-11"
+      },
+      {
+        "url": "https://www.nfpa.org/education-and-research/home-fire-safety/halloween",
+        "stat": "2020–2024: average 835 US home structure fires a year began with decorations (3 deaths, 29 injuries, $18M damage a year); 47% because decorations were too close to a heat source such as a candle; about 33% started by candles; keep exits clear of decorations; use battery candles or glow sticks"
+      },
+      {
+        "url": "https://www.nhtsa.gov/halloween-safety-tips",
+        "stat": "In 2023 nearly half of all crash fatalities during Halloween night were alcohol-related; host tips: arrange taxis/rideshares or sleeping places, collect keys, drive guests only if sober, provide non-alcoholic beverages; pedestrians: buddy system, cross at crosswalks"
+      },
+      {
+        "url": "https://www.cdc.gov/niosh/npg/npgd0103.html",
+        "stat": "Carbon dioxide (dry ice): sublimes, melting point −109°F; relative gas density 1.53; symptoms include asphyxia and frostbite from dry ice; skin and eye frostbite hazard (page last reviewed 30 October 2019)"
+      },
+      {
+        "url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+        "stat": "Nine major US food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans and sesame; sesame added by the FASTER Act, effective 1 January 2023 (content current as of 11 March 2026)"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The only table is the 10/20/40-guest budget; its money columns are labelled author estimates and the zones column uses Dunbar 2022 (third-party). facts.md holds no party, Halloween or per-guest data, so no honest first-party column exists. Closes if a Halloween-template usage probe (pages per group occasion, share sent to a friend who missed an event) is run after 31 October and added below the facts.md manual marker."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The NFPA Halloween decoration-fire page, NHTSA Halloween safety tips and the FDA allergens page are Halloween- or food-generic: each could sit unchanged in halloween-party-games, a trick-or-treat or a kids-party post (the FDA page is already in boo-basket-ideas). The two Dunbar papers (conversation/laughter group size; social eating) are specific to hosting. Closes if a peer-reviewed study of house parties or costume gatherings specifically is found; searched Crossref/Europe PMC for 'social gathering group size enjoyment conversation', 'conversation group size four people', 'party guests mixing strangers social interaction field study' — nothing party-specific."
+        }
+      ],
+      "honestAssessment": "None of the analysed pages (PartyLite, Funboy, Julia Charles, Spooky Little Halloween, Party City; Minted blocked the fetch) gives a timeline, per-guest quantities, a budget by guest count or any sourced safety figure, so this is the only page an answer engine could lift those from — with the Dunbar 3.5-person conversation ceiling as a citable hook. But the quantities and budgets are labelled estimates, the first-party data is a Raksha Bandhan analogue rather than Halloween data, and brand blogs plus Pinterest/Reddit hold the SERP, so it is a 5/10-weak contest with no ranking promise."
+    },
+    "generatedAt": "2026-10-12T17:45:23.976Z"
+  }
+}
