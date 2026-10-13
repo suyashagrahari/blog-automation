@@ -12,3 +12,9 @@
 
 ## Cross-post notes
 
+- easy-halloween-makeup: four one-sentence section lead-ins (paragraph rule) — remediate.
+- halloween-nails and funny-halloween-costumes: 7-row tables vs 3–5 rule — remediate by grouping rows.
+- family-halloween-movies: 20-row film table (design) — consider grouping into ≤5 rows in remediation.
+- halloween-games-for-couples: 18-row table vs 3–5 rule — remediate by grouping.
+- halloween-love-quotes vs b1 romantic-halloween-quotes: ~35% SERP overlap (DDG). Watch in GSC; merge candidate if Google shows same set.
+- halloween-in-australia cites sydney.edu.au, which is the #1 ranking page for the keyword (a university article, not a commercial competitor) — human review: keep or drop.

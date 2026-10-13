@@ -115,3 +115,56 @@ audit failures, one-line honest assessment, and any brief claim you found false.
 - Cross-check every original line against all sibling files (both batches) for 5-word overlaps.
 
 ## 10. Live spent-source notes (orchestrator appends as rows land)
+- **Used by halloween-captions-for-instagram:** Europe PMC Zhang 2020 JMIR, Abbas 2021, Inoue & Yoshida 2026 PLOS ONE, Harper 2024 Health Expect. Caption siblings: pick other caption-emotion papers.
+- **Used by vampire-halloween-captions:** Europe PMC PMC7458347 (Balkan vampire sources), PMC4245124 (Drawsko burials), PMC12137733 (wampir/upiór); gutenberg Vampyre #6087 + Carmilla #10007; fda.gov novelty makeup.
+- **Used by halloween-nail-captions:** Europe PMC Ali & Thomsen 2026, Benlidayi 2026, Kaliyadan & Pasquali 2026 (photo consent); Zhivagui 2023 (UV dryer), Kamińska 2026 (gel), Wang & Lipner 2024 (DIY nail cosmetics). Nails rows 69/72: pick different safety papers or reuse at most once.
+- **Used by halloween-quotes-for-kids:** files.eric.ed.gov x2 (Grofčíková 2021, Harper 2011), Europe PMC Goswami 2022 + BMC Psychology 2026 review; gutenberg Riley #9777, Stevenson #136.
+- **Used by october-quotes:** gutenberg x4 (Keats, Thoreau Excursions, Jackson Calendar of Sonnets, Frost A Boy's Will), esf.edu leaf colour, PMC7489524 Winthorst 2020. NOTE: Frost is PD in US only (UK copyright to end-2033).
+- **Used by witch-quotes:** famous-trials.com (Linder), salem.lib.virginia.edu, peterleeson.com Leeson & Russ 2018, Europe PMC PMC10271903 Kwaschik 2023, theconversation.com Dunning 2025 (witch iconography — history-of-halloween row 100 should pick other sources), gutenberg.
+- **Used by diy-halloween-costumes:** Europe PMC Bone 2026 Sci Rep crafts/wellbeing, Marsh 2022 IKEA effect; cpsc.gov Pub 100; healthychildren.org; ecfr.gov 16 CFR 1610.
+- **Used by vampire-quotes:** Europe PMC Gómez-Alonso 1998, Cox 1995, Daniels-Higginbotham 2019 PMC6769528; gutenberg #6087; en.wikipedia Arnold Paole.
+- **Used by family-halloween-costumes:** Europe PMC x3 (BMJ Paed Open 2026 carriers; Frontiers Psych 2025 teen rituals), healthychildren.org (**URL now in 2 posts → FULL**), aspca.org, pdsa.org.uk.
+- **Used by halloween-movie-quotes:** web.law.duke.edu Public Domain Day, guides.library.cornell.edu, copyright.gov Circular 33, PMC7492010 Scrivner 2020, en.wikipedia (now 2), en.wikiquote.org.
+- **Used by halloween-costume-ideas-for-kids:** kidshealth.org, safekids.org, Europe PMC Ben-Sasson 2009, Yin 2026, Francis & Gibson 2023. NOTE: CDC Halloween pages 404; CPSC bot-blocked.
+- **Used by unique-halloween-costumes:** nrf.com (22 Sept 2026 press release with 2026 top costumes + 7 Oct 2025 blog; **nrf.com 1 of 3 posts** — reserve the other 2 for rows needing spending/costume data, e.g. 99 party favors, 83 couple shirts), blog.google Frightgeist 2025, Europe PMC Liang 2024, Capuano 2024, D'Silva 2018.
+- **Used by halloween-decorations-ideas:** nfpa.org x2 (decoration fires; cords/GFCI blog), cbc.ca cobwebs/wildlife, aspca.org (URL now 2 → FULL), cambridge.org microplastics 2025, Europe PMC lamp colour 2026. diy-halloween-decorations (73) must use different safety pages.
+- **Used by halloween-outfit-ideas:** osf.io Burns 2019 replication, docs.lib.purdue.edu Van Stockum & DeCaro 2014, rshare.library.torontomu.ca Scott 2023, epa.gov textiles, ncei.noaa.gov normals, metoffice.gov.uk.
+- **Used by easy-halloween-costumes:** archive-ouverte.unige.ch Scheibehenne 2010 (choice overload ≈ null), Europe PMC Pisauro 2026, Salles 2022 (PMC9819701 — 1 of 2 in b2), dermnetnz.org, fda.gov (**fda.gov now FULL in b2; novelty-makeup URL FULL**).
+- CORRECTION: fda.gov is in 2 posts (vampire-captions, easy-costumes) — ONE slot left; the novelty-makeup URL is FULL.
+- **Used by simple-halloween-nails:** cosmoderma.org Bansal & Grover 2024, PMC12663605 acetone fumes, PMC13294297 HEMA allergy, aad.org healthy nails (aad.org 1 post).
+- **Used by halloween-movies-to-watch:** Europe PMC Cureus 2025 horror/personality, BMC Psych 2026 frightening media, PLOS ONE 2022 content warnings; filmratings.com; copyright.gov Circular 15A; archive.org.
+- **Used by easy-halloween-makeup:** Europe PMC Sukakul & Svedman 2025, fda.gov colour additives (**fda.gov now FULL**), nhs.uk eye injuries, unesco.org Day of the Dead.
+- **Used by halloween-nails:** Europe PMC IDOJ 2024 Bansal (now 2 → FULL), J Cosmet Dermatol 2025 review, Sci Rep 2026 salon ventilation; osha.gov x2.
+- **Used by funny-halloween-costumes:** Europe PMC Brigaud & Blanc 2021, Miczo & Zhao 2026, Cao 2025; now.humboldt.edu; nhs.uk heat exhaustion; safekids.org (URL now 2 → FULL).
+- **Table rule:** comparison tables must have 3–5 rows (two writers built 7-row tables). Group rows if needed.
+- **Used by 80s-halloween-costumes:** PMC9948635 Zhang 2023 nostalgia, collections.vam.ac.uk x3, kpbs.org scrunchie 1986, cpsc.gov candle fires (cpsc.gov 2 posts — ONE left).
+- **Used by halloween-messages-for-boyfriend:** Europe PMC Rogge 2026, Huh 2025, Meier 2025, Forshaw 2025. Row 87 love-messages: avoid Rogge + Huh.
+- **Used by family-halloween-movies:** Europe PMC Du 2022, Chen & Yeung 2026, Paruthi 2016 AASM; bbfc.co.uk x2; filmratings.com (now 2 posts).
+- **Used by diy-halloween-decorations:** Europe PMC Petreca 2025, button-battery 2026, Rogasch 2026 epoxy, Jain 2023 saws; nhs.uk (**nhs.uk now FULL**), epa.gov (now 2 — ONE left).
+- **Used by halloween-gift-ideas-for-girlfriend:** Europe PMC Pollmann & van Beest 2013 PMC3873259, Stenlund 2024 PMC11659422, Van Boven & Gilovich 2003 (abstract); gutenberg Frankenstein #84.
+- **Used by halloween-couple-outfit-ideas:** Europe PMC Wong 2018 PMC5773214, Tea-makorn & Kosinski 2020 PMC7550338 (couple facial similarity); weather.gov wind chill; nhtsa.gov pedestrian.
+- **Used by halloween-captions-for-couples:** Europe PMC Corsbie-Massay 2024 PMC11351969, Métellus 2025 PMC12445260, Sullivan 2021 PMC8322522, Stammwitz & Wessler 2021 PMC8598037.
+- **Used by halloween-games-for-couples:** Europe PMC Walker 2023, Yang 2024, Chen 2025 BMC Psychol, Marcus 2004.
+- **Used by halloween-pickup-lines-for-tinder:** Europe PMC Bruch & Newman 2018, van der Zanden 2022, Dürnberger 2022; help.tinder.com; policies.tinder.com.
+- **Used by halloween-love-puns:** en.wiktionary boo, onlinelibrary.wiley.com Hall 2017 (abstract), ejop.psychopen.eu Saroglou 2010, Europe PMC Palmann & Miller 2025.
+- **Used by halloween-couple-shirts:** Europe PMC Kocur 2025, dbpia.co.kr Yoo 2010, ftc.gov care labels, epa.gov textiles (**epa.gov now FULL**), uspto.gov.
+- **Used by halloween-couple-photoshoot-ideas:** Europe PMC Say 2025, gml.noaa.gov, support.google.com, hse.gov.uk, london-fire.gov.uk, bls.gov.
+- **Used by famous-halloween-couples:** Europe PMC 2026 parasocial review, 2018 Sci Rep + PLOS ONE caricature studies; web.law.duke.edu x2 (Public Domain Day 2024/2025 — duke now 2 posts); nobelprize.org. NOTE: Addams cartoons (1938) not PD until 2034; the Bride is from the 1935 film.
+- **WebSearch HIT ITS SESSION CAP.** If WebSearch returns nothing/errors, measure the SERP ONCE with `ctx_fetch_and_index("https://html.duckduckgo.com/html/?q=<url-encoded keyword>", "<slug>-serp")` (or a node fetch inside ctx_execute) and say so in the brief (DuckDuckGo, lower confidence).
+- **Used by halloween-love-quotes:** Europe PMC Benfante 2024 Heliyon, Özeren 2025 Nursing Open, Pala & Güler 2026 BMC Psych; gutenberg x3. Measured overlap with b1 romantic-halloween-quotes: 3 of ~9 URLs (~35%, DDG) — moderate; re-measure on Google before merging.
+- **Used by ghost-pickup-lines:** Europe PMC Navarro 2020, Biolcati 2021, Atalar 2025; unicode.org emoji list.
+- **Used by halloween-love-messages:** Europe PMC Hoult 2025, Kocur 2025 PMC12193689 (**now 2 posts → FULL**, shared with couple-shirts), Okati 2025, Imai 2023.
+- **Used by halloween-messages-for-best-friend:** Europe PMC Roberts & Dunbar 2015 PMC4626528, van der Mey-Baijens 2025 PMC12217408; gov.uk + nist.gov clocks; drikpanchang Diwali 2027.
+- **Used by halloween-couple-tattoos:** Europe PMC IJD 2022 regret, Dermatol Res Pract 2024, J Cosmet Dermatol 2026 + 2021; health.state.mn.us x2 (henna PPD, shop checklist). Cureus is at 3 posts in b2 → FULL.
+- **Used by halloween-captions-for-best-friends:** kclpure.kcl.ac.uk Such 2017 (photo consent), Europe PMC PMC5409138, PMC6115014, PMC9247916, PMC11288408.
+- **Used by halloween-quotes-for-best-friend:** Europe PMC Holt-Lunstad 2010 PMC2910600, Kim 2023 PMC10689060, Dunbar 2025 PMC11918532; gutenberg #2944 #2808 #1524.
+- **Used by things-to-do-on-halloween-night:** cdc.gov 1997 MMWR (cdc.gov 2 posts), PMC8430693 Hsu 2021, PMC7532006 Leung 2020, joelbest.net candy myth (history-of-halloween row 100 may reuse once), foodallergy.org Teal Pumpkin.
+- **Used by halloween-costumes-for-work:** Europe PMC Wang & Tang 2026 PMC13203499, eeoc.gov x2 (harassment, religious), osha.gov OSHA 3170 (osha.gov now 2 → ONE left).
+- **Used by halloween-wishes-for-colleagues:** Europe PMC Sci Rep 2026 workplace thanks + 2025 UK loneliness; eeoc.gov (2 posts — ONE left), acas.org.uk, gov.uk + nist.gov clock URLs (FULL).
+- **Used by halloween-ideas-for-nurses:** england.nhs.uk uniforms 2020, PMC12932925, PMC12337441, fsis.usda.gov 2-hour rule, truthaboutnursing.org, nam.ac.uk.
+- **Used by halloween-games-for-teens:** Europe PMC Chein 2011, Slagter 2026, van der Kruk 2023; niaaa.nih.gov underage drinking.
+- **Used by halloween-in-australia:** abc.net.au x2, mja.com.au Porter & Grills 2013, sydney.edu.au (also ranks #1 — flagged), bom.gov.au, transport.nsw.gov.au. history-of-halloween may reuse Porter & Grills once.
+- **Used by halloween-party-games-for-kids:** Europe PMC Zhang 2025, Jusko 2026; ecfr.gov 16 CFR 1501 (ecfr 2 posts); foodallergy.org Teal Pumpkin (**URL now FULL**).
+- **Used by halloween-party-activities:** Europe PMC Pearce 2015, Dunbar 2016, Wiessner 2014; usfa.fema.gov; gutenberg x2.
+- **Used by halloween-party-favors:** nrf.com (URL now 2 → FULL), ecfr.gov 1500.19 (**ecfr.gov FULL**), Europe PMC PMC10811631, PMC5749710, PMC12780796; foodallergy.org non-food list (**foodallergy.org FULL**).
+- **Used by history-of-halloween:** theconversation Bitel 2024, thecanadianencyclopedia.ca, blogs.loc.gov Winick 2020, archive.org Bogie Book, anokahalloween.com, mdpi.com Kim 2025, udspace.udel.edu Best.
