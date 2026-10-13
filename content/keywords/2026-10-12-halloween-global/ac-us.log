@@ -1,0 +1,57 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs halloween halloween costumes halloween ideas halloween quotes halloween captions halloween party halloween couple halloween pickup lines halloween decorations halloween wishes halloween costume ideas halloween makeup halloween nails halloween movies halloween food halloween games halloween jokes halloween crafts halloween date ideas halloween for boyfriend halloween for girlfriend halloween messages halloween puns halloween instagram halloween 2026 halloween outfit --geo us --hl en --out content/keywords/2026-10-12-halloween-global/ac-us
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-halloween-global/ac-us/autocomplete.csv
+[keywords:suggest]   1248 calls (59 failed) · 9608 unique suggestions · geo=us hl=en
+[keywords:suggest]   5901 are 4+ words · 947 carry a year · 4 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  27× rel= 601  halloween for boyfriend and girlfriend
+  25× rel=1250  halloween date ideas at home
+  25× rel= 601  halloween for boyfriend
+  25× rel= 601  halloween pickup lines reddit
+  24× rel= 601  halloween date ideas for adults
+  24× rel= 601  halloween pickup lines cute
+  24× rel= 601  halloween pickup lines funny
+  23× rel=1251  halloween date ideas for couples
+  21× rel= 551  halloween for bf and gf
+  19× rel= 600  halloween nicknames for boyfriend
+  18× rel=1250  halloween 2026 date
+  14× rel= 601  halloween date ideas free
+  14× rel= 601  halloween pickup lines for guys
+  13× rel=1251  halloween puns for marketing
+  12× rel=1250  halloween puns for adults
+  12× rel= 601  halloween date ideas reddit
+  12× rel= 601  halloween messages for adults
+  12× rel= 601  halloween messages to send
+  12× rel= 600  halloween gift ideas for boyfriend
+  12× rel= 600  halloween puns for work
+  11× rel=1252  halloween quotes funny
+  11× rel= 600  halloween date ideas 2023
+  11× rel= 600  halloween girlfriend ideas
+  10× rel=1251  halloween nails near me
+  10× rel=1250  halloween date ideas near me
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · halloween 2026 date
+  · halloween date ideas 2023
+  · halloween 2026 calendar
+  · halloween 2026 day
+  · halloween 2026 game
+  · halloween couple ideas 2026
+  · halloween captions 2022
+  · halloween messages 2023
+  · halloween food network 2026
+  · halloween 2026 events
+  · halloween costumes 2026 couples
+  · halloween 2026 in usa
+
+── Language variants people are actually typing ───────────────
+  · halloween quotes in hindi
+  · what is halloween party meaning in hindi
+  · horror movies zombie in hindi
+  · why halloween is celebrated in hindi
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
+[keywords:suggest] 59 of 1248 calls failed — the set is incomplete. Last error: HTTP 500

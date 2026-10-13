@@ -1,0 +1,57 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs halloween halloween costumes halloween ideas halloween quotes halloween captions halloween party halloween couple halloween pickup lines halloween decorations halloween wishes --geo ca --hl en --out content/keywords/2026-10-12-halloween-global/ac-ca
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-halloween-global/ac-ca/autocomplete.csv
+[keywords:suggest]   480 calls (21 failed) · 3892 unique suggestions · geo=ca hl=en
+[keywords:suggest]   2176 are 4+ words · 231 carry a year · 4 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  25× rel= 601  halloween pick up line
+  22× rel= 600  halloween wishes for instagram
+  18× rel= 601  halloween pickup line reddit
+  17× rel= 601  halloween captions elite daily
+  17× rel= 600  halloween picture comments
+  15× rel= 600  halloween haunt captions
+  13× rel= 600  halloween pickup lines reddit
+  12× rel= 601  halloween wishes message
+  12× rel= 551  halloween caption family
+  10× rel= 601  halloween quote family
+  10× rel= 554  halloween quote for kid
+   8× rel= 554  halloween quotes for toddler
+   7× rel=1251  halloween decorations canada
+   7× rel= 601  halloween pick up lines for boyfriend
+   7× rel= 601  halloween pick up lines in spanish
+   7× rel= 600  halloween pick up lines for girls
+   7× rel= 600  halloween wishes for grandkids
+   7× rel= 559  halloween pickup lines for girlfriend
+   7× rel= 552  halloween wishes in french
+   6× rel=1251  halloween decorations indoor
+   6× rel=1251  halloween wishes for kids
+   6× rel=1250  halloween captions for instagram
+   6× rel=1250  halloween wishes for friends
+   6× rel= 601  halloween captions for business
+   6× rel= 601  halloween wishes for granddaughter
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · halloween couple ideas 2026
+  · halloween 2026 date
+  · halloween costumes 2026 couples
+  · halloween ideas 2026
+  · halloween costumes 2026
+  · halloween couple costumes 2026
+  · halloween 2025 canada
+  · halloween couple costume ideas 2026
+  · halloween 2023 canada
+  · halloween 2027 costume ideas
+  · halloween party toronto 2026
+  · halloween best couple costumes 2025
+
+── Language variants people are actually typing ───────────────
+  · halloween quotes in hindi
+  · why halloween is celebrated in hindi
+  · what is halloween party meaning in hindi
+  · why halloween is celebrated in urdu
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
+[keywords:suggest] 21 of 480 calls failed — the set is incomplete. Last error: HTTP 500

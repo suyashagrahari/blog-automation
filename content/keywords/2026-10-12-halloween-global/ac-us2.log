@@ -1,0 +1,68 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs boo basket couple costumes couples costumes pickup lines pumpkin carving trick or treat costume ideas spooky best friend costumes group costumes duo costumes trio costumes witch vampire jack o lantern trunk or treat day of the dead --geo us --hl en --out content/keywords/2026-10-12-halloween-global/ac-us2
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-halloween-global/ac-us2/autocomplete.csv
+[keywords:suggest]   816 calls (31 failed) · 8209 unique suggestions · geo=us hl=en
+[keywords:suggest]   5511 are 4+ words · 508 carry a year · 21 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  16× rel= 601  best friend costumes reddit
+  12× rel= 601  list of couple costumes
+  11× rel=1251  boo basket ideas
+  11× rel=1251  couple costumes characters
+  11× rel= 600  duo costume ideas
+  10× rel= 601  best friend costumes diy
+  10× rel= 600  trio costume ideas
+  10× rel= 556  trio family costume ideas
+   9× rel= 601  best friend costumes amazon
+   9× rel= 600  duo costume themes
+   9× rel= 600  duo costumes for couples
+   9× rel= 600  ideas for best friend costumes
+   8× rel= 601  different couple costumes
+   8× rel= 600  trio costumes original
+   8× rel= 600  unique best friend costumes
+   7× rel=1250  trio costumes reddit
+   7× rel= 601  best friend costumes female
+   7× rel= 601  trio costumes characters
+   7× rel= 600  couples costumes on a budget
+   7× rel= 559  best friend costumes funny
+   6× rel=1251  best friend costumes for halloween
+   6× rel=1251  boo basket for men
+   6× rel=1250  boo basket ideas for women
+   6× rel=1200  best friend costumes for 2
+   6× rel= 650  boo basket ideas for girlfriend
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · pumpkin carving ideas 2026
+  · trunk or treat ideas 2026
+  · couples costumes 2026
+  · jack o lantern gta online 2026
+  · trunk or treat near me 2026
+  · jack o lantern locations gta 2026
+  · couples costumes halloween 2026
+  · couples costumes ideas 2026
+  · group costumes 2026
+  · couple costumes for halloween 2026
+  · couples costumes in 2025
+  · couple costumes 2026
+
+── Language variants people are actually typing ───────────────
+  · pickup lines in hindi
+  · pickup lines hindi
+  · pickup lines urdu
+  · pickup lines kannada
+  · pickup lines hindi for girl
+  · pickup lines hindi english
+  · pickup lines kannada for girl
+  · pickup lines malayalam
+  · pickup lines meaning in hindi
+  · pickup lines love tamil
+  · what is pickup lines in hindi
+  · pickup lines malayalam love
+  · pickup lines hindi meaning
+  · pickup lines meaning in urdu
+  · pick up lines love malayalam
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
+[keywords:suggest] 31 of 816 calls failed — the set is incomplete. Last error: HTTP 500

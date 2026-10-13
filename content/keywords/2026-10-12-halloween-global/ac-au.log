@@ -1,0 +1,58 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs halloween halloween costumes halloween ideas halloween quotes halloween captions halloween party halloween couple halloween pickup lines halloween decorations halloween wishes --geo au --hl en --out content/keywords/2026-10-12-halloween-global/ac-au
+
+[keywords:suggest] ✓ content/keywords/2026-10-12-halloween-global/ac-au/autocomplete.csv
+[keywords:suggest]   480 calls (25 failed) · 3946 unique suggestions · geo=au hl=en
+[keywords:suggest]   2227 are 4+ words · 244 carry a year · 5 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  33× rel= 601  halloween quotes for whatsapp status
+  19× rel= 601  halloween pickup lines
+  19× rel= 600  halloween face quotes
+  17× rel= 601  halloween pickup line reddit
+  16× rel= 554  halloween dress up message
+  11× rel= 601  halloween pick up lines reddit
+  10× rel= 600  halloween spider captions for instagram
+   8× rel= 600  halloween captions
+   8× rel= 554  happy halloween for you
+   7× rel=1252  halloween decorations australia
+   7× rel= 601  halloween 2022 australia
+   7× rel= 601  halloween couples costumes australia
+   7× rel= 601  halloween pick up lines for boyfriend
+   7× rel= 601  halloween pick up lines in spanish
+   7× rel= 600  halloween couple dress ups
+   7× rel= 600  halloween pick up lines for girls
+   7× rel= 600  halloween wishes for grandkids
+   7× rel= 559  halloween pickup lines for girlfriend
+   7× rel= 552  halloween partner dress up
+   6× rel=1251  halloween wishes for kids
+   6× rel=1250  halloween wishes for friends
+   6× rel= 601  halloween 2026 australia dates
+   6× rel= 601  halloween captions for business
+   6× rel= 601  halloween wishes for granddaughter
+   6× rel= 600  what are some halloween sayings
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · halloween 2022 australia
+  · halloween 2026 australia dates
+  · halloween 2026 date
+  · halloween au 2023
+  · halloween couple ideas 2026
+  · halloween 2024 meaning
+  · halloween 2023 australia
+  · halloween party melbourne 2026
+  · halloween couple costume ideas 2026
+  · halloween 2025 australia
+  · halloween 2026 australia
+  · halloween costumes 2026
+
+── Language variants people are actually typing ───────────────
+  · halloween quotes in hindi
+  · what is halloween party meaning in hindi
+  · why halloween is celebrated in hindi
+  · halloween party meaning in hindi
+  · why halloween is celebrated in urdu
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.
+[keywords:suggest] 25 of 480 calls failed — the set is incomplete. Last error: HTTP 500
