@@ -123,3 +123,54 @@ audit failures, one-line honest assessment, and any brief claim you found false.
 - Time-sensitive facts (streaming catalogues, platform features, prices, laws): date-stamp them.
 
 ## 10. Live spent-source notes (orchestrator appends as rows land)
+- **Used by boo-basket-for-wife:** Europe PMC Crowther 2026, Jiang/Chiu/Liu 2021; nhs.uk pregnancy foods; pe.usps.com Pub 52 (alcohol nonmailable).
+- **Used by halloween-hairstyles:** Europe PMC Rosenberg 2025, Hwang 2024; nhs.uk (2 in b4 — ONE left), fda.gov, bucksfire.gov.uk.
+- **Used by halloween-songs:** Europe PMC Annals NYAS 2026, Phil Trans B 2026, JASA 2020, Biol Lett 2010; officialcharts.com x2. Row 191 party playlist: use different music papers.
+- **Used by boo-basket-ideas-for-girlfriend:** Europe PMC Oishi 2025, cambridge.org Adena 2025, onlinelibrary.wiley.com Haltman 2024, journals.ashs.org Lai & Huang 2013.
+- **Used by halloween-ideas-for-wife:** Europe PMC Roeters & Gracia 2016, Aydin & Buyukcan-Tetik 2021, Arlinghaus 2019, Gray/Growney/English 2023.
+- **Used by halloween-porch-decorations:** Europe PMC Kuzuoglu 2024 PMC11593799, foodallergy.org, nationalautismassociation.org, access-board.gov, electricalsafetyfirst.org.uk, london-fire.gov.uk.
+- **Used by scary-halloween-costumes:** Europe PMC PMC5024669 uncanny valley, PMC8831965 clown phobia; my.clevelandclinic.org; healthychildren.org; en.wikipedia x2 (wikipedia 1 post).
+- **Used by boo-basket-for-best-friend:** folklore.usc.edu booing, Europe PMC PMC10840555 + PMC12862200, nfpa.org dorm fires, coastal.edu booing chain. Row 163 what-is-a-boo-basket: avoid folklore.usc.edu or reuse once only.
+- **Used by y2k-halloween-costumes:** Europe PMC Acerbi 2012, Fajardo 2024; collections.vam.ac.uk x2; books.google Ngram; theguardian.com 2022. SERP overlap with 90s: 0/10.
+- **Used by boo-basket-ideas-for-boyfriend:** ijiemjournal.uns.ac.rs Walcher 2016, kuscholarworks.ku.edu Hall 2017, www.usps.com x2 (USPS now 2 b4 posts).
+- **Used by boo-basket-for-kids:** Europe PMC Meristo 2025, Brady 2023; ecfr.gov 1501; kidshealth.org.
+- **Used by halloween-long-distance-relationship-ideas:** Europe PMC Wu 2025 SCAN, Hansom & Guerrero 2025; usps.com x2 (www.usps.com now 2 → ONE left); gov.uk + nist.gov clocks.
+- **Used by halloween-quotes-for-boyfriend:** Europe PMC Eckstein 2023 SCAN, Mostova 2022 PLOS ONE; gutenberg Burns + Jane Eyre.
+- **Used by halloween-couple-nicknames:** Europe PMC Seider 2009; ans-names.pitt.edu DiGirolamo 2012 (Names journal now published OA by Pitt — accepted, not T&F-hosted); learn.microsoft.com; support.apple.com. SERP overlap with b1 nicknames: 1/9 (spam only).
+- **Used by halloween-couple-memes:** firstmonday.org Brody & Cullen 2023, Europe PMC Driver & Gottman 2004 + McLatchie 2024, gottman.com. Row 171 couple jokes: avoid Gottman sources.
+- **Used by halloween-couple-poses:** Europe PMC Dawel 2025, Witkower 2024, Knight 2023, Girard 2021. SERP overlap with b2 photoshoot: 0 URLs.
+- **Used by halloween-couple-goals:** Europe PMC Taba 2020, Chang/Algoe 2022; link.springer.com Fejes-Vékássy 2020; academic.oup.com Utz & Beukeboom 2011.
+- **Used by halloween-love-letter:** Europe PMC Chishima 2021, Catty & Salisbury 2026; usps.com (**www.usps.com FULL**), pe.usps.com (2 — ONE left).
+- **Used by halloween-pickup-lines-tagalog:** diksiyonaryo.ph, pnuminresearchportal.org Perez & Pantorilla 2025, plarideljournal.org Reyes 2023, lawphil.net Proclamations 1006/1427, ptvnews.ph.
+- **Used by halloween-couple-jokes:** Europe PMC Hahn & Campbell 2016, Laumer 2024, Andrews & Dawes 2025; nsuworks.nova.edu Anderson & DiTunnariello 2016.
+- **Used by what-is-a-boo-basket:** web.archive.org (beenbooed 2009, TikTok #boobasket 2023), pib.gov.in TikTok ban 2020, Europe PMC Nowak & Roch 2007, Dobrogowska 2026. SERP overlap with b1 hub: 0.
+- **Used by halloween-proposal-ideas:** research.gold.ac.uk Hoelscher 2022, ich.unesco.org, iii.org, hauntedhappenings.org.
+- **Used by halloween-engagement-captions:** Europe PMC Papp 2012, Toma & Choi 2015, Lee/Gillath/Miller 2019; emilypost.com x2; ncsc.gov.uk.
+- **Used by witch-pickup-lines:** Europe PMC DiDonato & Jakubiak 2016; doi.org→MDPI Religions Miller 2022 (**MDPI now 3 in b4 → FULL**); pewresearch.org 2025; theconversation.com Tervanotko 2025; cem.va.gov.
+- **Used by halloween-wedding-ideas:** Europe PMC Mäder 2023, umass.edu extension, london-fire.gov.uk (URL now 2 → FULL), ich.unesco.org (URL now 2 → FULL).
+- **Used by girl-group-halloween-costumes:** Europe PMC Becker 2013 PMC3776206; firstmonday.org Wagner 2016 (firstmonday now 2 b4 posts); bletchleypark.org.uk; nasa.gov Dorothy Vaughan; nationalarchives.gov.uk suffragettes. b1 group costumes already used seasons/planets — avoid.
+- **Used by halloween-ideas-with-friends:** Europe PMC PMC12217411 Priestley 2025, PMC12212089 Zhan & Ding 2025; nps.gov Ten Essentials; trussell.org.uk. Howlett 2026 BJSP is spent (2 posts).
+- **Used by halloween-games-for-adults:** europeanjournalofhumour.org Proyer 2013; journalofplayinadulthood.org.uk Ruddock 2025; niaaa.nih.gov alcohol-overdose page; en.wikipedia "Murder mystery game" (wikipedia now 2 b4 posts). Games used: Cauldron Pong, flip-cup relay, 45-min mystery — do not repeat.
+- **Used by why-is-halloween-celebrated:** theconversation.com Whitaker 2019; Europe PMC PNAS 2025 Ozbay (safe fear) + Xygalatas (ritual synchrony); nrf.com 22 Sept 2026 release; en.wikipedia Allhallowtide. Do not reuse these papers.
+- **Used by halloween-games-for-seniors:** Europe PMC Jiao 2025 BMC Geriatrics reminiscence; alzfdn.org; bhf.org.uk takotsubo; who.int falls; diabetes.org.uk sweeteners. Games used: Riddle/Object Bingo, radio-play listening, Monkey's Paw reading.
+- **Used by halloween-ideas-for-teachers:** Europe PMC Skene 2022 guided play, Santos 2023 Winnipeg allergy; butlermiddle.canyonsdistrict.org; ars.htps.us. ich.unesco.org Día de los Muertos URL now FULL (3).
+- **Used by halloween-in-canada:** narrativeresearch.ca 2025 poll; persee.fr Lherm 2005; dchp.arts.ubc.ca trick-or-treat; climate.weather.gc.ca; recalls-rappels.canada.ca; nrc.canada.ca DST. 1927 "trick or treat" = Blackie, Alberta (Lethbridge Herald print); Ontario variants 1917.
+- **Used by halloween-around-the-world:** redalyc.org Brandes 2000; f1000research.com Ha 2023 Itaewon; census.gov; al.sp.gov.br Dia do Saci; yougov.com; web.archive.org NDTV Saudi 2022.
+- **Used by things-to-do-on-halloween-instead-of-trick-or-treating:** Europe PMC de Oliveira 2026 PMC13599684, Nocerino 2026 PMC12900628; autism.org.uk sensory; stsaviours.net Light Party; achurchnearyou.com.
+- **Used by halloween-sleepover-ideas:** Europe PMC Taranu 2025, Baum 2014, Thurber 2007 homesickness, Paruthi 2016; gutenberg.org Saki + E. F. Benson. ("The Open Window" also in teachers — clash to fix.)
+- **Used by halloween-countdown-ideas:** Europe PMC Gardner 2014 IJBNPA, Shahnawaz 2026, Nawijn 2010, Dawson & Johnson 2026.
+- **Used by halloween-colors-meaning:** archive.org Kelley 1919 + Dennison Bogie Book; Europe PMC 2025 PBR colour review + 2019 RSOS; foodallergy.org teal origin (URL cap 2 FULL); fullfact.org blue bucket.
+- **Used by halloween-team-costumes:** acas.org.uk; Europe PMC Sutcliffe 2025 Cureus, Zacher 2023 Sci Rep (Sci Rep now 2 b4 posts), Patel 2021 BMC HSR. Costume day = Fri 30 Oct 2026 / 29 Oct 2027.
+- **Used by what-does-halloween-mean:** etymonline.com; dsl.ac.uk; dil.ie; teanglann.ie; doi.fil.bg.ac.rs Heppa 2025 Folkloristika; books.google Ngram (Hallowe'en share). Samhain = "November" in modern Irish.
+- **Used by halloween-party-playlist:** Europe PMC Bigand 2025 J Neurosci, Alen 2026 Alcohol & Alcoholism; epa.nsw.gov.au noise; copyright.gov 17 USC 101; pplprs.co.uk. Avg track 3:50 (~15.7/hr).
+- **Used by halloween-in-ireland:** arrow.tudublin.ie Nic Philibín 2025; duchas.ie; into.ie circular 0018/2026; irishstatutebook.ie CJA 2006 s.68; dublincity.ie DFB; teanglann.ie (now 2 b4 posts).
+- **Used by halloween-jokes-for-teens:** Europe PMC J Sch Health 2026 teasing survey, Halfpenny 2020 humour styles; doi.org → Psihologija 2026; corp.oup.com 2024 (brain rot). doi.org resolver now at 3 b4 posts (witch relink will free one).
+- **Used by halloween-crafts-for-toddlers:** Europe PMC Yoo 2022 ECEJ, Noda 2025 crayon ingestion; cpsc.gov small parts; acmiart.org; ecfr.gov 16 CFR 1500.14 (ecfr.gov now 2 b4 posts, ONE left). Cookie decorating not used.
+- **Used by halloween-treats:** fda.gov x2 (Halloween safety tips; THC copycat edibles); Europe PMC Ridolo 2024; aspca.org chocolate/xylitol; allergyuk.org 14 allergens; who.int sugars. **fda.gov and who.int now FULL (3).**
+- **Used by halloween-cookies:** Europe PMC Dadalı & Özcan 2026 J Food Sci; fda.gov x2 (flour; allergens); fsis.usda.gov x2 (egg icing; freezing). fsis.usda.gov now 1 b4 post.
+- **Used by halloween-movies-for-toddlers:** who.int WHO 2019 (who.int FULL); Europe PMC Garrison 2011 + 2012; tvguidelines.org; bbfc.co.uk. SERP overlap with b-kids movies 5/10 Google — cannibalisation risk, flag in REPORT.
+- **Used by halloween-cookies (final):** Europe PMC Dadalı & Özcan 2026; cdc.gov no-raw-dough; www.gov.uk FSA allergy; fsis.usda.gov x2. fda.gov removed. **cdc.gov and www.gov.uk now FULL.**
+- **Used by halloween-desserts:** Europe PMC Spence 2019 Exp Psych, Della Fontana 2025; poison.org; federalregister.gov 2026-15920 (Red 3 reinstated 5 Aug 2026; food deadline 15 Jan 2027); www.gov.uk FSA; foodsafety.gov.
+- **Used by halloween-costumes-for-glasses-wearers:** Europe PMC Agarwal & Sharma 2021 mask fog, Berenson 2019 cosmetic lenses; aao.org; aop.org.uk. fda.gov removed (fda back to 2).
+- **Used by trunk-or-treat-ideas:** Europe PMC Rice 2012 PMC3415800, Anthikkat 2013 PMC3679758; nfpa.org Halloween (nfpa 2 b4); access-board.gov §308 (2 b4); epilepsysociety.org.uk; ehs.harvard.edu dry ice.
+- **Used by halloween-costumes-for-pregnant-women:** Europe PMC Shamsaei 2022; uwlpress.uwl.ac.uk Griffin 2026; acog.org; nhs.uk (now FULL); canada.ca Health Canada cosmetics.

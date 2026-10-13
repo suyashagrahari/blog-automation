@@ -11,3 +11,11 @@
 7. Edit only your own blog JSON (and its research brief if needed).
 
 ## Cross-post notes
+- b4 boo-basket posts (boyfriend, girlfriend, best friend, wife, kids) written in parallel — run an item-overlap check across them before commit.
+- halloween-pickup-lines-tagalog: native Tagalog speaker should review lines and stress hints before publishing.
+- witch-pickup-lines links Miller 2022 via doi.org — relink to mdpi.com publisher URL in remediation. **Done 2026-10-13: 4 occurrences relinked to https://www.mdpi.com/2077-1444/13/2/118 (Crossref primary URL).**
+
+- **halloween-pickup-lines-tagalog — verify 2 Nov 2027 status.** The post says Mon 1 + Tue 2 Nov 2027 are special non-working days under Proclamation 1427. The around-the-world writer found that Lawphil's table for 1427 lists 2 Nov 2027 as "Special (Working)" while its preamble calls it non-working. Orchestrator to check against officialgazette.gov.ph before commit, and align both posts.
+  - **Resolved by orchestrator, 2026-10-13:** Lawphil's Proc. 1427 text was fetched. Its list block "C. Special (Working) Day" contains EDSA *and* Chinese New Year, Black Saturday, All Souls' 2 Nov and Christmas Eve. The preamble declares all of those except EDSA special (non-working), so the list is missing a heading for "additional special (non-working) days" and is a transcription error. Black Saturday is never a working day. The Official Gazette returns 403, and we did not work around it. Both posts are consistent with the preamble, so no change is needed. Re-check the Gazette before October 2027.
+
+- **Saki clash (teachers vs sleepover) — fixed 2026-10-13 by orchestrator:** halloween-ideas-for-teachers #9, the subject table and the read-aloud FAQ now use Poe's "The Cask of Amontillado" (1846; inference prompt: why Montresor tells it now). It is unused in b1–b4. The sleepover post keeps "The Open Window".

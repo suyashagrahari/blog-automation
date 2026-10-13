@@ -1,0 +1,368 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Around the World: Who Celebrates It and How",
+    "slug": "halloween-around-the-world",
+    "excerpt": "How Halloween is celebrated in 23 countries and regions, grouped by continent: local names, 2026 and 2027 dates, the best evidence of who celebrates (or a plain 'no national survey'), the local festival of the dead and one custom each, from Undas and Día de Muertos to the Hungry Ghost Festival.",
+    "metaTitle": "Halloween Around the World: 23 Countries With Sourced Dates",
+    "metaDescription": "Halloween around the world in 23 countries: local names, 2026–27 dates, survey evidence where it exists, and festivals of the dead held weeks before 31 October.",
+    "keywords": "halloween around the world, how halloween is celebrated around the world, who celebrates halloween in the world, halloween traditions by country, hungry ghost festival, dia de muertos vs halloween",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-around-the-world",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "traditions",
+      "world",
+      "festivals",
+      "culture"
+    ],
+    "keyTakeaways": [
+      "Halloween around the world splits three ways: a main event in the US, Canada, Ireland and the UK; the eve of All Saints' and All Souls' Days in Catholic Europe and Latin America; and a side event in Asia, where lunar festivals of the dead come weeks earlier.",
+      "Hard numbers are rare: the US Census counts 73.1 million potential trick-or-treaters, while YouGov found 51% of adults in Great Britain don't celebrate; most of the 23 countries here have no national survey.",
+      "The Hungry Ghost Festival falls on 27 August 2026 and 16 August 2027, and Pitru Paksha runs 26 September–10 October 2026 and 15–29 September 2027, so Asia's nights for spirits usually come before 31 October.",
+      "Late October is also an anniversary in South Korea: the 29 October 2022 Itaewon crush killed 158 people by a 2023 peer-reviewed count, later 159.",
+      "SubhSandesh miss-you senders name 47 distinct city pairs, including Mumbai-London; 48.3% of page views are on phones, so a greeting to a friend abroad should be phone-first."
+    ],
+    "faqs": [
+      {
+        "question": "Which countries celebrate Halloween the most?",
+        "answer": "The US, Canada, Ireland and the UK treat 31 October as a major night. The US Census Bureau counts 73.1 million American children under 18 as potential trick-or-treaters, and a 2025 Narrative Research poll found half of Canadian adults hand out treats. Even in Britain, YouGov's 2025 poll found 51% of adults don't celebrate."
+      },
+      {
+        "question": "Is Día de Muertos the Mexican version of Halloween?",
+        "answer": "No. Día de Muertos on 1–2 November is a remembrance of family dead with home altars, food and photographs, rooted in All Saints' and All Souls' Days. Anthropologist Stanley Brandes documented how Halloween costumes spread into Mexico in the 1990s and how some Mexicans pushed back to protect the older feast."
+      },
+      {
+        "question": "Do people in China celebrate Halloween?",
+        "answer": "Mostly as costume parties for young adults in big cities, where it is called Wànshèngjié and seen as foreign. China's own night for wandering spirits is the Hungry Ghost Festival on the 15th night of the seventh lunar month, which falls on 27 August 2026 and 16 August 2027."
+      },
+      {
+        "question": "Is Halloween a public holiday anywhere?",
+        "answer": "We found no country where 31 October itself is a Halloween holiday. Nearby days are: Reformation Day on 31 October is a holiday in 9 German states, All Saints' Day on 1 November is a public holiday in France, Italy, Spain and Poland, and the Philippines declares 1–2 November special non-working days."
+      },
+      {
+        "question": "Is Halloween banned in any country?",
+        "answer": "We could not verify a current national ban. Saudi Arabia is the clearest change on record: NDTV reported a 2018 police raid on a Halloween party, then a public 'scary weekend' in Riyadh in 2022 under Vision 2030. For the rest of the Middle East we found no reliable data."
+      },
+      {
+        "question": "What happened at Itaewon on Halloween 2022?",
+        "answer": "On 29 October 2022, Halloween crowds were trapped in a narrow, sloping alley in Itaewon, Seoul. A 2023 peer-reviewed review by Kyoo-Man Ha records 158 deaths, 26 of them foreign nationals, and 196 injured; later official counts reached 159. Late October in South Korea is now also an anniversary."
+      },
+      {
+        "question": "What is Dia do Saci in Brazil?",
+        "answer": "Dia do Saci is a 31 October commemoration of the Saci, a one-legged trickster from Brazilian folklore, promoted as a homegrown alternative to Halloween. São Paulo state made it official with Law 11,669 of 13 January 2004; it is a commemorative date, not a day off."
+      },
+      {
+        "question": "Which country celebrates Halloween first?",
+        "answer": "Places at UTC+14, such as Kiribati's Line Islands, reach 31 October first. Among countries where Halloween is commonly marked, New Zealand, at UTC+13 in daylight-saving time, is one of the first; a greeting sent at 7 pm Delhi time lands there at 2:30 am the next day."
+      },
+      {
+        "question": "What is Undas in the Philippines?",
+        "answer": "Undas is the Filipino name for the 1–2 November days when families travel home to visit and clean their relatives' graves. Proclamation No. 1006 made both days special non-working days for 2026, and Proclamation No. 1427 does the same for 2027, according to its preamble."
+      },
+      {
+        "question": "How can I wish a friend abroad a happy Halloween?",
+        "answer": "Check their time zone first: 7 pm in Delhi is 9:30 am in New York and 1:30 pm in London on 31 October. For one close friend, SubhSandesh's Halloween page has a bestie mode with up to six photos and a downloadable Boo License; skip it if they are mourning or read no English."
+      }
+    ],
+    "coverImageQuery": "halloween lanterns world festival night",
+    "coverImagePrompt": "A warm, photorealistic collage-style scene at dusk showing four quiet tables side by side: a carved jack-o'-lantern, a marigold-decked Día de Muertos ofrenda with candles, floating paper river lanterns for the Hungry Ghost Festival, and grave candles in a Polish cemetery. Soft golden and deep blue light, respectful rather than spooky, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Around the World: Who Celebrates It and How\n\nHalloween around the world splits three ways. In the US, Canada, Ireland and the UK, 31 October is the main event; across Catholic Europe and Latin America it is the night before the 1–2 November feasts for saints and souls; and in much of Asia the big nights for the dead fall on lunar dates weeks earlier. Below: 23 countries and regions with names, dates, reach and customs.\n\nWhere no national survey exists, the entry says so. These greetings cross borders too: on SubhSandesh's miss-you template, senders name 47 distinct city pairs, including Mumbai-London and Berlin-London, and 48.3% of SubhSandesh views arrive via phones.\n\n## Who celebrates Halloween in the world?\n\nHalloween is 31 October, the vigil before the church's holy day for all saints. Outside its Irish, Scottish and North American heartland it is mostly a recent import, carried by trade and television rather than churches.\n\nAnthropologist Stanley Brandes traced that route in a [2000 study of Mexico in *Alteridades*](https://www.redalyc.org/articulo.oa?id=74702002), linking shop-bought costumes and plastic pumpkins to NAFTA (ratified 1993), returning migrants and American television. He also recorded the pushback: a Tepoztlán mural reading \"No al Halloween. Conserva tus tradiciones\" (\"No to Halloween. Keep your traditions\"), and an Oaxaca altar contest that disqualified foreign elements.\n\n## How Halloween is celebrated in 23 countries, region by region\n\nEach entry gives five fields: name, date, reach, related festival and custom. \"No national survey\" means we found no representative poll, not that nobody takes part.\n\n### The Americas: 4 countries\n\n- **United States.** *Name:* Halloween. *Date:* 31 October (Saturday 2026, Sunday 2027). *Reach:* the [US Census Bureau's 2025 Halloween fact sheet](https://www.census.gov/newsroom/facts-for-features/2025/halloween.html) counts 73.1 million children under 18 as potential trick-or-treaters. *Related:* none. *Custom:* door-to-door trick-or-treating.\n- **Canada.** *Name:* Halloween; l'Halloween in Quebec. *Date:* 31 October. *Reach:* a Narrative Research online poll of 1,230 adults (October 2025) found half hand out treats, but only 34% in Quebec. *Related:* none. *Custom:* a Kingston, Ontario newspaper described children \"guising\" in 1911.\n- **Mexico.** *Name:* Halloween, then Día de Muertos. *Date:* 1–2 November, not a federal rest day. *Reach:* no national survey; Brandes saw children begging among graves for their \"jalouín\". *Related:* Día de Muertos, a remembrance of family dead, not a Mexican Halloween. *Custom:* home altars (*ofrendas*) with flowers, food and photographs.\n- **Brazil.** *Name:* Dia das Bruxas (\"Witches' Day\"). *Date:* 31 October; Dia de Finados, 2 November, is a national holiday. *Reach:* no national survey. *Related:* Dia do Saci, fixed on 31 October by [São Paulo state Law 11,669 of 13 January 2004](https://www.al.sp.gov.br/repositorio/legislacao/lei/2004/lei-11669-13.01.2004.html). *Custom:* honouring the Saci, a one-legged folklore trickster.\n\n### Europe: 8 countries\n\n- **Ireland.** *Name:* Oíche Shamhna. *Date:* 31 October; the bank holiday is 26 October 2026 and 25 October 2027. *Reach:* no national survey verified here. *Related:* Samhain. *Custom:* barmbrack, a fruit loaf with a ring baked inside.\n- **United Kingdom.** *Name:* Halloween. *Date:* 31 October; Bonfire Night, 5 November. *Reach:* in [YouGov's September 2025 poll of 2,069 adults](https://yougov.com/en-gb/articles/53067-uk-halloween-spending-shopping-trends-2025), 51% in Great Britain don't celebrate. *Related:* Bonfire Night. *Custom:* Scottish guising, a joke or song before sweets.\n- **Germany.** *Name:* Halloween. *Date:* 31 October is also Reformation Day, a holiday in 9 of 16 states; All Saints is a holiday in 5. *Reach:* no national survey; it spread from the 1990s. *Related:* Allerheiligen. *Custom:* the rhyme \"Süßes, sonst gibt's Saures\" (\"sweets, or it turns sour\").\n- **France.** *Name:* Halloween. *Date:* La Toussaint, 1 November, is a public holiday. *Reach:* no national survey; a late-1990s retail boom cooled. *Related:* Toussaint. *Custom:* Brittany's Kalan Goañv, an older night of returning dead.\n- **Italy.** *Name:* Halloween. *Date:* Ognissanti, 1 November, is a public holiday. *Reach:* no national survey. *Related:* Ognissanti and 2 November. *Custom:* Sardinia's *concas de mortu*, pumpkins carved as skulls.\n- **Spain.** *Name:* Halloween. *Date:* Todos los Santos, 1 November, is a national holiday. *Reach:* no national survey. *Related:* Todos los Santos. *Custom:* Catalonia's Castanyada: roasted chestnuts and *panellets*, almond sweets rolled in pine nuts.\n- **Poland.** *Name:* Halloween. *Date:* 1 November is a public holiday; Zaduszki follows on 2 November. *Reach:* no national survey; growing among young people since 1989, mostly as parties. *Related:* Zaduszki. *Custom:* cemeteries lit with candles.\n- **Sweden.** *Name:* Halloween. *Date:* Alla helgons dag is the Saturday between 31 October and 6 November: 31 October 2026, 6 November 2027. *Reach:* no national survey; children's costumes caught on around 2005. *Related:* Alla helgons dag. *Custom:* candles and pine wreaths on graves.\n\n### Asia: 7 countries and territories\n\n- **Philippines.** *Name:* Undas. *Date:* Proclamation No. 1006 makes All Saints' Day a special (non-working) day and adds All Souls' Day, Monday 2 November, for 2026; No. 1427 lists Monday 1 November 2027, and its preamble adds Tuesday 2 November. *Reach:* no national survey; families travel home to visit graves. *Related:* Undas. *Custom:* *pangangaluluwa*, singing house to house for the souls.\n- **China (mainland).** *Name:* Wànshèngjié (万圣节, \"All Saints' Festival\"). *Date:* 31 October, no holiday. *Reach:* no national survey; city costume parties, widely seen as foreign. *Related:* the Hungry Ghost Festival. *Custom:* floating river lanterns for the dead.\n- **Hong Kong.** *Name:* Halloween. *Date:* 31 October, no holiday. *Reach:* no survey; high-rise living makes door-to-door rare. *Related:* Yu Lan, the Hungry Ghost Festival. *Custom:* costume crowds in Lan Kwai Fong.\n- **Japan.** *Name:* Harowīn. *Date:* 31 October, no holiday. *Reach:* no national survey; an adult costume night without trick-or-treating. *Related:* Obon, mid-August. *Custom:* street costume crowds.\n- **South Korea.** *Name:* Haelleowin (핼러윈). *Date:* 31 October, no holiday. *Reach:* no national survey; spread through English academies and marketing. *Related:* Chuseok (24–26 September 2026; 14–16 September 2027). *Custom:* since 2022, late October is also a memorial.\n- **India.** *Name:* Halloween. *Date:* 31 October, no holiday. *Reach:* no survey; club and house parties in big cities. *Related:* Pitru Paksha, 26 September–10 October 2026 and 15–29 September 2027 (New Delhi, Drik Panchang). *Custom:* food offerings to ancestors.\n- **Nepal.** *Name:* none in common use. *Date:* not observed nationally. *Reach:* no data. *Related:* Gai Jatra, August or September, for relatives who died that year. *Custom:* children dressed as cows join the procession.\n\n### Oceania: 2 countries\n\n- **Australia.** *Name:* Halloween. *Date:* 31 October, in spring. *Reach:* retail estimates only; no state makes it a holiday. *Related:* none. *Custom:* daylight trick-or-treating.\n- **New Zealand.** *Name:* Halloween. *Date:* 31 October; at UTC+13 it is among the first countries to reach it. *Reach:* no national survey; it grew from the 1990s. *Related:* none. *Custom:* children's trick-or-treating.\n\n### Africa and the Middle East: limited data\n\n- **Nigeria and sub-Saharan Africa.** *Name:* Halloween. *Date:* 31 October. *Reach:* no survey, statute or dated report found. *Related and custom:* not verified, so left blank.\n- **Saudi Arabia and the Gulf.** *Name:* Halloween. *Date:* 31 October. *Reach:* no survey. *Related:* none. *Custom:* [NDTV reported on 2 November 2022](https://web.archive.org/web/20221121031803/https://www.ndtv.com/world-news/saudi-arabia-celebrates-halloween-internet-gives-mixed-reaction-3480989) a Thursday-to-Sunday \"scary weekend\" in Riyadh, allowed under Vision 2030 after years of prohibition. Elsewhere in the region: no reliable data.\n\n## Halloween around the world at a glance: 5 regions compared\n\nThis table condenses the 23 entries into five regions.\n\n| Region | Celebrated on 31 October? | Local festival of the dead | Signature custom |\n|---|---|---|---|\n| Americas | US, Canada: yes; Mexico, Brazil: growing, no survey | Día de Muertos 1–2 Nov; Finados 2 Nov | Trick-or-treating; *ofrendas* |\n| Europe | Ireland, UK: yes, though 51% of GB adults abstain | All Saints, 1 Nov: national holiday in 5 of 8 | Candles on graves |\n| Asia | City parties; no national survey anywhere | Hungry Ghost 27 Aug 2026; Pitru Paksha from 26 Sep 2026; Undas | Lanterns, food offerings |\n| Oceania | Yes, smaller, in spring | None | Daylight trick-or-treating |\n| Africa and Middle East | Limited; Riyadh public events since 2021 | Not verified | Riyadh \"scary weekend\" |\n\nWherever an older remembrance exists, Halloween plays second fiddle.\n\n## Why some festivals of the dead fall weeks before 31 October\n\nHalloween keeps a fixed Gregorian date, but most Asian festivals of the dead follow the moon. The Hungry Ghost Festival is the 15th night of the seventh Chinese lunar month: Thursday 27 August 2026 and Monday 16 August 2027.\n\nPitru Paksha ends on Sarva Pitru Amavasya, 10 October 2026 and 29 September 2027, and Chuseok in 2027 ends about six weeks before Halloween. So \"Halloween in China\" or \"in India\" usually means an imported party, held after the local night of spirits.\n\n## Where Halloween sits beside grief or restriction\n\nLate on 29 October 2022, Halloween crowds packed a sloping Itaewon alley in Seoul, 40 metres long and 4 metres wide. A [2023 F1000Research review by Kyoo-Man Ha](https://f1000research.com/articles/12-829/v2) records 158 deaths, 26 of them foreign nationals, and 196 injured; later official counts reached 159.\n\nFor a Korean friend, late October is an anniversary first. In the Philippines and Mexico, 1–2 November means cemetery visits, so keep jokes to 31 October. In Saudi Arabia, NDTV recalls a 2018 police raid on a Halloween party; check local rules before posting publicly.\n\n## Greeting a friend abroad on 31 October: time zones first\n\nA link sent from Delhi at 7 pm on Halloween reaches New York at 9:30 am, London at 1:30 pm and Auckland at 2:30 am the next day; the clocks give the same result for 2026 and 2027. For Auckland, send by 10:30 am Delhi time to land at 6 pm.\n\nFor one far-off friend, pick bestie on SubhSandesh's [Halloween greeting page](https://subhsandesh.in/happy-halloween) and the final question reworks itself for friendship. Load six pictures at most, plus the word that glows inside the carved pumpkin; they tour a pocket-sized haunted house, read your note by torch in the attic, and save a portrait Boo License, 1080 by 1920 pixels.\n\nOpening it takes only a browser, and you hear by email once they answer. Over every SubhSandesh page, the mean is 11.1 views apiece, and 38.5% of makers set a password. If that person overseas is a partner, the [I-miss-you page with a reunion countdown](https://subhsandesh.in/missyou-gf) fits better.\n\n## Grief, language and crowds: 3 reasons to hold the card\n\nSkip it for anyone mourning: a friend at an Undas grave, building an *ofrenda*, or in Korea near 29 October. Write plain words; SubhSandesh has no remembrance template, and the [full template list](https://subhsandesh.in/templates) won't change that.\n\nButtons and prompts appear only in English, so a friend who reads just Korean or Portuguese will see English controls. Each card has one recipient; it cannot gather party guests.\n\n## Sources\n\n- Brandes, *Alteridades*, July–December 2000\n- US Census Bureau, CB25-FF.08, 2025\n- São Paulo Law 11,669, 13 January 2004\n- YouGov, 6 October 2025\n- NDTV, 2 November 2022 (archived)\n- Ha, *F1000Research*, 22 November 2023",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-around-the-world#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Day of the Dead",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+              "https://www.wikidata.org/wiki/Q309256"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Ghost Festival",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Ghost_Festival",
+              "https://www.wikidata.org/wiki/Q696781"
+            ]
+          },
+          {
+            "@type": "Event",
+            "name": "Seoul Halloween crowd crush",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Seoul_Halloween_crowd_crush",
+              "https://www.wikidata.org/wiki/Q114912414"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Pitru Paksha",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Pitru_Paksha",
+              "https://www.wikidata.org/wiki/Q2394624"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Saci (folklore)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Saci_(folklore)",
+              "https://www.wikidata.org/wiki/Q1760117"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "El Día de Muertos, el Halloween y la búsqueda de una identidad nacional mexicana",
+            "url": "https://www.redalyc.org/articulo.oa?id=74702002",
+            "datePublished": "2000",
+            "author": {
+              "@type": "Person",
+              "name": "Stanley Brandes"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Alteridades, Universidad Autónoma Metropolitana Iztapalapa"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween: October 31, 2025 (Facts for Features CB25-FF.08)",
+            "url": "https://www.census.gov/newsroom/facts-for-features/2025/halloween.html",
+            "datePublished": "2025-09-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "U.S. Census Bureau"
+            }
+          },
+          {
+            "@type": "Legislation",
+            "name": "Lei nº 11.669, de 13 de janeiro de 2004: Institui o Dia do Saci",
+            "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2004/lei-11669-13.01.2004.html",
+            "datePublished": "2004-01-13",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Assembleia Legislativa do Estado de São Paulo"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween spending & shopping trends 2025 in Britain",
+            "url": "https://yougov.com/en-gb/articles/53067-uk-halloween-spending-shopping-trends-2025",
+            "datePublished": "2025-10-06",
+            "publisher": {
+              "@type": "Organization",
+              "name": "YouGov"
+            }
+          },
+          {
+            "@type": "NewsArticle",
+            "name": "Saudi Arabia Celebrates Halloween, Internet Gives Mixed Reaction",
+            "url": "https://web.archive.org/web/20221121031803/https://www.ndtv.com/world-news/saudi-arabia-celebrates-halloween-internet-gives-mixed-reaction-3480989",
+            "datePublished": "2022-11-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "NDTV"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Reviewing stakeholders during the Itaewon Halloween crowd crush, Korea 2022: Qualitative content analysis",
+            "url": "https://f1000research.com/articles/12-829/v2",
+            "datePublished": "2023-11-22",
+            "author": {
+              "@type": "Person",
+              "name": "Kyoo-Man Ha"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "F1000Research"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Halloween around the world: 23 countries and regions by region",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "The Americas: 4 countries",
+            "description": "United States, Canada, Mexico, Brazil: Census and Narrative Research figures; Día de Muertos 1–2 November; Dia do Saci by São Paulo Law 11,669 (2004)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Europe: 8 countries",
+            "description": "Ireland, UK, Germany, France, Italy, Spain, Poland, Sweden: YouGov 2025 (51% of GB adults don't celebrate); All Saints holidays on 1 November"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Asia: 7 countries and territories",
+            "description": "Philippines, mainland China, Hong Kong, Japan, South Korea, India, Nepal: Undas, Hungry Ghost (27 Aug 2026), Chuseok, Pitru Paksha, Gai Jatra"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Oceania: 2 countries",
+            "description": "Australia and New Zealand: spring Halloween, no public holiday, no national survey"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Africa and the Middle East: limited data",
+            "description": "No survey found for Nigeria or sub-Saharan Africa; Riyadh 'scary weekend' reported by NDTV in 2022"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween around the world",
+    "absorbs": [
+      "how halloween is celebrated around the world",
+      "who celebrates halloween in the world"
+    ],
+    "angle": "Wins by being the only post that gives every one of 23 countries the same five fields with the evidence level stated (survey, statute, or 'no national survey'), dates the Asian festivals of the dead for 2026 and 2027, and treats Itaewon, Undas and Día de Muertos as mourning rather than costume trivia, using SubhSandesh's 47 cross-border city pairs and 48.3% phone-view share to frame the friend-abroad greeting.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/missyou-gf"
+    ],
+    "factsUsed": [
+      "Miss-you pages name 47 distinct city pairs drawn from a 15-city picker, including cross-border pairs such as Mumbai-London and Berlin-London — measured 2026-09-25",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.redalyc.org/articulo.oa?id=74702002",
+        "stat": "Brandes, Stanley. 'El Día de Muertos, el Halloween y la búsqueda de una identidad nacional mexicana', Alteridades 10(20), July–December 2000, pp. 7-20 (UAM Iztapalapa), open access via Redalyc; FULL TEXT READ (PDF). Abstract: the recent diffusion of Halloween in Mexico set off a symbolic competition, Halloween associated with the US and Día de Muertos with Mexico, read as a symptom of US cultural imperialism. Body: NAFTA ratified 1993 increased US presence; Sanborns sells Halloween costumes and sweets at scale; return migration and US TV programming spread it; working-class children beg in streets and among graves for their 'Halloween' (pronounced jalouín) or for 'mi calabaza'; a Tepoztlán, Morelos mural shows a footballer kicking a pumpkin-headed figure: 'No al Halloween. Conserva tus tradiciones'; an Oaxaca city altar contest disqualifies altars with 'elementos ajenos a nuestra tradición'.",
+        "publishedDate": "2000-12-31"
+      },
+      {
+        "url": "https://www.census.gov/newsroom/facts-for-features/2025/halloween.html",
+        "stat": "US Census Bureau, 'Halloween: October 31, 2025', Facts for Features CB25-FF.08, dated 30 September 2025: 73.1 million estimated US children under 18 (potential trick-or-treaters) as of 1 July 2024; 133.2 million occupied housing units (potential stops) in 2023 (American Housing Survey). The one generic context statistic.",
+        "publishedDate": "2025-09-30"
+      },
+      {
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2004/lei-11669-13.01.2004.html",
+        "stat": "Lei nº 11.669, de 13 de janeiro de 2004 (PL 1128/2003, Afonso Lobato), São Paulo state: Art. 1 'Fica Instituído o Dia do Saci, a ser comemorado, anualmente, no dia 31 de outubro.' Signed Geraldo Alckmin. A commemorative date, not a public holiday.",
+        "publishedDate": "2004-01-13"
+      },
+      {
+        "url": "https://yougov.com/en-gb/articles/53067-uk-halloween-spending-shopping-trends-2025",
+        "stat": "YouGov (Kineree Shah), 'Halloween spending & shopping trends 2025 in Britain', 6 October 2025: 51% of GB adults don't celebrate Halloween; online survey 23-24 September 2025, nationally representative sample of 2,069 GB adults.",
+        "publishedDate": "2025-10-06"
+      },
+      {
+        "url": "https://web.archive.org/web/20221121031803/https://www.ndtv.com/world-news/saudi-arabia-celebrates-halloween-internet-gives-mixed-reaction-3480989",
+        "stat": "NDTV (ed. Amit Chaturvedi), 'Saudi Arabia Celebrates Halloween, Internet Gives Mixed Reaction', updated 2 November 2022 (live ndtv.com returned 403; read via Wayback Machine copy of 21 Nov 2022): public Halloween celebrations began in Riyadh for the first time in 2021; the 'scary weekend' ran Thursday to Sunday; Halloween was banned until a few years earlier but allowed under Vision 2030; in 2018 police raided a Halloween party and arrested dozens.",
+        "publishedDate": "2022-11-02"
+      },
+      {
+        "url": "https://f1000research.com/articles/12-829/v2",
+        "stat": "Ha, Kyoo-Man (Rabdan Academy). 'Reviewing stakeholders during the Itaewon Halloween crowd crush, Korea 2022: Qualitative content analysis', F1000Research 12:829, version 2 published 22 November 2023 (v1 13 July 2023), CC BY, open peer review (2 approved, 1 with reservations); full text read: crush on 29 October 2022 in a downhill alley 40 m long and 4 m wide in Itaewon, Yongsan-gu; 158 deaths (132 Koreans, 26 foreigners) and 196 injured (citing Lee et al. 2022); some policymakers called it the '10.29 disaster' rather than naming Itaewon.",
+        "publishedDate": "2023-11-22"
+      }
+    ],
+    "structuralLimitations": [
+      "Prompt said 'USA (scale stat from NRF; nrf.com is fresh in b4)'. BRIEF §5 (binding) allows nrf.com ONLY for spending/budget/gifts/costume posts; this hub is none of those, so the US scale figure comes from the US Census Bureau 2025 Halloween fact sheet instead (the one generic statistic).",
+      "Proclamation No. 1427 (2027 holidays) on Lawphil: the preamble declares 2 November 2027 an 'additional special (non-working) day', but the rendered table lists All Souls' Day 2 November (Tuesday) under the 'C. Special (Working) Day' heading, apparently a missing 'D. Additional special (non-working) days' heading. The post cites the preamble only. The b4 Tagalog sibling states 1 and 2 November 2027 are both non-working; worth an Official Gazette check (officialgazette.gov.ph returned 403 to that sibling). Proclamations 1006/1427 are named in the body but not linked, to keep outbound links at 6 (both URLs are in the Tagalog sibling).",
+      "Dia do Saci (prompt: 'verify'): verified as a São Paulo STATE commemorative date (Law 11,669 of 13 January 2004, fetched from al.sp.gov.br). English Wikipedia's 'official holiday in the state of São Paulo' overstates it: the law only institutes a date to be commemorated. pt.wikipedia says the national bill PL 2479/2003 was archived in 2008 (not independently fetched from camara.leg.br, so the body no longer states it).",
+      "Itaewon toll: Ha 2023 (F1000Research) gives 158 dead (132 Korean, 26 foreign) and 196 injured; English Wikipedia gives 159 including later deaths and 27 foreign nationals. The post states Ha's 158 and 'later official counts reached 159'.",
+      "timeanddate.com returned 403 (bot wall, not worked around). Public-holiday statements (Germany: Reformation Day in 9 states, All Saints in 5; Poland, Spain, Italy, France, Sweden, Brazil Finados, Ireland October bank holiday; none for Mexico, Hong Kong, South Korea, China on 25 Oct–3 Nov) were verified against the Nager.Date public holiday API (date.nager.at), not cited. Pitru Paksha dates from Drik Panchang with New Delhi location (26 Sep–10 Oct 2026; 15–29 Sep 2027); with the default Orlando location the page shows a day earlier for 2026. Hungry Ghost dates (27 Aug 2026, 16 Aug 2027) were computed from the ICU Chinese calendar (Intl.DateTimeFormat 'en-u-ca-chinese'), not fetched from an almanac.",
+      "Unlinked, verified claims kept to hold outbound links at 6: Canada 'half hand out treats, 34% in Quebec' (Narrative Research, 1,230 adults, 7–9 Oct 2025, fetched; the b4 Canada sibling cites it); Kingston, Ontario 1911 guising report, Germany/Poland/Italy/Sweden/Hong Kong/China/NZ/Korea context lines (English Wikipedia 'Geography of Halloween', read via API, not linked); Japan and Australia lines summarise the b3/b2 sibling posts.",
+      "Nigeria / sub-Saharan Africa: no survey, statute or dated report found; the entry says so and leaves 'related festival' and 'custom' blank rather than copying listicle claims (mentalfloss, a top-5 competitor, lists Awuru Odo; not used). Middle East beyond Saudi Arabia: no reliable data; NDTV live page 403, read via Wayback Machine.",
+      "SERP: vam.ac.uk and mentalfloss.com rank top 5 for this keyword, so both are competitors here and are not cited. pathgather.com failed TLS (expired certificate) and themanitoban.com returned a 403 WAF block: judged from snippets only.",
+      "5-word overlap check against all 150 b1–b3 files plus b4 siblings: template-feature phrasing was rewritten twice; remaining shared 5-grams are generic (e.g. 'a phone or laptop browser'). halloween-in-ireland (b4 row 189) did not exist at finalise time; halloween-in-canada did and was read (its 1927 Blackie, Alberta 'trick or treat' fact is not reused; this post uses the 1911 Kingston guising report instead)."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in content/facts.md (BRIEF §3/§9), and platform-wide lines (phone share, views per page) do not vary by country of recipient, so a first-party column in a country/region table would be decoration. Structural: re-check when facts.md carries per-country or per-template Halloween counts for /happy-halloween after 31 October."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The US Census Bureau Halloween fact sheet (73.1 million potential trick-or-treaters) is the post's one generic context statistic and could sit unchanged in any trick-or-treat post in this batch; the YouGov GB poll could too. They are kept because the global hub must give a sourced 'how widely' figure for the US and UK, and BRIEF §5 bars nrf.com for non-spending posts. Structural for a country-reach hub; the remaining four sources (Brandes, Ha, São Paulo Law 11,669, NDTV Riyadh) are subject-specific."
+        }
+      ],
+      "honestAssessment": "Answer engines get one thing here the analysed pages lack: every country carries the same five fields with an explicit evidence level, plus 2026 and 2027 dates for the Hungry Ghost Festival, Pitru Paksha and Chuseok and a respectful, sourced treatment of Itaewon, Undas and Día de Muertos; the five top pages (V&A, Mental Floss, Globe Trottin' Kids, Collette, The Manitoban) are undated, unsourced trivia lists. It still cannot overcome the V&A's and Mental Floss's domain authority, and most country entries honestly say 'no national survey', which is accurate but gives fewer quotable numbers than a confident listicle; expect months, not weeks."
+    },
+    "generatedAt": "2026-10-13T09:45:36.234Z"
+  }
+}
