@@ -1,0 +1,349 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Happy Halloween Images with Quotes: Sizes, Text and Licences",
+    "slug": "happy-halloween-images-with-quotes",
+    "excerpt": "How to make happy Halloween images with quotes that stay readable on a phone: the canvas each app expects, text size and 4.5:1 contrast, which Creative Commons licences allow a text overlay, alt text, and 30 original quotes sized to fit.",
+    "metaTitle": "Happy Halloween Images with Quotes: 30 Lines Sized to Fit",
+    "metaDescription": "Happy Halloween images with quotes that stay readable: 1080 × 1920 and 4:5 canvases, 4.5:1 text contrast, licence checks and 30 original lines that fit.",
+    "keywords": "happy halloween images with quotes, halloween greetings images, halloween quote image size, halloween quotes for instagram story, halloween image alt text",
+    "canonicalURL": "https://subhsandesh.in/blog/happy-halloween-images-with-quotes",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "quotes",
+      "images",
+      "instagram",
+      "whatsapp"
+    ],
+    "keyTakeaways": [
+      "Design vertical quote images at 1080 × 1920 (9:16) and feed images at 1080 × 1350 (4:5); Meta caps both at 8 MB.",
+      "48.3% of shared SubhSandesh pages are opened on a phone, so set quote text at 72–96 px on a 1080-pixel canvas, never below about 60 px.",
+      "WCAG 2.2 asks for 4.5:1 contrast for text and images of text, 3:1 for large text; a dark band behind the words is the reliable fix.",
+      "Creative Commons ND licences forbid adaptations, so a quote overlay is only allowed on CC BY, BY-SA and (non-commercially) NC photos.",
+      "Only 0.1% of image tweets in a 9-million-tweet sample carried a description; for a quote image, the alt text is the quote itself."
+    ],
+    "faqs": [
+      {
+        "question": "What size should a Halloween quote image be for Instagram?",
+        "answer": "Design feed posts at 1080 × 1350 pixels, the 4:5 shape, and Stories at 1080 × 1920, the 9:16 shape. Meta's publishing specification caps both at 8 MB and accepts feed images between 4:5 and 1.91:1, from 320 to 1,440 pixels wide."
+      },
+      {
+        "question": "What size works for a WhatsApp Status image with a quote?",
+        "answer": "A vertical 1080 × 1920 image, the same 9:16 shape as an Instagram Story, fills a typical phone screen. Keep the quote away from the very top and bottom, where your name and the reply bar sit."
+      },
+      {
+        "question": "Why does my Halloween quote image look blurry on WhatsApp?",
+        "answer": "Standard quality recompresses photos; TechRadar's August 2023 report showed Standard at 1600 × 1052 against 4096 × 2692 for HD. Tap the HD button before sending and use a bold font, since thin strokes blur first."
+      },
+      {
+        "question": "How big should the text be on a quote image?",
+        "answer": "On a 1080-pixel-wide canvas, aim for 72 to 96 px and never go below about 60 px. A phone around 390 points wide shows the image at roughly 36% scale, so 66 px on the canvas reads like 24 px on screen."
+      },
+      {
+        "question": "What colour text is easiest to read on a Halloween picture?",
+        "answer": "Whatever gives a contrast ratio of at least 4.5:1 against the background, or 3:1 for very large bold text, as WCAG 2.2 sets out. White or pale orange on a solid dark band passes easily; orange straight onto a busy photo usually fails."
+      },
+      {
+        "question": "How many words should a Halloween quote on an image have?",
+        "answer": "Three to eight words for a Story and up to 12 for a feed post. Past about 12 words the type has to shrink below 60 px on a 1080-pixel canvas and stops being comfortable to read on a phone."
+      },
+      {
+        "question": "Can I use Halloween pictures from Google Images for my quotes?",
+        "answer": "Not safely: an image with no licence shown is all rights reserved by default. Use your own photo or one under a Creative Commons licence that allows adaptation, and credit the photographer."
+      },
+      {
+        "question": "Can I add text to a Creative Commons photo?",
+        "answer": "Yes under CC BY and CC BY-SA, and under the NC versions for non-commercial posts, crediting the creator each time. The two ND licences allow sharing only in unadapted form, so no quote overlay is allowed on them."
+      },
+      {
+        "question": "Do I need alt text on a Halloween quote image?",
+        "answer": "Yes, because a screen reader cannot read words baked into pixels. Type the quote word for word, then a few words on the picture; Meta's specification lists alt text for image posts but not for Reels or Stories."
+      },
+      {
+        "question": "Can I make a Halloween image for one specific person?",
+        "answer": "The interactive Happy Halloween card on SubhSandesh ends with a Boo License, a 1080 × 1920 PNG with their photo, a costume you chose and \"Valid every 31 October, forever\". It takes about 5 minutes to make."
+      },
+      {
+        "question": "When is Halloween?",
+        "answer": "Halloween is on 31 October every year: Saturday 31 October 2026 and Sunday 31 October 2027. All Saints' Day follows on 1 November, so a quote image dated the 31st stays accurate every year."
+      }
+    ],
+    "coverImageQuery": "carved pumpkin porch night text overlay",
+    "coverImagePrompt": "A vertical phone mock-up on a dark wooden porch at dusk, showing a quote image of a glowing carved pumpkin with a short line of bold pale-orange text on a dark band. Warm candlelight, soft purple sky, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except the quote band and a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Happy Halloween Images with Quotes: Sizes, Text and Licences\n\nHappy Halloween images with quotes work when they are phone-shaped: 1080 pixels wide, one short original line, and text with enough contrast to read at a glance. That matters because 48.3% of shared pages on SubhSandesh are opened on a phone (27,725 of 57,456 views), and the average page is viewed 11.1 times, so whatever you send gets read small, and more than once.\n\nHalloween falls on Saturday 31 October 2026 and Sunday 31 October 2027. This page covers canvas sizes per app, text size and contrast, 30 original quotes that fit, stock-photo licences, and alt text.\n\n## What is a Halloween quote image?\n\nA Halloween quote image is a single picture that carries a short line of text over a background, made to be posted or forwarded instead of typed. Unlike a caption, the words are baked into the pixels, so the app cannot resize them and a screen reader cannot read them unless you add alt text.\n\nThat trade-off shapes every rule below. It will mostly be seen small: 48.4% of SubhSandesh views come from a touch device.\n\n## Halloween image sizes by platform, and how big the text must be\n\nMeta's [Instagram publishing specification](https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media), updated 28 September 2026, sets the feed limits: JPEG, 8 MB maximum, an aspect ratio between 4:5 and 1.91:1, and a width of 320 to 1,440 pixels. Story images carry the same 8 MB cap, with 9:16 recommended \"to avoid cropping or blank space\". The table compares the four canvases a quote image usually lands on.\n\n| Where it goes | Canvas to design | Shape and limit | What happens to your text |\n|---|---|---|---|\n| Instagram feed post | 1080 × 1350 px | 4:5, JPEG, 8 MB max | Full width; the tallest shape the feed accepts |\n| Instagram Story or WhatsApp Status | 1080 × 1920 px | 9:16, 8 MB max on Instagram | Name and reply bars cover the edges |\n| WhatsApp chat | 1080 × 1350 px | Standard 1600 × 1052 vs HD 4096 × 2692, reported August 2023 | Standard recompresses; thin fonts blur first |\n| Boo License from the Halloween card | 1080 × 1920 px | PNG download | Their photo, costume and your reason, laid out |\n\nDesign once at 1080 × 1920 for anything vertical and once at 1080 × 1350 for the rest; a square leaves a fifth of a 4:5 feed slot empty. [TechRadar's WhatsApp report of 17 August 2023](https://www.techradar.com/computing/social-media/hd-photos-are-coming-to-whatsapp-and-videos-will-be-next) showed the HD button offering 4096 × 2692 against 1600 × 1052 for Standard, so tap HD for fine lettering.\n\nText size is where most quote images fail. The W3C's [WCAG 2.2 contrast rule](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) asks for a contrast ratio of at least 4.5:1 between text and background, or 3:1 for large text, which it pegs at 18 point, or 14 point bold, and it names \"images of text\" explicitly.\n\nNow the pixel maths. A phone about 390 points wide shows a 1080-pixel image at roughly 36% scale, so a letter meant to read like 24 px on screen needs about 66 px on the canvas. We set quote text at 72 to 96 px and never below 60; at 80 px, with 90 px side margins, one line holds about 20 to 22 characters.\n\nBusy photos are the other trap. A 2022 eye-tracking study in the [Journal of Vision](https://europepmc.org/article/PMC/PMC9465940) (Yu, Shamsi and Kwon, 14 adults) found that as text contrast fell towards 2.6% and blur rose, fixations lengthened and reading slowed, while background brightness alone (1.3 to 265 cd/m²) made no significant difference. A dark photo is fine; a faint letterform is not, so put a solid band or 60% dark overlay behind the words.\n\n## 30 original Halloween quotes written to fit an image\n\nEvery line below is original, and each group is sized to a canvas from the table: Story lines run 3 to 8 words, feed lines up to 12. None quote a film, a song or a book.\n\n### 1. Story and Status quotes (9:16, 3 to 8 words)\n\nWho it suits: anyone posting to a 24-hour Story or Status. Canvas and type: 1080 × 1920, two or three stacked lines in the upper third, 80 to 96 px.\n\n- Lights low. Candles lit. Hello, 31 October.\n- The moon is working overtime tonight.\n- Tonight the porch light means yes.\n- Even the shadows dressed up.\n- One night a year, everyone is someone else.\n- Pumpkin glowing, plans unknown, mood excellent.\n\n### 2. Feed post quotes (4:5, up to 12 words)\n\nWho it suits: a costume photo, a porch shot or a carousel cover. Canvas and type: 1080 × 1350, one or two lines on a dark band across the bottom fifth, 64 to 80 px.\n\n- The candy bowl is full, and I take no responsibility for it.\n- Carved it crooked on purpose. It has character.\n- The leaves gave up and the ghosts showed up.\n- A street full of strangers in disguise, and all of them smiling.\n- If the cat looks judgemental, the costume is working.\n- Trick accepted. Treat still expected.\n\n### 3. WhatsApp chat quotes with a name slot\n\nWho it suits: a one-to-one forward to a friend or relative. Canvas and type: 1080 × 1350, the line at 64 px with their name set larger in the middle, so it looks made for them.\n\n- [Name], you are the best treat in the whole neighbourhood.\n- Saving you the last mini chocolate, [Name]. Tell no one.\n- [Name], happy Halloween from the least scary person you know.\n- No costume needed, [Name]. You were always this much fun.\n- [Name], wishing you a heavy sweet bag and an early night.\n- From our porch to yours, [Name]: happy Halloween.\n\n### 4. Kid-safe quotes for family groups\n\nWho it suits: family groups with children and grandparents in them. Canvas and type: 1080 × 1350, round fonts in pale orange on deep purple, nothing dripping, 72 px or larger.\n\n- Little ghost, big smile, sticky fingers.\n- Our tiny pumpkin is out collecting smiles.\n- Boo just means hello in ghost.\n- Sweets counted twice, teeth brushed once.\n- Grandma, the witch hat was your idea.\n- Two small skeletons, one shared bag, zero fights so far.\n\n### 5. Couple quotes for one person\n\nWho it suits: a partner, on an image sent to them alone rather than posted. Canvas and type: 1080 × 1920, one centred line on a soft dark background, 88 px.\n\n- Every ghost in town is jealous of us.\n- You are my favourite thing about the dark.\n- Still choosing you, costume and all.\n- Two pumpkins, one porch, no plans to leave.\n- You make the candles look dim.\n- Haunt me forever. I have cleared my schedule.\n\n## Can you put a quote on a stock Halloween photo?\n\nOnly if the photo's licence allows changes. Of the [six Creative Commons licences](https://creativecommons.org/share-your-work/cclicenses/), the two marked ND permit sharing \"in unadapted form only\", and typing a quote across a picture adapts it. The two marked SA allow changes but require you to share the result under the same or a compatible licence.\n\n- **CC BY and CC BY-SA:** add your quote and credit the photographer in the caption.\n- **CC BY-NC and CC BY-NC-SA:** a personal post to friends, not a shop or brand page, because NC rules out use \"primarily intended for or directed towards commercial advantage\".\n- **CC BY-ND and CC BY-NC-ND:** no quote overlays at all.\n- **No licence shown, as with most image-search results:** treat it as all rights reserved and leave it.\n\nThe safest background is your own photo of a porch light or a carved pumpkin. Nobody else will post the same picture.\n\n## Alt text for a quote image: type the quote in\n\nWhen the words live inside the pixels, a screen reader user hears nothing unless you write them out. A 2020 comment in [Nature Communications](https://europepmc.org/article/PMC/PMC7670408) by Chiarella, Yarbrough and Jackson cites a sample of more than nine million tweets in which 11.84% carried an image and only 0.1% of those images had a description. Their advice: skip \"photo of\", keep it short, and keep links out.\n\nFor a quote image, the alt text is the quote word for word, then a few words on the picture: \"Text: Every ghost in town is jealous of us. Over a dim porch with two pumpkins.\" Meta's specification added alt text for image posts on 24 March 2025 but lists Reels and Stories as unsupported.\n\n## From a quote image to a Halloween page for one person\n\nIf your line is meant for one person, the [interactive Happy Halloween card](https://subhsandesh.in/happy-halloween) takes about 5 minutes: up to six photos, your letter read by flashlight, a pumpkin carved with your word, and \"Will you be my boo?\" at the end. It finishes with a Boo License, a 1080 × 1920 PNG at Instagram Story size with their photo, the costume you chose for them and \"Valid every 31 October, forever\", so the shareable image comes built in.\n\nFor more room, the [premium Halloween page with a voice note](https://subhsandesh.in/happy-halloween-premium) takes about 10 minutes: up to 12 photos, a 60-second voice note, an unlock time and a reply box. Both have partner, bestie, family and kids modes, and 38.5% of SubhSandesh creators add a password before sharing. If Halloween is not their thing, [the full template gallery](https://subhsandesh.in/templates) covers other occasions.\n\n## When a quote image is the wrong choice\n\nAn image is the wrong format for a long message. Past about 12 words the type has to drop below the 60 px floor, and the line stops being readable on a phone. It also shuts out screen reader users if the alt text is skipped, and a Story disappears after 24 hours.\n\nThe SubhSandesh templates have limits too: the interface is English-only, and they are one-person greeting pages, not party invitations. For a family group of 30, a plain quote image in the chat is the better tool.\n\n## Sources\n\n- Meta for Developers, IG User Media reference, image and story specifications, updated 28 September 2026.\n- TechRadar, \"HD photos are coming to WhatsApp, and videos will be next\", 17 August 2023.\n- W3C, Understanding Success Criterion 1.4.3: Contrast (Minimum), WCAG 2.2, undated.\n- Yu, Shamsi and Kwon, Journal of Vision, 1 September 2022.\n- Creative Commons, About CC Licenses, undated.\n- Chiarella, Yarbrough and Jackson, Nature Communications, 16 November 2020.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/happy-halloween-images-with-quotes#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Alt attribute",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Alt_attribute",
+              "https://www.wikidata.org/wiki/Q1067764"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Creative Commons license",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Creative_Commons_license",
+              "https://www.wikidata.org/wiki/Q284742"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Web Content Accessibility Guidelines",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines",
+              "https://www.wikidata.org/wiki/Q5364439"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Instagram",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Instagram",
+              "https://www.wikidata.org/wiki/Q209330"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "WhatsApp",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/WhatsApp",
+              "https://www.wikidata.org/wiki/Q1049511"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "IG User Media — Instagram Platform reference",
+            "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Meta for Developers"
+            },
+            "dateModified": "2026-09-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "HD photos are coming to WhatsApp, and videos will be next",
+            "url": "https://www.techradar.com/computing/social-media/hd-photos-are-coming-to-whatsapp-and-videos-will-be-next",
+            "publisher": {
+              "@type": "Organization",
+              "name": "TechRadar"
+            },
+            "datePublished": "2023-08-17"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Understanding Success Criterion 1.4.3: Contrast (Minimum)",
+            "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "W3C Web Accessibility Initiative"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Altered eye movements during reading under degraded viewing conditions: background luminance, text blur, and text contrast (Journal of Vision)",
+            "url": "https://europepmc.org/article/PMC/PMC9465940",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Research in Vision and Ophthalmology"
+            },
+            "datePublished": "2022-09-01"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "About CC Licenses",
+            "url": "https://creativecommons.org/share-your-work/cclicenses/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Creative Commons"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Using alt text to make science Twitter more accessible for people with visual impairments (Nature Communications)",
+            "url": "https://europepmc.org/article/PMC/PMC7670408",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Nature Portfolio"
+            },
+            "datePublished": "2020-11-16"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "30 original Halloween quotes written to fit an image",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "1. Story and Status quotes (9:16, 3 to 8 words)",
+            "description": "1080 × 1920 canvas, 3 to 8 words, two or three stacked lines at 80–96 px"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "2. Feed post quotes (4:5, up to 12 words)",
+            "description": "1080 × 1350 canvas, up to 12 words, one or two lines on a dark band at 64–80 px"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "3. WhatsApp chat quotes with a name slot",
+            "description": "1080 × 1350 canvas, line at 64 px with the recipient's name set larger"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "4. Kid-safe quotes for family groups",
+            "description": "1080 × 1350 canvas, round fonts in pale orange on deep purple, 72 px or larger"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "5. Couple quotes for one person",
+            "description": "1080 × 1920 canvas, one centred line at 88 px, sent to one person"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "happy halloween images with quotes",
+    "angle": "Wins by being the only post that treats a Halloween quote image as a design job — Meta's dated canvas specs, WCAG contrast turned into pixel sizes for a 1080 px canvas, Creative Commons overlay rules and quote-verbatim alt text — with 30 original lines sized per canvas, anchored on SubhSandesh's 48.3% phone-open share.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media",
+        "stat": "Instagram feed images: JPEG, 8 MB max, aspect ratio 4:5 to 1.91:1, width 320–1,440 px; story images 8 MB max, 9:16 recommended; alt_text field for image posts added 24 March 2025, Reels and Stories not supported (page last updated 2026-09-28; no publication date)"
+      },
+      {
+        "url": "https://www.techradar.com/computing/social-media/hd-photos-are-coming-to-whatsapp-and-videos-will-be-next",
+        "stat": "WhatsApp HD photo option at launch: standard quality 1600 × 1052 vs HD 4096 × 2692 (beta screenshots)",
+        "publishedDate": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+        "stat": "Text and images of text need a contrast ratio of at least 4.5:1, or 3:1 for large-scale text (18 point, or 14 point bold)"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9465940",
+        "stat": "14 adults: lower text contrast (to 2.6%) and more blur lengthened fixations and slowed reading; background luminance 1.3–265 cd/m2 had no significant effect",
+        "publishedDate": "2022-09-01"
+      },
+      {
+        "url": "https://creativecommons.org/share-your-work/cclicenses/",
+        "stat": "Six CC licences; ND licences allow distribution in unadapted form only; SA requires adaptations under the same terms; NC means not primarily intended for commercial advantage"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC7670408",
+        "stat": "Of 9+ million tweets, 11.84% contained an image and 0.1% of those had an image description; advice to avoid 'photo of', keep alt text concise and keep links out of it",
+        "publishedDate": "2020-11-16"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in facts.md (BRIEF §3, §9), and the table compares platform canvases where no SubhSandesh measurement applies. The platform-wide 48.3% phone-open share is in the opening paragraph and drives the text-size advice, not a column. Closes only if a /happy-halloween probe (for example, Boo License downloads) is run after 31 October 2026."
+        }
+      ],
+      "honestAssessment": "None of the five SERP pages analysed (news-site wish lists from 2017–2025 and a template vendor) gives a canvas size, a text size, a contrast ratio, a licence rule or alt text guidance, so this is the only page an answer engine could lift for 'what size' or 'can I add text to this photo' sub-queries, and the 30 lines are original. It cannot overcome the domain authority of Republic World and The Quint, and the WhatsApp resolution figures are a 2023 launch report rather than a current WhatsApp spec."
+    },
+    "structuralLimitations": [
+      "WhatsApp's own Help Center (faq.whatsapp.com) is client-rendered and returned no readable text to a scripted fetch, so the HD/Standard resolutions come from TechRadar's 17 August 2023 launch report (beta screenshots), labelled as such in the body; no current WhatsApp file-size limit is stated.",
+      "Instagram's consumer Help Center also rendered empty; sizes come from Meta's developer publishing specification (updated 2026-09-28), which governs API publishing and may differ slightly from in-app limits.",
+      "Journal of Vision paper is CC BY-NC-ND; full text read via Europe PMC, cited only, nothing reproduced. Nature Communications comment read in full (CC BY); its 0.1% figure is Gleason et al.'s Twitter sample as cited there, not re-verified at the primary source.",
+      "SERP: 2 WebSearch calls (US index); cyberlink 410, aol 404, thequint 2023 403 — judged from snippets. Weak results in the top 10: 4 (static.intrafocus.com and lbas.lboro.ac.uk hijacked-subdomain spam, ibtimes 2017, thequint 2021).",
+      "Wikipedia not cited in the body (en.wikipedia.org at batch cap 3); sameAs entity references in structuredData only.",
+      "The 390-point phone width and the 66 px figure are this post's own worked arithmetic (1080 / 390 × 24 px), not a sourced statistic."
+    ],
+    "generatedAt": "2026-10-13T15:30:50.473Z"
+  }
+}
