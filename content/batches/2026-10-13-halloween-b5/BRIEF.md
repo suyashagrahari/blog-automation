@@ -133,3 +133,61 @@ audit failures, one-line honest assessment, and any brief claim you found false.
 
 ## 10. Live spent-source notes (orchestrator appends as rows land)
 - (b4 sources are logged in the b4 BRIEF §10; caps reset per batch.)
+- **Used by cartoon-couple-costumes:** Europe PMC 2025 Behav Res Methods cartoon attributes + 2026 PNAS symbols; web.law.duke.edu Public Domain Day 2026; thewaltdisneycompany.com x2 (Fox deal). Pairs used: Betty Boop, Blondie & Dagwood, Simpsons-era pairs — avoid in other couple rows.
+- **Used by halloween-party-thank-you-message:** Europe PMC Regan 2022 + Gray & DeSteno 2026 (Affective Science); cambridge.org Adena 2025; en.wikipedia Halloween.
+- **Used by halloween-birthday-wishes:** github.com/fivethirtyeight SSA births; ons.gov.uk birthdays; ijpds.org; Europe PMC JAMA Netw Open. Birthday angle (31 Oct rarity) is owned — baby-announcement row must not repeat the birth-date rarity stats.
+- **Used by 90s-couple-costumes:** Europe PMC Wolf & Zimprich 2020, Benz 2020, Doshi 2026, Sidhu 2025 (PLOS ONE); en.wikipedia x2. 21 named 90s pairs (incl. Bollywood) — couple rows must not reuse them.
+- **en.wikipedia.org is FULL (3 posts) — do not cite it in this batch.**
+- **Used by edgar-allan-poe-halloween-quotes:** gutenberg Raven Edition + Bacon; eapoe.org Eveleth letter 1848; poemuseum.org misattributions; Europe PMC Vora & Ramanan 2002. Poe lines are owned — teachers-quotes row must use non-Poe or different Poe lines.
+- **Used by halloween-trivia-questions:** barrypopik.com; burkemuseum.org; guinnessworldrecords.com; ers.usda.gov; Europe PMC Keller 2024 npj Sci Learn; ich.unesco.org. "Trick or treat": variant "tricks or treats" in print Sault Daily Star (Ontario) 1 Nov 1917; exact wording 1927 Alberta — state it this way.
+- **Used by funny-couple-halloween-costumes:** Europe PMC Humor 2025 puns, Cogn Sci 2025, J Pers 2024, HBM 2023. Pun/joke papers are spent — puns rows pick others.
+- **Used by halloween-puns-for-kids:** files.eric.ed.gov Lems 2013; Europe PMC PMC10881745; readingmatrix.com; gutenberg.org. 52 kid puns owned — puns-for-girlfriend must not reuse.
+- **Used by halloween-poems:** Europe PMC x2 (preschool song/poem memory; meter & memory); hsa-haiku.org; web.law.duke.edu Public Domain Day 2026 (**URL now FULL, 2 posts**); archive.org Sandburg 1916. 19 original kids' poems — poems-for-boyfriend must not reuse forms' lines. US public domain = published 1930 or earlier (as of 1 Jan 2026), not "pre-1929".
+- **Used by is-halloween-a-public-holiday:** opm.gov; www.gov.uk bank holidays; irishstatutebook.ie; dopt.gov.in; lawphil.net Proc 1427; apcz.umk.pl Popelková & Zajonc 2022.
+- **Used by halloween-baby-announcement:** nhs.uk dating scan; Europe PMC Harpel 2018 JMIR, Bardos 2015; reaganlibrary.gov Proc 5890; babyloss-awareness.org.
+- **Used by happy-halloween-images-with-quotes:** developers.facebook.com; techradar.com (WhatsApp HD); w3.org contrast; Europe PMC J Vision 2022 + Nat Commun 2020; creativecommons.org. faq.whatsapp.com and Instagram help pages return no readable text — use developers.facebook.com or say snippet-only.
+- **Used by halloween-captions-for-girls:** Europe PMC x4 (Clin Child Fam Psychol Rev 2022; Br J Health Psychol 2026 caption stigma RCT; Int J Psychol 2026; Int J Eat Disord 2026). 64 lines incl. "captions for her" from partner — boyfriend-captions and girlfriend-quotes rows must not reuse.
+- **Used by pumpkin-patch-captions:** extension.psu.edu; ers.usda.gov (**URL now FULL, 2 posts**); extension.illinois.edu; commons.joe.org J Extension 2012. Clock changes: UK 25 Oct 2026 / 31 Oct 2027; US 1 Nov 2026 / 7 Nov 2027.
+- **Used by halloween-quotes-for-teachers:** Europe PMC Orman 2026 ECEJ, Morales 2026 JMBE; nyc.gov COIB gift booklet; gutenberg.org Sleepy Hollow + Anne of Avonlea.
+- **Used by halloween-captions-for-cats:** Europe PMC Carini 2020 + Villarreal 2026 (both MDPI Animals — MDPI now 1 post); cats.org.uk x2.
+- **Used by matching-halloween-costumes-for-couples:** Europe PMC Koudenburg 2015 PLOS ONE, Schloss & Palmer 2011; fda.gov x2 (novelty makeup; decorative lenses) — fda.gov 1 post; gutenberg Frankenstein.
+- **Used by halloween-costume-captions:** nrf.com 2026 survey (nrf 1 post); Europe PMC Pagnini 2025 Batman metro; theconversation.com x2 (2018, 2024).
+- **Used by halloween-hashtags:** threads.com x2 (Instagram 5-hashtag cap Dec 2025; Mosseri topic tags 2023); socialmediatoday.com; pib.gov.in TikTok block; Europe PMC PMC9838373; firstmonday.org Highfield 2018. Instagram caps at 5 hashtags/post (Dec 2025) — caption rows should be consistent with that.
+- **Used by halloween-bio-ideas:** help.instagram.com; help.x.com; faq.whatsapp.com; support.tiktok.com; ieeexplore.ieee.org Rogers & Jones 2021; Europe PMC Brauer & Proyer 2024 PMC12224558 (**paper now FULL, 2 posts**).
+- **Correction to §4:** Firecrawl MCP is connected again this batch (firecrawl_search / firecrawl_scrape work; it refuses threads.com). Still max 2 searches per row.
+- **Used by halloween-selfie-captions:** journal.media-culture.org.au Morse 2017; psyct.swu.bg Fam 2024; Europe PMC PMC9887880; cyberpsychology.eu Qutub 2021.
+- **Used by halloween-costume-ideas-for-teens:** Europe PMC PMC9287711 Perfect Storm 2022 (**paper FULL, 2 posts**), JAMA Pediatrics Halloween pedestrian deaths (1 post); ecode360.com x2 (Pennsauken § 138-6, Little Silver curfew).
+- **Used by halloween-nails-for-kids:** fda.gov nail care (**fda.gov now 2 posts — ONE left, reserved for halloween-face-paint-ideas**); poison.org x2; Europe PMC Cureus 2026 + Clin Ophthalmol 2026; data.europa.eu EU Reg 2025/877.
+- **Used by halloween-crafts-for-adults:** Europe PMC Orui 2023, Mak 2023 Nat Med, Israel 2021; nfpa.org candle fires (nfpa 1 post). (Wikipedia is actually at 2 posts after a drop — still treat as full; keep it to sameAs only.)
+- **Used by halloween-costume-ideas-for-boys:** cpsc.gov x2 releases (**cpsc.gov 2 posts? check capcheck — ONE left, reserved for toddler-halloween-costume-ideas**); ecfr.gov 1610.1 + 1616.2; Europe PMC UK road injuries 2021 + Child Dev 2024. CPSC Halloween safety pages now 404.
+- **Used by cheap-halloween-costumes:** nrf.com (**nrf.com now FULL, 3 posts**); epa.gov textiles; Europe PMC Sci Rep 2025 second-hand, ESPR 2026 textile burning, J Laryngol Otol 2026 button batteries. Costumes used incl. "overworked office vampire".
+- **Used by toddler-halloween-costume-ideas:** Europe PMC Bastos 2021, Bussu 2025, Salles 2022 (MDPI); healthychildren.org car-seat; cpsc.gov small parts (**cpsc.gov FULL? — 3 posts with boys x2 releases; do not cite**).
+- **Used by halloween-movies-on-disney-plus:** disneyplus.com x2; press.disneyplus.com; bbfc.co.uk; filmratings.com; cogitatiopress.com Siles 2025. Dove Press = Taylor & Francis imprint (banned).
+- **Firecrawl credits are low — prefer WebSearch; use Firecrawl only when a page will not fetch otherwise.**
+- **UPDATE: Firecrawl MCP is DISCONNECTED again. Use WebSearch, then DuckDuckGo via ctx_fetch_and_index (§4).**
+- **Used by halloween-face-paint-ideas:** ecfr.gov 21 CFR 70.5 + 73.2995 (ecfr now 2 posts — ONE left); fda.gov Eye Cosmetic Safety (**fda.gov FULL**); Europe PMC Yu & Schalock 2026, Mercan 2024, Mokashi 2025.
+- **Used by what-to-be-for-halloween:** Europe PMC Iyengar & Lepper 2000, Schwartz 2002, Peterson & Cheng 2020, White 2017 Batman Effect.
+- **Used by halloween-costumes-for-school:** dpsk12.org; diefenbaker.sd38.bc.ca; bates.wsd.net; emerson.garvey.k12.ca.us; rockfordschools.org; files.eric.ed.gov Kawash 2011 (eric now 2 posts — ONE left).
+- **Used by pop-culture-halloween-costumes:** the-numbers.com; netflix.com Top 10 x2; trends.withgoogle.com; Europe PMC Lorenz-Spreen 2019.
+- **Used by non-scary-halloween-movies:** darkroom.bbfc.co.uk guidelines; bbfc.co.uk (**bbfc now 2 posts — ONE left**); Europe PMC Kiss 2024 Sci Rep; tidsskrift.dk Leviathan 2024. 12 films incl. Ghost and Mrs Muir, Blithe Spirit, Bell Book and Candle, Arsenic and Old Lace, Clue, Death Becomes Her, Addams Family Values, Little Shop of Horrors, Bhoothnath — movie rows must not lead with these.
+- **BANNED reminder:** Dove Medical Press journals (PRBM, etc.) are Taylor & Francis imprints — never cite.
+- **bbfc.co.uk is FULL (3 posts).** non-scary dropped Zhan & Ding (Dove/T&F).
+- **Used by when-to-put-up-halloween-decorations:** Europe PMC Kamerlin 2024, Hidalgo 2020; gml.noaa.gov solar calc; leg.state.fl.us § 720.3045; ich.unesco.org Día de los Muertos 2008.
+- **SEARCH UPDATE: WebSearch may return a session-cap error and Firecrawl is DISCONNECTED. If WebSearch fails, go straight to DuckDuckGo: ctx_fetch_and_index("https://html.duckduckgo.com/html/?q=<encoded keyword>", "<slug>-serp"), then lite.duckduckgo.com. Label it "DuckDuckGo, lower confidence".**
+- **Used by halloween-tv-episodes:** bbc.co.uk Inside No. 9; tvmaze.com; cogitatiopress.com Siles 2025 (**paper FULL, 2 posts**); Europe PMC Sci Rep 2026. Original networks for 3 shows unsourced (flag in REPORT).
+- **Used by halloween-puns-for-girlfriend:** degruyterbrill.com Miczo & Averbeck 2020 HUMOR; Europe PMC Huh 2025 PLOS ONE; osf.io Holtzman 2020; unicode.org.
+- **JOURNAL CAP: PLOS ONE is FULL (3 posts in b5). Do not cite any PLOS ONE paper.**
+- **Used by halloween-card-for-boyfriend:** Europe PMC Skolarus 2026 Trials, Vannoy 2026 Behav Sci (MDPI); usps.com; royalmail.com; indiapost.gov.in; canadapost PDF.
+- **Used by halloween-garland-ideas:** command.com x2; Europe PMC Saß & Kuhnert 2026 RKI; electricalsafetyfirst.org.uk; london-fire.gov.uk.
+- **Used by halloween-poems-for-boyfriend:** Europe PMC Wassiliwizky 2017, Xu 2026 Commun Biol; gutenberg Burns Halloween; copyright.cornell.edu.
+- **Used by halloween-movie-night-for-couples:** Europe PMC Lüscher 2022 PMC9808656, Coan 2017 PMC5647795; justwatch.com x3. Films: Werewolves Within, Ready or Not, American Werewolf in London, Late Night with the Devil, Under the Shadow, Autopsy of Jane Doe, Talk to Me, The Descent.
+- **Used by halloween-wreath-ideas:** dublincity.ie DFB; Europe PMC Polruang 2025 Sci Rep, Roy 2019 GCB; aspca.org x2.
+- **Used by virtual-halloween-date-ideas:** ucalgary.scholaris.ca Neustaedter & Greenberg 2012; gutenberg Burns; eclipse.gsfc.nasa.gov; zoom.com; workspace.google.com; support.apple.com.
+- **Used by halloween-promposal-ideas:** Europe PMC Givi & Kirk 2024, Gupta 2018, Toledano 2025; bostonprep.org; cbsnews.com. SERP overlap with b4 halloween-proposal-ideas: 6 URLs (cannibalisation risk — REPORT).
+- **Used by romantic-halloween-movies:** filmratings.com, justwatch.com (both FULL); Europe PMC BJPsych Open 2021, Rogge 2013; sas.rochester.edu.
+- **Used by halloween-questions-to-ask-your-boyfriend:** Europe PMC Fornari 2026, Sprecher 2021, West 2025 + Kleinert 2026 (Commun Psychol — journal now 1 post, 2 papers).
+- **Used by halloween-captions-for-boyfriend:** research.uca.ac.uk Such 2017; link.springer.com Curr Psychol 2020; ijoc.org 2015; threads.com (URL now 2). SERP overlap with b2 captions-for-couples ~5 URLs (REPORT).
+- **Used by happy-halloween-my-love:** Europe PMC Aguilar-Raab 2025, Hall 2022; gov.uk; nist.gov; iana.org.
+- **Used by halloween-conversation-starters:** Europe PMC Epley & Schroeder 2014, Mastroianni 2021 PNAS, Atir 2022 PNAS (PNAS now 2 posts? check), Speer 2024 Nat Commun.
+- **Used by vampire-pickup-lines:** gutenberg #345, #6087, #10007; Europe PMC Nakamine 2017, Wade 2018.
+- **Used by halloween-quotes-for-girlfriend:** Europe PMC Bode 2025, Fujisaki 2026 SCAN; copyright.cornell.edu (URL now 2); gutenberg x3.
