@@ -1,0 +1,366 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "How to Build a Halloween Party Playlist That Runs All Night",
+    "slug": "halloween-party-playlist",
+    "excerpt": "Build a Halloween party playlist in five phases, from a 70–100 BPM arrival block to a 115–130 BPM dance peak and a slow wind-down. Includes minutes per phase, 50 example tracks, six crowd mini-sets, runtime maths, a noise cut-off and when a music licence applies.",
+    "metaTitle": "Halloween Party Playlist: 5 Phases With BPM and Minutes",
+    "metaDescription": "A Halloween party playlist built by phase: 5 blocks from arrival to wind-down, with BPM targets, minutes, 50 example tracks, a noise cut-off and licence rules.",
+    "keywords": "halloween party playlist, halloween party songs, halloween playlist bpm, halloween party music order, halloween party music licence",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-party-playlist",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "playlist",
+      "party",
+      "music"
+    ],
+    "keyTakeaways": [
+      "Run a Halloween party playlist in five phases: arrival 70–100 BPM, mingling 100–115, peak dance 115–130, an instrumental contest bed, then a 65–95 BPM wind-down.",
+      "Plan about 16 tracks an hour: the 23 phase tracks timed for this guide averaged 3 minutes 50 seconds, so a 3.5-hour party needs about 55 tracks plus 10% spare.",
+      "In a 2025 EEG study of 80 people dancing in pairs, a brain marker of moving together appeared only when partners could see each other, so keep dance-floor lights low, not off.",
+      "In NSW, amplified music should not reach a neighbour's home after midnight on a Saturday (31 October 2026) or after 10 pm on a Sunday (31 October 2027).",
+      "A home party needs no music licence; a bar, ticketed event or UK workplace generally does (PPL PRS TheMusicLicence in the UK, ASCAP or BMI in the US)."
+    ],
+    "faqs": [
+      {
+        "question": "What BPM should Halloween party music be?",
+        "answer": "Aim for 70–100 BPM while guests arrive, 100–115 while they mingle and 115–130 for the dance block, then drop back to 65–95 to wind down. These are planning targets rather than a published standard, so trust how a track feels over its listed number."
+      },
+      {
+        "question": "How many hours of music should I queue for a 4-hour party?",
+        "answer": "Queue about 4.5 hours, roughly 70 tracks. The tracks timed for this guide averaged 3 minutes 50 seconds, or about 16 an hour, and a 10% spare covers skips and a party that runs late."
+      },
+      {
+        "question": "What should I play first when guests arrive?",
+        "answer": "Play quiet, mid-volume tracks under 100 BPM that sit under conversation, such as Ghost Town by The Specials or Strange Magic by Electric Light Orchestra. Keep the volume at about half of what you plan for the peak."
+      },
+      {
+        "question": "What are good Halloween party songs for young kids?",
+        "answer": "The Purple People Eater by Sheb Wooley, Grim Grinning Ghosts from the Haunted Mansion, Remember Me from Coco and We Don't Talk About Bruno from Encanto all work for ages 4 to 10. Check any pop track for drinking references before adding it."
+      },
+      {
+        "question": "Which Halloween songs are safe for an office party?",
+        "answer": "Witchcraft by Frank Sinatra, Rhiannon by Fleetwood Mac, Magic by Pilot and The Pink Panther Theme are safe picks. Instrumentals are the lowest-risk choice: a 2026 analysis of 6,110 Billboard songs found instrumental tracks less likely to reference alcohol."
+      },
+      {
+        "question": "Who pays for the music at a Halloween night in a pub or bar?",
+        "answer": "The venue does, through its music licence: TheMusicLicence from PPL PRS in the UK, and performing-rights licences such as ASCAP and BMI in the US. A private party at home with friends needs no licence."
+      },
+      {
+        "question": "What time should the music stop on Halloween night?",
+        "answer": "It depends on local rules. In New South Wales, amplified music should not be heard in a neighbour's home after midnight on a Friday or Saturday, so Saturday 31 October 2026 allows until midnight while Sunday 31 October 2027 means 10 pm."
+      },
+      {
+        "question": "Should I turn on crossfade for a party playlist?",
+        "answer": "Yes, 4–6 seconds suits the arrival, mingling and wind-down blocks. Turn it off for a costume contest or game so the music stops cleanly on cue."
+      },
+      {
+        "question": "What non-English songs work at a Halloween party?",
+        "answer": "Monster by EXO and Psycho by Red Velvet (Korean), Kaibutsu by YOASOBI (Japanese), El Muerto Vivo by Peret (Spanish-language Catalan rumba) and Du Hast by Rammstein (German) give a global set with a spooky edge."
+      },
+      {
+        "question": "How do I work out a song's BPM without an app?",
+        "answer": "Tap your foot to the beat for 15 seconds, count the taps and multiply by four. If a database lists a slow song at around 150 BPM, it is probably counting double time."
+      }
+    ],
+    "coverImageQuery": "halloween party speaker dancing costumes",
+    "coverImagePrompt": "A warm, photorealistic living room at a Halloween house party, guests in simple costumes dancing under low orange string lights while a small speaker and a phone showing a playlist sit on a shelf with carved pumpkins. Moody but bright enough to see faces, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# How to Build a Halloween Party Playlist That Runs All Night\n\nA Halloween party playlist works when it follows the party clock in five phases, from a quiet arrival block at 70–100 BPM to a peak dance block at 115–130 BPM, then a contest bed and a wind-down; a 3.5-hour party needs about 55 tracks. Build it early: in SubhSandesh's nearest festival analogue, Raksha Bandhan 2026, 49.4% of pages were built on the day itself, and 86.1% of on-time ones within 24 hours of it.\n\nBelow are the phases with minutes, tempos and example tracks. Then come six mini-sets by crowd, runtime maths, a noise rule and the licence question.\n\n## What is a phase-based Halloween party playlist?\n\nA phase-based playlist is five ordered blocks, each matched to what guests are doing: arriving, talking, dancing, watching a contest, leaving. Each block has a target tempo in beats per minute (BPM) and a length, so energy rises and falls on purpose, not by shuffle.\n\nTo find a track's BPM, tap along for 15 seconds and multiply by four. BPM databases often report double or half the felt tempo: \"Nights in White Satin\" is listed at 157 BPM and feels like about 78.\n\n## The 5 phases of a Halloween party playlist, with BPM and minutes\n\nBracketed BPMs come from a public BPM database, checked October 2026. The ranges are our planning targets, not a published standard.\n\n### 1. Arrival (0–30 minutes): 70–100 BPM\n\nGuests are taking coats, finding drinks and meeting strangers, so the music should sit under conversation. Run it at roughly half the volume you plan for the peak, about 8 tracks long.\n\n- Ghost Town — The Specials (74)\n- Feeling Good — Nina Simone (79)\n- Heathens — Twenty One Pilots (90)\n- Strange Magic — Electric Light Orchestra (95)\n- Witchy Woman — Eagles (99)\n\n### 2. Mingling (30–90 minutes): 100–115 BPM\n\nGroups are forming, so familiar mid-tempo songs give people something to talk about. Plan about 15 tracks and raise the volume a notch every 20 minutes.\n\n- Superstition — Stevie Wonder (100)\n- Black Hole Sun — Soundgarden (105)\n- Spooky — Classics IV (107)\n- Running Up That Hill — Kate Bush (108)\n- Wicked Game — Chris Isaak (113)\n\n### 3. Peak dance block (90–150 minutes): 115–130 BPM\n\nCostumes are on and someone moves the coffee table. Plan about 15 tracks, no ballads, lights low but not off.\n\n- Bad Romance — Lady Gaga (119)\n- Somebody's Watching Me — Rockwell (124)\n- Sweet Dreams (Are Made of This) — Eurythmics (125)\n- Hungry Like the Wolf — Duran Duran (127)\n- You Spin Me Round (Like a Record) — Dead or Alive (128)\n\nKeep the lights up a little, and here is the evidence. In a 2025 *Journal of Neuroscience* study, [Bigand and colleagues recorded EEG from 80 people dancing in pairs](https://europepmc.org/article/PMC/PMC12096039) and found a brain signal for how well partners moved together, present only when they could see each other. Vertical bounce best drove a watching partner's brain activity, so pick bouncy tracks and leave dancers enough light.\n\n### 4. Costume contest and games bed (150–170 minutes): 85–120 BPM, instrumental\n\nDuring a parade or game, sung words compete with the host's voice. Use about 5 instrumentals at half the peak volume that can stop mid-bar unnoticed.\n\n- The Pink Panther Theme — Henry Mancini (117)\n- Main Titles from *Beetlejuice* — Danny Elfman (85)\n- Spooky — Mike Sharpe, the 1967 instrumental original\n- Batman Theme — Neal Hefti (152), a deliberate spike for the winner's walk\n\n### 5. Wind-down (last 30–40 minutes): 65–95 BPM\n\nSlower songs signal the end better than an announcement does. Plan about 8 tracks and drop the volume a notch every 10 minutes.\n\n- Moondance — Van Morrison (67)\n- Nights in White Satin — The Moody Blues (listed 157, felt at half that)\n- Bad Moon Rising — Creedence Clearwater Revival (90)\n- Creep — Radiohead (92)\n- Lullaby — The Cure (94)\n\n## Halloween party playlist phases compared: minutes, BPM and energy\n\nThe table sets out the five phases for a party that runs 210 minutes (3.5 hours). Times are minutes from the first guest's arrival.\n\n| Phase | Minutes | BPM target | Energy | Example track (BPM) |\n|---|---|---|---|---|\n| Arrival | 0–30 | 70–100 | Low | Ghost Town (74) |\n| Mingling | 30–90 | 100–115 | Medium | Spooky (107) |\n| Peak dance | 90–150 | 115–130 | High | Hungry Like the Wolf (127) |\n| Contest and games bed | 150–170 | 85–120, instrumental | Medium | The Pink Panther Theme (117) |\n| Wind-down | 170–210 | 65–95 | Low | Lullaby (94) |\n\nThe peak block gets the most minutes, 60 of 210, but the two low blocks together take 70, which is where most host playlists run out of songs. Build those two blocks first.\n\n## 6 Halloween party mini-sets for different crowds\n\nSwap these in when one group dominates the room. Titles and artists only; play the tracks, never print their words.\n\n### Kids' party (ages 4–10), clean\n\n- The Purple People Eater — Sheb Wooley (1958)\n- Grim Grinning Ghosts — the Haunted Mansion theme, Buddy Baker and X Atencio\n- Remember Me — from *Coco* (2017)\n- We Don't Talk About Bruno — from *Encanto* (2021)\n\n### Teens (13–17)\n\n- Bloody Mary — Lady Gaga (2011; a sped-up version went viral via the *Wednesday* dance, 2022)\n- vampire — Olivia Rodrigo (2023)\n- you should see me in a crown — Billie Eilish\n- Look What You Made Me Do — Taylor Swift (2017)\n\n### Adults 30+, late-1990s and 2000s nostalgia\n\n- Everybody (Backstreet's Back) — Backstreet Boys (1997)\n- Dragula — Rob Zombie (1998)\n- Bring Me to Life — Evanescence (2003)\n- Decode — Paramore (2008, from the *Twilight* soundtrack)\n\n### Office-safe\n\n- Witchcraft — Frank Sinatra (a 1957 song by Cy Coleman and Carolyn Leigh)\n- Rhiannon — Fleetwood Mac (1975)\n- Magic — Pilot (1974)\n- The Pink Panther Theme — Henry Mancini\n\nCheck every kids' and office track for drinking lines, because more danceable songs are likelier to carry one. A 2026 study in [*Alcohol and Alcoholism* by Alen and colleagues](https://europepmc.org/article/PMC/PMC13256229) analysed 6,110 Billboard songs released 1959–2020: 16.1% referenced alcohol, more danceable songs had higher odds (OR 1.35), and instrumental tracks had lower odds (OR 0.85). Tempo itself showed no link.\n\n### No-English global set\n\n- Monster — EXO (Korean, 2016)\n- Psycho — Red Velvet (Korean, 2019)\n- Kaibutsu — YOASOBI (Japanese; the opening theme of the anime *Beastars*)\n- El Muerto Vivo — Peret (Catalan rumba sung in Spanish; the title means \"the living dead man\")\n- Du Hast — Rammstein (German, 1997)\n\n### Horror film scores for background\n\n- Suspiria — Goblin (1977)\n- Main title from *The Shining* — Wendy Carlos and Rachel Elkind (1980)\n- *It Follows* score — Disasterpeace (2014 film)\n- *Hereditary* score — Colin Stetson (2018 film)\n- Sikiliza Kwa Wahenga — Michael Abels, from *Get Out* (2017); Swahili for \"listen to your ancestors\"\n\n## How many songs does a Halloween party playlist need?\n\nPlan on about 16 tracks an hour. The common rule of thumb is 3.5 minutes a song, or 17 an hour, but the 23 timed phase tracks above average 3 minutes 50 seconds, which works out to 15.7 an hour. A 3.5-hour party therefore needs about 55 tracks; add 10% spare, so around 60.\n\nSet crossfade to 4–6 seconds for the low and mid blocks and off for the contest bed, so a stop lands cleanly. Download the playlist for offline play before guests arrive.\n\n## Volume and neighbours: the NSW rule for 31 October 2026 and 2027\n\nNoise rules are local, so check your council. In New South Wales, the [EPA's neighbourhood noise guidance (updated 31 August 2026)](https://www.epa.nsw.gov.au/Your-environment/Noise/neighbourhood-noise/preventing-neighbourhood-noise) says amplified music should not be heard inside a neighbour's home after midnight on a Friday, Saturday or the day before a public holiday, and after 10 pm on other nights.\n\nThat splits the two Halloweens. Saturday 31 October 2026 runs to a midnight cut-off; Sunday 31 October 2027 has a 10 pm cut-off. A fine of $400 ($800 for corporations) may follow if the noise continues within 40 days of a warning, so start the wind-down block 40 minutes before the cut-off.\n\n## Do you need a music licence for a Halloween party playlist?\n\nNot for a party at home with friends. US copyright law defines performing \"publicly\" as playing music [at a place open to the public, or where a substantial number of people outside a normal circle of family and social acquaintances gather (17 U.S.C. §101)](https://www.copyright.gov/title17/92chap1.html). A ticketed event or bar night is public; venues license through organisations such as ASCAP and BMI.\n\nIn the UK, the [PPL PRS licensing FAQ](https://pplprs.co.uk/faqs/) says music played outside a domestic environment counts as a public performance, even if only employees hear it. Music at an office Halloween party is usually covered only if the business holds TheMusicLicence, and PPL PRS can arrange a temporary permit for a one-off event.\n\n## A Halloween card with its own song, for one person\n\nOur [interactive Halloween card with music](https://subhsandesh.in/happy-halloween) is not a party tool but a one-person greeting for the friend who missed it. Its soundtrack is your choice: a YouTube link (sound only, and you can set where it begins), one of eight built-in favourites including \"Monster Mash\", or the spooky music box. Nothing plays until your friend has knocked on the haunted house three times.\n\nIt takes about 5 minutes to make, with up to six photos and a letter. 48.3% of our shared pages are opened on a phone, and the card opens in any phone or laptop browser. The [premium Halloween page timed to your song's chorus](https://subhsandesh.in/happy-halloween-premium) begins the music at the first tap, takes a voice message of up to a minute, and jumps to the chorus when they say yes.\n\n## When a playlist is the wrong tool: 2 limits\n\n- **Over 60 guests or a big room.** A phone and one speaker cannot fill it; hire a DJ or a PA.\n- **The card.** Every screen is English, and sound comes from a single phone or laptop, so it can never soundtrack a room.\n\n## Sources\n\n- Bigand et al. \"EEG of the Dancing Brain.\" *Journal of Neuroscience*, 21 May 2025.\n- Alen et al. \"Song audio features are associated with the presence of alcohol references in popular music lyrics.\" *Alcohol and Alcoholism*, May 2026.\n- NSW Environment Protection Authority. \"Preventing neighbourhood noise,\" updated 31 August 2026.\n- U.S. Copyright Office. Title 17, Chapter 1, §101 definitions.\n- PPL PRS Ltd. TheMusicLicence FAQs.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-party-playlist#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Playlist",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Playlist",
+              "https://www.wikidata.org/wiki/Q1569406"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Tempo",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tempo",
+              "https://www.wikidata.org/wiki/Q189214"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "PRS for Music",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/PRS_for_Music",
+              "https://www.wikidata.org/wiki/Q7120528"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Phonographic Performance Limited",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Phonographic_Performance_Limited",
+              "https://www.wikidata.org/wiki/Q7187282"
+            ]
+          },
+          {
+            "@type": "Legislation",
+            "name": "Copyright Act of 1976",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Copyright_Act_of_1976",
+              "https://www.wikidata.org/wiki/Q3196755"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "New South Wales Environment Protection Authority",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/New_South_Wales_Environment_Protection_Authority",
+              "https://www.wikidata.org/wiki/Q28183426"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "EEG of the Dancing Brain: Decoding Sensory, Motor, and Social Processes during Dyadic Dance",
+            "url": "https://europepmc.org/article/PMC/PMC12096039",
+            "datePublished": "2025-05-21",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Society for Neuroscience (Journal of Neuroscience)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Song audio features are associated with the presence of alcohol references in popular music lyrics",
+            "url": "https://europepmc.org/article/PMC/PMC13256229",
+            "datePublished": "2026-05-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Oxford University Press (Alcohol and Alcoholism)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Preventing neighbourhood noise",
+            "url": "https://www.epa.nsw.gov.au/Your-environment/Noise/neighbourhood-noise/preventing-neighbourhood-noise",
+            "publisher": {
+              "@type": "Organization",
+              "name": "NSW Environment Protection Authority"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Copyright Law of the United States, Title 17, Chapter 1, §101 Definitions",
+            "url": "https://www.copyright.gov/title17/92chap1.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "U.S. Copyright Office"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "PPL PRS Help: TheMusicLicence FAQs",
+            "url": "https://pplprs.co.uk/faqs/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "PPL PRS Ltd"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Halloween party playlist: 5 phases and 6 mini-sets",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 11,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "1. Arrival (0–30 minutes): 70–100 BPM",
+            "description": "70–100 BPM, about 8 tracks, half peak volume; e.g. Ghost Town (74 BPM)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "2. Mingling (30–90 minutes): 100–115 BPM",
+            "description": "100–115 BPM, about 15 tracks; e.g. Superstition (100), Spooky (107)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "3. Peak dance block (90–150 minutes): 115–130 BPM",
+            "description": "115–130 BPM, about 15 tracks, lights low but not off; e.g. Hungry Like the Wolf (127)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "4. Costume contest and games bed (150–170 minutes): 85–120 BPM, instrumental",
+            "description": "Instrumental, 85–120 BPM, about 5 tracks; e.g. The Pink Panther Theme (117)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "5. Wind-down (last 30–40 minutes): 65–95 BPM",
+            "description": "65–95 BPM, about 8 tracks, volume down every 10 minutes; e.g. Lullaby (94)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Kids' party (ages 4–10), clean",
+            "description": "Clean set for ages 4–10: Purple People Eater, Grim Grinning Ghosts, Remember Me, We Don't Talk About Bruno"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Teens (13–17)",
+            "description": "Ages 13–17: Bloody Mary, vampire, you should see me in a crown, Look What You Made Me Do"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Adults 30+, late-1990s and 2000s nostalgia",
+            "description": "1997–2008 picks: Everybody (Backstreet's Back), Dragula, Bring Me to Life, Decode"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "Office-safe",
+            "description": "Witchcraft, Rhiannon, Magic, The Pink Panther Theme"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "No-English global set",
+            "description": "Korean, Japanese, Spanish and German tracks: Monster, Psycho, Kaibutsu, El Muerto Vivo, Du Hast"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "name": "Horror film scores for background",
+            "description": "Suspiria, The Shining main title, It Follows, Hereditary, Sikiliza Kwa Wahenga"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween party playlist",
+    "angle": "Wins by being the only page in its SERP that structures a Halloween party playlist by party phase with minutes, BPM targets and a 3.5-hour runtime calculation from 23 timed tracks, adding the 2026-vs-2027 noise cut-off and the home-vs-venue licence line that no top-5 page (all 2011–2024 song lists) covers, framed by SubhSandesh's Raksha Bandhan lead-time data (49.4% built on the day).",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "Of the 79 Raksha Bandhan 2026 pages finished in time, 55.7% were built on the day itself and 86.1% within 24 hours of it — measured 2026-09-09",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12096039",
+        "stat": "80 participants danced in 40 pairs while EEG was recorded; a neural marker of social coordination between dancers emerged only when partners could see each other, and vertical bounce best drove observers' EEG activity (full text read)",
+        "publishedDate": "2025-05-21"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13256229",
+        "stat": "Of 6,110 Billboard songs released 1959–2020, 16.1% referenced alcohol; higher danceability raised the odds (OR 1.35) and instrumentalness lowered them (OR 0.85); tempo, loudness and energy were not significantly associated (full text read)",
+        "publishedDate": "2026-05-01"
+      },
+      {
+        "url": "https://www.epa.nsw.gov.au/Your-environment/Noise/neighbourhood-noise/preventing-neighbourhood-noise",
+        "stat": "Amplified music should not be heard in a neighbour's residential room before 8 am and after midnight on a Friday, Saturday or day before a public holiday, or after 10 pm on other days; a $400 fine ($800 for corporations) may follow noise continued within 40 days of a warning (page updated 31 August 2026)"
+      },
+      {
+        "url": "https://www.copyright.gov/title17/92chap1.html",
+        "stat": "17 U.S.C. §101: to perform a work 'publicly' means at a place open to the public or where a substantial number of persons outside a normal circle of a family and its social acquaintances is gathered"
+      },
+      {
+        "url": "https://pplprs.co.uk/faqs/",
+        "stat": "Music played outside a domestic environment is classed as a public performance even if only employees hear it; PPL PRS can arrange a temporary permit for an event"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in facts.md (BRIEF §3/§9), and SubhSandesh holds no playlist or party-music data at all. The table's BPM values come from a public BPM database and the phase timings are our planning targets. Re-check when facts.md carries Halloween 2026 page counts or the /happy-halloween music-choice split (YouTube link vs built-in track vs music box); a 'share of senders who pick each built-in track' column would close it."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The NSW EPA neighbourhood-noise page would sit unchanged in a party-ideas or party-themes post; it is kept because it is load-bearing for the wind-down timing (midnight cut-off on Sat 31 Oct 2026 vs 10 pm on Sun 31 Oct 2027). The other four sources (dance EEG, song audio features vs alcohol references, two music-licensing definitions) are specific to playing music at a party. Closes if a source on party-music volume or timing specifically replaces it."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over the five analysed pages, which are 2011–2024 song lists (Daily Meal 2011, Boston Magazine 2012, Daily Collegian 2012, a 2024 personal blog, a Twinkl printable): it alone gives per-phase minutes and BPM targets, measured track runtimes (3:50 average, not the usual 3.5-minute rule), the NSW 2026-vs-2027 cut-off and the private-vs-public licence line with primary sources. The Daily Collegian piece already sketches an ambient-to-dance progression, so the phase idea itself is not new; the numbers are. The first-party data is a Raksha Bandhan analogue, not Halloween data, and the domain is far weaker than the magazines ranking, so expect slow movement."
+    },
+    "generatedAt": "2026-10-13T09:54:11.571Z"
+  }
+}
