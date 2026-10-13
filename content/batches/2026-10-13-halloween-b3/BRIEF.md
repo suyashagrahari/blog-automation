@@ -121,3 +121,54 @@ audit failures, one-line honest assessment, and any brief claim you found false.
   sensitive and say where it was checked.
 
 ## 10. Live spent-source notes (orchestrator appends as rows land)
+- **Used by halloween-in-japan:** jstage.jst.go.jp Sugiura 2025, Europe PMC PLOS ONE Itaewon crowd crush + Obon Mikasa, timeout.com 2024. WebSearch is working again (not capped).
+- **Used by halloween-ideas-for-kids:** Europe PMC Sci Rep 2025 Telangana + Cureus 2022 balloon aspiration; poison.org x2; foodallergy.org Teal Pumpkin (URL 1 post); gutenberg Canterville Ghost.
+- **Used by halloween-costumes-with-no-mask:** healthychildren.org (AAP), fda.gov novelty makeup, Europe PMC PMC8064590 + PMC12422498, disneyworld party page.
+- **Used by halloween-jokes-for-toddlers:** Europe PMC PMC9374637 Hoicka Early Humor Survey, PMC6171116 Mireault 2017, PMC8291289 Mireault & Reddy 2020, PMC12464472 Allison 2025. Rows 134/135 kids/baby captions: avoid these.
+- **Used by halloween-ideas-for-family-of-3:** Europe PMC Reynolds 2025, Yang & Wang 2022, He 2025, Fu 2024.
+- **Used by halloween-party-food-ideas:** Europe PMC Foods 2025 plating colour, PLOS ONE 2023 chef's touch, ACS 2023 dry ice; fda.gov x2 buffets + allergies (fda.gov now 2 in b3 — ONE left). Row 111 snacks: avoid the FDA allergen page.
+- **Used by halloween-costumes-without-buying-anything:** hubbub.org.uk (7m costumes binned, 2017), fairylandtrust.org (2,079 t plastic, 2019), Europe PMC Kroneisen 2021, Singh 2025, Ho 2017 BMJ Case Rep face paint.
+- **Used by halloween-ideas-for-toddlers:** healthychildren.org choking (domain 2 in b3), cdc.gov choking, Europe PMC Craig 2024, Wang 2024 Sci Rep, Brooker 2013.
+- **Used by halloween-jokes-for-adults:** Europe PMC Kamiloğlu 2026, McAuley & Glenwright 2025; ejournals.epublishing.ekt.gr Giapraki 2020; termedia.pl Kruczek 2018.
+- **Used by halloween-in-india:** rbi.org.in holidays, repository.upenn.edu Lukose 2005, journals.umt.edu.pk 2025, epubs.icar.org.in Bhoot Chaturdashi, harpersbazaar.in 2025 events, drikpanchang.
+- **Used by halloween-couple-costume-ideas-simple:** Europe PMC Pan 2016 PMC6867051, Tang 2020 PMC7507397, Moffat 2026 PMC13056352; cpsc.gov art materials.
+- **Used by halloween-snacks-for-kids:** Europe PMC AHA added-sugar statement, Asigbee 2020, Mustafa 2018, Bauer 2017, Gevers 2015; allergyaware.org.au.
+- **Used by halloween-couple-dress-ups:** productsafety.gov.au (via web.archive), cancer.org.au UV, Europe PMC PMC7531871, PMC8753943.
+- **Used by couple-costumes-with-dog:** Europe PMC Ding & Liu 2026 PMC13603805, Gardeweg 2026, Hall 2020; merckvetmanual.com x2; gov.uk microchip.
+- **Used by couple-costumes-with-baby:** safetosleep.nichd.nih.gov, Europe PMC Cole 2020 + Olvera 2025, lullabytrust.org.uk x2. Row 145 baby costumes: prefer other safe-sleep sources or reuse at most once.
+- **Used by halloween-wishes-for-daughter:** Europe PMC Sarkadi 2023, Kullberg 2026, Daddis 2026, Morgan 2024 (journal *Cannabis* — descriptive texting figures only), Arpino 2026.
+- **Used by scary-couple-halloween-costumes:** Europe PMC Chung 2024 PMC11521598, aad.org contact dermatitis (aad 1 post), aao.org lens page, en.wikipedia La Llorona.
+- **Used by movie-couple-costumes:** Europe PMC Wentura & Schuck 2025, Munawar 2018, Mohanty 2023; law.cornell.edu Star Athletica; en.wikipedia DDLJ. SERP overlap with b2 famous couples: 0/10.
+- **Used by halloween-messages-for-friends:** Europe PMC Aknin 2011, Sandstrom 2023, Aknin & Sandstrom 2024, Yen 2026.
+- **Used by unique-couple-halloween-costumes:** Europe PMC Kurtz & Algoe 2015 PMC4779443, Borelli 2024 PMC11245364; figshare Bazzini 2007; cdr.lib.unc.edu Kurtz 2014.
+- **Used by halloween-wishes-in-french:** larousse.fr, vitrinelinguistique.oqlf.gouv.qc.ca, books.openedition.org Lherm 2010, unilim.fr Actes Sémiotiques 2025, montreal.ca, service-public.fr.
+- **Do not work around bot challenges / CAPTCHAs / proof-of-work walls.** If a page blocks automated fetching, skip it (snippet only) and say so.
+- **Used by halloween-party-invitation-wording:** emilypost.com x2, Europe PMC PMC5293197 Meetup attendance, PMC12400901 food-allergy anxiety.
+- **Used by spider-captions-for-instagram:** nhm.ac.uk, australian.museum, Europe PMC Agnarsson 2010, Wardenaar 2017, Veale 2025.
+- **Used by halloween-eve-greetings:** en.wiktionary Halloween/Allhallowtide, ceskylid.avcr.cz Uhrin 2026, PMC7729787 Hidalgo 2020, ich.unesco.org Día de los Muertos.
+- **Used by halloween-messages-for-family:** Europe PMC Tambellini 2026, Arpino 2026 PMC13476080 (now 2 → FULL), Ekoh 2026, Stoebenau 2025; theconversation.com Baulch 2024.
+- **Used by halloween-sweet-messages:** Europe PMC Lim 2024 KIND trial, Housby 2025, Kumar & Epley 2022, Schaefer 2020. **Journal Scientific Reports is at 3 b3 posts → FULL.**
+- **Used by halloween-puns-for-party-invite:** Europe PMC Konovalova & Petrova 2023, Beelders 2026, Miczo & Zhao 2026; en.wiktionary RSVP.
+- **Used by halloween-captions-with-friends:** Europe PMC Howlett 2026, Dunbar 2017; usenix.org Rashidi 2018; en.wikipedia Friendsgiving. SERP overlap with b2 bf captions: 2/9. Row 141 party captions: avoid Rashidi.
+- **Used by halloween-ways-to-say-happy-halloween:** ciccre.uvt.ro Bădescu & Dincă 2023, gutenberg Blain 1912, books.google Ngram, stdict.korean.go.kr, teanglann.ie, en.wiktionary.
+- **Used by halloween-quotes-for-work:** Europe PMC Lee 2023 JMIR, Gholami 2025 BMC Psych, Bartzik 2021 BMC Nursing; gutenberg x3 (Dickens, Irving, Shelley).
+- **Used by halloween-captions-for-dogs:** cogitatiopress.com Vereshchagina 2025, Europe PMC Bouma 2023 + Zhang 2025, help.instagram.com x2 (hashtags, alt text).
+- **Used by halloween-captions-for-facebook:** pewresearch.org (20 Nov 2025), facebook.com policies + help, Europe PMC Hurd 2026, Carlin 2026, Tosuntaş & Griffiths 2026.
+- **Used by halloween-celebration-captions:** Europe PMC Proc R Soc B 2025 mourning, PLOS ONE 2025 intl students, BMC Psych 2023 expat loneliness, IJERPH 2022 Stockholm festival.
+- **Used by halloween-captions-for-kids:** Europe PMC Berg 2024 PMC10918551, Baxter 2025 PMC11734948; medlineplus.gov x2.
+- **Used by halloween-captions-for-baby:** Europe PMC Conti 2024, Doğan Keskin 2023, Pretorius 2024 (JMIR Ped Parent now 3 → FULL), Roche 2026 Infancy.
+- **Used by halloween-food-puns:** Europe PMC Gavrieli 2022, Roose & Mulier 2020 Foods; gov.uk FSA allergens (gov.uk 2 in b3); science.food.gov.uk.
+- **Used by halloween-phrases:** digibug.ugr.es Lázaro Ibarrola 2015, castledown.com Ishii 2013 (VLI journal — published by Castledown, kept), en.wiktionary x2.
+- **Used by halloween-party-captions:** Europe PMC Lurie 2025, Hendriks 2023, Conti 2024 PMC11290302 (now 2 → FULL); support.apple.com Night mode.
+- **Used by halloween-instagram-notes:** help.instagram.com x3 (Notes, Spotify note, Stories; domain 2 in b3), developers.facebook.com, spir.aoir.org 2019, Europe PMC JMIR 2025 teen emoji.
+- **Used by halloween-quotes-for-cards:** Europe PMC KindnessByPost 2023, Anwar 2026; pe.usps.com + usps.com; gutenberg x2.
+- **Used by trick-or-treat-quotes:** cambridge.org Echelbarger 2020, Europe PMC Li 2023, cbc.ca Bathurst 2017, nationalautismassociation.org blue bucket, foodallergy.org Teal Pumpkin (URL now 2 → FULL).
+- **Used by baby-halloween-costume-ideas:** ecfr.gov x2 (1501 — clothing EXEMPT; 1615 — infant garments ≤9m exempt), health.wa.gov.au face paint, Europe PMC van de Kamp & Daanen 2025, Filingeri 2020, Alfawaz 2026.
+- **Used by halloween-costume-ideas-for-women:** pudding.cool pockets, Europe PMC PMC12135448 heels, nps.gov Nellie Bly, womenshistory.org Grace Hopper.
+- **Used by halloween-costume-ideas-for-girls:** Europe PMC x4 (career aspirations, counter-stereotypic toys, appearance games, mobility licences), nhm.ac.uk Mary Anning (nhm 2 in b3). History figures: Anning, Savitribai Phule, Bessie Coleman, Wilma Rudolph, Junko Tabei.
+- **Used by short-halloween-nails:** Europe PMC x3 (nail-biting survey, IJD 675 patients, German hand-hygiene guideline), fda.gov Food Code (**fda.gov FULL in b3**), dermnetnz.org paronychia. SERP overlap with b2 nail posts: 0 real pages shared.
+- **Used by pumpkin-carving-ideas:** extension.sdstate.edu, extension.usu.edu, extension.illinois.edu, Europe PMC Sun 2012 PMC3866743, nfpa.org, epa.gov.
+- **Used by halloween-movie-trivia:** catalog.afi.com x2, Europe PMC Liquin 2026, Büsser 2025, Finch 2026.
+- **Used by halloween-movies-on-netflix:** help.netflix.com x3, netflix.com collection, Europe PMC PMC9524295, PMC12007762. Availability checked on Netflix US 13 Oct 2026 — re-check each October.
+- **Used by halloween-costume-ideas-for-men:** egrove.olemiss.edu Broussard 2009, Europe PMC PMC13583625 + PMC13111975, osf.io preprint, medlineplus.gov (2 in b3).
+- **Used by 90s-halloween-costumes:** Europe PMC Hanson 2025, metmuseum.org x2, books.google Ngram x2.

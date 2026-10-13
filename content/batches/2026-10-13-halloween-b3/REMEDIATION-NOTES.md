@@ -11,3 +11,6 @@
 7. Edit only your own blog JSON (and its research brief if needed).
 
 ## Cross-post notes
+- halloween-wishes-for-daughter cites a paper from the journal *Cannabis* (only its parent–student texting counts). Accurate and disclosed, but may look odd to readers — human review.
+- b3 couple posts (dress-ups, simple, dog, baby, scary, unique, movie) were written in parallel — run a pair-name overlap check across them before commit.
+- JOURNAL-LEVEL CAP (BRIEF §5 "domain or journal ≤3") is NOT enforced by capcheck (it counts hosts; europepmc is exempt). Measured: b1 PLOS ONE 8 / MDPI 9 / Frontiers 4; b2 MDPI 7 / PLOS ONE 4 / BMC Psych 4; b3 so far PLOS ONE 5 / MDPI 4. All are distinct papers in megajournals, not repeated sources. Reported to user as a policy question rather than remediated.
