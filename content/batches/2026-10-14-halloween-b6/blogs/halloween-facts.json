@@ -1,0 +1,352 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Facts You Can Check: 22 Sourced, 6 Popular Ones False",
+    "slug": "halloween-facts",
+    "excerpt": "Halloween facts traced to their sources: mastodons spread wild pumpkins, owls turn 270 degrees, bats can see, candy corn was \"Chicken Feed\". Plus six popular false facts and a kids' list.",
+    "metaTitle": "Halloween Facts With Sources, Plus 6 That Are False",
+    "metaDescription": "Halloween facts with a named source each: owls turn 270 degrees, not 360; bats can see; candy corn began as \"Chicken Feed\". Six viral claims are checked too.",
+    "keywords": "halloween facts, fun halloween facts, halloween facts for kids, false halloween facts, halloween myths",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-facts",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "facts",
+      "kids",
+      "myths",
+      "pumpkins"
+    ],
+    "keyTakeaways": [
+      "Pumpkins were domesticated in the Americas from about 10,000 years ago; wild ones were so bitter that mastodons, not small mammals, spread their seeds (PNAS, 2015).",
+      "Owls turn their heads about 270 degrees in each direction, not 360, helped by 14 neck vertebrae (Johns Hopkins, 2013).",
+      "Bats are not blind, and one tiny pipistrelle can eat up to 3,000 insects a night (Bat Conservation Trust).",
+      "Candy corn was sold as \"Chicken Feed\" and joined Halloween only in the 1950s; 31 October falls about a week before autumn's true midpoint (6–7 November).",
+      "48.3% of views of SubhSandesh shared pages are on a phone, so a forwarded fact is read far from its source; check it first."
+    ],
+    "faqs": [
+      {
+        "question": "What are some fun Halloween facts?",
+        "answer": "Wild pumpkins were so bitter that mostly mastodons ate them and spread their seeds (PNAS, 2015). Owls turn their heads about 270 degrees each way, not 360 (Johns Hopkins, 2013), and candy corn was once sold as \"Chicken Feed\" to farm families."
+      },
+      {
+        "question": "What are good Halloween facts for kids?",
+        "answer": "Pumpkins are fruits because they grow from flowers, bats are not blind, and one tiny pipistrelle bat can eat up to 3,000 insects in a night. Owls have 14 bones in their necks, which is how they turn their heads so far."
+      },
+      {
+        "question": "Is a pumpkin a fruit or a vegetable?",
+        "answer": "In botany it is a fruit, because it develops from a flower. Texas A&M AgriLife's vegetable specialist Joe Masabni explained this in October 2021; we call it a vegetable only because we cook it in savoury dishes."
+      },
+      {
+        "question": "Are bats really blind?",
+        "answer": "No. The Bat Conservation Trust says every bat species can see, flying foxes have strong night vision and nectar-feeding bats see ultraviolet light. British bats lean on echolocation at night because their night vision is weak, much like ours."
+      },
+      {
+        "question": "Can an owl turn its head all the way around?",
+        "answer": "No. A 2013 Johns Hopkins study found owls rotate their heads up to about 270 degrees in either direction. Extra space around the arteries in 12 of their 14 neck vertebrae lets the vessels twist without tearing."
+      },
+      {
+        "question": "Was candy corn invented for Halloween?",
+        "answer": "No. According to the Museum of the Grand Prairie (2023), it was sold as \"Chicken Feed\" to farm families from the late 19th century. It became a Halloween sweet only in the 1950s."
+      },
+      {
+        "question": "Does Halloween fall at the exact midpoint of autumn?",
+        "answer": "Not exactly. Using US Naval Observatory times, the true midpoint falls about 6 November 2026 and 7 November 2027 (UT), so 31 October comes roughly a week early. Halloween's date comes from All Saints' Day on 1 November, not from the sky."
+      },
+      {
+        "question": "How old is the Scots word Hallowe'en?",
+        "answer": "The Dictionary of the Older Scottish Tongue's earliest quotation for \"Hallow evin\" comes from Edinburgh accounts for 1564–5, paying a trumpeter for his work on \"Hallowhevin\". A 1583 poem by Robert Sempill uses \"Hallow ewin\"."
+      },
+      {
+        "question": "Is Halloween really 6,000 years old?",
+        "answer": "There is no record behind the \"4000 BC\" date that some fact lists print. The Scots name reaches back to the 1564–5 Edinburgh accounts, and older roots lie in medieval Irish writing about Samhain, not in any dated prehistoric source."
+      },
+      {
+        "question": "When is Halloween in 2026 and 2027?",
+        "answer": "Halloween is always 31 October. It falls on a Saturday in 2026 and a Sunday in 2027."
+      },
+      {
+        "question": "Can I send a Halloween fact to one person as a card?",
+        "answer": "Yes. The SubhSandesh Halloween card takes about 5 minutes: put the fact in the letter and carve its key word into the pumpkin. The premium page takes about 10 minutes and adds a 60-second voice note and up to 12 photos."
+      }
+    ],
+    "coverImageQuery": "owl bat pumpkin night",
+    "coverImagePrompt": "A photorealistic autumn night scene: a barn owl perched on a fence post with its head turned sharply over its shoulder, a carved pumpkin glowing below and small bats silhouetted against a pale moon. Cool blue and warm orange light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Facts You Can Check: 22 Sourced, 6 Popular Ones False\n\nThese Halloween facts are the ones we could trace to a named primary source: pumpkins began as bitter wild gourds whose seeds turn up in mastodon dung, bats are not blind, owls turn their heads 270 degrees rather than 360, candy corn was once sold as \"Chicken Feed\", and 31 October falls about a week before the true midpoint of autumn. Every fact below names its source and that source's date in the same line.\n\nChecking matters because facts travel on phones: Of 57,456 views of pages shared through SubhSandesh, 48.3% were on a phone, and the average page we host draws 11.1 views, so whatever you forward is reread on a phone screen, far from its source. Below are 22 sourced facts in six groups, six popular \"facts\" that fail a check, a kids' list in simpler words, and a way to send one favourite to one person.\n\n## What makes a Halloween fact verified?\n\nA verified Halloween fact is a claim you can trace to a primary record, such as a study, a dictionary's dated quotation or an official almanac, with that record's date attached. A fact found only in other fact lists is a rumour with good manners.\n\nWe applied one rule: if we could not open the source on 14 October 2026 and read the claim there, the claim stayed out. It removed several claims the top five lists repeat, including a \"4000 BC\" origin date printed without any source.\n\n## 22 Halloween facts in 6 groups, each with its source\n\n### 1. Pumpkins: bitter gourds and mastodons\n\n- Pumpkins, squashes and gourds belong to one genus, *Cucurbita*, and were domesticated several separate times across the Americas, starting about 10,000 years ago.\n- Wild *Cucurbita* fruits are so bitter that humans and most living mammals refuse them. The bitterness comes from compounds called cucurbitacins.\n- Their seeds have been found in mastodon dung deposits, which suggests the giant animals ate the fruit and spread the seeds. When the megafauna died out, wild pumpkins lost their main gardeners, and human farmers took over the job.\n- The team sequenced plastid genomes from 91 samples (19 ancient, 30 modern wild, 42 domestic) and found a previously unknown path to domestication in north-eastern Mexico.\n\n**Source:** [Kistler and colleagues in *PNAS*, published online 16 November 2015](https://europepmc.org/article/PMC/PMC4679018), open access.\n\n### 2. Pumpkins: fruit, not vegetable\n\n- Botanically, a pumpkin is a fruit, because anything that develops from a flower is classed as a fruit. Cucumbers and tomatoes are fruits for the same reason.\n- People call pumpkins vegetables because they cook them in soups and stews.\n\n**Source:** Joe Masabni, vegetable specialist at Texas A&M AgriLife Extension, interviewed by *AgriLife Today* on 26 October 2021.\n\n### 3. Bats: sight, flight and appetite\n\n- Every bat species can see, though eyesight varies. Flying foxes have strong night vision, and bats that feed on nectar can see ultraviolet light.\n- Bats are the only mammals capable of true flight.\n- A tiny pipistrelle bat can eat up to 3,000 insects in a single night.\n- Bats usually have one baby a year and can live for up to 30 years.\n- Bats are more closely related to humans than to mice.\n\n**Source:** [the Bat Conservation Trust's bat facts page](https://www.bats.org.uk/about-bats/fun-facts-about-bats-2), read 14 October 2026; the page carries no publication date.\n\n### 4. Owls: the 270-degree neck\n\n- An owl can rotate its head as much as 270 degrees in either direction, not a full circle.\n- Its neck has 14 vertebrae, and 12 of them have extra room around the vertebral artery, which leaves the vessel slack enough to twist without tearing.\n- Blood pools in small reservoirs under the jaw while the head is turned, so the brain keeps its supply.\n\n**Source:** a Johns Hopkins Medicine imaging study, [reported by *ScienceDaily* on 31 January 2013](https://www.sciencedaily.com/releases/2013/01/130131144102.htm) from the university's release.\n\n### 5. Candy corn: from farm sweet to Halloween sweet\n\n- The invention is attributed to George Renninger, an employee of the Wunderle Candy Company. The Goelitz family firm, founded in Belleville, Illinois, in 1869, bought the recipe.\n- Goelitz sold the kernels as \"Chicken Feed\" to farm families. In the 1880s the same mellowcreme was moulded into chestnuts, turnips, pumpkins and clover leaves.\n- Candy corn had no Halloween link at first. It became a Halloween sweet in the 1950s, once candy and Halloween became tied together.\n- The successor firm, now the Jelly Belly Candy Company, still uses essentially the original recipe, and Brach's is today's largest maker.\n\n**Source:** [the Museum of the Grand Prairie's history of candy corn, 27 October 2023](https://www.museumofthegrandprairie.org/Explore/Blog/the-history-of-candy-corn).\n\n### 6. The calendar and the word\n\n- In 2026 the September equinox fell at 00:05 UT on 23 September and the December solstice falls at 20:50 UT on 21 December. The exact halfway moment is about 22:27 UT on 6 November.\n- In 2027 the same midpoint lands about 04:22 UT on 7 November. Halloween on 31 October (a Saturday in 2026, a Sunday in 2027) arrives roughly a week early.\n- The earliest quotation for the Scots word \"Hallow evin\" in the *Dictionary of the Older Scottish Tongue* comes from Edinburgh's accounts for 1564–5: a payment to John Waddell, trumpeter, for his labours on \"Hallowhevin\".\n- A 1583 satirical poem by Robert Sempill in the same entry describes a witch who had ridden on horseback \"on Hallow ewin\".\n\n**Sources:** equinox and solstice times from the [US Naval Observatory's seasons data for 2026 and 2027](https://aa.usno.navy.mil/api/seasons?year=2026), midpoints our own arithmetic; the word from the [DOST entry \"Hallow evin\" (first published 1963)](https://dsl.ac.uk/entry/dost/hallow_evin).\n\n## Halloween fact groups compared\n\nThe table sets the six groups side by side. Its last column shows what kind of evidence stands behind each.\n\n| Fact group | Source and date | Headline number | Evidence type |\n|---|---|---|---|\n| Pumpkins (groups 1–2) | *PNAS*, 2015; Texas A&M, 2021 | 10,000 years of domestication | Peer-reviewed genetics; expert interview |\n| Bats | Bat Conservation Trust, undated | 3,000 insects a night | Conservation charity |\n| Owls | Johns Hopkins, 2013 | 270 degrees each way | University imaging study |\n| Candy corn | Museum of the Grand Prairie, 2023 | 1950s Halloween link | Museum history |\n| Calendar and word | US Naval Observatory, 2026–27; DOST, 1963 | 6–7 November midpoint | Official almanac; historical dictionary |\n\nThe pumpkin and owl facts rest on the strongest evidence, and the candy-corn story the weakest: it rests on one museum post, and accounts differ on whether Renninger's firm or Goelitz first used \"Chicken Feed\". Treat the candy-corn dates as the softest numbers on this page.\n\n## 6 popular \"Halloween facts\" that are false\n\nEach appears on high-ranking fact lists. Each verdict uses the sources above.\n\n- **\"Owls can turn their heads all the way round.\"** False. The Johns Hopkins study puts the limit at about 270 degrees in either direction.\n- **\"Bats are blind.\"** False. The Bat Conservation Trust says all bat species can see; British bats simply rely more on echolocation at night.\n- **\"Halloween sits exactly midway between the autumn equinox and the winter solstice.\"** False. The true midpoint falls on 6 November 2026 and 7 November 2027 (UT), per the Naval Observatory times.\n- **\"Candy corn was invented for Halloween.\"** False. It was sold as \"Chicken Feed\" to farm families and joined Halloween only in the 1950s, per the Museum of the Grand Prairie.\n- **\"A pumpkin is a vegetable.\"** False in botany. It grows from a flower, so Texas A&M classes it as a fruit.\n- **\"Halloween began 6,000 years ago, in 4000 BC.\"** Unsupported. No list that prints it names a record, and the Scots name reaches back only to the 1564–5 Edinburgh accounts in DOST.\n\n## Halloween facts for kids, in simple words\n\nThese 10 facts are worded for children of roughly 5 to 10. All come from the sources above.\n\n- A pumpkin is a fruit, because it grows from a flower.\n- Long, long ago, wild pumpkins tasted so bitter that most animals would not eat them.\n- Giant animals called mastodons ate them anyway and spread the seeds.\n- People started growing pumpkins about 10,000 years ago.\n- Bats are not blind. Every kind of bat can see.\n- Bats find bugs in the dark by shouting and listening for the echo.\n- One tiny bat can eat up to 3,000 bugs in one night.\n- No other mammal can truly fly. Only bats can.\n- An owl can turn its head about three-quarters of the way round, and it has 14 bones in its neck.\n- Candy corn was once sold as \"Chicken Feed\".\n\n## Sending one Halloween fact to one person\n\nSubhSandesh's Halloween pages are one-person greeting pages, not a classroom quiz or party tool. They suit the one friend, partner or child who loves odd facts.\n\nOn [the interactive Halloween card with photos](https://subhsandesh.in/happy-halloween), write your favourite fact into the letter they read by flashlight and carve its key word, BATS or 270, into the pumpkin; it takes about 5 minutes and holds up to six photos. In Kids tone the ghosts are round and blushing, and nothing jumps out. For more room, [the premium Halloween page with a voice note](https://subhsandesh.in/happy-halloween-premium) takes about 10 minutes and gives you up to 12 photos, a 60-second voice note and candies that each carry a line, one fact per candy.\n\nOn our platform, 90.9% of started pages are published and shared, so the build rarely stalls. If the person would rather skip Halloween altogether, [the full template gallery](https://subhsandesh.in/templates) has non-Halloween pages for the same link-sharing habit.\n\n## When a fact list, or a card, is the wrong choice\n\n- **A whole class or party.** These pages greet one person; for a class or party, print the kids' list.\n- **Facts that change.** The bat page is undated and the candy-corn history is a 2023 museum post, so recheck before quoting them in print after 2027.\n- **A reader without English.** The Halloween pages' interface is English only.\n- **Exam answers.** The owl study is a single 2013 imaging study, and the \"Chicken Feed\" origin is disputed; cite the primary source, not this page.\n\n## Sources\n\n- Kistler L. et al., *Cucurbita* domestication and megafaunal extinction, *PNAS*, 16 November 2015.\n- Bat Conservation Trust, \"Bat facts\", undated, read 14 October 2026.\n- Johns Hopkins Medicine, owl head-rotation study, via *ScienceDaily*, 31 January 2013.\n- Museum of the Grand Prairie, \"The History of Candy Corn\", 27 October 2023.\n- US Naval Observatory, Earth's seasons data for 2026 and 2027, read 14 October 2026.\n- *Dictionary of the Older Scottish Tongue*, \"Hallow evin\", first published 1963.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-facts#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Cucurbita",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Cucurbita",
+              "https://www.wikidata.org/wiki/Q5339301"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Owl",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Owl",
+              "https://www.wikidata.org/wiki/Q25222"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bat",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bat",
+              "https://www.wikidata.org/wiki/Q28425"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Candy corn",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Candy_corn",
+              "https://www.wikidata.org/wiki/Q12054162"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Gourds and squashes (Cucurbita spp.) adapted to megafaunal extinction and ecological anachronism through domestication",
+            "url": "https://europepmc.org/article/PMC/PMC4679018",
+            "datePublished": "2015-11-16",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Proceedings of the National Academy of Sciences (via Europe PMC)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Bat facts",
+            "url": "https://www.bats.org.uk/about-bats/fun-facts-about-bats-2",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Bat Conservation Trust"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Owl mystery unravelled: how owls rotate their heads without cutting off blood supply to the brain",
+            "url": "https://www.sciencedaily.com/releases/2013/01/130131144102.htm",
+            "datePublished": "2013-01-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ScienceDaily / Johns Hopkins Medicine"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The History of Candy Corn",
+            "url": "https://www.museumofthegrandprairie.org/Explore/Blog/the-history-of-candy-corn",
+            "datePublished": "2023-10-27",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Museum of the Grand Prairie"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Earth's Seasons: Equinoxes, Solstices, Perihelion, and Aphelion (2026)",
+            "url": "https://aa.usno.navy.mil/api/seasons?year=2026",
+            "publisher": {
+              "@type": "Organization",
+              "name": "US Naval Observatory"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hallow evin (Dictionary of the Older Scottish Tongue)",
+            "url": "https://dsl.ac.uk/entry/dost/hallow_evin",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Dictionaries of the Scots Language"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Halloween facts in 6 groups, each with its source",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 6,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Pumpkins: bitter gourds and mastodons",
+            "description": "Cucurbita domesticated from ~10,000 years ago; wild fruits bitter; seeds in mastodon dung (PNAS 2015)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Pumpkins: fruit, not vegetable",
+            "description": "A pumpkin is botanically a fruit because it develops from a flower (Texas A&M AgriLife, 2021)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Bats: sight, flight and appetite",
+            "description": "All bats can see; only true flying mammals; a pipistrelle eats up to 3,000 insects a night (Bat Conservation Trust)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Owls: the 270-degree neck",
+            "description": "Owls rotate heads up to 270 degrees each way; 14 neck vertebrae (Johns Hopkins, 2013)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Candy corn: from farm sweet to Halloween sweet",
+            "description": "Sold as 'Chicken Feed' to farm families; tied to Halloween only from the 1950s (Museum of the Grand Prairie, 2023)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "The calendar and the word",
+            "description": "Equinox-solstice midpoint 6 Nov 2026 / 7 Nov 2027 UT (USNO); 'Hallowhevin' in 1564-5 Edinburgh accounts (DOST)"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween facts",
+    "absorbs": [
+      "fun halloween facts",
+      "halloween facts for kids"
+    ],
+    "rank": 269,
+    "angle": "Wins by being the only Halloween facts page that names a dated primary source for every fact, debunks six viral claims (including the 360-degree owl and the 'exactly halfway' calendar myth, with USNO midpoint dates for 2026 and 2027), and gives a separate kids' list, framed by SubhSandesh's 48.3% phone-open rate for shared pages.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC4679018",
+        "stat": "Kistler et al., PNAS 112(49), published online 16 Nov 2015 (PMC4679018, full text read): Cucurbita domesticated several times across the Americas beginning ~10,000 years ago; wild forms unpalatably bitter to humans and other extant mammals (cucurbitacins); seeds present in mastodon dung deposits; plastid genomes of 91 samples (19 ancient, 30 modern wild, 42 domestic); previously unknown domestication pathway in northeastern Mexico",
+        "publishedDate": "2015-11-16"
+      },
+      {
+        "url": "https://www.bats.org.uk/about-bats/fun-facts-about-bats-2",
+        "stat": "Bat Conservation Trust 'Bat facts': bats are not blind, all species can see; flying foxes have great night vision; nectar feeders see UV; UK bats rely on echolocation; only true flying mammals; tiny pipistrelle eats up to 3,000 insects a night; closer to humans than mice; usually one baby a year, live up to 30 years (undated page, read 2026-10-14)"
+      },
+      {
+        "url": "https://www.sciencedaily.com/releases/2013/01/130131144102.htm",
+        "stat": "Johns Hopkins Medicine release via ScienceDaily, 31 Jan 2013: owls rotate heads by as much as 270 degrees in either direction; 12 of the 14 cervical vertebrae have extra space around the vertebral artery; blood pools in contractile reservoirs at the base of the head",
+        "publishedDate": "2013-01-31"
+      },
+      {
+        "url": "https://www.museumofthegrandprairie.org/Explore/Blog/the-history-of-candy-corn",
+        "stat": "Museum of the Grand Prairie, 27 Oct 2023: Goelitz founded 1869 Belleville IL, moved to Ohio 1889, bought candy corn recipe from Wunderle Candy Co (invention attributed to George Renninger); marketed as 'Chicken Feed' to farmers; 1880s mellowcreme chestnuts, turnips, pumpkins, clover leaves; no Halloween association until 1950s; Jelly Belly still uses essentially same recipe; Brach's largest maker",
+        "publishedDate": "2023-10-27"
+      },
+      {
+        "url": "https://aa.usno.navy.mil/api/seasons?year=2026",
+        "stat": "US Naval Observatory seasons API: 2026 September equinox 23 Sep 00:05 UT, December solstice 21 Dec 20:50 UT (2027: 23 Sep 06:02, 22 Dec 02:42 UT, read via ?year=2027); midpoints 6 Nov 2026 ~22:27 UT and 7 Nov 2027 ~04:22 UT are our arithmetic"
+      },
+      {
+        "url": "https://dsl.ac.uk/entry/dost/hallow_evin",
+        "stat": "DOST 'Hallow evin' (first published 1963, DOST Vol. III): Hallowe'en, shortened from Alhallow evin; quotations 1564-1684; 1564-5 Edinburgh Old Accounts payment to John Waddell, trumpeter, 'for his laubours on Hallowhevin'; 1583 Sempill: a witch 'On horsback on Hallow ewin'"
+      }
+    ],
+    "structuralLimitations": [
+      "No Halloween usage data in facts.md; first-party facts are platform-wide.",
+      "SERP: WebSearch (US index), 1 query; 9 results returned = news.usps.com (2019 employee news), educatorstechnology.com, news.fit.edu (x2, 2015), momtrends.com (2019), three syndicated NBC affiliate copies of a TODAY 2022 list, theplainsman.com (2015 student paper). Weak count 6 of 9 (all but the NBC copies), matching PLAN weak=6. Overlap with halloween-trivia-questions SERP domains: 0.",
+      "Second WebSearch was used for source discovery (candy corn history); owl source found via one DuckDuckGo HTML query (lower confidence). Johns Hopkins and Smithsonian pages returned 403, so the JHU release was read on ScienceDaily.",
+      "Pumpkin-is-a-fruit fact attributed inline to Texas A&M AgriLife Today (26 Oct 2021, fetched and read) but not linked, to stay within 6 outbound links; it is not in sources/citation.",
+      "Brief asked for giant-pumpkin science, US/UK production and candy chemistry: giant-pumpkin record and USDA ERS production figures are already owned by b5 halloween-trivia-questions, so omitted; no open source on candy corn chemistry was read, so only the 'mellowcreme' description from the museum is used. UK pumpkin production: no source fetched.",
+      "Brief claim checked: 'language (the word Halloween first attested) not yet owned' is only partly true — b4 what-does-halloween-mean already gives Etymonline's c.1300 and 1560s dates. This post adds only the DOST 1564-5 Edinburgh quotation (new detail), uses dsl.ac.uk's last slot.",
+      "Brief claim checked: Halloween as cross-quarter day — the equinox-solstice time midpoint is 6 Nov 2026 22:27 UT and 7 Nov 2027 04:22 UT, so 31 Oct is about a week early; b4 why-is-halloween-celebrated says 'roughly halfway', which is loose but not false.",
+      "Candy corn: the SERP credits Renninger/Wunderle with the 'Chicken Feed' name; the museum source credits Goelitz. The post states the disagreement."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in content/facts.md (BRIEF §3). The table compares fact groups by source, date and evidence type; a platform-wide number such as 48.3% phone opens says nothing about owls or pumpkins and would be a forced column. Closes when a read-only probe of /happy-halloween pages exists after 31 October 2026 (e.g. share of letters containing a fact or quiz line)."
+        }
+      ],
+      "honestAssessment": "Every competing top-10 page is an unsourced listicle, several repeating false claims (Celtic costume origin as fact, a 4000 BC date); this is the only one attaching a dated primary source to each fact and debunking six claims, including a calendar myth with USNO-computed midpoints no rival prints. Domain authority is far below NBC/TODAY syndication, the first-party numbers are platform-wide rather than Halloween-specific, and ranking will take months if it comes at all."
+    },
+    "generatedAt": "2026-10-14T09:26:59.801Z"
+  }
+}

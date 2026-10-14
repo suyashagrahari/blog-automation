@@ -1,0 +1,340 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Statistics: Spending, Turnout, Safety and Search Data",
+    "slug": "halloween-statistics",
+    "excerpt": "Halloween statistics with the method shown: NRF's $13.5bn US forecast (7,889 surveyed, ±1.1 pts), spending since 2005 with inflation, US and UK turnout, candy, costumes, pets, pumpkins, injuries, search interest and the myths that circulate without a source.",
+    "metaTitle": "Halloween Statistics, Every Number Dated and Sourced",
+    "metaDescription": "Halloween statistics with methods: $13.5bn US forecast (7,889 surveyed, ±1.1 pts), 74% celebrating vs 28% in Britain, spending since 2005, pumpkins and safety.",
+    "keywords": "halloween statistics, halloween spending statistics, how much do americans spend on halloween, halloween participation rate, halloween uk statistics, halloween pumpkin production",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-statistics",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "statistics",
+      "spending",
+      "data"
+    ],
+    "keyTakeaways": [
+      "US Halloween spending is forecast at $13.5 billion for 2026, or $115.14 a person, from an NRF survey of 7,889 people taken 1–9 September 2026 (±1.1 points).",
+      "After CPI-U inflation, the per-person Halloween budget is up about 41% since 2005, not the 137% the nominal dollars show.",
+      "74% of Americans planned to celebrate in 2026, but only 28% of British adults did in YouGov's October 2024 poll, and 44% of Britons prefer Bonfire Night.",
+      "Halloween is not the second-biggest US commercial holiday on NRF's own 2026 numbers: Mother's Day ($38bn), Valentine's Day ($29.1bn) and Easter ($24.9bn) all rank higher.",
+      "On 31 October 2025 the English Wikipedia Halloween article drew 269,293 views, about 169 times its median day."
+    ],
+    "faqs": [
+      {
+        "question": "What do Americans spend the most on for Halloween?",
+        "answer": "Costumes, narrowly. NRF's 2026 survey puts costumes at $4.4 billion, decorations at $4.3 billion and candy at $4.1 billion, out of $13.5 billion in total; candy is bought by the most people, 96% of shoppers."
+      },
+      {
+        "question": "Has Halloween spending really gone up once you allow for inflation?",
+        "answer": "Yes, but by far less than the raw dollars suggest. NRF's per-person budget rose from $48.48 in 2005 to $115.14 in 2026, a 137% nominal rise; adjusted with the CPI-U, the 2005 figure is about $81.69 in August 2026 dollars, so the real rise is about 41%."
+      },
+      {
+        "question": "What percentage of Americans celebrate Halloween?",
+        "answer": "74% of NRF respondents planned to celebrate in 2026, against 53% in 2005 and a pandemic low of 58% in 2020. The survey has a margin of error of plus or minus 1.1 percentage points."
+      },
+      {
+        "question": "Do Britons prefer Halloween or Bonfire Night?",
+        "answer": "Guy Fawkes Night comes out well ahead. In YouGov's October 2024 poll of 2,121 GB adults, 44% preferred Guy Fawkes Night and 16% Halloween, and only 28% planned to celebrate Halloween at all."
+      },
+      {
+        "question": "Is Halloween the second-biggest commercial holiday in the US?",
+        "answer": "Not on the National Retail Federation's own numbers. Its 2026 surveys put Mother's Day at $38 billion, Valentine's Day at $29.1 billion and Easter at $24.9 billion, all above Halloween's $13.5 billion, and the November to December season tops $1 trillion."
+      },
+      {
+        "question": "What do people dress their pets as for Halloween?",
+        "answer": "A pumpkin is the top pet costume in NRF's 2026 survey at 11.6%, then a hot dog at 5.9% and a ghost at 2.8%. Pet costumes take $0.92 billion of the 2026 Halloween budget."
+      },
+      {
+        "question": "When will the 2026 US pumpkin harvest figures be published?",
+        "answer": "In 2027. USDA surveys the top pumpkin-producing states and publishes the following year, which is why the latest figure, updated 29 September 2026, describes the 2025 crop of 1.47 billion pounds from 68,100 acres."
+      },
+      {
+        "question": "How many people are injured on Halloween each year?",
+        "answer": "The Consumer Product Safety Commission estimated an average of 3,200 Halloween-related emergency department visits a year in a release dated 18 October 2022. Pumpkin carving caused 55% of them and falls 25%."
+      },
+      {
+        "question": "Is chocolate poisoning in dogs more common at Halloween?",
+        "answer": "Not measurably in UK vet records. A 2017 Veterinary Record study of 386 chocolate cases found Christmas raised the odds 4.74 times and Easter 1.97 times, while Halloween's 1.55 was not statistically significant; keep chocolate out of reach anyway."
+      },
+      {
+        "question": "When does online interest in Halloween peak?",
+        "answer": "On the day itself. The English Wikipedia Halloween article drew 269,293 views on 31 October 2025, about 169 times its median day, and half its 2025 views came in October."
+      },
+      {
+        "question": "How reliable is the NRF Halloween survey?",
+        "answer": "It is consistent, run every year since 2005 with Prosper Insights & Analytics, and its percentages carry a stated margin of error of 1.1 points. Its limits are that it records intentions in early September and reports nominal dollars."
+      }
+    ],
+    "coverImageQuery": "halloween pumpkins shopping receipt chart",
+    "coverImagePrompt": "A clean flat-lay photograph of a small carved pumpkin, a handful of wrapped sweets and a printed bar chart on cream paper, lit by soft autumn window light. Muted orange and charcoal palette, shallow depth of field, generous negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Statistics: Spending, Turnout, Safety and Search Data\n\nHalloween statistics start with one survey: US consumers plan to spend $13.5 billion on Halloween in 2026, or $115.14 a head, and 74% plan to celebrate, per the National Retail Federation's poll of 7,889 people taken 1 to 9 September 2026 (margin of error ±1.1 points). Britain is a different country: 28% of adults told YouGov in October 2024 that they would celebrate.\n\nEvery figure here carries its source, survey date and sample, because a number without a denominator is just a rumour. We apply the same rule to ourselves. Of 57,456 logged views of SubhSandesh pages, 27,725 (48.3%) happened on phones, and each page averages 11.1 views; neither is a Halloween figure. Below: spending back to 2005, turnout, candy, costumes, pets, pumpkins, injuries, search interest, the myths, and how to read all of it.\n\n## How much do Americans spend on Halloween?\n\nThe NRF has run its Halloween survey, fielded by Prosper Insights & Analytics, every year since 2005. The [2026 release, dated 22 September 2026](https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion), forecasts $13.5 billion in total, up from a record $13.1 billion in 2025.\n\nThe long series on [NRF's Halloween data centre](https://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center) shows the climb is not smooth. Totals there start in 2010 at $5.8 billion, fall back in 2013 ($7 billion), 2015 ($6.9 billion), 2020 ($8 billion) and 2024 ($11.6 billion), then reach $13.5 billion in 2026.\n\nPer-person budgets go back further: $48.48 in 2005, $86.27 in 2019, $102.74 in 2021 and $115.14 in 2026. That nominal jump is 137%. Adjusted with the Bureau of Labor Statistics CPI-U (198.8 in September 2005, 334.980 in August 2026), the 2005 budget is about $81.69 in today's money, so the real rise is closer to 41%.\n\nDiscount stores lead (39%), ahead of specialty Halloween stores (32%) and online (27%); local small businesses drew 13%, against 7% in 2016. By category, the 2026 money splits like this:\n\n- Decorations: $4.3 billion, bought by 78% of shoppers\n- Costumes for children, adults and pets: $4.4 billion, 71% buying\n- Candy: $4.1 billion, 96% buying\n- Greeting cards: $0.8 billion, 42% buying, up from 38% in 2025\n\n## How many people celebrate Halloween in the US and UK?\n\nIn the US, 74% of NRF respondents planned to celebrate in 2026. The same question gave 53% in 2005, 72% in 2012, 68% in 2019 and a pandemic low of 58% in 2020. The top activities planned for 2026 are handing out candy (61%), decorating the home or yard (42%), carving a pumpkin (42%) and watching scary films (42%).\n\nThe Census Bureau sizes the night itself. Its [Facts for Features release of 8 October 2026](https://www.census.gov/newsroom/facts-for-features/2026/halloween.html) counts 72.0 million children under 18 as of 1 July 2025, and 132.7 million occupied homes in 2024. Of those homes, 56.6 million had steps up to the door in the 2023 American Housing Survey.\n\nBritain celebrates far less. [YouGov's poll of 2,121 GB adults](https://yougov.com/en-gb/articles/50833-how-do-britons-feel-about-halloween), fielded 16 to 17 October 2024 and published 31 October, found 28% planning to celebrate and 66% not. Age divides opinion: 54% of adults aged 18–24 view the night positively, against 12% of over-65s.\n\nAmong British celebrants, 55% planned to hand out treats, 44% to carve a pumpkin and 23% to go trick-or-treating. Bonfire Night (5 November) still wins: 44% of Britons prefer it, against 16% for Halloween.\n\n## Candy, costume, pet and pumpkin statistics\n\n### 1. Candy\n\nCandy is the near-universal purchase: between 94% and 96% of NRF buyers have planned to buy it every year from 2010 to 2026. The 2026 total is $4.1 billion. No pounds-of-candy figure appears in the NRF or Census releases; the Census does count 3,409 US confectionery and nut stores and 280 establishments making products from cacao beans, both from 2023 County Business Patterns (employers only).\n\n### 2. Costumes\n\nNRF's rankings are survey shares scaled up to the population, so read them as estimates. Spider-Man heads the 2026 children's list at 4.6 million; a generic superhero (2.3 million), princesses (2.2 million), and witches and ghosts (1.6 million apiece) follow. Among adults, 4.8 million plan a witch and 4.2 million a vampire, ahead of Batman at 2 million, Spider-Man at 1.5 million and ghosts at 1.4 million. The Census counted 681 formal wear and costume rental businesses in 2023.\n\n### 3. Pet costumes\n\nPet costumes get $0.92 billion of the 2026 budget. The top choice, a pumpkin, was named by only 11.6% of pet-costume buyers, then a hot dog (5.9%) and a ghost (2.8%). No pet costume dominates the way witch does for adults.\n\n### 4. Pumpkins\n\nThe USDA Economic Research Service [pumpkin statistics page (revised 29 September 2026)](https://www.ers.usda.gov/newsroom/trending-topics/pumpkins-background-statistics), puts the 2025 crop at 1.47 billion pounds from 68,100 acres. That is 4% above 2024 but 7% under the 2022 to 2024 average of 1.58 billion pounds.\n\nFive states grew nearly 72% of it, and each American had about 5.2 pounds of pumpkin available in 2025, against roughly 4 pounds a year in 2001 to 2004. USDA surveys only the top-producing states and publishes the next year, so the 2026 crop figure will not exist until 2027.\n\n## Halloween safety statistics: injuries and pets\n\nIn a release dated 18 October 2022, the Consumer Product Safety Commission put Halloween emergency department visits at about 3,200 a year, averaged over the prior three years. Pumpkin carving caused 55%, falls 25%, and costume, decoration, ingestion and allergy cases the remaining 20%. Adults were 54% of the injured.\n\nThe share moves with the window: a year earlier the agency gave 3,600 a year and 48% from carving, so quote the release date with any CPSC figure.\n\nFor pets, the best data is British. A [2017 Veterinary Record study](https://europepmc.org/article/PMC/PMC5749306) searched 2.7 million consultation records from 229 UK practices (November 2012 to May 2017) and found 386 chocolate-exposure cases. Christmas raised the odds of a dog being seen for chocolate 4.74 times and Easter 1.97 times, but Halloween's 1.55 was not statistically significant (95% CI 0.97 to 2.46).\n\nNot significant is not the same as safe: the UK sample could not separate Halloween from an ordinary week, though the authors note German and US reviews did.\n\n## Halloween search interest by month\n\nGoogle Trends scores interest 0 to 100 relative to the busiest point in the chosen window, so it shows shape, not volume. Its data endpoint refused our automated requests on 14 October 2026, so we used a public count instead.\n\nThe Wikimedia pageviews API counts human views of the English Wikipedia \"Halloween\" article. In 2025 the article drew 1,781,744 views, and 50.1% of them came in October. On 31 October 2025 it took 269,293 views, about 169 times its median day of 1,594.\n\nAnnual views fell 41%, from 3,002,384 in 2023 to 1,781,744 in 2025, while NRF turnout rose. A pageview series measures one website; people may now get the answer before they click.\n\n## Halloween statistics that circulate without a source\n\n**\"Halloween is the second-biggest commercial holiday.\"** NRF's own 2026 surveys contradict it. Mother's Day is forecast at $38 billion, Valentine's Day at $29.1 billion and Easter at $24.9 billion, all above Halloween's $13.5 billion, and the November to December season tops $1 trillion. The baskets differ, but on no NRF figure is Halloween second.\n\n**Pounds of candy sold.** Poundage totals for Halloween candy are widely shared, yet neither the NRF nor the Census releases above publishes one. Until a source with a method appears, treat any poundage number as unsourced.\n\n**\"A record year.\"** NRF's 2026 total is the highest nominal figure in its series, and \"record\" is true in that sense. After inflation, the 2026 per-person budget is about 41% above 2005, not the 137% the raw dollars suggest.\n\n## How to read Halloween statistics\n\nFive questions sort a usable number from a viral one. Who was asked, when, how many, what was measured (plans, sales or counts), and whether the figure is adjusted for inflation. The table below compares the main sources used above on those terms.\n\n| Source | What it counts | Sample and date | Main caveat |\n|---|---|---|---|\n| NRF and Prosper | Planned spending by US consumers | 7,889 people, 1–9 Sep 2026, ±1.1 pts | Plans, not receipts; nominal dollars |\n| YouGov | GB adults' plans and views | 2,121 adults, 16–17 Oct 2024 | Two years old; no spending figure |\n| US Census Bureau | Children, homes, businesses | ACS 2024, AHS 2023, CBP 2023 | Mixes surveys and years |\n| USDA ERS | Pumpkin crop | 68,100 acres, 2025 crop | Top states only; out a year later |\n| CPSC | ER-treated injuries | 3,200 a year, released Oct 2022 | National estimate; window shifts |\n\nThe ±1.1 points applies to NRF percentages. The dollar totals are those answers scaled up, so they carry extra uncertainty the release does not state.\n\nWatch for silent source switches. The Census's 2025 release gave 133.2 million occupied homes from the 2023 American Housing Survey; its 2026 release gives 132.7 million from the 2024 American Community Survey. The drop is a change of survey, not of homes.\n\n## One Halloween message for one person\n\nStatistics describe crowds. A greeting page is for a single person on 31 October (a Saturday in 2026, a Sunday in 2027); it won't run a party or a classroom quiz.\n\nFor that one person there are two pages. The [regular Halloween card, where they carve a pumpkin and answer \"Will you be my boo?\"](https://subhsandesh.in/happy-halloween) is roughly a five-minute build with room for six photos. The [premium Halloween page with your recorded voice and a timed unlock](https://subhsandesh.in/happy-halloween-premium) needs about ten minutes, fits 12 photos plus up to 60 seconds of audio, and lets them write back.\n\nAcross our platform, 9 in 10 started pages (90.9%) end up published and shared. For someone who skips Halloween, [the full template gallery](https://subhsandesh.in/templates) covers other occasions; none of these suit a group, someone who won't open a link, or a reader who needs a non-English interface.\n\n## Sources\n\n- National Retail Federation, [2026 Halloween consumer survey release](https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion), 22 September 2026.\n- National Retail Federation, [Halloween data centre](https://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center), 2005–2026 series, accessed 14 October 2026.\n- US Census Bureau, [Facts for Features: Halloween](https://www.census.gov/newsroom/facts-for-features/2026/halloween.html), CB26-FF.08, 8 October 2026.\n- YouGov, [How do Britons feel about Halloween?](https://yougov.com/en-gb/articles/50833-how-do-britons-feel-about-halloween), 31 October 2024.\n- USDA Economic Research Service, [pumpkin background and statistics page](https://www.ers.usda.gov/newsroom/trending-topics/pumpkins-background-statistics), page update of 29 September 2026.\n- Noble et al., [Heightened risk of canine chocolate exposure at Christmas and Easter](https://europepmc.org/article/PMC/PMC5749306), Veterinary Record, 2017 (CC BY).\n- Also named, unlinked: CPSC news release, 18 October 2022; BLS CPI-U series CUUR0000SA0; Wikimedia pageviews API; NRF Mother's Day, Valentine's Day and Easter 2026 pages.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-statistics#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "National Retail Federation",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/National_Retail_Federation",
+              "https://www.wikidata.org/wiki/Q6978097"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "United States Census Bureau",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/United_States_Census_Bureau",
+              "https://www.wikidata.org/wiki/Q637413"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "YouGov",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/YouGov",
+              "https://www.wikidata.org/wiki/Q1470929"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "Economic Research Service",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Economic_Research_Service",
+              "https://www.wikidata.org/wiki/Q3718734"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "NRF Halloween Survey Shows Consumer Spending Expected to Reach $13.5 Billion",
+            "url": "https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion",
+            "datePublished": "2026-09-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Retail Federation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween Data Center",
+            "url": "https://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Retail Federation"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Halloween: October 31, 2026 (Facts for Features CB26-FF.08)",
+            "url": "https://www.census.gov/newsroom/facts-for-features/2026/halloween.html",
+            "datePublished": "2026-10-08",
+            "publisher": {
+              "@type": "Organization",
+              "name": "U.S. Census Bureau"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "How do Britons feel about Halloween?",
+            "url": "https://yougov.com/en-gb/articles/50833-how-do-britons-feel-about-halloween",
+            "datePublished": "2024-10-31",
+            "publisher": {
+              "@type": "Organization",
+              "name": "YouGov"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pumpkins: Background & Statistics",
+            "url": "https://www.ers.usda.gov/newsroom/trending-topics/pumpkins-background-statistics",
+            "publisher": {
+              "@type": "Organization",
+              "name": "USDA Economic Research Service"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Heightened risk of canine chocolate exposure at Christmas and Easter",
+            "url": "https://europepmc.org/article/PMC/PMC5749306",
+            "datePublished": "2017-12-20",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Veterinary Record (British Veterinary Association, via Europe PMC)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Candy, costume, pet and pumpkin statistics",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Candy",
+            "description": "$4.1bn in 2026; 94–96% of NRF buyers plan to buy candy every year 2010–2026; no published poundage figure"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Costumes",
+            "description": "NRF 2026 estimates: witch 4.8m adults, Spider-Man 4.6m children; scaled survey shares"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Pet costumes",
+            "description": "$0.92bn in 2026; pumpkin 11.6%, hot dog 5.9%, ghost 2.8%"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Pumpkins",
+            "description": "1.47bn lb from 68,100 acres in 2025 (USDA ERS); 2026 crop published in 2027"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween statistics",
+    "absorbs": [
+      "halloween spending statistics"
+    ],
+    "rank": 281,
+    "angle": "Wins by being the only Halloween statistics page that prints every figure's sample, survey date and margin of error, inflation-adjusts NRF's per-person series back to 2005 (+41% real vs +137% nominal), adds a non-retailer UK source and an original Wikipedia-pageview measure of search interest, and debunks the 'second-biggest holiday' claim with NRF's own numbers, framed by SubhSandesh's habit of printing denominators (48.3% of 57,456 views on a phone).",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion",
+        "stat": "NRF/Prosper 2026 Halloween survey, 7,889 consumers, 1–9 Sept 2026, ±1.1 pts: $13.5bn total (2025 record $13.1bn), $115.14 per person ($114.45 in 2025), 74% celebrating (68% in 2019), activities candy 61%/decorate 42%/carve 42%/scary films 42%; candy $4.1bn (96%), decorations $4.3bn (78%), costumes $4.4bn (71%), cards $0.8bn (42% vs 38%); discount 39%, specialty 32%, online 27%, local 13% vs 7% in 2016; costume rankings; pet costumes $0.92bn, pumpkin 11.6%, hot dog 5.9%, ghost 2.8%",
+        "publishedDate": "2026-09-22"
+      },
+      {
+        "url": "https://nrf.com/research-insights/holiday-data-and-trends/halloween/halloween-data-center",
+        "stat": "NRF 2026 Halloween Dashboard (Infogram embed e.infogram.com/_/E8DBCFhAurX5HN1F3Rfg): total spending 2010 $5.8B ... 2013 $7B, 2015 $6.9B, 2019 $8.8B, 2020 $8B, 2021 $10.1B, 2024 $11.6B, 2025 $13.1B, 2026 $13.5B; per person 2005 $48.48, 2019 $86.27, 2021 $102.74, 2026 $115.14; % celebrating 2005 53%, 2012 72%, 2019 68%, 2020 58%, 2026 74%; candy buyers 94–96% 2010–2026"
+      },
+      {
+        "url": "https://www.census.gov/newsroom/facts-for-features/2026/halloween.html",
+        "stat": "Census Bureau Facts for Features CB26-FF.08, 8 Oct 2026: 132.7m occupied housing units (2024 ACS 1-year); 72.0m children under 18 as of 1 July 2025 (Vintage 2025); 56.6m occupied units with steps (2023 AHS). The 2025 edition (same series) gave 133.2m (2023 AHS), 3,409 confectionery and nut stores, 681 formal wear and costume rental establishments and 280 cacao-bean product establishments (2023 County Business Patterns, employer establishments).",
+        "publishedDate": "2026-10-08"
+      },
+      {
+        "url": "https://yougov.com/en-gb/articles/50833-how-do-britons-feel-about-halloween",
+        "stat": "YouGov GB, Dylan Difford, 31 Oct 2024; fieldwork 16–17 Oct 2024, 2,121 GB adults (results PDF Internal_Halloween_241017.pdf): 28% will celebrate, 66% will not; 54% of 18–24s positive vs 12% of over-65s; among celebrants 55% give treats, 44% carve, 23% trick-or-treat; 44% prefer Bonfire Night vs 16% Halloween",
+        "publishedDate": "2024-10-31"
+      },
+      {
+        "url": "https://www.ers.usda.gov/newsroom/trending-topics/pumpkins-background-statistics",
+        "stat": "USDA ERS, updated 29 Sep 2026: 2025 US pumpkin production 1.47bn lb, +4% vs 2024, -7% vs 2022–24 average 1.58bn lb; 68,100 acres; top 5 states nearly 72%; per capita availability 5.2 lb in 2025, ~6 lb avg 2022–25 vs ~4 lb 2001–04; USDA surveys top-producing states and publishes the following year"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC5749306",
+        "stat": "Noble et al., Veterinary Record 2017 (CC BY, full text read): SAVSNET, 229 UK practices, 2.7m narratives Nov 2012–May 2017, 386 chocolate-exposure narratives (375 animals); Christmas OR 4.74 (3.04–7.40), Easter OR 1.97 (1.36–2.86); Halloween OR 1.55 (0.97–2.46, P=0.065) not significant; authors note German and US reviews described Halloween peaks",
+        "publishedDate": "2017-12-20"
+      }
+    ],
+    "structuralLimitations": [
+      "No Halloween usage data in facts.md; first-party facts are platform-wide and used only to model printing a denominator.",
+      "SERP: WebSearch (US index), 1 query 'halloween statistics'; results: 2017-2021.commerce.gov and 2014-2017.commerce.gov (archived Census blog posts, 403 bot wall, snippet only), businessrecord.com (403, snippet only), libguides.shc.edu (library blog, 2017 Census figures), driveresearch.com (2024 figures, ~1,350 words, no methodology), thedailymeal.com 2012, census.gov 2021 FFF, 3riversfcu.org, infodocket.com 2018. Weak count 8 of 10 (all but the two census/commerce primaries). 0 overlap with halloween-facts SERP (different query intent). A second query (DuckDuckGo) was used to find a UK non-retailer source.",
+      "BRIEF/ORCHESTRATOR: JAMA Pediatrics 2019 pedestrian-deaths paper (PMC6583441) was verified (608 vs 851 deaths, OR 1.43, 4 extra deaths per Halloween, ages 4–8 OR 10.00) but the orchestrator marked it FULL mid-task, so it is not cited and the post carries no pedestrian-death statistic. NHTSA Halloween pages (nhtsa.gov/halloween-safety, trafficsafetymarketing.gov) return 404. Closes with a FARS query by hand or a free paper slot next batch.",
+      "Google Trends explore endpoint returned 429 on 14 Oct 2026; per BRIEF no bot-wall workaround. Search interest uses the Wikimedia pageviews REST API (en.wikipedia, Halloween, user agent, daily 2023–2025), computed by the writer: 2025 1,781,744 views, Oct share 50.1%, 31 Oct 269,293, median day 1,594; 2023 3,002,384. Named in body, not linked (outbound budget 6).",
+      "CPSC news release 18 Oct 2022 (3,200/yr, 55% carving, 25% falls, 54% adults) and the 2021 search snippet (3,600/yr, 48% carving) are named in body but not linked or counted as sources to stay within 3–6 outbound links; cpsc.gov had 1 post this batch.",
+      "BLS CPI-U CUUR0000SA0 via api.bls.gov: Sep 2005 198.8, Aug 2026 334.980 (latest available 14 Oct 2026); $48.48 x 1.6850 = $81.69. Named, not linked.",
+      "NRF Mother's Day 2026 $38bn, Valentine's Day 2026 $29.1bn, Easter 2026 $24.9bn, winter holidays 2025 >$1 trillion (Nov–Dec retail sales forecast, a different measure) read from nrf.com holiday-data pages 14 Oct 2026; named, not linked. NRF data-centre total series starts 2010 (2005 total not shown), so the post gives per-person and turnout from 2005 and totals from 2010.",
+      "NRF press release says 2026 'maintains' 2025's record $13.1bn while the data centre calls $13.5bn a record; the post says record in nominal terms only. Siblings' headline NRF lines (b5 costume rankings, $4.4bn costumes, 50% costume, 49% early shopping) appear here only inside lists/rankings, re-sentenced; the row requires costume rankings."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in content/facts.md (BRIEF §3). The table compares statistics sources by sample, date and caveat; a platform-wide figure such as 48.3% phone opens says nothing about NRF or Census methods and would be a forced column. Closes when a read-only probe of /happy-halloween pages exists after 31 October 2026."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over the stale SERP (2012–2024 figures, no methods): it is the only page pairing NRF 2026 with its sample and margin, an inflation-adjusted 2005–2026 series, a dated UK poll, and a sourced rebuttal of the 'second-biggest holiday' line. It cannot beat census.gov's or NRF's authority for the raw numbers, has no pedestrian-death figure because of the batch cap, and as a low-authority domain should expect months, not weeks."
+    },
+    "generatedAt": "2026-10-14T09:41:01.019Z"
+  }
+}
