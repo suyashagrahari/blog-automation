@@ -1,0 +1,356 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "What Is Samhain? Meaning, Pronunciation and the Evidence",
+    "slug": "what-is-samhain",
+    "excerpt": "Samhain is the Gaelic name for 1 November and its feast, said SOW-in, and still the Irish word for November. The Old Irish word, three medieval texts set on the night, the Coligny calendar and the \"Celtic New Year\" claim, checked against the sources.",
+    "metaTitle": "What Is Samhain? The Old Irish Feast, Checked Against Texts",
+    "metaDescription": "What is Samhain? The Gaelic feast of 1 November, said SOW-in. Its Old Irish meaning, 3 medieval texts set on the night, and why 'Celtic New Year' is unproven.",
+    "keywords": "what is samhain, samhain meaning, samhain pronunciation, celtic new year, coligny calendar",
+    "canonicalURL": "https://subhsandesh.in/blog/what-is-samhain",
+    "ogType": "article",
+    "tags": [
+      "samhain",
+      "halloween",
+      "irish folklore",
+      "celtic history",
+      "paganism"
+    ],
+    "keyTakeaways": [
+      "Old Irish samain means the first of November and the feast held then; in religious texts it also means All Saints' Day, and no early source names a god called Samhain.",
+      "Say it SOW-in or SOW-wen; \"Sam-hane\" is a spelling pronunciation, and Irish has 3 regional recordings on teanglann.ie.",
+      "The druid fire at Tlachtga first appears in Keating's History of Ireland, completed about 1634, not in the older Tlachtga poem.",
+      "The \"Celtic New Year\" idea goes back to John Rhys in 1901; the 2nd-century Coligny calendar, with 62 lunar months in 5 years, does not settle it.",
+      "Samhain is still the Irish word for November, and a living religious festival: 74,000 people wrote in Pagan in the 2021 Census of England and Wales."
+    ],
+    "faqs": [
+      {
+        "question": "Is Samhain the same as Halloween?",
+        "answer": "No. Samhain is the Gaelic name for 1 November and the feast held then, while Halloween is the eve of the Christian All Saints' Day on the same date. The two share 31 October, and in Irish the night is still called Oíche Shamhna, but how many customs passed from one to the other is disputed."
+      },
+      {
+        "question": "When is Samhain in 2026 and 2027?",
+        "answer": "On the traditional date, Samhain eve is Saturday 31 October 2026 and Sunday 31 October 2027, with 1 November the following day. Some modern Pagan traditions calculate their own date, so check with the group you are joining."
+      },
+      {
+        "question": "Was Samhain the name of a Celtic god of the dead?",
+        "answer": "No early Irish text names a god called Samhain. The Electronic Dictionary of the Irish Language gives the word only as the date, the festival held on it and, in religious texts, All Saints' Day."
+      },
+      {
+        "question": "Did the ancient Celts start their year at Samhain?",
+        "answer": "No early Irish source says the year began on 1 November. The idea is traced to Sir John Rhys's Celtic Folklore of 1901, and Ronald Hutton's 1996 critique, summarised by Dimitra Fimi, finds no evidence for it. Many modern Pagans still treat it as their new year, which is a religious belief rather than a historical claim."
+      },
+      {
+        "question": "Why is November called Samhain in Irish?",
+        "answer": "Because the month took its name from the feast on its first day. Ó Dónaill's Irish dictionary gives Mí na Samhna for November and Lá Samhna for 1 November, and Scottish Gaelic uses an t-Samhain for November."
+      },
+      {
+        "question": "What is the Coligny calendar, and does it mention Samhain?",
+        "answer": "It is a 2nd-century AD Gaulish bronze calendar found at Coligny, France, in 1897, with 62 lunar months over 5 years. One month is SAMON[IOS], from the same root as Samain, but scholars disagree on how the calendar fits together and whether its year began in autumn or summer."
+      },
+      {
+        "question": "Did druids light a fire on the Hill of Tlachtga at Samhain?",
+        "answer": "The claim comes from Geoffrey Keating's History of Ireland, completed about 1634, which describes druids gathering there on Samhain eve. The older Tlachtga poem in the Metrical Dindshenchas mentions no fire, so treat it as a late tradition rather than a record."
+      },
+      {
+        "question": "Which old Irish stories happen at Samhain?",
+        "answer": "Several Ulster and Connacht tales are set there, including the Wooing of Emer, the Adventure of Nera at Rath Cruachan, and stories of feasts at Tara and Emain Macha. In Kuno Meyer's 1889 translation of Nera, the fairy-mounds of Ireland are always opened at Samain."
+      },
+      {
+        "question": "How do Pagans and Wiccans celebrate Samhain?",
+        "answer": "It is a religious festival for many modern Pagans and Wiccans, and practice varies from tradition to tradition. The 2021 Census of England and Wales counted 74,000 people who wrote in Pagan and 13,000 who wrote in Wicca, so ask the person observing it what the night means to them."
+      },
+      {
+        "question": "Is it wrong to pronounce Samhain as Sam-hane?",
+        "answer": "It is a spelling pronunciation, not the Irish one. Say SOW-in or SOW-wen; the mh is a softened m heard as a w or v, and the Irish Pronunciation Database at teanglann.ie has Ulster, Connacht and Munster recordings."
+      },
+      {
+        "question": "Can I send a Samhain or Halloween greeting to just one person online?",
+        "answer": "Yes. SubhSandesh's Halloween card takes about 5 minutes and holds up to six photos, while the premium page adds a 60-second voice note and up to 12 photos. Both are playful Halloween pages, so for someone who keeps Samhain as a religious feast, a personal note in your own words is the better choice."
+      }
+    ],
+    "coverImageQuery": "hill bonfire autumn night ireland",
+    "coverImagePrompt": "A photorealistic autumn dusk over a low green hill in the Irish midlands, a small bonfire glowing on the summit and a scatter of people silhouetted around it. Mist lies in the fields below and the first stars show in a deep blue sky. Calm, documentary mood with clean negative space at the top for a title, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# What Is Samhain? Meaning, Pronunciation and the Evidence\n\nWhat is Samhain? It is the Gaelic name for 1 November and for the feast held on that night and day, said roughly SOW-in, and it is still the ordinary Irish word for the month of November. Most of what is written about an \"ancient Celtic\" Samhain rests on tales copied by Christian scribes, so much of it is reconstruction, not record.\n\nIf you want to mark the night with a message to one person, two platform-wide numbers matter: on SubhSandesh, 48.3% of shared pages are opened on a phone, and 90.9% of started pages end up published and shared. Neither figure is Samhain or Halloween data. Below: the word, how to say it, three texts set at Samain, the Coligny calendar, the \"Celtic New Year\" argument, and the name today.\n\n## What does Samhain mean?\n\nSamhain means \"the first of November, and the festival held on that date\". That is the first definition in the [Electronic Dictionary of the Irish Language entry for Old Irish *samain*](https://dil.ie/36129), which adds that in religious texts the same word means All Saints' Day, or All Hallows.\n\nThe famous gloss \"summer's end\" is medieval guesswork rather than a lost pagan label. The eDIL entry quotes glossators splitting the word as *sam-fuin*, the ending of summer, and then a rival reading from the Wooing of Emer, *sam-suan*, tied to the gentle sounds heard at that season. Medieval and early modern Irish scholars were already arguing about the word.\n\nModern etymology is no more settled: Wiktionary traces a Proto-Celtic *samonios* to either *samos*, \"summer\", or a root meaning \"assembly\". And the dictionary lists no sense of Samain as the name of a god.\n\n## How do you pronounce Samhain?\n\nIn English, say SOW-in or SOW-wen, with the first syllable rhyming with \"cow\". Wiktionary gives /ˈsaʊ.wən/ and /ˈsaʊ.wɪn/ and marks \"SAM-hane\" as a spelling pronunciation to avoid.\n\nThe *mh* is a softened m, heard as a w, v or nasal glide, never as m plus h. The Irish Pronunciation Database at teanglann.ie, run by Foras na Gaeilge, carries 3 separate recordings, for Ulster, Connacht and Munster. Connacht speech can squeeze it into one syllable, close to \"sown\", while Ulster keeps two, close to \"SOW-wen\".\n\n## Samhain in early Irish literature: 3 texts set on the night\n\nThe best evidence for Samain sits in stories, not ritual handbooks. Each text below gets the same four checks: what it is, its English translation, what happens at Samain, and what it proves.\n\n### 1. Tochmarc Emire, the Wooing of Emer\n\n- **What it is:** an Ulster Cycle tale in which Cú Chulainn courts Emer.\n- **Translation:** Kuno Meyer, 1888, from Lebor na hUidre and a Stowe manuscript, now online at [CELT, University College Cork](https://celt.ucc.ie/published/T301021.html).\n- **At Samain:** a gloss says the year \"formerly\" had two divisions, summer from Beltaine on 1 May and winter from Samuin to Beltaine; later, Cú Chulainn's ship reaches the house of Ruad, King of the Isles, \"on Samuin night\".\n- **What it proves:** medieval scholars remembered a two-season year. It does not say which half opened the year.\n\n### 2. Echtrae Nerai, the Adventure of Nera\n\n- **What it is:** a Connacht tale set at Rath Cruachan, court of Ailill and Medb.\n- **Translation:** Kuno Meyer, Revue Celtique volume 10, 1889, where he renders the Irish for Samain night as \"Halloween\".\n- **At Samain:** Ailill offers a prize to whoever will tie a withe round the foot of a captive hanged the day before. Nera goes, ends up inside the síd of Cruachan, and is told that \"the fairy-mounds of Erinn are always opened about Halloween\"; three days and nights seem to pass for him there, yet his people are still standing round the same cauldron.\n- **What it proves:** writers treated the night as a door to the Otherworld. Nobody in the tale performs a rite.\n\n### 3. Tlachtga, the Hill of Ward in County Meath\n\n- **What it is:** the hill where, by a much-repeated account, druids lit the Samhain fire that relit every hearth in Ireland.\n- **Where the claim comes from:** Geoffrey Keating's History of Ireland, completed about 1634, which in the [Comyn and Dinneen translation on CELT](https://celt.ucc.ie/published/T100054.html) says the druids gathered at Tlachtga \"on the eve of Samhain to offer sacrifice to all the gods\", with a tax of three pence per fire paid to the king of Munster.\n- **The older poem:** the Tlachtga poem in Gwynn's Metrical Dindshenchas, also on CELT, tells of Mug Roith's daughter, her sons and her grave, and mentions no fire and no Samain at all.\n- **What it proves:** the fire story is a 17th-century historian's account, so treat it as tradition, not record.\n\n## The Coligny calendar: what SAMON[IOS] does and does not prove\n\nThe only surviving calendar in a Celtic language is a 2nd-century AD bronze plaque found at Coligny, France, in 1897. It is Gaulish, not Irish, and one of its months is SAMON[IOS], a name from the same root as Old Irish *samain*.\n\nThe plaque tracks the moon. In Helen McKay's paper [The Coligny calendar as a Metonic lunar calendar (Études Celtiques, 2016)](https://www.persee.fr/doc/ecelt_0373-1928_2016_num_42_1_2471), its 5 years hold 62 lunar months, 2 of them intercalary, and day 3 of SAMONIOS sits in what she calls a unique three-way swap, which produces the notation TRINVX SAMONI. McKay treats SAMONIOS as the first month of the year.\n\nScholars dispute nearly everything else. McKay writes that the argument over the calendar's long cycle, \"whether 19 years, 25 or 30, has raged for the last century\", and she argues for a 19-year cycle. Folklorist Dimitra Fimi notes that the plaque survives in fragments and \"seems to begin the year in the summer\", which would put SAMONIOS nowhere near November; no reconstruction is conclusive.\n\n## Was Samhain the Celtic New Year?\n\nNo early Irish source says the year began on 1 November. In [Samhain or Halloween? (Gramarye 11, 2017)](https://dimitrafimi.org/2019/10/28/samhain-or-halloween-the-ancient-celtic-year-in-contemporary-childrens-fantasy/), Fimi, drawing on Ronald Hutton's The Stations of the Sun (1996), traces the idea to Sir John Rhys's Celtic Folklore of 1901, built on late-19th-century Isle of Man customs and on \"corrected\" Irish texts. The Wooing of Emer, which lists Samain first, may have nudged it along.\n\nHutton's second point is about storytelling. Heroes feasting \"with time on their hands\" make a natural opening scene, he argues, as Arthurian tales open at a Christmas or Pentecost court, so supernatural adventures on Samain need not record a pagan rite. Fimi adds that All Saints settled on 1 November in the 9th century through Germanic dioceses, not Irish ones.\n\nModern Pagans adopted the New Year label, and inside that religion it is a living belief that deserves respect. What fails is the historical claim that ancient Celts everywhere began their year that night.\n\n## Samhain claims checked against the record\n\nFive claims circulate widely about Samhain. Each is compared here with the oldest dated source we could trace.\n\n| Claim | Where it first appears | Earliest dated source we found | Verdict |\n|---|---|---|---|\n| Samhain was a Celtic god of the dead | Popular retellings | None; eDIL gives only date, festival and All Saints senses | False |\n| Samhain was the Celtic New Year | Rhys, Celtic Folklore | 1901 | Unproven |\n| Druids relit Ireland's fires from Tlachtga | Keating, History of Ireland | About 1634 | Late tradition |\n| The Otherworld opens at Samain | Echtrae Nerai | Meyer's translation, 1889 | True of the stories |\n| Samhain means \"summer's end\" | Medieval glosses, *sam-fuin* | Meyer's Wooing of Emer, 1888 | One of 2 medieval guesses |\n\nThe stories are medieval and real. The confident claims about pagan practice are 17th to 20th-century additions.\n\n## Samhain today: a month, a Gaelic word and a Pagan festival\n\nIn Irish, Samhain is first a month. Ó Dónaill's dictionary (1977) gives Mí na Samhna for November, Lá Samhna for 1 November and Sean-Samhain, Old Samhain, for the old-style date of 12 November. In Scottish Gaelic, LearnGaelic lists an t-Samhain as November, abbreviated Samh, and Wiktionary records Samhainn as an alternative spelling; Scotland's own guising customs belong on a page of their own.\n\nFor modern Pagans and Wiccans, Samhain is a religious festival, and Fimi notes that the emerging Wicca movement took the four Gaelic quarter-days into its calendar. In the 2021 Census of England and Wales, published by the [Office for National Statistics on 29 November 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/bulletins/religionenglandandwales/census2021), 74,000 people wrote in Pagan and 13,000 wrote in Wicca.\n\nPractice differs between traditions, and observers are the authority on what the night means to them. For anyone keeping the traditional date, Samhain eve falls on Saturday 31 October 2026 and on Sunday 31 October 2027.\n\n## Marking Samhain for one person\n\nIf the person you have in mind keeps 31 October as Halloween rather than as a religious feast, a message to them alone is the smallest way to honour the season. On SubhSandesh, 38.5% of creators password-protect a page before sharing it, and the average page gets 11.1 views; both figures are platform-wide, not Halloween-specific.\n\nFor a quick one, the [interactive Halloween card with a pumpkin to carve](https://subhsandesh.in/happy-halloween) takes about 5 minutes, holds up to six photos, and has them knock three times and read your letter by flashlight. Family and kids modes change the question.\n\nFor more weight, the [premium Halloween page with a 60-second voice note](https://subhsandesh.in/happy-halloween-premium) takes about 10 minutes and holds up to 12 photos. Set an unlock time for 31 October; their one reply, up to 280 characters, is emailed to you. If Halloween is not their thing at all, [browse every SubhSandesh template](https://subhsandesh.in/templates) for another occasion.\n\n## When a Halloween card is the wrong way to mark Samhain\n\nFor someone who keeps Samhain as a religious festival, a page asking \"Will you be my boo?\" is the wrong register. Both templates are Halloween fun with ghosts and candy, not tools for ritual or remembrance, and the 74,000 Pagans counted in England and Wales in 2021 deserve better than a joke.\n\nThe interface is English only, with no Irish or Gaelic, and these are one-person greetings, not group invitations. For someone in the same room, a candle in the window on 31 October says more than any link.\n\n## Sources\n\n- Electronic Dictionary of the Irish Language, \"samain\" (undated).\n- Meyer, The Wooing of Emer, 1888; CELT edition.\n- Meyer, \"The Adventures of Nera\", Revue Celtique 10, 1889.\n- Keating, The History of Ireland, about 1634; CELT edition.\n- McKay, Études Celtiques 42, 2016, pp. 95–121.\n- Fimi, Gramarye 11, 2017; online 2019.\n- Office for National Statistics, Census 2021 religion bulletin, 29 November 2022.\n- Ó Dónaill, Foclóir Gaeilge–Béarla, 1977; LearnGaelic dictionary; Wiktionary, \"Samhain\".",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/what-is-samhain#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Samhain",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Samhain",
+              "https://www.wikidata.org/wiki/Q207365"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Coligny calendar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Coligny_calendar",
+              "https://www.wikidata.org/wiki/Q3209"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tochmarc Emire",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tochmarc_Emire",
+              "https://www.wikidata.org/wiki/Q256989"
+            ]
+          },
+          {
+            "@type": "Place",
+            "name": "Tlachtga",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tlachtga",
+              "https://www.wikidata.org/wiki/Q929086"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Geoffrey Keating",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Geoffrey_Keating",
+              "https://www.wikidata.org/wiki/Q733922"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Wicca",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Wicca",
+              "https://www.wikidata.org/wiki/Q59774"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "eDIL s.v. samain",
+            "url": "https://dil.ie/36129",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Royal Irish Academy / Queen's University Belfast (eDIL)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Wooing of Emer, trans. Kuno Meyer",
+            "url": "https://celt.ucc.ie/published/T301021.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CELT, University College Cork"
+            },
+            "datePublished": "1888"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Geoffrey Keating, The History of Ireland, trans. Comyn and Dinneen",
+            "url": "https://celt.ucc.ie/published/T100054.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "CELT, University College Cork"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Coligny calendar as a Metonic lunar calendar",
+            "url": "https://www.persee.fr/doc/ecelt_0373-1928_2016_num_42_1_2471",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Études Celtiques (Persée)"
+            },
+            "datePublished": "2016"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Samhain or Halloween? The 'ancient Celtic year' in contemporary children's fantasy",
+            "url": "https://dimitrafimi.org/2019/10/28/samhain-or-halloween-the-ancient-celtic-year-in-contemporary-childrens-fantasy/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Dimitra Fimi"
+            },
+            "datePublished": "2019-10-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Religion, England and Wales: Census 2021",
+            "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/bulletins/religionenglandandwales/census2021",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Office for National Statistics"
+            },
+            "datePublished": "2022-11-29"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Early Irish texts set at Samain",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Tochmarc Emire, the Wooing of Emer",
+            "description": "Meyer translation 1888; two-season year, summer from Beltaine, winter from Samuin."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Echtrae Nerai, the Adventure of Nera",
+            "description": "Meyer translation 1889; the fairy-mounds are opened at Samain."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tlachtga, the Hill of Ward in County Meath",
+            "description": "Samhain fire claim first in Keating, about 1634; absent from the Metrical Dindshenchas poem."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "what is samhain",
+    "absorbs": [
+      "samhain meaning"
+    ],
+    "angle": "Wins by being the only post that answers 'what is Samhain' from the primary record: the eDIL entry for Old Irish samain, three medieval texts on CELT and in Meyer's 1889 translation, Keating's c.1634 Tlachtga passage, McKay's 2016 Coligny paper and Fimi's summary of Hutton, with SubhSandesh's platform-wide 48.3% phone-open and 90.9% publish rates for readers marking the night.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://dil.ie/36129",
+        "stat": "Old Irish samain = 'the first of November, the festival held on that date', in religious contexts All Saints' Day; quotes medieval glosses sam-fuin (end of summer) and sam-suan (Tochmarc Emire); no deity sense listed"
+      },
+      {
+        "url": "https://celt.ucc.ie/published/T301021.html",
+        "stat": "Meyer's 1888 translation of the Wooing of Emer: two divisions of the year, summer from Beltaine and winter from Samuin to Beltaine; Cú Chulainn reaches Ruad's house on Samuin night",
+        "publishedDate": "1888"
+      },
+      {
+        "url": "https://celt.ucc.ie/published/T100054.html",
+        "stat": "Keating's History of Ireland (completed about 1634): Fire of Tlachtga, druids assembled on the eve of Samhain to offer sacrifice; three-pence tax per fire to the king of Munster"
+      },
+      {
+        "url": "https://www.persee.fr/doc/ecelt_0373-1928_2016_num_42_1_2471",
+        "stat": "McKay: Coligny calendar 5 years = 62 lunar months with 2 intercalary; SAMONIOS 3 three-way swap, notation TRINVX SAMONI; debate over 19, 25 or 30-year cycle \"has raged for the last century\"",
+        "publishedDate": "2016"
+      },
+      {
+        "url": "https://dimitrafimi.org/2019/10/28/samhain-or-halloween-the-ancient-celtic-year-in-contemporary-childrens-fantasy/",
+        "stat": "Fimi (Gramarye 11, 2017), drawing on Hutton 1996: Rhys first proposed the Celtic New Year in Celtic Folklore (1901) on Manx folklore; Coligny seems to begin the year in summer, no reconstruction conclusive; feasts \"with time on their hands\" as story openers; Wicca took up the four feasts",
+        "publishedDate": "2019-10-28"
+      },
+      {
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/bulletins/religionenglandandwales/census2021",
+        "stat": "Census 2021, England and Wales: 74,000 wrote in Pagan, 13,000 Wicca",
+        "publishedDate": "2022-11-29"
+      }
+    ],
+    "structuralLimitations": [
+      "No Halloween or Samhain usage data exists in facts.md; the four first-party figures are platform-wide and labelled as such in the body.",
+      "Echtrae Nerai is not on CELT; it was read in Meyer's 1889 Revue Celtique 10 translation on archive.org (revueceltique10pari) and named in the body, not linked, to keep outbound links at 6.",
+      "Hutton's The Stations of the Sun (1996) was not read directly; his arguments are cited via Fimi's 2017 Gramarye essay, which quotes and page-references him (pp. 362-364).",
+      "McKay 2016 read in full via Persée page view (PDF download returned 403; not worked around). The TRAC 2002 Coligny paper sat behind a bot wall and was not used.",
+      "Prompt check: 'Scottish Gaelic Samhainn' is an alternative spelling (Wiktionary); LearnGaelic's headword for November is 'an t-Samhain'. The body says so.",
+      "SERP correction: irishmyths.com (top 5) repeats Ellis 1987 stating the Tlachtga druid fire as fact; its earliest source is Keating c.1634, and Gwynn's Metrical Dindshenchas poem on Tlachtga mentions no fire.",
+      "Pronunciation and etymology (Wiktionary), Ó Dónaill (teanglann.ie) and LearnGaelic were verified but named without links to stay within 3-6 outbound links."
+    ],
+    "serp": {
+      "method": "WebSearch (US index)",
+      "searchesUsed": 2,
+      "note": "1 WebSearch for the SERP + 1 WebSearch for Hutton critique sourcing",
+      "weakInTop10": 6,
+      "overlapWithSiblings": {
+        "history-of-halloween": 0,
+        "what-does-halloween-mean": 0,
+        "why-is-halloween-celebrated": 0,
+        "halloween-in-ireland": 0,
+        "halloween-in-scotland": 0,
+        "why-do-we-wear-costumes-on-halloween": 0
+      }
+    },
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween or Samhain usage data exists in facts.md (BRIEF §3, §9), and no platform figure maps onto a claim about a medieval festival, so the claims table carries no first-party column. Re-check trigger: a Halloween-segment probe of the gifts database (e.g. share of /happy-halloween pages built by 31 October) would allow a second table."
+        }
+      ],
+      "honestAssessment": "None of the five pages analysed (bookriot, dictionary.com, ethicalbutcher, christianity.com, irishmyths) traces the Tlachtga fire to Keating c.1634, explains the Coligny dispute, or dates the Celtic New Year claim to Rhys 1901, so an answer engine has dated, primary-sourced claims here it cannot lift elsewhere. Against that, dictionary.com and Wikipedia hold enormous authority on a definitional query, and the first-party figures are platform-wide rather than about Samhain, so expect months and a supporting role at best."
+    },
+    "generatedAt": "2026-10-14T09:11:16.171Z"
+  }
+}

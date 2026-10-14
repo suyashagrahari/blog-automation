@@ -1,0 +1,364 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Science Experiments Kids Can Run as Real Fair Tests",
+    "slug": "halloween-science-experiments",
+    "excerpt": "Eight Halloween science experiments for ages 4–12, from rising raisin bats to 3% peroxide monster foam, each with a variable to measure, a fair-test prompt, an NGSS or KS2 link and a sourced safety note for every chemical.",
+    "metaTitle": "Halloween Science Experiments: 8 Fair Tests With NGSS Codes",
+    "metaDescription": "Halloween science experiments built as fair tests: 8 for ages 4–12, each with a variable to measure, an NGSS or KS2 link and a sourced note on 3% peroxide.",
+    "keywords": "halloween science experiments, halloween stem activities, halloween experiments for kids, fair test science, elephant toothpaste 3% hydrogen peroxide, ngss halloween",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-science-experiments",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "science",
+      "stem",
+      "kids",
+      "classroom"
+    ],
+    "keyTakeaways": [
+      "Each of the 8 Halloween experiments changes one variable and measures one number, with three trials per setting where timing varies.",
+      "Use only household 3% hydrogen peroxide for monster foam; Poison Control lists hair bleach at 6–10% and 'food-grade' at 35%, which can burn.",
+      "Contact-lens saline slime still contains borate: keep it for over-8s and wash hands, after a reported case of blistered fingers that took 25 days to heal.",
+      "The set maps to 7 NGSS performance expectations, from 2-PS1-2 to 3-5-ETS1-3, and to KS2 Years 4–6.",
+      "48.3% of shared SubhSandesh pages are opened on a phone, and 38.5% of creators add a password, worth doing when a page shows children's photos."
+    ],
+    "faqs": [
+      {
+        "question": "What is the easiest Halloween science experiment for a 5-year-old?",
+        "answer": "Rising raisin bats or the frozen spider rescue. Both need only kitchen supplies, take about 15–30 minutes, involve no chemical with a poison-centre warning, and give a number a young child can count: surface trips in 2 minutes, or minutes until the spider comes free."
+      },
+      {
+        "question": "Is elephant toothpaste safe to do with kids at home?",
+        "answer": "Yes, with household 3% hydrogen peroxide, goggles and an adult pouring. Poison Control says 3% usually causes only mild irritation, while 6–10% hair bleach and 35% 'food-grade' peroxide can burn. Rinse a splashed eye under running water for 15–20 minutes."
+      },
+      {
+        "question": "What percentage of hydrogen peroxide should I use for monster foam?",
+        "answer": "3%, the strength sold in pharmacies for household use. Stronger solutions make bigger foam in videos, but they are the ones that cause burns, so they have no place in a home or primary classroom."
+      },
+      {
+        "question": "Is contact-lens solution slime safer than borax slime?",
+        "answer": "It avoids handling borax powder, but the saline still contains boric acid and sodium borate, so it is not borate-free. Keep it for over-8s, wash hands afterwards and stop if the skin reddens; a 2018 case report describes blistered fingers after a year of DIY slime play."
+      },
+      {
+        "question": "How many times should kids repeat each Halloween experiment?",
+        "answer": "Three runs per setting is a practical minimum, then average the results. NGSS 3-5-ETS1-3 asks for 'the number of trials considered', and one dramatic eruption on its own cannot show cause and effect."
+      },
+      {
+        "question": "Which NGSS standards do Halloween science experiments meet?",
+        "answer": "The eight here map to 2-PS1-2, 2-PS1-4, 3-PS2-1, 5-PS1-1, 5-PS1-3, 5-PS1-4 and 3-5-ETS1-3. The mapping is ours, based on each performance expectation's wording, so check it against your district's scope and sequence."
+      },
+      {
+        "question": "Do these experiments fit the UK Key Stage 2 science curriculum?",
+        "answer": "Yes. The frozen spider and raisin bats fit Year 4 states of matter, the parachutes fit Year 5 forces and air resistance, and the foam and ghost egg fit Year 5 irreversible changes. The fair-test steps match 'recognising and controlling variables' in Years 5 and 6."
+      },
+      {
+        "question": "How long does the ghost egg experiment take?",
+        "answer": "About three days: 48 hours in vinegar to dissolve the shell, then 24 hours in water or syrup for the osmosis test. Halloween is Saturday 31 October 2026 and Sunday 31 October 2027, so drop the eggs into vinegar on 28 October for a same-day reveal."
+      },
+      {
+        "question": "Which Halloween STEM activity works for a class with no chemicals at all?",
+        "answer": "Ghost parachutes or the spider-web bridge. Both use tape, string and a bin bag or coins, take 40–45 minutes, and suit groups of three, with each group testing one canopy size or web design."
+      },
+      {
+        "question": "Can my child send their experiment results to a grandparent?",
+        "answer": "Yes, as a single-recipient Halloween page. The interactive card fits six photos of the foam or ghost egg in a roughly 5-minute build; the premium version fits 12 photos and the child's own voice explaining the result, up to 60 seconds. Set the optional password if the photos show children."
+      }
+    ],
+    "coverImageQuery": "kids halloween science experiment foam",
+    "coverImagePrompt": "A bright kitchen table at dusk with three children in goggles watching orange foam rise from a plastic bottle on a tray, a jar of layered coloured liquids and a small toy spider in melting ice beside it. Warm lamplight, a carved pumpkin softly glowing in the background, shallow depth of field, clean negative space at the top for a title, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Science Experiments Kids Can Run as Real Fair Tests\n\nThe best Halloween science experiments change one thing, measure one result and keep everything else the same. The 8 below do that, from rising raisin bats to monster foam made with household 3% hydrogen peroxide, and each carries ages, time, the science, a variable to measure and a US NGSS or UK Key Stage 2 link, so they double as Halloween STEM activities for ages 4 to 12.\n\nKids' results mostly travel by phone: on SubhSandesh, 48.3% of shared pages are opened on a phone, and 90.9% of started pages end up published. Below: the experiments, a comparison table, the research and when to skip one.\n\n## What makes a Halloween science experiment a fair test?\n\nA fair test changes one variable, measures one outcome and holds everything else steady, so any difference has a single cause. A Halloween experiment stops being a magic show once a child predicts, records a number and repeats.\n\nNGSS performance expectation [3-5-ETS1-3](https://www.nextgenscience.org/pe/3-5-ets1-3-engineering-design) asks students to \"plan and carry out fair tests in which variables are controlled\", with \"the number of trials considered\". England's national curriculum (updated May 2015) asks Years 3–4 for \"comparative and fair tests\" and Years 5–6 for \"recognising and controlling variables where necessary\".\n\nA 2026 *Developmental Science* study tested [203 four-year-olds in Germany and followed them to age 7.5](https://europepmc.org/article/PMC/PMC13505288), finding scientific reasoning measurable at 4 and tied to growing theory of mind. With under-6s, ask \"what would we need to see to know?\" while an adult holds the ruler.\n\n## 8 Halloween science experiments, each with a variable to measure\n\nEach lists what you need, the science, the fair test and a safety note. Times include tidying up.\n\n### 1. Rising raisin bats\n\n- **Ages 4–8 · 15 min · NGSS 5-PS1-1 · KS2 Year 4.** Two identical glasses, 200 ml of sparkling water in each, 10 raisins, a timer.\n- **The science:** Dissolved carbon dioxide forms bubbles on the raisin's wrinkles, lifting it like a life jacket until they pop at the surface and the \"bat\" dives.\n- **Fair test:** Pour one glass from a fresh bottle, one from a bottle opened an hour earlier. Count surface trips per raisin in 2 minutes, three raisins per glass.\n- **Safety:** Raisins are choking-size for toddlers, so nothing is eaten.\n\n### 2. Witch's brew density tower\n\n- **Ages 6–11 · 30 min · NGSS 5-PS1-3 · KS2 Year 5.** Honey, washing-up liquid, green-tinted water, cooking oil, a 250 ml jar, a measuring jug, a kitchen scale.\n- **The science:** Each liquid packs a different mass into the same space; honey is roughly 1.4 g per ml and oil about 0.9 g, so honey sinks and oil floats.\n- **Fair test:** Weigh exactly 50 ml of each, divide grams by 50 and rank them. Pour in your predicted order down a spoon, then check the layers.\n- **Safety:** The soap makes it undrinkable, so label the jar and pour it away.\n\n### 3. Monster foam\n\n- **Ages 8–12, adult pours · 20 min · NGSS 5-PS1-4 · KS2 Year 5.** 120 ml of household 3% hydrogen peroxide per run, a 500 ml bottle, washing-up liquid, 1 tablespoon of dried yeast per run, goggles, a deep tray.\n- **The science:** Peroxide slowly splits into water and oxygen; catalase, an enzyme in yeast, makes it happen in seconds, and soap traps the oxygen as warm foam.\n- **Fair test:** Mix the yeast with 3 tablespoons of fridge-cold, hand-warm or hot tap water, one bottle each. Record foam height at 30 seconds; heat can damage enzymes, so does hottest win?\n- **Safety:** Poison Control says [household 3% peroxide usually causes only mild irritation, while hair bleach is 6–10% and \"food-grade\" 35%](https://www.poison.org/articles/hydrogen-peroxide) can burn if swallowed. Use 3% only, and rinse a splashed eye under running water for 15–20 minutes.\n\n### 4. Ectoplasm slime\n\n- **Ages 8–12 · 25 min · NGSS 2-PS1-2 · KS2 Year 5.** 120 ml of PVA school glue per batch, ½ teaspoon of baking soda, contact-lens saline listing boric acid and sodium borate, three bowls, a ruler.\n- **The science:** Borate ions tie the glue's long polymer chains together with weak bonds, turning liquid into a stretchy gel; more links usually mean stiffer slime.\n- **Fair test:** Make three batches differing only in saline: 1, 2 and 3 teaspoons. Drape 20 g of each over a pencil and measure the stretch at 30 seconds.\n- **Safety:** Never handle borax powder; saline still contains borate, so wash hands after. One dermatology letter reports an [11-year-old whose six fingers blistered after a year of DIY slime](https://europepmc.org/article/PMC/PMC6256233), improving within 25 days.\n\n### 5. Ghost egg\n\n- **Ages 6–12 · 10 min, then 3 days · NGSS 5-PS1-4 · KS2 Year 5.** Two raw eggs, white vinegar, two jars, a paper strip and ruler, then water and golden or corn syrup.\n- **The science:** Vinegar's acetic acid dissolves the calcium carbonate shell, releasing carbon dioxide, a new substance, and leaving a pale, bouncy ghost of membrane.\n- **Fair test:** After 48 hours, measure both eggs round the middle, then put one in water and one in syrup for 24 hours. Water crosses the membrane by osmosis; record the change in millimetres.\n- **Safety:** Raw egg can carry Salmonella, so wash hands after every touch. For a Halloween reveal, start by Wednesday 28 October 2026 or Thursday 28 October 2027.\n\n### 6. Frozen spider rescue\n\n- **Ages 4–8 · 30 min plus overnight · NGSS 2-PS1-4 · KS2 Year 4.** Three identical cups of water frozen around toy spiders, salt, sugar, a timer.\n- **The science:** Dissolved particles lower water's freezing point, so meltwater on the ice stays liquid and melting speeds up. A teaspoon of salt releases far more particles than one of sugar.\n- **Fair test:** Turn out all three blocks together: one teaspoon of salt, one of sugar, nothing on the control. Time each spider's escape, then refreeze the meltwater to show the change reverses.\n- **Safety:** Salted ice gets colder than plain ice, so move it with spoons.\n\n### 7. Ghost parachutes\n\n- **Ages 6–11 · 40 min · NGSS 3-PS2-1 · KS2 Year 5.** A bin bag, string, tape, three identical clothes-peg ghosts, scissors, a stopwatch.\n- **The science:** Gravity pulls the ghost down while air resistance pushes up on the canopy; a bigger canopy meets more air and falls more slowly.\n- **Fair test:** Cut square canopies of 15, 25 and 35 cm with identical strings. Drop each from the same 2 m height three times and average the times.\n- **Safety:** Bags can suffocate small children, so the adult cuts and bins offcuts; drop from a step, never a banister.\n\n### 8. Spider-web bridge\n\n- **Ages 8–12 · 45 min · NGSS 3-5-ETS1-3 · KS2 Years 5–6.** Masking tape, two chairs 50 cm apart, a paper-cup egg sac, identical coins.\n- **The science:** This is engineering: the web spreads the load across its strands, and the weakest joint decides when it fails.\n- **Fair test:** Give a radial design and a grid design exactly 1 m of tape each. Add coins one at a time, record the count at failure and mark the break, then strengthen it and retest.\n- **Safety:** Coins are a swallowing risk for under-4s, so keep the pile on the adult's side.\n\n## Halloween STEM activities compared by standard and hazard\n\nThe table groups the eight by the science they teach. A teacher can choose by standard, a parent by risk.\n\n| Group | Experiments | Ages and time | NGSS / KS2 | Main hazard |\n|---|---|---|---|---|\n| Gases and reactions | Raisin bats, monster foam, ghost egg | 4–12; 15 min to 3 days | 5-PS1-1, 5-PS1-4 / Y4, Y5 | 3% peroxide in eyes; raw egg |\n| Mixtures and polymers | Density tower, ectoplasm slime | 6–12; 25–30 min | 5-PS1-3, 2-PS1-2 / Y5 | Borate on skin |\n| Heat and state | Frozen spider rescue | 4–8; 30 min plus overnight | 2-PS1-4 / Y4 | Salted ice on skin |\n| Forces and engineering | Ghost parachutes, web bridge | 6–12; 40–45 min | 3-PS2-1, 3-5-ETS1-3 / Y5–6 | Plastic bag; coins |\n\nOnly two carry a poison-centre warning. Both have a safe limit: 3% peroxide, and slime only for over-8s.\n\n## What research says about hands-on science and engagement\n\nHands-on sessions measurably change how children feel about science. University of Extremadura researchers surveyed [186 pupils aged 9 to 13 from five schools](https://link.springer.com/article/10.1007/s10763-024-10539-2) before and after interactive workshops (*International Journal of Science and Mathematics Education*, January 2025): joy and enthusiasm rose, boredom and anxiety fell. Only the abstract was readable, and it shows mood shifting, not test scores rising.\n\nSafety has research too. A 2021 *ACS Polymers Au* perspective by chemist Darryl Boyd links [borax slime to contact dermatitis and burns in children](https://europepmc.org/article/PMC/PMC9954249) and finds \"no loss in educational value\" in safer demonstrations, hence saline and age 8 in experiment 4.\n\n## Sending a young scientist's result to someone far away\n\nSubhSandesh's two Halloween templates greet a single person; they are not a class tool. They fit one job: a child showing a grandparent their ghost egg.\n\n[The interactive Halloween card a child can play through](https://subhsandesh.in/happy-halloween) is a roughly 5-minute build with room for six photos; its Kids tone keeps everything spooky-cute, nothing goes dark, and the pumpkin can carve FOAM. [The cinematic premium Halloween page](https://subhsandesh.in/happy-halloween-premium) is a roughly 10-minute build with room for 12 photos and a voice recording of up to 60 seconds, long enough to explain why the salt won.\n\nChildren's photos deserve a lock. Across the platform, 38.5% of creators password-protect their page before sharing it, and both Halloween templates let you set one at publish. For a non-Halloween teacher thank-you, [the full template gallery](https://subhsandesh.in/templates) has other designs.\n\n## When to skip an experiment or the greeting page\n\n- **Under-4s.** Raisins, coins and toy spiders are choking-size.\n- **No adult free for 20 minutes.** Foam and slime need one throughout.\n- **Eczema-prone skin.** Skip the slime.\n- **A whole class.** A Halloween page greets one person; a printed results chart reaches all 30 pupils.\n- **A grandparent without a smartphone.** A posted photo of the ghost egg suits them better.\n\n## Sources\n\n- NGSS, [3-5-ETS1-3 Engineering Design](https://www.nextgenscience.org/pe/3-5-ets1-3-engineering-design) (2013).\n- Poison Control, [Is hydrogen peroxide safe?](https://www.poison.org/articles/hydrogen-peroxide) (undated).\n- Piazza & Cestari, [Contact dermatitis from DIY slime](https://europepmc.org/article/PMC/PMC6256233), *An Bras Dermatol* (2018).\n- Boyd, [Safer and Greener Polymer Demonstrations](https://europepmc.org/article/PMC/PMC9954249), *ACS Polymers Au* (7 September 2021).\n- Sobel et al., [Theory of Mind and Scientific Reasoning From Ages 4 to 7](https://europepmc.org/article/PMC/PMC13505288), *Developmental Science* (25 August 2026).\n- Muñoz-Losa & Corbacho-Cuello, [Interactive Science Workshops and Children's Attitudes](https://link.springer.com/article/10.1007/s10763-024-10539-2), *Int J Sci Math Educ* (11 January 2025).\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-science-experiments#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Next Generation Science Standards",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Next_Generation_Science_Standards",
+              "https://www.wikidata.org/wiki/Q7021028"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Elephant's toothpaste",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Elephant%27s_toothpaste",
+              "https://www.wikidata.org/wiki/Q5359401"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Hydrogen peroxide",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Hydrogen_peroxide",
+              "https://www.wikidata.org/wiki/Q171877"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Polyvinyl alcohol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Polyvinyl_alcohol",
+              "https://www.wikidata.org/wiki/Q146339"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "3-5-ETS1-3 Engineering Design",
+            "url": "https://www.nextgenscience.org/pe/3-5-ets1-3-engineering-design",
+            "publisher": {
+              "@type": "Organization",
+              "name": "NGSS Lead States / Achieve"
+            },
+            "datePublished": "2013"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Is hydrogen peroxide safe?",
+            "url": "https://www.poison.org/articles/hydrogen-peroxide",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Capital Poison Center (Poison Control)"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Contact dermatitis from Do-It-Yourself slime",
+            "url": "https://europepmc.org/article/PMC/PMC6256233",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Anais Brasileiros de Dermatologia (via Europe PMC)"
+            },
+            "datePublished": "2018-11"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Safer and Greener Polymer Demonstrations for STEM Outreach",
+            "url": "https://europepmc.org/article/PMC/PMC9954249",
+            "publisher": {
+              "@type": "Organization",
+              "name": "ACS Polymers Au (via Europe PMC)"
+            },
+            "datePublished": "2021-09-07"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Longitudinal Relations Between Representational and Advanced Theory of Mind and Scientific Reasoning From Ages 4 to 7",
+            "url": "https://europepmc.org/article/PMC/PMC13505288",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Developmental Science (via Europe PMC)"
+            },
+            "datePublished": "2026-08-25"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Impact of Interactive Science Workshops Participation on Primary School Children's Emotions and Attitudes Towards Science",
+            "url": "https://link.springer.com/article/10.1007/s10763-024-10539-2",
+            "publisher": {
+              "@type": "Organization",
+              "name": "International Journal of Science and Mathematics Education (Springer)"
+            },
+            "datePublished": "2025-01-11"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "8 Halloween science experiments, each with a variable to measure",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Rising raisin bats",
+            "description": "Ages 4–8, 15 min, NGSS 5-PS1-1; variable: fresh vs hour-old sparkling water; measure surface trips in 2 minutes."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Witch's brew density tower",
+            "description": "Ages 6–11, 30 min, NGSS 5-PS1-3; weigh 50 ml of each liquid, rank by density, predict the layer order."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Monster foam",
+            "description": "Ages 8–12 with adult, 20 min, NGSS 5-PS1-4; 3% hydrogen peroxide; variable: yeast-water temperature; measure foam height at 30 s."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ectoplasm slime",
+            "description": "Ages 8–12, 25 min, NGSS 2-PS1-2; variable: 1, 2 or 3 teaspoons of borate saline; measure stretch at 30 s."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Ghost egg",
+            "description": "Ages 6–12, 3 days, NGSS 5-PS1-4; vinegar dissolves shell, then water vs syrup osmosis measured in mm."
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Frozen spider rescue",
+            "description": "Ages 4–8, 30 min plus overnight, NGSS 2-PS1-4; salt vs sugar vs nothing; time to free the spider."
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Ghost parachutes",
+            "description": "Ages 6–11, 40 min, NGSS 3-PS2-1; canopy 15, 25 or 35 cm; average fall time from 2 m over 3 drops."
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Spider-web bridge",
+            "description": "Ages 8–12, 45 min, NGSS 3-5-ETS1-3; radial vs grid web with 1 m tape; coins held at failure."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween science experiments",
+    "absorbs": [
+      "halloween stem activities"
+    ],
+    "rank": 293,
+    "angle": "Wins by being the only post that turns every Halloween experiment into a measured fair test mapped to a named NGSS performance expectation and KS2 year, with a poison-centre or peer-reviewed source for each chemical, using SubhSandesh's 48.3% phone-open and 38.5% password rates for sharing a child's result.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nextgenscience.org/pe/3-5-ets1-3-engineering-design",
+        "stat": "3-5-ETS1-3: 'Plan and carry out fair tests in which variables are controlled and failure points are considered'; practice element: fair tests with 'the number of trials considered'",
+        "publishedDate": "2013"
+      },
+      {
+        "url": "https://www.poison.org/articles/hydrogen-peroxide",
+        "stat": "Household hydrogen peroxide is 3% and small exposures usually cause only mild irritation; hair bleach is 6–10%; 'food-grade' is 35% and can cause serious internal burns; rinse eyes with running water 15–20 minutes"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC6256233",
+        "stat": "Case of an 11-year-old with erythema, vesicles and exulcerations on six fingers after a year of DIY slime; improved within 25 days; borax acts as the activator cross-linking glue",
+        "publishedDate": "2018-11"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9954249",
+        "stat": "Borax slime linked in research to contact dermatitis and pediatric burns; 'no loss in educational value' moving to safer polymer demonstrations",
+        "publishedDate": "2021-09-07"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC13505288",
+        "stat": "Longitudinal study, 203 four-year-olds in Germany followed to 7.5; scientific reasoning measured at 4, 5.5 and 7.5 related to theory of mind",
+        "publishedDate": "2026-08-25"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10763-024-10539-2",
+        "stat": "186 students aged 9–13 from five schools; after hands-on science workshops joy and enthusiasm rose, boredom and anxiety fell (abstract only read; full text bot-walled)",
+        "publishedDate": "2025-01-11"
+      }
+    ],
+    "structuralLimitations": [
+      "No Halloween usage data in facts.md; first-party facts are platform-wide.",
+      "SERP: WebSearch (US index), 1 query. Results: weareteachers.com, weareteachers.com (?p= duplicate), teachstarter.com, conceito.jhsf.com.br (hijacked-subdomain spam PDF), famly.co, twinkl.com.au (collection page, empty fetch — snippet only), educationpossible.com, greaterhoustonmoms.com, gauravtiwari.org. Weak count 5 of 9 (jhsf spam, educationpossible, greaterhoustonmoms, gauravtiwari, famly), matching PLAN weak=5.",
+      "Strongest rival is gauravtiwari.org (5,500 words, 16 experiments with variables and safety notes, a lab journal); it already covers elephant toothpaste with a yeast-amount variable, apple mummy and catapult. This post avoids its variables (uses yeast-water temperature) and adds what none of the 5 analysed pages has: NGSS codes and KS2 years per experiment (0 of 5 mention either) and poison-centre/peer-reviewed safety sources.",
+      "Sibling overlap: 0 shared URLs with b3 halloween-ideas-for-kids and b4 halloween-ideas-for-teachers research briefs. Activities owned by siblings deliberately excluded: baking-soda cauldron, cornflour goo, static tissue ghosts, self-inflating balloon (b3 ideas-for-kids); pumpkin float/density, decomposer tub, bat wing (b4 teachers); quinine glow, butterfly pea (b6 cocktails); dry ice (b6 mocktails); candy corn/pumpkin botany (b6 facts). The prompt's 'pumpkin decomposition journal', 'static-electricity ghosts' and 'bubbling cauldron with baking soda' suggestions are already owned by b3/b4 siblings, so they were dropped — brief framing partly false.",
+      "UK KS2 statements verified on the gov.uk national curriculum page (updated 6 May 2015) but not linked: gov.uk is FULL this batch.",
+      "NGSS codes other than 3-5-ETS1-3 (5-PS1-1, 5-PS1-3, 5-PS1-4, 2-PS1-2, 2-PS1-4, 3-PS2-1) were fetched on nextgenscience.org and verified (HTTP 200) but only one NGSS URL is linked to stay within 6 outbound links. The experiment-to-standard mapping is the author's, stated as such in the FAQ.",
+      "Muñoz-Losa & Corbacho-Cuello 2025 (CC BY) — Springer returned a bot challenge; only the abstract (via OpenAlex) was read. Disclosed in body.",
+      "Typical densities (honey ~1.4 g/ml, oil ~0.9 g/ml), the Salmonella-on-raw-egg note and the salted-ice-is-colder note are general reference knowledge, not linked.",
+      "fda.gov and eric.ed.gov not used (one slot each left at time of writing); PLOS ONE, MDPI, Frontiers, Elsevier, T&F, Sage avoided."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in content/facts.md (BRIEF §3), and no first-party number describes experiments, ages or hazards; a platform-wide figure such as 48.3% phone opens would be a forced column. Closes when a read-only probe of /happy-halloween pages exists after 31 October 2026 (e.g. share of Kids-tone pages, or photos per page)."
+        }
+      ],
+      "honestAssessment": "None of the five analysed pages names a curriculum standard or links a safety source, and the strongest weak rival (gauravtiwari.org) has variables but no NGSS/KS2 codes; this is the only page pairing each experiment with a fair-test prompt, a named NGSS expectation and KS2 year, and a poison-centre or peer-reviewed safety citation. It is shorter than that rival (8 vs 16 experiments, no printable journal) and the domain has no education authority, so ranking against weareteachers and teachstarter will take months if it happens at all."
+    },
+    "generatedAt": "2026-10-14T09:58:36.050Z"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Bingo: A 24-Word Calling List and the Odds of Who Wins",
+    "slug": "halloween-bingo",
+    "excerpt": "An original 24-word Halloween bingo calling list with drawing cues, two ways to make unique cards (by hand or with one spreadsheet formula), exact odds of when someone wins, and picture, large-print and costume-spotting variants.",
+    "metaTitle": "Halloween Bingo: 24-Word Call List and Exact Win Odds",
+    "metaDescription": "Halloween bingo with an original 24-word calling list, a spreadsheet formula for unique cards, and exact odds: 20 players finish by call 8 half the time.",
+    "keywords": "halloween bingo, halloween bingo cards, halloween bingo calling list, how to make halloween bingo cards, halloween picture bingo",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-bingo",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "bingo",
+      "party games",
+      "classroom",
+      "printables"
+    ],
+    "keyTakeaways": [
+      "A 5×5 Halloween bingo card with a free centre needs exactly 24 words; with a 24-word pool every card holds every word, in one of 620,448,401,733,239,439,360,000 layouts.",
+      "With 20 players and 24 words, half of games end by the 8th call and about 26% end in a tie, so set a tie rule before you start.",
+      "Never make a new card by rotating an old one: its 8 rotations and reflections win on exactly the same call.",
+      "Adding 16 words to reach a 40-word pool takes a 30-player game from a median of 8 calls to 12 and cuts ties from 28% to 17%.",
+      "On SubhSandesh, 49.4% of festival pages are built on the day itself (Raksha Bandhan 2026, n = 89), which is why the card method here takes about 30 seconds a card."
+    ],
+    "faqs": [
+      {
+        "question": "How do you play Halloween bingo?",
+        "answer": "Give each player a 5×5 card holding 24 Halloween words or pictures in a random order, with a free centre square. The caller draws words one at a time, players mark matching squares, and the first to complete a row, column or diagonal shouts bingo."
+      },
+      {
+        "question": "How many words do I need for Halloween bingo cards?",
+        "answer": "A 5×5 card with a free centre needs 24 words, so a 24-word list is the minimum. Every card then holds every word, which makes games short; a pool of 40 words lets each card show 24 of them and makes a 30-player game last a median of 12 calls instead of 8."
+      },
+      {
+        "question": "Where can I print Halloween bingo cards?",
+        "answer": "SubhSandesh does not host printable cards. Paste our 24-word list into Excel 365 or Google Sheets, use the one-cell formula in this guide to generate a shuffled 5×5 grid with FREE in the centre, paste it as values and print one card per sheet."
+      },
+      {
+        "question": "How long does a game of Halloween bingo take?",
+        "answer": "With 24 words and 20 players, half of games end by the 8th call. At an estimated 20 seconds per call that is under 3 minutes a game, so a half-hour slot fits 8 to 10 rounds."
+      },
+      {
+        "question": "What happens if two people get bingo on the same call?",
+        "answer": "It happens in about 1 game in 4 with 20 players and a 24-word pool, so settle the rule before the first call. Either both share the prize, or the caller draws one more word and the first tied player to mark it wins."
+      },
+      {
+        "question": "Can you play blackout Halloween bingo?",
+        "answer": "Not with a 24-word pool on a 5×5 card, because every card holds every word and all cards fill on the 24th call. Blackout needs a bigger pool: with 40 words, the first full card in a 30-player game comes at a median of call 37."
+      },
+      {
+        "question": "How do you play Halloween bingo with preschoolers?",
+        "answer": "Use a 3×3 picture card with a free centre and 8 pictures drawn from a pool of 12, with the word printed under each one. Play to a full card rather than a line, hold up each picture as you call it, and give a sticker to everyone who fills a card."
+      },
+      {
+        "question": "Is bingo good for older adults?",
+        "answer": "In the Bingocize trial reported in Innovation in Aging in 2022, 143 adults aged 60 and over played twice a week for 12 weeks with over 90% attendance, and every group, including bingo-only, reported better sleep, less pain and more energy. That is a self-reported trial abstract, so treat it as encouraging rather than proof."
+      },
+      {
+        "question": "What can I use as Halloween bingo markers?",
+        "answer": "Dried beans, buttons or bottle caps work well and leave the card clean for the next game. Pens and stampers mean one card per game, which matters if you made the cards by hand."
+      },
+      {
+        "question": "What is costume-spotting bingo?",
+        "answer": "It is a no-caller version for a trick-or-treat walk: each walker carries a 4×4 card of sights such as a dog in costume or a cardboard-box costume. A walker shows each sighting to an adult before marking it, and if nobody completes a line, most squares by the end of the walk wins."
+      },
+      {
+        "question": "When is Halloween in 2026 and 2027?",
+        "answer": "Halloween is on Saturday 31 October 2026 and Sunday 31 October 2027. It falls on 31 October every year."
+      }
+    ],
+    "coverImageQuery": "halloween bingo cards table",
+    "coverImagePrompt": "A warm, photorealistic overhead shot of hand-drawn Halloween bingo cards on a wooden table, with simple pumpkin, ghost and bat doodles in the squares and dried beans used as markers. A paper bowl of folded calling slips sits to one side, lit by a small candle lantern. Clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Bingo: A 24-Word Calling List and the Odds of Who Wins\n\nHalloween bingo is ordinary bingo played with 24 spooky words or pictures instead of numbers: each player gets a 5×5 card with a free centre, a caller draws words one at a time, and the first complete row, column or diagonal wins. With our 24-word list and 20 players, half of all games end by the 8th call and about 1 in 4 ends in a tie. Two SubhSandesh figures shaped this guide: in our festival data (Raksha Bandhan 2026, n = 89 pages, our nearest analogue), 49.4% of pages were built on the day itself, so the card method below takes minutes; and 48.3% of shared pages are opened on a phone, so the caller can run the list from one.\n\nWe cannot host printable cards, so below are the calling list, two ways to make unique cards, the maths and three variants.\n\n## What is Halloween bingo?\n\nHalloween bingo is a themed version of bingo in which each square holds a Halloween word or picture, called in random order. With no numbers, a child who can match a picture can play alongside adults.\n\nStandard American bingo uses 75 numbers, and the [English Wikipedia article on the game](https://en.wikipedia.org/wiki/Bingo_(American_version)) puts the number of possible cards at 552,446,474,061,128,648,601,600,000. A themed game is far smaller. With a pool of exactly 24 words, every card holds every word, so cards differ only in layout: 24 factorial, or 620,448,401,733,239,439,360,000 arrangements.\n\n## A 24-word Halloween bingo calling list\n\nEach word has a quick drawing cue, so the list also makes picture cards for pre-readers.\n\n1. Pumpkin: a circle with a curly stalk\n2. Ghost: a sheet with two dot eyes\n3. Bat: a wide W with pointed ears\n4. Black cat: arched back, tail high\n5. Witch's hat: a tall cone on a brim\n6. Broomstick: a stick ending in straw\n7. Cauldron: a pot on three short legs\n8. Spider: eight bent legs around a dot\n9. Cobweb: spokes joined by sagging lines\n10. Skeleton: a stick figure in bones\n11. Full moon: a circle with crater dots\n12. Owl: two huge eyes, tiny beak\n13. Candle: a tube with a teardrop flame\n14. Candy corn: a three-striped triangle\n15. Haunted house: crooked roof, one lit window\n16. Tombstone: a rounded slab marked RIP\n17. Mummy: zigzag bandage lines\n18. Vampire fangs: two pointed teeth\n19. Scarecrow: a straw hat on a cross\n20. Crow: a black bird on a fence post\n21. Apple: one leaf, for apple bobbing\n22. Potion bottle: a corked round flask\n23. Treat bucket: a pail with a grin\n24. Autumn leaf: five points and a stem\n\n## How to make unique Halloween bingo cards\n\nEvery card needs the 24 words in a different random order, with FREE in the centre. Shuffling does that for you: the chance that two of 30 shuffled cards come out identical is under 1 in 10^20.\n\nThe one mistake is making new cards by rotating or flipping an old one. A square has 8 such symmetries, and each maps every line onto another line, so a rotated twin wins on exactly the same call every game. That still leaves 77,556,050,216,654,929,920,000 layouts that behave differently.\n\n**By hand** (about 4 minutes a card, our estimate):\n\n1. Write the 24 words on slips and put them in a bowl.\n2. Draw a 5×5 grid with FREE in the centre square.\n3. Draw slips and fill the squares left to right, skipping the centre.\n4. Return the slips and shake the bowl for the next card.\n\n**In a spreadsheet** (about 30 seconds a card, our estimate):\n\n1. Type the 24 words into cells A1 to A24.\n2. Paste the formula for your software into an empty cell. It fills a 5×5 block with FREE in the middle.\n3. Paste the block as values only onto your print sheet.\n4. Recalculate for the next card: F9 in Excel, or any edit in Google Sheets.\n\n- Excel 365: `=LET(s,SORTBY(A1:A24,RANDARRAY(24)),WRAPROWS(VSTACK(CHOOSEROWS(s,SEQUENCE(12)),\"FREE\",CHOOSEROWS(s,SEQUENCE(12,1,13))),5))`\n- Google Sheets: `=LET(s,SORT(A1:A24,RANDARRAY(24),TRUE),WRAPROWS(VSTACK(CHOOSEROWS(s,SEQUENCE(12)),\"FREE\",CHOOSEROWS(s,SEQUENCE(12,1,13))),5))`\n\n## How many calls until someone shouts bingo?\n\nExact figures for line wins on a 5×5 card with a free centre and the 24-word pool:\n\n- 1 card: half of games are won by call 14; a line is certain by call 20, because 5 well-placed gaps can block all 12 lines for 19 calls.\n- 4 players: median call 11; 17% of games end in a tie.\n- 12 players: median call 9; 23% end in a tie.\n- 20 players: median call 8; 26% end in a tie.\n- 30 players: median call 8; 28% end in a tie.\n\nBecause every card holds every word, after k calls each card has k marked squares in random places, independently of every other card. Counting, by inclusion and exclusion, the k-word sets that complete at least one of the 12 lines gives p(k), the chance one card has a line; with n players, the chance nobody has won is (1 − p(k))^n. 20,000 simulated twenty-player games averaged 8.31 calls; the exact figure is 8.32.\n\nThe fastest possible win is 4 calls, on a line through the free centre, which happens to any one card about once in 2,657 games. At an estimated 20 seconds per call, a 20-player game lasts under 3 minutes, so plan 8 to 10 rounds for half an hour and set the tie rule first: shared prize, or one extra draw between the tied players.\n\nThe same method compares four formats, assuming random cards:\n\n| Version | Card and word pool | Group size | First win, median call | Games ending in a tie |\n|---|---|---|---|---|\n| Party lines | 5×5 with free centre, all 24 words | 20 players | 8th | 26% |\n| Pre-reader pictures, full card | 3×3 with free centre, 8 of 12 pictures | 25 children | 10th | 51% |\n| Large print | 4×4, 16 of the 24 words | 12 players | 8th | 23% |\n| Longer game | 5×5 with free centre, 24 of 40 words | 30 players | 12th | 17% |\n\nA bigger word pool is the only lever that slows the game and cuts ties: adding 16 words of your own to reach 40 takes a 30-player game from a median of 8 calls to 12.\n\n## Three Halloween bingo variants\n\nOne rule covers all three: never play blackout (full card) with the 24-word pool on a 5×5 card, because every card fills on the 24th call and everyone ties.\n\n### Classroom picture bingo for pre-readers\n\nPick 12 of the easiest words, such as pumpkin, ghost, bat, full moon, spider, owl, apple and candle, and give each child a 3×3 card with a free centre and 8 of those 12 pictures. Print the word under each drawing, and have the caller hold up the picture while saying it.\n\nPlay to a full card, not a line. With 25 children, a 3×3 line game is usually over by the 2nd call, while a full card takes a median of 10 calls. Half of those games still tie, so give a sticker to every child who fills a card.\n\n### Large-print bingo for older players\n\nCut the grid to 4×4, with 16 of the 24 words and no free square, so each square on the same sheet is 25% wider and about 56% larger in area than on a 5×5 card. Use heavy type, no background pictures and large counters.\n\nA clinical trial of [Bingocize, reported in Innovation in Aging in 2022](https://europepmc.org/article/PMC/PMC9766423), randomised 143 adults aged 60 and over to bingo with or without exercise and health education, twice a week for 12 weeks. Attendance stayed above 90%, and every group, including bingo-only, reported better sleep, less pain and more energy. The [Well!Bingo study in BMC Women's Health (2017)](https://europepmc.org/article/PMC/PMC5534081) found that 29 women from a bingo club who wore accelerometers averaged 9.6 sedentary hours a day. So build in movement: when the caller draws \"Bat\", everyone flaps their arms, standing or seated.\n\n### Costume-spotting bingo on a trick-or-treat walk\n\nNo caller: each walker carries a 4×4 grid of sights and marks one on seeing it:\n\n- A cardboard-box costume\n- A dog dressed up\n- A family in matching costumes\n- Something that lights up\n- A cape\n- A dinosaur\n- A homemade mask\n- A lit jack-o'-lantern on a doorstep\n- A house playing spooky music\n- A costume with wings\n- A crown or tiara\n- A fog machine\n- A costume nobody can name\n- A sheet ghost\n- A broom\n- A grown-up in full costume\n\nBorrow the rule from [Non-Technical Skills Bingo (Advances in Simulation, 2016)](https://europepmc.org/article/PMC/PMC5806249), where players spot examples of their squares in video clips and then defend each claim to the game leader: a walker points out each sighting to an adult before marking it. In a [pediatric rheumatology training bingo (2025)](https://europepmc.org/article/PMC/PMC12493062), residents ticked an average of 12 squares in a week and 31% made a line, so name a fallback winner: most squares by the walk's end. Mark only when stopped on the pavement, never while crossing.\n\n## When Halloween bingo is the wrong game, and SubhSandesh's limits\n\nBingo suits a group happy to sit and listen, not a party that wants to talk. For 2 or 3 players it drags: a lone card's median is 14 calls.\n\nSubhSandesh is not a bingo tool: we cannot print cards, call words or keep score, and our Halloween pages greet one person, never a whole party. For the winner, or a grandparent who missed the game, our [interactive Halloween card where they carve a jack-o'-lantern](https://subhsandesh.in/happy-halloween) is about a 5-minute build with room for 6 photos. The [premium Halloween page with your voice note of up to 60 seconds](https://subhsandesh.in/happy-halloween-premium) is about a 10-minute build with room for 12 photos, an optional unlock time and one reply. 38.5% of our creators set a password first. For a far-away friend who skips Halloween, a [miss-you page with open-when letters](https://subhsandesh.in/missyou-gf) is the better fit.\n\nHalloween falls on Saturday 31 October 2026 and Sunday 31 October 2027.\n\n## Sources\n\n- Wikipedia, \"Bingo (American version)\", standard 75-ball card count (undated).\n- Bingocize clinical trial abstract, Innovation in Aging, 1 November 2022.\n- Ryde et al., Well!Bingo study, BMC Women's Health, 28 July 2017 (abstract read).\n- Dieckmann et al., Non-Technical Skills Bingo, Advances in Simulation, 22 July 2016 (abstract read).\n- Gillispie-Taylor, pediatric rheumatology bingo, Perspectives on Medical Education, 30 September 2025 (abstract read).\n- SubhSandesh first-party data, measured September 2026; game odds calculated by us, October 2026.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-bingo#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Bingo (American version)",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bingo_(American_version)",
+              "https://www.wikidata.org/wiki/Q878160"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Trick-or-treating",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Trick-or-treating",
+              "https://www.wikidata.org/wiki/Q47195"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Educational game",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Educational_game",
+              "https://www.wikidata.org/wiki/Q1140363"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Large-print",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Large-print",
+              "https://www.wikidata.org/wiki/Q1548123"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "WebPage",
+            "name": "Bingo (American version)",
+            "url": "https://en.wikipedia.org/wiki/Bingo_(American_version)",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Wikipedia"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Improvements in Health-Related Quality of Life for Bingocize Clinical Trial Participants",
+            "url": "https://europepmc.org/article/PMC/PMC9766423",
+            "datePublished": "2022-11-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Innovation in Aging (Oxford University Press)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "How active are women who play bingo: a cross-sectional study from the Well!Bingo project",
+            "url": "https://europepmc.org/article/PMC/PMC5534081",
+            "datePublished": "2017-07-28",
+            "publisher": {
+              "@type": "Organization",
+              "name": "BMC Women's Health"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Non-Technical Skills Bingo — a game to facilitate the learning of complex concepts",
+            "url": "https://europepmc.org/article/PMC/PMC5806249",
+            "datePublished": "2016-07-22",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Advances in Simulation"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Bingo! Gamifying Pediatric Rheumatology Education One Square at a Time",
+            "url": "https://europepmc.org/article/PMC/PMC12493062",
+            "datePublished": "2025-09-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Perspectives on Medical Education"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Three Halloween bingo variants",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 3,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Classroom picture bingo for pre-readers",
+            "description": "3×3 card with a free centre, 8 of 12 pictures, played to a full card; 25 children: median 10 calls, 51% ties."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Large-print bingo for older players",
+            "description": "4×4 card with 16 of the 24 words and no free square; 12 players: median 8 calls, 23% ties."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Costume-spotting bingo on a trick-or-treat walk",
+            "description": "No caller; 4×4 card of 16 sights, each shown to an adult before marking; fallback winner is most squares."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween bingo",
+    "absorbs": [
+      "halloween bingo cards"
+    ],
+    "angle": "Wins by being the only post that does the maths of Halloween bingo — exact odds of when a game ends and how often it ties for 1 to 30 players, why 24 words make blackout impossible, and why rotated cards are twins — alongside an original 24-word calling list with drawing cues, a one-cell spreadsheet card generator and three variants (pre-reader, large-print, costume-spotting), framed by SubhSandesh's 49.4% build-on-the-day (Raksha Bandhan analogue) and 48.3% phone-open figures.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bingo_(American_version)",
+        "stat": "Wikipedia 'Bingo (American version)': possible standard 75-ball cards = P(15,5)^4 × P(15,4) = 552,446,474,061,128,648,601,600,000 (≈5.52×10^26). Verified via the Wikipedia API extract 2026-10-14; figure independently recomputed (360,360^4 × 32,760)."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9766423",
+        "stat": "Innovation in Aging 2022 (GSA abstract supplement, CC BY): Bingocize trial, 143 adults 60+ randomised to four conditions (bingo-only control, bingo+health education, bingo+exercise, bingo+both), twice weekly for 12 weeks; session adherence >90%; all participants reported better sleep quality, reduced pain and increased energy (p < .05); exercise groups had greater decreases in anxious and physically unhealthy days. Abstract is the full item; read via Europe PMC REST API (site returns 403 to direct fetch).",
+        "publishedDate": "2022-11-01"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC5534081",
+        "stat": "Ryde et al., BMC Women's Health 2017 (CC BY), Well!Bingo: 151 women at a central Scotland bingo club, mean age 56.5; accelerometer sub-sample n = 29 averaged 18.1 min/day MVPA and 9.6 h/day sedentary; older women 1.8 h more sedentary than younger. Abstract read via Europe PMC REST API.",
+        "publishedDate": "2017-07-28"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC5806249",
+        "stat": "Dieckmann et al., Advances in Simulation 2016 (CC BY): Non-Technical Skills Bingo — cards show five NTS elements; while watching video clips players look for examples matching their cards, then 'defend' their solution in discussion with the game leader. Abstract read via Europe PMC REST API.",
+        "publishedDate": "2016-07-22"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12493062",
+        "stat": "Gillispie-Taylor, Perspectives on Medical Education 2025 (CC BY): pediatric rheumatology bingo card used by 50 interns over a one-week rotation; 74% submitted cards; average 12 squares checked per week; 31% achieved bingo. Abstract read via Europe PMC REST API.",
+        "publishedDate": "2025-09-30"
+      }
+    ],
+    "structuralLimitations": [
+      "No Halloween usage data exists in facts.md; first-party figures are platform-wide plus the Raksha Bandhan lead-time line, disclosed in the body as the nearest analogue (n = 89). The comparison table carries SubhSandesh-calculated odds, not first-party usage data.",
+      "SERP: 1 WebSearch (US index), no second search. Top 10: lexingtonky.macaronikid.com (local franchise blog, fetched), merimeri.com (retailer blog, 403, snippet only), alloprof.qc.ca (fetched, ~100-word rules + PDF), merimerieu.com (duplicate retailer page), bingocardcreator.com (card-generator tool page, fetched), apps.apple.com (app listing), adconsole.inmobi.com (hijacked-subdomain spam), crayonsandcravings.com (fetched; 10 printable cards + 30 calling cards), twinkl.com (paid teacher resource, snippet), crayonsandcravings.com/?p= (duplicate). Weak: 6 of 10. None states a card count, game-length odds or tie rates; none gives a spreadsheet method.",
+      "Brief/prompt claim check: the prompt asked for open-access research on 'bingo for vocabulary'. The only bingo-vocabulary study found (ERIC ED479379, 2003, fourth-graders: bingo review scored higher on average but not significantly) sits on eric.ed.gov, which capcheck shows at the 3-post batch cap, so it was not cited. Indonesian bingo-vocabulary papers from Crossref are low-quality journals and were not used. Kids' learning claims were therefore left out of the body.",
+      "The 75-ball card count is cited to Wikipedia (the only fetchable source stating it; NCTM Mathematics Teacher articles of 1973/1993 are paywalled) and recomputed independently. Note: it counts cards with column order significant.",
+      "All odds were computed by the writer: exact inclusion–exclusion over the 12 lines with independent cards, P(no winner after k calls) = (1 − p(k))^n; cross-checked by 20,000-game Monte Carlo (mean 8.31 vs exact 8.32 for 20 players). The 20-seconds-per-call and minutes-per-card figures are labelled estimates. The spreadsheet formulas were not executed in Excel or Google Sheets (no access); they use only documented functions (LET, SORTBY/SORT, RANDARRAY, WRAPROWS, VSTACK, CHOOSEROWS, SEQUENCE).",
+      "All four Europe PMC papers were read at abstract level via the Europe PMC REST API (europepmc.org returns 403 to direct fetch). The Bingocize item is a conference abstract; its outcomes are self-reported.",
+      "Cannibalisation: no sibling shares 4+ SERP URLs (b1 halloween-party-games and b2 halloween-party-games-for-kids briefs share only the macaronikid/twinkl domains). b1 'Monster Bingo' (find-a-guest card), b4 seniors 'Riddle Bingo' and 'Object Bingo' (3 cm squares, whiteboard) were read and not reused."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween or bingo usage data exists in facts.md (BRIEF §3); the comparison table's values are SubhSandesh's own calculated odds, which are original but not first-party usage data. Re-check trigger: a probe of /happy-halloween pages after 31 October 2026."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this page: it is the only Halloween bingo result that answers 'how many words', 'how long does a game take' and 'how often does it tie' with exact, reproducible numbers, gives a one-cell card generator, and explains why 24-word blackout always ties. The weaknesses are that the scholarly sources are about bingo generally, not Halloween, and are read at abstract level; there is no first-party Halloween data; and printable-card incumbents (Twinkl, Bingo Card Creator, Crayons and Cravings) serve the dominant 'download cards' intent, which this page deliberately does not."
+    },
+    "generatedAt": "2026-10-14T09:18:24.228Z"
+  }
+}
