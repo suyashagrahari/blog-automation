@@ -1,0 +1,374 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Virtual Team Building: 10 Activities by Team Size",
+    "slug": "halloween-virtual-team-building",
+    "excerpt": "Ten original Halloween virtual team building activities for teams of 5, 15 or 50+, a US/UK/India/Australia schedule for 2026 and 2027, and camera-optional, captioned rules.",
+    "metaTitle": "Halloween Virtual Team Building: Ideas for 4 Time Zones",
+    "metaDescription": "Halloween virtual team building for teams of 5, 15 or 50+: 10 original activities, a 2026 and 2027 schedule for the UK/US clock gap, and camera-off tips.",
+    "keywords": "halloween virtual team building, virtual halloween party ideas for work, remote team halloween activities, halloween activities for remote teams",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-virtual-team-building",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "remote work",
+      "team building",
+      "workplace",
+      "virtual events"
+    ],
+    "keyTakeaways": [
+      "Size the activity to the team: chat games for 3–8 people, breakout rooms for 10–25, polls or async threads for 50 or more.",
+      "Halloween is Saturday 31 October 2026 and Sunday 31 October 2027, so remote teams usually meet on Friday 30 October 2026 or Friday 29 October 2027.",
+      "A Friday 12:30 UTC call lands at 12:30 in London in 2026 but 13:30 in 2027, while New York (08:30), Mumbai (18:00) and Sydney (23:30) stay the same.",
+      "All 10 activities work with cameras off; Microsoft Teams supports up to 50 breakout rooms and live captions in US, UK, Indian and Australian English (as of October 2026)."
+    ],
+    "faqs": [
+      {
+        "question": "What are good Halloween virtual team building activities?",
+        "answer": "Pick one short activity sized to the team: a chat guessing game or a haunted changelog for 3 to 8 people, breakout-room games such as a monster spec sheet for 10 to 25, and live polls or an async channel activity for 50 or more. Keep every one camera-optional and under 30 minutes."
+      },
+      {
+        "question": "What are some virtual Halloween party ideas for work that need no costumes?",
+        "answer": "Run two or three no-costume activities back to back: a guess-whose-city chat round, a fog-reveal whiteboard game and a poll-driven haunted-house story. Add five minutes of open chat between them, which is the part remote teams usually miss."
+      },
+      {
+        "question": "Which day should a remote team celebrate Halloween in 2026 and 2027?",
+        "answer": "Halloween is Saturday 31 October 2026 and Sunday 31 October 2027, so most teams use the Friday before: 30 October 2026 or 29 October 2027. Keep it inside paid working hours."
+      },
+      {
+        "question": "What time works for a Halloween call across the US, UK, India and Australia?",
+        "answer": "No single slot fits all of them. Run 07:30 UTC for Sydney, Mumbai and London, and 12:30 UTC for London, Mumbai and New York, and give the US West Coast an async activity instead of a 05:30 call."
+      },
+      {
+        "question": "Should cameras be on for a virtual Halloween event at work?",
+        "answer": "Make them optional and say so in the invite. A study of 849 employees found cameras-off norms can feel disconnected, so choose activities that run on chat, voice and polls rather than requiring faces on screen."
+      },
+      {
+        "question": "How do I include remote colleagues who don't celebrate Halloween?",
+        "answer": "Offer at least one activity with no Halloween in it, such as a round where people describe how late autumn is marked where they live, or anonymous thank-you notes. Never ask anyone to explain why they are opting out."
+      },
+      {
+        "question": "How many breakout rooms can Microsoft Teams create?",
+        "answer": "As of October 2026, Microsoft's support guide says an organiser can create up to 50 breakout rooms, set a time limit that closes them automatically, and let participants choose their own room. Zoom and Google Meet also have breakout rooms, with limits that depend on your plan."
+      },
+      {
+        "question": "How do I run a Halloween activity for 100 or more remote employees?",
+        "answer": "Use formats where a few people speak and everyone else clicks: a narrated story with live polls at each fork, an anonymous kind-notes form, or a photo thread that fills up across time zones. Turn on live captions and keep cameras off by default."
+      },
+      {
+        "question": "Can SubhSandesh run our virtual Halloween party?",
+        "answer": "No. SubhSandesh Halloween pages greet one person each and have no group or meeting mode. Use one to thank a single remote colleague, and use your video-call tool for the team event."
+      }
+    ],
+    "coverImageQuery": "remote team video call halloween",
+    "coverImagePrompt": "A warm, photorealistic laptop screen showing a video call grid of six remote colleagues in different home settings, a few with small paper jack-o'-lanterns and desk lamps glowing behind them, some tiles showing only initials with cameras off. Soft autumn evening light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Virtual Team Building: 10 Activities by Team Size\n\nHalloween virtual team building works best as one short, camera-optional activity sized to your headcount: a 10 to 20 minute chat game for 5 people, breakout rooms for 15, and polls or an async thread for 50 or more. With 31 October on a Saturday in 2026 and a Sunday in 2027, most remote teams meet on the Friday before, a week when UK and US clocks disagree.\n\nTwo numbers from our own platform shape this advice. 48.3% of shared SubhSandesh pages get opened on a phone, so expect many colleagues to join from a small screen. People also leave festive tasks late: on SubhSandesh, 49.4% of Raksha Bandhan 2026 greetings were made on the day itself (n = 89; another festival, our closest analogue), so send the invite a week out.\n\n## What counts as Halloween virtual team building?\n\nIt is a shared activity, on a call or in a chat channel, that gives a distributed team a reason to talk about something other than work. The theme is the excuse; the goal is lost small talk. Virtual Halloween party ideas for work follow the same rules: a party is two or three of these activities back to back.\n\nA Microsoft Research study of 849 employees at one global technology company ([Bergmann et al., 2022](https://europepmc.org/article/PMC/PMC9660180)) found that video meetings left little room for that sociality, and that the gap fed videoconferencing fatigue. One diarist on a cameras-off team described \"a sense of disconnect\", so every activity below builds in talking time without making the camera compulsory.\n\n## Small teams (3 to 8 people): 3 activities\n\nSmall teams can talk freely without breakout rooms. Each of these needs under 10 minutes of preparation.\n\n### 1. Whose Street Is It?\n\nEveryone types three chat sentences about the eeriest thing they passed outside this month, such as a neighbour's plastic skeleton in a deckchair. The host reads each aloud, unnamed, and the team guesses whose city it is. It takes 15 minutes, fully camera-off.\n\n### 2. The Haunted Changelog\n\nIn a shared document titled \"Release notes, v13.13\", each person adds two fake changelog lines for a haunted version of a daily tool:\n\n- \"Fixed: the printer now screams only on Fridays.\"\n- \"Known issue: the 4pm sync keeps rescheduling itself to 3am.\"\n\nRead them aloud and vote on which line deserves to ship. It takes 20 minutes.\n\n### 3. The Haunted Standup\n\nEach person gives their standup update as the ghost of their project a year from now: what haunted it, and what they wish they had fixed in October. This disguised pre-mortem often surfaces a real risk, in 10 minutes.\n\n## Mid-size teams of 10 to 25: 3 activities\n\nBreakout rooms carry this size. As of October 2026, [Microsoft's breakout-room guide for Teams](https://support.microsoft.com/en-us/office/use-breakout-rooms-in-microsoft-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461) lets an organiser create up to 50 rooms, set a time limit that closes them automatically, and let people choose their own room. Zoom and Google Meet have them too; check your plan's limits.\n\n### 4. Four Autumns\n\nMix rooms across countries. Each person gets two minutes on how late October or early November is marked where they live: Halloween, a harvest festival, a day for remembering the dead, or nothing at all. Rooms report back one surprise, in 25 minutes total, with no costume required.\n\n### 5. The Fog Reveal\n\nOn a shared whiteboard, the host hides a photo of a carved pumpkin under 12 grey squares. Rooms take turns removing one and guessing; fewer squares needed means more points. Allow 15 minutes, plus 10 minutes of preparation.\n\n### 6. Monster Spec Sheet\n\nEach room specs a monster that would fix one real team annoyance, such as a ghost that takes meeting notes, with three requirements, one known bug and a launch date. Rooms pitch in 90 seconds and the call votes with reactions, inside 25 minutes.\n\n## 50 or more people: 4 activities that scale\n\nLarge calls need formats where 3 people speak and 300 take part by clicking. Two of these four need no meeting at all.\n\n### 7. Poll-Path Haunted House\n\nThe host narrates a haunted-house walk with six forks, such as cellar or stairs, and each fork is a 20-second live poll the majority decides. It runs 20 minutes with cameras off by default.\n\n### 8. Ghost Mail\n\nThe week before, open an anonymous form for short, kind notes to named colleagues about one way they helped in the past year. On Friday the host forwards each note, signed \"a friendly ghost\", after screening every one for tone.\n\n### 9. The Lantern Wave\n\nAt 6pm local time on the Friday, everyone posts a photo of a lamp or paper jack-o'-lantern in one channel. Sydney sits 18 hours ahead of San Francisco that week, so posts roll in as a slow westward wave. Battery lights only; keep candles away from desks.\n\n### 10. The Two-Session Riddle Relay\n\nRun two 30-minute sessions, one for Asia-Pacific and one for the Americas, with Europe and India welcome at either. Session one writes a riddle about a \"cursed object\" from the team's own work; session two solves it and leaves an answer for Monday. The time-zone gap becomes the game.\n\n## Activities compared: time, camera and format by team size\n\nThis table groups the 10 activities by headcount, time and reliance on video.\n\n| Team size | Activities | Time each | Camera needed? |\n|---|---|---|---|\n| 3–8 | Whose Street, Haunted Changelog, Haunted Standup | 10–20 min | No: chat or voice |\n| 10–25 | Four Autumns, Fog Reveal, Monster Spec Sheet | 15–25 min | Optional: breakout rooms |\n| 50+ live | Poll-Path Haunted House | 20 min | No: polls only |\n| 50+ async | Ghost Mail, Lantern Wave, Riddle Relay | 0–30 min | No: channel or form |\n\nNone of the 10 needs a camera. The bigger the team, the more of the activity should leave the live call.\n\n## Scheduling a Halloween call across the US, UK, India and Australia\n\nTwo 60-minute sessions cover four countries better than one. The times below come from the IANA time-zone database (2025b), checked against the UK's [Summer Time Order 2002](https://www.legislation.gov.uk/uksi/2002/262/article/2/made) and [NIST's daylight saving time rules](https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst).\n\n| City | Session A, Fri 30 Oct 2026 | Session A, Fri 29 Oct 2027 | Session B, Fri 30 Oct 2026 | Session B, Fri 29 Oct 2027 |\n|---|---|---|---|---|\n| Sydney | 18:30 | 18:30 | 23:30 | 23:30 |\n| Mumbai | 13:00 | 13:00 | 18:00 | 18:00 |\n| London | 07:30 | 08:30 | 12:30 | 13:30 |\n| New York | 03:30 | 03:30 | 08:30 | 08:30 |\n| San Francisco | 00:30 | 00:30 | 05:30 | 05:30 |\n\nSession A is 07:30 UTC and Session B 12:30 UTC in both years; only the London column changes, so re-check it rather than copying last year's invite. No single slot puts all five cities inside working hours, so give the US West Coast the async activities rather than a 05:30 call.\n\n## Camera-optional and captioned: 4 inclusion rules\n\n1. **Make cameras optional, in writing, in the invite.** A cameras-off norm can cost some connection, so these activities lean on chat, voice and polls instead.\n2. **Turn on live captions.** As of October 2026, [Microsoft's live-captions guide](https://support.microsoft.com/en-us/office/use-live-captions-in-microsoft-teams-meetings-4be2d304-f675-4b57-8347-cbd000a21260) lists English (US), (UK), (India) and (Australia) among the spoken languages, with translated captions as an option. Microsoft notes captions are not yet on the Teams mobile app in government clouds.\n3. **Offer a Halloween-free route.** Four Autumns and Ghost Mail suit colleagues who sit Halloween out for faith or personal reasons, and no one owes an explanation.\n4. **Keep it inside paid hours and under 30 minutes.** A survey of 121 remote workers ([Korkmaz et al., 2025, BMC Public Health](https://europepmc.org/article/PMC/PMC12306097)) linked loneliness with higher depression, anxiety and stress, and its authors called for policies that increase social interaction. A short, regular habit does more of that than one long evening.\n\n## A Halloween page for one colleague, not the whole team\n\nSubhSandesh is not a team-building tool. Each Halloween page greets exactly one person, in partner, best-friend, family or kids mode, so save it for the remote teammate you now count as a friend, not the all-hands.\n\nFor a five-minute thank-you, the [short interactive Halloween card](https://subhsandesh.in/happy-halloween) holds six photos at most plus a letter. Choose best-friend mode and rewrite its final question (60-character limit) as a joke, since the No button runs away a few times.\n\nThe [cinematic premium Halloween page](https://subhsandesh.in/happy-halloween-premium) is a ten-minute build with a voice note of at most 60 seconds, as many as 12 photos and a one-reply box. Set its unlock time so a Sydney teammate opens it on their own evening, and note that 38.5% of creators password their page first. Teammates who skip Halloween get a better fit from [the full SubhSandesh template library](https://subhsandesh.in/templates).\n\n## When Halloween virtual team building is the wrong call\n\nCancel it in a layoff month, during a release crunch, or when half the team would join near midnight. Bergmann and colleagues found that social moments on video carried their own awkwardness, such as small talk performed in front of a whole meeting, so a compulsory extra call can undo the point.\n\nAn office-based team should simply meet in person. SubhSandesh loses outright here: its pages work in English only, for one recipient each, with no group mode.\n\n## Sources\n\n- Bergmann, R., Rintel, S., Baym, N. et al. \"Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19.\" Computer Supported Cooperative Work, 2022.\n- Korkmaz, U., Şimşek, M. H. and Şahin, Ö. F. \"The effect of emotion regulation difficulties and loneliness on anxiety, depression, and stress levels in remote workers.\" BMC Public Health, 2025.\n- Microsoft Support. \"Manage breakout rooms in Microsoft Teams.\" Accessed 15 October 2026.\n- Microsoft Support. \"Use live captions in Microsoft Teams meetings.\" Accessed 15 October 2026.\n- National Institute of Standards and Technology. \"Daylight Saving Time Rules.\" Created 2 March 2010.\n- The Summer Time Order 2002 (SI 2002/262), article 2. Made 12 February 2002.",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-virtual-team-building#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Team building",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Team_building",
+              "https://www.wikidata.org/wiki/Q1568322"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Remote work",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Remote_work",
+              "https://www.wikidata.org/wiki/Q1135326"
+            ]
+          },
+          {
+            "@type": "SoftwareApplication",
+            "name": "Microsoft Teams",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Microsoft_Teams",
+              "https://www.wikidata.org/wiki/Q28406404"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Daylight saving time",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Daylight_saving_time",
+              "https://www.wikidata.org/wiki/Q36669"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19",
+            "url": "https://europepmc.org/article/PMC/PMC9660180",
+            "datePublished": "2022-11-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Computer Supported Cooperative Work (Springer Nature)"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "The effect of emotion regulation difficulties and loneliness on anxiety, depression, and stress levels in remote workers",
+            "url": "https://europepmc.org/article/PMC/PMC12306097",
+            "datePublished": "2025-07-29",
+            "publisher": {
+              "@type": "Organization",
+              "name": "BMC Public Health (BMC)"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "name": "Manage breakout rooms in Microsoft Teams",
+            "url": "https://support.microsoft.com/en-us/office/use-breakout-rooms-in-microsoft-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "name": "Use live captions in Microsoft Teams meetings",
+            "url": "https://support.microsoft.com/en-us/office/use-live-captions-in-microsoft-teams-meetings-4be2d304-f675-4b57-8347-cbd000a21260",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "name": "Daylight Saving Time Rules",
+            "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+            "datePublished": "2010-03-02",
+            "publisher": {
+              "@type": "Organization",
+              "name": "National Institute of Standards and Technology"
+            }
+          },
+          {
+            "@type": "Legislation",
+            "name": "The Summer Time Order 2002, article 2",
+            "url": "https://www.legislation.gov.uk/uksi/2002/262/article/2/made",
+            "datePublished": "2002-02-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "legislation.gov.uk (The National Archives)"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "10 Halloween virtual team building activities by team size",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 10,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Whose Street Is It?"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "The Haunted Changelog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Haunted Standup"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Four Autumns"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "The Fog Reveal"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Monster Spec Sheet"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "Poll-Path Haunted House"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "Ghost Mail"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "The Lantern Wave"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "The Two-Session Riddle Relay"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween virtual team building",
+    "absorbs": [
+      "virtual halloween party ideas for work"
+    ],
+    "angle": "Wins by being the only post that sizes original Halloween activities to team headcount (3–8, 10–25, 50+) and gives a dated four-country schedule showing the UK/US clock-change mismatch moves differently in 2026 and 2027, using SubhSandesh's 48.3% phone-open rate to argue for camera-optional, small-screen formats.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC9660180",
+        "stat": "Bergmann, Rintel, Baym et al., Computer Supported Cooperative Work 32(2):347–383: study of N = 849 employees of one global technology company found blind spots in supporting sociality in enterprise video meetings were a key factor in videoconferencing fatigue; a participant on a cameras-off team described 'a sense of disconnect'; diarists described the awkwardness of small talk in online meetings. Full text read via Europe PMC.",
+        "publishedDate": "2022-11-12"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12306097",
+        "stat": "Korkmaz, Şimşek & Şahin, BMC Public Health: cross-sectional survey of 121 remote workers (working remotely ≥6 months); loneliness and emotion regulation difficulties significantly positively associated with depression, anxiety and stress; authors call for policies that increase social interaction. Abstract and discussion read.",
+        "publishedDate": "2025-07-29"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/office/use-breakout-rooms-in-microsoft-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461",
+        "stat": "Teams organisers can create up to 50 breakout rooms, set time limits that close rooms automatically, let participants self-select rooms, and invite up to 1,000 people when rooms are created before the meeting. Undated support page, fetched 2026-10-15."
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/office/use-live-captions-in-microsoft-teams-meetings-4be2d304-f675-4b57-8347-cbd000a21260",
+        "stat": "Teams live captions support spoken English (US), English (UK), English (India) and English (Australia) among other languages, offer live translated captions, and are not yet available in government clouds on the Teams mobile app. Undated support page, fetched 2026-10-15."
+      },
+      {
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+        "stat": "US daylight saving time ends at 2:00 a.m. on the first Sunday of November; in 2026 DST runs to November 1. Page created 2010-03-02, updated 2026-02-09.",
+        "publishedDate": "2010-03-02"
+      },
+      {
+        "url": "https://www.legislation.gov.uk/uksi/2002/262/article/2/made",
+        "stat": "UK summer time ends at one o'clock GMT in the morning of the last Sunday in October (Summer Time Order 2002, SI 2002/262, art. 2, made 12 February 2002).",
+        "publishedDate": "2002-02-12"
+      }
+    ],
+    "serp": {
+      "method": "WebSearch (US index), 1 search; 2026-10-15",
+      "top": [
+        "teambuilding.com/blog/halloween-virtual-team-building (403, snippet only; vendor)",
+        "bizbash.com 16 Halloween-themed virtual team-building ideas (2021, vendor roundup)",
+        "joinassembly.com 30 Halloween team building activities (updated 2026-09-05)",
+        "wearewildgoose.com 6 virtual Halloween ideas (403, snippet only; vendor)",
+        "escapely.com 10 virtual Halloween events (vendor)"
+      ],
+      "weakInTop10": 6,
+      "siblingOverlap": "teambuilding.com also appears in b6 halloween-games-for-the-office and b8 halloween-office-party-ideas briefs; wearewildgoose in both too. 2 shared URLs at most, below the 4-URL cannibalisation threshold."
+    },
+    "structuralLimitations": [
+      "timeanddate.com returned a bot challenge (HTTP 403 'Just a moment'); not worked around. Clock-change dates verified against NIST (US rule + 2026 end date), the Summer Time Order 2002 (UK rule) and IANA tzdata 2025b computed locally; Sydney DST start dates (4 Oct 2026, 3 Oct 2027) come from IANA tzdata only, no Australian government page fetched.",
+      "Zoom and Google Meet breakout/caption limits are not stated: Zoom's support page renders client-side and support.google.com Meet breakout URLs tried returned 404. Only Microsoft Teams features are quantified, date-stamped October 2026.",
+      "Bailenson 2021 'Nonverbal overload' (Technology, Mind, and Behavior) was the ideal camera-fatigue source but tmb.apaopen.org returned 403; not cited.",
+      "Scientific Reports, PLOS ONE and MDPI candidates (Zoom-fatigue and remote-work papers) skipped: caps full. Frontiers remote-work loneliness papers skipped: banned publisher.",
+      "No Halloween usage data in facts.md; first-party lines are the platform-wide phone-open and password rates plus the Raksha Bandhan lead-time analogue, disclosed in-body as a different festival with n = 89.",
+      "BRIEF says 'verify dates at timeanddate or nist/gov sources' — timeanddate is bot-walled to this fetcher; gov sources used instead.",
+      "Orchestrator cap update mid-draft: 371 email-to-employees owns the US/UK clock-gap explanation, so this post keeps only the scheduling table plus one line; the clock-gap FAQ was dropped."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "No Halloween usage data exists in facts.md (BRIEF §3) and the platform-wide lines (48.3% phone opens, 38.5% password) do not vary by team size or activity, so a column would repeat one number in every row. Structural: re-check once a /happy-halloween segment can be probed after 31 October."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The NIST and Summer Time Order pages are date-rule references that could also sit in any batch post with a cross-time-zone schedule; they are kept because the post's scheduling table depends on them. The two papers (enterprise video-meeting sociality; remote-worker loneliness) and the two Teams support pages (breakout rooms, live captions) are specific to this post. Fixable only by dropping the date rules to an unlinked IANA computation."
+        },
+        {
+          "item": "No section closely mirrors a competitor page's structure or framing",
+          "why": "Partial: the numbered-activity list is the same format every top-5 page uses (teambuilding.com, bizbash, joinassembly, escapely). The activities themselves are original and grouped by headcount, which none of them do, but the list framing is shared."
+        }
+      ],
+      "honestAssessment": "It is the only page in the analysed top 5 that sizes activities by headcount, makes every one camera-optional, quantifies Teams breakout and caption limits with a date, and prints a four-country schedule showing the UK/US clock gap behaves differently in 2026 and 2027 — none of the vendor pages mention time zones beyond 'pick a time that works'. The ranking pages are established team-building vendors with far more authority, and the first-party data is platform-wide rather than Halloween-specific, so expect months, not weeks."
+    },
+    "generatedAt": "2026-10-15T15:29:41.635Z"
+  }
+}
