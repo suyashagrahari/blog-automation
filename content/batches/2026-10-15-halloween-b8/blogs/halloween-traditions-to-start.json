@@ -1,0 +1,331 @@
+{
+ "kind": "blog-automation/batch-blog",
+ "version": 1,
+ "batchMeta": {
+  "keyword": "halloween traditions to start",
+  "angle": "Wins by being the only result that sorts new Halloween traditions by family stage (toddlers to adult children, two-home and no-trick-or-treat families), gives each a fixed anchor, keepsake and estimated cost, and grounds 'how to make it stick' in family-ritual research plus SubhSandesh's own lead-time data showing occasions are left to the last day.",
+  "categorySlug": "festive-beats",
+  "templateUrls": [
+   "https://subhsandesh.in/happy-halloween",
+   "https://subhsandesh.in/happy-halloween-premium"
+  ],
+  "factsUsed": [
+   "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+   "Not one of the 89 Raksha Bandhan 2026 pages was built more than 7 days ahead; 7 days was the earliest — measured 2026-09-09",
+   "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+   "38.5% of creators password-protect their page before sharing it (2,000 of 5,199) — measured 2026-09-24"
+  ],
+  "sources": [
+   {
+    "url": "https://europepmc.org/article/MED/12561283",
+    "stat": "Qualitative review of 32 publications since Bossard and Boll (1950): routines are observable practices, rituals are symbolic representations of collective events; both related to parenting competence, child adjustment and marital satisfaction; limited by inconsistent methods and convenience samples (abstract only read; full text not open access)",
+    "publishedDate": "2002-12-01"
+   },
+   {
+    "url": "https://europepmc.org/article/PMC/PMC1904207",
+    "stat": "HBSC 2001-2002, 17,761 students aged 13 and 15 in 6 European countries: joint family activity declines from 13 to 15; children of single parents and especially restructured (step) families reported less frequent joint activities than intact families",
+    "publishedDate": "2007-05-30"
+   },
+   {
+    "url": "https://europepmc.org/article/PMC/PMC9166509",
+    "stat": "2019 survey of parents of 653 Japanese fifth graders (ages 10-11): mean 15.47 annual events celebrated that year; more events associated with higher prosocial behaviour after adjusting for socioeconomic background; Halloween kept by 50.4% vs Christmas 96.8% (Table 2); cross-sectional, no causal inference",
+    "publishedDate": "2022-06-03"
+   },
+   {
+    "url": "https://www.schoolcraftcounty.net/media/usercontent/2019%20holiday%20parenting%20time%20guidelines.docx",
+    "stat": "11th Judicial Circuit Court (Michigan), Friend of the Court, Holiday Parenting Time Schedule, 2019 updated version: Halloween parenting time 5:00 p.m. to 8:00 p.m., alternating between parents by even and odd years",
+    "publishedDate": "2019"
+   }
+  ],
+  "structuralLimitations": [
+   "No Halloween usage data exists in facts.md; the lead-time figures are Raksha Bandhan 2026 (n = 89), disclosed in body prose as a different festival and a small sample.",
+   "Fiese et al. 2002 (J Fam Psychol, APA): only the Europe PMC abstract was readable; the body cites only abstract content.",
+   "The Michigan parenting-time schedule is one local court's 2019 default, presented as an example; the body tells readers their own order decides. The document names father/mother by even/odd year; the body says 'alternating between parents'.",
+   "Hosokawa et al. 2022 is a Japanese sample (Halloween 50.4%) and cross-sectional; stated in body.",
+   "All item costs are writer estimates labelled EST, October 2026, US dollars, not retailer prices.",
+   "Absorbed keyword 'family halloween traditions' is covered through the stage structure and FAQs rather than a separate H2."
+  ],
+  "serpOverlap": "WebSearch (US index) top 10 for 'halloween traditions to start' shares 0 URLs with b6 halloween-traditions' measured SERP (britannica, history.com, worldhistory, almanac, kinghalloween); sub-intent is new family rituals by stage, not historic customs.",
+  "auditReport": {
+   "passed": [
+    "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+    "The post contains at least one claim none of the top 5 pages make",
+    "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+    "No section closely mirrors a competitor page's structure or framing",
+    "Direct answer in the first 150 words, before any context-setting",
+    "Every H2 section answerable standalone in 2–3 sentences",
+    "Paragraphs 2–3 sentences throughout",
+    "At least one specific number, date, price or named source per H2 section",
+    "One comparison table with real values, 3–5 rows",
+    "FAQ with 8–12 naturally phrased questions",
+    "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+    "H2s map to the fan-out sub-queries identified in Phase 2",
+    "Target keyword in H1, metaTitle, slug, and first 100 words",
+    "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+    "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+    "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+    "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+    "metaDescription 150–160 characters (hard cap 170)",
+    "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+    "excerpt under 300 characters",
+    "Exactly one H1; no skipped heading levels",
+    "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+    "Slug short, hyphenated, lowercase, no stop words",
+    "Slug is not already taken in Strapi",
+    "3–6 outbound links, all fetched and verified to contain the cited fact",
+    "Every outbound fact passes the \"would it stay without the link\" test",
+    "Zero competitor links",
+    "Wikipedia links: 0–2, entities only",
+    "2–4 internal links with descriptive anchor text, placed after value is established",
+    "Every internal link is a real URL from TEMPLATE_LINKS",
+    "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+    "At least 1 of those is peer-reviewed or scholarly, and open-access",
+    "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+    "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+    "Any paywalled citation records that only the abstract was read",
+    "No figure, chart, table or substantial passage reproduced from a source",
+    "Sources list with publication dates, omitted where the source publishes none",
+    "At least one section naming a downside, limit, or case where SubhSandesh loses",
+    "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+    "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+    "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+    "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+    "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+    "No AggregateRating, Review or HowTo anywhere in structuredData",
+    "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+    "categorySlug matches a real Strapi category slug",
+    "templateUrls all exist in TEMPLATE_LINKS",
+    "Batch JSON validates against references/article-json-schema.md"
+   ],
+   "failed": [
+    {
+     "item": "At least one table column uses first-party data",
+     "why": "No Halloween usage data exists in facts.md (BRIEF §3), so the stage table carries estimated cost, time and keeper only. Structural: closes when a Halloween-season probe of /happy-halloween and /happy-halloween-premium (e.g. share of pages using Family mode or Kids tone) is run and added below the manual marker in facts.md."
+    },
+    {
+     "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+     "why": "Zaborskis et al. 2007 (joint family activity falls from age 13 to 15) could sit unchanged in row 389's 'age to stop trick-or-treating' post. Fiese 2002 (family rituals), Hosokawa 2022 (annual family events, Halloween 50.4%) and the Michigan Halloween parenting-time schedule are specific to this post. Fixable by replacing Zaborskis with an open-access paper on adolescents' participation in family holiday rituals; 'family ritual adolescents', 'stepfamily rituals holidays' and 'emerging adults returning home holidays' found none outside banned publishers (Frontiers, SAGE)."
+    }
+   ],
+   "honestAssessment": "An answer engine has two things here it cannot get from the ranking pages: traditions sorted by family stage, including two-home and no-trick-or-treat households that none of the top five address, and a sourced answer to 'how do traditions help and how do they stick' (Fiese 2002, Hosokawa 2022's 50.4% Halloween figure, a real court Halloween schedule). The SERP is weak local parenting magazines and a 2013 SheKnows list, but this domain has no Halloween first-party data and little authority, so ranking will be slow; do not expect it within weeks."
+  },
+  "generatedAt": "2026-10-15T15:35:44.000Z"
+ },
+ "article": {
+  "title": "Halloween Traditions to Start, From Toddlers to Grown-Up Kids",
+  "slug": "halloween-traditions-to-start",
+  "excerpt": "14 new Halloween traditions to start, sorted by family stage from toddlers to grown-up children, two-home families and households that skip trick-or-treating, with estimated costs, keepsakes and a fill-in tradition card.",
+  "metaTitle": "Halloween Traditions to Start: 14 Rituals and a Card to Keep",
+  "metaDescription": "Halloween traditions to start: 14 original family rituals by stage, from toddlers to adult kids and two-home families, 11 under $15 EST, plus a tradition card.",
+  "keywords": "halloween traditions to start, family halloween traditions, new halloween traditions, halloween traditions for toddlers, halloween traditions for teens",
+  "canonicalURL": "https://subhsandesh.in/blog/halloween-traditions-to-start",
+  "ogType": "article",
+  "tags": [
+   "halloween",
+   "family traditions",
+   "kids",
+   "co-parenting",
+   "october"
+  ],
+  "keyTakeaways": [
+   "14 new Halloween traditions cover six family stages, and 11 of them cost $15 or less by our October 2026 estimate.",
+   "A tradition sticks when it has one fixed anchor (a time, place or object), a keepsake that grows each year and a part the child owns.",
+   "In a 2019 survey of 653 Japanese families, children from homes keeping more annual events showed more prosocial behaviour; the study was cross-sectional, and 50.4% of those families kept Halloween.",
+   "One Michigan court's 2019 holiday schedule sets Halloween parenting time at 5:00 to 8:00 p.m., alternating between parents in even and odd years.",
+   "Occasions get left late: 49.4% of SubhSandesh's Raksha Bandhan 2026 pages were made on the festival day (n = 89, a different festival)."
+  ],
+  "faqs": [
+   {
+    "question": "What are good Halloween traditions to start with kids?",
+    "answer": "Pick one with a fixed anchor and a keepsake the child can see grow, such as a salt-dough footprint pumpkin for a toddler or a family knock and password for a school-age child. Most of the 14 ideas here cost under $15 by our October 2026 estimate."
+   },
+   {
+    "question": "What family Halloween traditions work for toddlers?",
+    "answer": "Short, physical and repeatable ones: a salt-dough footprint pumpkin added to a shelf each year, one glow star added above the bed every 31 October, or a snip of each costume knotted onto a ribbon. Each takes 15 minutes or less."
+   },
+   {
+    "question": "How do you start a new family tradition that lasts?",
+    "answer": "Fix one anchor (a time, a place or an object), make a keepsake that grows each year, and give a child a part to own. Write it on a card stored with the decorations and decide on 1 November whether to keep, change or retire it."
+   },
+   {
+    "question": "How many Halloween traditions should a family start in one year?",
+    "answer": "One, or two at most. A long list turns into homework, and a single ritual repeated for three years means more to a child than six tried once."
+   },
+   {
+    "question": "What Halloween traditions do teenagers actually enjoy?",
+    "answer": "Ones that give them control or ride along with their plans: a set budget to scare up one room, or a standing hot-chocolate stop when you collect them afterwards. A 2007 survey of 17,761 European students found joint family activity fell between ages 13 and 15."
+   },
+   {
+    "question": "How do divorced parents usually split Halloween?",
+    "answer": "Many court schedules alternate it by year. One Michigan circuit's 2019 holiday schedule gives Halloween parenting time from 5:00 to 8:00 p.m., with one parent in even years and the other in odd years; your own order or plan is what counts."
+   },
+   {
+    "question": "What can we do on Halloween if our family doesn't trick-or-treat?",
+    "answer": "Start a ritual that needs no doorbells, such as a yearly board-game league with a papier-mâché pumpkin trophy, or tracing everyone's lamp-lit silhouette onto black card and dating it. Both leave a keepsake that grows each year."
+   },
+   {
+    "question": "How do you keep a Halloween tradition going once the kids grow up?",
+    "answer": "Change the role, not the ritual: adult children can host a costume-photo evening when home, or take a twin of the family candy bowl to their own doorstep. If they are away, send the tradition to them on 31 October instead."
+   },
+   {
+    "question": "Do family traditions really help children?",
+    "answer": "Studies point that way but cannot prove it. A 2002 review of 32 publications linked family routines and rituals to child adjustment, and a 2022 Japanese study of 653 families found more annual family events went with more prosocial behaviour, though it was cross-sectional."
+   },
+   {
+    "question": "When is Halloween in 2026 and 2027?",
+    "answer": "Halloween is always 31 October: a Saturday in 2026 and a Sunday in 2027. All Saints' Day follows on 1 November and All Souls' Day on 2 November."
+   }
+  ],
+  "coverImageQuery": "family tracing silhouettes lamp autumn evening",
+  "coverImagePrompt": "A warm, photorealistic autumn evening in a family living room: a parent traces a child's profile shadow, cast by a table lamp, onto black card taped to the wall, while a toddler beside them holds a small orange salt-dough footprint tile. A ribbon knotted with colourful fabric scraps hangs on a door in the background. Soft orange light, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+  "contentMarkdown": "# Halloween Traditions to Start, From Toddlers to Grown-Up Kids\n\nThe Halloween traditions to start are small, repeatable and owned by someone: one anchor, one keepsake, one keeper, done again next 31 October. Below are 14 original ones sorted by family stage, most costing $0–15 by our October 2026 estimate, plus a tradition card to fill in.\n\nFix the date now, because occasions get left late: on SubhSandesh, 49.4% of Raksha Bandhan 2026 pages were made on the day of the festival, and none of the 89 was started more than a week early. Rakhi is not Halloween and 89 pages is a small sample, but traditions die the same way: for want of a plan. Halloween falls on Saturday 31 October 2026 and Sunday 31 October 2027.\n\n## What makes a family Halloween tradition different from an activity?\n\nA family Halloween tradition is something a household does every 31 October that carries meaning beyond the fun: it is expected, repeated and recognised as \"ours\". An activity happens once; a tradition is what a child reminds you of in September.\n\nPsychologist Barbara Fiese and colleagues drew this line in a [2002 review of 32 publications in the Journal of Family Psychology](https://europepmc.org/article/MED/12561283): routines are observable practices, while rituals are symbolic representations of collective events. The review linked both to parenting competence, child adjustment and marital satisfaction, though it warned the studies relied on convenience samples.\n\n## 14 Halloween traditions to start, by family stage\n\nEach entry gives ages, time, estimated cost (US dollars, October 2026, EST) and the keepsake. None needs a kit.\n\n### Toddlers (ages 1–4)\n\n- **1. The footprint pumpkin.** Ages 1–4 · 20 minutes plus baking · $1–3 EST · Keepsake: a row of dated tiles. Press a bare foot into a salt-dough circle, bake it, paint it as a pumpkin, and add one tile to the shelf each year.\n- **2. One glow star a year.** Ages 2–6 · 5 minutes at bedtime · $4–6 EST · Keepsake: a ceiling that counts Halloweens. Each 31 October the child adds one star above the bed while you recite every costume so far.\n- **3. The costume-scrap ribbon.** Ages 1 and up · 15 minutes on 1 November · $2–4 EST · Keepsake: a garland of every costume. Knot a thumb-sized snip of this year's costume onto one long ribbon, hung on the front door each October.\n\n### School-age children (ages 5–11)\n\n- **4. The Halloween committee.** Ages 5–11 · 20 minutes in late September · $0 · Keepsake: a yearly list of job titles. Each child holds a post (Chief Lantern Officer, Keeper of the Candy Ledger) and makes one decision alone; posts rotate yearly.\n- **5. The family knock.** Ages 4–11 · 2 minutes · $0 · Keepsake: a written list of every year's knock. The youngest invents a knock and a password, and nobody re-enters the house after trick-or-treating without both.\n- **6. The 1 November Night Report.** Ages 6–11 · 30 minutes the next morning · $0–3 EST for a binder · Keepsake: a one-page newspaper per year. The child writes a headline, the weather, the best costume seen and the scariest moment.\n\n### Teens (ages 12–17)\n\n- **7. The one-room scare budget.** Ages 12–17 · an afternoon · $15–25 EST, set by you and spent by them · Keepsake: before-and-after photos. The teen controls one room or the porch; the family tours it at dusk, no edits allowed.\n- **8. The pick-up hot chocolate.** Ages 13–17 · 15 minutes · $5–10 EST · Keepsake: the place itself. Whoever collects a teen from their Halloween plans stops at the same late café for one drink; the teen picks the music.\n\nTeen traditions should ride along with their plans, not compete with them. In Zaborskis and colleagues' [2007 survey of 17,761 students aged 13 and 15 in six European countries](https://europepmc.org/article/PMC/PMC1904207), joint family activity declined between those two ages.\n\n### Adult children coming home (18 and over)\n\n- **9. Costume yearbook night.** Ages 18+ · 45 minutes · $0 · Keepsake: a captioned album. Go through every costume photo in order, each person adding one remembered line; this year's goes in last.\n- **10. The heirloom candy bowl.** Ages 18+ · 5 minutes · $10–25 EST for a matching second bowl · Keepsake: two identical bowls. Hand out sweets from one bowl every year, and give its twin to the first child to set up their own home.\n\n### Blended and two-home families\n\n- **11. The costume passport.** Ages 3–12 · 10 minutes at each house · $1–3 EST · Keepsake: a small booklet stamped by both homes. One stamp at the costume reveal, another at the trick-or-treat home, so neither house hosts \"the real Halloween\".\n- **12. The blank-slate vote.** All ages · 20 minutes · $0 · Keepsake: the winning slip, framed. In a new step-family, each person writes one tradition nobody brought from a previous family; one is drawn and becomes the household's own.\n\nA split night can follow the court schedule. The [2019 holiday parenting-time schedule from Michigan's 11th Judicial Circuit](https://www.schoolcraftcounty.net/media/usercontent/2019%20holiday%20parenting%20time%20guidelines.docx) sets Halloween at 5:00 to 8:00 p.m., alternating between parents in even and odd years. Zaborskis's survey also found children in stepfamilies reported fewer joint family activities than those living with both parents.\n\n### Families who don't trick-or-treat\n\n- **13. The pumpkin trophy league.** Ages 6+ · 1–2 hours · $5–8 EST for a papier-mâché pumpkin and a paint pen · Keepsake: a trophy of winners' names. Play the same board game every 31 October; the winner signs and dates the pumpkin and keeps it for a year.\n- **14. Lamp-lit silhouettes.** All ages · 30 minutes · $3–5 EST for black card · Keepsake: a dated profile of everyone. Trace each person's lamp-cast profile onto card taped to the wall, then cut and date it; a row of years shows who grew.\n\n## The 14 traditions compared by stage, cost and keeper\n\nThe table groups the 14 by stage. Costs are October 2026 estimates in US dollars.\n\n| Stage | Traditions | Est. cost (Oct 2026) | Time needed | Who keeps it |\n|---|---|---|---|---|\n| Toddlers, 1–4 | 1–3 | $1–6 each | 5–20 min | A parent |\n| School-age, 5–11 | 4–6 | $0–3 | 2–30 min | The child, by job title |\n| Teens, 12–17 | 7–8 | $5–25 | 15 min to an afternoon | The teen |\n| Adult children, 18+ | 9–10 | $0–25 | 5–45 min | Whoever hosts |\n| Two homes, or no trick-or-treating | 11–14 | $0–8 | 10 min to 2 h | Rotates |\n\nThe cheapest traditions are the ones a child runs. Costs rise only where a teen or adult takes charge.\n\n## How do you make a Halloween tradition stick?\n\nMost new traditions fail in year two, when nobody remembers how they went. Three rules help:\n\n- **Same time, place and object.** Fix one anchor, such as 5:00 p.m., the front step or the same bowl; let the rest change.\n- **A keepsake that grows.** Tiles, stars and stamps make the years visible, so skipping a year breaks a chain.\n- **A part the child owns.** A job title, password or budget turns a parent's plan into the child's tradition.\n\nThe evidence is encouraging but not conclusive. In a [2019 survey of 653 Japanese families with fifth graders, published in 2022](https://europepmc.org/article/PMC/PMC9166509), households had celebrated 15.47 annual events on average that year, and children from families with more of them showed more prosocial behaviour after adjusting for income and education. Halloween was kept by 50.4% of those families against 96.8% for Christmas, and the cross-sectional design cannot show that the events caused the behaviour.\n\n## A Halloween tradition card to copy and fill in\n\nWrite each tradition on an index card and store it with the decorations, so it surfaces when the box comes down. Seven lines:\n\n- **Name:** what the family calls it.\n- **Started:** the year, and who started it.\n- **Keeper:** the person who makes sure it happens.\n- **Anchor:** the fixed time, place or object.\n- **Never changes:** the one rule nobody bends.\n- **May change:** what is new each year.\n- **Keep, change or retire:** decided on 1 November, with the date.\n\nFor example: the family knock, started 2026 by the youngest, anchored to the front door. It never changes \"no knock, no entry\" and is reviewed on 1 November.\n\n## Send the tradition to whoever is not home this year\n\nSome years a grandparent is abroad, a student is at university, or a child spends 31 October at the other parent's house. A private link can carry the tradition to them: 48.3% of shared SubhSandesh pages are opened on a phone, and 38.5% of makers lock theirs with a password.\n\nThe [interactive Halloween card with a pumpkin to carve](https://subhsandesh.in/happy-halloween) takes about five minutes and six photos at most, with a Family mode that asks \"Will you be my favourite little pumpkin?\" and a Kids tone with no gore. For a child at the other house or a student far away, the [premium Halloween page with a voice note and unlock time](https://subhsandesh.in/happy-halloween-premium) takes about ten minutes, carries a recording of up to 60 seconds and up to 12 photos, and can stay locked until 5:00 p.m. on the night. For other family occasions, see [every SubhSandesh template](https://subhsandesh.in/templates).\n\n## When starting a new Halloween tradition is the wrong move\n\nNot every year suits a new ritual. Five cases where we would wait:\n\n- **Too many at once.** Start one or two in 2026; a 14-item list is a menu, not a schedule.\n- **The child says no.** A ritual imposed on a 14-year-old becomes a chore; let them veto or redesign it.\n- **A grieving year.** After a recent death, All Souls' Day on 2 November may be gentler to mark.\n- **A contested night.** Your parenting order decides who has the child on 31 October; a tradition should fit it, never argue with it.\n- **A screen instead of a person.** Our pages are English-only greetings for one recipient; they cannot run a party or replace a child beside you.\n\n## Sources\n\n- Fiese, B. H. et al., review of 50 years of family routines and rituals research, *Journal of Family Psychology*, December 2002 (abstract read).\n- Zaborskis, A. et al., family joint activities across six countries, *BMC Public Health*, 30 May 2007.\n- Hosokawa, R., Katsura, T. and Taira, K., annual family events and children's social adjustment, *Child and Adolescent Psychiatry and Mental Health*, 3 June 2022.\n- 11th Judicial Circuit Court (Michigan), Holiday Parenting Time Schedule, 2019.\n- SubhSandesh platform data, 24 September 2026; Raksha Bandhan lead time, 9 September 2026.\n",
+  "readingTime": 8,
+  "structuredData": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "@id": "https://subhsandesh.in/blog/halloween-traditions-to-start#post",
+    "about": [
+     {
+      "@type": "Thing",
+      "name": "Halloween",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/Halloween",
+       "https://www.wikidata.org/wiki/Q251868"
+      ]
+     },
+     {
+      "@type": "Thing",
+      "name": "Tradition",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/Tradition",
+       "https://www.wikidata.org/wiki/Q82821"
+      ]
+     },
+     {
+      "@type": "Thing",
+      "name": "Ritual",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/Ritual",
+       "https://www.wikidata.org/wiki/Q189819"
+      ]
+     }
+    ],
+    "mentions": [
+     {
+      "@type": "Thing",
+      "name": "Stepfamily",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/Stepfamily",
+       "https://www.wikidata.org/wiki/Q927143"
+      ]
+     },
+     {
+      "@type": "Thing",
+      "name": "Shared parenting",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/Shared_parenting",
+       "https://www.wikidata.org/wiki/Q2920613"
+      ]
+     },
+     {
+      "@type": "Thing",
+      "name": "All Souls' Day",
+      "sameAs": [
+       "https://en.wikipedia.org/wiki/All_Souls%27_Day",
+       "https://www.wikidata.org/wiki/Q1033140"
+      ]
+     }
+    ],
+    "isAccessibleForFree": true,
+    "citation": [
+     {
+      "@type": "CreativeWork",
+      "name": "A review of 50 years of research on naturally occurring family routines and rituals: cause for celebration?",
+      "url": "https://europepmc.org/article/MED/12561283",
+      "datePublished": "2002-12-01",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Journal of Family Psychology"
+      }
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Family joint activities in a cross-national perspective",
+      "url": "https://europepmc.org/article/PMC/PMC1904207",
+      "datePublished": "2007-05-30",
+      "publisher": {
+       "@type": "Organization",
+       "name": "BMC Public Health"
+      }
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Experience of annual events in the family and social adjustment of school-age children",
+      "url": "https://europepmc.org/article/PMC/PMC9166509",
+      "datePublished": "2022-06-03",
+      "publisher": {
+       "@type": "Organization",
+       "name": "Child and Adolescent Psychiatry and Mental Health"
+      }
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Holiday Parenting Time Schedule (2019 updated version)",
+      "url": "https://www.schoolcraftcounty.net/media/usercontent/2019%20holiday%20parenting%20time%20guidelines.docx",
+      "datePublished": "2019",
+      "publisher": {
+       "@type": "Organization",
+       "name": "11th Judicial Circuit Court, Friend of the Court, Michigan"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Halloween traditions to start, by family stage",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 6,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Toddlers (ages 1–4)",
+      "description": "1. Footprint pumpkin; 2. One glow star a year; 3. Costume-scrap ribbon. Est. $1–6 each."
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "School-age children (ages 5–11)",
+      "description": "4. The Halloween committee; 5. The family knock; 6. The 1 November Night Report. Est. $0–3."
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Teens (ages 12–17)",
+      "description": "7. The one-room scare budget; 8. The pick-up hot chocolate. Est. $5–25."
+     },
+     {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Adult children coming home (18 and over)",
+      "description": "9. Costume yearbook night; 10. The heirloom candy bowl. Est. $0–25."
+     },
+     {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Blended and two-home families",
+      "description": "11. The costume passport; 12. The blank-slate vote. Est. $0–3."
+     },
+     {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Families who don't trick-or-treat",
+      "description": "13. The pumpkin trophy league; 14. Lamp-lit silhouettes. Est. $3–8."
+     }
+    ]
+   }
+  ]
+ }
+}
