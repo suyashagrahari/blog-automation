@@ -27,7 +27,7 @@ Branch `batch/2026-10-15-halloween-b8`. 50 posts, category `festive-beats`, each
 - **Age limits:** Chesapeake VA raised its cap from over-12 to over-14 (Ord. 19-O-038, 12 Mar 2019); Norfolk, Virginia Beach, Hampton, Newport News and Portsmouth still ban over-12s in 2026 code text.
 - **Public domain:** Night of the Living Dead is not cleanly PD (1986 copyright per AFI); 1931 Dracula/Frankenstein enter US PD on 1 Jan 2027. "Have You Seen the Ghost of John?" could not be shown traditional (earliest found 1981), so its words aren't printed. Knox's Decalogue is US PD but UK copyright to end-2027; its Rule V is racist and not reproduced.
 - **Texts:** Perrault's 1697 Red Riding Hood has no woodcutter; Poe's Red Death isn't dressed in red (Leroux 1910 is); "Pestilence" isn't a named horseman in the KJV; Turn of the Screw first appeared as a book in *The Two Magics* (1898).
-- Candy corn "Wunderle 1888" has no primary record; the Day of the Dead "28 Oct" date varies by region (Alonso Meneses gives 30/31 Oct); the gender-reveal originator couldn't be verified at a primary source (omitted); the Wilde green-carnation story couldn't be verified (omitted); "jálogüin"-style folk claims avoided.
+- Candy corn "Wunderle 1888" has no primary record; the Day of the Dead "28 Oct" date varies by region (Alonso Meneses gives 30/31 Oct); the gender-reveal originator couldn't be verified at a primary source (omitted); the Wilde green-carnation story couldn't be verified (omitted).
 - North American 31 Oct sunsets are 5:39–6:11pm (DST runs to 1 Nov 2026 / 7 Nov 2027), not 4:40; London is only 4 h ahead of New York on 30 Oct 2026.
 - F1000/Open Research Europe is a Taylor & Francis company — added to the banned list.
 
@@ -36,7 +36,7 @@ Branch `batch/2026-10-15-halloween-b8`. 50 posts, category `festive-beats`, each
 - **LGBTQ+ row:** `lgbtq-couple-halloween-costumes` includes a legal-risk note sourced to Human Dignity Trust (66 jurisdictions) — worth a read.
 - **Cannibalisation:** captions-for-girlfriend shares ~5 SERP URLs with b7 couple-costume-captions (narrowed to captions about her); `friendsgiving-vs-halloween-party-ideas` is a muddled keyword (SERP is Friendsgiving pages) — written as a friends-only autumn gathering, low demand.
 - **US-only rules:** teacher gift rules are Minnesota (Edina, Minn. Stat. 471.895); age ordinances are Virginia; sign letter heights use US ADA/MUTCD.
-- Several posts lean on abstract-only papers (contest categories, will-you-be-my-boo-style rows); the murder-mystery post contains an original full whodunit — check the solution logic if you like.
+- Several posts lean on abstract-only papers (costume contest categories, haunted-house date, sayings for signs); the murder-mystery post contains an original full whodunit — check the solution logic if you like.
 - Time-sensitive: platform features (Instagram, Teams, Spotify/Apple), attraction safe-word rules (17th Door, Headless Horseman), municipal codes, climate normals, streaming (the movie calendar points to JustWatch-type tools rather than platforms).
 
 ## Tooling
