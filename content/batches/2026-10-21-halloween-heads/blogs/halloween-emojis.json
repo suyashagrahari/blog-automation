@@ -1,0 +1,352 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Halloween Emojis With Code Points, Versions and Phone Support",
+    "slug": "halloween-emojis",
+    "excerpt": "56 Halloween emojis checked against Unicode's emoji data, each with code point, Emoji version and year, which ones turn into boxes on older phones, what two misreading studies found, and 12 original combos.",
+    "metaTitle": "Halloween Emojis: 56 Checked Against Unicode, With Years",
+    "metaDescription": "Halloween emojis with code point, Unicode version and year for all 56, which ones show as boxes on older phones, two misreading studies and 12 original combos.",
+    "keywords": "halloween emojis, halloween emoji combos, spooky emojis, halloween emoji copy and paste, pumpkin emoji",
+    "canonicalURL": "https://subhsandesh.in/blog/halloween-emojis",
+    "ogType": "article",
+    "tags": [
+      "halloween",
+      "emoji",
+      "unicode",
+      "texting",
+      "spooky"
+    ],
+    "keyTakeaways": [
+      "🎃 jack-o-lantern (U+1F383), 👻 ghost (U+1F47B) and 💀 skull (U+1F480) have been emoji since 2010, so they show on practically every phone.",
+      "7 of the 56 Halloween emojis here date from 2021 to 2025; 🫪 distorted face arrived on iPhone only with iOS 26.7, and Android 11 or lower cannot update its emoji font.",
+      "🐈‍⬛ black cat is a 3-part sequence from 2020; a phone without it shows a cat followed by a black square.",
+      "In a 2016 study of 304 people, two readers of the identical emoji picture disagreed on its sentiment 25% of the time.",
+      "48.3% of shared SubhSandesh pages are opened on a phone, so the recipient's phone, not yours, decides how your emoji look."
+    ],
+    "faqs": [
+      {
+        "question": "What is the code for the pumpkin emoji?",
+        "answer": "The pumpkin emoji is officially named jack-o-lantern, code point U+1F383. It has been an emoji since Unicode 6.0 in 2010 (Emoji version E0.6), so it displays on practically every phone and laptop in use."
+      },
+      {
+        "question": "Is there a witch emoji?",
+        "answer": "Not by that name. Unicode calls it mage, U+1F9D9, added in Emoji 5.0 in 2017, and the woman mage 🧙‍♀️ is a joined sequence of mage, zero-width joiner and the female sign."
+      },
+      {
+        "question": "Why does my black cat emoji show up as a cat and a black square?",
+        "answer": "Because 🐈‍⬛ is a sequence, not one character: cat, zero-width joiner, black large square. Unicode's standard says a phone without the combined picture ignores the joiner and shows the parts, so an older font displays 🐈⬛ instead."
+      },
+      {
+        "question": "What are the newest Halloween-style emojis?",
+        "answer": "🫈 hairy creature and 🫪 distorted face, both Emoji 17.0 from 2025, and 🪾 leafless tree from Emoji 16.0 in 2024. Apple's update notes list distorted face among 8 emoji added in iOS 26.7, so older iPhones will not show it."
+      },
+      {
+        "question": "Why do Halloween emojis look different on iPhone and Android?",
+        "answer": "Unicode fixes only the code point and name; Apple, Google, Samsung and others each draw their own picture. A 2016 ICWSM study of 304 people found misreading was slightly larger across platforms than within one."
+      },
+      {
+        "question": "Is the skull emoji the same as skull and crossbones?",
+        "answer": "No. 💀 skull is U+1F480 from 2010, while ☠️ skull and crossbones is U+2620 plus the emoji presentation selector U+FE0F, an emoji since 2015. Without that selector, ☠ can display as a flat black text symbol."
+      },
+      {
+        "question": "Is there a crow or raven emoji for Halloween?",
+        "answer": "The closest is 🐦‍⬛ black bird, added in Emoji 15.0 in 2022. It is bird, zero-width joiner and black large square, so a phone without it shows a bird followed by a black square."
+      },
+      {
+        "question": "How do I copy and paste Halloween emojis from this list?",
+        "answer": "Select the emoji itself, not the code point, and copy it as you would any text. Copy joined emojis such as 🐈‍⬛ or 🐦‍⬛ whole; copying half a sequence pastes only the first animal."
+      },
+      {
+        "question": "Which Halloween emojis are safe to send to kids?",
+        "answer": "The pumpkin, candy and autumn set is the safest: 🎃 🍬 🍭 🍫 🍂 are all from 2010 and carry no gore. Leave out 🩸, 🔪 and ⚰️, which are easy to read literally."
+      },
+      {
+        "question": "Does the fire emoji mean the same thing to everyone?",
+        "answer": "No. A 2024 Language@Internet survey of 273 adults found Gen Z rated messages with 🔥 as friendlier than older generations did, while Baby Boomers rated them significantly more threatening."
+      }
+    ],
+    "coverImageQuery": "halloween emoji phone screen pumpkin",
+    "coverImagePrompt": "A smartphone lying on a dark wooden table at night, its screen showing a chat with a few glowing Halloween symbols: a carved pumpkin, a ghost and a bat. A real carved jack-o'-lantern glows softly beside the phone, with a few fallen autumn leaves. Moody orange and deep purple light, shallow depth of field, clean negative space at the top for a title, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Halloween Emojis With Code Points, Versions and Phone Support\n\nThe core Halloween emojis are 🎃 jack-o-lantern (U+1F383), 👻 ghost (U+1F47B) and 💀 skull (U+1F480), all emoji since 2010, followed by 🦇 bat (2016), 🧛 vampire (2017) and 🐈‍⬛ black cat (2020). That age matters because the recipient's phone draws the emoji, not yours: 48.3% of shared SubhSandesh pages are opened on a phone (27,725 of 57,456 views), and 48.4% of views come from a touch device of some kind.\n\nBelow are 56 Halloween emojis checked against Unicode's own data, oldest first. Then come the ones that break on older phones, two misreading studies, and 12 original combos for Halloween 2026 (Saturday 31 October) and 2027 (Sunday 31 October).\n\n## What counts as a Halloween emoji?\n\nA Halloween emoji is any standard Unicode emoji people use for the 31 October holiday; Unicode itself has no Halloween category. Only 🎃 sits in an \"event\" subgroup, beside ✨ sparkles and the fireworks, while 👻 is filed as a \"face-costume\" smiley and the witch is officially named \"mage\".\n\nEvery emoji carries three fixed labels: the code point (U+1F383) identifies the character, the Emoji version (E0.6) records when it became an emoji, and the year comes from the version table in Unicode's [Technical Standard #51, version 18.0, dated 28 August 2026](https://www.unicode.org/reports/tr51/). Names and versions below come from Unicode's [emoji-test.txt, version 18.0, dated 30 April 2026](https://www.unicode.org/Public/emoji/latest/emoji-test.txt).\n\n## 56 Halloween emojis with code point, version and year\n\nThe list runs oldest first, in five release eras. An emoji's age decides whether an older phone can draw it.\n\n### 1. Released in 2010 (Emoji 0.6): 18 emojis\n\nThe pumpkin, candy and autumn set sits here with the ghost and skull. It suits children, family chats and anyone who dislikes gore.\n\n- 🎃 jack-o-lantern: U+1F383, E0.6, 2010\n- 🍬 candy: U+1F36C, E0.6, 2010\n- 🍭 lollipop: U+1F36D, E0.6, 2010\n- 🍫 chocolate bar: U+1F36B, E0.6, 2010\n- 🍂 fallen leaf: U+1F342, E0.6, 2010\n- 🍁 maple leaf: U+1F341, E0.6, 2010\n- 🍄 mushroom: U+1F344, E0.6, 2010\n- 👻 ghost: U+1F47B, E0.6, 2010\n- 💀 skull: U+1F480, E0.6, 2010\n- 👹 ogre: U+1F479, E0.6, 2010\n- 👺 goblin: U+1F47A, E0.6, 2010\n- 👽 alien: U+1F47D, E0.6, 2010\n- 🎭 performing arts: U+1F3AD, E0.6, 2010\n- 🐺 wolf: U+1F43A, E0.6, 2010\n- 🔮 crystal ball: U+1F52E, E0.6, 2010\n- 🌕 full moon: U+1F315, E0.6, 2010\n- 😱 face screaming in fear: U+1F631, E0.6, 2010\n- 👀 eyes: U+1F440, E0.6, 2010\n\n### 2. Released in 2014–2015 (Emoji 0.7 and 1.0): 15 emojis\n\nMost of these end in U+FE0F, the emoji presentation selector. It asks for the coloured picture instead of the default flat text style.\n\n- 🕷️ spider: U+1F577 U+FE0F, E0.7, 2014\n- 🕸️ spider web: U+1F578 U+FE0F, E0.7, 2014\n- 🕯️ candle: U+1F56F U+FE0F, E0.7, 2014\n- 🗝️ old key: U+1F5DD U+FE0F, E0.7, 2014\n- ⛓️ chains: U+26D3 U+FE0F, E0.7, 2014\n- 🌫️ fog: U+1F32B U+FE0F, E0.7, 2014\n- 🏚️ derelict house: U+1F3DA U+FE0F, E0.7, 2014\n- ☠️ skull and crossbones: U+2620 U+FE0F, E1.0, 2015\n- ⚰️ coffin: U+26B0 U+FE0F, E1.0, 2015\n- ⚱️ funeral urn: U+26B1 U+FE0F, E1.0, 2015\n- ⚗️ alembic: U+2697 U+FE0F, E1.0, 2015\n- 🐀 rat: U+1F400, E1.0, 2015\n- 🦂 scorpion: U+1F982, E1.0, 2015\n- 🌚 new moon face: U+1F31A, E1.0, 2015\n- 😈 smiling face with horns: U+1F608, E1.0, 2015\n\n### 3. Released in 2016–2017 (Emoji 3.0 and 5.0): 8 emojis\n\nThe bat and the classic monsters arrive here. The 🧙 mage is gender-neutral; 🧙‍♀️ woman mage is a joined sequence, U+1F9D9 U+200D U+2640 U+FE0F.\n\n- 🖤 black heart: U+1F5A4, E3.0, 2016\n- 🤡 clown face: U+1F921, E3.0, 2016\n- 🦇 bat: U+1F987, E3.0, 2016\n- 🦉 owl: U+1F989, E3.0, 2016\n- 🧡 orange heart: U+1F9E1, E5.0, 2017\n- 🧙 mage: U+1F9D9, E5.0, 2017\n- 🧛 vampire: U+1F9DB, E5.0, 2017\n- 🧟 zombie: U+1F9DF, E5.0, 2017\n\n### 4. Released in 2018–2020 (Emoji 11.0 to 13.0): 8 emojis\n\nThe witch kit is younger than it looks: Unicode had no broom until 2018 and no magic wand until 2020. 🐈‍⬛ is a sequence of cat, zero-width joiner and black large square.\n\n- 🦴 bone: U+1F9B4, E11.0, 2018\n- 🧹 broom: U+1F9F9, E11.0, 2018\n- 🧪 test tube: U+1F9EA, E11.0, 2018\n- 🩸 drop of blood: U+1FA78, E12.0, 2019\n- 🪦 headstone: U+1FAA6, E13.0, 2020\n- 🪄 magic wand: U+1FA84, E13.0, 2020\n- 🪞 mirror: U+1FA9E, E13.0, 2020\n- 🐈‍⬛ black cat: U+1F408 U+200D U+2B1B, E13.0, 2020\n\n### 5. Released in 2021–2025 (Emoji 14.0 to 17.0): 7 emojis\n\nCheck the recipient's phone before sending these. 🐦‍⬛ black bird, the nearest thing to a crow or raven, is bird, joiner and black square.\n\n- 🧌 troll: U+1F9CC, E14.0, 2021\n- 🫣 face with peeking eye: U+1FAE3, E14.0, 2021\n- 🫥 dotted line face: U+1FAE5, E14.0, 2021\n- 🐦‍⬛ black bird: U+1F426 U+200D U+2B1B, E15.0, 2022\n- 🪾 leafless tree: U+1FABE, E16.0, 2024\n- 🫈 hairy creature: U+1FAC8, E17.0, 2025\n- 🫪 distorted face: U+1FAEA, E17.0, 2025\n\n## Which Halloween emojis show as a box on older phones?\n\nAn emoji newer than the recipient's emoji font appears as \"tofu\", a small empty box, or as broken pieces. The [Android emoji2 developer guide, last updated 16 October 2026](https://developer.android.com/develop/ui/views/text-and-emoji/emoji2), says Android 11 and lower cannot update the emoji font, so apps on those phones must bundle newer emoji themselves.\n\nJoined sequences fail more gently. Unicode's standard says a system without the combined glyph ignores the zero-width joiner and shows the separate parts, so 🐈‍⬛ arrives as a cat followed by a black square.\n\nOn iPhone, Apple's [About iOS 26 Updates page](https://support.apple.com/en-us/123075) says iOS 26.7 added 8 emoji, including an orca, landslide and distorted face. Apple does not say whether 🫈 hairy creature came with them. This table sums up the five groups above; newer rows miss more phones.\n\n| Era (versions, years) | Count of the 56 | Examples | Older-phone risk |\n|---|---|---|---|\n| E0.6, 2010 | 18 | 🎃 👻 💀 🍬 | Shows on almost any phone in use |\n| E0.7–E1.0, 2014–2015 | 15 | 🕸️ ☠️ 🕯️ | Shows on almost any phone in use |\n| E3.0–E5.0, 2016–2017 | 8 | 🦇 🧛 🧡 | Low |\n| E11.0–E13.0, 2018–2020 | 8 | 🧹 🩸 🪦 🐈‍⬛ | Low; 🐈‍⬛ may split into cat plus square |\n| E14.0–E17.0, 2021–2025 | 7 | 🫣 🐦‍⬛ 🪾 🫪 | Box on fonts older than the version; 🫪 needs iOS 26.7 |\n\nFor a grandparent on an old Android, stay in the first three rows. The 2021–2025 row is where a Halloween message turns into empty squares.\n\n## Why the same Halloween emoji can read differently: 2 studies\n\nMeaning drifts even when both people see one picture. In a [2016 ICWSM study by Miller and colleagues](https://ojs.aaai.org/index.php/ICWSM/article/view/14757), 304 participants rated emoji from -5 to 5; two people rating the identical rendering disagreed on positive, neutral or negative 25% of the time, and 44 of 110 renderings (40%) averaged a gap of 2 points or more.\n\nPlatform differences add to it. The same study found misreading slightly larger across platforms than within one, and a participant reported that faces sent after an iPhone update arrived on his wife's phone as aliens.\n\nAge shifts meaning as well. Zhukova and Herring's [2024 Language@Internet survey](https://scholarworks.iu.edu/journals/index.php/li/article/view/40800) of 273 adults found Gen Z rated messages carrying 🔥 as friendlier than older generations did, while Baby Boomers rated them significantly more threatening; every group read the 💣 bomb negatively. Neither study tested 🎃 or 👻, so treat this as a caution for 🔪 and 🩸 with older relatives, not a measured Halloween result.\n\n## 12 original Halloween emoji combos, with the year each needs\n\nWe wrote these for this page, each a tiny story. The year is when the newest emoji in the combo entered Unicode, and phones usually receive fonts a little later.\n\n- Doorbell dash 🔔🚪🏃🍬 (2010): knocked, grabbed, ran\n- Late carving 🎃🔦🕯️ (2014): still carving by torchlight\n- Witch's commute 🧹🌕🐈‍⬛ (2020): broom, full moon, cat on board\n- Potion gone wrong 🧪🫧🐸 (2021): the spell made a frog\n- Mirror check 🪞👀👻 (2020): something is behind you\n- Graveyard shift 🪦🕰️🧟 (2020): clocking in at midnight\n- Costume crisis 🧛❓🧟❓🧙 (2017): still deciding on 30 October\n- Candy swap 🍫🔁🍭 (2015): trade you\n- Couch marathon 🛋️🍿😱📼 (2015): old tapes, loud screaming\n- Wolf hour 🌕🐺🏃 (2010): full moon, everybody inside\n- Spider landlord 🏚️🕸️🕷️ (2014): rent is paid in flies\n- Haunted latte 👻☕🍂 (2010): cosy-spooky morning\n\nFor an older phone, swap ⚰️ in for 🪦 or drop the 🫧. Graveyard shift then needs 2017, not 2020, and Potion gone wrong 2018, not 2021.\n\n## Sending a Halloween emoji to one person, or a whole page\n\nA combo is redrawn by the other person's phone and can arrive as boxes. When one person deserves more than a row of symbols, a page carries your photos and words instead.\n\nThe [interactive Halloween card with photos and a carved pumpkin](https://subhsandesh.in/happy-halloween) takes up to six photos, a letter and the word to carve on a jack-o'-lantern, takes about 5 minutes to make, and opens in any phone or laptop browser. The [premium Halloween page with a voice note and unlock time](https://subhsandesh.in/happy-halloween-premium) adds a voice note of up to 60 seconds, up to 12 photos, an optional unlock time and a reply box, in about 10 minutes.\n\nPick the card for a quick surprise, the premium page when your voice matters. Both are one-person greeting pages with partner, bestie, family and kids modes, not group-chat tools; 90.9% of pages started on SubhSandesh are published and shared. If the person lives in another city, the [miss-you page for someone far away](https://subhsandesh.in/missyou-gf) suits the rest of the year better.\n\n## When a Halloween emoji is the wrong choice\n\nSkulls, coffins and headstones read badly near a real loss, and Halloween sits beside All Saints' Day on 1 November and Día de los Muertos on 1–2 November. If someone is grieving, send words, not 🪦.\n\nSkip the knife and blood for anyone who may read them literally. A page is also the wrong tool for a group chat or a quick reply: an emoji costs one tap, while our pages take 5 to 10 minutes and average 11.1 views each, the scale of one private moment.\n\n## Sources\n\n- Unicode Consortium, [emoji-test.txt, Emoji 18.0](https://www.unicode.org/Public/emoji/latest/emoji-test.txt), 30 April 2026.\n- Unicode Consortium, [UTS #51 Unicode Emoji, version 18.0](https://www.unicode.org/reports/tr51/), 28 August 2026.\n- Miller et al., [Varying Interpretations of Emoji](https://ojs.aaai.org/index.php/ICWSM/article/view/14757), ICWSM 2016, vol. 10.\n- Zhukova and Herring, [Benign or Toxic? Emoji Interpretation by Gender and Generation](https://scholarworks.iu.edu/journals/index.php/li/article/view/40800), Language@Internet 22, 20 December 2024.\n- Apple Support, [About iOS 26 Updates](https://support.apple.com/en-us/123075).\n- Android Developers, [Support modern emoji (emoji2)](https://developer.android.com/develop/ui/views/text-and-emoji/emoji2), last updated 16 October 2026.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/halloween-emojis#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Emoji",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Emoji",
+              "https://www.wikidata.org/wiki/Q1049294"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Halloween",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Halloween",
+              "https://www.wikidata.org/wiki/Q251868"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Unicode Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Unicode_Consortium",
+              "https://www.wikidata.org/wiki/Q1572774"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Jack-o'-lantern",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Jack-o%27-lantern",
+              "https://www.wikidata.org/wiki/Q221009"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Zero-width joiner",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Zero-width_joiner",
+              "https://www.wikidata.org/wiki/Q614232"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "emoji-test.txt, Unicode Emoji 18.0",
+            "url": "https://www.unicode.org/Public/emoji/latest/emoji-test.txt",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            },
+            "datePublished": "2026-04-30"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "UTS #51: Unicode Emoji, version 18.0",
+            "url": "https://www.unicode.org/reports/tr51/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            },
+            "datePublished": "2026-08-28"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "“Blissfully Happy” or “Ready to Fight”: Varying Interpretations of Emoji",
+            "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14757",
+            "publisher": {
+              "@type": "Organization",
+              "name": "AAAI (ICWSM)"
+            },
+            "datePublished": "2016"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Benign or Toxic? Differences in Emoji Interpretation by Gender, Generation, and Emoji Type",
+            "url": "https://scholarworks.iu.edu/journals/index.php/li/article/view/40800",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Language@Internet, Indiana University Libraries"
+            },
+            "datePublished": "2024-12-20"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "About iOS 26 Updates",
+            "url": "https://support.apple.com/en-us/123075",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Apple"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Support modern emoji (emoji2)",
+            "url": "https://developer.android.com/develop/ui/views/text-and-emoji/emoji2",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Android Developers, Google"
+            },
+            "dateModified": "2026-10-16"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "56 Halloween emojis with code point, version and year",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Released in 2010 (Emoji 0.6): 18 emojis",
+            "description": "18 emojis: jack-o-lantern U+1F383 to eyes U+1F440, all E0.6 (2010)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Released in 2014–2015 (Emoji 0.7 and 1.0): 15 emojis",
+            "description": "15 emojis: spider U+1F577 (2014) to smiling face with horns U+1F608 (2015)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Released in 2016–2017 (Emoji 3.0 and 5.0): 8 emojis",
+            "description": "8 emojis: black heart U+1F5A4 (2016) to zombie U+1F9DF (2017)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Released in 2018–2020 (Emoji 11.0 to 13.0): 8 emojis",
+            "description": "8 emojis: bone U+1F9B4 (2018) to black cat sequence (2020)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Released in 2021–2025 (Emoji 14.0 to 17.0): 7 emojis",
+            "description": "7 emojis: troll U+1F9CC (2021) to distorted face U+1FAEA (2025)"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "halloween emojis",
+    "angle": "Wins by being the only post that gives every Halloween emoji its verified Unicode code point, Emoji version and year, says which ones turn into boxes on older phones, and dates its own combos, using SubhSandesh's 48.3% phone-open rate to show the recipient's phone decides what they see.",
+    "categorySlug": "festive-beats",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-halloween",
+      "https://subhsandesh.in/happy-halloween-premium"
+    ],
+    "serp": {
+      "method": "Orchestrator-measured top 10 (research/serp-snapshots.md, weak 5/10); 0 further searches; 1 Firecrawl scrape of emojipedia.org/halloween; ctx_fetch of emojicombos.com and emojidb.org; emojiterra 403, glyphy.io 404.",
+      "top5": [
+        "emojipedia.org/halloween",
+        "emojiterra.com/halloween",
+        "emojicombos.com/halloween",
+        "emojidb.org",
+        "pinterest"
+      ],
+      "weakCount": 5,
+      "siblingOverlap": "0 URLs shared with halloween-one-word-captions / halloween-hashtags / halloween-captions-for-instagram SERPs (none of the 40 measured halloween-global SERPs contain emojipedia, emojiterra or emojicombos)."
+    },
+    "structuralLimitations": [
+      "Head term against entrenched emoji reference sites (emojipedia, emojiterra) with far higher authority; expect months and likely no top-10 position.",
+      "Per-vendor support beyond Apple and Android's emoji2 guide was not verified; Samsung and Windows release notes not checked. Apple names only 5 of the 8 emoji in iOS 26.7, so hairy creature's iPhone arrival is unconfirmed.",
+      "The Miller study page shows 'Published 2021-08-04' (OJS migration); the paper itself is ICWSM 2016 (May 2016), which is the date used.",
+      "Neither misreading study tested Halloween emojis; the post says so.",
+      "halloween-one-word-captions (b1) already cites the 2017 Miller/ICWSM follow-up and covers screen-reader names; this post cites the different 2016 paper and avoids the screen-reader idea.",
+      "Remediation 2026-10-22: the list was regrouped from theme (pumpkin, ghost, monster...) to five Unicode release eras matching the table, so it no longer follows the themed-grid shape of the emoji reference pages. Only emojipedia, emojicombos and emojidb were fetched; emojiterra's structure (403) is unmeasured, so 'no section mirrors a competitor' holds for the three pages actually read."
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24",
+      "90.9% of started pages are actually published and shared (4,724 of 5,199) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.unicode.org/Public/emoji/latest/emoji-test.txt",
+        "stat": "Emoji 18.0 test data (dated 2026-04-30): code points, CLDR names and E-versions for all 56 listed emojis, e.g. 1F383 jack-o-lantern E0.6, 1FAC8 hairy creature E17.0, 1F408 200D 2B1B black cat E13.0; subgroups (jack-o-lantern in Activities > event; ghost in face-costume). Full file read.",
+        "publishedDate": "2026-04-30"
+      },
+      {
+        "url": "https://www.unicode.org/reports/tr51/",
+        "stat": "UTS #51 v18.0 (2026-08-28): Emoji version dates table (E0.6 2010-10-11 ... E16.0 2024-09-10, E17.0 2025-09-09, E18.0 2026-09-15); FE0F is the emoji presentation selector; a system without a ZWJ sequence's glyph ignores the ZWJ and displays a fallback sequence of separate emoji. Full text read.",
+        "publishedDate": "2026-08-28"
+      },
+      {
+        "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14757",
+        "stat": "Miller et al., ICWSM 2016: 304 participants analysed, sentiment rated -5 to 5; two people rating the same rendering disagreed on positive/neutral/negative 25% of the time; 44 of 110 renderings (40%) had a within-platform misconstrual score >= 2; misconstrual incrementally larger across platforms; participant P22 reported faces sent after an iOS update arriving on his wife's phone as aliens. Full PDF read.",
+        "publishedDate": "2016"
+      },
+      {
+        "url": "https://scholarworks.iu.edu/journals/index.php/li/article/view/40800",
+        "stat": "Zhukova & Herring, Language@Internet 22 (2024-12-20): 273 participants; Gen Z rated fire-emoji messages more friendly than older generations (p<.05); Baby Boomers rated fire-emoji messages significantly more threatening than younger generations (p<.01); all groups reacted negatively to the bomb emoji. Full PDF read.",
+        "publishedDate": "2024-12-20"
+      },
+      {
+        "url": "https://support.apple.com/en-us/123075",
+        "stat": "About iOS 26 Updates: iOS 26.7 'introduces ... 8 new emoji'; '8 new emoji including an orca, trombone, landslide, ballet dancer, and distorted face are available in the emoji keyboard'. Page carries no publication date."
+      },
+      {
+        "url": "https://developer.android.com/develop/ui/views/text-and-emoji/emoji2",
+        "stat": "Android emoji2 guide (last updated 2026-10-16): later emoji may display as a small square box called tofu; 'Android versions 11 (API level 30) and lower can't update the emoji font, so apps that display them on those versions must be updated manually'.",
+        "publishedDate": "2026-10-16"
+      }
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Structural. The only table compares emoji release eras, and facts.md holds no first-party number that varies by era, device OS or emoji font: the phone-open (48.3%) and touch-device (48.4%) lines are single platform-wide figures, so a column of them would repeat one value per row, and no Halloween usage data exists (BRIEF §3). Closes when views can be split by device OS version (e.g. share of opens on Android 11 or lower, or on iOS below 26.7), which would give each era row a real 'share of our recipients who would see a box' value; re-check at the next facts.md regeneration that adds a user-agent OS breakdown."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this because it gives each of the 56 Halloween emojis a code point, Emoji version and year verified against Unicode's own file, orders the list by release era so readers can see which break on older phones (with Apple and Android sources), and dates its combos; the three top-5 pages fetched (emojipedia, emojicombos, emojidb) show none of that, while emojiterra (403) and Pinterest were not checked. It is a head term against high-authority emoji reference sites and this domain has no comparable authority or backlinks, so it is unlikely to outrank them for 'halloween emojis'; the realistic openings are long-tail queries such as 'witch emoji name' or 'black cat emoji shows square', and the table still carries no first-party column."
+    },
+    "generatedAt": "2026-10-21T18:36:21.679Z"
+  }
+}
