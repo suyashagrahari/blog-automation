@@ -103,6 +103,9 @@ export const TEMPLATE_LINKS: { url: string; what: string }[] = [
   // CreativeWork description. Seeded into the CMS template picker (dilse-cms 4541cf0).
   { url: `${SITE_ROOT}/happy-halloween`, what: "Interactive Halloween card they play: knock on a little haunted house, carve a pumpkin, read your letter by flashlight, brew a love potion and answer 'Will you be my boo?' — ends in a downloadable Boo License" },
   { url: `${SITE_ROOT}/happy-halloween-premium`, what: "Premium cinematic Halloween page: a ghost pops out of a mailbox with your letter, candy with sweet dares, ghosts hiding your photos, a love potion, a voice note and 'will you be my boo?' landing on your song's chorus" },
+  // Added 2026-10-22. Verified HTTP 200; `what` taken from the page's own CreativeWork description.
+  // Not yet seeded into the CMS template picker — run scripts/add-template.mjs for it, else relatedTemplates shows an amber "missing" warning.
+  { url: `${SITE_ROOT}/happy-diwali`, what: "Interactive Diwali card they play: light a diya at their door, light a row of wish diyas, colour a rangoli, write with a sparkler, light a tray of crackers, open a red-and-gold liffafa and a box of mithai" },
   { url: `${SITE_ROOT}/legal-notice`, what: "Legal Notice — a mock formal notice served on your person; they must accept or contest every demand, with seven days to comply" },
 ];
 

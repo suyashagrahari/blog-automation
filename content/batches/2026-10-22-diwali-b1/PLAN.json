@@ -1,0 +1,924 @@
+{
+ "batchId": "2026-10-22-diwali-b1",
+ "source": "content/keywords/2026-10-22-diwali-2027/batches/diwali-batch-1.md",
+ "why": "50 batch-1 keywords → 25 posts (one per search intent; same-SERP rows absorbed as secondaries) + 2 existing drafts upgraded (happy-diwali-wishes-in-hindi, diwali-wishes-with-name-and-photo).",
+ "oldDiwaliPosts": [
+  "happy-diwali-wishes-in-hindi",
+  "diwali-wishes-with-name-and-photo",
+  "what-to-write-in-a-diwali-card",
+  "diwali-wishes-for-boss-and-colleagues",
+  "diwali-wishes-for-clients-and-customers",
+  "first-diwali-after-marriage",
+  "first-diwali-away-from-family",
+  "diwali-gift-for-wife"
+ ],
+ "rows": [
+  {
+   "rank": 1,
+   "slug": "diwali-2027-date",
+   "keyword": "diwali 2027 date",
+   "secondaries": [
+    "diwali 2027",
+    "diwali",
+    "when is diwali 2027",
+    "diwali 2027 date in india",
+    "happy diwali 2027",
+    "happy diwali"
+   ],
+   "siblings": [
+    "diwali-2027-kab-hai",
+    "lakshmi-puja-muhurat-2027",
+    "dhanteras-2027"
+   ],
+   "phenomenon": "lunisolar calendar: amanta vs purnimanta months, why Diwali moves every year (Kartika Amavasya), regional differences (Tamil Nadu/South India Deepavali on Naraka Chaturdashi)",
+   "angle": "the English master page: verified 5-day 2027 table (27–31 Oct) + why the date moves + why South India's day differs; correct where wrong-date pages are ranking",
+   "language": "en"
+  },
+  {
+   "rank": 2,
+   "slug": "diwali-2027-kab-hai",
+   "keyword": "diwali 2027 kab hai",
+   "secondaries": [
+    "diwali 2027 mein kab hai",
+    "दिवाली",
+    "दिवाली 2027 कब है"
+   ],
+   "siblings": [
+    "diwali-2027-date"
+   ],
+   "phenomenon": "pradosh-vyapini amavasya rule for choosing the Lakshmi Puja day; tithi spanning two civil days",
+   "angle": "the HINDI-language page (body in Hindi, Devanagari; Hinglish only in the title/keyword). Not a translation of diwali-2027-date: answer in Hindi for the Hindi searcher, panchang-style 5-day table",
+   "language": "hi"
+  },
+  {
+   "rank": 3,
+   "slug": "lakshmi-puja-muhurat-2027",
+   "keyword": "lakshmi puja muhurat 2027",
+   "secondaries": [
+    "diwali 2027 date and time",
+    "diwali puja muhurat 2027"
+   ],
+   "siblings": [
+    "lakshmi-puja-vidhi",
+    "diwali-2027-date"
+   ],
+   "phenomenon": "pradosh kaal and sthir (fixed) lagna — how the evening window is defined; sunset varies by city",
+   "angle": "explain HOW the window is computed (sunset + pradosh, Vrishabha lagna) and why times differ by city, with a dated table for a few cities ONLY if sourced from a non-competitor primary/astronomical source; never invent minutes. drikpanchang ranks #1 = competitor, never cite",
+   "language": "en"
+  },
+  {
+   "rank": 4,
+   "slug": "lakshmi-puja-vidhi",
+   "keyword": "lakshmi puja vidhi",
+   "secondaries": [
+    "lakshmi puja procedure",
+    "diwali puja vidhi at home",
+    "lakshmi puja samagri list"
+   ],
+   "siblings": [
+    "lakshmi-puja-muhurat-2027"
+   ],
+   "phenomenon": "household ritual practice and its textual basis (Puranic/Agamic descriptions of Lakshmi worship); public-domain texts on archive.org/gutenberg",
+   "angle": "step-by-step home puja with a samagri checklist table; regional variations stated as variations, not one true way",
+   "language": "en"
+  },
+  {
+   "rank": 5,
+   "slug": "dhanteras-2027",
+   "keyword": "dhanteras 2027",
+   "secondaries": [
+    "dhanteras",
+    "dhanteras 2027 date",
+    "what to buy on dhanteras"
+   ],
+   "siblings": [
+    "diwali-2027-date",
+    "choti-diwali-2027"
+   ],
+   "phenomenon": "gold/precious-metal buying around festivals (World Gold Council / RBI data) and Dhanvantari Jayanti (National Ayurveda Day — Ministry of AYUSH)",
+   "angle": "date + what Dhanteras is + what people buy and why, with dated gold-demand data; National Ayurveda Day link",
+   "language": "en"
+  },
+  {
+   "rank": 6,
+   "slug": "choti-diwali-2027",
+   "keyword": "choti diwali 2027",
+   "secondaries": [
+    "narak chaturdashi 2027",
+    "roop chaudas 2027"
+   ],
+   "siblings": [
+    "dhanteras-2027",
+    "diwali-2027-date"
+   ],
+   "phenomenon": "Naraka Chaturdashi story (Narakasura) and abhyanga snan oil bath tradition",
+   "angle": "date + rituals; why Tamil Nadu's main Deepavali morning is this day",
+   "language": "en"
+  },
+  {
+   "rank": 7,
+   "slug": "govardhan-puja-2027",
+   "keyword": "govardhan puja 2027",
+   "secondaries": [
+    "govardhan puja",
+    "annakut 2027",
+    "why govardhan puja is celebrated"
+   ],
+   "siblings": [
+    "bhai-dooj-2027"
+   ],
+   "phenomenon": "Govardhan lila in the Bhagavata Purana (public-domain translation) and Annakut offerings; Gujarati New Year (Bestu Varas) same day",
+   "angle": "date + story + Annakut; regional naming",
+   "language": "en"
+  },
+  {
+   "rank": 8,
+   "slug": "bhai-dooj-2027",
+   "keyword": "bhai dooj 2027",
+   "secondaries": [
+    "bhai dooj",
+    "bhai dooj date 2027",
+    "bhai dooj tilak muhurat 2027"
+   ],
+   "siblings": [
+    "govardhan-puja-2027"
+   ],
+   "phenomenon": "sibling relationships in adulthood (scholarly sibling-bond research) and Yama–Yami legend",
+   "angle": "date + rituals + what to send a sibling who is far away",
+   "language": "en"
+  },
+  {
+   "rank": 9,
+   "slug": "diwali-quotes",
+   "keyword": "diwali quotes",
+   "secondaries": [
+    "diwali greetings",
+    "diwali messages",
+    "diwali wishes quotes"
+   ],
+   "siblings": [
+    "happy-diwali-wishes-in-hindi",
+    "diwali-wishes-with-name-and-photo",
+    "what-to-write-in-a-diwali-card",
+    "diwali-wishes-for-boss-and-colleagues",
+    "diwali-wishes-for-clients-and-customers",
+    "first-diwali-after-marriage",
+    "first-diwali-away-from-family",
+    "diwali-gift-for-wife",
+    "diwali-shayari",
+    "diwali-status",
+    "diwali-captions"
+   ],
+   "phenomenon": "gratitude and festive greetings strengthening social ties",
+   "angle": "original quotes grouped by recipient and tone; 0 lines reused from the OLD diwali posts",
+   "language": "en"
+  },
+  {
+   "rank": 10,
+   "slug": "diwali-shayari",
+   "keyword": "diwali shayari",
+   "secondaries": [
+    "दिवाली की शुभकामनाएं शायरी",
+    "diwali shayari in hindi english",
+    "diwali shayari in hindi"
+   ],
+   "siblings": [
+    "diwali-quotes",
+    "happy-diwali-wishes-in-hindi"
+   ],
+   "phenomenon": "the sher/couplet form in Hindi–Urdu poetry; Nazir Akbarabadi's public-domain Diwali nazm",
+   "angle": "original 2-line shayari in Devanagari + Roman transliteration + English gloss; credit only public-domain classical lines",
+   "language": "en"
+  },
+  {
+   "rank": 11,
+   "slug": "diwali-status",
+   "keyword": "diwali status",
+   "secondaries": [
+    "diwali whatsapp status",
+    "diwali status in english",
+    "diwali status in hindi"
+   ],
+   "siblings": [
+    "diwali-captions",
+    "diwali-quotes"
+   ],
+   "phenomenon": "ephemeral status sharing on WhatsApp (status character/time limits from official WhatsApp help)",
+   "angle": "short original status lines by length/tone + how WhatsApp status works (24h, limits)",
+   "language": "en"
+  },
+  {
+   "rank": 12,
+   "slug": "diwali-captions",
+   "keyword": "diwali captions",
+   "secondaries": [
+    "diwali captions for instagram",
+    "diwali quotes for instagram",
+    "diwali captions for instagram for girl"
+   ],
+   "siblings": [
+    "diwali-status",
+    "diwali-quotes"
+   ],
+   "phenomenon": "social media captions and self-presentation research",
+   "angle": "original captions by photo type (diya, rangoli, outfit, family, office)",
+   "language": "en"
+  },
+  {
+   "rank": 13,
+   "slug": "diwali-wishes-maker",
+   "keyword": "diwali wishes maker",
+   "secondaries": [
+    "diwali wishes maker online",
+    "diwali greetings maker online free",
+    "diwali wishes maker for company",
+    "diwali wishes maker app"
+   ],
+   "siblings": [
+    "diwali-card",
+    "diwali-wishes-with-name-and-photo",
+    "happy-diwali-images"
+   ],
+   "phenomenon": "personalisation effect on message reception; app-less link sharing",
+   "angle": "honest comparison of maker TYPES (image-template editors, video makers, interactive pages) with a real-value table; /happy-diwali is the interactive type",
+   "language": "en"
+  },
+  {
+   "rank": 14,
+   "slug": "diwali-card",
+   "keyword": "diwali card",
+   "secondaries": [
+    "digital diwali card",
+    "diwali greeting card",
+    "diwali card for family"
+   ],
+   "siblings": [
+    "diwali-wishes-maker",
+    "what-to-write-in-a-diwali-card"
+   ],
+   "phenomenon": "digital vs paper greeting cards; history of printed festival cards in India",
+   "angle": "card types (paper/handmade/digital/interactive), when each fits; NOT what-to-write (that is an OLD post)",
+   "language": "en"
+  },
+  {
+   "rank": 15,
+   "slug": "happy-diwali-images",
+   "keyword": "happy diwali images",
+   "secondaries": [
+    "diwali images",
+    "diwali wishes images",
+    "diwali greetings images"
+   ],
+   "siblings": [
+    "diwali-captions",
+    "diwali-rangoli-designs"
+   ],
+   "phenomenon": "copyright and licensing of images people forward (Indian Copyright Act, Creative Commons); WhatsApp image compression",
+   "angle": "how to make/find shareable Diwali images legally + original image ideas; no stock-site promotion",
+   "language": "en"
+  },
+  {
+   "rank": 16,
+   "slug": "diwali-rangoli-designs",
+   "keyword": "diwali rangoli designs",
+   "secondaries": [
+    "diwali rangoli",
+    "diwali rangoli easy",
+    "diwali rangoli simple"
+   ],
+   "siblings": [
+    "diwali-drawing",
+    "diwali-decoration-ideas"
+   ],
+   "phenomenon": "kolam/rangoli geometry (scholarly mathematics of kolam) and natural colour materials",
+   "angle": "text step-by-step designs graded by size/time/skill with materials table",
+   "language": "en"
+  },
+  {
+   "rank": 17,
+   "slug": "diwali-drawing",
+   "keyword": "diwali drawing",
+   "secondaries": [
+    "diwali drawing easy",
+    "diwali drawing ideas",
+    "happy diwali drawing"
+   ],
+   "siblings": [
+    "diwali-rangoli-designs"
+   ],
+   "phenomenon": "children's drawing development and art-making benefits",
+   "angle": "original step-by-step drawings (diya, lantern, rangoli motif) graded by age",
+   "language": "en"
+  },
+  {
+   "rank": 18,
+   "slug": "diwali-gift-ideas",
+   "keyword": "diwali gift ideas",
+   "secondaries": [
+    "diwali gift ideas for family",
+    "diwali gift ideas for friends",
+    "diwali gift ideas for kids"
+   ],
+   "siblings": [
+    "diwali-gift-ideas-for-employees",
+    "diwali-gift-for-wife"
+   ],
+   "phenomenon": "gift-giving psychology (giver–recipient mismatch, experiential vs material gifts)",
+   "angle": "ideas by recipient and budget band (labelled EST prices); no shop links",
+   "language": "en"
+  },
+  {
+   "rank": 19,
+   "slug": "diwali-gift-ideas-for-employees",
+   "keyword": "diwali gift ideas for employees",
+   "secondaries": [
+    "diwali gift for employees",
+    "diwali gift ideas corporate",
+    "diwali gift ideas for employees under 1000",
+    "diwali gift ideas for clients"
+   ],
+   "siblings": [
+    "diwali-gift-ideas",
+    "diwali-wishes-for-boss-and-colleagues",
+    "diwali-wishes-for-clients-and-customers"
+   ],
+   "phenomenon": "Indian income-tax treatment of employer gifts (perquisite exemption threshold — verify current rule at incometaxindia.gov.in) and recognition research",
+   "angle": "budget bands + tax rule + what employees actually value; dated EST prices",
+   "language": "en"
+  },
+  {
+   "rank": 20,
+   "slug": "diwali-decoration-ideas",
+   "keyword": "diwali decoration ideas",
+   "secondaries": [
+    "diwali decoration ideas for home",
+    "diwali decoration ideas for office",
+    "diwali decoration ideas for school"
+   ],
+   "siblings": [
+    "diwali-rangoli-designs",
+    "diwali-party-ideas"
+   ],
+   "phenomenon": "fire and electrical safety with diyas/fairy lights (official safety guidance: NDMA/BIS/fire services)",
+   "angle": "room-by-room ideas with time/cost table + safety",
+   "language": "en"
+  },
+  {
+   "rank": 21,
+   "slug": "diwali-party-ideas",
+   "keyword": "diwali party ideas",
+   "secondaries": [
+    "diwali party activities",
+    "diwali party ideas at home",
+    "diwali party names",
+    "diwali party games"
+   ],
+   "siblings": [
+    "diwali-decoration-ideas",
+    "diwali-sweets"
+   ],
+   "phenomenon": "the card-playing tradition on Diwali and group play/social bonding research",
+   "angle": "themes, games, food plan, timeline; card games framed without gambling advice",
+   "language": "en"
+  },
+  {
+   "rank": 22,
+   "slug": "diwali-sweets",
+   "keyword": "diwali sweets",
+   "secondaries": [
+    "diwali sweets list",
+    "diwali sweets names",
+    "diwali mithai"
+   ],
+   "siblings": [
+    "diwali-party-ideas",
+    "diwali-gift-ideas"
+   ],
+   "phenomenon": "food adulteration around festivals (FSSAI guidance on khoya/mawa and silver varq; DART book)",
+   "angle": "regional mithai list table + how to check purity at home per FSSAI; no recipes copied",
+   "language": "en"
+  },
+  {
+   "rank": 23,
+   "slug": "diwali-essay",
+   "keyword": "diwali essay",
+   "secondaries": [
+    "diwali essay in english",
+    "diwali essay 10 lines",
+    "diwali essay in english 150 words",
+    "diwali essay in hindi"
+   ],
+   "siblings": [
+    "diwali-speech",
+    "diwali-story"
+   ],
+   "phenomenon": "Diwali origins in historical sources (Wikipedia only for disambiguation; scholarly history of the festival)",
+   "angle": "original sample essays at 10 lines / 150 / 300 words + structure tips; English body with one short Hindi sample",
+   "language": "en"
+  },
+  {
+   "rank": 24,
+   "slug": "diwali-speech",
+   "keyword": "diwali speech",
+   "secondaries": [
+    "diwali speech in english",
+    "diwali speech in hindi",
+    "diwali speech for students"
+   ],
+   "siblings": [
+    "diwali-essay",
+    "diwali-story"
+   ],
+   "phenomenon": "public speaking anxiety in children and speech structure research",
+   "angle": "original 1-, 2- and 3-minute speeches with word counts and delivery tips",
+   "language": "en"
+  },
+  {
+   "rank": 25,
+   "slug": "diwali-story",
+   "keyword": "diwali story",
+   "secondaries": [
+    "what is diwali story",
+    "diwali story in english",
+    "diwali story in hindi",
+    "diwali origin story"
+   ],
+   "siblings": [
+    "diwali-essay",
+    "choti-diwali-2027",
+    "govardhan-puja-2027"
+   ],
+   "phenomenon": "the multiple Diwali stories across traditions: Rama's return (Valmiki Ramayana, public-domain translation), Lakshmi, Narakasura, Jain Mahavira nirvana, Sikh Bandi Chhor Divas",
+   "angle": "retell each story briefly from public-domain primary texts with citations; kid-friendly version",
+   "language": "en"
+  },
+  {
+   "rank": 26,
+   "slug": "what-is-diwali",
+   "keyword": "what is diwali",
+   "anchor": "diwali",
+   "secondaries": [
+    "what is diwali all about",
+    "diwali meaning",
+    "diwali festival of lights meaning"
+   ],
+   "siblings": [
+    "diwali-story",
+    "diwali-essay",
+    "diwali-2027-date"
+   ],
+   "phenomenon": "religious and cultural meaning of light festivals; Diwali across Hindu, Jain, Sikh, Buddhist communities (scholarly sources)",
+   "angle": "a plain-language 'Diwali explained' for someone new to it (incl. non-Indians, diaspora kids): what it is, the 5 days in one line each, what people do, how to greet — NOT a retelling of the stories (diwali-story) and NOT a school essay",
+   "language": "en"
+  },
+  {
+   "rank": 27,
+   "slug": "happy-diwali-in-different-languages",
+   "keyword": "happy diwali in different languages",
+   "anchor": "happy diwali",
+   "secondaries": [
+    "happy diwali in tamil",
+    "happy diwali in kannada",
+    "happy diwali in marathi",
+    "happy diwali in sanskrit"
+   ],
+   "siblings": [
+    "diwali-quotes",
+    "diwali-shayari",
+    "happy-diwali-wishes-in-hindi"
+   ],
+   "phenomenon": "regional names of the festival and greeting forms across Indian languages (dictionaries — wiktionary/dsal are cap-exempt)",
+   "angle": "a table of 12+ languages: native script, transliteration, literal meaning, when it's said — verify each from a dictionary/primary source",
+   "language": "en"
+  },
+  {
+   "rank": 28,
+   "slug": "diwali-2027-in-usa-uk-canada",
+   "keyword": "diwali 2027 in usa",
+   "anchor": "when is diwali 2027",
+   "secondaries": [
+    "diwali 2027 in uk",
+    "when is diwali 2027 in usa",
+    "diwali 2027 canada",
+    "diwali 2027 australia"
+   ],
+   "siblings": [
+    "diwali-2027-date",
+    "lakshmi-puja-muhurat-2027"
+   ],
+   "phenomenon": "time zones and tithi: why the diaspora date differs (USNO/NASA new-moon time vs local sunset)",
+   "angle": "the diaspora page: date + Lakshmi Puja evening for US/UK/Canada/Australia/Singapore cities, school/work notes, how to send a greeting across time zones; diwali-2027-date already says London/NY observe 28 Oct — go deeper, don't repeat its table",
+   "language": "en"
+  },
+  {
+   "rank": 29,
+   "slug": "diwali-holidays-2027",
+   "keyword": "diwali holidays 2027",
+   "anchor": "diwali 2027 date in india",
+   "secondaries": [
+    "diwali holidays 2027 state wise",
+    "diwali holidays in maharashtra",
+    "diwali holidays in karnataka",
+    "diwali school holidays 2027"
+   ],
+   "siblings": [
+    "diwali-2027-date",
+    "diwali-2027-kab-hai"
+   ],
+   "phenomenon": "public holiday law: Negotiable Instruments Act holidays and state gazette notifications",
+   "angle": "state-wise 2027 Diwali holidays ONLY from official notifications you can fetch (central DoPT list, state gazettes, RBI holiday matrix if published); where 2027 lists aren't out yet, say so with the expected release month and the 2026 pattern labelled as 2026",
+   "language": "en"
+  },
+  {
+   "rank": 30,
+   "slug": "diwali-2027-calendar",
+   "keyword": "diwali 2027 calendar",
+   "anchor": "diwali 2027",
+   "secondaries": [
+    "diwali 2027 calendar with festivals",
+    "october november 2027 festival calendar",
+    "karva chauth 2027",
+    "chhath puja 2027"
+   ],
+   "siblings": [
+    "diwali-2027-date",
+    "dhanteras-2027",
+    "bhai-dooj-2027"
+   ],
+   "phenomenon": "the Kartika festival season: Karva Chauth, Ahoi Ashtami, Dhanteras→Bhai Dooj, Chhath, Dev Deepawali, Guru Nanak Jayanti — dates verified",
+   "angle": "the whole Oct–Nov 2027 festival season around Diwali in one dated calendar table; each Diwali-week day gets one line + pointer, not a rewrite of the day posts",
+   "language": "en"
+  },
+  {
+   "rank": 31,
+   "slug": "happy-diwali-2027-wishes",
+   "keyword": "happy diwali 2027 wishes",
+   "anchor": "happy diwali 2027",
+   "secondaries": [
+    "happy diwali 2027",
+    "diwali 2027 wishes",
+    "happy diwali 2027 messages"
+   ],
+   "siblings": [
+    "diwali-quotes",
+    "diwali-status",
+    "happy-diwali-wishes-in-hindi"
+   ],
+   "phenomenon": "timing of greetings: when messages are sent around festivals (anticipation; send-time)",
+   "angle": "2027-specific wishes: day-by-day greetings for the 27–31 Oct 2027 sequence (Friday Diwali, Saturday Govardhan, Sunday Bhai Dooj) — ORIGINAL lines; reuse none from siblings",
+   "language": "en"
+  },
+  {
+   "rank": 32,
+   "slug": "diwali-2027-city-wise-timings",
+   "keyword": "diwali 2027 date and time",
+   "anchor": "diwali 2027 date and time",
+   "secondaries": [
+    "diwali 2027 time",
+    "lakshmi puja time 2027 city wise",
+    "diwali 2027 timings delhi mumbai bangalore"
+   ],
+   "siblings": [
+    "lakshmi-puja-muhurat-2027",
+    "diwali-2027-date"
+   ],
+   "phenomenon": "sunset varies by longitude/latitude; pradosh kaal computed from local sunset (USNO/NOAA solar data)",
+   "angle": "a 15–20 Indian city table: sunset and pradosh window on 29 Oct 2027 from USNO/astronomical data you compute or fetch; the Amavasya end (≈19:06 IST) as the common cutoff; never invent lagna minutes. lakshmi-puja-muhurat-2027 has 5 cities — extend, don't copy",
+   "language": "en"
+  },
+  {
+   "rank": 33,
+   "slug": "diwali-kyon-manaya-jata-hai",
+   "keyword": "diwali kyon manaya jata hai",
+   "anchor": "दिवाली",
+   "secondaries": [
+    "दिवाली क्यों मनाई जाती है",
+    "diwali kyu manaya jata hai",
+    "दीपावली का महत्व"
+   ],
+   "siblings": [
+    "diwali-story",
+    "what-is-diwali",
+    "diwali-2027-kab-hai"
+   ],
+   "phenomenon": "the multiple reasons/traditions behind Diwali, from public-domain primary texts",
+   "angle": "HINDI body (Devanagari). Answer 'why' for a Hindi reader: each tradition's reason in 2–3 lines with its source; not a full retelling (diwali-story) and not the date (kab-hai)",
+   "language": "hi"
+  },
+  {
+   "rank": 34,
+   "slug": "deepavali-in-tamil-nadu",
+   "keyword": "why diwali is celebrated in tamil nadu",
+   "anchor": "diwali 2027 date in india",
+   "secondaries": [
+    "deepavali in tamil nadu",
+    "why diwali is celebrated in south india",
+    "naraka chaturdashi tamil nadu",
+    "thala deepavali"
+   ],
+   "siblings": [
+    "choti-diwali-2027",
+    "diwali-2027-date"
+   ],
+   "phenomenon": "regional variation: Naraka Chaturdashi as the main Deepavali morning in Tamil Nadu (Ganga snanam, oil bath, new clothes, lehiyam); Thala Deepavali for newly-weds",
+   "angle": "the South Indian Deepavali: why it's the morning before, rituals, 2027 date conflict (28 vs 29 Oct) stated with sources; Tamil greetings in script + transliteration",
+   "language": "en"
+  },
+  {
+   "rank": 35,
+   "slug": "dhanteras-meaning",
+   "keyword": "why dhanteras is celebrated",
+   "anchor": "dhanteras",
+   "secondaries": [
+    "dhanteras meaning",
+    "dhanteras significance",
+    "dhanteras story",
+    "yama deepam"
+   ],
+   "siblings": [
+    "dhanteras-2027",
+    "choti-diwali-2027"
+   ],
+   "phenomenon": "Dhanvantari and Yama Deepam traditions; the 'dhan' (wealth) vs Dhanvantari etymology",
+   "angle": "meaning + story + Yama Deepam ritual; NOT the 2027 date or gold data (dhanteras-2027 has those). Note National Ayurveda Day is fixed 23 Sept since 2025",
+   "language": "en"
+  },
+  {
+   "rank": 36,
+   "slug": "diwali-greetings-for-kids",
+   "keyword": "diwali greetings for kids",
+   "anchor": "diwali greetings",
+   "secondaries": [
+    "diwali wishes for kids",
+    "diwali messages for children",
+    "diwali greetings for students"
+   ],
+   "siblings": [
+    "diwali-quotes",
+    "diwali-drawing",
+    "diwali-essay"
+   ],
+   "phenomenon": "how children understand festivals and greetings; age-appropriate language",
+   "angle": "two directions: greetings TO kids (from parents/teachers/grandparents) and greetings BY kids (simple lines they can write/say), graded by age — ORIGINAL",
+   "language": "en"
+  },
+  {
+   "rank": 37,
+   "slug": "diwali-messages-for-family-and-friends",
+   "keyword": "diwali messages for family and friends",
+   "anchor": "diwali messages",
+   "secondaries": [
+    "diwali messages for friends",
+    "diwali messages for family",
+    "diwali messages for whatsapp"
+   ],
+   "siblings": [
+    "diwali-quotes",
+    "diwali-status",
+    "happy-diwali-wishes-in-hindi"
+   ],
+   "phenomenon": "maintaining weak and strong ties through occasion messages (social network research)",
+   "angle": "messages by relationship and closeness (close friend, old friend you lost touch with, cousins, in-laws, neighbours) incl. how to restart contact — ORIGINAL",
+   "language": "en"
+  },
+  {
+   "rank": 38,
+   "slug": "diwali-gift-messages",
+   "keyword": "diwali gift message",
+   "anchor": "diwali wishes quotes",
+   "secondaries": [
+    "diwali gift tags",
+    "diwali hamper message",
+    "what to write on diwali gift"
+   ],
+   "siblings": [
+    "diwali-gift-ideas",
+    "diwali-gift-ideas-for-employees",
+    "what-to-write-in-a-diwali-card"
+   ],
+   "phenomenon": "gift accompaniments: notes and perceived thoughtfulness",
+   "angle": "short lines for gift tags, hamper cards, sweet boxes, corporate packs — by recipient and gift type, character counts for small tags; ORIGINAL; distinct from what-to-write-in-a-diwali-card (longer card messages)",
+   "language": "en"
+  },
+  {
+   "rank": 39,
+   "slug": "diwali-poster-ideas",
+   "keyword": "diwali poster",
+   "anchor": "diwali images",
+   "secondaries": [
+    "diwali poster for school",
+    "diwali poster making",
+    "diwali poster for competition",
+    "diwali poster with slogan"
+   ],
+   "siblings": [
+    "diwali-drawing",
+    "happy-diwali-images",
+    "diwali-rangoli-designs"
+   ],
+   "phenomenon": "visual communication: poster legibility, hierarchy, colour contrast (design/readability research; W3C contrast is cap-exempt)",
+   "angle": "school/competition poster making: layouts, original slogans, materials, judging criteria, safety/eco-themes; no drawing steps (diwali-drawing has those)",
+   "language": "en"
+  },
+  {
+   "rank": 40,
+   "slug": "flower-rangoli-for-diwali",
+   "keyword": "diwali rangoli with flowers",
+   "anchor": "diwali rangoli",
+   "secondaries": [
+    "flower rangoli designs",
+    "genda phool rangoli",
+    "rangoli with flowers and diyas"
+   ],
+   "siblings": [
+    "diwali-rangoli-designs",
+    "diwali-decoration-ideas"
+   ],
+   "phenomenon": "marigold and flower use in Indian festivals; flower freshness/longevity (horticulture sources)",
+   "angle": "flower rangoli: which flowers, quantities, how long each lasts, step-by-step designs, eco disposal; reuse no design from diwali-rangoli-designs",
+   "language": "en"
+  },
+  {
+   "rank": 41,
+   "slug": "bhai-dooj-gift-ideas",
+   "keyword": "bhai dooj gift ideas",
+   "anchor": "bhai dooj",
+   "secondaries": [
+    "bhai dooj gift for sister",
+    "bhai dooj gift for brother",
+    "bhai dooj gifts"
+   ],
+   "siblings": [
+    "bhai-dooj-2027",
+    "diwali-gift-ideas"
+   ],
+   "phenomenon": "sibling gift exchange and reciprocity research",
+   "angle": "ideas both ways (for sister, for brother), by budget (labelled EST ₹) and distance; no shop links",
+   "language": "en"
+  },
+  {
+   "rank": 42,
+   "slug": "govardhan-puja-vidhi",
+   "keyword": "govardhan puja vidhi",
+   "anchor": "govardhan puja",
+   "secondaries": [
+    "govardhan puja kaise kare",
+    "govardhan puja at home",
+    "govardhan puja samagri"
+   ],
+   "siblings": [
+    "govardhan-puja-2027",
+    "lakshmi-puja-vidhi"
+   ],
+   "phenomenon": "household Govardhan worship practice (cow-dung Govardhan, parikrama, Annakut) from primary/scholarly sources",
+   "angle": "step-by-step home puja + samagri table + apartment-friendly variations; NOT the story or date (govardhan-puja-2027)",
+   "language": "en"
+  },
+  {
+   "rank": 43,
+   "slug": "diwali-shayari-for-love",
+   "keyword": "diwali shayari for love",
+   "anchor": "दिवाली की शुभकामनाएं शायरी",
+   "secondaries": [
+    "diwali shayari for love in hindi",
+    "diwali shayari for gf",
+    "romantic diwali shayari"
+   ],
+   "siblings": [
+    "diwali-shayari",
+    "diwali-wishes-for-girlfriend"
+   ],
+   "phenomenon": "romantic poetry and expressing affection (couplet tradition)",
+   "angle": "ORIGINAL romantic shayari in Devanagari + Roman + gloss for partner/spouse; reuse nothing from diwali-shayari",
+   "language": "en"
+  },
+  {
+   "rank": 44,
+   "slug": "diwali-shayari-miss-you",
+   "keyword": "diwali shayari miss you",
+   "anchor": "diwali shayari in hindi english",
+   "secondaries": [
+    "diwali shayari miss you in hindi",
+    "diwali without you shayari",
+    "long distance diwali shayari"
+   ],
+   "siblings": [
+    "diwali-shayari",
+    "first-diwali-away-from-family"
+   ],
+   "phenomenon": "loneliness and festival separation among migrants/students; long-distance relationships",
+   "angle": "ORIGINAL miss-you shayari (Hindi + Roman + English) for partners, parents, friends far away",
+   "language": "en"
+  },
+  {
+   "rank": 45,
+   "slug": "diwali-wishes-for-girlfriend",
+   "keyword": "diwali wishes for girlfriend",
+   "anchor": "diwali wishes",
+   "secondaries": [
+    "diwali wishes for gf",
+    "romantic diwali wishes for girlfriend",
+    "diwali wishes for girlfriend in hindi"
+   ],
+   "siblings": [
+    "diwali-wishes-for-boyfriend",
+    "diwali-shayari-for-love",
+    "diwali-quotes"
+   ],
+   "phenomenon": "romantic partner communication and affectionate messages research",
+   "angle": "ORIGINAL wishes by relationship stage (new, long-term, long-distance); /happy-diwali has a 'your love' mode — describe only template-spec features; /love-gf or /darling as the alternative",
+   "language": "en"
+  },
+  {
+   "rank": 46,
+   "slug": "diwali-wishes-for-boyfriend",
+   "keyword": "diwali wishes for boyfriend",
+   "anchor": "diwali wishes",
+   "secondaries": [
+    "diwali wishes for bf",
+    "romantic diwali wishes for boyfriend"
+   ],
+   "siblings": [
+    "diwali-wishes-for-girlfriend",
+    "diwali-quotes"
+   ],
+   "phenomenon": "how men receive affection/compliments in messages (research)",
+   "angle": "ORIGINAL wishes by relationship stage; distinct lines from the girlfriend post",
+   "language": "en"
+  },
+  {
+   "rank": 47,
+   "slug": "diwali-wishes-for-husband",
+   "keyword": "diwali wishes for husband",
+   "anchor": "happy diwali wishes",
+   "secondaries": [
+    "happy diwali wishes for husband",
+    "diwali wishes for husband in hindi",
+    "romantic diwali wishes for husband"
+   ],
+   "siblings": [
+    "diwali-wishes-for-wife",
+    "first-diwali-after-marriage"
+   ],
+   "phenomenon": "marital gratitude expression research",
+   "angle": "ORIGINAL wishes by marriage stage (first Diwali, years together, apart for work); no overlap with first-diwali-after-marriage",
+   "language": "en"
+  },
+  {
+   "rank": 48,
+   "slug": "diwali-wishes-for-wife",
+   "keyword": "diwali wishes for wife",
+   "anchor": "happy diwali wishes",
+   "secondaries": [
+    "happy diwali wishes for wife",
+    "diwali wishes for wife in hindi",
+    "romantic diwali wishes for wife"
+   ],
+   "siblings": [
+    "diwali-wishes-for-husband",
+    "diwali-gift-for-wife",
+    "first-diwali-after-marriage"
+   ],
+   "phenomenon": "appreciation of household labour and gratitude in marriage (research)",
+   "angle": "ORIGINAL wishes incl. acknowledging the work behind Diwali prep; distinct from the husband post and diwali-gift-for-wife (gifts)",
+   "language": "en"
+  },
+  {
+   "rank": 49,
+   "slug": "diwali-wishes-for-family",
+   "keyword": "diwali wishes for family",
+   "anchor": "diwali wishes in hindi",
+   "secondaries": [
+    "diwali wishes for parents",
+    "diwali wishes for mom and dad",
+    "diwali wishes for grandparents"
+   ],
+   "siblings": [
+    "diwali-messages-for-family-and-friends",
+    "happy-diwali-wishes-in-hindi"
+   ],
+   "phenomenon": "intergenerational communication; older adults and digital messages",
+   "angle": "ORIGINAL wishes for parents, grandparents, siblings, in-laws, with notes on how elders receive messages (voice note, call, paper); distinct from the family-and-friends messages post",
+   "language": "en"
+  },
+  {
+   "rank": 50,
+   "slug": "diwali-wishes-in-marathi",
+   "keyword": "diwali wishes in marathi",
+   "anchor": "दिवाली की शुभकामनाएं संदेश",
+   "secondaries": [
+    "दिवाळीच्या हार्दिक शुभेच्छा",
+    "happy diwali in marathi",
+    "diwali shubhechha marathi"
+   ],
+   "siblings": [
+    "happy-diwali-wishes-in-hindi",
+    "happy-diwali-in-different-languages"
+   ],
+   "phenomenon": "Maharashtrian Diwali customs (Vasu Baras, Padwa, Bhau Beej, faral)",
+   "angle": "ORIGINAL Marathi wishes in Devanagari + Roman + English gloss, organised by the Maharashtrian Diwali days; Marathi spelling verified against a dictionary",
+   "language": "en"
+  }
+ ],
+ "why2": "2026-10-22 user asked for 50 posts from batch 1: rows 26–50 each anchor one batch-1 keyword cluster but target a DISTINCT, autocomplete-evidenced sub-intent so they do not cannibalise rows 1–25."
+}

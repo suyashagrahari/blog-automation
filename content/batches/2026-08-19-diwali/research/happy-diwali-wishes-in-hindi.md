@@ -125,3 +125,45 @@ Diwali 2026 falls on **Sunday 8 November 2026**, five days **6–10 November**. 
 operational fact about send timing. **No muhurat time is given**, so no panchang is cited and the
 date stays out of `sources` per the checklist's festival-date exception; `drikpanchang.com` is
 banned for this batch.
+
+
+## 2026-10-22 upgrade
+
+The draft was never published. Diwali batch `2026-10-22-diwali-b1` assigned it five Batch-1 keywords instead of
+writing new posts: "diwali wishes", "happy diwali wishes", "diwali wishes in hindi", "दिवाली की शुभकामनाएं",
+"दिवाली की शुभकामनाएं संदेश". Rules followed: that batch's `BRIEF.md` §2/§6 and `template-spec.md`.
+
+**What changed**
+- H1/title → "Happy Diwali Wishes in Hindi: दिवाली की शुभकामनाएं by Recipient" (63 chars); metaTitle →
+  "Happy Diwali Wishes in Hindi: 11 दिवाली की शुभकामनाएं संदेश" (59); metaDescription (151), excerpt, keywords
+  and tags carry all five keywords. The two bare English head terms are served by meta only — the post stays a
+  Hindi-register post, which is a stretch for "diwali wishes" (English intent); say so if it under-ranks there.
+- New H2 "दिवाली की शुभकामनाएं संदेश" with 3 ORIGINAL wishes (Devanagari + Roman + gloss): family group, someone
+  in another city, new neighbours. Spelling note (शुभकामनाएं dot vs शुभकामनाएँ chandrabindu) added to the
+  spelling H2. Trigram check against every b1 blog (incl. diwali-quotes/-shayari/-status/-captions), the old
+  Diwali posts and bouquet-3: 0 shared Devanagari trigrams except the bare phrase "दिवाली की शुभकामनाएं".
+- Links: /holi and /templates removed; https://subhsandesh.in/happy-diwali added after the recipient table
+  (only template-spec features: diya at the door with a tag, row of wish diyas, shagun liffafa letter,
+  love/family/friend modes, editable lines); /love-gf kept as the one alternative for a partner who needs
+  more than a festival line. templateUrls = [happy-diwali, love-gf]; categorySlug indian-festivals (unchanged).
+- Table's last column: "Diwali page mode" (family/love/friend; colleague = none). Replaces the stale
+  "no Diwali template exists" column and paragraph; the three facts that carried that claim (2,739 pages /
+  13 types, /love-gf 914 pages, 13,104 views) were removed from body and `factsUsed`.
+- FAQs (still 12): dropped "Why does आप take a plural verb?"; added "Is it शुभकामनाएं or शुभकामनाएँ…" and
+  "When is Diwali 2027?"; rewrote the SubhSandesh FAQ. FAQPage JSON-LD is renderer-built from `article.faqs`
+  (structured-data.md), so no FAQPage block was added. H2 "What a Diwali greeting is conventionally about"
+  renamed (it scored 1.00 token overlap with an FAQ in verify-batch).
+- Cut for length (body 1,787 by verify-batch): "Devanagari on a phone" H2 (kept as FAQ), the "too polite" paragraph (kept as
+  FAQ), the colleague group's second wish + ledger note. Wishes: 8 grouped + 3 new = 11; ItemList renamed.
+
+**Dates (re-verified 2026-10-22, drikpanchang Diwali calendar, New Delhi, used as a date check only, not cited)**
+Dhanteras Fri 6 Nov 2026 · Narak Chaturdashi + Lakshmi Puja Sun 8 Nov · Govardhan Puja Tue 10 Nov ·
+Bhai Dooj Wed 11 Nov 2026. The draft's "five days running 6–10 November" and the FAQ claim "no office day falls
+inside the festival" were wrong (Fri 6, Mon 9–Wed 11 are weekdays) and are fixed. Diwali 2027 = Fri 29 Oct 2027
+(BRIEF §1). Sibling `what-to-write-in-a-diwali-card.json` got date-only fixes: 6–10 → 6–11 November (7×),
+Bhai Dooj 10 → 11 November / Tuesday → Wednesday, and "no office day falls inside the festival" →
+"Lakshmi Puja falls on no office day" (3×, same word count). "See you on the 11th" there was left as is.
+
+**Left as found (legacy, not caused here):** old-vintage `factsUsed` (3 remaining) fail the verbatim check
+against the regenerated facts.md; 3 audit strings are not byte-verbatim to the current checklist; this old
+batch has no verify.config.json, so the verifier still demands /bouquet-gf.
