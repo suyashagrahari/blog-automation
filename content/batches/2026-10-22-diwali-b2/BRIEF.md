@@ -21,7 +21,9 @@
   s.92 Income-tax Act 2025 (cash and jewellery separate); National Ayurveda Day fixed 23 Sept since 2025;
   FSSAI dropped mandatory best-before on loose sweets 7 Nov 2023; Instagram 5 hashtags/post (Oct 2026);
   UNESCO inscribed Deepavali (2025); NDMA has no Diwali lighting guidance.
-- **Search:** try WebSearch first; if it errors (session cap), use Firecrawl `firecrawl_search` (location "India";
+  Instagram feed images now go up to 3:4 portrait (1080×1440) per help.instagram.com (Oct 2026) — not the older
+  4:5 (1080×1350) in some PLAN angles; help.instagram.com's media-size URL is already at its 2-post cap in this batch.
+- **Firecrawl credits ran out (2026-10-22 evening) — do not call Firecrawl.** **Search:** try WebSearch first; if it errors (session cap), use Firecrawl `firecrawl_search` (location "India";
   ~10/min shared, on 429 wait 15 s once); if both fail, `ctx_fetch_and_index("https://html.duckduckgo.com/html/?q=<q>&kl=in-en", "<slug>-serp")`
   labelled "DuckDuckGo, lower confidence" and recorded in `structuralLimitations`. Budget: 3 searches.
 - Caps count posts in THIS batch only, but prefer sources batch 1 did not use (grep its `batchMeta.sources`).

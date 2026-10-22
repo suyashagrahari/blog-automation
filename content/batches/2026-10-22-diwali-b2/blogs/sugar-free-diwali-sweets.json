@@ -1,0 +1,388 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Sugar-Free Diwali Sweets: Swaps, Label Warnings and the Evidence",
+    "slug": "sugar-free-diwali-sweets",
+    "excerpt": "Five original no-added-sugar Diwali sweets, why jaggery and honey do not count, the warnings FSSAI requires on a sugar-free box, and what an Indian sucralose trial and WHO's 2023 guideline found. Not medical advice.",
+    "metaTitle": "Sugar Free Diwali Sweets: 5 Recipes and FSSAI Label Rules",
+    "metaDescription": "Sugar free Diwali sweets without jaggery or honey: 5 original recipes, the FSSAI sweetener warnings a box must carry, and a 210-person Indian sucralose trial.",
+    "keywords": "sugar free diwali sweets, sugar free mithai, diabetic diwali sweets, diwali sweets without sugar, sucralose mithai",
+    "canonicalURL": "https://subhsandesh.in/blog/sugar-free-diwali-sweets",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "sweets",
+      "sugar-free",
+      "diabetes",
+      "recipes"
+    ],
+    "keyTakeaways": [
+      "Jaggery, honey and palm sugar count as added sugar in India's ICMR-INDIAB-21 survey of 18,090 adults, so a gur sweet is not sugar-free.",
+      "ICMR-NIN sets added sugar for adults at under 5% of daily energy; Diwali 2027 runs five days, 27 to 31 October.",
+      "In a 12-week Indian trial of 210 adults with type 2 diabetes, swapping sugar for sucralose in tea or coffee left HbA1c unchanged.",
+      "FSSAI requires a packaged sweetener product to name the sweetener and print warnings such as \"Not recommended for children\"; 10%+ polyols must warn of a laxative effect.",
+      "48.3% of SubhSandesh pages are opened on a phone and each is viewed 11.1 times on average, measured 24 September 2026."
+    ],
+    "faqs": [
+      {
+        "question": "Are there really sugar-free Diwali sweets?",
+        "answer": "Yes, if the sweet has no added sugar: no white sugar, jaggery, honey or palm sugar, which India's ICMR-INDIAB survey counts as added sugar. Sweets built on nuts, paneer or makhana and sweetened with a few dates or a non-nutritive sweetener qualify, though dates still carry their own fruit sugar."
+      },
+      {
+        "question": "Is jaggery a sugar-free option for Diwali sweets?",
+        "answer": "No. The ICMR-INDIAB-21 analysis published in Nature Medicine in 2025 counts jaggery as added sugar alongside white sugar, honey and palm sugar. A gur laddoo is a traditional sweet, not a sugar-free one."
+      },
+      {
+        "question": "Can a person with diabetes eat sugar-free mithai at Diwali?",
+        "answer": "Often in small portions, but that is a question for their own doctor, and nothing here is medical advice. India's RSSDI-ESI 2020 recommendations say artificial sweeteners may be consumed in recommended amounts and name festivals as a reason for regular glucose monitoring."
+      },
+      {
+        "question": "Does sucralose raise blood sugar?",
+        "answer": "In a 12-week Indian trial of 210 adults with type 2 diabetes, replacing about 60 kcal of sugar in tea or coffee with sucralose did not change HbA1c or fasting glucose. It did bring a small drop of 0.5 kg in weight. That trial tested beverages, not mithai."
+      },
+      {
+        "question": "What does WHO say about sugar substitutes?",
+        "answer": "WHO's guideline of 15 May 2023 conditionally recommends against non-sugar sweeteners for weight control. It does not apply to people with pre-existing diabetes and does not cover polyols such as sorbitol."
+      },
+      {
+        "question": "What warnings must a sugar-free sweet box carry in India?",
+        "answer": "Under FSSAI's labelling rules, a package with an artificial sweetener must name it and carry warnings such as \"Not recommended for children\" for saccharin, with extra lines for aspartame and acesulfame potassium. Foods with 10% or more polyols must say they may have a laxative effect."
+      },
+      {
+        "question": "Can children eat sugar-free sweets?",
+        "answer": "FSSAI's own label warnings say products with saccharin, acesulfame potassium or aspartame are not recommended for children, and sorbitol at 10% or more may cause bloating and diarrhoea in children. For a child, ask their doctor before offering a sweetener-based box."
+      },
+      {
+        "question": "Is ragi or millet mithai healthier for diabetes?",
+        "answer": "Not automatically. ICMR-INDIAB-21 found that swapping refined cereals for whole wheat or millet flour without reducing total carbohydrate was not linked to lower diabetes risk. Portion size still decides most of the effect."
+      },
+      {
+        "question": "How much sugar is too much during Diwali week?",
+        "answer": "ICMR-NIN's Dietary Guidelines for Indians set added sugar for adults at under 5% of total daily energy. Diwali 2027 runs five days, 27 to 31 October, so plan servings for the whole week with your doctor rather than day by day."
+      },
+      {
+        "question": "What can I send instead of sweets to someone avoiding sugar?",
+        "answer": "A visit, a savoury box or a greeting works. SubhSandesh's Happy Diwali card ends with a drawn box of mithai and a Shubh Deepavali card signed by you, and 48.3% of SubhSandesh pages are opened on a phone."
+      }
+    ],
+    "coverImageQuery": "dry fruit laddoo diya diwali plate",
+    "coverImagePrompt": "A warm, photorealistic overhead shot of a brass thali holding fig-walnut rolls, paneer sandesh and chana laddoos beside two lit clay diyas. Soft golden evening light, a few scattered almonds and cardamom pods, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Sugar-Free Diwali Sweets: Swaps, Label Warnings and the Evidence\n\nSugar-free Diwali sweets work best when the base is nuts, paneer, makhana or millet and the sweetness comes from a few dates or figs or a measured non-nutritive sweetener, not from jaggery or honey, which Indian surveys count as added sugar. This is not medical advice: if you or the person you are cooking for has diabetes, check with your doctor before Diwali on Friday 29 October 2027.\n\nTwo SubhSandesh numbers shape the last section. 48.3% of the pages people share on SubhSandesh are opened on a phone, and each page is viewed 11.1 times on average, so a greeting can carry some of the sweetness a sugar-free box cannot. Below are five original recipes, a sweetener table, the FSSAI label warnings, an Indian sucralose trial and a five-day plan.\n\n## What makes a Diwali sweet \"sugar-free\" by Indian guidelines?\n\nA sugar-free Diwali sweet has no added sugar, and in India's largest diet survey \"added sugar\" means white sugar, honey, jaggery and palm sugar added during cooking or at the table. That definition comes from the [ICMR-INDIAB survey-21 dietary analysis](https://europepmc.org/article/PMC/PMC12618255) of 18,090 adults, published in Nature Medicine in September 2025. So a gur laddoo is not sugar-free, however traditional it is.\n\nThe same study found median added sugar intake ranged from 2.1% of daily energy in the Northeast to 7.9% in the North, with Haryana, Delhi, Karnataka, Odisha and Madhya Pradesh above 10%. The [ICMR-NIN Dietary Guidelines for Indians booklet](https://www.nin.res.in/downloads/DGI_Booklet_English_CMYK.pdf) (January 2025) sets the adult limit at under 5% of total energy, and warns that even home-made food turns unhealthy when made with high fat, sugar or salt. A sugar-free barfi swimming in ghee still fails that test.\n\n## 5 sugar-free Diwali sweets to make at home, and what sweetens each\n\nEach recipe below is original to this post and makes about 12 pieces or 4 bowls. Every entry lists the same four things in the same order, and quantities are home-kitchen amounts, not lab-tested nutrition values.\n\n### 1. Anjeer-akhrot rolls\n\n- **Sweetened by:** 10 dried figs (about 150 g), soaked 30 minutes; no sugar or jaggery.\n- **Base:** 1 cup chopped walnuts, 2 tablespoons desiccated coconut, a pinch of cardamom.\n- **Method:** blend the figs coarse, cook 4 minutes in 1 teaspoon ghee, fold in walnuts, roll a log, chill an hour, slice into 12.\n- **The catch:** drying concentrates the fig's own sugar, so one slice is one sweet.\n\n### 2. Kesar makhana kheer\n\n- **Sweetened by:** sucralose or stevia, stirred in after the pan is off the heat.\n- **Base:** 2 cups roasted makhana, crushed, in 750 ml toned milk with saffron and 8 chopped almonds.\n- **Method:** simmer about 20 minutes until thick, cool 5 minutes, sweeten, serve in 4 bowls.\n- **The catch:** milk carries its own lactose, and a sweetener sachet must carry the FSSAI warnings below.\n\n### 3. Paneer-coconut sandesh\n\n- **Sweetened by:** 4 soft dates, pureed, plus 2 drops of rose water.\n- **Base:** 200 g fresh paneer or chhena, kneaded smooth, with 3 tablespoons grated coconut.\n- **Method:** warm the paneer and date paste on low heat for 3 minutes, knead, press into 12 moulds, top with pistachio.\n- **The catch:** chhena spoils quickly, so make it on 28 or 29 October and refrigerate it.\n\n### 4. Roasted chana-peanut laddoo\n\n- **Sweetened by:** 6 dates, chopped very fine, and nothing else.\n- **Base:** 1 cup roasted chana (dalia) and half a cup of roasted peanuts, ground coarse, with 2 tablespoons warm ghee.\n- **Method:** pulse until the mix holds when pressed, then roll 12 laddoos while warm.\n- **The catch:** peanuts and ghee make these calorie-dense, so two is already a large serving.\n\n### 5. Ragi-almond squares\n\n- **Sweetened by:** an erythritol or stevia blend, measured by the packet's sugar-equivalent guide.\n- **Base:** 1 cup ragi flour roasted in 2 tablespoons ghee, half a cup of almond meal, a splash of milk.\n- **Method:** cook into a stiff dough for 6 to 8 minutes, press into a greased tray, cut 12 squares.\n- **The catch:** ICMR-INDIAB-21 found that swapping refined cereals for whole wheat or millet flour without cutting total carbohydrate was not linked to lower diabetes risk (odds ratio 0.94, interval crossing 1).\n\n## Jaggery, dates, sucralose or polyols: how the sweeteners compare\n\nThe table compares four ways to sweeten a Diwali sweet, plus one option that is not food, using the sources cited here. The last row is SubhSandesh's own data, measured 24 September 2026.\n\n| Sweetener | Added sugar in ICMR-INDIAB-21? | What the cited evidence says | FSSAI warning on a package |\n|---|---|---|---|\n| White sugar, jaggery, honey, palm sugar | Yes, all four | ICMR-NIN: under 5% of daily energy for adults | None specific to sugar |\n| Whole dates or figs | No, but their fruit sugar remains | WHO (May 2023) names fruit's natural sugars as one way to cut free sugars | None specific |\n| Sucralose, stevia, aspartame, acesulfame K | No | Indian trial, 210 adults: no HbA1c change in 12 weeks, 0.5 kg weight loss | Sweetener named; child, pregnancy or phenylketonuria lines by type |\n| Polyols such as sorbitol, maltitol, erythritol | No | Outside WHO's 2023 sweetener guideline | \"Polyols may have laxative effect\" at 10% or more |\n| A Diwali greeting page instead of a box | 0 g sugar | 48.3% of SubhSandesh pages opened on a phone; 11.1 views per page | Not a food |\n\nThe takeaway: jaggery and honey are not swaps at all, dates are a portion question, and sucralose was neutral for blood glucose in the one Indian trial cited here. Change the base before you change the sweetener.\n\n## What a packaged sugar-free mithai box must say under FSSAI rules\n\nFSSAI's [Labelling and Display Regulations compendium](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Labelling_Display_23_09_2021.pdf) (version of 23 September 2021) requires boxed warnings on any package containing a permitted artificial or non-nutritive sweetener. Read the rectangular box on the back, because the front only says \"sugar-free\". The required lines include:\n\n- The name of the sweetener, for example \"This contains sucralose\".\n- \"Not recommended for children\" with saccharin; children, pregnant and lactating mothers with acesulfame potassium.\n- For aspartame: not for phenylketonurics, children with seizure disorders, or pregnant and lactating mothers.\n- \"Polyols may have laxative effect\" when a food has 10% or more polyols.\n- For 10% or more sorbitol: laxative effect, bloating and diarrhoea in children, and reduced calcium absorption in post-menopausal women.\n\nA loose sweet weighed out at the counter carries none of these lines, so ask the shop what sweetened it. If the answer is jaggery, it is not sugar-free by the ICMR-INDIAB definition.\n\n## What an Indian sucralose trial and WHO's 2023 guideline found\n\nThe best Indian evidence on a straight swap is a [12-week randomised trial by Mohan and colleagues](https://europepmc.org/article/PMC/PMC11330421) in Diabetes Therapy (24 July 2024). It replaced about 60 kcal of sugar in the tea or coffee of 210 adults with type 2 diabetes with sucralose. HbA1c, fasting glucose and lipids did not change, while weight fell 0.5 kg and waist 0.8 cm.\n\nThe [WHO guideline announcement of 15 May 2023](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline) conditionally recommends against non-sugar sweeteners for weight control. It excludes people with pre-existing diabetes and does not cover polyols; for everyone else, WHO's advice is to reduce the sweetness of the diet altogether.\n\nThe [RSSDI-ESI clinical practice recommendations (2020)](https://europepmc.org/article/PMC/PMC7328526) say artificial sweeteners may be consumed in recommended amounts, and name festivals as a reason for regular glucose monitoring in India. So a sucralose kheer suits a person with diabetes; for the rest of the family, a smaller, less sweet serving is the better swap.\n\n## A five-day Diwali plan for someone with diabetes, 27 to 31 October 2027\n\nDiwali 2027 runs from Dhanteras on Wednesday 27 October to Bhai Dooj on Sunday 31 October, with Lakshmi Puja on Friday 29 October. This is a planning list, not medical advice, so check every step with your doctor.\n\n- **Before 27 October:** ask your doctor how many sweet servings fit the week and whether extra glucose checks make sense.\n- **Thursday 28 October:** make one batch only, the sandesh or the kheer, so a known sweet waits in the fridge.\n- **Friday 29 October:** take prasad as a token piece, then have your own sweet with the evening meal, not as a snack between visits.\n- **Saturday 30 October:** carry a small box of anjeer-akhrot rolls when visiting for Govardhan Puja.\n- **Sunday 31 October:** for Bhai Dooj, give the sugar-free batch to the sibling who also watches their sugar.\n\n## When a sugar-free sweet is the wrong gift, and where SubhSandesh fits\n\nA sugar-free sweet loses when a doctor has set a strict carbohydrate limit, because date laddoos still carry sugar and ghee-rich barfi still carries fat. It can also read as a remark about someone's health if they never asked for it.\n\nSubhSandesh does not make sweets, and no page replaces a plate shared at the table. The [interactive Happy Diwali card on SubhSandesh](https://subhsandesh.in/happy-diwali) ends with a box of mithai opening onto a Shubh Deepavali card signed by you, and lets you name their favourite sweet. People also leave it late: 49.4% of Raksha Bandhan 2026 pages were built on the festival day itself (Raksha Bandhan 2026 data used as the nearest festival analogue, n = 89).\n\nFor a partner cutting sugar this Diwali, a [digital bouquet page](https://subhsandesh.in/bouquet-gf) is a sweet gesture with no sugar in it; it is a romance template, not a Diwali one. Neither page suits someone without a smartphone, and neither tastes of anything.\n\n## Sources\n\n- Anjana RM, et al. \"Dietary profiles and associated metabolic risk factors in India from the ICMR–INDIAB survey-21.\" *Nature Medicine*, 2025. [Europe PMC](https://europepmc.org/article/PMC/PMC12618255)\n- ICMR-National Institute of Nutrition. \"Dietary Guidelines for Indians\" booklet (English), January 2025. [nin.res.in](https://www.nin.res.in/downloads/DGI_Booklet_English_CMYK.pdf)\n- Food Safety and Standards Authority of India. \"Compendium: Labelling and Display Regulations, 2020,\" version of 23 September 2021. [fssai.gov.in](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Labelling_Display_23_09_2021.pdf)\n- Mohan V, et al. \"Effect of Replacing Sucrose in Beverages with Nonnutritive Sweetener Sucralose on Cardiometabolic Risk Factors Among Asian Indian Adults with Type 2 Diabetes.\" *Diabetes Therapy*, 2024. [Europe PMC](https://europepmc.org/article/PMC/PMC11330421)\n- World Health Organization. \"WHO advises not to use non-sugar sweeteners for weight control in newly released guideline,\" 15 May 2023. [who.int](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline)\n- Chawla R, et al. \"RSSDI-ESI Clinical Practice Recommendations for the Management of Type 2 Diabetes Mellitus 2020.\" *Indian Journal of Endocrinology and Metabolism*, 2020. [Europe PMC](https://europepmc.org/article/PMC/PMC7328526)",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/sugar-free-diwali-sweets#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Sugar substitute",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Sugar_substitute",
+              "https://www.wikidata.org/wiki/Q626292"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Sucralose",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Sucralose",
+              "https://www.wikidata.org/wiki/Q410209"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Sugar alcohol",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Sugar_alcohol",
+              "https://www.wikidata.org/wiki/Q4625944"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Type 2 diabetes",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Type_2_diabetes",
+              "https://www.wikidata.org/wiki/Q3025883"
+            ]
+          },
+          {
+            "@type": "GovernmentOrganization",
+            "name": "Food Safety and Standards Authority of India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Food_Safety_and_Standards_Authority_of_India",
+              "https://www.wikidata.org/wiki/Q5465383"
+            ]
+          },
+          {
+            "@type": "GovernmentOrganization",
+            "name": "Indian Council of Medical Research",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Indian_Council_of_Medical_Research",
+              "https://www.wikidata.org/wiki/Q291019"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "World Health Organization",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/World_Health_Organization",
+              "https://www.wikidata.org/wiki/Q7817"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Dietary profiles and associated metabolic risk factors in India from the ICMR–INDIAB survey-21",
+            "url": "https://europepmc.org/article/PMC/PMC12618255",
+            "datePublished": "2025-09-30",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Nature Medicine"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dietary Guidelines for Indians (booklet, English)",
+            "url": "https://www.nin.res.in/downloads/DGI_Booklet_English_CMYK.pdf",
+            "datePublished": "2025-01-27",
+            "publisher": {
+              "@type": "GovernmentOrganization",
+              "name": "ICMR-National Institute of Nutrition"
+            }
+          },
+          {
+            "@type": "Legislation",
+            "name": "Compendium: Food Safety and Standards (Labelling and Display) Regulations, 2020",
+            "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Labelling_Display_23_09_2021.pdf",
+            "datePublished": "2021-09-23",
+            "publisher": {
+              "@type": "GovernmentOrganization",
+              "name": "Food Safety and Standards Authority of India"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Effect of Replacing Sucrose in Beverages with Nonnutritive Sweetener Sucralose on Cardiometabolic Risk Factors Among Asian Indian Adults with Type 2 Diabetes: A 12-Week Randomized Controlled Trial",
+            "url": "https://europepmc.org/article/PMC/PMC11330421",
+            "datePublished": "2024-07-24",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Diabetes Therapy"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "WHO advises not to use non-sugar sweeteners for weight control in newly released guideline",
+            "url": "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline",
+            "datePublished": "2023-05-15",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Health Organization"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "RSSDI-ESI Clinical Practice Recommendations for the Management of Type 2 Diabetes Mellitus 2020",
+            "url": "https://europepmc.org/article/PMC/PMC7328526",
+            "datePublished": "2020-01-01",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Indian Journal of Endocrinology and Metabolism"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "5 sugar-free Diwali sweets to make at home",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Anjeer-akhrot rolls",
+            "description": "Sweetened only by 10 soaked dried figs; walnuts and coconut; makes 12 slices."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kesar makhana kheer",
+            "description": "Makhana in 750 ml toned milk, sweetened with sucralose or stevia off the heat; 4 bowls."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Paneer-coconut sandesh",
+            "description": "200 g paneer or chhena with coconut, sweetened by 4 dates; 12 pieces."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Roasted chana-peanut laddoo",
+            "description": "Roasted chana and peanuts sweetened only by 6 dates; 12 laddoos."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Ragi-almond squares",
+            "description": "Ragi flour and almond meal with an erythritol or stevia blend; 12 squares."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "sugar free diwali sweets",
+    "anchor": "diwali sweets list",
+    "angle": "This post wins by being the only one in the measured India top 10 (sweetener-brand, shop and affiliate blogs on 22 Oct 2026) that pairs five original no-added-sugar recipes with FSSAI's mandatory sweetener label warnings, a 210-person Indian sucralose RCT, WHO's 2023 non-sugar-sweetener guideline and RSSDI-ESI 2020, plus a dated 27–31 Oct 2027 plan, using SubhSandesh's 48.3% phone-open share and 11.1 views per page for the greeting section.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-diwali",
+      "https://subhsandesh.in/bouquet-gf"
+    ],
+    "templateWhy": "/bouquet-gf: a digital bouquet for a partner who is cutting sugar this Diwali — a sweet gesture with no sugar; the body says it is a romance template, not a Diwali one.",
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://europepmc.org/article/PMC/PMC12618255",
+        "stat": "ICMR-INDIAB survey-21 (18,090 adults): added sugar defined as white sugar, honey, jaggery and palm sugar; median added sugar 2.1%E (Northeast) to 7.9%E (North); Haryana, Delhi, Karnataka, Odisha, Madhya Pradesh >10%E; swapping refined cereals for whole wheat or millet flour without reducing carbohydrate not linked to lower T2D risk (OR 0.94, 95% CI 0.57–1.56). Anjana et al., Nature Medicine, open access full text read.",
+        "publishedDate": "2025-09-30"
+      },
+      {
+        "url": "https://www.nin.res.in/downloads/DGI_Booklet_English_CMYK.pdf",
+        "stat": "ICMR-NIN Dietary Guidelines for Indians booklet: sugar should be less than 5% of total energy per day for adults; even home-made foods may become unhealthy if prepared with high fat, high sugar or salt.",
+        "publishedDate": "2025-01-27"
+      },
+      {
+        "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Labelling_Display_23_09_2021.pdf",
+        "stat": "FSS (Labelling and Display) Regulations 2020, Schedule II: packages with artificial/non-nutritive sweeteners must name the sweetener and carry boxed warnings (saccharin: not recommended for children; acesulfame K: children, pregnant and lactating mothers; aspartame: phenylketonurics, children with seizure disorders, pregnant and lactating mothers); 10%+ polyols: may have laxative effect; 10%+ sorbitol: laxative, bloating and diarrhoea in children, reduced calcium absorption in post-menopausal women.",
+        "publishedDate": "2021-09-23"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC11330421",
+        "stat": "12-week RCT, 210 Asian Indian adults with T2D: replacing ~60 kcal sucrose in coffee/tea with sucralose gave no change in HbA1c, fasting glucose or lipids; body weight −0.5 kg, waist −0.8 cm. Mohan et al., Diabetes Therapy 15(9), open access.",
+        "publishedDate": "2024-07-24"
+      },
+      {
+        "url": "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline",
+        "stat": "WHO NSS guideline: recommends against non-sugar sweeteners for weight control or NCD risk reduction; conditional; applies to all except people with pre-existing diabetes; polyols not covered; advises consuming food with naturally occurring sugars, like fruit, and reducing sweetness overall.",
+        "publishedDate": "2023-05-15"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC7328526",
+        "stat": "RSSDI-ESI 2020 T2DM recommendations: artificial sweeteners may be consumed in recommended amounts; festivals and weekly fasts in India support the need for regular glucose monitoring. Chawla et al., Indian J Endocrinol Metab 24, open access.",
+        "publishedDate": "2020-01-01"
+      }
+    ],
+    "serp": {
+      "measuredOn": "2026-10-22",
+      "tool": "WebSearch (US index, 1 search; returned Indian news/lifestyle pages — thequint, wionews, freepressjournal, nenow, business-standard, shethepeople — not used as the India top 10); DuckDuckGo HTML kl=in-en (1 search, lower confidence) used as the India top 10; third search (WebSearch) used to locate the FSSAI sweetener regulation, not SERP",
+      "top10India": [
+        "1 nuskhakitchen.com/public/blog/top-5-healthy-diwali-sweets-for-guilt-free-celebration (Ayurvedic shop blog, ~930 words incl. page chrome, no table) — fetched",
+        "2 beyondthesugar.com/blogs/learn-more/sugar-free-diwali-sweets (sweetener-brand blog, ~2,400 words, 9 question H2s, table, FAQ schema; cites ICMR-INDIAB-17, ICMR-NIN 2024, FSSAI 0.5 g/100 g claim rule) — fetched",
+        "3 omorganickitchen.com/blog/2025/09/19/sugar-free-sweets-for-a-healthier-happier-diwali (meal-delivery blog; body did not render) — judged mostly from snippet",
+        "4 amazon.in/sugar-free-diwali-sweets/s (shop search grid) — judged from snippet",
+        "5 intl.diabexy.com/blogs/question-answer/10-sugar-free-diwali-sweets-recipes-2026-diabetic-friendly-mithai-at-home (diabetic-food brand blog, ~2,400 words, 10 recipe H3s, sweetener GI table, product plugs) — fetched",
+        "6 healthyraho.in sugar-free Diwali sweets (Hindi, 7 recipes, ~1,070 words) — fetched",
+        "7 mamanourish.in (shop blog, 5 recipes) — snippet",
+        "8 sugarfreefinds.com (affiliate, Amazon picks) — snippet",
+        "9 lilamigosnest.com (shop blog, 8 recipes) — snippet",
+        "10 themonkcompany.in (sweetener brand, festival guide) — snippet"
+      ],
+      "weak": "8 of 10 are sweetener-brand, shop or affiliate pages; 1 is a shop grid. Keyword counts on the five fetched pages: 0 for \"laxative\", \"phenylketon\", \"not recommended for children\", \"Mohan\", \"randomi\", \"RSSDI\"; none says \"not medical advice\".",
+      "cannibalisation": "Closest existing post: b1 diwali-sweets (query 'diwali sweets'); 0 of its top 10 URLs appear in this SERP."
+    },
+    "structuralLimitations": [
+      "SERP measured via DuckDuckGo HTML (kl=in-en), lower confidence than a Google India SERP; WebSearch is US-indexed. omorganickitchen and amazon judged from snippet.",
+      "Firecrawl was unavailable (credits exhausted); not used.",
+      "The PLAN phenomenon names ICMR/IDF guidance and the task prompt named IDF/ADA. No IDF or ADA page was fetched and verified within the 3-search budget, so neither is cited; ICMR-NIN, ICMR-INDIAB-21, WHO (2023) and RSSDI-ESI (2020, India's diabetes society guideline) carry the health guidance instead.",
+      "The full ICMR-NIN Dietary Guidelines 2024 PDF (nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf) returned 404 on 2026-10-22; the English DGI booklet (PDF dated 27 Jan 2025) was used for the <5% energy line.",
+      "FSSAI HTML pages (faqs, regulations listings) returned 403; the Labelling and Display compendium PDF (version 23.09.2021) was read directly. It may have been amended since; the post dates it. FSSAI's per-category sweetener limits for Indian sweets (Food Additives compendium, 883 pages) were not verified line by line and are not stated.",
+      "The sucralose RCT tested tea and coffee, not mithai; the post says so. The Diwali-specific glycaemic study found (Int J Diabetes Dev Ctries 2015, doi:10.1007/s13410-015-0427-8) is paywalled and not in Europe PMC, so it is not cited.",
+      "Recipes are original home-kitchen formulations, not lab-tested for nutrition; no per-piece carbohydrate figure is printed for that reason.",
+      "First-party facts are platform-wide (phone opens, views per page) and a Raksha Bandhan 2026 analogue (n = 89); SubhSandesh has no data on sweets or diabetes, and no /happy-diwali usage data exists.",
+      "Topic overlap: beyondthesugar.com (rank 2) also has a 'check before buying a sugar-free box' section, framed on the FSSAI 0.5 g/100 g claim threshold; this post's label section covers the mandatory sweetener and polyol warnings instead and does not restate the claim threshold."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Only the last row of the comparison table carries SubhSandesh data (48.3% phone opens, 11.1 views per page); the four sweetener rows cannot, because SubhSandesh has no data on food, sweets or diabetes. Closing it needs a measurement no product of SubhSandesh can produce; the honest fix is a first-party Diwali-card usage figure after Diwali 2027 (re-query /happy-diwali after 29 Oct 2027)."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over the sweetener-brand blogs holding the top 10: it is the only page that states FSSAI's mandatory sweetener and polyol warnings, the Indian sucralose RCT result, WHO's diabetes exclusion and the RSSDI-ESI position, with original recipes and an explicit not-medical-advice line. It cannot overcome those brands' topical authority or the commercial intent of the SERP, the SERP itself was measured on DuckDuckGo at lower confidence, and the first-party data bears only on the greeting section."
+    },
+    "generatedAt": "2026-10-22T16:30:21.114Z"
+  }
+}
