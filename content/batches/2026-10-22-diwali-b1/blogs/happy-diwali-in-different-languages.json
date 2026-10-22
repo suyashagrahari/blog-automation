@@ -1,0 +1,378 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Happy Diwali in Different Languages, Checked Word by Word",
+    "slug": "happy-diwali-in-different-languages",
+    "excerpt": "Happy Diwali in 14 Indian languages, from தீபாவளி நல்வாழ்த்துகள் to दिवाळीच्या हार्दिक शुभेच्छा, with each word checked in a named dictionary and the day each region greets in 2027.",
+    "metaTitle": "Happy Diwali in Different Languages: 14 Checked Greetings",
+    "metaDescription": "Happy Diwali in different languages: 14 greetings in native script with transliteration, literal meaning and the dictionary page each word was checked against.",
+    "keywords": "happy diwali in different languages, happy diwali in tamil, happy diwali in kannada, happy diwali in marathi, happy diwali in sanskrit, deepavali greetings",
+    "canonicalURL": "https://subhsandesh.in/blog/happy-diwali-in-different-languages",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "languages",
+      "greetings",
+      "tamil",
+      "kannada",
+      "marathi"
+    ],
+    "keyTakeaways": [
+      "Most Indian-language Diwali greetings mean \"good wishes of Diwali\": the festival's name, a word for \"of\", and a noun built on Sanskrit śubha, \"auspicious\".",
+      "All 14 greetings here were checked word by word on 22 October 2026 against named dictionaries such as the Tamil Lexicon, Kittel and Molesworth; 5 points could not be fully verified and are listed.",
+      "The day differs by language: Tamil households greet at dawn on Thursday 28 October 2027, North India on Friday 29 October, and the Gujarati new year greeting comes on Saturday 30 October.",
+      "48.3% of pages shared on SubhSandesh are opened on a phone and each is viewed 11.1 times on average (September 2026), so a misspelt greeting is read again and again.",
+      "2 of the 5 top-ranking pages in India on 22 October 2026 carried spelling errors, such as Kannada ಹಬ್ನದ for ಹಬ್ಬದ and Marathi अणि for आणि."
+    ],
+    "faqs": [
+      {
+        "question": "How do you say Happy Diwali in Tamil?",
+        "answer": "Say தீபாவளி நல்வாழ்த்துகள் (tīpāvaḷi nalvāḻttukaḷ), literally \"Deepavali good blessings\", or add இனிய (\"sweet\") in front. Tamil households greet on the morning of Naraka Chaturdashi, which Drik Panchang puts on Thursday 28 October 2027."
+      },
+      {
+        "question": "How do you say Happy Diwali in Kannada?",
+        "answer": "ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು (dīpāvaḷi habbada śubhāśayagaḷu) means \"auspicious wishes of the Deepavali festival\". Check the doubled ಬ in ಹಬ್ಬದ; Kittel's dictionary lists ಹಬ್ಬ as \"a festival\"."
+      },
+      {
+        "question": "What is Happy Diwali in Marathi?",
+        "answer": "दिवाळीच्या हार्दिक शुभेच्छा (divāḷīcyā hārdik śubhecchā), \"heartfelt good wishes of Diwali\". Molesworth's 1857 dictionary treats Diwali as the days from Narakachaturdashi to Yamadvitiya, which fall from 28 to 31 October in 2027."
+      },
+      {
+        "question": "How do you say Happy Diwali in Sanskrit?",
+        "answer": "One form is दीपोत्सवस्य शुभाशयाः (dīpotsavasya śubhāśayāḥ), \"good wishes of the lamp festival\". Apte's dictionary confirms each part, but the compound शुभाशयाः is modern usage rather than a dictionary headword."
+      },
+      {
+        "question": "What does Deepavali literally mean?",
+        "answer": "\"Row of lamps\", from Sanskrit dīpa (\"lamp\") and āvali (\"row\"). Turner's comparative dictionary, entry 6358, shows how it became diwālī, divāḷī, deāli and diārī in different languages."
+      },
+      {
+        "question": "Should I say Diwali Mubarak or Saal Mubarak in Gujarati?",
+        "answer": "They mean different things. સાલ મુબારક is \"Happy New Year\", said on the Gujarati new year, Saturday 30 October 2027; for Diwali itself Wiktionary's example is દિવાળીની શુભકામનાઓ, though દિવાળી મુબારક is also used."
+      },
+      {
+        "question": "What do people in Nepal call Diwali?",
+        "answer": "Tihar (तिहार). A Nepali greeting is तिहारको शुभकामना (tihārko śubhakāmanā), \"Tihar's good wishes\", and Nepali spells the festival's other name दिपावली, with a short i."
+      },
+      {
+        "question": "Is it நல்வாழ்த்துகள் or நல்வாழ்த்துக்கள்?",
+        "answer": "Both appear in print. Wiktionary gives வாழ்த்துகள் as the plural of வாழ்த்து, while its own example sentence uses the doubled-k form, so choose one and stay consistent."
+      },
+      {
+        "question": "Which greetings on this list could not be fully checked?",
+        "answer": "Five points: the Sanskrit and Kannada compounds (both halves verified, not the whole), Assamese শুভেচ্ছা (checked only in Bengali sources), the grammatical endings in Punjabi, Odia and Assamese, and Konkani, which is left out."
+      },
+      {
+        "question": "Can I write a Tamil or Bengali wish inside SubhSandesh's Diwali card?",
+        "answer": "Yes. The wishes, the diya tag and the letter are lines you write yourself, so any script goes in as typed; we have not tested every script in every field, so preview the page on a phone before sending the link."
+      },
+      {
+        "question": "Why does diwala mean bankrupt in Hindi?",
+        "answer": "Turner's dictionary records that a failed merchant's house was marked with lamps, which gave Hindi diwālā, \"bankruptcy\". The Tamil Lexicon also lists a second தீபாவளி meaning \"insolvent\", so avoid puns on it."
+      }
+    ],
+    "coverImageQuery": "diwali diyas greeting cards scripts",
+    "coverImagePrompt": "A warm, photorealistic overhead shot of a row of lit clay diyas on a wooden table, each resting beside a small handwritten paper tag in a different Indian script (Devanagari, Tamil, Kannada, Bengali). Soft golden light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Happy Diwali in Different Languages, Checked Word by Word\n\nHappy Diwali in different languages reads दिवाली की शुभकामनाएँ (divālī kī śubhkāmnāẽ) in Hindi, தீபாவளி நல்வாழ்த்துகள் (tīpāvaḷi nalvāḻttukaḷ) in Tamil, ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು (dīpāvaḷi habbada śubhāśayagaḷu) in Kannada and दिवाळीच्या हार्दिक शुभेच्छा (divāḷīcyā hārdik śubhecchā) in Marathi. Nearly every version has three parts: the festival's name, a word meaning \"of\", and a noun for good wishes.\n\nA typo is costly: 48.3% of pages shared on SubhSandesh are opened on a phone, and each page is viewed 11.1 times on average (measured 24 September 2026, all page types; no Diwali data exists yet), so a misspelt line is read again and again. Below are 14 languages with script, transliteration, literal meaning and the dictionary each word was checked against, plus the 2027 day each region says it.\n\n## What does \"Happy Diwali\" mean in Indian languages?\n\nAn Indian-language Diwali greeting usually says \"good wishes of Diwali\", not \"happy Diwali\". Hindi शुभकामना, Marathi शुभेच्छा, Telugu శుభాకాంక్షలు and Kannada ಶುಭಾಶಯ all start with Sanskrit śubha, \"auspicious\", plus a word for wish.\n\nThe festival's name goes back to Sanskrit दीपावलि (dīpāvali), \"row of lamps\". Ralph Turner's [Comparative Dictionary of the Indo-Aryan Languages, entry 6358](https://dsal.uchicago.edu/cgi-bin/app/soas_query.py?qs=d%C4%ABp%C4%81vali&searchhws=yes&matchtype=exact) traces how speech wore it down: Hindi and Punjabi diwālī, Gujarati and Marathi divāḷī, Bengali deāli, Bhojpuri diārī, Sindhi ḍ̠iārī.\n\nDeepavali is the other branch. Tamil, Kannada, Telugu, Malayalam and formal Bengali borrowed the Sanskrit word directly (per Wiktionary), so they keep the p that Hindi lost.\n\n## Happy Diwali in 14 languages, with the source for each word\n\nEach line was checked word by word on 22 October 2026, mostly against printed dictionaries scanned by the University of Chicago's Digital Dictionaries of South Asia (DSAL), and against Wiktionary where an old dictionary predates the word. \"Literal\" means a word-for-word gloss.\n\n| Language | Greeting | Transliteration | Literal meaning | Checked against |\n|---|---|---|---|---|\n| Hindi | दिवाली की शुभकामनाएँ | divālī kī śubhkāmnāẽ | Diwali's good wishes | Wiktionary; Platts p. 531 |\n| Urdu | دیوالی مبارک | dīwālī mubārak | Diwali, blessed | Platts pp. 560, 988 |\n| Sanskrit | दीपोत्सवस्य शुभाशयाः | dīpotsavasya śubhāśayāḥ | good wishes of the lamp festival | Apte pp. 817, 1562, 367 |\n| Marathi | दिवाळीच्या हार्दिक शुभेच्छा | divāḷīcyā hārdik śubhecchā | heartfelt good wishes of Diwali | Molesworth p. 414; Wiktionary |\n| Gujarati | દિવાળીની શુભકામનાઓ | divāḷīnī śubhkāmnāo | good wishes of Diwali | Wiktionary |\n| Punjabi | ਦਿਵਾਲੀ ਦੀਆਂ ਵਧਾਈਆਂ | divālī dīā̃ vadhāīā̃ | congratulations of Diwali | Wiktionary (Maya Singh 1895) |\n| Bengali | শুভ দীপাবলি | śubhô dipabôli | auspicious Deepavali | Samsad p. 782; Wiktionary |\n| Odia | ଦୀପାବଳିର ଶୁଭେଚ୍ଛା | dīpābaḷira śubhecchā | Deepavali's good wish | Purnachandra pp. 3788, 7754 |\n| Assamese | দেৱালীৰ শুভেচ্ছা | dewālīr śubhecchā | Dewali's good wish | Wiktionary (name only) |\n| Nepali | तिहारको शुभकामना | tihārko śubhakāmanā | Tihar's good wishes | Wiktionary |\n| Tamil | தீபாவளி நல்வாழ்த்துகள் | tīpāvaḷi nalvāḻttukaḷ | Deepavali good blessings | Tamil Lexicon pp. 1942, 2169, 3620 |\n| Telugu | దీపావళి శుభాకాంక్షలు | dīpāvaḷi śubhākāṅkṣalu | Deepavali auspicious wishes | Brown pp. 107, 1262; Wiktionary |\n| Kannada | ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು | dīpāvaḷi habbada śubhāśayagaḷu | Deepavali festival's good wishes | Kittel pp. 838, 1707, 1537, 176 |\n| Malayalam | ദീപാവലി ആശംസകൾ | dīpāvali āśaṁsakaḷ | Deepavali wishes | Gundert p. 94; Wiktionary |\n\nFive things could not be fully verified. The compounds शुभाशयाः (Sanskrit) and ಶುಭಾಶಯ (Kannada) are not headwords in Apte or Kittel, though both halves are; Assamese শুভেচ্ছা was checked only in Bengali sources; the \"of\" endings in Punjabi, Odia and Assamese are grammar, not dictionary entries; and Konkani is missing because no Konkani dictionary we could open gave a Diwali greeting.\n\n## Happy Diwali in Tamil, Kannada, Marathi and Sanskrit, word by word\n\nAll four are separate searches in India's Google autocomplete (22 October 2026). Each entry gives the words, the day, and the spelling trap we saw on live pages.\n\n### Tamil: தீபாவளி நல்வாழ்த்துகள்\n\nThe words are தீபாவளி, then நல் (nal, \"good\", [Tamil Lexicon](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%80%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact) p. 2169), then வாழ்த்து (vāḻttu, \"benediction, felicitation\", p. 3620) with the plural -கள். Put இனிய (iṉiya, \"sweet, pleasant\") in front for a warmer line.\n\nThe Lexicon (p. 1942) places Deepavali at dawn on the 14th day of dark Aippaci, with a ritual bath. Drik Panchang lists Tamil Deepavali on Thursday 28 October 2027; some Tamil Nadu holiday listings say Friday 29 October, so confirm with the family.\n\nThe trap is the plural. Wiktionary gives வாழ்த்துகள், yet its own example writes வாழ்த்துக்கள்; both appear in print, so pick one and keep it.\n\n### Kannada: ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು\n\nThe words are ದೀಪಾವಳಿ, then ಹಬ್ಬ (habba, \"a festival\", Kittel p. 1707) with -ದ for \"of\", then ಶುಭ (\"auspicious\") joined to ಆಶಯ, whose fourth sense in Kittel is \"wish or will\", plus the plural -ಗಳು. [Kittel's entry for ದೀಪಾವಳಿ (revised edition, 1968–1971)](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=%E0%B2%A6%E0%B3%80%E0%B2%AA%E0%B2%BE%E0%B2%B5%E0%B2%B3%E0%B2%BF&searchhws=yes&matchtype=exact) describes a festival of lights honouring Bali on the first day of bright Kārttika. That is Bali Padyami, Saturday 30 October 2027 in Drik Panchang.\n\nThe trap is ಬ್ಬ. One of the five top-ranking pages in India on 22 October 2026 printed ಹಬ್ನದ, with ನ where the doubled ಬ belongs.\n\n### Marathi: दिवाळीच्या हार्दिक शुभेच्छा\n\nThe words are दिवाळी, then -च्या (\"of\"), हार्दिक (hārdik, \"heartfelt\") and शुभेच्छा (śubhecchā, \"good wish\", from śubha plus icchā). [Molesworth's 1857 Marathi dictionary](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B3%E0%A5%80&searchhws=yes&matchtype=exact) defines divāḷī as running from Narakachaturdashi to Yamadvitiya inclusive. In 2027 that is Thursday 28 to Sunday 31 October, so the line works on any of the four days.\n\nThe trap is the word for \"and\". Two top-five pages print अणि, but Molesworth (p. 67) spells it आणि.\n\n### Sanskrit: दीपोत्सवस्य शुभाशयाः\n\nThe words are दीप (dīpa, \"lamp\") plus उत्सव (utsava, \"festival\") with -स्य for \"of\", then शुभ plus आशय, which Apte glosses as \"intention\" and \"will or pleasure\", in the plural. Apte's dictionary lists dīpotsava and dīpāvalī under दीप: \"a row of lights\" and \"the festival called Diwali held on the night of new moon in Āśvina\". With no regional day attached, it suits any date from 27 to 31 October 2027.\n\nThe trap is overconfidence. शुभाशयाः is modern usage assembled from verified parts, not a phrase Apte prints whole.\n\n## Tihar, Diyari, Dewali: the festival's other names\n\nNepali speakers call the festival तिहार (tihār), and Wiktionary gives दिपावली (dipāwalī, short i) as its synonym. Assamese inherited দেৱালী (dewali), with দীপাৱলি as the learned twin, and Turner's entry adds Awadhi dewārī and Kashmiri zuwū̆lᵘ, \"festal arrangement of lamps\".\n\nTwo more meanings sit in the same dictionaries. Turner's addenda record Kutchi ḍīyārī as \"last day of the year (30th Aśvin)\", which matches the Gujarati new year the next morning, when the greeting becomes સાલ મુબારક (sāl mubārak), \"Happy New Year\".\n\nThe other is money. Turner notes that a failed merchant's house was marked with lamps, which gave Hindi diwālā, \"bankruptcy\", and the Tamil Lexicon lists a second தீபாவளி meaning \"insolvent\".\n\n## Which day each language says Happy Diwali in 2027\n\nDiwali 2027 runs from Wednesday 27 to Sunday 31 October. The day each language calls \"Diwali\" differs, as its own dictionary shows.\n\n| Day in 2027 | Who greets | Greeting | Dictionary basis |\n|---|---|---|---|\n| Thu 28 Oct, dawn | Tamil households | தீபாவளி நல்வாழ்த்துகள் | Tamil Lexicon: 14th of dark Aippaci, at dawn |\n| Fri 29 Oct, evening | Hindi, Urdu, Punjabi, Odia, Bengali | दिवाली की शुभकामनाएँ | Platts: new moon of Kārttik; Purnachandra: Kārttika amāvāsyā |\n| Sat 30 Oct | Gujarati, Kannada | સાલ મુબારક; ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು | Wiktionary: \"Happy New Year\"; Kittel: Bali's day |\n| Thu 28 to Sun 31 Oct | Marathi | दिवाळीच्या हार्दिक शुभेच्छा | Molesworth: Narakachaturdashi to Yamadvitiya |\n\nSo a Tamil greeting sent on Friday evening arrives a day late. Drik Panchang also lists Bengal's Kali Puja on Thursday 28 October, and Sikh and Jain families keep these nights for their own reasons.\n\n## How to check a greeting in a language you cannot read\n\nSplit the line into words and look each one up on DSAL. A word that returns nothing deserves a second opinion from a speaker.\n\nExpect several Roman spellings, none of them \"correct\". The [Aksharantar paper (Findings of EMNLP 2023)](https://aclanthology.org/2023.findings-emnlp.4/) says transliteration matters in India because of multiple scripts and widespread romanized input; its dataset holds 26 million word pairs across 21 languages and 12 scripts. Send the native script, with the Roman line as a reading aid.\n\nDo not judge the language by its script. The [Unicode Consortium's Indic FAQ](https://www.unicode.org/faq/indic.html) counts nine major Brahmi-derived scripts of India and says scripts and languages do not map one-to-one: Hindi, Marathi, Nepali and Sanskrit share Devanagari, and Assamese writes ৰ and ৱ in a Bengali-type script. One top-five page printed its \"Assamese\" line in Devanagari.\n\nIf the greeting is for one person, SubhSandesh's [interactive Diwali card with a diya at their door](https://subhsandesh.in/happy-diwali) puts it on the diya's tag, on a row of wish diyas and in a letter sealed in a red-and-gold liffafa. Every line is editable, so a Tamil or Odia sentence goes in as typed; we have not tested every script in every field, so preview on a phone. It takes about five minutes, and the private link opens in any browser with no app.\n\nMind the timing. On Raksha Bandhan 2026, our nearest festival data (n = 89 pages), 49.4% of pages were built on the day itself, too late for a Tamil greeting meant for dawn on 28 October. For a friend from another state spending this Diwali away from you, our [miss-you page](https://subhsandesh.in/missyou-gf) fits better than festival scenes.\n\n## When a translated greeting is the wrong choice\n\nSkip the translation if you cannot check it and the recipient is a native speaker you are close to. A careful line in your own language beats a broken one in theirs.\n\nSubhSandesh is also the wrong tool in three cases: a society group of dozens, an elder without a smartphone, and anyone you will greet in person on 29 October 2027. Say it aloud then, and send nothing.\n\n## Sources\n\n- Turner, *A Comparative Dictionary of the Indo-Aryan Languages*, entry 6358, 1962–1966, supplements 1969–1985 — [DSAL](https://dsal.uchicago.edu/cgi-bin/app/soas_query.py?qs=d%C4%ABp%C4%81vali&searchhws=yes&matchtype=exact).\n- *Tamil Lexicon*, University of Madras, 1924–1936 — [DSAL](https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%80%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact).\n- Kittel, *Kittel's Kannada-English Dictionary*, revised edition, University of Madras, 1968–1971 — [DSAL](https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=%E0%B2%A6%E0%B3%80%E0%B2%AA%E0%B2%BE%E0%B2%B5%E0%B2%B3%E0%B2%BF&searchhws=yes&matchtype=exact).\n- Molesworth, *A Dictionary, Marathi and English*, 1857 — [DSAL](https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B3%E0%A5%80&searchhws=yes&matchtype=exact).\n- Madhani et al., \"Aksharantar\", Findings of EMNLP, December 2023, abstract read — [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.4/).\n- Unicode Consortium, \"Indic Scripts and Languages\" FAQ, undated — [unicode.org](https://www.unicode.org/faq/indic.html).\n- Also consulted: Platts (1884), Apte, Brown (1903), Gundert, Samsad, Purnachandra, Wiktionary; Drik Panchang for 2027 dates.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/happy-diwali-in-different-languages#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Thing",
+            "name": "Languages of India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Languages_of_India",
+              "https://www.wikidata.org/wiki/Q135595"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Tihar",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Tihar_(festival)",
+              "https://www.wikidata.org/wiki/Q15128500"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Transliteration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Transliteration",
+              "https://www.wikidata.org/wiki/Q134550"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Brahmic scripts",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Brahmic_scripts",
+              "https://www.wikidata.org/wiki/Q467037"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "Book",
+            "name": "A Comparative Dictionary of the Indo-Aryan Languages, entry 6358 dīpāvali",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/soas_query.py?qs=d%C4%ABp%C4%81vali&searchhws=yes&matchtype=exact",
+            "datePublished": "1966",
+            "author": {
+              "@type": "Person",
+              "name": "Ralph Lilley Turner"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Oxford University Press"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Tamil Lexicon: தீபாவளி",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%80%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
+            "datePublished": "1936",
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Madras"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "Kittel's Kannada-English Dictionary: ದೀಪಾವಳಿ",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=%E0%B2%A6%E0%B3%80%E0%B2%AA%E0%B2%BE%E0%B2%B5%E0%B2%B3%E0%B2%BF&searchhws=yes&matchtype=exact",
+            "datePublished": "1971",
+            "author": {
+              "@type": "Person",
+              "name": "Ferdinand Kittel"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "University of Madras"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "A Dictionary, Marathi and English: दिवाळी",
+            "url": "https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B3%E0%A5%80&searchhws=yes&matchtype=exact",
+            "datePublished": "1857",
+            "author": {
+              "@type": "Person",
+              "name": "James Thomas Molesworth"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Aksharantar: Open Indic-language Transliteration datasets and models for the Next Billion Users",
+            "url": "https://aclanthology.org/2023.findings-emnlp.4/",
+            "datePublished": "2023-12",
+            "author": {
+              "@type": "Person",
+              "name": "Yash Madhani"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Association for Computational Linguistics"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "name": "Indic Scripts and Languages (FAQ)",
+            "url": "https://www.unicode.org/faq/indic.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Unicode Consortium"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Happy Diwali in Tamil, Kannada, Marathi and Sanskrit, word by word",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Tamil: தீபாவளி நல்வாழ்த்துகள்",
+            "description": "தீபாவளி + நல் + வாழ்த்துகள்; said at dawn on Naraka Chaturdashi, Thursday 28 October 2027 (Drik Panchang); Tamil Lexicon p. 1942."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kannada: ದೀಪಾವಳಿ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು",
+            "description": "ದೀಪಾವಳಿ + ಹಬ್ಬದ + ಶುಭಾಶಯಗಳು; Kittel ties the festival to Bali Padyami, Saturday 30 October 2027; Kittel pp. 838, 1707."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Marathi: दिवाळीच्या हार्दिक शुभेच्छा",
+            "description": "दिवाळी + च्या + हार्दिक + शुभेच्छा; Molesworth p. 414 spans Narakachaturdashi to Yamadvitiya, 28–31 October 2027."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Sanskrit: दीपोत्सवस्य शुभाशयाः",
+            "description": "दीप + उत्सव + स्य, शुभ + आशय; parts verified in Apte, compound शुभाशयाः is modern usage."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "happy diwali in different languages",
+    "angle": "Wins by being the only page in the India top 10 that checks every word of a 14-language Happy Diwali table against a named dictionary page, lists the five points it could not verify, and ties each language to the 2027 day its own dictionary gives, using SubhSandesh's 48.3% phone-open share and 11.1 views per page to show why a misspelling is costly.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-diwali",
+      "https://subhsandesh.in/missyou-gf"
+    ],
+    "alternativeLinkReason": "/missyou-gf: the post's reader is often greeting a friend from another state or language who is spending Diwali apart; the miss-you page (open-when letters) fits that person better than a second festival template.",
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/soas_query.py?qs=d%C4%ABp%C4%81vali&searchhws=yes&matchtype=exact",
+        "stat": "Turner, CDIAL entry 6358 (p. 364): dīpāvali 'row of lamps, festival on the new moon of Āśvina'; reflexes Pk. dīvālī, S. ḍ̠iārī, P. divālī, N. diwāli, B. deāli (→ Or. diāli), Bhoj. diārī, Aw. dewārī, H. diwālī, G./M. divāḷī, K. zuwū̆lᵘ 'festal arrangement of lamps'; derivation H. diwālā 'bankruptcy' from a failed merchant's house marked with lamps; addenda: Kutchi ḍīyārī 'last day of the year (30th Aśvin)'. OUP 1962–1966, supplements 1969–1985 (per DSAL). Reference instrument (cap-exempt); scholarly.",
+        "publishedDate": "1966"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/tamil-lex_query.py?qs=%E0%AE%A4%E0%AF%80%E0%AE%AA%E0%AE%BE%E0%AE%B5%E0%AE%B3%E0%AE%BF&searchhws=yes&matchtype=exact",
+        "stat": "Tamil Lexicon (University of Madras, 1924–1936), தீபாவளி p. 1942: festival at dawn (வைகறை) on the 14th of the dark fortnight of Aippaci with a ritual bath; தீபாவளி² 'Insolvent. See திவால்'. Also verified: நல் 'good' p. 2169; வாழ்த்து 'benediction, felicitation' p. 3620. Reference instrument (cap-exempt).",
+        "publishedDate": "1936"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/kittel_query.py?qs=%E0%B2%A6%E0%B3%80%E0%B2%AA%E0%B2%BE%E0%B2%B5%E0%B2%B3%E0%B2%BF&searchhws=yes&matchtype=exact",
+        "stat": "Kittel's Kannada-English Dictionary (rev. ed., University of Madras, 1968–1971), ದೀಪಾವಳಿ p. 838: 'a row of lamps or lights; a festival with nocturnal illuminations in honor of Balicakravarti in the śuddha pāḍya of the month of kārttika'. Also verified: ಹಬ್ಬ 'a festival' p. 1707; ಶುಭ 'auspicious' p. 1537; ಆಶಯ sense 4 'wish or will' p. 176. Reference instrument (cap-exempt).",
+        "publishedDate": "1971"
+      },
+      {
+        "url": "https://dsal.uchicago.edu/cgi-bin/app/molesworth_query.py?qs=%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B3%E0%A5%80&searchhws=yes&matchtype=exact",
+        "stat": "Molesworth, A Dictionary, Marathi and English (2nd ed., 1857), दिवाळी p. 414: festival 'from नरकचतुर्दशी to यमद्वितीया inclusive'; आणि 'And' p. 67. Reference instrument (cap-exempt).",
+        "publishedDate": "1857"
+      },
+      {
+        "url": "https://aclanthology.org/2023.findings-emnlp.4/",
+        "stat": "Madhani et al., 'Aksharantar', Findings of EMNLP 2023 (peer-reviewed, open access): 'Transliteration is very important in the Indian language context due to the usage of multiple scripts and the widespread use of romanized inputs'; dataset of 26 million transliteration pairs for 21 Indic languages from 3 language families using 12 scripts. Abstract read; full PDF not read.",
+        "publishedDate": "2023-12"
+      },
+      {
+        "url": "https://www.unicode.org/faq/indic.html",
+        "stat": "Unicode Consortium, Indic Scripts and Languages FAQ: Indic scripts in the narrow sense are the nine major Brahmi-derived scripts of India; 'There is not a one-to-one relation between Indic scripts and languages… many languages are written in multiple scripts.' Undated page; standards body (cap-exempt)."
+      }
+    ],
+    "serp": {
+      "measured": "2026-10-22",
+      "tool": "Firecrawl search, location India (1 search)",
+      "top10": [
+        "1 happydiwali.org/wishes (wishes site, 11 languages, long WhatsApp-style messages, no meanings or sources, undated)",
+        "2 diwaliinlondon.com/dil-wishes-in-different-languages (event organiser blog, 15 Apr 2024, 16 languages, native script only; typos: Kannada ಹಬ್ನದ, Marathi अणि)",
+        "3 youtube.com/watch?v=oOSglM-dmmI (school video, 9 Nov 2023)",
+        "4 dnaindia.com 'how to wish Happy Diwali in 30 languages' (news, 2015/2018, 30 lines mostly Roman, same Marathi typo, Assamese printed in Devanagari, no sources)",
+        "5 scribd.com WPS document (user upload; not fetched, judged from snippet)",
+        "6 ling-app.com/blog/diwali-greetings (language-app blog, updated 20 Oct 2026, 10-language table with script, Roman and usage note; no sources)",
+        "7 news18.com (2022, judged from snippet)",
+        "8 in.pinterest.com pin (image)",
+        "9 simonandsimon.co.uk (UK firm blog, 2023, Hindi-focused, judged from snippet)",
+        "10 indianshelf.in (retail blog, Feb 2025, includes non-Indian languages, judged from snippet)"
+      ],
+      "weakInTop10": 7,
+      "anchorOverlap": "Anchor keyword 'happy diwali' is a secondary of wave-1 row diwali-2027-date; its recorded top 10 shares 0 URLs with this SERP."
+    },
+    "structuralLimitations": [
+      "No Diwali usage data exists; first-party lines are platform-wide (48.3% phone opens, 11.1 views per page) and the Raksha Bandhan 2026 analogue (n = 89), labelled in the body.",
+      "Cannibalisation gate (BRIEF §9): anchor 'happy diwali' sits under diwali-2027-date; 0 of its 10 recorded URLs appear in this SERP (measured 2026-10-22). Siblings diwali-quotes, diwali-shayari and old happy-diwali-wishes-in-hindi were read: no line reused; the Hindi register/pronoun idea and the Devanagari-vs-Roman format table were deliberately not repeated; the old post's Devanagari-rendering FAQ is not repeated (this post's script point is about identifying the language, not display glitches).",
+      "The post carries two tables: the 14-row reference table the PLAN angle requires (12+ languages), and the 4-row comparison table (day by language) that the 3–5-row rule governs.",
+      "Verification: every greeting word was looked up on 22 October 2026 (URLs in the research brief). Not fully verified and disclosed in the body: Sanskrit compound शुभाशयाः and Kannada ಶುಭಾಶಯ (halves verified, compound not a headword in Apte/Kittel); Assamese শুভেচ্ছা (Bengali sources only); Punjabi ਦੀਆਂ, Odia -ର and Assamese -ৰ genitive endings (grammar, no dictionary entry); Konkani omitted (no dictionary found). Monier-Williams at sanskrit-lexicon.uni-koeln.de returned HTTP 403 (Cologne network only), so Apte on DSAL was used.",
+      "Kittel on DSAL is the revised University of Madras edition (1968–1971), not the 1894 original; the post cites the revised edition.",
+      "Tamil Deepavali date conflict stated, not resolved: Drik Panchang lists Thursday 28 Oct 2027; some Tamil Nadu holiday listings show 29 Oct (BRIEF §1). Drik Panchang was used only as a date reference and is named in the body without a link.",
+      "Dictionary hosts (dsal.uchicago.edu, unicode.org) are cap-exempt reference instruments; aclanthology.org is now in 2 posts (diwali-shayari, this one).",
+      "Aksharantar: abstract read only; the PDF did not parse to text in the fetcher.",
+      "Wave-2 overlap found at finish (written in parallel): what-is-diwali gives the dīpa+āvali etymology and a 5-line multilingual wish list (Tamil on Thursday morning, Saal Mubarak on Saturday); happy-diwali-2027-wishes organises wishes day by day with Tamil Deepavali on 28 Oct and Gujarati New Year on 30 Oct. This post's day table is the 'when it's said' column the PLAN angle requires, grounded in each language's own dictionary definition rather than the panchang; no line was copied. The orchestrator may want to trim the day-by-language idea from one of the three."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "Neither table carries a first-party column. The comparison table (day of Diwali 2027 by language) is built from dictionary definitions and Drik Panchang dates; SubhSandesh has no language or region field and no Diwali data, so there is no honest first-party value per row. First-party numbers (48.3% phone opens, 11.1 views per page, Raksha Bandhan 49.4% same-day builds) sit in prose instead. Closes if a per-script or per-region usage probe on /happy-diwali becomes possible after Diwali 2026."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "The Unicode Indic FAQ and the Aksharantar abstract are about Indian scripts and transliteration in general; either could sit unchanged in the wave-2 Marathi wishes post (row 50) or the shayari post. The dictionary entries (Turner 6358, Tamil Lexicon, Kittel, Molesworth) are specific to this post's words and pass. Would close by replacing the two general sources with a study of festival greetings or code-switching in Indian-language messaging; none was found via findpapers.mjs (queries: 'Diwali festival regional names India languages', 'greetings politeness Indian languages festival wishes', 'multilingual India script choice messaging transliteration romanized')."
+        },
+        {
+          "item": "Slug short, hyphenated, lowercase, no stop words",
+          "why": "The slug 'happy-diwali-in-different-languages' contains the stop word 'in'. It is fixed by PLAN.json row 27 and matches the exact search phrase; the writer may not change it. Structural unless the orchestrator renames the row."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this page: it is the only result in the India top 10 (22 October 2026) that gives a dictionary page for every word, flags what it could not verify, and catches spelling errors two ranking pages carry; the day-by-language table is also new. It cannot overcome the incumbents' domain authority or the language-app and news pages' backlinks, its first-party numbers are platform-wide rather than Diwali-specific, and two of its six sources are general script references."
+    },
+    "generatedAt": "2026-10-22T09:08:18.929Z"
+  }
+}

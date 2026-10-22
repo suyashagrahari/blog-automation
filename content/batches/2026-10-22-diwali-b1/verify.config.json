@@ -124,7 +124,9 @@
     "zdic.net",
     "zh.wiktionary.org",
     "drikpanchang.com",
-    "www.drikpanchang.com"
+    "www.drikpanchang.com",
+    "aa.usno.navy.mil",
+    "usno.navy.mil"
   ],
-  "_capExemptWhy": "Inherited from the Navratri batches: reference instruments and repositories, not publishers. The per-URL cap still applies to a PAPER on those hosts (capcheck keys papers by PMC id / DOI)."
+  "_capExemptWhy": "Inherited from the Navratri batches: reference instruments and repositories, not publishers. The per-URL cap still applies to a PAPER on those hosts (capcheck keys papers by PMC id / DOI). 2026-10-22: aa.usno.navy.mil added — US Naval Observatory astronomical data (sun/moon times) is a reference instrument like a dictionary; the per-URL cap still applies."
 }
