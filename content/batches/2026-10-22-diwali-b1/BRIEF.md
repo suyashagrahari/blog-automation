@@ -119,3 +119,24 @@ If a claim is load-bearing, verify it. "The brief said X, the source says Y" goe
 Write only `blogs/<slug>.json` and `research/<slug>.md`. Report back in under 150 words: slug, body
 words, FAQ count, searches used, weak count in your top 10, sources (domains), audit failures, one-line
 honest assessment, and any brief claim you found false.
+
+## 9. Wave 2 (rows 26–50) — added 2026-10-22, BINDING for these rows
+- Rows 1–25 are written (`blogs/`). Each wave-2 row has an `anchor` (the batch-1 keyword it supports) and a
+  DISTINCT sub-intent in `angle`. **Cannibalisation gate:** measure your SERP and compare it with the SERP
+  recorded in your anchor sibling's `batchMeta.serp` / research brief. If you share 4+ top-10 URLs, sharpen the
+  sub-intent and record the overlap count in `structuralLimitations`. Never retarget a wave-1 post's primary keyword.
+- Read every slug in your row's `siblings` AND skim the H2s of all 25 wave-1 posts. Reuse no line, no list item,
+  no idea, no table design. Wishes/shayari/messages rows: grep the batch's blogs/ for each line before you keep it.
+- **Caps now count across all 50 posts.** Run capcheck before citing anything. Already at the cap (do not cite):
+  utilities.cept.gov.in DoPT list, eclipse.gsfc.nasa.gov phases, europepmc PMC11684968 (diya burns), PMC10946667.
+  pib.gov.in has ONE slot left. Prefer sources no wave-1 post used.
+- Corrected facts (use them, verified by wave 1): employer-gift tax limit ₹15,000 from 1 Apr 2026 (Rule 15,
+  Income-tax Rules 2026); ₹50,000 gift rule continues under s.92 Income-tax Act 2025 (cash and jewellery limits
+  separate); National Ayurveda Day fixed 23 Sept since 2025; Bhai Dooj 2026 = Wed 11 Nov 2026; Amavasya ends
+  ≈19:06 IST 29 Oct 2027 (USNO); NDMA has no Diwali lighting guidance (use state fire services/BIS);
+  Instagram: 5 hashtags/post (help centre, 22 Oct 2026).
+- Love/partner rows (girlfriend, boyfriend, husband, wife, love shayari, miss-you): the natural alternative link is
+  `/love-gf`, `/darling` or `/missyou-gf`; /happy-diwali has a "your love" mode per template-spec.
+- Hindi row (`diwali-kyon-manaya-jata-hai`) and Marathi row (`diwali-wishes-in-marathi`): body in that language.
+  The verifier's FAQ~heading check strips non-Latin text and may falsely flag Devanagari FAQs vs headings —
+  record it as a verifier limitation rather than mangling headings.
