@@ -11,7 +11,9 @@ If a claim is load-bearing, verify it. "The brief said X, the source says Y" goe
 ## 1. Calendar and audience (verified 2026-10-22 from the SERP; re-verify anything you print)
 - **Diwali 2027 (Lakshmi Puja) = Friday 29 October 2027.** Five days: Dhanteras Wed 27 Oct · Choti
   Diwali / Naraka Chaturdashi Thu 28 Oct · Lakshmi Puja Fri 29 Oct · Govardhan Puja Sat 30 Oct · Bhai
-  Dooj Sun 31 Oct 2027. Amavasya tithi ≈ 28 Oct 20:49 → 29 Oct 19:07 IST (one source; verify).
+  Dooj Sun 31 Oct 2027. Amavasya tithi ≈ 28 Oct 20:47 (drikpanchang) / 20:49 (drrpsharma) → 29 Oct ~19:07 IST — sources differ by minutes; cite the one you fetched.
+  **Tamil Nadu conflict (found by the choti-diwali writer):** holiday sites list TN Deepavali on 29 Oct (one marks it an estimate); drikpanchang puts Tamil Deepavali on 28 Oct. State the conflict, don't pick silently.
+  A panchang page used ONLY to check a date is a date reference (verifier-exempt), not a cited competitor — mark it so in `batchMeta.sources`.
   Diwali 2026 = Sun 8 Nov 2026. Some South Indian states mark Deepavali on Naraka Chaturdashi.
   Two ranking pages print WRONG 2027 dates (a facebook "fb-answers" page says 28 Oct; another says
   16–17 Oct) — never copy a date from a page; verify at a panchang/government source you can cite.
@@ -33,7 +35,8 @@ If a claim is load-bearing, verify it. "The brief said X, the source says Y" goe
 - Plus **exactly one** alternative from `oneOfLinks` in `verify.config.json` that genuinely fits your
   reader, with a one-line reason (e.g. `/missyou-gf` for someone far away, `/happy-rakshabandhan-to-sister`
   is a Rakhi page — only if the post is sibling-focused such as Bhai Dooj, and say it is a Rakhi template).
-  3–4 internal links total, only `TEMPLATE_LINKS` URLs (`app/lib/prompt.ts`). **No `/blog/<slug>` links.**
+  So **2 internal links** (/happy-diwali + your one alternative), only `TEMPLATE_LINKS` URLs (`app/lib/prompt.ts`).
+  **No `/blog/<slug>` links.** (Earlier text said 3–4; corrected 2026-10-22 after a writer flagged the conflict.)
 - Be honest about fit: /happy-diwali is a one-person greeting page. For essay, speech, puja, muhurat,
   rangoli, sweets, party or office-gift posts, say plainly it is not that tool; link it for the one
   person the reader wants to wish.

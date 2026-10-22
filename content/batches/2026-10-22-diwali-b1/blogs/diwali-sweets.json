@@ -1,0 +1,377 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Diwali Sweets: A Regional Mithai List and FSSAI's Purity Checks",
+    "slug": "diwali-sweets",
+    "excerpt": "Diwali sweets by region, with FSSAI's own shelf-life classes (kalakand same day, rasgulla 2 days, kaju katli 7, besan laddoo about 30), the DART book's home tests for khoya and silver varq, and why best-before dates on loose mithai became voluntary in November 2023.",
+    "metaTitle": "Diwali Sweets by Region: Shelf Life and FSSAI Purity Tests",
+    "metaDescription": "Diwali sweets by region with FSSAI shelf life: kalakand same day, rasgulla 2 days, kaju katli 7, besan laddoo 30, plus DART tests for khoya and silver varq.",
+    "keywords": "diwali sweets, diwali sweets list, diwali sweets names, diwali mithai, mithai shelf life, fssai dart test khoya, silver varq test",
+    "canonicalURL": "https://subhsandesh.in/blog/diwali-sweets",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "diwali sweets",
+      "mithai",
+      "food safety",
+      "fssai"
+    ],
+    "keyTakeaways": [
+      "FSSAI's Guidance Note 14/2020 gives five shelf-life classes for sweets: kalakand same day, rasgulla and sandesh 2 days refrigerated, peda 4 days, kaju katli 7 days, besan laddoo and chikki about 30 days.",
+      "DART Test 3 checks khoya, chhena or paneer for starch with 2-3 drops of iodine; a blue colour means starch was added.",
+      "DART Test 10 checks silver varq: real silver crumbles to powder and burns to glistening balls, aluminium shreds and leaves grey ash.",
+      "FSSAI withdrew the mandatory best-before date for loose sweets on 7 November 2023; shops may now show it only voluntarily.",
+      "For a parcel to another city, pick from the 30-day class (besan laddoo, chikki, gajak, Karachi halwa), not milk sweets."
+    ],
+    "faqs": [
+      {
+        "question": "Which Diwali sweets last the longest?",
+        "answer": "FSSAI's Guidance Note 14/2020 puts atta laddoo, besan laddoo, chana burfi, Karachi halwa, sohan halwa, gajak and chikki at about 30 days from the date of manufacture. Kaju katli, ghewar and balushahi sit in the 7-day class."
+      },
+      {
+        "question": "How long can I keep rasgulla and sandesh after buying them?",
+        "answer": "FSSAI's illustrative list says Bengali and milk sweets such as rasgulla, sandesh, cham cham and ras malai should be refrigerated and eaten within 2 days of manufacture. The clock starts when they were made, not when you bought them, so ask the shop."
+      },
+      {
+        "question": "How do I test khoya for adulteration at home?",
+        "answer": "FSSAI's DART book (Test 3, page 03) says to boil 2 to 3 ml of the sample with 5 ml of water, cool it and add 2 to 3 drops of tincture of iodine. A blue colour shows added starch; the test does not show freshness or microbial safety."
+      },
+      {
+        "question": "How can I tell if the silver varq on kaju katli is real?",
+        "answer": "DART Test 10 says to crush a scrap between two fingers: silver crumbles to powder, aluminium breaks into shreds. Burnt in a ball, pure silver leaves glistening balls while aluminium turns to grey ash."
+      },
+      {
+        "question": "Is silver varq made with animal products?",
+        "answer": "FSSAI's silver leaf standard, notified on 19 July 2016 and in force from 1 August 2017, says food-grade leaf must not be made using any material of animal origin at any stage. You cannot check that by looking, so ask the shop or skip the varq."
+      },
+      {
+        "question": "Do sweet shops have to show a best-before date on loose mithai?",
+        "answer": "Not any more. FSSAI made it mandatory through directions dated 25 September 2020, then withdrew them on 7 November 2023, so a best-before date on loose sweet trays is now voluntary."
+      },
+      {
+        "question": "Which Diwali sweets are safe to courier to another city?",
+        "answer": "Choose from FSSAI's 30-day class: besan laddoo, atta laddoo, chikki, gajak, Karachi halwa or sohan halwa. Kalakand is a same-day sweet and Bengali sweets have a 2-day refrigerated window, so neither suits a parcel."
+      },
+      {
+        "question": "How much colour is allowed in Indian sweets?",
+        "answer": "A 2023 review of Indian food colorant rules states that FSSAI caps synthetic colours at 100 ppm in the final food. Dyes such as metanil yellow and rhodamine B are not permitted at all, and there is no reliable kitchen test for them."
+      },
+      {
+        "question": "What sweets are made for Diwali in different parts of India?",
+        "answer": "Peda, boondi laddoo and gujiya are common in the north, rasgulla and sandesh in Bengal, ghewar, mohanthal and karanji in the west, and Mysore pak, adhirasam and badusha in the south. Kaju katli, besan laddoo and chikki travel across every region."
+      },
+      {
+        "question": "Where can I complain about adulterated sweets?",
+        "answer": "FSSAI's Guidance Note 14/2020 lists its consumer grievance channels, including the Food Safety Connect portal and app. That list dates from February 2020, so check fssai.gov.in for the current routes before you file."
+      },
+      {
+        "question": "Does SubhSandesh have a Diwali card with mithai in it?",
+        "answer": "Yes. The /happy-diwali page ends on a box of mithai and a Shubh Deepavali card where you set the recipient's favourite sweet, after diyas, a rangoli with your initials and a letter in a shagun liffafa. It is a greeting for one person, not food or delivery."
+      }
+    ],
+    "coverImageQuery": "diwali mithai box kaju katli laddoo",
+    "coverImagePrompt": "A warm, photorealistic overhead shot of an open Diwali mithai box on a wooden table: kaju katli with silver varq, besan laddoo, rasgulla in a small bowl and a slice of ghewar, with two lit clay diyas beside it. Soft golden evening light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Diwali Sweets: A Regional Mithai List and FSSAI's Purity Checks\n\nDiwali sweets fall into three families, and the family decides how long a box lasts: milk sweets made from khoya or chhena, flour-and-ghee sweets such as boondi laddoo and gujiya, and dry sweets built on nuts, jaggery or sugar. FSSAI's own guidance puts kalakand at the same day, rasgulla and sandesh at 2 days in a fridge, peda and boondi laddoo at 4 days, kaju katli at 7 and besan laddoo or chikki at about 30.\n\nTwo home checks in FSSAI's DART book cover the riskiest parts of a mithai box: iodine for starch in khoya, and crush-and-burn for fake silver varq. One rule many buyers still quote no longer holds: since 7 November 2023, a best-before date on loose sweets is voluntary. Diwali 2027 falls on Friday 29 October.\n\n## What counts as a Diwali sweet, and why the base ingredient matters\n\nA Diwali sweet, or mithai, is any sweet made to share across the five days from Dhanteras to Bhai Dooj, and it is best defined by its base: milk solids, a cereal or pulse flour, or nuts and sweetener. The base decides how fast it spoils and which adulterant is worth checking for.\n\nFSSAI's [Guidance Note No. 14/2020 on traditional milk products](https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf) (24 February 2020) uses the same split: milk sweets such as peda, burfi and rasgulla; cereal, starch or grain sweets such as boondi laddoo, jalebi and soan papdi; and sweet snacks such as chikki and gajak. It says sweets with milk products last only 1 to 4 days and are the most prone to microbial growth. The note states that it \"does not have any force of law\", so read it as the regulator's advice, not a rule a shop must follow.\n\n## Diwali sweets list by region, with main ingredient and shelf life\n\nThe table compares five regional groups of Diwali mithai by main ingredient and keeping time. Shelf life comes from FSSAI's illustrative list where it names the sweet; anything marked EST is our own estimate from the closest listed sweet, not an FSSAI figure.\n\n| Region | Diwali sweets | Main ingredient | Shelf life |\n|---|---|---|---|\n| North (Uttar Pradesh, Punjab, Delhi) | Mathura peda, boondi laddoo, gujiya | Khoya; besan boondi in syrup; maida shell, khoya filling | Peda and boondi laddoo 4 days; maida gujia 7 days (FSSAI) |\n| East (West Bengal, Odisha) | Rasgulla, sandesh, cham cham, chhena poda | Chhena and sugar | 2 days, refrigerated (FSSAI); chhena poda 2 days, refrigerated (EST) |\n| West (Rajasthan, Gujarat, Maharashtra) | Ghewar, mohanthal, karanji, shrikhand | Maida and ghee; besan and ghee; coconut filling; strained curd | Ghewar 7 days (FSSAI); mohanthal 7 days, karanji 7 days, shrikhand 2 days refrigerated (EST) |\n| South (Karnataka, Tamil Nadu, Andhra Pradesh) | Mysore pak, adhirasam, badusha | Besan, ghee and sugar; rice flour and jaggery; fried maida in syrup | Badusha, listed as balushahi, 7 days (FSSAI); Mysore pak and adhirasam 7 days (EST) |\n| Pan-India dry sweets | Kaju katli, besan laddoo, chikki, gajak, Karachi halwa | Cashew; gram flour and ghee; jaggery with peanuts or sesame | Kaju katli 7 days; the rest about 30 days (FSSAI) |\n\nThe more water and fresh milk in a sweet, the shorter its life. A Bengali box bought on Dhanteras, 27 October 2027, is past FSSAI's 2-day line by Lakshmi Puja on the 29th, while besan laddoo bought the same day is still inside its window at Bhai Dooj.\n\n## How long each kind of mithai keeps, by FSSAI's five classes\n\nThe guidance note sorts sweets into five shelf-life classes, counted from the date of manufacture rather than the day you bought the box. The clock starts at the halwai's stove, and a shop is no longer obliged to print that date.\n\n- **Same day, room temperature:** kalakand and its butterscotch, rose and chocolate variants.\n- **2 days, refrigerated:** rasgulla, ras malai, rajbhog, cham cham, sandesh, malai roll, kheer mohan.\n- **4 days:** milk cake, Mathura peda, plain and coconut burfi, boondi laddoo, motichoor modak.\n- **7 days:** kaju katli, dry-fruit laddoo, ghewar, balushahi, chandrakala, besan burfi.\n- **About 30 days:** atta laddoo, besan laddoo, chana burfi, Karachi halwa, sohan halwa, gajak, chikki.\n\n## How to check Diwali sweets for purity at home\n\nFSSAI's [DART book, \"Detect Adulteration with Rapid Test\"](https://stg-old.fssai.gov.in/upload/knowledge_hub/1878035b34b558a3b48DART%20Book.pdf) (41 pages, file dated January 2024) is the regulator's illustrated home-testing manual. Two of its tests apply to a mithai box, and the guidance note adds two checks that need no chemicals.\n\n### 1. Starch in khoya, chhena or paneer: the iodine test\n\nTest 3 on page 03 of the DART book covers khoya, chhena and paneer. Boil 2 to 3 ml of the sample with 5 ml of water, cool it, and add 2 to 3 drops of tincture of iodine; a blue colour means added starch. The book gives this test for the raw milk product, so it is most useful on khoya you buy to make peda or gujiya at home.\n\n### 2. Aluminium in silver varq: crush, then burn\n\nTest 10 on page 09 covers the silver leaf on kaju katli and barfi. Rub a scrap between two fingers: real silver crumbles to powder, while aluminium breaks into smaller shreds. Then roll a piece into a ball and burn it; pure silver burns away leaving glistening balls, and aluminium is reduced to grey ash.\n\n### 3. Look, smell and texture against FSSAI's quality table\n\nThe guidance note's quality table describes 17 milk products by flavour, body and colour. Cow-milk khoya should be pale yellow with a tinge of brown, buffalo-milk khoya white with a slightly greasy surface, and peda, burfi and kalakand free of burnt particles. Rasgulla should be white, spongy and without a hard centre.\n\n### 4. Read the tray before you buy\n\nFor loose sweets, the 2020 note asks the tray to say whether oil, ghee or vanaspati was used, and the shop to display its FSSAI licence or registration prominently. A shop that cannot name the fat or the making date has told you something anyway.\n\n## Silver varq and colour: the FSSAI limits behind the tests\n\nFSSAI's [gazette notification on silver leaf (chandi-ka-warq)](https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Silver_Leaf_19_07_2016.pdf), dated 19 July 2016 and in force from 1 August 2017, sets the standard for food-grade leaf. It must be a sheet of uniform thickness without creases or folds, weigh up to 2.8 g per square metre, carry silver of at least 999/1000 fineness, and use no material of animal origin at any stage.\n\nThe swap is real. A review in the Indian Journal of Medical Research, [V. Siruguri, \"Journey from food toxins to food safety\"](https://europepmc.org/article/PMC/PMC6366254) (November 2018), lists \"use of aluminium foil in place of silver foil on sweets\" among important adulterants identified in India, alongside coal tar dyes in confectionery. If you would rather not test, ask for the same sweet without varq.\n\nColour is capped, not banned. [Varghese and Ramamoorthy, \"Status of food colorants in India\"](https://europepmc.org/article/PMC/PMC10009361) (13 March 2023) states that under FSSAI regulations synthetic colours must not exceed 100 ppm in the final food, and cites Indian studies that detected non-permitted dyes such as rhodamine B and metanil yellow.\n\nThere is no kitchen test for this: the guidance note's coal tar dye check needs dilute sulphuric or concentrated hydrochloric acid. A fluorescent orange jalebi, or a burfi that stains your fingers, is a reason to buy the plain version.\n\n## The best-before rule for loose sweets changed in November 2023\n\nDirections FSSAI issued on 25 September 2020 made a best-before date mandatory on the containers and trays of loose sweets. FSSAI's [letter of 7 November 2023](https://www.fssai.gov.in/upload/advisories/2023/11/654b5a8a34050Letter%20for%20best%20before%20date%20in%20case%20of%20sweets.pdf) withdrew them \"till further decision\", because the labelling regulations they mirrored had been replaced by the Labelling and Display Regulations, 2020. Shops may still show the date, on a voluntary basis.\n\nThis post found no later order reinstating it when checked in October 2026. So ask when the batch was made and count forward using the five classes, rather than looking for a label that may legally be absent.\n\nKeep the risk in proportion. FSSAI's festive-season pilot survey, run from 15 October to 7 November 2019, tested 1,041 milk-product samples from 11 districts of Delhi-NCR and found predominantly quality and hygiene problems rather than safety issues, more often in loose samples than packed ones.\n\n## Sending sweets to someone who is not at home this Diwali\n\nDistance changes the list. Kalakand cannot travel and Bengali sweets have a 2-day window, so for family in another city the parcel that survives is the 30-day class: besan laddoo, chikki, gajak or Karachi halwa.\n\nA greeting can sit alongside the box. SubhSandesh's [interactive Diwali card that ends with a mithai box](https://subhsandesh.in/happy-diwali) lets one person light a diya at their door, colour a rangoli with your initials and open a letter from a shagun liffafa, finishing on a Shubh Deepavali card where you set their favourite sweet; it takes about 5 minutes and opens in any browser with no app.\n\nOn our platform, 48.3% of shared pages are opened on a phone and the average page records 11.1 views. We have no Diwali data yet; our nearest festival analogue, Raksha Bandhan 2026 (n = 89), shows 49.4% of pages were built on the festival day itself, a head start a link can skip and a parcel of laddoos cannot.\n\n## When these checks are not enough, and where SubhSandesh does not help\n\nThe DART tests only screen. A clean iodine result shows no starch, not that the khoya is fresh or free of microbes, and FSSAI's guidance note carries no legal force. If a sweet tastes sour, smells off or made someone ill, stop eating it and report it through the Food Safety Connect channels listed in the 2020 note.\n\nSubhSandesh cannot help with any of that. It is a greeting page for one person, not a sweets shop, a delivery service or a testing tool, and it carries no food. If someone far away would rather have a [miss-you page that counts down to your next visit](https://subhsandesh.in/missyou-gf) than a Diwali card, that one runs all year.\n\n## Sources\n\n- FSSAI, [Guidance Note No. 14/2020, traditional milk products](https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf), 24 February 2020.\n- FSSAI, [DART book](https://stg-old.fssai.gov.in/upload/knowledge_hub/1878035b34b558a3b48DART%20Book.pdf), file dated January 2024.\n- FSSAI, [Silver leaf gazette notification](https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Silver_Leaf_19_07_2016.pdf), 19 July 2016.\n- FSSAI, [Best-before directions for loose sweets withdrawn](https://www.fssai.gov.in/upload/advisories/2023/11/654b5a8a34050Letter%20for%20best%20before%20date%20in%20case%20of%20sweets.pdf), 7 November 2023.\n- Siruguri V., [Journey from food toxins to food safety](https://europepmc.org/article/PMC/PMC6366254), Indian Journal of Medical Research, November 2018.\n- Varghese R., Ramamoorthy S., [Status of food colorants in India](https://europepmc.org/article/PMC/PMC10009361), Journal of Consumer Protection and Food Safety, 13 March 2023.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/diwali-sweets#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Mithai",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mithai",
+              "https://www.wikidata.org/wiki/Q63973728"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Food Safety and Standards Authority of India",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Food_Safety_and_Standards_Authority_of_India",
+              "https://www.wikidata.org/wiki/Q5465383"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Vark",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Vark",
+              "https://www.wikidata.org/wiki/Q2412378"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Khoa",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Khoa",
+              "https://www.wikidata.org/wiki/Q9017517"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Food adulteration",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Food_adulteration",
+              "https://www.wikidata.org/wiki/Q69849686"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Guidance Note No. 14/2020 on Safety and Quality of Traditional Milk Products",
+            "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf",
+            "datePublished": "2020-02-24",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Food Safety and Standards Authority of India"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DART: Detect Adulteration with Rapid Test",
+            "url": "https://stg-old.fssai.gov.in/upload/knowledge_hub/1878035b34b558a3b48DART%20Book.pdf",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Food Safety and Standards Authority of India"
+            }
+          },
+          {
+            "@type": "Legislation",
+            "name": "Gazette notification: Silver Leaf (Chandi-ka-warq) standard, FSS Fifth Amendment Regulations 2016",
+            "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Silver_Leaf_19_07_2016.pdf",
+            "datePublished": "2016-07-19",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Food Safety and Standards Authority of India"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Directions regarding display of Best Before date in case of non-packaged/loose sweets (withdrawal)",
+            "url": "https://www.fssai.gov.in/upload/advisories/2023/11/654b5a8a34050Letter%20for%20best%20before%20date%20in%20case%20of%20sweets.pdf",
+            "datePublished": "2023-11-07",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Food Safety and Standards Authority of India"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Journey from food toxins to food safety: Transition over a century in service of nation",
+            "url": "https://europepmc.org/article/PMC/PMC6366254",
+            "datePublished": "2018-11-01",
+            "author": {
+              "@type": "Person",
+              "name": "V. Siruguri"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "The Indian Journal of Medical Research"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Status of food colorants in India: conflicts and prospects",
+            "url": "https://europepmc.org/article/PMC/PMC10009361",
+            "datePublished": "2023-03-13",
+            "author": {
+              "@type": "Person",
+              "name": "Ressin Varghese"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Journal of Consumer Protection and Food Safety"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "How to check Diwali sweets for purity at home",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Starch in khoya, chhena or paneer: the iodine test",
+            "description": "DART Test 3, page 03: boil 2-3 ml with 5 ml water, cool, 2-3 drops iodine; blue means starch"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Aluminium in silver varq: crush, then burn",
+            "description": "DART Test 10, page 09: silver crumbles to powder and burns to glistening balls; aluminium shreds and leaves grey ash"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Look, smell and texture against FSSAI's quality table",
+            "description": "FSSAI quality table of 17 milk products: colour, body and flavour, no burnt particles"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Read the tray before you buy",
+            "description": "Tray should state oil, ghee or vanaspati; shop should display its FSSAI licence or registration"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "diwali sweets",
+    "angle": "Wins by being the only post in the India top 10 that pairs a regional Diwali mithai list with FSSAI's own shelf-life classes and the DART book's page-cited home tests for khoya and silver varq, and that reports FSSAI's 7 November 2023 withdrawal of mandatory best-before dates on loose sweets; SubhSandesh's 48.3% phone-open and Raksha Bandhan same-day-build data frame only the greeting section.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-diwali",
+      "https://subhsandesh.in/missyou-gf"
+    ],
+    "templateNote": "/missyou-gf chosen because the post's sending section is about family in another city who cannot share the box this Diwali.",
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Average views per created page: 11.1 — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf",
+        "stat": "Guidance Note No. 14/2020: milk sweets last 1-4 days; illustrative shelf-life list in five classes (kalakand same day; rasgulla, sandesh etc. 2 days refrigerated; peda, boondi laddoo, milk cake 4 days; kaju katli, ghewar, balushahi, maida gujia 7 days; besan laddoo, chikki, gajak, Karachi halwa about 30 days); quality table of 17 milk products; tray should state oil/ghee/vanaspati; 2019 Delhi-NCR survey of 1,041 samples (15 Oct-7 Nov 2019) found predominantly quality and hygiene issues, more in loose samples; coal tar dye test uses dil. H2SO4 or conc. HCl; states it has no force of law. Full text read 2026-10-22.",
+        "publishedDate": "2020-02-24"
+      },
+      {
+        "url": "https://stg-old.fssai.gov.in/upload/knowledge_hub/1878035b34b558a3b48DART%20Book.pdf",
+        "stat": "DART book: Test 3 (page 03) starch in milk products (khoya, chenna, paneer) - boil 2-3 ml sample with 5 ml water, cool, add 2-3 drops tincture of iodine, blue = starch; Test 10 (page 09) aluminium in silver leaves - silver crumbles to powder, aluminium breaks into shreds; burnt, silver leaves glistening balls, aluminium grey ash. Image PDF, pages read as rendered images 2026-10-22; file metadata dated 16 Jan 2024, no publication date printed."
+      },
+      {
+        "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Silver_Leaf_19_07_2016.pdf",
+        "stat": "Regulation 2.11.4 Silver leaf (chandi-ka-warq): uniform sheet free from creases and folds, weight up to 2.8 g/sq m, silver min 999/1000 fineness, no material of animal origin at any stage; in force on or after 1 August 2017. Read 2026-10-22.",
+        "publishedDate": "2016-07-19"
+      },
+      {
+        "url": "https://www.fssai.gov.in/upload/advisories/2023/11/654b5a8a34050Letter%20for%20best%20before%20date%20in%20case%20of%20sweets.pdf",
+        "stat": "FSSAI letter File No. RCD-01002/1/2021: directions of 25.09.2020 making 'Best Before' mandatory on containers/trays of loose sweets withdrawn till further decision; FBOs may declare it on a voluntary basis. Read 2026-10-22.",
+        "publishedDate": "2023-11-07"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC6366254",
+        "stat": "Siruguri V., Indian J Med Res 148(5), review (CC BY-NC-SA, cited and linked, not reproduced): lists 'use of aluminium foil in place of silver foil on sweets' and coal tar dyes in confectionery among important adulterants identified. Full text read.",
+        "publishedDate": "2018-11-01"
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10009361",
+        "stat": "Varghese R., Ramamoorthy S., J Consum Prot Food Saf 18(2): under FSSAI regulations synthetic food colorants should not exceed 100 ppm in foods; non-permitted colorants such as rhodamine B and metanil yellow detected in a variety of foods in Indian studies. Full text read (relevant sections).",
+        "publishedDate": "2023-03-13"
+      }
+    ],
+    "dateReference": {
+      "url": "https://www.drikpanchang.com/diwali/diwali-puja-calendar.html?year=2027",
+      "note": "Date reference only (verifier-exempt, not cited): Dhanteras Wed 27 Oct, Lakshmi Puja/Diwali Fri 29 Oct 2027, checked 2026-10-22."
+    },
+    "serp": {
+      "measured": "2026-10-22, Firecrawl search, location India, query 'diwali sweets'",
+      "top10": [
+        "1 indianhealthyrecipes.com recipe roundup (modified 9 Oct 2025; ~4,700 words incl. sidebar; recipes only)",
+        "2 youtube.com recipe video (12 Oct 2025) — judged from snippet",
+        "3 swadinstitute.com blog (undated; ~1,300 words; 10 sweets with recipes)",
+        "4 youtube.com recipe video (19 Oct 2025) — judged from snippet",
+        "5 milkmaid.in brand recipe page (undated; 29 recipes, mostly condensed-milk)",
+        "6 fnp.com blog (13 Oct 2025; competitor gift retailer; 10 sweets, links to its sweets shop)",
+        "7 youtube.com recipe video (14 Oct 2025)",
+        "8 vegrecipesofindia.com (16 Oct 2025; 403 on fetch, judged from snippet)",
+        "9 bbc.co.uk/food collection (UK fusion bakes)",
+        "10 cookwithmanali.com category page"
+      ],
+      "weak": "7 of 10 weak for this intent (videos, brand recipe pages, category pages, a gift retailer). None of the four fetched pages mentions FSSAI, adulteration, varq testing or shelf life by sweet (keyword counts 0 for fssai/adulter/shelf/varq on each)."
+    },
+    "structuralLimitations": [
+      "The DART book is served at stg-old.fssai.gov.in; the same path on www.fssai.gov.in returned an HTML shell, not the PDF, on 2026-10-22. It is an image-only PDF, so tests were read from rendered page images; page numbers are the book's printed numbers (03, 09).",
+      "FSSAI's shelf-life list is 'illustrative' and the note says it has no force of law; regional sweets it does not name (chhena poda, mohanthal, karanji, shrikhand, Mysore pak, adhirasam) carry EST values from the nearest listed class, labelled in the table.",
+      "The 2020 note's grievance channels (phone, WhatsApp) may be out of date; the post names only Food Safety Connect and the FAQ tells readers to check fssai.gov.in.",
+      "The five-class list in the body is a short selection of names from FSSAI's illustrative table, reworded; the full table is not reproduced.",
+      "No courier transit times were measured, so the post does not say how many days ahead to post sweets.",
+      "Task prompt said 'never cite pages ranking top 5'; none of the six sources ranks for the keyword. Searches used for the row: 3 Firecrawl (1 SERP, 2 FSSAI) + 2 WebSearch (FSSAI shelf-life note, silver leaf gazette)."
+    ],
+    "auditReport": {
+      "passed": [
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+          "why": "Three facts.md lines appear (48.3% phone opens, 11.1 views per page, Raksha Bandhan 2026 same-day build 49.4%, n = 89), but none sits in the first 150 words and none is about sweets: facts.md (measured 2026-09-24) holds no food, mithai or Diwali data, and BRIEF §3 bars implying Diwali usage. Forcing platform numbers into a sweets answer would mislead. Closes only if SubhSandesh measures something sweets-related (e.g. the favourite-sweet field on /happy-diwali after Diwali 2026)."
+        },
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The regional table's values come from FSSAI's Guidance Note 14/2020 or are labelled EST; SubhSandesh has no data on mithai. Closes only with a first-party measurement such as the favourite-sweet field on /happy-diwali, which has no data yet (template new as of 2026-10-22)."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to cite this over the five pages analysed: all five are recipe lists, and this is the only one giving FSSAI's own shelf-life class per sweet, the DART book's page-numbered tests for khoya and varq, and the November 2023 withdrawal of mandatory best-before dates. The first-party data does not touch sweets, the domain is far weaker than recipe sites and YouTube, and a recipe-intent searcher will still prefer them, so expect slow movement, if any."
+    },
+    "generatedAt": "2026-10-22T08:22:05.846Z"
+  }
+}

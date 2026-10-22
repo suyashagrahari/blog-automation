@@ -114,3 +114,29 @@ Search pattern used (phenomenon, not keyword): `giver recipient asymmetry though
 - Audit: 47 passed / 3 failed, disjoint, summing to the 50 checklist items. The three failures are the six-sentence
   opening paragraph (deliberate, to keep one liftable answer block), one H2 whose framing line carries no number of
   its own, and the absence of any Indian context statistic behind the fifty-contact premise.
+
+## 2026-10-22 upgrade
+
+- **Why:** SubhSandesh launched `/happy-diwali` after this draft was written. The Diwali b1 PLAN assigns this
+  post the keyword `diwali wishes with name` (variants: `diwali wishes with photo`, `diwali wishes with photo and
+  name`, `diwali greetings with name`). The draft is unpublished.
+- **Product claims:** taken only from `content/batches/2026-10-22-diwali-b1/template-spec.md` (the live page's own
+  CreativeWork, HowTo and FAQPage JSON-LD, fetched 2026-10-22). Includes both names, diya tag, wish diyas, rangoli
+  initials, sparkler word, up to 6 photos in sky lanterns, page-drawn crackers, shagun-liffafa letter, mithai box
+  and a 1080×1920 card, love/family/friend settings, YouTube or Diwali-favourite song, AI writing, about 5 minutes, private
+  link with no app or account. No price wording; no premium page mentioned.
+- **Links:** `/holi` and `/templates` removed. `/love-gf` moved from tier 3 to the single honest alternative, for a
+  partner message that is not about Diwali. `/happy-diwali` is linked once, after the tier and photo sections.
+  `templateUrls` = [happy-diwali, love-gf]. `/love-gf` also keeps the old batch's default one-of rule satisfied.
+- **Siblings checked:** `diwali-wishes-maker` (table compares maker types) and `diwali-card` (table compares card
+  types on cost, posting date and how each is kept). This post's table was rebuilt as recipient tier → format, name
+  placement and photo count, so it does not repeat either one.
+- **Dates (fact-check, not a citation):** Drik Panchang 2026 Diwali calendar (New Delhi), fetched 2026-10-22:
+  Dhanteras Fri 6 Nov, Kali Chaudas Sat 7 Nov, Narak Chaturdashi + Lakshmi Puja Sun 8 Nov, Govardhan Puja / Bali
+  Pratipada Tue 10 Nov, Bhai Dooj Wed 11 Nov 2026. The draft's "6–10 November" was wrong and is now 6–11 November. 2027
+  (from the b1 BRIEF): Dhanteras Wed 27 Oct, Lakshmi Puja Fri 29 Oct 2027. Same fix in `first-diwali-after-marriage`:
+  Padwa 9→10 Nov, Bhai Dooj 10→11 Nov, range 6–10→6–11 Nov. Nothing else in that file was changed.
+- **Unchanged on purpose:** the five sources, the 2026-08-19 `factsUsed` vintage (the legacy verifier failure was
+  left as it was) and the stale `/bouquet-gf` default. The unused love-gf views line was removed from `factsUsed`.
+- **Result:** body 1,790 words, 12 FAQs, 2 internal links. verify-batch: the factsUsed problem count on this slug
+  fell by 1. No new problems on either slug.

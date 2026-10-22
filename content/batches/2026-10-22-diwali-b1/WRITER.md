@@ -11,7 +11,7 @@ You write ONE SubhSandesh blog post for the keyword row given in your task promp
 2. Run skill Phases 0–7 for your row only. Phase 8 is run later by the orchestrator. Do not spawn agents.
 3. **The Diwali template link is mandatory**, with a descriptive anchor, placed after the section that earns it:
    - https://subhsandesh.in/happy-diwali
-   Mention SubhSandesh by name. Add exactly one `oneOfLinks` alternative (`verify.config.json`) that fits.
+   Mention SubhSandesh by name. Add exactly one `oneOfLinks` alternative (`verify.config.json`) that fits — no third template link (row 6 added /train-ticket; that breaks the rule).
    `batchMeta.templateUrls` = [happy-diwali, your alternative]. `batchMeta.categorySlug` = `indian-festivals`.
 4. Read your row's `siblings` and the 8 `oldDiwaliPosts` (H2s + FAQs). Reuse no line, no list item, no idea.
 5. Before finishing, run both from the repo root and fix your own lines until clean (ignore sibling slugs):
