@@ -1,0 +1,67 @@
+
+> blog-automation@0.1.0 keywords:suggest
+> node scripts/suggest.mjs दिवाली दीपावली दिवाली की शुभकामनाएं हैप्पी दिवाली दिवाली 2027 धनतेरस लक्ष्मी पूजा दिवाली शायरी दिवाली रंगोली दिवाली पर निबंध --geo in --hl hi --delay 150 --out content/keywords/2026-10-22-diwali-2027/ac-in-hi
+
+[keywords:suggest] ✓ content/keywords/2026-10-22-diwali-2027/ac-in-hi/autocomplete.csv
+[keywords:suggest]   480 calls (0 failed) · 3887 unique suggestions · geo=in hl=hi
+[keywords:suggest]   2422 are 4+ words · 641 carry a year · 401 name a language
+
+── Top 25 by cross-prefix demand ─────────────────────────────
+  34× rel= 600  diwali 2027 date in india
+  30× rel= 601  diwali 2027 date
+  20× rel= 601  diwali
+  20× rel= 601  diwali 2027
+  17× rel= 601  diwali 2027 mein kab hai
+  16× rel= 601  दिवाली की शुभकामनाएं शायरी
+  12× rel= 601  दिवाली की शुभकामनाएं फोटो
+  12× rel= 601  दिवाली की शुभकामनाएं संदेश
+  12× rel= 551  diwali 2027 date delhi
+  11× rel= 601  diwali 2027 india
+  10× rel= 601  dhanteras
+  10× rel= 601  दिवाली पर निबंध 10
+   8× rel= 600  दिवाली पर निबंध लिखें
+   7× rel= 601  dhanteras in 2025
+   7× rel= 601  दिवाली पर का निबंध
+   7× rel= 600  दिवाली 2027
+   7× rel= 552  दिवाली की शुभकामनाएं स्टेटस
+   5× rel= 601  diwali 2027 date and time
+   5× rel= 601  diwali 2027 gujarati calendar
+   5× rel= 601  diwali 2027 kab hai
+   5× rel= 601  diwali 2027 laxmi puja date
+   5× rel= 601  दिवाली की शुभकामनाएं अंग्रेजी में
+   5× rel= 600  office diwali rangoli
+   5× rel= 562  diwali 2027 date tamil nadu
+   5× rel= 561  diwali 2027 date october
+
+── Year-modified (check whether incumbents still say an old year) ──
+  · diwali 2027 date in india
+  · diwali 2027 date
+  · diwali 2027
+  · diwali 2027 mein kab hai
+  · diwali 2027 date delhi
+  · diwali 2027 india
+  · dhanteras in 2025
+  · दिवाली 2027
+  · diwali 2027 date and time
+  · diwali 2027 gujarati calendar
+  · diwali 2027 kab hai
+  · diwali 2027 laxmi puja date
+
+── Language variants people are actually typing ───────────────
+  · diwali 2027 gujarati calendar
+  · diwali 2027 date tamil nadu
+  · diwali shayari in hindi english
+  · why diwali is celebrated in tamil nadu
+  · shayari on diwali in punjabi
+  · दिवाली की शुभकामनाएं in marathi
+  · दिवाली पर निबंध in hindi
+  · happy diwali tamil
+  · diwali shubhkamnaye gujarati
+  · diwali par nibandh hindi english
+  · diwali in marathi
+  · diwali 2027 date in hindi
+  · diwali shayari for best friend in hindi
+  · happy diwali in hindi
+  · laxmi puja samagri list in hindi
+
+[keywords:suggest] ordinal demand, not search volume. Rank with it; never print it as a monthly figure.

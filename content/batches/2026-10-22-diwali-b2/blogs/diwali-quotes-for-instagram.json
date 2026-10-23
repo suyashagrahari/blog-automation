@@ -1,0 +1,351 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "Diwali Quotes for Instagram, Laid Out to Read on a Phone",
+    "slug": "diwali-quotes-for-instagram",
+    "excerpt": "20 original Diwali quotes written to be laid out as Instagram graphics, sorted by how much fits the frame, with the 1080 × 1440 canvas Instagram keeps uncropped, measured contrast for festive colour pairs, and alt text and caption rules from W3C guidance.",
+    "metaTitle": "Diwali Quotes for Instagram: 20 Originals Sized 1080×1440",
+    "metaDescription": "Diwali quotes for Instagram as graphics: 20 original lines, the 1080×1440 canvas Instagram keeps uncropped, 4.5:1 contrast checks and alt text for each.",
+    "keywords": "diwali quotes for instagram, diwali quote graphics, diwali instagram post size, diwali quotes in hindi for instagram, alt text for quote images",
+    "canonicalURL": "https://subhsandesh.in/blog/diwali-quotes-for-instagram",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "quotes",
+      "instagram",
+      "diwali 2027",
+      "design"
+    ],
+    "keyTakeaways": [
+      "Instagram keeps a 1080-pixel-wide photo uncropped between 1.91:1 and 3:4, so 1080 × 1440 is the tallest feed quote graphic (help centre, read 22 October 2026).",
+      "WCAG 2.2 asks for 4.5:1 contrast on text in images; saffron #FF9933 on white measures 2.13:1 and fails, maroon on cream measures 9.58:1.",
+      "The alt text for a quote image should be the quote itself, word for word, and the caption should repeat it as real text.",
+      "48.3% of views of SubhSandesh's shared pages happen on a phone, so check every quote graphic on one at arm's length.",
+      "20 original quotes here are grouped by fit: single line, two lines, three-slide carousel and Hindi with transliteration."
+    ],
+    "faqs": [
+      {
+        "question": "What size should a Diwali quote image be for Instagram?",
+        "answer": "1080 × 1440 pixels, a 3:4 ratio, is the tallest feed size Instagram keeps uncropped, according to its help centre as read in October 2026. Anything between 1.91:1 and 3:4 at 1080 pixels wide keeps its resolution; a Story uses a separate 1080 × 1920 canvas."
+      },
+      {
+        "question": "Is 4:5 still okay for an Instagram quote post?",
+        "answer": "Yes. A 1080 × 1350 image sits inside Instagram's supported range, so it posts uncropped. It simply gives the quote 90 fewer pixels of height than a 3:4 canvas."
+      },
+      {
+        "question": "How big should the text be on a quote graphic?",
+        "answer": "On a 1080-pixel-wide canvas, start at about 90 to 110 px for a single short line and 64 to 80 px for two lines. Those are our working figures; the real test is reading it on your phone at arm's length without zooming."
+      },
+      {
+        "question": "Which Diwali colours are readable for text?",
+        "answer": "Maroon on cream (9.58:1), gold on maroon (6.12:1) and white on near-black (17.40:1) all clear the WCAG 2.2 minimum of 4.5:1. Saffron on white (2.13:1) and gold on cream (1.56:1) fail even the 3:1 large-text floor."
+      },
+      {
+        "question": "What should I write in the alt text for a Diwali quote image?",
+        "answer": "Write the quote itself, word for word, as the W3C's images-of-text tutorial advises. Add a short description of the picture only if it adds meaning, and skip the font, colours and effects."
+      },
+      {
+        "question": "Should the quote also go in my caption?",
+        "answer": "Yes. Under WCAG 1.4.5, an image of text shown with the same words as real text meets the criterion, and on Instagram that real text is the caption. Put the quote on the first line and any hashtags after it."
+      },
+      {
+        "question": "Can I put a Hindi quote on an Instagram graphic?",
+        "answer": "Yes. Set the Devanagari about 10% larger than you would an English line, and put the Roman transliteration and English meaning in the caption. The five Hindi lines on this page are written to be used that way."
+      },
+      {
+        "question": "When should I post Diwali quotes in 2027?",
+        "answer": "Lakshmi Puja is Friday 29 October 2027, with Dhanteras on 27 October and Bhai Dooj on 31 October. Post lamp quotes on the evening of the 29th and make the graphics a day or two before."
+      },
+      {
+        "question": "Do I need to credit these quotes?",
+        "answer": "No. All 20 were written for this page rather than collected from other lists, so you can post them under your own name."
+      },
+      {
+        "question": "Can a SubhSandesh Diwali card go on my Instagram Story?",
+        "answer": "Its final Shubh Deepavali card can be saved as a 1080 × 1920 image, which is Story size. The full interactive page opens from a private link, so send that link to the one person it is meant for."
+      }
+    ],
+    "coverImageQuery": "diwali quote phone screen diya",
+    "coverImagePrompt": "A warm, photorealistic close-up of a hand holding a smartphone showing a simple maroon-and-cream Diwali quote graphic, with lit clay diyas softly blurred on a windowsill behind. Golden evening light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No readable text on the phone and no text anywhere except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# Diwali Quotes for Instagram, Laid Out to Read on a Phone\n\nThe Diwali quotes for Instagram that get read are short enough to sit large on a 1080 × 1440 pixel canvas, are set at a contrast of at least 4.5:1, and are repeated word for word in the alt text and caption. Below are 20 original quotes written to fit that method. Design for a phone: on SubhSandesh, 48.3% of shared pages are opened on a phone and 48.4% of views come from a touch device (measured 24 September 2026).\n\nCanvas sizes, lettering, alt text and timing for Diwali 2027 (Friday 29 October) follow the quotes. The last section says when a graphic is the wrong format.\n\n## What makes a Diwali quote work as an Instagram graphic?\n\nA Diwali quote graphic is an image of text: a festival line set over a colour or photo and posted as a picture. The W3C's [Understanding document for WCAG 1.4.5, Images of Text](https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html), names the catch in one line: people cannot alter how text looks in images.\n\nSo the quote must be legible without zooming, and the same words must also exist as real text. That is why these 20 quotes are grouped by how much fits the frame, not by mood.\n\n## 20 original Diwali quotes, sorted by how much fits the frame\n\nEvery line was written for this page. Each group gives a layout, a starting font size on a 1080-pixel-wide canvas and a margin, our working figures rather than an Instagram rule.\n\n### 1. Under ten words, for a single-line graphic\n\nSet one centred line on a plain background at about 90 to 110 px. Keep 100 px clear on every edge.\n\n- Darkness never wins against one stubborn wick.\n- Light the lamp you were waiting for.\n- Tonight even the balcony has a halo.\n- Every wick on this ledge was lit by hand.\n- Same lamps as last year, brighter people around them.\n\n### 2. Two lines, for a portrait feed post\n\nPut the first line in the upper third of a 3:4 canvas and the second in the lower third, at about 64 to 80 px. Break exactly at the slash; a quote split mid-thought reads as two claims.\n\n- We swept every corner for Lakshmi. / We left one lamp on for whoever gets home late.\n- The oil runs out by morning. / The warmth lasts until next Kartik.\n- Bring the old grudge to the doorstep. / Leave it where the rangoli ends.\n- The moon took the night off. / We hung forty small ones along the railing.\n- Not every light is loud. / Some just stay lit beside you all night.\n\n### 3. Three beats, for a carousel\n\nEach slash marks a new slide, one short line per slide at about 70 to 90 px. Keep every slide on the same canvas and margins so the text does not jump between swipes.\n\n- Before the lamps, the cleaning. / Before the sweets, the queue at the halwai. / Before the night, all of us, home at last.\n- The rangoli took four hours. / The dog crossed it in four seconds. / We kept the paw prints.\n- Thirteen diyas along the boundary wall. / One kept going out. / Nani said that one is still learning.\n- Dhanteras, something new. / Choti Diwali, something swept. / Lakshmi Puja, everything lit.\n- Last Diwali you were a video call. / This year you are lighting the lamp next to mine.\n\n### 4. Hindi lines, with transliteration and meaning\n\nDevanagari carries matras above and below the headline, so give it about 10% more size than English. Keep the transliteration and meaning for the caption.\n\n- दीया छोटा है, उजाला बड़ा। (Diya chhota hai, ujaala bada.) The lamp is small; its light is not.\n- अमावस की रात, फिर भी कोई कोना अँधेरा नहीं। (Amaavas ki raat, phir bhi koi kona andhera nahin.) A moonless night, yet not one corner is dark.\n- मिठाई बाँटो, हिसाब नहीं। (Mithai baanto, hisaab nahin.) Share the sweets, not the score.\n- जो दूर हैं, उनके नाम का भी एक दीया। (Jo door hain, unke naam ka bhi ek diya.) One lamp, too, in the name of those far away.\n- घर साफ़, मन हल्का, दरवाज़ा खुला। (Ghar saaf, man halka, darwaaza khula.) A clean house, a light heart, an open door.\n\n## The canvas sizes Instagram keeps uncropped, as of October 2026\n\nInstagram's [help page on image resolution](https://help.instagram.com/1631821640426723), read on 22 October 2026, says a photo between 320 and 1080 pixels wide keeps its original resolution when its aspect ratio sits between 1.91:1 and 3:4. At 1080 pixels wide that is a height of 566 to 1440 pixels; anything outside that range is cropped.\n\nSo the tallest feed graphic Instagram leaves alone is 1080 × 1440. Much advice still names 4:5 (1080 × 1350) as the limit; it posts uncropped too, but 3:4 gives a quote 90 more pixels.\n\nA Story is a separate 1080 × 1920 canvas, the size SubhSandesh's Diwali card saves at. We keep a 250 px band clear at the top and bottom for the profile name and reply bar, our working margin rather than an Instagram figure.\n\n## How big and how dark should the words be?\n\nWCAG 2.2, the [W3C Recommendation dated 12 December 2024](https://www.w3.org/TR/WCAG22/), asks for a contrast ratio of at least 4.5:1 for text and images of text, and 3:1 for large-scale text of at least 18 point or 14 point bold. It adds that extraordinarily thin strokes are harder to read at lower contrast, so avoid hairline scripts.\n\nFestive palettes often fail. We measured common Diwali pairs with the WCAG formula: maroon #7A1F1F on cream #FFF6E5 is 9.58:1, gold #F2C14E on that maroon is 6.12:1, and white on near-black #1A1A1A is 17.40:1. Saffron #FF9933 on white is 2.13:1 and gold on cream is 1.56:1, so both fail even the 3:1 large-text floor.\n\nSize matters as much as colour. A [2023 systematic review of 28 studies by Muhamad and Amali](https://europepmc.org/article/PMC/PMC10512131) found users preferred high luminance contrast and positive polarity, meaning dark text on a light background, and favoured larger fonts on smartphones but smaller ones on desktops and laptops.\n\nEven SubhSandesh's pages, which open in a browser rather than an app, get 48.3% of their views on a phone. Run three checks before posting.\n\n- Hold your phone at arm's length; if you need to zoom, the type is too small.\n- Run the two colours through a WCAG contrast checker; below 4.5:1, darken one of them.\n- Use a heavier weight for the main line, with decorative lettering on one word at most.\n\n## Alt text and caption: putting the quote into words twice\n\nThe W3C's [tutorial on images of text](https://www.w3.org/WAI/tutorials/images/textual/) says the text alternative for an image of text must contain the same text presented in the image. Decorative effects such as stylised lettering or shadows are not described.\n\nSo the alt text is the quote itself, plus a phrase about the picture only when it adds something: \"Light the lamp you were waiting for. Text over a single clay diya on a dark windowsill.\" Instagram lets you replace its automatic alt text with your own, before or after posting.\n\nThe WCAG 1.4.5 document adds that an image of text shown alongside the same words as real text meets the criterion. On Instagram that real text is your caption, so paste the quote as its first line, with any transliteration and meaning below.\n\n## Feed post, carousel, Story or a Diwali page: compared\n\nThe five formats differ in canvas, type size and where the words live as real text. Canvases come from Instagram's help page and SubhSandesh's template; type sizes are our working figures.\n\n| Format | Canvas | Starting font size | Where the quote also exists as real text |\n|---|---|---|---|\n| Single-line feed graphic | 1080 × 1440 px (3:4), uncropped | 90–110 px | Alt text and first caption line |\n| Two-line portrait post | 1080 × 1440 px or 1080 × 1350 px (4:5) | 64–80 px | Alt text and first caption line |\n| Carousel, one line per slide | 1080 × 1440 px on every slide | 70–90 px | Alt text per slide, full quote in caption |\n| Story graphic | 1080 × 1920 px, 250 px bands kept clear | 80–100 px | None; Stories have no caption |\n| SubhSandesh Diwali card | Ends on a card saved at 1080 × 1920 px | Set by the template | The whole page is browser text |\n\nThe takeaway: the 3:4 feed post gives a quote the most room Instagram allows without cropping. The caption then carries the words for everyone else.\n\n## When to post in 2027, and when a graphic is the wrong format\n\nDiwali 2027 runs from Dhanteras on Wednesday 27 October to Bhai Dooj on Sunday 31 October, with Lakshmi Puja on Friday 29 October. Post cleaning and shopping quotes on the 27th or 28th, and lamp lines on the evening of the 29th.\n\nMake the graphics early. SubhSandesh has no Diwali creation data yet, but in its Raksha Bandhan 2026 data, the nearest festival analogue and a small sample of n = 89 pages, 49.4% were built on the festival day itself.\n\nA public quote graphic speaks to everyone who follows you, which makes it the wrong place for a line meant for one person. For a parent in another city or a partner away this year, SubhSandesh's [interactive Diwali card with wish diyas and a liffafa letter](https://subhsandesh.in/happy-diwali) puts your words on a diya tag, a row of wish diyas and a letter in a shagun liffafa. It opens from a private link in any browser with no app or account, ending on a Shubh Deepavali card they can save at Story size.\n\nIt is a one-person greeting page, not a design tool, and a relative who rarely uses a smartphone is better served by the quote printed on a card in the mithai box. For a long quote, [The Last Piece photo jigsaw](https://subhsandesh.in/photo-puzzle) reveals one line of your letter per piece placed; it is not a Diwali template, but it beats a crowded graphic.\n\n## Sources\n\n- W3C, [Understanding SC 1.4.5: Images of Text](https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html), undated.\n- W3C, [WCAG 2.2](https://www.w3.org/TR/WCAG22/), Recommendation, 12 December 2024.\n- W3C WAI, [Images of Text tutorial](https://www.w3.org/WAI/tutorials/images/textual/), undated.\n- Instagram Help Centre, [Image resolution of photos you share on Instagram](https://help.instagram.com/1631821640426723), undated.\n- Muhamad and Amali, [Digital Display Preference of Electronic Gadgets for Visual Comfort](https://europepmc.org/article/PMC/PMC10512131), Iranian Journal of Public Health, August 2023.\n",
+    "readingTime": 8,
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/diwali-quotes-for-instagram#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Organization",
+            "name": "Instagram",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Instagram",
+              "https://www.wikidata.org/wiki/Q209330"
+            ]
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Web Content Accessibility Guidelines",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines",
+              "https://www.wikidata.org/wiki/Q5364439"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "name": "World Wide Web Consortium",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/World_Wide_Web_Consortium",
+              "https://www.wikidata.org/wiki/Q37033"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Alt attribute",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Alt_attribute",
+              "https://www.wikidata.org/wiki/Q1067764"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Understanding SC 1.4.5: Images of Text (WCAG 2.2)",
+            "url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html",
+            "publisher": {
+              "@type": "Organization",
+              "name": "W3C Web Accessibility Initiative"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "url": "https://www.w3.org/TR/WCAG22/",
+            "datePublished": "2024-12-12",
+            "publisher": {
+              "@type": "Organization",
+              "name": "World Wide Web Consortium"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Images of Text — Images Tutorial",
+            "url": "https://www.w3.org/WAI/tutorials/images/textual/",
+            "publisher": {
+              "@type": "Organization",
+              "name": "W3C Web Accessibility Initiative"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Image resolution of photos you share on Instagram",
+            "url": "https://help.instagram.com/1631821640426723",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Instagram"
+            }
+          },
+          {
+            "@type": "ScholarlyArticle",
+            "name": "Digital Display Preference of Electronic Gadgets for Visual Comfort: A Systematic Review",
+            "url": "https://europepmc.org/article/PMC/PMC10512131",
+            "datePublished": "2023-08",
+            "author": {
+              "@type": "Person",
+              "name": "Nurulain Muhamad"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Iranian Journal of Public Health"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "20 original Diwali quotes for Instagram, grouped by how much fits the frame",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 4,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Under ten words, for a single-line graphic",
+            "description": "5 original English quotes under ten words; one centred line at about 90–110 px on a 1080-px-wide canvas, 100 px margins"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Two lines, for a portrait feed post",
+            "description": "5 original two-line quotes for a 3:4 portrait post (1080 × 1440); about 64–80 px, break at the slash"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Three beats, for a carousel",
+            "description": "5 original three-beat quotes, one line per carousel slide at about 70–90 px, same canvas and margins on every slide"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Hindi lines, with transliteration and meaning",
+            "description": "5 original Hindi lines in Devanagari with Roman transliteration and English meaning; about 10% larger than English, gloss in the caption"
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "diwali quotes for instagram",
+    "anchor": "diwali quotes for instagram",
+    "angle": "Wins by being the only post in the measured top 10 that treats Diwali quotes for Instagram as graphics to lay out: 20 original lines grouped by how much fits the frame, Instagram's current 1.91:1–3:4 uncropped range (1080 × 1440, not the older 4:5), measured WCAG contrast for festive colour pairs, and alt-text/caption rules from W3C, framed by SubhSandesh's 48.3% phone-view share.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-diwali",
+      "https://subhsandesh.in/photo-puzzle"
+    ],
+    "templateNote": "/photo-puzzle chosen because its pieces reveal a letter line by line, the one-person alternative for a quote too long for a graphic; the post says it is not a Diwali template.",
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "48.4% of views are on a touch device (phone or tablet) — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09"
+    ],
+    "sources": [
+      {
+        "url": "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html",
+        "stat": "In brief: people cannot alter how text looks in images. Note: where images of text are used in addition to text conveying the same information and both are presented, the criterion is met. W3C, undated living document, read 2026-10-22."
+      },
+      {
+        "url": "https://www.w3.org/TR/WCAG22/",
+        "stat": "SC 1.4.3: text and images of text need a contrast ratio of at least 4.5:1; large-scale text (at least 18 point or 14 point bold) at least 3:1. Definition note: fonts with extraordinarily thin strokes are harder to read, especially at lower contrast. W3C Recommendation 12 December 2024, read 2026-10-22.",
+        "publishedDate": "2024-12-12"
+      },
+      {
+        "url": "https://www.w3.org/WAI/tutorials/images/textual/",
+        "stat": "Where images of text must be used, the text alternative must contain the same text presented in the image; decorative effects (stylised text, shadow) are not described. Undated, read 2026-10-22."
+      },
+      {
+        "url": "https://help.instagram.com/1631821640426723",
+        "stat": "Photos 320–1080 px wide keep original resolution if the aspect ratio is between 1.91:1 and 3:4 (1080 px wide, 566–1440 px high); unsupported ratios are cropped; wider photos are sized down to 1080 px. Instagram Help Centre, undated, read 2026-10-22 via Firecrawl scrape."
+      },
+      {
+        "url": "https://europepmc.org/article/PMC/PMC10512131",
+        "stat": "Muhamad N., Amali N.A.N., Iran J Public Health 52(8):1565–1577 (CC BY-NC 4.0; cited, not reproduced). Systematic review, 28 studies (2010–2022): high luminance contrast, positive polarity and adequate colour preferred for visual comfort; larger fonts favoured on smartphones, smaller on desktops/laptops. Full text read via Europe PMC XML.",
+        "publishedDate": "2023-08"
+      }
+    ],
+    "serp": {
+      "measuredOn": "2026-10-22",
+      "tool": "Firecrawl search, location India (1 search) plus one WebSearch (US). 2 of 3 searches used.",
+      "top10": [
+        "1 adobe.com/in/express/discover/captions/diwali (design-tool caption page, competitor; undated; tone groups + 5-step 'adjust fonts, colours' tip, no sizes)",
+        "2 nestasia.in blog (3 Oct 2023; 403 on fetch, judged from snippet; 170+ captions & quotes)",
+        "3 pinterest.com ideas board (not fetched)",
+        "4 zoomin.com blog (photo-gift shop, competitor; undated; 15 Instagram + 15 Facebook captions with hashtags)",
+        "5 virgio.com blog (19 Oct 2024; 80+ captions by tone/gender, 10 hashtags)",
+        "6 bakingo.com blog (15 Oct 2025)",
+        "7 skillmatics.in blog (10 Oct 2024)",
+        "8 pinterest.com outfit captions board",
+        "9 instagram.com reel (20 Oct 2025)",
+        "10 cosmopolitan.com (8 Nov 2023)"
+      ],
+      "usSerpWebSearch": [
+        "nestasia.in",
+        "two scraped spam copies (erpstaging.fha.gov.ng, cmc.imexhs.com)",
+        "piktochart.com templates",
+        "shilpaahuja.com",
+        "simplified.com template",
+        "eduyush.com"
+      ],
+      "weakOf10": 8,
+      "weakNote": "Weak = stale 2023–2025 dates, image boards, a reel or a 403 page. None of the top 10 gives an image size, a contrast figure or alt-text guidance; all treat 'quotes' as captions.",
+      "cannibalisation": "7 of 10 URLs (adobe, nestasia, pinterest post-captions board, zoomin, virgio, bakingo, skillmatics) are shared with existing post diwali-captions' batchMeta.serp. Angle sharpened to quote GRAPHICS (layout, canvas, contrast, alt text) with no captions-by-photo-type or hashtag content."
+    },
+    "structuralLimitations": [
+      "Cannibalisation gate: 7 of 10 top URLs shared with diwali-captions (b1). Google treats this keyword as a captions query; the post targets the graphic-layout sub-intent and may still be read as near-duplicate intent by Google.",
+      "PLAN.json angle names 4:5 (1080×1350); Instagram's help centre (read 2026-10-22) now keeps up to 3:4 (1080×1440) uncropped. The post leads with 3:4 and keeps 4:5 as a still-valid option.",
+      "Type sizes (90–110 / 64–80 / 70–90 / 80–100 px) and the 250 px Story band are the writer's working figures, labelled as such in the body; Instagram publishes no text-size or Story safe-zone figure on the pages read.",
+      "Contrast ratios were computed by the writer with the WCAG 2.x relative-luminance formula for the stated hex pairs; they are measurements, not quoted from W3C.",
+      "The claim that Instagram lets users replace automatic alt text before or after posting is carried without a link; it was verified from help.instagram.com/503708446705527 by the b1 diwali-captions writer, not re-fetched here.",
+      "The Muhamad & Amali review is CC BY-NC; it is cited and paraphrased, nothing reproduced. Its smartphone font finding rests on a minority of the 28 studies (larger font preferred, n=2 studies).",
+      "The Story graphic row's 'Stories have no caption' is product observation, not from a fetched help page."
+    ],
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The comparison table's values come from Instagram's help centre, the WCAG 2.2 text rules, SubhSandesh's own Diwali template spec (the 1080 × 1920 saved card) and our working type sizes. No column is drawn from content/facts.md: facts.md (generated 2026-09-24, re-read 2026-10-22) has no Instagram, referrer or per-format measurement, and no Diwali data exists because /happy-diwali is new. Closes when the facts script records share-channel or Instagram-referred views, or after a Diwali 2026 measurement of the template."
+        },
+        {
+          "item": "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+          "why": "Instagram's image-resolution help page (help.instagram.com/1631821640426723) is about the platform, not about Diwali quotes, and could sit unchanged in sibling rows such as diwali-instagram-post-ideas or diwali-social-media-post-for-business. The W3C images-of-text pages and the display-legibility review are specific to quote graphics. Confirmed in practice: sibling diwali-shubhkamnaye-photo already cites the same URL (capcheck 2026-10-22: URL now at its cap of 2, help.instagram.com at 2 of 3 posts). Structural for an Instagram-sizing post: Instagram's own help centre is the only primary source for its crop range; closes only if a Diwali-specific primary source for image sizing exists."
+        }
+      ],
+      "honestAssessment": "An answer engine has a concrete reason to cite this over the five pages analysed: none of them gives Instagram's current uncropped range (1.91:1 to 3:4), a contrast figure or alt-text guidance, and this post pairs 20 original quotes with exactly those, plus measured WCAG ratios for festive colour pairs. Against that, 7 of 10 ranking URLs are shared with the existing diwali-captions post, Google reads the query as a captions list, the first-party data frames phone reading rather than measuring quote graphics, and the domain is far weaker than Adobe and the retail blogs, so expect slow movement, if any."
+    },
+    "generatedAt": "2026-10-22T15:20:47.181Z"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "kind": "blog-automation/batch-blog",
+  "version": 1,
+  "article": {
+    "title": "The Diwali Story, Told From the Texts It Comes From",
+    "slug": "diwali-story",
+    "excerpt": "Diwali has at least five origin stories: Rama, Lakshmi, Narakasura, Mahavira and Guru Hargobind. Each is retold here from a public-domain text with what that text actually says, plus a two-minute version for children and a short Hindi version.",
+    "metaTitle": "Diwali Story: Five Traditions, Each Read in Its Source",
+    "metaDescription": "The Diwali story is really five: Rama, Lakshmi, Narakasura, Mahavira and Guru Hargobind, each retold from its public-domain text, plus a 2-minute kid version.",
+    "keywords": "diwali story, what is diwali story, diwali story in english, diwali story in hindi, diwali origin story, diwali story for kids",
+    "canonicalURL": "https://subhsandesh.in/blog/diwali-story",
+    "ogType": "article",
+    "tags": [
+      "diwali",
+      "diwali story",
+      "ramayana",
+      "jainism",
+      "sikhism",
+      "festival stories"
+    ],
+    "keyTakeaways": [
+      "Diwali carries at least five origin stories: Rama's return, Lakshmi from the churned ocean, Krishna and Narakasura, Mahavira's nirvana and Guru Hargobind's release.",
+      "Of the five source texts read for this post, only the Jain account puts lamps inside the story itself; Griffith's Ramayana canto of Rama's return describes flowers and banners, not rows of diyas.",
+      "Ganguli's Mahabharata has Lakshmi rise from the ocean before Dhanwantari, and Macauliffe's 1909 account of Gwalior gives no count of kings and no Diwali date.",
+      "In 2027 the stories fall on Thursday 28 October (Narakasura), Friday 29 October (Rama, Lakshmi, Mahavira) and Saturday 30 October (Govardhan).",
+      "48.3% of SubhSandesh pages are opened on a phone, so the children's version is written to be read aloud from one in about two minutes."
+    ],
+    "faqs": [
+      {
+        "question": "Is there one true origin of Diwali?",
+        "answer": "No, there are at least five, kept by different communities on the same night. North Indian Hindus tell of Rama returning to Ayodhya after fourteen years of exile, many families honour Lakshmi rising from the churned ocean, much of South India marks Krishna's victory over Narakasura, Jains remember Mahavira's nirvana and Sikhs keep Bandi Chhor Divas for Guru Hargobind's release."
+      },
+      {
+        "question": "Is Diwali about Rama or about Lakshmi?",
+        "answer": "Both, depending on the household. Rama's homecoming is the story most North Indian families tell, while the evening puja on 29 October 2027 is offered to Lakshmi. Many families tell the Rama story and still worship Lakshmi the same night."
+      },
+      {
+        "question": "Does the Ramayana say Ayodhya was lit with diyas when Rama returned?",
+        "answer": "Not in Ralph Griffith's translation of Valmiki. Book VI, Canto CXXIX describes flowers, incense, music, garland-strewn roads and banners on towers, but no rows of lamps. The lamps are how later tradition remembered the homecoming."
+      },
+      {
+        "question": "Why do some South Indians celebrate Deepavali a day before North India?",
+        "answer": "Because their Deepavali morning follows Naraka Chaturdashi, the day tied to Krishna's victory over Narakasura. In 2027 that is Thursday 28 October, one day before Lakshmi Puja on Friday 29 October."
+      },
+      {
+        "question": "How do I explain Diwali to a five-year-old?",
+        "answer": "Keep it to one idea: on this dark night, different families remember someone brave who brought the light back. Then tell your own family's story first, in under two minutes, and let the child light one diya at the end."
+      },
+      {
+        "question": "What is a short Diwali story in Hindi?",
+        "answer": "Two lines cover the core: दीवाली पर राम चौदह साल बाद घर लौटे (Diwali par Ram chaudah saal baad ghar laute, Rama came home after fourteen years) and इसी रात महावीर स्वामी को निर्वाण मिला (Isi raat Mahavir Swami ko nirvan mila, on this night Mahavira attained nirvana)."
+      },
+      {
+        "question": "Did Guru Hargobind free exactly 52 kings?",
+        "answer": "The number 52 is the one Sikhs remember. Macauliffe's 1909 account of the release in Gwalior fort gives no count, and the phrase fifty-two Rajput kings appears only later in the same volume, in a speech looking back on it."
+      },
+      {
+        "question": "Did Diwali lamps start with Mahavira?",
+        "answer": "That is the Jain account. The Kalpa Sutra, as retold by Margaret Stevenson in 1915, says the kings present at Mahavira's death lit an illumination because the light of intelligence had gone. Stevenson also records a Digambara version with no illumination at all."
+      },
+      {
+        "question": "Where can I read the Ramayana and Mahabharata in English online?",
+        "answer": "Ralph Griffith's verse Ramayana is Project Gutenberg eBook 24869, and Kisari Mohan Ganguli's prose Mahabharata starts at eBook 15474. Both are 19th-century public-domain translations, so expect older English."
+      },
+      {
+        "question": "Is the Govardhan story part of Diwali?",
+        "answer": "It belongs to Govardhan Puja, the day after Lakshmi Puja, which falls on Saturday 30 October 2027. Krishna lifting the hill against Indra's storm is told then rather than on Diwali night."
+      },
+      {
+        "question": "Does SubhSandesh have a Diwali story template?",
+        "answer": "No. Its Happy Diwali page is a greeting card for one person, with wish diyas, a rangoli, sky lanterns and a letter. You can write one line of the story on each diya, but it is not an illustrated storybook."
+      }
+    ],
+    "coverImageQuery": "diwali diya family storytelling night",
+    "coverImagePrompt": "A warm, photorealistic scene of an Indian grandmother telling a story to two children on a balcony at dusk, a row of lit clay diyas along the railing. Soft golden light, shallow depth of field, clean negative space at the top for a title overlay, 16:9. No text except a small subtle \"subhsandesh.in\" watermark bottom-right.",
+    "contentMarkdown": "# The Diwali Story, Told From the Texts It Comes From\n\nThere is no single Diwali story: the festival carries at least five, and the one you grew up with depends on your family's tradition. North Indian Hindus remember Rama's return to Ayodhya, many households honour Lakshmi rising from the churned ocean, much of the south marks Krishna's victory over Narakasura, Jains remember Mahavira's nirvana, and Sikhs keep Bandi Chhor Divas for Guru Hargobind's release. If you are reading this aloud from a phone, you are typical: 48.3% of pages shared through SubhSandesh are opened on one (27,725 of 57,456 views, September 2026). Plans also run late: in Raksha Bandhan 2026, our nearest festival analogue, 49.4% of greeting pages were built on the day itself (n = 89), so the children's version below fits Diwali night. Each story is retold from a public-domain text, with what that text does and does not say.\n\n## What is the Diwali story?\n\nThe Diwali story is the set of origin legends that explain why lamps are lit on the new-moon night of Kartika. In 2027 that night is Friday 29 October, with Naraka Chaturdashi on Thursday 28 October and Govardhan Puja on Saturday 30 October.\n\nThe stories do not compete: a Jain family in Ahmedabad and a Sikh family in Amritsar light lamps on the same evening for different reasons, and dipavali, a row of lamps, is the image every version shares.\n\n## Five Diwali stories, each from the text it comes from\n\nEach retelling covers who keeps the story, what happens, which text it comes from, and one thing that text says differently. On 22 October 2026 none of the top five pages in India for this search named a chapter or translation, so each source here links to a public-domain copy.\n\n### 1. Rama comes home to Ayodhya\n\n**Who keeps it:** most Hindu families in North India. **The story:** after fourteen years of exile and the war against Ravana, Rama flies home in Ravana's captured aerial car with Sita, Lakshmana and their Vanar allies. His brother Bharat, who ruled only as caretaker, meets him and places Rama's sandals back on his feet.\n\n**The text:** Book VI, Canto CXXIX of [Ralph Griffith's verse translation of Valmiki's Ramayana (1870–74)](https://www.gutenberg.org/ebooks/24869). Bharat orders shrines decked with flowers, the road strewn with garlands, and banners on tower and gate. **What differs:** this canto describes no rows of lamps; the lamps are how later generations remembered the homecoming.\n\n### 2. Lakshmi rises from the churned ocean\n\n**Who keeps it:** households that worship Lakshmi on Diwali night. **The story:** gods and asuras churn the ocean for amrita, the nectar of immortality, with Mount Mandara as the rod and the serpent Vasuki as the rope, and treasures rise from the water.\n\n**The text:** Adi Parva, Section XVIII of [Kisari Mohan Ganguli's prose Mahabharata, Volume 1](https://www.gutenberg.org/ebooks/15474). The moon rises first, then \"Lakshmi dressed in white\", then the white horse and the Kaustubha gem, and only after them Dhanwantari with the vessel of nectar. **What differs:** Lakshmi appears before Dhanwantari, the physician honoured on Dhanteras, so the festival's order of days does not follow the order of the churning.\n\n### 3. Krishna defeats Narakasura\n\n**Who keeps it:** families across much of South India, where Deepavali morning falls on Naraka Chaturdashi, Thursday 28 October 2027. **The story:** Naraka, son of the Earth, rules from Pragjyotisha and has seized the jewelled earrings of Aditi, mother of the gods. Krishna fights his way in, kills the demon Mura, then kills Naraka and brings the earrings home.\n\n**The text:** Udyoga Parva, Section XLVIII of [Ganguli's Mahabharata, Volume 2](https://www.gutenberg.org/ebooks/15475), in a passage listing Krishna's deeds before the war. Naraka, it says, \"lay lifeless there, like a Karnikara tree uprooted by the wind\". **What differs:** the episode takes two short paragraphs, with no Satyabhama, no oil bath and no lamps.\n\n### 4. Mahavira's nirvana at Pava\n\n**Who keeps it:** Jains of both the Svetambara and Digambara traditions. **The story:** Mahavira, the 24th Tirthankara, died at Pava in the month of Kartika. His chief disciple Gautama, away on an errand that night, overcame his last attachment to his teacher and attained omniscience. The kings present lit lamps, saying that since the light of intelligence had gone, they would make an illumination of material things.\n\n**The text:** Margaret Sinclair Stevenson's [The Heart of Jainism (1915)](https://archive.org/details/heartofjainism00stevuoft), which retells the Kalpa Sutra account and notes Jain pilgrimages to Pavapuri at Divali. **What differs:** she also records a Digambara version with no audience and no illumination, in which Mahavira died quietly and alone.\n\n### 5. Guru Hargobind and the freed rajas\n\n**Who keeps it:** Sikhs, who observe Bandi Chhor Divas, the day of release, alongside Diwali. **The story:** Emperor Jahangir confined Guru Hargobind, the sixth Sikh Guru, in Gwalior fort with many deposed rajas. When his own release came, the Guru promised not to leave until they were freed; Jahangir released them on the Guru's surety, and the Guru had their fetters struck off.\n\n**The text:** Volume IV of [Max Arthur Macauliffe's The Sikh Religion (1909)](https://archive.org/details/sikhreligionitsg04unse), pages 22–27, which says the Guru \"is still remembered in Gualiar as Bandi Chhor Baba, the holy man who freed the prisoners\". **What differs:** this chapter gives no Diwali date and no count of kings; \"fifty-two Rajput kings\" appears only later in the volume.\n\n**Briefly: Govardhan.** Krishna lifting Govardhan hill against Indra's storm belongs to Govardhan Puja on Saturday 30 October 2027, not Diwali night, so it is only flagged here.\n\n## Which story belongs to which day of Diwali 2027?\n\nThis table sets each story against the 2027 calendar and its source text.\n\n| Story | Tradition | Day in 2027 | Source text (date) | Lamps in that text? |\n|---|---|---|---|---|\n| Krishna and Narakasura | Hindu, mostly South India | Thu 28 Oct | Ganguli, Mahabharata vol. 2 (1883–96) | No |\n| Rama's return | Hindu, mostly North India | Fri 29 Oct | Griffith, Ramayana (1870–74) | No rows of lamps in Canto CXXIX |\n| Lakshmi from the ocean | Hindu, across India | Fri 29 Oct | Ganguli, Mahabharata vol. 1 (1883–96) | No |\n| Mahavira's nirvana | Jain | Fri 29 Oct, new-moon night | Stevenson (1915), after the Kalpa Sutra | Yes, the kings' illumination |\n| Guru Hargobind's release | Sikh | Kept with Diwali | Macauliffe (1909) | No, and not dated to Diwali |\n\nOnly the Jain text puts lamps inside the story.\n\n## The Diwali story for kids, in about 200 words\n\nThis version keeps every tradition in and takes about two minutes aloud; move your family's story to the front.\n\n> Long ago, a prince named Rama had to live in the forest for fourteen years, with his wife Sita and his brother Lakshmana. A ten-headed king called Ravana carried Sita away to Lanka, and Rama, with Hanuman and an army of monkeys and bears, brought her back. When Rama flew home, the whole city came out with flowers, music and flags, and ever since, families light lamps to say welcome home.\n>\n> On the same dark night, other families remember other stories. Goddess Lakshmi rose out of a giant ocean the gods were churning, so people clean their homes and light lamps to welcome her. Krishna beat a bully king called Narakasura and gave back what he had stolen. Jains remember Lord Mahavira, a great teacher, whose friends lit lamps when he left the world. And Sikhs remember Guru Hargobind, who would not walk out of prison until the kings locked up with him were set free too.\n>\n> So when you light your diya, pick your story. Every one ends the same way: somebody brave brings the light back.\n\nFor the Diwali story in Hindi, two lines carry the core:\n\n- दीवाली पर राम चौदह साल बाद घर लौटे। (*Diwali par Ram chaudah saal baad ghar laute.*) On Diwali, Rama came home after fourteen years.\n- इसी रात महावीर स्वामी को निर्वाण मिला। (*Isi raat Mahavir Swami ko nirvan mila.*) On this night Mahavira attained nirvana.\n\n## Why your grandmother tells it differently from the books\n\nThe gap between a text and a family's telling is not a mistake on either side. Of the five texts above, three lack a detail most families tell: Griffith has banners rather than diyas, Ganguli's Naraka has no Satyabhama, and Macauliffe counts no kings. Those details arrived over centuries of retelling in regional languages and later Puranas.\n\nThe texts also disagree with each other: Stevenson's 1915 book carries two Jain accounts of Mahavira's death, one with lamps and one without, and calls the Jain reason for Divali a \"thin\" excuse, so trust her reporting over her judgements. When a child asks which story is true, the honest answer is that each community remembers its own night on the same Kartika new moon.\n\n## Telling the story to someone who isn't in the room\n\nIf a grandchild is in another city on 29 October, the story can travel with your greeting. SubhSandesh's [interactive Happy Diwali card](https://subhsandesh.in/happy-diwali) has a row of wish diyas, each lifting one line you write, plus a letter sealed in a red-and-gold shagun liffafa, so each diya can hold one line of the kid version. It takes about 5 minutes to make and opens in any phone browser with no app or account. Across the platform a shared page is viewed 11.1 times on average (September 2026), which suits a story a child asks to hear twice.\n\nFor a child who likes puzzles, [The Last Piece photo jigsaw](https://subhsandesh.in/photo-puzzle) reveals a line of a letter with each piece placed, so a family Diwali photo can unlock the story sentence by sentence. It is not a Diwali template, which is why it comes second.\n\n## When a greeting page is the wrong way to tell the Diwali story\n\nThe Diwali page is built for one person to receive wishes, not for a class of 30 to hear a story. It shows diyas, a rangoli, sky lanterns and a letter, not pictures of Rama or Mahavira, so a teacher or the parent of a toddler is better served reading the version above aloud.\n\nIf a grandparent tells the story better than any page could, a video call at diya-lighting time on Friday 29 October beats a link. And if a friend keeps Bandi Chhor Divas, ask which story their family tells first.\n\n## Sources\n\n- [Griffith, Ramayana of Valmiki (1870–74)](https://www.gutenberg.org/ebooks/24869), Gutenberg edition 18 March 2008: Book VI, Canto CXXIX.\n- [Ganguli, Mahabharata vol. 1](https://www.gutenberg.org/ebooks/15474), Gutenberg edition 26 March 2005: Adi Parva XVIII.\n- [Ganguli, Mahabharata vol. 2](https://www.gutenberg.org/ebooks/15475), Gutenberg edition 26 March 2005: Udyoga Parva XLVIII.\n- [Stevenson, The Heart of Jainism (1915)](https://archive.org/details/heartofjainism00stevuoft).\n- [Macauliffe, The Sikh Religion vol. IV (1909)](https://archive.org/details/sikhreligionitsg04unse): pages 22–27.",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "@id": "https://subhsandesh.in/blog/diwali-story#post",
+        "about": [
+          {
+            "@type": "Thing",
+            "name": "Diwali",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Diwali",
+              "https://www.wikidata.org/wiki/Q10244"
+            ]
+          }
+        ],
+        "mentions": [
+          {
+            "@type": "Person",
+            "name": "Rama",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Rama",
+              "https://www.wikidata.org/wiki/Q160213"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Lakshmi",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Lakshmi",
+              "https://www.wikidata.org/wiki/Q131443"
+            ]
+          },
+          {
+            "@type": "Thing",
+            "name": "Narakasura",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Narakasura",
+              "https://www.wikidata.org/wiki/Q3181891"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Mahavira",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Mahavira",
+              "https://www.wikidata.org/wiki/Q9422"
+            ]
+          },
+          {
+            "@type": "Person",
+            "name": "Guru Hargobind",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Guru_Hargobind",
+              "https://www.wikidata.org/wiki/Q381425"
+            ]
+          },
+          {
+            "@type": "Event",
+            "name": "Bandi Chhor Divas",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas",
+              "https://www.wikidata.org/wiki/Q4854576"
+            ]
+          }
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "The Rámáyan of Válmíki, translated into English verse by Ralph T. H. Griffith (Project Gutenberg #24869)",
+            "url": "https://www.gutenberg.org/ebooks/24869",
+            "datePublished": "2008-03-18",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Project Gutenberg"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1, translated by Kisari Mohan Ganguli (Project Gutenberg #15474)",
+            "url": "https://www.gutenberg.org/ebooks/15474",
+            "datePublished": "2005-03-26",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Project Gutenberg"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2, translated by Kisari Mohan Ganguli (Project Gutenberg #15475)",
+            "url": "https://www.gutenberg.org/ebooks/15475",
+            "datePublished": "2005-03-26",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Project Gutenberg"
+            }
+          },
+          {
+            "@type": "Book",
+            "name": "The Heart of Jainism",
+            "author": {
+              "@type": "Person",
+              "name": "Margaret Sinclair Stevenson"
+            },
+            "url": "https://archive.org/details/heartofjainism00stevuoft",
+            "datePublished": "1915"
+          },
+          {
+            "@type": "Book",
+            "name": "The Sikh Religion: Its Gurus, Sacred Writings and Authors, Volume IV",
+            "author": {
+              "@type": "Person",
+              "name": "Max Arthur Macauliffe"
+            },
+            "url": "https://archive.org/details/sikhreligionitsg04unse",
+            "datePublished": "1909",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Clarendon Press"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Five Diwali stories, each from the text it comes from",
+        "itemListOrder": "https://schema.org/ItemListUnordered",
+        "numberOfItems": 5,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Rama comes home to Ayodhya",
+            "description": "Hindu, North India. Source: Griffith's Ramayana, Book VI, Canto CXXIX. No rows of lamps in that canto."
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lakshmi rises from the churned ocean",
+            "description": "Hindu. Source: Ganguli's Mahabharata vol. 1, Adi Parva XVIII. Lakshmi rises before Dhanwantari."
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Krishna defeats Narakasura",
+            "description": "Hindu, South India; Naraka Chaturdashi 28 Oct 2027. Source: Ganguli's Mahabharata vol. 2, Udyoga Parva XLVIII."
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Mahavira's nirvana at Pava",
+            "description": "Jain. Source: Stevenson, The Heart of Jainism (1915). The kings' illumination; a Digambara version has none."
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Guru Hargobind and the freed rajas",
+            "description": "Sikh, Bandi Chhor Divas. Source: Macauliffe, The Sikh Religion vol. IV (1909), pp. 22–27."
+          }
+        ]
+      }
+    ]
+  },
+  "batchMeta": {
+    "keyword": "diwali story",
+    "angle": "Wins by being the only post that retells all five Diwali stories from the named public-domain texts they come from, with chapter and section, and says what each text leaves out (no lamp rows in Griffith's Ramayana canto, no count of kings in Macauliffe), framed for reading aloud on a phone where 48.3% of SubhSandesh pages are opened.",
+    "categorySlug": "indian-festivals",
+    "templateUrls": [
+      "https://subhsandesh.in/happy-diwali",
+      "https://subhsandesh.in/photo-puzzle"
+    ],
+    "factsUsed": [
+      "48.3% of shared pages are opened on a phone (27,725 of 57,456 views) — measured 2026-09-24",
+      "Raksha Bandhan 2026 lead time, both rakhi collections, n = 89 pages, IST calendar days: 49.4% built on the festival day itself, 27.0% the day before, 5.6% two to three days ahead, 6.7% four or more days ahead, 11.2% after it had passed; median lead time 0 days — measured 2026-09-09",
+      "Average views per created page: 11.1 — measured 2026-09-24"
+    ],
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/24869",
+        "stat": "Public-domain primary text. Griffith's verse translation of Valmiki's Ramayana (1870–74), Book VI, Canto CXXIX 'The Meeting With Bharat': Bharat orders shrines decked with flowers, incense, music, roads watered and strewn with garlands, banners on tower and gate; Rama arrives in Ravana's former car; Bharat returns Rama's shoes. No rows of lamps in the canto (the one 'burning lamps' mention is inside the palace in Canto CXXX). Fourteen years of exile stated in Book II.",
+        "publishedDate": "2008-03-18"
+      },
+      {
+        "url": "https://www.gutenberg.org/ebooks/15474",
+        "stat": "Public-domain primary text. Ganguli's Mahabharata vol. 1, Adi Parva Section XVIII: Mandara as churning staff, Vasuki as cord; after renewed churning the Moon emerges, 'Thereafter sprung forth Lakshmi dressed in white, then Soma, then the White Steed, and then the celestial gem Kaustubha'; then Dhanwantari with the white vessel of nectar.",
+        "publishedDate": "2005-03-26"
+      },
+      {
+        "url": "https://www.gutenberg.org/ebooks/15475",
+        "stat": "Public-domain primary text. Ganguli's Mahabharata vol. 2, Udyoga Parva Section XLVIII: Naraka, son of the Earth, kept Aditi's jewelled ear-rings at Pragjyotisha; Krishna slew six thousand Asuras at Nirmochana, slew Mura; 'Slain by Krishna, Naraka lay lifeless there, like a Karnikara tree uprooted by the wind'; ear-rings recovered.",
+        "publishedDate": "2005-03-26"
+      },
+      {
+        "url": "https://archive.org/details/heartofjainism00stevuoft",
+        "stat": "Scholarly public-domain work. Stevenson, The Heart of Jainism (1915), Life of Mahavira chapter (pp. 44–45): Gautama attained Kevala jnana on the night of Mahavira's death; the kings instituted an illumination, 'Since the light of intelligence is gone, let us make an illumination of material matter', which Jains claim as the origin of Divali; a Digambara version has 'neither hall, illumination, nor audience'; both sects visit Pavapuri at Divali. Religious-customs chapter (pp. 260–261) calls the excuse 'thin'.",
+        "publishedDate": "1915"
+      },
+      {
+        "url": "https://archive.org/details/sikhreligionitsg04unse",
+        "stat": "Scholarly public-domain work. Macauliffe, The Sikh Religion vol. IV (Clarendon Press, 1909), Life of Guru Har Gobind pp. 22–27: deposed rajas in Gualiar fort; Guru had clean clothes and better food supplied; promised not to leave until they were released; Jahangir freed them on the Guru's surety; fetters struck off; 'still remembered in Gualiar as Bandi Chhor Baba'. No count and no Diwali date in that chapter; 'fifty-two Rajput kings confined in the fortress of Gualiar' appears later in the volume (Guru Teg Bahadur chapter).",
+        "publishedDate": "1909"
+      }
+    ],
+    "serp": {
+      "query": "diwali story",
+      "measured": "2026-10-22",
+      "tool": "Firecrawl search, location India",
+      "top10": [
+        "trafalgar.com (travel brand explainer)",
+        "youtube.com (Dr Binocs Ramayana video)",
+        "artsandculture.google.com (Museum of Art & Photography story)",
+        "peekaabookids.com (kidswear shop blog)",
+        "kids.nationalgeographic.com",
+        "youtube.com (Kids Hut)",
+        "brandeis.edu (observance guide)",
+        "createdunwoody.org",
+        "en.wikipedia.org/wiki/Diwali",
+        "youtube.com (ChuChu TV Narakasura)"
+      ],
+      "weakInTop10": 6,
+      "weakNote": "Weak = video (3 YouTube), a shop blog (peekaabookids), a travel brand (trafalgar) and a small local non-profit page (createdunwoody). None of the top 5 names a chapter, section or translation for any story."
+    },
+    "auditReport": {
+      "passed": [
+        "At least 3 first-party facts appear, and at least 2 are in the first 150 words",
+        "The post contains at least one claim none of the top 5 pages make",
+        "The angle statement is honestly answerable: \"wins by being the only post that ___\"",
+        "No section closely mirrors a competitor page's structure or framing",
+        "Direct answer in the first 150 words, before any context-setting",
+        "Every H2 section answerable standalone in 2–3 sentences",
+        "Paragraphs 2–3 sentences throughout",
+        "At least one specific number, date, price or named source per H2 section",
+        "One comparison table with real values, 3–5 rows",
+        "FAQ with 8–12 naturally phrased questions",
+        "FAQs appear ONLY in article.faqs and the FAQPage JSON-LD, never in contentMarkdown",
+        "H2s map to the fan-out sub-queries identified in Phase 2",
+        "Target keyword in H1, metaTitle, slug, and first 100 words",
+        "metaTitle 50–60 characters, exact keyword in the first five words (hard cap 70)",
+        "metaTitle differs from the H1, uses one separator, and carries a differentiator no competitor could claim",
+        "No banned booster in metaTitle (Best, Top, Ultimate, Complete Guide, Everything You Need to Know)",
+        "No year-stamp on an evergreen title; no brand suffix; one keyword only",
+        "metaDescription 150–160 characters (hard cap 170)",
+        "metaDescription leads with the answer, carries the keyword near the start and at least one number, and has no CTA cliché",
+        "excerpt under 300 characters",
+        "Exactly one H1; no skipped heading levels",
+        "1,500–1,800 words in contentMarkdown excluding FAQs, no padding",
+        "Slug short, hyphenated, lowercase, no stop words",
+        "Slug is not already taken in Strapi",
+        "3–6 outbound links, all fetched and verified to contain the cited fact",
+        "Every outbound fact passes the \"would it stay without the link\" test",
+        "Zero competitor links",
+        "Wikipedia links: 0–2, entities only",
+        "2–4 internal links with descriptive anchor text, placed after value is established",
+        "Every internal link is a real URL from TEMPLATE_LINKS",
+        "At least 2 sources pass the **subject test** — about siblings / ritual / distance / the language / the platform behaviour, not merely about India or the internet",
+        "At least 1 of those is peer-reviewed or scholarly, and open-access",
+        "No source passes the **swap test** — none could sit unchanged in a different keyword's post in this batch",
+        "At most 1 generic context statistic (PIB / TRAI / Census / MEA)",
+        "No source URL appears in more than 2 posts in this batch; no domain in more than 3. **One exception: the date/festival reference** (e.g. a panchang for the festival date and muhurat). Every post in a festival batch may verify the same date — that is a fact-check, not a citation, and it has no cap. It only earns a place in `citation` where the post actually states the time; a post that merely mentions the date keeps it out of `sources` and `citation` entirely.",
+        "Any paywalled citation records that only the abstract was read",
+        "No figure, chart, table or substantial passage reproduced from a source",
+        "Sources list with publication dates, omitted where the source publishes none",
+        "At least one section naming a downside, limit, or case where SubhSandesh loses",
+        "keyTakeaways present, 3–5 bullets, each standalone with a number where possible",
+        "structuredData contains no type the renderer already builds, except an @id-matched enrichment block on <canonicalURL>#post",
+        "The enrichment block carries citation mirroring batchMeta.sources one-to-one, plus about and mentions",
+        "Every sameAs in about/mentions verified against the Wikipedia API with its Wikidata QID paired",
+        "An ItemList is present if the body ranks or numbers things, mirroring the H3s in the same order",
+        "No AggregateRating, Review or HowTo anywhere in structuredData",
+        "article.faqs drives the FAQPage the renderer builds, and matches it exactly",
+        "categorySlug matches a real Strapi category slug",
+        "templateUrls all exist in TEMPLATE_LINKS",
+        "Batch JSON validates against references/article-json-schema.md"
+      ],
+      "failed": [
+        {
+          "item": "At least one table column uses first-party data",
+          "why": "The table compares stories, traditions, 2027 days and source texts. No SubhSandesh data exists per Diwali story (the /happy-diwali template is new and BRIEF §3 forbids implying Diwali usage), so a first-party column would be invented. Closes only if a Diwali-segment probe is run after Diwali 2026."
+        }
+      ],
+      "honestAssessment": "An answer engine has a reason to cite this over the five pages analysed: it is the only one giving book, canto or section and a readable public-domain copy for each story, and it states checkable differences (no lamp rows in Griffith's Canto CXXIX, Lakshmi before Dhanwantari in Ganguli, no count of kings in Macauliffe) that none of them make. The first-party numbers are context about reading on phones, not about Diwali stories, and the domain competes with YouTube, National Geographic Kids and Google Arts & Culture, so expect months, not weeks."
+    },
+    "structuralLimitations": [
+      "Coordinator asked for texts different from diwali-essay: that post cites Jacobi's Kalpa Sutra (archive.org sbe22) for the Jain story; this post uses Stevenson's The Heart of Jainism (1915), which retells the same Kalpa Sutra passage, so the underlying primary passage is shared but the cited work and URL differ. Sikh story uses Macauliffe 1909, not BBC.",
+      "No peer-reviewed open-access paper was found on the Diwali stories themselves (findpapers.mjs queries: 'Diwali festival mythology Rama Lakshmi Jain Sikh', 'Bandi Chhor Divas Guru Hargobind Sikh Diwali', 'Mahavira nirvana Dipavali Jain festival' returned only paywalled book chapters and The Conversation pieces). BRIEF §5 allows public-domain primary texts for story posts; Stevenson (1915) and Macauliffe (1909) are counted as the scholarly works.",
+      "Stevenson writes as an outsider and is at times dismissive of Jain practice; the post uses her only for reported accounts and says so in the body.",
+      "Dates verified at drikpanchang 2027 Diwali calendar (date reference only, kept out of sources and citation): 28 Oct Narak Chaturdashi / Tamil Deepavali, 29 Oct Lakshmi Puja, 30 Oct Govardhan Puja.",
+      "Mahabharata dating '1883–96' in the table is the span of Ganguli's original serial publication; the Gutenberg editions carry 2005 release dates, which are used as publishedDate.",
+      "Brief framing checked: the task said siblings cite Vishnu Purana (Gutenberg #66208, archive.org india.history.resource.77336); this post cites neither."
+    ],
+    "generatedAt": "2026-10-22T08:34:54.620Z"
+  }
+}
