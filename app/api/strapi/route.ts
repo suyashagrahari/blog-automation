@@ -5,6 +5,7 @@ import type {
   TaxonomyItem,
   TemplateItem,
 } from "@/app/lib/types";
+import { selfCanonical, unwrapMarkdownUrls } from "@/app/lib/seoSanitize";
 
 // Publish a generated article to Strapi.
 //
@@ -287,12 +288,14 @@ function toStrapiData(a: GeneratedArticle, categoryId?: string, authorId?: strin
     seo: {
       metaTitle: a.metaTitle || a.title,
       metaDescription: a.metaDescription || a.excerpt,
-      canonicalURL: a.canonicalURL || undefined,
+      // Rebuilt on the slug being published: the model's own value has been
+      // markdown-wrapped, or named a longer slug than the one it returned.
+      canonicalURL: selfCanonical(a.canonicalURL, a.slug),
       keywords: a.keywords || undefined,
       ogType: a.ogType || "article",
       // Mirror the cover to the OG image so social shares get the same picture.
       metaImageUrl: a.coverImageUrl || undefined,
-      structuredData: a.structuredData?.length ? a.structuredData : undefined,
+      structuredData: a.structuredData?.length ? unwrapMarkdownUrls(a.structuredData) : undefined,
     },
     faqs: (a.faqs || []).map((f) => ({ question: f.question, answer: f.answer })),
   };

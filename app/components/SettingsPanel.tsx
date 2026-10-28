@@ -30,8 +30,16 @@ export default function SettingsPanel({
       const res = await fetch(`${base}/api/articles?pagination[pageSize]=1`, {
         headers: settings.strapiToken ? { Authorization: `Bearer ${settings.strapiToken}` } : {},
       });
-      if (res.ok) setTestState({ loading: false, ok: true, msg: "Connected ✓ Strapi is reachable." });
-      else setTestState({ loading: false, ok: false, msg: `Strapi responded ${res.status}. Check URL / token / public read.` });
+      if (res.ok && !settings.strapiToken) {
+        setTestState({ loading: false, ok: false, msg: "Strapi is reachable, but no API token is set — publishing will fail. Paste a full-access token." });
+      } else if (res.ok) {
+        setTestState({ loading: false, ok: true, msg: "Connected ✓ Strapi accepted the token." });
+      } else {
+        const body = await res.json().catch(() => null);
+        const reason = body?.error?.message ? ` (${body.error.message})` : "";
+        const hint = res.status === 401 ? " Create a new token in Strapi → Settings → API Tokens." : " Check URL / token.";
+        setTestState({ loading: false, ok: false, msg: `Strapi responded ${res.status}${reason}.${hint}` });
+      }
     } catch {
       setTestState({ loading: false, ok: false, msg: "Could not reach Strapi (CORS or wrong URL). It still works server-side at publish time." });
     }
